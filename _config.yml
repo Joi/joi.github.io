@@ -33,7 +33,7 @@ twitter_username: joi
 github_username:  joi
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
