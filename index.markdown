@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Testing index markdown
+This page is under construction.
