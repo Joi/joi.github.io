@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This page is under construction.
+This site is under construction and currently is only host my [recipes](cooking).
