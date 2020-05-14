@@ -32,7 +32,7 @@ twitter_username: joi
 github_username:  joi
 
 # Build settings
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 plugins: - jekyll-feed
 
 # Exclude from processing.
