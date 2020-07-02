@@ -17,7 +17,7 @@ th, td {
 </style>
 
 * * *
-#### Coffee weights and ratios  
+#### Coffee Weights and Ratios  
 
   
 | Item  | Weight | 
