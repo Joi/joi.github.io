@@ -57,5 +57,7 @@ plugins: - jekyll-feed
 #   - vendor/ruby/
 =======
 # theme: jekyll-theme-minimal
-
+collections:
+    - recipes:
+        output: true
 >>>>>>> 7556ded46143e7dd8c4a916f0a4f0bd20811db92
