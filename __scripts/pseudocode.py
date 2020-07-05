@@ -30,6 +30,7 @@ paths['paprika_jekyll'] = "/path/to/…"
 # Prepare a cleaner filename we'll want for the Markdown Ouput (no spaces, etc)
 
 # Open the file and un-gzip the string
+# (the individual recipe files contain JSON that's been GZIP'ed)
 
 # Decode the JSON into a Python data struct
 
