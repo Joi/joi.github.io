@@ -5,7 +5,7 @@
 ![](__project_design/RecipesServiceDiagram.png)
 
 ## To Do
-We will flesh out the architecture as we go, figuring out how scripts etc will live in Joi's computer.
+We will flesh out the architecture as we go, figuring out where scripts etc will live in Joi's computer.
 
 - [ ] Pseudo-code for Paprika export parser
 - [ ] Jekyll templates for rendering the site
