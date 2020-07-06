@@ -2,6 +2,6 @@
 layout: default
 ---
 <h3>{{ page.title }}</h3>
-<p>{{ page.date | date_to_long_string }}</p>
+<p>{{ page.date | date: '%B %d, %Y' }}</p>
 
 {{ content }}
