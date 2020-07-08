@@ -31,7 +31,7 @@ th, td {
 | Coffee Maker  | Water | Coffee Beans |
 | :--- | --- | --- |
 | Yama Cold Brew | 8 cups | 100 g |
-| Aeropress | 1.6 cups\* | 13 g |
+| Aeropress | 1.6 cups\* | 16 g |
 | Cuisinart | 10 cups | 64 g\*\* |
 
  \\
