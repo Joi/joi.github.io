@@ -14,13 +14,16 @@ I've also started to create some basic guides as references for my cooking.
 * [Common Ingredients by Volume and Mass](food/ingredients-volume-mass)
 * [Volume, Weight and Temperature Conversions](food/volume-weight-temp)
 
-{% for recipe in site.recipes %}
-    <h2><a href="{{ recipe.url }}">{{ recipe.url }}</a></h2>
-{% endfor %}
-
 <ul>
   {% for post in site.posts %}
     <li><a href="{{ post.url }}">{{post.date | date: '%B %d, %Y' }} - {{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<ul>
+  {% for recipe in site.recipes_md %}
+    <li><a href="{{ recipe.url }}">{{ recipe.url }}</a>
     </li>
   {% endfor %}
 </ul>
