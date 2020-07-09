@@ -23,9 +23,7 @@ markdown: kramdown
 title: Joi's GitHub Page
 email: joi@ito.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    An experimental website to play with Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.ito.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joi
@@ -57,5 +55,7 @@ theme: jekyll-theme-minimal
 
 # theme: jekyll-theme-minimal
 collections:
-    recipes:
+      recipes:
+        output: true
+      recipes_md:
         output: true
