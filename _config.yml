@@ -30,8 +30,18 @@ twitter_username: joi
 github_username:  joi
 
 # Build settings
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 # plugins: - jekyll-feed
+
+
+# theme: jekyll-theme-minimal
+collections:
+  recipes:
+    output: false
+    #permalink: /:collection/:name
+  recipes_md:
+    output: true
+    #permalink: /:collection/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,9 +63,3 @@ theme: jekyll-theme-minimal
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# theme: jekyll-theme-minimal
-collections:
-      recipes:
-        output: true
-      recipes_md:
-        output: true
