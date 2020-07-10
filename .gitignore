@@ -1,5 +1,6 @@
 .gitignore
 _site
+_data
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
@@ -8,3 +9,4 @@ vendor
 _recipes_md/
 .ipynb_checkpoints
 *.ipynb
+__scripts/.ipynb_checkpoints/ParsePaprika-checkpoint.ipynb
