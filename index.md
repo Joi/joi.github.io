@@ -27,10 +27,19 @@ I've also started to create some basic guides as references for my cooking.
 
 # For Recipe in Site.Recipes
 
-
-<ul>
+<ul class="recipes">
   {% for recipe in site.recipes_md %}
-    <li><a href="{{ recipe.url }}">{{ recipe.title }}</a></li>
+  	{% assign json_data = site.data.recipes[recipe.filename] %}
+    <li>
+    	<a href="{{ recipe.url }}">
+    	{% if json_data.photo_data %}
+    		<img style='width:100px;heigh:100px;' src='data:imge/jpeg;base64,{{json_data.photo_data}}' />
+    	{% else %}
+    		<img style='width:100px;heigh:100px;' src='/images/200x200.gif' />
+    	{% endif %}
+    	{{ recipe.title }}
+    	</a>
+    </li>
   {% endfor %}
 </ul>
 
