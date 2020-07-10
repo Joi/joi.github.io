@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spatchcocked Chicken
+tags: recipe
 ---
 ![Carved Roasted Chicken](/images/spatchcocked-carved.jpeg){:height="50%" width="50%"}
 

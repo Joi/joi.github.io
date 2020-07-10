@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Shrimp and Endive Salad
+tags: recipe
 ---
 ![Shrimp and Endive Salad](/images/shrimp-endive.jpeg)
 

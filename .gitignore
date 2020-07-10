@@ -4,6 +4,7 @@ _data
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.obsidian
 .DS_Store
 vendor
 _recipes_md/
