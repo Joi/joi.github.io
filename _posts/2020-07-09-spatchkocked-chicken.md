@@ -9,7 +9,7 @@ Inspired by both [The Food Lab](http://www.kenjilopezalt.com/) and [Salt Fat Aci
 I decided to mash the two recipes together into Joi's Oven Roasted Spatchcocked Chicken.
 ![Spatchcocked chicken](/images/spatchcocked.jpeg){:height="50%" width="50%"}
 
-The flattening or "spatchcocking" were described similarly in both books and involves cutting out the spine and saving it for stock in the future. Then pressing the bird down until it is flat.
+The flattening or "spatchcocking" was described similarly in both books and involves cutting out the spine and saving it for stock in the future. Then pressing the bird down until it is flat.
 
 I took the dry brining seriously as Nosrat pushes us to. I covered the chicken with a healthy amount of salt and pepper the day before. Per The Food Lab, I used my fingers to get under the chicken skin on the breast and salt and peppered under the skin as well. I put the bird on a rack and stuck it in the fridge overnight. I stuck the wing tips into the breast area to help it "splay" but cut the wing tips off and froze with the spine for the stock when I took the bird out for the cooking.
 
