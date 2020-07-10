@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: Spatchcocked Chicken
+layout: post
+title: Spatchcocked Chicken
 ---
 Inspired by both [The Food Lab](http://www.kenjilopezalt.com/) and [Salt Fat Acid Heat](https://www.saltfatacidheat.com/), I decided to make Spatchcocked Chicken which is described along with a recipe in both books.
 
