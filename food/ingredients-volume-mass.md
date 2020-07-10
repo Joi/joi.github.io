@@ -21,6 +21,9 @@ th, td {
 | --- | --- | --- |
 | Water | 1 cup = 16 tbsp | 8 oz (227 g) |
 | Eggs | Jumbo | 2.5 oz (71 g) |
+| Eggs | Extra Large | 2.25 ounces (64 g) |
+| Eggs | Large | 2 ounces (57 g) |
+| Eggs | Medium | 1.75 ounces (50 g) |
 | Eggs | Small | 1.5 oz (43 g) |
 | Bread Flour | 1 cup | 5.5 oz (156 g) |
 | Cake/Pastry Flour | 1 cup | 4.5 oz (128 g) |
