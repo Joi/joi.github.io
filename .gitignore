@@ -6,5 +6,5 @@ _site
 .DS_Store
 vendor
 _recipes_md/
-.ipynb_checkpoints/
-*-checkpoint.ipynb
+.ipynb_checkpoints
+*.ipynb
