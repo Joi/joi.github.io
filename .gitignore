@@ -11,3 +11,4 @@ _recipes_md/
 .ipynb_checkpoints
 *.ipynb
 __scripts/.ipynb_checkpoints/ParsePaprika-checkpoint.ipynb
+__scripts/RecipeTest.paprikarecipes
