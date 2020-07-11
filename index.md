@@ -46,3 +46,12 @@ I've also started to create some basic guides as references for my cooking.
 </ul>
 
 ---
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] | capitalize }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
