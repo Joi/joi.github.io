@@ -9,4 +9,4 @@ I have four 1½ lb lobsters today and after googling around I find a range of re
 
 There was one larger female with roe inside and it wasn't done at 11 min. I'm not sure if it was bigger or whether the eggs made it take longer but I had to steam it more. The other lobsters were on the rare side but OK. Maybe safter to do 12-13 min for 1½ lb lobsters. I think that it took a few min for the pot to heat up again after adding them - which might have an effect on the time... but we were using a very large lobster steaming pot.
 
-The roe is black when it's not cooked, but turns red and much tastier when cooked. I can't belive that many Americans call it "wax" and don't eat it.
+The roe is black when it's not cooked, but turns red and much tastier when cooked. I can't believe that many Americans call it "wax" and don't eat it.
