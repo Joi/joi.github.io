@@ -7,7 +7,7 @@ tags: recipe
 
 Inspired by both [The Food Lab](http://www.kenjilopezalt.com/) and [Salt Fat Acid Heat](https://www.saltfatacidheat.com/), I decided to make Spatchcocked Chicken which is described along with a recipe in both books.
 
-I decided to mash the two recipes together into Joi's Oven Roasted Spatchcocked Chicken.
+I decided to mash the two recipes together into [Joi's Oven Roasted Spatchcocked Chicken](/food/recipe_list/Recipes/Joi's%20Oven%20Roasted%20Spatchcocked%20Chicken.html).
 
 ![Spatchcocked Chicken](/images/spatchcocked.jpeg){:height="50%" width="50%"}
 
