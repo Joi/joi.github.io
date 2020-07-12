@@ -9,7 +9,7 @@ Inspired by both [The Food Lab](http://www.kenjilopezalt.com/) and [Salt Fat Aci
 
 I decided to mash the two recipes together into Joi's Oven Roasted Spatchcocked Chicken.
 
-![Spatchcocked chicken](/images/spatchcocked.jpeg){:height="50%" width="50%"}
+![Spatchcocked Chicken](/images/spatchcocked.jpeg){:height="50%" width="50%"}
 
 The flattening or "spatchcocking" was described similarly in both books and involves cutting out the spine and saving it for stock in the future. Then pressing the bird down until it is flat.
 
