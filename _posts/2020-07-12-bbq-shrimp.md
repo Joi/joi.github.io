@@ -37,4 +37,5 @@ Salt and pepper seasoned and stuck in the fridge this morning. Will just grill a
 ![BBQ Spread](/images/roast-first.jpeg){:height="50%" width="50%"}<br>
 _Tried low indirect heat first, brought steak to 115ºF then seared over direct heat to 125ºF. Got a nice "look" on the steak._
 
+I followed a recipe for the shrimp marinade and it turned out salty. I guess I need to season marinades to taste, but that's tricky...
 
