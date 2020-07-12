@@ -4,7 +4,7 @@ title: BBQ Shrimp, Burgers and Steak
 tags: recipe
 ---
 ![BBQ Spread](/images/2020-07-12-bbq-spread.jpeg){:height="50%" width="50%"}<br>
-_BBQ Spread_
+_BBQ Spread. The coffee maker just happened to be in the shot._
 
 Today's another BBQ day.
 
