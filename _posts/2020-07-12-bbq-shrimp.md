@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BBQ Shrimp, Burgers and Steak
+title: BBQ Shrimp, Burgers, Sausage and Steak
 tags: recipe
 ---
 ![BBQ Spread](/images/2020-07-12-bbq-spread.jpeg){:height="50%" width="50%"}<br>
@@ -29,6 +29,9 @@ Soak skewers so they don't burn. Towel-dry garlic, a and marinate with olive oil
 - 1 tbsp Wocestershire sauce
 - 1 3/4 tsp ground pepper
 - 1 1/2 tsp salt
+
+#### Sausage
+Sous Vide at 150ºF and grilled.
 
 #### Grilled Sirloin Steak
 Salt and pepper seasoned and stuck in the fridge this morning. Will just grill and serve with hot sauce and aioli sauce on the side.
