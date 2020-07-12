@@ -3,6 +3,9 @@ layout: post
 title: BBQ Shrimp, Burgers and Steak
 tags: recipe
 ---
+![BBQ Spread](/images/2020-07-12-bbq-spread.jpeg){:height="50%" width="50%"}<br>
+_BBQ Spread_
+
 Today's another BBQ day.
 
 Here's the current thinking on the recipes:
@@ -29,3 +32,9 @@ Soak skewers so they don't burn. Towel-dry garlic, a and marinate with olive oil
 
 #### Grilled Sirloin Steak
 Salt and pepper seasoned and stuck in the fridge this morning. Will just grill and serve with hot sauce and aioli sauce on the side.
+
+
+![BBQ Spread](/images/roast-first.jpeg){:height="50%" width="50%"}<br>
+_Tried low indirect heat first, brought steak to 115ºF then seared over direct heat to 125ºF. Got a nice "look" on the steak._
+
+
