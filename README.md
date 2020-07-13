@@ -12,7 +12,8 @@ We will flesh out the architecture as we go, figuring out where scripts etc will
 
 - [x] Pseudo-code for Paprika export parser
 - [x] Shell script to run parser, Jekyll build and Git commit
-- [ ] Figure out a process for getting Paprika exports into the right place for our parser.
+- [x] Figure out a process for getting Paprika exports into the right place for our parser.
+- [ ] Atomize the HTML parse
 - [ ] Test splicing recipe HTML into "Lab Notes" recipe posts from JSON
 - [ ] Jekyll templates for rendering the site
 
