@@ -51,6 +51,23 @@ Because we have all the data in the JSON dumps, including the recipe HTML (ingre
 
 For this reason, the Markdown created by the script will only generate stubs/placeholders for the generation of the Jekyll pages (which as mentioned will splice in data from the _data/ folder via the recipe.html layout template).
 
+## HTML
+Things to parse out more atomically _(right now I am just grabbing the whole body text more or less)_
+* Description
+* Ingredients
+* Directions
+* Nutritional Information
+* Notes
+
+To leave out (_because we have it in the data_)
+* Photo
+* Rating
+* Prep time
+* Cook time
+* Servings
+* Source
+* Categories
+
 ## "Lab Notes" Recipe posts
 By adding the filenames of any recipes mentioned in a post to its "front matter", we can also splice in whatever data from the recipes we want, as well as link to their pages.
 * Linked Mentions
