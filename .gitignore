@@ -13,3 +13,4 @@ _recipes_md/
 __scripts/.ipynb_checkpoints/ParsePaprika-checkpoint.ipynb
 __scripts/RecipeTest.paprikarecipes
 paprikarecipes_html/
+__scripts/data/
