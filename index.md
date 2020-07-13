@@ -34,8 +34,8 @@ I've also started to create some basic guides as references for my cooking.
   	{% assign json_data = site.data.recipes[recipe.filename] %}
     <li>
     	<a href="{{ recipe.url }}">
-    	{% if json_data.photo_data %}
-    		<img style='width:100px;heigh:100px;' src='data:imge/jpeg;base64,{{json_data.photo_data}}' />
+    	{% if json_data.photo %}
+    		<img style='width:100px;heigh:100px;' src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}" />
     	{% else %}
     		<img style='width:100px;heigh:100px;' src='/images/200x200.gif' />
     	{% endif %}
