@@ -17,6 +17,20 @@ We will flesh out the architecture as we go, figuring out where scripts etc will
 - [ ] Jekyll templates for rendering the site
 
 # Notes
+## Sources Directory
+Added a "data" directory. Should look like this:
+```
+./__scripts
+	└── ParsePaprika.ipynb
+	└── data
+			├── My\ Recipes
+			├── My\ Recipes.zip <-- HTML Paprika Export
+			├── My\ Recipes.paprikarecipes <-- Paprika Export
+			└── old
+ ```
+ 
+ **Note:** For now, please manually unzip the "My Recipes.zip" by double-clicking it. Python mucks up the file names and haven't quite figured out how to get around that yet.
+ 
 ## Photos
 1. Most but not all recipes have a photo attached from the source. 
 	- **Maybe Copyrighted**
@@ -29,6 +43,7 @@ Because we have all photos (sources' as smallish thumbs, and Joi's at reasonable
 
 ## Markdown recipes
 Because we have all the data in the JSON dumps, including the recipe HTML (ingredients, directions), we can render that into the Jekyll templates directly and manipulate layouts better than if we dump into Markdown.
+
 For this reason, the Markdown created by the script will only generate stubs/placeholders for the generation of the Jekyll pages (which as mentioned will splice in data from the _data/ folder via the recipe.html layout template).
 
 ## "Lab Notes" Recipe posts
