@@ -39,7 +39,12 @@ Added a "data" directory. Should look like this:
 	- ```d['photos'][0]['data']```
 	- ```__scripts/data/My Recipes/Images/```
 
-Because we have all photos (sources' as smallish thumbs, and Joi's at reasonable size) in the HTML export's /images folder, we can delete all the image data and hashes from the JSON dumps, and not include them in the Markdown, saving duplication and useless storage/transfer.
+Because we have all photos (sources' as smallish thumbs, and Joi's at reasonable size) in the HTML export's /Images folder, we can delete all the image data and hashes from the JSON dumps, and not include them in the Markdown, saving duplication and useless storage/transfer.
+
+The Python script now copies the /Images folder from the unzipped export over into the Jekyll root /images folder, where it is renamed "/recipes".
+
+That means on the published website, recipe images have URI like
+"```/images/recipes/foo/bar.jpg```"
 
 ## Markdown recipes
 Because we have all the data in the JSON dumps, including the recipe HTML (ingredients, directions), we can render that into the Jekyll templates directly and manipulate layouts better than if we dump into Markdown.
