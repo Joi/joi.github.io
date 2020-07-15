@@ -11,9 +11,9 @@ I looked at threee recipes and decided to dry brine over night but to add the sp
 
 I'm mashing up three receipts.
 
-- [Epicurious - Crown Roast of Lamb with Rosemary and Oregano](/recipes_md/2020-07-14-Crown-Roast-of-Lamb-with-Rosemary-and-Oregano---Epicurious)
-- [Food Network - Crown Roast of Lamb](/recipes_md/2020-07-08-Crown-Roast-of-Lamb---Food-Network)
-- [Thermoworks - Crown Roast of Lamb](/recipes_md/2020-07-13-Crown-Roast-of-Lamb---Thermoworks)
+- [Epicurious - Crown Roast of Lamb with Rosemary and Oregano](/recipes/Crown-Roast-of-Lamb-with-Rosemary-and-Oregano---Epicurious.html)
+- [Food Network - Crown Roast of Lamb](/recipes/Crown-Roast-of-Lamb---Food-Network.html)
+- [Thermoworks - Crown Roast of Lamb](/recipes/Crown-Roast-of-Lamb---Thermoworks.html)
 
 I used 2 tbsp of fresh rosemary, 6 garlic cloves, 1 tsp of dried oregano, 2 tbsp of chopped parsley, 1/2 tsp of lemon zest, 1 1/2 tsp salt, 1 tsp of ground pepper, 1 tsp of fresh thyme. I dry brined the lamb from the morning, then oiled the lamb with light olive oil and spread the rub over the lab.
 
