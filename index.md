@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Joi's GitHub Jekyll Page
 ---
 
@@ -14,43 +14,3 @@ I've also started to create some basic guides as references for my cooking.
 * [Coffee Basics](food/coffee-basics)
 * [Common Ingredients by Volume and Mass](food/ingredients-volume-mass)
 * [Volume, Weight and Temperature Conversions](food/volume-weight-temp)
-
-
-# For Post in Posts
-
-<ul>
-  {% for post in site.posts %}
-    <li><a href="{{ post.url }}">{{post.date | date: '%B %d, %Y' }} - {{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
----
-
-# For Recipe in Site.Recipes
-
-<ul class="recipes">
-  {% for recipe in site.recipes %}
-  	{% assign json_data = site.data.recipes[recipe.filename] %}
-    <li>
-    	<a href="{{ recipe.url }}">
-    	{% if json_data.photo %}
-    		<img style='width:100px;heigh:100px;' src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}" />
-    	{% else %}
-    		<img style='width:100px;heigh:100px;' src='/images/200x200.gif' />
-    	{% endif %}
-    	{{ recipe.title }}
-    	</a>
-    </li>
-  {% endfor %}
-</ul>
-
----
-
-{% for tag in site.tags %}
-  <h3>{{ tag[0] | capitalize }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
