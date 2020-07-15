@@ -4,18 +4,39 @@ layout: default
 <h3>{{ page.title }}</h3>
 {% assign json_data = site.data.recipes[page.filename] %}
 
-{% unless json_data.photos %}
+{% if json_data.photo %}
 <img src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}" />
-{% endunless %}
+{% endif %}
 
 {% if json_data.photos %}
 {% for phot in json_data.photos %}
   <img src="/images/recipes/{{json_data.uid}}/{{ phot.filename }}" /><br>
 {% endfor %}
 
-
 {% endif %}
 
-{{json_data.html}}
+
+{% for getParam in json_data.html %}
+
+	{% if getParam[1] != "None" %}
+	<h2 id="{{getParam[0]}}">{{getParam[0] | capitalize}}</h2>
+	<div class="box box-{{getParam[0]}}">
+		{{getParam[1]}}
+	</div>
+	{% endif %}
+
+{% endfor %}
+
+
+<hr>
+<ul class="toc">
+{% for getParam in json_data.html %}
+<li><a href="#{{getParam[0]}}">{{getParam[0] | capitalize}}</a></li>
+{% endfor %}
+</ul>
+<hr>
+
 
 {{ content }}
+
+

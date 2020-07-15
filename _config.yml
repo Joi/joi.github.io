@@ -37,10 +37,10 @@ github_username:  joi
 # theme: jekyll-theme-minimal
 collections:
   recipes:
-    output: false
-    #permalink: /:collection/:name
-  recipes_md:
     output: true
+    #permalink: /:collection/:name
+  #recipes_md:
+    #output: true
     #permalink: /:collection/:name
 
 # Exclude from processing.

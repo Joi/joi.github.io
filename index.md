@@ -30,7 +30,7 @@ I've also started to create some basic guides as references for my cooking.
 # For Recipe in Site.Recipes
 
 <ul class="recipes">
-  {% for recipe in site.recipes_md %}
+  {% for recipe in site.recipes %}
   	{% assign json_data = site.data.recipes[recipe.filename] %}
     <li>
     	<a href="{{ recipe.url }}">
