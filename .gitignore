@@ -8,6 +8,7 @@ _data
 .DS_Store
 vendor
 _recipes_md/
+_recipes/
 .ipynb_checkpoints
 *.ipynb
 __scripts/.ipynb_checkpoints/ParsePaprika-checkpoint.ipynb
