@@ -3,6 +3,8 @@ layout: post
 title: Crown Roast of Lamb
 tags: recipe
 ---
+![Carved Crown Roast](/images/carved-roast-crown.jpeg){:height="50%" width="50%"}
+
 Mizuka was talking to our house guest\* who doesn't like lamb. Mizuka explained that she didn't like lamb either but that she started liking it after she first had a Crown Roast of Lamb over the holidays that we bought from Savenor's so we decided to try it to see if it would change our guest's taste.
 
 I looked at threee recipes and decided to dry brine over night but to add the spice rub at lunch. I think I could have spiced it last night as well, but it was late. I thought that the salt was probably the most important.
@@ -15,7 +17,12 @@ I'm mashing up three receipts.
 
 I used 2 tbsp of fresh rosemary, 6 garlic cloves, 1 tsp of dried oregano, 2 tbsp of chopped parsley, 1/2 tsp of lemon zest, 1 1/2 tsp salt, 1 tsp of ground pepper, 1 tsp of fresh thyme. I dry brined the lamb from the morning, then oiled the lamb with light olive oil and spread the rub over the lab.
 
+![Crown Roast in Oven](/images/crown-roast-oven.jpg){:height="50%" width="50%"}
+
 I set the oven to 425ºF and roasted it on a skillet (heated together with the oven) and covered the bones with foil. I put a thermometer into the meat with an alarm at 125ºF.
+
+![Crown Roast in Oven](/images/crown-roast-cut.jpeg){:height="50%" width="50%"}
+<br>_I forgot to take a photo of the crown before I cut the twine. This is roughly the shape that it was, but maybe not quite as flat._
 
 It took nearly one hour to cook. I now realize that this is probably because the "hole" in the middle was gone because it was shaped more like pursed lips than a crown because of the way it came from Savenor's. I think that next time, I need to shape it into a crown and maybe tie the two ends together to hold it in that shape.
 
