@@ -30,4 +30,6 @@ Also, the lamb looked more "medium" than "medium-rare".
 
 The Food Network recipe said to use the drippings to make a sauce with 1 tbsp vinegar and 1 tsp of Dijon mustard. The pan drippings were almost all oil which was too hot. Next time, I should remove the oil and cool down the pan before adding the vinegar and the mustard.
 
+I complied this into [a recipe.](/recipes/Jois-Crown-Roast-of-Lamb.html)
+
 \* We have had a family of friends with two kids living in our au pair since early in the lockdown. It's been fun cooking with and for them.
