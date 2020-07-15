@@ -29,19 +29,17 @@ url: "https://github.ito.com" # the base hostname & protocol for your site, e.g.
 twitter_username: joi
 github_username:  joi
 
+#permalink: /posts/:year-:month-:day-:title:output_ext
+
 # Build settings
 #theme: jekyll-theme-minimal
 # plugins: - jekyll-feed
-
-
 # theme: jekyll-theme-minimal
+
 collections:
   recipes:
     output: true
-    #permalink: /:collection/:name
-  #recipes_md:
-    #output: true
-    #permalink: /:collection/:name
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
