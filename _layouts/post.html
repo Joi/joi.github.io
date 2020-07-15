@@ -1,7 +1,15 @@
 ---
 layout: default
 ---
-<h3>{{ page.title }}</h3>
-<p>{{ page.date | date: '%B %d, %Y' }}</p>
+<!-- template: post.html -->
+<div class="row" id="content">
+	<div class="large-12 columns" id="posts">
 
-{{ content }}
+		<h3>{{ page.title }}</h3>
+		<p>{{ page.date | date: '%B %d, %Y' }}</p>
+
+		{{ content }}
+
+	</div>
+</div>
+<!-- /template: post.html -->
