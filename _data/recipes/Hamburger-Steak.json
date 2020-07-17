@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Ground Beef"
+  ],
+  "cook_time": "10 minutes",
+  "created": "2020-06-27 14:48:06",
+  "description": "",
+  "difficulty": "",
+  "directions": "Put Panko in a large bowl, add milk and stir.\n\nAdd meat, onion, egg, salt, pepper and worcester sauce to the Panko mixture. Mix with your hands very well.\n\nDivide the meat into 8 pieces and roll into oval balls. Push down to flat steaks and make an indentation in the middle. (if you would like to freeze some, wrap each steaks with plastic.)\n\nHeat oil in a frying pan at medium temperature, place the patties in the hot oil, and fry for 4-5 minutes on one side. Flip over and fry for 3-4 minutes covered until cooked through.\n\nMeanwhile mix ketchup and worcester sauce in a bowl.\n\nUncover the pan, add sake, then ketchup sauce, and cook for 30 seconds.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Put Panko in a large bowl, add milk and stir.</p><p class=\"line\">Add meat, onion, egg, salt, pepper and worcester sauce to the Panko mixture. Mix with your hands very well.</p><p class=\"line\">Divide the meat into 8 pieces and roll into oval balls. Push down to flat steaks and make an indentation in the middle. (if you would like to freeze some, wrap each steaks with plastic.)</p><p class=\"line\">Heat oil in a frying pan at medium temperature, place the patties in the hot oil, and fry for <span class=\"timer\" time=\"240.0\">4-5 minutes </span>on one side. Flip over and fry for <span class=\"timer\" time=\"180.0\">3-4 minutes </span>covered until cooked through.</p><p class=\"line\">Meanwhile mix ketchup and worcester sauce in a bowl.</p><p class=\"line\">Uncover the pan, add sake, then ketchup sauce, and cook for <span class=\"timer\" time=\"30.0\">30 seconds</span>.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>3/4</strong> cup Panko bread crumb</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> cup milk</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> lb ground beef</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> lb ground pork</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> medium onion, chopped fine</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> egg</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> tsp salt</p><p class=\"line\" itemprop=\"recipeIngredient\">pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp worcester sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1-2</strong> tsp oil</p><p class=\"line\" itemprop=\"recipeIngredient\">Sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup ketchup</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup worcester sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1-2</strong> Tbsp sake (or wine)</p>\n</div>",
+    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>Could add mushrooms and other things. Is very well done even on the low end of this cooking range.</p>\n</div>",
+    "nutrition": "None"
+  },
+  "image_url": null,
+  "ingredients": "3/4 cup Panko bread crumb\n1/4 cup milk\n1 lb ground beef\n1 lb ground pork\n1 medium onion, chopped fine\n1 egg\n1/2 tsp salt\npepper\n1 tsp worcester sauce\n1-2 tsp oil\nSauce\n1/2 cup ketchup\n1/2 cup worcester sauce\n1-2 Tbsp sake (or wine)",
+  "name": "Hamburger Steak",
+  "notes": "Could add mushrooms and other things. Is very well done even on the low end of this cooking range.",
+  "nutritional_info": "",
+  "photo": "F5C03072-3445-4B8B-BE4E-2B7306D4B19E-47978-0005E250C2B57D70.jpg",
+  "photo_large": "CC86E0C9-07E6-4CDE-BE93-1C071F05C359-47978-0005E2501AD4B281.jpg",
+  "photos": [
+    {
+      "filename": "CC86E0C9-07E6-4CDE-BE93-1C071F05C359-47978-0005E2501AD4B281.jpg",
+      "name": "1"
+    }
+  ],
+  "prep_time": "15 minutes",
+  "rating": 5,
+  "servings": "Yield: 8 steaks",
+  "source": "japanesecooking101.com",
+  "source_url": "https://www.japanesecooking101.com/hamburger-steak-recipe/",
+  "total_time": "",
+  "uid": "359750A3-4957-4735-9DAC-935A18605F94-5025-000001ECAB5B5782"
+}

@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Blue Fish"
+  ],
+  "cook_time": "20 minutes",
+  "created": "2020-06-05 10:53:36",
+  "description": "",
+  "difficulty": "",
+  "directions": "Preheat oven to 350°F.\n\nPlace fillet skin-side down in foil-lined-roasting pan: Cut a piece of foil large enough to enclose the bluefish fillet. (You can double layer the foil if you are working with thin foil). Place the foil in a roasting pan. Rinse the bluefish fillet and place it in the center of the foil, skin side down.\n\nAdd salt, pepper, lemon slices, butter, herbs: Sprinkle the fillet with salt and pepper. Lay a layer of thin lemon slices on top of the fillet. Arrange pats of butter along the top of the fillet. Lay several sprigs of fresh herbs on top of the butter and lemon slices.\n\nAdd white wine and lemon juice, seal foil packet: Create a boat shape with the foil around the fish so that liquid does not leak out. Pour white wine over the fish, and sprinkle with the lemon juice. Crimp the edges of the foil together so they are relatively sealed.\n\nBake: Place in the 350°F oven (or you can put the foil packet on the grill) and bake for 15 to 20 minutes or so, until the fish is cooked through and opaque.\n\nServe: Carefully lift the fillet from the foil and place on a serving dish. Pour the cooking liquid over the fish to serve.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Preheat oven to 350°F.</p><p class=\"line\">Place fillet skin-side down in foil-lined-roasting pan: Cut a piece of foil large enough to enclose the bluefish fillet. (You can double layer the foil if you are working with thin foil). Place the foil in a roasting pan. Rinse the bluefish fillet and place it in the center of the foil, skin side down.</p><p class=\"line\">Add salt, pepper, lemon slices, butter, herbs: Sprinkle the fillet with salt and pepper. Lay a layer of thin lemon slices on top of the fillet. Arrange pats of butter along the top of the fillet. Lay several sprigs of fresh herbs on top of the butter and lemon slices.</p><p class=\"line\">Add white wine and lemon juice, seal foil packet: Create a boat shape with the foil around the fish so that liquid does not leak out. Pour white wine over the fish, and sprinkle with the lemon juice. Crimp the edges of the foil together so they are relatively sealed.</p><p class=\"line\">Bake: Place in the 350°F oven (or you can put the foil packet on the grill) and bake for <span class=\"timer\" time=\"900.0\">15 to 20 minutes </span>or so, until the fish is cooked through and opaque.</p><p class=\"line\">Serve: Carefully lift the fillet from the foil and place on a serving dish. Pour the cooking liquid over the fish to serve.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">One bluefish fillet (1/2 pound to 1 pound)</p><p class=\"line\" itemprop=\"recipeIngredient\">Kosher salt</p><p class=\"line\" itemprop=\"recipeIngredient\">Freshly ground black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3 to 5</strong> very thin slices of fresh lemon</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> pats of butter (about a teaspoon each)</p><p class=\"line\" itemprop=\"recipeIngredient\">Several sprigs of fresh herbs such as tarragon, thyme, fennel fronds, and/or parsley (or a teaspoon of dried herbs such as Italian seasoning or Herbes de Provence)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> Tbsp dry white wine</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> Tbsp lemon juice</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": null,
+  "ingredients": "One bluefish fillet (1/2 pound to 1 pound)\nKosher salt\nFreshly ground black pepper\n3 to 5 very thin slices of fresh lemon\n3 pats of butter (about a teaspoon each)\nSeveral sprigs of fresh herbs such as tarragon, thyme, fennel fronds, and/or parsley (or a teaspoon of dried herbs such as Italian seasoning or Herbes de Provence)\n3 Tbsp dry white wine\n2 Tbsp lemon juice",
+  "name": "Baked Bluefish",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "399FA399-9E18-4673-AA98-EFBEC6EAE464-22544-0003EEF4F3310AB3.jpg",
+  "photo_large": "BEEE43D8-B04F-41B5-AA79-2A9D987CA240-22544-0003EEF32C138295.jpg",
+  "photos": [
+    {
+      "filename": "BEEE43D8-B04F-41B5-AA79-2A9D987CA240-22544-0003EEF32C138295.jpg",
+      "name": "1"
+    }
+  ],
+  "prep_time": "10 minutes",
+  "rating": 5,
+  "servings": "Serves 2 to 4",
+  "source": "simplyrecipes.com",
+  "source_url": "https://www.simplyrecipes.com/recipes/baked_bluefish/print/",
+  "total_time": "",
+  "uid": "CB6C7A4A-2F73-44D5-AC51-E12EB842AD85-29546-00061091B920E83D"
+}

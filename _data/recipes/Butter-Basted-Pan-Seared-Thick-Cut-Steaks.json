@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Beef",
+    "Bison",
+    "Steaks"
+  ],
+  "cook_time": "25 minutes (or 1 hour 10 minutes to 3 days, if resting)",
+  "created": "2020-04-21 14:36:16",
+  "description": "",
+  "difficulty": "",
+  "directions": "1. Carefully pat steak dry with paper towels. Season liberally on all sides, including edges, with salt and pepper. If desired, let steak rest at room temperature for 45 minutes, or refrigerated, loosely covered, up to 3 days (see note).\n\n2. In a 12-inch heavy-bottomed cast iron skillet, heat oil over high heat until just beginning to smoke. Carefully add steak and cook, flipping frequently, until a pale golden-brown crust starts to develop, about 4 minutes total.\n\n3. Add butter, herbs (if using), and shallot (if using) to skillet and continue to cook, flipping steak occasionally and basting any light spots with foaming butter. If butter begins to smoke excessively or steak begins to burn, reduce heat to medium. To baste, tilt pan slightly so that butter collects by handle. Use a spoon to pick up butter and pour it over steak, aiming at light spots.\n\n4. Continue flipping and basting until an instant-read thermometer inserted into thickest part of tenderloin side registers 120 to 125°F (49 to 52°C) for medium-rare or 130°F (54°C) for medium, 8 to 10 minutes total.\n\n5. Immediately transfer steak to a large heatproof plate and pour pan juices on top. Let rest 5 to 10 minutes. Carve and serve.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">1. Carefully pat steak dry with paper towels. Season liberally on all sides, including edges, with salt and pepper. If desired, let steak rest at room temperature for <span class=\"timer\" time=\"2700.0\">45 minutes</span>, or refrigerated, loosely covered, up to 3 days (see note).</p><p class=\"line\">2. In a 12-inch heavy-bottomed cast iron skillet, heat oil over high heat until just beginning to smoke. Carefully add steak and cook, flipping frequently, until a pale golden-brown crust starts to develop, about <span class=\"timer\" time=\"240.0\">4 minutes </span>total.</p><p class=\"line\">3. Add butter, herbs (if using), and shallot (if using) to skillet and continue to cook, flipping steak occasionally and basting any light spots with foaming butter. If butter begins to smoke excessively or steak begins to burn, reduce heat to medium. To baste, tilt pan slightly so that butter collects by handle. Use a spoon to pick up butter and pour it over steak, aiming at light spots.</p><p class=\"line\">4. Continue flipping and basting until an instant-read thermometer inserted into thickest part of tenderloin side registers 120 to 125°F (49 to 52°C) for medium-rare or 130°F (54°C) for medium, <span class=\"timer\" time=\"480.0\">8 to 10 minutes </span>total.</p><p class=\"line\">5. Immediately transfer steak to a large heatproof plate and pour pan juices on top. Let rest <span class=\"timer\" time=\"300.0\">5 to 10 minutes</span>. Carve and serve.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> large bone-in T-bone or ribeye steak (see note)</p><p class=\"line\" itemprop=\"recipeIngredient\">Kosher salt and freshly ground black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> cup (60ml) vegetable or canola oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons (45g) unsalted butter</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> sprigs thyme or rosemary (optional)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup finely sliced shallots (about 1 large; optional)</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": "https://www.seriouseats.com/2018/09/20180822-butter-basting-steak-fish-liz-clayman-9.jpg",
+  "ingredients": "1 large bone-in T-bone or ribeye steak (see note)\nKosher salt and freshly ground black pepper\n1/4 cup (60ml) vegetable or canola oil\n3 tablespoons (45g) unsalted butter\n6 sprigs thyme or rosemary (optional)\n1/2 cup finely sliced shallots (about 1 large; optional)",
+  "name": "Butter-Basted, Pan-Seared Thick-Cut Steaks",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "57963DE2-73F8-4104-A627-6E45043530C2-89150-0000F2DFE3822090.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "15 minutes",
+  "rating": 4,
+  "servings": "Serves 2 to 3",
+  "source": "seriouseats.com",
+  "source_url": "https://www.seriouseats.com/recipes/2012/12/butter-basted-pan-seared-steaks-recipe.html",
+  "total_time": "",
+  "uid": "1274CF3F-4DDF-41CF-8CA0-B90D39F94A99-89150-0000F2DC0488DFB5"
+}

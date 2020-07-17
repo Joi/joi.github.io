@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "White Fish"
+  ],
+  "cook_time": "10 m",
+  "created": "2020-04-23 14:59:42",
+  "description": "",
+  "difficulty": "",
+  "directions": "Set oven rack about 6 inches from the heat source and preheat the oven's broiler. Line a baking sheet with aluminum foil and spray with cooking spray.\n\nArrange haddock fillets on the prepared baking sheet. Mix onion powder, paprika, garlic powder, salt, black pepper, and cayenne pepper in a small bowl; sprinkle seasoning over haddock. Dot haddock with pieces of butter.\n\nBroil in the preheated oven until fish is easily flaked with a fork, 6 to 8 minutes. Serve with lemon wedges.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Set oven rack about 6 inches from the heat source and preheat the oven's broiler. Line a baking sheet with aluminum foil and spray with cooking spray.</p><p class=\"line\">Arrange haddock fillets on the prepared baking sheet. Mix onion powder, paprika, garlic powder, salt, black pepper, and cayenne pepper in a small bowl; sprinkle seasoning over haddock. Dot haddock with pieces of butter.</p><p class=\"line\">Broil in the preheated oven until fish is easily flaked with a fork, <span class=\"timer\" time=\"360.0\">6 to 8 minutes</span>. Serve with lemon wedges.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">cooking spray</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> pounds haddock fillets</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> teaspoon onion powder</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> teaspoon paprika</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> teaspoon garlic powder</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> teaspoon ground black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> teaspoon salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> teaspoon cayenne pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon butter, cut in small pieces</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> lemon, cut into wedges</p>\n</div>",
+    "notes": "None",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Per Serving: 228 calories; 4.7 g fat; 0.9 g carbohydrates; 43.2 g protein; 139 mg cholesterol; 466 mg sodium. Full nutrition</p>\n</div>"
+  },
+  "image_url": "https://images.media-allrecipes.com/userphotos/560x315/4535513.jpg",
+  "ingredients": "cooking spray\n2 pounds haddock fillets\n1/2 teaspoon onion powder\n1/2 teaspoon paprika\n1/2 teaspoon garlic powder\n1/2 teaspoon ground black pepper\n1/2 teaspoon salt\n1/4 teaspoon cayenne pepper\n1 tablespoon butter, cut in small pieces\n1 lemon, cut into wedges",
+  "name": "Simple Broiled Haddock",
+  "notes": "",
+  "nutritional_info": "Per Serving: 228 calories; 4.7 g fat; 0.9 g carbohydrates; 43.2 g protein; 139 mg cholesterol; 466 mg sodium. Full nutrition",
+  "photo": "A25B96DC-6734-4C8E-958A-1A89FDEF351E-89150-0001914F1AF77676.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "10 m",
+  "rating": 4,
+  "servings": "4",
+  "source": "allrecipes.com",
+  "source_url": "https://www.allrecipes.com/recipe/232906/simple-broiled-haddock/",
+  "total_time": "",
+  "uid": "C56A2832-A5D3-4F23-BF55-81FE17B00B7E-89150-0001914BEAF20AFE"
+}

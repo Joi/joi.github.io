@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Salad"
+  ],
+  "cook_time": "1 hour 10 minutes",
+  "created": "2020-07-16 14:55:06",
+  "description": "",
+  "difficulty": "",
+  "directions": "1. In a large bowl, toss together cabbage, onion, carrot, and jalapeño, if using. In a small saucepan, combine vinegar, salt, and sugar a cook over medium heat, stirring, until salt and sugar are just dissolved. Pour brine over vegetables and toss to combine. Cover and refrigerate for one hour before serving.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">1. In a large bowl, toss together cabbage, onion, carrot, and jalapeño, if using. In a small saucepan, combine vinegar, salt, and sugar a cook over medium heat, stirring, until salt and sugar are just dissolved. Pour brine over vegetables and toss to combine. Cover and refrigerate for <span class=\"timer\" time=\"3600.0\">one hour </span>before serving.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> small (2-pound) green cabbage, cored and very thinly sliced (about 4 cups)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> medium white onion, peeled and very thinly sliced (about 1/2 cup)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> carrots, peeled and shredded (about 1/2 cup)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> small jalapeño, ribs and seeds removed, minced (optional)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons apple cider vinegar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> teaspoons sugar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon kosher salt</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": "https://www.seriouseats.com/recipes/images/2014/05/20140512-quick-curtido-primary-200x150.jpg",
+  "ingredients": "1/2 small (2-pound) green cabbage, cored and very thinly sliced (about 4 cups)\n1/2 medium white onion, peeled and very thinly sliced (about 1/2 cup)\n2 carrots, peeled and shredded (about 1/2 cup)\n1 small jalapeño, ribs and seeds removed, minced (optional)\n3 tablespoons apple cider vinegar\n2 teaspoons sugar\n1 teaspoon kosher salt",
+  "name": "Quick Curtido (Mexican Cabbage Slaw)",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "B47D5B09-808A-47CA-A31A-090603ECABFE-29053-0004FDC7074AAB8A.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "10 minutes",
+  "rating": 0,
+  "servings": "About 5 cups",
+  "source": "seriouseats.com",
+  "source_url": "https://www.seriouseats.com/recipes/2014/05/quick-curtido-mexican-cabbage-slaw-recipe.html",
+  "total_time": "",
+  "uid": "67FA455B-BC4A-4ED4-A76B-E4B0B6C9691F-29053-0004FDC50F2E56F7"
+}

@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Corn"
+  ],
+  "cook_time": "",
+  "created": "2020-07-15 15:37:22",
+  "description": "",
+  "difficulty": "",
+  "directions": "Boil water in Dutch Oven.\n\nAdd ¼ cup of butter and some pepper.\n\nTurn off heat and add corn.\n\nAllow to sit for 20 min.\n\nRemove corn and season with salt.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Boil water in Dutch Oven.</p><p class=\"line\">Add ¼ cup of butter and some pepper.</p><p class=\"line\">Turn off heat and add corn.</p><p class=\"line\">Allow to sit for <span class=\"timer\" time=\"1200.0\">20 min</span>.</p><p class=\"line\">Remove corn and season with salt.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">Corn</p><p class=\"line\" itemprop=\"recipeIngredient\">Butter</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt</p><p class=\"line\" itemprop=\"recipeIngredient\">Pepper</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": null,
+  "ingredients": "Corn\nButter\nSalt\nPepper",
+  "name": "Joi's Boiled Corn",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "3E713826-907D-4C7E-A50F-E552F2F20A0E-29053-0004B199DA42BEE9.jpg",
+  "photo_large": "D688E9A8-92D0-474B-997F-39D46ACD72E7-29053-0004B19974BA446A.jpg",
+  "photos": [
+    {
+      "filename": "D688E9A8-92D0-474B-997F-39D46ACD72E7-29053-0004B19974BA446A.jpg",
+      "name": "1"
+    }
+  ],
+  "prep_time": "",
+  "rating": 5,
+  "servings": "",
+  "source": "",
+  "source_url": "",
+  "total_time": "",
+  "uid": "23FE81EA-D7B3-4C76-BDFE-07336D41F990-29053-0004B181B996F693"
+}

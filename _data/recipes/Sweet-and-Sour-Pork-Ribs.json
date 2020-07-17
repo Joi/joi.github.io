@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Pork"
+  ],
+  "cook_time": "30min",
+  "created": "2020-02-03 10:58:54",
+  "description": "",
+  "difficulty": "Easy",
+  "directions": "Place vegetable oil and ginger into mixing bowl and cook 3 min/250°F/speed 1.\n\nAdd pork ribs, rock sugar, Chinese rice wine, rice vinegar and soy sauce, place simmering basket instead of measuring cup onto mixing bowl lid and cook 22-25 min/250°F//speed , depending on size of ribs. Serve hot.\n\nTips & tricks\n\nGarnish with green onions, sliced on the bias.\n\nReplace rock sugar with jaggary sugar or panela sugar.\n\nTo remove the odor from raw pork: before cooking, place 18 oz pork spare ribs, cut into pieces (2 in.) into mixing bowl, cover ribs with water and blanch 30 min/100°F//speed . Set ribs aside, dry mixing bowl, and continue with recipe.\n\nFor riblets, have the butcher cut ribs in half.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Place vegetable oil and ginger into mixing bowl and cook <span class=\"timer\" time=\"180.0\">3 min</span>/250°F/speed 1.</p><p class=\"line\">Add pork ribs, rock sugar, Chinese rice wine, rice vinegar and soy sauce, place simmering basket instead of measuring cup onto mixing bowl lid and cook <span class=\"timer\" time=\"1320.0\">22-25 min</span>/250°F//speed , depending on size of ribs. Serve hot.</p><p class=\"line\">Tips &amp; tricks</p><p class=\"line\">Garnish with green onions, sliced on the bias.</p><p class=\"line\">Replace rock sugar with jaggary sugar or panela sugar.</p><p class=\"line\">To remove the odor from raw pork: before cooking, place 18 oz pork spare ribs, cut into pieces (2 in.) into mixing bowl, cover ribs with water and blanch <span class=\"timer\" time=\"1800.0\">30 min</span>/100°F//speed . Set ribs aside, dry mixing bowl, and continue with recipe.</p><p class=\"line\">For riblets, have the butcher cut ribs in half.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> oz vegetable oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> oz fresh ginger, thinly sliced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>18</strong> oz pork spare ribs, cut into pieces (2 in.)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> oz crumb rock sugar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> oz Chinese rice wine (Shaoxing Hua Diao)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> oz rice vinegar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> oz soy sauce</p>\n</div>",
+    "notes": "None",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories: 1368 kJ / 327 kcal<br/>Protein: 26 g<br/>Carbohydrates: 16 g<br/>Fat: 17 g<br/>Fiber: 0 g</p>\n</div>"
+  },
+  "image_url": "https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/F772BA2A-2A16-4BAC-987F-29DCE887942E/Derivates/887DE0F0-8570-4E9C-8FD8-238A90CF4593.jpg",
+  "ingredients": "½ oz vegetable oil\n½ oz fresh ginger, thinly sliced\n18 oz pork spare ribs, cut into pieces (2 in.)\n2 oz crumb rock sugar\n1 oz Chinese rice wine (Shaoxing Hua Diao)\n2 oz rice vinegar\n1 oz soy sauce",
+  "name": "Sweet and Sour Pork Ribs",
+  "notes": "",
+  "nutritional_info": "Calories: 1368 kJ / 327 kcal\nProtein: 26 g\nCarbohydrates: 16 g\nFat: 17 g\nFiber: 0 g",
+  "photo": "AAA0CC00-532A-44F4-8887-21158C92E376-408-00004F95A76584A5.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "10min",
+  "rating": 0,
+  "servings": "4 portions",
+  "source": "cookidoo.thermomix.com",
+  "source_url": "https://cookidoo.thermomix.com/recipes/recipe/en-US/r449778",
+  "total_time": "",
+  "uid": "20B902DA-FBD0-4411-8520-D0C31A1B2EB3-408-00004F927B86A8EA"
+}

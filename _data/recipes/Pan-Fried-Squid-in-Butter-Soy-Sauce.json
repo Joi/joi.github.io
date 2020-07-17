@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Squid"
+  ],
+  "cook_time": "",
+  "created": "2020-06-02 11:39:23",
+  "description": "",
+  "difficulty": "",
+  "directions": "Thaw the squid and drain well. Cut the legs into approx. 4-5 cm long pieces. Wash and trim the peppers and mangetout and cut them into fine strips.\n\nHeat up the oil in a frying pan, put the vegetables in, sauté them, season lightly with salt and pepper and keep warm. Fry the body for approx. 1 minute with the lid on. Turn the squid over, add the other pieces of squid and continue cooking for another 5 minutes with the lid on. Remove the pan from the heat and leave the squid to marinate for a while.\n\nAdd the sake, soy sauce and butter and glaze the squid with the sauce. Cut the top part of the squid into rings and arrange on a platter with the other pieces. Add the fried vegetables, pour the rest of the sauce over the squid and serve with toasted baguette slices.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Thaw the squid and drain well. Cut the legs into approx. 4-5 cm long pieces. Wash and trim the peppers and mangetout and cut them into fine strips.</p><p class=\"line\">Heat up the oil in a frying pan, put the vegetables in, sauté them, season lightly with salt and pepper and keep warm. Fry the body for approx. <span class=\"timer\" time=\"60.0\">1 minute </span>with the lid on. Turn the squid over, add the other pieces of squid and continue cooking for another <span class=\"timer\" time=\"300.0\">5 minutes </span>with the lid on. Remove the pan from the heat and leave the squid to marinate for a while.</p><p class=\"line\">Add the sake, soy sauce and butter and glaze the squid with the sauce. Cut the top part of the squid into rings and arrange on a platter with the other pieces. Add the fried vegetables, pour the rest of the sauce over the squid and serve with toasted baguette slices.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> pieces of frozen squid</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> red, 1 green and 1 yellow pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>80</strong> g snap peas</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tbsp. vegetable oil</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and freshly ground pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> tbsp. sake or white wine</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> tbsp. Kikkoman naturally brewed Tamari gluten-free soy sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>40</strong> g unsalted butter</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> slices of baguette</p>\n</div>",
+    "notes": "None",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>1425 kJ / 341 kcal</p>\n</div>"
+  },
+  "image_url": "https://www.kikkoman.eu/typo3temp/assets/_processed_/9/e/csm_Gebratener-Tintenfisch-mit-Butter-Sojasauce_870x300_01_bd8974c55b.jpg",
+  "ingredients": "4 pieces of frozen squid\n1 red, 1 green and 1 yellow pepper\n80 g snap peas\n3 tbsp. vegetable oil\nSalt and freshly ground pepper\n6 tbsp. sake or white wine\n4 tbsp. Kikkoman naturally brewed Tamari gluten-free soy sauce\n40 g unsalted butter\n4 slices of baguette",
+  "name": "Pan-Fried Squid in Butter Soy Sauce",
+  "notes": "",
+  "nutritional_info": "1425 kJ / 341 kcal",
+  "photo": "5ECBA726-F600-4322-84A5-CE39617AF18C-68036-00015F778FF8710A.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "30 mins",
+  "rating": 0,
+  "servings": "",
+  "source": "kikkoman.eu",
+  "source_url": "https://www.kikkoman.eu/recipes/recipe-detail/r/pan-fried-squid-in-butter-soy-sauce/",
+  "total_time": "30 min",
+  "uid": "50C14B08-33CC-4A90-920B-BCF796391832-68036-00015F6C620CA6EC"
+}

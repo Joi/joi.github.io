@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Bison",
+    "Duck"
+  ],
+  "cook_time": "",
+  "created": "2020-03-21 16:33:48",
+  "description": "",
+  "difficulty": "",
+  "directions": "For the herb butter: Mix together butter, garlic, tarragon, thyme, parsley, and salt and pepper to taste in a medium bowl. Cover with plastic wrap and chill slightly.\n\nFor the tenderloin: Preheat oven to 350°. Mix together salt, citric acid, and pepper to taste in a small bowl. Season filets with salt mixture to taste. Heat oil in a large ovenproof skillet over high heat until hot. Add filets and sear, 2 minutes per side. Transfer skillet to oven and cook, about 6 minutes for rare and 8 minutes for medium rare. Transfer filets to four plates and top each with a dollop of herb butter.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">For the herb butter: Mix together butter, garlic, tarragon, thyme, parsley, and salt and pepper to taste in a medium bowl. Cover with plastic wrap and chill slightly.</p><p class=\"line\">For the tenderloin: Preheat oven to 350°. Mix together salt, citric acid, and pepper to taste in a small bowl. Season filets with salt mixture to taste. Heat oil in a large ovenproof skillet over high heat until hot. Add filets and sear, <span class=\"timer\" time=\"120.0\">2 minutes </span>per side. Transfer skillet to oven and cook, about <span class=\"timer\" time=\"360.0\">6 minutes </span>for rare and <span class=\"timer\" time=\"480.0\">8 minutes </span>for medium rare. Transfer filets to four plates and top each with a dollop of herb butter.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>For the Herb Butter:</strong></p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> tbsp. softened butter</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> small clove garlic, peeled and minced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp. chopped fresh tarragon</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp. chopped fresh thyme</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp. chopped fresh parsley</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and freshly ground black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>For the Tenderloin:</strong></p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tsp. fine sea salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> tsp. citric acid</p><p class=\"line\" itemprop=\"recipeIngredient\">Freshly ground black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> (8-oz.) bison filets, each about 1 1/2\" thick</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tbsp. canola oil</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": "https://www.saveur.com/resizer/_rKOcmn0iOzf425m8-CIxJtq2u8=/250x250/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/Y56RXRQETVHJG5NA4NEQA3DJ3M.jpg",
+  "ingredients": "For the Herb Butter:\n6 tbsp. softened butter\n1 small clove garlic, peeled and minced\n1 tsp. chopped fresh tarragon\n1 tsp. chopped fresh thyme\n1 tsp. chopped fresh parsley\nSalt and freshly ground black pepper\nFor the Tenderloin:\n2 tsp. fine sea salt\n1/2 tsp. citric acid\nFreshly ground black pepper\n4 (8-oz.) bison filets, each about 1 1/2\" thick\n2 tbsp. canola oil",
+  "name": "Pan-Seared Bison Tenderloin with Herb Butter",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "8C6CE8DA-AF94-4A67-A0A1-D0C9E27F7D81-9067-0001DB98F9D4A65D.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Serves 4",
+  "source": "saveur.com",
+  "source_url": "https://www.saveur.com/article/Recipes/Pan-Seared-Bison-Tenderloin-with-Herb-Butter/",
+  "total_time": "",
+  "uid": "6A43E36F-3E33-4EA1-AC64-18B3BB15B24A-9067-0001DB950AEE30A7"
+}

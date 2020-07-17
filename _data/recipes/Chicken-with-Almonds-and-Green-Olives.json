@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Chicken"
+  ],
+  "cook_time": "1 hour 20 minutes",
+  "created": "2020-04-02 13:11:21",
+  "description": "",
+  "difficulty": "",
+  "directions": "Heat 2 tablespoons of oil in a large braising pan. Add the almonds, bread and garlic. Cook over medium heat so the garlic softens and the bread toasts but nothing burns. Scrape into a food processor and let cool for 5 minutes. Add the saffron and parsley and pulse to a coarse paste.\n\nPreheat oven to 300 degrees. Season the chicken with salt and dust with flour. Add 2 tablespoons oil to the braiser and place over medium-high heat. Add chicken and brown all sides, then remove to a plate. Wipe out the pan. Add remaining oil, the chili and onions and cook until softened. Discard the chili. Nestle chicken in the pan, pour in the wine and reduce by half.\n\nAdd the almond mixture and the broth, bring to a simmer, cover the pan and braise in the oven until the chicken is almost tender, about 40 minutes. Stir in the olives and cook until the chicken is very tender, 10 minutes more. Serve from the pan.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Heat 2 tablespoons of oil in a large braising pan. Add the almonds, bread and garlic. Cook over medium heat so the garlic softens and the bread toasts but nothing burns. Scrape into a food processor and let cool for <span class=\"timer\" time=\"300.0\">5 minutes</span>. Add the saffron and parsley and pulse to a coarse paste.</p><p class=\"line\">Preheat oven to 300 degrees. Season the chicken with salt and dust with flour. Add 2 tablespoons oil to the braiser and place over medium-high heat. Add chicken and brown all sides, then remove to a plate. Wipe out the pan. Add remaining oil, the chili and onions and cook until softened. Discard the chili. Nestle chicken in the pan, pour in the wine and reduce by half.</p><p class=\"line\">Add the almond mixture and the broth, bring to a simmer, cover the pan and braise in the oven until the chicken is almost tender, about <span class=\"timer\" time=\"2400.0\">40 minutes</span>. Stir in the olives and cook until the chicken is very tender, <span class=\"timer\" time=\"600.0\">10 minutes </span>more. Serve from the pan.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> tablespoons olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> cup blanched almonds (preferably Marcona)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> cup country bread, torn into small pieces</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> cloves garlic, chopped</p><p class=\"line\" itemprop=\"recipeIngredient\">Small pinch saffron</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon chopped parsley</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> chicken thighs</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> chicken drumsticks</p><p class=\"line\" itemprop=\"recipeIngredient\">Sea salt</p><p class=\"line\" itemprop=\"recipeIngredient\">Flour, for dusting</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> dried red chili</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> Spanish onion, sliced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> cup white wine</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> cup chicken broth</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> cup pitted green olives</p>\n</div>",
+    "notes": "None",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories: 927<br/>Total Carbohydrates: 14 grams<br/>Total Fat: 70 grams<br/>Dietary fiber: 3 grams<br/>Protein: 55 grams<br/>Saturated fat: 14 grams<br/>Sodium: 1079 milligrams<br/>Sugar: 4 grams<br/>Trans Fat: 0 grams<br/>Unsaturated fat: 38 grams</p>\n</div>"
+  },
+  "image_url": "https://static01.nyt.com/applications/cooking/b21c196/assets/NYTCookingLogo.png",
+  "ingredients": "6 tablespoons olive oil\n½ cup blanched almonds (preferably Marcona)\n½ cup country bread, torn into small pieces\n4 cloves garlic, chopped\nSmall pinch saffron\n1 tablespoon chopped parsley\n4 chicken thighs\n4 chicken drumsticks\nSea salt\nFlour, for dusting\n1 dried red chili\n1 Spanish onion, sliced\n½ cup white wine\n1 cup chicken broth\n½ cup pitted green olives",
+  "name": "Chicken with Almonds and Green Olives",
+  "notes": "",
+  "nutritional_info": "Calories: 927\nTotal Carbohydrates: 14 grams\nTotal Fat: 70 grams\nDietary fiber: 3 grams\nProtein: 55 grams\nSaturated fat: 14 grams\nSodium: 1079 milligrams\nSugar: 4 grams\nTrans Fat: 0 grams\nUnsaturated fat: 38 grams",
+  "photo": "10A2717F-3673-49E4-9F22-25B13AEC1FAD-9482-0000064C65CE3503.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 4,
+  "servings": "Serves 4",
+  "source": "cooking.nytimes.com",
+  "source_url": "https://cooking.nytimes.com/recipes/8113-chicken-with-almonds-and-green-olives?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=26",
+  "total_time": "",
+  "uid": "946A1415-F2AA-4840-B4C2-BF0974488278-9482-0000064C5993610E"
+}

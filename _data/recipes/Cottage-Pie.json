@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Beef",
+    "Egg",
+    "Ground Beef"
+  ],
+  "cook_time": "2h 15min",
+  "created": "2020-02-03 11:00:21",
+  "description": "",
+  "difficulty": "Easy",
+  "directions": "Place garlic, onion, carrots, celery, tomatoes, red pepper, oregano and olive oil into mixing bowl and chop 3 sec/speed 5, then cook 30 min/212°F//speed .\n\nAdd ground beef, tomato paste and salt, gently stir through with spatula and cook 20 min/212°F//speed 1. Transfer into an oval baking dish (approx. 3 qt.) and set aside to keep warm.\n\nPlace potatoes, milk, salt and pepper into mixing bowl and cook 30 min/195°F//speed . Meanwhile preheat oven to 400°F.\n\nAdd butter to mixing bowl and blend 15 sec/speed 7.\n\nSpread mashed potatoes over meat mixture, then crosshatch the top with a fork. Bake for 30 minutes (400°F) until browned and bubbling. Allow to rest 10 minutes before serving.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Place garlic, onion, carrots, celery, tomatoes, red pepper, oregano and olive oil into mixing bowl and chop <span class=\"timer\" time=\"3.0\">3 sec</span>/speed 5, then cook <span class=\"timer\" time=\"1800.0\">30 min</span>/212°F//speed .</p><p class=\"line\">Add ground beef, tomato paste and salt, gently stir through with spatula and cook <span class=\"timer\" time=\"1200.0\">20 min</span>/212°F//speed 1. Transfer into an oval baking dish (approx. 3 qt.) and set aside to keep warm.</p><p class=\"line\">Place potatoes, milk, salt and pepper into mixing bowl and cook <span class=\"timer\" time=\"1800.0\">30 min</span>/195°F//speed . Meanwhile preheat oven to 400°F.</p><p class=\"line\">Add butter to mixing bowl and blend <span class=\"timer\" time=\"15.0\">15 sec</span>/speed 7.</p><p class=\"line\">Spread mashed potatoes over meat mixture, then crosshatch the top with a fork. Bake for <span class=\"timer\" time=\"1800.0\">30 minutes </span>(400°F) until browned and bubbling. Allow to rest <span class=\"timer\" time=\"600.0\">10 minutes </span>before serving.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> garlic cloves</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>8</strong> oz yellow onions, cut into pieces</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> oz carrots, peeled, cut into pieces</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>5</strong> oz celery, cut into pieces</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> oz tomatoes, quartered</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> oz red bell pepper, de-seeded, cut into pieces</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> sprigs fresh oregano, leaves only</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> oz extra virgin olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>20</strong> oz ground beef, broken into pieces</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tbsp tomato paste</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> tsp salt, to taste</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>35</strong> oz potatoes, peeled, cut into pieces (1 in.)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>8</strong> oz whole milk</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> tsp ground black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> oz unsalted butter</p>\n</div>",
+    "notes": "None",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories: 1661 kJ / 397 kcal<br/>Protein: 12 g<br/>Carbohydrates: 24 g<br/>Fat: 29 g<br/>Cholesterol: 71 mg<br/>Fiber: 4 g</p>\n</div>"
+  },
+  "image_url": "https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/vimdb/250368.jpg",
+  "ingredients": "3 garlic cloves\n8 oz yellow onions, cut into pieces\n6 oz carrots, peeled, cut into pieces\n5 oz celery, cut into pieces\n6 oz tomatoes, quartered\n2 oz red bell pepper, de-seeded, cut into pieces\n2 sprigs fresh oregano, leaves only\n½ oz extra virgin olive oil\n20 oz ground beef, broken into pieces\n1 tbsp tomato paste\n½ tsp salt, to taste\n35 oz potatoes, peeled, cut into pieces (1 in.)\n8 oz whole milk\n1 tsp salt\n¼ tsp ground black pepper\n4 oz unsalted butter",
+  "name": "Cottage Pie",
+  "notes": "",
+  "nutritional_info": "Calories: 1661 kJ / 397 kcal\nProtein: 12 g\nCarbohydrates: 24 g\nFat: 29 g\nCholesterol: 71 mg\nFiber: 4 g",
+  "photo": "9C00D650-BBCF-49DF-813A-5BBCB0D91BAE-408-00004FA9FB76DA93.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "15min",
+  "rating": 0,
+  "servings": "10 portions",
+  "source": "cookidoo.thermomix.com",
+  "source_url": "https://cookidoo.thermomix.com/recipes/recipe/en-US/r312949",
+  "total_time": "",
+  "uid": "D456D7F1-F235-49BA-8D43-4688CA578FEA-408-00004FA89F09169C"
+}

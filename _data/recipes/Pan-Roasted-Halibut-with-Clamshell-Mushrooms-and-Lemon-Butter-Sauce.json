@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Halibut"
+  ],
+  "cook_time": "15 mins",
+  "created": "2020-06-14 10:27:59",
+  "description": "",
+  "difficulty": "",
+  "directions": "Instructions Checklist\n\nHeat oil and 1 tablespoon butter in heavy skillet over medium-high heat until butter melts and begins to foam. Add mushrooms and a pinch of salt; saute in hot butter and oil golden brown, about 5 minutes. Push mushroom to the edges to clear a space in the center of the skillet.\n\nSeason halibut on each side with salt and cayenne pepper. Place halibut fillets in the center of the skillet and cook until the fillets begin to flake, 3 to 4 minutes per side. Transfer halibut to a warm serving plate.\n\nPour the water into the pan and bring to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon, until water is reduced by half, 1 to 2 minutes. Pour lemon juice into mushroom mixture and stir.\n\nStir butter and parsley into mushroom mixture. Stir constantly until butter melts and forms a sauce; remove from heat and season with salt and black pepper. Spoon sauce and mushrooms over halibut.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Instructions Checklist</p><p class=\"line\">Heat oil and 1 tablespoon butter in heavy skillet over medium-high heat until butter melts and begins to foam. Add mushrooms and a pinch of salt; saute in hot butter and oil golden brown, about <span class=\"timer\" time=\"300.0\">5 minutes</span>. Push mushroom to the edges to clear a space in the center of the skillet.</p><p class=\"line\">Season halibut on each side with salt and cayenne pepper. Place halibut fillets in the center of the skillet and cook until the fillets begin to flake, <span class=\"timer\" time=\"180.0\">3 to 4 minutes </span>per side. Transfer halibut to a warm serving plate.</p><p class=\"line\">Pour the water into the pan and bring to a boil while scraping the browned bits of food off of the bottom of the pan with a wooden spoon, until water is reduced by half, <span class=\"timer\" time=\"60.0\">1 to 2 minutes</span>. Pour lemon juice into mushroom mixture and stir.</p><p class=\"line\">Stir butter and parsley into mushroom mixture. Stir constantly until butter melts and forms a sauce; remove from heat and season with salt and black pepper. Spoon sauce and mushrooms over halibut.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon butter</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> cup clamshell mushrooms, or more to taste</p><p class=\"line\" itemprop=\"recipeIngredient\">salt and freshly ground black pepper to taste</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> (7 ounce) halibut fillets</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> pinch cayenne pepper, or to taste</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> cup water</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> lemon, juiced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> tablespoons butter, room temperature but not soft</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon chopped flat-leaf Italian parsley</p>\n</div>",
+    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>https://www.youtube.com/watch?v=ypYRfbMSyRo&amp;t=1s</p>\n</div>",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>407 calories; 25.8 g total fat; 102 mg cholesterol; 212 mg sodium. 0.6 g carbohydrates; 41.8 g protein; Full Nutrition</p>\n</div>"
+  },
+  "image_url": null,
+  "ingredients": "1 tablespoon olive oil\n1 tablespoon butter\n¼ cup clamshell mushrooms, or more to taste\nsalt and freshly ground black pepper to taste\n2 (7 ounce) halibut fillets\n1 pinch cayenne pepper, or to taste\n¼ cup water\n½ lemon, juiced\n1 ½ tablespoons butter, room temperature but not soft\n1 tablespoon chopped flat-leaf Italian parsley",
+  "name": "Pan-Roasted Halibut with Clamshell Mushrooms and Lemon Butter Sauce",
+  "notes": "https://www.youtube.com/watch?v=ypYRfbMSyRo&t=1s",
+  "nutritional_info": "407 calories; 25.8 g total fat; 102 mg cholesterol; 212 mg sodium. 0.6 g carbohydrates; 41.8 g protein; Full Nutrition",
+  "photo": "4AE6DE4F-9D14-417F-9377-3B079F26ED99-22544-0003EEAD50714E1F.jpg",
+  "photo_large": "F7C82A69-FD21-4B0C-B42E-8FCD0BA0C1E3-22544-0003EEA93F822F5D.jpg",
+  "photos": [
+    {
+      "filename": "F7C82A69-FD21-4B0C-B42E-8FCD0BA0C1E3-22544-0003EEA93F822F5D.jpg",
+      "name": "1"
+    }
+  ],
+  "prep_time": "15 mins",
+  "rating": 5,
+  "servings": "Servings: 2",
+  "source": "allrecipes.com",
+  "source_url": "https://www.allrecipes.com/recipe/236504/pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce/",
+  "total_time": "",
+  "uid": "CBA252D8-4074-4C16-B731-B4B6E7EF42B3-1358-00017A9499BA0EF1"
+}

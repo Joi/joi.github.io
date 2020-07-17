@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Chicken"
+  ],
+  "cook_time": "",
+  "created": "2020-04-02 13:21:33",
+  "description": "",
+  "difficulty": "",
+  "directions": "BEFORE YOU BEGIN\n\nWe halve the chicken breasts crosswise for even cooking. Use Brussels sprouts no bigger than golf balls, as larger ones are often tough and woody.\n\nAdjust oven rack to upper-middle position and heat oven to 475 degrees. Toss fennel, potatoes, shallots, parsnips, garlic, 2 teaspoons thyme, oil, 1 teaspoon rosemary, sugar, ¾ teaspoon salt, and ¼ teaspoon pepper together in bowl. Combine butter, remaining 2 teaspoons thyme, remaining 1 teaspoon rosemary, ¼ teaspoon salt, and 1/8 teaspoon pepper in second bowl; set aside.\n\nPat chicken dry with paper towels and season with salt and pepper. Place vegetables in single layer on rimmed baking sheet, arranging fennel in center. Place chicken, skin side up, on top of vegetables, arranging breast pieces in center and leg and thigh pieces around perimeter of sheet.\n\nBrush chicken with herb butter and roast until breasts register 160 degrees and drumsticks/thighs -register 175 degrees, 35 to 40 minutes, rotating pan halfway through cooking. Transfer chicken to serving platter, tent loosely with aluminum foil, and let rest for 5 to 10 minutes. Toss vegetables in pan juices and transfer to platter with chicken. Serve.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">BEFORE YOU BEGIN</p><p class=\"line\">We halve the chicken breasts crosswise for even cooking. Use Brussels sprouts no bigger than golf balls, as larger ones are often tough and woody.</p><p class=\"line\">Adjust oven rack to upper-middle position and heat oven to 475 degrees. Toss fennel, potatoes, shallots, parsnips, garlic, 2 teaspoons thyme, oil, 1 teaspoon rosemary, sugar, ¾ teaspoon salt, and ¼ teaspoon pepper together in bowl. Combine butter, remaining 2 teaspoons thyme, remaining 1 teaspoon rosemary, ¼ teaspoon salt, and 1/8 teaspoon pepper in second bowl; set aside.</p><p class=\"line\">Pat chicken dry with paper towels and season with salt and pepper. Place vegetables in single layer on rimmed baking sheet, arranging fennel in center. Place chicken, skin side up, on top of vegetables, arranging breast pieces in center and leg and thigh pieces around perimeter of sheet.</p><p class=\"line\">Brush chicken with herb butter and roast until breasts register 160 degrees and drumsticks/thighs -register 175 degrees, <span class=\"timer\" time=\"2100.0\">35 to 40 minutes</span>, rotating pan halfway through cooking. Transfer chicken to serving platter, tent loosely with aluminum foil, and let rest for <span class=\"timer\" time=\"300.0\">5 to 10 minutes</span>. Toss vegetables in pan juices and transfer to platter with chicken. Serve.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">GATHER YOUR INGREDIENTS</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> fennel bulb, stalks discarded, bulb halved, cored, and sliced into 1/2-inch wedges</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¾</strong> pound red potatoes, cut into 1-inch pieces</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> pound shallots, peeled and halved</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> pound (4 medium) parsnips, peeled and cut into 2-inch pieces</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> garlic cloves, peeled</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> teaspoons minced fresh thyme</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon vegetable oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> teaspoons minced fresh rosemary</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon sugar</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons unsalted butter, melted</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3 ½</strong> pounds bone-in chicken pieces (2 split breasts cut in half crosswise, 2 drumsticks, and 2 thighs), trimmed</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": null,
+  "ingredients": "GATHER YOUR INGREDIENTS\n1 fennel bulb, stalks discarded, bulb halved, cored, and sliced into 1/2-inch wedges\n¾ pound red potatoes, cut into 1-inch pieces\n½ pound shallots, peeled and halved\n½ pound (4 medium) parsnips, peeled and cut into 2-inch pieces\n6 garlic cloves, peeled\n4 teaspoons minced fresh thyme\n1 tablespoon vegetable oil\n2 teaspoons minced fresh rosemary\n1 teaspoon sugar\nSalt and pepper\n2 tablespoons unsalted butter, melted\n3 ½ pounds bone-in chicken pieces (2 split breasts cut in half crosswise, 2 drumsticks, and 2 thighs), trimmed",
+  "name": "One-Pan Roast Chicken with Fennel and Parsnips",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": null,
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Serves 4",
+  "source": "cookscountry.com",
+  "source_url": "https://www.cookscountry.com/recipes/6975-one-pan-roast-chicken-with-fennel-and-parsnips?extcode=MCSKM10L0&ref=new_search_experience_32",
+  "total_time": "",
+  "uid": "68A618DF-DD01-40BF-9DB9-64DAD75954D1-9482-0000064FC5BA5715"
+}

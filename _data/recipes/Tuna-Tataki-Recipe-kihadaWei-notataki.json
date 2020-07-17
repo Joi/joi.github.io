@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Tuna"
+  ],
+  "cook_time": "5 mins",
+  "created": "2020-06-26 06:42:57",
+  "description": "",
+  "difficulty": "",
+  "directions": "Gather all the ingredients.\n\nGrate ginger and slice green onion thinly.\n\nCombine the Tataki sauce ingredients in a small bowl.\n\nHeat the oil in a non-stick frying pan. When the oil is hot, sear the tuna 30 seconds on each side.\n\nWhen all sides are seared, remove from the heat and let it cool. Slice the tuna into 1/4 inch pieces. Pour the sauce and serve.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Gather all the ingredients.</p><p class=\"line\">Grate ginger and slice green onion thinly.</p><p class=\"line\">Combine the Tataki sauce ingredients in a small bowl.</p><p class=\"line\">Heat the oil in a non-stick frying pan. When the oil is hot, sear the tuna <span class=\"timer\" time=\"30.0\">30 seconds </span>on each side.</p><p class=\"line\">When all sides are seared, remove from the heat and let it cool. Slice the tuna into 1/4 inch pieces. Pour the sauce and serve.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> lb sashimi grade yellowfin/ahi tuna</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> Tbsp neutral-flavored oil (vegetable, canola, etc)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>Tataki Sauce:</strong></p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> green onion/scallion (1 onion = about 1 Tbsp chopped green onion)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> inch ginger (1\" = about 1 tsp grated ginger)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> Tbsp ponzu (See Notes for homemade recipe)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tsp sesame oil (roasted)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp soy sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp toasted white sesame seeds</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>Garnish:</strong></p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> lemon</p><p class=\"line\" itemprop=\"recipeIngredient\">Korean Chili Thread</p>\n</div>",
+    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>Ponzu: Homemade recipe, click here.</p>\n</div>",
+    "nutrition": "None"
+  },
+  "image_url": "https://nitrocdn.com/KQYMGOLIdXGmoAcyJsPOrQDKktgCbwtG/assets/static/source/rev-48c1fb9/wp-content/uploads/2014/03/Tuna-Tataki.jpg",
+  "ingredients": "½ lb sashimi grade yellowfin/ahi tuna\n2 Tbsp neutral-flavored oil (vegetable, canola, etc)\nTataki Sauce:\n1 green onion/scallion (1 onion = about 1 Tbsp chopped green onion)\n1 inch ginger (1\" = about 1 tsp grated ginger)\n3 Tbsp ponzu (See Notes for homemade recipe)\n2 tsp sesame oil (roasted)\n1 tsp soy sauce\n1 tsp toasted white sesame seeds\nGarnish:\n½ lemon\nKorean Chili Thread",
+  "name": "Tuna Tataki Recipe キハダ鮪のたたき",
+  "notes": "Ponzu: Homemade recipe, click here.",
+  "nutritional_info": "",
+  "photo": "073913C4-4104-4425-BB1D-864AD02162CE-533-000000148D3C4395.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "5 mins",
+  "rating": 5,
+  "servings": "Servings: 2",
+  "source": "justonecookbook.com",
+  "source_url": "https://www.justonecookbook.com/tuna-tataki/#wprm-recipe-container-58590",
+  "total_time": "",
+  "uid": "39091A3A-A890-436A-A9C2-58FA599B57F5-533-00000014701D437B"
+}

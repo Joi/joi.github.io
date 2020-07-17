@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Sauce"
+  ],
+  "cook_time": "",
+  "created": "2020-07-15 12:39:15",
+  "description": "",
+  "difficulty": "",
+  "directions": "Combine shallot and vinegar in a bowl and let sit for 15 min yo macerate.\n\nIn a separate bowl mix parsley, oil and add a generous pinch of salt.\n\nJust before serving, add shallot (not vinegar) to the parsley oil. Stir, taste and add vinegar if needed. Taste and adjust salt.\n\nKeep in frisge up to 3 days.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Combine shallot and vinegar in a bowl and let sit for <span class=\"timer\" time=\"900.0\">15 min </span>yo macerate.</p><p class=\"line\">In a separate bowl mix parsley, oil and add a generous pinch of salt.</p><p class=\"line\">Just before serving, add shallot (not vinegar) to the parsley oil. Stir, taste and add vinegar if needed. Taste and adjust salt.</p><p class=\"line\">Keep in frisge up to 3 days.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tbsp finely diced shallot (about 1 medium shallot)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tbsp red wine vinegar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> cup very finely chopped parsley leaves</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> cup extra virgin olive oil </p><p class=\"line\" itemprop=\"recipeIngredient\">salt</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": null,
+  "ingredients": "3 tbsp finely diced shallot (about 1 medium shallot)\n3 tbsp red wine vinegar\n¼ cup very finely chopped parsley leaves\n¼ cup extra virgin olive oil \nsalt",
+  "name": "Basic Salsa Verde",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "D2A2C61F-0D45-4405-A6B0-DD1F1BFD8FF4-29053-0004BEE797AF20B6.jpg",
+  "photo_large": "D02A4B92-E38B-4310-8877-2D0AF31D8FCB-29053-0004BEE6028234A8.jpg",
+  "photos": [
+    {
+      "filename": "D02A4B92-E38B-4310-8877-2D0AF31D8FCB-29053-0004BEE6028234A8.jpg",
+      "name": "1"
+    }
+  ],
+  "prep_time": "",
+  "rating": 0,
+  "servings": "",
+  "source": "",
+  "source_url": "",
+  "total_time": "",
+  "uid": "B8A1AF50-039E-416A-967A-19D14C8A70A2-14775-000009F2FBE6BC44"
+}

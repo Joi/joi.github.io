@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Salmon"
+  ],
+  "cook_time": "16 mins",
+  "created": "2020-06-16 11:14:26",
+  "description": "",
+  "difficulty": "",
+  "directions": "Instructions Checklist\n\nSeason salmon fillets with lemon pepper, garlic powder, and salt.\n\nIn a small bowl, stir together soy sauce, brown sugar, water, and vegetable oil until sugar is dissolved. Place fish in a large resealable plastic bag with the soy sauce mixture, seal, and turn to coat. Refrigerate for at least 2 hours.\n\nPreheat grill for medium heat.\n\nLightly oil grill grate. Place salmon on the preheated grill, and discard marinade. Cook salmon for 6 to 8 minutes per side, or until the fish flakes easily with a fork.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Instructions Checklist</p><p class=\"line\">Season salmon fillets with lemon pepper, garlic powder, and salt.</p><p class=\"line\">In a small bowl, stir together soy sauce, brown sugar, water, and vegetable oil until sugar is dissolved. Place fish in a large resealable plastic bag with the soy sauce mixture, seal, and turn to coat. Refrigerate for at least <span class=\"timer\" time=\"7200.0\">2 hours</span>.</p><p class=\"line\">Preheat grill for medium heat.</p><p class=\"line\">Lightly oil grill grate. Place salmon on the preheated grill, and discard marinade. Cook salmon for <span class=\"timer\" time=\"360.0\">6 to 8 minutes </span>per side, or until the fish flakes easily with a fork.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> pounds salmon fillets</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> teaspoon lemon pepper to taste</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> teaspoon garlic powder to taste</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> teaspoon salt to taste</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>⅓</strong> cup soy sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>⅓</strong> cup brown sugar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>⅓</strong> cup water</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> cup vegetable oil</p>\n</div>",
+    "notes": "None",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>317.9 calories; 20.5 g protein; 13.2 g carbohydrates; 55.8 mg cholesterol; 1091.8 mg sodium. Full Nutrition</p>\n</div>"
+  },
+  "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F800839.jpg&w=568&h=380&c=sc&poi=face&q=85",
+  "ingredients": "1 ½ pounds salmon fillets\n½ teaspoon lemon pepper to taste\n¼ teaspoon garlic powder to taste\n½ teaspoon salt to taste\n⅓ cup soy sauce\n⅓ cup brown sugar\n⅓ cup water\n¼ cup vegetable oil",
+  "name": "Grilled Salmon I",
+  "notes": "",
+  "nutritional_info": "317.9 calories; 20.5 g protein; 13.2 g carbohydrates; 55.8 mg cholesterol; 1091.8 mg sodium. Full Nutrition",
+  "photo": "1B028C65-6E89-4F11-A1FA-ADBF3E159BD6-1358-00021A48877A9FCA.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "15 mins",
+  "rating": 0,
+  "servings": "Servings: 6",
+  "source": "allrecipes.com",
+  "source_url": "https://www.allrecipes.com/recipe/12720/grilled-salmon-i/",
+  "total_time": "",
+  "uid": "E83D1501-A3B9-45C3-B20E-443300F6087A-1358-00021A4603DDCF39"
+}

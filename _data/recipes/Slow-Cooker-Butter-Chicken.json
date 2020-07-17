@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Chicken"
+  ],
+  "cook_time": "about 5 hours",
+  "created": "2020-04-19 11:25:30",
+  "description": "",
+  "difficulty": "",
+  "directions": "In medium skillet, heat oil over medium-high heat. Add onions to skillet, and cook until softened, about 3 minutes. Reduce heat to medium, add garlic and ginger, and cook another 2 minutes. Add garam masala, tomato paste and salt; cook and stir 2 minutes.\n\nPlace chicken pieces in a slow cooker, then add tomato paste mixture, lime zest and juice, coconut milk and chicken stock. Stir everything together, cover and cook on low heat setting for 4 1/2 to 5 hours, until the chicken is cooked through. (You may let it cook up to 7 hours if necessary, but the chicken may be very soft and shred.) Garnish with cilantro and serve with basmati or jasmine rice, and naan if you have some.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">In medium skillet, heat oil over medium-high heat. Add onions to skillet, and cook until softened, about <span class=\"timer\" time=\"180.0\">3 minutes</span>. Reduce heat to medium, add garlic and ginger, and cook another <span class=\"timer\" time=\"120.0\">2 minutes</span>. Add garam masala, tomato paste and salt; cook and stir <span class=\"timer\" time=\"120.0\">2 minutes</span>.</p><p class=\"line\">Place chicken pieces in a slow cooker, then add tomato paste mixture, lime zest and juice, coconut milk and chicken stock. Stir everything together, cover and cook on low heat setting for <span class=\"timer\" time=\"16200.0\">4 1/2 to 5 hours</span>, until the chicken is cooked through. (You may let it cook up to <span class=\"timer\" time=\"25200.0\">7 hours </span>if necessary, but the chicken may be very soft and shred.) Garnish with cilantro and serve with basmati or jasmine rice, and naan if you have some.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons vegetable oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> medium yellow onion, diced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> cloves garlic, finely chopped</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons grated ginger</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon garam masala</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> 6-ounce can tomato paste</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¾</strong> teaspoon kosher salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> pounds boneless, skinless chicken thighs or breasts, cut into 2-inch pieces</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon lime zest</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon lime juice</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> cup coconut milk (if necessary, whisk to combine the liquid and solids before measuring)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> cup chicken stock</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> cup cilantro leaves, for garnish (optional)</p><p class=\"line\" itemprop=\"recipeIngredient\">Cooked basmati or jasmine rice, for serving</p><p class=\"line\" itemprop=\"recipeIngredient\">Naan, for serving (optional)</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": "https://static01.nyt.com/images/2017/07/12/multimedia/12crowdrex-copy/12crowdrex-articleLarge.jpg",
+  "ingredients": "3 tablespoons vegetable oil\n1 medium yellow onion, diced\n3 cloves garlic, finely chopped\n3 tablespoons grated ginger\n1 tablespoon garam masala\n1 6-ounce can tomato paste\n¾ teaspoon kosher salt\n3 pounds boneless, skinless chicken thighs or breasts, cut into 2-inch pieces\n1 teaspoon lime zest\n1 tablespoon lime juice\n1 cup coconut milk (if necessary, whisk to combine the liquid and solids before measuring)\n½ cup chicken stock\n¼ cup cilantro leaves, for garnish (optional)\nCooked basmati or jasmine rice, for serving\nNaan, for serving (optional)",
+  "name": "Slow-Cooker Butter Chicken",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "F3BB220C-F9C0-4590-B5A9-CF736929668C-407-00004B4F143671A3.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Yield 4 to 6 servings",
+  "source": "cooking.nytimes.com",
+  "source_url": "https://cooking.nytimes.com/recipes/1018803-slow-cooker-butter-chicken?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1",
+  "total_time": "",
+  "uid": "AD9AE9FD-055E-4CB3-9F75-C9A884CA619A-407-00004B4D6A521E4B"
+}

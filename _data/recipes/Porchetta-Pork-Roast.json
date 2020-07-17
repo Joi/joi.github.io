@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Pork Shoulder"
+  ],
+  "cook_time": "4 to 5 hours",
+  "created": "2020-06-13 11:22:14",
+  "description": "",
+  "difficulty": "",
+  "directions": "Score skin and fat all over pork, taking care not to cut down to the meat.\n\nIn a food processor or mortar and pestle, combine fennel fronds, rosemary, sage, garlic, lemon zest, salt, fennel seed, red pepper flakes and black pepper. Pour in oil. Pulse or mash until it forms a paste. Rub all over pork. If using a boneless roast, tie with kitchen string at 2-inch intervals. Transfer to a large bowl and cover with plastic wrap. Refrigerate at least 6 hours and preferably overnight.\n\nRemove pork from refrigerator 1 to 2 hours before you want to cook it. Heat oven to 450 degrees. Transfer pork to a rimmed baking sheet and roast 35 minutes. Reduce temperature to 325 degrees and cook an additional 2 hours 45 minutes to 4 hours, until a thermometer inserted into the thickest part of the meat reads 180 degrees, which will give you sliceable, tender meat. (Bone-in roasts will take longer than boneless ones.)\n\nTransfer pork to a cutting board and let rest 15 to 30 minutes before serving. Make sure everyone gets some of the cracklings.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Score skin and fat all over pork, taking care not to cut down to the meat.</p><p class=\"line\">In a food processor or mortar and pestle, combine fennel fronds, rosemary, sage, garlic, lemon zest, salt, fennel seed, red pepper flakes and black pepper. Pour in oil. Pulse or mash until it forms a paste. Rub all over pork. If using a boneless roast, tie with kitchen string at 2-inch intervals. Transfer to a large bowl and cover with plastic wrap. Refrigerate at least <span class=\"timer\" time=\"21600.0\">6 hours </span>and preferably overnight.</p><p class=\"line\">Remove pork from refrigerator <span class=\"timer\" time=\"3600.0\">1 to 2 hours </span>before you want to cook it. Heat oven to 450 degrees. Transfer pork to a rimmed baking sheet and roast <span class=\"timer\" time=\"2100.0\">35 minutes</span>. Reduce temperature to 325 degrees and cook an additional <span class=\"timer\" time=\"9900.0\">2 hours 45 minutes </span>to <span class=\"timer\" time=\"14400.0\">4 hours</span>, until a thermometer inserted into the thickest part of the meat reads 180 degrees, which will give you sliceable, tender meat. (Bone-in roasts will take longer than boneless ones.)</p><p class=\"line\">Transfer pork to a cutting board and let rest <span class=\"timer\" time=\"900.0\">15 to 30 minutes </span>before serving. Make sure everyone gets some of the cracklings.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> (7- to 8-pound) bone-in, skin-on pork shoulder roast, or a 6- to 7-pound boneless roast, fat trimmed to 1/4-inch thickness</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> cup chopped fennel fronds</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> cup chopped fresh rosemary</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> teaspoons chopped fresh sage leaves</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>5</strong> garlic cloves, grated or mashed to a paste</p><p class=\"line\" itemprop=\"recipeIngredient\">Finely grated zest of 1 lemon</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> tablespoons kosher salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon fennel seed</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¾</strong> teaspoon red pepper flakes</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> teaspoon black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> cup extra-virgin olive oil</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": "https://static01.nyt.com/images/2014/12/09/multimedia/clark-porchetta/clark-porchetta-articleLarge.jpg",
+  "ingredients": "1 (7- to 8-pound) bone-in, skin-on pork shoulder roast, or a 6- to 7-pound boneless roast, fat trimmed to 1/4-inch thickness\n¼ cup chopped fennel fronds\n¼ cup chopped fresh rosemary\n2 teaspoons chopped fresh sage leaves\n5 garlic cloves, grated or mashed to a paste\nFinely grated zest of 1 lemon\n1 ½ tablespoons kosher salt\n1 teaspoon fennel seed\n¾ teaspoon red pepper flakes\n½ teaspoon black pepper\n¼ cup extra-virgin olive oil",
+  "name": "Porchetta Pork Roast",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "E6E895D2-7DBA-4007-B977-FAC465C38788-1358-00012EF9E36FFFBA.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Yield 8 to 12 servings",
+  "source": "cooking.nytimes.com",
+  "source_url": "https://cooking.nytimes.com/recipes/1017068-porchetta-pork-roast?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=10",
+  "total_time": "",
+  "uid": "6F983221-8568-4D59-A9B6-B07AE5C641D7-1358-00012EF59374CF81"
+}

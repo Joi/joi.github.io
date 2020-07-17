@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Lamb",
+    "Meat",
+    "Pork",
+    "Short Ribs",
+    "Turkey",
+    "Veal"
+  ],
+  "cook_time": "about 45 minutes",
+  "created": "2020-03-28 21:23:08",
+  "description": "",
+  "difficulty": "",
+  "directions": "Set a large Dutch oven or stockpot over medium-high heat and add 4 tablespoons butter or oil. When the butter melts or the oil shimmers, add onions and garlic, and a generous pinch of salt.\n\nReduce the heat to medium and cook, stirring occasionally, until the onions are tender, about 15 minutes.\n\nPlace the meat, vegetables and other add-ins in the pot, along with the raw chicken (if using), and add enough liquid to cover. Season with salt. Increase heat to high and bring to a boil, then reduce to a simmer.\n\nCook until the flavors have come together and the vegetables and greens are tender, about 20 minutes more. If you added raw chicken, remove it from the soup when cooked, allow to cool, shred and return to the soup. Taste and adjust for salt.\n\nAdd more hot liquid if needed to thin the soup to desired consistency. Taste and adjust for salt.\n\nServe hot, and garnish as desired.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Set a large Dutch oven or stockpot over medium-high heat and add 4 tablespoons butter or oil. When the butter melts or the oil shimmers, add onions and garlic, and a generous pinch of salt.</p><p class=\"line\">Reduce the heat to medium and cook, stirring occasionally, until the onions are tender, about <span class=\"timer\" time=\"900.0\">15 minutes</span>.</p><p class=\"line\">Place the meat, vegetables and other add-ins in the pot, along with the raw chicken (if using), and add enough liquid to cover. Season with salt. Increase heat to high and bring to a boil, then reduce to a simmer.</p><p class=\"line\">Cook until the flavors have come together and the vegetables and greens are tender, about <span class=\"timer\" time=\"1200.0\">20 minutes </span>more. If you added raw chicken, remove it from the soup when cooked, allow to cool, shred and return to the soup. Taste and adjust for salt.</p><p class=\"line\">Add more hot liquid if needed to thin the soup to desired consistency. Taste and adjust for salt.</p><p class=\"line\">Serve hot, and garnish as desired.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> tablespoons butter, olive oil or neutral-tasting oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> medium onions, diced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> cloves garlic, sliced</p><p class=\"line\" itemprop=\"recipeIngredient\">Kosher salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6 to 8</strong> cups meat, vegetables or other add-ins (see notes)</p><p class=\"line\" itemprop=\"recipeIngredient\">About 1 1/2 pounds raw, boneless chicken (optional)</p><p class=\"line\" itemprop=\"recipeIngredient\">About 8 cups water or chicken stock, preferably homemade (see notes)</p>\n</div>",
+    "notes": "None",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories: 218<br/>Total Carbohydrates: 22 grams<br/>Total Fat: 10 grams<br/>Dietary fiber: 4 grams<br/>Protein: 9 grams<br/>Saturated fat: 1 gram<br/>Sodium: 826 milligrams<br/>Sugar: 5 grams<br/>Trans Fat: 0 grams<br/>Unsaturated fat: 6 grams</p>\n</div>"
+  },
+  "image_url": "https://static01.nyt.com/images/2017/01/11/dining/11SOUPS21/11SOUPS21-articleLarge.jpg",
+  "ingredients": "4 tablespoons butter, olive oil or neutral-tasting oil\n2 medium onions, diced\n3 cloves garlic, sliced\nKosher salt\n6 to 8 cups meat, vegetables or other add-ins (see notes)\nAbout 1 1/2 pounds raw, boneless chicken (optional)\nAbout 8 cups water or chicken stock, preferably homemade (see notes)",
+  "name": "Whatever You Want Soup",
+  "notes": "",
+  "nutritional_info": "Calories: 218\nTotal Carbohydrates: 22 grams\nTotal Fat: 10 grams\nDietary fiber: 4 grams\nProtein: 9 grams\nSaturated fat: 1 gram\nSodium: 826 milligrams\nSugar: 5 grams\nTrans Fat: 0 grams\nUnsaturated fat: 6 grams",
+  "photo": "C301CF21-3E04-40C9-8D58-C7FA3CEB4BDF-13288-0000085198424F30.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Yield 6 to 8 servings",
+  "source": "cooking.nytimes.com",
+  "source_url": "https://cooking.nytimes.com/recipes/1018526-whatever-you-want-soup?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2",
+  "total_time": "",
+  "uid": "C888788B-88DB-4A36-90E2-6DC9A5F6FC2A-13288-000008518665F880"
+}

@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Salmon"
+  ],
+  "cook_time": "",
+  "created": "2020-04-18 10:45:08",
+  "description": "",
+  "difficulty": "",
+  "directions": "Method\n\nMethod -- Have Ready:\n\nFor the salmon: Cut a piece from the thickest part of the whole salmon or choose very thick fillets. Either buy it skinless or skin the fish yourself. Make sure all the bones are removed from the fillet.\n\nDivide the fish into 4 pieces each weighing about 6 ounces.\n\nPut the fish fillets between two sheets of lightly oiled wax paper and flatten the fish using a mallet. The purpose of this is not so much to reduce the thickeness as the fish as to make the fillet the same thickness throughout so the fish will cook the same throughout.\n\nRemove the stems from the sorrel but stripping the central veins from each piece.\n\nPreparing the Sauce:\n\nPut the fish stock, white wine, nouilly prat, shallots, into a sauce pan and cook over high heat till a near glaze is reached. Add the creme fraiche and reduce till the sauce is slightly thickened. Add the sorrel for around 20 seconds while stirring. Then incorporate the butter off the heat Before serving add a few drops of lemon juice\n\nTo cook the salmon:\n\nHeat a \"nonstick pan\" without oil. Add the salmon with the seasoned side down for 25 seconds. then turn to the second side for another 25 seconds.. The salmon should be undercooked since it will continue to cook after plating.\n\nAdd the sorrel sauce to each plate then add a salmon fillet to a warmed plate. It is important that the plate is properly warmed first. These dishes must be served immediately.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Method</p><p class=\"line\"><strong>Method -- Have Ready:</strong></p><p class=\"line\">For the salmon: Cut a piece from the thickest part of the whole salmon or choose very thick fillets. Either buy it skinless or skin the fish yourself. Make sure all the bones are removed from the fillet.</p><p class=\"line\">Divide the fish into 4 pieces each weighing about 6 ounces.</p><p class=\"line\">Put the fish fillets between two sheets of lightly oiled wax paper and flatten the fish using a mallet. The purpose of this is not so much to reduce the thickeness as the fish as to make the fillet the same thickness throughout so the fish will cook the same throughout.</p><p class=\"line\">Remove the stems from the sorrel but stripping the central veins from each piece.</p><p class=\"line\"><strong>Preparing the Sauce:</strong></p><p class=\"line\">Put the fish stock, white wine, nouilly prat, shallots, into a sauce pan and cook over high heat till a near glaze is reached. Add the creme fraiche and reduce till the sauce is slightly thickened. Add the sorrel for around <span class=\"timer\" time=\"20.0\">20 seconds </span>while stirring. Then incorporate the butter off the heat Before serving add a few drops of lemon juice</p><p class=\"line\"><strong>To cook the salmon:</strong></p><p class=\"line\">Heat a \"nonstick pan\" without oil. Add the salmon with the seasoned side down for <span class=\"timer\" time=\"25.0\">25 seconds</span>. then turn to the second side for another <span class=\"timer\" time=\"25.0\">25 seconds</span>.. The salmon should be undercooked since it will continue to cook after plating.</p><p class=\"line\">Add the sorrel sauce to each plate then add a salmon fillet to a warmed plate. It is important that the plate is properly warmed first. These dishes must be served immediately.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> pounds fresh salmon</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> ounces fresh sorrel leaves (about 1 qt. tightly packed)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> quart fish stock prefably home made</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup sancerre or other dry wine (chablis from France)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons Nouilly Prat</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons finely diced shallots</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 1/2</strong> cups creme fraiche</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons butter</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> lemon</p><p class=\"line\" itemprop=\"recipeIngredient\">coarse salt</p><p class=\"line\" itemprop=\"recipeIngredient\">finely ground white pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 to 2</strong> tablespoons grapeseed oilntry bread)</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and Cayenne Pepper</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": "https://www.signaturedishes.net/recipes/salmon-sorrel-sauce-2.jpg",
+  "ingredients": "2 pounds fresh salmon\n4 ounces fresh sorrel leaves (about 1 qt. tightly packed)\n1 quart fish stock prefably home made\n1/2 cup sancerre or other dry wine (chablis from France)\n3 tablespoons Nouilly Prat\n2 tablespoons finely diced shallots\n1 1/2 cups creme fraiche\n3 tablespoons butter\n1/2 lemon\ncoarse salt\nfinely ground white pepper\n1 to 2 tablespoons grapeseed oilntry bread)\nSalt and Cayenne Pepper",
+  "name": "Salmon and Sorrel Sauce",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "86BF2D33-509F-44C4-A8C4-BF405E2FB148-2334-00027235473507DB.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 5,
+  "servings": "",
+  "source": "signaturedishes.net",
+  "source_url": "https://www.signaturedishes.net/recipes/salmon-sorrel-sauce.html",
+  "total_time": "",
+  "uid": "A62FE62C-0F90-4AB7-8B49-B06BD1C85461-2334-00027230C7452159"
+}

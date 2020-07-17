@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Fish",
+    "Halibut",
+    "White Fish"
+  ],
+  "cook_time": "14 minutes",
+  "created": "2020-06-01 08:51:11",
+  "description": "",
+  "difficulty": "",
+  "directions": "Preheat outdoor grill to medium heat or indoor oven to 400 degrees. Prepare 4 sheets of heavy-duty aluminum foil at least 16\" x 12\". Season each halibut filet on all sides with salt and pepper then set aside.\n\nSpray the center of each piece of foil with cooking spray and add a quarter of the sliced zucchini to each sheet. Divide the onion and bell pepper evenly among each packet and season all the veggies lightly with salt and pepper.\n\nPlace one seasoned filet on top of each bed of veggies and sprinkle with your choice of chopped fresh herb and parsley. Lay 2–3 slices of lemon on top of each piece of fish and drizzle approximately 1 tsp of olive oil over the fish and veggies.\n\nFold long sides of foil up and over and bring edges together. Roll the foil together, moving downward until 1–2\" from the top of the fish. Fold both short ends together to seal the packet but make sure to leave enough space inside the packet for steam expansion.\n\nPlace packets directly on grill or on a baking sheet in the oven. Grill them 8–9 minutes or bake 12–14 minutes in the oven or until veggies are tender and fish is barely cooked through. Remove from grill or oven and carefully open packets to allow steam to escape. Enjoy!",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Preheat outdoor grill to medium heat or indoor oven to 400 degrees. Prepare 4 sheets of heavy-duty aluminum foil at least 16\" x 12\". Season each halibut filet on all sides with salt and pepper then set aside.</p><p class=\"line\">Spray the center of each piece of foil with cooking spray and add a quarter of the sliced zucchini to each sheet. Divide the onion and bell pepper evenly among each packet and season all the veggies lightly with salt and pepper.</p><p class=\"line\">Place one seasoned filet on top of each bed of veggies and sprinkle with your choice of chopped fresh herb and parsley. Lay 2-3 slices of lemon on top of each piece of fish and drizzle approximately 1 tsp of olive oil over the fish and veggies.</p><p class=\"line\">Fold long sides of foil up and over and bring edges together. Roll the foil together, moving downward until 1-2\" from the top of the fish. Fold both short ends together to seal the packet but make sure to leave enough space inside the packet for steam expansion.</p><p class=\"line\">Place packets directly on grill or on a baking sheet in the oven. Grill them <span class=\"timer\" time=\"480.0\">8-9 minutes </span>or bake <span class=\"timer\" time=\"720.0\">12-14 minutes </span>in the oven or until veggies are tender and fish is barely cooked through. Remove from grill or oven and carefully open packets to allow steam to escape. Enjoy!</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">heavy-duty aluminum foil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4 -4</strong> oz halibut fillets</p><p class=\"line\" itemprop=\"recipeIngredient\">salt and pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> small zucchini, sliced ⅛\" thick</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> red onion, thinly sliced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> bell pepper, seeded and sliced ⅛\" thick</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> Tbsp dill, chopped fresh herbs like dill or tarragon or basil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> Tbsp fresh parsley, chopped</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> lemon, thinly sliced</p><p class=\"line\" itemprop=\"recipeIngredient\">olive oil</p>\n</div>",
+    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>Need to figure out better way to test if it's done. Was overcooked a bit.</p>\n</div>",
+    "nutrition": "None"
+  },
+  "image_url": null,
+  "ingredients": "heavy-duty aluminum foil\n4 -4 oz halibut fillets\nsalt and pepper\n2 small zucchini, sliced ⅛\" thick\n1/2 red onion, thinly sliced\n1 bell pepper, seeded and sliced ⅛\" thick\n1 Tbsp dill, chopped fresh herbs like dill or tarragon or basil\n2 Tbsp fresh parsley, chopped\n1 lemon, thinly sliced\nolive oil",
+  "name": "Halibut and Veggie Foil Packet",
+  "notes": "Need to figure out better way to test if it's done. Was overcooked a bit.",
+  "nutritional_info": "",
+  "photo": null,
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "25 minutes",
+  "rating": 4,
+  "servings": "4 foil packets",
+  "source": "everydaydishes.com",
+  "source_url": "https://everydaydishes.com/simple-food-recipes/halibut-and-veggie-foil-packet-recipe/",
+  "total_time": "",
+  "uid": "6263EFB6-0713-4AF0-A003-C6E5DF839147-29546-0004CF93A912ECE7"
+}

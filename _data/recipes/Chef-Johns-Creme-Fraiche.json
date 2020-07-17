@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Sauce"
+  ],
+  "cook_time": "2 days",
+  "created": "2020-06-29 06:55:43",
+  "description": "",
+  "difficulty": "",
+  "directions": "Instructions Checklist\n\nCombine cream and buttermilk in a glass jar. Cover tightly with cheesecloth (or any breathable material) and let sit at room temperature (70 to 75 degrees F (21 to 24 degrees C)) for 24 hours. Stir, screw on lid, and refrigerate for 24 hours before using.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Instructions Checklist</p><p class=\"line\">Combine cream and buttermilk in a glass jar. Cover tightly with cheesecloth (or any breathable material) and let sit at room temperature (70 to 75 degrees F (21 to 24 degrees C)) for <span class=\"timer\" time=\"86400.0\">24 hours</span>. Stir, screw on lid, and refrigerate for <span class=\"timer\" time=\"86400.0\">24 hours </span>before using.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> cups heavy cream</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons cultured buttermilk</p>\n</div>",
+    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>Be sure to use the best, freshest cream you can find. Look for pasteurized, not ultra-pasteurized heavy whipping cream. Make sure to use cultured buttermilk, otherwise you will wait a full day to see nothing happen.</p><p>Partner Tip</p><p>Reynolds® Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier.</p>\n</div>",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>52 calories; 5.5 g total fat; 20 mg cholesterol; 7 mg sodium. 0.5 g carbohydrates; 0.4 g protein; Full Nutrition</p>\n</div>"
+  },
+  "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4226774.jpg&w=568&h=380&c=sc&poi=face&q=85",
+  "ingredients": "2 cups heavy cream\n3 tablespoons cultured buttermilk",
+  "name": "Chef John's Creme Fraiche",
+  "notes": "Be sure to use the best, freshest cream you can find. Look for pasteurized, not ultra-pasteurized heavy whipping cream. Make sure to use cultured buttermilk, otherwise you will wait a full day to see nothing happen.\n\nPartner Tip\n\nReynolds® Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier.",
+  "nutritional_info": "52 calories; 5.5 g total fat; 20 mg cholesterol; 7 mg sodium. 0.5 g carbohydrates; 0.4 g protein; Full Nutrition",
+  "photo": "9B7A8F62-033F-48C4-9BB7-1C9301A45FEE-47978-000609AD7D109673.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "5 mins",
+  "rating": 0,
+  "servings": "Servings: 32",
+  "source": "allrecipes.com",
+  "source_url": "https://www.allrecipes.com/recipe/222387/chef-johns-creme-fraiche/",
+  "total_time": "",
+  "uid": "D4862E9C-533D-44A2-9353-E56DA169161C-47978-000609AAA346CD0A"
+}

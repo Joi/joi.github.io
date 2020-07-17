@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Shrimp"
+  ],
+  "cook_time": "10 minutes",
+  "created": "2020-07-11 12:04:14",
+  "description": "",
+  "difficulty": "",
+  "directions": "Place the olive oil, lemon juice, salt, pepper, Italian seasoning and garlic in a resealable plastic bag. Seal and shake to combine.\n\nAdd the shrimp to the bag and seal. Toss to coat evenly with the marinade.\n\nMarinate for at least 15 minutes or up to 2 hours. You don't want to marinate for longer than that, as the acid in the lemon juice will start to cook the shrimp.\n\nThread the shrimp onto skewers. Heat a grill or grill pan over medium high heat.\n\nPlace the skewers on the grill. Cook for 2-3 minutes on each side or until shrimp are pink and opaque.\n\nBroiler directions: Preheat the broiler. Place the shrimp skewers on a sheet pan coated with cooking spray. Broil for 2-3 minutes on each side or until shrimp are pink and opaque.\n\nSprinkle with parsley and serve with lemon wedges.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Place the olive oil, lemon juice, salt, pepper, Italian seasoning and garlic in a resealable plastic bag. Seal and shake to combine.</p><p class=\"line\">Add the shrimp to the bag and seal. Toss to coat evenly with the marinade.</p><p class=\"line\">Marinate for at least <span class=\"timer\" time=\"900.0\">15 minutes </span>or up to <span class=\"timer\" time=\"7200.0\">2 hours</span>. You don't want to marinate for longer than that, as the acid in the lemon juice will start to cook the shrimp.</p><p class=\"line\">Thread the shrimp onto skewers. Heat a grill or grill pan over medium high heat.</p><p class=\"line\">Place the skewers on the grill. Cook for <span class=\"timer\" time=\"120.0\">2-3 minutes </span>on each side or until shrimp are pink and opaque.</p><p class=\"line\">Broiler directions: Preheat the broiler. Place the shrimp skewers on a sheet pan coated with cooking spray. Broil for <span class=\"timer\" time=\"120.0\">2-3 minutes </span>on each side or until shrimp are pink and opaque.</p><p class=\"line\">Sprinkle with parsley and serve with lemon wedges.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> pound large shrimp peeled and deveined (you can either leave tails on or remove them)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> cup olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons lemon juice</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3/4</strong> teaspoon salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> teaspoon pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon Italian seasoning</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> teaspoons minced garlic</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon chopped parsley</p><p class=\"line\" itemprop=\"recipeIngredient\">lemon wedges for serving</p>\n</div>",
+    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>2020-07-12 Salty at this level. Should probably have been half.</p>\n</div>",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories 206kcal<br/>Calories: 206kcal | Protein: 23g | Fat: 10g | Saturated Fat: 2g | Cholesterol: 285mg | Sodium: 1317mg | Potassium: 90mg | Vitamin C: 7.6mg | Calcium: 172mg | Iron: 2.7mg</p>\n</div>"
+  },
+  "image_url": "https://www.dinneratthezoo.com/wp-content/uploads/2018/05/grilled-shrimp-skewers-3-200x300.jpg",
+  "ingredients": "1 pound large shrimp peeled and deveined (you can either leave tails on or remove them)\n1/4 cup olive oil\n2 tablespoons lemon juice\n3/4 teaspoon salt\n1/4 teaspoon pepper\n1 teaspoon Italian seasoning\n2 teaspoons minced garlic\n1 tablespoon chopped parsley\nlemon wedges for serving",
+  "name": "Grilled Shrimp Skewers",
+  "notes": "2020-07-12 Salty at this level. Should probably have been half.",
+  "nutritional_info": "Calories 206kcal\nCalories: 206kcal | Protein: 23g | Fat: 10g | Saturated Fat: 2g | Cholesterol: 285mg | Sodium: 1317mg | Potassium: 90mg | Vitamin C: 7.6mg | Calcium: 172mg | Iron: 2.7mg",
+  "photo": "63C5354F-1612-4174-AAE0-804F47F739E3-3951-0000025EA3426269.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "5 minutes",
+  "rating": 3,
+  "servings": "Servings 4",
+  "source": "dinneratthezoo.com",
+  "source_url": "https://www.dinneratthezoo.com/grilled-shrimp-skewers/",
+  "total_time": "",
+  "uid": "33351D7B-15D1-410E-B962-EB6233737326-3951-0000025E910495AA"
+}

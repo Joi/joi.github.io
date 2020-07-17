@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Chicken"
+  ],
+  "cook_time": "1 hour 45 minutes",
+  "created": "2020-03-29 08:02:01",
+  "description": "",
+  "difficulty": "",
+  "directions": "Pat chicken thighs dry with paper towels. Season well with salt and pepper and place in an earthenware baking dish in one layer, skin side up. Sprinkle with red pepper, garlic, fennel and rosemary and drizzle with olive oil. Rub seasoning into thighs on all sides. Tuck lemon wedges here and there. Let marinate for 15 minutes. Heat oven to 375 degrees.\n\nPut baking dish in oven, uncovered, and roast until skin browns lightly, about 20 minutes. Scatter olives evenly over chicken and add broth. Cover tightly and bake for 1 hour, until meat is very tender when probed with a skewer.\n\nRemove thighs and lemon wedges and arrange on a platter. Keep warm. Pour pan juices into a saucepan and quickly skim fat from surface. Over high heat, simmer rapidly until reduced by half. Spoon juices over chicken, sprinkle with parsley and serve.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Pat chicken thighs dry with paper towels. Season well with salt and pepper and place in an earthenware baking dish in one layer, skin side up. Sprinkle with red pepper, garlic, fennel and rosemary and drizzle with olive oil. Rub seasoning into thighs on all sides. Tuck lemon wedges here and there. Let marinate for <span class=\"timer\" time=\"900.0\">15 minutes</span>. Heat oven to 375 degrees.</p><p class=\"line\">Put baking dish in oven, uncovered, and roast until skin browns lightly, about <span class=\"timer\" time=\"1200.0\">20 minutes</span>. Scatter olives evenly over chicken and add broth. Cover tightly and bake for <span class=\"timer\" time=\"3600.0\">1 hour</span>, until meat is very tender when probed with a skewer.</p><p class=\"line\">Remove thighs and lemon wedges and arrange on a platter. Keep warm. Pour pan juices into a saucepan and quickly skim fat from surface. Over high heat, simmer rapidly until reduced by half. Spoon juices over chicken, sprinkle with parsley and serve.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>8</strong> chicken thighs, skin-on and bone-in, about 3 1/2 pounds</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> teaspoon red pepper flakes</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> garlic cloves, minced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> teaspoon crushed fennel seeds</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon roughly chopped rosemary</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> Meyer lemons, cut in wedges</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> cup flavorful olives with pits, a mixture of black and green, about 1 pound</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> cup chicken broth</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons chopped parsley</p>\n</div>",
+    "notes": "None",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories: 510<br/>Total Carbohydrates: 7 grams<br/>Total Fat: 38 grams<br/>Dietary fiber: 2 grams<br/>Protein: 35 grams<br/>Saturated fat: 10 grams<br/>Sodium: 666 milligrams<br/>Sugar: 1 gram<br/>Trans Fat: 0 grams<br/>Unsaturated fat: 17 grams</p>\n</div>"
+  },
+  "image_url": "https://static01.nyt.com/images/2015/03/04/dining/04KITCH/04KITCH-articleLarge.jpg",
+  "ingredients": "8 chicken thighs, skin-on and bone-in, about 3 1/2 pounds\nSalt and pepper\n½ teaspoon red pepper flakes\n6 garlic cloves, minced\n½ teaspoon crushed fennel seeds\n1 tablespoon roughly chopped rosemary\n1 tablespoon olive oil\n2 Meyer lemons, cut in wedges\n1 cup flavorful olives with pits, a mixture of black and green, about 1 pound\n1 cup chicken broth\n3 tablespoons chopped parsley",
+  "name": "Braised Chicken with Lemon and Olives",
+  "notes": "",
+  "nutritional_info": "Calories: 510\nTotal Carbohydrates: 7 grams\nTotal Fat: 38 grams\nDietary fiber: 2 grams\nProtein: 35 grams\nSaturated fat: 10 grams\nSodium: 666 milligrams\nSugar: 1 gram\nTrans Fat: 0 grams\nUnsaturated fat: 17 grams",
+  "photo": "A99D4799-04D5-41D4-AEF5-B9C33B94ADCC-14274-000009188663A80F.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 5,
+  "servings": "Yield 4 to 6 servings",
+  "source": "cooking.nytimes.com",
+  "source_url": "https://cooking.nytimes.com/recipes/1017258-braised-chicken-with-lemon-and-olives",
+  "total_time": "",
+  "uid": "B2B43BA7-22D4-4BD8-83DC-D14E3B6E8D92-14274-0000091878C6BB9A"
+}

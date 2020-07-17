@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Chicken"
+  ],
+  "cook_time": "5 to 6 hours",
+  "created": "2020-04-19 11:21:48",
+  "description": "",
+  "difficulty": "",
+  "directions": "Combine the chicken thighs, salsa verde, green chiles, chopped garlic, jalapeño, garlic powder, onion powder and cumin in a 6- to 8-quart slow cooker. Stir to evenly combine. (Don’t add salt now; jarred salsas are often high in sodium.) Cook on low until the chicken is tender and the flavors are blended, 5 to 6 hours. (If you will be away for 8 hours or more, set the cook time for 4 hours on low and set the slow cooker auto-switch to warm for the remaining time.)\n\nUse two forks to coarsely shred the chicken. With the heat on low, add the scallions and cilantro, and stir to combine. Season to taste with salt and lime juice. Serve with rice or in tortillas, if desired, with accompaniments.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Combine the chicken thighs, salsa verde, green chiles, chopped garlic, jalapeño, garlic powder, onion powder and cumin in a 6- to 8-quart slow cooker. Stir to evenly combine. (Don’t add salt now; jarred salsas are often high in sodium.) Cook on low until the chicken is tender and the flavors are blended, <span class=\"timer\" time=\"18000.0\">5 to 6 hours</span>. (If you will be away for <span class=\"timer\" time=\"28800.0\">8 hours </span>or more, set the cook time for <span class=\"timer\" time=\"14400.0\">4 hours </span>on low and set the slow cooker auto-switch to warm for the remaining time.)</p><p class=\"line\">Use two forks to coarsely shred the chicken. With the heat on low, add the scallions and cilantro, and stir to combine. Season to taste with salt and lime juice. Serve with rice or in tortillas, if desired, with accompaniments.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> pounds boneless, skinless chicken thighs</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> cups jarred salsa verde</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> (4-ounce) can chopped mild green chiles</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>8</strong> garlic cloves, finely chopped</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> jalapeño, stemmed, seeded and diced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon garlic powder</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon onion powder</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon ground cumin</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> scallions (green and white parts), thinly sliced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> small bunch cilantro, leaves and tender stems finely chopped (about 1 heaping cup)</p><p class=\"line\" itemprop=\"recipeIngredient\">Kosher salt, to taste</p><p class=\"line\" itemprop=\"recipeIngredient\">Fresh lime juice, to taste</p><p class=\"line\" itemprop=\"recipeIngredient\">Any combination of rice, tortillas, pepitas, queso fresco, diced avocado and crushed tortilla chips, for serving</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": "https://static01.nyt.com/images/2019/11/25/dining/sd-slow-cooker-salsa-verde-chicken/sd-slow-cooker-salsa-verde-chicken-articleLarge.jpg",
+  "ingredients": "1 ½ pounds boneless, skinless chicken thighs\n1 ½ cups jarred salsa verde\n1 (4-ounce) can chopped mild green chiles\n8 garlic cloves, finely chopped\n1 jalapeño, stemmed, seeded and diced\n1 teaspoon garlic powder\n1 teaspoon onion powder\n1 teaspoon ground cumin\n3 scallions (green and white parts), thinly sliced\n1 small bunch cilantro, leaves and tender stems finely chopped (about 1 heaping cup)\nKosher salt, to taste\nFresh lime juice, to taste\nAny combination of rice, tortillas, pepitas, queso fresco, diced avocado and crushed tortilla chips, for serving",
+  "name": "Slow Cooker Salsa Verde Chicken",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "C678CB4C-EC8D-43E5-B708-B7EE0FEAAC0B-407-00004B1B924F8705.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Yield 4 servings",
+  "source": "cooking.nytimes.com",
+  "source_url": "https://cooking.nytimes.com/recipes/1020669-slow-cooker-salsa-verde-chicken?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1",
+  "total_time": "",
+  "uid": "22A573CB-290E-48B6-95B4-8902C6D0388E-407-00004B19D7C22E2D"
+}

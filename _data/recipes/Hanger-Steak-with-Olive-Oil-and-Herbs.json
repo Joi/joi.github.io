@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Steaks"
+  ],
+  "cook_time": "20 minutes",
+  "created": "2020-05-04 20:48:28",
+  "description": "",
+  "difficulty": "",
+  "directions": "Combine Worcestershire sauce, soy sauce, fish sauce and maple syrup. Coat steak with the mixture. Season with salt and pepper. Let marinate 2 hours at room temperature.\n\nAbout an hour before serving, heat oven to 375 degrees. Coat potatoes with 2 tablespoons oil, salt and pepper, and roast crisp. Keep warm. Heat grill. Grill steaks. Set aside. Briefly sauté greens in a tablespoon of oil. Drain well. Place on dinner plates. Slice steaks and arrange on greens. Top with potatoes.\n\nWarm remaining oil in a small skillet, add herbs and lemon zest, and cook about 30 seconds, until herbs are fragrant. Pour herbs and oil over potatoes and steaks. Serve.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Combine Worcestershire sauce, soy sauce, fish sauce and maple syrup. Coat steak with the mixture. Season with salt and pepper. Let marinate <span class=\"timer\" time=\"7200.0\">2 hours </span>at room temperature.</p><p class=\"line\">About <span class=\"timer\" time=\"3600.0\">an hour </span>before serving, heat oven to 375 degrees. Coat potatoes with 2 tablespoons oil, salt and pepper, and roast crisp. Keep warm. Heat grill. Grill steaks. Set aside. Briefly sauté greens in a tablespoon of oil. Drain well. Place on dinner plates. Slice steaks and arrange on greens. Top with potatoes.</p><p class=\"line\">Warm remaining oil in a small skillet, add herbs and lemon zest, and cook about <span class=\"timer\" time=\"30.0\">30 seconds</span>, until herbs are fragrant. Pour herbs and oil over potatoes and steaks. Serve.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons Worcestershire sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons soy sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons Thai fish sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons maple syrup</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> 1-pound hanger steak, trimmed and divided in two</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and freshly ground black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>10</strong> ounces small potatoes, quartered</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>5</strong> tablespoons herbaceous extra virgin olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> ounces greens, preferably baby spinach</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> cup coarsely chopped herbs</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon grated lemon zest</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": null,
+  "ingredients": "2 tablespoons Worcestershire sauce\n2 tablespoons soy sauce\n2 tablespoons Thai fish sauce\n2 tablespoons maple syrup\n1 1-pound hanger steak, trimmed and divided in two\nSalt and freshly ground black pepper\n10 ounces small potatoes, quartered\n5 tablespoons herbaceous extra virgin olive oil\n6 ounces greens, preferably baby spinach\n½ cup coarsely chopped herbs\n1 teaspoon grated lemon zest",
+  "name": "Hanger Steak with Olive Oil and Herbs",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "39E9C8F4-B11E-4CF4-AB51-8B841250B6EA-14694-0000501D508C01D4.jpg",
+  "photo_large": "6FFDBCB9-3F7E-4B26-ACDE-9F7EC12AE18D-14694-00005015BF597FBF.jpg",
+  "photos": [
+    {
+      "filename": "6FFDBCB9-3F7E-4B26-ACDE-9F7EC12AE18D-14694-00005015BF597FBF.jpg",
+      "name": "1"
+    }
+  ],
+  "prep_time": "",
+  "rating": 5,
+  "servings": "Yield 2 servings",
+  "source": "cooking.nytimes.com",
+  "source_url": "https://cooking.nytimes.com/recipes/8451-hanger-steak-with-olive-oil-and-herbs",
+  "total_time": "",
+  "uid": "D786F450-7037-453C-9DD7-EECBAE202032-39436-00015D8932851873"
+}

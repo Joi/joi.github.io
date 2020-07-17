@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Soft-Shell Crabs"
+  ],
+  "cook_time": "",
+  "created": "2020-07-13 14:59:08",
+  "description": "",
+  "difficulty": "",
+  "directions": "Instructions Checklist\n\nWhisk flour, salt, and pepper; place on a dinner plate. Dredge 2 soft-shell crabs in flour mixture, shaking off excess (make sure crabs are completely coated).\n\nHeat 2 tablespoons oil in a medium sauté pan over medium-high heat. The oil should be very hot but not smoking. Place flour-coated crabs, back side down, in sauté pan; reduce heat to medium if pan starts to smoke. Sauté crabs until golden and crisp, about 3 minutes (do not stand too close to pan; crabs tend to spatter during cooking). Turn crabs over, and cook 2 minutes more.\n\nAdd 1 tablespoon butter and a large pinch of parsley to skillet. Squeeze the juice of half a lemon over crabs. Keep warm in a low oven. Repeat process until all the crabs are cooked.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Instructions Checklist</p><p class=\"line\">Whisk flour, salt, and pepper; place on a dinner plate. Dredge 2 soft-shell crabs in flour mixture, shaking off excess (make sure crabs are completely coated).</p><p class=\"line\">Heat 2 tablespoons oil in a medium sauté pan over medium-high heat. The oil should be very hot but not smoking. Place flour-coated crabs, back side down, in sauté pan; reduce heat to medium if pan starts to smoke. Sauté crabs until golden and crisp, about <span class=\"timer\" time=\"180.0\">3 minutes </span>(do not stand too close to pan; crabs tend to spatter during cooking). Turn crabs over, and cook <span class=\"timer\" time=\"120.0\">2 minutes </span>more.</p><p class=\"line\">Add 1 tablespoon butter and a large pinch of parsley to skillet. Squeeze the juice of half a lemon over crabs. Keep warm in a low oven. Repeat process until all the crabs are cooked.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 1/2</strong> cups all-purpose flour</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> teaspoons coarse salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon freshly ground pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>12</strong> soft-shell crabs, cleaned</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>12</strong> tablespoons vegetable oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> tablespoons unsalted butter</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> cup loosely packed fresh flat-leaf parsley leaves, chopped</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> lemons, cut in half</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": null,
+  "ingredients": "1 1/2 cups all-purpose flour\n2 teaspoons coarse salt\n1 teaspoon freshly ground pepper\n12 soft-shell crabs, cleaned\n12 tablespoons vegetable oil\n6 tablespoons unsalted butter\n1/4 cup loosely packed fresh flat-leaf parsley leaves, chopped\n3 lemons, cut in half",
+  "name": "Pan-Fried Soft-Shell Crabs",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "5A508BAC-A8EE-4C8F-A271-EC49F87E8405-29053-0004B178DD145E01.jpg",
+  "photo_large": "A30DF703-B667-4DAF-BC9A-5541C319D464-29053-0004B13BF105645D.jpg",
+  "photos": [
+    {
+      "filename": "A30DF703-B667-4DAF-BC9A-5541C319D464-29053-0004B13BF105645D.jpg",
+      "name": "1"
+    }
+  ],
+  "prep_time": "",
+  "rating": 4,
+  "servings": "Servings: 6",
+  "source": "marthastewart.com",
+  "source_url": "https://www.marthastewart.com/1158406/pan-fried-soft-shell-crabs",
+  "total_time": "",
+  "uid": "AFF11F1F-5F06-4C85-9632-540CE2204830-29053-0004123BC220E7DC"
+}

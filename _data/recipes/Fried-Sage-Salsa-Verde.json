@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Sauce"
+  ],
+  "cook_time": "",
+  "created": "2020-07-15 12:45:13",
+  "description": "",
+  "difficulty": "",
+  "directions": "Heat oil to 360°F. Add sage leaves in batcges. Stir when bubbles die down and pull them out with a slotted spoon. (About 30 sec.) put on baking sheet. Dry and sprinkle with salt.\n\nCrumble Sage into salsa.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Heat oil to 360°F. Add sage leaves in batcges. Stir when bubbles die down and pull them out with a slotted spoon. (About <span class=\"timer\" time=\"30.0\">30 sec</span>.) put on baking sheet. Dry and sprinkle with salt.</p><p class=\"line\">Crumble Sage into salsa.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">Basic Salsa Verde</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>24</strong> sage leaves</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> cups neutral-tasting oil for frying</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": null,
+  "ingredients": "Basic Salsa Verde\n24 sage leaves\n3 cups neutral-tasting oil for frying",
+  "name": "Fried Sage Salsa Verde",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": null,
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "",
+  "source": "",
+  "source_url": "",
+  "total_time": "",
+  "uid": "AEB4BC7F-C507-498F-AD56-F3F1EA6A1CED-14775-000009F4FCAEEA00"
+}

@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Lamb",
+    "Meat"
+  ],
+  "cook_time": "9 to 10 hours on low or 6 to 7 hours on high",
+  "created": "2020-05-14 10:44:33",
+  "description": "WHY THIS RECIPE WORKS\nWe chose a hearty boneless lamb shoulder roast for this recipe, and it remained tender and juicy during the extended cooking time. A hefty amount of spices is key in this dish, but too much produced a chalky texture. To avoid this pitfall, we bloomed the spices with the aromatics, allowing us to use a more moderate amount. Some sugar and red wine vinegar also enhanced the flavors of the dish.",
+  "difficulty": "",
+  "directions": "Microwave onions, oil, paprika, garlic, tomato paste, cumin, cardamom, and cayenne in bowl, stirring occasionally, until onions are softened, about 5 minutes; transfer to slow cooker.\n\nStir tomatoes and their juice, broth, tapioca, vinegar, bay leaves, and sugar into slow cooker. Season lamb with salt and pepper and stir into slow cooker. Cover and cook until lamb is tender, 9 to 10 hours on low or 6 to 7 hours on high.\n\nDiscard bay leaves. Using large spoon, skim fat from surface of sauce. Adjust consistency with hot water as needed. Stir in cilantro and season with salt and pepper to taste. Serve.\n",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Microwave onions, oil, paprika, garlic, tomato paste, cumin, cardamom, and cayenne in bowl, stirring occasionally, until onions are softened, about <span class=\"timer\" time=\"300.0\">5 minutes</span>; transfer to slow cooker.</p><p class=\"line\">Stir tomatoes and their juice, broth, tapioca, vinegar, bay leaves, and sugar into slow cooker. Season lamb with salt and pepper and stir into slow cooker. Cover and cook until lamb is tender, <span class=\"timer\" time=\"32400.0\">9 to 10 hours </span>on low or <span class=\"timer\" time=\"21600.0\">6 to 7 hours </span>on high.</p><p class=\"line\">Discard bay leaves. Using large spoon, skim fat from surface of sauce. Adjust consistency with hot water as needed. Stir in cilantro and season with salt and pepper to taste. Serve.<br/></p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">GATHER YOUR INGREDIENTS</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> onions, chopped fine</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons vegetable oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons paprika</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>8</strong> garlic cloves, minced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons tomato paste</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> teaspoons ground cumin</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> teaspoon ground cardamom</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> teaspoon cayenne pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> (14.5 ounce) can diced tomatoes</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> cup chicken broth</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons instant tapioca</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons red wine vinegar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> bay leaves</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon sugar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> pounds boneless lamb shoulder roast, pulled apart at seams, trimmed, and cut into 1½-inch pieces</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> cup minced fresh cilantro</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": "https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_Lamb_Vindaloo_036_okhefu",
+  "ingredients": "GATHER YOUR INGREDIENTS\n3 onions, chopped fine\n3 tablespoons vegetable oil\n3 tablespoons paprika\n8 garlic cloves, minced\n2 tablespoons tomato paste\n4 teaspoons ground cumin\n½ teaspoon ground cardamom\n¼ teaspoon cayenne pepper\n1 (14.5 ounce) can diced tomatoes\n1 cup chicken broth\n3 tablespoons instant tapioca\n2 tablespoons red wine vinegar\n2 bay leaves\n1 teaspoon sugar\n4 pounds boneless lamb shoulder roast, pulled apart at seams, trimmed, and cut into 1½-inch pieces\nSalt and pepper\n¼ cup minced fresh cilantro",
+  "name": "Slow-Cooker Lamb Vindaloo",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "4E00D7B8-3ADC-4A6B-94C2-AFDE34E31C28-13891-0000A7DBE4545D78.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Serves 6 to 8",
+  "source": "americastestkitchen.com",
+  "source_url": "https://www.americastestkitchen.com/recipes/10627-slow-cooker-lamb-vindaloo?incode=MASAD00L0&ref=new_search_experience_6",
+  "total_time": "",
+  "uid": "09066227-5003-411C-8E32-5498E85CACB5-13891-0000A7D9BF188E66"
+}

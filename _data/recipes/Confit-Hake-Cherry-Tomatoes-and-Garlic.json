@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Hake"
+  ],
+  "cook_time": "1 hour 30 minutes",
+  "created": "2020-07-08 13:36:58",
+  "description": "",
+  "difficulty": "",
+  "directions": "Heat the oven to 170C/fan 150C/gas 3. Put the tomatoes, fennel, peppers, whole garlic, peppercorns, coriander seeds and sage into a deep roasting tin or large shallow casserole dish, then pour over enough oil to completely submerge everything. Cover tightly with foil or put on a lid. Cook in the oven for 45 minutes or until the vegetables are beginning to soften. Meanwhile, season the hake fillets and put in the fridge.\n\nTurn the oven down to 150C/fan 130C/ gas 2. Remove the dish from the oven and gently lower the hake into it (be careful, as the oil will be hot), ensuring the fish is fully submerged. Put back into the oven for 20 minutes or until just cooked through.\n\nLift out the fish and vegetables with a slotted spoon, and divide between 4 plates, alongside a green salad and plenty of bread for mopping up juices.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Heat the oven to 170C/fan 150C/gas 3. Put the tomatoes, fennel, peppers, whole garlic, peppercorns, coriander seeds and sage into a deep roasting tin or large shallow casserole dish, then pour over enough oil to completely submerge everything. Cover tightly with foil or put on a lid. Cook in the oven for <span class=\"timer\" time=\"2700.0\">45 minutes </span>or until the vegetables are beginning to soften. Meanwhile, season the hake fillets and put in the fridge.</p><p class=\"line\">Turn the oven down to 150C/fan 130C/ gas 2. Remove the dish from the oven and gently lower the hake into it (be careful, as the oil will be hot), ensuring the fish is fully submerged. Put back into the oven for <span class=\"timer\" time=\"1200.0\">20 minutes </span>or until just cooked through.</p><p class=\"line\">Lift out the fish and vegetables with a slotted spoon, and divide between 4 plates, alongside a green salad and plenty of bread for mopping up juices.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">cherry tomatoes on the vine 2 bunches (about 225g)</p><p class=\"line\" itemprop=\"recipeIngredient\">fennel a small bulb, thinly sliced</p><p class=\"line\" itemprop=\"recipeIngredient\">red peppers 2, cut into quarters</p><p class=\"line\" itemprop=\"recipeIngredient\">garlic 1 bulb, top cut off</p><p class=\"line\" itemprop=\"recipeIngredient\">black peppercorns 1 tsp</p><p class=\"line\" itemprop=\"recipeIngredient\">coriander seeds 2 tsp</p><p class=\"line\" itemprop=\"recipeIngredient\">sage a handful of leaves</p><p class=\"line\" itemprop=\"recipeIngredient\">olive oil about 1.5 litres</p><p class=\"line\" itemprop=\"recipeIngredient\">hake 4 fillets</p><p class=\"line\" itemprop=\"recipeIngredient\">green salad dressed with sherry vinegar, to serve</p><p class=\"line\" itemprop=\"recipeIngredient\">crusty bread to serve</p>\n</div>",
+    "notes": "None",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories: 385<br/>Total Carbohydrates: 9.2g<br/>Total Fat: 24.2g<br/>Dietary fiber: 5.5g<br/>Protein: 29.9g<br/>Saturated fat: 3.5g<br/>Sodium: 0.5g<br/>Sugar: 5.7g</p>\n</div>"
+  },
+  "image_url": "https://images.immediate.co.uk/production/volatile/sites/2/2019/05/OLI_0419_p46-47_GiR2-b455946.jpg?quality=90&crop=19px%2C563px%2C3729px%2C1604px&resize=960%2C408",
+  "ingredients": "cherry tomatoes on the vine 2 bunches (about 225g)\nfennel a small bulb, thinly sliced\nred peppers 2, cut into quarters\ngarlic 1 bulb, top cut off\nblack peppercorns 1 tsp\ncoriander seeds 2 tsp\nsage a handful of leaves\nolive oil about 1.5 litres\nhake 4 fillets\ngreen salad dressed with sherry vinegar, to serve\ncrusty bread to serve",
+  "name": "Confit Hake, Cherry Tomatoes and Garlic",
+  "notes": "",
+  "nutritional_info": "Calories: 385\nTotal Carbohydrates: 9.2g\nTotal Fat: 24.2g\nDietary fiber: 5.5g\nProtein: 29.9g\nSaturated fat: 3.5g\nSodium: 0.5g\nSugar: 5.7g",
+  "photo": "FAA08179-2B5A-40E2-8B9F-A3DD93888650-16960-000008A2DD91BEDA.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Serves 4 easy",
+  "source": "olivemagazine.com",
+  "source_url": "https://www.olivemagazine.com/recipes/fish-and-seafood/confit-hake-cherry-tomatoes-and-garlic/",
+  "total_time": "",
+  "uid": "9DF14314-10CE-4B72-B3F1-C9D3C903EF6F-16960-000008A2BD817715"
+}

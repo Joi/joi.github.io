@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Blue Fish"
+  ],
+  "cook_time": "20 minutes",
+  "created": "2020-05-31 19:58:19",
+  "description": "",
+  "difficulty": "",
+  "directions": "Brush fish all over with oil. Remove outer layer of lemongrass stalk and cut stalk into 2-inch lengths. Using the butt of a kitchen knife, pound and bruise stalks all over.\n\nPlace lemongrass pieces, sugar, fish sauce, soy sauce, ginger and black pepper in a large skillet. Bring to a simmer over medium-high heat, and reduce sauce for 1 to 2 minutes, until syrupy.\n\nPlace fish, skin side-down, in pan. Simmer, basting fish frequently with pan sauce, for 2 minutes; carefully turn fish and continue cooking until fish is just cooked through, 2 to 3 minutes longer.\n\nTransfer fish to a serving plate and garnish with scallion, jalapeño and cilantro. Drizzle with additional sauce. Serve over rice, if desired.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Brush fish all over with oil. Remove outer layer of lemongrass stalk and cut stalk into 2-inch lengths. Using the butt of a kitchen knife, pound and bruise stalks all over.</p><p class=\"line\">Place lemongrass pieces, sugar, fish sauce, soy sauce, ginger and black pepper in a large skillet. Bring to a simmer over medium-high heat, and reduce sauce for <span class=\"timer\" time=\"60.0\">1 to 2 minutes</span>, until syrupy.</p><p class=\"line\">Place fish, skin side-down, in pan. Simmer, basting fish frequently with pan sauce, for <span class=\"timer\" time=\"120.0\">2 minutes</span>; carefully turn fish and continue cooking until fish is just cooked through, <span class=\"timer\" time=\"120.0\">2 to 3 minutes </span>longer.</p><p class=\"line\">Transfer fish to a serving plate and garnish with scallion, jalapeño and cilantro. Drizzle with additional sauce. Serve over rice, if desired.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> (6-ounce) skin-on bluefish fillets (or substitute mackerel, trout or thin salmon fillets)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon peanut, grapeseed or safflower oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> stalk lemongrass, or use lemon or lime zest (see note)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>⅓</strong> cup light brown sugar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons Asian fish sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> tablespoons soy sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon grated ginger</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> teaspoon black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\">Sliced scallions, as needed</p><p class=\"line\" itemprop=\"recipeIngredient\">Thinly sliced jalapeño, as needed</p><p class=\"line\" itemprop=\"recipeIngredient\">Fresh cilantro, as needed</p><p class=\"line\" itemprop=\"recipeIngredient\">Cooked rice, for serving (optional)</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": null,
+  "ingredients": "4 (6-ounce) skin-on bluefish fillets (or substitute mackerel, trout or thin salmon fillets)\n1 tablespoon peanut, grapeseed or safflower oil\n1 stalk lemongrass, or use lemon or lime zest (see note)\n⅓ cup light brown sugar\n2 tablespoons Asian fish sauce\n1 ½ tablespoons soy sauce\n1 teaspoon grated ginger\n½ teaspoon black pepper\nSliced scallions, as needed\nThinly sliced jalapeño, as needed\nFresh cilantro, as needed\nCooked rice, for serving (optional)",
+  "name": "Fast Vietnamese Caramel Bluefish",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "278371E5-8BFC-428D-A707-5A2508C13FE8-22544-0003EEFC42C0FE77.jpg",
+  "photo_large": "B5DC6ADE-E9F2-4E17-96C1-7D2662F6D500-7583-0000043563018CA9.jpg",
+  "photos": [
+    {
+      "filename": "B5DC6ADE-E9F2-4E17-96C1-7D2662F6D500-7583-0000043563018CA9.jpg",
+      "name": "1"
+    }
+  ],
+  "prep_time": "",
+  "rating": 4,
+  "servings": "Yield 4 servings",
+  "source": "cooking.nytimes.com",
+  "source_url": "https://cooking.nytimes.com/recipes/1017451-fast-vietnamese-caramel-bluefish",
+  "total_time": "",
+  "uid": "E557AA97-6162-49E3-A7E6-7D32CC383B53-11450-00014F58E1107A53"
+}

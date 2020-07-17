@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Chicken"
+  ],
+  "cook_time": "",
+  "created": "2020-05-21 07:53:32",
+  "description": "",
+  "difficulty": "",
+  "directions": "In a large bowl, combine the chicken, sake, sugar, soy sauce, ginger, and garlic. Mix well. Cover with plastic and marinate for at least 15 minutes in the fridge.\n\nAdd the egg and potato starch to the chicken. Mix well.\n\nHeat the oil to 340˚F (170˚C). Fry the chicken until golden brown and fully cooked, 5-7 minutes.\n\nEnjoy!",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">In a large bowl, combine the chicken, sake, sugar, soy sauce, ginger, and garlic. Mix well. Cover with plastic and marinate for at least <span class=\"timer\" time=\"900.0\">15 minutes </span>in the fridge.</p><p class=\"line\">Add the egg and potato starch to the chicken. Mix well.</p><p class=\"line\">Heat the oil to 340˚F (170˚C). Fry the chicken until golden brown and fully cooked, <span class=\"timer\" time=\"300.0\">5-7 minutes</span>.</p><p class=\"line\">Enjoy!</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> lb skin-on chicken thigh, cubed</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon sake</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon sugar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons soy sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon ginger, grated</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> clove garlic, minced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> egg, beaten</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>⅓</strong> cup potato starch</p><p class=\"line\" itemprop=\"recipeIngredient\">cooking oil, for frying</p>\n</div>",
+    "notes": "None",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Fat: 11 grams<br/>Calories: 272 calories<br/>Fiber: 0 grams<br/>Carbohydrate: 14 grams<br/>Sugar: 1 gram<br/>Protein: 24 grams</p>\n</div>"
+  },
+  "image_url": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5b2aa37781514ab68f18ae2a1ceb74e6/final3.jpg",
+  "ingredients": "1 lb skin-on chicken thigh, cubed\n1 tablespoon sake\n1 teaspoon sugar\n2 tablespoons soy sauce\n1 tablespoon ginger, grated\n1 clove garlic, minced\n½ egg, beaten\n⅓ cup potato starch\ncooking oil, for frying",
+  "name": "Karaage Fried Chicken",
+  "notes": "",
+  "nutritional_info": "Fat: 11 grams\nCalories: 272 calories\nFiber: 0 grams\nCarbohydrate: 14 grams\nSugar: 1 gram\nProtein: 24 grams",
+  "photo": "4E162102-B87A-4931-A921-E1CA81000011-11450-000073519CE023D7.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "4 servings",
+  "source": "tasty.co",
+  "source_url": "https://tasty.co/recipe/karaage-fried-chicken",
+  "total_time": "",
+  "uid": "B5CB3D85-5F56-4DEA-8B0E-16F818C57CF9-11450-0000734FA8EB7460"
+}

@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Bread and Biscuits"
+  ],
+  "cook_time": "7 mins",
+  "created": "2020-06-25 12:36:57",
+  "description": "",
+  "difficulty": "",
+  "directions": "Instructions Checklist\n\nPreheat oven to 400 degrees F (200 degrees C).\n\nCut each pita bread into 8 triangles. Place triangles on lined cookie sheet.\n\nIn a small bowl, combine the oil, pepper, salt, basil and chervil. Brush each triangle with oil mixture.\n\nBake in the preheated oven for about 7 minutes, or until lightly browned and crispy. Watch carefully, as they tend to burn easily!",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Instructions Checklist</p><p class=\"line\">Preheat oven to 400 degrees F (200 degrees C).</p><p class=\"line\">Cut each pita bread into 8 triangles. Place triangles on lined cookie sheet.</p><p class=\"line\">In a small bowl, combine the oil, pepper, salt, basil and chervil. Brush each triangle with oil mixture.</p><p class=\"line\">Bake in the preheated oven for about <span class=\"timer\" time=\"420.0\">7 minutes</span>, or until lightly browned and crispy. Watch carefully, as they tend to burn easily!</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>12</strong> pita bread pockets</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> cup olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> teaspoon ground black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon garlic salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> teaspoon dried basil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon dried chervil</p>\n</div>",
+    "notes": "None",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>125.3 calories; 3.2 g protein; 17.7 g carbohydrates; 0 mg cholesterol; 245.9 mg sodium. Full Nutrition</p>\n</div>"
+  },
+  "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5270122.jpg&w=568&h=380&c=sc&poi=face&q=85",
+  "ingredients": "12 pita bread pockets\n½ cup olive oil\n½ teaspoon ground black pepper\n1 teaspoon garlic salt\n½ teaspoon dried basil\n1 teaspoon dried chervil",
+  "name": "Pita Chips",
+  "notes": "",
+  "nutritional_info": "125.3 calories; 3.2 g protein; 17.7 g carbohydrates; 0 mg cholesterol; 245.9 mg sodium. Full Nutrition",
+  "photo": "562D275D-06C0-4006-94C8-54AABCBF7526-22544-0004E1FC8729F7B1.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "10 mins",
+  "rating": 5,
+  "servings": "Servings: 24",
+  "source": "allrecipes.com",
+  "source_url": "https://www.allrecipes.com/recipe/14827/pita-chips/",
+  "total_time": "",
+  "uid": "D06BD415-2D41-4CB1-A8D1-7135509AC066-22544-0004E1F97748FAF9"
+}

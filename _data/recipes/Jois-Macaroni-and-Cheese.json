@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Kio",
+    "Pasta"
+  ],
+  "cook_time": "",
+  "created": "2020-05-11 12:51:10",
+  "description": "",
+  "difficulty": "",
+  "directions": "Boil paste to al dente.\n\nMeanwhile, bring milk up to a simmer in a large pot. (The pot should be large enough to hold all the pasta when cooked.)\n\nReduce heat to low, add cream cheese, and whisk until it’s completely blended and no lumps remain.\n\nAdd cheddar and other cheese and butter, whisking until everything is completely melted.\n\nSeason with nutmeg, salt and a generous amount of pepper.\n\nAdd cooked pasta and stir to coat.\n\n In a separate bowl, whisk together eggs and parmigiano. Stir egg mixture into pasta.\n\nContinue to cook over medium-low heat until the sauce has thickened and is coating each piece of pasta nicely, 2 to 3 minutes; sauce will continue to thicken as it cools. Season again with more salt and pepper before serving.\n",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Boil paste to al dente.</p><p class=\"line\">Meanwhile, bring milk up to a simmer in a large pot. (The pot should be large enough to hold all the pasta when cooked.)</p><p class=\"line\">Reduce heat to low, add cream cheese, and whisk until it’s completely blended and no lumps remain.</p><p class=\"line\">Add cheddar and other cheese and butter, whisking until everything is completely melted.</p><p class=\"line\">Season with nutmeg, salt and a generous amount of pepper.</p><p class=\"line\">Add cooked pasta and stir to coat.</p><p class=\"line\">In a separate bowl, whisk together eggs and parmigiano. Stir egg mixture into pasta.</p><p class=\"line\">Continue to cook over medium-low heat until the sauce has thickened and is coating each piece of pasta nicely, <span class=\"timer\" time=\"120.0\">2 to 3 minutes</span>; sauce will continue to thicken as it cools. Season again with more salt and pepper before serving.<br/></p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> pound elbows, shells, cavatappi, farfalle, fusilli or other short, tube-shaped pasta</p><p class=\"line\" itemprop=\"recipeIngredient\">Kosher salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> cups whole milk</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> teaspoon finely grated nutmeg</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> ounces cream cheese, cut into 1-inch pieces</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>12</strong> ounces sharp or white Cheddar, grated and 4 ounces Brie or other smelly cheese</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> large eggs, lightly beaten</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons unsalted butter</p><p class=\"line\" itemprop=\"recipeIngredient\">Freshly ground pepper</p>\n</div>",
+    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>Edited recipe after first try. Reduced milk from 2 cups -&gt; 1 cup. Reduced Cream Cheese from 4 ounces to 2 ounces. Increase other cheese from zero to 4 ounces. Added 2 large eggs.</p>\n</div>",
+    "nutrition": "None"
+  },
+  "image_url": null,
+  "ingredients": "1 pound elbows, shells, cavatappi, farfalle, fusilli or other short, tube-shaped pasta\nKosher salt\n1 cups whole milk\n¼ teaspoon finely grated nutmeg\n2 ounces cream cheese, cut into 1-inch pieces\n12 ounces sharp or white Cheddar, grated and 4 ounces Brie or other smelly cheese\n2 large eggs, lightly beaten\n3 tablespoons unsalted butter\nFreshly ground pepper",
+  "name": "Joi's Macaroni and Cheese",
+  "notes": "Edited recipe after first try. Reduced milk from 2 cups -> 1 cup. Reduced Cream Cheese from 4 ounces to 2 ounces. Increase other cheese from zero to 4 ounces. Added 2 large eggs.",
+  "nutritional_info": "",
+  "photo": "E6F41E63-B9F4-4971-B948-F13A2DACAD33-29546-0000D729F3AA544A.jpg",
+  "photo_large": "AA90E695-17D3-412E-9808-D3C2E8809723-29546-0000D728E4C977F8.jpg",
+  "photos": [
+    {
+      "filename": "AA90E695-17D3-412E-9808-D3C2E8809723-29546-0000D728E4C977F8.jpg",
+      "name": "1"
+    }
+  ],
+  "prep_time": "",
+  "rating": 4,
+  "servings": "",
+  "source": "Mashup",
+  "source_url": "",
+  "total_time": "",
+  "uid": "9B1AB1E8-BE10-4F36-B0F0-9E37B79BF387-4647-00010AE1B323C85C"
+}

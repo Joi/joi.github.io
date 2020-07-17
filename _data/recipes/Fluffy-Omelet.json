@@ -1,0 +1,32 @@
+{
+  "categories": [
+    "Breakfast",
+    "Egg"
+  ],
+  "cook_time": "",
+  "created": "2020-02-03 09:50:35",
+  "description": "",
+  "difficulty": "",
+  "directions": "Adjust oven rack to middle position and heat oven to 375 degrees. Whisk egg yolks, melted butter, and salt together in bowl. Place egg whites in bowl of stand mixer and sprinkle cream of tartar over surface. Fit stand mixer with whisk and whip egg whites on medium-low speed until foamy, 2 to 2½ minutes. Increase speed to medium-high and whip until stiff peaks just start to form, 2 to 3 minutes. Fold egg yolk mixture into egg whites until no white streaks remain.\n\nHeat remaining 1 tablespoon butter in 12-inch ovensafe nonstick skillet over medium-high heat, swirling to coat bottom of pan. When butter foams, quickly add egg mixture, spreading into even layer with spatula. Remove pan from heat and gently sprinkle filling and Parmesan evenly over top of omelet. Transfer to oven and cook until center of omelet springs back when lightly pressed, 4½ minutes for slightly wet omelet and 5 minutes for dry omelet.\n\nRun spatula around edges of omelet to loosen, shaking gently to release. Slide omelet onto cutting board and let stand for 30 seconds. Using spatula, fold omelet in half. Cut omelet in half crosswise and serve immediately.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Adjust oven rack to middle position and heat oven to 375 degrees. Whisk egg yolks, melted butter, and salt together in bowl. Place egg whites in bowl of stand mixer and sprinkle cream of tartar over surface. Fit stand mixer with whisk and whip egg whites on medium-low speed until foamy, <span class=\"timer\" time=\"120.0\">2 to 2½ minutes</span>. Increase speed to medium-high and whip until stiff peaks just start to form, <span class=\"timer\" time=\"120.0\">2 to 3 minutes</span>. Fold egg yolk mixture into egg whites until no white streaks remain.</p><p class=\"line\">Heat remaining 1 tablespoon butter in 12-inch ovensafe nonstick skillet over medium-high heat, swirling to coat bottom of pan. When butter foams, quickly add egg mixture, spreading into even layer with spatula. Remove pan from heat and gently sprinkle filling and Parmesan evenly over top of omelet. Transfer to oven and cook until center of omelet springs back when lightly pressed, <span class=\"timer\" time=\"270.0\">4½ minutes </span>for slightly wet omelet and <span class=\"timer\" time=\"300.0\">5 minutes </span>for dry omelet.</p><p class=\"line\">Run spatula around edges of omelet to loosen, shaking gently to release. Slide omelet onto cutting board and let stand for <span class=\"timer\" time=\"30.0\">30 seconds</span>. Using spatula, fold omelet in half. Cut omelet in half crosswise and serve immediately.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">GATHER YOUR INGREDIENTS</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> large eggs, separated</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon unsalted butter, melted, plus 1 tablespoon unsalted butter</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> teaspoon salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> teaspoon cream of tartar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> recipe Mushroom Filling</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> ounce Parmesan cheese, grated (1/2 cup)</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": "https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/20178_sfs-fluffy-omelets-mushroom-filling-2",
+  "ingredients": "GATHER YOUR INGREDIENTS\n4 large eggs, separated\n1 tablespoon unsalted butter, melted, plus 1 tablespoon unsalted butter\n¼ teaspoon salt\n¼ teaspoon cream of tartar\n1 recipe Mushroom Filling\n1 ounce Parmesan cheese, grated (1/2 cup)",
+  "name": "Fluffy Omelet",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "C8D45A2A-D452-42E7-A94F-846E299878F3-408-00004BDB4D905E65.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Serves 2",
+  "source": "americastestkitchen.com",
+  "source_url": "https://www.americastestkitchen.com/recipes/7327-fluffy-omelet",
+  "total_time": "",
+  "uid": "7F1689F8-3BD8-40D9-AB99-1204CE2115DC-408-00004BD68AFD291D"
+}
