@@ -7,12 +7,7 @@ _data
 .obsidian
 .DS_Store
 vendor
-_recipes_md/
-_recipes/
+
 .ipynb_checkpoints
-*.ipynb
 __scripts/.ipynb_checkpoints/ParsePaprika-checkpoint.ipynb
-__scripts/RecipeTest.paprikarecipes
-paprikarecipes_html/
 __scripts/data/
-__scripts/.ipynb_checkpoints/ParsePaprika-checkpoint.ipynb
