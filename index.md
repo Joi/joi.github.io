@@ -11,6 +11,7 @@ As I've continued to cook and read books like [Salt Fat Acid Heat by Samin Nosra
 
 I've also started to create some basic guides as references for my cooking.
 
+* [Whetstones](food/whetstones)
 * [Coffee Basics](food/coffee-basics)
 * [Common Ingredients by Volume and Mass](food/ingredients-volume-mass)
 * [Volume, Weight and Temperature Conversions](food/volume-weight-temp)

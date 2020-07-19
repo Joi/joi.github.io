@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Common Ingredients by Volume and Mass"
 ---
 
