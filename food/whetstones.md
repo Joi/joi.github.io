@@ -1,10 +1,7 @@
 ---
 layout: page
-title: "Whetstones"
+title: "My Whetstones"
 ---
-
-### Joi's Whetstones
-
 <style>
 table, th, td {
   border: 1px solid black;
