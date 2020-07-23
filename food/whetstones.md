@@ -18,7 +18,7 @@ th, td {
 
 
 | Maker  | Grit | Type |
-| :--- | --- | --- |
+| :--- | ---: | --- |
 | Atoma | 140 | Diamond Plate |
 | Naniwa | 220 | Flattening Stone |
 | Naniwa | 400 | Super Ceramic "Spash and Go"|
