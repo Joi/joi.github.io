@@ -3,7 +3,6 @@ layout: page
 title: "Common Ingredients by Volume and Mass"
 ---
 
-### Common Ingredients by Volume and Mass
 From _The Food Lab_
 
 <style>

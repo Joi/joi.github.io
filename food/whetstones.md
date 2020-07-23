@@ -20,6 +20,7 @@ th, td {
 | Maker  | Grit | Type |
 | :--- | --- | --- |
 | Atoma | 140 | Diamond Plate |
+| Naniwa | 220 | Flattening Stone |
 | Naniwa | 400 | Super Ceramic "Spash and Go"|
 | Yoshihiro | 1000 | Professional Grade Toishi |
 | Yoshihiro | 3000 | Professional Grade Toishi |
