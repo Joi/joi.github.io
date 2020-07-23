@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Sauce"
+  ],
+  "cook_time": "2 minutes",
+  "created": "2020-07-18 13:32:40",
+  "description": "",
+  "difficulty": "Easy",
+  "directions": "In a small mixing bowl, stir all of the ingredients together. Serve right away or cover and refrigerate for about 2 weeks.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">In a small mixing bowl, stir all of the ingredients together. Serve right away or cover and refrigerate for about 2 weeks.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup sour cream</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> Tbsp prepared horseradish drained</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> Tbsp mayo</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp apple cider vinegar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> tsp salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/8</strong> tsp black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> Tbsp chives finely chopped</p>\n</div>",
+    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>If you enjoy a stronger horseradish sauce, add more prepared horseradish to taste.</p>\n</div>",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories: 35 kcal<br/>Saturated Fat 1g<br/>Cholesterol 5mg<br/>Sodium 81mg<br/>Potassium 19mg<br/>Calcium 12mg</p>\n</div>"
+  },
+  "image_url": "https://natashaskitchen.com/wp-content/uploads/2019/02/Horseradish-Sauce-4.jpg",
+  "ingredients": "1/2 cup sour cream\n2 Tbsp prepared horseradish drained\n2 Tbsp mayo\n1 tsp apple cider vinegar\n1/4 tsp salt\n1/8 tsp black pepper\n1 Tbsp chives finely chopped",
+  "name": "Horseradish Sauce",
+  "notes": "If you enjoy a stronger horseradish sauce, add more prepared horseradish to taste.",
+  "nutritional_info": "Calories: 35 kcal\nSaturated Fat 1g\nCholesterol 5mg\nSodium 81mg\nPotassium 19mg\nCalcium 12mg",
+  "photo": "1E9C0D08-F976-4691-9035-337AC9F283B1-24647-00000FABF6EBFB30.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "2 minutes",
+  "rating": 0,
+  "servings": "Servings: 12",
+  "source": "natashaskitchen.com",
+  "source_url": "https://natashaskitchen.com/horseradish-sauce-recipe/",
+  "total_time": "",
+  "uid": "EC595FE1-4031-41AB-8691-CD7CA7131526-24647-00000FABE7C420F3"
+}

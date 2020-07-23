@@ -1,0 +1,33 @@
+{
+  "categories": [
+    "Kale",
+    "Salad",
+    "Spring Onion"
+  ],
+  "cook_time": "",
+  "created": "2020-07-17 15:09:39",
+  "description": "",
+  "difficulty": "",
+  "directions": "Make the dressing – put all the ingredients into a screw topped jar and shake well to combine.\n\nPut the kale leaves into a large bowl and pour over the dressing. Use your hands to mix the dressing and kale together, rubbing the dressing into the leaves. You will feel the kale becoming softer.\n\nAdd the remaining salad ingredients and toss together before serving.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Make the dressing - put all the ingredients into a screw topped jar and shake well to combine.</p><p class=\"line\">Put the kale leaves into a large bowl and pour over the dressing. Use your hands to mix the dressing and kale together, rubbing the dressing into the leaves. You will feel the kale becoming softer.</p><p class=\"line\">Add the remaining salad ingredients and toss together before serving.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">marinated kale salad</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> handfuls kale leaves – remove any tough stems</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> little gem lettuce – torn or sliced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> avocado – cut into chunks</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> spears of asparagus – blanched and cut into chunks</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> spring onions – finely sliced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tomatoes – cut into pieces</p><p class=\"line\" itemprop=\"recipeIngredient\">Dressing</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tbsp virgin rapeseed or olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tbsp lime or lemon juice</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp wholegrain mustard</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> tsp dried mixed herbs</p><p class=\"line\" itemprop=\"recipeIngredient\">salt and pepper</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": "https://www.coursesforcooks.com/wp-content/uploads/2014/05/kale-salad.jpg",
+  "ingredients": "marinated kale salad\n4 handfuls kale leaves – remove any tough stems\n1 little gem lettuce – torn or sliced\n1 avocado – cut into chunks\n4 spears of asparagus – blanched and cut into chunks\n2 spring onions – finely sliced\n2 tomatoes – cut into pieces\nDressing\n3 tbsp virgin rapeseed or olive oil\n1 tbsp lime or lemon juice\n1 tsp wholegrain mustard\n1/2 tsp dried mixed herbs\nsalt and pepper",
+  "name": "Marinated Kale Salad",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "972B698A-5FFD-45F0-8A9D-FCA6E6948971-29053-00054D2660643987.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Serves 4",
+  "source": "coursesforcooks.com",
+  "source_url": "https://www.coursesforcooks.com/macerated-kale-salad/",
+  "total_time": "",
+  "uid": "A6F9496B-8BB4-4174-88AB-D8C80541CBDF-29053-00054D1BEB4B5B49"
+}

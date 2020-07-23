@@ -1,0 +1,29 @@
+{
+  "categories": [],
+  "cook_time": "",
+  "created": "2020-07-18 07:31:49",
+  "description": "",
+  "difficulty": "",
+  "directions": "Cut an X on the bottom of the cherry tomatoes, blanch them for less than 1 minute, drain them, peel them and cut them into pieces. Place the tomato pieces in a bowl and season them with 1/2 cup of oil, a pinch of salt, a sprig of thyme, 1 unpeeled clove garlic and 1 teaspoon Szechuan peppercorns. Let the tomatoes marinate for 15 minutes.\n\nClean and pare the spring onions, removing part of the green parts. Cut them into chunks, stew them in a covered pan with a little oil, 1 unpeeled garlic clove and a sprig of marjoram for 4-5 minutes, then add the olives, cut into halves, and 1 ladle of water and continue cooking for 5 minutes more, then remove from heat.\n\nCook the swordfish in a pan with a little oil and a sprig of thyme on the lowest possible heat, for 6 minutes per side. Slice the swordfish and serve it with the spring onions and marinated tomatoes. Sprinkle with salt to taste and a few marjoram leaves and serve.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Cut an X on the bottom of the cherry tomatoes, blanch them for less than <span class=\"timer\" time=\"60.0\">1 minute</span>, drain them, peel them and cut them into pieces. Place the tomato pieces in a bowl and season them with 1/2 cup of oil, a pinch of salt, a sprig of thyme, 1 unpeeled clove garlic and 1 teaspoon Szechuan peppercorns. Let the tomatoes marinate for <span class=\"timer\" time=\"900.0\">15 minutes</span>.</p><p class=\"line\">Clean and pare the spring onions, removing part of the green parts. Cut them into chunks, stew them in a covered pan with a little oil, 1 unpeeled garlic clove and a sprig of marjoram for <span class=\"timer\" time=\"240.0\">4-5 minutes</span>, then add the olives, cut into halves, and 1 ladle of water and continue cooking for <span class=\"timer\" time=\"300.0\">5 minutes </span>more, then remove from heat.</p><p class=\"line\">Cook the swordfish in a pan with a little oil and a sprig of thyme on the lowest possible heat, for <span class=\"timer\" time=\"360.0\">6 minutes </span>per side. Slice the swordfish and serve it with the spring onions and marinated tomatoes. Sprinkle with salt to taste and a few marjoram leaves and serve.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">LIST OF INGREDIENTS</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>21</strong> OZ. of swordfish, 1 1/2 to 2 inches thick</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>12</strong> OZ. of spring onions</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>9</strong> OZ. of cherry tomatoes</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> TBSP. of pitted Taggiasca olives iin oil</p><p class=\"line\" itemprop=\"recipeIngredient\">Szechuan peppercorns</p><p class=\"line\" itemprop=\"recipeIngredient\">Garlic</p><p class=\"line\" itemprop=\"recipeIngredient\">Marjoram</p><p class=\"line\" itemprop=\"recipeIngredient\">Thyme</p><p class=\"line\" itemprop=\"recipeIngredient\">Extravirgin olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": "https://rms.condenast.it/rms/public/5d3/f05/cf3/thumb_1746_1200_670_0_0_auto.jpg",
+  "ingredients": "LIST OF INGREDIENTS\n21 OZ. of swordfish, 1 1/2 to 2 inches thick\n12 OZ. of spring onions\n9 OZ. of cherry tomatoes\n2 TBSP. of pitted Taggiasca olives iin oil\nSzechuan peppercorns\nGarlic\nMarjoram\nThyme\nExtravirgin olive oil\nSalt",
+  "name": "Swordfish with Cherry Tomatoes, Spring Onions and Olives",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "36951AC8-D569-429A-A713-BB752CE620AE-23547-00000F32FAC5F5DE.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "",
+  "rating": 0,
+  "servings": "4",
+  "source": "lacucinaitaliana.com",
+  "source_url": "https://www.lacucinaitaliana.com/recipe/main-course/swordfish-with-cherry-tomatoes-spring-onions-and-olives",
+  "total_time": "20 min",
+  "uid": "9A326EFB-785C-4A08-AB48-730DD76C683B-23547-00000F32F55738AA"
+}

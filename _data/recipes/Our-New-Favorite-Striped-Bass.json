@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Striped Bass"
+  ],
+  "cook_time": "35 minutes",
+  "created": "2020-07-20 19:43:32",
+  "description": "",
+  "difficulty": "",
+  "directions": "Preheat oven to 400°F with a rack in the center. Into a large, heavy pan with a lid (such as this one or this one), place the shallots, bell pepper, tomatoes, garlic, capers, wine, stock, thyme and 1/2 teaspoon of the salt. Bake, covered, for 20 minutes.\n\nPat sea bass fillets dry with paper towels. Carefully remove pan from oven and arrange filets in pan on top of sauce, nestling them in a bit. Sprinkle fish with remaining 1/2 teaspoon salt and dot with butter.\n\nReturn pan to oven, uncovered. Bake until fish is just cooked through, about 15 to 20 minutes depending on thickness.\n\nTo serve, place about a cup of orzo into each of four wide, shallow bowls and top each with a piece of fish. Spoon some veggies and plenty of sauce overtop, and sprinkle with basil and freshly ground black pepper.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Preheat oven to 400°F with a rack in the center. Into a large, heavy pan with a lid (such as this one or this one), place the shallots, bell pepper, tomatoes, garlic, capers, wine, stock, thyme and 1/2 teaspoon of the salt. Bake, covered, for <span class=\"timer\" time=\"1200.0\">20 minutes</span>.</p><p class=\"line\">Pat sea bass fillets dry with paper towels. Carefully remove pan from oven and arrange filets in pan on top of sauce, nestling them in a bit. Sprinkle fish with remaining 1/2 teaspoon salt and dot with butter.</p><p class=\"line\">Return pan to oven, uncovered. Bake until fish is just cooked through, about <span class=\"timer\" time=\"900.0\">15 to 20 minutes </span>depending on thickness.</p><p class=\"line\">To serve, place about a cup of orzo into each of four wide, shallow bowls and top each with a piece of fish. Spoon some veggies and plenty of sauce overtop, and sprinkle with basil and freshly ground black pepper.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> shallots, minced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> red bell pepper, diced small</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>12</strong> ounces mixed cherry tomatoes, halved (quarter any obnoxiously large ones)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> garlic cloves, minced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> cup capers</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup dry white wine (see note)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup low-sodium vegetable, chicken or fish stock</p><p class=\"line\" itemprop=\"recipeIngredient\">A few thyme sprigs</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon fine sea salt, divided</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> 6- to 8- ounce striped bass fillets, skin and bones removed</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons butter, diced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> cup julienned basil leaves</p><p class=\"line\" itemprop=\"recipeIngredient\">Freshly ground black pepper</p>\n</div>",
+    "notes": "None",
+    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Amount Per Serving: Calories: 236Total Fat: 8.7gCarbohydrates: 8.3gFiber: 2.3gProtein: 25.4g</p>\n</div>"
+  },
+  "image_url": "https://umamigirl.com/wp-content/uploads/2018/11/Our-New-Favorite-Striped-Bass-Recipe-780-Umami-Girl-2-735x1110.jpg",
+  "ingredients": "2 shallots, minced\n1 red bell pepper, diced small\n12 ounces mixed cherry tomatoes, halved (quarter any obnoxiously large ones)\n2 garlic cloves, minced\n1/4 cup capers\n1/2 cup dry white wine (see note)\n1/2 cup low-sodium vegetable, chicken or fish stock\nA few thyme sprigs\n1 teaspoon fine sea salt, divided\n4 6- to 8- ounce striped bass fillets, skin and bones removed\n2 tablespoons butter, diced\n1/4 cup julienned basil leaves\nFreshly ground black pepper",
+  "name": "Our New Favorite Striped Bass",
+  "notes": "",
+  "nutritional_info": "Amount Per Serving: Calories: 236Total Fat: 8.7gCarbohydrates: 8.3gFiber: 2.3gProtein: 25.4g",
+  "photo": "F0EC5580-3FEB-4B0A-A06F-6C217EBC2771-31637-000013E2F9FCDC9F.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "10 minutes",
+  "rating": 0,
+  "servings": "Serves 4",
+  "source": "umamigirl.com",
+  "source_url": "https://umamigirl.com/favorite-striped-bass-recipe/",
+  "total_time": "",
+  "uid": "B6C8D6E6-0AC3-4C10-80EA-EBE1130CBD0C-31637-000013E2E2498393"
+}

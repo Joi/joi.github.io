@@ -1,0 +1,31 @@
+{
+  "categories": [
+    "Scallops"
+  ],
+  "cook_time": "12 min",
+  "created": "2020-07-18 07:43:17",
+  "description": "",
+  "difficulty": "",
+  "directions": "In a small bowl, combine balsamic vinegar, soy sauce, rice vinegar, sesame oil, garlic, cornstarch, and red pepper flakes. Whisk until smooth. Set aside.\n\nRemove the small side muscle from the scallops, rinse with cold water and thoroughly pat dry.This is extremely important to ensure the scallops are dry to get a good sear on them!\n\nPreheat a medium saute pan over medium-high heat. Add coconut oil. Once pan is hot, add scallops, season with black pepper and cook for 3-4 minutes, until golden brown. Flip with spatula or tongs. Season with black pepper again and cook 3-4 minutes. Add sauce to scallops and let cook another 3 minutes, until sauce has thickened and until scallops are cooked through.\n\nAdd scallops to serving plate, drizzle with soy-balsamic glaze and garnish with cilantro! Devour.",
+  "html": {
+    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">In a small bowl, combine balsamic vinegar, soy sauce, rice vinegar, sesame oil, garlic, cornstarch, and red pepper flakes. Whisk until smooth. Set aside.</p><p class=\"line\">Remove the small side muscle from the scallops, rinse with cold water and thoroughly pat dry.This is extremely important to ensure the scallops are dry to get a good sear on them!</p><p class=\"line\">Preheat a medium saute pan over medium-high heat. Add coconut oil. Once pan is hot, add scallops, season with black pepper and cook for <span class=\"timer\" time=\"180.0\">3-4 minutes</span>, until golden brown. Flip with spatula or tongs. Season with black pepper again and cook <span class=\"timer\" time=\"180.0\">3-4 minutes</span>. Add sauce to scallops and let cook another <span class=\"timer\" time=\"180.0\">3 minutes</span>, until sauce has thickened and until scallops are cooked through.</p><p class=\"line\">Add scallops to serving plate, drizzle with soy-balsamic glaze and garnish with cilantro! Devour.</p>\n</div>",
+    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> Tbsp balsamic vinegar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> cup soy sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tsp rice vinegar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> Tbsp sesame oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> garlic cloves, minced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> tsp cornstarch</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> tsp red pepper flakes</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> Tbsp coconut oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3/4</strong> pound fresh sea scallops</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> tsp Black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\">Fresh chopped cilantro, for garnish</p>\n</div>",
+    "notes": "None",
+    "nutrition": "None"
+  },
+  "image_url": "https://withsaltandwit.com/wp-content/uploads/2014/11/28.jpg",
+  "ingredients": "2 Tbsp balsamic vinegar\n1/4 cup soy sauce\n2 tsp rice vinegar\n1 Tbsp sesame oil\n4 garlic cloves, minced\n1/2 tsp cornstarch\n1/4 tsp red pepper flakes\n1 Tbsp coconut oil\n3/4 pound fresh sea scallops\n1/4 tsp Black pepper\nFresh chopped cilantro, for garnish",
+  "name": "Soy-Balsamic Glazed Sea Scallops",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "6D97F242-EF86-4E0A-B19F-430D6123B2F8-23547-00000F36D3A55D40.jpg",
+  "photo_large": null,
+  "photos": false,
+  "prep_time": "10 min",
+  "rating": 5,
+  "servings": "Yields 2",
+  "source": "withsaltandwit.com",
+  "source_url": "https://withsaltandwit.com/soy-balsamic-glazed-sea-scallops/",
+  "total_time": "",
+  "uid": "8882747A-DD2F-4B5F-9AD9-984367393EB2-23547-00000F35FF5BA070"
+}
