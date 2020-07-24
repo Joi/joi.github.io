@@ -4,7 +4,9 @@
 
 {%- assign link_joiner_delimiter = '$@' -%}
 {%- for item in content_array -%}
+
 		{%- if forloop.index > 1 -%}
+
 				{%- assign itemparts = item | split:']]' -%}
 				{%- assign internal_link = itemparts[0] -%}
 				{%- assign external_link = itemparts[0] | split:external_link_delimiter -%}
@@ -20,7 +22,9 @@
 						{%- assign external_links = external_links | append: link_joiner_delimiter | append: external_link[0] -%}
 						{%- assign external_urls = external_urls | append: link_joiner_delimiter | append: external_link[1] -%}
 				{%- endif -%}
+
 		{%- endif -%}
+
 {%- endfor -%}
 
 {%- assign internal_url_array = internal_urls | split:link_joiner_delimiter -%}
@@ -44,13 +48,11 @@
 				{%- endif -%}
 				{%- assign excerpt = post[0].content | markdownify | strip_html | truncate: 500 | newline_to_br -%}
 				
-				{% comment %}
 				{%- if post[0].content == "" -%}
 				{%- assign key = post[0].name | replace: " ","-" -%}
 				{%- assign json_data = site.data.recipes[key] -%}
-				{%- assign excerpt = json_data.directions -%}
+				{%- assign excerpt = json_data.directions | markdownify | strip_html | truncate: 500 | newline_to_br -%}
 				{%- endif -%}
-				{% endcomment %}
 
 				{%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: title | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: title | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
 		{%- endif -%}
