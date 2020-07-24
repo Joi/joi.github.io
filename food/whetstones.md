@@ -26,7 +26,6 @@ th, td {
 | Yoshihiro | 1000 | Professional Grade Toishi |
 | Yoshihiro | 3000 | Professional Grade Toishi |
 | Naniwa | 5000 | Super Ceramic "Spash and Go" |
-| Masuta | 12,000 | Natural Ocean Blue |
 
 * * *
 
@@ -34,6 +33,7 @@ th, td {
 
 | Type  | Quarry | Color |
 | --- | --- | --- |
+| Finishing Stone | Masuta "Ocean Blue" Tsushima | |
 | Awasedo | Shobundani | Mizu Asagi |
 | Botan Nagura | Mikawa | |
 | Tenjyou Nagura | Mikawa | |
