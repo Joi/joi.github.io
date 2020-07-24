@@ -16,8 +16,9 @@
 ## Transclusion
 Including content from another page/data source in the post / on the post page via some shorthand code in post.
 
-_Not figured out yet._
+_Not fully figured out yet though some code is present._
 
+### Recipe Data
 In the case of Recipes, ability to pick:
 - Ingredients, 
 - Directions, 
@@ -25,10 +26,13 @@ In the case of Recipes, ability to pick:
 - any of the metadata,
 - predefined metadata blocks
 
-### In the body of the post
+*Proof of concept code exists but haven;'t integrated shorthand for embedding in blog post yet.*
+
+### Other posts/notes
+#### In the body of the post
 *Not figured out yet.*
 
-### Mentioned in body of post but shown in sidebar ("sidenote" or "marginnote")
+#### Mentioned in body of post but shown in sidebar ("sidenote" or "marginnote")
 Code exists in the `content.html` include
 Currently: `[[Title: rsn-transclude]]`
 
