@@ -13,6 +13,7 @@ th, td {
 }
 </style>
 
+* * *
 
 #### Synthetic Stones
 
@@ -26,6 +27,8 @@ th, td {
 | Yoshihiro | 3000 | Professional Grade Toishi |
 | Naniwa | 5000 | Super Ceramic "Spash and Go" |
 | Masuta | 12,000 | Natural Ocean Blue |
+
+* * *
 
 #### Japanese Natural Stones
 
