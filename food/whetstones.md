@@ -33,7 +33,7 @@ th, td {
 
 | Type  | Quarry | Color |
 | --- | --- | --- |
-| Finishing Stone | Masuta "Ocean Blue" Tsushima | |
+|  | Tsushima Black Nagura | |
 | Awasedo | Shobundani | Mizu Asagi |
 | Botan Nagura | Mikawa | |
 | Tenjyou Nagura | Mikawa | |
