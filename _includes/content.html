@@ -43,6 +43,15 @@
 				{%- assign post = site.posts | where: 'title',title -%}
 				{%- endif -%}
 				{%- assign excerpt = post[0].content | markdownify | strip_html | truncate: 500 | newline_to_br -%}
+				
+				{% comment %}
+				{%- if post[0].content == "" -%}
+				{%- assign key = post[0].name | replace: " ","-" -%}
+				{%- assign json_data = site.data.recipes[key] -%}
+				{%- assign excerpt = json_data.directions -%}
+				{%- endif -%}
+				{% endcomment %}
+
 				{%- assign link_text = '<span class="tooltip"><a href="' | append: url | append: '">' | append: title | append: '</a><span class="right bottom"><span class="tooltip-title">' | append: title | append: '</span><br/><span class="tooltip-excerpt">' | append: excerpt | append: '</span><i></i></span></span>' -%}
 		{%- endif -%}
 		{%- assign bracket_link = '[[' | append: title | append: ']]' -%}
