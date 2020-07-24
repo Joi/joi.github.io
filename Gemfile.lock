@@ -28,7 +28,7 @@ GEM
     execjs (2.7.0)
     faraday (1.0.1)
       multipart-post (>= 1.2, < 3)
-    ffi (1.12.2)
+    ffi (1.13.1)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (206)
@@ -38,7 +38,7 @@ GEM
       jekyll-coffeescript (= 1.1.1)
       jekyll-commonmark-ghpages (= 0.1.6)
       jekyll-default-layout (= 0.1.4)
-      jekyll-feed (= 0.13.0)
+      jekyll-feed (= 0.15.0)
       jekyll-gist (= 1.5.0)
       jekyll-github-metadata (= 2.13.0)
       jekyll-mentions (= 1.5.1)
@@ -113,7 +113,7 @@ GEM
       rouge (>= 2.0, < 4.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
-    jekyll-feed (0.13.0)
+    jekyll-feed (0.15.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
@@ -247,8 +247,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll (~> 3.8.7)
-  jekyll-feed (~> 0.12)
-  minima (~> 2.5)
+  jekyll-feed (~> 0.15.0)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
