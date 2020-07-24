@@ -14,6 +14,8 @@ th, td {
 </style>
 
 
+#### Synthetic Stones
+
 | Maker  | Grit | Type |
 | :--- | ---: | --- |
 | Atoma | 140 | Diamond Plate |
@@ -22,5 +24,15 @@ th, td {
 | Atoma | 600 | Diamond Plate |
 | Yoshihiro | 1000 | Professional Grade Toishi |
 | Yoshihiro | 3000 | Professional Grade Toishi |
+| Naniwa | 5000 | Super Ceramic "Spash and Go" |
 | Masuta | 12,000 | Natural Ocean Blue |
 
+#### Japanese Natural Stones
+
+| Type  | Quarry | Color |
+| --- | --- | --- |
+| Awasedo | Shobundani | Mizu Asagi |
+| Botan Nagura | Mikawa | |
+| Tenjyou Nagura | Mikawa | |
+| Mejiro Nagura | Mikawa | |
+| Koma Nagura | Mikawa | |
