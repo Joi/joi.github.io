@@ -12,3 +12,8 @@ The Giannone chicken from Savenor's is also smaller - 3 lb vs the 5.5 lb chicken
 I also took the spine and wing tips from the Giannone chicken, added it to the celery, parsley and left over chicken parts in the freezer along with three points of chicken bones from Savenor's and the rest of the [[recipe for Nosrat's chicken stock recipe]](/recipes/Samin-Nosrat-Chicken-Stock.html) and simmered it for 6 hours yesterday. It's currently chilling in the wine cellar.
 
 I'm going to use the stock to make [[Risotto Primavera]](/recipes/Risotto-Primavera.html) as the side dish tonight.
+
+---
+The risotto turned out nice. I used porcini instead of shiitake which turned the whole thing a bit brown, but otherwise it was great.
+
+The chicken was good, but my Chugod thermometers got the temperature wrong (I don't think it was user error) but I used the Javelin Pro and used it to get it to the right temperature. I use the Chugod because it can stay connected when the food is in the oven and it has a bluetooth mode that allows me to monitor it on my phone. However, the range doesn't allow me to use it outside, in my office or on th 3 fl nursury and it complains loudly both at the device and on my phone when it gets disconnected... which is annoying. It is hard to figure out exactly where to measure on a spatchcocked chicken since there is no "middle" of the chicken, but I think near the bone seemed best. I need to get better at placing the thermometer maybe.
