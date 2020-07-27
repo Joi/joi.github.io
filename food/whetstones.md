@@ -23,6 +23,7 @@ th, td {
 | Naniwa | 220 | Flattening Stone |
 | Naniwa | 400 | Super Ceramic "Spash and Go" |
 | Atoma | 600 | Diamond Plate |
+| Naniwa | 600 | Nagura Dressing Stone |
 | Yoshihiro | 1000 | Professional Grade Toishi |
 | Yoshihiro | 3000 | Professional Grade Toishi |
 | Naniwa | 5000 | Super Ceramic "Spash and Go" |
