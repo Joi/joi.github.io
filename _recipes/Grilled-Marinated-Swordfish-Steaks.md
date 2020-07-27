@@ -1,5 +1,6 @@
 ---
 layout: recipe
+title: Grilled Marinated Swordfish Steaks
 name: Grilled Marinated Swordfish Steaks
 created: 2020-07-05 19:27:15
 filename: Grilled-Marinated-Swordfish-Steaks
