@@ -7,7 +7,7 @@ tags: recipe
 
 Mizuka was talking to our house guest\* who doesn't like lamb. Mizuka explained that she didn't like lamb either but that she started liking it after she first had a Crown Roast of Lamb over the holidays that we bought from Savenor's so we decided to try it to see if it would change our guest's taste.
 
-I looked at threee recipes and decided to dry brine over night but to add the spice rub at lunch. I think I could have spiced it last night as well, but it was late. I thought that the salt was probably the most important.
+I looked at three recipes and decided to dry brine over night but to add the spice rub at lunch. I think I could have spiced it last night as well, but it was late. I thought that the salt was probably the most important.
 
 I'm mashing up three receipts.
 

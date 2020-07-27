@@ -26,7 +26,7 @@ Soak skewers so they don't burn. Towel-dry garlic, a and marinate with olive oil
 - 2 lb ground beef
 - 4 cloves garlic
 - 2 tbsp minced onions
-- 1 tbsp Wocestershire sauce
+- 1 tbsp Worcestershire sauce
 - 1 3/4 tsp ground pepper
 - 1 1/2 tsp salt
 

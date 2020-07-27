@@ -15,6 +15,6 @@ The skin wasn't ask crispy. I used a thermometer to monitor the temperature. It 
 
 I think it was about a total of 45 min subtracting time for the removal and replacement of the chicken. There was some red in the joints, bones and juice from the joints so it seems like I should have cooked it a bit longer, but generally it seemed done.
 
-One thing that I noticed was that we have fresh herbs expiring on different cycles and I noticed that the [Salsa Verde](/recipes/Basic-Salsa-Verde.html) and various herb sauces in Salt Fat Acid Heat were pretty flexible and great for side sauces for things like the Spatchkocked Chicken.
+One thing that I noticed was that we have fresh herbs expiring on different cycles and I noticed that the [Salsa Verde](/recipes/Basic-Salsa-Verde.html) and various herb sauces in Salt Fat Acid Heat were pretty flexible and great for side sauces for things like the Spatchcocked Chicken.
 
 We have extra parsley and sage today so I'll make the Salsa Verde and possibly fry the sage and make the [Fried Sage Salsa Verde](/recipes/Fried-Sage-Salsa-Verde.html) if I have time.
