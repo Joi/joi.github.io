@@ -32,11 +32,11 @@ th, td {
 
 #### Japanese Natural Stones
 
-| Type  | Quarry | Color |
+| Quarry | Type | Color |
 | --- | --- | --- |
-|  | Tsushima Black Nagura | |
-| Awasedo | Shobundani | Mizu Asagi |
-| Botan Nagura | Mikawa | |
-| Tenjyou Nagura | Mikawa | |
-| Mejiro Nagura | Mikawa | |
-| Koma Nagura | Mikawa | |
+|Tsushima  | Black Nagura | |
+| Shobundani | Awasedo| Mizu Asagi |
+| Mikawa | Botan Nagura | |
+|Mikawa | Tenjyou Nagura | |
+| Mikawa | Mejiro Nagura | |
+| Mikawa | Koma Nagura | |
