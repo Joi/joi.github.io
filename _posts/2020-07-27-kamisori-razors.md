@@ -11,4 +11,4 @@ As I dig into sharpening and honing I end up in forums where people are talking 
 
 I've never really needed lots of razors because I don't have a lot of facial hair, but I'm going to give a *kamisori* a try. Most *kamisori* on Esty or eBay are antiques (as are many Japanese whetstones) because they don't make or use them so much anymore. The good thing is that if you sharpen up an old *kamisori*, it should be as good as new. Luckily, stones also don't spoil with age, but they do become expensive.
 
-Here's a post about Japanese *kamisori*.  https://sharpologist.com/a-kamisori-primer/
+[[Here's a post about Japanese *kamisori*]](https://sharpologist.com/a-kamisori-primer/).  
