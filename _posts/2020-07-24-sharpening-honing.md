@@ -15,6 +15,6 @@ So I think I'll start writing more about my [[whetstones]] and other sharpening 
 
 Here are a few links I've read about stones and honing:
 
-- http://www.tomonagura.com/jnats/japanese-whetstone-info/buying-jnats---first-last.html
-- https://www.japanesenaturalstones.com/razors-on-jnat/
-- http://www.coticule.be/japanese-hones-a-traditional-approach.html
+- <http://www.tomonagura.com/jnats/japanese-whetstone-info/buying-jnats---first-last.html>
+- <https://www.japanesenaturalstones.com/razors-on-jnat/>
+- <http://www.coticule.be/japanese-hones-a-traditional-approach.html>
