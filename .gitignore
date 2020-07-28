@@ -4,6 +4,7 @@
 .jekyll-metadata
 .obsidian
 .DS_Store
+.htaccess
 vendor
 
 .ipynb_checkpoints
