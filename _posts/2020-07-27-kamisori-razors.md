@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Japanese Kamisori Razors
 tags: sharpening, kamisori
 ---
