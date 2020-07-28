@@ -10,3 +10,6 @@ vendor
 .ipynb_checkpoints
 __scripts/.ipynb_checkpoints/ParsePaprika-checkpoint.ipynb
 __scripts/data/
+_site
+_data
+_images/recipes/
