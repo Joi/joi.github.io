@@ -11,10 +11,10 @@ There is a TON of information - YouTube videos, dedicated forums and blogs... al
 
 Then I noticed reading about people obsessing about sharpening razors... Then I discovered Japanese *kamisori* razors and Japanese natural stones... then nagura stones to create slurry. This feels like a real deep end that I'm falling into where I don't yet know what I don't know - like when I started scuba diving. Oops.
 
-So I think I'll start writing more about my [[whetstones]] and other sharpening and honing things on this site now.
+So I think I'll start writing more about my [[My Whetstones]] and other sharpening and honing things on this site now.
 
 Here are a few links I've read about stones and honing:
 
-- [http://www.tomonagura.com/jnats/japanese-whetstone-info/buying-jnats---first-last.html](http://www.tomonagura.com/jnats/japanese-whetstone-info/buying-jnats---first-last.html)
-- [https://www.japanesenaturalstones.com/razors-on-jnat/](https://www.japanesenaturalstones.com/razors-on-jnat/)
-- [http://www.coticule.be/japanese-hones-a-traditional-approach.html](http://www.coticule.be/japanese-hones-a-traditional-approach.html)
+- <http://www.tomonagura.com/jnats/japanese-whetstone-info/buying-jnats---first-last.html>
+- <https://www.japanesenaturalstones.com/razors-on-jnat/>
+- <http://www.coticule.be/japanese-hones-a-traditional-approach.html>
