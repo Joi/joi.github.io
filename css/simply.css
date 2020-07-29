@@ -68,3 +68,7 @@
 .right .tooltip-excerpt a {
   font-size: 12px;
 }
+
+#recipe-photos figure {
+  margin: 0 0 1em 0;
+}
