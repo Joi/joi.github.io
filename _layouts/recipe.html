@@ -9,17 +9,25 @@ layout: default
 		{% if json_data.photos %}
 			{% for phot in json_data.photos %}
 				<figure>
-					<img
-						src="/images/recipes/{{json_data.uid}}/{{ phot.filename }}"
-						alt="recipe photo - {{ phot.filename }}" />
+					<a
+						href="/images/recipes/{{json_data.uid}}/{{ phot.filename }}" 
+						title="recipe photo - {{ phot.name }}">
+							<img
+								src="/images/recipes/{{json_data.uid}}/{{ phot.filename }}"
+								alt="recipe photo - {{ phot.name }}" />
+					</a>
 				</figure>
 			{% endfor %}
 		{% else %}
 			{% if json_data.photo %}
 				<figure>
-					<img
-						src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}"
-						alt="recipe photo from source" />
+					<a
+						href="/images/recipes/{{json_data.uid}}/{{json_data.photo}}" 
+						title="recipe photo from source">
+							<img
+								src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}"
+								alt="recipe photo from source" />
+						</a>
 				</figure>
 			{% else %}
 				<!-- No photos -->
@@ -55,7 +63,7 @@ layout: default
 
 	</div>
 	<div class="large-3 columns" id="sidebar">
-		Save for Linked Posts
+		{%- include backlinks.html -%}
 	</div>
 </div>
 
