@@ -36,8 +36,11 @@ th, td {
 
 | Quarry | Type | Color |
 | --- | --- | --- |
+| Belgian Coticule | Whetstone | Yellow |
+| Belgian Coticule | Small Whetstone | Yellow |
 |Tsushima  | Black Nagura | |
 | Shobundani | Awasedo| Mizu Asagi |
+| Nakayama |Hardness 8.5/10 / Particle 9/10 | Kiita |
 | Mikawa | Botan Nagura | |
 |Mikawa | Tenjyou Nagura | |
 | Mikawa | Mejiro Nagura | |
