@@ -2,11 +2,42 @@
 layout: default
 ---
 <!-- template: recipe.html -->
+{% assign json_data = site.data.recipes[page.filename] %}
 <div class="row" id="content">
-	<div class="large-7 columns" id="main">
+	<div class="large-3 columns" id="left-sidebar">
+		<div class="" id="recipe-photos">
+		{% if json_data.photos %}
+			{% for phot in json_data.photos %}
+				<figure>
+					<a
+						href="/images/recipes/{{json_data.uid}}/{{ phot.filename }}" 
+						title="recipe photo - {{ phot.name }}">
+							<img
+								src="/images/recipes/{{json_data.uid}}/{{ phot.filename }}"
+								alt="recipe photo - {{ phot.name }}" />
+					</a>
+				</figure>
+			{% endfor %}
+		{% else %}
+			{% if json_data.photo %}
+				<figure>
+					<a
+						href="/images/recipes/{{json_data.uid}}/{{json_data.photo}}" 
+						title="recipe photo from source">
+							<img
+								src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}"
+								alt="recipe photo from source" />
+						</a>
+				</figure>
+			{% else %}
+				<!-- No photos -->
+			{% endif %}
+		{% endif %}
+		</div>
+	</div>
+	<div class="large-6 columns" id="main">
 
 		<h3>{{ page.title }}</h3>
-		{% assign json_data = site.data.recipes[page.filename] %}
 
 		{% for getParam in json_data.html %}
 
@@ -31,30 +62,8 @@ layout: default
 		{{ content }}
 
 	</div>
-	<div class="large-5 columns" id="sidebar">
-
-		<div class="" id="recipe-photos">
-		{% if json_data.photos %}
-			{% for phot in json_data.photos %}
-				<figure>
-					<img
-						src="/images/recipes/{{json_data.uid}}/{{ phot.filename }}"
-						alt="recipe photo - {{ phot.filename }}" />
-				</figure>
-			{% endfor %}
-		{% else %}
-			{% if json_data.photo %}
-				<figure>
-					<img
-						src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}"
-						alt="recipe photo from source" />
-				</figure>
-			{% else %}
-				<!-- No photos -->
-			{% endif %}
-		{% endif %}
-		</div>
-
+	<div class="large-3 columns" id="sidebar">
+		{%- include backlinks.html -%}
 	</div>
 </div>
 

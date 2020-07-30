@@ -3,13 +3,19 @@ layout: default
 ---
 <!-- template: post.html -->
 <div class="row" id="content">
-	<div class="large-12 columns" id="posts">
+	<div class="medium-2 columns" id="left-margin">
+		&nbsp;
+	</div>
+	<div class="medium-8 columns" id="main">
 
 		<h3>{{ page.title }}</h3>
 		<p>{{ page.date | date: '%B %d, %Y' }}</p>
 
 		{%- include content.html -%}
 
+	</div>
+	<div class="medium-2 columns" id="right-margin">
+			&nbsp;
 	</div>
 </div>
 <!-- /template: post.html -->

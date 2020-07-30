@@ -68,3 +68,21 @@
 .right .tooltip-excerpt a {
   font-size: 12px;
 }
+
+#recipe-photos figure {
+  margin: 0 0 1em 0;
+}
+
+/* Related Backlinks */
+.related-group a .related-title {
+  font-weight: 500;
+  margin-bottom: 1px;
+}
+.related-group a .related-excerpt {
+  font-size: 14px;
+  color: #333;
+}
+.related-group a:hover  .related-title,
+.related-group a:hover  .related-excerpt {
+  color:#036;
+}
