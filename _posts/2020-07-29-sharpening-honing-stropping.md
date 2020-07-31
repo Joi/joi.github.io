@@ -22,7 +22,7 @@ That is my understanding of the general flow as of this writing, but I keep lear
 ![My First JNat](/images/myfirstjnat.jpeg){:height="50%" width="50%"}
 
 
-Today, I got my first Japanese natural stone and some *Mikawa* *nagura*. The *awasedo* that I got was a *Shobundani* and I got a *Botan*, *Tanjyou*, *Mejiro* and Koma *nagura* along with a *tomo nagura*. I got them as a set on Etsy from [this guy](http://www.tomonagura.com/).
+Today, I got my first Japanese natural stone and some *Mikawa* *nagura*. The *awasedo* that I got was a *Shobundani* and I got a *Botan*, *Tanjyou*, *Mejiro* and *Koma nagura* along with a *tomo nagura*. I got them as a set on Etsy from [this guy](http://www.tomonagura.com/).
 
 I also got my *Iwasaki* Japanese *kamisori* razor. I tried to shave out of the box. In addition to my crappy lathering, I didn't really have the hang of shaving and I ended up with lots of little bloody spots. I stopped part way through and decided to try to hone the blade.
 
