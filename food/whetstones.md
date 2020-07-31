@@ -41,7 +41,6 @@ th, td {
 |Tsushima  | | Black Nagura |
 | Shobundani | Awasedo| Mizu Asagi |
 | Amakusa | Nakato | Binsui |
-| Nakayama |Hardness 8.5/10 / Particle 9/10 | Kiita |
 | Ohira | Awasedo | Asagi |
 | Mikawa | Botan Nagura | |
 |Mikawa | Tenjyou Nagura | |
