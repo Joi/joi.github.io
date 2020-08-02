@@ -32,7 +32,7 @@ th, td {
 
 * * *
 
-#### Japanese Natural Stones
+#### Natural Stones
 
 | Quarry | Type | Color |
 | --- | --- | --- |
