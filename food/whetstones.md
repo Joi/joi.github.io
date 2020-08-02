@@ -26,7 +26,7 @@ th, td {
 | Naniwa | 600 | Nagura Dressing Stone |
 | Yoshihiro | 1000 | Professional Grade Toishi |
 | Yoshihiro | 3000 | Professional Grade Toishi |
-| Naniwa | 5000 | Super Ceramic "Splash and Go" |
+| Naniwa | 5000 | Professional Stone |
 | Naniwa | 10000 | Professional Stone |
 | Naniwa | 12000 | Nagura |
 
