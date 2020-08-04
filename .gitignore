@@ -2,7 +2,7 @@
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-.obsidian
+#.obsidian
 .DS_Store
 .htaccess
 vendor
