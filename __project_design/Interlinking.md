@@ -9,9 +9,9 @@
 - Linking to a recipe or another post on the same blog
 - **Double bracket** link notation "**[[ ]]**"
 	- `[[Title of thing]]`
-	- Note:
+	- Note: ***not actually working***
 		- If the whole site's folder is an Obsidian Vault, "[[" will open an autocompleting search UI widget allowing you find the recipe or post or page you want to link to.
-		- alternate link text can be entered with the addition of a "|"<br>e.g.: `[[Actual Title of Thing|text you want linked to it]]`
+
 ---
 ## Transclusion
 Including content from another page/data source in the post / on the post page via some shorthand code in post.
