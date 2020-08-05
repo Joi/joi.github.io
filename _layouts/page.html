@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
-<!-- template: post.html -->
+<!-- template: page.html -->
 <div class="row" id="content">
-	<div class="large-12 columns" id="posts">
+	{%- comment -%}
+	<div class="medium-2 columns" id="left-margin">
+		&nbsp;
+	</div>
+	{%- endcomment -%}
+	<div class="medium-9 columns" id="main">
 
 		<h3>{{ page.title }}</h3>
 		<p>{{ page.date | date: '%B %d, %Y' }}</p>
@@ -11,5 +16,8 @@ layout: default
 		{%- include content.html -%}
 
 	</div>
+	<div class="medium-3 columns" id="right-margin">
+		{%- include backlinks.html -%}
+	</div>
 </div>
-<!-- /template: post.html -->
+<!-- /template: page.html -->
