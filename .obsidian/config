@@ -1,0 +1,37 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "promptDelete": false,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Atoma",
+    "Naniwa",
+    "Yoshihiro",
+    "Nagura",
+    "Mikawa",
+    "Nosrat",
+    "Confit",
+    "spatchcocking",
+    "Spatchcocked",
+    "Spatchcocked",
+    "brining",
+    "Kenji",
+    "Sablefish",
+    "Thermomix",
+    "Karthik",
+    "Mizuka",
+    "brined",
+    "lockdown",
+    "spatchcocked",
+    "apprentence"
+  ]
+}
