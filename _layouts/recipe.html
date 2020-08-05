@@ -38,6 +38,7 @@ layout: default
 	<div class="large-6 columns" id="main">
 
 		<h3>{{ page.title }}</h3>
+		<p class="source">Source: <a href="{{ json_data.source_url }}" title="{{ json_data.source }}">{{ json_data.source }}</a></p>
 
 		{% for getParam in json_data.html %}
 			{% if getParam[1] != "None" %}
@@ -49,15 +50,16 @@ layout: default
 		{% endfor %}
 
 		<hr>
+		{%- comment -%}
 		<ul class="toc">
 		{% for getParam in json_data.html %}
 		<li><a href="#{{getParam[0]}}">{{getParam[0] | capitalize}}</a></li>
 		{% endfor %}
 		</ul>
 		<hr>
+		{%- endcomment -%}
 
 		{{ content }}
-
 	</div>
 
 	<div class="large-3 columns" id="sidebar">
