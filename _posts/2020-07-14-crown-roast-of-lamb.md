@@ -11,9 +11,9 @@ I looked at three recipes and decided to dry brine over night but to add the spi
 
 I'm mashing up three receipts.
 
-- [[Crown-Roast-of-Lamb-with-Rosemary-and-Oregano---Epicurious|Epicurious - Crown Roast of Lamb with Rosemary and Oregano]]
-- [[Crown-Roast-of-Lamb---Food-Network|Food Network - Crown Roast of Lamb]]
-- [[Crown-Roast-of-Lamb---Thermoworks|Thermoworks - Crown Roast of Lamb]]
+- [[Epicurious - Crown Roast of Lamb with Rosemary and Oregano]]
+- [[Food Network - Crown Roast of Lamb]]
+- [[Thermoworks - Crown Roast of Lamb]]
 
 I used 2 tbsp of fresh rosemary, 6 garlic cloves, 1 tsp of dried oregano, 2 tbsp of chopped parsley, 1/2 tsp of lemon zest, 1 1/2 tsp salt, 1 tsp of ground pepper, 1 tsp of fresh thyme. I dry brined the lamb from the morning, then oiled the lamb with light olive oil and spread the rub over the lab.
 
