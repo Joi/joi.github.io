@@ -2,16 +2,16 @@
 
 ## External Link
 - URI is to a another website.
-- Standard Markdown
+- Standard **Single Bracket** Markdown
 	- `[Link text](https://uri.com/foodbar)`
 ---
 ## Internal Link
 - Linking to a recipe or another post on the same blog
-- Roam/Wiki type double bracket link
+- **Double bracket** link notation "**[[ ]]**"
 	- `[[Title of thing]]`
-	- Cons:
-		- literal string comparison, prone to errors
-		- Can't use alternate link text as the Title is the ID used to link
+	- Note:
+		- If the whole site's folder is an Obsidian Vault, "[[" will open an autocompleting search UI widget allowing you find the recipe or post or page you want to link to.
+		- alternate link text can be entered with the addition of a "|"<br>e.g.: `[[Actual Title of Thing|text you want linked to it]]`
 ---
 ## Transclusion
 Including content from another page/data source in the post / on the post page via some shorthand code in post.
@@ -26,7 +26,7 @@ In the case of Recipes, ability to pick:
 - any of the metadata,
 - predefined metadata blocks
 
-*Proof of concept code exists but haven;'t integrated shorthand for embedding in blog post yet.*
+*Proof of concept code exists but haven't integrated shorthand for embedding in blog post yet.*
 
 ### Other posts/notes
 #### In the body of the post
