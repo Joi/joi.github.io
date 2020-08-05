@@ -37,8 +37,36 @@ github_username:  joi
 # theme: jekyll-theme-minimal
 
 collections:
+  posts:
+    output: true
+    sort_by: date
+    permalink: /:year/:month/:day/:slug
   recipes:
     output: true
+    permalink: /recipes/:slug
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: "_posts" # Source path!
+      type: "posts"
+    values:
+      layout: "post"
+      content-type: "post" # to review - see post.html layout
+  - scope:
+      path: "_pages" # Source path!
+      type: "pages"
+    values:
+      layout: "page"
+      content-type: "page" # to review - see post.html layout
+  - scope:
+      path: "_recipes"
+      type: "recipes" # Refers to the collections key name
+    values:
+      layout: "recipe"
+      content-type: "recipe" # to review - see post.html layout
+
 
 
 # Exclude from processing.
