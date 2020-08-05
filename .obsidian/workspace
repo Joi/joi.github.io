@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "35b24db801166bd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca1a4e97417aaae",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2020-07-14-crown-roast-of-lamb.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad688a608f2ba6a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "008607cb1deb107f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd061bb50cef4802",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a6cb01405e75211",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "88b5e920605ed967",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88fefedf743ac8e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf363d831cc1bd6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98821c3ea705dd9c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "_posts/2020-07-14-crown-roast-of-lamb.md",
+    "_posts/2020-07-15-salsa-verde.md",
+    "_posts/2020-07-16-mexican-side-dish.md",
+    "_posts/2020-07-23-whole-chicken.md",
+    "_posts/2020-07-24-sharpening-honing.md"
+  ]
+}

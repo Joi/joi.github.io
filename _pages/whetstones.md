@@ -42,6 +42,7 @@ th, td {
 | Shobundani | Awasedo| Mizu Asagi |
 | Amakusa | Nakato | Binsui |
 | Ohira | Awasedo | Asagi |
+| Hideriyama | Suita | Renga |
 | Mikawa | Botan Nagura | |
 |Mikawa | Tenjyou Nagura | |
 | Mikawa | Mejiro Nagura | |
