@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "_posts/2020-07-14-crown-roast-of-lamb.md",
             "mode": "source"
           }
         }
@@ -80,8 +80,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "index.md",
     "_posts/2020-07-14-crown-roast-of-lamb.md",
+    "index.md",
     "_posts/2020-07-15-salsa-verde.md",
     "_posts/2020-07-16-mexican-side-dish.md",
     "_posts/2020-07-23-whole-chicken.md"
