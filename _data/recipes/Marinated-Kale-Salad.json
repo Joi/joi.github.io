@@ -1,33 +1,36 @@
 {
   "categories": [
-    "Kale",
-    "Salad",
-    "Spring Onion"
+    "Salad"
   ],
-  "cook_time": "",
-  "created": "2020-07-17 15:09:39",
+  "cook_time": "20 minutes",
+  "created": "2020-08-03 16:51:23",
   "description": "",
   "difficulty": "",
-  "directions": "Make the dressing – put all the ingredients into a screw topped jar and shake well to combine.\n\nPut the kale leaves into a large bowl and pour over the dressing. Use your hands to mix the dressing and kale together, rubbing the dressing into the leaves. You will feel the kale becoming softer.\n\nAdd the remaining salad ingredients and toss together before serving.",
+  "directions": "Tear kale into bite-size pieces (stems removed). Place in a bowl and lightly massage.\n\nThinly slice onion, and halve cherry tomatoes. Add to bowl.\n\nIn a smaller bowl, add dressing ingredients and whisk to combine.\n\nPour dressing over salad, toss well to coat, and let marinate for about 10 minutes.\n\nMeanwhile, dice avocado.\n\nTop with avocado and sunflower seeds before serving. Best eaten within a day.",
   "html": {
     "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Make the dressing - put all the ingredients into a screw topped jar and shake well to combine.</p><p class=\"line\">Put the kale leaves into a large bowl and pour over the dressing. Use your hands to mix the dressing and kale together, rubbing the dressing into the leaves. You will feel the kale becoming softer.</p><p class=\"line\">Add the remaining salad ingredients and toss together before serving.</p>\n</div>",
     "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">marinated kale salad</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> handfuls kale leaves – remove any tough stems</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> little gem lettuce – torn or sliced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> avocado – cut into chunks</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> spears of asparagus – blanched and cut into chunks</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> spring onions – finely sliced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tomatoes – cut into pieces</p><p class=\"line\" itemprop=\"recipeIngredient\">Dressing</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tbsp virgin rapeseed or olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tbsp lime or lemon juice</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp wholegrain mustard</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> tsp dried mixed herbs</p><p class=\"line\" itemprop=\"recipeIngredient\">salt and pepper</p>\n</div>",
     "notes": "None",
     "nutrition": "None"
   },
-  "image_url": "https://www.coursesforcooks.com/wp-content/uploads/2014/05/kale-salad.jpg",
-  "ingredients": "marinated kale salad\n4 handfuls kale leaves – remove any tough stems\n1 little gem lettuce – torn or sliced\n1 avocado – cut into chunks\n4 spears of asparagus – blanched and cut into chunks\n2 spring onions – finely sliced\n2 tomatoes – cut into pieces\nDressing\n3 tbsp virgin rapeseed or olive oil\n1 tbsp lime or lemon juice\n1 tsp wholegrain mustard\n1/2 tsp dried mixed herbs\nsalt and pepper",
+  "image_url": null,
+  "ingredients": "1 large bunch organic kale (curly or lacinato)\n1 1/2 cups cherry tomatoes\n1/2 small red onion\n1/2 avocado\n1/4 cup sunflower seeds (for topping)\nFOR THE DRESSING:\n3 Tbsp. fresh lemon juice\n2 Tbsp. tamari (or soy sauce)\n1 Tbsp. olive oil (omit for oil-free)",
   "name": "Marinated Kale Salad",
-  "notes": "",
-  "nutritional_info": "",
-  "photo": "972B698A-5FFD-45F0-8A9D-FCA6E6948971-29053-00054D2660643987.jpg",
-  "photo_large": null,
-  "photos": false,
-  "prep_time": "",
-  "rating": 0,
-  "servings": "Serves 4",
-  "source": "coursesforcooks.com",
-  "source_url": "https://www.coursesforcooks.com/macerated-kale-salad/",
+  "notes": "I often just use a drizzle of red wine vinegar in place of the lemon juice and tamari – either works great!\n\nMade gluten-free with tamari.",
+  "nutritional_info": "Calories: 195kcal | Carbohydrates: 12g | Protein: 5g | Fat: 16g | Saturated Fat: 2g | Potassium: 483mg | Fiber: 4g | Sugar: 4g | Vitamin A: 780IU | Vitamin C: 34mg | Calcium: 34mg | Iron: 2mg",
+  "photo": "B71A50AD-F704-49E7-8B56-EC6DF1CB730B-1060-000119AC2577274F.jpg",
+  "photo_large": "F53233A6-0895-478E-8533-C8107DEA931F-1060-000119A6CBFDF803.jpg",
+  "photos": [
+    {
+      "filename": "F53233A6-0895-478E-8533-C8107DEA931F-1060-000119A6CBFDF803.jpg",
+      "name": "1"
+    }
+  ],
+  "prep_time": "20 minutes",
+  "rating": 4,
+  "servings": "",
+  "source": "thegardengrazer.com",
+  "source_url": "https://www.thegardengrazer.com/2016/02/marinated-kale-salad.html",
   "total_time": "",
-  "uid": "A6F9496B-8BB4-4174-88AB-D8C80541CBDF-29053-00054D1BEB4B5B49"
+  "uid": "66DB5964-564B-458F-9DB6-E1C7083461BF-5963-00000403D175CF5E"
 }
