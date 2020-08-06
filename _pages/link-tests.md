@@ -8,6 +8,9 @@ title: "Hypertext tests"
 * Link to a Page, Title = [[Coffee Information]]
 * Link to a Recipe, Title = [[Beef meatballs with lemon and celery root]]
 
+* Link to Recipe w/ apostrophe = [[Joi's Oven Roasted Spatchcocked Chicken]]
+* Link to Recipe with () = [[Braided Milk Bread (TM5/6 Metric)]]
+* Link to Recipe with Kana = [[Homemade Ponzu Sauce Recipe ポン酢]]
 
 Vero tum ex mara decet consequat pala at imputo. Torqueo voco secundum loquor autem, sudo illum in. Venio quia, vereor jus, ibidem molior tum adsum eu. 
 

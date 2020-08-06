@@ -356,3 +356,14 @@ label.srs-toggle {
   box-shadow: 1px 1px 15px #cfcfcf;
   word-wrap:break-word;
 }
+
+/* DEBUG */
+
+pre {
+  font-size: 14px;
+  margin: 0 0 20px;
+  color: #333;
+  background-color: #e6e6e6;
+  padding: 10px 0 10px 10px;
+  font-family: menlo, monospace;
+}
