@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 name: Joi Ito
-markdown: kramdown
 title: Joi's GitHub Page
 email: joi@ito.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -29,6 +28,12 @@ url: "https://github.ito.com" # the base hostname & protocol for your site, e.g.
 twitter_username: joi
 github_username:  joi
 
+#markdown: kramdown
+markdown: CommonMark
+commonmark:
+  options: ["SMART", "FOOTNOTES", "HARDBREAKS","STRIKETHROUGH_DOUBLE_TILDE","TABLE_PREFER_STYLE_ATTRIBUTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+  #extensions: ["strikethrough", "autolink", "table", "tagfilter", "tasklist"]
 #permalink: /posts/:year-:month-:day-:title:output_ext
 
 # Build settings
