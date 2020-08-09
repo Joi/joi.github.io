@@ -38,7 +38,15 @@ layout: default
 	<div class="large-6 columns" id="main">
 
 		<h3>{{ page.title }}</h3>
-		<p class="source">Source: <a href="{{ json_data.source_url }}" title="{{ json_data.source }}">{{ json_data.source }}</a></p>
+		{% if json_data.source != "" %}
+		<p class="source">Source: 
+			{% if json_data.source_url == "" %}
+				{{ json_data.source }}
+			{% else %}
+				<a href="{{ json_data.source_url }}" title="{{ json_data.source }}">{{ json_data.source }}</a>
+			{% endif %}
+		</p>
+		{% endif %}
 
 		{% for getParam in json_data.html %}
 			{% if getParam[1] != "None" %}
