@@ -328,9 +328,10 @@ li .mn-right .onglet {
 }
 
 .right .tooltip-title {
+  display: inline-block;
   font-size: 15px;
   font-weight: 600;
-  display: inline-block;
+  line-height: 130%;
 }
 
 .right .tooltip-excerpt {
@@ -396,4 +397,10 @@ pre {
   background-color: #e6e6e6;
   padding: 10px 0 10px 10px;
   font-family: menlo, monospace;
+}
+h6.debug {
+  padding: 5px 0 5px 20px;
+  margin-bottom: 5px;
+  border-bottom: 1px dashed #ccc;
+  background: #cdf;
 }
