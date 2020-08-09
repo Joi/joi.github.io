@@ -29,7 +29,7 @@ twitter_username: joi
 github_username:  joi
 
 #markdown: kramdown
-markdown: CommonMark
+markdown: CommonMarkGhPages
 commonmark:
   options: ["SMART", "FOOTNOTES", "HARDBREAKS","STRIKETHROUGH_DOUBLE_TILDE","TABLE_PREFER_STYLE_ATTRIBUTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
