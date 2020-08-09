@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Joi's GitHub Jekyll Page
+permalink: /index.html
 ---
 
 During the COVID-19 lockdown, I have started cooking a lot more - almost every dinner. While planning my cooking, I decided to organize my recipes. I noticed that the app that I was using, [Paprika](https://www.paprikaapp.com/), could export to html so I set up [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) and had GitHub serve the site. I thought that this would be a good GitHub project to become more familiar with GitHub as well.
@@ -11,7 +12,7 @@ As I've continued to cook and read books like [Salt Fat Acid Heat by Samin Nosra
 
 I've also started to create some basic guides as references for my cooking.
 
-* [[My Whetstones]]
+* [[My Whetstones|Whetstones]]
 * [[Coffee Information]]
 * [[Common Ingredients by Volume and Mass]]
 * [[Volume, Weight and Temperature Conversions]]
