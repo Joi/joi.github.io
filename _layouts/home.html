@@ -19,7 +19,9 @@ layout: default
 		<h4>Posts</h4>
 
 		{% for post in site.posts %}
-		<p><strong><a href="{{ post.url }}">{{ post.title }}</a></strong><br>{{post.date | date: '%B %d, %Y' }}</p>
+		<p><strong><a href="{{ post.url }}"
+									aria-label="{{post.content | markdownify | strip_html | normalize_whitespace | truncate: 250 | newline_to_br}}"
+									alt="{{ post.title }}">{{ post.title }}</a></strong><br>{{post.date | date: '%B %d, %Y' }}</p>
 		{% endfor %}
 
 	</div>
@@ -29,7 +31,9 @@ layout: default
 			<h5>{{ tag[0] | capitalize }}</h5>
 			<ul>
 				{% for post in tag[1] %}
-					<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+					<li><a href="{{ post.url }}" 
+									aria-label="{{post.content | markdownify | strip_html | normalize_whitespace | truncate: 250 | newline_to_br}}"
+									alt="{{ post.title }}">{{ post.title }}</a></li>
 				{% endfor %}
 			</ul>
 		{% endfor %}
@@ -97,7 +101,9 @@ layout: default
 					<img src='/images/200x200.gif' />
 					{% endif %}
 					<div class="recipe-deets">
-					<div class="recipe-name">{{ recipe.name }}</div>
+					<div class="recipe-name"
+									aria-label="{{json_data.ingredients | markdownify | strip_html | normalize_whitespace | truncate: 250 | newline_to_br}}"
+									alt="{{ recipe.name }}">{{ recipe.name }}</div>
 					{% if json_data.categories %}
 						<div class="recipe-cats">
 						{% for cat in json_data.categories %}
