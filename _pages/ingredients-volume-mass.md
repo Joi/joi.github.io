@@ -5,17 +5,6 @@ title: "Common Ingredients by Volume and Mass"
 
 From _The Food Lab_
 
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 15px;
-  text-align: left;
-}
-</style>
-
 | Ingredient | Amount | Weight |
 | --- | --- | --- |
 | Water | 1 cup = 16 tbsp | 8 oz (227 g) |

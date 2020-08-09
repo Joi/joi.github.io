@@ -5,20 +5,8 @@ title: "Coffee Information"
 
 ### Joi's Coffee Information
 
-<style>
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 15px;
-  text-align: left;
-}
-</style>
-
-
-
 * * *
+
 #### Coffee Weights and Ratios  
 
 * 1 SCAA cup = 5 fl. oz = 150 g
@@ -34,8 +22,7 @@ th, td {
 | Aeropress | 1.6 cups\* | 16 g |
 | Cuisinart | 10 cups | 64 g\*\* |
 
- \\
-\* "4" mark on AeroPress \\
+\* "4" mark on AeroPress
 \*\* Current home ratio - not 1:18
 
 * * *
@@ -44,7 +31,7 @@ th, td {
 #### Cuisinart Range of Coffee per Cup in Grams   
 
 | Cups of Coffee | 1 tbsp (grams) | SCAA 18:1 (grams) |
-| --- | --- |
+| --- | --- | --- |
 | 1 | 5 | 8.3 |
 | 2 | 10 | 16.6 |
 | 3 | 15 | 24.9 |
@@ -59,6 +46,7 @@ th, td {
 
 * * *
 <div style="page-break-after: always"></div>
+
 #### Vario Steel Grinder Settings  
   
 |Coffee Maker|Grinder Setting|

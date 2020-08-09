@@ -1,5 +1,35 @@
+/* TABLE STYLES */
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px 15px;
+  text-align: left;
+}
+
 .source {
   font-size: 14px;
+}
+a[aria-label]:hover:after,
+.recipe-name[aria-label]:hover:after {
+  content: attr(aria-label);
+  min-width:300px;
+  max-width:300px;
+  /* top:50%;
+  left:100%; */
+  margin-left:20px;
+  transform:translate(0, -50%);
+  padding:10px 20px;
+  color:#555;
+  background-color:#fff;
+  font-weight:normal;
+  font-size:14px;
+  border-radius:8px;
+  position:absolute;
+  z-index:99999999;
+  box-sizing:border-box;
+  box-shadow:0 1px 8px #ddd;
 }
 .tooltip {
   display:inline;
@@ -19,7 +49,7 @@
   color:#555;
   background-color:#fff;
   font-weight:normal;
-  font-size:13px;
+  font-size:14px;
   border-radius:8px;
   position:absolute;
   z-index:99999999;
