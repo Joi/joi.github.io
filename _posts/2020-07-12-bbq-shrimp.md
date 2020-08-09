@@ -3,7 +3,7 @@ layout: post
 title: BBQ Shrimp, Burgers, Sausage and Steak
 tags: recipe
 ---
-![BBQ Spread](/images/2020-07-12-bbq-spread.jpeg){:height="50%" width="50%"}<br>
+![BBQ Spread](/images/2020-07-12-bbq-spread.jpeg)<br>
 _BBQ Spread. The coffee maker just happened to be in the shot._
 
 Today's another BBQ day.
@@ -37,7 +37,7 @@ Sous Vide at 150ºF and grilled.
 Salt and pepper seasoned and stuck in the fridge this morning. Will just grill and serve with hot sauce and aioli sauce on the side.
 
 
-![BBQ Spread](/images/roast-first.jpeg){:height="50%" width="50%"}<br>
+![BBQ Spread](/images/roast-first.jpeg)<br>
 _Tried low indirect heat first, brought steak to 115ºF then seared over direct heat to 125ºF. Got a nice "look" on the steak._
 
 I followed a recipe for the shrimp marinade and it turned out salty. I guess I need to season marinades to taste, but that's tricky...

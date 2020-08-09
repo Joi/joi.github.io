@@ -19,7 +19,7 @@ That is my understanding of the general flow as of this writing, but I keep lear
 
 ---
 
-![My First JNat](/images/myfirstjnat.jpeg){:height="50%" width="50%"}
+![My First JNat](/images/myfirstjnat.jpeg)
 
 
 Today, I got my first Japanese natural stone and some *Mikawa* *nagura*. The *awasedo* that I got was a *Shobundani* and I got a *Botan*, *Tanjyou*, *Mejiro* and *Koma nagura* along with a *tomo nagura*. I got them as a set on Etsy from [this guy](http://www.tomonagura.com/).
