@@ -8,9 +8,13 @@ tags: recipe health
 One of the things that have been challenging is finding good things for may 3 year old to eat that we can make. One thing that she likes is Annie's Mac & Cheese. Annie's boast:
 
 > Made with Goodness:
+> 
 > Made with organic pasta
+> 
 > Made with 100% real cheese
+>
 > Cheese from cows not treated with rBST (no significant difference has been shown between milk derived from rBST-treated and non rBST-treated cows).
+> 
 > We work with trusted suppliers to source only non-GMO ingredients
 No artificial flavors, synthetic colors, or synthetic preservatives
 
