@@ -28,7 +28,7 @@ Then I read Modernist Cuisine where they used Sodium Citrate as an emulsifier. T
 
 Having said that, I've been having various arguments with people about what is "healthy." Minerals and simple common molecules found in the body already clearly aren't "poison." Having said that, too much of most things is bad for you. I think that it's important read the research and be careful of consuming too much of anything, especially if it's been shown to have adverse health effects.
 
-I think that molecules design to kill things like pesticides (bugs), preservatives (microbes), and herbicides (plants) are probably more likely to have adverse side effects than common minerals so the "organic and no preservatives" notations seems helpful.
+I think that molecules designed to kill things like pesticides (bugs), preservatives (microbes), and herbicides (plants) are probably more likely to have adverse side effects than common minerals. Therefore, I agree that the "organic and no preservatives" notations seems helpful.
 
 One theory that I heard from Albert-László Barabási who is researching food and the chemistry of food and the body was that most living things have very similar metabolic pathways. In fact, the chemicals that are present in most living things and the amounts of these chemicals tend to be roughly a similar distribution. That means that if you eat whole foods, you tend to have a "natural" distribution of chemicals. However, with processed foods, you can end up ingesting unnatural concentrations of certain molecules that throws your body out of whack.
 
@@ -40,6 +40,6 @@ So I think that the best that we can do is try to focus on whole foods, when ing
 
 ![Whisked Cheese](/images/whisked-cheese.jpeg)
 
-The Modernist Cuisine recipe said to melt the Sodium Citrate in milk or water (I used milk) and then slowly whisk in cheddar cheese until you ended up with a creamy liquid. Then boil the macaroni and folk in the cheese sauce. It worked well and tasted great! My daughter didn't like it though. I'll try one more time experimenting with different cheeses and maybe make it more mild.
+The Modernist Cuisine recipe said to dissolve the Sodium Citrate in milk or water (I used milk) and then slowly melt/whisk in cheddar cheese until you ended up with a creamy liquid. Then boil the macaroni and fold in the cheese sauce. It worked well and tasted great! My daughter didn't like it though. I'll try one more time experimenting with different cheeses and maybe make it more mild.
 
 But I do think I got the consistency right. One of the things about Modernist Cuisine is that they use a lot of "chemicals." Sodium Citrate is one. MSG is another. They also try to "perfect" some of our favorite fast foods like Mac & Cheese and the Big Mac. It's clearly a different path than the traditionalist cuisines. I'm enjoying it, but I think I may have lost my wife once plastic bags of white powders with scientific names started showing up on our doorstep.
