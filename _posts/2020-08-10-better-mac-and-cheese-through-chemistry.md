@@ -30,7 +30,7 @@ Having said that, I've been having various arguments with people about what is "
 
 I think that molecules designed to kill things like pesticides (bugs), preservatives (microbes), and herbicides (plants) are probably more likely to have adverse side effects than common minerals. Therefore, I agree that the "organic and no preservatives" notations seems helpful.
 
-One theory that I heard from Albert-László Barabási who is researching food and the chemistry of food and the body was that most living things have very similar metabolic pathways. In fact, the chemicals that are present in most living things and the amounts of these chemicals tend to be roughly a similar distribution. That means that if you eat whole foods, you tend to have a "natural" distribution of chemicals. However, with processed foods, you can end up ingesting unnatural concentrations of certain molecules that throws your body out of whack.
+One theory that I heard from Albert-László Barabási who is [researching food](https://foodome.co/) and the chemistry of food and the body was that most living things have very similar metabolic pathways. In fact, the chemicals that are present in most living things and the amounts of these chemicals tend to be roughly a similar distribution. That means that if you eat whole foods, you tend to have a "natural" distribution of chemicals. However, with processed foods, you can end up ingesting unnatural concentrations of certain molecules that throws your body out of whack.
 
 I think this makes a ton of sense and a good reason to keep an eye on high concentrations of anything, especially if your body doesn't have a natural or easy way of getting rid of the material.
 
