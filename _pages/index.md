@@ -12,7 +12,7 @@ As I've continued to cook and read books like [Salt Fat Acid Heat by Samin Nosra
 
 I've also started to create some basic guides as references for my cooking.
 
-* [[My Whetstones|Whetstones]]
+* [[Whetstones]]
 * [[Coffee Information]]
 * [[Common Ingredients by Volume and Mass]]
 * [[Volume, Weight and Temperature Conversions]]

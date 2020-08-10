@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-08-06-tuna-confit-redux.md",
+            "file": "_pages/whetstones.md",
             "mode": "source"
           }
         }
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "_posts/2020-07-03-tuna-confit.md",
-    "_posts/2020-07-15-salsa-verde.md",
-    "_posts/2020-07-14-crown-roast-of-lamb.md",
-    "index.md"
+    "_pages/whetstones.md",
+    "_pages/index.md",
+    "_pages/volume-weight-temp.md",
+    "_pages/link-tests.md",
+    "Untitled.md"
   ]
 }

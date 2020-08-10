@@ -1,5 +1,35 @@
+/* TABLE STYLES */
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px 15px;
+  text-align: left;
+}
+
 .source {
   font-size: 14px;
+}
+a[aria-label]:hover:after,
+.recipe-name[aria-label]:hover:after {
+  content: attr(aria-label);
+  min-width:300px;
+  max-width:300px;
+  /* top:50%;
+  left:100%; */
+  margin-left:20px;
+  transform:translate(0, -50%);
+  padding:10px 20px;
+  color:#555;
+  background-color:#fff;
+  font-weight:normal;
+  font-size:14px;
+  border-radius:8px;
+  position:absolute;
+  z-index:99999999;
+  box-sizing:border-box;
+  box-shadow:0 1px 8px #ddd;
 }
 .tooltip {
   display:inline;
@@ -19,7 +49,7 @@
   color:#555;
   background-color:#fff;
   font-weight:normal;
-  font-size:13px;
+  font-size:14px;
   border-radius:8px;
   position:absolute;
   z-index:99999999;
@@ -298,9 +328,10 @@ li .mn-right .onglet {
 }
 
 .right .tooltip-title {
+  display: inline-block;
   font-size: 15px;
   font-weight: 600;
-  display: inline-block;
+  line-height: 130%;
 }
 
 .right .tooltip-excerpt {
@@ -355,4 +386,21 @@ label.srs-toggle {
   border-radius: 5px;
   box-shadow: 1px 1px 15px #cfcfcf;
   word-wrap:break-word;
+}
+
+/* DEBUG */
+
+pre {
+  font-size: 14px;
+  margin: 0 0 20px;
+  color: #333;
+  background-color: #e6e6e6;
+  padding: 10px 0 10px 10px;
+  font-family: menlo, monospace;
+}
+h6.debug {
+  padding: 5px 0 5px 20px;
+  margin-bottom: 5px;
+  border-bottom: 1px dashed #ccc;
+  background: #cdf;
 }

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-06T11:47:10-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Joi’s GitHub Page</title><subtitle>An experimental website to play with Jekyll.</subtitle><entry><title type="html">Tuna Confit Redux</title><link href="http://localhost:4000/2020/08/06/tuna-confit-redux" rel="alternate" type="text/html" title="Tuna Confit Redux" /><published>2020-08-06T00:00:00-04:00</published><updated>2020-08-06T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/06/tuna-confit-redux</id><content type="html" xml:base="http://localhost:4000/2020/08/06/tuna-confit-redux">&lt;p&gt;I made [[my first tuna cofit]] about a month ago and I used the recipe from &lt;a href=&quot;https://www.saltfatacidheat.com/&quot;&gt;[Nosrat’s book]&lt;/a&gt;. I modified it a bit but it involved using a Dutch oven at 150ºF for about 9 min after preparing oil infused with various aromatics.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-10T10:27:20-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Joi’s GitHub Page</title><subtitle>An experimental website to play with Jekyll.</subtitle><entry><title type="html">Tuna Confit Redux</title><link href="http://localhost:4000/2020/08/06/tuna-confit-redux" rel="alternate" type="text/html" title="Tuna Confit Redux" /><published>2020-08-06T00:00:00-04:00</published><updated>2020-08-06T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/06/tuna-confit-redux</id><content type="html" xml:base="http://localhost:4000/2020/08/06/tuna-confit-redux">&lt;p&gt;I made [[my first tuna cofit]] about a month ago and I used the recipe from &lt;a href=&quot;https://www.saltfatacidheat.com/&quot;&gt;[Nosrat’s book]&lt;/a&gt;. I modified it a bit but it involved using a Dutch oven at 150ºF for about 9 min after preparing oil infused with various aromatics.&lt;/p&gt;
 
 &lt;p&gt;After reading &lt;a href=&quot;https://modernistcuisine.com/books/modernist-cuisine-at-home/&quot;&gt;[Modernist Cuisine]&lt;/a&gt;, I decided to try it again, but with the sous vide instead. The cool thing that I learned from Modernist Cuisine was that I could use glass jars which could be used to refrigerate the tuna after it was done.&lt;/p&gt;
 
@@ -49,7 +49,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/myfirstjnat.jpeg&quot; alt=&quot;My First JNat&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/myfirstjnat.jpeg&quot; alt=&quot;My First JNat&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Today, I got my first Japanese natural stone and some &lt;em&gt;Mikawa&lt;/em&gt; &lt;em&gt;nagura&lt;/em&gt;. The &lt;em&gt;awasedo&lt;/em&gt; that I got was a &lt;em&gt;Shobundani&lt;/em&gt; and I got a &lt;em&gt;Botan&lt;/em&gt;, &lt;em&gt;Tanjyou&lt;/em&gt;, &lt;em&gt;Mejiro&lt;/em&gt; and &lt;em&gt;Koma nagura&lt;/em&gt; along with a &lt;em&gt;tomo nagura&lt;/em&gt;. I got them as a set on Etsy from &lt;a href=&quot;http://www.tomonagura.com/&quot;&gt;this guy&lt;/a&gt;.&lt;/p&gt;
 
@@ -97,26 +97,46 @@
 
 &lt;p&gt;I’ve cooked a whole chicken every week for the last month or so. This week, Farmers To You didn’t have whole chicken so I ordered a &lt;a href=&quot;http://giannonepoultry.com/en/&quot;&gt;Giannone chicken&lt;/a&gt; from &lt;a href=&quot;https://www.savenorsmarket.com/&quot;&gt;Savenor’s&lt;/a&gt;. It seemed like it was frozen at one point (some parts were still frozen). Are all / most chickens frozen? The beef kebabs yesterday from Farmers To You were partially frozen too. I wonder what the logic is to sell frozen meats thawed. Is it marketing? Is it so people can prepare it without thawing? Is it that they are frozen in some way that is less damaging than a home fridge? Is it lower temperature. Hmmm.&lt;/p&gt;
 
-&lt;p&gt;The Giannone chicken from Savenor’s is also smaller - 3 lb vs the 5.5 lb chickens that I’d been getting from Farmers To You. I &lt;a href=&quot;/recipes/Jois-Oven-Roasted-Spatchcocked-Chicken.html&quot;&gt;spatchcocked&lt;/a&gt; it yesterday, salt and peppered it and stuck it in the fridge. I plan to try putting a weight (second cast iron pan) on top of the chicken when I sear it this time to see how it goes. (I heard about it and then found &lt;a href=&quot;/recipes/Spatchcocked-Chicken-Under-a-Brick.html&quot;&gt;this “Spatchcocked Chicken Under A Brick” recipe&lt;/a&gt;.) I’ll try it at 450ºF per this recipe.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;The Giannone chicken from Savenor’s is also smaller - 3 lb vs the 5.5 lb chickens that I’d been getting from Farmers To You. I  [[Jois-Oven-Roasted-Spatchcocked-Chicken&lt;/td&gt;
+      &lt;td&gt;spatchcocked]] it yesterday, salt and peppered it and stuck it in the fridge. I plan to try putting a weight (second cast iron pan) on top of the chicken when I sear it this time to see how it goes. (I heard about it and then found [[Spatchcocked Chicken “Under a Brick”&lt;/td&gt;
+      &lt;td&gt;this “Spatchcocked Chicken Under A Brick” recipe]].) I’ll try it at 450ºF per this recipe.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;[[Jois Oven Roasted Spatchcocked Chicken]]&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;I also took the spine and wing tips from the Giannone chicken, added it to the celery, parsley and left over chicken parts in the freezer along with three points of chicken bones from Savenor’s and the rest of the [[Samin-Nosrat-Chicken-Stock&lt;/td&gt;
+      &lt;td&gt;recipe for Nosrat’s chicken stock recipe]] and simmered it for 6 hours yesterday. It’s currently chilling in the wine cellar.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;I also took the spine and wing tips from the Giannone chicken, added it to the celery, parsley and left over chicken parts in the freezer along with three points of chicken bones from Savenor’s and the rest of the &lt;a href=&quot;/recipes/Samin-Nosrat-Chicken-Stock.html&quot;&gt;recipe for Nosrat’s chicken stock recipe&lt;/a&gt; and simmered it for 6 hours yesterday. It’s currently chilling in the wine cellar.&lt;/p&gt;
-
-&lt;p&gt;I’m going to use the stock to make [[Risotto Primavera]] as the side dish tonight.&lt;/p&gt;
+&lt;p&gt;I’m going to use the stock to make [[Risotto-Primavera]] as the side dish tonight.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;The risotto turned out nice. I used porcini instead of shiitake which turned the whole thing a bit brown, but otherwise it was great.&lt;/p&gt;
 
-&lt;p&gt;The chicken was good, but my Chugod thermometers got the temperature wrong (I don’t think it was user error) but I used the Javelin Pro and used it to get it to the right temperature. I use the Chugod because it can stay connected when the food is in the oven and it has a Bluetooth mode that allows me to monitor it on my phone. However, the range doesn’t allow me to use it outside, in my office or on the 3 fl nursery and it complains loudly both at the device and on my phone when it gets disconnected… which is annoying. It is hard to figure out exactly where to measure on a spatchcocked chicken since there is no “middle” of the chicken, but I think near the bone seemed best. I need to get better at placing the thermometer maybe.&lt;/p&gt;</content><author><name></name></author><category term="theory" /><category term="recipe" /><summary type="html">In Salt, Fat, Acid, Heat, Nosrat aruges for buying whole chickens rather than buying parts. You can save the spine and other parts for stock and cut the pieces yourself. It’s cheaper and it’s my own anecdotal feel, but it seems like the whole chickens that we get from Farmers To You are fresher.</summary></entry><entry><title type="html">A Mexican Side Dish</title><link href="http://localhost:4000/2020/07/16/mexican-side-dish" rel="alternate" type="text/html" title="A Mexican Side Dish" /><published>2020-07-16T00:00:00-04:00</published><updated>2020-07-16T00:00:00-04:00</updated><id>http://localhost:4000/2020/07/16/mexican-side-dish</id><content type="html" xml:base="http://localhost:4000/2020/07/16/mexican-side-dish">&lt;p&gt;&lt;img src=&quot;/images/mexican-coleslaw.jpeg&quot; alt=&quot;Mexican Coleslaw&quot; width=&quot;50%&quot; height=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The chicken was good, but my Chugod thermometers got the temperature wrong (I don’t think it was user error) but I used the Javelin Pro and used it to get it to the right temperature. I use the Chugod because it can stay connected when the food is in the oven and it has a Bluetooth mode that allows me to monitor it on my phone. However, the range doesn’t allow me to use it outside, in my office or on the 3 fl nursery and it complains loudly both at the device and on my phone when it gets disconnected… which is annoying. It is hard to figure out exactly where to measure on a spatchcocked chicken since there is no “middle” of the chicken, but I think near the bone seemed best. I need to get better at placing the thermometer maybe.&lt;/p&gt;</content><author><name></name></author><category term="theory" /><category term="recipe" /><summary type="html">In Salt, Fat, Acid, Heat, Nosrat aruges for buying whole chickens rather than buying parts. You can save the spine and other parts for stock and cut the pieces yourself. It’s cheaper and it’s my own anecdotal feel, but it seems like the whole chickens that we get from Farmers To You are fresher.</summary></entry><entry><title type="html">A Mexican Side Dish</title><link href="http://localhost:4000/2020/07/16/mexican-side-dish" rel="alternate" type="text/html" title="A Mexican Side Dish" /><published>2020-07-16T00:00:00-04:00</published><updated>2020-07-16T00:00:00-04:00</updated><id>http://localhost:4000/2020/07/16/mexican-side-dish</id><content type="html" xml:base="http://localhost:4000/2020/07/16/mexican-side-dish">&lt;p&gt;&lt;img src=&quot;/images/mexican-coleslaw.jpeg&quot; alt=&quot;Mexican Coleslaw&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A* is making Chili Con Carne with Nachos and Guacamole. I’m supposed to make the side dish. My guess is that lime, coriander and red onions are a good place to start. Maybe I’ll make a salad.&lt;/p&gt;
 
 &lt;p&gt;And… we don’t have lettuce. But we have a &lt;a href=&quot;https://sienafarms.com/csa/peak-season-farm-share-faq/&quot;&gt;Siena Farms&lt;/a&gt; share coming today so there might be something, but they sometimes show up right at dinner time. Maybe I’ll do a Mexican cole slaw as a backup recipe since I recall seeing a bit of cabbage in the fridge.&lt;/p&gt;
 
-&lt;p&gt;My Mexican Coleslaw came out great. I followed a recipe [[Mexican Coleslaw With Cilantro Lime Dressing]] and the only thing missing was bell peppers.&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;My Mexican Coleslaw came out great. I followed [[Mexican-Coleslaw-with-Cilantro-Lime-Dressing&lt;/td&gt;
+      &lt;td&gt;this Mexican Coleslaw with Cilantro Lime Dressing recipe]] and the only thing missing was bell peppers.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;* “A” is the initial of our Au Pair housemate who is cooking this evening.&lt;/p&gt;</content><author><name></name></author><category term="recipe" /><summary type="html"></summary></entry><entry><title type="html">Diving into Salsa Verde - Spatchcocked Chicken redux</title><link href="http://localhost:4000/2020/07/15/salsa-verde" rel="alternate" type="text/html" title="Diving into Salsa Verde - Spatchcocked Chicken redux" /><published>2020-07-15T00:00:00-04:00</published><updated>2020-07-15T00:00:00-04:00</updated><id>http://localhost:4000/2020/07/15/salsa-verde</id><content type="html" xml:base="http://localhost:4000/2020/07/15/salsa-verde">&lt;p&gt;&lt;img src=&quot;/images/salsa-verde.jpeg&quot; alt=&quot;Salsa Verde&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;* “A” is the initial of our Au Pair housemate who is cooking this evening.&lt;/p&gt;</content><author><name></name></author><category term="recipe" /><summary type="html"></summary></entry><entry><title type="html">Diving into Salsa Verde - Spatchcocked Chicken redux</title><link href="http://localhost:4000/2020/07/15/salsa-verde" rel="alternate" type="text/html" title="Diving into Salsa Verde - Spatchcocked Chicken redux" /><published>2020-07-15T00:00:00-04:00</published><updated>2020-07-15T00:00:00-04:00</updated><id>http://localhost:4000/2020/07/15/salsa-verde</id><content type="html" xml:base="http://localhost:4000/2020/07/15/salsa-verde">&lt;p&gt;&lt;img src=&quot;/images/salsa-verde.jpeg&quot; alt=&quot;Salsa Verde&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The daughter of our housemates really liked the Spatchcocked Chicken last week so we decided that we should make it again this week. It would add more fodder for my stock bag in the freezer and would help me work on perfecting the recipe. Since we need to make it today, we’ll get a chance to taste it without an overnight brining to see if we can taste the difference. (We should do this side-by-side sometime.)&lt;/p&gt;
 
@@ -124,13 +144,13 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/spatchcocked-thermometer.jpeg&quot; alt=&quot;Spatchcocked Thermometer&quot; height=&quot;%50&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/spatchcocked-temp.png&quot; alt=&quot;Spatchcocked Temperature&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/spatchcocked-temp.png&quot; alt=&quot;Spatchcocked Temperature&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I think it was about a total of 45 min subtracting time for the removal and replacement of the chicken. There was some red in the joints, bones and juice from the joints so it seems like I should have cooked it a bit longer, but generally it seemed done.&lt;/p&gt;
 
 &lt;p&gt;One thing that I noticed was that we have fresh herbs expiring on different cycles and I noticed that the &lt;a href=&quot;/recipes/Basic-Salsa-Verde.html&quot;&gt;Salsa Verde&lt;/a&gt; and various herb sauces in Salt Fat Acid Heat were pretty flexible and great for side sauces for things like the Spatchcocked Chicken.&lt;/p&gt;
 
-&lt;p&gt;We have extra parsley and sage today so I’ll make the Salsa Verde and possibly fry the sage and make the &lt;a href=&quot;/recipes/Fried-Sage-Salsa-Verde.html&quot;&gt;Fried Sage Salsa Verde&lt;/a&gt; if I have time.&lt;/p&gt;</content><author><name></name></author><category term="recipes" /><category term="spatchcocked-chicken" /><summary type="html"></summary></entry><entry><title type="html">Crown Roast of Lamb</title><link href="http://localhost:4000/2020/07/14/crown-roast-of-lamb" rel="alternate" type="text/html" title="Crown Roast of Lamb" /><published>2020-07-14T00:00:00-04:00</published><updated>2020-07-14T00:00:00-04:00</updated><id>http://localhost:4000/2020/07/14/crown-roast-of-lamb</id><content type="html" xml:base="http://localhost:4000/2020/07/14/crown-roast-of-lamb">&lt;p&gt;&lt;img src=&quot;/images/carved-roast-crown.jpeg&quot; alt=&quot;Carved Crown Roast&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We have extra parsley and sage today so I’ll make the Salsa Verde and possibly fry the sage and make the &lt;a href=&quot;/recipes/Fried-Sage-Salsa-Verde.html&quot;&gt;Fried Sage Salsa Verde&lt;/a&gt; if I have time.&lt;/p&gt;</content><author><name></name></author><category term="recipes" /><category term="spatchcocked-chicken" /><summary type="html"></summary></entry><entry><title type="html">Crown Roast of Lamb</title><link href="http://localhost:4000/2020/07/14/crown-roast-of-lamb" rel="alternate" type="text/html" title="Crown Roast of Lamb" /><published>2020-07-14T00:00:00-04:00</published><updated>2020-07-14T00:00:00-04:00</updated><id>http://localhost:4000/2020/07/14/crown-roast-of-lamb</id><content type="html" xml:base="http://localhost:4000/2020/07/14/crown-roast-of-lamb">&lt;p&gt;&lt;img src=&quot;/images/carved-roast-crown.jpeg&quot; alt=&quot;Carved Crown Roast&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Mizuka was talking to our house guest* who doesn’t like lamb. Mizuka explained that she didn’t like lamb either but that she started liking it after she first had a Crown Roast of Lamb over the holidays that we bought from Savenor’s so we decided to try it to see if it would change our guest’s taste.&lt;/p&gt;
 
@@ -139,18 +159,18 @@
 &lt;p&gt;I’m mashing up three receipts.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;[[Epicurious - Crown Roast of Lamb with Rosemary and Oregano]]&lt;/li&gt;
-  &lt;li&gt;[[Food Network - Crown Roast of Lamb]]&lt;/li&gt;
-  &lt;li&gt;[[Thermoworks - Crown Roast of Lamb]]&lt;/li&gt;
+  &lt;li&gt;[[Crown Roast of Lamb with Rosemary and Oregano - Epicurious]]&lt;/li&gt;
+  &lt;li&gt;[[Crown Roast of Lamb - Food Network]]&lt;/li&gt;
+  &lt;li&gt;[[Crown Roast of Lamb - Thermoworks]]&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;I used 2 tbsp of fresh rosemary, 6 garlic cloves, 1 tsp of dried oregano, 2 tbsp of chopped parsley, 1/2 tsp of lemon zest, 1 1/2 tsp salt, 1 tsp of ground pepper, 1 tsp of fresh thyme. I dry brined the lamb from the morning, then oiled the lamb with light olive oil and spread the rub over the lab.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/crown-roast-oven.jpg&quot; alt=&quot;Crown Roast in Oven&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/crown-roast-oven.jpg&quot; alt=&quot;Crown Roast in Oven&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I set the oven to 425ºF and roasted it on a skillet (heated together with the oven) and covered the bones with foil. I put a thermometer into the meat with an alarm at 125ºF.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/crown-roast-cut.jpeg&quot; alt=&quot;Crown Roast in Oven&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/images/crown-roast-cut.jpeg&quot; alt=&quot;Crown Roast in Oven&quot; /&gt;
 &lt;br /&gt;&lt;em&gt;I forgot to take a photo of the crown before I cut the twine. This is roughly the shape that it was, but maybe not quite as flat.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;It took nearly one hour to cook. I now realize that this is probably because the “hole” in the middle was gone because it was shaped more like pursed lips than a crown because of the way it came from Savenor’s. I think that next time, I need to shape it into a crown and maybe tie the two ends together to hold it in that shape.&lt;/p&gt;
@@ -159,6 +179,13 @@
 
 &lt;p&gt;The Food Network recipe said to use the drippings to make a sauce with 1 tbsp vinegar and 1 tsp of Dijon mustard. The pan drippings were almost all oil which was too hot. Next time, I should remove the oil and cool down the pan before adding the vinegar and the mustard.&lt;/p&gt;
 
-&lt;p&gt;I complied this into &lt;a href=&quot;/recipes/Jois-Crown-Roast-of-Lamb.html&quot;&gt;a recipe.&lt;/a&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;I compiled this into [[Jois-Crown-Roast-of-Lamb&lt;/td&gt;
+      &lt;td&gt;my own Crown Roast of Lamb recipe]]&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;* We have had a family of friends with two kids living in our au pair since early in the lockdown. It’s been fun cooking with and for them.&lt;/p&gt;</content><author><name></name></author><category term="recipe" /><summary type="html"></summary></entry></feed>
