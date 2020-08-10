@@ -20,7 +20,7 @@ No artificial flavors, synthetic colors, or synthetic preservatives
 
 Sounds good!
 
-I tried making Mac & Cheese before from various recipes but my daughter didn't eat it. Also, I found that my Mac & Cheese didn't keep in the fridge very well.
+I tried making Mac & Cheese before from various recipes but my daughter didn't eat it. Also, I found that my Mac & Cheese didn't keep in the fridge very well - the cheese got hard and the oil separated from the sauce.
 
 ![Cheese and Emulsifier](/images/cheese-and-emulsifier.jpeg)
 Then I read Modernist Cuisine where they used Sodium Citrate as an emulsifier. They described how this would allow the cheese to become silky smooth - the texture of Annie's. Looking at the label on Annie's, I found that it contained Sodium Phosphate as an emulsifier. I think Sodium Citrate comes from citruses whereas Sodium Phosphate comes from Phosphate mines, which clearly isn't as "natural."
