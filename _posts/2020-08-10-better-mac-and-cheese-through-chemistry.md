@@ -23,6 +23,7 @@ Sounds good!
 I tried making Mac & Cheese before from various recipes but my daughter didn't eat it. Also, I found that my Mac & Cheese didn't keep in the fridge very well - the cheese got hard and the oil separated from the sauce.
 
 ![Cheese and Emulsifier](/images/cheese-and-emulsifier.jpeg)
+
 Then I read Modernist Cuisine where they used Sodium Citrate as an emulsifier. They described how this would allow the cheese to become silky smooth - the texture of Annie's. Looking at the label on Annie's, I found that it contained Sodium Phosphate as an emulsifier. I think Sodium Citrate comes from citruses whereas Sodium Phosphate comes from Phosphate mines, which clearly isn't as "natural."
 
 Having said that, I've been having various arguments with people about what is "healthy." Minerals and simple common molecules found in the body already clearly aren't "poison." Having said that, too much of most things is bad for you. I think that it's important read the research and be careful of consuming too much of anything, especially if it's been shown to have adverse health effects.
