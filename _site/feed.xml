@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-10T15:05:56-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Joi’s GitHub Page</title><subtitle>An experimental website to play with Jekyll.</subtitle><entry><title type="html">Better Mac and Cheese through Chemistry</title><link href="http://localhost:4000/2020/08/10/better-mac-and-cheese-through-chemistry" rel="alternate" type="text/html" title="Better Mac and Cheese through Chemistry" /><published>2020-08-10T00:00:00-04:00</published><updated>2020-08-10T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/10/better-mac-and-cheese-through-chemistry</id><content type="html" xml:base="http://localhost:4000/2020/08/10/better-mac-and-cheese-through-chemistry">&lt;p&gt;&lt;img src=&quot;/images/mac-and-cheese.jpeg&quot; alt=&quot;mac-and-cheese&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-11T10:32:04-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Joi’s GitHub Page</title><subtitle>An experimental website to play with Jekyll.</subtitle><entry><title type="html">Perfecting Grilled Salmon</title><link href="http://localhost:4000/2020/08/11/perfecting-grilled-salmon" rel="alternate" type="text/html" title="Perfecting Grilled Salmon" /><published>2020-08-11T00:00:00-04:00</published><updated>2020-08-11T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/11/perfecting-grilled-salmon</id><content type="html" xml:base="http://localhost:4000/2020/08/11/perfecting-grilled-salmon">&lt;p&gt;Japanese eat salmon, but my theory is that because it comes from Hokkaido in the far north, Tokyo people never had fresh salmon. Japanese eat salmon heavily salted or cured and cooked well done. It wasn’t until recently that Japanese ate raw salmon and many sushi places still put raw salmon on the “eww” along with other American sushi innovations like mayonnaise.&lt;/p&gt;
+
+&lt;p&gt;I also see people from Nordic regions eating salmon very rare too.&lt;/p&gt;
+
+&lt;p&gt;My wife, who is very Japanese, always finds my American influenced salmon recipes to be way to soft and rare.&lt;/p&gt;
+
+&lt;p&gt;In the US, especially the Pacific North West, people eat salmon very rare. Nathan Myhrvold, who hails from Seattle, tell us in &lt;a href=&quot;https://modernistcuisine.com/books/modernist-cuisine-at-home/&quot;&gt;Modernist Cuisine&lt;/a&gt; to pull it from the sous vide at 113ºF.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.seriouseats.com/recipes/2019/08/grilled-salmon-fillets.html&quot;&gt;Kenji López-Alt says&lt;/a&gt; that rare should be 110ºF, medium-rare 120ºF and 130ºF for medium.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;I think that today I’ll try cooking the salmon to 130ºF using [[Grilled-Salmon-Fillets&lt;/td&gt;
+      &lt;td&gt;Kenji’s recipe]] for grilling and making the salmon and some [[Grilled-Salmon-with-Cilantro-Pecan-Pesto&lt;/td&gt;
+      &lt;td&gt;cilantro pesto]] on the side for the adults.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="recipe" /><summary type="html">Japanese eat salmon, but my theory is that because it comes from Hokkaido in the far north, Tokyo people never had fresh salmon. Japanese eat salmon heavily salted or cured and cooked well done. It wasn’t until recently that Japanese ate raw salmon and many sushi places still put raw salmon on the “eww” along with other American sushi innovations like mayonnaise.</summary></entry><entry><title type="html">Better Mac and Cheese through Chemistry</title><link href="http://localhost:4000/2020/08/10/better-mac-and-cheese-through-chemistry" rel="alternate" type="text/html" title="Better Mac and Cheese through Chemistry" /><published>2020-08-10T00:00:00-04:00</published><updated>2020-08-10T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/10/better-mac-and-cheese-through-chemistry</id><content type="html" xml:base="http://localhost:4000/2020/08/10/better-mac-and-cheese-through-chemistry">&lt;p&gt;&lt;img src=&quot;/images/mac-and-cheese.jpeg&quot; alt=&quot;mac-and-cheese&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;One of the things that have been challenging is finding good things for may 3 year old to eat that we can make. One thing that she likes is Annie’s Mac &amp;amp; Cheese. Annie’s boast:&lt;/p&gt;
 
@@ -21,7 +39,7 @@ No artificial flavors, synthetic colors, or synthetic preservatives&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/cheese-and-emulsifier.jpeg&quot; alt=&quot;Cheese and Emulsifier&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Then I read Modernist Cuisine where they used Sodium Citrate as an emulsifier.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;  They described how this would allow the cheese to become silky smooth - the texture of Annie’s. Looking at the label on Annie’s, I found that it contained Sodium Phosphate as an emulsifier. I think Sodium Citrate comes from citruses whereas Sodium Phosphate comes from Phosphate mines, which clearly isn’t as “natural.”&lt;/p&gt;
+&lt;p&gt;Then I read Modernist Cuisine where they used Sodium Citrate as an emulsifier.[[An emulsifier is a substance that allows oil to be suspended in water or water-based liquids as an emulsion. Eggs, for example, have a natural emulsifier that allows them to be fatty but liquid and mixed together with the water-based part of the egg. The emulsifier in eggs is what allows the oil and vinegar in mayonnaise to be mixed together.::rsn]]They described how this would allow the cheese to become silky smooth - the texture of Annie’s. Looking at the label on Annie’s, I found that it contained Sodium Phosphate as an emulsifier. I think Sodium Citrate comes from citruses whereas Sodium Phosphate comes from Phosphate mines, which clearly isn’t as “natural.”&lt;/p&gt;
 
 &lt;p&gt;Having said that, I’ve been having various arguments with people about what is “healthy.” Minerals and simple common molecules found in the body already clearly aren’t “poison.” Having said that, too much of most things is bad for you. I think that it’s important read the research and be careful of consuming too much of anything, especially if it’s been shown to have adverse health effects.&lt;/p&gt;
 
@@ -39,17 +57,7 @@ No artificial flavors, synthetic colors, or synthetic preservatives&lt;/p&gt;
 
 &lt;p&gt;The Modernist Cuisine recipe said to dissolve the Sodium Citrate in milk or water (I used milk) and then slowly melt/whisk in cheddar cheese until you ended up with a creamy liquid. Then boil the macaroni and fold in the cheese sauce. It worked well and tasted great! My daughter didn’t like it though. I’ll try one more time experimenting with different cheeses and maybe make it more mild.&lt;/p&gt;
 
-&lt;p&gt;But I do think I got the consistency right. One of the things about Modernist Cuisine is that they use a lot of “chemicals.” Sodium Citrate is one. MSG is another. They also try to “perfect” some of our favorite fast foods like Mac &amp;amp; Cheese and the Big Mac. It’s clearly a different path than the traditionalist cookbooks. I’m enjoying it, but I think I may have lost my wife once plastic bags of white powders with scientific names started showing up on our doorstep.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;An emulsifier is a substance that allows oil to be suspended in water or water-based liquids as an emulsion. Eggs, for example, have a natural emulsifier that allows them to be fatty but liquid and mixed together with the water-based part of the egg. The emulsifier in eggs is what allows the oil and vinegar in mayonnaise to be mixed together. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="recipe" /><category term="health" /><summary type="html"></summary></entry><entry><title type="html">Tuna Confit Redux</title><link href="http://localhost:4000/2020/08/06/tuna-confit-redux" rel="alternate" type="text/html" title="Tuna Confit Redux" /><published>2020-08-06T00:00:00-04:00</published><updated>2020-08-06T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/06/tuna-confit-redux</id><content type="html" xml:base="http://localhost:4000/2020/08/06/tuna-confit-redux">&lt;table&gt;
+&lt;p&gt;But I do think I got the consistency right. One of the things about Modernist Cuisine is that they use a lot of “chemicals.” Sodium Citrate is one. MSG is another. They also try to “perfect” some of our favorite fast foods like Mac &amp;amp; Cheese and the Big Mac. It’s clearly a different path than the traditionalist cookbooks. I’m enjoying it, but I think I may have lost my wife once plastic bags of white powders with scientific names started showing up on our doorstep.&lt;/p&gt;</content><author><name></name></author><category term="recipe" /><category term="health" /><summary type="html"></summary></entry><entry><title type="html">Tuna Confit Redux</title><link href="http://localhost:4000/2020/08/06/tuna-confit-redux" rel="alternate" type="text/html" title="Tuna Confit Redux" /><published>2020-08-06T00:00:00-04:00</published><updated>2020-08-06T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/06/tuna-confit-redux</id><content type="html" xml:base="http://localhost:4000/2020/08/06/tuna-confit-redux">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;I made [[2020-07-03-tuna-confit&lt;/td&gt;
@@ -201,18 +209,4 @@ No artificial flavors, synthetic colors, or synthetic preservatives&lt;/p&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;* “A” is the initial of our Au Pair housemate who is cooking this evening.&lt;/p&gt;</content><author><name></name></author><category term="recipe" /><summary type="html"></summary></entry><entry><title type="html">Diving into Salsa Verde - Spatchcocked Chicken redux</title><link href="http://localhost:4000/2020/07/15/salsa-verde" rel="alternate" type="text/html" title="Diving into Salsa Verde - Spatchcocked Chicken redux" /><published>2020-07-15T00:00:00-04:00</published><updated>2020-07-15T00:00:00-04:00</updated><id>http://localhost:4000/2020/07/15/salsa-verde</id><content type="html" xml:base="http://localhost:4000/2020/07/15/salsa-verde">&lt;p&gt;&lt;img src=&quot;/images/salsa-verde.jpeg&quot; alt=&quot;Salsa Verde&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The daughter of our housemates really liked the Spatchcocked Chicken last week so we decided that we should make it again this week. It would add more fodder for my stock bag in the freezer and would help me work on perfecting the recipe. Since we need to make it today, we’ll get a chance to taste it without an overnight brining to see if we can taste the difference. (We should do this side-by-side sometime.)&lt;/p&gt;
-
-&lt;p&gt;The skin wasn’t ask crispy. I used a thermometer to monitor the temperature. It was hard to figure out where to place the thermometer. When I used the hand-held thermometer to check temperatures in other places after my alarm went off, I founder some cooler spots so had to cook it again.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/spatchcocked-thermometer.jpeg&quot; alt=&quot;Spatchcocked Thermometer&quot; height=&quot;%50&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/spatchcocked-temp.png&quot; alt=&quot;Spatchcocked Temperature&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I think it was about a total of 45 min subtracting time for the removal and replacement of the chicken. There was some red in the joints, bones and juice from the joints so it seems like I should have cooked it a bit longer, but generally it seemed done.&lt;/p&gt;
-
-&lt;p&gt;One thing that I noticed was that we have fresh herbs expiring on different cycles and I noticed that the &lt;a href=&quot;/recipes/Basic-Salsa-Verde.html&quot;&gt;Salsa Verde&lt;/a&gt; and various herb sauces in Salt Fat Acid Heat were pretty flexible and great for side sauces for things like the Spatchcocked Chicken.&lt;/p&gt;
-
-&lt;p&gt;We have extra parsley and sage today so I’ll make the Salsa Verde and possibly fry the sage and make the &lt;a href=&quot;/recipes/Fried-Sage-Salsa-Verde.html&quot;&gt;Fried Sage Salsa Verde&lt;/a&gt; if I have time.&lt;/p&gt;</content><author><name></name></author><category term="recipes" /><category term="spatchcocked-chicken" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;* “A” is the initial of our Au Pair housemate who is cooking this evening.&lt;/p&gt;</content><author><name></name></author><category term="recipe" /><summary type="html"></summary></entry></feed>

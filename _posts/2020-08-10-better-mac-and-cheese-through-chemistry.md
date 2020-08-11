@@ -24,7 +24,7 @@ I tried making Mac & Cheese before from various recipes but my daughter didn't e
 
 ![Cheese and Emulsifier](/images/cheese-and-emulsifier.jpeg)
 
-Then I read Modernist Cuisine where they used Sodium Citrate as an emulsifier.[^1]  They described how this would allow the cheese to become silky smooth - the texture of Annie's. Looking at the label on Annie's, I found that it contained Sodium Phosphate as an emulsifier. I think Sodium Citrate comes from citruses whereas Sodium Phosphate comes from Phosphate mines, which clearly isn't as "natural."
+Then I read Modernist Cuisine where they used Sodium Citrate as an emulsifier.[[An emulsifier is a substance that allows oil to be suspended in water or water-based liquids as an emulsion. Eggs, for example, have a natural emulsifier that allows them to be fatty but liquid and mixed together with the water-based part of the egg. The emulsifier in eggs is what allows the oil and vinegar in mayonnaise to be mixed together.::rsn]]They described how this would allow the cheese to become silky smooth - the texture of Annie's. Looking at the label on Annie's, I found that it contained Sodium Phosphate as an emulsifier. I think Sodium Citrate comes from citruses whereas Sodium Phosphate comes from Phosphate mines, which clearly isn't as "natural."
 
 Having said that, I've been having various arguments with people about what is "healthy." Minerals and simple common molecules found in the body already clearly aren't "poison." Having said that, too much of most things is bad for you. I think that it's important read the research and be careful of consuming too much of anything, especially if it's been shown to have adverse health effects.
 
@@ -43,7 +43,3 @@ So I think that the best that we can do is try to focus on whole foods, when ing
 The Modernist Cuisine recipe said to dissolve the Sodium Citrate in milk or water (I used milk) and then slowly melt/whisk in cheddar cheese until you ended up with a creamy liquid. Then boil the macaroni and fold in the cheese sauce. It worked well and tasted great! My daughter didn't like it though. I'll try one more time experimenting with different cheeses and maybe make it more mild.
 
 But I do think I got the consistency right. One of the things about Modernist Cuisine is that they use a lot of "chemicals." Sodium Citrate is one. MSG is another. They also try to "perfect" some of our favorite fast foods like Mac & Cheese and the Big Mac. It's clearly a different path than the traditionalist cookbooks. I'm enjoying it, but I think I may have lost my wife once plastic bags of white powders with scientific names started showing up on our doorstep.
-
----
-
-[^1]: An emulsifier is a substance that allows oil to be suspended in water or water-based liquids as an emulsion. Eggs, for example, have a natural emulsifier that allows them to be fatty but liquid and mixed together with the water-based part of the egg. The emulsifier in eggs is what allows the oil and vinegar in mayonnaise to be mixed together.
