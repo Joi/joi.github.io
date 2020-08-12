@@ -3,7 +3,7 @@ layout: post
 title: The Reverse Sear
 tags: recipe
 ---
-![Reverse Sear Steak](/images/reverse-sear-steak.jpeg){:width="50%" height="50%"}
+![Reverse Sear Steak](/images/reverse-sear-steak.jpeg)
 
 I started reading [[Nathan Myhvold's *Modernist Cuisine at Home*]](https://modernistcuisine.com/). It's a beautiful and great book - especially the chemistry and the very "tech" style practical elements such as using emulsifiers for sauces and other more "modern" ingredients and cooking techniques. I got to the chapter on steaks just when my 1.5 inch dry-aged t-bone steaks from Savenor's were dry-brining in my fridge. Nathan had a number of recommendations including sous vide, slow low-heat oven and BBQ grill with ice pan. I definitely want to try to grill with the pan and I would have gone with sous vide, but my sous vide was being used by the chicken confit... so I decided to go low-heat in the oven. Nathan's recipe was super low 170ºF or so for 50 min for a 1 inch steak. He said a 2 inch steak could take 3 hours! His recipe called for searing the steak first after a short time in the freezer.
 
