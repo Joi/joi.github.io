@@ -3,6 +3,9 @@ layout: post
 title: Perfecting Grilled Salmon
 tag: recipe
 ---
+![Grilled Salmon with Cilantro Pesto](/images/grilled-salmon-cilantro.jpeg)
+
+
 Japanese eat salmon, but my theory is that because it comes from Hokkaido in the far north, Tokyo people never had fresh salmon. Japanese eat salmon heavily salted or cured and cooked well done. It wasn't until recently that Japanese ate raw salmon and many sushi places still put raw salmon on the "eww" along with other American sushi innovations like mayonnaise and avocado.
 
 I also see people from Nordic regions eating salmon very rare too.
