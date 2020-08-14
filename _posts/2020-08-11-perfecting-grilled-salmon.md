@@ -14,6 +14,6 @@ My wife, who is very Japanese, always finds my American influenced salmon recipe
 
 In the US, especially the Pacific North West, people eat salmon very rare. Nathan Myhrvold, who hails from Seattle, tell us in [Modernist Cuisine](https://modernistcuisine.com/books/modernist-cuisine-at-home/) to pull it from the sous vide at 113ºF.
 
-[[The-Food-Lab-How-to-Make-Pan-Seared-Salmon-Fillets-with-Crispy-Skin|Kenji López-Alt says]] that rare should be 110ºF, medium-rare 120ºF and 130ºF for medium.
+[[Pan-Seared-Salmon-Fillets-with-Crispy-Skin|Kenji López-Alt says]] that rare should be 110ºF, medium-rare 120ºF and 130ºF for medium.
 
-I think that today I'll try cooking the salmon to 130ºF using [[Grilled-Salmon-Fillets|Kenji's recipe]] for grilling and making the salmon and some [[Grilled-Salmon-with-Cilantro-Pecan-Pesto|cilantro pesto]] on the side for the adults.
+I think that today I'll try cooking the salmon to 130ºF using [[Pan-Seared-Salmon-Fillets-with-Crispy-Skin|Kenji López-Alt says]]  for grilling and making the salmon and some [[Grilled-Salmon-with-Cilantro-Pecan-Pesto|cilantro pesto]] on the side for the adults.
