@@ -6,14 +6,14 @@ tag: recipe
 ![Grilled Salmon with Cilantro Pesto](/images/grilled-salmon-cilantro.jpeg)
 
 
-Japanese eat salmon, but my theory is that because it comes from Hokkaido in the far north, Tokyo people never had fresh salmon. Japanese eat salmon heavily salted or cured and cooked well done. It wasn't until recently that Japanese ate raw salmon and many sushi places still put raw salmon on the "eww" along with other American sushi innovations like mayonnaise and avocado.
+Japanese eat salmon, but my theory is that because it comes from Hokkaido in the far north, Tokyo people never had fresh salmon. Japanese eat salmon heavily salted or cured and cooked well done. It wasn't until recently that Japanese ate raw salmon and many sushi places still put raw salmon in the "eww" category along with other American sushi innovations like mayonnaise and avocado.
 
 I also see people from Nordic regions eating salmon very rare too.
 
 My wife, who is very Japanese, always finds my American influenced salmon recipes to be way to soft and rare.
 
-In the US, especially the Pacific North West, people eat salmon very rare. Nathan Myhrvold, who hails from Seattle, tell us in [Modernist Cuisine](https://modernistcuisine.com/books/modernist-cuisine-at-home/) to pull it from the sous vide at 113ºF.
+In the US, especially the Pacific Northwest, people eat salmon very rare. Nathan Myhrvold, who hails from Seattle, tell us in [Modernist Cuisine](https://modernistcuisine.com/books/modernist-cuisine-at-home/) to pull it from the sous vide at 113ºF.
 
 [[Pan-Seared-Salmon-Fillets-with-Crispy-Skin|Kenji López-Alt says]] that rare should be 110ºF, medium-rare 120ºF and 130ºF for medium.
 
-I think that today I'll try cooking the salmon to 130ºF using [[Pan-Seared-Salmon-Fillets-with-Crispy-Skin|Kenji López-Alt says]]  for grilling and making the salmon and some [[Grilled-Salmon-with-Cilantro-Pecan-Pesto|cilantro pesto]] on the side for the adults.
+I think that today I'll try cooking the salmon to 130ºF using what [[Pan-Seared-Salmon-Fillets-with-Crispy-Skin|Kenji López-Alt says]]  for grilling and making the salmon and some [[Grilled-Salmon-with-Cilantro-Pecan-Pesto|cilantro pesto]] on the side for the adults.
