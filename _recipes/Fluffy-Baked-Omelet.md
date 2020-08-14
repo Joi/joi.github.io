@@ -1,7 +1,5 @@
 ---
-layout: recipe
-title: Fluffy Baked Omelet
-name: Fluffy Baked Omelet
+title: "Fluffy Baked Omelet"
+filename: "Fluffy-Baked-Omelet"
 created: 2020-02-03 10:59:52
-filename: Fluffy-Baked-Omelet
 ---

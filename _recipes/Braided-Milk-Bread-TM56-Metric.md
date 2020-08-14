@@ -1,7 +1,5 @@
 ---
-layout: recipe
-title: Braided Milk Bread (TM5/6 Metric)
-name: Braided Milk Bread (TM5/6 Metric)
+title: "Braided Milk Bread (TM5/6 Metric)"
+filename: "Braided-Milk-Bread-TM56-Metric"
 created: 2020-02-03 10:59:19
-filename: Braided-Milk-Bread-TM56-Metric
 ---

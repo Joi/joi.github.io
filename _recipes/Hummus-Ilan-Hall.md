@@ -1,7 +1,5 @@
 ---
-layout: recipe
-title: Hummus (Ilan Hall)
-name: Hummus (Ilan Hall)
+title: "Hummus (Ilan Hall)"
+filename: "Hummus-Ilan-Hall"
 created: 2020-02-02 07:32:12
-filename: Hummus-Ilan-Hall
 ---

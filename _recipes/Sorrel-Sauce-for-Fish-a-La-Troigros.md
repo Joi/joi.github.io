@@ -1,7 +1,5 @@
 ---
-layout: recipe
-title: Sorrel Sauce for Fish a Lá Troigros
-name: Sorrel Sauce for Fish a Lá Troigros
+title: "Sorrel Sauce for Fish a Lá Troigros"
+filename: "Sorrel-Sauce-for-Fish-a-La-Troigros"
 created: 2020-04-16 10:02:52
-filename: Sorrel-Sauce-for-Fish-a-La-Troigros
 ---

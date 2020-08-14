@@ -1,7 +1,5 @@
 ---
-layout: recipe
-title: Easy Pickled Cabbage
-name: Easy Pickled Cabbage
+title: "Easy Pickled Cabbage"
+filename: "Easy-Pickled-Cabbage"
 created: 2020-04-25 16:37:24
-filename: Easy-Pickled-Cabbage
 ---

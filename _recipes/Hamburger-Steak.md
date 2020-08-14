@@ -1,7 +1,5 @@
 ---
-layout: recipe
-title: Hamburger Steak
-name: Hamburger Steak
+title: "Hamburger Steak"
+filename: "Hamburger-Steak"
 created: 2020-06-27 14:48:06
-filename: Hamburger-Steak
 ---

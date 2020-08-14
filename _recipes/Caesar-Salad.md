@@ -1,7 +1,5 @@
 ---
-layout: recipe
-title: Caesar Salad
-name: Caesar Salad
+title: "Caesar Salad"
+filename: "Caesar-Salad"
 created: 2020-02-03 11:02:47
-filename: Caesar-Salad
 ---

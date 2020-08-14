@@ -1,7 +1,5 @@
 ---
-layout: recipe
-title: Our New Favorite Striped Bass
-name: Our New Favorite Striped Bass
+title: "Our New Favorite Striped Bass"
+filename: "Our-New-Favorite-Striped-Bass"
 created: 2020-07-20 19:43:32
-filename: Our-New-Favorite-Striped-Bass
 ---

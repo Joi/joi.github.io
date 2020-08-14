@@ -1,7 +1,5 @@
 ---
-layout: recipe
-title: Sole Meunière
-name: Sole Meunière
+title: "Sole Meunière"
+filename: "Sole-Meuniere"
 created: 2020-07-31 07:14:42
-filename: Sole-Meuniere
 ---

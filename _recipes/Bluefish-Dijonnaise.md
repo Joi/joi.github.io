@@ -1,7 +1,5 @@
 ---
-layout: recipe
-title: Bluefish Dijonnaise
-name: Bluefish Dijonnaise
+title: "Bluefish Dijonnaise"
+filename: "Bluefish-Dijonnaise"
 created: 2020-06-05 11:45:11
-filename: Bluefish-Dijonnaise
 ---

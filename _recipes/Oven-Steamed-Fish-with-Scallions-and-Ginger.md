@@ -1,7 +1,5 @@
 ---
-layout: recipe
-title: Oven-Steamed Fish with Scallions and Ginger
-name: Oven-Steamed Fish with Scallions and Ginger
+title: "Oven-Steamed Fish with Scallions and Ginger"
+filename: "Oven-Steamed-Fish-with-Scallions-and-Ginger"
 created: 2020-02-03 10:25:45
-filename: Oven-Steamed-Fish-with-Scallions-and-Ginger
 ---
