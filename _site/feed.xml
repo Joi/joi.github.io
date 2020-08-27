@@ -1,7 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-26T10:20:32-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Joi’s GitHub Page</title><subtitle>An experimental website to play with Jekyll.</subtitle><entry><title type="html">My first Prime Rib</title><link href="http://localhost:4000/2020/08/17/prime-rib" rel="alternate" type="text/html" title="My first Prime Rib" /><published>2020-08-17T00:00:00-04:00</published><updated>2020-08-17T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/17/prime-rib</id><content type="html" xml:base="http://localhost:4000/2020/08/17/prime-rib">&lt;p&gt;&lt;img src=&quot;/images/recipes/1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259/345B6076-40B7-4425-8C42-7C3059EEDA67-2241-0001DD4817BFB668.jpg&quot; alt=&quot;Prime Rib on plate&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-26T14:42:16-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Joi’s GitHub Page</title><subtitle>An experimental website to play with Jekyll.</subtitle><entry><title type="html">My first Prime Rib</title><link href="http://localhost:4000/2020/08/17/prime-rib" rel="alternate" type="text/html" title="My first Prime Rib" /><published>2020-08-17T00:00:00-04:00</published><updated>2020-08-17T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/17/prime-rib</id><content type="html" xml:base="http://localhost:4000/2020/08/17/prime-rib">&lt;p&gt;&lt;img src=&quot;/images/recipes/1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259/345B6076-40B7-4425-8C42-7C3059EEDA67-2241-0001DD4817BFB668.jpg&quot; alt=&quot;Prime Rib on plate&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/recipes/1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259/AA8566E6-2470-4292-BD98-2B32228296D9-2241-0001DD4A50A1A0D2.jpg&quot; alt=&quot;Prime Rib&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Using what I learned about [[2020-08-12-reverse-sear-redux|reverse sear]], I took on the challenge of making my first Prime Rib.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/images/recipes/1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259/55B7187E-A264-47D2-9D28-E1039E5BB1F3-2241-0001DD4B012AF508.jpg&quot; alt=&quot;Prime Rib with thermometer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/recipes/1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259/4E8B3C39-9821-47FF-B8AB-16F762165011-2241-0001DD4C761C2BE8.jpg&quot; alt=&quot;Dry Brining&quot; /&gt;&lt;br /&gt;
+I dry brined the meat for a day and a half with salt and pepper.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/recipes/1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259/55B7187E-A264-47D2-9D28-E1039E5BB1F3-2241-0001DD4B012AF508.jpg&quot; alt=&quot;Prime Rib with thermometer&quot; /&gt;&lt;br /&gt;
+I then roasted it in the oven on a rack at 170ºF for almost 5 hours. My target temperature was 130ºF, which is medium-rare and according to Kenji Lopez-Alt, the best target for a tender and tasty Prime Rib. :-)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/recipes/1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259/1887EE7F-8647-4A14-8DFF-8DDD73E37A85-2241-0001DD4D05BDE2DB.jpg&quot; alt=&quot;Resting Prime Rib&quot; /&gt;&lt;br /&gt;
+Then, I rested the the meat for about 45 min and then seared it for about 8 min.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -120,20 +125,14 @@
 &lt;td&gt;130ºF&lt;/td&gt;
 &lt;td&gt;0.3ºF&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;4:30:00 PM&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;6.5ºF&lt;/td&gt;
-&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;br&gt;
-&lt;p&gt;I dry brined the meat for a day and a half with salt and pepper and then roasted it in the oven on a rack at 170ºF for almost 5 hours. My target temperature was 130ºF, which is medium-rare and according to Kenji Lopez-Alt, the best target for a tender and tasty Prime Rib. :-)&lt;/p&gt;
-&lt;p&gt;Then, I rested the the meat for about 45 min and then seared it for about 8 min.&lt;/p&gt;
-&lt;p&gt;This time, luckily, I guessed the time right, but according to Kenji Lopez-Alt, if your Prime Rib is finished early, you can pull it when it gets to the target temperature and then put it in for 45 min at 200ºF to reheat before the sear.&lt;/p&gt;
-&lt;p&gt;You can rest the Prime Rib for 30 min to 1 ½ hours so the only reason to pull it early would be if it completed more than 1 ½ hours before serving.&lt;/p&gt;
-&lt;p&gt;[[Jois-Prime-Rib|summarized my recipe here]].&lt;/p&gt;</content><author><name></name></author><category term="recipe" /><summary type="html"></summary></entry><entry><title type="html">Reverse Sear Redux</title><link href="http://localhost:4000/2020/08/12/reverse-sear-redux" rel="alternate" type="text/html" title="Reverse Sear Redux" /><published>2020-08-12T00:00:00-04:00</published><updated>2020-08-12T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/12/reverse-sear-redux</id><content type="html" xml:base="http://localhost:4000/2020/08/12/reverse-sear-redux">&lt;p&gt;&lt;img src=&quot;/images/reverse-sear-graph.png&quot; alt=&quot;Reverse Sear Chart&quot; /&gt;&lt;/p&gt;
+&lt;br /&gt;
+This time, luckily, I guessed the time right, but according to Kenji Lopez-Alt, if your Prime Rib is finished early, you can pull it when it gets to the target temperature and then put it in for 45 min at 200ºF to reheat before the sear.
+&lt;br /&gt;&lt;br /&gt;
+You can rest the Prime Rib for 30 min to 1 ½ hours so the only reason to pull it early would be if it completed more than 1 ½ hours before serving.
+&lt;br /&gt;&lt;br /&gt;
+[[Jois-Prime-Rib|I summarized my recipe here]].</content><author><name></name></author><category term="recipe" /><summary type="html"></summary></entry><entry><title type="html">Reverse Sear Redux</title><link href="http://localhost:4000/2020/08/12/reverse-sear-redux" rel="alternate" type="text/html" title="Reverse Sear Redux" /><published>2020-08-12T00:00:00-04:00</published><updated>2020-08-12T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/12/reverse-sear-redux</id><content type="html" xml:base="http://localhost:4000/2020/08/12/reverse-sear-redux">&lt;p&gt;&lt;img src=&quot;/images/reverse-sear-graph.png&quot; alt=&quot;Reverse Sear Chart&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/rev-sear-board.jpeg&quot; alt=&quot;Reverse Sear Cutting Board&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/rev-sear-plated.jpeg&quot; alt=&quot;Reverse Sear Plated&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Did a [[2020-08-02-reverse-sear|reverse sear]] again. This time, the steak from Savenor’s was 2 inches, 1/2 inch thicker than the last time. I wanted to leave plenty of time to cook the steaks so I stuck them into the oven set to 170ºF. I used a remote temperature monitor to track the temperature from my office while it cooked and I kept an eye on my estimated finish time that I calculated by estimating the degrees per minute that it was heating up at each measurement and extrapolating it to my “pull temperature” of 122ºF for a medium-rare doneness after searing and resting - 135ºF serving temperature target.&lt;/p&gt;
