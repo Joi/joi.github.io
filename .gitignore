@@ -10,6 +10,7 @@ __pycache__
 .ipynb_checkpoints
 __scripts/.ipynb_checkpoints/ParsePaprika-checkpoint.ipynb
 __scripts/data/
+__scripts/backups/
 _site/
 _data/
 _images/recipes/
