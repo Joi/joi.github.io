@@ -6,7 +6,7 @@
 .DS_Store
 .htaccess
 vendor
-
+__pycache__
 .ipynb_checkpoints
 __scripts/.ipynb_checkpoints/ParsePaprika-checkpoint.ipynb
 __scripts/data/
