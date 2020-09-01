@@ -3,15 +3,16 @@
     "Asparagus"
   ],
   "cook_time": "15 mins",
-  "created": "2020-07-01 10:08:36",
+  "created": "1989-07-01 14:08:36",
+  "created_ts": 615305316,
   "description": "",
   "difficulty": "",
   "directions": "Instructions Checklist\n\nPreheat an oven to 425 degrees F (220 degrees C).\n\nPlace the asparagus into a mixing bowl, and drizzle with the olive oil. Toss to coat the spears, then sprinkle with Parmesan cheese, garlic, salt, and pepper. Arrange the asparagus onto a baking sheet in a single layer.\n\nBake in the preheated oven until just tender, 12 to 15 minutes depending on thickness. Sprinkle with lemon juice just before serving.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Instructions Checklist</p><p class=\"line\">Preheat an oven to 425 degrees F (220 degrees C).</p><p class=\"line\">Place the asparagus into a mixing bowl, and drizzle with the olive oil. Toss to coat the spears, then sprinkle with Parmesan cheese, garlic, salt, and pepper. Arrange the asparagus onto a baking sheet in a single layer.</p><p class=\"line\">Bake in the preheated oven until just tender, <span class=\"timer\" time=\"720.0\">12 to 15 minutes </span>depending on thickness. Sprinkle with lemon juice just before serving.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> bunch thin asparagus spears, trimmed</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> tablespoons grated Parmesan cheese</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> clove garlic, minced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon sea salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> teaspoon ground black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon lemon juice</p>\n</div>",
-    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>To remove woody ends, grab stalk of asparagus at either end and bend until it snaps. It will naturally snap where it starts to get tough.</p><p>Partner Tip</p><p>Reynolds® Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier.</p>\n</div>",
-    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>123 calories; 3.3 g protein; 5.2 g carbohydrates; 1.7 mg cholesterol; 471.4 mg sodium. Full Nutrition</p>\n</div>"
+    "directions": "<p>Instructions Checklist</p>\n<p>Preheat an oven to 425 degrees F (220 degrees C).</p>\n<p>Place the asparagus into a mixing bowl, and drizzle with the olive oil. Toss to coat the spears, then sprinkle with Parmesan cheese, garlic, salt, and pepper. Arrange the asparagus onto a baking sheet in a single layer.</p>\n<p>Bake in the preheated oven until just tender, 12 to 15 minutes depending on thickness. Sprinkle with lemon juice just before serving.</p>\n",
+    "ingredients": "<p>1 bunch thin asparagus spears, trimmed\n3 tablespoons olive oil\n1 ½ tablespoons grated Parmesan cheese\n1 clove garlic, minced\n1 teaspoon sea salt\n½ teaspoon ground black pepper\n1 tablespoon lemon juice</p>\n",
+    "notes": "<p>To remove woody ends, grab stalk of asparagus at either end and bend until it snaps. It will naturally snap where it starts to get tough.</p>\n<p>Partner Tip</p>\n<p>Reynolds® Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier.</p>\n",
+    "nutrition": "<p>123 calories; 3.3 g protein; 5.2 g carbohydrates; 1.7 mg cholesterol; 471.4 mg sodium. Full Nutrition</p>\n"
   },
   "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1001600.jpg&w=568&h=568&c=sc&poi=face&q=85",
   "ingredients": "1 bunch thin asparagus spears, trimmed\n3 tablespoons olive oil\n1 ½ tablespoons grated Parmesan cheese\n1 clove garlic, minced\n1 teaspoon sea salt\n½ teaspoon ground black pepper\n1 tablespoon lemon juice",
@@ -20,7 +21,8 @@
   "nutritional_info": "123 calories; 3.3 g protein; 5.2 g carbohydrates; 1.7 mg cholesterol; 471.4 mg sodium. Full Nutrition",
   "photo": "C47B0365-AF02-4096-AD66-0EB9B7CF2492-631-0000537A2D56B190.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "10 mins",
   "rating": 0,
   "servings": "Servings: 4",

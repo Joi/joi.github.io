@@ -3,38 +3,31 @@
     "Lamb"
   ],
   "cook_time": "2 hours 30 minutes",
-  "created": "2020-05-14 10:33:18",
-  "description": "",
+  "created": "1989-05-16 13:54:31",
+  "created_ts": 611330071,
+  "description": null,
   "difficulty": "",
   "directions": "Cut lamb into 2-inch cubes. Sprinkle with salt and pepper, and brown in a large skillet over medium-high heat; remove.\n\nAdd onion, garlic, prunes, ginger, cinnamon, salt and pepper; cook until fragrant. Add wine, stock or water and browned lamb. When the liquid boils, lower heat to a simmer, cover and cook until tender, 1 1/2 to 2 1/2 hours. Garnish: Parsley.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Cut lamb into 2-inch cubes. Sprinkle with salt and pepper, and brown in a large skillet over medium-high heat; remove.</p><p class=\"line\">Add onion, garlic, prunes, ginger, cinnamon, salt and pepper; cook until fragrant. Add wine, stock or water and browned lamb. When the liquid boils, lower heat to a simmer, cover and cook until tender, <span class=\"timer\" time=\"5400.0\">1 1/2 to 2 1/2 hours</span>. Garnish: Parsley.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> pounds lamb shoulder</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> cup pitted prunes</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon minced garlic</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> chopped onion</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> teaspoons minced ginger</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> teaspoon cinnamon</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> cup red wine</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> cup stock or water</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>Cut lamb into 2-inch cubes. Sprinkle with salt and pepper, and brown in a large skillet over medium-high heat; remove.</p>\n<p>Add onion, garlic, prunes, ginger, cinnamon, salt and pepper; cook until fragrant. Add wine, stock or water and browned lamb. When the liquid boils, lower heat to a simmer, cover and cook until tender, 1 1/2 to 2 1/2 hours. Garnish: Parsley.</p>\n",
+    "ingredients": "<p>2 pounds lamb shoulder\n1 cup pitted prunes\n1 tablespoon minced garlic\nSalt and pepper\n1 chopped onion\n2 teaspoons minced ginger\n¼ teaspoon cinnamon\n1 ½ cup red wine\n½ cup stock or water</p>\n",
+    "notes": "<p>None</p>\n",
+    "nutrition": "<p>None</p>\n"
   },
-  "image_url": null,
+  "image_url": "https://static01.nyt.com/images/2014/05/08/dining/Braised-Lamb-With-Red-Wine/Braised-Lamb-With-Red-Wine-articleLarge.jpg",
   "ingredients": "2 pounds lamb shoulder\n1 cup pitted prunes\n1 tablespoon minced garlic\nSalt and pepper\n1 chopped onion\n2 teaspoons minced ginger\n¼ teaspoon cinnamon\n1 ½ cup red wine\n½ cup stock or water",
   "name": "Braised Lamb with Red Wine and Prunes",
-  "notes": "",
-  "nutritional_info": "",
-  "photo": "0541AC85-A828-48A8-9504-243EC1B2AA4E-29546-0000D713AB6D770C.jpg",
-  "photo_large": "1F52A9C3-7EB1-4290-978D-52C636543B12-29546-0000D7106908C545.jpg",
-  "photos": [
-    {
-      "filename": "1F52A9C3-7EB1-4290-978D-52C636543B12-29546-0000D7106908C545.jpg",
-      "name": "1"
-    },
-    {
-      "filename": "7C95DFE5-D646-43DD-A6F4-52F204AE7FC8-29546-0000D711639552FE.jpg",
-      "name": "2"
-    }
-  ],
+  "notes": null,
+  "nutritional_info": null,
+  "photo": "A25739A7-4147-4A5B-841D-B9F58D0D93FA-11450-00000128E47D0566.jpg",
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "",
   "rating": 5,
   "servings": "Yield 4 to 6 servings",
   "source": "cooking.nytimes.com",
   "source_url": "https://cooking.nytimes.com/recipes/1015744-braised-lamb-with-red-wine-and-prunes?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=19",
   "total_time": "",
-  "uid": "6665AE81-BAFC-41FB-B3B2-CE6FB6A69405-13891-0000A72EF98AC351"
+  "uid": "58E83BB0-3836-4767-96F2-35615C573D52-11450-000001268550E904"
 }

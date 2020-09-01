@@ -3,15 +3,16 @@
     "Squid"
   ],
   "cook_time": "6 mins",
-  "created": "2020-07-01 14:18:44",
+  "created": "1989-07-01 18:18:44",
+  "created_ts": 615320324,
   "description": "",
   "difficulty": "",
   "directions": "In a large cast iron skillet, heat 1/4 cup of olive oil and 1 tbsp of unsalted butter. Turn heat to medium-high and add the garlic, saute briefly, tossing regularly, until fragrant (this should take seconds, garlic should only gain a little color, do not burn it.)\n\nPat calamari dry and add to the pan, cook for 1 to 2 minutes over medium-high heat (calamari will release some liquid.) Add white wine and lime juice. Cook briefly to warm though (do not overcook or calamari will turn rubbery. You are just looking for the sauce to warm through) Season with salt and pepper. If you like a little spice, add a pinch of cayenne.\n\nFinally, stir in the fresh dill. Remove from heat and serve (see serving suggestions in notes)",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">In a large cast iron skillet, heat 1/4 cup of olive oil and 1 tbsp of unsalted butter. Turn heat to medium-high and add the garlic, saute briefly, tossing regularly, until fragrant (this should take seconds, garlic should only gain a little color, do not burn it.)</p><p class=\"line\">Pat calamari dry and add to the pan, cook for <span class=\"timer\" time=\"60.0\">1 to 2 minutes </span>over medium-high heat (calamari will release some liquid.) Add white wine and lime juice. Cook briefly to warm though (do not overcook or calamari will turn rubbery. You are just looking for the sauce to warm through) Season with salt and pepper. If you like a little spice, add a pinch of cayenne.</p><p class=\"line\">Finally, stir in the fresh dill. Remove from heat and serve (see serving suggestions in notes)</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">Extra Virgin Olive Oil (I used Private Reserve Greek olive oil)</p><p class=\"line\" itemprop=\"recipeIngredient\">Unsalted butter</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>10</strong> garlic cloves, roughly chopped</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1.5</strong> lb calamari, sliced into rings</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2 to 3</strong> tbsp white wine</p><p class=\"line\" itemprop=\"recipeIngredient\">Juice of 1 1/2 limes</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and pepper</p><p class=\"line\" itemprop=\"recipeIngredient\">Pinch cayenne pepper, optional</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tbsp chopped fresh dill</p>\n</div>",
-    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>Serve as Appetizer: To serve as a warm appetizer, transfer calamari to a serving platter, and serve with slices for fresh French baguette or crostini (it will serve 6 to 8).</p><p>Serve as Dinner: Serve this calamari for dinner as part of a big seafood feast next to other dishes like roasted red snapper; roasted mackerel; Sicilian fish stew; or baked salmon. For a simple dinner, just serve this saucy calamari over your favorite grain, pasta, or Lebanese rice. Add a large fattoush salad to complete the meal.</p><p>Cook’s Tip for Leftover Calamari: This recipe is best enjoyed immediately. Leftovers can be stored in the fridge for 2 nights or so, but I don’t recommend reheating calamari; overcooked calamari can be rubbery.</p>\n</div>",
-    "nutrition": "None"
+    "directions": "<p>In a large cast iron skillet, heat 1/4 cup of olive oil and 1 tbsp of unsalted butter. Turn heat to medium-high and add the garlic, saute briefly, tossing regularly, until fragrant (this should take seconds, garlic should only gain a little color, do not burn it.)</p>\n<p>Pat calamari dry and add to the pan, cook for 1 to 2 minutes over medium-high heat (calamari will release some liquid.) Add white wine and lime juice. Cook briefly to warm though (do not overcook or calamari will turn rubbery. You are just looking for the sauce to warm through) Season with salt and pepper. If you like a little spice, add a pinch of cayenne.</p>\n<p>Finally, stir in the fresh dill. Remove from heat and serve (see serving suggestions in notes)</p>\n",
+    "ingredients": "<p>Extra Virgin Olive Oil (I used Private Reserve Greek olive oil)\nUnsalted butter\n10 garlic cloves, roughly chopped\n1.5 lb calamari, sliced into rings\n2 to 3 tbsp white wine\nJuice of 1 1/2 limes\nSalt and pepper\nPinch cayenne pepper, optional\n3 tbsp chopped fresh dill</p>\n",
+    "notes": "<p>Serve as Appetizer: To serve as a warm appetizer, transfer calamari to a serving platter, and serve with slices for fresh French baguette or crostini (it will serve 6 to 8).</p>\n<p>Serve as Dinner: Serve this calamari for dinner as part of a big seafood feast next to other dishes like roasted red snapper; roasted mackerel; Sicilian fish stew; or baked salmon. For a simple dinner, just serve this saucy calamari over your favorite grain, pasta, or Lebanese rice. Add a large fattoush salad to complete the meal.</p>\n<p>Cook’s Tip for Leftover Calamari: This recipe is best enjoyed immediately. Leftovers can be stored in the fridge for 2 nights or so, but I don’t recommend reheating calamari; overcooked calamari can be rubbery.</p>\n",
+    "nutrition": ""
   },
   "image_url": "https://www.themediterraneandish.com/wp-content/uploads/2015/03/Calamari-Recipe-3-683x1024.jpg",
   "ingredients": "Extra Virgin Olive Oil (I used Private Reserve Greek olive oil)\nUnsalted butter\n10 garlic cloves, roughly chopped\n1.5 lb calamari, sliced into rings\n2 to 3 tbsp white wine\nJuice of 1 1/2 limes\nSalt and pepper\nPinch cayenne pepper, optional\n3 tbsp chopped fresh dill",
@@ -20,7 +21,8 @@
   "nutritional_info": "",
   "photo": "82D62FC1-1FDA-4F39-898A-42B9E6CC0AE9-631-000061202E23EEEF.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "5 mins",
   "rating": 5,
   "servings": "Serves 4",

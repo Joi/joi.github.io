@@ -3,15 +3,16 @@
     "Skate Wings"
   ],
   "cook_time": "20 minutes",
-  "created": "2020-05-27 08:45:51",
+  "created": "1989-05-27 12:45:51",
+  "created_ts": 612276351,
   "description": "",
   "difficulty": "",
   "directions": "In an enamel, stainless steel or anodized aluminum skillet large enough to hold the skate wings in a single layer, simmer the wine with the onion and bay leaf for a few minutes. Add the vinegar.\n\nPlace the skate wings in the wine mixture and simmer until they just turn opaque, six to eight minutes. Remove the fish from the liquid and cut each skate wing into two portions. Allow to cool to room temperature.\n\nTo serve, place the skate wings on a serving platter or individual plates and season each with salt and pepper. Top with tomatoes, scallions, basil and capers. Drizzle with olive oil. Serve at room temperature.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">In an enamel, stainless steel or anodized aluminum skillet large enough to hold the skate wings in a single layer, simmer the wine with the onion and bay leaf for a few minutes. Add the vinegar.</p><p class=\"line\">Place the skate wings in the wine mixture and simmer until they just turn opaque, <span class=\"timer\" time=\"360.0\">six to eight minutes</span>. Remove the fish from the liquid and cut each skate wing into two portions. Allow to cool to room temperature.</p><p class=\"line\">To serve, place the skate wings on a serving platter or individual plates and season each with salt and pepper. Top with tomatoes, scallions, basil and capers. Drizzle with olive oil. Serve at room temperature.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> cups dry white wine</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> small onion, sliced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> bay leaf</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons white-wine vinegar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> large skate wings, 8 to 10 ounces each</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and freshly ground black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> ripe tomatoes, peeled, seeded and finely chopped</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> cup finely chopped scallions</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons minced fresh basil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon drained capers</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> cup extra-virgin olive oil</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>In an enamel, stainless steel or anodized aluminum skillet large enough to hold the skate wings in a single layer, simmer the wine with the onion and bay leaf for a few minutes. Add the vinegar.</p>\n<p>Place the skate wings in the wine mixture and simmer until they just turn opaque, six to eight minutes. Remove the fish from the liquid and cut each skate wing into two portions. Allow to cool to room temperature.</p>\n<p>To serve, place the skate wings on a serving platter or individual plates and season each with salt and pepper. Top with tomatoes, scallions, basil and capers. Drizzle with olive oil. Serve at room temperature.</p>\n",
+    "ingredients": "<p>1 ½ cups dry white wine\n1 small onion, sliced\n1 bay leaf\n3 tablespoons white-wine vinegar\n2 large skate wings, 8 to 10 ounces each\nSalt and freshly ground black pepper\n2 ripe tomatoes, peeled, seeded and finely chopped\n½ cup finely chopped scallions\n2 tablespoons minced fresh basil\n1 tablespoon drained capers\n½ cup extra-virgin olive oil</p>\n",
+    "notes": "",
+    "nutrition": ""
   },
   "image_url": "https://static01.nyt.com/applications/cooking/4dd3952/assets/NYTCookingLogo.png",
   "ingredients": "1 ½ cups dry white wine\n1 small onion, sliced\n1 bay leaf\n3 tablespoons white-wine vinegar\n2 large skate wings, 8 to 10 ounces each\nSalt and freshly ground black pepper\n2 ripe tomatoes, peeled, seeded and finely chopped\n½ cup finely chopped scallions\n2 tablespoons minced fresh basil\n1 tablespoon drained capers\n½ cup extra-virgin olive oil",
@@ -20,7 +21,8 @@
   "nutritional_info": "",
   "photo": "F73B726F-D453-48F7-917F-0E1DC5F7FDD7-29546-000346687070FE4D.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "",
   "rating": 0,
   "servings": "Yield 4 servings",

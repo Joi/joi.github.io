@@ -3,15 +3,16 @@
     "Flounder"
   ],
   "cook_time": "20 minutes",
-  "created": "2020-05-29 14:24:59",
+  "created": "1989-05-29 18:24:59",
+  "created_ts": 612469499,
   "description": "",
   "difficulty": "",
   "directions": "Put flour in a low bowl or pie plate and stir in a generous amount of salt and pepper and a pinch of cayenne.\n\nPlace a large cast-iron skillet over medium-high heat. Add olive oil and tilt pan to coat bottom.\n\nSeason the fillets lightly with salt and pepper. Dip each fillet quickly into flour mixture, shaking off excess flour.\n\nLay fillets in skillet in one layer. Cook for about 2 minutes per side, until golden. Transfer cooked fish to a warm platter.\n\nLeave the heat at medium-high and add cold butter. Let butter sizzle until foamy and brown, but do not let it burn. Add lemon juice, parsley and chopped tarragon and swirl to incorporate.\n\nSpoon butter sauce over fish. Garnish with a few tarragon leaves and serve immediately with lemon wedges.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Put flour in a low bowl or pie plate and stir in a generous amount of salt and pepper and a pinch of cayenne.</p><p class=\"line\">Place a large cast-iron skillet over medium-high heat. Add olive oil and tilt pan to coat bottom.</p><p class=\"line\">Season the fillets lightly with salt and pepper. Dip each fillet quickly into flour mixture, shaking off excess flour.</p><p class=\"line\">Lay fillets in skillet in one layer. Cook for about <span class=\"timer\" time=\"120.0\">2 minutes </span>per side, until golden. Transfer cooked fish to a warm platter.</p><p class=\"line\">Leave the heat at medium-high and add cold butter. Let butter sizzle until foamy and brown, but do not let it burn. Add lemon juice, parsley and chopped tarragon and swirl to incorporate.</p><p class=\"line\">Spoon butter sauce over fish. Garnish with a few tarragon leaves and serve immediately with lemon wedges.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> cup all-purpose flour</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and pepper</p><p class=\"line\" itemprop=\"recipeIngredient\">Pinch of cayenne</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> flounder fillets of equal size, 6 to 8 ounces each</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons cold unsalted butter, cut into chunks</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon lemon juice</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons roughly chopped parsley</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon roughly chopped tarragon</p><p class=\"line\" itemprop=\"recipeIngredient\">A few tarragon leaves, for garnish</p><p class=\"line\" itemprop=\"recipeIngredient\">Lemon wedges</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>Put flour in a low bowl or pie plate and stir in a generous amount of salt and pepper and a pinch of cayenne.</p>\n<p>Place a large cast-iron skillet over medium-high heat. Add olive oil and tilt pan to coat bottom.</p>\n<p>Season the fillets lightly with salt and pepper. Dip each fillet quickly into flour mixture, shaking off excess flour.</p>\n<p>Lay fillets in skillet in one layer. Cook for about 2 minutes per side, until golden. Transfer cooked fish to a warm platter.</p>\n<p>Leave the heat at medium-high and add cold butter. Let butter sizzle until foamy and brown, but do not let it burn. Add lemon juice, parsley and chopped tarragon and swirl to incorporate.</p>\n<p>Spoon butter sauce over fish. Garnish with a few tarragon leaves and serve immediately with lemon wedges.</p>\n",
+    "ingredients": "<p>1 cup all-purpose flour\nSalt and pepper\nPinch of cayenne\n1 tablespoon olive oil\n4 flounder fillets of equal size, 6 to 8 ounces each\n3 tablespoons cold unsalted butter, cut into chunks\n1 tablespoon lemon juice\n2 tablespoons roughly chopped parsley\n1 teaspoon roughly chopped tarragon\nA few tarragon leaves, for garnish\nLemon wedges</p>\n",
+    "notes": "",
+    "nutrition": ""
   },
   "image_url": "https://static01.nyt.com/images/2018/10/03/dining/03Kitchen6/merlin_143113239_d14b7e5d-2294-4874-8159-76627dc777c2-articleLarge.jpg",
   "ingredients": "1 cup all-purpose flour\nSalt and pepper\nPinch of cayenne\n1 tablespoon olive oil\n4 flounder fillets of equal size, 6 to 8 ounces each\n3 tablespoons cold unsalted butter, cut into chunks\n1 tablespoon lemon juice\n2 tablespoons roughly chopped parsley\n1 teaspoon roughly chopped tarragon\nA few tarragon leaves, for garnish\nLemon wedges",
@@ -20,7 +21,8 @@
   "nutritional_info": "",
   "photo": "9FD4D57B-A4F5-4450-A3AA-29E4036056BE-29546-0003F611BD7D7E22.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "",
   "rating": 5,
   "servings": "Yield 4 servings",

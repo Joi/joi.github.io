@@ -1,19 +1,20 @@
 {
   "categories": [
     "Fish",
-    "Flounder",
-    "White Fish"
+    "White Fish",
+    "Flounder"
   ],
   "cook_time": "15 m",
-  "created": "2020-05-07 22:19:45",
+  "created": "1989-05-08 02:19:45",
+  "created_ts": 610597185,
   "description": "",
   "difficulty": "",
   "directions": "Preheat oven to 400 degrees F (200 degrees C). Lightly grease a large, shallow baking dish.\n\nArrange flounder fillets on prepared baking dish and brush with 1 tablespoon butter. Combine remaining 3 tablespoons butter with bread crumbs, Parmesan cheese, salt, pepper, and thyme in a bowl; sprinkle over flounder.\n\nBake in preheated oven until fish flakes easily with a fork, 15 to 20 minutes. Carefully transfer fillets to a plate with a spatula.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Preheat oven to 400 degrees F (200 degrees C). Lightly grease a large, shallow baking dish.</p><p class=\"line\">Arrange flounder fillets on prepared baking dish and brush with 1 tablespoon butter. Combine remaining 3 tablespoons butter with bread crumbs, Parmesan cheese, salt, pepper, and thyme in a bowl; sprinkle over flounder.</p><p class=\"line\">Bake in preheated oven until fish flakes easily with a fork, <span class=\"timer\" time=\"900.0\">15 to 20 minutes</span>. Carefully transfer fillets to a plate with a spatula.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> (4 ounce) flounder fillets</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> cup butter, melted</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2/3</strong> cup grated Parmesan cheese</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> cup panko bread crumbs</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> teaspoon salt</p><p class=\"line\" itemprop=\"recipeIngredient\">ground black pepper to taste</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> pinch dried thyme</p>\n</div>",
-    "notes": "None",
-    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Per Serving: 331 calories; 17.6 g fat; 19.6 g carbohydrates; 29.2 g protein; 102 mg cholesterol; 800 mg sodium. Full nutrition</p>\n</div>"
+    "directions": "<p>Preheat oven to 400 degrees F (200 degrees C). Lightly grease a large, shallow baking dish.</p>\n<p>Arrange flounder fillets on prepared baking dish and brush with 1 tablespoon butter. Combine remaining 3 tablespoons butter with bread crumbs, Parmesan cheese, salt, pepper, and thyme in a bowl; sprinkle over flounder.</p>\n<p>Bake in preheated oven until fish flakes easily with a fork, 15 to 20 minutes. Carefully transfer fillets to a plate with a spatula.</p>\n",
+    "ingredients": "<p>4 (4 ounce) flounder fillets\n1/4 cup butter, melted\n2/3 cup grated Parmesan cheese\n1 cup panko bread crumbs\n1/2 teaspoon salt\nground black pepper to taste\n1 pinch dried thyme</p>\n",
+    "notes": "",
+    "nutrition": "<p>Per Serving: 331 calories; 17.6 g fat; 19.6 g carbohydrates; 29.2 g protein; 102 mg cholesterol; 800 mg sodium. Full nutrition</p>\n"
   },
   "image_url": "https://images.media-allrecipes.com/userphotos/560x315/3733038.jpg",
   "ingredients": "4 (4 ounce) flounder fillets\n1/4 cup butter, melted\n2/3 cup grated Parmesan cheese\n1 cup panko bread crumbs\n1/2 teaspoon salt\nground black pepper to taste\n1 pinch dried thyme",
@@ -22,7 +23,8 @@
   "nutritional_info": "Per Serving: 331 calories; 17.6 g fat; 19.6 g carbohydrates; 29.2 g protein; 102 mg cholesterol; 800 mg sodium. Full nutrition",
   "photo": "518CDC7E-2659-4324-985E-0E664C78B250-14694-000078C245EF1A9A.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "10 m",
   "rating": 4,
   "servings": "4",

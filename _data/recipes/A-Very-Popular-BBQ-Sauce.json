@@ -3,15 +3,16 @@
     "Sauce"
   ],
   "cook_time": "10 mins",
-  "created": "2020-07-13 09:45:22",
+  "created": "1989-07-13 13:45:22",
+  "created_ts": 616340722,
   "description": "",
   "difficulty": "",
   "directions": "Instructions Checklist\n\nIn a blender, combine brown sugar, ketchup, vinegar, water and Worcestershire sauce. Season with mustard, paprika, salt, pepper, and hot pepper sauce. Blend until smooth.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Instructions Checklist</p><p class=\"line\">In a blender, combine brown sugar, ketchup, vinegar, water and Worcestershire sauce. Season with mustard, paprika, salt, pepper, and hot pepper sauce. Blend until smooth.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> cups brown sugar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> cups ketchup</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> cup red wine vinegar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> cup water</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon Worcestershire sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2 ½</strong> tablespoons dry mustard</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> teaspoons paprika</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> teaspoons salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> teaspoons black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> dashes hot pepper sauce</p>\n</div>",
-    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>This will fill a 32 ounce ketchup bottle exactly. Cut back on the brown sugar to make it less sweet, or add more Worcestershire for more 'steak sauce' appeal.</p><p>Partner Tip</p><p>Try using a Reynolds® slow cooker liner in your slow cooker for easier cleanup.</p>\n</div>",
-    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>42.7 calories; 0.4 g protein; 10.2 g carbohydrates; 0 mg cholesterol; 278.4 mg sodium. Full Nutrition</p>\n</div>"
+    "directions": "<p>Instructions Checklist</p>\n<p>In a blender, combine brown sugar, ketchup, vinegar, water and Worcestershire sauce. Season with mustard, paprika, salt, pepper, and hot pepper sauce. Blend until smooth.</p>\n",
+    "ingredients": "<p>1 ½ cups brown sugar\n1 ½ cups ketchup\n½ cup red wine vinegar\n½ cup water\n1 tablespoon Worcestershire sauce\n2 ½ tablespoons dry mustard\n2 teaspoons paprika\n2 teaspoons salt\n1 ½ teaspoons black pepper\n2 dashes hot pepper sauce</p>\n",
+    "notes": "<p>This will fill a 32 ounce ketchup bottle exactly. Cut back on the brown sugar to make it less sweet, or add more Worcestershire for more 'steak sauce' appeal.</p>\n<p>Partner Tip</p>\n<p>Try using a Reynolds® slow cooker liner in your slow cooker for easier cleanup.</p>\n",
+    "nutrition": "<p>42.7 calories; 0.4 g protein; 10.2 g carbohydrates; 0 mg cholesterol; 278.4 mg sodium. Full Nutrition</p>\n"
   },
   "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F72682.jpg&w=568&h=568&c=sc&poi=face&q=85",
   "ingredients": "1 ½ cups brown sugar\n1 ½ cups ketchup\n½ cup red wine vinegar\n½ cup water\n1 tablespoon Worcestershire sauce\n2 ½ tablespoons dry mustard\n2 teaspoons paprika\n2 teaspoons salt\n1 ½ teaspoons black pepper\n2 dashes hot pepper sauce",
@@ -20,7 +21,8 @@
   "nutritional_info": "42.7 calories; 0.4 g protein; 10.2 g carbohydrates; 0 mg cholesterol; 278.4 mg sodium. Full Nutrition",
   "photo": "132E0CE7-067C-45DA-8549-B25AC3A9BF68-29053-00040124B2903D7C.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "10 mins",
   "rating": 0,
   "servings": "Servings: 32",

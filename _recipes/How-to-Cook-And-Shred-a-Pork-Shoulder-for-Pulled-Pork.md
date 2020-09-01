@@ -1,5 +1,5 @@
 ---
 title: "How to Cook (And Shred) a Pork Shoulder for Pulled Pork"
 filename: "How-to-Cook-And-Shred-a-Pork-Shoulder-for-Pulled-Pork"
-created: 2020-06-13 11:42:21
+created: 1989-06-13 15:42:21
 ---

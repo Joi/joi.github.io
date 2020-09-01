@@ -3,15 +3,16 @@
     "Kio"
   ],
   "cook_time": "1 hour",
-  "created": "2020-05-04 14:48:51",
+  "created": "1989-05-04 18:48:51",
+  "created_ts": 610310931,
   "description": "",
   "difficulty": "",
   "directions": "Heat oven to 375 degrees. Butter a 2-quart gratin dish.\n\nBring a large pot of heavily salted water to a boil. Cook pasta to al dente; drain well.\n\nTransfer hot pasta to a large bowl and toss immediately with Brie and cream cheese until melted and smooth. In a separate bowl, whisk together eggs, mascarpone and parmigiano. Stir egg mixture into pasta. Season with pepper and nutmeg.\n\nTurn pasta into prepared pan. Bake until golden brown and bubbling, about 30 minutes. Serve immediately.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Heat oven to 375 degrees. Butter a 2-quart gratin dish.</p><p class=\"line\">Bring a large pot of heavily salted water to a boil. Cook pasta to al dente; drain well.</p><p class=\"line\">Transfer hot pasta to a large bowl and toss immediately with Brie and cream cheese until melted and smooth. In a separate bowl, whisk together eggs, mascarpone and parmigiano. Stir egg mixture into pasta. Season with pepper and nutmeg.</p><p class=\"line\">Turn pasta into prepared pan. Bake until golden brown and bubbling, about <span class=\"timer\" time=\"1800.0\">30 minutes</span>. Serve immediately.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">Unsalted butter, as needed</p><p class=\"line\" itemprop=\"recipeIngredient\">Kosher salt, as needed</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> pound pasta, such as farfalle, macaroni or shells</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> ounces Brie, rind removed and cheese cut into chunks</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> ounces cream cheese, softened and cubed</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> large eggs, lightly beaten</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> cup mascarpone</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> ounces Parmigiano-Reggiano, grated ( 3/4 cup)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¾</strong> teaspoon black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> teaspoon finely grated nutmeg</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>Heat oven to 375 degrees. Butter a 2-quart gratin dish.</p>\n<p>Bring a large pot of heavily salted water to a boil. Cook pasta to al dente; drain well.</p>\n<p>Transfer hot pasta to a large bowl and toss immediately with Brie and cream cheese until melted and smooth. In a separate bowl, whisk together eggs, mascarpone and parmigiano. Stir egg mixture into pasta. Season with pepper and nutmeg.</p>\n<p>Turn pasta into prepared pan. Bake until golden brown and bubbling, about 30 minutes. Serve immediately.</p>\n",
+    "ingredients": "<p>Unsalted butter, as needed\nKosher salt, as needed\n1 pound pasta, such as farfalle, macaroni or shells\n6 ounces Brie, rind removed and cheese cut into chunks\n4 ounces cream cheese, softened and cubed\n3 large eggs, lightly beaten\n1 cup mascarpone\n3 ounces Parmigiano-Reggiano, grated ( 3/4 cup)\n¾ teaspoon black pepper\n¼ teaspoon finely grated nutmeg</p>\n",
+    "notes": "",
+    "nutrition": ""
   },
   "image_url": "https://static01.nyt.com/images/2013/03/27/dining/27APPE/27APPE-articleLarge.jpg",
   "ingredients": "Unsalted butter, as needed\nKosher salt, as needed\n1 pound pasta, such as farfalle, macaroni or shells\n6 ounces Brie, rind removed and cheese cut into chunks\n4 ounces cream cheese, softened and cubed\n3 large eggs, lightly beaten\n1 cup mascarpone\n3 ounces Parmigiano-Reggiano, grated ( 3/4 cup)\n¾ teaspoon black pepper\n¼ teaspoon finely grated nutmeg",
@@ -20,7 +21,8 @@
   "nutritional_info": "",
   "photo": "22CEBC0C-2829-4324-8AA9-48DAF74019FA-39436-000149EC57C727AD.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "",
   "rating": 0,
   "servings": "Yield 6 to 8 servings",

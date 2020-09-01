@@ -3,21 +3,22 @@
     "Lamb"
   ],
   "cook_time": "",
-  "created": "2020-07-15 14:38:30",
+  "created": "1989-07-15 18:38:30",
+  "created_ts": 616531110,
   "description": "Based on :\n\n- Epicurious - Crown Roast of Lamb with Rosemary and Oregano\n- Food Network - Crown Roast of Lamb\n- Thermoworks - Crown Roast of Lamb",
   "difficulty": "",
   "directions": "Dry brine crown.\n\nMake sure crown is round.\n\nMake rub by combing herbs, pepper, lemon zest.\n\nPreheat oven to 425ºF with cast-iron skillet large enough for the crown.\n\nCover lamb with oil then cover with rub.\n\nCover bones with foil. Put lamb on skillet.\n\nSet thermometer timer for 125ºF.\n\nWhen timer goes off, remove lamb and rest for about 15 min covered with foil. Should be 30 min or so of cooking.\n\nRemove oil from pan but leave juice. Make warm, but not too hot and add vinegar and mustard and stir.\n\nCarve lamb and serve with sauce.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Dry brine crown.</p><p class=\"line\">Make sure crown is round.</p><p class=\"line\">Make rub by combing herbs, pepper, lemon zest.</p><p class=\"line\">Preheat oven to 425ºF with cast-iron skillet large enough for the crown.</p><p class=\"line\">Cover lamb with oil then cover with rub.</p><p class=\"line\">Cover bones with foil. Put lamb on skillet.</p><p class=\"line\">Set thermometer timer for 125ºF.</p><p class=\"line\">When timer goes off, remove lamb and rest for about <span class=\"timer\" time=\"900.0\">15 min </span>covered with foil. Should be <span class=\"timer\" time=\"1800.0\">30 min </span>or so of cooking.</p><p class=\"line\">Remove oil from pan but leave juice. Make warm, but not too hot and add vinegar and mustard and stir.</p><p class=\"line\">Carve lamb and serve with sauce.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">Rub</p><br/><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tbsp of fresh rosemary - chopped</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> garlic cloves - minced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp of oregano</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp of fresh thyme</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tbsp of chopped parsley</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp of lemon zest</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> tsp salt in addition to salt for brining</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp of ground pepper</p><p class=\"line\" itemprop=\"recipeIngredient\">light olive oil</p><br/><p class=\"line\" itemprop=\"recipeIngredient\">Sauce</p><br/><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp Dijon mustard</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tbsp wine vinegar</p><p></p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>Dry brine crown.</p>\n<p>Make sure crown is round.</p>\n<p>Make rub by combing herbs, pepper, lemon zest.</p>\n<p>Preheat oven to 425ºF with cast-iron skillet large enough for the crown.</p>\n<p>Cover lamb with oil then cover with rub.</p>\n<p>Cover bones with foil. Put lamb on skillet.</p>\n<p>Set thermometer timer for 125ºF.</p>\n<p>When timer goes off, remove lamb and rest for about 15 min covered with foil. Should be 30 min or so of cooking.</p>\n<p>Remove oil from pan but leave juice. Make warm, but not too hot and add vinegar and mustard and stir.</p>\n<p>Carve lamb and serve with sauce.</p>\n",
+    "ingredients": "<p>Rub</p>\n<p>2 tbsp of fresh rosemary - chopped\n6 garlic cloves - minced\n1 tsp of oregano\n1 tsp of fresh thyme\n2 tbsp of chopped parsley\n1 tsp of lemon zest\n½ tsp salt in addition to salt for brining\n1 tsp of ground pepper\nlight olive oil</p>\n<p>Sauce</p>\n<p>1 tsp Dijon mustard\n1 tbsp wine vinegar</p>\n",
+    "notes": "<p>None</p>\n",
+    "nutrition": "<p>None</p>\n"
   },
   "image_url": null,
   "ingredients": "Rub\n\n2 tbsp of fresh rosemary - chopped\n6 garlic cloves - minced\n1 tsp of oregano\n1 tsp of fresh thyme\n2 tbsp of chopped parsley\n1 tsp of lemon zest\n½ tsp salt in addition to salt for brining\n1 tsp of ground pepper\nlight olive oil\n\nSauce\n\n1 tsp Dijon mustard\n1 tbsp wine vinegar\n",
   "name": "Joi's Crown Roast of Lamb",
-  "notes": "",
-  "nutritional_info": "",
+  "notes": null,
+  "nutritional_info": null,
   "photo": "0FB9F6CD-8187-4952-A4DB-9C17BB488535-29053-0004B1367DF6F80C.jpg",
   "photo_large": "9149D496-D42C-4579-B6F1-4122D12ABE97-29053-0004B135658F0C74.jpg",
   "photos": [
@@ -34,6 +35,11 @@
       "name": "3"
     }
   ],
+  "photos_dict": {
+    "1": "9149D496-D42C-4579-B6F1-4122D12ABE97-29053-0004B135658F0C74.jpg",
+    "2": "5F64C8B1-5096-452A-8FC0-804AB2F6F0A4-29053-0004B13581B3D731.jpg",
+    "3": "FBC05A1A-A277-4630-89D4-96A62ADCFE4C-29053-0004B135C57C90FA.jpg"
+  },
   "prep_time": "",
   "rating": 5,
   "servings": "6",

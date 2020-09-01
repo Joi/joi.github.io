@@ -3,15 +3,16 @@
     "Lamb"
   ],
   "cook_time": "",
-  "created": "2020-04-16 08:39:24",
+  "created": "1989-04-16 12:39:24",
+  "created_ts": 608733564,
   "description": "",
   "difficulty": "",
   "directions": "Combine first 3 ingredients in small bowl. Rub about 1/4 teaspoon mixture over each side of each chop. Sprinkle chops with salt; place on plate. Cover and refrigerate at least 30 minutes and up to 4 hours.\n\nHeat 1 1/2 tablespoons oil in heavy large skillet over medium heat. Add 9 chops to skillet; cook to desired doneness, about 3 minutes per side for medium-rare. Transfer to platter; cover with foil. Repeat with remaining oil and chops. Garnish platter with rosemary sprigs, if desired.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Combine first 3 ingredients in small bowl. Rub about 1/4 teaspoon mixture over each side of each chop. Sprinkle chops with salt; place on plate. Cover and refrigerate at least <span class=\"timer\" time=\"1800.0\">30 minutes </span>and up to <span class=\"timer\" time=\"14400.0\">4 hours</span>.</p><p class=\"line\">Heat 1 1/2 tablespoons oil in heavy large skillet over medium heat. Add 9 chops to skillet; cook to desired doneness, about <span class=\"timer\" time=\"180.0\">3 minutes </span>per side for medium-rare. Transfer to platter; cover with foil. Repeat with remaining oil and chops. Garnish platter with rosemary sprigs, if desired.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons minced garlic</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 1/2</strong> tablespoons chopped fresh rosemary or 2 teaspoons dried</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon dried crushed red pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>18</strong> small lamb rib chop</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\">Fresh rosemary sprigs (optional)</p>\n</div>",
-    "notes": "None",
-    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories 1020<br/>Carbohydrates 1 g(0%)<br/>Fat 95 g(146%)<br/>Protein 37 g(75%)<br/>Saturated Fat 40 g(199%)<br/>Sodium 144 mg(6%)<br/>Polyunsaturated Fat 8 g<br/>Fiber 0 g(1%)<br/>Monounsaturated Fat 41 g<br/>Cholesterol 195 mg(65%)<br/>per serving (6 servings)</p>\n</div>"
+    "directions": "<p>Combine first 3 ingredients in small bowl. Rub about 1/4 teaspoon mixture over each side of each chop. Sprinkle chops with salt; place on plate. Cover and refrigerate at least 30 minutes and up to 4 hours.</p>\n<p>Heat 1 1/2 tablespoons oil in heavy large skillet over medium heat. Add 9 chops to skillet; cook to desired doneness, about 3 minutes per side for medium-rare. Transfer to platter; cover with foil. Repeat with remaining oil and chops. Garnish platter with rosemary sprigs, if desired.</p>\n",
+    "ingredients": "<p>2 tablespoons minced garlic\n1 1/2 tablespoons chopped fresh rosemary or 2 teaspoons dried\n1 teaspoon dried crushed red pepper\n18 small lamb rib chop\n3 tablespoons olive oil\nFresh rosemary sprigs (optional)</p>\n",
+    "notes": "",
+    "nutrition": "<p>Calories 1020\nCarbohydrates 1 g(0%)\nFat 95 g(146%)\nProtein 37 g(75%)\nSaturated Fat 40 g(199%)\nSodium 144 mg(6%)\nPolyunsaturated Fat 8 g\nFiber 0 g(1%)\nMonounsaturated Fat 41 g\nCholesterol 195 mg(65%)\nper serving (6 servings)</p>\n"
   },
   "image_url": "https://assets.epicurious.com/photos/5499995c6529d92b2c0026bd/2:1/w_1260%2Ch_630/EP_20140828_masters-7_9x4-lpr.jpg",
   "ingredients": "2 tablespoons minced garlic\n1 1/2 tablespoons chopped fresh rosemary or 2 teaspoons dried\n1 teaspoon dried crushed red pepper\n18 small lamb rib chop\n3 tablespoons olive oil\nFresh rosemary sprigs (optional)",
@@ -20,7 +21,8 @@
   "nutritional_info": "Calories 1020\nCarbohydrates 1 g(0%)\nFat 95 g(146%)\nProtein 37 g(75%)\nSaturated Fat 40 g(199%)\nSodium 144 mg(6%)\nPolyunsaturated Fat 8 g\nFiber 0 g(1%)\nMonounsaturated Fat 41 g\nCholesterol 195 mg(65%)\nper serving (6 servings)",
   "photo": "DC010AF3-939F-46AC-B038-3FEDFA9ADC90-2334-0001CE30F84AE143.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "",
   "rating": 5,
   "servings": "Serves 6",

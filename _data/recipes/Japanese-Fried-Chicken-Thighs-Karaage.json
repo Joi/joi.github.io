@@ -3,21 +3,22 @@
     "Chicken"
   ],
   "cook_time": "1 hour",
-  "created": "2020-02-03 10:50:50",
-  "description": "",
+  "created": "1989-02-02 15:50:50",
+  "created_ts": 602437850,
+  "description": null,
   "difficulty": "",
   "directions": "Combine soy sauce, sake, ginger, garlic, sugar, and salt in medium bowl. Add chicken and toss to combine. Let sit at room temperature for 30 minutes. While chicken is marinating, line rimmed baking sheet with parchment paper. Set wire rack in second rimmed baking sheet and line rack with triple layer of paper towels. Place cornstarch in wide bowl.\n\nLift chicken from marinade, 1 piece at a time, allowing excess marinade to drip back into bowl but leaving any garlic or ginger bits on chicken. Coat chicken with cornstarch, shake off excess, and place on parchment-lined sheet.\n\nHeat oil in large Dutch oven over medium-high heat to 325 degrees. While oil heats, check chicken pieces for white patches of dry cornstarch. Dip back of spoon in reserved marinade and gently press onto dry spots to lightly moisten.\n\nUsing tongs, add half of chicken, 1 piece at a time, to oil in single layer. Cook, adjusting burner, if necessary, to maintain oil temperature between 300 and 325 degrees, until chicken is golden brown and crispy, 4 to 5 minutes. Using spider skimmer or slotted spoon, transfer chicken to paper towel-lined rack. Return oil to 325 degrees and repeat with remaining chicken. Serve with lemon wedges.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Combine soy sauce, sake, ginger, garlic, sugar, and salt in medium bowl. Add chicken and toss to combine. Let sit at room temperature for <span class=\"timer\" time=\"1800.0\">30 minutes</span>. While chicken is marinating, line rimmed baking sheet with parchment paper. Set wire rack in second rimmed baking sheet and line rack with triple layer of paper towels. Place cornstarch in wide bowl.</p><p class=\"line\">Lift chicken from marinade, 1 piece at a time, allowing excess marinade to drip back into bowl but leaving any garlic or ginger bits on chicken. Coat chicken with cornstarch, shake off excess, and place on parchment-lined sheet.</p><p class=\"line\">Heat oil in large Dutch oven over medium-high heat to 325 degrees. While oil heats, check chicken pieces for white patches of dry cornstarch. Dip back of spoon in reserved marinade and gently press onto dry spots to lightly moisten.</p><p class=\"line\">Using tongs, add half of chicken, 1 piece at a time, to oil in single layer. Cook, adjusting burner, if necessary, to maintain oil temperature between 300 and 325 degrees, until chicken is golden brown and crispy, <span class=\"timer\" time=\"240.0\">4 to 5 minutes</span>. Using spider skimmer or slotted spoon, transfer chicken to paper towel-lined rack. Return oil to 325 degrees and repeat with remaining chicken. Serve with lemon wedges.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">GATHER YOUR INGREDIENTS</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons soy sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons sake</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon grated fresh ginger</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> garlic cloves, minced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¾</strong> teaspoon sugar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>⅛</strong> teaspoon table salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> pounds boneless, skinless chicken thighs, trimmed and cut crosswise into 1- to 1½-inch-wide strips</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ¼</strong> cups cornstarch</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> quart vegetable oil, for frying</p><p class=\"line\" itemprop=\"recipeIngredient\">Lemon wedges</p>\n</div>",
-    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>For drumsticks: Fry chicken, turning with tongs every 1–2 minutes and adjusting heat to maintain a steady temperature of 300°–325°, until skin is deep golden brown and an instant-read thermometer inserted into thickest part of chicken registers 165°, about 10 minutes for wings and 12 minutes for thighs, legs, and breasts</p>\n</div>",
-    "nutrition": "None"
+    "directions": "<p>Combine soy sauce, sake, ginger, garlic, sugar, and salt in medium bowl. Add chicken and toss to combine. Let sit at room temperature for 30 minutes. While chicken is marinating, line rimmed baking sheet with parchment paper. Set wire rack in second rimmed baking sheet and line rack with triple layer of paper towels. Place cornstarch in wide bowl.</p>\n<p>Lift chicken from marinade, 1 piece at a time, allowing excess marinade to drip back into bowl but leaving any garlic or ginger bits on chicken. Coat chicken with cornstarch, shake off excess, and place on parchment-lined sheet.</p>\n<p>Heat oil in large Dutch oven over medium-high heat to 325 degrees. While oil heats, check chicken pieces for white patches of dry cornstarch. Dip back of spoon in reserved marinade and gently press onto dry spots to lightly moisten.</p>\n<p>Using tongs, add half of chicken, 1 piece at a time, to oil in single layer. Cook, adjusting burner, if necessary, to maintain oil temperature between 300 and 325 degrees, until chicken is golden brown and crispy, 4 to 5 minutes. Using spider skimmer or slotted spoon, transfer chicken to paper towel-lined rack. Return oil to 325 degrees and repeat with remaining chicken. Serve with lemon wedges.</p>\n",
+    "ingredients": "<p>GATHER YOUR INGREDIENTS\n3 tablespoons soy sauce\n2 tablespoons sake\n1 tablespoon grated fresh ginger\n2 garlic cloves, minced\n¾ teaspoon sugar\n⅛ teaspoon table salt\n1 ½ pounds boneless, skinless chicken thighs, trimmed and cut crosswise into 1- to 1½-inch-wide strips\n1 ¼ cups cornstarch\n1 quart vegetable oil, for frying\nLemon wedges</p>\n",
+    "notes": "<p>For drumsticks: Fry chicken, turning with tongs every 1–2 minutes and adjusting heat to maintain a steady temperature of 300°–325°, until skin is deep golden brown and an instant-read thermometer inserted into thickest part of chicken registers 165°, about 10 minutes for wings and 12 minutes for thighs, legs, and breasts</p>\n",
+    "nutrition": "<p>None</p>\n"
   },
   "image_url": null,
   "ingredients": "GATHER YOUR INGREDIENTS\n3 tablespoons soy sauce\n2 tablespoons sake\n1 tablespoon grated fresh ginger\n2 garlic cloves, minced\n¾ teaspoon sugar\n⅛ teaspoon table salt\n1 ½ pounds boneless, skinless chicken thighs, trimmed and cut crosswise into 1- to 1½-inch-wide strips\n1 ¼ cups cornstarch\n1 quart vegetable oil, for frying\nLemon wedges",
   "name": "Japanese Fried Chicken Thighs (Karaage)",
   "notes": "For drumsticks: Fry chicken, turning with tongs every 1–2 minutes and adjusting heat to maintain a steady temperature of 300°–325°, until skin is deep golden brown and an instant-read thermometer inserted into thickest part of chicken registers 165°, about 10 minutes for wings and 12 minutes for thighs, legs, and breasts",
-  "nutritional_info": "",
+  "nutritional_info": null,
   "photo": "BFFADF72-BA81-4AFF-8A2B-531BE746240C-29546-0001D1BE440DA8ED.jpg",
   "photo_large": "2BE4ABFC-F15F-428D-B222-CD131D8EAA00-29546-0001D1BB3D1CA3B2.jpg",
   "photos": [
@@ -26,6 +27,9 @@
       "name": "1"
     }
   ],
+  "photos_dict": {
+    "1": "2BE4ABFC-F15F-428D-B222-CD131D8EAA00-29546-0001D1BB3D1CA3B2.jpg"
+  },
   "prep_time": "",
   "rating": 5,
   "servings": "Serves 4 to 6",

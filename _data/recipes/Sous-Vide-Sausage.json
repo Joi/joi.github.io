@@ -3,15 +3,16 @@
     "Sausage"
   ],
   "cook_time": "",
-  "created": "2020-07-04 14:43:55",
+  "created": "1989-07-04 18:43:55",
+  "created_ts": 615581035,
   "description": "",
   "difficulty": "",
   "directions": "Set your precision cooker to the desired temperature between 140ºF / 60ºC and 160°F / 71°C according to your preferred finishing texture, illustrated here and in the app.\n\nPlace the sausages inside a vacuum sealing bag or a zipper-lock bag in a single layer. Optional: Add a few tbsp / ml of beer to each bag along with 2 tsp / 10 ml of salt.\n\nSeal the bags, making sure to stop the vacuum sealer and seal the bags immediately after the air has been removed—do not let the sausages get squeezed. Alternatively, use the water displacement method: seal your zipper-lock bag almost all the way up, then gently lower it into a large pot of water, sealing off the bag just before the top is fully submerged.\n\nAdd the sausages to the water bath and cook for at least 45 minutes and up to 4 hours.\n\nRemove the sausages from the bag and discard juices. Dry sausages carefully on a paper towel-lined plate.\n\nTo finish on the stovetop, heat 1 tbsp / 15 ml of oil or butter over medium heat in a skillet until shimmering. Add sausages and cook, turning occasionally, until well-browned on all sides, about 3 minutes. Serve immediately.\n\nTo finish on the grill, grill sausages over medium heat, turning occasionally, until well-browned on all sides, about 3 minutes. Serve immediately.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Set your precision cooker to the desired temperature between 140ºF / 60ºC and 160°F / 71°C according to your preferred finishing texture, illustrated here and in the app.</p><p class=\"line\">Place the sausages inside a vacuum sealing bag or a zipper-lock bag in a single layer. Optional: Add a few tbsp / ml of beer to each bag along with 2 tsp / 10 ml of salt.</p><p class=\"line\">Seal the bags, making sure to stop the vacuum sealer and seal the bags immediately after the air has been removed-do not let the sausages get squeezed. Alternatively, use the water displacement method: seal your zipper-lock bag almost all the way up, then gently lower it into a large pot of water, sealing off the bag just before the top is fully submerged.</p><p class=\"line\">Add the sausages to the water bath and cook for at least <span class=\"timer\" time=\"2700.0\">45 minutes </span>and up to <span class=\"timer\" time=\"14400.0\">4 hours</span>.</p><p class=\"line\">Remove the sausages from the bag and discard juices. Dry sausages carefully on a paper towel-lined plate.</p><p class=\"line\">To finish on the stovetop, heat 1 tbsp / 15 ml of oil or butter over medium heat in a skillet until shimmering. Add sausages and cook, turning occasionally, until well-browned on all sides, about <span class=\"timer\" time=\"180.0\">3 minutes</span>. Serve immediately.</p><p class=\"line\">To finish on the grill, grill sausages over medium heat, turning occasionally, until well-browned on all sides, about <span class=\"timer\" time=\"180.0\">3 minutes</span>. Serve immediately.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> lb / 1.36 kg Raw natural casing sausages such as Bratwurst or Italian</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> oz / 180 ml Beer for cooking (optional)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tsp / 10 ml Kosher Salt (optional)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tbsp / 15 ml Butter or Vegetable Oil</p><p class=\"line\" itemprop=\"recipeIngredient\">Buns and condiments for serving</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>Set your precision cooker to the desired temperature between 140ºF / 60ºC and 160°F / 71°C according to your preferred finishing texture, illustrated here and in the app.</p>\n<p>Place the sausages inside a vacuum sealing bag or a zipper-lock bag in a single layer. Optional: Add a few tbsp / ml of beer to each bag along with 2 tsp / 10 ml of salt.</p>\n<p>Seal the bags, making sure to stop the vacuum sealer and seal the bags immediately after the air has been removed—do not let the sausages get squeezed. Alternatively, use the water displacement method: seal your zipper-lock bag almost all the way up, then gently lower it into a large pot of water, sealing off the bag just before the top is fully submerged.</p>\n<p>Add the sausages to the water bath and cook for at least 45 minutes and up to 4 hours.</p>\n<p>Remove the sausages from the bag and discard juices. Dry sausages carefully on a paper towel-lined plate.</p>\n<p>To finish on the stovetop, heat 1 tbsp / 15 ml of oil or butter over medium heat in a skillet until shimmering. Add sausages and cook, turning occasionally, until well-browned on all sides, about 3 minutes. Serve immediately.</p>\n<p>To finish on the grill, grill sausages over medium heat, turning occasionally, until well-browned on all sides, about 3 minutes. Serve immediately.</p>\n",
+    "ingredients": "<p>3 lb / 1.36 kg Raw natural casing sausages such as Bratwurst or Italian\n6 oz / 180 ml Beer for cooking (optional)\n2 tsp / 10 ml Kosher Salt (optional)\n1 tbsp / 15 ml Butter or Vegetable Oil\nBuns and condiments for serving</p>\n",
+    "notes": "",
+    "nutrition": ""
   },
   "image_url": "https://images.anovaculinary.com/sous-vide-sausage/header/sous-vide-sausage-header-og.jpg",
   "ingredients": "3 lb / 1.36 kg Raw natural casing sausages such as Bratwurst or Italian\n6 oz / 180 ml Beer for cooking (optional)\n2 tsp / 10 ml Kosher Salt (optional)\n1 tbsp / 15 ml Butter or Vegetable Oil\nBuns and condiments for serving",
@@ -20,7 +21,8 @@
   "nutritional_info": "",
   "photo": "C4B39337-CDA1-451C-B1F8-2FC911828754-631-00014E3BCE86958A.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "45 min",
   "rating": 5,
   "servings": "Ingredients for 2",

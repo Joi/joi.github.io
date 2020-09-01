@@ -1,34 +1,36 @@
 {
   "categories": [
-    "Italian",
-    "Meat",
     "Pasta",
-    "Veal"
+    "Veal",
+    "Italian",
+    "Meat"
   ],
-  "cook_time": "",
-  "created": "2020-02-02 22:22:10",
+  "cook_time": null,
+  "created": "1989-02-02 03:22:10",
+  "created_ts": 602392930,
   "description": "A ragú is a meat sauce that is usually made with beef or veal, but can also be made from chicken, duckling, turkey, rabbit or lamb. Traditionally argue was made only at home and every self-respecting Italian housewife would start cooking her ragú early in the morning and let it cook very slowly for at least 4 hours. Naples is particularly famous for its ragú.\n\nIt is very rare to find a restaurant that serves a good ragú. The ragú takes a long time to make, but it should be eaten within a few hours. Unfortunately many restaurants like to keep their ragú on hand for days at a time. At Harry's Bar we always make the sauce the day we serve it.\n\nRagú - sometimes called Bolognese sauce - is good with any pasta, but I think fusilli are best.",
   "difficulty": "Medium",
   "directions": "Chop the carrot, celery, and onion in a food processor fitted with the steel blade or by hand. Heat half the oil in a skillet, add the chopped vegetables, and sauté over medium heat for 10 minutes. Meanwhile, in a separate large skillet heat the remaining oil over medium heat. Add the garlic, let cool until golden, about 30 seconds, and discard it. Add the ground veal and stir to break up the meat. Cook the meat, stirring frequently, until it is evenly browned - about 10 minutes.\n\nAdd the tomato paste, stirring until blended, and cook for 2 minutes. Stir in the flour and cook for another 2 minutes. Then raise the heat, add the white wine, let it boil until it is almost all evaporated, and stir in the stock, salt, pepper, and bouquet garni, scraping up the brown bits from the bottom of the pan. Bringing the mixture to a boil, lower the heat, and simmer, uncovered, for 1 hour, stirring rom time to time. If the sauce reduces too fast, lower the heat and add a few spoonfuls of stock or water. The sauce should not be too thick; it should pour from the spoon when it's done. Taste and adjust the seasoning.\n\nVariation: Substitute ground chicken, turkey, lamb or beef for the veal.\n\nWine notes\nItalian Chianti - Monte Vertine\nAmerican Zinfandel \"reserve\" - Fetzer Vineyards\n",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Chop the carrot, celery, and onion in a food processor fitted with the steel blade or by hand. Heat half the oil in a skillet, add the chopped vegetables, and sauté over medium heat for <span class=\"timer\" time=\"600.0\">10 minutes</span>. Meanwhile, in a separate large skillet heat the remaining oil over medium heat. Add the garlic, let cool until golden, about <span class=\"timer\" time=\"30.0\">30 seconds</span>, and discard it. Add the ground veal and stir to break up the meat. Cook the meat, stirring frequently, until it is evenly browned - about <span class=\"timer\" time=\"600.0\">10 minutes</span>.</p><p class=\"line\">Add the tomato paste, stirring until blended, and cook for <span class=\"timer\" time=\"120.0\">2 minutes</span>. Stir in the flour and cook for another <span class=\"timer\" time=\"120.0\">2 minutes</span>. Then raise the heat, add the white wine, let it boil until it is almost all evaporated, and stir in the stock, salt, pepper, and bouquet garni, scraping up the brown bits from the bottom of the pan. Bringing the mixture to a boil, lower the heat, and simmer, uncovered, for <span class=\"timer\" time=\"3600.0\">1 hour</span>, stirring rom time to time. If the sauce reduces too fast, lower the heat and add a few spoonfuls of stock or water. The sauce should not be too thick; it should pour from the spoon when it's done. Taste and adjust the seasoning.</p><p class=\"line\">Variation: Substitute ground chicken, turkey, lamb or beef for the veal.</p><p class=\"line\">Wine notes<br/>Italian Chianti - Monte Vertine<br/>American Zinfandel \"reserve\" - Fetzer Vineyards<br/></p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> carrot, peeled</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> celery rib</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> small onion</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> garlic clove, crushed</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> pound ground veal</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup tomato paste</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons flour</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup dry white wine</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> quart chicken stock or veal stock</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon salt</p><p class=\"line\" itemprop=\"recipeIngredient\">Freshly ground pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> fresh rosemary sprig</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> fresh thyme sprig</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> flat leaf parsley sprigs</p><p class=\"line\" itemprop=\"recipeIngredient\">Cheesecloth for bouquet garni</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>Chop the carrot, celery, and onion in a food processor fitted with the steel blade or by hand. Heat half the oil in a skillet, add the chopped vegetables, and sauté over medium heat for 10 minutes. Meanwhile, in a separate large skillet heat the remaining oil over medium heat. Add the garlic, let cool until golden, about 30 seconds, and discard it. Add the ground veal and stir to break up the meat. Cook the meat, stirring frequently, until it is evenly browned - about 10 minutes.</p>\n<p>Add the tomato paste, stirring until blended, and cook for 2 minutes. Stir in the flour and cook for another 2 minutes. Then raise the heat, add the white wine, let it boil until it is almost all evaporated, and stir in the stock, salt, pepper, and bouquet garni, scraping up the brown bits from the bottom of the pan. Bringing the mixture to a boil, lower the heat, and simmer, uncovered, for 1 hour, stirring rom time to time. If the sauce reduces too fast, lower the heat and add a few spoonfuls of stock or water. The sauce should not be too thick; it should pour from the spoon when it's done. Taste and adjust the seasoning.</p>\n<p>Variation: Substitute ground chicken, turkey, lamb or beef for the veal.</p>\n<p>Wine notes\nItalian Chianti - Monte Vertine\nAmerican Zinfandel &quot;reserve&quot; - Fetzer Vineyards</p>\n",
+    "ingredients": "<p>1 carrot, peeled\n1 celery rib\n1 small onion\n1/2 cup olive oil\n1 garlic clove, crushed\n1 pound ground veal\n1/2 cup tomato paste\n2 tablespoons flour\n1/2 cup dry white wine\n1 quart chicken stock or veal stock\n1 teaspoon salt\nFreshly ground pepper\n1 fresh rosemary sprig\n1 fresh thyme sprig\n2 flat leaf parsley sprigs\nCheesecloth for bouquet garni</p>\n",
+    "notes": "<p>None</p>\n",
+    "nutrition": "<p>None</p>\n"
   },
   "image_url": null,
   "ingredients": "1 carrot, peeled\n1 celery rib\n1 small onion\n1/2 cup olive oil\n1 garlic clove, crushed\n1 pound ground veal\n1/2 cup tomato paste\n2 tablespoons flour\n1/2 cup dry white wine\n1 quart chicken stock or veal stock\n1 teaspoon salt\nFreshly ground pepper\n1 fresh rosemary sprig\n1 fresh thyme sprig\n2 flat leaf parsley sprigs\nCheesecloth for bouquet garni",
   "name": "Ragú Bolognese",
-  "notes": "",
-  "nutritional_info": "",
+  "notes": null,
+  "nutritional_info": null,
   "photo": null,
   "photo_large": null,
-  "photos": false,
-  "prep_time": "",
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": null,
   "rating": 5,
   "servings": "2 cups",
   "source": "Harry's Bar Cookbook",
-  "source_url": "",
-  "total_time": "",
+  "source_url": null,
+  "total_time": null,
   "uid": "262E123B-CE5F-49F4-A4BF-6EB433B9D6DA-408-0000264A91039DA4"
 }

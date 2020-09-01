@@ -4,29 +4,43 @@
     "White Fish"
   ],
   "cook_time": "1 hour",
-  "created": "2020-02-03 10:25:45",
-  "description": "",
+  "created": "1989-02-02 15:25:45",
+  "created_ts": 602436345,
+  "description": null,
   "difficulty": "",
   "directions": "Adjust oven rack to middle position and heat oven to 450 degrees. Chop 6 scallions coarse and spread evenly in 13 by 9-inch baking pan. Slice remaining 2 scallions thin on bias and set aside. Chop 2 inches ginger coarse and spread in pan with chopped scallions. Slice remaining 1 inch ginger into matchsticks and set aside. Sprinkle garlic over scallions and ginger in pan.\n\nFold 18 by 12-inch piece of aluminum foil lengthwise to create 18 by 6-inch sling and spray lightly with vegetable oil spray. Place sling in pan lengthwise, with extra foil hanging over ends of pan. Arrange cod on sling. If fillets vary in thickness, place thinner fillets in middle and thicker fillets at ends.\n\nWhisk soy sauce, rice wine, sesame oil, sugar, salt, and white pepper in small bowl until combined. Pour around cod. Cover pan tightly with foil and bake until fish registers 125 to 130 degrees, 12 to 14 minutes.\n\nGrasping sling at both ends, carefully transfer sling and cod to deep platter. Place spatula at 1 end of fillets to hold in place and carefully slide out sling from under cod. Strain cooking liquid through fine-mesh strainer set over bowl, pressing on solids to extract liquid; discard solids. Pour strained liquid over cod. Sprinkle reserved scallions over cod. Heat vegetable oil in small skillet over high heat until shimmering. Reduce heat to low, add reserved ginger, and cook, stirring, until ginger begins to brown and crisp, 20 to 30 seconds. Drizzle oil and ginger over cod (oil will crackle). Top with cilantro and serve.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Adjust oven rack to middle position and heat oven to 450 degrees. Chop 6 scallions coarse and spread evenly in 13 by 9-inch baking pan. Slice remaining 2 scallions thin on bias and set aside. Chop 2 inches ginger coarse and spread in pan with chopped scallions. Slice remaining 1 inch ginger into matchsticks and set aside. Sprinkle garlic over scallions and ginger in pan.</p><p class=\"line\">Fold 18 by 12-inch piece of aluminum foil lengthwise to create 18 by 6-inch sling and spray lightly with vegetable oil spray. Place sling in pan lengthwise, with extra foil hanging over ends of pan. Arrange cod on sling. If fillets vary in thickness, place thinner fillets in middle and thicker fillets at ends.</p><p class=\"line\">Whisk soy sauce, rice wine, sesame oil, sugar, salt, and white pepper in small bowl until combined. Pour around cod. Cover pan tightly with foil and bake until fish registers 125 to 130 degrees, <span class=\"timer\" time=\"720.0\">12 to 14 minutes</span>.</p><p class=\"line\">Grasping sling at both ends, carefully transfer sling and cod to deep platter. Place spatula at 1 end of fillets to hold in place and carefully slide out sling from under cod. Strain cooking liquid through fine-mesh strainer set over bowl, pressing on solids to extract liquid; discard solids. Pour strained liquid over cod. Sprinkle reserved scallions over cod. Heat vegetable oil in small skillet over high heat until shimmering. Reduce heat to low, add reserved ginger, and cook, stirring, until ginger begins to brown and crisp, <span class=\"timer\" time=\"20.0\">20 to 30 seconds</span>. Drizzle oil and ginger over cod (oil will crackle). Top with cilantro and serve.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">GATHER YOUR INGREDIENTS</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>8</strong> scallions, trimmed, divided</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> (3-inch) piece ginger, peeled, divided</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> garlic cloves, sliced thin</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> (6-ounce) skinless cod fillets, about 1 inch thick</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons soy sauce</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons Chinese rice wine or dry sherry</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> teaspoons toasted sesame oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> teaspoons sugar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> teaspoon table salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> teaspoon white pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons vegetable oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>⅓</strong> cup fresh cilantro leaves and thin stems</p>\n</div>",
-    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>Used Dutch oven instead of baking pan. Also used a remote thermometer. Worked well.</p>\n</div>",
-    "nutrition": "None"
+    "directions": "<p>Adjust oven rack to middle position and heat oven to 450 degrees. Chop 6 scallions coarse and spread evenly in 13 by 9-inch baking pan. Slice remaining 2 scallions thin on bias and set aside. Chop 2 inches ginger coarse and spread in pan with chopped scallions. Slice remaining 1 inch ginger into matchsticks and set aside. Sprinkle garlic over scallions and ginger in pan.</p>\n<p>Fold 18 by 12-inch piece of aluminum foil lengthwise to create 18 by 6-inch sling and spray lightly with vegetable oil spray. Place sling in pan lengthwise, with extra foil hanging over ends of pan. Arrange cod on sling. If fillets vary in thickness, place thinner fillets in middle and thicker fillets at ends.</p>\n<p>Whisk soy sauce, rice wine, sesame oil, sugar, salt, and white pepper in small bowl until combined. Pour around cod. Cover pan tightly with foil and bake until fish registers 125 to 130 degrees, 12 to 14 minutes.</p>\n<p>Grasping sling at both ends, carefully transfer sling and cod to deep platter. Place spatula at 1 end of fillets to hold in place and carefully slide out sling from under cod. Strain cooking liquid through fine-mesh strainer set over bowl, pressing on solids to extract liquid; discard solids. Pour strained liquid over cod. Sprinkle reserved scallions over cod. Heat vegetable oil in small skillet over high heat until shimmering. Reduce heat to low, add reserved ginger, and cook, stirring, until ginger begins to brown and crisp, 20 to 30 seconds. Drizzle oil and ginger over cod (oil will crackle). Top with cilantro and serve.</p>\n",
+    "ingredients": "<p>GATHER YOUR INGREDIENTS\n8 scallions, trimmed, divided\n1 (3-inch) piece ginger, peeled, divided\n3 garlic cloves, sliced thin\n4 (6-ounce) skinless cod fillets, about 1 inch thick\n3 tablespoons soy sauce\n2 tablespoons Chinese rice wine or dry sherry\n1 ½ teaspoons toasted sesame oil\n1 ½ teaspoons sugar\n¼ teaspoon table salt\n¼ teaspoon white pepper\n2 tablespoons vegetable oil\n⅓ cup fresh cilantro leaves and thin stems</p>\n",
+    "notes": "<p>Used Dutch oven instead of baking pan. Also used a remote thermometer. Worked well.</p>\n",
+    "nutrition": "<p>None</p>\n"
   },
   "image_url": null,
   "ingredients": "GATHER YOUR INGREDIENTS\n8 scallions, trimmed, divided\n1 (3-inch) piece ginger, peeled, divided\n3 garlic cloves, sliced thin\n4 (6-ounce) skinless cod fillets, about 1 inch thick\n3 tablespoons soy sauce\n2 tablespoons Chinese rice wine or dry sherry\n1 ½ teaspoons toasted sesame oil\n1 ½ teaspoons sugar\n¼ teaspoon table salt\n¼ teaspoon white pepper\n2 tablespoons vegetable oil\n⅓ cup fresh cilantro leaves and thin stems",
   "name": "Oven-Steamed Fish with Scallions and Ginger",
   "notes": "Used Dutch oven instead of baking pan. Also used a remote thermometer. Worked well.",
-  "nutritional_info": "",
+  "nutritional_info": null,
   "photo": "271546C3-86D7-442B-90DF-5EFCF8FD5E94-11906-00000E2238349B30.jpg",
   "photo_large": "CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg",
   "photos": [
     {
       "filename": "601ABC73-3E1A-4CFA-9AC4-580216E1FBD3-631-0001E571CAD8F15A.jpg",
       "name": "1"
+    },
+    {
+      "filename": "CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg",
+      "name": "2"
+    },
+    {
+      "filename": "23569CD4-BD0C-4DE8-9B31-397F4C56550B-11906-00000E22139D741F.jpg",
+      "name": "3"
     }
   ],
+  "photos_dict": {
+    "1": "601ABC73-3E1A-4CFA-9AC4-580216E1FBD3-631-0001E571CAD8F15A.jpg",
+    "2": "CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg",
+    "3": "23569CD4-BD0C-4DE8-9B31-397F4C56550B-11906-00000E22139D741F.jpg"
+  },
   "prep_time": "",
   "rating": 5,
   "servings": "Serves 4",

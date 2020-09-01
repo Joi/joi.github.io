@@ -4,15 +4,16 @@
     "Salmon"
   ],
   "cook_time": "20 minutes",
-  "created": "2020-03-20 14:23:15",
+  "created": "1989-03-20 18:23:15",
+  "created_ts": 606421395,
   "description": "",
   "difficulty": "",
   "directions": "Heat the oven to 400 degrees. Cut 4 large heart-shaped pieces of parchment paper or foil, and place them on a sheet pan. Fold the parchment or foil in half down the middle, place a fillet with its garnishes and seasonings on one side of each, fold the other side over and crimp the rounded edge tightly closed.\n\nPlace in oven for 10 to 15 minutes, depending on how done you’d like to serve the salmon. The packages should puff up and make for dramatic serving.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Heat the oven to 400 degrees. Cut 4 large heart-shaped pieces of parchment paper or foil, and place them on a sheet pan. Fold the parchment or foil in half down the middle, place a fillet with its garnishes and seasonings on one side of each, fold the other side over and crimp the rounded edge tightly closed.</p><p class=\"line\">Place in oven for <span class=\"timer\" time=\"600.0\">10 to 15 minutes</span>, depending on how done you’d like to serve the salmon. The packages should puff up and make for dramatic serving.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> (6- to 8-ounce) skin-on salmon fillets</p><p class=\"line\" itemprop=\"recipeIngredient\">Cut vegetables, fresh herbs and/or slices of lemon, lime or orange</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and pepper</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>Heat the oven to 400 degrees. Cut 4 large heart-shaped pieces of parchment paper or foil, and place them on a sheet pan. Fold the parchment or foil in half down the middle, place a fillet with its garnishes and seasonings on one side of each, fold the other side over and crimp the rounded edge tightly closed.</p>\n<p>Place in oven for 10 to 15 minutes, depending on how done you’d like to serve the salmon. The packages should puff up and make for dramatic serving.</p>\n",
+    "ingredients": "<p>4 (6- to 8-ounce) skin-on salmon fillets\nCut vegetables, fresh herbs and/or slices of lemon, lime or orange\nSalt and pepper</p>\n",
+    "notes": "",
+    "nutrition": ""
   },
   "image_url": "https://static01.nyt.com/images/2015/12/29/dining/29salmon-19/29salmon-19-articleLarge.jpg",
   "ingredients": "4 (6- to 8-ounce) skin-on salmon fillets\nCut vegetables, fresh herbs and/or slices of lemon, lime or orange\nSalt and pepper",
@@ -21,7 +22,8 @@
   "nutritional_info": "",
   "photo": "38970885-00F8-44CD-8BED-67207F0482E1-9067-000185E577328092.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "",
   "rating": 0,
   "servings": "Yield 4 servings",

@@ -4,21 +4,22 @@
     "Meat"
   ],
   "cook_time": "1 hour 30 minutes",
-  "created": "2020-02-02 09:51:28",
-  "description": "",
+  "created": "1989-02-01 14:51:28",
+  "created_ts": 602347888,
+  "description": null,
   "difficulty": "",
   "directions": "Rinse chicken thighs in water, and pat them very dry with paper towels. Sprinkle over them the flour, salt and pepper.\n\nMelt the butter in a large, heavy-bottomed pot or skillet set over medium-high heat. When the butter foams, cook the chicken, in batches if necessary, until well browned and crisp on all sides. Set aside.\n\nAdd the whole shallots to the pot and sauté them in the butter and chicken fat until they begin to soften and caramelize, approximately 10 to 12 minutes. Add the wine to deglaze the pot, stir with a large spoon, then add the mustard and tarragon, then the chicken thighs. Cover the pot, turn the heat to low and simmer for 30 minutes.\n\nRemove the lid, and allow the sauce to reduce and thicken, 15 to 20 minutes.\n\nAdd the cherry tomatoes to the pot, stir lightly to combine and serve immediately.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Rinse chicken thighs in water, and pat them very dry with paper towels. Sprinkle over them the flour, salt and pepper.</p><p class=\"line\">Melt the butter in a large, heavy-bottomed pot or skillet set over medium-high heat. When the butter foams, cook the chicken, in batches if necessary, until well browned and crisp on all sides. Set aside.</p><p class=\"line\">Add the whole shallots to the pot and sauté them in the butter and chicken fat until they begin to soften and caramelize, approximately <span class=\"timer\" time=\"600.0\">10 to 12 minutes</span>. Add the wine to deglaze the pot, stir with a large spoon, then add the mustard and tarragon, then the chicken thighs. Cover the pot, turn the heat to low and simmer for <span class=\"timer\" time=\"1800.0\">30 minutes</span>.</p><p class=\"line\">Remove the lid, and allow the sauce to reduce and thicken, <span class=\"timer\" time=\"900.0\">15 to 20 minutes</span>.</p><p class=\"line\">Add the cherry tomatoes to the pot, stir lightly to combine and serve immediately.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>8</strong> bone-in chicken thighs</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons flour</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon kosher salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon ground black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons unsalted butter</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>12 to 15</strong> whole medium shallots, peeled</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> cups white wine</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons Dijon mustard</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> sprigs tarragon</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> cups cherry tomatoes, cut in half.</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>Rinse chicken thighs in water, and pat them very dry with paper towels. Sprinkle over them the flour, salt and pepper.</p>\n<p>Melt the butter in a large, heavy-bottomed pot or skillet set over medium-high heat. When the butter foams, cook the chicken, in batches if necessary, until well browned and crisp on all sides. Set aside.</p>\n<p>Add the whole shallots to the pot and sauté them in the butter and chicken fat until they begin to soften and caramelize, approximately 10 to 12 minutes. Add the wine to deglaze the pot, stir with a large spoon, then add the mustard and tarragon, then the chicken thighs. Cover the pot, turn the heat to low and simmer for 30 minutes.</p>\n<p>Remove the lid, and allow the sauce to reduce and thicken, 15 to 20 minutes.</p>\n<p>Add the cherry tomatoes to the pot, stir lightly to combine and serve immediately.</p>\n",
+    "ingredients": "<p>8 bone-in chicken thighs\n2 tablespoons flour\n1 tablespoon kosher salt\n1 tablespoon ground black pepper\n2 tablespoons unsalted butter\n12 to 15 whole medium shallots, peeled\n2 cups white wine\n2 tablespoons Dijon mustard\n2 sprigs tarragon\n2 cups cherry tomatoes, cut in half.</p>\n",
+    "notes": "<p>None</p>\n",
+    "nutrition": "<p>None</p>\n"
   },
   "image_url": null,
   "ingredients": "8 bone-in chicken thighs\n2 tablespoons flour\n1 tablespoon kosher salt\n1 tablespoon ground black pepper\n2 tablespoons unsalted butter\n12 to 15 whole medium shallots, peeled\n2 cups white wine\n2 tablespoons Dijon mustard\n2 sprigs tarragon\n2 cups cherry tomatoes, cut in half.",
   "name": "Rishia Zimmern’s Chicken with Shallots",
-  "notes": "",
-  "nutritional_info": "",
+  "notes": null,
+  "nutritional_info": null,
   "photo": "0D9ADA44-9A27-4604-8E5C-803C35475EE4-22544-0003EE9BCDA6FBC4.jpg",
   "photo_large": "624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg",
   "photos": [
@@ -27,6 +28,9 @@
       "name": "1"
     }
   ],
+  "photos_dict": {
+    "1": "624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg"
+  },
   "prep_time": "",
   "rating": 5,
   "servings": "Yield 4 to 6 servings",

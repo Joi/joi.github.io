@@ -3,15 +3,16 @@
     "Bread and Biscuits"
   ],
   "cook_time": "2h",
-  "created": "2020-04-11 10:59:30",
+  "created": "1989-04-11 14:59:30",
+  "created_ts": 608309970,
   "description": "",
   "difficulty": "Medium",
   "directions": "Place yeast, water and sugar into mixing bowl and warm 30 sec/100°F/speed 2.\n\nAdd oil, flour and salt and knead 3 min/. Transfer dough into a bowl, cover with cling wrap and let rise in a warm place until doubled in size (approx. 1 hr.). Divide dough into 7-8 pieces, form each into a ball and allow to rest for 15 minutes. Roll out each ball with a rolling pin into a flat circle (approx. 6 in.) and allow to rest for a further |15 minutes.\n\nMeanwhile, preheat oven and baking sheet to 475°F.\n\nPlace 2-4 dough circles onto preheated baking sheet and bake for 4-5 minutes (475°F) until puffed up or light golden. Repeat with remaining dough. Transfer hot pita breads onto a plate and cover immediately with a dry kitchen towel (tea towel) to keep them soft. Allow to cool before serving.\n\nTips & tricks\n\nCut pita bread in half to fill with sandwich fillings (e.g. lettuce leaves, tomatoes, cheese, cold meat, mayonnaise).\n\nPlacing dough on preheated baking pan helps it puff up. If a few of the pita breads don’t puff up, they can still be served as soft flatbreads.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Place yeast, water and sugar into mixing bowl and warm <span class=\"timer\" time=\"30.0\">30 sec</span>/100°F/speed 2.</p><p class=\"line\">Add oil, flour and salt and knead <span class=\"timer\" time=\"180.0\">3 min</span>/. Transfer dough into a bowl, cover with cling wrap and let rise in a warm place until doubled in size (approx. <span class=\"timer\" time=\"3600.0\">1 hr</span>.). Divide dough into 7-8 pieces, form each into a ball and allow to rest for <span class=\"timer\" time=\"900.0\">15 minutes</span>. Roll out each ball with a rolling pin into a flat circle (approx. 6 in.) and allow to rest for a further |<span class=\"timer\" time=\"900.0\">15 minutes</span>.</p><p class=\"line\">Meanwhile, preheat oven and baking sheet to 475°F.</p><p class=\"line\">Place 2-4 dough circles onto preheated baking sheet and bake for <span class=\"timer\" time=\"240.0\">4-5 minutes </span>(475°F) until puffed up or light golden. Repeat with remaining dough. Transfer hot pita breads onto a plate and cover immediately with a dry kitchen towel (tea towel) to keep them soft. Allow to cool before serving.</p><p class=\"line\">Tips &amp; tricks</p><p class=\"line\">Cut pita bread in half to fill with sandwich fillings (e.g. lettuce leaves, tomatoes, cheese, cold meat, mayonnaise).</p><p class=\"line\">Placing dough on preheated baking pan helps it puff up. If a few of the pita breads don’t puff up, they can still be served as soft flatbreads.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp dried instant yeast</p><p class=\"line\" itemprop=\"recipeIngredient\">or ½ oz fresh yeast</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>10</strong> oz water</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp sugar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>18</strong> oz bread flour</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp salt</p>\n</div>",
-    "notes": "None",
-    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories: 977 kJ / 233 kcal<br/>Protein: 7 g<br/>Carbohydrates: 47 g<br/>Fat: 1 g<br/>Fiber: 2.4 g</p>\n</div>"
+    "directions": "<p>Place yeast, water and sugar into mixing bowl and warm 30 sec/100°F/speed 2.</p>\n<p>Add oil, flour and salt and knead 3 min/. Transfer dough into a bowl, cover with cling wrap and let rise in a warm place until doubled in size (approx. 1 hr.). Divide dough into 7-8 pieces, form each into a ball and allow to rest for 15 minutes. Roll out each ball with a rolling pin into a flat circle (approx. 6 in.) and allow to rest for a further |15 minutes.</p>\n<p>Meanwhile, preheat oven and baking sheet to 475°F.</p>\n<p>Place 2-4 dough circles onto preheated baking sheet and bake for 4-5 minutes (475°F) until puffed up or light golden. Repeat with remaining dough. Transfer hot pita breads onto a plate and cover immediately with a dry kitchen towel (tea towel) to keep them soft. Allow to cool before serving.</p>\n<p>Tips &amp; tricks</p>\n<p>Cut pita bread in half to fill with sandwich fillings (e.g. lettuce leaves, tomatoes, cheese, cold meat, mayonnaise).</p>\n<p>Placing dough on preheated baking pan helps it puff up. If a few of the pita breads don’t puff up, they can still be served as soft flatbreads.</p>\n",
+    "ingredients": "<p>1 tsp dried instant yeast\nor ½ oz fresh yeast\n10 oz water\n1 tsp sugar\n1 tsp olive oil\n18 oz bread flour\n1 tsp salt</p>\n",
+    "notes": "",
+    "nutrition": "<p>Calories: 977 kJ / 233 kcal\nProtein: 7 g\nCarbohydrates: 47 g\nFat: 1 g\nFiber: 2.4 g</p>\n"
   },
   "image_url": "https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/942C8336-8F3F-41CA-85D7-1A3CF42E0547/Derivates/D25184C1-D5A1-4D44-8637-7AEF21018166.jpg",
   "ingredients": "1 tsp dried instant yeast\nor ½ oz fresh yeast\n10 oz water\n1 tsp sugar\n1 tsp olive oil\n18 oz bread flour\n1 tsp salt",
@@ -20,7 +21,8 @@
   "nutritional_info": "Calories: 977 kJ / 233 kcal\nProtein: 7 g\nCarbohydrates: 47 g\nFat: 1 g\nFiber: 2.4 g",
   "photo": "9A7D7EE4-7336-4518-BADE-B6CEEFC46D35-53878-00004CF254FB6333.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "20min",
   "rating": 5,
   "servings": "8 pieces",

@@ -4,15 +4,16 @@
     "Salmon"
   ],
   "cook_time": "20 minutes",
-  "created": "2020-03-20 14:26:12",
+  "created": "1989-03-20 18:26:12",
+  "created_ts": 606421572,
   "description": "",
   "difficulty": "",
   "directions": "Season fillets on both sides with salt and pepper. If necessary, combine spices and grind them to a coarse powder in a coffee or spice grinder. Press some of the mixture onto the top of each fillet.\n\nHeat a large nonstick skillet over medium-high heat for 2 or 3 minutes. Add the oil or butter and, when it shimmers, place the fillets, coated side down, in the pan. Cook about 2 to 3 minutes, or until the spice mixture forms a nicely browned crust.\n\nTurn the fillets and cook for another 2 to 3 minutes, or until the salmon just slightly resists when pierced with a thin-bladed knife.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Season fillets on both sides with salt and pepper. If necessary, combine spices and grind them to a coarse powder in a coffee or spice grinder. Press some of the mixture onto the top of each fillet.</p><p class=\"line\">Heat a large nonstick skillet over medium-high heat for <span class=\"timer\" time=\"120.0\">2 or 3 minutes</span>. Add the oil or butter and, when it shimmers, place the fillets, coated side down, in the pan. Cook about <span class=\"timer\" time=\"120.0\">2 to 3 minutes</span>, or until the spice mixture forms a nicely browned crust.</p><p class=\"line\">Turn the fillets and cook for another <span class=\"timer\" time=\"120.0\">2 to 3 minutes</span>, or until the salmon just slightly resists when pierced with a thin-bladed knife.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> 6-ounce skinned salmon fillets</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon coriander seeds or ground coriander</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>¼</strong> teaspoon whole or ground cloves</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1 ½</strong> teaspoons cumin seed or ground cumin</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon freshly grated nutmeg</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons peanut oil, grape seed or other neutral oil, or clarified butter</p>\n</div>",
-    "notes": "None",
-    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories: 421<br/>Total Carbohydrates: 2 grams<br/>Total Fat: 30 grams<br/>Dietary fiber: 1 gram<br/>Protein: 35 grams<br/>Saturated fat: 9 grams<br/>Sodium: 418 milligrams<br/>Sugar: 0 grams<br/>Trans Fat: 0 grams<br/>Unsaturated fat: 9 grams</p>\n</div>"
+    "directions": "<p>Season fillets on both sides with salt and pepper. If necessary, combine spices and grind them to a coarse powder in a coffee or spice grinder. Press some of the mixture onto the top of each fillet.</p>\n<p>Heat a large nonstick skillet over medium-high heat for 2 or 3 minutes. Add the oil or butter and, when it shimmers, place the fillets, coated side down, in the pan. Cook about 2 to 3 minutes, or until the spice mixture forms a nicely browned crust.</p>\n<p>Turn the fillets and cook for another 2 to 3 minutes, or until the salmon just slightly resists when pierced with a thin-bladed knife.</p>\n",
+    "ingredients": "<p>4 6-ounce skinned salmon fillets\nSalt and black pepper\n1 tablespoon coriander seeds or ground coriander\n¼ teaspoon whole or ground cloves\n1 ½ teaspoons cumin seed or ground cumin\n1 teaspoon freshly grated nutmeg\n2 tablespoons peanut oil, grape seed or other neutral oil, or clarified butter</p>\n",
+    "notes": "",
+    "nutrition": "<p>Calories: 421\nTotal Carbohydrates: 2 grams\nTotal Fat: 30 grams\nDietary fiber: 1 gram\nProtein: 35 grams\nSaturated fat: 9 grams\nSodium: 418 milligrams\nSugar: 0 grams\nTrans Fat: 0 grams\nUnsaturated fat: 9 grams</p>\n"
   },
   "image_url": null,
   "ingredients": "4 6-ounce skinned salmon fillets\nSalt and black pepper\n1 tablespoon coriander seeds or ground coriander\n¼ teaspoon whole or ground cloves\n1 ½ teaspoons cumin seed or ground cumin\n1 teaspoon freshly grated nutmeg\n2 tablespoons peanut oil, grape seed or other neutral oil, or clarified butter",
@@ -27,6 +28,9 @@
       "name": "1"
     }
   ],
+  "photos_dict": {
+    "1": "4D14DE40-8AFD-47FF-8348-EC1688A6DC9C-29546-0003479E4ABED064.jpg"
+  },
   "prep_time": "",
   "rating": 5,
   "servings": "Yield 4 servings",

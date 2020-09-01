@@ -1,19 +1,20 @@
 {
   "categories": [
     "Fish",
-    "Pollack",
-    "White Fish"
+    "White Fish",
+    "Pollack"
   ],
   "cook_time": "20 mins",
-  "created": "2020-05-15 14:19:32",
+  "created": "1989-05-15 18:19:32",
+  "created_ts": 611259572,
   "description": "",
   "difficulty": "",
   "directions": "1. Season fish with 2 tablespoons of broth and salt and pepper.\n\n2. Mix together parmesan cheese, panko and parsley in a bowl.\n\n3. Coat fish with bread crumbs mixture.\n\n4. Heat 1/2 the oil in a sauté pan over medium heat.\n\n5. Place fish in pan and cook on each side for 3 minutes.\n\n6. Remove fish and wipe pan. Add remaining oil.\n\n7. Add garlic and onions and lightly sauté.\n\n8. Add remaining broth and lemon juice along with capers.\n\n9. Cook until reduced by half and remove from heat.\n\n10. Add butter and swirl until melted and creamy.\n\n11. Served on fish along with cooked brown rice.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">1. Season fish with 2 tablespoons of broth and salt and pepper.</p><p class=\"line\">2. Mix together parmesan cheese, panko and parsley in a bowl.</p><p class=\"line\">3. Coat fish with bread crumbs mixture.</p><p class=\"line\">4. Heat 1/2 the oil in a sauté pan over medium heat.</p><p class=\"line\">5. Place fish in pan and cook on each side for <span class=\"timer\" time=\"180.0\">3 minutes</span>.</p><p class=\"line\">6. Remove fish and wipe pan. Add remaining oil.</p><p class=\"line\">7. Add garlic and onions and lightly sauté.</p><p class=\"line\">8. Add remaining broth and lemon juice along with capers.</p><p class=\"line\">9. Cook until reduced by half and remove from heat.</p><p class=\"line\">10. Add butter and swirl until melted and creamy.</p><p class=\"line\">11. Served on fish along with cooked brown rice.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> lb. pollock fillets or other white fish</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup vegetable broth</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and pepper, to taste</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup parmesan cheese, grated</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup panko bread crumbs</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> tsp. parsley, dried</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> cup olive oil, divided</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp. garlic, chopped</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tsp. onions, white or yellow, chopped</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> lemon, juiced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> Tbsp. capers, rinsed</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> Tbsp. butter, cubed</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> cup brown rice, cooked</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<ol>\n<li>\n<p>Season fish with 2 tablespoons of broth and salt and pepper.</p>\n</li>\n<li>\n<p>Mix together parmesan cheese, panko and parsley in a bowl.</p>\n</li>\n<li>\n<p>Coat fish with bread crumbs mixture.</p>\n</li>\n<li>\n<p>Heat 1/2 the oil in a sauté pan over medium heat.</p>\n</li>\n<li>\n<p>Place fish in pan and cook on each side for 3 minutes.</p>\n</li>\n<li>\n<p>Remove fish and wipe pan. Add remaining oil.</p>\n</li>\n<li>\n<p>Add garlic and onions and lightly sauté.</p>\n</li>\n<li>\n<p>Add remaining broth and lemon juice along with capers.</p>\n</li>\n<li>\n<p>Cook until reduced by half and remove from heat.</p>\n</li>\n<li>\n<p>Add butter and swirl until melted and creamy.</p>\n</li>\n<li>\n<p>Served on fish along with cooked brown rice.</p>\n</li>\n</ol>\n",
+    "ingredients": "<p>1 lb. pollock fillets or other white fish\n1/2 cup vegetable broth\nSalt and pepper, to taste\n1/2 cup parmesan cheese, grated\n1/2 cup panko bread crumbs\n1/2 tsp. parsley, dried\n1/4 cup olive oil, divided\n1 tsp. garlic, chopped\n1 tsp. onions, white or yellow, chopped\n1/2 lemon, juiced\n1 Tbsp. capers, rinsed\n4 Tbsp. butter, cubed\n1 cup brown rice, cooked</p>\n",
+    "notes": "",
+    "nutrition": ""
   },
   "image_url": "https://www.seafoodnutrition.org/wp-content/uploads/2018/03/Parmesan-Crusted-Pollock-810x540.jpg",
   "ingredients": "1 lb. pollock fillets or other white fish\n1/2 cup vegetable broth\nSalt and pepper, to taste\n1/2 cup parmesan cheese, grated\n1/2 cup panko bread crumbs\n1/2 tsp. parsley, dried\n1/4 cup olive oil, divided\n1 tsp. garlic, chopped\n1 tsp. onions, white or yellow, chopped\n1/2 lemon, juiced\n1 Tbsp. capers, rinsed\n4 Tbsp. butter, cubed\n1 cup brown rice, cooked",
@@ -22,7 +23,8 @@
   "nutritional_info": "",
   "photo": "643CD037-016A-4511-8565-A9ECD53E1213-13891-0001022B077F58D3.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "10 mins",
   "rating": 0,
   "servings": "4",

@@ -4,15 +4,16 @@
     "Salmon"
   ],
   "cook_time": "40 minutes",
-  "created": "2020-04-08 09:22:24",
+  "created": "1989-04-08 13:22:24",
+  "created_ts": 608044944,
   "description": "",
   "difficulty": "",
   "directions": "Heat oven to 400 degrees. Lay out a double layer of foil big enough to wrap fish in, and drizzle with oil. Place fish on foil. Put scallions and half the thyme in cavity of fish. Drizzle 2 tablespoons butter over fish, and sprinkle with salt to taste. Wrap fish loosely, place on a baking sheet and bake 35 minutes.\n\nPlace a small skillet over medium heat. When pan is hot, add almonds, and stir until golden brown. Remove from pan, and set aside. In a small bowl, combine remaining melted butter and lemon juice; set aside.\n\nWhen fish is cooked, carefully peel skin from side facing you. With a knife, divide fish in three portions by making two long cuts parallel to each other and perpendicular to the backbone. Cut down to the rib bones, but do not cut through them. Remove a portion of meat by sliding a spatula over rib bones and pulling meat away; repeat with 2 remaining portions, and place on three warmed plates. Remove backbone and attached rib bones. Cut three more fillets from remaining fish, placing them on plates.\n\nDrizzle lemon butter over each fillet, and sprinkle with toasted almonds. Pull leaves from remaining sprigs of thyme, and scatter over fillets. Serve immediately.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Heat oven to 400 degrees. Lay out a double layer of foil big enough to wrap fish in, and drizzle with oil. Place fish on foil. Put scallions and half the thyme in cavity of fish. Drizzle 2 tablespoons butter over fish, and sprinkle with salt to taste. Wrap fish loosely, place on a baking sheet and bake <span class=\"timer\" time=\"2100.0\">35 minutes</span>.</p><p class=\"line\">Place a small skillet over medium heat. When pan is hot, add almonds, and stir until golden brown. Remove from pan, and set aside. In a small bowl, combine remaining melted butter and lemon juice; set aside.</p><p class=\"line\">When fish is cooked, carefully peel skin from side facing you. With a knife, divide fish in three portions by making two long cuts parallel to each other and perpendicular to the backbone. Cut down to the rib bones, but do not cut through them. Remove a portion of meat by sliding a spatula over rib bones and pulling meat away; repeat with 2 remaining portions, and place on three warmed plates. Remove backbone and attached rib bones. Cut three more fillets from remaining fish, placing them on plates.</p><p class=\"line\">Drizzle lemon butter over each fillet, and sprinkle with toasted almonds. Pull leaves from remaining sprigs of thyme, and scatter over fillets. Serve immediately.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon vegetable oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> 4-pound salmon, cleaned and scaled, head and tail removed</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> scallions, trimmed</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> small bunch (about 1/2 cup) fresh thyme</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>6</strong> tablespoons melted butter</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon sea salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>⅓</strong> cup sliced almonds</p><p class=\"line\" itemprop=\"recipeIngredient\">Juice of half a lemon</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>Heat oven to 400 degrees. Lay out a double layer of foil big enough to wrap fish in, and drizzle with oil. Place fish on foil. Put scallions and half the thyme in cavity of fish. Drizzle 2 tablespoons butter over fish, and sprinkle with salt to taste. Wrap fish loosely, place on a baking sheet and bake 35 minutes.</p>\n<p>Place a small skillet over medium heat. When pan is hot, add almonds, and stir until golden brown. Remove from pan, and set aside. In a small bowl, combine remaining melted butter and lemon juice; set aside.</p>\n<p>When fish is cooked, carefully peel skin from side facing you. With a knife, divide fish in three portions by making two long cuts parallel to each other and perpendicular to the backbone. Cut down to the rib bones, but do not cut through them. Remove a portion of meat by sliding a spatula over rib bones and pulling meat away; repeat with 2 remaining portions, and place on three warmed plates. Remove backbone and attached rib bones. Cut three more fillets from remaining fish, placing them on plates.</p>\n<p>Drizzle lemon butter over each fillet, and sprinkle with toasted almonds. Pull leaves from remaining sprigs of thyme, and scatter over fillets. Serve immediately.</p>\n",
+    "ingredients": "<p>1 tablespoon vegetable oil\n1 4-pound salmon, cleaned and scaled, head and tail removed\n2 scallions, trimmed\n1 small bunch (about 1/2 cup) fresh thyme\n6 tablespoons melted butter\n1 tablespoon sea salt\n⅓ cup sliced almonds\nJuice of half a lemon</p>\n",
+    "notes": "",
+    "nutrition": ""
   },
   "image_url": "https://static01.nyt.com/images/2014/04/10/dining/salmonthyme/salmonthyme-articleLarge.jpg",
   "ingredients": "1 tablespoon vegetable oil\n1 4-pound salmon, cleaned and scaled, head and tail removed\n2 scallions, trimmed\n1 small bunch (about 1/2 cup) fresh thyme\n6 tablespoons melted butter\n1 tablespoon sea salt\n⅓ cup sliced almonds\nJuice of half a lemon",
@@ -21,7 +22,8 @@
   "nutritional_info": "",
   "photo": "76BB426B-598E-4DD6-9225-042EDB222F69-16595-0003B26A2D87D80E.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "",
   "rating": 0,
   "servings": "Yield 6 servings",

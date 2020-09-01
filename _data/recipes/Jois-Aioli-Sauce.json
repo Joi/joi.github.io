@@ -3,21 +3,22 @@
     "Sauce"
   ],
   "cook_time": "",
-  "created": "2020-07-10 10:07:05",
-  "description": "",
+  "created": "1989-07-10 14:07:05",
+  "created_ts": 616082825,
+  "description": null,
   "difficulty": "",
   "directions": "Put garlic in Thermomix. Mince garlic (speed 7 / 3 sec) wipe down sides with spatula and do twice or smash using garlic press. Add lemon juice and macerate garlic for a few min.\n\nAdd egg and yolk, salt, pepper, mustard, zest and blend until combined (Speed 6 / 20 sec).\n\nWith Thermomix running (speed 4 / 3 min), slowly drizzle oil steadily to create an emulsification.\n\nSeason for taste with salt lemon juice.\n\nStir in tarragon or chives.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Put garlic in Thermomix. Mince garlic (speed 7 / <span class=\"timer\" time=\"3.0\">3 sec</span>) wipe down sides with spatula and do twice or smash using garlic press. Add lemon juice and macerate garlic for a few min.</p><p class=\"line\">Add egg and yolk, salt, pepper, mustard, zest and blend until combined (Speed 6 / <span class=\"timer\" time=\"20.0\">20 sec</span>).</p><p class=\"line\">With Thermomix running (speed 4 / <span class=\"timer\" time=\"180.0\">3 min</span>), slowly drizzle oil steadily to create an emulsification.</p><p class=\"line\">Season for taste with salt lemon juice.</p><p class=\"line\">Stir in tarragon or chives.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> cloves of garlic or 1 tablespoon of green garlic</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tbsp of lemon juice</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> tsp grated lemon zest</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/4</strong> tsp freshly cracked black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> teaspoon fine sea salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> large egg</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> large egg yolk</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tbsp Dijon mustard</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3/4</strong> cup extra-virgin olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon of fresh tarragon or chives</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>Put garlic in Thermomix. Mince garlic (speed 7 / 3 sec) wipe down sides with spatula and do twice or smash using garlic press. Add lemon juice and macerate garlic for a few min.</p>\n<p>Add egg and yolk, salt, pepper, mustard, zest and blend until combined (Speed 6 / 20 sec).</p>\n<p>With Thermomix running (speed 4 / 3 min), slowly drizzle oil steadily to create an emulsification.</p>\n<p>Season for taste with salt lemon juice.</p>\n<p>Stir in tarragon or chives.</p>\n",
+    "ingredients": "<p>2 cloves of garlic or 1 tablespoon of green garlic\n1 tbsp of lemon juice\n1/2 tsp grated lemon zest\n1/4 tsp freshly cracked black pepper\n1/2 teaspoon fine sea salt\n1 large egg\n1 large egg yolk\n1 tbsp Dijon mustard\n3/4 cup extra-virgin olive oil\n1 tablespoon of fresh tarragon or chives</p>\n",
+    "notes": "<p>None</p>\n",
+    "nutrition": "<p>None</p>\n"
   },
   "image_url": null,
   "ingredients": "2 cloves of garlic or 1 tablespoon of green garlic\n1 tbsp of lemon juice\n1/2 tsp grated lemon zest\n1/4 tsp freshly cracked black pepper\n1/2 teaspoon fine sea salt\n1 large egg\n1 large egg yolk\n1 tbsp Dijon mustard\n3/4 cup extra-virgin olive oil\n1 tablespoon of fresh tarragon or chives",
   "name": "Joi's Aioli Sauce",
-  "notes": "",
-  "nutritional_info": "",
+  "notes": null,
+  "nutritional_info": null,
   "photo": "C1223062-F74E-4208-AC1C-A8D6907C7BE4-29053-000376E2CCD86DB9.jpg",
   "photo_large": "4A1B4683-121B-4179-B19A-661E6C6D0D13-29053-000376E2499F5BDF.jpg",
   "photos": [
@@ -26,6 +27,9 @@
       "name": "1"
     }
   ],
+  "photos_dict": {
+    "1": "4A1B4683-121B-4179-B19A-661E6C6D0D13-29053-000376E2499F5BDF.jpg"
+  },
   "prep_time": "",
   "rating": 5,
   "servings": "",

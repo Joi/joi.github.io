@@ -3,15 +3,16 @@
     "Salad"
   ],
   "cook_time": "",
-  "created": "2020-07-15 21:49:37",
+  "created": "1989-07-16 01:49:37",
+  "created_ts": 616556977,
   "description": "",
   "difficulty": "",
   "directions": "Measure ingredients into the bowl of a mini food processor (or blender). Pulse until well-blended and emulsified. Taste and adjust seasonings, adding more salt and pepper if necessary. (Alternatively, you may measure all ingredients into a jar with a tight-fitting lid and shake vigorously, OR whisk the ingredients together in a bowl.)\n\nStore leftovers in a sealed container in the refrigerator; allow to come to room temperature and shake well before using.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Measure ingredients into the bowl of a mini food processor (or blender). Pulse until well-blended and emulsified. Taste and adjust seasonings, adding more salt and pepper if necessary. (Alternatively, you may measure all ingredients into a jar with a tight-fitting lid and shake vigorously, OR whisk the ingredients together in a bowl.)</p><p class=\"line\">Store leftovers in a sealed container in the refrigerator; allow to come to room temperature and shake well before using.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup finely minced fresh cilantro leaves</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> cup neutral-flavored salad oil (such as sunflower or safflower)</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tablespoons freshly-squeezed lime juice</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons water</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon apple cider vinegar</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> teaspoons honey</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> teaspoon garlic salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1/2</strong> teaspoon dried Mexican oregano</p><p class=\"line\" itemprop=\"recipeIngredient\">Freshly ground black pepper, to taste</p>\n</div>",
-    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>If you don't have Mexican oregano on hand, you may substitute regular (Mediterranean) oregano.</p>\n</div>",
-    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories: 1051kcal | Carbohydrates: 16g | Fat: 112g | Saturated Fat: 8g | Sodium: 2333mg | Potassium: 94mg | Sugar: 12g | Vitamin A: 540IU | Vitamin C: 15.7mg | Calcium: 16mg | Iron: 0.4mg</p>\n</div>"
+    "directions": "<p>Measure ingredients into the bowl of a mini food processor (or blender). Pulse until well-blended and emulsified. Taste and adjust seasonings, adding more salt and pepper if necessary. (Alternatively, you may measure all ingredients into a jar with a tight-fitting lid and shake vigorously, OR whisk the ingredients together in a bowl.)</p>\n<p>Store leftovers in a sealed container in the refrigerator; allow to come to room temperature and shake well before using.</p>\n",
+    "ingredients": "<p>1/2 cup finely minced fresh cilantro leaves\n1/2 cup neutral-flavored salad oil (such as sunflower or safflower)\n3 tablespoons freshly-squeezed lime juice\n2 tablespoons water\n1 tablespoon apple cider vinegar\n2 teaspoons honey\n1 teaspoon garlic salt\n1/2 teaspoon dried Mexican oregano\nFreshly ground black pepper, to taste</p>\n",
+    "notes": "<p>If you don't have Mexican oregano on hand, you may substitute regular (Mediterranean) oregano.</p>\n",
+    "nutrition": "<p>Calories: 1051kcal | Carbohydrates: 16g | Fat: 112g | Saturated Fat: 8g | Sodium: 2333mg | Potassium: 94mg | Sugar: 12g | Vitamin A: 540IU | Vitamin C: 15.7mg | Calcium: 16mg | Iron: 0.4mg</p>\n"
   },
   "image_url": "https://cdn.jwplayer.com/v2/media/MJpuOTRB/poster.jpg?width=720",
   "ingredients": "1/2 cup finely minced fresh cilantro leaves\n1/2 cup neutral-flavored salad oil (such as sunflower or safflower)\n3 tablespoons freshly-squeezed lime juice\n2 tablespoons water\n1 tablespoon apple cider vinegar\n2 teaspoons honey\n1 teaspoon garlic salt\n1/2 teaspoon dried Mexican oregano\nFreshly ground black pepper, to taste",
@@ -20,7 +21,8 @@
   "nutritional_info": "Calories: 1051kcal | Carbohydrates: 16g | Fat: 112g | Saturated Fat: 8g | Sodium: 2333mg | Potassium: 94mg | Sugar: 12g | Vitamin A: 540IU | Vitamin C: 15.7mg | Calcium: 16mg | Iron: 0.4mg",
   "photo": "DAC711C1-A635-4FB8-9CF9-E57911BC99C7-29053-0004C5D1ACD7BC40.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "",
   "rating": 0,
   "servings": "",

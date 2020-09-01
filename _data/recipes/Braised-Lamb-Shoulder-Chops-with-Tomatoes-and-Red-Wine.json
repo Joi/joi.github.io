@@ -4,15 +4,16 @@
     "Meat"
   ],
   "cook_time": "",
-  "created": "2020-05-14 10:37:55",
+  "created": "1989-05-14 14:37:55",
+  "created_ts": 611159875,
   "description": "",
   "difficulty": "",
   "directions": "BEFORE YOU BEGIN\n\nBecause they are generally leaner, round bone chops, also called arm chops, are preferable for this braise. If available, however, lean blade chops also braise nicely.\n\nSprinkle chops with salt and pepper to taste.\n\nHeat 1 tablespoon of the oil in 12-inch heavy-bottomed nonreactive skillet over medium-high heat. Cooking in batches if necessary to avoid overcrowding, add chops; sauté until brown on both sides, 4 to 5 minutes. Remove from pan; set aside.\n\nPour fat from pan; return pan to medium heat, adding remaining tablespoon of oil. Add onion; sauté until softened, about 4 minutes. Add garlic; cook until fragrant, about 1 minute longer. Add wine; simmer until reduced by half, scraping browned bits from pan bottom with wooden spoon, 2 to 3 minutes. Stir in tomatoes, then return chops to pan. Reduce heat to low; cover and simmer until chops are cooked through but tender, 15 to 20 minutes.\n\nTransfer chops to each of four plates. Stir parsley into braising liquid; simmer until sauce thickens, 2 to 3 minutes. Adjust seasonings, spoon portion of sauce over each chop, and serve.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">BEFORE YOU BEGIN</p><p class=\"line\">Because they are generally leaner, round bone chops, also called arm chops, are preferable for this braise. If available, however, lean blade chops also braise nicely.</p><p class=\"line\">Sprinkle chops with salt and pepper to taste.</p><p class=\"line\">Heat 1 tablespoon of the oil in 12-inch heavy-bottomed nonreactive skillet over medium-high heat. Cooking in batches if necessary to avoid overcrowding, add chops; sauté until brown on both sides, <span class=\"timer\" time=\"240.0\">4 to 5 minutes</span>. Remove from pan; set aside.</p><p class=\"line\">Pour fat from pan; return pan to medium heat, adding remaining tablespoon of oil. Add onion; sauté until softened, about <span class=\"timer\" time=\"240.0\">4 minutes</span>. Add garlic; cook until fragrant, about <span class=\"timer\" time=\"60.0\">1 minute </span>longer. Add wine; simmer until reduced by half, scraping browned bits from pan bottom with wooden spoon, <span class=\"timer\" time=\"120.0\">2 to 3 minutes</span>. Stir in tomatoes, then return chops to pan. Reduce heat to low; cover and simmer until chops are cooked through but tender, <span class=\"timer\" time=\"900.0\">15 to 20 minutes</span>.</p><p class=\"line\">Transfer chops to each of four plates. Stir parsley into braising liquid; simmer until sauce thickens, <span class=\"timer\" time=\"120.0\">2 to 3 minutes</span>. Adjust seasonings, spoon portion of sauce over each chop, and serve.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">GATHER YOUR INGREDIENTS</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> lamb shoulder chops, about 3/4 inch thick, trimmed of external fat</p><p class=\"line\" itemprop=\"recipeIngredient\">Salt and ground black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> small onion, chopped fine</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> small cloves garlic, minced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>⅓</strong> cup dry red wine</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> cup canned tomatoes packed in puree, chopped</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons minced fresh parsley leaves</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>BEFORE YOU BEGIN</p>\n<p>Because they are generally leaner, round bone chops, also called arm chops, are preferable for this braise. If available, however, lean blade chops also braise nicely.</p>\n<p>Sprinkle chops with salt and pepper to taste.</p>\n<p>Heat 1 tablespoon of the oil in 12-inch heavy-bottomed nonreactive skillet over medium-high heat. Cooking in batches if necessary to avoid overcrowding, add chops; sauté until brown on both sides, 4 to 5 minutes. Remove from pan; set aside.</p>\n<p>Pour fat from pan; return pan to medium heat, adding remaining tablespoon of oil. Add onion; sauté until softened, about 4 minutes. Add garlic; cook until fragrant, about 1 minute longer. Add wine; simmer until reduced by half, scraping browned bits from pan bottom with wooden spoon, 2 to 3 minutes. Stir in tomatoes, then return chops to pan. Reduce heat to low; cover and simmer until chops are cooked through but tender, 15 to 20 minutes.</p>\n<p>Transfer chops to each of four plates. Stir parsley into braising liquid; simmer until sauce thickens, 2 to 3 minutes. Adjust seasonings, spoon portion of sauce over each chop, and serve.</p>\n",
+    "ingredients": "<p>GATHER YOUR INGREDIENTS\n4 lamb shoulder chops, about 3/4 inch thick, trimmed of external fat\nSalt and ground black pepper\n2 tablespoons olive oil\n1 small onion, chopped fine\n2 small cloves garlic, minced\n⅓ cup dry red wine\n1 cup canned tomatoes packed in puree, chopped\n2 tablespoons minced fresh parsley leaves</p>\n",
+    "notes": "",
+    "nutrition": ""
   },
   "image_url": "https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/40718_sfs-braised-lamb-shoulder-chops-10",
   "ingredients": "GATHER YOUR INGREDIENTS\n4 lamb shoulder chops, about 3/4 inch thick, trimmed of external fat\nSalt and ground black pepper\n2 tablespoons olive oil\n1 small onion, chopped fine\n2 small cloves garlic, minced\n⅓ cup dry red wine\n1 cup canned tomatoes packed in puree, chopped\n2 tablespoons minced fresh parsley leaves",
@@ -21,7 +22,8 @@
   "nutritional_info": "",
   "photo": "141ACF76-E20B-4975-991F-029226A4C302-13891-0000A77F547DB15F.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "",
   "rating": 0,
   "servings": "Serves 4",

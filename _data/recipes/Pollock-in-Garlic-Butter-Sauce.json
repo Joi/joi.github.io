@@ -1,33 +1,33 @@
 {
   "categories": [
-    "Fish",
-    "Pollack",
-    "White Fish"
+    "Pollack"
   ],
   "cook_time": "15",
-  "created": "2020-05-15 14:20:51",
+  "created": "1989-05-29 18:23:18",
+  "created_ts": 612469398,
   "description": "",
   "difficulty": "",
   "directions": "1. Drizzle fillets with 2 tbsp lemon juice, season with salt and pepper to taste 2. For the sauce, in a large skillet heat oil over med heat until hot. Add butter to melt. Add garlic; cook and stir 1 min. 3. Add fillets to skillet; cook covered, 3-4 mins per side or until fish flakes easily with fork. Transfer to a platter. 4. Stir remaining 1 tbsp lemon juice into skillet. Drizzle sauce over fillets. Sprinkle with parsley.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">1. Drizzle fillets with 2 tbsp lemon juice, season with salt and pepper to taste 2. For the sauce, in a large skillet heat oil over med heat until hot. Add butter to melt. Add garlic; cook and stir <span class=\"timer\" time=\"60.0\">1 min</span>. 3. Add fillets to skillet; cook covered, <span class=\"timer\" time=\"180.0\">3-4 mins </span>per side or until fish flakes easily with fork. Transfer to a platter. 4. Stir remaining 1 tbsp lemon juice into skillet. Drizzle sauce over fillets. Sprinkle with parsley.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> (6oz) Pollock or Cod fillets, 1/2\" thick</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tbsp fresh lemon juice</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tbsp olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> tbsp butter</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> garlic cloves, minced</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tbsp finely chopped parsley</p>\n</div>",
-    "notes": "None",
-    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories 253<br/>Carbohydrates 2 g(1%)<br/>Fat 13 g(20%)<br/>Protein 31 g(61%)<br/>Saturated Fat 6 g(31%)<br/>Sodium 95 mg(4%)<br/>Polyunsaturated Fat 1 g<br/>Fiber 0 g(1%)<br/>Monounsaturated Fat 5 g<br/>Cholesterol 96 mg(32%)<br/>per serving (4 servings) Powered by</p>\n</div>"
+    "directions": "<ol>\n<li>Drizzle fillets with 2 tbsp lemon juice, season with salt and pepper to taste 2. For the sauce, in a large skillet heat oil over med heat until hot. Add butter to melt. Add garlic; cook and stir 1 min. 3. Add fillets to skillet; cook covered, 3-4 mins per side or until fish flakes easily with fork. Transfer to a platter. 4. Stir remaining 1 tbsp lemon juice into skillet. Drizzle sauce over fillets. Sprinkle with parsley.</li>\n</ol>\n",
+    "ingredients": "<p>4 (6oz) Pollock or Cod fillets, 1/2&quot; thick\n3 tbsp fresh lemon juice\n1 tbsp olive oil\n3 tbsp butter\n4 garlic cloves, minced\n2 tbsp finely chopped parsley</p>\n",
+    "notes": "",
+    "nutrition": "<p>Calories 253\nCarbohydrates 2 g(1%)\nFat 13 g(20%)\nProtein 31 g(61%)\nSaturated Fat 6 g(31%)\nSodium 95 mg(4%)\nPolyunsaturated Fat 1 g\nFiber 0 g(1%)\nMonounsaturated Fat 5 g\nCholesterol 96 mg(32%)\nper serving (4 servings) Powered by</p>\n"
   },
   "image_url": "https://www.epicurious.com/static/img/misc/epicurious-social-logo.png",
   "ingredients": "4 (6oz) Pollock or Cod fillets, 1/2\" thick\n3 tbsp fresh lemon juice\n1 tbsp olive oil\n3 tbsp butter\n4 garlic cloves, minced\n2 tbsp finely chopped parsley",
   "name": "Pollock in Garlic-Butter Sauce",
   "notes": "",
   "nutritional_info": "Calories 253\nCarbohydrates 2 g(1%)\nFat 13 g(20%)\nProtein 31 g(61%)\nSaturated Fat 6 g(31%)\nSodium 95 mg(4%)\nPolyunsaturated Fat 1 g\nFiber 0 g(1%)\nMonounsaturated Fat 5 g\nCholesterol 96 mg(32%)\nper serving (4 servings) Powered by",
-  "photo": "D372B6DE-B7DF-4169-A3ED-8AC954471718-13891-0001023D80FD3285.jpg",
+  "photo": "144A4ACF-DD72-4557-819F-DFA391CC85A5-29546-0003F5FA1F41C790.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "5",
-  "rating": 4,
+  "rating": 0,
   "servings": "Yield 4",
   "source": "epicurious.com",
   "source_url": "https://www.epicurious.com/recipes/member/views/pollock-in-garlic-butter-sauce-51938241",
   "total_time": "",
-  "uid": "B45C4CDB-0EB2-4099-9B31-DCF1D9982EF6-13891-00010239B8BA03CE"
+  "uid": "5748EF2B-113C-4C90-BEEE-F31079456502-29546-0003F5F6A71D21D2"
 }

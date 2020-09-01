@@ -3,15 +3,16 @@
     "Vegetables"
   ],
   "cook_time": "1 hr",
-  "created": "2020-03-30 16:07:56",
+  "created": "1989-03-30 20:07:56",
+  "created_ts": 607291676,
   "description": "",
   "difficulty": "",
   "directions": "Combine all ingredients except lemon juice and garnish in a skillet with a cover; add a quarter cup of water. Bring to a boil, then cover and adjust heat so mixture simmers gently. Check every few minutes and add more water if necessary.\n\nCook until the vegetables are tender and the liquid is almost gone, about a half-hour. Uncover and boil off remaining liquid if necessary, then taste and adjust seasoning, adding lemon juice as needed. Garnish and serve hot, warm or at room temperature.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Combine all ingredients except lemon juice and garnish in a skillet with a cover; add a quarter cup of water. Bring to a boil, then cover and adjust heat so mixture simmers gently. Check every few minutes and add more water if necessary.</p><p class=\"line\">Cook until the vegetables are tender and the liquid is almost gone, about <span class=\"timer\" time=\"1800.0\">a half-hour</span>. Uncover and boil off remaining liquid if necessary, then taste and adjust seasoning, adding lemon juice as needed. Garnish and serve hot, warm or at room temperature.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> pounds carrots, peeled, trimmed and halved if more than 1/2-inch thick</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> pounds parsnips, peeled, trimmed and halved if more than 1/2-inch thick</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>4</strong> tablespoons butter or extra virgin olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\">Kosher salt and black pepper</p><p class=\"line\" itemprop=\"recipeIngredient\">Freshly squeezed lemon juice</p><p class=\"line\" itemprop=\"recipeIngredient\">Chopped fresh parsley, dill, mint, basil or chervil leaves for garnish (optional)</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>Combine all ingredients except lemon juice and garnish in a skillet with a cover; add a quarter cup of water. Bring to a boil, then cover and adjust heat so mixture simmers gently. Check every few minutes and add more water if necessary.</p>\n<p>Cook until the vegetables are tender and the liquid is almost gone, about a half-hour. Uncover and boil off remaining liquid if necessary, then taste and adjust seasoning, adding lemon juice as needed. Garnish and serve hot, warm or at room temperature.</p>\n",
+    "ingredients": "<p>2 pounds carrots, peeled, trimmed and halved if more than 1/2-inch thick\n2 pounds parsnips, peeled, trimmed and halved if more than 1/2-inch thick\n4 tablespoons butter or extra virgin olive oil\nKosher salt and black pepper\nFreshly squeezed lemon juice\nChopped fresh parsley, dill, mint, basil or chervil leaves for garnish (optional)</p>\n",
+    "notes": "",
+    "nutrition": ""
   },
   "image_url": "https://static01.nyt.com/images/2015/03/18/dining/braised-carrots/braised-carrots-articleLarge.jpg",
   "ingredients": "2 pounds carrots, peeled, trimmed and halved if more than 1/2-inch thick\n2 pounds parsnips, peeled, trimmed and halved if more than 1/2-inch thick\n4 tablespoons butter or extra virgin olive oil\nKosher salt and black pepper\nFreshly squeezed lemon juice\nChopped fresh parsley, dill, mint, basil or chervil leaves for garnish (optional)",
@@ -20,7 +21,8 @@
   "nutritional_info": "",
   "photo": "91C0C96B-2290-474F-A1F0-3E913DD75C28-16595-00010557F8B1A4F6.jpg",
   "photo_large": null,
-  "photos": false,
+  "photos": [],
+  "photos_dict": {},
   "prep_time": "",
   "rating": 0,
   "servings": "Yield 8 servings",

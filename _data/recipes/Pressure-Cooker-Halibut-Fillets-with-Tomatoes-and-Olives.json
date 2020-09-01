@@ -1,19 +1,20 @@
 {
   "categories": [
+    "White Fish",
     "Halibut",
-    "Pressure Cooker",
-    "White Fish"
+    "Pressure Cooker"
   ],
   "cook_time": "7m",
-  "created": "2020-05-14 09:32:41",
+  "created": "1989-05-14 13:32:41",
+  "created_ts": 611155961,
   "description": "",
   "difficulty": "",
   "directions": "Heat olive oil in pressure cooker over medium heat. Add chopped yellow onion and cook, stirring, until translucent, for about 3 minutes. Add garlic and cook, stirring, for a further 1 minute or less. Stir in tomatoes, olives, nuts and lime juice. Top with herb sprigs.\n\nClose pressure cooker and lock the lid. Set burner pressure to high heat. When cooker reaches high pressure, reduce heat to low. Set timer to cook for 3 minutes.\n\nOpen pressure cooker, using the Quick Release method. Place halibut fillets into the sauce.\n\nClose pressure cooker and lock the lid. Set burner pressure to high heat. When cooker reaches high pressure, reduce heat to low. Set timer to cook for 2 minutes.\n\nOpen pressure cooker, using the Quick Release method. Divide each cooked fillets into pieces. Serve with sauce in bowls.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Heat olive oil in pressure cooker over medium heat. Add chopped yellow onion and cook, stirring, until translucent, for about <span class=\"timer\" time=\"180.0\">3 minutes</span>. Add garlic and cook, stirring, for a further <span class=\"timer\" time=\"60.0\">1 minute </span>or less. Stir in tomatoes, olives, nuts and lime juice. Top with herb sprigs.</p><p class=\"line\">Close pressure cooker and lock the lid. Set burner pressure to high heat. When cooker reaches high pressure, reduce heat to low. Set timer to cook for <span class=\"timer\" time=\"180.0\">3 minutes</span>.</p><p class=\"line\">Open pressure cooker, using the Quick Release method. Place halibut fillets into the sauce.</p><p class=\"line\">Close pressure cooker and lock the lid. Set burner pressure to high heat. When cooker reaches high pressure, reduce heat to low. Set timer to cook for <span class=\"timer\" time=\"120.0\">2 minutes</span>.</p><p class=\"line\">Open pressure cooker, using the Quick Release method. Divide each cooked fillets into pieces. Serve with sauce in bowls.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons olive oil</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> medium yellow onion, peeled and chopped</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> tablespoon minced garlic</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>28</strong> oz (840 ml) can diced tomatoes</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>16</strong> large pitted green and black olives</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> tablespoons freshly squeezed lime juice</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> fresh rosemary sprigs</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> fresh oregano sprigs</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> pound (960 g) skinless halibut fillets</p><p class=\"line\" itemprop=\"recipeIngredient\">cashew nuts</p>\n</div>",
-    "notes": "<div class=\"notes text\" itemprop=\"comment\">\n<p>Was a bit firm. It might be because the instant pressure cooker doesn't let you change the temperature. I am going to try to just release and turn off heat after pressure up and count the minutes since it's a small number of minutes.</p>\n</div>",
-    "nutrition": "<div class=\"nutrition text\" itemprop=\"nutrition\">\n<p>Calories 270<br/>Fat 12 g<br/>Carbohydrate 5 g<br/>Fiber 1 g<br/>Cholesterol 50 mg<br/>Sodium 620 mg<br/>Protein 31 g</p>\n</div>"
+    "directions": "<p>Heat olive oil in pressure cooker over medium heat. Add chopped yellow onion and cook, stirring, until translucent, for about 3 minutes. Add garlic and cook, stirring, for a further 1 minute or less. Stir in tomatoes, olives, nuts and lime juice. Top with herb sprigs.</p>\n<p>Close pressure cooker and lock the lid. Set burner pressure to high heat. When cooker reaches high pressure, reduce heat to low. Set timer to cook for 3 minutes.</p>\n<p>Open pressure cooker, using the Quick Release method. Place halibut fillets into the sauce.</p>\n<p>Close pressure cooker and lock the lid. Set burner pressure to high heat. When cooker reaches high pressure, reduce heat to low. Set timer to cook for 2 minutes.</p>\n<p>Open pressure cooker, using the Quick Release method. Divide each cooked fillets into pieces. Serve with sauce in bowls.</p>\n",
+    "ingredients": "<p>2 tablespoons olive oil\n1 medium yellow onion, peeled and chopped\n1 tablespoon minced garlic\n28 oz (840 ml) can diced tomatoes\n16 large pitted green and black olives\n2 tablespoons freshly squeezed lime juice\n2 fresh rosemary sprigs\n2 fresh oregano sprigs\n2 pound (960 g) skinless halibut fillets\ncashew nuts</p>\n",
+    "notes": "<p>Was a bit firm. It might be because the instant pressure cooker doesn't let you change the temperature. I am going to try to just release and turn off heat after pressure up and count the minutes since it's a small number of minutes.</p>\n",
+    "nutrition": "<p>Calories 270\nFat 12 g\nCarbohydrate 5 g\nFiber 1 g\nCholesterol 50 mg\nSodium 620 mg\nProtein 31 g</p>\n"
   },
   "image_url": null,
   "ingredients": "2 tablespoons olive oil\n1 medium yellow onion, peeled and chopped\n1 tablespoon minced garlic\n28 oz (840 ml) can diced tomatoes\n16 large pitted green and black olives\n2 tablespoons freshly squeezed lime juice\n2 fresh rosemary sprigs\n2 fresh oregano sprigs\n2 pound (960 g) skinless halibut fillets\ncashew nuts",
@@ -28,6 +29,9 @@
       "name": "1"
     }
   ],
+  "photos_dict": {
+    "1": "083C5462-218F-4ABD-A572-D2DFA7C64D2A-29546-0000D71BFC4B5943.jpg"
+  },
   "prep_time": "10m",
   "rating": 4,
   "servings": "Yield : 4-6 serving",

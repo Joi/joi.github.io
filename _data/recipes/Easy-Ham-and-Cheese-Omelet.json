@@ -1,33 +1,35 @@
 {
   "categories": [
+    "Pork",
     "Breakfast",
-    "Egg",
-    "Pork"
+    "Egg"
   ],
-  "cook_time": "",
-  "created": "2020-02-03 17:48:31",
-  "description": "",
-  "difficulty": "",
+  "cook_time": null,
+  "created": "1989-02-02 22:48:31",
+  "created_ts": 602462911,
+  "description": null,
+  "difficulty": null,
   "directions": "Whisk eggs, pepper, and salt in bowl until eggs are thoroughly combined and mixture is pure yellow. Spray 10-inch nonstick skillet with vegetable oil spray.\n\nMelt butter in skillet over medium-high heat, swirling to coat skillet bottom. When foaming subsides, add egg mixture and cook, gently stirring and scraping bottom of skillet with rubber spatula in circular motion until large curds begin to form and bare spots are visible on bottom of skillet, about 20 seconds.\n\nTilt skillet so uncooked eggs fill bare spots. Run spatula around edge of skillet and push cooked eggs down off sides. Let cook, undisturbed, until bottom of omelet is just set but top is still slightly wet, about 30 seconds.\n\nRemove skillet from heat. Sprinkle ham and American cheese over half of omelet. Cover and let sit until cheese has melted, about 1 minute. Fold unfilled half of omelet over filled half to create half-moon shape. Holding plate in 1 hand, tilt skillet to slide omelet onto plate. Serve.",
   "html": {
-    "directions": "<div class=\"directions text\" itemprop=\"recipeInstructions\">\n<p class=\"line\">Whisk eggs, pepper, and salt in bowl until eggs are thoroughly combined and mixture is pure yellow. Spray 10-inch nonstick skillet with vegetable oil spray.</p><p class=\"line\">Melt butter in skillet over medium-high heat, swirling to coat skillet bottom. When foaming subsides, add egg mixture and cook, gently stirring and scraping bottom of skillet with rubber spatula in circular motion until large curds begin to form and bare spots are visible on bottom of skillet, about <span class=\"timer\" time=\"20.0\">20 seconds</span>.</p><p class=\"line\">Tilt skillet so uncooked eggs fill bare spots. Run spatula around edge of skillet and push cooked eggs down off sides. Let cook, undisturbed, until bottom of omelet is just set but top is still slightly wet, about <span class=\"timer\" time=\"30.0\">30 seconds</span>.</p><p class=\"line\">Remove skillet from heat. Sprinkle ham and American cheese over half of omelet. Cover and let sit until cheese has melted, about <span class=\"timer\" time=\"60.0\">1 minute</span>. Fold unfilled half of omelet over filled half to create half-moon shape. Holding plate in 1 hand, tilt skillet to slide omelet onto plate. Serve.</p>\n</div>",
-    "ingredients": "<div class=\"ingredients text\">\n<p class=\"line\" itemprop=\"recipeIngredient\">GATHER YOUR INGREDIENTS</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>3</strong> large eggs</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>⅛</strong> teaspoon pepper</p><p class=\"line\" itemprop=\"recipeIngredient\">Pinch salt</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>½</strong> tablespoon unsalted butter</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>2</strong> ounces ham steak, rind removed, cut into ¼-inch pieces</p><p class=\"line\" itemprop=\"recipeIngredient\"><strong>1</strong> slice deli American cheese, torn into 1-inch pieces</p>\n</div>",
-    "notes": "None",
-    "nutrition": "None"
+    "directions": "<p>Whisk eggs, pepper, and salt in bowl until eggs are thoroughly combined and mixture is pure yellow. Spray 10-inch nonstick skillet with vegetable oil spray.</p>\n<p>Melt butter in skillet over medium-high heat, swirling to coat skillet bottom. When foaming subsides, add egg mixture and cook, gently stirring and scraping bottom of skillet with rubber spatula in circular motion until large curds begin to form and bare spots are visible on bottom of skillet, about 20 seconds.</p>\n<p>Tilt skillet so uncooked eggs fill bare spots. Run spatula around edge of skillet and push cooked eggs down off sides. Let cook, undisturbed, until bottom of omelet is just set but top is still slightly wet, about 30 seconds.</p>\n<p>Remove skillet from heat. Sprinkle ham and American cheese over half of omelet. Cover and let sit until cheese has melted, about 1 minute. Fold unfilled half of omelet over filled half to create half-moon shape. Holding plate in 1 hand, tilt skillet to slide omelet onto plate. Serve.</p>\n",
+    "ingredients": "<p>GATHER YOUR INGREDIENTS\n3 large eggs\n⅛ teaspoon pepper\nPinch salt\n½ tablespoon unsalted butter\n2 ounces ham steak, rind removed, cut into ¼-inch pieces\n1 slice deli American cheese, torn into 1-inch pieces</p>\n",
+    "notes": "<p>None</p>\n",
+    "nutrition": "<p>None</p>\n"
   },
   "image_url": "https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/41120-sfs-ham-cheese-omelet-14",
   "ingredients": "GATHER YOUR INGREDIENTS\n3 large eggs\n⅛ teaspoon pepper\nPinch salt\n½ tablespoon unsalted butter\n2 ounces ham steak, rind removed, cut into ¼-inch pieces\n1 slice deli American cheese, torn into 1-inch pieces",
   "name": "Easy Ham and Cheese Omelet",
-  "notes": "",
-  "nutritional_info": "",
+  "notes": null,
+  "nutritional_info": null,
   "photo": "7D463F4B-8732-4AE3-A6DC-1185B0470359-408-000065EFCE467A94.jpg",
   "photo_large": null,
-  "photos": false,
-  "prep_time": "",
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": null,
   "rating": 0,
   "servings": "1 omelet",
   "source": "cookscountry.com",
   "source_url": "https://www.cookscountry.com/recipes/11028-easy-ham-and-cheese-omelet?extcode=MCSKD10L0&ref=new_search_experience_4&t=1580770059",
-  "total_time": "",
+  "total_time": null,
   "uid": "975D913F-32E8-4ED1-A919-C061D9FCC8BC-408-000065EC77DB4640"
 }
