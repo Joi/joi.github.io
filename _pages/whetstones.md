@@ -39,6 +39,7 @@ title: "Whetstones"
 | Shobundani | Awasedo| Mizu Asagi |
 | Amakusa | Nakato | Binsui |
 | Ohira | Awasedo | Asagi |
+| Ozuku | Awasedo | Asagi |
 | Hideriyama | Suita | Renga |
 | Mikawa | Botan Nagura | |
 |Mikawa | Tenjyou Nagura | |
