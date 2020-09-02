@@ -16,9 +16,12 @@ title: "Whetstones"
 | Atoma | 600 | Diamond Plate |
 | Naniwa | 600 | Nagura Dressing Stone |
 | Yoshihiro | 1000 | Professional Grade Toishi |
+| Shapton | 1500 | Kuromaku Professional |
 | Yoshihiro | 3000 | Professional Grade Toishi |
 | Naniwa | 5000 | Professional Stone |
+| Shapton | 5000 | Kuromaku Professional |
 | Naniwa | 8000 | Junpaku |
+| Shapton | 8000 | Kuromaku Professional |
 | Naniwa | 10000 | Professional Stone |
 | Naniwa | 12000 | Nagura |
 
