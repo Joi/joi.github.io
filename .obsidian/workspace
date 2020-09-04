@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/whetstones.md",
+            "file": "_posts/2020-09-03-Pressure-Cooker.md",
             "mode": "source"
           }
         }
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 403
   },
   "right": {
     "id": "88fefedf743ac8e6",
@@ -80,10 +80,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_pages/whetstones.md",
+    "_posts/2020-09-03-Pressure-Cooker.md",
     "_posts/2020-08-17-prime-rib.md",
-    "_posts/2020-07-14-crown-roast-of-lamb.md",
-    "_posts/2020-08-12-reverse-sear-redux.md",
-    "_posts/2020-07-10-health.md"
+    "_recipes/Instant-Pot-Beef-Back-Ribs.md",
+    "_recipes/Instant-Pot-Short-Ribs.md",
+    "_posts/Untitled.md"
   ]
 }
