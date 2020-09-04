@@ -14,3 +14,8 @@ Also, the dates on the posts are slightly problematic. Do I use the date that I 
 I actually have the same problem when I'm just note taking in [Obsidian](https://obsidian.md/), which is what I'm using to author right now. Do I make a single document for a topic or do I make a document for each meeting and scatter thoughts about a topic across multiple documents and link them with hashtags and links?
 
 So back to brisket. I'm going to start googling recipes and park them here for now... but I'm not going to cook the brisket until Sunday or Monday. But the 5 lb brisket I ordered from Savenor's is coming on Sunday. :-)
+
+- [Fairly standard Beef Brisket in a dutch oven in oven - 4 hours](https://www.foodnetwork.com/recipes/tyler-florence/beef-brisket-recipe-1953114)
+- [Similar recipe but calling for 2 hrs at a higher temperature instead of 4](https://www.allrecipes.com/recipe/273034/easy-baked-beef-brisket/)
+- [Another recipe with more elaborate rub and recipes for 8-10 hr slow cooker, 3-4 hour oven or 1.5 hr pressure cooker versions](https://cafedelites.com/beef-brisket/)
+- [Recipe with caramelized onions and lots of info about briskets](https://dinnerthendessert.com/easy-beef-brisket-recipe/)
