@@ -102,7 +102,7 @@ layout: default
 					{% endif %}
 					<div class="recipe-deets">
 					<div class="recipe-name"
-									aria-label="{{json_data.ingredients | markdownify | strip_html | normalize_whitespace | truncate: 250 | newline_to_br}}"
+									aria-label="Ingredients: {{json_data.ingredients | truncate: 250}}"
 									alt="{{ recipe.title }}">{{ recipe.title }}</div>
 					{% if json_data.categories %}
 						<div class="recipe-cats">
