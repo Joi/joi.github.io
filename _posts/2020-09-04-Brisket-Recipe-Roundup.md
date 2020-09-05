@@ -7,7 +7,7 @@ Lately, kind of like the way that Nosrat describes in [Salt, Fat, Acid, Heat](ht
 
 I take notes and then try to experiment and iterate to refine "my" recipe. The current note taking and knowledge management system isn't perfect for this. Currently, I have recipes and posts. Recipes are either authored or downloaded and are sort of snapshots of a recipe. Posts are delineated by date and have tags.
 
-The recipes aren't dynamic enough - I feel like I should be taking notes and documenting stuff right in the recipes - for instance, having a master recipe for Roast Brisket with links to other recipes, notes from experiments and underlying sub-recipes and ideas such as [[2020-08-02-reverse-sear|Reverse Sear]].
+The recipes aren't dynamic enough - I feel like I should be taking notes and documenting stuff right in the recipes - for instance, having a master recipe for roast brisket with links to other recipes, notes from experiments and underlying sub-recipes and ideas such as [[2020-08-02-reverse-sear|Reverse Sear]].
 
 Also, the dates on the posts are slightly problematic. Do I use the date that I did the cooking? Do I use the date that I'm writing the thing? What if a particular project, like my brisket project, take more than one day? Do I break it up into daily updates?
 
@@ -19,3 +19,9 @@ So back to brisket. I'm going to start googling recipes and park them here for n
 - [Similar recipe but calling for 2 hrs at a higher temperature instead of 4](https://www.allrecipes.com/recipe/273034/easy-baked-beef-brisket/)
 - [Another recipe with more elaborate rub and recipes for 8-10 hr slow cooker, 3-4 hour oven or 1.5 hr pressure cooker versions](https://cafedelites.com/beef-brisket/)
 - [Recipe with caramelized onions and lots of info about briskets](https://dinnerthendessert.com/easy-beef-brisket-recipe/)
+- [A NYT article about brisket](https://www.nytimes.com/2019/05/24/dining/smoked-brisket.html)
+- [Epicurious roundup of 27 brisket recipes](https://www.epicurious.com/recipes-menus/our-best-briskets-gallery)
+- [Bon Appetit tips on brisket](https://www.bonappetit.com/story/how-to-cook-brisket)
+- [Mamaleh's Brisket recipe](https://www.bonappetit.com/recipe/mamalehs-brisket)
+
+Reading some of the recipes, I realized that I need to decide whether this will be a one day affair or a two day affair. I guess doing a lot of the cooking on Sunday and finishing on Monday might work.
