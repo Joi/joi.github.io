@@ -389,6 +389,17 @@ label.srs-toggle {
 }
 
 /* CUSTOM */
+a:hover,
+#header-menu .menu a:hover {
+	color: #c30;
+}
+a:active,
+#header-menu .menu a:active {
+  color: #f60;
+}
+.content a {
+	text-decoration: underline dotted currentColor 1px;
+}
 .box-ingredients h1,
 .box-ingredients h2,
 .box-ingredients h3,
