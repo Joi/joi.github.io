@@ -389,6 +389,16 @@ label.srs-toggle {
 }
 
 /* CUSTOM */
+.box-ingredients h1,
+.box-ingredients h2,
+.box-ingredients h3,
+.box-directions h1,
+.box-directions h2,
+.box-directions h3 {
+	font-size: 1rem;
+	font-weight: bold;
+}
+
 .box-ingredients ul {
 	margin-left: .9em;
 }
