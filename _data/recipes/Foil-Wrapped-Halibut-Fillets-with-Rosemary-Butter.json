@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Fish",
+    "White Fish",
+    "Halibut"
+  ],
+  "cook_time": "",
+  "created": "2020-06-01 12:47:47",
+  "created_ts": 1591015667,
+  "description": "",
+  "difficulty": "",
+  "directions": "Step\n\nPreheat the oven to 450°. Cut four 12-inch sheets of heavy-duty aluminum foil. Season the fish with salt and pepper. Place 1/2 teaspoon of butter in the center of each foil sheet. Lay a fillet on each sheet and top with 1/2 teaspoon of butter and one 4-inch sprig of rosemary. Enclose the fish in foil, crimping the edges to form a tight seal. Bake for 1- minutes, or until the fish is opaque throughout. Transfer the fish to plates and garnish with rosemary sprigs.",
+  "html": {
+    "description": "",
+    "directions": "<p>Step</p>\n<p>Preheat the oven to 450°. Cut four 12-inch sheets of heavy-duty aluminum foil. Season the fish with salt and pepper. Place 1/2 teaspoon of butter in the center of each foil sheet. Lay a fillet on each sheet and top with 1/2 teaspoon of butter and one 4-inch sprig of rosemary. Enclose the fish in foil, crimping the edges to form a tight seal. Bake for 1- minutes, or until the fish is opaque throughout. Transfer the fish to plates and garnish with rosemary sprigs.</p>\n",
+    "ingredients": "<ul><li>Four 6-ounce halibut fillets, about 1 inch thick</li>\n<li>Salt and freshly ground pepper</li>\n<li>4 teaspoons unsalted butter</li>\n<li>Four 4-inch rosemary sprigs, plus longer sprigs for garnish</li>\n</ul>\n",
+    "notes": "",
+    "nutrition": ""
+  },
+  "image_url": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fwww.foodandwine.com%2Fimg%2Ficons%2Fmissing-image-4x3.png",
+  "ingredients": "Four 6-ounce halibut fillets, about 1 inch thick\nSalt and freshly ground pepper\n4 teaspoons unsalted butter\nFour 4-inch rosemary sprigs, plus longer sprigs for garnish",
+  "name": "Foil-Wrapped Halibut Fillets with Rosemary Butter",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "FBFC25C7-A22E-4A44-B31B-977212982AD8-29546-0004CF66FBE72356.jpg",
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Serves : 4",
+  "source": "foodandwine.com",
+  "source_url": "https://www.foodandwine.com/recipes/foil-wrapped-halibut-fillets-with-rosemary-butter",
+  "total_time": "",
+  "uid": "B2F43C13-E327-4941-99B8-26B672972790-29546-0004CF64223F676A"
+}

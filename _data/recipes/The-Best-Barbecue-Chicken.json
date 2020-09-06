@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Chicken"
+  ],
+  "cook_time": "1 hour 15 minutes",
+  "created": "2020-09-05 23:51:55",
+  "created_ts": 1599349915,
+  "description": null,
+  "difficulty": null,
+  "directions": "1. Pat chicken dry with paper towels and place breast-side-down on a large cutting board. Using sharp kitchen shears, remove the backbone by cutting along either side of it. Turn chicken over and lay out flat. Press firmly on breast to flatten the chicken. For added stability, run a metal or wooden skewer horizontally, entering through one thigh, going through both breast halves, and exiting through the other thigh. Tuck wing tips behind back. Season generously with salt and pepper.\n\n2. Combine salt, brown sugar, black pepper, chili powder, coriander seed, and garlic in a small bowl and massage with fingertips until homogenous. Spread mixture evenly over all surfaces of chicken.\n\n3. Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and spread the coals evenly over half of coal grate. Alternatively, set half the burners of a gas grill to high heat. Set cooking grate in place, cover grill and allow to preheat for 5 minutes. Clean and oil the grilling grate. If using charcoal, place hardwood chunks directly on coal. If using gas, place on grate above lit burners.\n\n4. Place chicken skin side up over cooler side of grill with legs pointed towards hotter side. Close grill and cook until center of thickest part of chicken registers 120°F on an instant read thermometer, 35 to 45 minutes. Brush top of chicken with barbecue sauce. Cover and continue cooking for 5 minutes until sauce is beginning to dry. Brush with more sauce, cover, and continue to cook for until thickest part of breast registers 135°F on an instant read thermometer, about 5 minutes longer. Using tongs and a flexible metal spatula, carefully flip the bird and place it skin side-down directly over the coals. Brush back of chicken with more sauce. Continue to cook, covered, until brown, crisp, charred in spots, and thickest part of breast registers 150°F on an instant read thermometer, 7 to 10 minutes longer. If bird threatens to burn before temperature is achieved, carefully slide to cooler side of grill, cover, and cook until done. Remove from grill, let rest 10 minutes, carve, and serve.",
+  "html": {
+    "description": "<p>None</p>\n",
+    "directions": "<ol>\n<li>\n<p>Pat chicken dry with paper towels and place breast-side-down on a large cutting board. Using sharp kitchen shears, remove the backbone by cutting along either side of it. Turn chicken over and lay out flat. Press firmly on breast to flatten the chicken. For added stability, run a metal or wooden skewer horizontally, entering through one thigh, going through both breast halves, and exiting through the other thigh. Tuck wing tips behind back. Season generously with salt and pepper.</p>\n</li>\n<li>\n<p>Combine salt, brown sugar, black pepper, chili powder, coriander seed, and garlic in a small bowl and massage with fingertips until homogenous. Spread mixture evenly over all surfaces of chicken.</p>\n</li>\n<li>\n<p>Light one chimney full of charcoal. When all the charcoal is lit and covered with gray ash, pour out and spread the coals evenly over half of coal grate. Alternatively, set half the burners of a gas grill to high heat. Set cooking grate in place, cover grill and allow to preheat for 5 minutes. Clean and oil the grilling grate. If using charcoal, place hardwood chunks directly on coal. If using gas, place on grate above lit burners.</p>\n</li>\n<li>\n<p>Place chicken skin side up over cooler side of grill with legs pointed towards hotter side. Close grill and cook until center of thickest part of chicken registers 120°F on an instant read thermometer, 35 to 45 minutes. Brush top of chicken with barbecue sauce. Cover and continue cooking for 5 minutes until sauce is beginning to dry. Brush with more sauce, cover, and continue to cook for until thickest part of breast registers 135°F on an instant read thermometer, about 5 minutes longer. Using tongs and a flexible metal spatula, carefully flip the bird and place it skin side-down directly over the coals. Brush back of chicken with more sauce. Continue to cook, covered, until brown, crisp, charred in spots, and thickest part of breast registers 150°F on an instant read thermometer, 7 to 10 minutes longer. If bird threatens to burn before temperature is achieved, carefully slide to cooler side of grill, cover, and cook until done. Remove from grill, let rest 10 minutes, carve, and serve.</p>\n</li>\n</ol>\n",
+    "ingredients": "<ul><li>1 whole large chicken, about 6 to 8 pounds</li>\n<li>1 tablespoon kosher salt</li>\n<li>1 tablespoon brown sugar</li>\n<li>1 teaspoon black pepper</li>\n<li>1 teaspoon chili powder</li>\n<li>1 teaspoon ground coriander seed</li>\n<li>2 medium cloves garlic, minced on a microplane grater</li>\n<li>2 cups Kansas City-style Barbecue Sauce, or your favorite barbecue sauce</li>\n<li>2 chunks hardwood, soaked in water for 30 minutes</li>\n</ul>\n",
+    "notes": "<p>None</p>\n",
+    "nutrition": "<p>None</p>\n"
+  },
+  "image_url": "https://www.seriouseats.com/recipes/images/2012/08/20120805-food-lab-grilled-chicken-24-200x150.jpg",
+  "ingredients": "1 whole large chicken, about 6 to 8 pounds\n1 tablespoon kosher salt\n1 tablespoon brown sugar\n1 teaspoon black pepper\n1 teaspoon chili powder\n1 teaspoon ground coriander seed\n2 medium cloves garlic, minced on a microplane grater\n2 cups Kansas City-style Barbecue Sauce, or your favorite barbecue sauce\n2 chunks hardwood, soaked in water for 30 minutes",
+  "name": "The Best Barbecue Chicken",
+  "notes": null,
+  "nutritional_info": null,
+  "photo": "F9CFB518-4C4B-4B8D-A2C4-C4A9B78CBC13-9986-00000716520B46D2.jpg",
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "30 minutes",
+  "rating": 0,
+  "servings": "Serves about 6",
+  "source": "seriouseats.com",
+  "source_url": "https://www.seriouseats.com/recipes/2012/08/the-best-barbecue-chicken-recipe.html",
+  "total_time": null,
+  "uid": "9FBA76EE-6738-4452-B787-C384FD705471-9986-0000071648341877"
+}

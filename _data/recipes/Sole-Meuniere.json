@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Sole"
+  ],
+  "cook_time": "20 minutes",
+  "created": "2020-07-31 11:14:42",
+  "created_ts": 1596194082,
+  "description": null,
+  "difficulty": "",
+  "directions": "Heat oven to 200 degrees and place a large oven-safe plate or baking sheet inside.\n\nPlace flour on a large, shallow plate. Season both sides of fish fillets with salt and pepper to taste. Dredge fish in flour, shaking off excess.\n\nIn a 12-inch nonstick or enamel-lined skillet over medium-high heat, heat 2 tablespoons clarified butter until bubbling. Place half of the fish fillets in the pan and cook until just done, 2 to 3 minutes per side, then transfer to the plate or baking sheet in the oven to keep warm. Add 2 more tablespoons clarified butter to skillet and heat until bubbling, then cook remaining fillets. Wipe out the skillet.\n\nArrange the fish on a warm serving platter. Top with parsley. In reserved skillet, heat remaining 4 tablespoons unsalted butter until bubbling and golden, 1 to 2 minutes, then pour evenly over fillets. Serve immediately, with lemon wedges on the side.",
+  "html": {
+    "description": "<p>None</p>\n",
+    "directions": "<p>Heat oven to 200 degrees and place a large oven-safe plate or baking sheet inside.</p>\n<p>Place flour on a large, shallow plate. Season both sides of fish fillets with salt and pepper to taste. Dredge fish in flour, shaking off excess.</p>\n<p>In a 12-inch nonstick or enamel-lined skillet over medium-high heat, heat 2 tablespoons clarified butter until bubbling. Place half of the fish fillets in the pan and cook until just done, 2 to 3 minutes per side, then transfer to the plate or baking sheet in the oven to keep warm. Add 2 more tablespoons clarified butter to skillet and heat until bubbling, then cook remaining fillets. Wipe out the skillet.</p>\n<p>Arrange the fish on a warm serving platter. Top with parsley. In reserved skillet, heat remaining 4 tablespoons unsalted butter until bubbling and golden, 1 to 2 minutes, then pour evenly over fillets. Serve immediately, with lemon wedges on the side.</p>\n",
+    "ingredients": "<ul><li>½ cup all-purpose flour</li>\n<li>6 4-ounce skinless, boneless sole or other thin fish fillets, patted dry</li>\n<li>Kosher salt, to taste</li>\n<li>Freshly ground white or black pepper, to taste</li>\n<li>4 tablespoons clarified butter</li>\n<li>4 tablespoons unsalted butter, diced, at room temperature</li>\n<li>3 tablespoons minced parsley</li>\n<li>1 lemon, cut into wedges, for serving</li>\n</ul>\n",
+    "notes": "<p>None</p>\n",
+    "nutrition": "<p>None</p>\n"
+  },
+  "image_url": "https://static01.nyt.com/images/2017/01/13/dining/13COOKING-SOLE-MEUNIERE2/13COOKING-SOLE-MEUNIERE2-videoHpMedium.jpg",
+  "ingredients": "½ cup all-purpose flour\n6 4-ounce skinless, boneless sole or other thin fish fillets, patted dry\nKosher salt, to taste\nFreshly ground white or black pepper, to taste\n4 tablespoons clarified butter\n4 tablespoons unsalted butter, diced, at room temperature\n3 tablespoons minced parsley\n1 lemon, cut into wedges, for serving",
+  "name": "Sole Meunière",
+  "notes": null,
+  "nutritional_info": null,
+  "photo": "6F22A899-D008-4069-9053-CE46A9D7FFEE-22830-0000100207793ED9.jpg",
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Yield 6 servings",
+  "source": "cooking.nytimes.com",
+  "source_url": "https://cooking.nytimes.com/recipes/1018509-sole-meuniere",
+  "total_time": "",
+  "uid": "8BD3439A-B5C7-4F08-AB16-6B7FAC37FF17-22830-00001001DED2BBE9"
+}

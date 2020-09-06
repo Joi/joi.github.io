@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Chicken",
+    "Soup"
+  ],
+  "cook_time": "",
+  "created": "2020-09-01 18:05:51",
+  "created_ts": 1598983551,
+  "description": "Keep chicken parts and veggies like leeks, celery greens and parsley stems in freezer until out of frozen chicken stock or freezer is full of frozen chicken parts. Make the stock and freeze in quart bags and make ¼ cup cubes with big ice maker mold. Use stock for everything.\n\nInspired by Nosrat's recipe.",
+  "difficulty": "",
+  "directions": "Put chicken parts, veggies and spices in big stock pot - I use a lobster pot. Remember - **NO SALT**. Save the salt for whatever cooking you will use the stock in.\n\nAdd water and bring to a boil over high heat and then turn down to a simmer. Skim the foam and add the vinegar.\n\nSimmer uncovered for 6 to 8 hours. Never boil or allow to \"roll\" if you want to stock to stay clear.\n\nStrain and cool.\n\nScrape fat and freeze to use for other cooking suck as confit.\n\nRefrigerate stock for up to 5 days and freezer for much longer. I use quart ziplock bags.",
+  "html": {
+    "description": "<p>Keep chicken parts and veggies like leeks, celery greens and parsley stems in freezer until out of frozen chicken stock or freezer is full of frozen chicken parts. Make the stock and freeze in quart bags and make ¼ cup cubes with big ice maker mold. Use stock for everything.</p>\n<p>Inspired by Nosrat's recipe.</p>\n",
+    "directions": "<p>Put chicken parts, veggies and spices in big stock pot - I use a lobster pot. Remember - <strong>NO SALT</strong>. Save the salt for whatever cooking you will use the stock in.</p>\n<p>Add water and bring to a boil over high heat and then turn down to a simmer. Skim the foam and add the vinegar.</p>\n<p>Simmer uncovered for 6 to 8 hours. Never boil or allow to &quot;roll&quot; if you want to stock to stay clear.</p>\n<p>Strain and cool.</p>\n<p>Scrape fat and freeze to use for other cooking suck as confit.</p>\n<p>Refrigerate stock for up to 5 days and freezer for much longer. I use quart ziplock bags.</p>\n",
+    "ingredients": "<ul><li>7 pounds chicken parts</li>\n<li>7 quarts water</li>\n<li>2 onions, unpeeled, quartered</li>\n<li>2 carrots, peeled and halved crosswise</li>\n<li>2 celery stalks, halved crosswise</li>\n<li>1 teaspoon black peppercorns</li>\n<li>2 bay leaves</li>\n<li>4 thyme sprigs</li>\n<li>5 parsley sprigs or 10 stems</li>\n<li>1 teaspoon white wine vinegar </li>\n</ul>\n",
+    "notes": "",
+    "nutrition": ""
+  },
+  "image_url": null,
+  "ingredients": "7 pounds chicken parts\n7 quarts water\n2 onions, unpeeled, quartered\n2 carrots, peeled and halved crosswise\n2 celery stalks, halved crosswise\n1 teaspoon black peppercorns\n2 bay leaves\n4 thyme sprigs\n5 parsley sprigs or 10 stems\n1 teaspoon white wine vinegar ",
+  "name": "Joi's Chicken Stock",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": null,
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "",
+  "rating": 5,
+  "servings": "",
+  "source": "Salt, Fat, Acid, Heat",
+  "source_url": "",
+  "total_time": "",
+  "uid": "F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C"
+}

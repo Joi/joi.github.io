@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Pasta"
+  ],
+  "cook_time": "",
+  "created": "2020-09-05 15:26:06",
+  "created_ts": 1599319566,
+  "description": "Using Béchamel instead of Ricotta cheese ",
+  "difficulty": "",
+  "directions": "**Pasta**\n\nBoil pasta with oil. Cool in bowl of cold water to prevent sticking.\n\n**Meat Sauce**\n\nHeat oil in pot and soften onion and carrots - about 8 min. Then add garlic for 30 sec until fragrant.\n\nAdd meat and break up and brown. Reduce and evaporate sauce.\n\nDeglaze with wine and reduce.\n\nAdd tomato sauce, paste, crushed, herbs and bring to simmer. Season with salt and pepper and cook for 20-30 min or longer or do this in a pressure cooker for 20 min.\n\n**Béchamel**\n\nMelt butter over high heat.\n\nRemove from heat, add flour and whisk for 30 sec until well blended.\n\nHeat on low and whisk in half of the milk. Once well blended, add remaining milk in bits and mix and prevent lumping as you add. Should be creamy.\n\nIncrease heat to medium and stir until thicker - about 6 min.\n\nAdd parmesan cheese and remove from heat. Stir until cheese is melted and season.\n\n**Oven**\n\nPreheat oven for 375ºF\n\n**Layers**\n\nAdd meat, lasagna sheets, meat (⅓ of remaining), white sauce (⅓ of remaining), mozzarella (⅓ of remaining), sheets, meat (½ of remaining), white sauce (½ of remaining), mozzarella (½ of remaining), sheets, remaining meat sauce, remaining white sauce, remaining cheese.\n\nBake for 45 minutes. Uncover in the last 10 minutes, then rest for 20 min.\n\nSprinkle with parsley.",
+  "html": {
+    "description": "<p>Using Béchamel instead of Ricotta cheese</p>\n",
+    "directions": "<p><strong>Pasta</strong></p>\n<p>Boil pasta with oil. Cool in bowl of cold water to prevent sticking.</p>\n<p><strong>Meat Sauce</strong></p>\n<p>Heat oil in pot and soften onion and carrots - about 8 min. Then add garlic for 30 sec until fragrant.</p>\n<p>Add meat and break up and brown. Reduce and evaporate sauce.</p>\n<p>Deglaze with wine and reduce.</p>\n<p>Add tomato sauce, paste, crushed, herbs and bring to simmer. Season with salt and pepper and cook for 20-30 min or longer or do this in a pressure cooker for 20 min.</p>\n<p><strong>Béchamel</strong></p>\n<p>Melt butter over high heat.</p>\n<p>Remove from heat, add flour and whisk for 30 sec until well blended.</p>\n<p>Heat on low and whisk in half of the milk. Once well blended, add remaining milk in bits and mix and prevent lumping as you add. Should be creamy.</p>\n<p>Increase heat to medium and stir until thicker - about 6 min.</p>\n<p>Add parmesan cheese and remove from heat. Stir until cheese is melted and season.</p>\n<p><strong>Oven</strong></p>\n<p>Preheat oven for 375ºF</p>\n<p><strong>Layers</strong></p>\n<p>Add meat, lasagna sheets, meat (⅓ of remaining), white sauce (⅓ of remaining), mozzarella (⅓ of remaining), sheets, meat (½ of remaining), white sauce (½ of remaining), mozzarella (½ of remaining), sheets, remaining meat sauce, remaining white sauce, remaining cheese.</p>\n<p>Bake for 45 minutes. Uncover in the last 10 minutes, then rest for 20 min.</p>\n<p>Sprinkle with parsley.</p>\n",
+    "ingredients": "<ul><li>**Meat Sauce**</li>\n<li>1 tbsp olive oil</li>\n<li>½ onion, finely chopped</li>\n<li>½ carrot, finely diced</li>\n<li>2 cloves garlic cloves, minced</li>\n<li>16 oz ground beef</li>\n<li>8 oz Italian sausage</li>\n<li>12 oz Passata</li>\n<li>14 oz crushed tomatoes</li>\n<li>2 tbsp tomato paste</li>\n<li>1 tbsp fresh oregano</li>\n<li>1 tbsp fresh basil</li>\n<li>¼ cup red wine</li>\n<li>Salt and pepper</li>\n<li>**Béchamel**</li>\n<li>2 tbsp butter</li>\n<li>⅛ cup flour</li>\n<li>1 cup fresh shredded parmesan</li>\n<li>1 ½ cup milk</li>\n<li>**Lasagna**</li>\n<li>8 oz fresh lasagna sheets</li>\n<li>12 oz fresh mozzarella cheese, shredded</li>\n<li>1 tbsp finely chopped fresh parsley</li>\n</ul>\n",
+    "notes": "<p>None</p>\n",
+    "nutrition": "<p>None</p>\n"
+  },
+  "image_url": null,
+  "ingredients": "**Meat Sauce**\n1 tbsp olive oil\n½ onion, finely chopped\n½ carrot, finely diced\n2 cloves garlic cloves, minced\n16 oz ground beef\n8 oz Italian sausage\n12 oz Passata\n14 oz crushed tomatoes\n2 tbsp tomato paste\n1 tbsp fresh oregano\n1 tbsp fresh basil\n¼ cup red wine\nSalt and pepper\n\n**Béchamel**\n2 tbsp butter\n⅛ cup flour\n1 cup fresh shredded parmesan\n1 ½ cup milk\n\n**Lasagna**\n8 oz fresh lasagna sheets\n12 oz fresh mozzarella cheese, shredded\n\n1 tbsp finely chopped fresh parsley\n",
+  "name": "Joi's Lasagna",
+  "notes": null,
+  "nutritional_info": null,
+  "photo": "A738C184-D910-47BB-8B63-0688F47B2CA8-50715-0006E3A5B4A3BDE7.jpg",
+  "photo_large": "B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg",
+  "photos": [
+    {
+      "filename": "B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg",
+      "name": "1"
+    },
+    {
+      "filename": "0B078906-6297-4532-B14C-F04BABC90416-50715-0006E3A5256FFC07.jpg",
+      "name": "2"
+    }
+  ],
+  "photos_dict": {
+    "1": "B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg",
+    "2": "0B078906-6297-4532-B14C-F04BABC90416-50715-0006E3A5256FFC07.jpg"
+  },
+  "prep_time": "",
+  "rating": 5,
+  "servings": "6",
+  "source": "",
+  "source_url": "",
+  "total_time": "",
+  "uid": "6F6C35A4-9968-4D48-BB77-EB7ACB3DB08B-50715-0006C481622BC914"
+}

@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Lamb"
+  ],
+  "cook_time": "30 min",
+  "created": "2020-07-12 23:04:30",
+  "created_ts": 1594595070,
+  "description": "",
+  "difficulty": "",
+  "directions": "Preheat the oven to 375 degrees F.\n\nTo french the racks of lamb:\n\nMake a cut on the fat side of the ribs, perpendicular to them, about 2 1/2-inches down from the rib ends. Cut through the fat down to the rib bones. Turn the rack on end, with the bones facing up and push a knife through the flesh between each rib, using the initial cut as a guide for the knife. Cut down the side of each rib to remove the excess fat in between each rib. Using strong kitchen twine, wrap the twine around each rib at the base, nearest the meat and pull to remove all of the remaining fat and sinew from the rib bone. Bend each rack into a semicircle (meat side in and fat side out) and using kitchen twine tie them together at the base and center, in order to hold the racks together. The rib ends should be pushed outward to create the look of a crown. Rub the lamb with the olive oil. Combine the salt, pepper, garlic, thyme and coriander and press all over the lamb. Place the roast in a Bundt pan with the center of the pan coming up through the middle of the roast. Place on the middle rack of the oven and cook for 30 to 35 minutes, until the meat reaches an internal temperature of 130 degrees F. This is approximately 8 to 12 minutes per pound. Remove from the oven, transfer the roast to a rack, cover with aluminum foil and let the meat rest for 20 minutes. While the meat is resting add the sherry vinegar, mustard and rosemary to the juices that accumulated in the Bundt pan while cooking. Stir to combine. Taste and adjust seasoning, as needed. Cut the string away from the roast and place cooked stuffing, rice or barley in the center if desired. Serve the warm sauce with the roast.",
+  "html": {
+    "description": "",
+    "directions": "<p>Preheat the oven to 375 degrees F.</p>\n<p>To french the racks of lamb:</p>\n<p>Make a cut on the fat side of the ribs, perpendicular to them, about 2 1/2-inches down from the rib ends. Cut through the fat down to the rib bones. Turn the rack on end, with the bones facing up and push a knife through the flesh between each rib, using the initial cut as a guide for the knife. Cut down the side of each rib to remove the excess fat in between each rib. Using strong kitchen twine, wrap the twine around each rib at the base, nearest the meat and pull to remove all of the remaining fat and sinew from the rib bone. Bend each rack into a semicircle (meat side in and fat side out) and using kitchen twine tie them together at the base and center, in order to hold the racks together. The rib ends should be pushed outward to create the look of a crown. Rub the lamb with the olive oil. Combine the salt, pepper, garlic, thyme and coriander and press all over the lamb. Place the roast in a Bundt pan with the center of the pan coming up through the middle of the roast. Place on the middle rack of the oven and cook for 30 to 35 minutes, until the meat reaches an internal temperature of 130 degrees F. This is approximately 8 to 12 minutes per pound. Remove from the oven, transfer the roast to a rack, cover with aluminum foil and let the meat rest for 20 minutes. While the meat is resting add the sherry vinegar, mustard and rosemary to the juices that accumulated in the Bundt pan while cooking. Stir to combine. Taste and adjust seasoning, as needed. Cut the string away from the roast and place cooked stuffing, rice or barley in the center if desired. Serve the warm sauce with the roast.</p>\n",
+    "ingredients": "<ul><li>2 racks lamb, 6 to 8 ribs each, approximately 1 1/2 to 2-pounds each</li>\n<li>1 tablespoon olive oil</li>\n<li>1 teaspoon kosher salt</li>\n<li>1/2 teaspoon freshly ground black pepper</li>\n<li>6 cloves garlic, minced</li>\n<li>4 teaspoons fresh thyme, chopped</li>\n<li>1 1/2 teaspoons ground coriander</li>\n<li>1 to 1 1/2 tablespoons sherry vinegar</li>\n<li>1/2 to 1 teaspoon Dijon mustard</li>\n<li>1/2 to 1 teaspoon chopped fresh rosemary leaves</li>\n</ul>\n",
+    "notes": "",
+    "nutrition": ""
+  },
+  "image_url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/3/13/0/EA1118_Rack-of-Lamb.jpg.rend.hgtvcom.826.620.suffix/1371585626723.jpeg",
+  "ingredients": "2 racks lamb, 6 to 8 ribs each, approximately 1 1/2 to 2-pounds each\n1 tablespoon olive oil\n1 teaspoon kosher salt\n1/2 teaspoon freshly ground black pepper\n6 cloves garlic, minced\n4 teaspoons fresh thyme, chopped\n1 1/2 teaspoons ground coriander\n1 to 1 1/2 tablespoons sherry vinegar\n1/2 to 1 teaspoon Dijon mustard\n1/2 to 1 teaspoon chopped fresh rosemary leaves",
+  "name": "Crown Roast of Lamb",
+  "notes": "",
+  "nutritional_info": "",
+  "photo": "CAB80F32-1B1C-4FD5-ACC1-FCDA80C00BF8-29053-0003D1137B273832.jpg",
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "45 min",
+  "rating": 0,
+  "servings": "Yield: 6 to 8 servings",
+  "source": "foodnetwork.com",
+  "source_url": "https://www.foodnetwork.com/recipes/alton-brown/crown-roast-of-lamb-recipe-2082917",
+  "total_time": "",
+  "uid": "0DEADC1F-E434-4B45-A9CF-3621E4EE67B6-29053-0003D1119002C463"
+}

@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Bread and Biscuits"
+  ],
+  "cook_time": "2h",
+  "created": "2020-04-11 14:58:59",
+  "created_ts": 1586617139,
+  "description": "",
+  "difficulty": "Medium",
+  "directions": "",
+  "html": {
+    "description": "",
+    "directions": "",
+    "ingredients": "<ul><li>1 tsp dried instant yeast</li>\n<li>270 g water</li>\n<li>1 tsp sugar</li>\n<li>1 tsp olive oil</li>\n<li>500 g strong white bread flour</li>\n<li>1 tsp fine sea salt</li>\n</ul>\n",
+    "notes": "",
+    "nutrition": "<p>Calories: 1000 kJ / 238 kcal\nProtein: 7 g\nCarbohydrates: 49 g\nFat: 1 g\nFibre: 2.4 g</p>\n"
+  },
+  "image_url": "https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/942C8336-8F3F-41CA-85D7-1A3CF42E0547/Derivates/D25184C1-D5A1-4D44-8637-7AEF21018166.jpg",
+  "ingredients": "1 tsp dried instant yeast\n270 g water\n1 tsp sugar\n1 tsp olive oil\n500 g strong white bread flour\n1 tsp fine sea salt",
+  "name": "Pitta Bread",
+  "notes": "",
+  "nutritional_info": "Calories: 1000 kJ / 238 kcal\nProtein: 7 g\nCarbohydrates: 49 g\nFat: 1 g\nFibre: 2.4 g",
+  "photo": "BCE6B708-DE20-4344-8A48-F0CB3D0F07C3-53878-00004CEB43EB4FC4.jpg",
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "15 min",
+  "rating": 5,
+  "servings": "8 pieces",
+  "source": "cookidoo.co.uk",
+  "source_url": "https://cookidoo.co.uk/recipes/recipe/en-GB/r151921",
+  "total_time": "",
+  "uid": "6953089E-246B-434F-A925-7920D8FEE928-53878-00004CD60E55DF5A"
+}
