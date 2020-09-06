@@ -408,7 +408,9 @@ label.srs-toggle {
 	padding-left: 2px;
 }
 
-
+footer #techpro {
+    width: 75px;
+}
 /* DEBUG */
 
 pre {
