@@ -16,9 +16,6 @@ __scripts/backups/
 __scripts/output.json
 
 _site/
-_data/
-_images/recipes/
 __scripts/My Recipes.zip
 __scripts/My Recipes.paprikarecipes
 __scripts/config.py
-_data2/
