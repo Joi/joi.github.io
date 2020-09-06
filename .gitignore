@@ -4,18 +4,14 @@
 .jekyll-metadata
 #.obsidian
 .DS_Store
-.htaccess
 vendor
 
 # __scripts stuff
 __pycache__
-.ipynb_checkpoints
+.ipynb_checkpoints/
 __scripts/.ipynb_checkpoints/ParsePaprika-checkpoint.ipynb
 __scripts/data/
 __scripts/backups/
-__scripts/output.json
 
 _site/
-__scripts/My Recipes.zip
-__scripts/My Recipes.paprikarecipes
 __scripts/config.py
