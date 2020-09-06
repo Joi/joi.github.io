@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Joi's GitHub Jekyll Page
+title: Joi's Cooking and Related Tangents
 permalink: /index.html
 ---
 
