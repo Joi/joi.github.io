@@ -5,6 +5,7 @@
 #.obsidian
 .DS_Store
 vendor
+.htaccess
 
 # __scripts stuff
 __pycache__
