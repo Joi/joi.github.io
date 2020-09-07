@@ -1,5 +1,5 @@
 ---
-title: "MONKFISH BRAISED with WHITE BEANS, FENNEL, & TOMATO"
-filename: "MONKFISH-BRAISED-with-WHITE-BEANS-FENNEL-&-TOMATO"
+title: "Monkfish Braised with White Beans, Fennel, & Tomato"
+filename: "Monkfish-Braised-with-White-Beans-Fennel-&-Tomato"
 created: 2020-09-01 17:52:04
 ---
