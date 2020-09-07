@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-09-04-Brisket-Recipe-Roundup.md",
+            "file": "_posts/2020-09-05-BBQ-Whole-Chicken.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-09-04-Brisket-Recipe-Roundup.md"
+                "file": "_posts/2020-09-05-BBQ-Whole-Chicken.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-09-05-BBQ-Whole-Chicken.md",
+    "_posts/2020-09-05-Lasagna.md",
     "_posts/2020-09-04-Brisket-Recipe-Roundup.md",
     "_recipes/Braised-Brisket-with-Onions.md",
-    "_recipes/Braised-Chicken-Thighs-and-Legs-with-Tomato.md",
-    "_pages/index.md",
-    "_posts/Untitled.md"
+    "_recipes/Braised-Chicken-Thighs-and-Legs-with-Tomato.md"
   ]
 }
