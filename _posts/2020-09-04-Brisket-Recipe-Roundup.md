@@ -40,4 +40,4 @@ I'm trying to figure out exactly what the internal temperature should be and for
 
 Another key concern is that the temperature outside in the broth or the oven needs to be high enough to kill microorganisms so probably 200ºF - simmer - or so.
 
-[[Slow-Cooker-Braised-Brisket-and-Onions|I'm rounding up the recipe that I'll be using.]]
+[[Braised-Brisket-with-Onions|I'm rounding up the recipe that I'll be using.]]
