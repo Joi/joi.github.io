@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-09-07-Brisket-Recipe-Roundup.md",
+            "file": "_posts/2020-09-07-Site-and-Data-Structure.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-09-07-Brisket-Recipe-Roundup.md"
+                "file": "_posts/2020-09-07-Site-and-Data-Structure.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/Untitled.md",
+    "_posts/2020-09-05-Lasagna.md",
     "_posts/2020-09-04-Brisket-Recipe-Roundup.md",
     "_posts/2020-08-06-tuna-confit-redux.md",
-    "_posts/2020-07-03-tuna-confit.md",
-    "_recipes/Sorrel-Sauce-for-Fish-a-La-Troigros.md",
-    "_recipes/Salmon-and-Sorrel-Sauce.md"
+    "_posts/2020-07-03-tuna-confit.md"
   ]
 }
