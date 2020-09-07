@@ -15,4 +15,4 @@ The tuna came out nice although the surface of the tuna had little "growths" tha
 
 Overall it was very nice. I served it with my alioli sauce that went very well with it. I served it for dinner, but I think this tuna is probably a better lunch or breakfast dish - maybe in a sandwich, in a salad or on the side of something else.
 
-I summarized my current recipe that I'll try next time - [[Jois-Tuna-Confit|Joi's Tuna Confit]].
+I summarized my current recipe that I'll try next time - [[Tuna-Confit|Tuna Confit]].

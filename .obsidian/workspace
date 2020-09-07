@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "714f3c90023b4f4c",
+        "id": "299c704e66a280f5",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-09-05-BBQ-Whole-Chicken.md",
+            "file": "_posts/2020-09-07-Brisket-Recipe-Roundup.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-09-05-BBQ-Whole-Chicken.md"
+                "file": "_posts/2020-09-07-Brisket-Recipe-Roundup.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-09-05-BBQ-Whole-Chicken.md",
-    "_posts/2020-09-05-Lasagna.md",
     "_posts/2020-09-04-Brisket-Recipe-Roundup.md",
-    "_recipes/Braised-Brisket-with-Onions.md",
-    "_recipes/Braised-Chicken-Thighs-and-Legs-with-Tomato.md"
+    "_posts/2020-08-06-tuna-confit-redux.md",
+    "_posts/2020-07-03-tuna-confit.md",
+    "_recipes/Sorrel-Sauce-for-Fish-a-La-Troigros.md",
+    "_recipes/Salmon-and-Sorrel-Sauce.md"
   ]
 }
