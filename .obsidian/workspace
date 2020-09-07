@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
+            "file": "_posts/2020-09-04-Brisket-Recipe-Roundup.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md"
+                "file": "_posts/2020-09-04-Brisket-Recipe-Roundup.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-09-04-Brisket-Recipe-Roundup.md",
     "_pages/index.md",
     "_posts/Untitled.md",
     "_posts/2020-09-03-Pressure-Cooker.md",
-    "_posts/2020-09-04-Brisket-Recipe-Roundup.md",
     "_posts/2020-09-05-Lasagna.md"
   ]
 }

@@ -25,3 +25,19 @@ So back to brisket. I'm going to start googling recipes and park them here for n
 - [Mamaleh's Brisket recipe](https://www.bonappetit.com/recipe/mamalehs-brisket)
 
 Reading some of the recipes, I realized that I need to decide whether this will be a one day affair or a two day affair. I guess doing a lot of the cooking on Sunday and finishing on Monday might work.
+
+---
+
+Finally, the day of the big event and I need to make some decisions. I've been dry brining the brisket for the last 2 days. Since we had BBQ chicken yesterday, I think I'll go with a braise instead of a roast.
+
+There are various recipes that involve roasting pans, cast iron skillets and dutch ovens so I'll go with the dutch oven. I have no idea what they say to foil it instead of put the top on it, so I'll use top to reduce one more piece of wasted foil. Maybe I'll monitor the temperature too.
+
+I guess I should start working on my own recipe file to pull together the bits.
+
+Stuck the brisket in at 12:15PM. 
+
+I'm trying to figure out exactly what the internal temperature should be and for how long. I see [a post saying that it should be 190ºF for awhile](https://jamiegeller.com/from-jamie/ask-jamie-geller-can-you-give-me-some-tips-for-braising-meats/#:~:text=To%20achieve%20that%20wonderful%20melt,the%20more%20the%20meat%20softens.) and [another saying that proteins in meet coagulate over a range of temperatures from 105ºF to 195ºF](https://www.exploratorium.edu/cooking/icooks/2-1-03article.html). So I suppose the trick is to get it to 190ºF and slow it down and try to hold it there for a bit to allow it to tenderize.
+
+Another key concern is that the temperature outside in the broth or the oven needs to be high enough to kill microorganisms so probably 200ºF - simmer - or so.
+
+[[Slow-Cooker-Braised-Brisket-and-Onions|I'm rounding up the recipe that I'll be using.]]

@@ -1,0 +1,62 @@
+{
+  "categories": [
+    "Beef",
+    "Brisket"
+  ],
+  "cook_time": "",
+  "created": "2020-09-07 14:36:56",
+  "created_ts": 1599489416,
+  "description": "Based mostly on this:\n\nhttps://dinnerthendessert.com/easy-beef-brisket-recipe/",
+  "difficulty": "",
+  "directions": "Dry brine brisket for a day or two\n\nPreheat oven for 325ºF\n\nSaute onions in butter for 20 min until caramelized.\n\nAdd oil and sear brisket on both sides - 3 min\n\nRemove brisket, add garlic, broth and Worcestershire sauce, mix and replace brisket fat side up.\n\nAdd onions.\n\nBake in Dutch Oven at 325 for 1 ½ hours and then reduce to 250ºF and bake for 2 - 3 hours. Internal temperature - 190ºF.\n\nPour off excess fat and reduce over heat by ½ - 5 min or so.",
+  "html": {
+    "description": "<p>Based mostly on this:</p>\n<p>https://dinnerthendessert.com/easy-beef-brisket-recipe/</p>\n",
+    "directions": "<p>Dry brine brisket for a day or two</p>\n<p>Preheat oven for 325ºF</p>\n<p>Saute onions in butter for 20 min until caramelized.</p>\n<p>Add oil and sear brisket on both sides - 3 min</p>\n<p>Remove brisket, add garlic, broth and Worcestershire sauce, mix and replace brisket fat side up.</p>\n<p>Add onions.</p>\n<p>Bake in Dutch Oven at 325 for 1 ½ hours and then reduce to 250ºF and bake for 2 - 3 hours. Internal temperature - 190ºF.</p>\n<p>Pour off excess fat and reduce over heat by ½ - 5 min or so.</p>\n",
+    "ingredients": "<p>Brisket, 5 lb</p>\n<ol>\n<li>4 Onions, sliced</li>\n<li>4 tbsp unsalted butter</li>\n<li>½ tsp Kosher salt</li>\n<li>2 tbsp of Olive oil</li>\n<li>2 tbsp Worcestershire sauce</li>\n<li>2 cup broth\nSalt and pepper</li>\n</ol>\n",
+    "notes": "<p>None</p>\n",
+    "nutrition": "<p>None</p>\n"
+  },
+  "image_url": null,
+  "ingredients": "Brisket, 5 lb\n\n1. 4 Onions, sliced\n1. 4 tbsp unsalted butter\n1. ½ tsp Kosher salt\n1. 2 tbsp of Olive oil\n1. 2 tbsp Worcestershire sauce\n1. 2 cup broth\nSalt and pepper",
+  "name": "Braised Brisket with Onions",
+  "notes": null,
+  "nutritional_info": null,
+  "photo": "7E9DF07A-D0B6-4EFE-B5CD-946524D18F68-50715-00076562F4A70891.jpg",
+  "photo_large": "58DC568A-93ED-4451-8038-B1F5EDC206CD-50715-00076560D4C83250.jpg",
+  "photos": [
+    {
+      "filename": "58DC568A-93ED-4451-8038-B1F5EDC206CD-50715-00076560D4C83250.jpg",
+      "name": "1"
+    },
+    {
+      "filename": "32162939-170F-4108-9424-DD61D4D4E24D-50715-000765613985F72B.jpg",
+      "name": "2"
+    },
+    {
+      "filename": "F2AAB4FE-7F5B-4659-817F-3A9592945F0F-50715-00076561AE3CA524.jpg",
+      "name": "3"
+    },
+    {
+      "filename": "D8C6F2DC-BC4F-49ED-BCEF-DBD8E4215438-50715-00076562465ACD71.jpg",
+      "name": "4"
+    },
+    {
+      "filename": "F1628B4E-51CF-4E40-AC90-AEA7D354D656-50715-00076562A7353A27.jpg",
+      "name": "5"
+    }
+  ],
+  "photos_dict": {
+    "1": "58DC568A-93ED-4451-8038-B1F5EDC206CD-50715-00076560D4C83250.jpg",
+    "2": "32162939-170F-4108-9424-DD61D4D4E24D-50715-000765613985F72B.jpg",
+    "3": "F2AAB4FE-7F5B-4659-817F-3A9592945F0F-50715-00076561AE3CA524.jpg",
+    "4": "D8C6F2DC-BC4F-49ED-BCEF-DBD8E4215438-50715-00076562465ACD71.jpg",
+    "5": "F1628B4E-51CF-4E40-AC90-AEA7D354D656-50715-00076562A7353A27.jpg"
+  },
+  "prep_time": "",
+  "rating": 0,
+  "servings": "",
+  "source": "",
+  "source_url": "",
+  "total_time": "",
+  "uid": "4CB07882-5BB7-4D7D-A85F-9C33428D9BBB-50715-00075EFA2FEFB0E5"
+}

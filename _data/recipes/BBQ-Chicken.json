@@ -1,0 +1,46 @@
+{
+  "categories": [
+    "Chicken"
+  ],
+  "cook_time": "",
+  "created": "2020-09-07 11:35:46",
+  "created_ts": 1599478546,
+  "description": null,
+  "difficulty": "",
+  "directions": null,
+  "html": {
+    "description": "<p>None</p>\n",
+    "directions": "<p>None</p>\n",
+    "ingredients": "<p>None</p>\n",
+    "notes": "<p>None</p>\n",
+    "nutrition": "<p>None</p>\n"
+  },
+  "image_url": null,
+  "ingredients": null,
+  "name": "BBQ Chicken",
+  "notes": null,
+  "nutritional_info": null,
+  "photo": "461780EB-E4B6-44A8-AE23-762E3FB2D02B-13411-00000962172396CD.jpg",
+  "photo_large": "8CFA0C82-D0C4-4F26-ABBF-441CB2444555-13411-00000961FEA8CB38.jpg",
+  "photos": [
+    {
+      "filename": "8CFA0C82-D0C4-4F26-ABBF-441CB2444555-13411-00000961FEA8CB38.jpg",
+      "name": "1"
+    },
+    {
+      "filename": "F0996122-7C1C-42E7-95B6-D6056823E31A-13411-0000096209DEE383.jpg",
+      "name": "2"
+    }
+  ],
+  "photos_dict": {
+    "1": "8CFA0C82-D0C4-4F26-ABBF-441CB2444555-13411-00000961FEA8CB38.jpg",
+    "2": "F0996122-7C1C-42E7-95B6-D6056823E31A-13411-0000096209DEE383.jpg"
+  },
+  "prep_time": "",
+  "rating": 5,
+  "servings": "",
+  "source": "",
+  "source_url": "",
+  "total_time": "",
+  "uid": "0406E117-8344-4062-A62F-FBAC97655E1C-13411-00000961DB0A0BC1"
+}

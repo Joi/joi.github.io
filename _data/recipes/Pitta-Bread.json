@@ -11,7 +11,7 @@
   "html": {
     "description": "",
     "directions": "",
-    "ingredients": "<ul><li>1 tsp dried instant yeast</li>\n<li>270 g water</li>\n<li>1 tsp sugar</li>\n<li>1 tsp olive oil</li>\n<li>500 g strong white bread flour</li>\n<li>1 tsp fine sea salt</li>\n</ul>\n",
+    "ingredients": "<p>1 tsp dried instant yeast\n270 g water\n1 tsp sugar\n1 tsp olive oil\n500 g strong white bread flour\n1 tsp fine sea salt</p>\n",
     "notes": "",
     "nutrition": "<p>Calories: 1000 kJ / 238 kcal\nProtein: 7 g\nCarbohydrates: 49 g\nFat: 1 g\nFibre: 2.4 g</p>\n"
   },
