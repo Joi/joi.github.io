@@ -41,3 +41,10 @@ I'm trying to figure out exactly what the internal temperature should be and for
 Another key concern is that the temperature outside in the broth or the oven needs to be high enough to kill microorganisms so probably 200ºF - simmer - or so.
 
 [[Braised-Brisket-with-Onions|I'm rounding up the recipe that I'll be using.]]
+
+[Cook's Illustrated to the rescue!](https://www.cooksillustrated.com/articles/552-how-to-braise-brisket)
+
+>**The Sweet Spot**
+>I started my next braise in a 325-degree oven, as I had before, but this time I waited until the meat’s temperature hit 180 degrees, about 1½ hours into cooking, and then lowered the oven to 250 degrees. At this point, any evaporative cooling on the exterior of the meat wasn’t enough to lower the meat’s internal temperature, and it continued to climb slowly. After another 2 full hours, the brisket’s temperature hit 200 degrees, at which point the meat was both fork-tender and still wonderfully moist.
+>
+>Things were looking good: Instead of producing a dry brisket in 5-plus hours, I now had a method that cooked it perfectly in about 4 hours. All I needed to do was polish the sauce.
