@@ -1,0 +1,34 @@
+{
+  "categories": [
+    "Tuna"
+  ],
+  "cook_time": "",
+  "created": "2020-08-06 07:42:38",
+  "created_ts": 1596699758,
+  "description": null,
+  "difficulty": "",
+  "directions": "Cut tuna into 1 inch cubes and brine in salt, sugar and water for 12-20 hrs.\n\nHeat oil to 150ºF and add aromatics and infuse oil.\n\nRinse tuna in cold water after removing from brining solution and put in jars.\n\nAdd oil while filtering aromatics to cover tuna and do not leave much room at the top of the jar.\n\nSous vide at 124ºF for 45 min - 1.5 hrs until tuna is 122ºF.\n\nServe warm or cool and refrigerate.",
+  "html": {
+    "description": "<p>None</p>\n",
+    "directions": "<p>Cut tuna into 1 inch cubes and brine in salt, sugar and water for 12-20 hrs.</p>\n<p>Heat oil to 150ºF and add aromatics and infuse oil.</p>\n<p>Rinse tuna in cold water after removing from brining solution and put in jars.</p>\n<p>Add oil while filtering aromatics to cover tuna and do not leave much room at the top of the jar.</p>\n<p>Sous vide at 124ºF for 45 min - 1.5 hrs until tuna is 122ºF.</p>\n<p>Serve warm or cool and refrigerate.</p>\n",
+    "ingredients": "<ol>\n<li>2 lb. top-quality fresh tuna (yellowfin or ahi), cut into 1-inch-thick steaks</li>\n</ol>\n<p>##Brining Solution</p>\n<ol>\n<li>5 tbsp kosher salt or 3 tbsp sea salt</li>\n<li>2 tbsp sugar</li>\n<li>1 liter water</li>\n</ol>\n<p>##Confit Solution</p>\n<ol>\n<li>3 cups olive oil or reuse previous confit oil</li>\n<li>1 medium yellow onion, cut in 1. 1/2-inch slices</li>\n<li>2 sprigs fresh rosemary</li>\n<li>6 sprigs fresh thyme</li>\n<li>1 bay leaf</li>\n<li>1 tsp. black peppercorns, coarsely cracked</li>\n<li>Zest of 1 lemon, pared in strips</li>\n</ol>\n",
+    "notes": "<p>None</p>\n",
+    "nutrition": "<p>None</p>\n"
+  },
+  "image_url": null,
+  "ingredients": "1. 2 lb. top-quality fresh tuna (yellowfin or ahi), cut into 1-inch-thick steaks\n\n##Brining Solution\n\n1. 5 tbsp kosher salt or 3 tbsp sea salt\n1. 2 tbsp sugar\n1. 1 liter water\n\n##Confit Solution\n\n1. 3 cups olive oil or reuse previous confit oil\n1. 1 medium yellow onion, cut in 1. 1/2-inch slices\n1. 2 sprigs fresh rosemary\n1. 6 sprigs fresh thyme\n1. 1 bay leaf\n1. 1 tsp. black peppercorns, coarsely cracked\n1. Zest of 1 lemon, pared in strips",
+  "name": "Tuna Confit",
+  "notes": null,
+  "nutritional_info": null,
+  "photo": null,
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "",
+  "rating": 5,
+  "servings": "4",
+  "source": "",
+  "source_url": "",
+  "total_time": "",
+  "uid": "2EAA4463-01CB-4867-B49F-3B45423BBD9A-1060-0001042DD69580EF"
+}
