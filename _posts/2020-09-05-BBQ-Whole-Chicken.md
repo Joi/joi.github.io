@@ -9,7 +9,7 @@ On a BBQ kick since the ribs and because I still had some of the [[A-Very-Popula
 
 >Note: This recipe calls for a large chicken. Do not try it with a smaller chicken, as it will dry out too much while cooking.
 
-I'm not sure why it would get dry with this reverse sear-like thing. Maybe the temperature was hot, but even at 400+ºF, it would be similar to the oven roasted spatchcocked chicken we always make. I ordered the [Giannone chicken](http://giannonepoultry.com/en/) from [Savenor's](https://www.savenorsmarket.com/) so the largest was 3 1/2 lb, too small by Kenji's standards. I decided to give it a try anyway.
+I'm not sure why it would get dry with this reverse sear-like thing. Maybe the temperature was hot, but even at 400+ºF, it would be similar to the oven roasted spatchcocked chicken we always make. I ordered the [Giannone chicken](http://giannonepoultry.com/en/) from [Savenor's](https://www.savenorsmarket.com/) so the largest was 3 1/2 lb, too small by Kenji's standards. I decided to give it a try anyway. [I posted the question on the website. (I'm jonkichi)](https://www.seriouseats.com/recipes/2012/08/the-best-barbecue-chicken-recipe.html#comment-anchor-43758)
 
 ![Binchotan](/images/binchotan.jpeg)
 

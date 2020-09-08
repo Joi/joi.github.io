@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "299c704e66a280f5",
+        "id": "39c51793cd3a5d0d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-09-06-Lasagna.md",
+            "file": "_posts/2020-09-05-BBQ-Whole-Chicken.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-09-06-Lasagna.md"
+                "file": "_posts/2020-09-05-BBQ-Whole-Chicken.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-09-05-BBQ-Whole-Chicken.md",
+    "_posts/2020-09-07-Brisket-Recipe-Roundup.md",
     "_posts/2020-09-06-Lasagna.md",
     "_pages/volume-weight-temp.md",
-    "_posts/2020-09-05-Lasagna.md",
-    "_posts/2020-07-10-aioli.md",
-    "_posts/2020-08-17-prime-rib.md"
+    "_posts/2020-09-05-Lasagna.md"
   ]
 }
