@@ -2,6 +2,7 @@
 layout: post
 title: Soft-Shell Crab à la Martha Stewart
 tags: recipe
+category: Crab
 ---
 ![Soft-Shell Crab](/images/soft-shell-crab.jpeg)
 

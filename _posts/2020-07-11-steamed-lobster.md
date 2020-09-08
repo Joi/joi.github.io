@@ -2,6 +2,7 @@
 layout: post
 title: Steamed Lobster
 tags: recipe
+categories: Seafood Lobster
 ---
 ![Lobsters in pot](/images/lobster-pot.jpeg)
 

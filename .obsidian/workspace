@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-09-05-BBQ-Whole-Chicken.md",
+            "file": "_posts/2020-09-07-Site-and-Data-Structure.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-09-05-BBQ-Whole-Chicken.md"
+                "file": "_posts/2020-09-07-Site-and-Data-Structure.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-09-05-BBQ-Whole-Chicken.md",
+    "_posts/2020-09-07-Site-and-Data-Structure.md",
     "_posts/2020-09-07-Brisket-Recipe-Roundup.md",
     "_posts/2020-09-06-Lasagna.md",
-    "_pages/volume-weight-temp.md",
-    "_posts/2020-09-05-Lasagna.md"
+    "_posts/2020-09-05-BBQ-Whole-Chicken.md",
+    "_posts/2020-09-03-Pressure-Cooker.md"
   ]
 }

@@ -2,6 +2,7 @@
 layout: post
 title: Sharpening and Honing
 tags: sharpening
+category: Sharpening Knives
 ---
 I've gotten into sharpening my knives on and off over the decades since I lived in Chicago and the sushi chef at the local sushi shop, first taught me how to handle a Japanese knife and sharpen it. I've always enjoyed sharpening knives and each time I "get into it" I seem to go a bit deeper. However, I found it hard to learn to sharpen without a good teacher and I didn't have the time, energy or the opportunity to apprentice anywhere.
 

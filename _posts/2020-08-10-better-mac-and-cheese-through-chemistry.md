@@ -2,6 +2,7 @@
 layout: post
 title: Better Mac and Cheese through Chemistry
 tags: recipe health
+categories: Kio Pasta
 ---
 ![mac-and-cheese](/images/mac-and-cheese.jpeg)
 

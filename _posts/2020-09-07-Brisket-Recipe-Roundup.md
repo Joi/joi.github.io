@@ -2,6 +2,7 @@
 layout: post
 title: Brisket Recipe Roundup / My First Brisket
 tags: recipe
+categories: Beef Braise
 ---
 ![Brisket](/images/recipes/4CB07882-5BB7-4D7D-A85F-9C33428D9BBB-50715-00075EFA2FEFB0E5/A29DA219-01F1-4AE7-89DB-D723D0EA2CD0-15281-00000A055536D9CA.jpg)
 
@@ -51,6 +52,6 @@ Another key concern is that the temperature outside in the broth or the oven nee
 >
 >Things were looking good: Instead of producing a dry brisket in 5-plus hours, I now had a method that cooked it perfectly in about 4 hours. All I needed to do was polish the sauce.
 
-The brisket was still 165ºF or so at 1:45 but I switched the oven to 250ºF anyway. Turned down oven to 200ºF at 3 PM with internal temp at 205-208ºF. Ugh. I blasted past my 180ºF target because my remote thermometer was out of range and I was on Zoom. Turned down the temperature to 190ºF at 3:30PM (internal temperature was still 205ºF - 208ºF). Pulled it out at 4PM with internal temperature at 190ºF or so through the whole brisket. This means that it was in the sweet spot at least 30 min and probably longer. Even though the temperature was lower than boiling (212ºF), I thought it might dry out past a certain period so I pulled it.
+The brisket was still 165ºF or so at 1:45 PM but I switched the oven to 250ºF anyway. Turned down oven to 200ºF at 3 PM with internal temp at 205-208ºF. Ugh. I blasted past my 180ºF target because my remote thermometer was out of range and I was on Zoom. Turned down the temperature to 190ºF at 3:30PM (internal temperature was still 205ºF - 208ºF). Pulled it out at 4PM with internal temperature at 190ºF or so through the whole brisket. This means that it was in the sweet spot at least 30 min and probably longer. Even though the temperature was lower than boiling (212ºF), I thought it might dry out past a certain period so I pulled it.
 
 I added 1 tbsp of arrow root starch to the gravy and it was perfect. The brisket seemed a bit dry in places. I think that I need to make sure it doesn't get hotter than 200ºF and not cook it so long. Overall a success in finding the outer bounds of cooking time - now I need to walk it back.

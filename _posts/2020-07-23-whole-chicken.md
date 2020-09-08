@@ -2,6 +2,7 @@
 layout: post
 title: Whole Chickens
 tags: theory recipe
+categories: Chicken
 ---
 In [Salt, Fat, Acid, Heat](https://www.saltfatacidheat.com/), Nosrat aruges for buying whole chickens rather than buying parts. You can save the spine and other parts for stock and cut the pieces yourself. It's cheaper and it's my own anecdotal feel, but it seems like the whole chickens that we get from [Farmers To You](https://farmerstoyou.com/) are fresher.
 

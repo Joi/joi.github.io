@@ -2,6 +2,7 @@
 layout: post
 title: Site and Data Structure
 tag: knowledge-management
+category: Knowledge-Management
 ---
 As my cooking has taken on a bit more complexity and structure, I realize that the recipe and post structure isn't really exactly right. What I need is:
 

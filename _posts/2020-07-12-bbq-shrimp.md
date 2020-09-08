@@ -2,6 +2,7 @@
 layout: post
 title: BBQ Shrimp, Burgers, Sausage and Steak
 tags: recipe
+categories: BBQ Shrimp
 ---
 ![BBQ Spread](/images/2020-07-12-bbq-spread.jpeg)<br>
 _BBQ Spread. The coffee maker just happened to be in the shot._
