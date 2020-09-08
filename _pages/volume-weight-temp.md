@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Volume, Weight and Temperature Conversions"
+title: Volume, Weight and Temperature Conversions
 ---
-
-### Volume, Weight and Temperature Conversions
 
 * * *
 
