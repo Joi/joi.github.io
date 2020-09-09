@@ -3,8 +3,14 @@ layout: default
 ---
 <!-- template: recipe.html -->
 {% assign json_data = site.data.recipes[page.filename] %}
+<div class="row">
+	<div class="large-2 columns">&nbsp;</div>
+	<div class="large-10 columns">
+		<h3>{{ page.title }}</h3>
+	</div>
+</div>
 <div class="row" id="content">
-	<div class="large-3 columns" id="left-sidebar">
+	<div class="large-2 columns" id="left-sidebar">
 		<div class="" id="recipe-photos">
 		{% if json_data.photos %}
 			{% for phot in json_data.photos %}
@@ -33,11 +39,11 @@ layout: default
 				<!-- No photos -->
 			{% endif %}
 		{% endif %}
+		&nbsp;
 		</div>
 	</div>
 	<div class="large-6 columns" id="main">
 
-		<h3>{{ page.title }}</h3>
 		{% if json_data.source != "" %}
 		<p class="source">Source: 
 			{% if json_data.source_url == "" %}
@@ -46,6 +52,11 @@ layout: default
 				<a href="{{ json_data.source_url }}" title="{{ json_data.source }}">{{ json_data.source }}</a>
 			{% endif %}
 		</p>
+		{% endif %}
+
+		{%- if content -%}
+		<h4>Notes</h4>
+		{%- include content.html -%}
 		{% endif %}
 
 		{% for getParam in json_data.html %}
@@ -66,11 +77,9 @@ layout: default
 		</ul>
 		<hr>
 		{%- endcomment -%}
-		<h4>Notes</h4>
-		{%- include content.html -%}
 	</div>
 
-	<div class="large-3 columns" id="sidebar">
+	<div class="large-4 columns" id="sidebar">
 		{%- comment -%}{%- include backlinks.html -%}{%- endcomment -%}
 	</div>
 
