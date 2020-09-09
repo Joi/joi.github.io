@@ -18,6 +18,10 @@ The first one calls for a slow bake at 275ºF for 3-4 hours and the second one i
 
 ---
 
-Made a quick BBQ rub and stuck the ribs in the oven at 1:15 PM with the oven at 225ºF and increased it to 250ºF at 1:45 PM. Unlike these roasting recipes, it seems like the timing for smoking might be better for me. Here's and interesting [chart of smoking times and temperatures](https://www.smokedbbqsource.com/smoking-times-temperatures/) which seem to be between 225ºF-250F. According to the chart, pork spare ribs need to be cooking for 5-7 hours! FOr internal temperature, it says 190-203ºF. Not sure exactly what that means. Maybe it's the target. But my theory of tenderizing is that you have to hold it in the zone.
+Made a quick BBQ rub and stuck the ribs in the oven at 1:15 PM with the oven at 225ºF and increased it to 250ºF at 1:45 PM. Unlike these roasting recipes, it seems like the timing for smoking might be better for me. Here's and interesting [chart of smoking times and temperatures](https://www.smokedbbqsource.com/smoking-times-temperatures/) which seem to be between 225ºF-250F. According to the chart, pork spare ribs need to be cooking for 5-7 hours! For internal temperature, it says 190-203ºF. Not sure exactly what that means. Maybe it's the target. But my theory of tenderizing is that you have to hold it in the zone, but if the oven temperature is above the target temperature, I assume it will go past it. So I guess I have to pull it when it gets to the target temperature? Hmm.
 
 Anyway, that's way more than the 3 hours in the recipe for 275ºF oven bake. I wonder if it has anything to do with the [[Evaporation Effect]]...
+
+_Logged an internal temperature of 154ºF at 2:40PM - approximately 2 hours into cooking. I'll keep the oven temperature at 250ºF._
+
+As I continue to learn more about cooking meat, I wonder what will happen if I stop eating meat again. I suppose there is a pescatarian version of some of the stuff I'm learning about cooking meat.
