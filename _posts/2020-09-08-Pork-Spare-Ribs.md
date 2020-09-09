@@ -22,6 +22,6 @@ Made a quick BBQ rub and stuck the ribs in the oven at 1:15 PM with the oven at 
 
 Anyway, that's way more than the 3 hours in the recipe for 275ºF oven bake. I wonder if it has anything to do with the [[Evaporation Effect]]...
 
-_Logged an internal temperature of 154ºF at 2:40PM - approximately 2 hours into cooking. I'll keep the oven temperature at 250ºF._
+_Logged an internal temperature of 154ºF at 2:40PM - approximately 1 hour into cooking. I'll keep the oven temperature at 250ºF._
 
 As I continue to learn more about cooking meat, I wonder what will happen if I stop eating meat again. I suppose there is a pescatarian version of some of the stuff I'm learning about cooking meat.
