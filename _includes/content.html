@@ -67,7 +67,6 @@
 							<pre style="background:#fcc"><b>internal_link:</b> {{ internal_link | jsonify }}</pre>
 							<pre style="background:#cfc"><b>internal_link_str:</b> {{ internal_link_str | jsonify }}</pre>
 							<pre style="background:#ccf"><b>internal_link_alt:</b> {{ internal_link_alt | jsonify }}</pre>
-							<hr>
 							{% endif %}
 						{% comment %} --- END DEBUG ------------------ {% endcomment %}
 					{% endif %}
@@ -79,10 +78,10 @@
 						{% assign result_doc   = site.documents | where_exp:"item", "item.relative_path contains internal_link_str" %}
 						{% if result_doc[0] %}
 							{%- comment -%} Do Nothing. We already have what we need. {%- endcomment -%}
-							{% if debug %}<h6 class="debug" style="background: #cdf;">Matching Link on Path:<br><b>{{internal_link_str}}</b></h6>{% endif %}
+							{% if debug %}<h6 class="debug" style="background: #cdf;">Matching Link on Path:<br><b>{{internal_link_str}}</b></h6><hr>{% endif %}
 						{% else %}
 							{%- comment -%} Match on Title. {%- endcomment -%}
-							{% if debug %}<h6 class="debug" style="background: #fdc;">Matching Link on Title:<br><b>{{internal_link_str}}</b></h6>{% endif %}
+							{% if debug %}<h6 class="debug" style="background: #fdc;">Matching Link on Title:<br><b>{{internal_link_str}}</b></h6><hr>{% endif %}
 							{% assign result_doc   = site.documents   | where: "title", internal_link_str %}
 						{% endif %}
 
