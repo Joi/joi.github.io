@@ -1,69 +1,74 @@
+{% comment %} --- DEBUG ---------------------- {% endcomment %}
+  {% if debug %}
+  <pre>
+  <b>page.title:</b> {{ page.title }}
+  <b>page.url  :</b> {{ page.url }}
+  <b>page.date :</b> {{ page.date }}
+  <b>page.id   :</b> {{ page.id }}
+  <b>page.dir  :</b> {{ page.dir }}
+  <b>page.name :</b> {{ page.name }}
+  <b>page.path :</b> {{ page.path }}
+  </pre><hr>
+  {% endif %}
+{% comment %} --- END DEBUG ------------------ {% endcomment %}
 <!-- Add backlinks to the current page --> 
 {%- assign link_count = 0 -%}
-{%- assign wiki_link_title = '[' | append: page.title | append: ']' -%}
-{%- for note in site.notes -%}
-        {%- if note.url != page.url -%}
-            {%- if note.content contains wiki_link_title -%}
-                {%- assign link_count = link_count | plus:1 -%}
-            {%- endif -%}
-    {%- endif -%}
+{%- assign page_title_slug = page.title | replace: " ", "-" -%}
+{%- assign wiki_link_title = '[' | append: page_title_slug | append: '' -%}
+
+{% comment %} --- DEBUG ---------------------- {% endcomment %}
+  {% if debug %}
+  {{wiki_link_title}}<hr>
+  {% endif %}
+{% comment %} --- END DEBUG ------------------ {% endcomment %}
+
+{%- for note in site.documents -%}
+	{%- if note.url != page.url -%}
+		{%- if note.content contains wiki_link_title -%}
+      {%- assign link_count = link_count | plus:1 -%}
+
+{% comment %} --- DEBUG ---------------------- {% endcomment %}
+  {% if debug %}
+  {{link_count}}<br><br>
+  <pre>
+  <b>note.title:</b> {{note.title}}
+  <b>note.url  :</b> {{note.url}}
+  <b>note.date :</b> {{note.date}}
+  <b>note.id   :</b> {{note.id}}
+  <b>note.dir  :</b> {{note.dir}}
+  <b>note.name :</b> {{note.name}}
+  <b>note.slug :</b> {{note.slug}}
+  <b>note.relative_path :</b> {{note.relative_path}}
+  </pre>
+  {% endif %}
+{% comment %} --- END DEBUG ------------------ {% endcomment %}
+
+		{%- endif -%}
+	{%- endif -%}
 {%- endfor -%}
-{%- for note in site.posts -%}
-        {%- if note.url != page.url -%}
-            {%- if note.content contains wiki_link_title -%}
-                {%- assign link_count = link_count | plus:1 -%}
-            {%- endif -%}
-    {%- endif -%}
-{%- endfor -%}
-{%- for note in site.pages -%}
-        {%- if note.url != page.url -%}
-            {%- if note.content contains wiki_link_title -%}
-                {%- assign link_count = link_count | plus:1 -%}
-            {%- endif -%}
-    {%- endif -%}
-{%- endfor -%}
+
 {%- if link_count > 0 -%}
-{%- assign wiki_link_title = '[' | append: page.title | append: ']' -%}
-<div class="related" id="backlinks">
-    <h5>
-    	{%- if page.url contains "/recipes/" -%}
-    	Links to this recipe
-    	{%- else -%}
-    	Links to this
-    	{%- endif -%}
-    </h5>
-    <div class="related-wrapper">
-        {%- for note in site.notes -%}
-        {%- if note.url != page.url -%}
-            {%- if note.content contains wiki_link_title -%}
-            <div class="related-group"><a href="{{note.url}}">
-                <p class="related-title">{{ note.title }}</p>
-                <p class="related-excerpt">{{ note.content | replace: "[[","" | replace: "]]"," | markdownify | strip_html | truncate: 140 }}</p>
-            </a></div>
-            {%- endif -%}
-        {%- endif -%}
-        {%- endfor -%}
-        {%- for note in site.posts -%}
-        {%- if note.url != page.url -%}
-            {%- if note.content contains wiki_link_title -%}
-            <div class="related-group"><a href="{{note.url}}">
-                <p class="related-title">{{ note.title }}</p>
-                <p class="related-excerpt">{{ note.content | replace: "[[","" | replace: "]]"," | markdownify | strip_html | truncate: 140 }}</p>
-            </a></div>
-            {%- endif -%}
-        {%- endif -%}
-        {%- endfor -%}
-        {%- for note in site.pages -%}
-        {%- if note.url != page.url -%}
-            {%- if note.content contains wiki_link_title -%}
-            <div class="related-group"><a href="{{note.url}}">
-                <p class="related-title">{{ note.title }}</p>
-                <p class="related-excerpt">{{ note.content | replace: "[[","" | replace: "]]"," | markdownify | strip_html | truncate: 140 }}</p>
-            </a></div>
-            {%- endif -%}
-        {%- endif -%}
-        {%- endfor -%}
-    </div>
-    <br/>
+{%- assign wiki_link_title = '' | append: page_title_slug | append: '' -%}
+
+<div class="related" id="jekyll-seamless-backlinks">
+	<h4 class="medium-small">Links to this page</h4>
+	<div class="related-wrapper">
+
+		{%- for note in site.documents -%}
+			{%- if note.url != page.url -%}
+				{%- if note.content contains wiki_link_title -%}
+
+				<div class="related-group"><a href="{{note.url}}">
+					<p class="related-title">{{ note.title }}</p>
+					<p class="related-excerpt">{{ note.content | markdownify | strip_html | truncate: 140 }}</p>
+				</a></div>
+
+				{%- endif -%}
+			{%- endif -%}
+		{%- endfor -%}
+
+	</div>
+<br/>
 </div>
+
 {%- endif -%}
