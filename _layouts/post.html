@@ -23,7 +23,7 @@ layout: default
 			<h5>{{ category | capitalize }}</h5>
 			{% assign recipes = site.data.cats[category] %}
 			<ul>{% for recipe in recipes %}
-				<li><a href="/recipes/{{ recipe[0] }}">{{ recipe[1] }}</a></li>{% endfor %}
+				<li><a href="/recipes/{{ recipe[0] | slugify }}">{{ recipe[1] }}</a></li>{% endfor %}
 			</ul>
 		{% endfor %}
 
