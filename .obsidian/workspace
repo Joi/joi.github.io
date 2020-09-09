@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-09-08-Pork-Spare-Ribs.md",
+            "file": "_pages/index.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-09-08-Pork-Spare-Ribs.md"
+                "file": "_pages/index.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_pages/index.md",
+    "_pages/reverse-sear.md",
     "_posts/2020-09-08-Pork-Spare-Ribs.md",
     "_pages/evaporation-effect.md",
-    "_pages/reverse-sear.md",
-    "_posts/2020-08-02-reverse-sear.md",
-    "_pages/Untitled.md"
+    "_posts/2020-08-02-reverse-sear.md"
   ]
 }
