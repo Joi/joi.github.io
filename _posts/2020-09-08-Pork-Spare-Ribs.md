@@ -35,7 +35,7 @@ As I continue to learn more about cooking meat, I wonder what will happen if I s
 - 5:00 PM - Internal Temperature was 177ºF. I increased oven temp to 275ºF worried that it was going too slow.
 - 5:10 PM - I thought about it some more and reduced the oven temperature to 210ºF  and the internal temp was 180ºF. Hit my target! Now to try to keep it below 200ºF mostly above 180ºF.
 - 5:25 PM - Seems like temperature went DOWN! It was in the low 170ºFs in a few places. Increased oven temp to 275ºF. I wonder if it was the [[Evaporation Effect]].
-- 5:45 PM - pulled ribs, and seared each side for 3 min after coating with BBQ sauce.
+- 5:45 PM - pulled ribs, and seared, in oven, each side for 3 min after coating with BBQ sauce.
 
 Contrary to my fears, the ribs turned out great.
 
