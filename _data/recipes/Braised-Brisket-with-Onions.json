@@ -13,7 +13,6 @@
     "description": "<p>Based mostly on this:</p>\n<p>https://dinnerthendessert.com/easy-beef-brisket-recipe/</p>\n<p>Also see:</p>\n<p>https://www.cooksillustrated.com/articles/552-how-to-braise-brisket</p>\n",
     "directions": "<p>Dry brine brisket for a day or two</p>\n<p>Preheat oven for 325ºF</p>\n<p>Saute onions in butter for 20 min until caramelized.</p>\n<p>Add oil and sear brisket on both sides - 3 min</p>\n<p>Remove brisket, add garlic, broth and Worcestershire sauce, mix and replace brisket fat side up.</p>\n<p>Add onions.</p>\n<p>Bake in Dutch Oven at 325 for 1 ½ hours and then reduce to 250ºF after the internal temperature hits 180ºF and bake for 2 - 3 hours. Internal temperature - 200ºF.</p>\n<p>Pour off excess fat and reduce over heat by ½ - 5 min or so.</p>\n",
     "ingredients": "<p>Brisket, 5 lb</p>\n<ol>\n<li>4 Onions, sliced</li>\n<li>4 tbsp unsalted butter</li>\n<li>½ tsp Kosher salt</li>\n<li>2 tbsp of Olive oil</li>\n<li>2 tbsp Worcestershire sauce</li>\n<li>2 cup broth\nSalt and pepper</li>\n</ol>\n",
-    "notes": "<p>None</p>\n",
     "nutrition": "<p>None</p>\n"
   },
   "image_url": null,
@@ -26,56 +25,56 @@
   "photos": [
     {
       "filename": "58DC568A-93ED-4451-8038-B1F5EDC206CD-50715-00076560D4C83250.jpg",
-      "name": "1"
+      "name": "01"
+    },
+    {
+      "filename": "32162939-170F-4108-9424-DD61D4D4E24D-50715-000765613985F72B.jpg",
+      "name": "02"
+    },
+    {
+      "filename": "F2AAB4FE-7F5B-4659-817F-3A9592945F0F-50715-00076561AE3CA524.jpg",
+      "name": "03"
+    },
+    {
+      "filename": "D8C6F2DC-BC4F-49ED-BCEF-DBD8E4215438-50715-00076562465ACD71.jpg",
+      "name": "04"
+    },
+    {
+      "filename": "F1628B4E-51CF-4E40-AC90-AEA7D354D656-50715-00076562A7353A27.jpg",
+      "name": "05"
+    },
+    {
+      "filename": "A5065799-9472-4178-B2F7-D6D076A18C45-50715-00077645F4E993B2.jpg",
+      "name": "06"
+    },
+    {
+      "filename": "10C79E1A-E86C-4030-9986-17CD4EBBC68A-50715-00077646828C79F2.jpg",
+      "name": "07"
+    },
+    {
+      "filename": "DB0AFAE4-08D8-4031-B54D-C39C747C5D1C-15281-00000A054D7B82FD.jpg",
+      "name": "08"
+    },
+    {
+      "filename": "A29DA219-01F1-4AE7-89DB-D723D0EA2CD0-15281-00000A055536D9CA.jpg",
+      "name": "09"
     },
     {
       "filename": "EF25BF66-00E3-4D6F-9643-0427856E7C86-15281-00000A055C03A13D.jpg",
       "name": "10"
-    },
-    {
-      "filename": "32162939-170F-4108-9424-DD61D4D4E24D-50715-000765613985F72B.jpg",
-      "name": "2"
-    },
-    {
-      "filename": "F2AAB4FE-7F5B-4659-817F-3A9592945F0F-50715-00076561AE3CA524.jpg",
-      "name": "3"
-    },
-    {
-      "filename": "D8C6F2DC-BC4F-49ED-BCEF-DBD8E4215438-50715-00076562465ACD71.jpg",
-      "name": "4"
-    },
-    {
-      "filename": "F1628B4E-51CF-4E40-AC90-AEA7D354D656-50715-00076562A7353A27.jpg",
-      "name": "5"
-    },
-    {
-      "filename": "A5065799-9472-4178-B2F7-D6D076A18C45-50715-00077645F4E993B2.jpg",
-      "name": "6"
-    },
-    {
-      "filename": "10C79E1A-E86C-4030-9986-17CD4EBBC68A-50715-00077646828C79F2.jpg",
-      "name": "7"
-    },
-    {
-      "filename": "DB0AFAE4-08D8-4031-B54D-C39C747C5D1C-15281-00000A054D7B82FD.jpg",
-      "name": "8"
-    },
-    {
-      "filename": "A29DA219-01F1-4AE7-89DB-D723D0EA2CD0-15281-00000A055536D9CA.jpg",
-      "name": "9"
     }
   ],
   "photos_dict": {
-    "1": "58DC568A-93ED-4451-8038-B1F5EDC206CD-50715-00076560D4C83250.jpg",
-    "10": "EF25BF66-00E3-4D6F-9643-0427856E7C86-15281-00000A055C03A13D.jpg",
-    "2": "32162939-170F-4108-9424-DD61D4D4E24D-50715-000765613985F72B.jpg",
-    "3": "F2AAB4FE-7F5B-4659-817F-3A9592945F0F-50715-00076561AE3CA524.jpg",
-    "4": "D8C6F2DC-BC4F-49ED-BCEF-DBD8E4215438-50715-00076562465ACD71.jpg",
-    "5": "F1628B4E-51CF-4E40-AC90-AEA7D354D656-50715-00076562A7353A27.jpg",
-    "6": "A5065799-9472-4178-B2F7-D6D076A18C45-50715-00077645F4E993B2.jpg",
-    "7": "10C79E1A-E86C-4030-9986-17CD4EBBC68A-50715-00077646828C79F2.jpg",
-    "8": "DB0AFAE4-08D8-4031-B54D-C39C747C5D1C-15281-00000A054D7B82FD.jpg",
-    "9": "A29DA219-01F1-4AE7-89DB-D723D0EA2CD0-15281-00000A055536D9CA.jpg"
+    "01": "58DC568A-93ED-4451-8038-B1F5EDC206CD-50715-00076560D4C83250.jpg",
+    "02": "32162939-170F-4108-9424-DD61D4D4E24D-50715-000765613985F72B.jpg",
+    "03": "F2AAB4FE-7F5B-4659-817F-3A9592945F0F-50715-00076561AE3CA524.jpg",
+    "04": "D8C6F2DC-BC4F-49ED-BCEF-DBD8E4215438-50715-00076562465ACD71.jpg",
+    "05": "F1628B4E-51CF-4E40-AC90-AEA7D354D656-50715-00076562A7353A27.jpg",
+    "06": "A5065799-9472-4178-B2F7-D6D076A18C45-50715-00077645F4E993B2.jpg",
+    "07": "10C79E1A-E86C-4030-9986-17CD4EBBC68A-50715-00077646828C79F2.jpg",
+    "08": "DB0AFAE4-08D8-4031-B54D-C39C747C5D1C-15281-00000A054D7B82FD.jpg",
+    "09": "A29DA219-01F1-4AE7-89DB-D723D0EA2CD0-15281-00000A055536D9CA.jpg",
+    "10": "EF25BF66-00E3-4D6F-9643-0427856E7C86-15281-00000A055C03A13D.jpg"
   },
   "prep_time": "",
   "rating": 5,
