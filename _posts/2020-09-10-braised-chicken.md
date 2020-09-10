@@ -1,0 +1,12 @@
+---
+layout: post
+Title: Braised Chicken
+categories: Chicken Braising
+---
+As the weather cools, it's becoming that time of year again when braises and stews taste great.
+
+Braised chicken was one of my early favorites at the beginning of the COVID lockdown and I'm now returning to it with more experience and thoughts.
+
+I'm starting with a 3 lb chicken from Eataly Boston which I spatchcocked and dry brined yesterday.
+
+I think I'll cut up the pieces and oven braise it in a tomato sauce.

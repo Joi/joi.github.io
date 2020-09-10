@@ -19,9 +19,9 @@ title: "Whetstones"
 | Shapton | 1500 | Kuromaku Professional |
 | Yoshihiro | 3000 | Professional Grade Toishi |
 | Naniwa | 5000 | Professional Stone |
-| Shapton | 5000 | Kuromaku Professional |
+| Shapton | 5000 | "Wine" Kuromaku |
 | Naniwa | 8000 | Junpaku |
-| Shapton | 8000 | Kuromaku Professional |
+| Shapton | 8000 | "Melon" Kuromaku |
 | Naniwa | 10000 | Professional Stone |
 | Naniwa | 12000 | Nagura |
 
