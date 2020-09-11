@@ -418,6 +418,13 @@ a:active,
 	list-style-type: circle;
 	padding-left: 2px;
 }
+#backlinks {
+  background-color: #FFEEE3;
+}
+.marker {
+  font-family: 'Permanent Marker';
+  color: #F60;
+}
 footer {
   margin-top: 100px;
 }
@@ -428,7 +435,6 @@ footer #techpro {
 #big-photo {
   margin-bottom: 2em;
 }
-
 
 /* DEBUG */
 

@@ -58,19 +58,19 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      content-type: "post" # to review - see post.html layout
+      i_am  : "post" # to review - see post.html layout
   - scope:
       path: "_pages" # Source path!
       type: "pages"
     values:
       layout: "page"
-      content-type: "page" # to review - see post.html layout
+      i_am  : "page" # to review - see post.html layout
   - scope:
       path: "_recipes"
       type: "recipes" # Refers to the collections key name
     values:
       layout: "recipe"
-      content-type: "recipe" # to review - see post.html layout
+      i_am  : "recipe" # to review - see post.html layout
 
 
 

@@ -1,6 +1,9 @@
+{% assign debug = false %}
+{% assign dump  = false %}
 {% comment %} --- DEBUG ---------------------- {% endcomment %}
   {% if debug %}
   <pre>
+  <b>page.i_am :</b> {{ page.i_am }}
   <b>page.title:</b> {{ page.title }}
   <b>page.url  :</b> {{ page.url }}
   <b>page.date :</b> {{ page.date }}
@@ -22,23 +25,24 @@
   {% endif %}
 {% comment %} --- END DEBUG ------------------ {% endcomment %}
 
-{%- for note in site.documents -%}
-	{%- if note.url != page.url -%}
-		{%- if note.content contains wiki_link_title -%}
+{%- for link_origin in site.documents -%}
+	{%- if link_origin.url != page.url -%}
+		{%- if link_origin.content contains wiki_link_title -%}
       {%- assign link_count = link_count | plus:1 -%}
 
 {% comment %} --- DEBUG ---------------------- {% endcomment %}
   {% if debug %}
   {{link_count}}<br><br>
   <pre>
-  <b>note.title:</b> {{note.title}}
-  <b>note.url  :</b> {{note.url}}
-  <b>note.date :</b> {{note.date}}
-  <b>note.id   :</b> {{note.id}}
-  <b>note.dir  :</b> {{note.dir}}
-  <b>note.name :</b> {{note.name}}
-  <b>note.slug :</b> {{note.slug}}
-  <b>note.relative_path :</b> {{note.relative_path}}
+  <b>link_origin.i_am :</b> {{link_origin.i_am}}
+  <b>link_origin.title:</b> {{link_origin.title}}
+  <b>link_origin.url  :</b> {{link_origin.url}}
+  <b>link_origin.date :</b> {{link_origin.date}}
+  <b>link_origin.id   :</b> {{link_origin.id}}
+  <b>link_origin.dir  :</b> {{link_origin.dir}}
+  <b>link_origin.name :</b> {{link_origin.name}}
+  <b>link_origin.slug :</b> {{link_origin.slug}}
+  <b>link_origin.relative_path :</b> {{link_origin.relative_path}}
   </pre>
   {% endif %}
 {% comment %} --- END DEBUG ------------------ {% endcomment %}
@@ -50,17 +54,17 @@
 {%- if link_count > 0 -%}
 {%- assign wiki_link_title = '' | append: page_title_slug | append: '' -%}
 
-<div class="related" id="jekyll-seamless-backlinks">
-	<h4 class="medium-small">Links to this page</h4>
+<div class="related">
+	<h4 class="marker">I refer to this {{ page.i_am }} in</h4>
 	<div class="related-wrapper">
 
-		{%- for note in site.documents -%}
-			{%- if note.url != page.url -%}
-				{%- if note.content contains wiki_link_title -%}
+		{%- for link_origin in site.documents -%}
+			{%- if link_origin.url != page.url -%}
+				{%- if link_origin.content contains wiki_link_title -%}
 
-				<div class="related-group"><a href="{{note.url}}">
-					<p class="related-title">{{ note.title }}</p>
-					<p class="related-excerpt">{{ note.content | markdownify | strip_html | truncate: 140 }}</p>
+				<div class="related-group"><a href="{{link_origin.url}}">
+					<p class="related-title">{{ link_origin.title }}</p>
+					<p class="related-excerpt">{{ link_origin.content | markdownify | strip_html | truncate: 140 }}</p>
 				</a></div>
 
 				{%- endif -%}
