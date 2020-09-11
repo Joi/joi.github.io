@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Whetstones"
+categories: Sharpening Jnat Synthetic-stones
 ---
 
 ---
@@ -37,12 +38,12 @@ title: "Whetstones"
 | Belgian Coticule | Whetstone | Yellow |
 | Belgian Coticule | Small Whetstone | Yellow |
 |Tsushima  | | Black Nagura |
-| Shobundani | Awasedo| Mizu Asagi |
-| Amakusa | Nakato | Binsui |
-| Ohira | Awasedo | Asagi |
-| Ozuku | Awasedo | Asagi |
-| Ozuku | Awasedo | Mizu Tomoe | [[20200911122411]] |
-| Hideriyama | Suita | Renga |
+| Shobundani | Awasedo| Mizu Asagi | [[shobudani-001]] |
+| Amakusa | Nakato | Binsui | [[binsui-001]] |
+| Ohira | Awasedo | Asagi | [[ohira-001]] |
+| Ozuku | Awasedo | Asagi | [[ozuku-001]] |
+| Ozuku | Awasedo | Mizu Tomoe | [[ozuku-002]] |
+| Hideriyama | Suita | Renga | [[hideriyama-001]] |
 | Mikawa | Botan Nagura | |
 |Mikawa | Tenjyou Nagura | |
 | Mikawa | Mejiro Nagura | |

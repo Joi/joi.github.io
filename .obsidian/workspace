@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/20200911122411.md",
+            "file": "_pages/whetstones.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/20200911122411.md"
+                "file": "_pages/whetstones.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_pages/20200911122411.md",
     "_pages/whetstones.md",
-    "_pages/20200911122411 Ozuku very hard mizu tomae.md",
-    "_pages/Untitled.md",
-    "_posts/Untitled.md"
+    "_pages/binsui-001.md",
+    "_pages/ohira-001.md",
+    "_pages/ozuku-001.md",
+    "_pages/ozuku-002.md"
   ]
 }

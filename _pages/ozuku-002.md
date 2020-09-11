@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ozuku very hard mizu tomae razor stone
+title: Ozuku Very Hard Mizu Tomae
 Category: Jnat
 ---
 

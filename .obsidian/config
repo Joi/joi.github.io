@@ -35,5 +35,6 @@
     "apprentence",
     "pescatarian",
     "vide"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
