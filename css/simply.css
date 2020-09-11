@@ -418,10 +418,18 @@ a:active,
 	list-style-type: circle;
 	padding-left: 2px;
 }
-
+footer {
+  margin-top: 100px;
+}
 footer #techpro {
     width: 75px;
 }
+/* RECIPE PAGE */
+#big-photo {
+  margin-bottom: 2em;
+}
+
+
 /* DEBUG */
 
 pre {

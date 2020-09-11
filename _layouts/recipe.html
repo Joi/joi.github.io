@@ -2,88 +2,149 @@
 layout: default
 ---
 <!-- template: recipe.html -->
+
+{%- comment -%}
+---- VARS ------------------------------------------------
+{%- endcomment -%}
+
 {% assign json_data = site.data.recipes[page.filename] %}
-<div class="row">
+
+{%- if json_data.photo_large -%}
+  {%- assign photo_hero = json_data.photo_large -%}
+{%- elsif json_data.photos[0].filename -%}
+  {%- assign photo_hero = json_data.photos[0].filename -%}
+{%- comment -%}
+{%- elsif json_data.photo -%}
+  {%- assign photo_hero = json_data.photo -%}
+{%- endcomment -%}
+{%- else -%}
+  {%- assign photo_hero = nil -%}
+{%- endif -%}
+
+{%- comment -%}
+---- END VARS ------------------------------------------------
+{%- endcomment -%}
+
+<div class="row" id="title">
 	<div class="large-2 columns">&nbsp;</div>
 	<div class="large-10 columns">
-		<h3>{{ page.title }}</h3>
+    <h3>{{ page.title }}</h3>
+    {% if json_data.source %}
+      <p class="source">Source: 
+        {% if json_data.source_url == "" %}
+          {{ json_data.source }}
+        {% else %}
+          <a href="{{ json_data.source_url }}" title="{{ json_data.source }}">{{ json_data.source }}</a>
+        {% endif %}
+      </p>
+    {% endif %}
 	</div>
 </div>
-<div class="row" id="content">
-	<div class="large-2 columns" id="left-sidebar">
-		<div class="" id="recipe-photos">
-		{% if json_data.photos %}
-			{% for phot in json_data.photos %}
-				<figure>
-					<a
-						href="/images/recipes/{{json_data.uid}}/{{ phot.filename }}" 
-						title="recipe photo - {{ phot.name }}">
-							<img
-								src="/images/recipes/{{json_data.uid}}/{{ phot.filename }}"
-								alt="recipe photo - {{ phot.name }}" />
-					</a>
-				</figure>
-			{% endfor %}
-		{% else %}
-			{% if json_data.photo %}
-				<figure>
-					<a
-						href="/images/recipes/{{json_data.uid}}/{{json_data.photo}}" 
-						title="recipe photo from source">
-							<img
-								src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}"
-								alt="recipe photo from source" />
-						</a>
-				</figure>
-			{% else %}
-				<!-- No photos -->
-			{% endif %}
-		{% endif %}
-		&nbsp;
-		</div>
+
+
+{%- if photo_hero -%}
+<!-- Hero Banner Photo -->
+<div class="row" id="big-photo">
+	<div class="large-12 columns">
+		<img src="/images/recipes/{{json_data.uid}}/{{photo_hero}}">
 	</div>
-	<div class="large-6 columns" id="main">
-
-		{% if json_data.source != "" %}
-		<p class="source">Source: 
-			{% if json_data.source_url == "" %}
-				{{ json_data.source }}
-			{% else %}
-				<a href="{{ json_data.source_url }}" title="{{ json_data.source }}">{{ json_data.source }}</a>
-			{% endif %}
-		</p>
-		{% endif %}
-
-		{%- if content -%}
-		<h4>Notes</h4>
-		{%- include content.html -%}
-		{% endif %}
-
-		{% for getParam in json_data.html %}
-			{% if getParam[1] != "None" %}
-			<h4 id="{{getParam[0]}}">{{getParam[0] | capitalize}}</h4>
-			<div class="box box-{{getParam[0]}}">
-				{{getParam[1]}}
-			</div>
-			{% endif %}
-		{% endfor %}
-
-		<hr>
-		{%- comment -%}
-		<ul class="toc">
-		{% for getParam in json_data.html %}
-		<li><a href="#{{getParam[0]}}">{{getParam[0] | capitalize}}</a></li>
-		{% endfor %}
-		</ul>
-		<hr>
-		{%- endcomment -%}
-	</div>
-
-	<div class="large-4 columns" id="sidebar">
-		{%- comment -%}{%- endcomment -%}
-		{%- include backlinks.html -%}
-	</div>
-
 </div>
+<!-- End Hero Banner Photo -->
+{%- else -%}
+<hr>
+{%- endif -%}
+
+
+<div class="row" id="row-one">
+  <div class="large-8 columns" id="writeup">
+
+    {% if json_data.html['description'] != null %}
+      <h4 id="description">Description</h4>
+      <div class="box box-description">
+        {{ json_data.html['description'] }}
+      </div>
+    {% endif %}
+
+    {%- if content != "" -%}
+      <h4>Notes</h4>
+      {%- include content.html -%}
+    {% endif %}
+  </div>
+  <div class="large-4 columns" id="backlinks">
+    {%- comment -%}{%- endcomment -%}
+    {%- include backlinks.html -%}
+  </div>
+</div><!-- #row-one -->
+<hr>
+
+<div class="row" id="row-two">
+
+  <div class="large-2 columns" id="photo-sidebar">
+    <div class="" id="recipe-photos">
+    {% if json_data.photos %}
+      {% for phot in json_data.photos %}
+        {%- if phot.filename != photo_hero -%}
+          <figure>
+            <a
+              href="/images/recipes/{{json_data.uid}}/{{ phot.filename }}" 
+              title="recipe photo - {{ phot.name }}">
+                <img
+                  src="/images/recipes/{{json_data.uid}}/{{ phot.filename }}"
+                  alt="recipe photo - {{ phot.name }}" />
+            </a>
+          </figure>
+        {%- endif -%}
+      {% endfor %}
+    {% else %}
+      {% if json_data.photo and json_data.photo != photo_hero %}
+        <figure>
+          <a
+            href="/images/recipes/{{json_data.uid}}/{{json_data.photo}}" 
+            title="recipe photo from source">
+              <img
+                src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}"
+                alt="recipe photo from source" />
+            </a>
+        </figure>
+      {% else %}
+        <!-- No photos -->
+      {% endif %}
+    {% endif %}
+    &nbsp;
+    </div>
+  </div><!-- #photo-sidebar -->
+
+  <div class="large-6 columns">
+    {% if json_data.html['directions'] != null %}
+      <h4 id="directions">Directions</h4>
+      <div class="box box-directions">
+        {{ json_data.html['directions'] }}
+      </div>
+    {% endif %}
+  </div>
+  <div class="large-4 columns">
+    {% if json_data.html['ingredients'] != null %}
+      <h4 id="ingredients">Ingredients</h4>
+      <div class="box box-ingredients">
+        {{ json_data.html['ingredients'] }}
+      </div>
+    {% endif %}
+  </div>
+</div><!-- #row-two -->
+
+
+{% if json_data.html['nutrition'] != null %}
+<hr>
+<div class="row" id="row-three">
+  <div class="large-10 columns">
+      <h4 id="nutrition">Nutritional Facts</h4>
+      <div class="box box-nutrition">
+        {{ json_data.html['nutrition'] }}
+      </div>
+  </div>
+</div><!-- #row-three -->
+{% endif %}
+
+</div><!-- #content -->
 
 <!-- /template: recipe.html -->
