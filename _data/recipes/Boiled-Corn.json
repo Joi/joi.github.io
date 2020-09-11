@@ -9,10 +9,10 @@
   "difficulty": "",
   "directions": "Boil water in Dutch Oven.\n\nAdd ¼ cup of butter and some pepper.\n\nTurn off heat and add corn.\n\nAllow to sit for 20 min.\n\nRemove corn and season with salt.",
   "html": {
-    "description": "<p>None</p>\n",
+    "description": null,
     "directions": "<p>Boil water in Dutch Oven.</p>\n<p>Add ¼ cup of butter and some pepper.</p>\n<p>Turn off heat and add corn.</p>\n<p>Allow to sit for 20 min.</p>\n<p>Remove corn and season with salt.</p>\n",
     "ingredients": "<p>Corn\nButter\nSalt\nPepper</p>\n",
-    "nutrition": "<p>None</p>\n"
+    "nutrition": null
   },
   "image_url": null,
   "ingredients": "Corn\nButter\nSalt\nPepper",

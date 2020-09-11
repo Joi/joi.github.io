@@ -9,10 +9,10 @@
   "difficulty": null,
   "directions": "Get the Recipe",
   "html": {
-    "description": "<p>None</p>\n",
+    "description": null,
     "directions": "<p>Get the Recipe</p>\n",
     "ingredients": "<p>More Breadcrumbs</p>\n",
-    "nutrition": "<p>None</p>\n"
+    "nutrition": null
   },
   "image_url": "https://www.seriouseats.com/2019/07/20190620-grilled-swordfish-steak-vicky-wasik-5-1500x1125.jpg",
   "ingredients": "More Breadcrumbs",

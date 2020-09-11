@@ -1,5 +1,7 @@
 {
-  "categories": null,
+  "categories": [
+    "Pork Spare Ribs"
+  ],
   "cook_time": "",
   "created": "2020-09-09 19:22:50",
   "created_ts": 1599679370,
@@ -7,10 +9,10 @@
   "difficulty": "",
   "directions": "Pre-heat oven to 250ºF.\n\nSeason ribs and put in oven covered with foil.\n\nBake until internal temperature reaches 190-203ºF - 3 - 5 hours.\n\nCoat with BBQ sauce and broil for 3 min.\n\nFlip, coat and broil again.\n",
   "html": {
-    "description": "<p>None</p>\n",
+    "description": null,
     "directions": "<p>Pre-heat oven to 250ºF.</p>\n<p>Season ribs and put in oven covered with foil.</p>\n<p>Bake until internal temperature reaches 190-203ºF - 3 - 5 hours.</p>\n<p>Coat with BBQ sauce and broil for 3 min.</p>\n<p>Flip, coat and broil again.</p>\n",
     "ingredients": "<p>Pork Spare Ribs</p>\n<p><strong>Homemade Pork Seasoning Rub</strong></p>\n<ol>\n<li>½ cup brown sugar</li>\n<li>¼ cup smoked paprika</li>\n<li>1 tbsp coarse ground black pepper</li>\n<li>1 tbsp kosher salt</li>\n<li>1 tbsp chili powder</li>\n<li>1 tbsp garlic powder</li>\n<li>1 tbsp onion powder</li>\n<li>1 tsp cayenne</li>\n</ol>\n<p>BBQ Sauce</p>\n",
-    "nutrition": "<p>None</p>\n"
+    "nutrition": null
   },
   "image_url": null,
   "ingredients": "Pork Spare Ribs\n\n**Homemade Pork Seasoning Rub**\n\n1. ½ cup brown sugar\n1. ¼ cup smoked paprika\n1. 1 tbsp coarse ground black pepper\n1. 1 tbsp kosher salt\n1. 1 tbsp chili powder\n1. 1 tbsp garlic powder\n1. 1 tbsp onion powder\n1. 1 tsp cayenne\n\nBBQ Sauce",
@@ -29,7 +31,7 @@
     "1": "E766C562-5EBC-4C39-A1B6-41EB6963081B-50715-00081F5A55BD3B82.jpg"
   },
   "prep_time": "",
-  "rating": 0,
+  "rating": 5,
   "servings": "",
   "source": "",
   "source_url": "",

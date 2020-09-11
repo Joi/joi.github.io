@@ -3,4 +3,3 @@ title: "Pan Seared Bison Ny Strip Steaks with Red Wine Sauce"
 filename: "Pan-Seared-Bison-Ny-Strip-Steaks-with-Red-Wine-Sauce"
 created: 2020-03-21 20:57:36
 ---
-None
