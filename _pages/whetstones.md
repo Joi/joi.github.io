@@ -24,6 +24,7 @@ title: "Whetstones"
 | Shapton | 8000 | "Melon" Kuromaku |
 | Naniwa | 10000 | Professional Stone |
 | Naniwa | 12000 | Nagura |
+| Shapton | 30000 | "Purple" Kuromaku |
 
 - [μm / grit / mesh conversion chart](https://www.markvlab.com/images/stories/pdf/GRIT-MICRON-MESH-CONVERSIONS.pdf)
 
