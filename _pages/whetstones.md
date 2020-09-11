@@ -7,8 +7,8 @@ title: "Whetstones"
 
 #### Synthetic Stones
 
-| Maker  | Grit | Type |
-| :--- | ---: | --- |
+| Maker  | Grit | Type | Number |
+| :--- | ---: | --- | :--- | 
 | DMT | 120 μm/120 mesh | Dia-Flat Lapping Plate |
 | Atoma | 140 | Diamond Plate |
 | Naniwa | 220 | Flattening Stone |
@@ -28,12 +28,12 @@ title: "Whetstones"
 
 - [μm / grit / mesh conversion chart](https://www.markvlab.com/images/stories/pdf/GRIT-MICRON-MESH-CONVERSIONS.pdf)
 
-* * *
+---
 
 #### Natural Stones
 
-| Quarry | Type | Color |
-| --- | --- | --- |
+| Quarry | Type | Color | Number |
+| --- | --- | --- | --- |
 | Belgian Coticule | Whetstone | Yellow |
 | Belgian Coticule | Small Whetstone | Yellow |
 |Tsushima  | | Black Nagura |
@@ -41,6 +41,7 @@ title: "Whetstones"
 | Amakusa | Nakato | Binsui |
 | Ohira | Awasedo | Asagi |
 | Ozuku | Awasedo | Asagi |
+| Ozuku | Awasedo | Mizu Tomoe | [[20200911122411]] |
 | Hideriyama | Suita | Renga |
 | Mikawa | Botan Nagura | |
 |Mikawa | Tenjyou Nagura | |
