@@ -418,11 +418,13 @@ a:active,
 	list-style-type: circle;
 	padding-left: 2px;
 }
-#backlinks {
-  background-color: #FFEEE3;
-}
 .marker {
   font-family: 'Permanent Marker';
+}
+.bgc-lorange {
+  background-color: #FFEEE3;
+}
+.fgc-orange {
   color: #F60;
 }
 footer {

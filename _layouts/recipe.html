@@ -26,9 +26,8 @@ layout: default
 {%- endcomment -%}
 
 <div class="row" id="title">
-	<div class="large-2 columns">&nbsp;</div>
-	<div class="large-10 columns">
-    <h3>{{ page.title }}</h3>
+	<div class="large-12 columns">
+    <h2 class="marker">{{ page.title }}</h2>
     {% if json_data.source %}
       <p class="source">Source: 
         {% if json_data.source_url == "" %}
@@ -70,7 +69,7 @@ layout: default
       {%- include content.html -%}
     {% endif %}
   </div>
-  <div class="large-4 columns" id="backlinks">
+  <div class="large-4 columns bgc-lorange" id="backlinks">
     {%- comment -%}{%- endcomment -%}
     {%- include backlinks.html -%}
   </div>
