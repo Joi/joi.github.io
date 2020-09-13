@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sharpening and Honing
+title: Getting Back into Sharpening and Honing
 tags: sharpening
 category: Sharpening Knives
 ---
