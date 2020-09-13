@@ -30,4 +30,3 @@ The "finishing stones" at high grits are really mostly polishing.
 - [SharpeningSupplies](https://www.sharpeningsupplies.com/) - Great general sharpening supplies store.
 - [Japan Stones](https://www.japanstones.com/) - High quality Japanese natural stones site with great service, but small selection and fairly high end.
 - [Tomo Nagura on Etsy](https://www.etsy.com/market/tomo_nagura).
-- 
