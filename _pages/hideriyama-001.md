@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: page
 title: Hideriyama Renga Suita
 category: Jnat
 ---
+![Hideriyama Renga Suita](/images/hideriyama-001.jpeg)
+
 [Purchased from FiloEdge](https://www.etsy.com/shop/FiloEdge)
 
 > Vintage from the 1980s

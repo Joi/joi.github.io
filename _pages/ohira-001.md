@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: page
 title: Ohira Asagi
 category: Jnat
 ---
+![Ohira Asagi](/images/ohira-001.jpeg)
+
 Purchased from [RocknRazors](https://www.etsy.com/shop/RocknRazors)
 
 > 

@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: page
 title: Binsui
 category: Jnat
 ---
+![Binsui](/images/binsui-001.jpeg)
+
 [Purchased from TomoNagura](https://www.etsy.com/shop/TomoNagura)
 
 > Binsui is not really rare, but there are a lot of stones marked as Binsui that are actually Amakusa, which is an inferior stone. Finding a very clean example of Binsui is somewhat of a challenge, because they are usually grabbed by Togishi because they are the 2nd stone in a Nihonto polisher's progression.

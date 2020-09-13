@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: page
 title: Ozuku Hard Asagi
 Category: Jnat
 ---
+![Ozuku Hard Asagi](/images/ozuku-001.jpeg)
 
 [Purchased from Japan Stones - #704 Ozuku hard asagi](https://www.japanstones.com/product-page/704-ozuku-hard-asagi)
 

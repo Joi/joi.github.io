@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: page
 title: Shobudani Awasedo
 category: Jnat
 ---
+
+![Shobudani Awasedo](/images/shobudani-001.jpeg)
+
 [Purchased from TomoNagura](https://www.etsy.com/shop/TomoNagura)
 
 > Shobudani is the quarry - one of the two original Honyama mines in Kyoto Japan.

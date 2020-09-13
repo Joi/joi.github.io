@@ -4,48 +4,30 @@ title: "Whetstones"
 categories: Sharpening Jnat Synthetic-stones
 ---
 
----
+Whetstones are stones used to sharpen knives, tools and razors.
 
-#### Synthetic Stones
+There are synthetic whetstones created by compressing some abrasive material. There are also "natural" whetstones that are mined.
 
-| Maker  | Grit | Type | Number |
-| :--- | ---: | --- | :--- | 
-| DMT | 120 μm/120 mesh | Dia-Flat Lapping Plate |
-| Atoma | 140 | Diamond Plate |
-| Naniwa | 220 | Flattening Stone |
-| Naniwa | 400 | Super Ceramic "Spash and Go" |
-| Atoma | 600 | Diamond Plate |
-| Naniwa | 600 | Nagura Dressing Stone |
-| Yoshihiro | 1000 | Professional Grade Toishi |
-| Shapton | 1500 | "Blue" Kuromaku |
-| Yoshihiro | 3000 | Professional Grade Toishi |
-| Naniwa | 5000 | Professional Stone |
-| Shapton | 5000 | "Wine" Kuromaku |
-| Naniwa | 8000 | Junpaku |
-| Shapton | 8000 | "Melon" Kuromaku |
-| Naniwa | 10000 | Professional Stone |
-| Naniwa | 12000 | Nagura |
-| Shapton | 30000 | "Purple" Kuromaku |
+Whetstones are often sorted by "grit" which measures the abrasiveness of the stone. Sometimes people refer to the size of the particles in μ or other measures.
 
-- [μm / grit / mesh conversion chart](https://www.markvlab.com/images/stories/pdf/GRIT-MICRON-MESH-CONVERSIONS.pdf)
+Natural stones do not have "grit" in the same way as synthetic stones because the particles in natural stones vary and when the particles come off of the stone creating "slurry," they also break down into finer less abrasive particles. The particles from Japanese natural stones are often described as "flakes." (Some argue that not all of them are flaky
+
+Japanese natural stones are often rated with a "hardness" and a "fineness" where hardness is how easily particles are released and fineness more about the particle size. There is [some controversy](https://www.badgerandblade.com/forum/threads/what-is-hardness-in-a-finishing-stone-and-how-does-it-affect-its-finishing-character.326472/) however, with some people arguing that Japanese natural stones all have diverse and roughly the same (2-3 μm size). Some people also talk about the "speed" which describes how quickly the stone works on the blade.
+
+The general idea is stones have abrasives that take material off of the blade by gouging and cutting and leaving scratches. As you get to higher and higher grits, the particles get smaller and the amount of size of the scratches get smaller. At super high grits, you are moving metal around and not really removing much material from the blade.
+
+The "finishing stones" at high grits are really mostly polishing.
 
 ---
+### References:
 
-#### Natural Stones
+- [JNS Grit, Fines and Hardness - Japanese Natural Stones.com](https://www.japanesenaturalstones.com/jns-grit-fines-and-hardnes/)
+- - [TomoNagura.com](http://www.tomonagura.com/) - Run by Keith V Johnson who is a kind of grumpy guy but fairly knowledgeable. He has [a lot of videos on YouTube](https://www.youtube.com/channel/UCoAzNayVM73aqORQICPdQcg) and [a store on Etsy](https://www.etsy.com/market/tomo_nagura).
+- [[My Whetstones]]
 
-| Quarry | Type | Color | Number |
-| --- | --- | --- | --- |
-| Belgian Coticule | Whetstone | Yellow |
-| Belgian Coticule | Small Whetstone | Yellow |
-|Tsushima  | | Black Nagura |
-| Shobundani | Awasedo| Mizu Asagi | [[shobudani-001]] |
-| Amakusa | Nakato | Binsui | [[binsui-001]] |
-| Ohira | Awasedo | Asagi | [[ohira-001]] |
-| Ozuku | Awasedo | Asagi | [[ozuku-001]] |
-| Ozuku | Awasedo | Mizu Tomoe | [[ozuku-002]] |
-| Hideriyama | Suita | Renga | [[hideriyama-001]] |
-| Mikawa | Botan Nagura | |
-|Mikawa | Tenjyou Nagura | |
-| Mikawa | Mejiro Nagura | |
-| Mikawa | Koma Nagura | |
-| Unknown | Tomo Nagura | |
+### Where to buy
+
+- [SharpeningSupplies](https://www.sharpeningsupplies.com/) - Great general sharpening supplies store.
+- [Japan Stones](https://www.japanstones.com/) - High quality Japanese natural stones site with great service, but small selection and fairly high end.
+- [Tomo Nagura on Etsy](https://www.etsy.com/market/tomo_nagura).
+- 
