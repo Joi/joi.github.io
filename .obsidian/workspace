@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
+            "file": "_pages/sharpening-and-honing.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md"
+                "file": "_pages/sharpening-and-honing.md"
               }
             }
           }
@@ -84,10 +84,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_pages/index.md",
-    "_posts/2020-07-24-sharpening-honing.md",
+    "_pages/sharpening-and-honing.md",
     "_pages/whetstones.md",
     "_pages/my-whetstones.md",
-    "_pages/Untitled.md"
+    "_pages/index.md",
+    "_posts/2020-07-24-sharpening-honing.md"
   ]
 }

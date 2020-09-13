@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Whetstones"
+title: Whetstones
 categories: Sharpening Jnat Synthetic-stones
 ---
 
