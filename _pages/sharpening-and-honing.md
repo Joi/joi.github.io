@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Sharpening and Honing
-category: Sharpening Knives Razors
+category: Sharpening Knives Razors Tools
 ---
 Most cutting tools require sharpening. There are various methods and tools for sharpening. For very sharp tools like shavers, they often call it honing rather than sharpening.
 
-The most traditional method is to use [[whetstones]]. Whetstones have different grits or hardness/fineness levels and are used in progression from rough to smooth.
+The most traditional method is to use [[Whetstones|whetstones]]. Whetstones have different grits or hardness/fineness levels and are used in progression from rough to smooth.
 
 You can also use files, leather strops, abrasive compounds embedded in cloth, wood or leather, the palm of your hand, cardboard, the bottom of a plate or just about anything abrasive.
 
@@ -19,7 +19,7 @@ There are several major steps in sharpening anything.
 
 If a knife or a razor has recently been sharpened or honed, stropping may be the only thing required. With a knife, you can do this on a honing rod and with a razor, a strop.
 
-If the tool needs sharpening, the key is to figure out how "gritty" you need to get. If you need to fix geometry on a big knife, you may need to go all the way to a 150 grit diamond plate or something. Usually, if it's just a bevel set, I use a 1000 grit or a 3000 grit depending on how much works there is.
+If the tool needs sharpening, the key is to figure out how "gritty" you need to get. If you need to "fix geometry" on a big knife, you may need to go all the way to a 150 grit diamond plate if you're grinding a thick section of the heel or somethig, but typically you don't need to go much below 1000 grit. If it's just a bevel set, I use a 1000 grit or a 3000 grit depending on how much works there is. I've seen some people boast that they bevel set their razors on a Botan [[Mikawa Nagura]], but I think that's more to show off than for any practical reason.
 
 After that, there is a progression depending on the mood I'm in, how much time I have and how sharp I want things to be.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Whetstones
-categories: Sharpening Jnat Synthetic-stones
+categories: Sharpening Jnat
 ---
 
 Whetstones are stones used in the [[Sharpening and Honing]] of knives, tools and razors.

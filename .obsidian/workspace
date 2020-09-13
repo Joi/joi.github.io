@@ -39,9 +39,7 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {
-                "query": ""
-              }
+              "state": {}
             }
           },
           {
@@ -85,9 +83,9 @@
   },
   "lastOpenFiles": [
     "_pages/sharpening-and-honing.md",
-    "_pages/whetstones.md",
     "_pages/my-whetstones.md",
-    "_pages/index.md",
-    "_posts/2020-07-24-sharpening-honing.md"
+    "_pages/mikawa-nagura.md",
+    "_pages/link-tests.md",
+    "_pages/evaporation-effect.md"
   ]
 }

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Evaporation Effect
+categories: Grilling Science Braising Roasting BBQ
 ---
 
 When meat is cooking it will hit a plateau of temperature as the evaporation cools the meat and prevents it from entering the sweet spot for roasts and braises of 180-200ºF. To get around it, heat at a higher temp like 325ºF before going down to 200ºF after it hits 180ºF.
