@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
+            "file": "_pages/knowledge-and-task-management.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md"
+                "file": "_pages/knowledge-and-task-management.md"
               }
             }
           }
@@ -82,8 +82,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_pages/index.md",
     "_pages/knowledge-and-task-management.md",
+    "_pages/index.md",
     "Knowledge and Task Management.md",
     "_pages/Untitled.md",
     "_pages/whetstones.md"
