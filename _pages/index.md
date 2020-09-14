@@ -16,8 +16,6 @@ I've also started to create some basic guides as references for my cooking.
 * [[Coffee Information]]
 * [[Common Ingredients by Volume and Mass]]
 * [[Volume, Weight and Temperature Conversions]]
-* [[Evaporation Effect]]
-* [[Reverse Sear]]
-* [[Doneness]]
+* [[Grilling]]
 
 All of the five star recipes below are recipes that I've tried and like.

@@ -20,7 +20,7 @@ There are many ways to check for doneness and your mileage may vary, but becomin
 |Doneness|Internal Temp|Type of Meat|
 |---|---|---|
 | Rare (beef, lamb)|120°-125°F|Reverse-seared steaks and tri-tip, prime rib, beef tenderloin|
-Medium-rare (beef, lamb) 130°-135°F Reverse-seared steaks and tri-tip, prime rib, beef tenderloin 
+Medium-rare (beef, lamb)|130°-135°F|Reverse-seared steaks and tri-tip, prime rib, beef tenderloin |
 |Medium (seafood)|140°-145°F|Fish, shellfish|
 |Medium (beef, lamb, pork)|145°-150°F|Beef, pork loin, chops, tenderloin, leg and rack of lamb|
 |Medium (ground meat)|160°F|Hamburgers, sausage, bratwurst, pork roast pork|
