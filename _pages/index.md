@@ -16,5 +16,6 @@ I've also started to create some basic guides as references for my cooking.
 * [[References and Charts]]
 * [[Maintenance]]
 * [[Grilling]]
+* [[Knowledge and Task Management]]
 
 All of the five star recipes below are recipes that I've tried and like.
