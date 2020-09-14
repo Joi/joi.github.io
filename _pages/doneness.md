@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Doneness
+categories: grilling BBQ
 ---
 There are many ways to check for doneness and your mileage may vary, but becoming proficient at doneness is a key to cooking success. Timing helps, but with all of the variability of cooking systems, you must rely on your own tests of doneness.
 
@@ -14,6 +15,7 @@ There are many ways to check for doneness and your mileage may vary, but becomin
 - The meat on ribs should shrink when done. ¼ - ½ inches for baby back ribs, ½ - 1 inches for spare ribs and 1 - 1½ inches for beef back ribs.
 - Fish, such as salmon, should flake when pressed with a finger when done.
 - **Potatoes, onions and similar vegetables** can be tested with a skewer. They can also be squeezed.
+- Finger test of meat doneness is to use your finger to press a steak to check for doneness. Compare to the firmness of the flesh below your thumb on the palm of your hand. The flesh changes firmness from raw - open hand, well-done - thumb on pinkie, medium - thumb on ring finger, medium-rare - thumb on middle finger, rare - thumb on index finger. [Photos are on a Simply Recipes web page about it](https://www.simplyrecipes.com/recipes/the_finger_test_to_check_the_doneness_of_meat).
 
 ### Temperature
 
