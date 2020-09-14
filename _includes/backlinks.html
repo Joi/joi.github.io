@@ -52,7 +52,7 @@
 {%- endfor -%}
 
 {%- if link_count > 0 -%}
-{%- assign wiki_link_title = '' | append: page_title_slug | append: '' -%}
+{%- assign wiki_link_title = '[' | append: page_title_slug | append: '' -%}
 
 <div class="related">
 	<h4 class="marker fgc-orange">I refer to this {{ page.i_am }} in</h4>
