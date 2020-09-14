@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grilling
-category: grilling
+tag: grilling
 ---
 I've been doing a lot of grilling these days and the more I learn, the more I realize I don't know.
 

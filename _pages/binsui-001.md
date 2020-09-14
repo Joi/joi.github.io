@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Binsui
-category: Jnat
+tag: Jnat
 ---
 ![Binsui](/images/binsui-001.jpeg)
 

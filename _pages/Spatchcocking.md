@@ -1,7 +1,7 @@
 ---
 layout: page
 title: spatchcocking
-categories: Spatchcocking Chicken BBQ Grilling Roasting
+tags: Spatchcocking Chicken BBQ Grilling Roasting
 ---
 Spatchcocking is a way to prepare foul so that it is flatter and easier to cook.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ozuku Very Hard Mizu Tomae
-Category: Jnat
+tag: Jnat
 ---
 
 [Purchased from Japan Stones - #620 Ozuku very hard mizu tomae razor stone](https://www.japanstones.com/product-page/1013-okudo-green-asagi-tomae-razor-hone)

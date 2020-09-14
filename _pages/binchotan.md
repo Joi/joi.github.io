@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Binchotan
-category: Grilling BBQ
+tags: Grilling BBQ
 ---
 Binchotan is a Japanese charcoal made from hardwood using a special process yielding a very dense, hot and long-burning form of charcoal.
 

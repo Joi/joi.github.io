@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hideriyama Renga Suita
-category: Jnat
+tag: Jnat
 ---
 ![Hideriyama Renga Suita](/images/hideriyama-001.jpeg)
 

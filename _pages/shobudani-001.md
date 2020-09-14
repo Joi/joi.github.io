@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shobudani Awasedo
-category: Jnat
+tag: JNat
 ---
 
 ![Shobudani Awasedo](/images/shobudani-001.jpeg)

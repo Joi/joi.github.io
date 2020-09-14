@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ohira Asagi
-category: Jnat
+tag: Jnat
 ---
 ![Ohira Asagi](/images/ohira-001.jpeg)
 

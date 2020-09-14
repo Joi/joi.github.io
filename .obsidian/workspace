@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/maintenance.md",
+            "file": "_pages/whetstones.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/maintenance.md"
+                "file": "_pages/whetstones.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_pages/maintenance.md",
-    "_pages/doneness.md",
-    "_posts/2020-09-14-bees-wax-and-cutting-boards.md",
-    "_pages/Spatchcocking.md",
-    "_pages/index.md"
+    "_pages/whetstones.md",
+    "_pages/volume-weight-temp.md",
+    "_pages/spatchcocking.md",
+    "_pages/slurry.md",
+    "_pages/shobudani-001.md"
   ]
 }

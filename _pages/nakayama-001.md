@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nakayama Mizu Tomae
-category: Jnat
+tag: Jnat
 ---
 ![Nakayama Mizu Tomae](/images/nakayama-001.jpeg)
 

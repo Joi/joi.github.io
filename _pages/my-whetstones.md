@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Whetstones
-categories: Sharpening Jnat Synthetic-stones
+tags: Sharpening Jnat Synthetic-stones
 ---
 ---
 
