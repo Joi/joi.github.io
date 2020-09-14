@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/doneness.md",
+            "file": "_posts/2020-09-14-bees-wax-and-cutting-boards.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/doneness.md"
+                "file": "_posts/2020-09-14-bees-wax-and-cutting-boards.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/Untitled.md",
+    "_pages/Untitled.md",
     "_pages/doneness.md",
     "_pages/grilling.md",
-    "_pages/index.md",
-    "_pages/Untitled.md",
-    "_pages/evaporation-effect.md"
+    "_pages/index.md"
   ]
 }
