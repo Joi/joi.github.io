@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/Untitled.md",
+            "file": "_pages/index.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/Untitled.md"
+                "file": "_pages/index.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_pages/index.md",
     "_pages/Untitled.md",
     "_pages/maintenance.md",
     "_posts/2020-09-14-bees-wax-and-cutting-boards.md",
-    "_pages/Untitled 1.md",
-    "Untitled.md"
+    "_pages/Untitled 1.md"
   ]
 }
