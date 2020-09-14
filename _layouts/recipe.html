@@ -26,7 +26,7 @@ layout: default
 {%- endcomment -%}
 
 <div class="row" id="title">
-	<div class="large-12 columns">
+	<div class="small-12 columns">
     <h2 class="marker">{{ page.title }}</h2>
     {% if json_data.source %}
       <p class="source">Source: 
@@ -44,7 +44,7 @@ layout: default
 {%- if photo_hero -%}
 <!-- Hero Banner Photo -->
 <div class="row" id="big-photo">
-	<div class="large-12 columns">
+	<div class="small-12 columns">
 		<img src="/images/recipes/{{json_data.uid}}/{{photo_hero}}">
 	</div>
 </div>
@@ -55,7 +55,7 @@ layout: default
 
 
 <div class="row" id="row-one">
-  <div class="large-8 columns" id="writeup">
+  <div class="large-8 medium-7 columns" id="writeup">
 
     {% if json_data.html['description'] != null %}
       <h4 id="description">Description</h4>
@@ -69,7 +69,7 @@ layout: default
       {%- include content.html -%}
     {% endif %}
   </div>
-  <div class="large-4 columns bgc-lorange" id="backlinks">
+  <div class="large-4 medium-5 columns bgc-lorange" id="backlinks">
     {%- comment -%}{%- endcomment -%}
     {%- include backlinks.html -%}
   </div>
@@ -78,7 +78,7 @@ layout: default
 
 <div class="row" id="row-two">
 
-  <div class="large-2 columns" id="photo-sidebar">
+  <div class="medium-2 columns" id="photo-sidebar">
     <div class="" id="recipe-photos">
     {% if json_data.photos %}
       {% for phot in json_data.photos %}
@@ -113,7 +113,7 @@ layout: default
     </div>
   </div><!-- #photo-sidebar -->
 
-  <div class="large-6 columns">
+  <div class="medium-6 small-7 columns">
     {% if json_data.html['directions'] != null %}
       <h4 id="directions">Directions</h4>
       <div class="box box-directions">
@@ -121,7 +121,7 @@ layout: default
       </div>
     {% endif %}
   </div>
-  <div class="large-4 columns">
+  <div class="medium-4 small-5 columns">
     {% if json_data.html['ingredients'] != null %}
       <h4 id="ingredients">Ingredients</h4>
       <div class="box box-ingredients">
@@ -135,7 +135,7 @@ layout: default
 {% if json_data.html['nutrition'] != null %}
 <hr>
 <div class="row" id="row-three">
-  <div class="large-10 columns">
+  <div class="small-12 columns">
       <h4 id="nutrition">Nutritional Facts</h4>
       <div class="box box-nutrition">
         {{ json_data.html['nutrition'] }}
