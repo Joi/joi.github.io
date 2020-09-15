@@ -10,4 +10,4 @@ Bee's Wax is also useful for repairing split cutting board.
 ---
 Reference
 
-- [Rehab a Leaky Cutting Board With Beeswax}(https://www.instructables.com/id/Rehab-A-Leaky-Cutting-Board-With-Beeswax)
+- [Rehab a Leaky Cutting Board With Beeswax](https://www.instructables.com/id/Rehab-A-Leaky-Cutting-Board-With-Beeswax)
