@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/knowledge-and-task-management.md",
+            "file": "_pages/friodur-001.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/knowledge-and-task-management.md"
+                "file": "_pages/friodur-001.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_pages/knowledge-and-task-management.md",
-    "_pages/index.md",
+    "friodur-001.md",
     "Knowledge and Task Management.md",
-    "_pages/Untitled.md",
-    "_pages/whetstones.md"
+    "README.md",
+    "_pages/knowledge-and-task-management.md",
+    "_pages/index.md"
   ]
 }
