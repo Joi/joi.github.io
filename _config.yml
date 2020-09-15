@@ -30,8 +30,8 @@ github_username:  joi
 
 #markdown: kramdown
 markdown: CommonMarkGhPages
-commonmark:
-  options: ["SMART", "FOOTNOTES", "HARDBREAKS","STRIKETHROUGH_DOUBLE_TILDE","TABLE_PREFER_STYLE_ATTRIBUTES"]
+commonmark: #"SMART", 
+  options: ["FOOTNOTES", "HARDBREAKS","STRIKETHROUGH_DOUBLE_TILDE","TABLE_PREFER_STYLE_ATTRIBUTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
   #extensions: ["strikethrough", "autolink", "table", "tagfilter", "tasklist"]
 #permalink: /posts/:year-:month-:day-:title:output_ext
@@ -72,8 +72,6 @@ defaults:
       layout: "recipe"
       i_am  : "recipe" # to review - see post.html layout
 
-
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -82,7 +80,7 @@ defaults:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
+exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
@@ -93,4 +91,4 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+  - debug.md
