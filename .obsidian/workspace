@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/my-whetstones.md",
+            "file": "_pages/maintenance.md",
             "mode": "source"
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/my-whetstones.md"
+                "file": "_pages/maintenance.md"
               }
             }
           }
@@ -95,10 +95,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_pages/maintenance.md",
+    "_posts/2020-09-14-bees-wax-and-cutting-boards.md",
     "_pages/my-whetstones.md",
     "_pages/ozuku-002.md",
-    "_pages/ozuku-001.md",
-    "_pages/ohira-001.md",
-    "images/ozuku-002.jpeg"
+    "_pages/ozuku-001.md"
   ]
 }
