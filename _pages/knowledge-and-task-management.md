@@ -17,7 +17,7 @@ Current apps and methods that I'm trying:
 	- [Obsidian](https://obsidian.md/) - Markdown editor and knowledge management system
 	- [Paprika](https://www.paprikaapp.com/) - Recipe manager
 	- [Anki](https://ankiweb.net/) - Flash card system to learn
-	- [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Keyboard automation scripts
+	- [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Keyboard automation scripts ([Keyboard Maestro](https://wiki.keyboardmaestro.com/Home_Page))
 	- [TextExpander](https://textexpander.com/) - Keyboard macros and templates
 - Reference
 	- [Zettelkasten Method: How to Take Smart Notes for Knowledge Management by Al Khan](https://leananki.com/zettelkasten-method-smart-notes/)

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/friodur-001.md",
+            "file": "_pages/my-razors.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/friodur-001.md"
+                "file": "_pages/my-razors.md"
               }
             }
           }
@@ -82,10 +82,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_pages/friodur-001.md",
+    "_pages/knowledge-and-task-management.md",
     "friodur-001.md",
     "Knowledge and Task Management.md",
-    "README.md",
-    "_pages/knowledge-and-task-management.md",
-    "_pages/index.md"
+    "README.md"
   ]
 }
