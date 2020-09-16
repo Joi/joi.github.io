@@ -6,11 +6,24 @@
       {
         "id": "39c51793cd3a5d0d",
         "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_pages/my-whetstones.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "a2ffd641c0c21629",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/my-razors.md",
+            "file": "_pages/my-whetstones.md",
             "mode": "source"
           }
         }
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/my-razors.md"
+                "file": "_pages/my-whetstones.md"
               }
             }
           }
@@ -82,10 +95,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_pages/friodur-001.md",
-    "_pages/knowledge-and-task-management.md",
-    "friodur-001.md",
-    "Knowledge and Task Management.md",
-    "README.md"
+    "_pages/my-whetstones.md",
+    "_pages/ozuku-002.md",
+    "_pages/ozuku-001.md",
+    "_pages/ohira-001.md",
+    "images/ozuku-002.jpeg"
   ]
 }

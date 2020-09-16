@@ -4,6 +4,8 @@ title: My Whetstones
 tags: Sharpening Jnat Synthetic-stones
 ---
 ---
+![Awasedo](/images/awasedo-001.jpeg)
+Japanese Natural _Awasedo_ finishing stones. Left to right: *Ohira Asagi, Ozuka Mizu Tomae, Nakayama Mizu, Shobudani Mizu Asagi, Ozuki Asagi*
 
 #### Synthetic Stones
 
@@ -32,20 +34,20 @@ tags: Sharpening Jnat Synthetic-stones
 
 #### Natural Stones
 
-| Quarry | Type | Color | Number |
-| --- | --- | --- | --- |
+| Quarry | Type | Color | Size | Number |
+| --- | --- | --- | --- | --- |
 | Belgian Coticule | Whetstone | Yellow |
-| Belgian Coticule | Small Whetstone | Yellow |
-|Tsushima  | | Black Nagura |
-| Shobundani | Awasedo| Mizu Asagi | [[shobudani-001]] |
-| Amakusa | Nakato | Binsui | [[binsui-001]] |
-| Ohira | Awasedo | Asagi | [[ohira-001]] |
-| Ozuku | Awasedo | Asagi | [[ozuku-001]] |
-| Ozuku | Awasedo | Mizu Tomoe | [[ozuku-002]] |
-| Nakayama | Awasedo | Mizu | [[nakayama-001]]
-| Hideriyama | Suita | Renga | [[hideriyama-001]] |
-| Mikawa | Botan Nagura | |
-|Mikawa | Tenjyou Nagura | |
-| Mikawa | Mejiro Nagura | |
-| Mikawa | Koma Nagura | |
-| Unknown | Tomo Nagura | |
+| Belgian Coticule | Small Whetstone | Yellow | |
+|Tsushima  | | Black Nagura | |
+| Shobundani | Awasedo| Mizu Asagi | | [[shobudani-001]] |
+| Amakusa | Nakato | Binsui | 8.5-2.4-1.4" / 1053 g | [[binsui-001]] |
+| Ohira | Awasedo | Asagi | 204-76-35 mm / 1380 g | [[ohira-001]] |
+| Ozuku | Awasedo | Asagi | 115-72-18 mm / 394 g |  [[ozuku-001]] |
+| Ozuku | Awasedo | Mizu Tomoe | 675 g | [[ozuku-002]] |
+| Nakayama | Awasedo | Mizu | 170-52-18 mm / 430 g |[[nakayama-001]]
+| Hideriyama | Suita | Renga | 140-122-30 mm / 1025 g | [[hideriyama-001]] |
+| Mikawa | Botan Nagura | | |
+|Mikawa | Tenjyou Nagura | | |
+| Mikawa | Mejiro Nagura | | |
+| Mikawa | Koma Nagura | | |
+| Unknown | Tomo Nagura | | |
