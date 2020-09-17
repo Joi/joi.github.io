@@ -5,7 +5,7 @@ tags: Sharpening Jnat Synthetic-stones
 ---
 ---
 ![Awasedo](/images/awasedo-001.jpeg)
-Japanese Natural _Awasedo_ finishing stones. Left to right: *Ohira Asagi, Ozuka Mizu Tomae, Nakayama Mizu, Shobudani Mizu Asagi, Ozuki Asagi*
+Japanese Natural *Awasedo* finishing stones. Left to right: *Ohira Asagi, Ozuka Mizu Tomae, Nakayama Mizu, Shobudani Mizu Asagi, Ozuku Asagi*
 
 #### Synthetic Stones
 
