@@ -6,24 +6,22 @@
       {
         "id": "39c51793cd3a5d0d",
         "type": "leaf",
-        "active": true,
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "_pages/my-whetstones.md",
             "mode": "source"
-          },
-          "pinned": true
+          }
         }
       },
       {
         "id": "a2ffd641c0c21629",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/whetstones.md",
+            "file": "_posts/2020-09-17-instant-pot-coq-au-vin.md",
             "mode": "source"
           }
         }
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/my-whetstones.md"
+                "file": "_posts/2020-09-17-instant-pot-coq-au-vin.md"
               }
             }
           }
@@ -95,10 +93,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_posts/2020-09-17-instant-pot-coq-au-vin.md",
     "_pages/my-whetstones.md",
+    "_posts/Untitled.md",
     "_pages/whetstones.md",
-    "_pages/maintenance.md",
-    "_posts/2020-09-14-bees-wax-and-cutting-boards.md",
-    "_pages/ozuku-002.md"
+    "_pages/maintenance.md"
   ]
 }
