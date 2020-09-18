@@ -3,6 +3,8 @@ layout: post
 title: Instant Pot Coq au Vin
 tags: Chicken Pressure-cooker
 ---
+![[images/coq-au-vin.jpeg]]
+
 We usually order a large whole chicken from [Farmers To You](https://farmerstoyou.com/) every week, but this week, they sent us an apology and a 7 pound chicken.
 
 In [The Food Lab](https://www.seriouseats.com/the-food-lab), Kenji Lopez-Alt says that chickens over 5 pounds are tough and not suitable for roasting. Talking to Mizuka, we decided that we should try a stew.
@@ -22,6 +24,8 @@ I just read [this recipe from Green Healthy Cooking](https://greenhealthycooking
 
 After talking to Mizuka, we'll do the breasts in the Coq au Vin and I'll roast the rest of the chicken. Maybe I'll use the left over BBQ sauce.
 
+![[images/bbq-chicken.jpeg]]
+
 The [Half Baked Harvest](https://www.halfbakedharvest.com/healthier-instant-pot-coq-au-vin/) recipes says to hit the breasts with 8 min of pressure cooking and do a natural release. (One recipes says that using an instant release will cause the chicken to dry out.) If we look at the [Green Healthy Cooking](https://greenhealthycooking.com/instant-pot-chicken/), it looks like the optimal time might be slightly less, but I don't know what the other ingredients do to the cooking time.
 
 From [Green Healthy Cooking](https://greenhealthycooking.com/instant-pot-chicken/):
@@ -30,3 +34,5 @@ From [Green Healthy Cooking](https://greenhealthycooking.com/instant-pot-chicken
 > * Breasts OVER 1.2 inches (3cm) but UNDER 1.5 inches (4 cm) = 6 minutes High Pressure + 5 minutes Natural Pressure Release (about 10oz / 280g breasts)
 
 I guess I'll try it at 8 min and see. The ingredients aren't hugely different between the three recipes, but the bon appétit might be slightly snobby, with shiitake mushrooms, shallots and white wine instead of red. Since we have shiitake today, I think I'll go with that.
+
+I pressure-cooked the breast meat (which I had cut to around 1 inch cubes or so) for 4 min with a 5 min release, but they were way too dry. :-(
