@@ -3,7 +3,7 @@ layout: post
 title: Instant Pot Coq au Vin
 tags: Chicken Pressure-cooker
 ---
-![/images/coq-au-vin.jpeg]
+![Coq au Vin](/images/coq-au-vin.jpeg)
 
 We usually order a large whole chicken from [Farmers To You](https://farmerstoyou.com/) every week, but this week, they sent us an apology and a 7 pound chicken.
 
@@ -24,7 +24,7 @@ I just read [this recipe from Green Healthy Cooking](https://greenhealthycooking
 
 After talking to Mizuka, we'll do the breasts in the Coq au Vin and I'll roast the rest of the chicken. Maybe I'll use the left over BBQ sauce.
 
-![/images/bbq-chicken.jpeg]
+![BBQ Chicken](/images/bbq-chicken.jpeg)
 
 The [Half Baked Harvest](https://www.halfbakedharvest.com/healthier-instant-pot-coq-au-vin/) recipes says to hit the breasts with 8 min of pressure cooking and do a natural release. (One recipes says that using an instant release will cause the chicken to dry out.) If we look at the [Green Healthy Cooking](https://greenhealthycooking.com/instant-pot-chicken/), it looks like the optimal time might be slightly less, but I don't know what the other ingredients do to the cooking time.
 
