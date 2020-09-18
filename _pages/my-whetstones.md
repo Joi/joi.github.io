@@ -14,6 +14,7 @@ Japanese Natural *Awasedo* finishing stones. Left to right: *Ohira Asagi, Ozuka 
 | DMT | 120 μm/120 mesh | Dia-Flat Lapping Plate |
 | Atoma | 140 | Diamond Plate |
 | Naniwa | 220 | Flattening Stone |
+| Shapton | 320 | "Blue-Black" Kuromaku |
 | Naniwa | 400 | Super Ceramic "Spash and Go" |
 | Atoma | 600 | Diamond Plate |
 | Naniwa | 600 | Nagura Dressing Stone |
@@ -26,6 +27,7 @@ Japanese Natural *Awasedo* finishing stones. Left to right: *Ohira Asagi, Ozuka 
 | Shapton | 8000 | "Melon" Kuromaku |
 | Naniwa | 10000 | Professional Stone |
 | Naniwa | 12000 | Nagura |
+| Shapton | 12000 | "Yellow" Kuromaku |
 | Shapton | 30000 | "Purple" Kuromaku |
 
 - [μm / grit / mesh conversion chart](https://www.markvlab.com/images/stories/pdf/GRIT-MICRON-MESH-CONVERSIONS.pdf)
