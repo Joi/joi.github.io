@@ -19,10 +19,10 @@ layout: default
 	<div class="medium-3 columns" id="right-margin">
 		{%- comment -%}{%- include backlinks.html -%}{%- endcomment -%}
 
-		{% for category in page.categories %}
-      {%- if site.data.cats[category] -%}
-        <h5>{{ category | capitalize }}</h5>
-        {% assign recipes = site.data.cats[category] %}
+		{% for tag in page.tags %}
+      {%- if site.data.recipe_categories[tag] -%}
+        <h5>{{ tag | capitalize }}</h5>
+        {% assign recipes = site.data.recipe_categories[tag] %}
         <ul>{% for recipe in recipes %}
           <li><a href="/recipes/{{ recipe[0] | slugify }}">{{ recipe[1] }}</a></li>{% endfor %}
         </ul>
