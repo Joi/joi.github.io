@@ -1,8 +1,8 @@
 ---
 layout: post
 title: BBQ Whole Chicken
-tag: recipe
-categories: Chicken BBQ
+tag: Chicken BBQ
+categories: recipe
 ---
 ![BBQ Chicken](/images/recipes/0406E117-8344-4062-A62F-FBAC97655E1C-13411-00000961DB0A0BC1/8CFA0C82-D0C4-4F26-ABBF-441CB2444555-13411-00000961FEA8CB38.jpg)
 

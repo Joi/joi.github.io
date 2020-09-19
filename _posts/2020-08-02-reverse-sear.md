@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Reverse Sear
-tags: recipe
-category: Reverse-Sear
+tags: Reverse-Sear
+category: recipe
 ---
 ![Reverse Sear Steak](/images/reverse-sear-steak.jpeg)
 

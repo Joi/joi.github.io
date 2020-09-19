@@ -11,7 +11,7 @@ I also like to measure the oven temperature at the surface of the dish, which ca
 
 I measure oil before frying - something that maybe I won't have to do after I get better at more subjective measures.
 
-I also sometimes monitor the insides of sous vide bags to let me know when things like [[Tuna-Confit]] are done.
+I also sometimes monitor the insides of sous vide bags to let me know when things like [tuna confit](/recipes/Tuna-Confit) are done.
 
 There are a whole bunch of different thermometer choices, but there are roughly three categories.
 

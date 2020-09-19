@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Brisket Recipe Roundup / My First Brisket
-tags: recipe
-categories: Beef Braise
+tags: Beef Braise
+categories: recipe
 ---
 ![Brisket](/images/recipes/4CB07882-5BB7-4D7D-A85F-9C33428D9BBB-50715-00075EFA2FEFB0E5/A29DA219-01F1-4AE7-89DB-D723D0EA2CD0-15281-00000A055536D9CA.jpg)
 
