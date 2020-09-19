@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pressure Cooker
-tags: recipe, pressure-cooker
-category: Pressure-cooker
+tags: pressure-cooker
+category: recipe gear
 ---
 ![Instant Pot Beef Back Ribs](/images/recipes/8202E24E-9C63-4DBB-A008-AFBA9C08982B-499-0000017FA2C55DFC/B44A406D-B3F5-4ECD-AE44-D47A0E60A1AE-13002-000625B99468A6A2.jpg)
 
