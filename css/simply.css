@@ -397,6 +397,10 @@ a:active,
 #header-menu .menu a:active {
   color: #f60;
 }
+hr {
+  margin-top:3em;
+  margin-bottom:2em;
+}
 .content a {
 	text-decoration: underline dotted currentColor 1px;
 }
