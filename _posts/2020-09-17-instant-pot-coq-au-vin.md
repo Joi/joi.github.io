@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Instant Pot Coq au Vin
-tags: Chicken Pressure-cooker
+tags: chicken pressure-cooker
+category: recipe
 ---
 ![Coq au Vin](/images/coq-au-vin.jpeg)
 

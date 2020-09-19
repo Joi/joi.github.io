@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sharpening and Honing
-tags: Sharpening Knives Razors Tools Maintenance
+tags: sharpening knives razors tools maintenance
 ---
 Most cutting tools require sharpening. There are various methods and tools for sharpening. For very sharp tools like shavers, they often call it honing rather than sharpening.
 

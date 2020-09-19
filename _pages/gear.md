@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gear
-tags: Gear
+tags: gear
 ---
 - [[Thermometers]]
 - [[Whetstones]]

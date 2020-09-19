@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Razors
-tag: Razors 
+tag: razors 
 ---
 | Manufacturer | Model | Scale | Blade |
 | --- | --- | --- | ---| 

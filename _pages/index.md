@@ -12,11 +12,12 @@ As I've continued to cook and read books like [Salt Fat Acid Heat by Samin Nosra
 
 I've also started to create some basic guides as references for my cooking.
 
-* [[My Stuff]]
-* [[References and Charts]]
 * [[Maintenance]]
-* [[Grilling]]
+* [[Heating]]
 * [[Knowledge and Task Management]]
 * [[Gear]]
+* [[References and Charts]]
 
 All of the five star recipes below are recipes that I've tried and like.
+
+*[[My Stuff]]*

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Common Ingredients by Volume and Mass"
-tag: Charts
+tag: charts
 ---
 
 From _The Food Lab_

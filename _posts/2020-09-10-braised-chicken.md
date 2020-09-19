@@ -1,7 +1,8 @@
 ---
 layout: post
 Title: Braised Chicken
-categories: Chicken Braising
+tags: chicken braising
+category: recipe
 ---
 As the weather cools, it's becoming that time of year again when braises and stews taste great.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Soft-Shell Crab à la Martha Stewart
 category: recipe
-tag: Crab
+tag: crab
 ---
 ![Soft-Shell Crab](/images/soft-shell-crab.jpeg)
 

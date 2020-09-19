@@ -2,7 +2,7 @@
 layout: post
 title: Pan-Seared Salmon
 category: recipe
-tag: Salmon
+tag: salmon
 ---
 After reading [Food Lab](http://www.kenjilopezalt.com/), I decided to try [J. Kenji López-Alt's formula for cooking salmon](/recipes/Ultra-Crisp-Skinned-Pan-Roasted-Fish-Fillets.html). The idea is that the fish need to cook slowly to 125ºF or so and that the fat by the skin will slow the heat from a pan.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Diving into Salsa Verde - Spatchcocked Chicken redux
 category: recipes 
-tags: Sauce Spatchcocking
+tags: sauce spatchcocking
 ---
 ![Salsa Verde](/images/salsa-verde.jpeg)
 

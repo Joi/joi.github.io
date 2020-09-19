@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pork Spare Ribs
+title: pork spare ribs
 categories: Pork-spare-ribs Reverse-sear BBQ
 ---
 ![Spare Ribs](/images/recipes/F6F34E62-D960-486A-9A20-B976D1309E32-50715-00080BBC09D1E91C/E766C562-5EBC-4C39-A1B6-41EB6963081B-50715-00081F5A55BD3B82.jpg)

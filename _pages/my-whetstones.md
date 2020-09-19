@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Whetstones
-tags: Sharpening Jnat Synthetic-stones Tools
+tags: sharpening jnat synthetic-stones tools
 ---
 ---
 ![Awasedo](/images/awasedo-001.jpeg)

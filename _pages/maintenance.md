@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maintenance
-tag: Maintenance Tools
+tag: maintenance tools
 ---
 Maintenance and repair is one of the key activities in a kitchen and a home. One of the biggest things that Mizuka and I are trying to do with recipes and our home in general is to try to minimize are energy and trash footprint as well as focus on healthy things. This makes maintenance even more important.
 

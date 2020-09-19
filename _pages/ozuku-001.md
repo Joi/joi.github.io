@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ozuku Hard Asagi
-tag: Jnat
+tag: jnat
 ---
 ![Ozuku Hard Asagi](/images/ozuku-001.jpeg)
 

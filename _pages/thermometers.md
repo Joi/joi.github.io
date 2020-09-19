@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thermometers
-tags: Tools
+tags: tools
 ---
 ![Thermometer](/images/spatchcocked-thermometer.jpeg)
 
@@ -11,7 +11,7 @@ I also like to measure the oven temperature at the surface of the dish, which ca
 
 I measure oil before frying - something that maybe I won't have to do after I get better at more subjective measures.
 
-I also sometimes monitor the insides of sous vide bags to let me know when things like [tuna confit](/recipes/Tuna-Confit) are done.
+I also sometimes monitor the insides of sous vide bags to let me know when things like [[Tuna-Confit]] are done.
 
 There are a whole bunch of different thermometer choices, but there are roughly three categories.
 
@@ -24,3 +24,6 @@ Many remotes have a wireless system to allow you to monitor the temperature on a
 The third type of thermometer is a thermocouple with a K-type connector. They tend to be more expensive but the standardized connector provides [a huge range of options](https://www.thermoworks.com/Handheld-Probes/Probes/Type-K-Thermocouple?gclid=CjwKCAjw2Jb7BRBHEiwAXTR4jRW8JtSWLCJFwd-NajVAzCVupXkDq90H-Q6HYHu8dkYVE-ZfH9sgOxoCEvcQAvD_BwE) of shapes, sensitives, ranges and speeds. For example, here is [a probe for hamburger patties](https://www.webstaurantstore.com/taylor-9810-2-hamburger-fillet-type-k-probe-with-coiled-cable-and-188-tip/60898102.html). Thermocouples are electrical devices that use a specific type of thermoelectric effect to measure the temperature - which is what these probes use. There are other technologies for thermometers, but thermocouples seem to be the most common.
 
 One thing I'm looking into is a fan connected to a thermometer to allow the regulation of the temperature in a grill. [The Billows from ThermoWorks](https://learntobbq.com/thermoworks-billows-on-a-weber-kettle-22-installation-and-review/) looks good.
+
+---
+*[[My Thermometers]]*

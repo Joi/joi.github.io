@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ozuku Very Hard Mizu Tomae
-tag: Jnat
+tag: jnat
 ---
 ![Ozuku Very Hard Mizu Tomae](/images/ozuku-002.jpeg)
 

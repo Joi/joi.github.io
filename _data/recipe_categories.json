@@ -71,9 +71,7 @@
     "NY-Times-No-Knead-Bread": "NY Times No-Knead Bread",
     "No-Knead-Dutch-Oven-All-Whole-Wheat-Bread": "No Knead Dutch Oven All Whole Wheat Bread",
     "Pita-Bread": "Pita Bread",
-    "Pita-Chips": "Pita Chips",
-    "Pitta-Bread": "Pitta Bread",
-    "Spinach-and-Olive-Focaccia": "Spinach and Olive Focaccia"
+    "Pita-Chips": "Pita Chips"
   },
   "Breakfast": {
     "Easy-Ham-and-Cheese-Omelet": "Easy Ham and Cheese Omelet",
@@ -96,7 +94,6 @@
     "Air-Fryer-Buffalo-Chicken-Drumsticks": "Air-Fryer Buffalo Chicken Drumsticks",
     "BBQ-Chicken": "BBQ Chicken",
     "Beer-Brined-Roast-Chicken": "Beer-Brined Roast Chicken",
-    "Braised-Chicken-Thighs-and-Legs-with-Tomato": "Braised Chicken Thighs and Legs with Tomato",
     "Braised-Chicken-with-Basil-and-Tomato": "Braised Chicken with Basil and Tomato",
     "Braised-Chicken-with-Lemon-and-Olives": "Braised Chicken with Lemon and Olives",
     "Cal-Peternells-Braised-Chicken-Legs": "Cal Peternell’s Braised Chicken Legs",
@@ -134,8 +131,7 @@
     "Slow-Cooker-Salsa-Verde-Chicken": "Slow Cooker Salsa Verde Chicken",
     "Spatchcocked-Chicken-Under-a-Brick": "Spatchcocked Chicken “Under a Brick”",
     "Spicy-Meatballs-with-Chickpeas": "Spicy Meatballs with Chickpeas",
-    "Stovetop-Roast-Chicken-with-Lemon-Herb-Sauce": "Stovetop Roast Chicken with Lemon-Herb Sauce",
-    "The-Best-Barbecue-Chicken": "The Best Barbecue Chicken"
+    "Stovetop-Roast-Chicken-with-Lemon-Herb-Sauce": "Stovetop Roast Chicken with Lemon-Herb Sauce"
   },
   "Chuck Roast": {
     "Pot-Roast": "Pot Roast",
@@ -179,7 +175,6 @@
     "Baked-Haddock-with-Garlic-Green-Beans": "Baked Haddock with Garlic Green Beans",
     "Fish-Meuniere-with-Toasted-Slivered-Almonds": "Fish Meuniere with Toasted Slivered Almonds",
     "Fish-Soup": "Fish Soup",
-    "Foil-Wrapped-Halibut-Fillets-with-Rosemary-Butter": "Foil-Wrapped Halibut Fillets with Rosemary Butter",
     "Four-Spice-Salmon": "Four-Spice Salmon",
     "Garlic-Butter-Fish": "Garlic Butter Fish",
     "Halibut-and-Veggie-Foil-Packet": "Halibut and Veggie Foil Packet",
@@ -200,13 +195,11 @@
     "Salmon-with-Thyme-Lemon-Butter-and-Almonds": "Salmon with Thyme, Lemon Butter and Almonds",
     "Sorrel-Sauce-for-Fish-a-La-Troigros": "Sorrel Sauce for Fish a Lá Troigros",
     "Sorrel-Sauce-with-Poached-Fish": "Sorrel Sauce with Poached Fish",
-    "Sous-Vide-Hake-Fillets": "Sous Vide Hake Fillets",
     "Sous-Vide-Thick-Cut-Halibut-Fillets-with-Lemon-Browned-Butter": "Sous Vide Thick-Cut Halibut Fillets with Lemon Browned Butter",
     "Velvet-Fish-with-Mushrooms": "Velvet Fish with Mushrooms"
   },
   "Flat Iron": {
-    "Fajitas": "Fajitas",
-    "Grilled-Aussie-Grass-Fed-Flat-Iron-Steak-Tacos": "Grilled Aussie Grass-Fed Flat Iron Steak Tacos"
+    "Fajitas": "Fajitas"
   },
   "Flounder": {
     "Baked-Flounder-with-Panko-and-Parmesan": "Baked Flounder with Panko and Parmesan",
@@ -242,7 +235,6 @@
   },
   "Halibut": {
     "Butter-Poached-Fish": "Butter Poached Fish",
-    "Foil-Wrapped-Halibut-Fillets-with-Rosemary-Butter": "Foil-Wrapped Halibut Fillets with Rosemary Butter",
     "Halibut-Cheek-Fish-Tacos": "Halibut Cheek Fish Tacos",
     "Halibut-and-Veggie-Foil-Packet": "Halibut and Veggie Foil Packet",
     "Lemon-Ginger-Poached-Halibut-with-Leeks-&-Spinach": "Lemon-Ginger Poached Halibut with Leeks & Spinach",
@@ -261,8 +253,7 @@
     "Meatballs-with-Tomato-Sauce": "Meatballs with Tomato Sauce",
     "Minestrone": "Minestrone",
     "Ragu-Bolognese": "Ragú Bolognese",
-    "Sausage-and-Veggie-Frittata-and-Ayran-Drink": "Sausage and Veggie Frittata and Ayran Drink",
-    "Spinach-and-Olive-Focaccia": "Spinach and Olive Focaccia"
+    "Sausage-and-Veggie-Frittata-and-Ayran-Drink": "Sausage and Veggie Frittata and Ayran Drink"
   },
   "Kale": {
     "Marinated-Kale-Salad": "Marinated Kale Salad"
@@ -541,7 +532,6 @@
     "Sauteed-Celery-Root-with-Swiss-Chard": "Sauteed Celery Root with Swiss Chard"
   },
   "Swordfish": {
-    "Get-The": "Get The",
     "Grilled-Marinated-Swordfish-Steaks": "Grilled Marinated Swordfish Steaks",
     "Swordfish-Au-Poivre": "Swordfish Au Poivre",
     "Swordfish-in-Creamy-Tomato-Sauce": "Swordfish in Creamy Tomato Sauce",
@@ -554,11 +544,9 @@
   "Tuna": {
     "Fresh-Tuna-Burgers-with-Ginger-&-Cilantro": "Fresh Tuna Burgers with Ginger & Cilantro",
     "Grilled-Tuna-Burgers-with-Spicy-Mayo": "Grilled Tuna Burgers with Spicy Mayo",
-    "Master-Recipe-for-Tuna-Confit": "Master Recipe for Tuna Confit",
     "Pan-Seared-Tuna-with-Avocado-Soy-Ginger-and-Lime": "Pan-Seared Tuna with Avocado, Soy, Ginger, and Lime",
     "Seared-Ahi-Tuna-Steaks": "Seared Ahi Tuna Steaks",
     "Tuna-Confit": "Tuna Confit",
-    "Tuna-Tataki": "Tuna Tataki",
     "Tuna-Tataki-Recipe-kihadaWei-notataki": "Tuna Tataki Recipe キハダ鮪のたたき"
   },
   "Turkey": {
@@ -588,7 +576,6 @@
     "Baked-Haddock-with-Garlic-Green-Beans": "Baked Haddock with Garlic Green Beans",
     "Fish-Meuniere-with-Toasted-Slivered-Almonds": "Fish Meuniere with Toasted Slivered Almonds",
     "Fish-Soup": "Fish Soup",
-    "Foil-Wrapped-Halibut-Fillets-with-Rosemary-Butter": "Foil-Wrapped Halibut Fillets with Rosemary Butter",
     "Garlic-Butter-Fish": "Garlic Butter Fish",
     "Halibut-and-Veggie-Foil-Packet": "Halibut and Veggie Foil Packet",
     "Italian-Style-Fish-Stew": "Italian-Style Fish Stew",

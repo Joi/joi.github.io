@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Coffee Information"
-tags: Charts
+tags: charts
 ---
 
 ### Joi's Coffee Information
