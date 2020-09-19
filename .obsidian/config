@@ -38,7 +38,8 @@
     "μm",
     "doneness",
     "doneness",
-    "Doneness"
+    "Doneness",
+    "thermocouple"
   ],
   "alwaysUpdateLinks": true
 }

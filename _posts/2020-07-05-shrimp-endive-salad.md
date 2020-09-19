@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Shrimp and Endive Salad
-tags: recipe
-categories: Shrimp Salad
+category: recipe
+tags: Shrimp Salad
 ---
 ![Shrimp and Endive Salad](/images/shrimp-endive.jpeg)
 
