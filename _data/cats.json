@@ -6,8 +6,14 @@
     "Risotto-Primavera": "Risotto Primavera",
     "Shaved-Asparagus-Salad": "Shaved Asparagus Salad"
   },
+  "BBQ": {
+    "3-2-1-Ribs": "3 2 1 Ribs",
+    "Kansas-City-Bbq-Sauce": "Kansas City Bbq Sauce",
+    "Smoked-3-2-1-St.-Louis-Style-Spare-Ribs": "Smoked 3-2-1 St. Louis Style Spare Ribs"
+  },
   "Beef": {
     "Biltmore-Chianti-Glazed-Beef-Short-Ribs": "Biltmore Chianti Glazed Beef Short Ribs",
+    "Bolognese-Sauce": "Bolognese Sauce",
     "Braised-Brisket-with-Onions": "Braised Brisket with Onions",
     "Butter-Basted-Pan-Seared-Thick-Cut-Steaks": "Butter-Basted, Pan-Seared Thick-Cut Steaks",
     "Cast-Iron-Steak": "Cast-Iron Steak",
@@ -108,14 +114,18 @@
     "Easy-Grill-Roasted-Whole-Chicken": "Easy Grill-Roasted Whole Chicken",
     "French-Chicken-in-a-Pot": "French Chicken in a Pot",
     "Fried-Chicken-for-Two": "Fried Chicken for Two",
+    "Healthier-Instant-Pot-Coq-Au-Vin": "Healthier Instant Pot Coq Au Vin",
     "Indian-Chicken-Curry-II": "Indian Chicken Curry II",
     "Indonesian-Chicken-Curry-Opor-Ayam": "Indonesian Chicken Curry (Opor Ayam)",
+    "Instant-Pot-Chicken-Tikka-Masala": "Instant Pot Chicken Tikka Masala",
+    "Instant-Pot-Coq-Au-Vin": "Instant Pot Coq Au Vin",
     "Japanese-Fried-Chicken-Thighs-Karaage": "Japanese Fried Chicken Thighs (Karaage)",
     "Karaage-Fried-Chicken": "Karaage Fried Chicken",
     "Moroccan-Chicken-Tagine-with-Olives-and-Lemon-Djej-Emshmel": "Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)",
     "One-Pan-Roast-Chicken-with-Fennel-and-Parsnips": "One-Pan Roast Chicken with Fennel and Parsnips",
     "Oven-Roasted-Spatchcocked-Chicken": "Oven Roasted Spatchcocked Chicken",
     "Pressure-Cooker-Coconut-Curry-Chicken": "Pressure Cooker Coconut Curry Chicken",
+    "Pressure-Cooker-Coq-Au-Vin": "Pressure-Cooker Coq Au Vin",
     "Rishia-Zimmerns-Chicken-with-Shallots": "Rishia Zimmern’s Chicken with Shallots",
     "Samin-Nosrat-Chicken-Stock": "Samin Nosrat Chicken Stock",
     "Sesame-Orange-Chicken": "Sesame Orange Chicken",
@@ -316,12 +326,17 @@
   },
   "Pasta": {
     "Best-Lasagna": "Best Lasagna",
+    "Bolognese-Sauce": "Bolognese Sauce",
     "Bolognese-Sauce-Recipe-Instant-Pot": "Bolognese Sauce Recipe (Instant Pot)",
+    "Bottarga-Spaghetti-with-Lemon-Zests-and-Bread-Crumbles": "Bottarga Spaghetti with Lemon Zests and Bread Crumbles",
     "Garlicky-Spaghetti-with-Clams": "Garlicky Spaghetti with Clams",
     "Lasagna": "Lasagna",
     "Macaroni-and-Cheese": "Macaroni and Cheese",
     "Pasta-alla-Pomarola": "Pasta alla Pomarola",
-    "Ragu-Bolognese": "Ragú Bolognese"
+    "Ragu-Bolognese": "Ragú Bolognese",
+    "Simple-Carbonara": "Simple Carbonara",
+    "Spaghetti-Carbonara": "Spaghetti Carbonara",
+    "Spaghetti-with-Bottarga": "Spaghetti with Bottarga"
   },
   "Pickles": {
     "Easy-Pickled-Cabbage": "Easy Pickled Cabbage"
@@ -344,9 +359,14 @@
     "Slow-Roast-Pork-Shoulder-with-Herb-Rub": "Slow Roast Pork Shoulder with Herb Rub"
   },
   "Pork Spare Ribs": {
+    "3-2-1-Ribs": "3 2 1 Ribs",
     "BBQ-Spare-Ribs": "BBQ Spare Ribs",
     "Easy-Fall-Off-The-Bone-Oven-Baked-Ribs": "Easy, Fall-Off-The-Bone Oven Baked Ribs",
+    "Smoked-3-2-1-St.-Louis-Style-Spare-Ribs": "Smoked 3-2-1 St. Louis Style Spare Ribs",
     "The-Best-Pork-Ribs-on-a-Gas-Grill": "The Best Pork Ribs on a Gas Grill"
+  },
+  "Potato": {
+    "Super-Crisp-Roasted-Potatoes": "Super-Crisp Roasted Potatoes"
   },
   "Pressure Cooker": {
     "Pressure-Cooker-Halibut-Fillets-with-Tomatoes-and-Olives": "Pressure Cooker Halibut Fillets with Tomatoes and Olives"
@@ -361,6 +381,7 @@
     "Oven-Beef-Back-Ribs": "Oven Beef Back Ribs"
   },
   "Rice": {
+    "Paella": "Paella",
     "Risotto-Parmigiano---Basic-Risotto-with-Parmesan-Cheese": "Risotto Parmigiano - Basic Risotto with Parmesan Cheese",
     "Risotto-Primavera": "Risotto Primavera",
     "Seafood-Paella": "Seafood Paella"
@@ -410,6 +431,7 @@
     "Basic-Salsa-Verde": "Basic Salsa Verde",
     "Bearnaise-Sauce": "Béarnaise Sauce",
     "Blue-Cheese-Dressing": "Blue Cheese Dressing",
+    "Bolognese-Sauce": "Bolognese Sauce",
     "Chef-Johns-Creme-Fraiche": "Chef John's Creme Fraiche",
     "Fresh-Tomato-Salsa-Pico-De-Gallo": "Fresh Tomato Salsa (Pico De Gallo)",
     "Fried-Sage-Salsa-Verde": "Fried Sage Salsa Verde",
@@ -418,6 +440,7 @@
     "Homemade-Ponzu-Sauce-Recipe-ponZuo-": "Homemade Ponzu Sauce Recipe ポン酢",
     "Homemade-Spicy-Chili-Crisp": "Homemade Spicy Chili Crisp",
     "Horseradish-Sauce": "Horseradish Sauce",
+    "Kansas-City-Bbq-Sauce": "Kansas City Bbq Sauce",
     "Salmoriglio-Sicilian-Oregano-Sauce": "Salmoriglio Sicilian Oregano Sauce",
     "Traditional-Toum-Lebanese-Garlic-Sauce": "Traditional Toum (Lebanese Garlic Sauce)"
   },
@@ -429,7 +452,9 @@
   },
   "Seafood": {
     "Cioppino": "Cioppino",
-    "Fish-Meuniere-with-Toasted-Slivered-Almonds": "Fish Meuniere with Toasted Slivered Almonds"
+    "Fish-Meuniere-with-Toasted-Slivered-Almonds": "Fish Meuniere with Toasted Slivered Almonds",
+    "Paella": "Paella",
+    "Seafood-Saute": "Seafood Saute"
   },
   "Short Ribs": {
     "Biltmore-Chianti-Glazed-Beef-Short-Ribs": "Biltmore Chianti Glazed Beef Short Ribs",
@@ -530,6 +555,7 @@
     "Fresh-Tuna-Burgers-with-Ginger-&-Cilantro": "Fresh Tuna Burgers with Ginger & Cilantro",
     "Grilled-Tuna-Burgers-with-Spicy-Mayo": "Grilled Tuna Burgers with Spicy Mayo",
     "Master-Recipe-for-Tuna-Confit": "Master Recipe for Tuna Confit",
+    "Pan-Seared-Tuna-with-Avocado-Soy-Ginger-and-Lime": "Pan-Seared Tuna with Avocado, Soy, Ginger, and Lime",
     "Seared-Ahi-Tuna-Steaks": "Seared Ahi Tuna Steaks",
     "Tuna-Confit": "Tuna Confit",
     "Tuna-Tataki": "Tuna Tataki",
