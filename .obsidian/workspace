@@ -6,22 +6,11 @@
       {
         "id": "39c51793cd3a5d0d",
         "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_pages/my-whetstones.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "a2ffd641c0c21629",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-09-17-instant-pot-coq-au-vin.md",
+            "file": "_posts/2020-09-20-smoked-st-louis-ribs.md",
             "mode": "source"
           }
         }
@@ -50,7 +39,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           },
           {
@@ -81,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-09-17-instant-pot-coq-au-vin.md"
+                "file": "_posts/2020-09-20-smoked-st-louis-ribs.md"
               }
             }
           }
@@ -93,10 +84,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-09-17-instant-pot-coq-au-vin.md",
+    "_posts/2020-09-20-smoked-st-louis-ribs.md",
     "_pages/my-whetstones.md",
-    "_posts/Untitled.md",
     "_pages/whetstones.md",
-    "_pages/maintenance.md"
+    "_pages/slurry.md",
+    "_pages/index.md"
   ]
 }

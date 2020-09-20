@@ -7,3 +7,36 @@ category: recipe
 Everyone liked the BBQ spare ribs last week so this week I'm going to try to make smoked ribs. I found St. Louis style ribs at Savenor's so I decided to try that. People swear by the cut which is half way between the baby back ribs and the spare ribs. They are supposed to be shaped like baby back, but have the robustness of the spare ribs.
 
 I'm also going to try to smoke them on my Weber grill. I've had problems keeping the fire going at low heat without the fire going out so this will be a challenge - to slow cook them and keep the fire going but low. I'm going to try using [[binchotan]] with some lump hardwood charcoal as a backup. If these turn out well and people like the smoked taste, I might consider buying a airflow controller for the grill to try to get the grill to auto-regulate the temperature, but I'm going to hold off until I confirm people want smoked meat and I can do it by hand first.
+
+September 20, 2020 - 11:44:35
+
+Just finished making the rub and the BBQ sauce that I got from Project Smoke and the BBQ Sauce book.
+
+The rub, based on [Raichlen's basic BBQ rub](https://barbecuebible.com/recipe/raichlens-rub/) was:
+
+- ¼ cup Diamond kosher salt
+- ¼ cup Japanese dark brown sugar
+- ¼ cup of 50/50 sweet paprika and smoked paprika
+- 2 tbsp fresh ground mixed pepper
+- 1 tbsp onion powder
+- ½ tsp celery seed
+- 1 dash of cayenne pepper
+
+The BBQ sauce, based on the [Raichlen's Sweet and Smokey BBQ sauce](https://barbecuebible.com/recipe/sweet-and-smoky-barbecue-sauce/) was:
+
+- 6 tbsp Japanese brown sugar
+- ½ cup apple cider vinegar
+- ¼ cup honey
+- ¼ cup Worcestershire sauce
+- 2 tbsp allspice drum (substituted for rum)
+- 2 tbsp yellow mustard
+- 2 tsp black pepper
+- 2 tsp garlic powder
+- ¼ tsp ground cloves
+- 4 cups ketchup
+
+I only had 1.5 cups of ketchup so I used ⅓ of the base sauce and mixed it with the ketchup. Heated stuff sans ketchup until everything was dissolved and added ketchup and brought it to a boil. The original recipe called for rum but I replaced it with allspice drum and skipped the allspice in the recipe. The recipe also included liquid smoke and molasses which I didn't have.
+
+I put the rub on the ribs at around 1PM and they ended up on the grill at 2:30PM.
+
+Having trouble getting it into the target zone of 225ºF - 250ºF from [Raichlen's recipe](https://barbecuebible.com/recipe/kansas-city-spare-ribs/). Right now it is around 300ºF 30 min into the cooking.
