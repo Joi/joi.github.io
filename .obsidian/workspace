@@ -4,7 +4,11 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "39c51793cd3a5d0d",
+=======
+        "id": "a2ffd641c0c21629",
+>>>>>>> Stashed changes
         "type": "leaf",
         "active": true,
         "state": {
@@ -40,7 +44,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< Updated upstream
                 "query": ""
+=======
+                "query": "instant pot"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -84,10 +92,23 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "_posts/2020-09-20-smoked-st-louis-ribs.md",
     "_pages/my-whetstones.md",
     "_pages/whetstones.md",
     "_pages/slurry.md",
     "_pages/index.md"
+=======
+    "_posts/Untitled.md",
+    "_posts/2020-09-17-instant-pot-coq-au-vin.md",
+    "_posts/2020-09-14-bees-wax-and-cutting-boards.md",
+    "_posts/2020-09-10-braised-chicken.md",
+    "_posts/2020-09-08-Pork-Spare-Ribs.md",
+    "_posts/2020-09-07-Site-and-Data-Structure.md",
+    "_posts/2020-09-07-Brisket-Recipe-Roundup.md",
+    "_posts/2020-09-06-Lasagna.md",
+    "_posts/2020-09-05-BBQ-Whole-Chicken.md",
+    "_posts/2020-09-03-Pressure-Cooker.md"
+>>>>>>> Stashed changes
   ]
 }
