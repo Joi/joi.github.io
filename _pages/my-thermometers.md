@@ -7,6 +7,11 @@ I'm currently using:
 -	[Lavatools Javelin Pro](https://www.lavatools.co/products/javelin-pro-d) - Instant Read Thermometer
 -	[ThermoPro TP20 Wireless Remote Thermometer](https://buythermopro.com/product/thermopro-tp-20-digital-wireless-meat-thermometer/)
 -	[ThermoWorks Therma Differential Thermocouple Meter](https://www.thermoworks.com/Therma-Differential)
+	-	[Fast Response Penetration Probe Type K, 4" L x .12" D reduce to .06" at Tip, 482F](https://www.thermoworks.com/PRB-K-159) - -58 - 482F (cable and handle max temp 105ºF), 0.6 sec in liquid, 3-4 sec full reading
+	-	[Sous Vide Needle Probe 60mm, with waterproof heat shrink, 1m lead](https://www.thermoworks.com/THS-113-109) - -58 - 482ºF (cable and shrink max temp 194ºF) / < 0.4 sec in liquid, < 2 sec for full reading
+	-	[Oven Probe Type K 5L x .13"OD 482F"](https://www.thermoworks.com/THS-113-170) - -58ºF - 482ºF (cable rated at 250ºF) / 4 sec in liquid, less than 20 sec full reading
+	-	[Crocodile Clip Oven Probe Max Temp 662 F](https://www.thermoworks.com/THS-113-041) - -56ºF - 660ºF (cable rating 660ºF) / < 2 sec in liquid, less than 10 sec for full reading
+	-	[Cooper Atkins Oven or Cooler Probe](https://www.cooper-atkins.com/products/oven-or-cooler-freezer-with-clip/) - -100ºF - 600ºF (cable rated 600ºF) / 1 sec in liquids, 10 sec in 5 m/sec air stream
 
 Notes:
 

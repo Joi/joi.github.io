@@ -5,3 +5,5 @@ tags:
 ---
 - [[Grilling]]
 - [[Thermometers]]
+- [[Binchotan]]
+- [[Smoking]]
