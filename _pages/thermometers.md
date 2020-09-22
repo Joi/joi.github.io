@@ -25,5 +25,11 @@ The third type of thermometer is a thermocouple with a K-type connector. They te
 
 One thing I'm looking into is a fan connected to a thermometer to allow the regulation of the temperature in a grill. [The Billows from ThermoWorks](https://learntobbq.com/thermoworks-billows-on-a-weber-kettle-22-installation-and-review/) looks good.
 
+One thing to remember about thermometers is that they are taking microbes from the surface of your food and stuffing it into the less-likely-to-be-full-of-microbes inside of your food[^1]. For example, in a steak or a piece of fish, you're most of the microbes on the surface will be killed by the surface heat in cooking and I'm often measuring the internal temperature in order to have the inside cooked "just right." Usually, "just right" is not a temperature high enough for long enough according to the USDA, but because most microbes are on the surface, we aren't as at risk. However, if you're dragging surface microbes into the rare center, it presents a new kind of risk.
+
+What I do when I'm doing a roast or a reverse sear or some other thing where I want to stick a thermometer into a thing that has a rare surface is to either wait until the surface is a bit cooked before sticking the thermometer in or I use a torch to blast an area on the surface to disinfect it before I stick the thermometer in.
+
 ---
 *[[My Thermometers]]*
+
+[^1]: (March, 2011). The Complex Origins of Food Safety Rules--Yes, You Are Overcooking Your Food. **Scientific American**, [URL](https://www.scientificamerican.com/article/complex-origins-food-safety-rules/)
