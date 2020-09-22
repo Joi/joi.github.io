@@ -23,5 +23,6 @@ Flipped the longer binchotan and lit the bottoms
 Binchotan lighting up hot side of grill
 
 ![Binchotan in a box](/images/binchotan-box.jpeg)
-![Bichotan box outside](/images/binchotan-box-outside.jpeg)
 
+![Bichotan box outside](/images/binchotan-box-outside.jpeg)
+Kamitosa White Binchotan
