@@ -32,4 +32,4 @@ What I do when I'm doing a roast or a reverse sear or some other thing where I w
 ---
 *[[My Thermometers]]*
 
-[^1]: Nathan Myhrvold, Chris Young, Maxime Bilet. (March, 2011). The Complex Origins of Food Safety Rules--Yes, You Are Overcooking Your Food. **Scientific American**, [URL](https://www.scientificamerican.com/article/complex-origins-food-safety-rules/)
+[^1]: Myhrvold, N., Young, C., Bilet, M. (March, 2011). The Complex Origins of Food Safety Rules--Yes, You Are Overcooking Your Food. **Scientific American**, [URL](https://www.scientificamerican.com/article/complex-origins-food-safety-rules/)

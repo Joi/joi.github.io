@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bee's Wax and Cutting Boards
-category: maintenance
+tag: maintenance
 ---
 I've been using a mixture of one part beeswax with three parts mineral oil to coat wooden utensils and cutting board.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Knowledge and Task Management
-tag: maintenance
+tag: maintenance knowledge-management
 ---
 Getting Things Done or GTD is a methodology for managing tasks. I've tried multiple times in the past to do this, but haven't been able to. I'm going to try again. I'm combining this with my attempt at organizing notes and ideas which includes this website.
 
