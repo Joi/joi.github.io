@@ -27,10 +27,11 @@ Japanese Natural *Awasedo* finishing stones. Left to right: *Ohira Asagi, Ozuka 
 | Shapton | 8000 | "Melon" Kuromaku |
 | Naniwa | 10000 | Professional Stone |
 | Naniwa | 12000 | Nagura |
-| Shapton | 12000 | "Yellow" Kuromaku |
+| Shapton | 12000 | "Cream" Kuromaku |
 | Shapton | 30000 | "Purple" Kuromaku |
 
 - [μm / grit / mesh conversion chart](https://www.markvlab.com/images/stories/pdf/GRIT-MICRON-MESH-CONVERSIONS.pdf)
+- [Abrasives in Micron Scale Grit Comparison Chart](http://myplace.frontier.com/~mr.wizard/GLGC/GLGC.png)
 
 ---
 
