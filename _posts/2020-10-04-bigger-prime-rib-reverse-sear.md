@@ -26,6 +26,5 @@ I'm going to try to do it using convection bake mode vs roast mode to see if it 
 | --- | --- |
 | 10:15 AM | Put Prime Rib into oven set at 170ºF Convection Bake
 | 1:30 PM | Internal temperature hit 130ºF so removed it and foiled |
-
-
+<br \>
 That's only 3.25 hours, which is much shorter than the 5 hours last time. Hopefully the convection heating hasn't made it tougher. My guess is that rack allowed it to warm from all directions which should theoretically make it more tender since no one side should have gotten as hot.
