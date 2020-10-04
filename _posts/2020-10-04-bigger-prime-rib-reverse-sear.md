@@ -19,7 +19,7 @@ Prime rib using higher rack
 
 I'm going to try to do it using convection bake mode vs roast mode to see if it will roast it more evenly. I've also put the prime rib on a higher rack to try to cook it more evenly as well. This will probably throw the time off, we'll see.
 
-### My log
+#### My log
 
 | Time | Note|
 | --- | --- |
