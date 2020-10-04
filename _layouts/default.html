@@ -22,8 +22,8 @@
   {%- comment -%}
   Picked up here:
   http://csega.github.io/mypost/2017/03/28/how-to-set-up-mathjax-on-jekyll-and-github-properly.html
-  {%- endcomment -%}
-  <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+  
+  Comminting this bit out as it may trigger $ … $ parsing
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
@@ -32,6 +32,8 @@
       }
     });
   </script>
+  <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+  {%- endcomment -%}
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
   <!-- End MathJax -->
 </head>
