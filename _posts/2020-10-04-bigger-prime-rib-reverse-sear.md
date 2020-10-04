@@ -13,7 +13,7 @@ $$ x = 6.56 \operatorname{hrs} $$
 
 Theoretically.
 
-Interesting also to note that their rate, 0.25 hrs per lb is at 325ºF and I am cooking at 170ºF at 1.5 hrs per lb or 6 times as long at 155ºF less temperature.
+Interesting also to note that their rate, 0.25 hrs per lb is at 325ºF and I am cooking at 170ºF at 1.5 hrs / lb or 6 times as long at 155ºF less temperature.
 
 ![Prime Rib on New Rack](/images/prime-rib-new-rack.jpeg)
 Prime rib using higher rack
