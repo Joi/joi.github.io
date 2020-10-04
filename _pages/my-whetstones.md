@@ -9,7 +9,7 @@ Japanese Natural *Awasedo* finishing stones. Left to right: *Ohira Asagi, Ozuka 
 
 #### Synthetic Stones
 
-| Maker  | Grit | Type | Number |
+| Maker  | Grit | Type | Notes |
 | :--- | ---: | --- | :--- | 
 | DMT | 120 μm/120 mesh | Dia-Flat Lapping Plate |
 | Atoma | 140 | Diamond Plate |
@@ -19,6 +19,7 @@ Japanese Natural *Awasedo* finishing stones. Left to right: *Ohira Asagi, Ozuka 
 | Atoma | 600 | Diamond Plate |
 | Naniwa | 600 | Nagura Dressing Stone |
 | Yoshihiro | 1000 | Professional Grade Toishi |
+| Shapton | 2000 | "Green" Kuromaku |
 | Shapton | 1500 | "Blue" Kuromaku |
 | Yoshihiro | 3000 | Professional Grade Toishi |
 | Naniwa | 5000 | Professional Stone |
@@ -27,8 +28,9 @@ Japanese Natural *Awasedo* finishing stones. Left to right: *Ohira Asagi, Ozuka 
 | Shapton | 8000 | "Melon" Kuromaku |
 | Naniwa | 10000 | Professional Stone |
 | Naniwa | 12000 | Nagura |
-| Shapton | 12000 | "Cream" Kuromaku |
-| Shapton | 30000 | "Purple" Kuromaku |
+| Naniwa | 12000 | S2 Super Stone |
+| Shapton | 12000 | "Cream" Kuromaku | [Information](https://www.fine-tools.com/G-shapton.html#zielcream) |
+| Shapton | 30000 | "Purple" Kuromaku | [Information](https://www.fine-tools.com/G-shapton30000.html) |
 
 - [μm / grit / mesh conversion chart](https://www.markvlab.com/images/stories/pdf/GRIT-MICRON-MESH-CONVERSIONS.pdf)
 - [Abrasives in Micron Scale Grit Comparison Chart](http://myplace.frontier.com/~mr.wizard/GLGC/GLGC.png)

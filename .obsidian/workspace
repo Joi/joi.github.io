@@ -10,10 +10,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/my-thermometers.md",
+            "file": "_posts/2020-10-04-bigger-prime-rib-reverse-sear.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "39d9689af3d78335"
+      },
+      {
+        "id": "373535a63d7a4579",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2020-10-04-bigger-prime-rib-reverse-sear.md",
+            "mode": "preview"
+          }
+        },
+        "group": "39d9689af3d78335"
       }
     ],
     "direction": "vertical"
@@ -72,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/my-thermometers.md"
+                "file": "_posts/2020-10-04-bigger-prime-rib-reverse-sear.md"
               }
             }
           }
@@ -84,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_pages/my-thermometers.md",
+    "_posts/2020-10-04-prime-rib-reverse-sear.md",
+    "_posts/Untitled.md",
+    "_pages/my-whetstones.md",
+    "_posts/2020-09-08-pork-spare-ribs.md",
+    "_posts/2020-09-23-zettlekasten-choose-adventure.md",
     "_pages/thermometers.md",
-    "_posts/2020-09-05-BBQ-Whole-Chicken.md",
-    "_posts/2020-09-03-Pressure-Cooker.md",
-    "_posts/2020-09-14-bees-wax-and-cutting-boards.md",
-    "_posts/2020-09-17-instant-pot-coq-au-vin.md",
     "_posts/2020-09-20-smoked-st-louis-ribs.md",
-    "_pages/Untitled.md",
-    "_pages/link-tests.md",
-    "_pages/heating.md"
+    "_posts/2020-09-17-instant-pot-coq-au-vin.md",
+    "_posts/2020-09-14-bees-wax-and-cutting-boards.md",
+    "_posts/2020-09-10-braised-chicken.md"
   ]
 }
