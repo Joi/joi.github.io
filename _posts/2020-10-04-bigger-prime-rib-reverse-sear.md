@@ -8,8 +8,7 @@ Today I am cooking a 4.24 lb Prime Rib from compared with 3.23 lb for [[2020-08-
 $$ rate = \frac{time_1}{weight_1}$$
 $$ rate = \frac{5 \operatorname{hrs}}{3.23 \operatorname{lb}} = 1.55 \operatorname{hrs}\operatorname{per}\operatorname{lb}$$
 $$ time_2 = rate * 4.24 \operatorname{lbs}$$
-$$ time_2 = 6.56 \operatorname{hrs} $$
-
+$$ time_{2} = 6.56 \operatorname{hrs} $$
 
 Theoretically.
 
@@ -24,9 +23,25 @@ I'm going to try to do it using convection bake mode vs roast mode to see if it 
 
 | Time | Note|
 | --- | --- |
-| 10:15 AM | Put Prime Rib into oven set at 170ºF Convection Bake
+| 10:15 AM | Put prime rib into oven set at 170ºF convection bake |
 | 1:30 PM | Internal temperature hit 130ºF so removed it and foiled |
+| 4:30 PM | Turn oven back on to 170ºF |
+| 4:45 PM | Put prime rib back in Oven for 30 min |
+| 5:15 PM | Take prime rib out and turn oven up to 550ºF |
+| 5:45 PM | Put prime rib back in oven for 10 min to sear |
+
 
 <br />
 
-That's only 3.25 hours, which is much shorter than the 5 hours last time. Hopefully the convection heating hasn't made it tougher. My guess is that rack allowed it to warm from all directions which should theoretically make it more tender since no one side should have gotten as hot.
+That's only 3.25 hours, which is much shorter than the 5 hours last time and half the predicted time. Hopefully the convection heating hasn't made it tougher. My guess is that rack allowed it to warm from all directions which should theoretically make it more tender since no one side should have gotten as hot.
+
+Turned OK. It wasn't very hot after reheating it 3 hours later. Also, I only brined it overnight and it felt like the edges were saltier than the middle. (BTW, I've been using ½ tsp / lb as a formula for dry brining. I THINK it's OK.)
+
+![prime rib seared](/images/prime-rib-2-seared.jpeg)
+Seared
+
+![prime rib sliced](/images/prime-rib-2-slice-1.jpeg)
+Sliced
+
+![prime rib sliced](/images/prime-rib-2-slice-2.jpeg)
+The pinkness with a pull internal temperature of 130ºF
