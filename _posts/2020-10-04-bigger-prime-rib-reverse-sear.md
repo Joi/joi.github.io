@@ -13,3 +13,14 @@ $$ x = 6.56 \: hrs $$
 Theoretically.
 
 Interesting also to note that their rate, 0.25 hrs per lb is at 325ºF and I am cooking at 170ºF at 1.5 hrs per lb or 6 times as long at 155ºF less temperature.
+
+![Prime Rib on New Rack](/images/prime-rib-new-rack.jpeg)
+Prime rib using higher rack
+
+I'm going to try to do it using convection bake mode vs roast mode to see if it will roast it more evenly. I've also put the prime rib on a higher rack to try to cook it more evenly as well. This will probably throw the time off, we'll see.
+
+### My log
+
+| Time | Note|
+| --- | --- |
+| 10:15 AM | Put Prime Rib into oven set at 170ºF Convection Bake
