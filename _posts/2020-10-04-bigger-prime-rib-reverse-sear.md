@@ -12,4 +12,4 @@ $$ x = 6.56 \: hrs $$
 
 Theoretically.
 
-Interesting also to note that their rate, 0.25 hrs per lb is at 325ºF and I am cooking at 270ºF at 1.5 hrs per lb or 6 times as long at 55ºF less temperature.
+Interesting also to note that their rate, 0.25 hrs per lb is at 325ºF and I am cooking at 170ºF at 1.5 hrs per lb or 6 times as long at 155ºF less temperature.
