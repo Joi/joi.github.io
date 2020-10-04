@@ -8,7 +8,7 @@ Today I am cooking a 4.24 lb Prime Rib from compared with 3.23 lb for [[2020-08-
 $$ rate = \frac{time_1}{weight_1}$$
 $$ rate = \frac{5 \operatorname{hrs}}{3.23 \operatorname{lb}} = 1.55 \operatorname{hrs}\operatorname{per}\operatorname{lb}$$
 $$ time_2 = rate * 4.24 \operatorname{lbs}$$
-$$ x = 6.56 \operatorname{hrs} $$
+$$ time_2 = 6.56 \operatorname{hrs} $$
 
 
 Theoretically.
