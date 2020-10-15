@@ -1,10 +1,10 @@
 {
   "categories": [
-    "Pork"
+    "Pork Shoulder"
   ],
   "cook_time": "7 hours",
-  "created": "2020-05-08 14:34:05",
-  "created_ts": 1588948445,
+  "created": "2020-10-08 14:41:56",
+  "created_ts": 1602168116,
   "description": "",
   "difficulty": "",
   "directions": "Place the pork in a large, shallow bowl. Mix the white sugar and 1 cup of the salt together in another bowl, then rub the mixture all over the meat. Cover it with plastic wrap and place in the refrigerator for at least 6 hours, or overnight.\n\nWhen you're ready to cook, heat oven to 300. Remove pork from refrigerator, brush any excess sugar mixture off the fat cap and discard any juices. Place the pork in a roasting pan and set in the oven and cook for approximately 6 hours, or until it collapses, yielding easily to the tines of a fork. (After the first hour, baste hourly with pan juices.) At this point, you may remove the meat from the oven and allow it to rest for up to an hour.\n\nMeanwhile, make the ginger-scallion sauce. In a large bowl, combine the scallions with the rest of the ingredients. Mix well and taste, adding salt if needed.\n\nMake the ssam sauce. In a medium bowl, combine the chili pastes with the vinegar and oil, and mix well.\n\nPrepare rice, wash lettuce and, if using, shuck the oysters. Put kimchi and sauces into serving bowls.\n\nWhen your accompaniments are prepared and you are ready to serve the food, turn oven to 500. In a small bowl, stir together the remaining tablespoon of salt with the brown sugar. Rub this mixture all over the cooked pork. Place in oven for approximately 10 to 15 minutes, or until a dark caramel crust has developed on the meat. Serve hot, with the accompaniments.",
@@ -20,15 +20,15 @@
   "name": "Momofuku's Bo Ssam",
   "notes": "",
   "nutritional_info": "",
-  "photo": "FE6D8D7D-83A7-4C52-9FF9-874F4322F255-4647-000017AACC533824.jpg",
+  "photo": "A3759B41-92B2-40F3-A469-4306A434871A-79931-0001315FD21C94AD.jpg",
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
   "prep_time": "",
-  "rating": 0,
+  "rating": 5,
   "servings": "Yield 6 to 10 servings",
   "source": "cooking.nytimes.com",
-  "source_url": "https://cooking.nytimes.com/recipes/12197-momofukus-bo-ssam?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=131",
+  "source_url": "https://cooking.nytimes.com/recipes/12197-momofukus-bo-ssam?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=42",
   "total_time": "",
-  "uid": "27194677-0F59-43E4-9ADD-9563EB33923A-4647-000017A8CF43D169"
+  "uid": "6A292E01-87EF-4723-8710-E64BEAF241CA-79931-0001315D0EBC60D3"
 }

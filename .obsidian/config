@@ -39,7 +39,9 @@
     "doneness",
     "doneness",
     "Doneness",
-    "thermocouple"
+    "thermocouple",
+    "romanesco",
+    "Sauté"
   ],
   "alwaysUpdateLinks": true
 }

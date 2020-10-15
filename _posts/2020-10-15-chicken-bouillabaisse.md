@@ -1,0 +1,24 @@
+---
+layout: post
+title: Chicken Bouillabaisse
+tags: Chicken Soup
+---
+Ever since it started getting cold, we pivoted a bit from grilling to soups. This week we had the [Monkfish with Beans](/recipes/Monkfish-Braised-with-White-Beans-Fennel-&-Tomato), which is effectively a soup, green Thai curry with shrimp and scallops which was very soupy, tonight is [[Chicken-Bouillabaisse]] and tomorrow is beef stew.
+
+I will use the [Zuni Cafe Cookbook](https://wwnorton.com/books/The-Zuni-Cafe-Cookbook/) tonight for the bouillabaisse and I also used the recipe for the Monkfish the day before yesterday.
+
+I'm trying to plan when to start cooking tonight and I realized that it's hard to plan and cook on time without a kind of "run of show." Yesterday, I was making beef stock, steaming romanesco, making curry and oven frying french fries at the same time and it was really hard to keep track of where I was on everything.
+
+I'm planning for 30 extra min because the chicken is much larger than the recipe calls for.
+
+So here's today's run of show:
+
+| Time | Duration | Activity |
+| --- | --- | --- | 
+| 15:19 | 5 min |  finish chopping chicken |
+| 15:24 | 5 min | Sauté onions | 
+| 15:19 | 1 min | Add bay leaf, thyme, chili and white wine and boil |
+| 15:20 | 5 min | Add tomatoes, saffron, garlic, chicken stock and bring to simmer |
+| 15:25 | 5 min | Add dark meat and bring back to simmer |
+| 15:30 | 1-1.5 hrs | Cook uncovered (add breasts after 30 min) |
+| 17:52 | 2 min | Skim surface and bring to boil for 1 min |

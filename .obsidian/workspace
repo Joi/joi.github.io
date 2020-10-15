@@ -6,27 +6,38 @@
       {
         "id": "a2ffd641c0c21629",
         "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2020-10-15-chicken-bouillabaisse.md",
+            "mode": "source"
+          }
+        },
+        "group": "58eac88e13661ce1"
+      },
+      {
+        "id": "519ea810ac185b3e",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-10-04-bigger-prime-rib-reverse-sear.md",
+            "file": "_recipes/Monkfish-Braised-with-White-Beans-Fennel-&-Tomato.md",
             "mode": "source"
           }
-        },
-        "group": "39d9689af3d78335"
+        }
       },
       {
-        "id": "373535a63d7a4579",
+        "id": "cb8a69cac0d4b2de",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-10-04-bigger-prime-rib-reverse-sear.md",
+            "file": "_posts/2020-10-15-chicken-bouillabaisse.md",
             "mode": "preview"
           }
         },
-        "group": "39d9689af3d78335"
+        "group": "58eac88e13661ce1"
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-10-04-bigger-prime-rib-reverse-sear.md"
+                "file": "_recipes/Monkfish-Braised-with-White-Beans-Fennel-&-Tomato.md"
               }
             }
           }
@@ -97,15 +108,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-10-04-bigger-prime-rib-reverse-sear.md",
-    "_posts/2020-07-15-salsa-verde.md",
-    "_posts/2020-10-04-prime-rib-reverse-sear.md",
+    "_recipes/Monkfish-Braised-with-White-Beans-Fennel-&-Tomato.md",
+    "_posts/2020-10-15-chicken-bouillabaisse.md",
+    "_recipes/Horseradish-Sauce.md",
     "_posts/Untitled.md",
+    "_posts/2020-10-04-bigger-prime-rib-reverse-sear.md",
+    "_pages/shobudani-001.md",
     "_pages/my-whetstones.md",
-    "_posts/2020-09-08-pork-spare-ribs.md",
-    "_posts/2020-09-23-zettlekasten-choose-adventure.md",
-    "_pages/thermometers.md",
-    "_posts/2020-09-20-smoked-st-louis-ribs.md",
-    "_posts/2020-09-17-instant-pot-coq-au-vin.md"
+    "_pages/hideriyama-001.md",
+    "_pages/nakayama-001.md",
+    "_pages/ozuku-002.md"
   ]
 }
