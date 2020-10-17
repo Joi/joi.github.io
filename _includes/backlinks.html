@@ -1,4 +1,4 @@
-{% assign debug = false %}
+{% assign debug = true %}
 {% assign dump  = false %}
 {% comment %} --- DEBUG ---------------------- {% endcomment %}
   {% if debug %}
@@ -16,12 +16,13 @@
 {% comment %} --- END DEBUG ------------------ {% endcomment %}
 <!-- Add backlinks to the current page --> 
 {%- assign link_count = 0 -%}
+{%- assign page_title_slug = page.title | replace: " &", "" -%}
 {%- assign page_title_slug = page.title | replace: " ", "-" -%}
 {%- assign wiki_link_title = '[' | append: page_title_slug | append: '' -%}
 
 {% comment %} --- DEBUG ---------------------- {% endcomment %}
   {% if debug %}
-  {{wiki_link_title}}<hr>
+  Wiki Link Title: {{wiki_link_title}}<hr>
   {% endif %}
 {% comment %} --- END DEBUG ------------------ {% endcomment %}
 
@@ -32,7 +33,7 @@
 
 {% comment %} --- DEBUG ---------------------- {% endcomment %}
   {% if debug %}
-  {{link_count}}<br><br>
+  Link Count: {{link_count}}<br><br>
   <pre>
   <b>link_origin.i_am :</b> {{link_origin.i_am}}
   <b>link_origin.title:</b> {{link_origin.title}}

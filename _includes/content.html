@@ -48,25 +48,24 @@
 					{% if bracketted_string contains obsidian_linkalt_joiner %}
 						{% assign bs_array = bracketted_string | split: obsidian_linkalt_joiner %}
 						{% assign internal_link 		= bracketted_string %}
-						{% assign internal_link_str = bs_array[0] %}
+						{% assign internal_link_str = bs_array[0] | replace: "-&amp;", "" %}
 						{% assign internal_link_alt = bs_array[1] %}
 						{% comment %} --- DEBUG ---------------------- {% endcomment %}
 							{% if debug %}
-							<pre style="background:#fcc"><b>internal_link:</b> {{ internal_link | jsonify }}</pre>
-							<pre style="background:#cfc"><b>internal_link_str:</b> {{ internal_link_str | jsonify }}</pre>
-							<pre style="background:#ccf"><b>internal_link_alt:</b> {{ internal_link_alt | jsonify }}</pre>
-							<hr>
+							<pre style="background:#fcc"><b>h.a. internal_link:</b> {{ internal_link | jsonify }}</pre>
+							<pre style="background:#cfc"><b>h.a. internal_link_str:</b> {{ internal_link_str | jsonify }}</pre>
+							<pre style="background:#ccf"><b>h.a. internal_link_alt:</b> {{ internal_link_alt | jsonify }}</pre>
 							{% endif %}
 						{% comment %} --- END DEBUG ------------------ {% endcomment %}
 					{% else %}
 						{% assign internal_link 		= bracketted_string %}
-						{% assign internal_link_str = bracketted_string %}
+						{% assign internal_link_str = bracketted_string | replace: "-&amp;", "" %}
 						{% assign internal_link_alt = bracketted_string %}
 						{% comment %} --- DEBUG ---------------------- {% endcomment %}
 							{% if debug %}
-							<pre style="background:#fcc"><b>internal_link:</b> {{ internal_link | jsonify }}</pre>
-							<pre style="background:#cfc"><b>internal_link_str:</b> {{ internal_link_str | jsonify }}</pre>
-							<pre style="background:#ccf"><b>internal_link_alt:</b> {{ internal_link_alt | jsonify }}</pre>
+							<pre style="background:#fcc"><b>n.a. internal_link:</b> {{ internal_link | jsonify }}</pre>
+							<pre style="background:#cfc"><b>n.a. internal_link_str:</b> {{ internal_link_str | jsonify }}</pre>
+							<pre style="background:#ccf"><b>n.a. internal_link_alt:</b> {{ internal_link_alt | jsonify }}</pre>
 							{% endif %}
 						{% comment %} --- END DEBUG ------------------ {% endcomment %}
 					{% endif %}
@@ -78,14 +77,15 @@
 						{% assign result_doc   = site.documents | where_exp:"item", "item.relative_path contains internal_link_str" %}
 						{% if result_doc[0] %}
 							{%- comment -%} Do Nothing. We already have what we need. {%- endcomment -%}
-							{% if debug %}<h6 class="debug" style="background: #cdf;">Link on Path:<br><b>{{internal_link_str}}</b></h6><hr>{% endif %}
+							{% if debug %}<h6 class="debug" style="background: #cdf;">Link on Path:<br><b>{{internal_link_str}}</b></h6>{% endif %}
 						{% else %}
 							{%- comment -%} Match on Title. {%- endcomment -%}
 							{% assign result_doc   = site.documents | where: "title", internal_link_str %}
               {% if result_doc[0] %}
-                {% if debug %}<h6 class="debug" style="background: #fdc;">Link on Title:<br><b>{{internal_link_str}}</b></h6><hr>{% endif %}
+                {% if debug %}<h6 class="debug" style="background: #fdc;">Link on Title:<br><b>{{internal_link_str}}</b></h6>{% endif %}
               {% endif %}
 						{% endif %}
+            {% if debug %}<h6 class="debug" style="background: #fdc;">result_doc URL:<br><b>{{result_doc[0].url}}</b></h6><hr>{% endif %}
           
 
 						{% comment %} --- DUMP ---------------------- {% endcomment %}
