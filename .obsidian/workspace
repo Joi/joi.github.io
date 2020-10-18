@@ -4,40 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ffd641c0c21629",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/2020-10-15-chicken-bouillabaisse.md",
-            "mode": "source"
-          }
-        },
-        "group": "58eac88e13661ce1"
-      },
-      {
-        "id": "519ea810ac185b3e",
+        "id": "6f618d372d2b740a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_recipes/Monkfish-Braised-with-White-Beans-Fennel-&-Tomato.md",
+            "file": "_posts/2020-10-18-chuck-roast-billows.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "c2470cfc6f35b3bc"
       },
       {
-        "id": "cb8a69cac0d4b2de",
+        "id": "6798ce1c47cf211b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-10-15-chicken-bouillabaisse.md",
+            "file": "_posts/2020-10-18-chuck-roast-billows.md",
             "mode": "preview"
           }
         },
-        "group": "58eac88e13661ce1"
+        "group": "c2470cfc6f35b3bc"
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_recipes/Monkfish-Braised-with-White-Beans-Fennel-&-Tomato.md"
+                "file": "_posts/2020-10-18-chuck-roast-billows.md"
               }
             }
           }
@@ -108,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_recipes/Monkfish-Braised-with-White-Beans-Fennel-&-Tomato.md",
-    "_posts/2020-10-15-chicken-bouillabaisse.md",
-    "_recipes/Horseradish-Sauce.md",
-    "_posts/Untitled.md",
+    "_posts/2020-10-18-chuck-roast-billows.md",
     "_posts/2020-10-04-bigger-prime-rib-reverse-sear.md",
-    "_pages/shobudani-001.md",
-    "_pages/my-whetstones.md",
-    "_pages/hideriyama-001.md",
-    "_pages/nakayama-001.md",
-    "_pages/ozuku-002.md"
+    "_posts/2020-09-23-zettlekasten-choose-adventure.md",
+    "_posts/2020-08-17-prime-rib.md",
+    "_posts/2020-07-05-shrimp-endive-salad.md",
+    "_posts/2020-07-03-tuna-confit.md",
+    "2020-10-18-chuck-roast-billows.md",
+    "Untitled.md",
+    "_posts/2020-10-15-chicken-bouillabaisse.md",
+    "_recipes/Monkfish-Braised-with-White-Beans-Fennel-&-Tomato.md"
   ]
 }

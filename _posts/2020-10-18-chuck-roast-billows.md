@@ -1,0 +1,30 @@
+---
+layout: post
+title: Slow Smoked Chuck Roast Using ThermoWorks Billows
+tags: beef bbq smoking
+---
+
+![Chuck Roast on Grill with Billows](/images/chuck-billows.jpeg)
+Chuck Roast on grill with Billows attached, smoking box with hickory over binchotan coals and a vat of water under the meat
+
+![Billows](/images/billows.jpeg)
+ThermoWorks Billows attached to my grill
+
+![Signal](/images/signal.jpeg)
+ThermoWorks Signal
+
+I finally caved and bought a Billows from ThermoWorks and the Signal thermometer to control it. The Billows connects to your grill or smoker and controls a fan that blows air into the grill to control the oxygen getting to the coals to control the temperature of the grill.
+
+To connect it to my Weber grill, I had to cut a hole in it. I used a drill bit for cutting metal, which was pretty easy. What wasn't easy was figuring out exactly where to cut the hole. After cutting the hole and having a hot ember melt some of the plastic during my test, I watched some YouTube videos and found out that the hole should not be under the coals but across from them.
+
+Oops. I had started putting my hot side with the coals on the other side of my table that the grill is built into, but I'm going to rotate it 90º so the coals are furthest away from me with the table to the right and the meat at 6-o'clock.
+
+Several websites said that I shouldn't use a full chimney of coal, but I decided to try with a full chimney of binchotan because I'd rather have it run a bit hot than run out of time and not finish - various recipes put my 4 lb chuck roast at between 4 hours and 8 hours so I wanted plenty of time.
+
+After lighting the chimney and closing the lid, the temperature was over 300ºF. I waited for awhile, but since it wasn't that hot, I decided to put the meat on.
+
+The temperature eventually went down, but very slowly has yet (3:20PM right now) to trigger the fan which has a set point of 225ºF. The thermometer bracketed it by putting a low temp at 200ºF and a high temp at 250ºF. I hope that at some point the fan becomes useful - otherwise this won't be much of a test.
+
+The chuck roast was dry brined for a few days and overnight the last night, I put my BBQ dry rub on it.
+
+I have a vat with water under the chuck roast to provide moisture and catch drippings.
