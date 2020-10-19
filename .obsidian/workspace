@@ -6,6 +6,7 @@
       {
         "id": "6f618d372d2b740a",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +19,6 @@
       {
         "id": "6798ce1c47cf211b",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -98,6 +98,7 @@
   },
   "lastOpenFiles": [
     "_posts/2020-10-18-chuck-roast-billows.md",
+    "images/C0BAD622-6BCD-49C2-B47F-666858812DAA_1_105_c.jpeg",
     "images/Screen Shot 2020-10-18 at 9.10.51 PM.png",
     "_posts/2020-10-04-bigger-prime-rib-reverse-sear.md",
     "_posts/2020-09-23-zettlekasten-choose-adventure.md",
@@ -105,7 +106,6 @@
     "_posts/2020-07-05-shrimp-endive-salad.md",
     "_posts/2020-07-03-tuna-confit.md",
     "2020-10-18-chuck-roast-billows.md",
-    "Untitled.md",
-    "_posts/2020-10-15-chicken-bouillabaisse.md"
+    "Untitled.md"
   ]
 }

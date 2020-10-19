@@ -3,7 +3,7 @@ layout: post
 title: Slow Smoked Chuck Roast Using ThermoWorks Billows
 tags: beef bbq smoking
 ---
-![Finished Chuck Roast](images/C0BAD622-6BCD-49C2-B47F-666858812DAA_1_105_c.jpeg)
+![Finished Chuck Roast](/images/chuck-roast-smoked.jpeg)
 
 ![Chuck Roast on Grill with Billows](/images/chuck-billows.jpeg)
 Chuck Roast on grill with Billows attached, smoking box with hickory over binchotan coals and a vat of water under the meat
