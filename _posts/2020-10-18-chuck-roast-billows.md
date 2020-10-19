@@ -11,16 +11,16 @@ Chuck Roast on grill with Billows attached, smoking box with hickory over bincho
 ![Billows](/images/billows.jpeg)
 ThermoWorks Billows attached to my grill
 
-![Signal](/images/signal.jpeg)
-ThermoWorks Signal
+![Signals](/images/signals.jpeg)
+ThermoWorks Signals
 
-I finally caved and bought a Billows from ThermoWorks and the Signal thermometer to control it. The Billows connects to your grill or smoker and controls a fan that blows air into the grill to control the oxygen getting to the coals to control the temperature of the grill.
+I finally caved and bought a Billows from ThermoWorks and the Signals thermometer to control it. The Billows connects to your grill or smoker and controls a fan that blows air into the grill to control the oxygen getting to the coals to control the temperature of the grill.
 
 To connect it to my Weber grill, I had to cut a hole in it. I used a drill bit for cutting metal, which was pretty easy. What wasn't easy was figuring out exactly where to cut the hole. After cutting the hole and having a hot ember melt some of the plastic during my test, I watched some YouTube videos and found out that the hole should not be under the coals but across from them.
 
 Oops. I had started putting my hot side with the coals on the other side of my table that the grill is built into, but I'm going to rotate it 90º so the coals are furthest away from me with the table to the right and the meat at 6-o'clock.
 
-Several websites said that I shouldn't use a full chimney of coal, but I decided to try with a full chimney of binchotan because I'd rather have it run a bit hot than run out of time and not finish - various recipes put my 4 lb chuck roast at between 4 hours and 8 hours so I wanted plenty of time.
+Several websites said that I shouldn't use a full chimney of coal, but I decided to try with a full chimney of [[binchotan]] because I'd rather have it run a bit hot than run out of time and not finish - various recipes put my 4 lb chuck roast at between 4 hours and 8 hours so I wanted plenty of time.
 
 After lighting the chimney and closing the lid, the temperature was over 300ºF. I waited for awhile, but since it wasn't that hot, I decided to put the meat on.
 
@@ -36,6 +36,6 @@ It turned out OK.
 
 For the most part, the temperature ran too hot for most of the session, but when I opened the lid a few time around 3:30 PM, it finally got low enough for the fan to kick in. It kept it at the right temperature like a thermostat for awhile, but then the fire started to go out and I had a bit of a crisis and had to light more coals in a chimney and add them. By the time I got them back in the grill, my internal temperature had hit what seeped to be the [[Evaporation Effect]] so I wrapped the meat and cranked up the set point and landed the internal temperature at my target 180ºF with only 1 min left on my target time.
 
-![Chart](/images/signal-chart.png)
+![Chart](/images/signals-chart.png)
 [Here's a log of my session on ThermoWorks Cloud](https://cloud.thermoworks.com/shared/6Ewsfp1iF9Gur38X4R8g)
 
