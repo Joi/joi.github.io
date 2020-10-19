@@ -6,7 +6,6 @@
       {
         "id": "6f618d372d2b740a",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,11 +18,12 @@
       {
         "id": "6798ce1c47cf211b",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "_posts/2020-10-18-chuck-roast-billows.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "group": "c2470cfc6f35b3bc"
@@ -98,6 +98,7 @@
   },
   "lastOpenFiles": [
     "_posts/2020-10-18-chuck-roast-billows.md",
+    "images/Screen Shot 2020-10-18 at 9.10.51 PM.png",
     "_posts/2020-10-04-bigger-prime-rib-reverse-sear.md",
     "_posts/2020-09-23-zettlekasten-choose-adventure.md",
     "_posts/2020-08-17-prime-rib.md",
@@ -105,7 +106,6 @@
     "_posts/2020-07-03-tuna-confit.md",
     "2020-10-18-chuck-roast-billows.md",
     "Untitled.md",
-    "_posts/2020-10-15-chicken-bouillabaisse.md",
-    "_recipes/Monkfish-Braised-with-White-Beans-Fennel-&-Tomato.md"
+    "_posts/2020-10-15-chicken-bouillabaisse.md"
   ]
 }

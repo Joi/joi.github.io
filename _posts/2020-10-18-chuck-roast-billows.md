@@ -3,6 +3,7 @@ layout: post
 title: Slow Smoked Chuck Roast Using ThermoWorks Billows
 tags: beef bbq smoking
 ---
+![Finished Chuck Roast](images/C0BAD622-6BCD-49C2-B47F-666858812DAA_1_105_c.jpeg)
 
 ![Chuck Roast on Grill with Billows](/images/chuck-billows.jpeg)
 Chuck Roast on grill with Billows attached, smoking box with hickory over binchotan coals and a vat of water under the meat
@@ -28,3 +29,13 @@ The temperature eventually went down, but very slowly has yet (3:20PM right now)
 The chuck roast was dry brined for a few days and overnight the last night, I put my BBQ dry rub on it.
 
 I have a vat with water under the chuck roast to provide moisture and catch drippings.
+
+---
+
+It turned out OK.
+
+For the most part, the temperature ran too hot for most of the session, but when I opened the lid a few time around 3:30 PM, it finally got low enough for the fan to kick in. It kept it at the right temperature like a thermostat for awhile, but then the fire started to go out and I had a bit of a crisis and had to light more coals in a chimney and add them. By the time I got them back in the grill, my internal temperature had hit what seeped to be the [[Evaporation Effect]] so I wrapped the meat and cranked up the set point and landed the internal temperature at my target 180ºF with only 1 min left on my target time.
+
+![Chart](/images/signal-chart.png)
+[Here's a log of my session on ThermoWorks Cloud](https://cloud.thermoworks.com/shared/6Ewsfp1iF9Gur38X4R8g)
+
