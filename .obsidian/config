@@ -43,5 +43,7 @@
     "romanesco",
     "Sauté"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "enabledPlugins": [],
+  "vimMode": true
 }
