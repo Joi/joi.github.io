@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/2020-10-29-figuring-out-beef-stroganoff.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,9 +68,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "_posts/2020-10-29-figuring-out-beef-stroganoff.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -84,6 +79,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_pages/Untitled.md",
     "_posts/2020-10-29-figuring-out-beef-stroganoff.md",
     "fedex.md",
     "Untitled.md",
@@ -92,7 +88,6 @@
     "_posts/2020-10-18-chuck-roast-billows.md",
     "images/signal.jpeg",
     "images/signal-chart.png",
-    "_pages/my-thermometers.md",
-    "My Thermometers.md"
+    "_pages/my-thermometers.md"
   ]
 }

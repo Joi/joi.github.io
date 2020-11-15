@@ -60,6 +60,5 @@ I guess I'll do:
 - cream cheese
 - parsley
 - gemi-glace sauce
-- mustard
 
 Generally, it turn out great!
