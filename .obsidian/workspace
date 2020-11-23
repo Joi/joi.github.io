@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-10-21-mastering-billows.md",
+            "file": "_posts/2020-11-22-smoked-salmon-billows.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-10-21-mastering-billows.md",
+                "file": "_posts/2020-11-22-smoked-salmon-billows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,8 +94,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-10-21-mastering-billows.md",
     "_posts/2020-11-22-smoked-salmon-billows.md",
+    "_posts/2020-10-21-mastering-billows.md",
     "_posts/Untitled.md",
     "_posts/2020-10-18-chuck-roast-billows.md",
     "images/signal.jpeg",
