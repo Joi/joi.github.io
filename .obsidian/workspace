@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6f618d372d2b740a",
+        "id": "6798ce1c47cf211b",
         "type": "leaf",
         "active": true,
         "state": {
@@ -13,20 +13,7 @@
             "file": "_posts/2020-10-21-mastering-billows.md",
             "mode": "source"
           }
-        },
-        "group": "c2470cfc6f35b3bc"
-      },
-      {
-        "id": "6798ce1c47cf211b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/2020-10-21-mastering-billows.md",
-            "mode": "source"
-          }
-        },
-        "group": "c2470cfc6f35b3bc"
+        }
       }
     ],
     "direction": "vertical"
@@ -53,7 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "instant pot"
+                "query": "instant pot",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -85,7 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-10-21-mastering-billows.md"
+                "file": "_posts/2020-10-21-mastering-billows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -98,6 +95,7 @@
   },
   "lastOpenFiles": [
     "_posts/2020-10-21-mastering-billows.md",
+    "_posts/2020-11-22-smoked-salmon-billows.md",
     "_posts/Untitled.md",
     "_posts/2020-10-18-chuck-roast-billows.md",
     "images/signal.jpeg",
@@ -105,7 +103,6 @@
     "_pages/my-thermometers.md",
     "My Thermometers.md",
     "_pages/thermometers.md",
-    "images/C0BAD622-6BCD-49C2-B47F-666858812DAA_1_105_c.jpeg",
-    "images/Screen Shot 2020-10-18 at 9.10.51 PM.png"
+    "images/C0BAD622-6BCD-49C2-B47F-666858812DAA_1_105_c.jpeg"
   ]
 }
