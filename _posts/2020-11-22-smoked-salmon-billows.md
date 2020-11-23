@@ -6,6 +6,9 @@ tags: bbq temperature salmon
 ![Temperature for Session](/images/smoked-salmon-billows.png)
 *The temperature stayed mostly in my target window thanks to Billow.*
 
+![Billows](/images/billows.jpeg)
+*Billows attached to my Weber grill.*
+
 ![Smoked Salmon](/images/smoked-salmon.jpeg)
 
 So far, I had yet to use [Billows](https://www.thermoworks.com/Billows) effectively to manage the temperature of my grill. In the past, my starting temperature was too high so it didn't get into the target window until very late in my session and it seems like when the temperature went into free-fall, the billows couldn't catch it in time to keep the fire from going out.
