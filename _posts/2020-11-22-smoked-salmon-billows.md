@@ -11,7 +11,7 @@ tags: bbq temperature salmon
 
 ![Smoked Salmon](/images/smoked-salmon.jpeg)
 
-So far, I had yet to use [Billows](https://www.thermoworks.com/Billows) effectively to manage the temperature of my grill. In the past, my starting temperature was too high so it didn't get into the target window until very late in my session and it seems like when the temperature went into free-fall, the billows couldn't catch it in time to keep the fire from going out.
+So far, I had yet to use [Billows](https://www.thermoworks.com/Billows) effectively to manage the temperature of my grill. [In the past, my starting temperature was too high so it didn't get into the target window until very late in my session and it seems like when the temperature went into free-fall, the billows couldn't catch it in time to keep the fire from going out.](https://cooking.ito.com/2020/10/21/mastering-billows)
 
 This time, I used a bit less charcoal and closed all of the vents from the beginning.
 
