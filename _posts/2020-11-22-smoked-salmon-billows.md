@@ -20,7 +20,7 @@ I'm happy to say that although the temperature, again, was a bit high at the beg
 ![Brined Salmon](/images/brined-salmon.jpeg)
 *Brined Salmon*
 
-My recipe was to dry brine the salmon in the fridge for 7 hours and then smoke with Alder chips with the fish on Alder planks. I also put a drop pan full of ice under the salmon in the grill.
+My recipe was to dry brine the salmon in the fridge for 7 hours and then smoke with Alder chips with the fish on Alder planks. I also put a drip pan full of ice under the salmon in the grill.
 
 ![Bichontan with Ice](/images/binchotan-ice-vat.jpeg)
 *Bichotan with ice in vat.*
