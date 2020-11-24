@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-09-08-Pork-Spare-Ribs.md",
+            "file": "_posts/2020-11-22-smoked-salmon-billows.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "instant pot",
+                "query": "salmon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-09-08-Pork-Spare-Ribs.md",
+                "file": "_posts/2020-11-22-smoked-salmon-billows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_posts/2020-09-08-Pork-Spare-Ribs.md",
-    "_posts/2020-09-08-pork-spare-ribs.md",
-    "_posts/2020-09-06-Lasagna.md",
-    "_posts/2020-09-06-lasagna.md",
     "_posts/2020-11-22-smoked-salmon-billows.md",
     "_posts/2020-10-21-mastering-billows.md",
-    "_posts/Untitled.md",
     "_posts/2020-10-18-chuck-roast-billows.md",
-    "images/signal.jpeg",
-    "images/signal-chart.png"
+    "_posts/2020-07-10-aioli.md",
+    "_posts/2020-07-09-spatchcocked-chicken.md",
+    "_posts/2020-07-03-tuna-confit.md",
+    "_posts/2020-07-05-shrimp-endive-salad.md",
+    "_recipes/Pressure-Cooker-Vietnamese-Caramel-Salmon.md",
+    "_recipes/Easy-Grilled-Salmon.md",
+    "_recipes/Easy-Calamari-Recipe-with-Garlic-Lime-Sauce.md"
   ]
 }

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smoking Salmon on my Weber Grill with ThermoWorks Billows
-tags: bbq temperature salmon
+tags: bbq temperature salmon billows
 ---
 ![Temperature for Session](/images/smoked-salmon-billows.png)
 *The temperature stayed mostly in my target window thanks to Billow.*

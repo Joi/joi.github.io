@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering Billows
-tags: bbq temperature
+tags: bbq temperature billows
 ---
 ![Smoked Sablefish](/images/smoked-sablefish.jpeg)
 
