@@ -4,14 +4,14 @@ title: Smoking Salmon on my Weber Grill with ThermoWorks Billows
 tags: bbq temperature salmon billows
 ---
 ![Temperature for Session](/images/smoked-salmon-billows.png)
-*The temperature stayed mostly in my target window thanks to Billow.*
+*The temperature stayed mostly in my target window thanks to Billows.*
 
 ![Billows](/images/billows.jpeg)
 *Billows attached to my Weber grill.*
 
 ![Smoked Salmon](/images/smoked-salmon.jpeg)
 
-So far, I had yet to use [Billows](https://www.thermoworks.com/Billows) effectively to manage the temperature of my grill. [In the past, my starting temperature was too high so it didn't get into the target window until very late in my session and it seems like when the temperature went into free-fall, the billows couldn't catch it in time to keep the fire from going out.](https://cooking.ito.com/2020/10/21/mastering-billows)
+So far, I had yet to use [Billows](https://www.thermoworks.com/Billows) effectively to manage the temperature of my grill. The Billows fan connects to a thermometer with a probe on the grill and regulates airflow into the grill. The airflow manages the burning of the coals and theoretically keeps the temperature at my set point. [In the past, my starting temperature was too high so it didn't get into the target window until very late in my session and it seems like when the temperature went into free-fall, the billows couldn't catch it in time to keep the fire from going out.](https://cooking.ito.com/2020/10/21/mastering-billows)
 
 This time, I used a bit less charcoal and closed all of the vents from the beginning.
 
