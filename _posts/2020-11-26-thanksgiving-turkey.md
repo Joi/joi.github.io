@@ -32,3 +32,5 @@ At 8AM I put the extra stuffing into the oven in a glass cooking pan.
 I noticed that the oven shut down around 9AM so I turned it back on. For some reason the temperature seemed lower so I increased the oven setting to 190ºF.
 
 At 10AM the thigh was about 143ºF and the breast about 151ºF. The breast was at Kenji Lopez's target but the thigh was 20 degrees short so I cranked up the oven to 250ºF.
+
+At 10:30AM, [read another recipe](https://www.splendidtable.org/story/2013/11/21/this-year-roast-the-turkey-while-you-sleep) that said to do it at 170ºF for 1 hr / lb and decided to take longer and lower so turned my temp back down to 190ºF. This recipe also calls for blasting the high heat at the beginning to kill the microbes on the surface of the turkey before going into the slow roast mode.
