@@ -17,4 +17,18 @@ The Food Lab had a reasonable sounding gravy as well so I'll try that.
 
 Interestingly, The Food Lab at one point says to dry brine whole poultry for 24-28 hours, but in another section of the book goes on to say to NOT dry the bird for more than 24 hours or you get leathery skin. I read this after I had started dry brining the bird so we'll see.
 
+---
 
+![Brined Turkey](/images/brined-turkey.jpeg)
+*48 hour dry brined Heritage turkey*
+
+![Stuffing](/images/stuffing.jpeg)
+*Stuffing*
+
+I started the turkey at 10PM yesterday after stuffing the turkey with stuffing microwaved to 180ºF per The Food Lab recipe.
+
+At 8AM I put the extra stuffing into the oven in a glass cooking pan.
+
+I noticed that the oven shut down around 9AM so I turned it back on. For some reason the temperature seemed lower so I increased the oven setting to 190ºF.
+
+At 10AM the thigh was about 143ºF and the breast about 151ºF. The breast was at Kenji Lopez's target but the thigh was 20 degrees short so I cranked up the oven to 250ºF.
