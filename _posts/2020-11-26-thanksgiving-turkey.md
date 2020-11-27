@@ -50,3 +50,6 @@ Another thing I noticed was that the temperature differential between the left s
 The other thing that I noticed was a "stall" at around 148ºF in the thighs and a significant slow down in temperature rise as the turkey got closer to the oven temperature. In fact, with this turkey and my standard slow roast chicken, it feels like the majority of the time of the cooking is spent on the last few degrees as the bird closes in on the target temperature. I should probably budget more time, maybe 24 hours as the last recipe says.
 
 Lastly, I made the gravy, which turned out great, several hours before the turkey was served. As it reduced and then cooled, I noticed the emulsion starting to fail. Another note to self is to do the gravy during the window where you're resting the turkey.
+
+My temperature data and chart are accessible via [ThermoWorks Cloud](
+https://cloud.thermoworks.com:/shared/xKdNhKKpGyhGyA93ZG3S).
