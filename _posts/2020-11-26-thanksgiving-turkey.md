@@ -44,7 +44,7 @@ I ended the turkey at 4:30PM with the thigh at 158ºF. The turkey was juicy, but
 
 Another thing I noticed was that the temperature differential between the left side and the right side of the turkey was quite large and the legs and thighs lagged behind the breast quite a bit. I think that having the legs pointed to the back of the oven, which is supposed to be hotter, even at an angle would have been better. That and turning the turkey from left to right half way through.
 
-[The Stall](/images/the-stall.png)
+![The Stall](/images/the-stall.png)
 *The "Stall"*
 
-The other thing that I noticed was a "stall" at around 143ºF in the thighs and a significant slow down in temperature rise as the turkey got closer to the oven temperature. In fact, with this turkey and my standard slow roast chicken, it feels like the majority of the time of the cooking is spent on the last few degrees as the bird closes in on the target temperature. I should probably budget more time, maybe 24 hours as the last recipe says.
+The other thing that I noticed was a "stall" at around 148ºF in the thighs and a significant slow down in temperature rise as the turkey got closer to the oven temperature. In fact, with this turkey and my standard slow roast chicken, it feels like the majority of the time of the cooking is spent on the last few degrees as the bird closes in on the target temperature. I should probably budget more time, maybe 24 hours as the last recipe says.
