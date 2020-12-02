@@ -30,6 +30,6 @@ One thing to remember about thermometers is that they are taking microbes from t
 What I do when I'm doing a roast or a reverse sear or some other thing where I want to stick a thermometer into a thing that has a rare surface is to either wait until the surface is a bit cooked before sticking the thermometer in or I use a torch to blast an area on the surface to disinfect it before I stick the thermometer in.
 
 ---
-*[[My Thermometers]]*
+*[[my-thermometers]]*
 
 [^1]: Myhrvold, N., Young, C., Bilet, M. (March, 2011). The Complex Origins of Food Safety Rules--Yes, You Are Overcooking Your Food. **Scientific American**, [URL](https://www.scientificamerican.com/article/complex-origins-food-safety-rules/)
