@@ -25,7 +25,7 @@ The recipe calls for the sous vide to be set at 132ºF with the probe target to 
 
 I dry brined the prime rib over night and then loaded it in the oven on a V rack at 7:45 AM. It cooked until 4:45 PM - 9 hours. The temperature was 132ºF when I pulled it. The roast with 5.88 lbs.
 
-I then heated the oven to 480ºF and blasted it for about 10 min. I think I could have and maybe should have gone a bit longer. The crust wasn't as crunchy as it could have been.
+I then heated the oven to 480ºF and blasted it for about 10 min. I think I could have and maybe should have gone a bit longer. The crust - aka "the bark" - wasn't as crunchy as it could have been.
 
 I didn't use the egg coating before the searing as the recipe calls for.
 
