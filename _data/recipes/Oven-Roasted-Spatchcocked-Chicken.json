@@ -1,6 +1,7 @@
 {
   "categories": [
-    "Chicken"
+    "Chicken",
+    "_mine"
   ],
   "cook_time": "",
   "created": "2020-07-09 14:31:38",
@@ -52,5 +53,6 @@
   "source": "Joi",
   "source_url": "",
   "total_time": "",
+  "type": null,
   "uid": "36A76453-1BC6-44FF-A21C-1BC30580CED0-631-0002C95B214A28BC"
 }
