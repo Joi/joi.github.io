@@ -2,6 +2,52 @@
 layout: default
 ---
 <!-- template: post.html -->
+<style>
+  .recipes-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+  }
+  
+  .recipes-list .recipe-item-box {
+    width:33.3%;
+  }
+  #recipes_mine .recipes-list .recipe-item-box {
+    width:100%;
+  }
+  .recipes-list a.recipe-item {
+    display: flex;
+    margin-right:20px;
+    padding-top:20px;
+    border-top: 1px solid #999;
+  }
+  .recipes-list a.recipe-item img {
+    margin: 0 10px 20px 0;
+    width:100px;
+    height:100px;
+  }
+  .recipes-list a.recipe-item .recipe-deets {
+    width: 50%;
+    line-height: 1.2em;
+  }
+  .recipes-list a.recipe-item .recipe-name {
+    font-size: 16px;
+    font-weight: 500;
+    height:80px;
+  }
+  .recipes-list a.recipe-item .recipe-cats {
+    font-size: 12px;
+    font-weight: 400;
+    color: #000;
+  }
+  .recipes-list a.recipe-item:hover .recipe-cats {
+    color: #666;
+  }
+  </style>
+
 <div class="row" id="content">
 	<div class="large-12 columns" id="">
 
@@ -11,20 +57,70 @@ layout: default
 
 	</div>
 </div>
+
 <hr>
-<div class="row" id="content">
-	<div class="large-6 columns" id="">
 
+<div class="row">
+
+  <div class="large-8 columns" id="posts">
 		<h4>Posts</h4>
-
 		{% for post in site.posts %}
 		<p><strong><a href="{{ post.url }}"
 									aria-label="{{post.content | markdownify | strip_html | normalize_whitespace | truncate: 250 | newline_to_br}}"
 									alt="{{ post.title }}">{{ post.title }}</a></strong><br>{{post.date | date: '%B %d, %Y' }}</p>
 		{% endfor %}
+	</div>
+
+  <div class="large-4 columns" id="recipes_mine">
+		<h4>My Recipes</h4>
+		<br>
+		<div class="recipes-list">
+			{% for recipe in site.recipes %}
+				{% assign json_data = site.data.recipes[recipe.filename] %}
+
+				{% if json_data.type == "_mine" %}
+				<div class="recipe-item-box">
+				<a class="recipe-item" href="{{ recipe.url }}">
+					{% if json_data.photo %}
+					<img src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}" />
+					{% else %}
+					<img src='/images/200x200.gif' />
+					{% endif %}
+					<div class="recipe-deets">
+					<div class="recipe-name"
+									aria-label="Ingredients: {{json_data.ingredients | truncate: 250}}"
+									alt="{{ recipe.title }}">{{ recipe.title }}</div>
+					{% if json_data.categories %}
+						<div class="recipe-cats">
+						{% for cat in json_data.categories %}
+              {% if cat != "_mine" %}
+                {{cat}}
+              {% endif %}
+						{% endfor %}
+						</div>
+					{% endif %}
+					</div>
+				</a>
+				</div>
+
+				{% endif %}
+
+			{% endfor %}
+		</div>	
+	</div>
+
+</div>
+
+<hr>
+
+{% comment %}
+<div class="row">
+
+  <div class="large-6 columns" id="">
 
 	</div>
-	<div class="large-6 columns" id="">
+
+  <div class="large-6 columns" id="posts_tags">
 		<h4>By Tag</h4>
 		{% for tag in site.tags %}
 			<h5>{{ tag[0] | capitalize }}</h5>
@@ -35,63 +131,23 @@ layout: default
 									alt="{{ post.title }}">{{ post.title }}</a></li>
 				{% endfor %}
 			</ul>
-		{% endfor %}
-		
+		{% endfor %}		
 	</div>
+
 </div>
 <hr>
-<div class="row" id="content">
-	<div class="large-12 columns" id="">
+{% endcomment %}
 
-<style>
-.recipes-list {
-	display: flex;
-	flex-direction: row;
-	justify-content: flex-start;
-	flex-wrap: wrap;
-	align-items: flex-start;
-	align-content: flex-start;
-}
+<div class="row">
+	<div class="large-12 columns" id="recipes_5star">
 
-.recipes-list .recipe-item-box {
-	width:33.3%;
-}
-.recipes-list a.recipe-item {
-	display: flex;
-	margin-right:20px;
-	padding-top:20px;
-	border-top: 1px solid #999;
-}
-.recipes-list a.recipe-item img {
-	margin: 0 10px 20px 0;
-	width:100px;
-	height:100px;
-}
-.recipes-list a.recipe-item .recipe-deets {
-	width: 50%;
-	line-height: 1.2em;
-}
-.recipes-list a.recipe-item .recipe-name {
-	font-size: 16px;
-	font-weight: 500;
-	height:80px;
-}
-.recipes-list a.recipe-item .recipe-cats {
-	font-size: 12px;
-	font-weight: 400;
-	color: #000;
-}
-.recipes-list a.recipe-item:hover .recipe-cats {
-	color: #666;
-}
-</style>
-		<h4>★★★★★ Recipes</h4>
+		<h4>Inspiring <!--★★★★★-->⭐️⭐️⭐️⭐️⭐️ Recipes</h4>
 		<br>
 		<div class="recipes-list">
 			{% for recipe in site.recipes %}
 				{% assign json_data = site.data.recipes[recipe.filename] %}
 
-				{% if json_data.rating == 5 %}
+				{% if json_data.rating == 5 and json_data.type != "_mine" %}
 				<div class="recipe-item-box">
 				<a class="recipe-item" href="{{ recipe.url }}">
 					{% if json_data.photo %}
