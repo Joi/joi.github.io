@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Steaks"
+  ],
+  "cook_time": "30 min",
+  "created": "2020-11-11 18:02:00",
+  "created_ts": 1605117720,
+  "description": null,
+  "difficulty": null,
+  "directions": "Steaks: (Note - I actually prefer to do this step AFTER starting the onions and steak sauce)\n\nHeat up a heavy grill pan over high heat, and wipe it with olive oil before it gets too hot. Season both sides of your steaks with the steak seasoning or salt and pepper. Cook the steaks for about 4 minutes on each side for medium, 7-8 minutes for medium well. Remove them to a warm platter.\n\nOnions:\n\nHeat a medium nonstick skillet over medium-high heat. Add oil and yellow onions. Cook, stirring occasionally, for about 10-12 minutes, until the onions are soft and sweet. Add balsamic vinegar to the pan and turn the onions until the vinegar cooks away and glazes the onions a deep brown - approx. 3-5 minutes.\n\nSteak Sauce:\n\nHeat a small saucepan over medium heat. Add oil, garlic and white onions and saute for about 5 minutes, until tender. Add the sherry to the pan and combine them with the onions. Stir in the tomato sauce and Worchestershire sauce, and season with black pepper.\n\nTo Serve:\n\nTop steaks with onions and drizzle a little steak sauce down over the top. Try to reserve about half of the sauce to pass at the table.",
+  "html": {
+    "description": null,
+    "directions": "<p>Steaks: (Note - I actually prefer to do this step AFTER starting the onions and steak sauce)</p>\n<p>Heat up a heavy grill pan over high heat, and wipe it with olive oil before it gets too hot. Season both sides of your steaks with the steak seasoning or salt and pepper. Cook the steaks for about 4 minutes on each side for medium, 7-8 minutes for medium well. Remove them to a warm platter.</p>\n<p>Onions:</p>\n<p>Heat a medium nonstick skillet over medium-high heat. Add oil and yellow onions. Cook, stirring occasionally, for about 10-12 minutes, until the onions are soft and sweet. Add balsamic vinegar to the pan and turn the onions until the vinegar cooks away and glazes the onions a deep brown - approx. 3-5 minutes.</p>\n<p>Steak Sauce:</p>\n<p>Heat a small saucepan over medium heat. Add oil, garlic and white onions and saute for about 5 minutes, until tender. Add the sherry to the pan and combine them with the onions. Stir in the tomato sauce and Worchestershire sauce, and season with black pepper.</p>\n<p>To Serve:</p>\n<p>Top steaks with onions and drizzle a little steak sauce down over the top. Try to reserve about half of the sauce to pass at the table.</p>\n",
+    "ingredients": "<p>STEAKS:\n4 delmonico steaks, 1-inch thick (10-12 oz each)\n2 tsp olive oil, extra virgin\nsteak seasoning blend (i like montreal by mccormick) or salt and pepper to taste\nONIONS:\n1 Tbsp olive oil, extra virgin\n2 large yellow onions, thinly sliced\n1/4 c balsamic vinegar\nSTEAK SAUCE:\n1 1/2 tsp olive oil, extra virgin\n2 clove garlic, chopped\n1 small white onion, chopped\n1/4 c dry cooking sherry\n1 c tomato sauce\n1 Tbsp worcestershire sauce\nfreshly ground black pepper, to taste\nAdd Ingredients to Grocery List</p>\n",
+    "nutrition": null
+  },
+  "image_url": "https://lh3.googleusercontent.com/u4tnizb0CaEz6QdraZY00oSE97fgIARshJGXCAoA_BCcURUe0AzWUIwai0mKDQI18lK2sVDh8K-rCo0_utnzsxcI2MRbcFpggPn5tFk=w600-rj-l68-e365",
+  "ingredients": "STEAKS:\n4 delmonico steaks, 1-inch thick (10-12 oz each)\n2 tsp olive oil, extra virgin\nsteak seasoning blend (i like montreal by mccormick) or salt and pepper to taste\nONIONS:\n1 Tbsp olive oil, extra virgin\n2 large yellow onions, thinly sliced\n1/4 c balsamic vinegar\nSTEAK SAUCE:\n1 1/2 tsp olive oil, extra virgin\n2 clove garlic, chopped\n1 small white onion, chopped\n1/4 c dry cooking sherry\n1 c tomato sauce\n1 Tbsp worcestershire sauce\nfreshly ground black pepper, to taste\nAdd Ingredients to Grocery List",
+  "intrash": 0,
+  "name": "Delmonico Steaks with Balsamic Onions and Sauce",
+  "notes": null,
+  "nutritional_info": null,
+  "photo": "6004B870-C56D-48EE-B997-8BE5D6FD81FA-32901-000013EAA1C8DA35.jpg",
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "15 min",
+  "rating": 5,
+  "servings": "Serves: 4",
+  "source": "justapinch.com",
+  "source_url": "https://www.justapinch.com/recipes/main-course/steaks-chops/delmonico-steaks-with-balsamic-onions-and-sauce.html",
+  "total_time": null,
+  "type": null,
+  "uid": "D4299074-37F6-44AE-8F7F-A71B686EBE77-32901-000013EA8945E420"
+}

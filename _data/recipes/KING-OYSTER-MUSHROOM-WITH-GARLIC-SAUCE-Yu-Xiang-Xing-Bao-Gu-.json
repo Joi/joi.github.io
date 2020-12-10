@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Mushroom"
+  ],
+  "cook_time": "3 minutes",
+  "created": "2020-10-22 21:11:40",
+  "created_ts": 1603401100,
+  "description": null,
+  "difficulty": null,
+  "directions": "Cut the king oyster mushrooms into chunky discs (like scallops). Have garlic, chillies, wood ear mushroom & scallion prepared.\n\nMix all the ingredients for the sauce. Set aside.\n\nHeat up the oil. Fry garlic until fragrant.\n\nStir in king oyster mushrooms. Fry until brown on the edge.\n\nAdd wood ear mushroom, fresh chilli. Stir fry.\n\nPour in the sauce (stir well beforehand) and scallions. Turn off the heat as soon as the sauce thickens.\n\nServe warm with plain rice and other savoury dishes, or as a topping for noodle dishes.",
+  "html": {
+    "description": null,
+    "directions": "<p>Cut the king oyster mushrooms into chunky discs (like scallops). Have garlic, chillies, wood ear mushroom &amp; scallion prepared.</p>\n<p>Mix all the ingredients for the sauce. Set aside.</p>\n<p>Heat up the oil. Fry garlic until fragrant.</p>\n<p>Stir in king oyster mushrooms. Fry until brown on the edge.</p>\n<p>Add wood ear mushroom, fresh chilli. Stir fry.</p>\n<p>Pour in the sauce (stir well beforehand) and scallions. Turn off the heat as soon as the sauce thickens.</p>\n<p>Serve warm with plain rice and other savoury dishes, or as a topping for noodle dishes.</p>\n",
+    "ingredients": "<p>2 tbsp cooking oil\n6 king oyster mushrooms, about 400g/14oz\n1 tbsp minced garlic\n50 g pre-soaked wood ear mushroom, about ⅓ cup\n3 fresh chillies, thinly sliced, or Sichuan pickled chilli (see note)\n1 stalk scallions, finely chopped\nFor the sauce:\n1 tbsp Shaoxing rice wine\n1 tbsp black rice vinegar\n1 tbsp light soy sauce\n1 tsp dark soy sauce\n½ tbsp sugar\n½ tbsp cornstarch\n1 tbsp water</p>\n",
+    "nutrition": "<p>Calories: 240kcal</p>\n"
+  },
+  "image_url": "https://i0.wp.com/redhousespice.com/wp-content/uploads/2020/05/King-Oyster-mushroom-with-garlic-sauce-scaled.jpg?resize=1367%2C2048&ssl=1",
+  "ingredients": "2 tbsp cooking oil\n6 king oyster mushrooms, about 400g/14oz\n1 tbsp minced garlic\n50 g pre-soaked wood ear mushroom, about ⅓ cup\n3 fresh chillies, thinly sliced, or Sichuan pickled chilli (see note)\n1 stalk scallions, finely chopped\nFor the sauce:\n1 tbsp Shaoxing rice wine\n1 tbsp black rice vinegar\n1 tbsp light soy sauce\n1 tsp dark soy sauce\n½ tbsp sugar\n½ tbsp cornstarch\n1 tbsp water",
+  "intrash": 0,
+  "name": "KING OYSTER MUSHROOM WITH GARLIC SAUCE (鱼香杏鲍菇)",
+  "notes": null,
+  "nutritional_info": "Calories: 240kcal",
+  "photo": "ADF34DE3-1DDE-42CB-A37E-EB8232D366E5-64845-00002AEE2633F775.jpg",
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "5 minutes",
+  "rating": 5,
+  "servings": "Calories: 240kcal",
+  "source": "redhousespice.com",
+  "source_url": "https://redhousespice.com/king-oyster-mushroom-garlic-sauce/",
+  "total_time": null,
+  "type": null,
+  "uid": "9BD58944-2A23-43C2-832C-B57CE5F7F8FF-64845-00002AEE0BF7D9BE"
+}
