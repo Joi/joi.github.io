@@ -21,25 +21,33 @@ layout: default
   {%- assign photo_hero = nil -%}
 {%- endif -%}
 
+{% if json_data.type == "_mine" %}
+  {%- assign class_mine = "mine" -%}
+{% else %}
+  {%- assign class_mine = "notmine" -%}
+{% endif %}
+
 {%- comment -%}
 ---- END VARS ------------------------------------------------
 {%- endcomment -%}
 
+<div class="{{ class_mine }}">
 <div class="row" id="title">
 	<div class="small-12 columns">
     <h2 class="marker">{{ page.title }}</h2>
+
     {% if json_data.source %}
       <p class="source">Source: 
-        {% if json_data.source_url == "" %}
+        {% unless json_data.source_url %}
           {{ json_data.source }}
         {% else %}
           <a href="{{ json_data.source_url }}" title="{{ json_data.source }}">{{ json_data.source }}</a>
-        {% endif %}
+        {% endunless %}
       </p>
     {% endif %}
-	</div>
-</div>
 
+  </div>
+</div>
 
 {%- if photo_hero -%}
 <!-- Hero Banner Photo -->
@@ -50,18 +58,21 @@ layout: default
 </div>
 <!-- End Hero Banner Photo -->
 {%- else -%}
-<hr>
+  {%- comment -%}<hr>{%- endcomment -%}
 {%- endif -%}
 
 
 <div class="row" id="row-one">
   <div class="large-8 medium-7 columns" id="writeup">
 
-    {% if json_data.html['description'] != null %}
+    {% if json_data.type == "_mine" %}
+      {% if json_data.html['description'] != null %}
       <h4 id="description">Description</h4>
       <div class="box box-description">
         {{ json_data.html['description'] }}
       </div>
+      {% endif %}
+    {% else %}
     {% endif %}
 
     {%- if content != "" -%}
@@ -72,12 +83,13 @@ layout: default
   <div class="large-4 medium-5 columns bgc-lorange" id="backlinks">
     {%- comment -%}{%- endcomment -%}
     {%- include backlinks.html -%}
+    {%- comment -%}{{ has_backlinks }}{%- endcomment -%}
   </div>
 </div><!-- #row-one -->
-<hr>
+
+{%- comment -%}<hr>{%- endcomment -%}
 
 <div class="row" id="row-two">
-
   <div class="medium-2 columns" id="photo-sidebar">
     <div class="" id="recipe-photos">
     {% if json_data.photos %}
@@ -114,11 +126,14 @@ layout: default
   </div><!-- #photo-sidebar -->
 
   <div class="medium-6 small-7 columns">
-    {% if json_data.html['directions'] != null %}
+    {% if json_data.type == "_mine" %}
+      {% if json_data.html['directions'] != null %}
       <h4 id="directions">Directions</h4>
       <div class="box box-directions">
         {{ json_data.html['directions'] }}
       </div>
+      {% endif %}
+    {% else %}
     {% endif %}
   </div>
   <div class="medium-4 small-5 columns">
@@ -144,6 +159,7 @@ layout: default
 </div><!-- #row-three -->
 {% endif %}
 
-</div><!-- #content -->
+
+</div><!-- .mine / .notmine -->
 
 <!-- /template: recipe.html -->
