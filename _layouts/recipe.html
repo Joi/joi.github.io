@@ -34,7 +34,7 @@ layout: default
 <div class="{{ class_mine }}">
 <div class="row" id="title">
 	<div class="small-12 columns">
-    <h2 class="marker">{{ page.title }}</h2>
+    <h2 class="marker">{% if json_data.type == "_mine" %}Joi's {% endif %}{{ page.title }}</h2>
 
     {% if json_data.source %}
       <p class="source">Source: 
