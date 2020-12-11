@@ -11,7 +11,7 @@
   "html": {
     "description": null,
     "directions": "<p>Boil water in Dutch Oven.</p>\n<p>Add ¼ cup of butter and some pepper.</p>\n<p>Turn off heat and add corn.</p>\n<p>Allow to sit for 20 min.</p>\n<p>Remove corn and season with salt.</p>\n",
-    "ingredients": "<p>Corn\nButter\nSalt\nPepper</p>\n",
+    "ingredients": "<ul>\n<li>Corn</li>\n<li>Butter</li>\n<li>Salt</li>\n<li>Pepper</li>\n</ul>\n",
     "nutrition": null
   },
   "image_url": null,
@@ -34,8 +34,8 @@
   "prep_time": "",
   "rating": 5,
   "servings": "",
-  "source": "",
-  "source_url": "",
+  "source": null,
+  "source_url": null,
   "total_time": "",
   "type": null,
   "uid": "23FE81EA-D7B3-4C76-BDFE-07336D41F990-29053-0004B181B996F693"

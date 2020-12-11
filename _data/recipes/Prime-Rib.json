@@ -12,7 +12,7 @@
   "html": {
     "description": "<p>Inspired by Food Lab.</p>\n",
     "directions": "<p>Dry brine prime rib the day before.</p>\n<p>Set oven to lowest temperature. (170ºF on Wolf)</p>\n<p>Roast prime rib on rack until internal temperature hits 130ºF (medium rare) and remove from oven. (5 hours for 3 pound prime rib in my oven which hovered around 160ºF on &quot;roast&quot; setting.)</p>\n<p>Tent with foil and rest for 30 min - 1 ½ hours.</p>\n<p>If it finishes more than 1 ½ hours before serving, remove from oven and put back into oven for 45 min at 200ºF before searing to reheat.</p>\n<p>Sear at max temperature in oven (550ºF on Wolf) for 6 - 10 min.</p>\n<p>Slice and serve.</p>\n",
-    "ingredients": "<p>Prime Rib\nSalt\nPepper</p>\n",
+    "ingredients": "<ul>\n<li>Prime Rib</li>\n<li>Salt</li>\n<li>Pepper</li>\n</ul>\n",
     "nutrition": null
   },
   "image_url": null,
@@ -65,9 +65,9 @@
   "prep_time": "15 min",
   "rating": 5,
   "servings": "",
-  "source": "",
-  "source_url": "",
+  "source": null,
+  "source_url": null,
   "total_time": "",
-  "type": null,
+  "type": "_mine",
   "uid": "1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259"
 }

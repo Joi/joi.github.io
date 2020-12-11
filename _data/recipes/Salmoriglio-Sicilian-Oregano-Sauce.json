@@ -11,7 +11,7 @@
   "html": {
     "description": null,
     "directions": "<p>Combine the parsley, oregano, garlic, and olive oil in a small bowl with a generous pinch of salt. Just before serving, add the lemon juice. Stir, taste, and adjust for salt and acid. Serve immediately. Refrigerate, covered, for up to 3\ndays.</p>\n<p>Serving suggestions: With grilled or roasted fish or meat; with grilled, roasted, or blanched vegetables; with Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken.</p>\n<p>Variation\n• To make Argentinian <em>Chimichurri</em> sauce for spooning over grilled meats, add 1 teaspoon red pepper flakes and 1 to 2 tablespoons red wine vinegar to taste.</p>\n",
-    "ingredients": "<p>¼ cup very finely chopped parsley\n2 tablespoons very finely chopped fresh oregano or marjoram or 1 tablespoon dried oregano\n1 garlic clove, finely grated or pounded with a pinch of salt\n¼ cup extra-virgin olive oil\n2 tablespoons lemon juice\nSalt</p>\n",
+    "ingredients": "<ul>\n<li>¼ cup very finely chopped parsley\n2 tablespoons very finely chopped fresh oregano or marjoram or 1 tablespoon dried oregano\n1 garlic clove, finely grated or pounded with a pinch of salt\n¼ cup extra-virgin olive oil\n2 tablespoons lemon juice\nSalt</li>\n</ul>\n",
     "nutrition": null
   },
   "image_url": null,
@@ -28,7 +28,7 @@
   "rating": 0,
   "servings": "½ cup",
   "source": "Salt, Fat, Acid, Heat",
-  "source_url": "",
+  "source_url": null,
   "total_time": "",
   "type": null,
   "uid": "8CBA434A-8D16-4B6E-BEC2-2364ECF2E5C3-96025-0002CF722DAFF147"

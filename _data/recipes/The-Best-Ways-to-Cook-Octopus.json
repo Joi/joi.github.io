@@ -9,7 +9,7 @@
   "html": {
     "description": null,
     "directions": "<p>Get the Recipes</p>\n",
-    "ingredients": "<p>More Breadcrumbs</p>\n",
+    "ingredients": "<ul>\n<li>More Breadcrumbs</li>\n</ul>\n",
     "nutrition": null
   },
   "image_url": "https://www.seriouseats.com/images/2016/05/20160512-octopus-vicky-wasik-1-1500x1125.jpg",

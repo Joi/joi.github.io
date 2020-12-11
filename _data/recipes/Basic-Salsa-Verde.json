@@ -11,7 +11,7 @@
   "html": {
     "description": null,
     "directions": "<p>Combine shallot and vinegar in a bowl and let sit for 15 min to macerate.</p>\n<p>In a separate bowl mix parsley, oil and add a generous pinch of salt.</p>\n<p>Just before serving, add shallot (not vinegar) to the parsley oil. Stir, taste and add vinegar if needed. Taste and adjust salt.</p>\n<p>Keep in fridge up to 3 days.</p>\n",
-    "ingredients": "<p>3 tbsp finely diced shallot (about 1 medium shallot)\n3 tbsp red wine vinegar\n¼ cup very finely chopped parsley leaves\n¼ cup extra virgin olive oil\nsalt</p>\n",
+    "ingredients": "<ul>\n<li>3 tbsp finely diced shallot (about 1 medium shallot)</li>\n<li>3 tbsp red wine vinegar</li>\n<li>¼ cup very finely chopped parsley leaves</li>\n<li>¼ cup extra virgin olive oil</li>\n<li>salt</li>\n</ul>\n",
     "nutrition": null
   },
   "image_url": null,
@@ -34,8 +34,8 @@
   "prep_time": "",
   "rating": 5,
   "servings": "",
-  "source": "",
-  "source_url": "",
+  "source": null,
+  "source_url": null,
   "total_time": "",
   "type": null,
   "uid": "B8A1AF50-039E-416A-967A-19D14C8A70A2-14775-000009F2FBE6BC44"

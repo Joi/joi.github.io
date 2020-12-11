@@ -11,7 +11,7 @@
   "html": {
     "description": null,
     "directions": null,
-    "ingredients": "<p>1/2 cup mayonnaise\n2 tbsp ketchup\n1 tbsp yellow mustard\n1 tbsp kosher dill pickle juice\n1 tsp sugar\npinch of cayenne powder</p>\n",
+    "ingredients": "<ul>\n<li>1/2 cup mayonnaise</li>\n<li>2 tbsp ketchup</li>\n<li>1 tbsp yellow mustard</li>\n<li>1 tbsp kosher dill pickle juice</li>\n<li>1 tsp sugar</li>\n<li>pinch of cayenne powder</li>\n</ul>\n",
     "nutrition": null
   },
   "image_url": null,

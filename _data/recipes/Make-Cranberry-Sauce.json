@@ -11,7 +11,7 @@
   "html": {
     "description": null,
     "directions": "<p>BASIC METHOD</p>\n<p>Place one 12-ounce bag fresh or thawed frozen cranberries in a small saucepan over medium-high heat and pour over these 3/4 cup sugar and 3/4 cup fresh orange juice. Stir to combine.</p>\n<p>Cook until sugar is entirely melted and cranberries begin to burst in the heat, 4 to 6 minutes. Stir again, add the zest of one orange, and cook for 2 or 3 minutes longer, turn off heat, cover pan, and allow to cool.</p>\n<p>Put cranberry mixture in a serving bowl, cover, and place in refrigerator until cold, at least 2 hours, or until you need it.</p>\n",
-    "ingredients": "<p>¾f cup orange juice\n¾ cup sugar\n12 oz cranberries</p>\n",
+    "ingredients": "<ul>\n<li>¾f cup orange juice</li>\n<li>¾ cup sugar</li>\n<li>12 oz cranberries</li>\n</ul>\n",
     "nutrition": null
   },
   "image_url": "https://static01.nyt.com/applications/cooking/1f55842/assets/card-placeholder-image.png",

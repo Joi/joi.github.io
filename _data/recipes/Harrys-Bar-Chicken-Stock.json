@@ -12,7 +12,7 @@
   "html": {
     "description": "<p>Chicken stock is an essential ingredient in any kitchen. At Harry's Bar we like to use this light chicken stock so it doesn't drown out other flavors in our soups, risotto, and sauces. If you like a more intensely flavored stock, use more chicken or less water.</p>\n",
     "directions": "<p>Put the chicken (including the neck, gizzard, and heart but not the liver), vegetables, bouquet garni, and salt in a large soup pot and add the water. Bring to a boil. Reduce the heat and simmer, partially covered, skimming off the foam, for 1 hour. Remove the chicken from the pot, remove the meat from the carcass, and reserve it for another use. Return the carcass and the skin to the soup pot and continue to simmer the stock, partially covered, for 30 minutes more. Strain the stock through a fine sieve into a bowl, pressing hard on the solids, and let it cool. Chill the stock and remove the layer of fat that has congealed on the surface. Chicken stock will keep for 4 or 5 days in the refrigerator. It freezes well. Put it in 1- or 2-cup (250 or 500 ml) containers for use in sauces, soups, and risotto.</p>\n",
-    "ingredients": "<p>1 3-4 pound chicken (1.350 to 1.800 g)\n1 medium onion, chopped\n2 leeks, white parts only, thoroughly washed and sliced\n1 carrot, chopped\n2 celery ribs, cut into chunks</p>\n<p>Bouquet Garni</p>\n<p>4 flat-leaf parsley sprigs\n2 cloves\n1 fresh thyme sprig\n1 garlic clove\n10 black peppercorns\n1 small bay leave\nCheesecloth\n2 teaspoons salt\n3 quarts cold water</p>\n",
+    "ingredients": "<ul>\n<li>1 3-4 pound chicken (1.350 to 1.800 g)</li>\n<li>1 medium onion, chopped</li>\n<li>2 leeks, white parts only, thoroughly washed and sliced</li>\n<li>1 carrot, chopped</li>\n<li>2 celery ribs, cut into chunks</li>\n<li>Bouquet Garni</li>\n<li>4 flat-leaf parsley sprigs</li>\n<li>2 cloves</li>\n<li>1 fresh thyme sprig</li>\n<li>1 garlic clove</li>\n<li>10 black peppercorns</li>\n<li>1 small bay leave</li>\n<li>Cheesecloth</li>\n<li>2 teaspoons salt</li>\n<li>3 quarts cold water</li>\n</ul>\n",
     "nutrition": null
   },
   "image_url": null,
@@ -51,7 +51,7 @@
   "rating": 5,
   "servings": "MAKES ABOUT 10 CUPS (2.500 ML)",
   "source": "Harry's Bar Cookbook",
-  "source_url": "",
+  "source_url": null,
   "total_time": "",
   "type": null,
   "uid": "47365C63-5584-4742-8622-94EF89CC996B-25037-0000A09454C82C98"

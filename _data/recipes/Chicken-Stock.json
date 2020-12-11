@@ -13,7 +13,7 @@
   "html": {
     "description": "<p>Keep chicken parts and veggies like leeks, celery greens and parsley stems in freezer until out of frozen chicken stock or freezer is full of frozen chicken parts. Make the stock and freeze in quart bags and make ¼ cup cubes with big ice maker mold. Use stock for everything.</p>\n<p>Inspired by Nosrat's recipe in <em>Salt, Fat, Acid, Heat</em>.</p>\n",
     "directions": "<p>Put chicken parts, veggies and spices in big stock pot - I use a lobster pot. Remember - <strong>NO SALT</strong>. Save the salt for whatever cooking you will use the stock in.</p>\n<p>Add water and bring to a boil over high heat and then turn down to a simmer. Skim the foam and add the vinegar.</p>\n<p>Simmer uncovered for 6 to 8 hours. Never boil or allow to &quot;roll&quot; if you want to stock to stay clear.</p>\n<p>Strain and cool.</p>\n<p>Scrape fat and freeze to use for other cooking stuff like confit.</p>\n<p>Refrigerate stock for up to 5 days and freezer for much longer. I use quart ziplock bags. Also cool to use in ice cube tray to make smaller portions for sauces.</p>\n",
-    "ingredients": "<ol>\n<li>7 pounds chicken parts</li>\n<li>7 quarts water</li>\n<li>2 onions, unpeeled, quartered</li>\n<li>2 carrots, peeled and halved crosswise</li>\n<li>2 celery stalks, halved crosswise</li>\n<li>1 teaspoon black peppercorns</li>\n<li>2 bay leaves</li>\n<li>4 thyme sprigs</li>\n<li>5 parsley sprigs or 10 stems</li>\n<li>1 teaspoon white wine vinegar</li>\n</ol>\n",
+    "ingredients": "<ul>\n<li>\n<ol>\n<li>7 pounds chicken parts</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>7 quarts water</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>2 onions, unpeeled, quartered</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>2 carrots, peeled and halved crosswise</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>2 celery stalks, halved crosswise</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>1 teaspoon black peppercorns</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>2 bay leaves</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>4 thyme sprigs</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>5 parsley sprigs or 10 stems</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>1 teaspoon white wine vinegar</li>\n</ol>\n</li>\n</ul>\n",
     "nutrition": null
   },
   "image_url": null,
@@ -29,9 +29,9 @@
   "prep_time": "",
   "rating": 5,
   "servings": "",
-  "source": "",
-  "source_url": "",
+  "source": null,
+  "source_url": null,
   "total_time": "",
-  "type": null,
+  "type": "_mine",
   "uid": "F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C"
 }

@@ -12,7 +12,7 @@
   "html": {
     "description": null,
     "directions": "<p>Crumble saffron threads in stock in a food processor or mortar. Add garlic and purée, or grind with a pestle, until smooth. Transfer to a bowl and stir in mayonnaise, paprika, and cayenne. Season to taste with salt.</p>\n",
-    "ingredients": "<p>1 pinch saffron threads\n2 tbsp. Fish Stock\n4 cloves garlic, peeled and minced\n1 cup Mayonnaise\n½ tsp. sweet paprika\n1 pinch cayenne\nSalt</p>\n",
+    "ingredients": "<ul>\n<li>1 pinch saffron threads</li>\n<li>2 tbsp. Fish Stock</li>\n<li>4 cloves garlic, peeled and minced</li>\n<li>1 cup Mayonnaise</li>\n<li>½ tsp. sweet paprika</li>\n<li>1 pinch cayenne</li>\n<li>Salt</li>\n</ul>\n",
     "nutrition": null
   },
   "image_url": null,
@@ -28,9 +28,9 @@
   "prep_time": "",
   "rating": 5,
   "servings": "",
-  "source": "",
-  "source_url": "",
+  "source": null,
+  "source_url": null,
   "total_time": "",
-  "type": null,
+  "type": "_mine",
   "uid": "C17F174D-81B0-4847-9396-DE2E5E92EF57-79931-0001526F038511AC"
 }
