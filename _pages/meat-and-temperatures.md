@@ -15,6 +15,8 @@ For tender meats, never go above 130ºF but be mindful to hold it at target temp
 
 For tougher meat, target 185ºF with appropriate hold.
 
+I noticed that some meat got a funky smell when doing sous vide at low temperatures such as 130ºF. I found [a post](https://stefangourmet.com/2017/11/01/how-to-prevent-a-bad-smell-with-long-and-low-sous-vide-cooks/) that suggests that it is _lactobacillus_ which reproduces at temperatures between 55ºC / 131ºF and 59ºC / 138ºF. _Lactobacillus_ is not toxic, but smells - it is the bacteria in sourdough and cheese. The trick appears to be to pasturize with a quick sear or heating. This might be one reason to do the sear first and slow cook after.
+
 Key temperatures:
 
 | Effect | Temperature Range |
