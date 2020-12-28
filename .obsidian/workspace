@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-12-07-prime-rib-with-oxtail-jus.md",
+            "file": "_pages/meat-and-temperatures.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-12-07-prime-rib-with-oxtail-jus.md",
+                "file": "_pages/meat-and-temperatures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,15 +93,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_pages/meat-and-temperatures.md",
+    "_pages/index.md",
+    "_pages/heating.md",
+    "_pages/Untitled.md",
     "_posts/2020-12-07-prime-rib-with-oxtail-jus.md",
     "_posts/Untitled.md",
     "README.md",
     "_pages/volume-weight-temp.md",
     "debug.md",
-    "My Thermometers.md",
-    "_pages/thermometers.md",
-    "_pages/my-stuff.md",
-    "_pages/reverse-sear.md",
-    "Evaporation Effect.md"
+    "My Thermometers.md"
   ]
 }
