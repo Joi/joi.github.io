@@ -7,3 +7,4 @@ tags:
 - [[Thermometers]]
 - [[Binchotan]]
 - [[Smoking]]
+- [[meat-and-temperatures]]
