@@ -16,3 +16,4 @@ __scripts/backups/
 
 _site/
 __scripts/config.py
+.obsidian/workspace
