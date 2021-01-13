@@ -146,17 +146,18 @@ layout: default
   </div>
 </div><!-- #row-two -->
 
-
-{% if json_data.html['nutrition'] != null %}
-<hr>
-<div class="row" id="row-three">
-  <div class="small-12 columns">
-      <h4 id="nutrition">Nutritional Facts</h4>
-      <div class="box box-nutrition">
-        {{ json_data.html['nutrition'] }}
-      </div>
-  </div>
-</div><!-- #row-three -->
+{% if json_data.type == "_mine" %}
+  {% if json_data.html['nutrition'] != null %}
+  <hr>
+  <div class="row" id="row-three">
+    <div class="small-12 columns">
+        <h4 id="nutrition">Nutritional Facts</h4>
+        <div class="box box-nutrition">
+          {{ json_data.html['nutrition'] }}
+        </div>
+    </div>
+  </div><!-- #row-three -->
+  {% endif %}
 {% endif %}
 
 
