@@ -22,3 +22,5 @@ From _The Food Lab_
 | Morton's kosher | 1 tsp | 0.175 oz (5 g) |
 | Instant Yeast | 1 tsp | 0.125 oz (3.5 g) |
 | Butter | 1 tbsp = 1/8 stick | 0.5 oz (14 g) |
+
+![Salt Weight Comparisions](https://www.dadcooksdinner.com/wp-content/uploads/2012/02/Salt-Conversion-Chart-DadCooksDinner--840x473.jpg)
