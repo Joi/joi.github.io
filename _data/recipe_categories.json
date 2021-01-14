@@ -122,7 +122,9 @@
     "Chicken-Stock": "Chicken Stock",
     "Chicken-with-40-Cloves-of-Garlic": "Chicken with 40 Cloves of Garlic",
     "Chicken-with-Almonds-and-Green-Olives": "Chicken with Almonds and Green Olives",
+    "Chicken-with-Vinegar": "Chicken with Vinegar",
     "Chinese-Drunken-Chicken": "Chinese Drunken Chicken",
+    "Chinese-Roasted-Chicken-Shao-Ji-": "Chinese Roasted Chicken (烧鸡)",
     "Coq-Au-Vin": "Coq Au Vin",
     "Crispiest-Spatchcocked-Chicken": "Crispiest Spatchcocked Chicken",
     "Crispy-Parmesan-Baked-Chicken-with-Veggies-Milanese": "Crispy Parmesan Baked Chicken with Veggies (Milanese)",
@@ -144,6 +146,7 @@
     "Pressure-Cooker-Coconut-Curry-Chicken": "Pressure Cooker Coconut Curry Chicken",
     "Pressure-Cooker-Coq-Au-Vin": "Pressure-Cooker Coq Au Vin",
     "Rishia-Zimmerns-Chicken-with-Shallots": "Rishia Zimmern’s Chicken with Shallots",
+    "Roast-Chicken-101": "Roast Chicken 101",
     "Samin-Nosrat-Chicken-Stock": "Samin Nosrat Chicken Stock",
     "Sesame-Orange-Chicken": "Sesame Orange Chicken",
     "Shredded-Chicken-and-Vegetable-Lettuce-Cups": "Shredded Chicken and Vegetable Lettuce Cups",
@@ -154,6 +157,9 @@
     "Stovetop-Roast-Chicken-with-Lemon-Herb-Sauce": "Stovetop Roast Chicken with Lemon-Herb Sauce",
     "The-Ultimate-Grilled-Chicken-Sandwich": "The Ultimate Grilled Chicken Sandwich"
   },
+  "Chickpeas": {
+    "Flourless-Chickpea-Pancakes---Made-with-Actual-Chickpeas": "Flourless Chickpea Pancakes – Made with Actual Chickpeas"
+  },
   "Chuck Roast": {
     "Beef-Stew-with-Carrots-Potatoes": "Beef Stew with Carrots & Potatoes",
     "Pot-Roast": "Pot Roast",
@@ -161,6 +167,7 @@
     "Smoked-and-Sliced-Beef-Chuck-Roast": "Smoked and Sliced Beef Chuck Roast"
   },
   "Clams": {
+    "Buttery-Garlic-Steamed-Clams": "Buttery Garlic Steamed Clams",
     "Garlicky-Spaghetti-with-Clams": "Garlicky Spaghetti with Clams",
     "Mark-Bittmans-Bouillabaisse": "Mark Bittman’s Bouillabaisse"
   },
@@ -172,6 +179,7 @@
     "Trinidad-Boiled-Corn": "Trinidad Boiled Corn"
   },
   "Crab": {
+    "Crab-Omelet-with-Avocado-and-Herbs": "Crab Omelet with Avocado and Herbs",
     "Easy-Steamed-Dungeness-Crab": "Easy Steamed Dungeness Crab"
   },
   "Curry": {
@@ -186,6 +194,7 @@
   },
   "Egg": {
     "Cottage-Pie": "Cottage Pie",
+    "Crab-Omelet-with-Avocado-and-Herbs": "Crab Omelet with Avocado and Herbs",
     "Easy-Ham-and-Cheese-Omelet": "Easy Ham and Cheese Omelet",
     "Fluffy-Baked-Omelet": "Fluffy Baked Omelet",
     "Fluffy-Omelet": "Fluffy Omelet",
@@ -254,14 +263,19 @@
     "Grilled-Frozen-Steaks": "Grilled Frozen Steaks"
   },
   "Ground Beef": {
+    "Beef-Taco-Salad-with-Chunky-Tomato-Dressing": "Beef Taco Salad with Chunky Tomato Dressing",
+    "Beef-Tostadas": "Beef Tostadas",
     "Beef-meatballs-with-lemon-and-celery-root": "Beef meatballs with lemon and celery root",
     "Cheesy-Stuffed-Meatloaf-with-Broccolini-and-Eggplant": "Cheesy Stuffed Meatloaf with Broccolini and Eggplant",
     "Cottage-Pie": "Cottage Pie",
     "Hamburger-Steak": "Hamburger Steak",
+    "Hamburger-Stroganoff-Skillet": "Hamburger Stroganoff Skillet",
     "How-to-Grill-the-Best-Burgers": "How to Grill the Best Burgers",
+    "Meatball": "Meatball",
     "Meatballs-with-Tomato-Sauce": "Meatballs with Tomato Sauce",
     "Spicy-Meatballs-with-Chickpeas": "Spicy Meatballs with Chickpeas",
     "Steak-Hache": "Steak Haché",
+    "Stuffed-Cabbage": "Stuffed Cabbage",
     "The-Best-Meatball-Recipe--1-Minute-Video": "The Best Meatball Recipe | 1-Minute Video"
   },
   "Hake": {
@@ -288,6 +302,8 @@
   },
   "Italian": {
     "Chicken-Sandwich": "Chicken Sandwich",
+    "Homemade-Marinara-Sauce": "Homemade Marinara Sauce",
+    "Meatball": "Meatball",
     "Meatballs-with-Tomato-Sauce": "Meatballs with Tomato Sauce",
     "Minestrone": "Minestrone",
     "Ragu-Bolognese": "Ragú Bolognese",
@@ -312,6 +328,7 @@
     "Crown-Roast-of-Lamb---Thermoworks": "Crown Roast of Lamb - Thermoworks",
     "Crown-Roast-of-Lamb-with-Rosemary-and-Oregano---Epicurious": "Crown Roast of Lamb with Rosemary and Oregano - Epicurious",
     "Irish-Stew-with-Carrots-and-Turnips": "Irish Stew with Carrots and Turnips",
+    "Lamb-Chops-with-Balsamic-Reduction": "Lamb Chops with Balsamic Reduction",
     "Moroccan-Steamed-Lamb-Shoulder": "Moroccan Steamed Lamb Shoulder",
     "Pan-Fried-Lamb-Chops-with-Rosemary-and-Garlic": "Pan-Fried Lamb Chops with Rosemary and Garlic",
     "Rack-of-Lamb-Three-Ways-Grilled-Lamb-Lollipops-Lamb-Ribeyes-and-Whole-Rack-of-Lamb": "Rack of Lamb Three Ways: Grilled Lamb Lollipops, Lamb Ribeyes, and Whole Rack of Lamb",
@@ -342,6 +359,8 @@
     "Whatever-You-Want-Soup": "Whatever You Want Soup"
   },
   "Mexican": {
+    "Beef-Taco-Salad-with-Chunky-Tomato-Dressing": "Beef Taco Salad with Chunky Tomato Dressing",
+    "Beef-Tostadas": "Beef Tostadas",
     "Crunchy-Fried-Fish-Tacos": "Crunchy Fried Fish Tacos"
   },
   "Monkfish": {
@@ -371,8 +390,11 @@
     "Bolognese-Sauce-Recipe-Instant-Pot": "Bolognese Sauce Recipe (Instant Pot)",
     "Bottarga-Spaghetti-with-Lemon-Zests-and-Bread-Crumbles": "Bottarga Spaghetti with Lemon Zests and Bread Crumbles",
     "Garlicky-Spaghetti-with-Clams": "Garlicky Spaghetti with Clams",
+    "Hamburger-Stroganoff-Skillet": "Hamburger Stroganoff Skillet",
+    "Homemade-Marinara-Sauce": "Homemade Marinara Sauce",
     "Lasagna": "Lasagna",
     "Macaroni-and-Cheese": "Macaroni and Cheese",
+    "Meatball": "Meatball",
     "Pasta-alla-Pomarola": "Pasta alla Pomarola",
     "Ragu-Bolognese": "Ragú Bolognese",
     "Simple-Carbonara": "Simple Carbonara",
@@ -437,6 +459,7 @@
   "Salad": {
     "Asian-Salad-Dressing": "Asian Salad Dressing",
     "Avocado-Shrimp-and-Endive-Salad": "Avocado, Shrimp, and Endive Salad",
+    "Beef-Taco-Salad-with-Chunky-Tomato-Dressing": "Beef Taco Salad with Chunky Tomato Dressing",
     "Caesar-Dressing": "Caesar Dressing",
     "Caesar-Salad": "Caesar Salad",
     "Cilantro-Lime-Dressing-{Mexican-Salad-Dressing}": "Cilantro Lime Dressing {Mexican Salad Dressing}",
@@ -449,6 +472,7 @@
     "Vinaigarette": "Vinaigarette"
   },
   "Salmon": {
+    "Creamy-Garlic-Butter-Tuscan-Salmon": "Creamy Garlic Butter Tuscan Salmon",
     "Creamy-Lemon-Dill-Salmon": "Creamy Lemon Dill Salmon",
     "Crispy-Scallion-Ginger-Salmon": "Crispy Scallion Ginger Salmon",
     "Easy-Grilled-Salmon": "Easy Grilled Salmon",
@@ -489,16 +513,20 @@
     "Fry-Sauce": "Fry Sauce",
     "Garlic-Steak-with-Horseradish-Sauce-by-Bobby-Flay": "Garlic Steak with Horseradish Sauce by Bobby Flay",
     "Grilled-Salmon-with-Cilantro-Pecan-Pesto": "Grilled Salmon with Cilantro-Pecan Pesto",
+    "Hamburger-Stroganoff-Skillet": "Hamburger Stroganoff Skillet",
+    "Homemade-Marinara-Sauce": "Homemade Marinara Sauce",
     "Homemade-Ponzu-Sauce-Recipe-ponZuo-": "Homemade Ponzu Sauce Recipe ポン酢",
     "Homemade-Spicy-Chili-Crisp": "Homemade Spicy Chili Crisp",
     "Horseradish-Sauce": "Horseradish Sauce",
     "Kansas-City-Bbq-Sauce": "Kansas City Bbq Sauce",
     "Lemon-Butter-Sauce": "Lemon Butter Sauce",
     "Make-Cranberry-Sauce": "Make Cranberry Sauce",
+    "Meatball": "Meatball",
     "Our-Five-Spice-Powder": "Our Five Spice Powder",
     "Rouille": "Rouille",
     "Salmoriglio-Sicilian-Oregano-Sauce": "Salmoriglio Sicilian Oregano Sauce",
-    "Traditional-Toum-Lebanese-Garlic-Sauce": "Traditional Toum (Lebanese Garlic Sauce)"
+    "Traditional-Toum-Lebanese-Garlic-Sauce": "Traditional Toum (Lebanese Garlic Sauce)",
+    "Whipped-Horseradish-Cream-Sauce": "Whipped Horseradish Cream Sauce"
   },
   "Sausage": {
     "Sous-Vide-Sausage": "Sous Vide Sausage"
@@ -522,6 +550,7 @@
     "Keto-Beef-Stew": "Keto Beef Stew",
     "Pot-Roast": "Pot Roast",
     "Short-Ribs-Braised-in-Red-Wine-with-Bacon-Parsnips-and-Pearl-Onions": "Short Ribs Braised in Red Wine with Bacon, Parsnips, and Pearl Onions",
+    "Slow-Cooker-Beef-Short-Ribs": "Slow Cooker Beef Short Ribs",
     "Tangy-Braised-Short-Ribs": "Tangy Braised Short Ribs",
     "Whatever-You-Want-Soup": "Whatever You Want Soup"
   },
@@ -619,8 +648,13 @@
     "Roast-Beef-Tenderloin-with-Garlic-and-Rosemary": "Roast Beef Tenderloin with Garlic and Rosemary"
   },
   "Tomato": {
+    "Homemade-Marinara-Sauce": "Homemade Marinara Sauce",
     "Pasta-alla-Pomarola": "Pasta alla Pomarola",
     "Risotto-Primavera": "Risotto Primavera"
+  },
+  "Tongue": {
+    "Beef-Tongue-Stew": "Beef Tongue Stew",
+    "Braised-Tongue": "Braised Tongue"
   },
   "Truffles": {
     "Fresh-Pasta-with-White-Truffles": "Fresh Pasta with White Truffles",
@@ -694,6 +728,7 @@
     "BBQ-Chicken": "BBQ Chicken",
     "Bolognese-Sauce": "Bolognese Sauce",
     "Chicken-Stock": "Chicken Stock",
+    "Chicken-with-Vinegar": "Chicken with Vinegar",
     "Oven-Roasted-Spatchcocked-Chicken": "Oven Roasted Spatchcocked Chicken",
     "Paella": "Paella",
     "Prime-Rib": "Prime Rib",

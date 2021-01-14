@@ -11,19 +11,26 @@
   "html": {
     "description": null,
     "directions": "<p>BASIC METHOD</p>\n<p>Place one 12-ounce bag fresh or thawed frozen cranberries in a small saucepan over medium-high heat and pour over these 3/4 cup sugar and 3/4 cup fresh orange juice. Stir to combine.</p>\n<p>Cook until sugar is entirely melted and cranberries begin to burst in the heat, 4 to 6 minutes. Stir again, add the zest of one orange, and cook for 2 or 3 minutes longer, turn off heat, cover pan, and allow to cool.</p>\n<p>Put cranberry mixture in a serving bowl, cover, and place in refrigerator until cold, at least 2 hours, or until you need it.</p>\n",
-    "ingredients": "<ul>\n<li>¾f cup orange juice</li>\n<li>¾ cup sugar</li>\n<li>12 oz cranberries</li>\n</ul>\n",
+    "ingredients": "<ul>\n<li>¾ cup orange juice</li>\n<li>¾ cup sugar</li>\n<li>zest from one orange</li>\n<li>12 oz cranberries</li>\n</ul>\n",
     "nutrition": null
   },
-  "image_url": "https://static01.nyt.com/applications/cooking/1f55842/assets/card-placeholder-image.png",
-  "ingredients": "¾f cup orange juice\n¾ cup sugar\n12 oz cranberries",
+  "image_url": null,
+  "ingredients": "¾ cup orange juice\n¾ cup sugar\nzest from one orange\n12 oz cranberries",
   "intrash": 0,
   "name": "Make Cranberry Sauce",
   "notes": "",
   "nutritional_info": "",
-  "photo": "86E996DB-BA0C-4CDD-8C46-7EA035E0B5DF-70749-00008BF02864B7C0.jpg",
-  "photo_large": null,
-  "photos": [],
-  "photos_dict": {},
+  "photo": "8FAC7F28-C85C-4AC6-A2B9-96798523EDC0-67264-000035D8032A6586.jpg",
+  "photo_large": "2BF0A59F-9962-4C2D-9E03-C397F912285F-67264-000035D7F2F7212F.jpg",
+  "photos": [
+    {
+      "filename": "2BF0A59F-9962-4C2D-9E03-C397F912285F-67264-000035D7F2F7212F.jpg",
+      "name": "1"
+    }
+  ],
+  "photos_dict": {
+    "1": "2BF0A59F-9962-4C2D-9E03-C397F912285F-67264-000035D7F2F7212F.jpg"
+  },
   "prep_time": "",
   "rating": 0,
   "servings": "",
