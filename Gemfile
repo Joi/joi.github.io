@@ -21,7 +21,8 @@ gem "jekyll", github: "jekyll/jekyll"
 # If you have any plugins, put them here!
 
 group :jekyll_plugins do
-	gem "jekyll-feed", "~> 0.12"
+	#gem "jekyll-feed", "~> 0.12"
+	gem "jekyll-feed"
 	gem 'jekyll-sitemap'
 	#gem 'github-pages'
 	gem 'jekyll-commonmark-ghpages'

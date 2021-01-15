@@ -19,14 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 name: Joi Ito
-title: Joi's GitHub Page
+title: Joi's Cooking
 email: joi@ito.com
 description: >- # this means to ignore newlines until "baseurl:"
     An experimental website to play with Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.ito.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cooking.ito.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joi
 github_username:  joi
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
 
 #markdown: kramdown
 markdown: CommonMarkGhPages
@@ -36,10 +39,6 @@ commonmark: #"SMART",
   #extensions: ["strikethrough", "autolink", "table", "tagfilter", "tasklist"]
 #permalink: /posts/:year-:month-:day-:title:output_ext
 
-# Build settings
-#theme: jekyll-theme-minimal
-# plugins: - jekyll-feed
-# theme: jekyll-theme-minimal
 
 collections:
   posts:
