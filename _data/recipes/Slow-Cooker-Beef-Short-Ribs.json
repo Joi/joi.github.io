@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Short Ribs"
+  ],
+  "cook_time": "10 minutes",
+  "created": "2020-12-13 12:39:25",
+  "created_ts": 1607863165,
+  "description": null,
+  "difficulty": "",
+  "directions": "Rub the outside of the short ribs with salt, pepper and garlic powder. In a large skillet over high heat, brown short ribs on all sides. Transfer ribs to a slow cooker making sure you get all the juice and brown bits from skillet. Add the chicken stock, cover and cook on low for 8 hours. Add potatoes, carrots, onions and celery. Continue cooking on low for 4-6 hours. Salt and pepper to taste. Before serving, remove one cup of liquid from slow cooker and whisk in cornstarch. Add mixture back to cooker and stir. Serve in bowls with a thick slice of crusty bread.",
+  "html": {
+    "description": null,
+    "directions": "<p>Rub the outside of the short ribs with salt, pepper and garlic powder. In a large skillet over high heat, brown short ribs on all sides. Transfer ribs to a slow cooker making sure you get all the juice and brown bits from skillet. Add the chicken stock, cover and cook on low for 8 hours. Add potatoes, carrots, onions and celery. Continue cooking on low for 4-6 hours. Salt and pepper to taste. Before serving, remove one cup of liquid from slow cooker and whisk in cornstarch. Add mixture back to cooker and stir. Serve in bowls with a thick slice of crusty bread.</p>\n",
+    "ingredients": "<ul>\n<li>3 lbs beef short ribs</li>\n<li>1 teaspoon salt</li>\n<li>1 teaspoon pepper</li>\n<li>1 tablespoon garlic powder</li>\n<li>48 oz chicken stock</li>\n<li>5 ribs cut into 2 inch pieces celery</li>\n<li>5 large peeled and sliced in 2 inch pieces carrots</li>\n<li>8 quartered red potatoes</li>\n<li>1 large cut into 8 pieces onion</li>\n<li>1 tablespoon cornstarch</li>\n<li>optional crusty French bread</li>\n</ul>\n",
+    "nutrition": null
+  },
+  "image_url": null,
+  "ingredients": "3 lbs beef short ribs\n1 teaspoon salt\n1 teaspoon pepper\n1 tablespoon garlic powder\n48 oz chicken stock\n5 ribs cut into 2 inch pieces celery\n5 large peeled and sliced in 2 inch pieces carrots\n8 quartered red potatoes\n1 large cut into 8 pieces onion\n1 tablespoon cornstarch\noptional crusty French bread",
+  "intrash": 0,
+  "name": "Slow Cooker Beef Short Ribs",
+  "notes": null,
+  "nutritional_info": null,
+  "photo": "D349EC2A-67CA-45A7-B814-4F48911E8C53-92634-0000CE31722621A6.jpg",
+  "photo_large": "4908DC4D-4DBD-4BBB-80B3-0C06360A37D3-92634-0000CE310B2A2EFD.jpg",
+  "photos": [
+    {
+      "filename": "4908DC4D-4DBD-4BBB-80B3-0C06360A37D3-92634-0000CE310B2A2EFD.jpg",
+      "name": "1"
+    }
+  ],
+  "photos_dict": {
+    "1": "4908DC4D-4DBD-4BBB-80B3-0C06360A37D3-92634-0000CE310B2A2EFD.jpg"
+  },
+  "prep_time": "",
+  "rating": 0,
+  "servings": "Servings: 10",
+  "source": "pauladeen.com",
+  "source_url": "https://www.pauladeen.com/recipe/slow-cooker-beef-short-ribs/",
+  "total_time": "",
+  "type": null,
+  "uid": "0F6BB6C3-A267-4D8A-80C0-103F1CE9DF36-42209-0000227129F0FA3A"
+}
