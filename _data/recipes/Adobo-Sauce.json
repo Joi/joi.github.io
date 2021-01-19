@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Sauce"
+  ],
+  "cook_time": "15 mins",
+  "created": "2020-08-16 15:40:29",
+  "created_ts": 1597592429,
+  "description": null,
+  "difficulty": null,
+  "directions": "Remove the stems from the guajillo and ancho peppers and remove the seeds. You may need to cut into the peppers for this, which is fine.\n\nHeat a large pan to medium-high heat and dry toast the dried peppers a couple minutes per side. They will become more pliable and slightly puff up. This helps to release the oils for more flavor.\n\nPlace the dried pods in a large bowl and cover with hot water. Soak them for 15 minutes, or until they become very soft and rehydrate. Transfer the softened peppers to a food processor, but reserve the soaking liquid.\n\nWhile the peppers are softening, heat olive oil in a medium pan and add the onion. Cook it down for 4-5 minutes to soften.\n\nAdd the garlic and cook another 30 seconds to 1 minute, until you it becomes fragrant.\n\nAdd the tomato paste, cinnamon, cumin, oregano, sugar and salt. Cook for 1 minute, stirring.\n\nStir in 1/2 cup water. Reduce heat and simmer for 5 minutes.\n\nAdd the mixture to the food processor along with the softened peppers and 1/4 to 1/2 cup of fresh water, or you can use the dark liquid from soaking the peppers. Process until smooth.\n\nAdjust with salt and sugar to taste, and with a bit more water until you achieve your desired consistency. Strain if you’d like a thinner sauce, or use as-is.",
+  "html": {
+    "description": null,
+    "directions": "<p>Remove the stems from the guajillo and ancho peppers and remove the seeds. You may need to cut into the peppers for this, which is fine.</p>\n<p>Heat a large pan to medium-high heat and dry toast the dried peppers a couple minutes per side. They will become more pliable and slightly puff up. This helps to release the oils for more flavor.</p>\n<p>Place the dried pods in a large bowl and cover with hot water. Soak them for 15 minutes, or until they become very soft and rehydrate. Transfer the softened peppers to a food processor, but reserve the soaking liquid.</p>\n<p>While the peppers are softening, heat olive oil in a medium pan and add the onion. Cook it down for 4-5 minutes to soften.</p>\n<p>Add the garlic and cook another 30 seconds to 1 minute, until you it becomes fragrant.</p>\n<p>Add the tomato paste, cinnamon, cumin, oregano, sugar and salt. Cook for 1 minute, stirring.</p>\n<p>Stir in 1/2 cup water. Reduce heat and simmer for 5 minutes.</p>\n<p>Add the mixture to the food processor along with the softened peppers and 1/4 to 1/2 cup of fresh water, or you can use the dark liquid from soaking the peppers. Process until smooth.</p>\n<p>Adjust with salt and sugar to taste, and with a bit more water until you achieve your desired consistency. Strain if you’d like a thinner sauce, or use as-is.</p>\n",
+    "ingredients": "<ul>\n<li>4 guajillo peppers</li>\n<li>4 ancho peppers</li>\n<li>3 cups hot water or enough to cover the dried peppers + ½ cup</li>\n<li>1 tablespoon olive oil</li>\n<li>1/2 small onion chopped</li>\n<li>4 cloves garlic chopped</li>\n<li>2 tablespoons tomato paste optional for a milder flavor</li>\n<li>½ teaspoon Mexican cinnamon or use cinnamon</li>\n<li>½ teaspoon cumin</li>\n<li>½ teaspoon Mexican oregano or use oregano</li>\n<li>½ teaspoon sugar optional, to taste – see my NOTES on Optional Spices</li>\n<li>Salt to taste</li>\n</ul>\n",
+    "nutrition": "<p>Calories: 19kcal | Carbohydrates: 2g | Protein: 1g | Fat: 1g | Saturated Fat: 1g | Sodium: 20mg | Potassium: 61mg | Fiber: 1g | Sugar: 1g | Vitamin A: 494IU | Vitamin C: 1mg | Calcium: 5mg | Iron: 1mg</p>\n"
+  },
+  "image_url": "https://i2.wp.com/chilipeppermadness.com/wp-content/uploads/2020/01/Adobo-Sauce-Recipe1.jpg",
+  "ingredients": "4 guajillo peppers\n4 ancho peppers\n3 cups hot water or enough to cover the dried peppers + ½ cup\n1 tablespoon olive oil\n1/2 small onion chopped\n4 cloves garlic chopped\n2 tablespoons tomato paste optional for a milder flavor\n½ teaspoon Mexican cinnamon or use cinnamon\n½ teaspoon cumin\n½ teaspoon Mexican oregano or use oregano\n½ teaspoon sugar optional, to taste – see my NOTES on Optional Spices\nSalt to taste",
+  "intrash": 0,
+  "name": "Adobo Sauce",
+  "notes": "Makes about 2 cups. Store in the refrigerator in an airtight container.",
+  "nutritional_info": "Calories: 19kcal | Carbohydrates: 2g | Protein: 1g | Fat: 1g | Saturated Fat: 1g | Sodium: 20mg | Potassium: 61mg | Fiber: 1g | Sugar: 1g | Vitamin A: 494IU | Vitamin C: 1mg | Calcium: 5mg | Iron: 1mg",
+  "photo": "2F47ECC6-DFED-4842-A7AC-2B525A1A6124-15501-00000B8CA496B663.jpg",
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "10 mins",
+  "rating": 0,
+  "servings": "About 2 cups of adobo sauce",
+  "source": "chilipeppermadness.com",
+  "source_url": "https://www.chilipeppermadness.com/recipes/adobo-sauce/",
+  "total_time": null,
+  "type": null,
+  "uid": "932CA1E1-92C6-4C12-9BA4-663188CAAD30-15501-00000B8C94D2DCD5"
+}

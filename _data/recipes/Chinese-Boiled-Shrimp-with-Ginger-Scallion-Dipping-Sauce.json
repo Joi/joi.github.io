@@ -1,0 +1,42 @@
+{
+  "categories": [
+    "Shrimp"
+  ],
+  "cook_time": "10 mins",
+  "created": "2020-10-31 21:50:46",
+  "created_ts": 1604181046,
+  "description": "",
+  "difficulty": "",
+  "directions": "Prepare the dipping sauce first. Mix the minced ginger and minced scallion in a small heat-proof bowl. Heat up 1 tablespoon of oil until it just starts to smoke, and pour it over the ginger and scallion to flash fry the mixture. Now, add the light soy sauce, water, sugar and black vinegar. Stir until the sugar is completely dissolved. That’s the sauce!\n\nNext, trim, de-vein, and clean the shrimp as shown in the step-by-step photos. Rinse, drain and set aside.\n\nIn a medium pot, add 5 cups of water, 3 slices of ginger, the 2 whole scallions, 1½ tablespoons salt, and 2 tablespoons Shaoxing wine. Bring the mixture to a boil. Add the shrimp and stir slowly. The shrimp will cook very fast, and they’re done once they’ve turned completely pink. It should only take a minute. Scoop the shrimp out of the pot immediately to avoid overcooking. Plate and serve with the dipping sauce!\n\nBy the way, these shrimp are delicious fresh, at room temperature, and chilled, so this is perfect to make in advance for a party or dinner.",
+  "html": {
+    "description": null,
+    "directions": "<p>Prepare the dipping sauce first. Mix the minced ginger and minced scallion in a small heat-proof bowl. Heat up 1 tablespoon of oil until it just starts to smoke, and pour it over the ginger and scallion to flash fry the mixture. Now, add the light soy sauce, water, sugar and black vinegar. Stir until the sugar is completely dissolved. That’s the sauce!</p>\n<p>Next, trim, de-vein, and clean the shrimp as shown in the step-by-step photos. Rinse, drain and set aside.</p>\n<p>In a medium pot, add 5 cups of water, 3 slices of ginger, the 2 whole scallions, 1½ tablespoons salt, and 2 tablespoons Shaoxing wine. Bring the mixture to a boil. Add the shrimp and stir slowly. The shrimp will cook very fast, and they’re done once they’ve turned completely pink. It should only take a minute. Scoop the shrimp out of the pot immediately to avoid overcooking. Plate and serve with the dipping sauce!</p>\n<p>By the way, these shrimp are delicious fresh, at room temperature, and chilled, so this is perfect to make in advance for a party or dinner.</p>\n",
+    "ingredients": "<ul>\n<li>For the sauce:</li>\n<li>1 tablespoon ginger (minced)</li>\n<li>1 tablespoon scallion (minced)</li>\n<li>1 tablespoon oil</li>\n<li>2 tablespoons light soy sauce</li>\n<li>1 tablespoon water</li>\n<li>½ teaspoon sugar</li>\n<li>¼ teaspoon Chinese black vinegar</li>\n<li>To cook the shrimp:</li>\n<li>1 pound shrimp (450g)</li>\n<li>3 slices ginger</li>\n<li>2 scallions (whole)</li>\n<li>1½ tablespoons salt</li>\n<li>2 tablespoons Shaoxing wine</li>\n</ul>\n",
+    "nutrition": "<p>Calories: 167kcal | Carbohydrates: 3g | Protein: 24g | Fat: 5g | Saturated Fat: 1g | Cholesterol: 286mg | Potassium: 126mg | Fiber: 1g | Sugar: 1g | Vitamin A: 75IU | Vitamin C: 6mg | Calcium: 169mg | Iron: 2.7mg</p>\n"
+  },
+  "image_url": null,
+  "ingredients": "For the sauce:\n1 tablespoon ginger (minced)\n1 tablespoon scallion (minced)\n1 tablespoon oil\n2 tablespoons light soy sauce\n1 tablespoon water\n½ teaspoon sugar\n¼ teaspoon Chinese black vinegar\nTo cook the shrimp:\n1 pound shrimp (450g)\n3 slices ginger\n2 scallions (whole)\n1½ tablespoons salt\n2 tablespoons Shaoxing wine",
+  "intrash": 0,
+  "name": "Chinese Boiled Shrimp with Ginger Scallion Dipping Sauce",
+  "notes": "",
+  "nutritional_info": "Calories: 167kcal | Carbohydrates: 3g | Protein: 24g | Fat: 5g | Saturated Fat: 1g | Cholesterol: 286mg | Potassium: 126mg | Fiber: 1g | Sugar: 1g | Vitamin A: 75IU | Vitamin C: 6mg | Calcium: 169mg | Iron: 2.7mg",
+  "photo": "8D845977-4EEF-4DAA-8959-A5477FF942D1-10626-0000080B5D1DC895.jpg",
+  "photo_large": "2BC7F868-909A-4A88-8F55-A6423EE78520-10626-0000080B38B0065C.jpg",
+  "photos": [
+    {
+      "filename": "2BC7F868-909A-4A88-8F55-A6423EE78520-10626-0000080B38B0065C.jpg",
+      "name": "1"
+    }
+  ],
+  "photos_dict": {
+    "1": "2BC7F868-909A-4A88-8F55-A6423EE78520-10626-0000080B38B0065C.jpg"
+  },
+  "prep_time": "15 mins",
+  "rating": 5,
+  "servings": "",
+  "source": "thewoksoflife.com",
+  "source_url": "https://thewoksoflife.com/wprm_print/28887",
+  "total_time": "",
+  "type": null,
+  "uid": "7CD2B197-0D17-40C4-B4F1-DE264072C132-26091-0000455FD63EE6F3"
+}

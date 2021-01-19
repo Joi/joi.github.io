@@ -1,0 +1,36 @@
+{
+  "categories": [
+    "Pork Spare Ribs",
+    "BBQ"
+  ],
+  "cook_time": "6 hrs",
+  "created": "2020-09-18 21:21:11",
+  "created_ts": 1600464071,
+  "description": null,
+  "difficulty": null,
+  "directions": "Begin by removing the membrane on the back of the ribs\n\nLiberally season both sides of the ribs using the sweet rub, starting with the bone side.\n\nPrepare your smoker for indirect smoking. Target temperature is between 180-200 with thin blue smoke. Place the seasoned ribs on the smoker and close the lid. Leave them to smoke for 3 hours.\n\nTear off a large piece of aluminum foil and place it on a large working surface. Transfer the ribs to the foil bone side up so the bones don't tear through the foil. Sprinkle with the brown sugar, top with the butter cut into small pads, and then pour over the apple cider.\n\nTightly crimp the foil together to create an airtight seal. Return to the grill and increase your cooking temperature to as close to 225 degrees as you can get it. Let the ribs braise for 2 hours in the foil.\n\nCarefully remove the ribs from the grill and place on a large working surface. Open the foil package (be careful of hot steam) and use tongs to remove the ribs and place them back on the grill, bone side down. Discard the foil and excess cooking liquid,\n\nBrush the ribs with your favorite BBQ sauce, close the lid of your grill and cook at 225 degrees for an additional hour until the ribs are done to your desired tenderness and the sauce is sticky and set.",
+  "html": {
+    "description": null,
+    "directions": "<p>Begin by removing the membrane on the back of the ribs</p>\n<p>Liberally season both sides of the ribs using the sweet rub, starting with the bone side.</p>\n<p>Prepare your smoker for indirect smoking. Target temperature is between 180-200 with thin blue smoke. Place the seasoned ribs on the smoker and close the lid. Leave them to smoke for 3 hours.</p>\n<p>Tear off a large piece of aluminum foil and place it on a large working surface. Transfer the ribs to the foil bone side up so the bones don't tear through the foil. Sprinkle with the brown sugar, top with the butter cut into small pads, and then pour over the apple cider.</p>\n<p>Tightly crimp the foil together to create an airtight seal. Return to the grill and increase your cooking temperature to as close to 225 degrees as you can get it. Let the ribs braise for 2 hours in the foil.</p>\n<p>Carefully remove the ribs from the grill and place on a large working surface. Open the foil package (be careful of hot steam) and use tongs to remove the ribs and place them back on the grill, bone side down. Discard the foil and excess cooking liquid,</p>\n<p>Brush the ribs with your favorite BBQ sauce, close the lid of your grill and cook at 225 degrees for an additional hour until the ribs are done to your desired tenderness and the sauce is sticky and set.</p>\n",
+    "ingredients": "<ul>\n<li>1 rack baby back ribs</li>\n<li>2 tbsp Signature Sweet Rub</li>\n<li>1 cup apple cider (apple juice also works)</li>\n<li>1/4 cup dark brown sugar</li>\n<li>2-3 tbsp salted butter</li>\n<li>1/2 cup BBQ sauce</li>\n</ul>\n",
+    "nutrition": "<p>Calories: 709kcal | Carbohydrates: 53g | Protein: 38g | Fat: 40g | Saturated Fat: 16g | Cholesterol: 151mg | Sodium: 733mg | Potassium: 749mg | Fiber: 2g | Sugar: 42g | Vitamin A: 645IU | Vitamin C: 2.1mg | Calcium: 194mg | Iron: 5.4mg</p>\n"
+  },
+  "image_url": "https://heygrillheycdn.sfo2.cdn.digitaloceanspaces.com/2019/06/Copy-of-how-to-make_-1-683x1024.jpg",
+  "ingredients": "1 rack baby back ribs\n2 tbsp Signature Sweet Rub\n1 cup apple cider (apple juice also works)\n1/4 cup dark brown sugar\n2-3 tbsp salted butter\n1/2 cup BBQ sauce",
+  "intrash": 0,
+  "name": "3 2 1 Ribs",
+  "notes": null,
+  "nutritional_info": "Calories: 709kcal | Carbohydrates: 53g | Protein: 38g | Fat: 40g | Saturated Fat: 16g | Cholesterol: 151mg | Sodium: 733mg | Potassium: 749mg | Fiber: 2g | Sugar: 42g | Vitamin A: 645IU | Vitamin C: 2.1mg | Calcium: 194mg | Iron: 5.4mg",
+  "photo": "C0F4BBE7-45D1-4D71-AFCD-F3DF77DAF73D-1710-000001280E3A70CA.jpg",
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "5 mins",
+  "rating": 0,
+  "servings": null,
+  "source": "heygrillhey.com",
+  "source_url": "https://heygrillhey.com/3-2-1-ribs-perfect-fall-off-the-bone-ribs/",
+  "total_time": null,
+  "type": null,
+  "uid": "8465AC45-FF66-40FB-B9DF-708043BDB498-1710-00000127FE86DE3D"
+}

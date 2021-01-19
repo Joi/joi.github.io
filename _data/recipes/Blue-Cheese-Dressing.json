@@ -1,0 +1,35 @@
+{
+  "categories": [
+    "Sauce"
+  ],
+  "cook_time": "",
+  "created": "2020-08-02 20:25:29",
+  "created_ts": 1596399929,
+  "description": null,
+  "difficulty": "",
+  "directions": "In a medium bowl, use a whisk to thoroughly combine the cheese, crème fraîche, olive oil, vinegar, and garlic. Alternatively, place everything into a jar, seal the lid, and shake vigorously to combine. Taste with a leaf of lettuce, then add salt and adjust acid as needed.\r\rRefrigerate leftovers, covered, for up to 3 days.\r\rIdeal for Belgian endive, chicories, Iceberg wedges, Little Gem and romainelettuce. This dressing also works beautifully as sauce for steak or dip for carrots and cucumbers.",
+  "html": {
+    "description": null,
+    "directions": "<p>In a medium bowl, use a whisk to thoroughly combine the cheese, crème fraîche, olive oil, vinegar, and garlic. Alternatively, place everything into a jar, seal the lid, and shake vigorously to combine. Taste with a leaf of lettuce, then add salt and adjust acid as needed.</p>\n<p>Refrigerate leftovers, covered, for up to 3 days.</p>\n<p>Ideal for Belgian endive, chicories, Iceberg wedges, Little Gem and romainelettuce. This dressing also works beautifully as sauce for steak or dip for carrots and cucumbers.</p>\n",
+    "ingredients": "<ul>\n<li>5 ounces creamy blue cheese, such as Roquefort, Bleu d’Auvergne, or Maytag Blue, crumbled\n1 /2 cup crème fraîche (page 113 ), sour cream, or heavy cream\n1 /4 cup extra-virgin olive oil\n1 tablespoon red wine vinegar\n1 small garlic clove, finely grated or pounded with a pinch of salt\nSalt</li>\n</ul>\n",
+    "nutrition": null
+  },
+  "image_url": null,
+  "ingredients": "5 ounces creamy blue cheese, such as Roquefort, Bleu d’Auvergne, or Maytag Blue, crumbled\r1 /2 cup crème fraîche (page 113 ), sour cream, or heavy cream\r1 /4 cup extra-virgin olive oil\r1 tablespoon red wine vinegar\r1 small garlic clove, finely grated or pounded with a pinch of salt\rSalt",
+  "intrash": 0,
+  "name": "Blue Cheese Dressing",
+  "notes": null,
+  "nutritional_info": null,
+  "photo": null,
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "",
+  "rating": 0,
+  "servings": "",
+  "source": "Salt, Fat, Acid, Heat",
+  "source_url": null,
+  "total_time": "",
+  "type": null,
+  "uid": "CDF030C6-1C2A-4BF6-95CA-72A7FEBC9DFA-96025-0003C0D2A47CF20F"
+}

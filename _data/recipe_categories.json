@@ -120,6 +120,7 @@
     "Chicken-Sandwich": "Chicken Sandwich",
     "Chicken-Seasoning-For-Roasted-or-Rotisserie-Chicken": "Chicken Seasoning (For Roasted or Rotisserie Chicken)",
     "Chicken-Stock": "Chicken Stock",
+    "Chicken-Tikka-Masala": "Chicken Tikka Masala",
     "Chicken-with-40-Cloves-of-Garlic": "Chicken with 40 Cloves of Garlic",
     "Chicken-with-Almonds-and-Green-Olives": "Chicken with Almonds and Green Olives",
     "Chicken-with-Vinegar": "Chicken with Vinegar",
@@ -183,6 +184,8 @@
     "Easy-Steamed-Dungeness-Crab": "Easy Steamed Dungeness Crab"
   },
   "Curry": {
+    "Chicken-Tikka-Masala": "Chicken Tikka Masala",
+    "Curry-Powder": "Curry Powder",
     "Easy-Thai-Shrimp-Curry": "Easy Thai Shrimp Curry",
     "Thai-Coconut-Shrimp-Curry": "Thai Coconut Shrimp Curry",
     "Thai-Shrimp-Curry": "Thai Shrimp Curry"
@@ -542,6 +545,10 @@
     "Paella": "Paella",
     "Seafood-Saute": "Seafood Saute"
   },
+  "Seasoning": {
+    "Chinese-5-Spices": "Chinese 5 Spices",
+    "Curry-Powder": "Curry Powder"
+  },
   "Short Ribs": {
     "Biltmore-Chianti-Glazed-Beef-Short-Ribs": "Biltmore Chianti Glazed Beef Short Ribs",
     "Garlic-Braised-Short-Ribs-with-Red-Wine": "Garlic Braised Short Ribs with Red Wine",
@@ -571,6 +578,7 @@
     "Thai-Shrimp-Curry": "Thai Shrimp Curry"
   },
   "Skate Wings": {
+    "Hongeojjim-Steamed-Skate-Fish": "Hongeojjim (Steamed Skate Fish)",
     "Poached-Skate-Wings-with-Tomatoes-and-Olive-Oil": "Poached Skate Wings with Tomatoes and Olive Oil",
     "Skate-Moqueca-Moqueca-De-Arraia": "Skate Moqueca (Moqueca De Arraia)",
     "Skate-with-Green-Herb-Sauce": "Skate with Green Herb Sauce",
