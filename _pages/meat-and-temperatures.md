@@ -30,3 +30,4 @@ Key temperatures:
 | Collagen all shrunk | 85ºC / 185ºF |
 | Collagen mesh breakdown | 52ºC / 120ºF |
 | _lactobacillus_ reproduction | 55ºC / 131ºF and 59ºC / 138ºF |
+|[Leidenfrost effect](https://en.wikipedia.org/wiki/Leidenfrost_effect) |193ºC / 397ºF||
