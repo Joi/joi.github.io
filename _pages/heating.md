@@ -8,4 +8,4 @@ tags:
 - [[Binchotan]]
 - [[Smoking]]
 - [[meat-and-temperatures|Meat and Temperatures]]
-- [[leidenfrost-effect|Leidenfrost effoect]]
+- [[leidenfrost-effect|Leidenfrost effect]]

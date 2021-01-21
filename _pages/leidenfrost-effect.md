@@ -17,6 +17,6 @@ Then, you can check if the pan is at the Leidenfrost point by dropping water on 
 
 Another key thing, according to some people, is for the oil to be cooler than the pan. Therefore, add the oil to the pan just before adding the eggs or other ingredient.
 
-I've tested this with eggs and it works well, allow an egg to fry without sticking.
+I've tested this with eggs and it works well, allowing an egg to fry without sticking.
 
 Good for woks or stainless steel skillets.
