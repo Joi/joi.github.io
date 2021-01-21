@@ -8,7 +8,7 @@
   "created": "2021-01-20 14:55:41",
   "created_ts": 1611154541,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Cook crab by dropping in a large pot of boiling water and boil 8 mins/lb.  Allow the crab to cool, then remove the meat from the shell, using a fork to flake any large pieces of crab meat.\n\nWhisk the eggs gently until just mixed.  Add salt and whisk.  Heat wok over medium heat until just smoking and add 2 tbsp oil.  Pour in the egg.  Have a spatula ready.  Once the eggs have cooked on the bottom most layer (which will be really fast) use your spatula to gently pull all the cooked egg towards you and up the side of your wok, shaking the spatula gently and tilting the pan a bit so that any uncooked egg will run off back towards the center of the wok.  The egg should gather in delicate folds up the side of your wok.  Wait a few seconds and then repeat.  When you have just one layer of egg left to cook (see photo of cooking eggs above), immediately add the crab meat in, fold the eggs from the side of the wok over the crab meat, turn off your heat, and use your spatula to gently break up to bite sized chunks and immediately remove to serving platter.  Do not over cook!  Remember that the egg will continue to cook and remove from heat while still slightly runny.  Top with spring onion rounds and serve right away.  Enjoy!",
   "html": {
     "description": null,
@@ -22,16 +22,23 @@
   "name": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe 蝦仁炒蛋",
   "notes": null,
   "nutritional_info": null,
-  "photo": null,
-  "photo_large": null,
-  "photos": [],
-  "photos_dict": {},
+  "photo": "0000A234-C3FC-44B4-91CA-3C26330955F4-2310-0000EC2181B69B2B.jpg",
+  "photo_large": "0E50FE3D-249E-41C0-A0E0-A38C82177FA9-2310-0000EC209BE8C7F0.jpg",
+  "photos": [
+    {
+      "filename": "0E50FE3D-249E-41C0-A0E0-A38C82177FA9-2310-0000EC209BE8C7F0.jpg",
+      "name": "1"
+    }
+  ],
+  "photos_dict": {
+    "1": "0E50FE3D-249E-41C0-A0E0-A38C82177FA9-2310-0000EC209BE8C7F0.jpg"
+  },
   "prep_time": "15 min",
-  "rating": 0,
-  "servings": null,
+  "rating": 5,
+  "servings": "",
   "source": null,
   "source_url": "https://www.thehongkongcookery.com/2017/05/chinese-stir-fry-eggs-with-flaked-crab.html",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "79FF11D8-6142-45D8-BBD2-3A717CC6A0C6-4181-00035DF8972F51CD"
 }
