@@ -2,6 +2,7 @@
   "categories": [
     "Egg",
     "Crab",
+    "_mine",
     "Chinese"
   ],
   "cook_time": "",
@@ -39,6 +40,6 @@
   "source": null,
   "source_url": null,
   "total_time": "",
-  "type": null,
+  "type": "_mine",
   "uid": "0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681"
 }
