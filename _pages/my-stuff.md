@@ -4,6 +4,5 @@ title: My Stuff
 tags: tools
 ---
 - [[My Whetstones]] - My whetstone collection
-- [[my-thermometers]]
+- [[my-thermometers|My Thermometers]]
 - [[Coffee Information]] - Coffee settings for our house
-- [[My Razors]]

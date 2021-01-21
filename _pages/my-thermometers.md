@@ -12,7 +12,8 @@ I'm currently using:
 	-	[Crocodile Clip Oven Probe Max Temp 662 F](https://www.thermoworks.com/THS-113-041) - -56ºF - 660ºF (cable rating 660ºF) / < 2 sec in liquid, less than 10 sec for full reading
 	-	[Cooper Atkins Oven or Cooler Probe](https://www.cooper-atkins.com/products/oven-or-cooler-freezer-with-clip/) - -100ºF - 600ºF (cable rated 600ºF*) / 1 sec in liquids, 10 sec in 5 m/sec air stream
 -	[ThermoWorks Signals](https://www.thermoworks.com/Signals) WiFI/Bluetooth enabled 4 channel thermometer with ability to control fan
-	-	[Thermowork Billows BBQ Temperature Control Fan](https://www.thermoworks.com/Billows) - fan to regulate temperature of grill by controlling airflow
+	-	[Thermoworks Billows BBQ Temperature Control Fan](https://www.thermoworks.com/Billows) - fan to regulate temperature of grill by controlling airflow
+- [Thermoworks Industrial IR Gun (IR-GUN-S)](https://www.thermoworks.com/IR-Gun)
 
 Notes:
 
