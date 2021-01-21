@@ -7,4 +7,5 @@ tags:
 - [[Thermometers]]
 - [[Binchotan]]
 - [[Smoking]]
-- [[meat-and-temperatures]]
+- [[meat-and-temperatures|Meat and Temperatures]]
+- [[leidenfrost-effect|Leidenfrost effoect]]
