@@ -161,6 +161,11 @@
   "Chickpeas": {
     "Flourless-Chickpea-Pancakes---Made-with-Actual-Chickpeas": "Flourless Chickpea Pancakes – Made with Actual Chickpeas"
   },
+  "Chinese": {
+    "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe-Xia-Ren-Chao-Dan-": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe 蝦仁炒蛋",
+    "Kanitama": "Kanitama",
+    "Shrimp-with-Scrambled-Egg": "Shrimp with Scrambled Egg"
+  },
   "Chuck Roast": {
     "Beef-Stew-with-Carrots-Potatoes": "Beef Stew with Carrots & Potatoes",
     "Pot-Roast": "Pot Roast",
@@ -180,8 +185,10 @@
     "Trinidad-Boiled-Corn": "Trinidad Boiled Corn"
   },
   "Crab": {
+    "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe-Xia-Ren-Chao-Dan-": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe 蝦仁炒蛋",
     "Crab-Omelet-with-Avocado-and-Herbs": "Crab Omelet with Avocado and Herbs",
-    "Easy-Steamed-Dungeness-Crab": "Easy Steamed Dungeness Crab"
+    "Easy-Steamed-Dungeness-Crab": "Easy Steamed Dungeness Crab",
+    "Kanitama": "Kanitama"
   },
   "Curry": {
     "Chicken-Tikka-Masala": "Chicken Tikka Masala",
@@ -196,15 +203,18 @@
     "Roasted-Whole-Duck": "Roasted Whole Duck"
   },
   "Egg": {
+    "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe-Xia-Ren-Chao-Dan-": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe 蝦仁炒蛋",
     "Cottage-Pie": "Cottage Pie",
     "Crab-Omelet-with-Avocado-and-Herbs": "Crab Omelet with Avocado and Herbs",
     "Easy-Ham-and-Cheese-Omelet": "Easy Ham and Cheese Omelet",
     "Fluffy-Baked-Omelet": "Fluffy Baked Omelet",
     "Fluffy-Omelet": "Fluffy Omelet",
     "Focaccia-with-Sea-Salt-Flakes-TM56-Metric": "Focaccia with Sea Salt Flakes (TM5/6 Metric)",
+    "Kanitama": "Kanitama",
     "Omelet": "Omelet",
     "Sausage-and-Veggie-Frittata-and-Ayran-Drink": "Sausage and Veggie Frittata and Ayran Drink",
-    "Shakshuka-with-Feta": "Shakshuka with Feta"
+    "Shakshuka-with-Feta": "Shakshuka with Feta",
+    "Shrimp-with-Scrambled-Egg": "Shrimp with Scrambled Egg"
   },
   "Endive": {
     "Avocado-Shrimp-and-Endive-Salad": "Avocado, Shrimp, and Endive Salad"
@@ -571,6 +581,7 @@
     "Grilled-Shrimp-Skewers": "Grilled Shrimp Skewers",
     "Shrimp-Bisque": "Shrimp Bisque",
     "Shrimp-with-Lobster-Sauce": "Shrimp with Lobster Sauce",
+    "Shrimp-with-Scrambled-Egg": "Shrimp with Scrambled Egg",
     "Sous-Vide-Shrimp": "Sous Vide Shrimp",
     "Southern-Shrimp-Scampi": "Southern Shrimp Scampi",
     "Stir-Fried-Shrimp-and-Broccoli": "Stir-Fried Shrimp and Broccoli",

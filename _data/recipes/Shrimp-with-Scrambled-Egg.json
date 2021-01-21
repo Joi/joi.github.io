@@ -1,0 +1,37 @@
+{
+  "categories": [
+    "Shrimp",
+    "Egg",
+    "Chinese"
+  ],
+  "cook_time": "5 mins",
+  "created": "2021-01-20 14:53:14",
+  "created_ts": 1611154394,
+  "description": null,
+  "difficulty": null,
+  "directions": "Dry the shrimps with kitchen paper and then add pinch of salt, pepper and sesame oil. Set aside for 10-15 minutes.\n\nAnd then well beaten all the eggs in a large bowl. Stir in warm water, salt, sugar and mix well.\n\nHeat around 1 tablespoon of butter in pan (highly recommend using non-stick pan) and fry the shrimp until pink. It should be very quick. Mix shrimp with egg liquid.\n\nKeep the butter and add another 1 tablespoon of butter in. Pour in egg mixture and let it stay for 6-10 seconds until the mixture starts to bubble up. Then remove from the heat and give a gentle stir to make sure that there is no egg sticky to the bottom of the pan. Keep stirring for around 10 to 15 seconds. Transfer out immediately. Sprinkle some fresh chopped scallion and ground pepper before serving.",
+  "html": {
+    "description": null,
+    "directions": "<p>Dry the shrimps with kitchen paper and then add pinch of salt, pepper and sesame oil. Set aside for 10-15 minutes.</p>\n<p>And then well beaten all the eggs in a large bowl. Stir in warm water, salt, sugar and mix well.</p>\n<p>Heat around 1 tablespoon of butter in pan (highly recommend using non-stick pan) and fry the shrimp until pink. It should be very quick. Mix shrimp with egg liquid.</p>\n<p>Keep the butter and add another 1 tablespoon of butter in. Pour in egg mixture and let it stay for 6-10 seconds until the mixture starts to bubble up. Then remove from the heat and give a gentle stir to make sure that there is no egg sticky to the bottom of the pan. Keep stirring for around 10 to 15 seconds. Transfer out immediately. Sprinkle some fresh chopped scallion and ground pepper before serving.</p>\n",
+    "ingredients": "<ul>\n<li>300g shrimp, shelled and deveined</li>\n<li>5 large eggs (room temperature)</li>\n<li>salt to taste (divided)</li>\n<li>1/8 teaspoon ground white pepper</li>\n<li>ground black pepper (for garnishing)</li>\n<li>1 teaspoon sugar</li>\n<li>1 teaspoon sesame oil</li>\n<li>2 tablespoons butter, divided</li>\n<li>2 tablespoons warm water or milk</li>\n<li>300 g shrimp ,shelled and deveined</li>\n<li>5 large eggs ,room temperature</li>\n<li>salt to taste ,divided</li>\n<li>1/8 tsp. ground white pepper</li>\n<li>ground black pepper ,for garnishing</li>\n<li>1 tsp. sugar</li>\n<li>1 tsp. sesame oil</li>\n<li>2 tbsp. butter</li>\n<li>2 tbsp. warm water or milk</li>\n</ul>\n",
+    "nutrition": "<p>Calories: 466 kcal\nSaturated Fat 12g\nCholesterol 874mg\nSodium 1449mg\nPotassium 292mg\nCarbohydrates 3g\nProtein 46g\nCalcium 288mg\nIron 5.4mg</p>\n"
+  },
+  "image_url": "https://www.chinasichuanfood.com/wp-content/uploads/2017/10/scrambled-egg-with-shrimp-5-300x450.jpg",
+  "ingredients": "300g shrimp, shelled and deveined\n5 large eggs (room temperature)\nsalt to taste (divided)\n1/8 teaspoon ground white pepper\nground black pepper (for garnishing)\n1 teaspoon sugar\n1 teaspoon sesame oil\n2 tablespoons butter, divided\n2 tablespoons warm water or milk\n300 g shrimp ,shelled and deveined\n5 large eggs ,room temperature\nsalt to taste ,divided\n1/8 tsp. ground white pepper\nground black pepper ,for garnishing\n1 tsp. sugar\n1 tsp. sesame oil\n2 tbsp. butter\n2 tbsp. warm water or milk",
+  "intrash": 0,
+  "name": "Shrimp with Scrambled Egg",
+  "notes": null,
+  "nutritional_info": "Calories: 466 kcal\nSaturated Fat 12g\nCholesterol 874mg\nSodium 1449mg\nPotassium 292mg\nCarbohydrates 3g\nProtein 46g\nCalcium 288mg\nIron 5.4mg",
+  "photo": "35378EFB-700B-42A7-8D79-186461A515C9-4181-00035DD661C6C4CC.jpg",
+  "photo_large": null,
+  "photos": [],
+  "photos_dict": {},
+  "prep_time": "5 mins",
+  "rating": 0,
+  "servings": "Servings: 2",
+  "source": "chinasichuanfood.com",
+  "source_url": "https://www.chinasichuanfood.com/shrimp-with-scrambled-egg/",
+  "total_time": null,
+  "type": null,
+  "uid": "44B7D560-E05F-4227-BD74-25927E10FB68-4181-00035DD12C377356"
+}
