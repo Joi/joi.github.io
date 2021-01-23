@@ -11,6 +11,8 @@ We had bought a few frozen beef tongue awhile ago and I decided to take a shot a
 
 Most recipes called for stewing at a simmer for 3-4 hours. I decided to go slow and low in the oven at 225ºF to see if I could get maximum tender.
 
+One side-effect was that while most recipes said that the skin should come off easily after a few hours, four hours in, the skin still was stuck pretty tightly to the tongue so I used a paring knife to peel it off so I could get it seared.
+
 I had some oxtail jus left over from the prime rib so I decided to use that too.
 
 I wrote up [[Beef-Tongue-Stew|the recipe]] which is a work in progress.
