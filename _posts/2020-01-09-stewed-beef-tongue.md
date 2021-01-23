@@ -7,7 +7,7 @@ tags: beef stew
 
 ![Beef Tongue](/images/recipes/38671B20-78DF-4FD9-AFFB-C105A172BBDB-2310-0000EC521E0EC0EE/1B878850-5C04-4D73-A25A-A00B2E874162-2310-0000ED0A41CE0F47.jpg)
 
-We had bought a few frozen beef tongue awhile ago and I decided to take a shot at stewing them. I've never made stewed beef tongue before. I looked at various recipes and talked to Mizuka and we decided to make a Japanese-style stew.
+We had bought a few frozen beef tongue awhile ago and I decided to take a shot at stewing them. I've never made stewed beef tongue before. I looked at various recipes and talked to Mizuka and we decided to make a Japanese-style stew. I took a page out of [[2020-10-29-figuring-out-beef-stroganoff|my exploration of beef stroganoff]] and added tomato paste and Worcestershire sauce with roux to get the traditional Japanese, thick and somewhat orange look. I also read to add the tomato later in the process so it doesn't get over stewed, because it would turn blackish and lose the tomato tangy taste.
 
 Most recipes called for stewing at a simmer for 3-4 hours. I decided to go slow and low in the oven at 225ºF to see if I could get maximum tender.
 
