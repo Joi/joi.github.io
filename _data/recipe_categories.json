@@ -6,6 +6,9 @@
     "Risotto-Primavera": "Risotto Primavera",
     "Shaved-Asparagus-Salad": "Shaved Asparagus Salad"
   },
+  "Avocado": {
+    "Best-Ever-Guacamole": "Best Ever Guacamole"
+  },
   "BBQ": {
     "3-2-1-Ribs": "3 2 1 Ribs",
     "Kansas-City-Bbq-Sauce": "Kansas City Bbq Sauce",
@@ -131,6 +134,7 @@
     "Crispy-Parmesan-Baked-Chicken-with-Veggies-Milanese": "Crispy Parmesan Baked Chicken with Veggies (Milanese)",
     "Deviled-Chicken-Thighs": "Deviled Chicken Thighs",
     "Easy-Grill-Roasted-Whole-Chicken": "Easy Grill-Roasted Whole Chicken",
+    "Easy-Pressure-Cooker-Green-Chili-with-Chicken": "Easy Pressure Cooker Green Chili with Chicken",
     "French-Chicken-in-a-Pot": "French Chicken in a Pot",
     "Fried-Chicken-for-Two": "Fried Chicken for Two",
     "Harrys-Bar-Chicken-Stock": "Harry's Bar Chicken Stock",
@@ -163,9 +167,8 @@
     "Flourless-Chickpea-Pancakes---Made-with-Actual-Chickpeas": "Flourless Chickpea Pancakes – Made with Actual Chickpeas"
   },
   "Chinese": {
-    "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe-Xia-Ren-Chao-Dan-": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe 蝦仁炒蛋",
-    "Kanitama": "Kanitama",
-    "Shrimp-with-Scrambled-Egg": "Shrimp with Scrambled Egg"
+    "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe",
+    "Kanitama": "Kanitama"
   },
   "Chuck Roast": {
     "Beef-Stew-with-Carrots-Potatoes": "Beef Stew with Carrots & Potatoes",
@@ -186,10 +189,11 @@
     "Trinidad-Boiled-Corn": "Trinidad Boiled Corn"
   },
   "Crab": {
-    "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe-Xia-Ren-Chao-Dan-": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe 蝦仁炒蛋",
+    "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe",
     "Crab-Omelet-with-Avocado-and-Herbs": "Crab Omelet with Avocado and Herbs",
     "Easy-Steamed-Dungeness-Crab": "Easy Steamed Dungeness Crab",
-    "Kanitama": "Kanitama"
+    "Kanitama": "Kanitama",
+    "Marie-Rose-Sauce": "Marie Rose Sauce"
   },
   "Curry": {
     "Chicken-Tikka-Masala": "Chicken Tikka Masala",
@@ -204,7 +208,7 @@
     "Roasted-Whole-Duck": "Roasted Whole Duck"
   },
   "Egg": {
-    "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe-Xia-Ren-Chao-Dan-": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe 蝦仁炒蛋",
+    "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe",
     "Cottage-Pie": "Cottage Pie",
     "Crab-Omelet-with-Avocado-and-Herbs": "Crab Omelet with Avocado and Herbs",
     "Easy-Ham-and-Cheese-Omelet": "Easy Ham and Cheese Omelet",
@@ -214,8 +218,7 @@
     "Kanitama": "Kanitama",
     "Omelet": "Omelet",
     "Sausage-and-Veggie-Frittata-and-Ayran-Drink": "Sausage and Veggie Frittata and Ayran Drink",
-    "Shakshuka-with-Feta": "Shakshuka with Feta",
-    "Shrimp-with-Scrambled-Egg": "Shrimp with Scrambled Egg"
+    "Shakshuka-with-Feta": "Shakshuka with Feta"
   },
   "Endive": {
     "Avocado-Shrimp-and-Endive-Salad": "Avocado, Shrimp, and Endive Salad"
@@ -375,14 +378,16 @@
   "Mexican": {
     "Beef-Taco-Salad-with-Chunky-Tomato-Dressing": "Beef Taco Salad with Chunky Tomato Dressing",
     "Beef-Tostadas": "Beef Tostadas",
-    "Crunchy-Fried-Fish-Tacos": "Crunchy Fried Fish Tacos"
+    "Best-Ever-Guacamole": "Best Ever Guacamole",
+    "Crunchy-Fried-Fish-Tacos": "Crunchy Fried Fish Tacos",
+    "Easy-Pressure-Cooker-Green-Chili-with-Chicken": "Easy Pressure Cooker Green Chili with Chicken"
   },
   "Monkfish": {
     "Monkfish-Braised-with-White-Beans-Fennel-Tomato": "Monkfish Braised with White Beans, Fennel, & Tomato",
     "Monkfish-Curry": "Monkfish Curry"
   },
   "Mushroom": {
-    "KING-OYSTER-MUSHROOM-WITH-GARLIC-SAUCE-Yu-Xiang-Xing-Bao-Gu-": "KING OYSTER MUSHROOM WITH GARLIC SAUCE (鱼香杏鲍菇)",
+    "KING-OYSTER-MUSHROOM-WITH-GARLIC-SAUCE": "KING OYSTER MUSHROOM WITH GARLIC SAUCE",
     "Sauteed-Lions-Mane-Mushrooms-with-Garlic": "Sautéed Lion's Mane Mushrooms with Garlic"
   },
   "Mussels": {
@@ -417,7 +422,8 @@
     "Spaghetti-with-Bottarga": "Spaghetti with Bottarga"
   },
   "Pickles": {
-    "Easy-Pickled-Cabbage": "Easy Pickled Cabbage"
+    "Easy-Pickled-Cabbage": "Easy Pickled Cabbage",
+    "Pickled-Red-Onions": "Pickled Red Onions"
   },
   "Pollack": {
     "Parmesan-Crusted-Pollock": "Parmesan Crusted Pollock",
@@ -460,6 +466,9 @@
     "Perfect-Prime-Rib-with-Red-Wine-Jus": "Perfect Prime Rib with Red Wine Jus",
     "Prime-Rib": "Prime Rib",
     "Reverse-Sear-Prime-Rib-Roast": "Reverse-Sear Prime Rib Roast"
+  },
+  "Red Onions": {
+    "Pickled-Red-Onions": "Pickled Red Onions"
   },
   "Ribs": {
     "Indoor-Smoked-Salt-And-Pepper-Beef-Ribs": "Indoor-Smoked Salt-And-Pepper Beef Ribs",
@@ -519,6 +528,7 @@
     "Aioli-Sauce": "Aioli Sauce",
     "Basic-Salsa-Verde": "Basic Salsa Verde",
     "Bearnaise-Sauce": "Béarnaise Sauce",
+    "Best-Ever-Guacamole": "Best Ever Guacamole",
     "Blue-Cheese-Dressing": "Blue Cheese Dressing",
     "Bolognese-Sauce": "Bolognese Sauce",
     "Chef-Johns-Creme-Fraiche": "Chef John's Creme Fraiche",
@@ -530,12 +540,13 @@
     "Grilled-Salmon-with-Cilantro-Pecan-Pesto": "Grilled Salmon with Cilantro-Pecan Pesto",
     "Hamburger-Stroganoff-Skillet": "Hamburger Stroganoff Skillet",
     "Homemade-Marinara-Sauce": "Homemade Marinara Sauce",
-    "Homemade-Ponzu-Sauce-Recipe-ponZuo-": "Homemade Ponzu Sauce Recipe ポン酢",
+    "Homemade-Ponzu-Sauce-Recipe": "Homemade Ponzu Sauce Recipe",
     "Homemade-Spicy-Chili-Crisp": "Homemade Spicy Chili Crisp",
     "Horseradish-Sauce": "Horseradish Sauce",
     "Kansas-City-Bbq-Sauce": "Kansas City Bbq Sauce",
     "Lemon-Butter-Sauce": "Lemon Butter Sauce",
     "Make-Cranberry-Sauce": "Make Cranberry Sauce",
+    "Marie-Rose-Sauce": "Marie Rose Sauce",
     "Meatball": "Meatball",
     "Our-Five-Spice-Powder": "Our Five Spice Powder",
     "Rouille": "Rouille",
@@ -581,9 +592,9 @@
     "Garlic-Butter-Shrimp-with-Cilantro-and-Lime": "Garlic Butter Shrimp with Cilantro and Lime",
     "Ginger-Sesame-Garlic-Shrimp": "Ginger Sesame Garlic Shrimp",
     "Grilled-Shrimp-Skewers": "Grilled Shrimp Skewers",
+    "Marie-Rose-Sauce": "Marie Rose Sauce",
     "Shrimp-Bisque": "Shrimp Bisque",
     "Shrimp-with-Lobster-Sauce": "Shrimp with Lobster Sauce",
-    "Shrimp-with-Scrambled-Egg": "Shrimp with Scrambled Egg",
     "Sous-Vide-Shrimp": "Sous Vide Shrimp",
     "Southern-Shrimp-Scampi": "Southern Shrimp Scampi",
     "Stir-Fried-Shrimp-and-Broccoli": "Stir-Fried Shrimp and Broccoli",
@@ -687,7 +698,7 @@
     "Pan-Seared-Tuna-with-Avocado-Soy-Ginger-and-Lime": "Pan-Seared Tuna with Avocado, Soy, Ginger, and Lime",
     "Seared-Ahi-Tuna-Steaks": "Seared Ahi Tuna Steaks",
     "Tuna-Confit": "Tuna Confit",
-    "Tuna-Tataki-Recipe-kihadaWei-notataki": "Tuna Tataki Recipe キハダ鮪のたたき"
+    "Tuna-Tataki-Recipe": "Tuna Tataki Recipe"
   },
   "Turkey": {
     "Roasted-Turkey-Breast": "Roasted Turkey Breast",
@@ -740,7 +751,7 @@
     "Roasted-Yellow-Squash-with-Mint-Walnuts-and-Pecorino": "Roasted Yellow Squash with Mint, Walnuts and Pecorino"
   },
   "Yellow Tail": {
-    "Hamachi-Kama-hamachinokamaShao-ki": "Hamachi Kama はまちのカマ焼き"
+    "Hamachi-Kama": "Hamachi Kama"
   },
   "Zucchini": {
     "Julienned-Zucchini-and-Carrots-with-Lemon-and-Mint": "Julienned Zucchini and Carrots with Lemon and Mint"
@@ -752,6 +763,7 @@
     "Chicken-Stock": "Chicken Stock",
     "Chicken-with-Vinegar": "Chicken with Vinegar",
     "Kanitama": "Kanitama",
+    "Marie-Rose-Sauce": "Marie Rose Sauce",
     "Oven-Roasted-Spatchcocked-Chicken": "Oven Roasted Spatchcocked Chicken",
     "Paella": "Paella",
     "Prime-Rib": "Prime Rib",
