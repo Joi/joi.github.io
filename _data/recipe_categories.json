@@ -123,7 +123,6 @@
     "Chicken-Sandwich": "Chicken Sandwich",
     "Chicken-Seasoning-For-Roasted-or-Rotisserie-Chicken": "Chicken Seasoning (For Roasted or Rotisserie Chicken)",
     "Chicken-Stock": "Chicken Stock",
-    "Chicken-Tikka-Masala": "Chicken Tikka Masala",
     "Chicken-with-40-Cloves-of-Garlic": "Chicken with 40 Cloves of Garlic",
     "Chicken-with-Almonds-and-Green-Olives": "Chicken with Almonds and Green Olives",
     "Chicken-with-Vinegar": "Chicken with Vinegar",
@@ -145,9 +144,11 @@
     "Instant-Pot-Coq-Au-Vin": "Instant Pot Coq Au Vin",
     "Jamaican-Jerk-Rubbed-Roast-Chicken": "Jamaican-Jerk-Rubbed Roast Chicken",
     "Japanese-Fried-Chicken-Thighs-Karaage": "Japanese Fried Chicken Thighs (Karaage)",
+    "Jois-Braised-Chicken-Tikka-Masala": "Joi's Braised Chicken Tikka Masala",
     "Karaage-Fried-Chicken": "Karaage Fried Chicken",
     "Moroccan-Chicken-Tagine-with-Olives-and-Lemon-Djej-Emshmel": "Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)",
     "One-Pan-Roast-Chicken-with-Fennel-and-Parsnips": "One-Pan Roast Chicken with Fennel and Parsnips",
+    "Oven-Fried-Chicken": "Oven Fried Chicken",
     "Oven-Roasted-Spatchcocked-Chicken": "Oven Roasted Spatchcocked Chicken",
     "Pressure-Cooker-Coconut-Curry-Chicken": "Pressure Cooker Coconut Curry Chicken",
     "Pressure-Cooker-Coq-Au-Vin": "Pressure-Cooker Coq Au Vin",
@@ -168,6 +169,7 @@
   },
   "Chinese": {
     "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe",
+    "Ginisang-Pechay-with-Ground-Pork-and-Shrimp-Sauteed-Bok-Choy": "Ginisang Pechay with Ground Pork and Shrimp (Sauteed Bok Choy)",
     "Kanitama": "Kanitama"
   },
   "Chuck Roast": {
@@ -196,9 +198,10 @@
     "Marie-Rose-Sauce": "Marie Rose Sauce"
   },
   "Curry": {
-    "Chicken-Tikka-Masala": "Chicken Tikka Masala",
     "Curry-Powder": "Curry Powder",
     "Easy-Thai-Shrimp-Curry": "Easy Thai Shrimp Curry",
+    "Garam-Masala": "Garam Masala",
+    "Jois-Braised-Chicken-Tikka-Masala": "Joi's Braised Chicken Tikka Masala",
     "Thai-Coconut-Shrimp-Curry": "Thai Coconut Shrimp Curry",
     "Thai-Shrimp-Curry": "Thai Shrimp Curry"
   },
@@ -295,6 +298,9 @@
     "Stuffed-Cabbage": "Stuffed Cabbage",
     "The-Best-Meatball-Recipe--1-Minute-Video": "The Best Meatball Recipe | 1-Minute Video"
   },
+  "Ground Pork": {
+    "Ginisang-Pechay-with-Ground-Pork-and-Shrimp-Sauteed-Bok-Choy": "Ginisang Pechay with Ground Pork and Shrimp (Sauteed Bok Choy)"
+  },
   "Hake": {
     "Confit-Hake-Cherry-Tomatoes-and-Garlic": "Confit Hake, Cherry Tomatoes and Garlic"
   },
@@ -320,10 +326,12 @@
   "Italian": {
     "Chicken-Sandwich": "Chicken Sandwich",
     "Homemade-Marinara-Sauce": "Homemade Marinara Sauce",
+    "Mark-Bittmans-Basic-Pizza-Dough": "Mark Bittman's Basic Pizza Dough",
     "Meatball": "Meatball",
     "Meatballs-with-Tomato-Sauce": "Meatballs with Tomato Sauce",
     "Minestrone": "Minestrone",
     "Ragu-Bolognese": "Ragú Bolognese",
+    "Robertas-Pizza-Dough": "Roberta’s Pizza Dough",
     "Sausage-and-Veggie-Frittata-and-Ayran-Drink": "Sausage and Veggie Frittata and Ayran Drink",
     "The-Best-Meatball-Recipe--1-Minute-Video": "The Best Meatball Recipe | 1-Minute Video"
   },
@@ -388,6 +396,7 @@
   },
   "Mushroom": {
     "KING-OYSTER-MUSHROOM-WITH-GARLIC-SAUCE": "KING OYSTER MUSHROOM WITH GARLIC SAUCE",
+    "Porcini": "Porcini",
     "Sauteed-Lions-Mane-Mushrooms-with-Garlic": "Sautéed Lion's Mane Mushrooms with Garlic"
   },
   "Mussels": {
@@ -425,12 +434,17 @@
     "Easy-Pickled-Cabbage": "Easy Pickled Cabbage",
     "Pickled-Red-Onions": "Pickled Red Onions"
   },
+  "Pizza": {
+    "Mark-Bittmans-Basic-Pizza-Dough": "Mark Bittman's Basic Pizza Dough",
+    "Robertas-Pizza-Dough": "Roberta’s Pizza Dough"
+  },
   "Pollack": {
     "Parmesan-Crusted-Pollock": "Parmesan Crusted Pollock",
     "Pollock-in-Garlic-Butter-Sauce": "Pollock in Garlic-Butter Sauce"
   },
   "Pork": {
     "Easy-Ham-and-Cheese-Omelet": "Easy Ham and Cheese Omelet",
+    "Ginisang-Pechay-with-Ground-Pork-and-Shrimp-Sauteed-Bok-Choy": "Ginisang Pechay with Ground Pork and Shrimp (Sauteed Bok Choy)",
     "Momofukus-Bo-Ssam": "Momofuku's Bo Ssam",
     "Perfect-Pan-Seared-Pork-Chops": "Perfect Pan-Seared Pork Chops",
     "Simple-Tender-Pork-Chops": "Simple Tender Pork Chops",
@@ -657,7 +671,8 @@
     "How-to-Cook-the-Perfect-Tender-Grass-Fed-Steak": "How to Cook the Perfect, Tender, Grass Fed Steak",
     "Pan-Seared-Garlic-Butter-Steak-Mushroom-Cream-Sauce": "Pan Seared Garlic Butter Steak & Mushroom Cream Sauce",
     "Pan-Seared-Steak-with-Red-Wine-Sauce": "Pan-Seared Steak with Red Wine Sauce",
-    "Pan-Seared-Steaks": "Pan-Seared Steaks"
+    "Pan-Seared-Steaks": "Pan-Seared Steaks",
+    "Steak-101": "Steak 101"
   },
   "Striped Bass": {
     "Herb-and-Lemon-Roasted-Striped-Bass": "Herb and Lemon Roasted Striped Bass",
@@ -677,7 +692,9 @@
     "Swordfish-with-Lemon-and-Fennel": "Swordfish with Lemon and Fennel"
   },
   "Tenderloin": {
-    "Roast-Beef-Tenderloin-with-Garlic-and-Rosemary": "Roast Beef Tenderloin with Garlic and Rosemary"
+    "Filet-Mignon-in-Mushroom-Wine-Sauce": "Filet Mignon in Mushroom Wine Sauce",
+    "Roast-Beef-Tenderloin-with-Garlic-and-Rosemary": "Roast Beef Tenderloin with Garlic and Rosemary",
+    "Roast-Beef-Tenderloin-with-Wine-Sauce": "Roast Beef Tenderloin with Wine Sauce"
   },
   "Tomato": {
     "Homemade-Marinara-Sauce": "Homemade Marinara Sauce",
@@ -762,6 +779,7 @@
     "Bolognese-Sauce": "Bolognese Sauce",
     "Chicken-Stock": "Chicken Stock",
     "Chicken-with-Vinegar": "Chicken with Vinegar",
+    "Jois-Braised-Chicken-Tikka-Masala": "Joi's Braised Chicken Tikka Masala",
     "Kanitama": "Kanitama",
     "Marie-Rose-Sauce": "Marie Rose Sauce",
     "Oven-Roasted-Spatchcocked-Chicken": "Oven Roasted Spatchcocked Chicken",

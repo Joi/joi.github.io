@@ -1,0 +1,49 @@
+{
+  "categories": [
+    "Pork",
+    "Chinese",
+    "Ground Pork"
+  ],
+  "cook_time": "18 minutes",
+  "created": "2021-01-28 12:48:58",
+  "created_ts": 1611838138,
+  "description": null,
+  "difficulty": "",
+  "directions": "Heat oil in a pan.\n\nWhen the oil is hot, saute garlic, onion, and tomato.\n\nAdd ground pork. Cook until brown\n\nAdd shrimp and bok choy. Stir-fry for 3 to 5 minutes.\n\nPour-in chicken broth (or water). Let boil. Cover and simmer for 2 to 3 minutes.\n\nAdd fish sauce and ground black pepper.\n\nTransfer to a serving bowl. Serve.\n\nShare and enjoy!",
+  "html": {
+    "description": null,
+    "directions": "<p>Heat oil in a pan.</p>\n<p>When the oil is hot, saute garlic, onion, and tomato.</p>\n<p>Add ground pork. Cook until brown</p>\n<p>Add shrimp and bok choy. Stir-fry for 3 to 5 minutes.</p>\n<p>Pour-in chicken broth (or water). Let boil. Cover and simmer for 2 to 3 minutes.</p>\n<p>Add fish sauce and ground black pepper.</p>\n<p>Transfer to a serving bowl. Serve.</p>\n<p>Share and enjoy!</p>\n",
+    "ingredients": "<ul>\n<li>1 lb. bok choy cleaned and chopped</li>\n<li>6 ounces ground pork</li>\n<li>4 ounces small shrimp head and shell removed</li>\n<li>1 medium tomato cubed</li>\n<li>1 medium yellow onion cubed</li>\n<li>3 cloves garlic crushed</li>\n<li>1 cup chicken broth or water</li>\n<li>3 tablespoons cooking oil</li>\n<li>1 to 2 tablespoons fish sauce</li>\n<li>1/4 teaspoon ground black pepper to taste</li>\n</ul>\n",
+    "nutrition": null
+  },
+  "image_url": null,
+  "ingredients": "1 lb. bok choy cleaned and chopped\n6 ounces ground pork\n4 ounces small shrimp head and shell removed\n1 medium tomato cubed\n1 medium yellow onion cubed\n3 cloves garlic crushed\n1 cup chicken broth or water\n3 tablespoons cooking oil\n1 to 2 tablespoons fish sauce\n1/4 teaspoon ground black pepper to taste",
+  "intrash": 0,
+  "name": "Ginisang Pechay with Ground Pork and Shrimp (Sauteed Bok Choy)",
+  "notes": null,
+  "nutritional_info": null,
+  "photo": "1854DC2B-A25B-4AB7-B0EB-B61AD7DDCEF2-20298-00000B877231C08B.jpg",
+  "photo_large": "BA5AB733-BC57-45C7-911B-6A77D0DD4A33-20298-00000B868FA55766.jpg",
+  "photos": [
+    {
+      "filename": "BA5AB733-BC57-45C7-911B-6A77D0DD4A33-20298-00000B868FA55766.jpg",
+      "name": "1"
+    },
+    {
+      "filename": "4FB8BEB4-1D2B-47D0-BB7B-595FD14B5A6F-20298-00000B93D1274727.jpg",
+      "name": "2"
+    }
+  ],
+  "photos_dict": {
+    "1": "BA5AB733-BC57-45C7-911B-6A77D0DD4A33-20298-00000B868FA55766.jpg",
+    "2": "4FB8BEB4-1D2B-47D0-BB7B-595FD14B5A6F-20298-00000B93D1274727.jpg"
+  },
+  "prep_time": "5 minutes",
+  "rating": 5,
+  "servings": "Servings 4",
+  "source": "panlasangpinoy.com",
+  "source_url": "https://panlasangpinoy.com/ginisang-pechay-with-ground-pork-and-shrimp-bok-choy/",
+  "total_time": "",
+  "type": null,
+  "uid": "DC15F50F-8462-4263-B376-E096923CBF5C-41652-0000201C14911B02"
+}
