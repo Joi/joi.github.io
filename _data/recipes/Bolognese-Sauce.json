@@ -23,10 +23,17 @@
   "name": "Bolognese Sauce",
   "notes": null,
   "nutritional_info": null,
-  "photo": null,
-  "photo_large": null,
-  "photos": [],
-  "photos_dict": {},
+  "photo": "B5DEB0CE-E531-4A2A-B04F-80BB60BF7B33-37413-00001BE78EA81623.jpg",
+  "photo_large": "2C7DEBA0-584E-491C-99E2-531EC9F06995-37413-00001BE77E34EAAB.jpg",
+  "photos": [
+    {
+      "filename": "2C7DEBA0-584E-491C-99E2-531EC9F06995-37413-00001BE77E34EAAB.jpg",
+      "name": "1"
+    }
+  ],
+  "photos_dict": {
+    "1": "2C7DEBA0-584E-491C-99E2-531EC9F06995-37413-00001BE77E34EAAB.jpg"
+  },
   "prep_time": "",
   "rating": 5,
   "servings": "",

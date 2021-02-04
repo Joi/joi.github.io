@@ -14,16 +14,28 @@
     "ingredients": "<ul>\n<li>2 tbsp cooking oil</li>\n<li>6 king oyster mushrooms, about 400g/14oz</li>\n<li>1 tbsp minced garlic</li>\n<li>50 g pre-soaked wood ear mushroom, about ⅓ cup</li>\n<li>3 fresh chillies, thinly sliced, or Sichuan pickled chilli (see note)</li>\n<li>1 stalk scallions, finely chopped</li>\n<li>For the sauce:</li>\n<li>1 tbsp Shaoxing rice wine</li>\n<li>1 tbsp black rice vinegar</li>\n<li>1 tbsp light soy sauce</li>\n<li>1 tsp dark soy sauce</li>\n<li>½ tbsp sugar</li>\n<li>½ tbsp cornstarch</li>\n<li>1 tbsp water</li>\n</ul>\n",
     "nutrition": "<p>Calories: 240kcal</p>\n"
   },
-  "image_url": "https://i0.wp.com/redhousespice.com/wp-content/uploads/2020/05/King-Oyster-mushroom-with-garlic-sauce-scaled.jpg?resize=1367%2C2048&ssl=1",
+  "image_url": null,
   "ingredients": "2 tbsp cooking oil\n6 king oyster mushrooms, about 400g/14oz\n1 tbsp minced garlic\n50 g pre-soaked wood ear mushroom, about ⅓ cup\n3 fresh chillies, thinly sliced, or Sichuan pickled chilli (see note)\n1 stalk scallions, finely chopped\nFor the sauce:\n1 tbsp Shaoxing rice wine\n1 tbsp black rice vinegar\n1 tbsp light soy sauce\n1 tsp dark soy sauce\n½ tbsp sugar\n½ tbsp cornstarch\n1 tbsp water",
   "intrash": 0,
   "name": "KING OYSTER MUSHROOM WITH GARLIC SAUCE",
   "notes": null,
   "nutritional_info": "Calories: 240kcal",
-  "photo": "ADF34DE3-1DDE-42CB-A37E-EB8232D366E5-64845-00002AEE2633F775.jpg",
-  "photo_large": null,
-  "photos": [],
-  "photos_dict": {},
+  "photo": "FE633B30-7AF9-4F17-9E99-95F3349DAE2B-36256-00001A651852F2E7.jpg",
+  "photo_large": "F874CBF7-4E41-41AE-8762-911AAEC5D1FF-36256-00001A650FCA8705.jpg",
+  "photos": [
+    {
+      "filename": "68F703E9-1FD7-43A4-B518-39BF8547E678-36256-00001A5B16CD32BA.jpg",
+      "name": "1"
+    },
+    {
+      "filename": "F874CBF7-4E41-41AE-8762-911AAEC5D1FF-36256-00001A650FCA8705.jpg",
+      "name": "2"
+    }
+  ],
+  "photos_dict": {
+    "1": "68F703E9-1FD7-43A4-B518-39BF8547E678-36256-00001A5B16CD32BA.jpg",
+    "2": "F874CBF7-4E41-41AE-8762-911AAEC5D1FF-36256-00001A650FCA8705.jpg"
+  },
   "prep_time": "5 minutes",
   "rating": 5,
   "servings": "Calories: 240kcal",

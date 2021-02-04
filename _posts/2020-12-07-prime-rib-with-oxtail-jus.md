@@ -48,4 +48,4 @@ It seems like the sous vide mode on the Anova is possibly the best way to revers
 
 Also, my guess is that with the steam at 100% you probably lose much less moisture and might even skip the "[[evaporation-effect]]" stall. I'll have to test this a bit more to be sure.
 
-Next, I need to see if I can get smoke going. Maybe I can slow and low on the grill with smoke for the first hour or something and then swith to the Anova.
+Next, I need to see if I can get smoke going. Maybe I can slow and low on the grill with smoke for the first hour or something and then switch to the Anova.
