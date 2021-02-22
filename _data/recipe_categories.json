@@ -100,6 +100,10 @@
     "Easiest-Brisket-with-Caramelized-Onions": "Easiest Brisket with Caramelized Onions",
     "Slow-Cooker-Braised-Brisket-and-Onions": "Slow-Cooker Braised Brisket and Onions"
   },
+  "Cauliflower": {
+    "Roasted-Cauliflower": "Roasted Cauliflower",
+    "Whole-Roasted-Cauliflower": "Whole Roasted Cauliflower"
+  },
   "Celery Root": {
     "Sauteed-Celery-Root-with-Swiss-Chard": "Sauteed Celery Root with Swiss Chard"
   },
@@ -299,6 +303,7 @@
     "The-Best-Meatball-Recipe--1-Minute-Video": "The Best Meatball Recipe | 1-Minute Video"
   },
   "Ground Pork": {
+    "Ginisang-Pechay-with-Ground-Pork-and-Shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
     "Ginisang-Pechay-with-Ground-Pork-and-Shrimp-Sauteed-Bok-Choy": "Ginisang Pechay with Ground Pork and Shrimp (Sauteed Bok Choy)"
   },
   "Hake": {
@@ -388,7 +393,8 @@
     "Beef-Tostadas": "Beef Tostadas",
     "Best-Ever-Guacamole": "Best Ever Guacamole",
     "Crunchy-Fried-Fish-Tacos": "Crunchy Fried Fish Tacos",
-    "Easy-Pressure-Cooker-Green-Chili-with-Chicken": "Easy Pressure Cooker Green Chili with Chicken"
+    "Easy-Pressure-Cooker-Green-Chili-with-Chicken": "Easy Pressure Cooker Green Chili with Chicken",
+    "The-Best-Chili-Ever": "The Best Chili Ever"
   },
   "Monkfish": {
     "Monkfish-Braised-with-White-Beans-Fennel-Tomato": "Monkfish Braised with White Beans, Fennel, & Tomato",
@@ -396,6 +402,8 @@
   },
   "Mushroom": {
     "KING-OYSTER-MUSHROOM-WITH-GARLIC-SAUCE": "KING OYSTER MUSHROOM WITH GARLIC SAUCE",
+    "Mushroom-Sauce": "Mushroom Sauce",
+    "Mushroom-Sauce-for-Steak": "Mushroom Sauce for Steak",
     "Porcini": "Porcini",
     "Sauteed-Lions-Mane-Mushrooms-with-Garlic": "Sautéed Lion's Mane Mushrooms with Garlic"
   },
@@ -412,6 +420,9 @@
     "Easy-Overnight-Oats": "Easy Overnight Oats",
     "Overnight-Oats": "Overnight Oats",
     "Peanut-Butter-Overnight-Oats-5-Ingredients!": "Peanut Butter Overnight Oats (5 Ingredients!)"
+  },
+  "Oxtail": {
+    "Oxtail-Au-Jus": "Oxtail Au Jus"
   },
   "Pasta": {
     "Best-Lasagna": "Best Lasagna",
@@ -562,7 +573,10 @@
     "Make-Cranberry-Sauce": "Make Cranberry Sauce",
     "Marie-Rose-Sauce": "Marie Rose Sauce",
     "Meatball": "Meatball",
+    "Mushroom-Sauce": "Mushroom Sauce",
+    "Mushroom-Sauce-for-Steak": "Mushroom Sauce for Steak",
     "Our-Five-Spice-Powder": "Our Five Spice Powder",
+    "Oxtail-Au-Jus": "Oxtail Au Jus",
     "Rouille": "Rouille",
     "Salmoriglio-Sicilian-Oregano-Sauce": "Salmoriglio Sicilian Oregano Sauce",
     "Traditional-Toum-Lebanese-Garlic-Sauce": "Traditional Toum (Lebanese Garlic Sauce)",
@@ -596,6 +610,7 @@
     "Short-Ribs-Braised-in-Red-Wine-with-Bacon-Parsnips-and-Pearl-Onions": "Short Ribs Braised in Red Wine with Bacon, Parsnips, and Pearl Onions",
     "Slow-Cooker-Beef-Short-Ribs": "Slow Cooker Beef Short Ribs",
     "Tangy-Braised-Short-Ribs": "Tangy Braised Short Ribs",
+    "The-Best-Chili-Ever": "The Best Chili Ever",
     "Whatever-You-Want-Soup": "Whatever You Want Soup"
   },
   "Shrimp": {
@@ -605,6 +620,7 @@
     "Easy-Thai-Shrimp-Curry": "Easy Thai Shrimp Curry",
     "Garlic-Butter-Shrimp-with-Cilantro-and-Lime": "Garlic Butter Shrimp with Cilantro and Lime",
     "Ginger-Sesame-Garlic-Shrimp": "Ginger Sesame Garlic Shrimp",
+    "Ginisang-Pechay-with-Ground-Pork-and-Shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
     "Grilled-Shrimp-Skewers": "Grilled Shrimp Skewers",
     "Marie-Rose-Sauce": "Marie Rose Sauce",
     "Shrimp-Bisque": "Shrimp Bisque",
@@ -647,7 +663,8 @@
     "Mark-Bittmans-Bouillabaisse": "Mark Bittman’s Bouillabaisse",
     "Minestrone": "Minestrone",
     "Samin-Nosrat-Chicken-Stock": "Samin Nosrat Chicken Stock",
-    "Shrimp-Bisque": "Shrimp Bisque"
+    "Shrimp-Bisque": "Shrimp Bisque",
+    "The-Best-Chili-Ever": "The Best Chili Ever"
   },
   "Spread": {
     "Guacamole": "Guacamole",
@@ -669,6 +686,8 @@
     "Grilled-Frozen-Steaks": "Grilled Frozen Steaks",
     "Hanger-Steak-with-Olive-Oil-and-Herbs": "Hanger Steak with Olive Oil and Herbs",
     "How-to-Cook-the-Perfect-Tender-Grass-Fed-Steak": "How to Cook the Perfect, Tender, Grass Fed Steak",
+    "Mushroom-Sauce": "Mushroom Sauce",
+    "Mushroom-Sauce-for-Steak": "Mushroom Sauce for Steak",
     "Pan-Seared-Garlic-Butter-Steak-Mushroom-Cream-Sauce": "Pan Seared Garlic Butter Steak & Mushroom Cream Sauce",
     "Pan-Seared-Steak-with-Red-Wine-Sauce": "Pan-Seared Steak with Red Wine Sauce",
     "Pan-Seared-Steaks": "Pan-Seared Steaks",
@@ -736,9 +755,11 @@
   "Vegetables": {
     "Easy-Pickled-Cabbage": "Easy Pickled Cabbage",
     "Pan-Steamed-Asparagus-with-Lemon-and-Parmesan": "Pan-Steamed Asparagus with Lemon and Parmesan",
+    "Roasted-Cauliflower": "Roasted Cauliflower",
     "Salad-E-Shirazi-Persian-Cucumber-Tomato-and-Onion-Salad": "Salad-E Shirazi (Persian Cucumber, Tomato and Onion Salad)",
     "Skillet-Roasted-Brussels-Sprouts-with-Lemon-and-Pecorino-Romano": "Skillet-Roasted Brussels Sprouts with Lemon and Pecorino Romano",
-    "Stovetop-Braised-Carrots-and-Parsnips": "Stovetop-Braised Carrots and Parsnips"
+    "Stovetop-Braised-Carrots-and-Parsnips": "Stovetop-Braised Carrots and Parsnips",
+    "Whole-Roasted-Cauliflower": "Whole Roasted Cauliflower"
   },
   "White Fish": {
     "Baked-Flounder-with-Panko-and-Parmesan": "Baked Flounder with Panko and Parmesan",
@@ -779,6 +800,7 @@
     "Bolognese-Sauce": "Bolognese Sauce",
     "Chicken-Stock": "Chicken Stock",
     "Chicken-with-Vinegar": "Chicken with Vinegar",
+    "Ginisang-Pechay-with-Ground-Pork-and-Shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
     "Jois-Braised-Chicken-Tikka-Masala": "Joi's Braised Chicken Tikka Masala",
     "Kanitama": "Kanitama",
     "Marie-Rose-Sauce": "Marie Rose Sauce",
