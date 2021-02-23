@@ -4,11 +4,11 @@
     "Seafood",
     "White Fish"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-03-07 15:44:48",
   "created_ts": 1583595888,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "FOR THE FISH: Adjust oven rack to lower-middle position, set 4 heatproof dinner plates on rack, and heat oven to 200 degrees.\n\nPlace flour in large baking dish.\n\nSeason both sides of each fillet generously with salt and pepper; let stand until fillets are glistening with moisture, about 5 minutes.\n\nCoat both sides of fillets with flour, shake off excess, and place in single layer on baking sheet.\n\nHeat 1 tablespoon oil in 12-inch nonstick skillet over high heat until shimmering, then add 1 tablespoon butter and swirl to coat pan bottom; when foaming subsides, carefully place 2 fillets in skillet, bone-side down. Immediately reduce heat to medium-high and cook, without moving fish, until edges of fillets are opaque and bottom is golden brown, about 3 minutes.\n\nUsing 2 spatulas, gently flip fillets (see illustration below) and cook on second side until thickest part of fillet easily separates into flakes when toothpick is inserted, about 2 minutes longer.\n\nTransfer fillets, one to each heated dinner plate, keeping bone- side up, and return plates to oven. Wipe out skillet and repeat with remaining 1 tablespoon each oil and butter and remaining fish fillets.\n\nFOR THE BROWNED BUTTER: Heat butter in 10-inch skillet over medium-high heat until butter melts, 1 to 1 1/2 minutes.\n\nAdd almonds and continue to cook, swirling pan constantly, until butter is golden brown and has nutty aroma, 1 to 1 1/2 minutes; remove skillet from heat.\n\nRemove plates from oven and sprinkle fillets with parsley.\n\nAdd lemon juice to browned butter and season to taste with salt; spoon sauce over fish and serve immediately with lemon wedges.",
   "html": {
     "description": null,
@@ -26,12 +26,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": null,
+  "prep_time": "",
   "rating": 5,
   "servings": "Serves 4",
   "source": "cooksillustrated.com",
   "source_url": "https://www.cooksillustrated.com/recipes/1399-fish-meuniere-with-toasted-slivered-almonds?incode=MCSCM00L0&ref=new_search_experience_7",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4"
 }

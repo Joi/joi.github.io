@@ -2,11 +2,11 @@
   "categories": [
     "Salad"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-07-16 01:49:37",
   "created_ts": 1594864177,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Measure ingredients into the bowl of a mini food processor (or blender). Pulse until well-blended and emulsified. Taste and adjust seasonings, adding more salt and pepper if necessary. (Alternatively, you may measure all ingredients into a jar with a tight-fitting lid and shake vigorously, OR whisk the ingredients together in a bowl.)\n\nStore leftovers in a sealed container in the refrigerator; allow to come to room temperature and shake well before using.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": null,
+  "prep_time": "",
   "rating": 0,
-  "servings": null,
+  "servings": "",
   "source": "fivehearthome.com",
   "source_url": "https://www.fivehearthome.com/cilantro-lime-vinaigrette-zesty-mexican-salad-dressing-recipe/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "F9B2D1B0-BF79-4EFE-8703-78B7F1A63319-29053-0004C5CE4375F09A"
 }

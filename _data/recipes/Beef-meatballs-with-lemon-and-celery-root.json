@@ -2,11 +2,11 @@
   "categories": [
     "Ground Beef"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-05-10 14:20:52",
   "created_ts": 1589120452,
   "description": "I often say that my favorite food is the sort that can, at once, comfort, surprise, and delight. This dish (as is often the case with meatballs) does all these things for me. The meatballs have all the comfort of a home-cooked meal, with the lemon and celery root providing the surprise and delight. These are lovely as they are, served with some couscous or rice to soak up the juices, or with a little bit of Greek-style yogurt on the side. The dish can be made a day in advance and kept in the fridge. Reheat before serving.",
-  "difficulty": null,
+  "difficulty": "",
   "directions": "I. Put the beef, onion, breadcrumbs, parsley, egg, allspice, 1/2 tsp salt, and some black pepper into a large bowl. Using your\rmix well, then form into about 20 balls. Each ball should weight about I ½ oz/40g.\n\r2. Put the oil into a large sauté pan with a lid and place over high heat. Add the meatballs and sear for about 5 minutes, turning so that all sides are golden brown. Transfer the meatballs to a separate plate and add the celery root, garlic, turmeric, fennel, and paprika to the pan. Cook over high heat, stirring, for 2 minutes, until the garlic has taken on a bit of color and the spices smell aromatic. Return the meatballs to the pan and add the stock, lemon juice, ½ tsp salt, and some black pepper. Bring to a boil, then simmer gently over medium-low heat, covered, for 30 minutes. Remove the lid and leave to bubble away for about 10 minutes, for the sauce to thicken up.\n\r3. Remove the pan from the heat and allow it to sit for 5 or 10 minutes. Serve, along with a final sprinkle of parsley.",
   "html": {
     "description": "<p>I often say that my favorite food is the sort that can, at once, comfort, surprise, and delight. This dish (as is often the case with meatballs) does all these things for me. The meatballs have all the comfort of a home-cooked meal, with the lemon and celery root providing the surprise and delight. These are lovely as they are, served with some couscous or rice to soak up the juices, or with a little bit of Greek-style yogurt on the side. The dish can be made a day in advance and kept in the fridge. Reheat before serving.</p>\n",
@@ -41,12 +41,12 @@
     "2": "83F705D0-C448-4E83-84E8-0A8D67DB2FC1-10588-00000102E99A5237.jpg",
     "3": "82F0CE33-B21E-466C-B645-36EFEF80AA8E-10588-00000102F48C9454.jpg"
   },
-  "prep_time": null,
+  "prep_time": "",
   "rating": 4,
   "servings": "4",
   "source": "Ottolenghi Simple",
   "source_url": null,
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "63C6D918-6027-4F87-95BD-6A4D2845F30C-4647-0000B41A34AB568A"
 }

@@ -6,7 +6,7 @@
   "created": "2020-12-13 12:39:25",
   "created_ts": 1607863165,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Rub the outside of the short ribs with salt, pepper and garlic powder. In a large skillet over high heat, brown short ribs on all sides. Transfer ribs to a slow cooker making sure you get all the juice and brown bits from skillet. Add the chicken stock, cover and cook on low for 8 hours. Add potatoes, carrots, onions and celery. Continue cooking on low for 4-6 hours. Salt and pepper to taste. Before serving, remove one cup of liquid from slow cooker and whisk in cornstarch. Add mixture back to cooker and stir. Serve in bowls with a thick slice of crusty bread.",
   "html": {
     "description": null,
@@ -31,12 +31,12 @@
   "photos_dict": {
     "1": "4908DC4D-4DBD-4BBB-80B3-0C06360A37D3-92634-0000CE310B2A2EFD.jpg"
   },
-  "prep_time": null,
+  "prep_time": "",
   "rating": 0,
   "servings": "Servings: 10",
   "source": "pauladeen.com",
   "source_url": "https://www.pauladeen.com/recipe/slow-cooker-beef-short-ribs/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "0F6BB6C3-A267-4D8A-80C0-103F1CE9DF36-42209-0000227129F0FA3A"
 }

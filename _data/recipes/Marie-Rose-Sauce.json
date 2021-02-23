@@ -5,11 +5,11 @@
     "Sauce",
     "_mine"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2021-01-22 21:36:16",
   "created_ts": 1611351376,
   "description": "Same as Thousand Island sauce",
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Combine everything except paprika\n\nEither toss shrimp or lobster or serve on the side as a dipping sauce\n\nSprinkle with paprika for flavor and color",
   "html": {
     "description": "<p>Same as Thousand Island sauce</p>\n",
@@ -27,12 +27,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": null,
+  "prep_time": "",
   "rating": 5,
   "servings": "",
   "source": null,
   "source_url": null,
-  "total_time": null,
+  "total_time": "",
   "type": "_mine",
   "uid": "B6713303-47E6-4EC6-B28A-A94F33DE95C9-31488-00001728BCEAC9EC"
 }

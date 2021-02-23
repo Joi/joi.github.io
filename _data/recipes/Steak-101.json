@@ -6,7 +6,7 @@
   "created": "2021-01-31 12:36:31",
   "created_ts": 1612096591,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "2. Salt steaks on both sides\n\nSalt the steaks liberally on both sides. You're welcome to add any other dry seasonings you'd like in this step, but keep in mind that you'll be searing the steaks to finish, so dry herbs and spices will risk burning. Save those for post-searing.\n\n3. Insert the food probe\n\nIf your steaks are slightly different thicknesses, insert the probe into the middle of the thickest steak.\n\n5. Hold warm (optional)\n\nIf you're not quite ready to proceed to searing, you can hold the steaks warm for up to an hour using this stage. For best results, as soon as you reach the probe target in the previous step, open the Oven door for 10 seconds to allow the temperature to drop more quickly. That will prevent the steaks from overshooting their core doneness.\n\n6. Remove from Oven\n\nRemove the steaks from the Oven and disconnect the probe. At this point, the steaks will look pale and gray - that's ok!\n\n7. Pat dry\n\nRemove the probe and transfer the steaks to dry paper towels. Blot both sides of the steak as dry as possible. Remember: wet foods don't brown!\n\n8. Sear 2 minutes per side\n\nAdd oil and preheat the skillet to 204°C/400°F or until you begin to see whisps of smoke from the oil. Add the aromatics and steaks to the hot skillet over high heat. Sear for 2 minutes per side, or until a golden brown crust forms. For best results, baste the hot oil in the skillet over the tops of the steak as they cook. This will produce a darker, crispier crust. Alternatively, you may sear the steaks using whatever method you prefer: on the grill, in the deep fryer, with a blowtorch, etc.\n\n9. Transfer and rest\n\nAfter searing 2 minutes per side, transfer the steaks to a paper towel-lined pan and allow the meat to rest 5 minutes before serving.\n\n10. Season, slice, and serve!\n\nOptionally season the steaks with flaky salt and pepper, or your favorite seasoning blend or sauce. Serve with your favorite accompaniments and enjoy!",
   "html": {
     "description": null,
@@ -36,7 +36,7 @@
   "servings": "2",
   "source": "oven.anovaculinary.com",
   "source_url": "https://oven.anovaculinary.com/recipe/Iz3IGzhaQS8mKwgKl5KN",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "BB22AB08-E282-431F-9042-079DA45887B3-49934-0000250A04C5668A"
 }

@@ -6,7 +6,7 @@
   "created": "2020-02-03 15:27:28",
   "created_ts": 1580743648,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Trim bottom inch of asparagus spears; discard trimmings. Peel bottom halves of spears until white flesh is exposed. Cut spears on bias into 2-inch lengths. Combine lemon zest and juice and pepper is small bowl. Melt butter in 12-inch nonstick skillet over medium-high heat. Add water, garlic, and salt and stir to combine. Add asparagus, shaking skillet to evenly distribute. Cover and cook, without stirring, for 2 minutes.\n\nUncover and continue to cook, stirring occasionally, until skillet is almost dry and asparagus is crisp-tender, 2½ to 3 minutes longer. Stir in lemon zest mixture, then transfer asparagus to serving bowl. Sprinkle asparagus with Parmesan and serve.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": null,
+  "prep_time": "",
   "rating": 0,
   "servings": "Serves 6",
   "source": "cooksillustrated.com",
   "source_url": "https://www.cooksillustrated.com/recipes/11408-pan-steamed-asparagus-with-lemon-and-parmesan",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "DCDDDC95-30FB-46A9-9C77-EF71A5F39C6F-408-00004DDD21AABD57"
 }

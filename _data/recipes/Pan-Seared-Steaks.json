@@ -2,11 +2,11 @@
   "categories": [
     "Steaks"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-03-17 22:02:24",
   "created_ts": 1584482544,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Heat heavy-bottomed, 12-inch skillet over high heat until very hot, about 3 minutes. Meanwhile, season both sides of steaks with salt and pepper.\n\nLay steaks in pan, leaving 1/4-inch of space between each; reduce heat to medium-high, and cook without moving until well browned, about 4 minutes. Using tongs, flip steaks; cook 4 minutes more for rare, 5 minutes more for medium-rare, and 6 minutes more for medium. Transfer steaks to large plate and tent with foil to keep warm while preparing one of the related sauce recipes.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": null,
+  "prep_time": "",
   "rating": 4,
   "servings": "Serves 4",
   "source": "americastestkitchen.com",
   "source_url": "https://www.americastestkitchen.com/recipes/6001-pan-seared-steaks?extcode=MCSAM10L0",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "EC1575F2-8530-4E54-8D3D-AB1FD496EF7E-6466-000004766464E1E1"
 }

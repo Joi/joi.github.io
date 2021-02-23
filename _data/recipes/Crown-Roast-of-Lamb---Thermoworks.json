@@ -2,11 +2,11 @@
   "categories": [
     "Lamb"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-07-13 20:49:10",
   "created_ts": 1594673350,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Preheat oven to 425°F (218°C).\n\nOn the side of the racks with the bones, cut a shallow slit—about ¼-inch—in the thick of the meat between each rib’s end.\n\nCut another shallow slit perpendicular to and at the end of all the bones, separating their ends from the thick meat.\n\nCover a soup can in aluminum foil and set it on your work surface.\n\nUse the soup can to curve the rib racks, bone-side out, and tie them into a circle. Tie the racks in the hollow of the bones and also in the slit you cut beneath the bones. Use a slip-knot that you can cinch down to tighten the string.\n\nRemove the soup can and adjust the shape of your crown roast so that it is mostly circular.\n\nCombine herbs, garlic, lemons zest, oil, salt, and pepper.\n\nRub roast all over with the seasoning mixture, including the bottom of the crown and deep in the slits that you cut earlier.\n\nInsert a Pro-Series® robe from a ChefAlarm into the meat in the thickest part. Set the high alarm for 125°F (52°C) for medium-rare.\n\nCap the bare bones with a sheet of foil to prevent them from burning.\n\nPlace the roast on a sheet pan and roast it until the desired temperature is reached. This should take about 25-30 minutes.\n\nAllow the roast to rest, then untie it. If you like bring it to the table filled with roasted vegetables or another stuffing that you have prepared separately.\n\nServe by slicing into chops between the ribs.",
   "html": {
     "description": null,
@@ -19,17 +19,17 @@
   "intrash": 0,
   "name": "Crown Roast of Lamb - Thermoworks",
   "notes": "LAMB ROAST DONENESS TEMPERATURE CHART\nPreferred Doneness\tDegrees F\tDegrees C\nRare\t\t\t\t120-129°F\t(49-54°C)\nMedium Rare\t\t130-134°F\t(55-57°C)\nMedium\t\t\t\t135-144°F\t(58-62°C)\nMedium Well\t\t\t145-154°F\t(63-67°C)\nWell Done\t\t\t155-164°F\t(68-73°C)",
-  "nutritional_info": null,
+  "nutritional_info": "",
   "photo": "8F6894BA-1EF6-4FDC-9392-F5C1F6D616AD-29053-00041844B562EBFB.jpg",
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": null,
+  "prep_time": "",
   "rating": 0,
-  "servings": null,
+  "servings": "",
   "source": "blog.thermoworks.com",
   "source_url": "https://blog.thermoworks.com/blog/crown-roast-of-lamb/?gclid=CjwKCAjwjLD4BRAiEiwAg5NBFpYV0Z_X92bJ1jt70QHkxlKyzQA4cgZ6w8gUOGinMba5osRApA8vlBoCiwMQAvD_BwE",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "6841B537-E74F-4F36-AAA5-1F702A69BCB7-29053-0004183AC71EA44D"
 }

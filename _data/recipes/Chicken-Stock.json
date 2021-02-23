@@ -4,11 +4,11 @@
     "Soup",
     "_mine"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-09-01 18:05:51",
   "created_ts": 1598983551,
   "description": "Keep chicken parts and veggies like leeks, celery greens and parsley stems in freezer until out of frozen chicken stock or freezer is full of frozen chicken parts. Make the stock and freeze in quart bags and make ¼ cup cubes with big ice maker mold. Use stock for everything.\n\nInspired by Nosrat's recipe in _Salt, Fat, Acid, Heat_.",
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Put chicken parts, veggies and spices in big stock pot - I use a lobster pot. Remember - **NO SALT**. Save the salt for whatever cooking you will use the stock in.\n\nPut spices in a bouquet garni bag to if you want to keep things tidy.\n\nAdd water and bring to a boil over high heat and then turn down to a simmer. Skim the foam and add the vinegar.\n\nSimmer uncovered for 6 to 8 hours. Never boil or allow to \"roll\" if you want to stock to stay clear.\n\nStrain and cool.\n\nScrape fat and freeze to use for other cooking stuff like confit.\n\nRefrigerate stock for up to 5 days and freezer for much longer. I use quart ziplock bags. Also cool to use in ice cube tray to make smaller portions for sauces.",
   "html": {
     "description": "<p>Keep chicken parts and veggies like leeks, celery greens and parsley stems in freezer until out of frozen chicken stock or freezer is full of frozen chicken parts. Make the stock and freeze in quart bags and make ¼ cup cubes with big ice maker mold. Use stock for everything.</p>\n<p>Inspired by Nosrat's recipe in <em>Salt, Fat, Acid, Heat</em>.</p>\n",
@@ -21,7 +21,7 @@
   "intrash": 0,
   "name": "Chicken Stock",
   "notes": "Chef Robert Harris suggested that the aromatics shouldn't be added until about 1 ½ hours before you're done since they don't improve with super-long heating.",
-  "nutritional_info": null,
+  "nutritional_info": "",
   "photo": "FB4ED580-DEE0-46DE-996B-53AB5BFA6916-20298-00001A85CF115FDF.jpg",
   "photo_large": "B3B7824B-78CD-411B-AADB-7A5835C97518-20298-00001A8063212962.jpg",
   "photos": [
@@ -48,12 +48,12 @@
     "3": "EF81962C-E700-4E56-8C5A-D949986C95A2-20298-00001A83FA2B3020.jpg",
     "4": "D3C4FD1B-2546-4520-8EF1-ED91F215B6E2-20298-00001A849225FBD8.jpg"
   },
-  "prep_time": null,
+  "prep_time": "",
   "rating": 5,
-  "servings": null,
+  "servings": "",
   "source": null,
   "source_url": null,
-  "total_time": null,
+  "total_time": "",
   "type": "_mine",
   "uid": "F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C"
 }

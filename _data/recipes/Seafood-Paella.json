@@ -6,7 +6,7 @@
   "created": "2020-08-18 01:41:16",
   "created_ts": 1597714876,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "1 Preheat the grill: Heat a gas grill to medium-high heat (375ºF), or light a charcoal grill and let burn until the charcoal is covered with gray ash.\n\n2 Steep the saffron: In a saucepan over medium heat, bring the stock to a boil. Add the saffron and salt. Turn off the heat and let the saffron steep for at least 15 minutes. Taste and add more salt, if needed.\n\n3 Cook the sofrito base: In a 12- to 14-inch stainless steel skillet or cast iron pan, heat the oil over medium heat on top of the stove. Add the onion and red pepper, and cook for 5 to 7 minutes, or until the onion is translucent. Stir in the garlic and chorizo.\n\n4 Assemble the ingredients by the grill: On a table next to the grill, set the skillet with the sofrito, the rice, tomatoes, infused stock, salt, peas, shrimp, mussels, and clams.\n\n5 Begin cooking the paella: Set the skillet with the sofrito on the grill. Add the rice, and cook, stirring often, for 4 to 5 minutes, or until the rice is coated with oil and lightly toasted.\n\nStir in the stock, tomatoes, and peas. Taste for seasoning and add more salt, if you like.\n\nSpread the rice evenly over the bottom of the pan. Close the grill cover and simmer the rice without stirring for 15 minutes, or until the rice absorbs most of the stock. If the mixture looks dry, pour about 1 cup of hot water over it, but do not stir.\n\n6 Add the seafood: Nestle the mussels and clams into the rice with the hinge sides up so they release their juices into the rice. Arrange the shrimp around the shellfish.\n\nCover the pan with foil, close the grill and cook for 6 to 10 minutes longer (depending on the heat of your grill), or until the rice and shrimp are both cooked through and the mussels and clams are open. (Discard any shellfish that remain tightly shut once everything else is cooked.)\n\n7 Check to see if the bottom is browned: Slip a spatula under the rice and check to see if you have achieved the elusive golden brown socarrat. If not, set the pan over the heat, uncovered, for a few minutes to lightly caramelize the bottom.\n\nSprinkle with parsley and bring the whole pan to the table for serving.",
   "html": {
     "description": null,
@@ -36,7 +36,7 @@
   "servings": "Yield: 6 servings",
   "source": "simplyrecipes.com",
   "source_url": "https://www.simplyrecipes.com/recipes/seafood_paella_on_the_grill/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "13A4D9ED-C451-44B4-8513-416C41C2F368-19898-00000D61AE4288EB"
 }

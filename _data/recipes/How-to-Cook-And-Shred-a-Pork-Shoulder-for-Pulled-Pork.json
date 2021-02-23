@@ -2,11 +2,11 @@
   "categories": [
     "Pork Shoulder"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-06-13 15:42:21",
   "created_ts": 1592062941,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Heat the oven to 325°F. Arrange a rack in the lower third of the oven and heat to 325°F.\n\nTrim the pork. Trim off any large pieces of fat from the outside of the pork shoulder, but leave small pieces and the interior fat. If using boneless pork, cut the pork into several large fist-sized pieces. If using bone-in, leave the pork as is, on the bone.\n\nSeason the pork. Sprinkle the pork with the salt, pepper, and spices if using. Rub the seasoning into the pork with your fingers so the meat is evenly coated on all sides.\n\nSear the pork (optional). If you have time, searing will deepen the final flavor of your pork and give it some textural contrast. Heat a tablepsoon or two of oil in a Dutch oven over medium-high heat. Add the pork and sear on all sides, working in batches as needed so as not to crowd the pan. For more detailed step-by-step instructions, see How To Sear Meat. If not searing, just place the pork in the Dutch oven.\n\nAdd the vegetables (if using). Onions, garlic, and other vegetables also deepen the final flavor of the pork, but are optional. If using, nestle them around the pork in the Dutch oven.\n\nAdd the liquid. Pour the liquid and liquid smoke (if using) over the pork. The pork should be only partially submerged, with some of the pork remaining above the surface of the liquid.\n\nBring to a simmer. Place the Dutch oven with the pork over medium-high heat and bring the liquid to a simmer.\n\nCover and transfer to the oven. Cover the Dutch oven and transfer the whole pot to the oven.\n\nCook for 2 to 4 hours, until fork tender. Let the pork cook undisturbed for 2 hours, then begin checking it every half hour. Total cooking time will be 2 to 4 hours, depending on the amount of pork and whether it's bone-in (which takes longer to cook). The pork is done when it is fork-tender (when the meat can be easily pierced with a fork without resistance and easily falls apart with a little pressure). If you're cooking pork on the bone, the meat should be falling off the bone. If in doubt, cook the meat another half hour; it's almost impossible to overcook meat with this method.\n\nTransfer the pork to a large bowl. Lift the pieces of pork out of the liquid and transfer to a large bowl. When cool enough to handle, use two forks or your fingers to shred the meat into pieces. Remove any large pieces of fat or bones.\n\nStrain the cooking liquid. Strain the cooking liquid into a measuring cup. The vegetables can be chopped and mixed in with the pork, if desired. Skim the fat off the top of the cooking liquid.\n\nMoisten the pork with cooking liquid or barbecue sauce (optional). For more moist and flavorful pulled pork, you can mix some of the cooking liquid back into the pork. Start with a little, mix, then add more until the pork is as wet or dry as you like. Alternatively, for barbecue pulled pork, you can mix in barbecue sauce.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": null,
+  "prep_time": "",
   "rating": 0,
   "servings": "Serves 10 to 12, makes approximately 10 cups shredded pork",
   "source": "thekitchn.com",
   "source_url": "https://www.thekitchn.com/how-to-cook-and-shred-a-pork-shoulder-for-pulled-pork-79485",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "D3A1E51B-84E9-44A4-BB85-2CF4A9B93A86-1358-000130109CDA0573"
 }

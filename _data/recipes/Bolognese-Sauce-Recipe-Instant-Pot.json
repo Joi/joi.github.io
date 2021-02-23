@@ -6,7 +6,7 @@
   "created": "2020-09-02 13:58:40",
   "created_ts": 1599055120,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Heat olive oil in the Instant Pot insert on the hottest sauté setting. Add onions, carrots, and celery, and cook until softened and lightly browned, about 8-10 minutes.\n\nAdd ground beef, pork, and pancetta to the Instant Pot with 1 teaspoon kosher salt and 1/2 teaspoon freshly-ground black pepper. Sauté, breaking up meats with a spoon, until browned and most of the juices have evaporated.\n\nAdd garlic and tomato paste to the Instant Pot, and cook for 1 minute, until fragrant. Deglaze the insert with red wine, scraping up any brown bits from the bottom. Simmer for 2-3 minutes, until most of the wine has evaporated.\n\nStir in crushed tomatoes in purée, water, and 1/4 cup chopped parsley. Bring to a simmer. Place lid on Instant pot, seal, and set the unit to HIGH pressure for 20 minutes.\n\nQuick release pressure and carefully lift lid when the float drops. Switch the Instant Pot to the lowest heat sauté setting and bring to a bubble. Simmer, uncovered, for 5-10 minutes, stirring often, until the sauce is thickened to your desired consistency.\n\nStir in heavy cream, remaining 1/4 cup chopped parsley, and ground nutmeg (if using). Season to taste with salt and pepper.\n\nServe over cooked pasta with plenty of freshly-grated cheese and a sprinkling of parsley, if desired.",
   "html": {
     "description": null,
@@ -48,10 +48,10 @@
   },
   "prep_time": "30 minutes",
   "rating": 5,
-  "servings": null,
+  "servings": "",
   "source": "stripedspatula.com",
   "source_url": "https://stripedspatula.com/bolognese-sauce-recipe-instant-pot/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "8202E24E-9C63-4DBB-A008-AFBA9C08982B-499-0000017FA2C55DFC"
 }

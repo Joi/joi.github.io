@@ -6,7 +6,7 @@
   "created": "2020-04-02 17:11:21",
   "created_ts": 1585847481,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Heat 2 tablespoons of oil in a large braising pan. Add the almonds, bread and garlic. Cook over medium heat so the garlic softens and the bread toasts but nothing burns. Scrape into a food processor and let cool for 5 minutes. Add the saffron and parsley and pulse to a coarse paste.\n\nPreheat oven to 300 degrees. Season the chicken with salt and dust with flour. Add 2 tablespoons oil to the braiser and place over medium-high heat. Add chicken and brown all sides, then remove to a plate. Wipe out the pan. Add remaining oil, the chili and onions and cook until softened. Discard the chili. Nestle chicken in the pan, pour in the wine and reduce by half.\n\nAdd the almond mixture and the broth, bring to a simmer, cover the pan and braise in the oven until the chicken is almost tender, about 40 minutes. Stir in the olives and cook until the chicken is very tender, 10 minutes more. Serve from the pan.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": null,
+  "prep_time": "",
   "rating": 4,
   "servings": "Serves 4",
   "source": "cooking.nytimes.com",
   "source_url": "https://cooking.nytimes.com/recipes/8113-chicken-with-almonds-and-green-olives?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=26",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "946A1415-F2AA-4840-B4C2-BF0974488278-9482-0000064C5993610E"
 }

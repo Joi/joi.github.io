@@ -2,11 +2,11 @@
   "categories": [
     "Pork Shoulder"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-10-24 01:24:31",
   "created_ts": 1603502671,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "In a small bowl, mix together the salt, paprika, garlic powder, onion powder, pepper, and chili powder.\n\nRemove pork roast from packaging and pat dry with a paper towel. Rub the spice mixture all over the pork roast.\n\nLay out the diced onion on the bottom of the slow cooker and then place the seasoned pork on top of the onion.\n\nCombine the juice, vinegar, honey, and tomato sauce and pour over the pork loin.\n\nCover and cook on low for 8-10 hours.\n\nRemove the pork roast from the slow cooker and place into a large bowl. Shred the pork loin with 2 forks or a kitchen mixer.\n\nStrain cooking sauce over a large bowl to remove onions. If you want to strain off the fat that accumulated prior to pouring liquid over pork, simple place liquid in the freezer for 5-10 minutes, then scoop the solidified fat off the liquid before thickening.\n\nIf you would like to thicken the barbecue sauce, turn the slow cooker to high and cook the sauce for 30 minutes.\n\nReturn the meat back to the slow cooker to stir into the juices.\n\nServe on a bun with or without coleslaw, in a lettuce wrap, on a pizza.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": null,
+  "prep_time": "",
   "rating": 0,
-  "servings": null,
+  "servings": "",
   "source": "amindfullmom.com",
   "source_url": "https://amindfullmom.com/pulled-pork-and-homemade-coleslaw/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "EA6FEA54-3211-4BD6-ACBA-885733EB3D60-7512-0002E383427C3CE3"
 }

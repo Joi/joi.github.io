@@ -3,11 +3,11 @@
     "_mine",
     "Tongue"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2021-01-21 20:05:32",
   "created_ts": 1611259532,
   "description": "Recipe is work in progress. I went very slow and low, but I think that going a little hotter might be better.",
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Preheat oven to 225ºF.\n\nSoak beef tongue in hot water with salt for awhile to remove some of the smell and blood.\n\nPut tongue and aromatics in stock in a Dutch oven and bring to boil.\n\nPut Dutch oven covered in oven.\n\nMake roux by combining butter and flour at a 1:1 weight ratio in a saucepan and mixing on low heat until roux is brownish. Do not burn.\n\n4 hours or so into the stewing, pull the tongue out of the soup. Peel and slice. Sear the slices of tongue and put back into the soup. Add tomato paste and Worcestershire sauce and put back in oven.\n\nA few hours before you think it will be done, put the potatoes, mushroom and second batch of carrots in.\n\nFinish once the tongue is fork soft.\n\nIf you want to go overnight, you can stick it in a slow cooker.\n\nRemove from heat and fold in roux and mix. Season to taste with salt and pepper.\n\nGarnish with sour cream and parsley.",
   "html": {
     "description": "<p>Recipe is work in progress. I went very slow and low, but I think that going a little hotter might be better.</p>\n",
@@ -102,12 +102,12 @@
     "8": "BCF12298-6487-4631-BD65-756E7A0EE388-2310-0000ED0F1713EC4C.jpg",
     "9": "D1544BF2-9356-4159-980F-ECA6AA290BB8-2310-0000ED0FB2100A11.jpg"
   },
-  "prep_time": null,
+  "prep_time": "",
   "rating": 4,
-  "servings": null,
+  "servings": "",
   "source": null,
   "source_url": null,
-  "total_time": null,
+  "total_time": "",
   "type": "_mine",
   "uid": "38671B20-78DF-4FD9-AFFB-C105A172BBDB-2310-0000EC521E0EC0EE"
 }

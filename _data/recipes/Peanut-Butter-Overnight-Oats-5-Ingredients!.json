@@ -6,7 +6,7 @@
   "created": "2020-03-21 23:56:28",
   "created_ts": 1584834988,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "To a mason jar or small bowl with a lid, add almond milk, chia seeds, peanut butter, and maple syrup (or other sweetener) and stir with a spoon to combine. The peanut butter doesn't need to be completely mixed with the almond milk (doing so leaves swirls of peanut butter to enjoy the next day).\n\nAdd oats and stir a few more times. Then press down with a spoon to ensure all oats have been moistened and are immersed in almond milk.\n\nCover securely with a lid or seal and set in the refrigerator overnight (or for at least 6 hours) to set/soak.\n\nThe next day, open and enjoy as is or garnish with desired toppings (see options above). See more flavor/topping suggestions in the blog post above!\n\nOPTIONAL: You can also heat your oats in the microwave for 45-60 seconds (just ensure there's enough room at the top of your jar to allow for expansion and prevent overflow), or transfer oats to a saucepan and heat over medium heat until warmed through. Add more liquid as needed if oats get too thick/dry.\n\nOvernight oats will keep in the refrigerator for 2-3 days, though best within the first 12-24 hours in our experience. Not freezer friendly.",
   "html": {
     "description": null,
@@ -26,10 +26,10 @@
   "photos_dict": {},
   "prep_time": "6 hours 5 minutes",
   "rating": 0,
-  "servings": null,
+  "servings": "",
   "source": "minimalistbaker.com",
   "source_url": "https://minimalistbaker.com/peanut-butter-overnight-oats/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "119E1982-6FAB-46AD-8A8B-D8945845E767-9255-00001EFB8739A000"
 }

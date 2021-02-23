@@ -5,8 +5,8 @@
   "cook_time": "40 mins",
   "created": "2020-11-24 10:55:11",
   "created_ts": 1606215311,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Instructions Checklist\n\nPreheat the oven to 425°. In a medium bowl, mix the butter with the capers, lemon juice and parsley and season with salt. Keep at room temperature.\n\nSeason the branzino cavities with salt and stuff 2 lemon rounds and 1 rosemary sprig in each. Season the fish with salt.\n\nIn a large, nonstick, ovenproof skillet, heat 2 tablespoons of the olive oil until shimmering. Add 2 of the branzino and cook over high heat until the skin is browned and crisp, about 3 minutes per side. Transfer the fish to a large rimmed baking sheet. Repeat with the remaining 1 tablespoon of olive oil and 2 stuffed branzino. Roast the fish in the oven for about 10 minutes, until just cooked through.\n\nServe whole or filleted, passing the caper butter at the table.",
   "html": {
     "description": null,
@@ -18,8 +18,8 @@
   "ingredients": "1 stick unsalted butter, softened\n1 tablespoon finely chopped capers\n1 tablespoon fresh lemon juice\n1 tablespoon chopped parsley\nSalt\nFour 1- to 1 1/4-pound whole branzino or striped bass, scaled and gutted\n1 lemon, sliced into 8 rounds\n4 large rosemary sprigs\n3 tablespoons extra-virgin olive oil",
   "intrash": 0,
   "name": "Roasted Branzino with Caper Butter",
-  "notes": "",
-  "nutritional_info": "",
+  "notes": null,
+  "nutritional_info": null,
   "photo": "6D9BF66C-7EFC-4AEE-9A81-942B783D6F50-11471-00000947882FD918.jpg",
   "photo_large": "681AC837-C3C3-4F73-B541-87143368AC58-11471-000009476739C86F.jpg",
   "photos": [
@@ -46,7 +46,7 @@
   "servings": "Yield: 8",
   "source": "foodandwine.com",
   "source_url": "https://www.foodandwine.com/recipes/roasted-branzino-caper-butter",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "B40DF28F-D2C8-4BC1-8E47-5009C4E843E4-68048-0000AAD508735823"
 }

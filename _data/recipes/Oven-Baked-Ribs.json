@@ -3,8 +3,8 @@
   "cook_time": "2 hours 30 minutes",
   "created": "2020-09-09 00:40:14",
   "created_ts": 1599612014,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Preheat the oven to 300ºF.\n\nIn a small bowl combine the brown sugar (if using), salt, garlic powder, red pepper flakes (if using), and black pepper.\n\nRemove the membrane from the bone side of the ribs. See video link in article above.\n\nPut ribs on a large rimmed baking sheet in a single layer. Sprinkle on all sides with the seasoning mixture.\n\nBake for 2 hours.\n\nLet ribs rest for 15 minutes. Cut into individual ribs, or cut such that 2-3 ribs are together.\n\nBrush lightly on all sides with sauce.\n\nPreheat broiler. Set grate so the meat will be about 6 inches from the heat source.\n\nBroil ribs until just starting to char, 2-5 minutes. Flip ribs and broil other side until similarly darkened in spots.",
   "html": {
     "description": null,
@@ -16,8 +16,8 @@
   "ingredients": "1 Tbsp brown sugar (optional)\n2 tsp salt\n1 tsp garlic powder\n1/2 tsp crushed red pepper flakes (optional)\n1/2 tsp. black pepper\n2–3lb racks of baby back ribs or St. Louis Style spare ribs, membrane removed\nAbout 9 ounces bottled BBQ sauce. (Look for a sweet one that has the word honey or brown sugar in the name. Here is my favorite classic recipe, and my smoky and spicy recipe, if you want homemade.)",
   "intrash": 0,
   "name": "Oven-Baked Ribs",
-  "notes": null,
-  "nutritional_info": null,
+  "notes": "",
+  "nutritional_info": "",
   "photo": "7D9ABC3C-B656-47D7-9B14-A9A75CDB6C4D-50715-0007CE79FB862AF7.jpg",
   "photo_large": null,
   "photos": [],
@@ -27,7 +27,7 @@
   "servings": "Yield: 6 servings",
   "source": "cookthestory.com",
   "source_url": "https://cookthestory.com/oven-baked-ribs/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "8E79BD58-2BBB-4914-8031-A80750F45C41-50715-0007CE78285CA52B"
 }

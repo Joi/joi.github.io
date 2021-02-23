@@ -5,8 +5,8 @@
   "cook_time": "10 mins",
   "created": "2020-07-16 18:56:55",
   "created_ts": 1594925815,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Place all dressing ingredients in a mason jar or container and mix well. After mixing, allow dressing to sit while prepping the rest of the salad so that the flavors can combine. You can also do this the day before.\n\nThinly slice the red pepper.\n\nPlace it in a bowl with the cabbage.\n\nCombine dressing and coleslaw ingredients and serve.",
   "html": {
     "description": null,
@@ -36,7 +36,7 @@
   "servings": "8",
   "source": "veggiesdontbite.com",
   "source_url": "https://www.veggiesdontbite.com/mexican-cabbage-slaw-with-cumin-lime-dressing/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "77134287-CBD0-4325-84C7-4CF8666CCC2D-29053-0004FDD9DFD38753"
 }

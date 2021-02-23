@@ -2,11 +2,11 @@
   "categories": [
     "Sausage"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-07-04 18:43:55",
   "created_ts": 1593888235,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Set your precision cooker to the desired temperature between 140ºF / 60ºC and 160°F / 71°C according to your preferred finishing texture, illustrated here and in the app.\n\nPlace the sausages inside a vacuum sealing bag or a zipper-lock bag in a single layer. Optional: Add a few tbsp / ml of beer to each bag along with 2 tsp / 10 ml of salt.\n\nSeal the bags, making sure to stop the vacuum sealer and seal the bags immediately after the air has been removed—do not let the sausages get squeezed. Alternatively, use the water displacement method: seal your zipper-lock bag almost all the way up, then gently lower it into a large pot of water, sealing off the bag just before the top is fully submerged.\n\nAdd the sausages to the water bath and cook for at least 45 minutes and up to 4 hours.\n\nRemove the sausages from the bag and discard juices. Dry sausages carefully on a paper towel-lined plate.\n\nTo finish on the stovetop, heat 1 tbsp / 15 ml of oil or butter over medium heat in a skillet until shimmering. Add sausages and cook, turning occasionally, until well-browned on all sides, about 3 minutes. Serve immediately.\n\nTo finish on the grill, grill sausages over medium heat, turning occasionally, until well-browned on all sides, about 3 minutes. Serve immediately.",
   "html": {
     "description": null,
@@ -18,8 +18,8 @@
   "ingredients": "3 lb / 1.36 kg Raw natural casing sausages such as Bratwurst or Italian\n6 oz / 180 ml Beer for cooking (optional)\n2 tsp / 10 ml Kosher Salt (optional)\n1 tbsp / 15 ml Butter or Vegetable Oil\nBuns and condiments for serving",
   "intrash": 0,
   "name": "Sous Vide Sausage",
-  "notes": null,
-  "nutritional_info": null,
+  "notes": "",
+  "nutritional_info": "",
   "photo": "C4B39337-CDA1-451C-B1F8-2FC911828754-631-00014E3BCE86958A.jpg",
   "photo_large": null,
   "photos": [],

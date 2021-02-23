@@ -2,11 +2,11 @@
   "categories": [
     "Sauce"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-06-26 11:11:46",
   "created_ts": 1593169906,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Gather all the ingredients.\n\nCombine all the ingredients in a sterilized mason jar and mix well. Steep in the refrigerator for overnight or up to a week (some restaurants steep for a month, especially if you make a big batch).\n\nAfter steeping, drain over a sieve to get rid of katsuobushi and kombu. You can use leftover kombu and katsuobushi to make homemade furikake (Japanese rice seasoning).\n\nYou can keep homemade ponzu for up to 1 month (to be safe). If you make sure to keep water away while making the process, the sauce can last for 6-12 months.",
   "html": {
     "description": null,
@@ -29,7 +29,7 @@
   "servings": "Servings: 1 cup",
   "source": "justonecookbook.com",
   "source_url": "https://www.justonecookbook.com/ponzu-sauce/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "01709B11-ED19-453F-851F-0DB48598E545-533-0000001E0CEE2435"
 }

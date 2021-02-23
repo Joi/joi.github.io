@@ -1,8 +1,8 @@
 {
   "categories": [
-    "Egg",
     "Pork",
-    "Breakfast"
+    "Breakfast",
+    "Egg"
   ],
   "cook_time": null,
   "created": "2020-02-03 22:48:31",

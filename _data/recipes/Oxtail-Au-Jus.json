@@ -3,11 +3,11 @@
     "Sauce",
     "Oxtail"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2021-02-21 14:45:50",
   "created_ts": 1613918750,
   "description": "This recipe, which can be made up to 5 days ahead, will produce a rich red wine jus that can be poured over your prime rib, along with a pile of tender pulled oxtail meat. That meat makes a perfect hors d’oeuvre for a fancy gathering. Serve it with toasted crusty bread and crunchy sea salt.\n\nMAKES ABOUT 2 CUPS JUS AND ENOUGH PULLED OXTAIL MEAT TO SERVE 8 AS AN HORS D’OEUVRE\n",
-  "difficulty": null,
+  "difficulty": "",
   "directions": "1. Heat the oil in a large Dutch oven over high heat until lightly smoking. Add the oxtails and cook, flipping and stirring the pieces occasionally, until well browned on all surfaces, about 15 minutes. Using tongs, transfer to a large plate and set aside.\n2.\tAdd the carrot, celery, and onions to the pot and cook, stirring occasionally, until starting to lightly brown, about 8 minutes. Add the wine, bay leaves, thyme, and parsley and scrape up the browned bits from the bottom of the pot, then bring to a boil and cook until the liquid is reduced by half, about 10 minutes. Add the chicken stock and return the oxtails to the pot. Bring to a boil, reduce to a bare simmer, cover, and cook until the meat is starting to fall off the bones, 3 to 3½ hours.\n3.\tUsing tongs, transfer the oxtails to a large bowl. When they are cool enough to handle, shred the meat from the bones; discard the bones. Transfer the meat to a sealable storage container.\n4.\tStrain the braising liquid through a fine-mesh strainer into a medium saucepan. Carefully skim the excess fat from the top with a ladle. Spoon a few tablespoons of the liquid over the shredded meat and season the meat to taste with salt and pepper; cover the meat and liquid and refrigerate until ready to serve. (Reheat the meat in the microwave or in a skillet before serving; see Note above.)\n5.\tShortly before serving the roast, return the strained braising liquid to a simmer and cook until reduced to 2 cups, about 15 minutes. Season to taste with salt and pepper. Serve the jus with the prime rib.",
   "html": {
     "description": "<p>This recipe, which can be made up to 5 days ahead, will produce a rich red wine jus that can be poured over your prime rib, along with a pile of tender pulled oxtail meat. That meat makes a perfect hors d’oeuvre for a fancy gathering. Serve it with toasted crusty bread and crunchy sea salt.</p>\n<p>MAKES ABOUT 2 CUPS JUS AND ENOUGH PULLED OXTAIL MEAT TO SERVE 8 AS AN HORS D’OEUVRE</p>\n",
@@ -97,12 +97,12 @@
     "8": "72350FCE-5D65-476E-9C18-622C1E3F43E4-26383-0001263674905CA5.jpg",
     "9": "7244785A-74DE-4415-B894-FECDF08A6F1C-26383-0001263726E447ED.jpg"
   },
-  "prep_time": null,
+  "prep_time": "",
   "rating": 5,
-  "servings": null,
+  "servings": "",
   "source": "The Food Lab",
   "source_url": null,
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "C7AD59DF-7961-4287-8189-C483C746C56E-26383-000125FF55081DA0"
 }

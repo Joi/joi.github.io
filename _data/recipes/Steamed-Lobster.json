@@ -2,11 +2,11 @@
   "categories": [
     "Lobster"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-06-29 10:59:10",
   "created_ts": 1593428350,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Steaming Instructions:\n\nUse a pot large enough to comfortably hold the lobsters and fill water  so it comes up sides about two inches. (Feel free to use a steaming rack to place the lobsters on or just add directly to the pot.)\n\nAdd 2 tablespoons of salt for each quart of water. If you have sea salt—even better.\n\nBring the water to a rolling boil, and put in lobsters, one at a time.  Bring water to a rolling boil over high heat. Place lobsters in the pot (head first), cover tightly, return to a boil as quickly as possible and start counting the time.\n\nSteam a lobster for 7 minutes per pound, for the first pound. Add 3 minutes per pound for each additional pound thereafter. See chart below for approximate cooking times. Regulate the heat if the froth starts to bubble over.\n\nCarefully remove lobsters from the pot with tongs. Be careful, they are very hot. Set in a large bowl for five minutes to cool before cracking.\n\nIf the roe inside a female body is blackish and appear gelatin-like, instead of the customary red, it may undercooked. Put the lobster back into the pot until the roe is red. The roe is edible, but can be rinsed out. Learn more about lobster eggs, also called tomalley.\n\nSteaming Lobster Times\n\nHow Long to Steam Lobsters? (Steaming Chart is for all lobsters, not each)\n\nLobster Size\tSteaming Times\n\n1 lb.-1-1/4 lbs.\t\t7-9 minutes\n1-1/2 lb.\t\t\t\t9-11 minutes\n2 lbs.\t\t\t\t11-12 minutes\n3 lbs.\t\t\t\t12-14 minutes\n5 lb.\t\t\t\t\t22-24 minutes\n\nCooking Clams with your lobsters? Place the netted bag of clams on top of the lobsters and steam both at the same time.",
   "html": {
     "description": null,
@@ -36,12 +36,12 @@
     "1": "2F994E8C-4BA9-4388-A263-5CFCB7BC21B3-47978-000616FFACE05284.jpg",
     "2": "33C8EF71-6C8A-49C3-AFEC-C59B59F0B0D9-5738-000002FB5D7D9D17.jpg"
   },
-  "prep_time": null,
+  "prep_time": "",
   "rating": 5,
-  "servings": null,
+  "servings": "",
   "source": null,
   "source_url": "https://lobsteranywhere.com/cooking-lobster/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "44A1BA78-B7C0-4AB8-B9A9-D3E3C584B5EE-47978-000609DDB4D1CC3B"
 }

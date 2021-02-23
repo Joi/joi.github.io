@@ -5,8 +5,8 @@
   "cook_time": "25 minutes natural release",
   "created": "2020-09-02 02:55:00",
   "created_ts": 1599015300,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Remove membrane from the beef back ribs.\n\nIn a small bowl, combine all the dry ingredients and blend well.\n\nRub the dry ingredients evenly to coat the ribs.\n\nCover and refrigerate for at least an hour - even longer for more flavor.\n\nPreheat oven to 450°\n\nPlace trivet inside the inner liner of the Instant Pot.\n\nPlace the rib rack inside the pot, curving the ribs to make them fit.\n\nPour the apple cider vinegar into the middle of the pot.\n\nClose the lid and the vent, cook on MANUAL for 25 minutes.\n\nAllow pot to perform a NATURAL RELEASE for 15 minutes.\n\nLine a baking sheet with aluminum foil and lay the ribs onto the foil.\n\nBaste with the desired amount of BBQ sauce and bake in the oven for 10-15 minutes (depending on the desired amount of crispiness).",
   "html": {
     "description": null,
@@ -18,7 +18,7 @@
   "ingredients": "1 beef rib rack, membrane removed\n2 tsp salt\n1/4 tsp pepper\n2 tsp paprika\n1 tsp onion powder\n1 tsp garlic powder\n1/4 cup sugar\n1 tsp dry mustard\n1/2 tsp cayenne\n1 cup apple cider vinegar\nBBQ Sauce, of choice",
   "intrash": 0,
   "name": "Instant Pot Beef Back Ribs",
-  "notes": null,
+  "notes": "",
   "nutritional_info": "Serving Size: 1 grams\nUnsaturated Fat: 0 grams unsaturated fat",
   "photo": "7DA85977-B721-4875-BB52-11DEFB7ED584-13002-0005AFC931D9D76D.jpg",
   "photo_large": null,
@@ -51,7 +51,7 @@
   "servings": "Yield: 4 servings",
   "source": "mamaneedscake.com",
   "source_url": "https://mamaneedscake.com/instant-pot-beef-back-ribs/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "1A74E878-5E32-4516-990D-B8BCF4897175-13002-0005AFC76486770F"
 }

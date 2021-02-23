@@ -2,11 +2,11 @@
   "categories": [
     "Salmon"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-06-13 13:33:22",
   "created_ts": 1592055202,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Sprinkle about 3/4-1 tsp salt on each salmon fillet. Wrap them with paper towels and plastic. Let them sit in the refrigerator over night.\n\nOptionally coat with oil.\n\nGrill salmon on a fish grill, 3-4 minutes each side.\n\nServe with white rice and soy sauce.",
   "html": {
     "description": null,
@@ -18,18 +18,18 @@
   "ingredients": "salmon, cut into 1\" thick fillets\nsalt\noil",
   "intrash": 0,
   "name": "Shiozake (Grilled Salted Salmon)",
-  "notes": null,
-  "nutritional_info": null,
+  "notes": "",
+  "nutritional_info": "",
   "photo": null,
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": null,
+  "prep_time": "",
   "rating": 5,
-  "servings": null,
+  "servings": "",
   "source": "based on japanesecooking101.com",
   "source_url": "https://www.japanesecooking101.com/shiozake-recipe/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "9974D32C-0BB9-41D2-B812-E24E231B5E43-1358-000128EEF8ACC2CA"
 }

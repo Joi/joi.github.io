@@ -1,15 +1,15 @@
 {
   "categories": [
-    "Beef",
     "Pasta",
+    "Beef",
     "Sauce",
     "_mine"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-09-11 21:58:08",
   "created_ts": 1599861488,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Mix tomatoes, tomato paste, basil, oregano, parsley and garlic in a bowl with immersion blender.\n\nHeat olive oil and sauté bacon. \n\nSauté onions, carrots, and celery, until soft.\n\nAdd meat, break apart and allow fluid to evaporate if any.\n\nAdd wine and deglaze and allow wine to evaporate.\n\nAdd tomato mixture and stir.\n\nPressure cook for 20 min.\n\nQuick release and then simmer on low sauté setting until thickness is right.\n\nAdd heavy cream and parmesan.\n",
   "html": {
     "description": null,
@@ -34,12 +34,12 @@
   "photos_dict": {
     "1": "2C7DEBA0-584E-491C-99E2-531EC9F06995-37413-00001BE77E34EAAB.jpg"
   },
-  "prep_time": null,
+  "prep_time": "",
   "rating": 5,
-  "servings": null,
+  "servings": "",
   "source": null,
   "source_url": null,
-  "total_time": null,
+  "total_time": "",
   "type": "_mine",
   "uid": "8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1"
 }

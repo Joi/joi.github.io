@@ -6,7 +6,7 @@
   "created": "2020-05-25 13:37:07",
   "created_ts": 1590413827,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Before cooking, allow steaks stand 30 minutes at room temperature. Then season all sides with salt and pepper.\n\nHeat a large cast-iron skillet or pan over medium-high heat. Add 1 tablespoon of oil in and swirl to coat. When pan begins smoking, lay the steaks into the pan away from you, in batches of two and cook 3 minutes on each side or until browned.\n\nReduce heat to medium-low; add 2 tablespoons of butter, 3-4 sprigs of thyme, and 3 garlic cloves to the pan. Allow the butter to foam a little and baste the steaks (use an oven mitt, hold pan handle and very carefully tilt pan toward you so butter pools in the pan, and baste steaks with a large spoon).\n\nBaste constantly while cooking for a further 1-2 minutes, or until the steaks are done to your liking. (For well done steaks, flip them a couple more times while cooking until done to your preference.)\n\nDiscard the thyme and garlic from the pan and transfer steaks to a plate. Pour the pan juices over the steaks and let rest for 5 minutes. Repeat with the remaining steaks, then remove them and let rest. (Discard the thyme and garlic, but leave the second lot of pan juices in the pan.)\n\nWhile steaks are resting, add the crushed garlic to the buttery juices in the pan. Sauté on medium heat for 30 seconds until fragrant. Add the vinegar and mushrooms and cook until soft, then add the cream. Season with salt and pepper to your taste.\n\nServe steak with the mushrooms sauce and garlic roasted potatoes.",
   "html": {
     "description": null,
@@ -33,10 +33,10 @@
   },
   "prep_time": "10 mins",
   "rating": 5,
-  "servings": null,
+  "servings": "",
   "source": "cafedelites.com",
   "source_url": "https://cafedelites.com/wprm_print/52605",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "04CBAF39-7861-485D-B195-D741D37810E8-14842-0000068686800663"
 }

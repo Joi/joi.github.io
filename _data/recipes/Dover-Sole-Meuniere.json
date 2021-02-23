@@ -5,7 +5,7 @@
   "cook_time": "30 min",
   "created": "2020-07-31 20:34:09",
   "created_ts": 1596227649,
-  "description": null,
+  "description": "",
   "difficulty": "Easy",
   "directions": "Preheat the oven to 400 degrees F.\n\nPlace the flour in a shallow dish large enough for the whole fish. Season the flour with salt and pepper. Dredge the fish to lightly coat and set aside.\n\nIn a saute pan large enough to fit the whole fish, heat the clarified butter over medium-high heat. When the fat begins to lightly smoke, place the fish in the pan and cook, without moving, until browned, about 4 minutes. Turn the fish over and repeat on the other side. Transfer the fish to the oven on a sheet tray fitted with a rack. Cook until tender and cooked through at the thickest part of the spine, 8 to 10 minutes.\n\nHeat the same saute pan with the high-fat butter it butter begins to lightly brown. Add the lemon juice (as much or as little as you like) to stop the cooking. Add the capers and finish with the parsley. Taste the sauce and season if necessary with more pepper but not salt because of the capers.\n\nRest the fish, then serve whole with the sauce poured over the top.",
   "html": {
@@ -19,7 +19,7 @@
   "intrash": 0,
   "name": "Dover Sole Meuniere",
   "notes": "Ask your butcher to clean the fish for you. It is important to not season the sauce too much before adding the capers because of their high salt content.\n\nMy Private Notes\n\nAdd a Note",
-  "nutritional_info": null,
+  "nutritional_info": "",
   "photo": "7562F3C7-9A13-4797-A9AD-2D914BE8B8D6-96025-00032423F1DDBD7A.jpg",
   "photo_large": null,
   "photos": [],
@@ -29,7 +29,7 @@
   "servings": "Yield: 4 servings",
   "source": "foodnetwork.com",
   "source_url": "https://www.foodnetwork.com/recipes/geoffrey-zakarian/dover-sole-meuniere-3185347",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "7270F200-1ACF-436B-B042-C40410A9A6A0-96025-000324221A61F300"
 }

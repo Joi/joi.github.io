@@ -5,8 +5,8 @@
   "cook_time": "15mins",
   "created": "2020-07-04 13:30:06",
   "created_ts": 1593869406,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Fill a large stock pot half full with water (use a large enough pot to hold all the corn).\n\nAdd in the cream, milk, sugar and butter.\n\nBring to a boil, then add in the corn cobs.\n\nReduce heat to a simmer and allow corn to cook for 7-8 minutes or until just tender, depending on size of corn try not to over cook the corn as it will become tough.\n\nUsing long tongs remove and place on a plate or in a bowl, then cover with foil until ready to serve.\n\nServe with butter and salt to taste.\n\nDelicious!",
   "html": {
     "description": null,
@@ -18,7 +18,7 @@
   "ingredients": "6 -8 ears corn, husks and silk removed\nwater\n1 cup milk\n1/4 cup whipping cream, unwhipped (or use 1-1/4 cups milk)\n1/3 cup sugar (can use more sugar)\n1/4 cup butter (optional, add to the water)",
   "intrash": 0,
   "name": "Kittencal's Milk Boiled Corn on the Cob",
-  "notes": null,
+  "notes": "",
   "nutritional_info": "Fat: 14.6\nCalories: 284.3\nSaturated Fat: 8.3\nSodium: 92.5\nFiber: 2.8\nSugar: 16.4\nCarbohydrate: 38\nCholesterol: 39.6\nProtein: 5.6",
   "photo": "61075E03-DC68-4A49-B022-8391DF0CF4CB-631-00013D1BEC39E5C7.jpg",
   "photo_large": null,
@@ -29,7 +29,7 @@
   "servings": "Serves: 6-8",
   "source": "food.com",
   "source_url": "https://www.food.com/recipe/kittencals-milk-boiled-corn-on-the-cob-121897",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "4D1DAA35-A990-4F80-A9E1-05BBBEB30304-631-00013D19ED1A58B7"
 }

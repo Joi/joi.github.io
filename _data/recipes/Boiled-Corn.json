@@ -2,11 +2,11 @@
   "categories": [
     "Corn"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-07-15 19:37:22",
   "created_ts": 1594841842,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Boil water in Dutch Oven.\n\nAdd ¼ cup of butter and some pepper.\n\nTurn off heat and add corn.\n\nAllow to sit for 20 min.\n\nRemove corn and season with salt.",
   "html": {
     "description": null,
@@ -31,12 +31,12 @@
   "photos_dict": {
     "1": "D688E9A8-92D0-474B-997F-39D46ACD72E7-29053-0004B19974BA446A.jpg"
   },
-  "prep_time": null,
+  "prep_time": "",
   "rating": 5,
-  "servings": null,
+  "servings": "",
   "source": null,
   "source_url": null,
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "23FE81EA-D7B3-4C76-BDFE-07336D41F990-29053-0004B181B996F693"
 }

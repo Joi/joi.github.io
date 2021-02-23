@@ -1,14 +1,14 @@
 {
   "categories": [
-    "Italian",
     "Pasta",
+    "Italian",
     "Sauce",
     "Tomato"
   ],
   "cook_time": "35 minutes",
   "created": "2020-12-16 17:55:17",
   "created_ts": 1608141317,
-  "description": "",
+  "description": null,
   "difficulty": "",
   "directions": "Pour tomatoes into a medium mixing bowl then crush all of the tomatoes well with your hands, set aside.\n\nMelt butter in a large pot slightly over medium heat. Add onions and saute until softened, about 8 minutes.\n\nMove onions over to one side of the pan, add garlic to opposite side and saute 1 minute, or until lightly golden and fragrant.\n\nPour in tomatoes and olive oil. Season with salt, add basil and submerge.\n\nBring just to a light boil then reduce heat to low and simmer until sauce has reduced and thickened slightly, stirring occasionally, abou 15 - 25 minutes.\n\nUsing tongs, remove basil and discard. Serve sauce warm with pasta and top with Parmesan or Romano cheese and basil.",
   "html": {

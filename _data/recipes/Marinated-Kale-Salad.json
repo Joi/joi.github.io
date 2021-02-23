@@ -6,7 +6,7 @@
   "created": "2020-08-03 20:51:23",
   "created_ts": 1596487883,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Tear kale into bite-size pieces (stems removed). Place in a bowl and lightly massage.\n\nThinly slice onion, and halve cherry tomatoes. Add to bowl.\n\nIn a smaller bowl, add dressing ingredients and whisk to combine.\n\nPour dressing over salad, toss well to coat, and let marinate for about 10 minutes.\n\nMeanwhile, dice avocado.\n\nTop with avocado and sunflower seeds before serving. Best eaten within a day.",
   "html": {
     "description": null,
@@ -33,10 +33,10 @@
   },
   "prep_time": "20 minutes",
   "rating": 4,
-  "servings": null,
+  "servings": "",
   "source": "thegardengrazer.com",
   "source_url": "https://www.thegardengrazer.com/2016/02/marinated-kale-salad.html",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "66DB5964-564B-458F-9DB6-E1C7083461BF-5963-00000403D175CF5E"
 }

@@ -5,8 +5,8 @@
   "cook_time": "10",
   "created": "2021-02-04 14:58:46",
   "created_ts": 1612450726,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Mix all ground spices together in a small bowl and store in a sealed jar.\n\nTo bump up the flavor and fragrance, lightly toast the amount called for in a recipe, just before using, in a dry skillet, over medium heat, stirring until fragrant and lively.",
   "html": {
     "description": null,
@@ -26,10 +26,10 @@
   "photos_dict": {},
   "prep_time": "10",
   "rating": 0,
-  "servings": "",
+  "servings": null,
   "source": "feastingathome.com",
   "source_url": "https://www.feastingathome.com/garam-masala-recipe/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "091C9703-71CD-4710-9D13-0BA79AAB8724-10686-0000065A926CC623"
 }

@@ -3,11 +3,11 @@
     "Curry",
     "Seasoning"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2021-01-15 18:56:25",
   "created_ts": 1610736985,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Lightly toast whole spices, then grind and mix all ingredients. Use who spices where available.",
   "html": {
     "description": null,
@@ -32,12 +32,12 @@
   "photos_dict": {
     "1": "A11F7F03-B770-4019-9A26-AF1B2931D454-4181-0001E276D00B9041.jpg"
   },
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
-  "servings": "",
+  "servings": null,
   "source": null,
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "4EA3C540-EED9-45D2-BA95-6B4C6A931A26-4181-0001E2348E51AA07"
 }

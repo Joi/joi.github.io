@@ -7,8 +7,8 @@
   "cook_time": "20 mins",
   "created": "2020-05-15 18:19:32",
   "created_ts": 1589566772,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "1. Season fish with 2 tablespoons of broth and salt and pepper.\n\n2. Mix together parmesan cheese, panko and parsley in a bowl.\n\n3. Coat fish with bread crumbs mixture.\n\n4. Heat 1/2 the oil in a sauté pan over medium heat.\n\n5. Place fish in pan and cook on each side for 3 minutes.\n\n6. Remove fish and wipe pan. Add remaining oil.\n\n7. Add garlic and onions and lightly sauté.\n\n8. Add remaining broth and lemon juice along with capers.\n\n9. Cook until reduced by half and remove from heat.\n\n10. Add butter and swirl until melted and creamy.\n\n11. Served on fish along with cooked brown rice.",
   "html": {
     "description": null,
@@ -20,8 +20,8 @@
   "ingredients": "1 lb. pollock fillets or other white fish\n1/2 cup vegetable broth\nSalt and pepper, to taste\n1/2 cup parmesan cheese, grated\n1/2 cup panko bread crumbs\n1/2 tsp. parsley, dried\n1/4 cup olive oil, divided\n1 tsp. garlic, chopped\n1 tsp. onions, white or yellow, chopped\n1/2 lemon, juiced\n1 Tbsp. capers, rinsed\n4 Tbsp. butter, cubed\n1 cup brown rice, cooked",
   "intrash": 0,
   "name": "Parmesan Crusted Pollock",
-  "notes": null,
-  "nutritional_info": null,
+  "notes": "",
+  "nutritional_info": "",
   "photo": "643CD037-016A-4511-8565-A9ECD53E1213-13891-0001022B077F58D3.jpg",
   "photo_large": null,
   "photos": [],
@@ -31,7 +31,7 @@
   "servings": "4",
   "source": "seafoodnutrition.org",
   "source_url": "https://www.seafoodnutrition.org/project/parmesan-crusted-pollock/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "207580F0-344A-4CB4-9B63-C99743340EEE-13891-000102267CE7FBD9"
 }

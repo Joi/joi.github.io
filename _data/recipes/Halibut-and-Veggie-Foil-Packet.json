@@ -7,7 +7,7 @@
   "cook_time": "14 minutes",
   "created": "2020-06-01 12:51:11",
   "created_ts": 1591015871,
-  "description": null,
+  "description": "",
   "difficulty": "",
   "directions": "Preheat outdoor grill to medium heat or indoor oven to 400 degrees. Prepare 4 sheets of heavy-duty aluminum foil at least 16\" x 12\". Season each halibut filet on all sides with salt and pepper then set aside.\n\nSpray the center of each piece of foil with cooking spray and add a quarter of the sliced zucchini to each sheet. Divide the onion and bell pepper evenly among each packet and season all the veggies lightly with salt and pepper.\n\nPlace one seasoned filet on top of each bed of veggies and sprinkle with your choice of chopped fresh herb and parsley. Lay 2–3 slices of lemon on top of each piece of fish and drizzle approximately 1 tsp of olive oil over the fish and veggies.\n\nFold long sides of foil up and over and bring edges together. Roll the foil together, moving downward until 1–2\" from the top of the fish. Fold both short ends together to seal the packet but make sure to leave enough space inside the packet for steam expansion.\n\nPlace packets directly on grill or on a baking sheet in the oven. Grill them 8–9 minutes or bake 12–14 minutes in the oven or until veggies are tender and fish is barely cooked through. Remove from grill or oven and carefully open packets to allow steam to escape. Enjoy!",
   "html": {
@@ -21,7 +21,7 @@
   "intrash": 0,
   "name": "Halibut and Veggie Foil Packet",
   "notes": "Need to figure out better way to test if it's done. Was overcooked a bit.",
-  "nutritional_info": null,
+  "nutritional_info": "",
   "photo": null,
   "photo_large": null,
   "photos": [],

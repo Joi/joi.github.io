@@ -2,11 +2,11 @@
   "categories": [
     "Oats"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-03-22 14:21:04",
   "created_ts": 1584886864,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Place all ingredients into a large glass container and mix until combined.\n\nCover the glass container with a lid or plastic wrap. Place in the refrigerator for at least 2 hours or overnight. Toppings can be added the night before or immediately before serving.\n\nUncover and enjoy from the glass container the next day. Thin with a little more milk or water, if desired.",
   "html": {
     "description": null,
@@ -29,7 +29,7 @@
   "servings": "1 serving",
   "source": "feelgoodfoodie.net",
   "source_url": "https://feelgoodfoodie.net/recipe/overnight-oats/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "F6337E97-25EE-4F1A-87DD-D5F7AE9AA2F2-9067-000215CFEFC65460"
 }

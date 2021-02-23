@@ -6,7 +6,7 @@
   "created": "2020-08-07 11:19:42",
   "created_ts": 1596799182,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Toast the pita bread in your toaster oven until it is crisp but not browned. Heat 3 tbsp of olive oil in a large pan. Break the pita bread into pieces, and place in the heated oil. Fry briefly until browned, tossing frequently. Add salt, pepper and 1/2 tsp of sumac. Remove the pita chips from the heat and place on paper towels to drain.\n\nIn a large mixing bowl, combine the chopped lettuce, cucumber, tomatoes, green onions with the sliced radish and parsley.\n\nTo make the lime vinaigrette, whisk together the lime juice, olive oil and spices in a small bowl.\n\nDress the salad with the vinaigrette and toss lightly. Finally, add the pita chips, and more sumac if you like, and toss one more time. Transfer to small serving bowls or plates. Enjoy!",
   "html": {
     "description": null,
@@ -36,7 +36,7 @@
   "servings": "Serves 6",
   "source": "themediterraneandish.com",
   "source_url": "https://www.themediterraneandish.com/fattoush-salad/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "4FEBFB5B-BED2-46AA-AAB2-6695964DDD04-2643-000000E5CE888C1F"
 }

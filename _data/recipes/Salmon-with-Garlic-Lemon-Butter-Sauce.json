@@ -6,7 +6,7 @@
   "created": "2020-08-21 20:55:05",
   "created_ts": 1598043305,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Remove salmon fillets from refrigerator and allow to rest at room temperature 10 minutes.\n\nMeanwhile, prepare the garlic lemon butter sauce. In a small saucepan, melt 1 tsp butter over medium heat.\n\nAdd garlic and saute until lightly golden brown, about 1 - 2 minutes. Pour in chicken broth and lemon juice.\n\nLet sauce simmer until it has reduced by half (to about 3 Tbsp), about 3 minutes. Stir in butter and honey and whisk until combined, set sauce aside.\n\nDab both sides of salmon dry with paper towels, season both sides with salt and pepper.\n\nHeat olive oil in a (heavy) 12-inch non-stick skillet over medium-high heat.\n\nOnce oil is shimmering add salmon and cook about 4 minutes on the first side until golden brown on bottom then flip and cook salmon on opposite side until salmon has cooked through, about 2 - 3 minutes longer.\n\nPlate salmon (leaving oil in pan) and drizzle each serving generously with butter sauce, sprinkle with parsley and garnish with lemon slices if desired. Serve immediately.",
   "html": {
     "description": null,
@@ -36,7 +36,7 @@
   "servings": "Servings: 4 servings",
   "source": "cookingclassy.com",
   "source_url": "https://www.cookingclassy.com/skillet-seared-salmon-with-garlic-lemon-butter-sauce/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "4C57E632-D300-4A3D-9314-48D2B086C607-2236-0000011E793EE7EE"
 }

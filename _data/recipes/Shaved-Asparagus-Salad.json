@@ -5,8 +5,8 @@
   "cook_time": "0 minutes",
   "created": "2020-07-01 14:07:31",
   "created_ts": 1593612451,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Make the shavings: Lay asparagus spears on a flat surface. With a vegetable peeler, shave each spear from the tip to the base (discard the outer peel). It takes a little practice, but it’s easy once you get the hang of it! Place the shavings in a bowl, and pat them dry to remove extra water. (You’ll have a lot of discarded pieces: you can save these and use them in a stir fry.)\n\nMake the vinaigrette: In a medium bowl, add the lemon juice. Then gradually whisk in the olive oil, 1 tablespoon at a time.\n\nServe: Toss the vinaigrette with the asparagus shavings, Parmesan shavings, kosher salt and fresh ground black pepper. Top with lemon zest (here’s how to zest it!) and a few pinches of red pepper flakes. Taste, and add additional seasonings if desired.",
   "html": {
     "description": null,
@@ -18,8 +18,8 @@
   "ingredients": "16 large asparagus spears (about 1 pound)\n1 tablespoon lemon juice, plus lemon zest to serve\n3 tablespoons extra virgin olive oil\n3/4 cup Parmesan cheese shavings (about 1.5 ounces)\n½ teaspoon kosher salt\nFreshly ground black pepper\nRed pepper flakes",
   "intrash": 0,
   "name": "Shaved Asparagus Salad",
-  "notes": null,
-  "nutritional_info": null,
+  "notes": "",
+  "nutritional_info": "",
   "photo": "A3764609-17C0-452E-BA35-574BB88D19CF-631-0000536B0B2D465D.jpg",
   "photo_large": null,
   "photos": [],
@@ -29,7 +29,7 @@
   "servings": "Yield: 3",
   "source": "acouplecooks.com",
   "source_url": "https://www.acouplecooks.com/shaved-asparagus-salad-with-parmesan/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "FA7BFE3F-3E44-40CF-A9D7-A308631AADE9-631-00005366EFA82EDF"
 }

@@ -5,8 +5,8 @@
   "cook_time": "45 mins",
   "created": "2020-04-21 18:23:04",
   "created_ts": 1587493384,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "In a big bowl mix flour, salt and yeast together. Pour water into the bowl and using a spatula mix it until it's all incorporated. Cover the bowl with plastic wrap and let it sit on your counter for 12 to 18 hours.\n\nPreheat oven to 475 F degrees. Add your cast iron pot to the oven and heat it as well until it's at 475 F degrees.\n\nRemove pot from oven and remove the lid from it.\n\nFlour your work surface really well and make sure you flour your hands really well. With your floured hands gently remove the dough from the bowl and roughly shape it into a ball. Take the ball of dough and drop it into the pot. Cover the pot with the lid and place it back in the oven.\n\nBake for 30 minutes with the lid on, after which remove the lid and bake for another 15 to 20 minutes until golden brown.\n\nRemove from the oven and let cool.",
   "html": {
     "description": null,
@@ -26,10 +26,10 @@
   "photos_dict": {},
   "prep_time": "5 mins",
   "rating": 0,
-  "servings": null,
+  "servings": "",
   "source": "jocooks.com",
   "source_url": "https://www.jocooks.com/recipes/no-knead-cast-iron-whole-wheat-bread/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "24F546B1-42B7-4D60-ABE4-CC08689C9C56-89150-0000F22507B4A841"
 }

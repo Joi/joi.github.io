@@ -8,7 +8,7 @@
   "created": "2021-01-28 12:48:58",
   "created_ts": 1611838138,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Heat oil in a pan.\n\nWhen the oil is hot, saute garlic, onion, and tomato.\n\nAdd ground pork. Cook until brown\n\nAdd shrimp and bok choy. Stir-fry for 3 to 5 minutes.\n\nPour-in chicken broth (or water). Let boil. Cover and simmer for 2 to 3 minutes.\n\nAdd fish sauce and ground black pepper.\n\nTransfer to a serving bowl. Serve.\n\nShare and enjoy!",
   "html": {
     "description": null,
@@ -43,7 +43,7 @@
   "servings": "Servings 4",
   "source": "panlasangpinoy.com",
   "source_url": "https://panlasangpinoy.com/ginisang-pechay-with-ground-pork-and-shrimp-bok-choy/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "DC15F50F-8462-4263-B376-E096923CBF5C-41652-0000201C14911B02"
 }

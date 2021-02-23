@@ -5,8 +5,8 @@
   "cook_time": "10 mins",
   "created": "2020-12-20 15:34:48",
   "created_ts": 1608478488,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Pour heavy cream into a medium sized mixing bowl. Using an electric mixer, beat until soft peaks form and mixture becomes stiff.\n\nBy hand, fold in the remaining ingredients.\n\nChill until ready to serve.\n\nIf you’ve tried this recipe, come back and let us know how it was!",
   "html": {
     "description": null,
@@ -18,7 +18,7 @@
   "ingredients": "1/2 pint heavy cream\n1 tablespoon lemon zest\n1-2 tablespoons horseradish drained (more if you want it to clear your sinuses)\n1/4 teaspoon fine sea salt\n1/8 teaspoon black pepper",
   "intrash": 0,
   "name": "Whipped Horseradish Cream Sauce",
-  "notes": null,
+  "notes": "",
   "nutritional_info": "Calories: 826kcal | Carbohydrates: 9g | Protein: 5g | Fat: 87g | Saturated Fat: 54g | Cholesterol: 324mg | Sodium: 734mg | Potassium: 214mg | Fiber: 1g | Sugar: 1g | Vitamin A: 3480IU | Vitamin C: 12.9mg | Calcium: 154mg",
   "photo": "863A7F7C-CFAC-435A-A8BD-D314E591DC39-27386-00004BB70C9636FB.jpg",
   "photo_large": null,
@@ -26,10 +26,10 @@
   "photos_dict": {},
   "prep_time": "10 mins",
   "rating": 0,
-  "servings": null,
+  "servings": "",
   "source": "savoryexperiments.com",
   "source_url": "https://www.savoryexperiments.com/horseradish-cream-sauce/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "7B5FB550-94DE-49BD-B637-98DDFDE388AF-27386-00004BB5714C9581"
 }

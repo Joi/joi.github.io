@@ -1,10 +1,10 @@
 {
   "categories": null,
-  "cook_time": null,
+  "cook_time": "",
   "created": "2021-02-04 16:00:56",
   "created_ts": 1612454456,
   "description": "In progress",
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Make dough\nRise dough\nFlatten dough ball\nAdd sauce\nBake until done",
   "html": {
     "description": "<p>In progress</p>\n",
@@ -69,12 +69,12 @@
     "8": "909D9BEE-90D7-4435-839D-01237B6AF7BB-1700-00007F94ECA955AD.jpg",
     "9": "26D4AC3D-3C72-45BA-B919-E1F40816FDC3-1700-00007F9566D66372.jpg"
   },
-  "prep_time": null,
+  "prep_time": "",
   "rating": 4,
-  "servings": null,
+  "servings": "",
   "source": null,
   "source_url": null,
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "A1E99D4A-2290-4DB8-A6FE-7D304CBE7E39-1700-00007F835E4D8814"
 }
