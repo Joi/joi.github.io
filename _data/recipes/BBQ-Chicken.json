@@ -3,11 +3,11 @@
     "Chicken",
     "_mine"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-09-07 11:35:46",
   "created_ts": 1599478546,
   "description": "Inspired by: [\"The Best Barbecue Chicken Recipe\" by J. Kenji López-Alt](https://www.seriouseats.com/recipes/2012/08/the-best-barbecue-chicken-recipe.html)",
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Spatchcock and dry brine chicken.\n\nMix coriander seed, pepper and garlic in a bowl and cover chicken a few hours before cooking.\n\nSkewer chicken through thighs and beast with one skewer to help keep it together.\n\nPut coals on one side of grill and put chicken skin side up on cooler side, legs facing hotter side. Cook with lid closed until thickest part of breast is 120ºF or so.\n\nBrush top of chicken with BBQ sauce.\n\nCook with top closed again for about 5 min until sauce starts to dry. Coat with more BBQ sauce and cover and cook until internal temperature is 135ºF - about another 5 min.\n\nFlip the bird and put skin-side down on hot side of grill. Cover underside (now facing up) of bird with BBQ sauce and cook covered until breast registers 150ºF.\n\nRest for 10 min before carving.",
   "html": {
     "description": "<p>Inspired by: <a href=\"https://www.seriouseats.com/recipes/2012/08/the-best-barbecue-chicken-recipe.html\">&quot;The Best Barbecue Chicken Recipe&quot; by J. Kenji López-Alt</a></p>\n",
@@ -37,12 +37,12 @@
     "01": "F0996122-7C1C-42E7-95B6-D6056823E31A-13411-0000096209DEE383.jpg",
     "02": "8CFA0C82-D0C4-4F26-ABBF-441CB2444555-13411-00000961FEA8CB38.jpg"
   },
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
-  "servings": "",
+  "servings": null,
   "source": null,
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": "_mine",
   "uid": "0406E117-8344-4062-A62F-FBAC97655E1C-13411-00000961DB0A0BC1"
 }

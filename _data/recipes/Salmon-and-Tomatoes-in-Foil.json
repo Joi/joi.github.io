@@ -7,7 +7,7 @@
   "created": "2020-03-16 19:01:31",
   "created_ts": 1584385291,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "For each of 4 packages, place one 12-inch-long sheet of aluminum foil on top of another. Smear top sheet with 1/2 tablespoon olive oil, and layer a fillet of salmon, 6 tomato halves, salt and pepper, 4 basil leaves and another half tablespoon oil. Seal package by folding foil onto itself and crimping edges tightly. Repeat to make other packages, and refrigerate until ready to cook, no more than 24 hours later.\n\nWhen you are ready to cook, heat oven to 500 degrees. Place packages in a roasting pan. (Or they can be cooked on top of the stove in 2 skillets over medium-high heat.) Cook 5 minutes (for medium-rare) to 8 minutes from the time the mixture starts to sizzle, or roughly 10 to 12 minutes total.\n\nLet packages rest a minute, and cut a slit along the top with a knife. Use a knife and fork to open the package. Spoon the salmon, garnish and juices onto a plate, and serve.",
   "html": {
     "description": null,
@@ -25,12 +25,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 4,
   "servings": "Yield 4 servings",
   "source": "cooking.nytimes.com",
   "source_url": "https://cooking.nytimes.com/recipes/1016252-salmon-and-tomatoes-in-foil?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=3",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "478343E5-7749-4378-BE94-DDBF5303D157-3480-00000292A2FF3684"
 }

@@ -5,8 +5,8 @@
   "cook_time": "20 mins",
   "created": "2020-07-16 01:51:33",
   "created_ts": 1594864293,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Preheat oven to 325 degrees F. Spread the pepitas in a single layer on an ungreased baking sheet. Place in the oven and toast until the pepitas turn darker (they'll be a deep goldish brown) and are fragrant, about 8 to 10 minutes. Remove from the oven and carefully transfer the pepitas to a small plate or bow. Set aside. Increase the oven temperature to 450 degrees F.\n\nOn a rimmed baking sheet (I use the same one I toasted the pepitas on to save a dish; just brush it off first), toss sweet potatoes with the olive oil, chili powder, cumin, smoked paprika, and salt, until evenly coated. Spread into an even layer and roast until browned and tender, 20 to 22 minutes, stirring once halfway though. Let cool slightly.\n\nMeanwhile, whisk together the dressing ingredients: Greek yogurt, olive oil, lime zest and juice, garlic, salt, and cumin. Taste and adjust seasoning as desired. The dressing should taste very bright and limey—it's flavor will mellow once it's tossed with the other ingredients.\n\nIn a large bowl, place the chopped romaine hearts. Drizzle with about ¼ cup of the dressing and toss to moisten. Add the sweet potatoes, beans, jalapeno, radish, and cilantro and drizzle on another ¼ cup dressing. Toss to coat. Sprinkle with tortilla strips. Enjoy, with extra dressing as desired.",
   "html": {
     "description": null,
@@ -29,7 +29,7 @@
   "servings": "Servings: 6 servings",
   "source": "wellplated.com",
   "source_url": "https://www.wellplated.com/mexican-salad/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "16B66633-422E-491A-8A4B-E5CC9024B61F-29053-0004C5EAEB5520A2"
 }

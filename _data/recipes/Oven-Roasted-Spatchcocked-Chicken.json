@@ -3,11 +3,11 @@
     "Chicken",
     "_mine"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-07-09 14:31:38",
   "created_ts": 1594305098,
   "description": "",
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Prepare the day before:\n\nSpatchcock whole chicken and dry brine the day before with salt and pepper. Use approximately ½ tsp of salt per pound of chicken. Lift skin on breast and separate and season under the skin as well.\n\nCooking:\n\nPre-heat oven to 450ºF. (Recipes range between 400 and 450ºF).\n\nOven:\n\nFlip the chicken over, coat with oil or butter and put skillet in oven.\n\nAfter 20 min or so, rotate the pan 180º. The back of the oven is supposed to be hotter.\n\nCook for less than 45 min or so until the breast is 145ºF and the legs are 160ºF.\n\nBaste occasionally with butter while roasting.\n\nRest:\n\nRemove from oven and rest for 10-15 min.\n\nCarve and Serve.",
   "html": {
     "description": null,
@@ -47,12 +47,12 @@
     "3": "6BD1D298-DC7D-4997-85F3-02D7ACE46CBF-22008-00000A5E54E2C460.jpg",
     "4": "C705FB1F-4526-4177-B221-A8F48F79BABF-22008-00000A5E5FB61826.jpg"
   },
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
-  "servings": "",
+  "servings": null,
   "source": "Joi",
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": "_mine",
   "uid": "36A76453-1BC6-44FF-A21C-1BC30580CED0-631-0002C95B214A28BC"
 }

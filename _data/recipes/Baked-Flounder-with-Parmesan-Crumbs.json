@@ -7,8 +7,8 @@
   "cook_time": "30 min",
   "created": "2020-05-08 02:17:52",
   "created_ts": 1588904272,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Step\n\nPreheat the oven to 425°. In a large baking dish, season the fish fillets with salt and pepper. Mix the Parmesan with the bread crumbs, melted butter and olive oil and sprinkle over the fillets. Bake for 15 minutes, or until the fish is cooked and the topping is golden. Let stand for 5 minutes before serving.",
   "html": {
     "description": null,
@@ -21,7 +21,7 @@
   "intrash": 0,
   "name": "Baked Flounder with Parmesan Crumbs",
   "notes": "Watch this video to learn how to fillet a fish quickly and easily.\n\nServe With\n\nFor a green vegetable, browse our best broccoli recipes, favorite spinach recipes and expert ways to cook asparagus. Buttery baked flounder is also delicious with simple steamed vegetables.",
-  "nutritional_info": "",
+  "nutritional_info": null,
   "photo": "9B01950B-A3D4-4290-8CB5-8B8E56BE3F0B-14694-000078A7E2F359A5.jpg",
   "photo_large": null,
   "photos": [],
@@ -31,7 +31,7 @@
   "servings": "Serves : 4",
   "source": "foodandwine.com",
   "source_url": "https://www.foodandwine.com/recipes/baked-flounder-parmesan-crumbs",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "E5306C77-DC0B-42C9-9123-E0A5AA64D245-14694-0000789EC2F2A2E0"
 }

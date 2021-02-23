@@ -2,11 +2,11 @@
   "categories": [
     "Salmon"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-08-14 01:52:08",
   "created_ts": 1597369928,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Dry It Carefully\n\nIn order to prevent salmon skin from sticking, it's important to start with a hot pan (more on that in a moment). Moisture left on the surface of the fish can quickly suck away heat from even a well-preheated skillet, so it's important to dry your fish carefully by pressing it between a couple of paper towels.\n\nSeason It Well\n\nSeason the salmon generously with salt and pepper, and make sure to get both sides! If you have a little time to spare, seasoning it at least 45 minutes in advance and letting it rest in the fridge up to several hours can help the fish retain more moisture as it cooks. (If you don't have at least 45 minutes, it's best to season right before cooking, to prevent moisture drawn out by the salt from interfering with a crisp skin.)\n\nPreheat Oil\n\nPreheat a thin layer of oil in a stainless steel, cast iron, or carbon steel skillet over medium-high heat until it starts to shimmer. This is the most important step. If salmon enters a pan that's too cold, it can actually form a chemical bond with the metal, making it impossible to flip without tearing up the skin. Preheating the pan and oil will rapidly set the proteins in the fish before it has a chance to start bonding.\n\nLower Heat and Add the Fish\n\nThough you want fairly high heat at the start, cooking at that temperature the entire time will lead to the salmon overcooking on its outer layers, which can cause it to turn chalky and leak unsightly white albumen. So, just before adding the fish, lower the heat under the pan to medium-low.\n\nCarefully add the fish to the pan, using your hands and lowering it away from you so that you don't accidentally hit yourself with hot oil. Remember: Hot pans can sense fear. Lay the fish in gently and confidently rather than dropping it in, which can lead to dangerous splashes.\n\nPress Gently\n\nLeft unattended, salmon skin will buckle and curl, which can make the fish cook unevenly. To avoid this, as soon as the salmon is in the pan, press gently but firmly on the back of it for about 10 seconds with a flexible, slotted fish spatula (for more information, see our guide to the best fish spatulas). If you're cooking multiple fillets at a time, add them to the pan one at a time, pressing each for 10 seconds before adding the next.\n\nCook Through on One Side Only\n\nThis is the big trick for salmon. Salmon skin typically has a thick layer of fat underneath it. This fat needs to be rendered to get the skin crisp and pleasant. Fat is also a great insulator, which means that cooking the salmon skin side down is much gentler on the flesh than cooking it with the skin facing up. I like to cook my salmon about 90% of the way through with the skin side down, in order to take advantage of the skin's insulating properties and render fat in the process.\n\nFor salmon with a nice, translucent medium-rare center, cook until an instant-read thermometer inserted into the very center of the fillet registers 120°F (49°C). This will take about six minutes for a large fillet like this.\n\nIncidentally, if you want to protect your stovetop from oil spatters, you can gently lay a paper towel over the skillet as the salmon cooks. (Just be sure the paper towel is kept well away from the flames!)\n\nFlip\n\nIf your heat management was on point, the salmon skin should be nice and crisp by the time the center of the fish has reached 120°F. This should make it easy to lift and flip. I like to use that same flexible spatula to turn the fish, and use a second spatula or a fork to help get leverage. Be gentle when flipping the fish: You don't want to damage it, nor do you want it to splash down and splatter hot oil.\n\nCook Very Briefly on Second Side\n\nBecause the salmon is pretty much cooked through already, all it needs is a quick kiss of heat on the second side to finish. Just about 15 seconds is enough.\n\nRest and Serve\n\nTransfer the salmon to a paper towel–lined plate to drain off any excess oil, and let it rest for a couple of minutes before serving.\n\nNow this is how salmon should look! Crispy and juicy.",
   "html": {
     "description": null,
@@ -18,18 +18,18 @@
   "ingredients": "More Breadcrumbs",
   "intrash": 0,
   "name": "Pan-Seared Salmon Fillets with Crispy Skin",
-  "notes": "",
-  "nutritional_info": "",
+  "notes": null,
+  "nutritional_info": null,
   "photo": "2C2732D3-C3D8-4ACB-AB5D-FE8C30BCF7E5-624-00002000BF989FA2.jpg",
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
-  "servings": "",
+  "servings": null,
   "source": "seriouseats.com",
   "source_url": "https://www.seriouseats.com/2017/01/how-to-pan-fry-salmon-fillets.html",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "7E4B4234-CEC2-4020-9A87-FE365C33289F-624-00001FFD190CC215"
 }

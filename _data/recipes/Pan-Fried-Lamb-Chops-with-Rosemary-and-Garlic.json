@@ -2,11 +2,11 @@
   "categories": [
     "Lamb"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-04-16 12:39:24",
   "created_ts": 1587040764,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Combine first 3 ingredients in small bowl. Rub about 1/4 teaspoon mixture over each side of each chop. Sprinkle chops with salt; place on plate. Cover and refrigerate at least 30 minutes and up to 4 hours.\n\nHeat 1 1/2 tablespoons oil in heavy large skillet over medium heat. Add 9 chops to skillet; cook to desired doneness, about 3 minutes per side for medium-rare. Transfer to platter; cover with foil. Repeat with remaining oil and chops. Garnish platter with rosemary sprigs, if desired.",
   "html": {
     "description": null,
@@ -18,18 +18,18 @@
   "ingredients": "2 tablespoons minced garlic\n1 1/2 tablespoons chopped fresh rosemary or 2 teaspoons dried\n1 teaspoon dried crushed red pepper\n18 small lamb rib chop\n3 tablespoons olive oil\nFresh rosemary sprigs (optional)",
   "intrash": 0,
   "name": "Pan-Fried Lamb Chops with Rosemary and Garlic",
-  "notes": "",
+  "notes": null,
   "nutritional_info": "Calories 1020\nCarbohydrates 1 g(0%)\nFat 95 g(146%)\nProtein 37 g(75%)\nSaturated Fat 40 g(199%)\nSodium 144 mg(6%)\nPolyunsaturated Fat 8 g\nFiber 0 g(1%)\nMonounsaturated Fat 41 g\nCholesterol 195 mg(65%)\nper serving (6 servings)",
   "photo": "DC010AF3-939F-46AC-B038-3FEDFA9ADC90-2334-0001CE30F84AE143.jpg",
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
   "servings": "Serves 6",
   "source": "epicurious.com",
   "source_url": "https://www.epicurious.com/recipes/food/views/pan-fried-lamb-chops-with-rosemary-and-garlic-3155",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "A14C420C-9137-424C-A2EA-412E33AF030D-2334-0001CE2B6F219C82"
 }

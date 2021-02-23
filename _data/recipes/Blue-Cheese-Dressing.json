@@ -2,11 +2,11 @@
   "categories": [
     "Sauce"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-08-02 20:25:29",
   "created_ts": 1596399929,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "In a medium bowl, use a whisk to thoroughly combine the cheese, crème fraîche, olive oil, vinegar, and garlic. Alternatively, place everything into a jar, seal the lid, and shake vigorously to combine. Taste with a leaf of lettuce, then add salt and adjust acid as needed.\r\rRefrigerate leftovers, covered, for up to 3 days.\r\rIdeal for Belgian endive, chicories, Iceberg wedges, Little Gem and romainelettuce. This dressing also works beautifully as sauce for steak or dip for carrots and cucumbers.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 0,
-  "servings": "",
+  "servings": null,
   "source": "Salt, Fat, Acid, Heat",
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "CDF030C6-1C2A-4BF6-95CA-72A7FEBC9DFA-96025-0003C0D2A47CF20F"
 }

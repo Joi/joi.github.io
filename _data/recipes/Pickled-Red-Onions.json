@@ -6,8 +6,8 @@
   "cook_time": "5 minutes",
   "created": "2021-01-23 17:18:33",
   "created_ts": 1611422313,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Combine shaking vigorously then refrigerate 2-3 days",
   "html": {
     "description": null,
@@ -27,10 +27,10 @@
   "photos_dict": {},
   "prep_time": "5 minutes",
   "rating": 0,
-  "servings": "",
+  "servings": null,
   "source": "foodfidelity.com",
   "source_url": "https://www.foodfidelity.com/pickled-red-onions/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "93B60554-B31A-43A5-8C10-2459B825CD13-60918-00006011EB1DCCDB"
 }

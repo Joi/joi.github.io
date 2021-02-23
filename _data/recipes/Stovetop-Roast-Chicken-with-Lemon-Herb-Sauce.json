@@ -2,11 +2,11 @@
   "categories": [
     "Chicken"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-04-02 17:15:00",
   "created_ts": 1585847700,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "FOR THE CHICKEN: Pat chicken dry and season with salt and pepper. Heat 2 teaspoons oil in 12-inch nonstick skillet over medium-high heat until shimmering. Add chicken pieces skin-side down and cook without moving until golden brown, 5 to 8 minutes.\n\nUsing tongs, flip chicken pieces skin-side up. Reduce heat to medium-low, add 3/4 cup broth to skillet, cover, and cook until instant-read thermometer inserted into thickest part of chicken registers 155 degrees for breasts and 170 degrees for legs and thighs, 10 to 16 minutes (smaller pieces may cook faster than larger pieces). Transfer chicken to plate, skin-side up.\n\nPour off liquid from skillet into 2-cup measuring cup and reserve. Using tongs, wipe skillet with paper towels. Add remaining teaspoon oil to skillet and heat over medium-high heat until oil is shimmering. Return chicken pieces skin-side down and cook undisturbed until skin is deep golden brown and crisp and it reaches 160 degrees for breasts and 175 degrees for legs and thighs, 4 to 7 minutes. Transfer to serving platter and tent loosely with foil. Using spoon, skim fat from reserved cooking liquid and add enough broth to measure 3/4 cup.\n\nFOR THE SAUCE: Heat oil in now-empty skillet over low heat. Add shallot and cook, stirring frequently, until softened, about 1 minute. Add flour and cook, stirring constantly, 30 seconds. Increase heat to medium-high, add reserved cooking liquid, and bring to simmer, scraping skillet bottom with wooden spoon to loosen browned bits. Simmer rapidly until reduced to 1/2 cup, 2 to 3 minutes. Stir in any accumulated juices from resting chicken; return to simmer and cook 30 seconds. Off heat, whisk in lemon juice, parsley, chives, and butter; season with salt and pepper. Pour sauce around chicken and serve immediately.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
   "servings": "Serves 4",
   "source": "cooksillustrated.com",
   "source_url": "https://www.cooksillustrated.com/recipes/4508-stovetop-roast-chicken-with-lemon-herb-sauce?incode=MCSCM00L0&ref=new_search_experience_14",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "1CC279D0-B28C-4D56-89AD-5F9651D51E75-9482-0000064D90F7DDA4"
 }

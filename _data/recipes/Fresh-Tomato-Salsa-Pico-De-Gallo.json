@@ -2,11 +2,11 @@
   "categories": [
     "Sauce"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-08-16 15:33:38",
   "created_ts": 1597592018,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "1 Prep the ingredients: Roughly chop the tomatoes, chiles, and onions. Be careful while handling the chile peppers. Use a plastic baggie or disposable gloves to handle them, or wash your hands thoroughly with soap and hot water after handling and avoid touching your eyes for several hours.\n\nSet aside some of the seeds from the peppers. If the salsa isn't hot enough, you can add a few for more heat.\n\n2 Make the salsa: Place all of the ingredients in the bowl of a food processor fitted with the blade. Pulse only a few times, just enough to finely dice the ingredients and not enough to purée. If you don't have a food processor, you can finely dice by hand.\n\n3 Adjust seasonings: Place in a serving bowl. Add salt and pepper to taste. If the chilies make the salsa too hot, add some more chopped tomato. If it's not hot enough, carefully add a few of the seeds from the chilies, or add a little more ground cumin.\n\nLet the salsa sit for an hour (room temperature or chilled) for the flavors to combine.\n\n4 Serve: Serve with chips, tortillas, tacos, burritos, tostadas, quesadillas, pinto or black beans. The salsa will keep refrigerated for up to 5 days.",
   "html": {
     "description": null,
@@ -18,8 +18,8 @@
   "ingredients": "2 to 3 medium sized fresh tomatoes (1 to 1 1/2 pounds), stems removed\n1/2 red onion\n2 serrano chiles or 1 jalapeño chile (stems, ribs, seeds removed), less or more to taste\nJuice of one lime\n1/2 cup chopped cilantro\nSalt and pepper to taste\nPinch dried oregano (crumble in your fingers before adding), more to taste\nPinch ground cumin, more to taste",
   "intrash": 0,
   "name": "Fresh Tomato Salsa (Pico De Gallo)",
-  "notes": null,
-  "nutritional_info": null,
+  "notes": "",
+  "nutritional_info": "",
   "photo": "3CF0DC89-AC0A-4036-9938-754597BF95D2-13578-0000048A3F84B36A.jpg",
   "photo_large": null,
   "photos": [],

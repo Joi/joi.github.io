@@ -5,8 +5,8 @@
   "cook_time": "10 mins",
   "created": "2020-07-13 13:45:22",
   "created_ts": 1594647922,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Instructions Checklist\n\nIn a blender, combine brown sugar, ketchup, vinegar, water and Worcestershire sauce. Season with mustard, paprika, salt, pepper, and hot pepper sauce. Blend until smooth.",
   "html": {
     "description": null,
@@ -29,7 +29,7 @@
   "servings": "Servings: 32",
   "source": "allrecipes.com",
   "source_url": "https://www.allrecipes.com/recipe/51226/a-very-popular-bbq-sauce/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "6CF0D8FC-A8FE-4D31-A163-38D715503D3D-29053-000401226697C402"
 }

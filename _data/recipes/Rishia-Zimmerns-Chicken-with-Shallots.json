@@ -7,7 +7,7 @@
   "created": "2020-02-02 14:51:28",
   "created_ts": 1580655088,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Rinse chicken thighs in water, and pat them very dry with paper towels. Sprinkle over them the flour, salt and pepper.\n\nMelt the butter in a large, heavy-bottomed pot or skillet set over medium-high heat. When the butter foams, cook the chicken, in batches if necessary, until well browned and crisp on all sides. Set aside.\n\nAdd the whole shallots to the pot and sauté them in the butter and chicken fat until they begin to soften and caramelize, approximately 10 to 12 minutes. Add the wine to deglaze the pot, stir with a large spoon, then add the mustard and tarragon, then the chicken thighs. Cover the pot, turn the heat to low and simmer for 30 minutes.\n\nRemove the lid, and allow the sauce to reduce and thicken, 15 to 20 minutes.\n\nAdd the cherry tomatoes to the pot, stir lightly to combine and serve immediately.",
   "html": {
     "description": null,
@@ -32,12 +32,12 @@
   "photos_dict": {
     "1": "624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg"
   },
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
   "servings": "Yield 4 to 6 servings",
   "source": "cooking.nytimes.com",
   "source_url": "https://cooking.nytimes.com/recipes/1016135-rishia-zimmerns-chicken-with-shallots?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "57A666F1-E339-4107-80E4-F9F286673626-39996-000020226ACB939A"
 }

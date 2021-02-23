@@ -5,8 +5,8 @@
   "cook_time": "6 mins",
   "created": "2020-07-01 18:18:44",
   "created_ts": 1593627524,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "In a large cast iron skillet, heat 1/4 cup of olive oil and 1 tbsp of unsalted butter. Turn heat to medium-high and add the garlic, saute briefly, tossing regularly, until fragrant (this should take seconds, garlic should only gain a little color, do not burn it.)\n\nPat calamari dry and add to the pan, cook for 1 to 2 minutes over medium-high heat (calamari will release some liquid.) Add white wine and lime juice. Cook briefly to warm though (do not overcook or calamari will turn rubbery. You are just looking for the sauce to warm through) Season with salt and pepper. If you like a little spice, add a pinch of cayenne.\n\nFinally, stir in the fresh dill. Remove from heat and serve (see serving suggestions in notes)",
   "html": {
     "description": null,
@@ -19,7 +19,7 @@
   "intrash": 0,
   "name": "Easy Calamari Recipe with Garlic-Lime Sauce",
   "notes": "Serve as Appetizer: To serve as a warm appetizer, transfer calamari to a serving platter, and serve with slices for fresh French baguette or crostini (it will serve 6 to 8).\n\nServe as Dinner: Serve this calamari for dinner as part of a big seafood feast next to other dishes like roasted red snapper; roasted mackerel; Sicilian fish stew; or baked salmon. For a simple dinner, just serve this saucy calamari over your favorite grain, pasta, or Lebanese rice. Add a large fattoush salad to complete the meal.\n\nCook’s Tip for Leftover Calamari: This recipe is best enjoyed immediately. Leftovers can be stored in the fridge for 2 nights or so, but I don’t recommend reheating calamari; overcooked calamari can be rubbery.",
-  "nutritional_info": "",
+  "nutritional_info": null,
   "photo": "82D62FC1-1FDA-4F39-898A-42B9E6CC0AE9-631-000061202E23EEEF.jpg",
   "photo_large": null,
   "photos": [],
@@ -29,7 +29,7 @@
   "servings": "Serves 4",
   "source": "themediterraneandish.com",
   "source_url": "https://www.themediterraneandish.com/15-minute-calamari-recipe/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "2831FFFC-E6FD-4540-8340-DABBF6E34558-631-0000611A318FD25C"
 }

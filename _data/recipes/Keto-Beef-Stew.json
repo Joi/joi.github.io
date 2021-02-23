@@ -3,11 +3,11 @@
     "Beef",
     "Short Ribs"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-03-27 18:07:00",
   "created_ts": 1585332420,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Rub the beef pieces all over with 1-1/2 teaspoons salt and 1/2 teaspoon pepper; let sit at room temperature for 30 to 60 minutes.\n\nHeat the olive oil in a Dutch oven or large pot with a lid over medium heat. Working in batches, add the beef pieces to the pot in one layer so they’re not touching and sear on all sides until golden brown, 5 to 7 minutes. Remove and set aside on a plate. Repeat with all the beef.\n\nKeeping the pot over medium heat, add the shallots and cook, stirring often, until softened, 1 to 2 minutes. Add the celery and mushrooms and cook, stirring often, for 3 minutes. Add the garlic powder, thyme, and Worcestershire sauce and cook for 1 minute more, stirring and scraping the brown bits off the bottom of the pot with a spoon. Add the beef broth and continue scraping up the brown bits for 1 minute. Return the beef and any of its juices to the pot, and bring to a boil. Reduce to a simmer, cover, and cook for 45 minutes.\n\nAdd the green beans and simmer for 10 minutes more with the lid slightly open. Stir in the radishes and simmer 5 minutes more.\n\nGradually sprinkle in the xanthan gum, mixing until incorporated. Season to taste with salt and pepper. Garnish with the parsley and serve.",
   "html": {
     "description": null,
@@ -25,12 +25,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 0,
   "servings": "Serving: 1 cup",
   "source": "keto-mojo.com",
   "source_url": "https://keto-mojo.com/recipes/keto-beef-stew/?utm_campaign=My%20Mojo%20Morsels%20-%203.27.20%20%28KNZ7xk%29&utm_medium=email&utm_source=%5BMyMojoMorsels%5D%20Engaged%20With%20Food%2FRecipes&_ke=eyJrbF9lbWFpbCI6ICJqb2lAaXRvLmNvbSIsICJrbF9jb21wYW55X2lkIjogIkxwSjhTZSJ9",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "70775420-6676-49E8-9A5C-0059FF5F103D-16595-000012FEE9E67A5A"
 }

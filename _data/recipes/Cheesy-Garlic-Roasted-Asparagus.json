@@ -5,8 +5,8 @@
   "cook_time": "15 mins",
   "created": "2020-07-01 14:09:34",
   "created_ts": 1593612574,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Preheat oven to 425°F (220°C). Lightly grease a baking sheet with nonstick cooking oil spray.\n\nArrange asparagus on baking sheet. Set aside.\n\nIn a small bowl mix together olive oil, garlic, salt and pepper. Drizzle the oil mixture over the asparagus and toss to evenly coat.\n\nBake for 10-15 minutes until vibrant and just beginning to get tender.\n\nRemove from oven and top with the mozzarella cheese. Return to oven and broil (or grill) until the cheese melts and becomes golden (about 4-5 minutes).\n\nAdjust salt and pepper, if needed. Serve immediately.",
   "html": {
     "description": null,
@@ -18,7 +18,7 @@
   "ingredients": "1 pound (500 g) asparagus spears, woody ends removed\n3 tablespoons olive oil\n1 tablespoon minced garlic (or 4 cloves garlic, minced)\n3/4 teaspoon Kosher salt\n1/4 teaspoon fresh cracked black pepper\n1 1/4 cup shredded mozzarella cheese",
   "intrash": 0,
   "name": "Cheesy Garlic Roasted Asparagus",
-  "notes": "",
+  "notes": null,
   "nutritional_info": "Calories: 226kcal | Carbohydrates: 6g | Protein: 10g | Fat: 18g | Saturated Fat: 6g | Cholesterol: 27mg | Sodium: 658mg | Potassium: 270mg | Fiber: 2g | Sugar: 2g | Vitamin A: 1095IU | Vitamin C: 7.5mg | Calcium: 211mg | Iron: 2.7mg",
   "photo": "6DC2225D-722B-4194-BEAB-638821A21A8C-631-000053877C36ACF7.jpg",
   "photo_large": null,
@@ -29,7 +29,7 @@
   "servings": "Serves: - 6 people",
   "source": "cafedelites.com",
   "source_url": "https://cafedelites.com/cheesy-garlic-roasted-asparagus/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "2E749584-4AE4-41F8-8804-29123F35C8F4-631-00005385575AFFE6"
 }

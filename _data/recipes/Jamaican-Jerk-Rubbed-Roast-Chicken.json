@@ -2,11 +2,11 @@
   "categories": [
     "Chicken"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2021-01-21 15:15:37",
   "created_ts": 1611242137,
   "description": "Jerk-style chicken is a specialty of Jamaica, where the chicken gets a wonderful smoky-sweet flavor from being slow-cooked over fresh pimento wood or laurel wood— the tree that bay leaves come from. We don’t have access to those ingredients in our kitchens, but we do have what it takes to make the spicy allspice-scented marinade. Rather than roast the bird over laurel wood, I do the next best thing: roast it surrounded on all sides by thyme and bay leaves. Using the butterflied method gets you gorgeously crisp, charred skin.",
-  "difficulty": null,
+  "difficulty": "",
   "directions": "1. Combine the allspice, pepper, nutmeg, cinnamon, garlic, scallion, ginger, chile, vinegar, soy sauce, salt, and oil in the bowl of a food processor or blender and blend until a rough wet paste is formed.\n\n2. Separate the chicken skin from the breasts (see here). Spread the spice mixture evenly all over the chicken and under the skin. Roast according to the Roasted Butterflied Chicken recipe (here), skipping step 2 and placing the thyme sprigs and bay leaves inside the cavity, under the skin, and over the chicken before you put it in the oven. Discard the thyme stems and bay leaves before serving.",
   "html": {
     "description": "<p>Jerk-style chicken is a specialty of Jamaica, where the chicken gets a wonderful smoky-sweet flavor from being slow-cooked over fresh pimento wood or laurel wood— the tree that bay leaves come from. We don’t have access to those ingredients in our kitchens, but we do have what it takes to make the spicy allspice-scented marinade. Rather than roast the bird over laurel wood, I do the next best thing: roast it surrounded on all sides by thyme and bay leaves. Using the butterflied method gets you gorgeously crisp, charred skin.</p>\n",
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": null,
+  "prep_time": "",
   "rating": 0,
-  "servings": null,
+  "servings": "",
   "source": "The Food Lab",
   "source_url": null,
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "ED2ACF1D-B1A7-475B-A1AC-4DF75FB23618-4181-0003ADA39FDF111B"
 }

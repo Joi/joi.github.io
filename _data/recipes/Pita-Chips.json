@@ -5,8 +5,8 @@
   "cook_time": "7 mins",
   "created": "2020-06-25 16:36:57",
   "created_ts": 1593103017,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Instructions Checklist\n\nPreheat oven to 400 degrees F (200 degrees C).\n\nCut each pita bread into 8 triangles. Place triangles on lined cookie sheet.\n\nIn a small bowl, combine the oil, pepper, salt, basil and chervil. Brush each triangle with oil mixture.\n\nBake in the preheated oven for about 7 minutes, or until lightly browned and crispy. Watch carefully, as they tend to burn easily!",
   "html": {
     "description": null,
@@ -18,7 +18,7 @@
   "ingredients": "12 pita bread pockets\n½ cup olive oil\n½ teaspoon ground black pepper\n1 teaspoon garlic salt\n½ teaspoon dried basil\n1 teaspoon dried chervil",
   "intrash": 0,
   "name": "Pita Chips",
-  "notes": "",
+  "notes": null,
   "nutritional_info": "125.3 calories; 3.2 g protein; 17.7 g carbohydrates; 0 mg cholesterol; 245.9 mg sodium. Full Nutrition",
   "photo": "562D275D-06C0-4006-94C8-54AABCBF7526-22544-0004E1FC8729F7B1.jpg",
   "photo_large": null,
@@ -29,7 +29,7 @@
   "servings": "Servings: 24",
   "source": "allrecipes.com",
   "source_url": "https://www.allrecipes.com/recipe/14827/pita-chips/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "D06BD415-2D41-4CB1-A8D1-7135509AC066-22544-0004E1F97748FAF9"
 }

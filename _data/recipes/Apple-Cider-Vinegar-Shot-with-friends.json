@@ -5,7 +5,7 @@
   "cook_time": "5 mins",
   "created": "2020-05-04 22:44:06",
   "created_ts": 1588632246,
-  "description": null,
+  "description": "",
   "difficulty": "",
   "directions": "Mix ingredients in a glass or small jar and add about an ounce of warm water. Drink all at once before eating in the morning.",
   "html": {
@@ -19,7 +19,7 @@
   "intrash": 0,
   "name": "Apple Cider Vinegar Shot with friends",
   "notes": "Based on Don't Waste The Crumbs Recipe",
-  "nutritional_info": null,
+  "nutritional_info": "",
   "photo": "B0989B48-AABF-4E07-8D0E-79214732BAD7-1406-0000778A3DE4A26A.jpg",
   "photo_large": null,
   "photos": [],

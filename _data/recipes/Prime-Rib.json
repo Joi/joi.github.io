@@ -7,7 +7,7 @@
   "created": "2020-08-20 16:02:42",
   "created_ts": 1597939362,
   "description": "Inspired by Food Lab.",
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Dry brine prime rib the day before.\n\nSet oven to lowest temperature. (170ºF on Wolf or 135ºF Sous Vide Mode 100% humidity on Anova Precision Oven)\n\nRoast prime rib on rack until internal temperature hits 130ºF (medium rare) and remove from oven. (5 hours for 3 pound prime rib in my oven which hovered around 160ºF on \"roast\" setting.)\n\nTent with foil and rest for 30 min - 1 ½ hours.\n\nIf it finishes more than 1 ½ hours before serving, remove from oven and put back into oven for 45 min at 200ºF before searing to reheat.\n\nSear at max temperature in oven (550ºF on Wolf) for 6 - 10 min.\n\nSlice and serve.",
   "html": {
     "description": "<p>Inspired by Food Lab.</p>\n",
@@ -64,10 +64,10 @@
   },
   "prep_time": "15 min",
   "rating": 5,
-  "servings": "",
+  "servings": null,
   "source": null,
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": "_mine",
   "uid": "1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259"
 }

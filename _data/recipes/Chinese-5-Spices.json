@@ -2,11 +2,11 @@
   "categories": [
     "Seasoning"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2021-01-15 19:01:31",
   "created_ts": 1610737291,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Toast spices in pan, then grind.\n\nStore in airtight container.",
   "html": {
     "description": null,
@@ -31,12 +31,12 @@
   "photos_dict": {
     "1": "706A3B1C-E667-42CC-BD8C-2D6D61A697AC-4181-0001E289F8DE5CC0.jpg"
   },
-  "prep_time": null,
+  "prep_time": "",
   "rating": 5,
-  "servings": null,
+  "servings": "",
   "source": null,
   "source_url": null,
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "E2D3A29F-1034-4BD7-9633-0EF992A95660-4181-0001E27BEC161880"
 }

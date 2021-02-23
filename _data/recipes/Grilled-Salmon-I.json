@@ -5,8 +5,8 @@
   "cook_time": "16 mins",
   "created": "2020-06-16 15:14:26",
   "created_ts": 1592320466,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Instructions Checklist\n\nSeason salmon fillets with lemon pepper, garlic powder, and salt.\n\nIn a small bowl, stir together soy sauce, brown sugar, water, and vegetable oil until sugar is dissolved. Place fish in a large resealable plastic bag with the soy sauce mixture, seal, and turn to coat. Refrigerate for at least 2 hours.\n\nPreheat grill for medium heat.\n\nLightly oil grill grate. Place salmon on the preheated grill, and discard marinade. Cook salmon for 6 to 8 minutes per side, or until the fish flakes easily with a fork.",
   "html": {
     "description": null,
@@ -18,7 +18,7 @@
   "ingredients": "1 ½ pounds salmon fillets\n½ teaspoon lemon pepper to taste\n¼ teaspoon garlic powder to taste\n½ teaspoon salt to taste\n⅓ cup soy sauce\n⅓ cup brown sugar\n⅓ cup water\n¼ cup vegetable oil",
   "intrash": 0,
   "name": "Grilled Salmon I",
-  "notes": "",
+  "notes": null,
   "nutritional_info": "317.9 calories; 20.5 g protein; 13.2 g carbohydrates; 55.8 mg cholesterol; 1091.8 mg sodium. Full Nutrition",
   "photo": "1B028C65-6E89-4F11-A1FA-ADBF3E159BD6-1358-00021A48877A9FCA.jpg",
   "photo_large": null,
@@ -29,7 +29,7 @@
   "servings": "Servings: 6",
   "source": "allrecipes.com",
   "source_url": "https://www.allrecipes.com/recipe/12720/grilled-salmon-i/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "E83D1501-A3B9-45C3-B20E-443300F6087A-1358-00021A4603DDCF39"
 }

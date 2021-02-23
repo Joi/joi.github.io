@@ -2,11 +2,11 @@
   "categories": [
     "Sauce"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-07-15 16:45:13",
   "created_ts": 1594831513,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Heat oil to 360°F. Add sage leaves in batcges. Stir when bubbles die down and pull them out with a slotted spoon. (About 30 sec.) put on baking sheet. Dry and sprinkle with salt.\n\nCrumble Sage into salsa.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 0,
-  "servings": "",
+  "servings": null,
   "source": null,
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "AEB4BC7F-C507-498F-AD56-F3F1EA6A1CED-14775-000009F4FCAEEA00"
 }

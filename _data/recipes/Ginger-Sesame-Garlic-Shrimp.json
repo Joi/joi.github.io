@@ -5,8 +5,8 @@
   "cook_time": "10 minutes",
   "created": "2020-08-01 15:27:30",
   "created_ts": 1596295650,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "1 Marinate the shrimp: In a medium bowl whisk together the soy sauce, seasoned rice vinegar, and brown sugar until the sugar has dissolved. Then whisk in the olive oil, sesame oil, minced garlic, and grated ginger. Place the shrimp in the bowl with the marinade. Toss to coat with the marinade and chill until ready to cook.\n\n2 Toast sesame seeds: If you haven't already done so, toast the sesame seeds in a small sauté pan on medium high heat until lightly browned.\n\n3 Stir-fry shrimp and green onions: Heat cooking oil in a large stick-free sauté pan or wok (can use seasoned cast iron) on high heat. When the oil is shimmering hot, almost smoking, use a slotted spoon to move the shrimp from the marinade into the hot pan. (Watch out, it will splatter.) Stir-fry for a minute.\n\nAdd half of the sliced green onions. Continue to stir fry, turning the individual shrimp over if necessary, until the shrimp are pink and just cooked through. No more than 2 minutes max total cooking time, a minute on each side.\n\n4 Reduce marinade: Remove shrimp from pan and transfer to a serving bowl. Place the remaining marinade in the hot sauté pan and simmer it until it has reduced to a syrup.\n\n5 Pour sauce over shrimp, sprinkle with sesame seeds, green onions: Pour over the shrimp. Toss to coat. Sprinkle the shrimp with toasted sesame seeds and remaining green onions.\n\nServe immediately with rice, soba noodles, rice noodles, bok choy, spinach, broccoli, or asparagus.",
   "html": {
     "description": null,
@@ -18,8 +18,8 @@
   "ingredients": "Marinade:\n1/4 cup soy sauce (use gluten-free soy sauce for gluten-free version)\n2 tablespoons seasoned rice vinegar\n2 teaspoons brown sugar\n2 tablespoons extra virgin olive oil\n1 teaspoon dark sesame oil\n3 cloves garlic, minced (about 1 Tbsp)\n1 Tbsp grated ginger\nShrimp:\n1 pound 16-20 count shrimp, peeled and deveined\n1 tablespoon peanut oil or canola oil\n3 green onions, including onion greens, sliced on the diagonal\n1 Tbsp sesame seeds, toasted",
   "intrash": 0,
   "name": "Ginger Sesame Garlic Shrimp",
-  "notes": "",
-  "nutritional_info": "",
+  "notes": null,
+  "nutritional_info": null,
   "photo": "CCB63F1D-D3F0-4143-BC01-6C23ACFE7F95-96025-000361FC0203B8AB.jpg",
   "photo_large": null,
   "photos": [],
@@ -29,7 +29,7 @@
   "servings": "Serves 2 to 3",
   "source": "simplyrecipes.com",
   "source_url": "https://www.simplyrecipes.com/recipes/ginger_sesame_garlic_shrimp/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "CE5FA6A7-C9CA-4754-A273-4A972D908B91-96025-000361F98DBB2F68"
 }

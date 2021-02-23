@@ -5,8 +5,8 @@
   "cook_time": "15 mins",
   "created": "2020-07-01 14:08:36",
   "created_ts": 1593612516,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Instructions Checklist\n\nPreheat an oven to 425 degrees F (220 degrees C).\n\nPlace the asparagus into a mixing bowl, and drizzle with the olive oil. Toss to coat the spears, then sprinkle with Parmesan cheese, garlic, salt, and pepper. Arrange the asparagus onto a baking sheet in a single layer.\n\nBake in the preheated oven until just tender, 12 to 15 minutes depending on thickness. Sprinkle with lemon juice just before serving.",
   "html": {
     "description": null,
@@ -29,7 +29,7 @@
   "servings": "Servings: 4",
   "source": "allrecipes.com",
   "source_url": "https://www.allrecipes.com/recipe/214931/oven-roasted-asparagus/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "7C1488CD-F7E2-4D05-A497-F94B432DC770-631-00005377E8F6DAA0"
 }

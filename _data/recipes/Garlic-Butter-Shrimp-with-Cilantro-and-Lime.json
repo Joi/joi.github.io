@@ -6,7 +6,7 @@
   "created": "2020-08-23 11:26:58",
   "created_ts": 1598182018,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "COOK SHRIMP\n\nPat the shrimp dry then season with 1/4 teaspoon of salt and fresh ground black pepper.\n\nUse a microplane to zest the lime and set aside. Cut the zested lime in half ready for the sauce later in the recipe.\n\nAdd one tablespoon of the butter to a wide skillet. Save the remaining two tablespoons for later.\n\nPlace the skillet with butter over medium heat then add the garlic and coriander. Stir the garlic around the pan until the butter melts and is bubbling; about 1 minute.\n\nAdd the shrimp, nestling them into the pan so that they are in one layer. A few shrimp stacked on top of each other is okay. Cook until the shrimp start to turn pink, about 1 minute.\n\nStir in the scallions and lime zest. Continue to cook, stirring, until the shrimp are firm and opaque throughout; another 1 to 2 minutes. Slide the skillet off of the heat.\n\nMAKE BUTTER SAUCE\n\nWith the skillet off of the heat, add the cilantro, juice from the lime and the remaining two tablespoons of butter. Stir the butter around the pan so that it melts into the lime juice making the creamy butter sauce.\n\nTaste then season as needed with salt and pepper. Serve with extra lime wedges on the side.",
   "html": {
     "description": null,
@@ -36,7 +36,7 @@
   "servings": "1 pound shrimp",
   "source": "inspiredtaste.net",
   "source_url": "https://www.inspiredtaste.net/36991/garlic-butter-shrimp-recipe/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "9966B4CF-829A-4D19-860F-F7AC1BFB2ED8-5646-0000030C2287F7BC"
 }

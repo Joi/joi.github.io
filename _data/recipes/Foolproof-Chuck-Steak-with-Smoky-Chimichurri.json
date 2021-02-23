@@ -6,7 +6,7 @@
   "created": "2020-08-23 13:35:15",
   "created_ts": 1598189715,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Prepare the Steak: Sprinkle steak all over with salt and pepper. Set a baking rack on a baking sheet wrapped in aluminum foil; place steak on rack. Let stand, uncovered, for 1 hour or up to overnight in the refrigerator.\n\nPreheat oven to 200°F. Place baking sheet with steak on rack in preheated oven. Bake until a thermometer inserted in thickest portion registers 105°F to 110°F for a medium-rare or 115°F to 120°F for medium-well, 30 to 40 minutes, or to desired degree of doneness.\n\nRemove steak from oven; set aside. Heat a cast-iron or heavy bottom nonstick skillet over high. Add butter and extra-virgin olive oil to hot skillet; swirl to coat. When oil just starts to smoke, add the steak; cook until well-browned, 1 to 2 minutes per side. Transfer steak to a cutting board, and let rest 10 minutes before slicing.\n\nPrepare the Smoky Chimichurri: Process parsley, cilantro, garlic, shallot, and chipotle chile in a food processor until roughly chopped, 8 to 10 pulses. Add olive oil, vinegar, lime zest and juice, salt, oregano, and paprika; process until emulsified, about 1 minute. Serve sliced steak with chimichurri.",
   "html": {
     "description": null,
@@ -36,7 +36,7 @@
   "servings": "Serves 2 to 4",
   "source": "myrecipes.com",
   "source_url": "https://www.myrecipes.com/recipe/foolproof-chuck-steak-smoky-chimichurri",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "CEDB473E-DE66-49BB-A26A-E39699CB17AE-6290-0000032FC1829B23"
 }

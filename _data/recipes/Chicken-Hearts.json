@@ -5,8 +5,8 @@
   "cook_time": "10 mins",
   "created": "2020-07-27 16:14:32",
   "created_ts": 1595866472,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Place the chicken hearts, olive oil, salt, pepper, garlic powder, onion powder and cumin in a large bowl.\n\nUse a large spoon, or your hands, to mix everything together, coating the chicken hearts with the oil and seasonings.\n\nHeat a large, heavy frypan over medium-high heat, about 3 minutes.\n\nAdd the seasoned chicken hearts. Cook, stirring often, until browned and cooked through, about 5 minutes. Serve immediately.",
   "html": {
     "description": null,
@@ -18,7 +18,7 @@
   "ingredients": "1 lb. chicken hearts\n1 tablespoon olive oil\n1 teaspoon Diamond Crystal kosher salt or 1/2 teaspoon sea salt\n1/4 teaspoon black pepper\n1/2 teaspoon garlic powder\n1/2 teaspoon onion powder\n1/2 teaspoon ground cumin",
   "intrash": 0,
   "name": "Chicken Hearts",
-  "notes": "",
+  "notes": null,
   "nutritional_info": "Sodium 365mg\nCarbohydrates 1g\nProtein 18g",
   "photo": "E3C69623-8421-4C73-A105-E300D7B47A9E-2209-0001DBA96F3CC751.jpg",
   "photo_large": null,
@@ -26,10 +26,10 @@
   "photos_dict": {},
   "prep_time": "10 mins",
   "rating": 5,
-  "servings": "",
+  "servings": null,
   "source": "healthyrecipesblogs.com",
   "source_url": "https://healthyrecipesblogs.com/chicken-hearts-recipe/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "AAC09848-659F-47C4-B6A5-F2F4E409B1CD-2209-0001DBA6EF98B659"
 }

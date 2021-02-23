@@ -3,11 +3,11 @@
     "Pasta",
     "Kio"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-05-11 16:51:10",
   "created_ts": 1589215870,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Boil paste to al dente.\n\nMeanwhile, bring milk up to a simmer in a large pot. (The pot should be large enough to hold all the pasta when cooked.)\n\nReduce heat to low, add cream cheese, and whisk until it’s completely blended and no lumps remain.\n\nAdd cheddar and other cheese and butter, whisking until everything is completely melted.\n\nSeason with nutmeg, salt and a generous amount of pepper.\n\nAdd cooked pasta and stir to coat.\n\n In a separate bowl, whisk together eggs and parmigiano. Stir egg mixture into pasta.\n\nContinue to cook over medium-low heat until the sauce has thickened and is coating each piece of pasta nicely, 2 to 3 minutes; sauce will continue to thicken as it cools. Season again with more salt and pepper before serving.\n",
   "html": {
     "description": null,
@@ -32,12 +32,12 @@
   "photos_dict": {
     "1": "AA90E695-17D3-412E-9808-D3C2E8809723-29546-0000D728E4C977F8.jpg"
   },
-  "prep_time": "",
+  "prep_time": null,
   "rating": 4,
-  "servings": "",
+  "servings": null,
   "source": "Mashup",
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "9B1AB1E8-BE10-4F36-B0F0-9E37B79BF387-4647-00010AE1B323C85C"
 }

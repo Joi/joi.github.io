@@ -5,8 +5,8 @@
   "cook_time": "0 mins",
   "created": "2020-03-22 14:23:03",
   "created_ts": 1584886983,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Place all the ingredient in a jar, shake, cover and refrigerate overnight.\n\nThe next morning, add your favorite crunchy toppings such as nuts, granola, etc and enjoy!",
   "html": {
     "description": null,
@@ -18,7 +18,7 @@
   "ingredients": "1/4 cup quick oats, I prefer organic\n1/2 cup unsweetened Almond Breeze Original Almond Milk, or skim, soy\n1/4 medium banana, sliced (freeze the rest for smoothies!)\n1/2 tbsp chia seeds\n1/2 cup blueberries\n4-5 drops NuNaturals liquid vanilla stevia, or your favorite sweetener\npinch cinnamon\nfor the topping:\n1 tbsp chopped pecans, or any nut",
   "intrash": 0,
   "name": "Overnight Oats",
-  "notes": "",
+  "notes": null,
   "nutritional_info": "Serving: 1jar, Calories: 236kcal, Carbohydrates: 34.5g, Protein: 6g, Fat: 10g, Saturated Fat: 0.5g, Sodium: 95mg, Fiber: 8.5g, Sugar: 11.5g Blue Smart Points: 5 Green Smart Points: 5 Purple Smart Points: 3 Points +: 6",
   "photo": "A2DFFBFC-8739-4E3E-82DF-4EF1CDCD508F-9067-000215F1BFA2B285.jpg",
   "photo_large": null,
@@ -29,7 +29,7 @@
   "servings": "Yield: 1",
   "source": "skinnytaste.com",
   "source_url": "https://www.skinnytaste.com/skinny-overnight-oats-in-jar/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "F65DCE30-5869-4404-ACDA-1BCF020369C6-9067-000215EAF89E89DD"
 }

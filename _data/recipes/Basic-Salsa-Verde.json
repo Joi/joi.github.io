@@ -2,11 +2,11 @@
   "categories": [
     "Sauce"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-07-15 16:39:15",
   "created_ts": 1594831155,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Combine shallot and vinegar in a bowl and let sit for 15 min to macerate.\n\nIn a separate bowl mix parsley, oil and add a generous pinch of salt.\n\nJust before serving, add shallot (not vinegar) to the parsley oil. Stir, taste and add vinegar if needed. Taste and adjust salt.\n\nKeep in fridge up to 3 days.",
   "html": {
     "description": null,
@@ -31,12 +31,12 @@
   "photos_dict": {
     "1": "D02A4B92-E38B-4310-8877-2D0AF31D8FCB-29053-0004BEE6028234A8.jpg"
   },
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
-  "servings": "",
+  "servings": null,
   "source": null,
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "B8A1AF50-039E-416A-967A-19D14C8A70A2-14775-000009F2FBE6BC44"
 }

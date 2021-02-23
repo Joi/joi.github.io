@@ -6,7 +6,7 @@
   "created": "2020-07-02 00:31:50",
   "created_ts": 1593649910,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Heat a large pot over medium-low heat and add the coconut oil. Stir in the onion and cook, stirring often, until it begins to caramelize and get golden brown, about 15 to 20 minutes. Stir in the garlic, ginger, salt and pepper. Cook for about 5 to 6 minutes. Stir in the sweet potato cubes. Cook for another 5 minutes, stirring occasionally, until the sweet potatoes start soften and get a little golden too. Pour in the vegetable stock and bring the mixture to a boil. Reduce it to a simmer, cover the pot and cook for 15 to 20 minutes, just until the sweet potatoes soften.\n\nOnce the potatoes are fork tender, turn off the heat. Use an immersion blender or carefully pour the mixture into a regular blender (and cover the lid with a towel!), blending until pureed and smooth. Add in the coconut milk and blend again until smooth.\n\nPour the mixture back into the pot. Taste it and season additionally with more salt and pepper if needed. Heat over medium-low heat until warmed through.\n\nServe with a drizzle of coconut milk and a sprinkle of green onions and hemp hearts on top.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
   "servings": "Yield: 4",
   "source": "howsweeteats.com",
   "source_url": "https://www.howsweeteats.com/2018/01/sweet-potato-soup-ginger/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "ECE2D7FE-A2D1-47B2-94F2-69E75CFBD8C2-17048-000007F9F43C38A5"
 }

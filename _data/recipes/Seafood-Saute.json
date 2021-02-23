@@ -5,8 +5,8 @@
   "cook_time": "5 mins",
   "created": "2020-09-12 19:36:47",
   "created_ts": 1599939407,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Place the frozen seafood in a large bowl. Fill the bowl with cool water. Allow to defrost for about 5 minutes, stirring gently to separate pieces, and replacing the water once during the defrosting process. Place the defrosted seafood on a clean kitchen towel or on paper towels to dry.\n\nMelt the butter in a very large skillet over medium-high heat. When foaming subsides, add the seafood, kosher salt, minced garlic, paprika, and red pepper flakes. Stir-fry just until opaque, about 5 minutes.\n\nTransfer the sauteed seafood to a serving platter, spooning the pan juices on top. Squeeze lemon juice on top of the seafood saute and garnish with chopped parsley. Serve immediately.",
   "html": {
     "description": null,
@@ -26,10 +26,10 @@
   "photos_dict": {},
   "prep_time": "15 mins",
   "rating": 0,
-  "servings": "",
+  "servings": null,
   "source": "healthyrecipesblogs.com",
   "source_url": "https://healthyrecipesblogs.com/seafood-saute/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "2545CB6B-7EEA-46C3-97F4-485CEBBFBB71-50715-0008F838B37D34F1"
 }

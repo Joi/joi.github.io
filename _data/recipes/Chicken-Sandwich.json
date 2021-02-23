@@ -1,9 +1,9 @@
 {
   "categories": [
-    "Sandwich",
     "Chicken",
+    "Meat",
     "Italian",
-    "Meat"
+    "Sandwich"
   ],
   "cook_time": null,
   "created": "2020-02-02 20:49:33",

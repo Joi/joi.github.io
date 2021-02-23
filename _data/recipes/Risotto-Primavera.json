@@ -1,14 +1,14 @@
 {
   "categories": [
     "Rice",
-    "Asparagus",
-    "Tomato"
+    "Tomato",
+    "Asparagus"
   ],
   "cook_time": "45 - 50 min",
   "created": "2020-07-23 14:28:03",
   "created_ts": 1595514483,
   "description": "Based on Harry's Bar Recipe and :\n\nhttps://www.cookscountry.com/recipes/5819-pork-roast-with-mushroom-gravy?extcode=MCSKD10L0&ref=new_search_experience_14",
-  "difficulty": "",
+  "difficulty": null,
   "directions": "**The Rice**\n\nBring the stock to a simmer.\n\nHeat the olive oil in a heavy, large saucepan. Add onion and cook until golden but not brown. Add the rice and stir with a wooden spoon to coat the rice. Turn the heat to high and add some of the hot broth. The recipes say to add the broth gradually, but according to Kenji in Food lab, you can add it all at once. The downside is that you might have too much at the end. I don't add it all at once, but I add a bunch at the beginning.\n\nYou will need to stir constantly until liquid is absorbed. Continue adding broth, stirring until each batch is absorbed. This will take at least 20 minutes. (Half way through this process you will add the vegetable mixture, below) You may have to adjust the heat from time to time but the risotto needs to keep boiling, but must not stick to the pot. The rice, when done, should be tender but with still the slightest bit of firmness. When all liquid is absorbed, remove from heat and stir in butter and Parmesan. Mix well until creamy. Add salt and pepper to taste. Serve with Parmesan for sprinkling. \n\n**Vegetables**\n\nHeat oil in pot. Add the garlic to flavor the oil. Add the mushrooms and cook for 5 minutes until softened. Add the basil and oregano. Add the onion and cook for 2 minutes. Add the zucchini, broccoli, bell pepper, tomatoes and leek. Raise head and cook for 10 minutes, stirring often, until veggies are just cooked. Season with salt and pepper.",
   "html": {
     "description": "<p>Based on Harry's Bar Recipe and :</p>\n<p>https://www.cookscountry.com/recipes/5819-pork-roast-with-mushroom-gravy?extcode=MCSKD10L0&amp;ref=new_search_experience_14</p>\n",
@@ -26,12 +26,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
   "servings": "4 people",
   "source": null,
   "source_url": "https://www.epicurious.com/recipes/member/views/risotto-alla-primavera-harrys-bar-52374811",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "16DAD724-0640-45B2-A7EB-66B408332186-2209-00009B8A4B171F2C"
 }

@@ -2,11 +2,11 @@
   "categories": [
     "Pork Spare Ribs"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-09-10 02:22:50",
   "created_ts": 1599704570,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Pre-heat oven to 250ºF.\n\nSeason ribs and put in oven covered with foil.\n\nBake until internal temperature reaches 190-203ºF - 3 - 5 hours.\n\nCoat with BBQ sauce and broil for 3 min.\n\nFlip, coat and broil again.\n",
   "html": {
     "description": null,
@@ -31,12 +31,12 @@
   "photos_dict": {
     "1": "E766C562-5EBC-4C39-A1B6-41EB6963081B-50715-00081F5A55BD3B82.jpg"
   },
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
-  "servings": "",
+  "servings": null,
   "source": null,
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "F6F34E62-D960-486A-9A20-B976D1309E32-50715-00080BBC09D1E91C"
 }

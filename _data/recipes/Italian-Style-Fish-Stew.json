@@ -6,8 +6,8 @@
   "cook_time": "1 hour",
   "created": "2020-04-11 13:30:28",
   "created_ts": 1586611828,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Marinate the fish: Cut fish into 2-inch chunks and place in a medium bowl. Season generously with salt and pepper. Add half the chopped thyme, 1 tablespoon olive oil and the lemon slices. Toss to coat and set aside for 30 minutes (or refrigerate for up to 8 hours).\n\nPut 2 tablespoons olive oil in a wide heavy-bottomed pot over medium-high heat. Add onions, season with salt and pepper and cook until softened, stirring, 5 or 6 minutes.\n\nAdd reserved thyme, minced garlic, saffron, red pepper flakes, fennel seed, bay leaf and tomato paste and cook, stirring, for 2 minutes more. Add wine, tomatoes and stock or water and bring to a simmer. Simmer for 10 minutes. Taste and adjust; the broth should be well seasoned. (This seasoned base may be prepared up to 1 day in advance, if desired.)\n\nHeat oven to 450 degrees. Arrange fish, clams and lemon slices in the bottom of a 9-by-12-inch baking dish or a wide earthenware casserole of similar size. Ladle the broth over everything, cover and bake for 20 minutes, or until clams have opened and fish flakes easily.\n\nToast the bread and rub each slice with garlic. Sprinkle parsley over the soup. Serve in low soup bowls, giving each guest some fish, clams, broth and garlic toast.",
   "html": {
     "description": null,
@@ -19,8 +19,8 @@
   "ingredients": "2 pounds white-fleshed fish fillets, such as hake, snapper or sea bass, skin removed\nSalt and pepper\n2 teaspoons chopped thyme or marjoram\nExtra-virgin olive oil\n1 small lemon, thinly sliced\n2 cups diced white onion\n4 minced garlic cloves, plus 1 whole garlic clove for rubbing bread\n¼ teaspoon crushed saffron\n½ teaspoon red pepper flakes\n½ teaspoon crushed fennel seed\n1 bay leaf\n1 tablespoon tomato paste\n1 cup dry white wine\n2 cups diced tomatoes, fresh or canned\n3 cups fish stock, light chicken broth or water\n12 large clams\n4 thick slices country bread\n¼ cup chopped parsley",
   "intrash": 0,
   "name": "Italian-Style Fish Stew",
-  "notes": "",
-  "nutritional_info": "",
+  "notes": null,
+  "nutritional_info": null,
   "photo": "CDC5C12D-2646-4FE9-A531-510E7B5C7BF7-47978-0005C427CC91B7BA.jpg",
   "photo_large": "2047FA20-5989-41E8-AC84-D1E9791A3630-47978-0005C42391618497.jpg",
   "photos": [
@@ -32,12 +32,12 @@
   "photos_dict": {
     "1": "2047FA20-5989-41E8-AC84-D1E9791A3630-47978-0005C42391618497.jpg"
   },
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
   "servings": "Yield 4 to 6 servings",
   "source": "cooking.nytimes.com",
   "source_url": "https://cooking.nytimes.com/recipes/1018346-italian-style-fish-stew?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=3",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "07CCA1F2-E1F3-43E7-9754-D5E1289B797D-53878-00004814D79F4E62"
 }

@@ -2,11 +2,11 @@
   "categories": [
     "Salad"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-07-04 18:23:30",
   "created_ts": 1593887010,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Coarsely chop the anchovies and then pound them into a fine paste in a mortar and pestle. The more you break them down, the better the dressing will be.\n\nIn a medium bowl, stir together the anchovies, mayonnaise, garlic, lemon juice, vinegar, Parmesan, Worcestershire sauce, and pepper. Taste with a leaf of lettuce, then add salt and adjust acid as needed. Or, practicing what you learned about Layering Salt , add a little bit of each salty ingredient to the mayonnaise, bit by bit. Adjust the acid, then taste and adjust the salty ingredients until you reach the ideal balance of Salt, Fat, and Acid. Has putting a lesson you read in a book into practice ever been this delicious? I doubt it.\n\nTo make the salad, use your hands to toss the greens and Torn Croutons with an abundant amount of dressing in a large bowl to coat evenly. Garnish with Parmesan and freshly ground black pepper and serve immediately.\n\nRefrigerate leftover dressing, covered, for up to 3 days.\n\nIdeal for romaine and Little Gem lettuce, chicories, raw or blanched Kale, shaved Brussels sprouts, Belgian endive.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 0,
-  "servings": "",
+  "servings": null,
   "source": "Salt, Fat, Acid Heat",
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "C1A56159-8227-4071-8D23-0B7E8B0C9DD8-631-00014D1E9E54D0EF"
 }

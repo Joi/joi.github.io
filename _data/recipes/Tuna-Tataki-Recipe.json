@@ -6,7 +6,7 @@
   "created": "2020-06-26 10:42:57",
   "created_ts": 1593168177,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Gather all the ingredients.\n\nGrate ginger and slice green onion thinly.\n\nCombine the Tataki sauce ingredients in a small bowl.\n\nHeat the oil in a non-stick frying pan. When the oil is hot, sear the tuna 30 seconds on each side.\n\nWhen all sides are seared, remove from the heat and let it cool. Slice the tuna into 1/4 inch pieces. Pour the sauce and serve.",
   "html": {
     "description": null,
@@ -29,7 +29,7 @@
   "servings": "Servings: 2",
   "source": "justonecookbook.com",
   "source_url": "https://www.justonecookbook.com/tuna-tataki/#wprm-recipe-container-58590",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "39091A3A-A890-436A-A9C2-58FA599B57F5-533-00000014701D437B"
 }

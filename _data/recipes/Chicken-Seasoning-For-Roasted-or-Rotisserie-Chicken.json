@@ -6,8 +6,8 @@
   "cook_time": "5 minutes",
   "created": "2020-11-12 12:00:22",
   "created_ts": 1605182422,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Mix all ingredients together in a small bowl.Store excess in an airtight container.",
   "html": {
     "description": null,
@@ -30,7 +30,7 @@
   "servings": "Servings 4",
   "source": "flavormosaic.com",
   "source_url": "https://flavormosaic.com/chicken-seasoning-for-roasted-or-rotisserie-chicken/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "5BB8299C-2E77-4DA1-90F1-797668204F22-1273-000025E537D4FF62"
 }

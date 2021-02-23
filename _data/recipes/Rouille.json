@@ -3,11 +3,11 @@
     "Sauce",
     "_mine"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-10-09 00:47:47",
   "created_ts": 1602204467,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Crumble saffron threads in stock in a food processor or mortar. Add garlic and purée, or grind with a pestle, until smooth. Transfer to a bowl and stir in mayonnaise, paprika, and cayenne. Season to taste with salt.",
   "html": {
     "description": null,
@@ -25,12 +25,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
-  "servings": "",
+  "servings": null,
   "source": null,
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": "_mine",
   "uid": "C17F174D-81B0-4847-9396-DE2E5E92EF57-79931-0001526F038511AC"
 }

@@ -2,11 +2,11 @@
   "categories": [
     "Sauce"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-07-10 21:07:05",
   "created_ts": 1594415225,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Put garlic in Thermomix. Mince garlic (speed 7 / 3 sec) wipe down sides with spatula and do twice or smash using garlic press. Add lemon juice and macerate garlic for a few min.\n\nAdd egg and yolk, salt, pepper, mustard, zest and blend until combined (Speed 6 / 20 sec).\n\nWith Thermomix running (speed 4 / 3 min), slowly drizzle oil steadily to create an emulsification.\n\nSeason for taste with salt lemon juice.\n\nStir in tarragon or chives.",
   "html": {
     "description": null,
@@ -31,12 +31,12 @@
   "photos_dict": {
     "1": "4A1B4683-121B-4179-B19A-661E6C6D0D13-29053-000376E2499F5BDF.jpg"
   },
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
-  "servings": "",
+  "servings": null,
   "source": null,
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "383352B7-6E3A-4CB7-A36E-EA826E3E00AB-631-0003169816AA6155"
 }

@@ -6,7 +6,7 @@
   "created": "2020-10-22 21:11:40",
   "created_ts": 1603401100,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Cut the king oyster mushrooms into chunky discs (like scallops). Have garlic, chillies, wood ear mushroom & scallion prepared.\n\nMix all the ingredients for the sauce. Set aside.\n\nHeat up the oil. Fry garlic until fragrant.\n\nStir in king oyster mushrooms. Fry until brown on the edge.\n\nAdd wood ear mushroom, fresh chilli. Stir fry.\n\nPour in the sauce (stir well beforehand) and scallions. Turn off the heat as soon as the sauce thickens.\n\nServe warm with plain rice and other savoury dishes, or as a topping for noodle dishes.",
   "html": {
     "description": null,
@@ -41,7 +41,7 @@
   "servings": "Calories: 240kcal",
   "source": "redhousespice.com",
   "source_url": "https://redhousespice.com/king-oyster-mushroom-garlic-sauce/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "9BD58944-2A23-43C2-832C-B57CE5F7F8FF-64845-00002AEE0BF7D9BE"
 }

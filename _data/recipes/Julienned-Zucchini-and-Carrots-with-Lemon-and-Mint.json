@@ -2,11 +2,11 @@
   "categories": [
     "Zucchini"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-07-30 18:04:11",
   "created_ts": 1596132251,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Sauté the carrot in oil for 2 to 3 minutes, until almost tender. Add the zucchini and scallion and sauté for 2 to 4 minutes. Add black pepper to taste and turn off heat. Add the lemon juice, mint, and salt to taste.",
   "html": {
     "description": null,
@@ -19,17 +19,17 @@
   "intrash": 0,
   "name": "Julienned Zucchini and Carrots with Lemon and Mint",
   "notes": null,
-  "nutritional_info": "",
+  "nutritional_info": null,
   "photo": null,
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
   "servings": "4",
   "source": null,
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "2229D91F-FC66-45AF-84D8-86ADE6A476D6-96025-0002CD60F9153D5F"
 }

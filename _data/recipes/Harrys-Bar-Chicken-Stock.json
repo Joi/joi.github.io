@@ -3,7 +3,7 @@
     "Chicken",
     "Soup"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-02-02 12:55:27",
   "created_ts": 1580648127,
   "description": "Chicken stock is an essential ingredient in any kitchen. At Harry's Bar we like to use this light chicken stock so it doesn't drown out other flavors in our soups, risotto, and sauces. If you like a more intensely flavored stock, use more chicken or less water.",
@@ -47,12 +47,12 @@
     "3": "E7F89F69-A319-4645-8E26-34EB1A4C4872-39996-0000207437BB4C4C.jpg",
     "4": "EF674E95-FBEB-40C7-83CC-B902DCA9B59C-39996-000020859FC48E6A.jpg"
   },
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
   "servings": "MAKES ABOUT 10 CUPS (2.500 ML)",
   "source": "Harry's Bar Cookbook",
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "47365C63-5584-4742-8622-94EF89CC996B-25037-0000A09454C82C98"
 }

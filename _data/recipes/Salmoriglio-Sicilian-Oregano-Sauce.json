@@ -2,11 +2,11 @@
   "categories": [
     "Sauce"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-07-30 18:42:04",
   "created_ts": 1596134524,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Combine the parsley, oregano, garlic, and olive oil in a small bowl with a generous pinch of salt. Just before serving, add the lemon juice. Stir, taste, and adjust for salt and acid. Serve immediately. Refrigerate, covered, for up to 3\rdays.\r\rServing suggestions: With grilled or roasted fish or meat; with grilled, roasted, or blanched vegetables; with Slow-Roasted Salmon, Tuna Confit, Crispiest Spatchcocked Chicken.\n\nVariation\r• To make Argentinian _Chimichurri_ sauce for spooning over grilled meats, add 1 teaspoon red pepper flakes and 1 to 2 tablespoons red wine vinegar to taste.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 0,
   "servings": "½ cup",
   "source": "Salt, Fat, Acid, Heat",
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "8CBA434A-8D16-4B6E-BEC2-2364ECF2E5C3-96025-0002CF722DAFF147"
 }

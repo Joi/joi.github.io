@@ -2,11 +2,11 @@
   "categories": [
     "Flat Iron"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-08-19 13:14:12",
   "created_ts": 1597842852,
   "description": null,
-  "difficulty": null,
+  "difficulty": "",
   "directions": "Mix soy sauce, lime juice, canola oil, brown sugar, cumin, black pepper, chile powder, and garlic in bowl.\n\nSet aside ½ cup of the marinade.\n\nUse ziplock to marinate meat with rest of marinade for 3 to 10 hours.\n\nUsing ½ cup marinade, marinate peppers.\n\nGrill steaks - cover and cook 1 min on each side and repeat until internal temp is 115° to 120°F for medium-rare or 125° to 130°F for medium.\n\nTent and foil steak on plate.\n\nMeanwhile, move cast iron pan from cold side of grill to hot side and preheat for 2 min.\n\nCook veggies for about 10 min until charred. Stir occasionally. When cooked, move steak from plate to cutting board and add juices to veggies.\n\nThinly slice meat against grain.",
   "html": {
     "description": null,
@@ -41,12 +41,12 @@
     "2": "AE7100D6-F6B3-4D64-93A9-56A6FE94DA0A-1866-00001E772E6D95CA.jpg",
     "3": "E47E4846-ECA1-46B6-B7FB-3E4C39118FBE-1866-00001E795FA4C478.jpg"
   },
-  "prep_time": null,
+  "prep_time": "",
   "rating": 5,
   "servings": "4 - 6",
   "source": "The Food Lab",
   "source_url": null,
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "0219F138-40D0-4824-A931-1EFA48339B46-1866-00001C3CB0B4767A"
 }

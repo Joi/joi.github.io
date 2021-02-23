@@ -7,7 +7,7 @@
   "created": "2020-02-03 15:25:45",
   "created_ts": 1580743545,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Adjust oven rack to middle position and heat oven to 450 degrees. Chop 6 scallions coarse and spread evenly in 13 by 9-inch baking pan. Slice remaining 2 scallions thin on bias and set aside. Chop 2 inches ginger coarse and spread in pan with chopped scallions. Slice remaining 1 inch ginger into matchsticks and set aside. Sprinkle garlic over scallions and ginger in pan.\n\nFold 18 by 12-inch piece of aluminum foil lengthwise to create 18 by 6-inch sling and spray lightly with vegetable oil spray. Place sling in pan lengthwise, with extra foil hanging over ends of pan. Arrange cod on sling. If fillets vary in thickness, place thinner fillets in middle and thicker fillets at ends.\n\nWhisk soy sauce, rice wine, sesame oil, sugar, salt, and white pepper in small bowl until combined. Pour around cod. Cover pan tightly with foil and bake until fish registers 125 to 130 degrees, 12 to 14 minutes.\n\nGrasping sling at both ends, carefully transfer sling and cod to deep platter. Place spatula at 1 end of fillets to hold in place and carefully slide out sling from under cod. Strain cooking liquid through fine-mesh strainer set over bowl, pressing on solids to extract liquid; discard solids. Pour strained liquid over cod. Sprinkle reserved scallions over cod. Heat vegetable oil in small skillet over high heat until shimmering. Reduce heat to low, add reserved ginger, and cook, stirring, until ginger begins to brown and crisp, 20 to 30 seconds. Drizzle oil and ginger over cod (oil will crackle). Top with cilantro and serve.",
   "html": {
     "description": null,
@@ -42,12 +42,12 @@
     "2": "CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg",
     "3": "23569CD4-BD0C-4DE8-9B31-397F4C56550B-11906-00000E22139D741F.jpg"
   },
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
   "servings": "Serves 4",
   "source": "cooksillustrated.com",
   "source_url": "https://www.cooksillustrated.com/recipes/11736-oven-steamed-fish-with-scallions-and-ginger",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "77B98054-DBCB-470E-83E9-62B8E4A68906-408-00004DC1BC68E0B3"
 }

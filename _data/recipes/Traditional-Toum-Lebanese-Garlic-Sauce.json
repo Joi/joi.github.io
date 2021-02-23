@@ -5,8 +5,8 @@
   "cook_time": "20 minutes",
   "created": "2020-08-27 14:43:07",
   "created_ts": 1598539387,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "1. Using a paring knife, split each garlic clove in half lengthwise. With the tip of the knife, remove the germ from each garlic clove half.\n\n2. Food Processor Method: Place the de-germed garlic and kosher salt in the bowl of a food processor. Pulse garlic in short bursts, occasionally removing the lid to scrape down the sides of the bowl with a flexible rubber spatula, until finely minced. Add 1 tablespoon lemon juice and continue processing until a paste begins to form. Add another tablespoon lemon juice and process until completely smooth and slightly fluffy.\n\n3. With the food processor running, slowly drizzle in 1/2 cup oil in a very thin stream, followed by 1 tablespoon lemon juice. Repeat with another 1/2 cup oil and remaining 1 tablespoon lemon juice. Continue the process, alternating 1/2 cup oil and 1 tablespoon water, until all the oil and water have been incorporated. Transfer toum to a container and store in the fridge for up to 1 month.\n\n4. Mortar and Pestle Method: Depending on the size of your mortar, you may need to make the recipe in smaller batches, halving or quartering the ingredient amounts. In the mortar, combine garlic and salt and grind until it becomes a smooth paste. Work oil into paste 1 teaspoon at a time. After adding 1 tablespoon oil, work in a few drops of lemon juice. Repeat until all the oil, lemon juice, and water have been incorporated.",
   "html": {
     "description": null,
@@ -18,8 +18,8 @@
   "ingredients": "1 cup cloves garlic (4 1/2 ounces; 130g)\n2 teaspoons Diamond Crystal kosher salt (for table salt, use 1 teaspoon)\n1/4 cup (60g) fresh juice from about 2 lemons, divided\n1/4 cup (60g) ice water, divided\n3 cups (600g) neutral oil, such as grapeseed or canola, divided",
   "intrash": 0,
   "name": "Traditional Toum (Lebanese Garlic Sauce)",
-  "notes": "",
-  "nutritional_info": "",
+  "notes": null,
+  "nutritional_info": null,
   "photo": "3B7A8996-C243-4E38-BC76-74E7EF0A3FEA-2241-0003FEF58730AC41.jpg",
   "photo_large": null,
   "photos": [],
@@ -29,7 +29,7 @@
   "servings": "1 quart",
   "source": "seriouseats.com",
   "source_url": "https://www.seriouseats.com/recipes/2018/01/toum.html",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "99182DEB-C6F1-48F2-8054-F9D8404C55D8-2241-0003FEF1ED6DF81A"
 }

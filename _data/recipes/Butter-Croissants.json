@@ -2,11 +2,11 @@
   "categories": [
     "Bread and Biscuits"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-05-21 00:04:12",
   "created_ts": 1590019452,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "Place yeast, milk and sugar into mixing bowl and blend 5 sec/speed 6. Warm 2 min/37°C/speed 2.\n\nAdd flour and salt and combine 6 sec/speed 6. Knead for 3 min/ .\n\nTransfer mixture onto silicone bread mat or work surface and roll into a tight ball. Wrap with plastic wrap and allow to prove for 30 minutes.\n\nMeanwhile, roll butter between two pieces of baking paper into a large flat square about 1 cm thick. Place into refrigerator.\n\nRoll dough out into a square about 2cm thick. Place butter into centre of dough and fold corners in to meet in the middle as though it were an envelope.\n\nRoll dough out again. Fold bottom third up and top third down over bottom. Roll flat and wrap in plastic wrap. Refrigerate for 30 minutes.\n\nTurn folded dough so that open ends are at the top and bottom and repeat folding bottom third up and top third down over bottom. Roll flat and wrap in plastic wrap and refrigerate for 30 minutes.\n\nRepeat rolling, wrapping and refrigerating at least three more times. The dough and butter should start forming thin layers.\n\nPre-heat oven to 200°C and line a large baking tray with paper.\n\nRoll dough out one final time to a large rectangle around 2cm thick.\n\nCut into triangles and roll, starting with wide part and finishing with pointy end. Brush with egg and bake for 15 minutes (200°C) or until golden and puffy.",
   "html": {
     "description": null,
@@ -19,17 +19,17 @@
   "intrash": 0,
   "name": "Butter Croissants",
   "notes": "This recipe is from Thermomix Food Lovers Calendar 2012.",
-  "nutritional_info": null,
+  "nutritional_info": "",
   "photo": "EFD8ACFD-F61B-4241-9536-7CCB95CE1B65-11450-000070651D407E63.jpg",
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": null,
+  "prep_time": "",
   "rating": 4,
   "servings": "0 portion(s)",
   "source": "recipecommunity.com.au",
   "source_url": "https://www.recipecommunity.com.au/baking-savoury-recipes/butter-croissants/hjp6lgtm-9d870-412635-cfcd2-1y865d2g",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "5B1024F0-41A9-4354-9863-C540ADC2E917-11450-0000705FA22AA2AD"
 }

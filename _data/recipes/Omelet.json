@@ -6,7 +6,7 @@
   "created": "2020-03-29 01:33:34",
   "created_ts": 1585445614,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Crack eggs into a medium bowl. Add 1 tablespoon water, and salt and pepper. Whisk with a fork until egg whites are incorporated into yolks. Mix in herbs, if using.\n\nPlace a 8- to 9-inch skillet (preferably nonstick or seasoned carbon steel) over high heat. Melt butter until bubbling subsides.\n\nPour in egg mixture and reduce heat to medium. With the back of a fork or a heatproof rubber spatula, whisk eggs around skillet until the bottom begins to set. This takes only a few seconds. Add any fillings, if using.\n\nTilt skillet and either bang or flip egg over itself. Use fork or spatula if necessary to complete folding in half or thirds. Angle the skillet and a serving plate together, and flip omelet onto plate.",
   "html": {
     "description": null,
@@ -24,12 +24,12 @@
   "photo_large": null,
   "photos": [],
   "photos_dict": {},
-  "prep_time": "",
+  "prep_time": null,
   "rating": 0,
   "servings": "Yield 1 serving",
   "source": "cooking.nytimes.com",
   "source_url": "https://cooking.nytimes.com/recipes/1018367-omelet",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "47310356-938C-466A-B754-5B0DC3B082F9-13364-00000855130C737E"
 }

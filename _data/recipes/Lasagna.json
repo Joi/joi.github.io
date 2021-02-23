@@ -2,11 +2,11 @@
   "categories": [
     "Pasta"
   ],
-  "cook_time": "",
+  "cook_time": null,
   "created": "2020-09-05 15:26:06",
   "created_ts": 1599319566,
   "description": "Using béchamel instead of ricotta cheese. If your guests like ricotta cheese, replace béchamel with ricotta cheese and put parmesan as a layer.",
-  "difficulty": "",
+  "difficulty": null,
   "directions": "## Pasta\n​\n1. Boil pasta with oil. Cool in bowl of cold water to prevent sticking.\n​\n## Meat Sauce\n​\n1. Heat oil in pot and soften onion and carrots - about 8 min. Then add garlic for 30 sec until fragrant.\n2. Add meat and break up and brown. Reduce and evaporate sauce.\n3. Deglaze with wine and reduce.\n4. Add tomato sauce, paste, crushed, herbs and bring to simmer. Season with salt and pepper and cook for 20-30 min or longer or do this in a pressure cooker for 20 min.\n​\n## Béchamel\n​\n1. Melt butter over high heat.\n2. Remove from heat, add flour and whisk for 30 sec until well blended.\n3. Heat on low and whisk in half of the milk. Once well blended, add remaining milk in bits and mix and prevent lumping as you add. Should be creamy.\n4. Increase heat to medium and stir until thicker - about 6 min.\n5. Add parmesan cheese and remove from heat. Stir until cheese is melted and season.\n​\n## Oven\n​\n1. Preheat oven for 375ºF\n​\n## Layers\n​\n1. Add meat, lasagna sheets, meat (⅓ of remaining), white sauce (⅓ of remaining), mozzarella (⅓ of remaining), sheets, meat (½ of remaining), white sauce (½ of remaining), mozzarella (½ of remaining), sheets, remaining meat sauce, remaining white sauce, remaining cheese.\n",
   "html": {
     "description": "<p>Using béchamel instead of ricotta cheese. If your guests like ricotta cheese, replace béchamel with ricotta cheese and put parmesan as a layer.</p>\n",
@@ -36,12 +36,12 @@
     "01": "0B078906-6297-4532-B14C-F04BABC90416-50715-0006E3A5256FFC07.jpg",
     "02": "B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg"
   },
-  "prep_time": "",
+  "prep_time": null,
   "rating": 5,
   "servings": "6",
   "source": null,
   "source_url": null,
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "6F6C35A4-9968-4D48-BB77-EB7ACB3DB08B-50715-0006C481622BC914"
 }

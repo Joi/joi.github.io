@@ -5,8 +5,8 @@
   "cook_time": "20 m",
   "created": "2020-07-04 13:29:45",
   "created_ts": 1593869385,
-  "description": "",
-  "difficulty": "",
+  "description": null,
+  "difficulty": null,
   "directions": "Clean corn cobs and break/cut them into halves\n\nIn a deep pot on mid-high heat, add coconut milk and diced onions and let boil.\n\nAdd salt, black pepper and sugar to the pot\n\nAdd corn to the pot and add enough water to cover corn (about 1 1/2 of the coconut milk tin)\n\nStir and taste for seasoning levels\n\nAdd hot pepper and chopped green onion\n\nBring the pot to a boil\n\nLower stove to medium heat\n\nBoil for 15 - 20 minutes till corn is at tenderness you desire.",
   "html": {
     "description": null,
@@ -18,8 +18,8 @@
   "ingredients": "8 corn cobs (Full Length)\n1 tin (13.5 oz) Coconut Milk or make your own 1 1/2 cups\n1 hot pepper\n1/2 a large onion, chopped\n3 stalks green onion, chopped\n1 tablespoon brown sugar\n1 tablespoon pimento sauce (or 2 pimento peppers sliced) (optional)",
   "intrash": 0,
   "name": "Trinidad Boiled Corn",
-  "notes": "",
-  "nutritional_info": "",
+  "notes": null,
+  "nutritional_info": null,
   "photo": "C3312D31-0857-4316-92EE-E406843DEF95-631-00013D17377F0B8E.jpg",
   "photo_large": null,
   "photos": [],
@@ -29,7 +29,7 @@
   "servings": "Yield:16",
   "source": "homemadezagat.com",
   "source_url": "https://www.homemadezagat.com/2014/11/trinidad-boiled-corn.html",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "56D5B5C6-09D5-4522-A797-2CCB234E6FB5-631-00013CFF7518B2AD"
 }

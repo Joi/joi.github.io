@@ -2,11 +2,11 @@
   "categories": [
     "Halibut"
   ],
-  "cook_time": null,
+  "cook_time": "",
   "created": "2020-08-16 15:30:50",
   "created_ts": 1597591850,
-  "description": null,
-  "difficulty": null,
+  "description": "",
+  "difficulty": "",
   "directions": "1. Set oven to broil.\n\n2. Pat the Halibut cheeks dry and then toss into medium mixing bowl.\n\n3. Add oil to bowl and toss to mix. Add spices and mix to coat evenly.\n\nCoat those cheeks.\n\n4. Place fish on foil lined baking sheet and put in oven. Cook for 8-10 minutes flipping half way.\n\nNote: It is easy to overcook halibut cheeks. Keep an eye on them. They will turn opaque in color and will be firm but not hard once cooked.\n\n5. Remove form oven and squeeze juice from half a lime over fish.\n\n6. Serve on fresh corn tortillas and top with homemade pico de gallo and guacamole. Garnish with cilantro and lime wedge.\n\n7. Enjoy!\n\nYum.",
   "html": {
     "description": null,
@@ -18,8 +18,8 @@
   "ingredients": "1 teaspoon garlic powder\n1 teaspoon ground cumin\n1 teaspoon chili powder\n1/2 teaspoon dried oregano\n1/2 teaspoon cayenne pepper\nCourse Salt and pepper to taste\n2 tablespoons vegetable oil\n\nVeggies\n \n1 Lime\nCilantro for garnish \nSalsa and Guacamole for topping",
   "intrash": 0,
   "name": "Halibut Cheek Fish Tacos",
-  "notes": null,
-  "nutritional_info": null,
+  "notes": "",
+  "nutritional_info": "",
   "photo": "4C6B6780-8FCD-4ECF-BF77-E702623742D7-13578-0000046346800910.jpg",
   "photo_large": null,
   "photos": [],
@@ -29,7 +29,7 @@
   "servings": "10-12 tacos",
   "source": "thislifeintrips.com",
   "source_url": "https://www.thislifeintrips.com/halibut-cheek-fish-tacos/",
-  "total_time": null,
+  "total_time": "",
   "type": null,
   "uid": "DF5C4F27-8A7E-41E0-8A48-E86DB99A2F5A-13578-0000045FE4C034C8"
 }

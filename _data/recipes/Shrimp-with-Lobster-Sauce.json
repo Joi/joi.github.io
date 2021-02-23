@@ -6,7 +6,7 @@
   "created": "2020-08-23 11:19:19",
   "created_ts": 1598181559,
   "description": null,
-  "difficulty": "",
+  "difficulty": null,
   "directions": "Peel and devein the shrimp. Boil 2 cups of water in a large wok and stir in the ground pork. Break up any clumps and cook for about 1 minute, until the pork is no longer pink. Drain the pork in a mesh strainer and give it a quick rinse. This will give you a much clearer, cleaner sauce.\n\nWash your wok and place over medium high heat. Add the vegetable oil, garlic, ground pork, and shrimp and stir-fry for 10-20 seconds. Add the wine and stir-fry for another 10 seconds. Add the chicken stock, sesame oil, sugar, salt, and white pepper. Stir in the peas.\n\nOnce the mixture comes to a simmer, stir in the cornstarch slurry a little bit at a time. Let the mixture bubble and thicken. It should be able to coat a spoon, but it shouldn’t have a gloopy consistency. If it gets too thick, add a little more chicken stock. If it’s too thin, add more slurry.\n\nSpread the slightly beaten egg and scallion across the mixture and let simmer for 5 seconds. Use your spatula to fold the egg into the sauce with a few strokes. Serve over white rice.",
   "html": {
     "description": null,
@@ -33,10 +33,10 @@
   },
   "prep_time": "10 mins",
   "rating": 5,
-  "servings": "",
+  "servings": null,
   "source": "thewoksoflife.com",
   "source_url": "https://thewoksoflife.com/shrimp-lobster-sauce/",
-  "total_time": "",
+  "total_time": null,
   "type": null,
   "uid": "B606531D-7F81-4AD9-B14E-BA7E920951F3-5646-000003098E73CAE3"
 }
