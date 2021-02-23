@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Meat and Temperatures
 tags: temperature meat
 ---
@@ -30,4 +30,4 @@ Key temperatures:
 | Collagen all shrunk | 85ºC / 185ºF |
 | Collagen mesh breakdown | 52ºC / 120ºF |
 | _lactobacillus_ reproduction | 55ºC / 131ºF and 59ºC / 138ºF |
-|[[leidenfrost-effect|Leidenfrost effect]] |193ºC / 397ºF||
+| [[leidenfrost-effect\|Leidenfrost effect]] |193ºC / 397ºF||
