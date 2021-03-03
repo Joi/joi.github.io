@@ -18,14 +18,16 @@ layout: default
 	</div>
 	<div class="medium-3 columns" id="right-margin">
 		{%- comment -%}{%- include backlinks.html -%}{%- endcomment -%}
-
+    
 		{% for tag in page.tags %}
       {%- if site.data.recipe_categories[tag] -%}
-        <h5>{{ tag | capitalize }}</h5>
         {% assign recipes = site.data.recipe_categories[tag] %}
-        <ul>{% for recipe in recipes %}
-          <li><a href="/recipes/{{ recipe[0] | slugify }}">{{ recipe[1] }}</a></li>{% endfor %}
-        </ul>
+        {% if recipes %}
+          <h5>{{ tag | capitalize }}</h5>
+          <ul>{% for recipe in recipes %}
+            <li><a href="/recipes/{{ recipe[0] | slugify }}">{{ recipe[1] }}</a></li>{% endfor %}
+          </ul>
+        {%- endif -%}
       {%- endif -%}
 		{% endfor %}
 
