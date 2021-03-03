@@ -1,5 +1,44 @@
 ---
 title: "Rouille"
 filename: "Rouille"
-created: 2020-10-09 00:47:47
+categories:
+- Sauce
+- _mine
+cook_time: ''
+created: '2020-10-09 00:47:47'
+created_ts: 1602204467
+description: null
+difficulty: ''
+directions: "Crumble saffron threads in stock in a food processor or mortar. Add garlic\
+  \ and pur\xE9e, or grind with a pestle, until smooth. Transfer to a bowl and stir\
+  \ in mayonnaise, paprika, and cayenne. Season to taste with salt."
+html:
+  description: null
+  directions: "<p>Crumble saffron threads in stock in a food processor or mortar.\
+    \ Add garlic and pur\xE9e, or grind with a pestle, until smooth. Transfer to a\
+    \ bowl and stir in mayonnaise, paprika, and cayenne. Season to taste with salt.</p>\n"
+  ingredients: "<ul>\n<li>1 pinch saffron threads</li>\n<li>2 Tbsp fsh stock</li>\n\
+    <li>4 cloves garlic, peeled and minced</li>\n<li>1 cup mayonnaise</li>\n<li>\xBD\
+    \ tsp. sweet paprika</li>\n<li>1 pinch cayenne</li>\n<li>Salt</li>\n</ul>\n"
+  notes: null
+  nutrition: null
+image_url: null
+ingredients: "1 pinch saffron threads\n2 Tbsp fsh stock\n4 cloves garlic, peeled and\
+  \ minced\n1 cup mayonnaise\n\xBD tsp. sweet paprika\n1 pinch cayenne\nSalt"
+intrash: 0
+name: Rouille
+notes: null
+nutritional_info: null
+photo: null
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: ''
+rating: 5
+servings: ''
+source: null
+source_url: null
+total_time: ''
+type: _mine
+uid: C17F174D-81B0-4847-9396-DE2E5E92EF57-79931-0001526F038511AC
 ---

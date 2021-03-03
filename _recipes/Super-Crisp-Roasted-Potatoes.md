@@ -1,5 +1,166 @@
 ---
 title: "Super-Crisp Roasted Potatoes"
 filename: "Super-Crisp-Roasted-Potatoes"
-created: 2020-09-12 19:38:19
+categories:
+- Potato
+cook_time: ''
+created: '2020-09-12 19:38:19'
+created_ts: 1599939499
+description: "How often do you get roasted potatoes that look like they\u2019re going\
+  \ to be awesomely crisp only to find that rather than crispness, all you\u2019ve\
+  \ got is a papery (or worse, leathery) skin on the exterior?\n\nRoasting potatoes\
+  \ is not quite as easy as roasting most other vegetables. See, with roast potatoes,\
+  \ we\u2019ve got a different set of goals than when, say, roasting Brussels sprouts.\
+  \ First off, we want the potatoes to be cooked through all the way to the center.\
+  \ Fluffy and moist is what we\u2019re after. Second, we want the exterior to be\
+  \ extremely crisp. We\u2019re talking crisper-than-a-French-fry crisp. Simply toss\
+  \ a potato coated with a bit of oil in the oven, and what you end up with is a potato\
+  \ with a paper-thin sheath of crispness around its exterior that very rapidly softens\
+  \ and turns leathery as internal moisture seeps through it.\n\nSo, what makes a\
+  \ potato crisp? The answer is building up a dehydrated layer of gelatinized starch\
+  \ on the exterior of the spud, much like when you fry a French fry (s e e here).\
+  \ To do this, you\u2019ve got to parcook them, allowing their starches to soften\
+  \ and expand, and then recrystallize by cooling them a bit.\n\nOur secondary goal\
+  \ is to increase their surface area. Craggy, uneven surfaces crisp up a lot better\
+  \ than smooth ones. Luckily, we can kill two birds with one stone here. By boiling\
+  \ your potatoes before you roast them, not only do you ensure that their outer layers\
+  \ of starch are properly gelatinized, you also soften their exteriors enough that\
+  \ they get a bit battered and bruised when you toss them around with oil before\
+  \ roasting them. This creates a sort of potato-oil paste that adds plenty of surface\
+  \ area and acts almost like a batter for fried foods, creating an extra layer of\
+  \ crispness as the potatoes roast.\n\nTake a look at these potatoes, roasted side\
+  \ by side in the same oven. One batch was started raw, another was boiled first,\
+  \ and the third was boiled, then roughed. The difference is obvious.\n\nNext question:\
+  \ What\u2019s the best fat to use? People often tout the awesomeness of duck fat\
+  \ with potatoes, and for good reason: it tastes awesome. Duck fat has a distinct\
+  \ richness and aroma that gets absorbed very easily into the surface of a spud.\
+  \ On top of that, it\u2019s got plenty of saturated fat and a high smoke point,\
+  \ which makes it an ideal medium for crisping up fried or roasted foods. (In general,\
+  \ the higher the saturated fat content of an oil, the more efficiently it\u2019\
+  ll crisp foods.) Can\u2019t get duck fat? Well, turkey fat or chicken fat collected\
+  \ from roasted birds will do just fine.\n\nBacon fat and rendered lard are also\
+  \ fine choices, as is just about any sort of animal-derived fat.\n\nIf you must,\
+  \ extra-virgin olive oil will certainly do admirably well, though you won\u2019\
+  t get quite the same level of crispness you\u2019d get with an animal fat.\n\nOnce\
+  \ your potatoes are tossed in fat and seasoned well, all you\u2019ve got to do is\
+  \ roast them in an extremely hot oven until they crisp up. I roast mine on an unlined\
+  \ heavy rimmed baking sheet (they have a tendency to stick to foil). The key is\
+  \ to make sure you let the undersides crisp up completely before you even attempt\
+  \ to lift or flip them. If the potatoes don\u2019t come off relatively easily, you\
+  \ run the risk of breaking off the tops, leaving the crisp bottoms cemented to the\
+  \ bottom of the pan. This is not an ideal situation.\n\nMORAL OF THE STORY: Your\
+  \ potatoes will release themselves from the pan when they\u2019re good and ready.\
+  \ Don\u2019t force them."
+difficulty: ''
+directions: "1. Adjust the oven racks to the upper- and lower-middle positions and\
+  \ preheat the oven to 450\xB0F. Place the potatoes in a large saucepan and cover\
+  \ with cold water by 1 inch. Season generously with salt. Bring to a boil over high\
+  \ heat, reduce to a simmer, and cook until the potatoes are just barely cooked through,\
+  \ about 10 minutes (a knife or cake tester inserted into a potato should meet little\
+  \ resistance). Drain and transfer to a large bowl.\n\n2. Add the fat and a few generous\
+  \ grinds of pepper to the hot potatoes and toss well; the potatoes should end up\
+  \ with a thin coating of potato-fat paste. Spray two rimmed baking sheets with nonstick\
+  \ cooking spray (or coat with a thin layer of oil). Transfer the potatoes to the\
+  \ baking sheets and roast until the bottoms are crisp, rotating the pans halfway\
+  \ through cooking, about 25 minutes. Test the potatoes by trying to pry one or two\
+  \ pieces off the baking sheet with a stiff metal spatula. If they don\u2019t come\
+  \ off easily, roast for additional 3-minute increments until they do.\n\n3. Flip\
+  \ the potatoes with the spatula, making sure to get all the crisped bits off the\
+  \ bottom, then continue to roast until golden brown and crisp all over, about 25\
+  \ more minutes. Transfer to a serving bowl, season to taste, and toss with chopped\
+  \ herbs."
+html:
+  description: "<p>How often do you get roasted potatoes that look like they\u2019\
+    re going to be awesomely crisp only to find that rather than crispness, all you\u2019\
+    ve got is a papery (or worse, leathery) skin on the exterior?</p>\n<p>Roasting\
+    \ potatoes is not quite as easy as roasting most other vegetables. See, with roast\
+    \ potatoes, we\u2019ve got a different set of goals than when, say, roasting Brussels\
+    \ sprouts. First off, we want the potatoes to be cooked through all the way to\
+    \ the center. Fluffy and moist is what we\u2019re after. Second, we want the exterior\
+    \ to be extremely crisp. We\u2019re talking crisper-than-a-French-fry crisp. Simply\
+    \ toss a potato coated with a bit of oil in the oven, and what you end up with\
+    \ is a potato with a paper-thin sheath of crispness around its exterior that very\
+    \ rapidly softens and turns leathery as internal moisture seeps through it.</p>\n\
+    <p>So, what makes a potato crisp? The answer is building up a dehydrated layer\
+    \ of gelatinized starch on the exterior of the spud, much like when you fry a\
+    \ French fry (s e e here). To do this, you\u2019ve got to parcook them, allowing\
+    \ their starches to soften and expand, and then recrystallize by cooling them\
+    \ a bit.</p>\n<p>Our secondary goal is to increase their surface area. Craggy,\
+    \ uneven surfaces crisp up a lot better than smooth ones. Luckily, we can kill\
+    \ two birds with one stone here. By boiling your potatoes before you roast them,\
+    \ not only do you ensure that their outer layers of starch are properly gelatinized,\
+    \ you also soften their exteriors enough that they get a bit battered and bruised\
+    \ when you toss them around with oil before roasting them. This creates a sort\
+    \ of potato-oil paste that adds plenty of surface area and acts almost like a\
+    \ batter for fried foods, creating an extra layer of crispness as the potatoes\
+    \ roast.</p>\n<p>Take a look at these potatoes, roasted side by side in the same\
+    \ oven. One batch was started raw, another was boiled first, and the third was\
+    \ boiled, then roughed. The difference is obvious.</p>\n<p>Next question: What\u2019\
+    s the best fat to use? People often tout the awesomeness of duck fat with potatoes,\
+    \ and for good reason: it tastes awesome. Duck fat has a distinct richness and\
+    \ aroma that gets absorbed very easily into the surface of a spud. On top of that,\
+    \ it\u2019s got plenty of saturated fat and a high smoke point, which makes it\
+    \ an ideal medium for crisping up fried or roasted foods. (In general, the higher\
+    \ the saturated fat content of an oil, the more efficiently it\u2019ll crisp foods.)\
+    \ Can\u2019t get duck fat? Well, turkey fat or chicken fat collected from roasted\
+    \ birds will do just fine.</p>\n<p>Bacon fat and rendered lard are also fine choices,\
+    \ as is just about any sort of animal-derived fat.</p>\n<p>If you must, extra-virgin\
+    \ olive oil will certainly do admirably well, though you won\u2019t get quite\
+    \ the same level of crispness you\u2019d get with an animal fat.</p>\n<p>Once\
+    \ your potatoes are tossed in fat and seasoned well, all you\u2019ve got to do\
+    \ is roast them in an extremely hot oven until they crisp up. I roast mine on\
+    \ an unlined heavy rimmed baking sheet (they have a tendency to stick to foil).\
+    \ The key is to make sure you let the undersides crisp up completely before you\
+    \ even attempt to lift or flip them. If the potatoes don\u2019t come off relatively\
+    \ easily, you run the risk of breaking off the tops, leaving the crisp bottoms\
+    \ cemented to the bottom of the pan. This is not an ideal situation.</p>\n<p>MORAL\
+    \ OF THE STORY: Your potatoes will release themselves from the pan when they\u2019\
+    re good and ready. Don\u2019t force them.</p>\n"
+  directions: "<ol>\n<li>\n<p>Adjust the oven racks to the upper- and lower-middle\
+    \ positions and preheat the oven to 450\xB0F. Place the potatoes in a large saucepan\
+    \ and cover with cold water by 1 inch. Season generously with salt. Bring to a\
+    \ boil over high heat, reduce to a simmer, and cook until the potatoes are just\
+    \ barely cooked through, about 10 minutes (a knife or cake tester inserted into\
+    \ a potato should meet little resistance). Drain and transfer to a large bowl.</p>\n\
+    </li>\n<li>\n<p>Add the fat and a few generous grinds of pepper to the hot potatoes\
+    \ and toss well; the potatoes should end up with a thin coating of potato-fat\
+    \ paste. Spray two rimmed baking sheets with nonstick cooking spray (or coat with\
+    \ a thin layer of oil). Transfer the potatoes to the baking sheets and roast until\
+    \ the bottoms are crisp, rotating the pans halfway through cooking, about 25 minutes.\
+    \ Test the potatoes by trying to pry one or two pieces off the baking sheet with\
+    \ a stiff metal spatula. If they don\u2019t come off easily, roast for additional\
+    \ 3-minute increments until they do.</p>\n</li>\n<li>\n<p>Flip the potatoes with\
+    \ the spatula, making sure to get all the crisped bits off the bottom, then continue\
+    \ to roast until golden brown and crisp all over, about 25 more minutes. Transfer\
+    \ to a serving bowl, season to taste, and toss with chopped herbs.</p>\n</li>\n\
+    </ol>\n"
+  ingredients: "<ul>\n<li>\n<ol>\n<li>3 pounds russet (baking) potatoes, scrubbed\
+    \ and cut into 1- to 2-inch cubes</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>Kosher salt</li>\n\
+    </ol>\n</li>\n<li>\n<ol>\n<li>\xBC cup duck fat, bacon fat, or olive oil</li>\n\
+    </ol>\n</li>\n<li>\n<ol>\n<li>Freshly ground black pepper</li>\n</ol>\n</li>\n\
+    <li>\n<ol>\n<li>Chopped fresh herbs, such as thyme, rosemary, parsley, and/or\
+    \ chives</li>\n</ol>\n</li>\n</ul>\n"
+  notes: null
+  nutrition: null
+image_url: null
+ingredients: "1. 3 pounds russet (baking) potatoes, scrubbed and cut into 1- to 2-inch\
+  \ cubes\n1. Kosher salt\n1. \xBC cup duck fat, bacon fat, or olive oil\n1. Freshly\
+  \ ground black pepper\n1. Chopped fresh herbs, such as thyme, rosemary, parsley,\
+  \ and/or chives"
+intrash: 0
+name: Super-Crisp Roasted Potatoes
+notes: null
+nutritional_info: null
+photo: null
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: ''
+rating: 0
+servings: 4-6
+source: The Food Lab
+source_url: null
+total_time: ''
+type: null
+uid: C1015696-C7AF-4733-9057-844DB17B93D1-50715-0008F84FEDDFD354
 ---

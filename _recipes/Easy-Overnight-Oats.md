@@ -1,7 +1,93 @@
 ---
 title: "Easy Overnight Oats"
 filename: "Easy-Overnight-Oats"
-created: 2020-03-22 14:21:04
+categories:
+- Oats
+cook_time: ''
+created: '2020-03-22 14:21:04'
+created_ts: 1584886864
+description: ''
+difficulty: ''
+directions: 'Place all ingredients into a large glass container and mix until combined.
+
+
+  Cover the glass container with a lid or plastic wrap. Place in the refrigerator
+  for at least 2 hours or overnight. Toppings can be added the night before or immediately
+  before serving.
+
+
+  Uncover and enjoy from the glass container the next day. Thin with a little more
+  milk or water, if desired.'
+html:
+  description: null
+  directions: '<p>Place all ingredients into a large glass container and mix until
+    combined.</p>
+
+    <p>Cover the glass container with a lid or plastic wrap. Place in the refrigerator
+    for at least 2 hours or overnight. Toppings can be added the night before or immediately
+    before serving.</p>
+
+    <p>Uncover and enjoy from the glass container the next day. Thin with a little
+    more milk or water, if desired.</p>
+
+    '
+  ingredients: "<ul>\n<li>Base</li>\n<li>\xBD cup rolled old fashioned oats</li>\n\
+    <li>\xBD cup milk of choice</li>\n<li>\xBC cup non-fat Greek yogurt</li>\n<li>1\
+    \ tablespoon chia seeds</li>\n<li>1 tablespoon sweetener of choice honey or maple\
+    \ syrup</li>\n<li>1/4 teaspoon vanilla extract</li>\n<li>Peanut Butter &amp; Jelly</li>\n\
+    <li>1 tablespoon strawberry jam</li>\n<li>1 tablespoon peanut butter</li>\n<li>\xBC\
+    \ cup diced strawberries</li>\n<li>2 tablespoons peanuts crushed</li>\n<li>Apple\
+    \ Pie</li>\n<li>1/4 cup diced apples</li>\n<li>1 tablespoon pecans chopped</li>\n\
+    <li>2 teaspoons maple syrup</li>\n<li>\xBC teaspoon ground cinnamon</li>\n<li>Banana\
+    \ Nutella</li>\n<li>\xBD banana sliced</li>\n<li>1 tablespoon Nutella</li>\n<li>1\
+    \ tablespoon hazelnuts crushed</li>\n<li>1 tablespoon chocolate chips</li>\n<li>Almond\
+    \ Joy</li>\n<li>\xBC cup shredded coconut</li>\n<li>1 tablespoon almonds chopped</li>\n\
+    <li>1 tablespoon chocolate chips</li>\n<li>2 teaspoons maple syrup</li>\n</ul>\n"
+  notes: '<p>Storage: Overnight oats can be stored in the fridge for up to 5 days.
+    This makes it an ideal breakfast meal prep to make on Sunday night for the week.</p>
+
+    <p>Substitutes: For best results, follow the recipe as is. However here are some
+    common substitutes that would work well in this recipe.</p>
+
+    '
+  nutrition: '<p>Calories: 332kcal | Carbohydrates: 40g | Protein: 17g | Fat: 10g
+    | Saturated Fat: 3g | Cholesterol: 15mg | Sodium: 78mg | Potassium: 439mg | Fiber:
+    8g | Sugar: 8g | Vitamin A: 200IU | Calcium: 300mg | Iron: 2.6mg</p>
+
+    '
+image_url: https://feelgoodfoodie.net/wp-content/uploads/2018/12/Easy-Overnight-Oats-12-360x540.jpg
+ingredients: "Base\n\xBD cup rolled old fashioned oats\n\xBD cup milk of choice\n\xBC\
+  \ cup non-fat Greek yogurt\n1 tablespoon chia seeds\n1 tablespoon sweetener of choice\
+  \ honey or maple syrup\n1/4 teaspoon vanilla extract\nPeanut Butter & Jelly\n1 tablespoon\
+  \ strawberry jam\n1 tablespoon peanut butter\n\xBC cup diced strawberries\n2 tablespoons\
+  \ peanuts crushed\nApple Pie\n1/4 cup diced apples\n1 tablespoon pecans chopped\n\
+  2 teaspoons maple syrup\n\xBC teaspoon ground cinnamon\nBanana Nutella\n\xBD banana\
+  \ sliced\n1 tablespoon Nutella\n1 tablespoon hazelnuts crushed\n1 tablespoon chocolate\
+  \ chips\nAlmond Joy\n\xBC cup shredded coconut\n1 tablespoon almonds chopped\n1\
+  \ tablespoon chocolate chips\n2 teaspoons maple syrup"
+intrash: 0
+name: Easy Overnight Oats
+notes: 'Storage: Overnight oats can be stored in the fridge for up to 5 days. This
+  makes it an ideal breakfast meal prep to make on Sunday night for the week.
+
+
+  Substitutes: For best results, follow the recipe as is. However here are some common
+  substitutes that would work well in this recipe.'
+nutritional_info: 'Calories: 332kcal | Carbohydrates: 40g | Protein: 17g | Fat: 10g
+  | Saturated Fat: 3g | Cholesterol: 15mg | Sodium: 78mg | Potassium: 439mg | Fiber:
+  8g | Sugar: 8g | Vitamin A: 200IU | Calcium: 300mg | Iron: 2.6mg'
+photo: A5461A7E-E31E-4E05-BFF0-D5A27DEB828C-9067-000215D6325AD5E9.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: 5 minutes
+rating: 0
+servings: 1 serving
+source: feelgoodfoodie.net
+source_url: https://feelgoodfoodie.net/recipe/overnight-oats/
+total_time: ''
+type: null
+uid: F6337E97-25EE-4F1A-87DD-D5F7AE9AA2F2-9067-000215CFEFC65460
 ---
 Storage: Overnight oats can be stored in the fridge for up to 5 days. This makes it an ideal breakfast meal prep to make on Sunday night for the week.
 

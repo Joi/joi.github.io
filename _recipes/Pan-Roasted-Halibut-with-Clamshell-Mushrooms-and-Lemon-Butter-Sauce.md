@@ -1,6 +1,95 @@
 ---
 title: "Pan-Roasted Halibut with Clamshell Mushrooms and Lemon Butter Sauce"
 filename: "Pan-Roasted-Halibut-with-Clamshell-Mushrooms-and-Lemon-Butter-Sauce"
-created: 2020-06-14 14:27:59
+categories:
+- Halibut
+cook_time: 15 mins
+created: '2020-06-14 14:27:59'
+created_ts: 1592144879
+description: ''
+difficulty: ''
+directions: 'Instructions Checklist
+
+
+  Heat oil and 1 tablespoon butter in heavy skillet over medium-high heat until butter
+  melts and begins to foam. Add mushrooms and a pinch of salt; saute in hot butter
+  and oil golden brown, about 5 minutes. Push mushroom to the edges to clear a space
+  in the center of the skillet.
+
+
+  Season halibut on each side with salt and cayenne pepper. Place halibut fillets
+  in the center of the skillet and cook until the fillets begin to flake, 3 to 4 minutes
+  per side. Transfer halibut to a warm serving plate.
+
+
+  Pour the water into the pan and bring to a boil while scraping the browned bits
+  of food off of the bottom of the pan with a wooden spoon, until water is reduced
+  by half, 1 to 2 minutes. Pour lemon juice into mushroom mixture and stir.
+
+
+  Stir butter and parsley into mushroom mixture. Stir constantly until butter melts
+  and forms a sauce; remove from heat and season with salt and black pepper. Spoon
+  sauce and mushrooms over halibut.'
+html:
+  description: null
+  directions: '<p>Instructions Checklist</p>
+
+    <p>Heat oil and 1 tablespoon butter in heavy skillet over medium-high heat until
+    butter melts and begins to foam. Add mushrooms and a pinch of salt; saute in hot
+    butter and oil golden brown, about 5 minutes. Push mushroom to the edges to clear
+    a space in the center of the skillet.</p>
+
+    <p>Season halibut on each side with salt and cayenne pepper. Place halibut fillets
+    in the center of the skillet and cook until the fillets begin to flake, 3 to 4
+    minutes per side. Transfer halibut to a warm serving plate.</p>
+
+    <p>Pour the water into the pan and bring to a boil while scraping the browned
+    bits of food off of the bottom of the pan with a wooden spoon, until water is
+    reduced by half, 1 to 2 minutes. Pour lemon juice into mushroom mixture and stir.</p>
+
+    <p>Stir butter and parsley into mushroom mixture. Stir constantly until butter
+    melts and forms a sauce; remove from heat and season with salt and black pepper.
+    Spoon sauce and mushrooms over halibut.</p>
+
+    '
+  ingredients: "<ul>\n<li>1 tablespoon olive oil</li>\n<li>1 tablespoon butter</li>\n\
+    <li>\xBC cup clamshell mushrooms, or more to taste</li>\n<li>salt and freshly\
+    \ ground black pepper to taste</li>\n<li>2 (7 ounce) halibut fillets</li>\n<li>1\
+    \ pinch cayenne pepper, or to taste</li>\n<li>\xBC cup water</li>\n<li>\xBD lemon,\
+    \ juiced</li>\n<li>1\u2009\xBD tablespoons butter, room temperature but not soft</li>\n\
+    <li>1 tablespoon chopped flat-leaf Italian parsley</li>\n</ul>\n"
+  notes: '<p>https://www.youtube.com/watch?v=ypYRfbMSyRo&amp;t=1s</p>
+
+    '
+  nutrition: '<p>407 calories; 25.8 g total fat; 102 mg cholesterol; 212 mg sodium.
+    0.6 g carbohydrates; 41.8 g protein; Full Nutrition</p>
+
+    '
+image_url: null
+ingredients: "1 tablespoon olive oil\n1 tablespoon butter\n\xBC cup clamshell mushrooms,\
+  \ or more to taste\nsalt and freshly ground black pepper to taste\n2 (7 ounce) halibut\
+  \ fillets\n1 pinch cayenne pepper, or to taste\n\xBC cup water\n\xBD lemon, juiced\n\
+  1\u2009\xBD tablespoons butter, room temperature but not soft\n1 tablespoon chopped\
+  \ flat-leaf Italian parsley"
+intrash: 0
+name: Pan-Roasted Halibut with Clamshell Mushrooms and Lemon Butter Sauce
+notes: https://www.youtube.com/watch?v=ypYRfbMSyRo&t=1s
+nutritional_info: 407 calories; 25.8 g total fat; 102 mg cholesterol; 212 mg sodium.
+  0.6 g carbohydrates; 41.8 g protein; Full Nutrition
+photo: 4AE6DE4F-9D14-417F-9377-3B079F26ED99-22544-0003EEAD50714E1F.jpg
+photo_large: F7C82A69-FD21-4B0C-B42E-8FCD0BA0C1E3-22544-0003EEA93F822F5D.jpg
+photos:
+- filename: F7C82A69-FD21-4B0C-B42E-8FCD0BA0C1E3-22544-0003EEA93F822F5D.jpg
+  name: '1'
+photos_dict:
+  '1': F7C82A69-FD21-4B0C-B42E-8FCD0BA0C1E3-22544-0003EEA93F822F5D.jpg
+prep_time: 15 mins
+rating: 5
+servings: 'Servings: 2'
+source: allrecipes.com
+source_url: https://www.allrecipes.com/recipe/236504/pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce/
+total_time: ''
+type: null
+uid: CBA252D8-4074-4C16-B731-B4B6E7EF42B3-1358-00017A9499BA0EF1
 ---
 https://www.youtube.com/watch?v=ypYRfbMSyRo&t=1s

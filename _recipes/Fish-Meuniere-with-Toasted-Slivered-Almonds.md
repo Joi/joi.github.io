@@ -1,5 +1,131 @@
 ---
 title: "Fish Meuniere with Toasted Slivered Almonds"
 filename: "Fish-Meuniere-with-Toasted-Slivered-Almonds"
-created: 2020-03-07 15:44:48
+categories:
+- Fish
+- Seafood
+- White Fish
+cook_time: ''
+created: '2020-03-07 15:44:48'
+created_ts: 1583595888
+description: null
+difficulty: ''
+directions: 'FOR THE FISH: Adjust oven rack to lower-middle position, set 4 heatproof
+  dinner plates on rack, and heat oven to 200 degrees.
+
+
+  Place flour in large baking dish.
+
+
+  Season both sides of each fillet generously with salt and pepper; let stand until
+  fillets are glistening with moisture, about 5 minutes.
+
+
+  Coat both sides of fillets with flour, shake off excess, and place in single layer
+  on baking sheet.
+
+
+  Heat 1 tablespoon oil in 12-inch nonstick skillet over high heat until shimmering,
+  then add 1 tablespoon butter and swirl to coat pan bottom; when foaming subsides,
+  carefully place 2 fillets in skillet, bone-side down. Immediately reduce heat to
+  medium-high and cook, without moving fish, until edges of fillets are opaque and
+  bottom is golden brown, about 3 minutes.
+
+
+  Using 2 spatulas, gently flip fillets (see illustration below) and cook on second
+  side until thickest part of fillet easily separates into flakes when toothpick is
+  inserted, about 2 minutes longer.
+
+
+  Transfer fillets, one to each heated dinner plate, keeping bone- side up, and return
+  plates to oven. Wipe out skillet and repeat with remaining 1 tablespoon each oil
+  and butter and remaining fish fillets.
+
+
+  FOR THE BROWNED BUTTER: Heat butter in 10-inch skillet over medium-high heat until
+  butter melts, 1 to 1 1/2 minutes.
+
+
+  Add almonds and continue to cook, swirling pan constantly, until butter is golden
+  brown and has nutty aroma, 1 to 1 1/2 minutes; remove skillet from heat.
+
+
+  Remove plates from oven and sprinkle fillets with parsley.
+
+
+  Add lemon juice to browned butter and season to taste with salt; spoon sauce over
+  fish and serve immediately with lemon wedges.'
+html:
+  description: null
+  directions: '<p>FOR THE FISH: Adjust oven rack to lower-middle position, set 4 heatproof
+    dinner plates on rack, and heat oven to 200 degrees.</p>
+
+    <p>Place flour in large baking dish.</p>
+
+    <p>Season both sides of each fillet generously with salt and pepper; let stand
+    until fillets are glistening with moisture, about 5 minutes.</p>
+
+    <p>Coat both sides of fillets with flour, shake off excess, and place in single
+    layer on baking sheet.</p>
+
+    <p>Heat 1 tablespoon oil in 12-inch nonstick skillet over high heat until shimmering,
+    then add 1 tablespoon butter and swirl to coat pan bottom; when foaming subsides,
+    carefully place 2 fillets in skillet, bone-side down. Immediately reduce heat
+    to medium-high and cook, without moving fish, until edges of fillets are opaque
+    and bottom is golden brown, about 3 minutes.</p>
+
+    <p>Using 2 spatulas, gently flip fillets (see illustration below) and cook on
+    second side until thickest part of fillet easily separates into flakes when toothpick
+    is inserted, about 2 minutes longer.</p>
+
+    <p>Transfer fillets, one to each heated dinner plate, keeping bone- side up, and
+    return plates to oven. Wipe out skillet and repeat with remaining 1 tablespoon
+    each oil and butter and remaining fish fillets.</p>
+
+    <p>FOR THE BROWNED BUTTER: Heat butter in 10-inch skillet over medium-high heat
+    until butter melts, 1 to 1 1/2 minutes.</p>
+
+    <p>Add almonds and continue to cook, swirling pan constantly, until butter is
+    golden brown and has nutty aroma, 1 to 1 1/2 minutes; remove skillet from heat.</p>
+
+    <p>Remove plates from oven and sprinkle fillets with parsley.</p>
+
+    <p>Add lemon juice to browned butter and season to taste with salt; spoon sauce
+    over fish and serve immediately with lemon wedges.</p>
+
+    '
+  ingredients: "<ul>\n<li><strong>Fish</strong></li>\n<li>\xBD cup unbleached all-purpose\
+    \ flour</li>\n<li>4 sole fillets or flounder fillets, each 5 to 6 ounces and 3/8\
+    \ inch thick, patted dry with paper towels</li>\n<li>Salt and ground black pepper</li>\n\
+    <li>2 tablespoons vegetable oil</li>\n<li>2 tablespoons unsalted butter, cut into\
+    \ 2 pieces</li>\n<li><strong>Browned Butter</strong></li>\n<li>4 tablespoons unsalted\
+    \ butter, cut into 4 pieces</li>\n<li>\xBC cup slivered almonds</li>\n<li>1 tablespoon\
+    \ chopped fresh parsley leaves</li>\n<li>1 \xBD tablespoons lemon juice from 1\
+    \ lemon</li>\n<li>1 lemon, cut in wedges for serving</li>\n</ul>\n"
+  notes: null
+  nutrition: null
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/1343_jf04-fishmeuniere-article
+ingredients: "**Fish**\n\xBD cup unbleached all-purpose flour\n4 sole fillets or flounder\
+  \ fillets, each 5 to 6 ounces and 3/8 inch thick, patted dry with paper towels\n\
+  Salt and ground black pepper\n2 tablespoons vegetable oil\n2 tablespoons unsalted\
+  \ butter, cut into 2 pieces\n**Browned Butter**\n4 tablespoons unsalted butter,\
+  \ cut into 4 pieces\n\xBC cup slivered almonds\n1 tablespoon chopped fresh parsley\
+  \ leaves\n1 \xBD tablespoons lemon juice from 1 lemon\n1 lemon, cut in wedges for\
+  \ serving"
+intrash: 0
+name: Fish Meuniere with Toasted Slivered Almonds
+notes: null
+nutritional_info: null
+photo: 5BADFF99-FE9C-4BE6-831E-B88022939C46-7996-000005DA8EFD2D3E.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: ''
+rating: 5
+servings: Serves 4
+source: cooksillustrated.com
+source_url: https://www.cooksillustrated.com/recipes/1399-fish-meuniere-with-toasted-slivered-almonds?incode=MCSCM00L0&ref=new_search_experience_7
+total_time: ''
+type: null
+uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4
 ---

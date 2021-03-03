@@ -1,5 +1,108 @@
 ---
 title: "Indoor-Smoked Salt-And-Pepper Beef Ribs"
 filename: "Indoor-Smoked-Salt-And-Pepper-Beef-Ribs"
-created: 2020-03-31 19:38:55
+categories:
+- Beef
+- Ribs
+cook_time: 7 hours 30 minutes
+created: '2020-03-31 19:38:55'
+created_ts: 1585683535
+description: ''
+difficulty: ''
+directions: 'Place the ribs meat-side down on a baking sheet or cutting board and
+  remove the papery membrane from the back of the rack by inserting a small knife
+  beneath it and levering it. Peel off the membrane and discard.
+
+
+  Mix the salt, pepper, brown sugar, paprika and a pinch of red pepper flakes to taste,
+  breaking up the brown sugar with a fork. Using your hands, cover the meat entirely
+  in this rub.
+
+
+  Place a stovetop smoker on a burner. (Alternately, you can make one by lining the
+  inside of a large wok with wide, heavy foil.) Place the wood chips on the bottom
+  of the smoker, toward the center. Cover with the drip pan. Set the grate over the
+  drip pan. (If using a homemade wok smoker, place the wood chips on the bottom of
+  the foil-lined wok. Make a drip pan by placing a heavy piece of foil over both the
+  chips and the bottom of the wok, but do not let it rise up the sides. Set a small,
+  round baking rack, about 9 inches in diameter, over the drip pan.)
+
+
+  Cut each rib rack in half. Place two rib pieces, meat-side down, on the baking rack,
+  then set a second baking rack - about 11 inches in diameter, if using a wok - over
+  the ribs and place the remaining two rib pieces, meat-side-down, on top. Cover tightly
+  with foil, making sure there is at least 1 inch of space between the foil lid and
+  the ribs. Set the heat to high. When smoke appears, lower the heat to medium-high
+  and smoke for as long as you can stand the smoke, no more than 2 hours. (The tighter
+  the lid, the less smoke will be released.) Transfer the wok outdoors before removing
+  the lid.
+
+
+  Preheat the oven to 200 degrees. Set the rib racks on a rimmed baking sheet. Place
+  in the oven and cook for 5 hours. The meat will darken.
+
+
+  Cut into individual portions. Serve with napkins and, if you choose, barbecue sauce.'
+html:
+  description: null
+  directions: '<p>Place the ribs meat-side down on a baking sheet or cutting board
+    and remove the papery membrane from the back of the rack by inserting a small
+    knife beneath it and levering it. Peel off the membrane and discard.</p>
+
+    <p>Mix the salt, pepper, brown sugar, paprika and a pinch of red pepper flakes
+    to taste, breaking up the brown sugar with a fork. Using your hands, cover the
+    meat entirely in this rub.</p>
+
+    <p>Place a stovetop smoker on a burner. (Alternately, you can make one by lining
+    the inside of a large wok with wide, heavy foil.) Place the wood chips on the
+    bottom of the smoker, toward the center. Cover with the drip pan. Set the grate
+    over the drip pan. (If using a homemade wok smoker, place the wood chips on the
+    bottom of the foil-lined wok. Make a drip pan by placing a heavy piece of foil
+    over both the chips and the bottom of the wok, but do not let it rise up the sides.
+    Set a small, round baking rack, about 9 inches in diameter, over the drip pan.)</p>
+
+    <p>Cut each rib rack in half. Place two rib pieces, meat-side down, on the baking
+    rack, then set a second baking rack - about 11 inches in diameter, if using a
+    wok - over the ribs and place the remaining two rib pieces, meat-side-down, on
+    top. Cover tightly with foil, making sure there is at least 1 inch of space between
+    the foil lid and the ribs. Set the heat to high. When smoke appears, lower the
+    heat to medium-high and smoke for as long as you can stand the smoke, no more
+    than 2 hours. (The tighter the lid, the less smoke will be released.) Transfer
+    the wok outdoors before removing the lid.</p>
+
+    <p>Preheat the oven to 200 degrees. Set the rib racks on a rimmed baking sheet.
+    Place in the oven and cook for 5 hours. The meat will darken.</p>
+
+    <p>Cut into individual portions. Serve with napkins and, if you choose, barbecue
+    sauce.</p>
+
+    '
+  ingredients: "<ul>\n<li>2 racks beef ribs, 5 to 7 pounds total (see Note 1)</li>\n\
+    <li>3 tablespoons kosher salt</li>\n<li>2 tablespoons freshly cracked black pepper</li>\n\
+    <li>2 tablespoons brown sugar</li>\n<li>1 tablespoon paprika</li>\n<li>Red pepper\
+    \ flakes, to taste</li>\n<li>\xBC cup finely ground hickory chips, preferably\
+    \ Cameron (see Note 2)</li>\n</ul>\n"
+  notes: null
+  nutrition: null
+image_url: https://static01.nyt.com/images/2014/04/07/dining/Beef-Ribs/Beef-Ribs-mediumThreeByTwo440.jpg
+ingredients: "2 racks beef ribs, 5 to 7 pounds total (see Note 1)\n3 tablespoons kosher\
+  \ salt\n2 tablespoons freshly cracked black pepper\n2 tablespoons brown sugar\n\
+  1 tablespoon paprika\nRed pepper flakes, to taste\n\xBC cup finely ground hickory\
+  \ chips, preferably Cameron (see Note 2)"
+intrash: 0
+name: Indoor-Smoked Salt-And-Pepper Beef Ribs
+notes: ''
+nutritional_info: ''
+photo: 5B248191-C2D7-44FB-8929-07ADACB66F2E-16595-000152567235B35D.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: ''
+rating: 0
+servings: Serves 4
+source: cooking.nytimes.com
+source_url: https://cooking.nytimes.com/recipes/1014236-indoor-smoked-salt-and-pepper-beef-ribs?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=15
+total_time: ''
+type: null
+uid: AF68B12A-0B8D-4B25-8CF9-B95BA29D1D13-16595-00015255043617C2
 ---

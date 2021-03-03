@@ -1,5 +1,111 @@
 ---
 title: "Sautéed Striped Bass with Lemon and Herb Sauce Is the Perfect Summer Dinner"
 filename: "Sauteed-Striped-Bass-with-Lemon-and-Herb-Sauce-Is-the-Perfect-Summer-Dinner"
-created: 2020-07-20 23:29:04
+categories:
+- Striped Bass
+cook_time: 30 mins
+created: '2020-07-20 23:29:04'
+created_ts: 1595287744
+description: null
+difficulty: null
+directions: 'Sprinkle fillets with pepper and 3/4 teaspoon salt; let stand 20 minutes.
+
+
+  Heat a large nonstick skillet over medium-high. Add lemons, cut sides down, and
+  cook until lightly charred, about 5 minutes. Add olive oil, and place fillets, skin
+  sides down, in skillet with lemon. Cook, undisturbed, until sides of skin begin
+  to brown and fish is almost fully opaque, 5 to 7 minutes.
+
+
+  When the fillets appear to be approximately 90% cooked through, gently shake skillet.
+  When cooked with patience, the fish will release itself from the pan, allowing you
+  to flip the fillets without sticking. Flip fillets, and cook 1 minute. Transfer
+  fish and lemons to plates. Cut each lemon half into 2 wedges. Wipe skillet clean.
+
+
+  Reduce heat to medium-low, and add wine, remaining 1/4 teaspoon salt, and butter.
+  As butter melts, whisk to emulsify mixture. Spoon sauce over fillets. Sprinkle with
+  parsley, and serve with a charred lemon wedge.'
+html:
+  description: null
+  directions: '<p>Sprinkle fillets with pepper and 3/4 teaspoon salt; let stand 20
+    minutes.</p>
+
+    <p>Heat a large nonstick skillet over medium-high. Add lemons, cut sides down,
+    and cook until lightly charred, about 5 minutes. Add olive oil, and place fillets,
+    skin sides down, in skillet with lemon. Cook, undisturbed, until sides of skin
+    begin to brown and fish is almost fully opaque, 5 to 7 minutes.</p>
+
+    <p>When the fillets appear to be approximately 90% cooked through, gently shake
+    skillet. When cooked with patience, the fish will release itself from the pan,
+    allowing you to flip the fillets without sticking. Flip fillets, and cook 1 minute.
+    Transfer fish and lemons to plates. Cut each lemon half into 2 wedges. Wipe skillet
+    clean.</p>
+
+    <p>Reduce heat to medium-low, and add wine, remaining 1/4 teaspoon salt, and butter.
+    As butter melts, whisk to emulsify mixture. Spoon sauce over fillets. Sprinkle
+    with parsley, and serve with a charred lemon wedge.</p>
+
+    '
+  ingredients: '<ul>
+
+    <li>4 (5-oz.) skin-on striped bass fillets (either hybrid striped bass or wild),
+    patted dry</li>
+
+    <li>1/4 teaspoon black pepper</li>
+
+    <li>1 teaspoon kosher salt, divided</li>
+
+    <li>1 lemon, halved lengthwise</li>
+
+    <li>3 tablespoons olive oil</li>
+
+    <li>2 tablespoons dry white wine</li>
+
+    <li>2 tablespoons cold unsalted butter</li>
+
+    <li>2 tablespoons chopped fresh parsley</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: '<p>Calories 290 Fat 19g Satfat 6g Unsatfat 12g Protein 26g Carbohydrate
+    3g Fiber 1g Sugars 0g Sodium 581mg Calcium 4% DV Potassium 9% DV</p>
+
+    '
+image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F1526940931%2Fsauteed-striped-bass-with-lemon-and-herb-sauce-1807-p59.jpg%3Fitok%3DwNncF5Ya&w=400&c=sc&poi=face&q=85
+ingredients: '4 (5-oz.) skin-on striped bass fillets (either hybrid striped bass or
+  wild), patted dry
+
+  1/4 teaspoon black pepper
+
+  1 teaspoon kosher salt, divided
+
+  1 lemon, halved lengthwise
+
+  3 tablespoons olive oil
+
+  2 tablespoons dry white wine
+
+  2 tablespoons cold unsalted butter
+
+  2 tablespoons chopped fresh parsley'
+intrash: 0
+name: "Saut\xE9ed Striped Bass with Lemon and Herb Sauce Is the Perfect Summer Dinner"
+notes: null
+nutritional_info: Calories 290 Fat 19g Satfat 6g Unsatfat 12g Protein 26g Carbohydrate
+  3g Fiber 1g Sugars 0g Sodium 581mg Calcium 4% DV Potassium 9% DV
+photo: C972AE56-35EA-4C9F-B812-45BA2F14E9A7-31407-000013DE211EC378.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: 30 mins
+rating: 0
+servings: Serves 4
+source: cookinglight.com
+source_url: https://www.cookinglight.com/recipes/sauteed-striped-bass-with-lemon-and-herb-sauce
+total_time: null
+type: null
+uid: A80D7DA1-65C1-4E54-9E37-61D898075857-31407-000013DDF69CA4EB
 ---

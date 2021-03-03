@@ -1,5 +1,107 @@
 ---
 title: "Lemon Butter Sauce"
 filename: "Lemon-Butter-Sauce"
-created: 2020-11-03 13:07:17
+categories:
+- Sauce
+cook_time: 15 mins
+created: '2020-11-03 13:07:17'
+created_ts: 1604408837
+description: null
+difficulty: null
+directions: 'Place a medium non-stick skillet over medium heat, add 1 tablespoon of
+  butter. Allow the butter to melt, add onion and garlic and cook stirring frequently.
+  Cook until onion is translucent, about 3 minutes. Add the wine and lemon juice and
+  bring to a boil over high heat. Continue to cook until the liquid is reduced to
+  about 1/4 cup, about 3-5 minutes.
+
+
+  Reduce the heat to low, add 3 tablespoons of butter at a time and whisk the butter
+  in until it is completely melted. You want the butter to slowly soften into an emulsified
+  sauce, not quickly melting; it is a process. Add the remaining butter 3 tablespoons
+  at a time until all the butter has been added into the sauce. The last addition
+  will be just 2 tbsp. Season the sauce with salt and pepper, then remove from heat.
+
+
+  Serve immediately or store sauce up to 2 hours at room temperature. If you are to
+  reheat the sauce, do it over a low setting otherwise the sauce will separate.
+
+
+  If it does separate remember the sauce will still taste the same, just not have
+  the same look, it will look more like melted butter. After a few times of making
+  the sauce, you will get the hang of it.
+
+
+  Cooking this sauce on low heat is key.'
+html:
+  description: null
+  directions: '<p>Place a medium non-stick skillet over medium heat, add 1 tablespoon
+    of butter. Allow the butter to melt, add onion and garlic and cook stirring frequently.
+    Cook until onion is translucent, about 3 minutes. Add the wine and lemon juice
+    and bring to a boil over high heat. Continue to cook until the liquid is reduced
+    to about 1/4 cup, about 3-5 minutes.</p>
+
+    <p>Reduce the heat to low, add 3 tablespoons of butter at a time and whisk the
+    butter in until it is completely melted. You want the butter to slowly soften
+    into an emulsified sauce, not quickly melting; it is a process. Add the remaining
+    butter 3 tablespoons at a time until all the butter has been added into the sauce.
+    The last addition will be just 2 tbsp. Season the sauce with salt and pepper,
+    then remove from heat.</p>
+
+    <p>Serve immediately or store sauce up to 2 hours at room temperature. If you
+    are to reheat the sauce, do it over a low setting otherwise the sauce will separate.</p>
+
+    <p>If it does separate remember the sauce will still taste the same, just not
+    have the same look, it will look more like melted butter. After a few times of
+    making the sauce, you will get the hang of it.</p>
+
+    <p>Cooking this sauce on low heat is key.</p>
+
+    '
+  ingredients: '<ul>
+
+    <li>12 tablespoons cold unsalted butter, sliced into 1/2 inch pieces, divided</li>
+
+    <li>2 tablespoons finely chopped yellow onion</li>
+
+    <li>2 garlic cloves, minced</li>
+
+    <li>1/3 cup dry white wine</li>
+
+    <li>3 tablespoons fresh lemon juice</li>
+
+    <li>Kosher salt and ground white pepper</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
+image_url: https://dashofsanity.com/wp-content/uploads/2018/01/COPYCAT-CARRABBAS-LEMON-BUTTER-SAUCE.png
+ingredients: '12 tablespoons cold unsalted butter, sliced into 1/2 inch pieces, divided
+
+  2 tablespoons finely chopped yellow onion
+
+  2 garlic cloves, minced
+
+  1/3 cup dry white wine
+
+  3 tablespoons fresh lemon juice
+
+  Kosher salt and ground white pepper'
+intrash: 0
+name: Lemon Butter Sauce
+notes: null
+nutritional_info: null
+photo: E5B37250-BAB0-40DD-8825-DD8C87D4E63C-10626-0000074C7D910106.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: 15 mins
+rating: 5
+servings: null
+source: dashofsanity.com
+source_url: https://dashofsanity.com/copycat-carrabbas-lemon-butter-sauce/
+total_time: null
+type: null
+uid: E2E90BC0-9E53-4ABE-9A74-07AC0D2B286F-10626-0000074C49E472D7
 ---

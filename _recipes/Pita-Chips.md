@@ -1,5 +1,69 @@
 ---
 title: "Pita Chips"
 filename: "Pita-Chips"
-created: 2020-06-25 16:36:57
+categories:
+- Bread and Biscuits
+cook_time: 7 mins
+created: '2020-06-25 16:36:57'
+created_ts: 1593103017
+description: ''
+difficulty: ''
+directions: 'Instructions Checklist
+
+
+  Preheat oven to 400 degrees F (200 degrees C).
+
+
+  Cut each pita bread into 8 triangles. Place triangles on lined cookie sheet.
+
+
+  In a small bowl, combine the oil, pepper, salt, basil and chervil. Brush each triangle
+  with oil mixture.
+
+
+  Bake in the preheated oven for about 7 minutes, or until lightly browned and crispy.
+  Watch carefully, as they tend to burn easily!'
+html:
+  description: null
+  directions: '<p>Instructions Checklist</p>
+
+    <p>Preheat oven to 400 degrees F (200 degrees C).</p>
+
+    <p>Cut each pita bread into 8 triangles. Place triangles on lined cookie sheet.</p>
+
+    <p>In a small bowl, combine the oil, pepper, salt, basil and chervil. Brush each
+    triangle with oil mixture.</p>
+
+    <p>Bake in the preheated oven for about 7 minutes, or until lightly browned and
+    crispy. Watch carefully, as they tend to burn easily!</p>
+
+    '
+  ingredients: "<ul>\n<li>12 pita bread pockets</li>\n<li>\xBD cup olive oil</li>\n\
+    <li>\xBD teaspoon ground black pepper</li>\n<li>1 teaspoon garlic salt</li>\n\
+    <li>\xBD teaspoon dried basil</li>\n<li>1 teaspoon dried chervil</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>125.3 calories; 3.2 g protein; 17.7 g carbohydrates; 0 mg cholesterol;
+    245.9 mg sodium. Full Nutrition</p>
+
+    '
+image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5270122.jpg&w=568&h=380&c=sc&poi=face&q=85
+ingredients: "12 pita bread pockets\n\xBD cup olive oil\n\xBD teaspoon ground black\
+  \ pepper\n1 teaspoon garlic salt\n\xBD teaspoon dried basil\n1 teaspoon dried chervil"
+intrash: 0
+name: Pita Chips
+notes: ''
+nutritional_info: 125.3 calories; 3.2 g protein; 17.7 g carbohydrates; 0 mg cholesterol;
+  245.9 mg sodium. Full Nutrition
+photo: 562D275D-06C0-4006-94C8-54AABCBF7526-22544-0004E1FC8729F7B1.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: 10 mins
+rating: 5
+servings: 'Servings: 24'
+source: allrecipes.com
+source_url: https://www.allrecipes.com/recipe/14827/pita-chips/
+total_time: ''
+type: null
+uid: D06BD415-2D41-4CB1-A8D1-7135509AC066-22544-0004E1F97748FAF9
 ---

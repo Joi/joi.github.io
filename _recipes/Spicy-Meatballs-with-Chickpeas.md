@@ -1,5 +1,111 @@
 ---
 title: "Spicy Meatballs with Chickpeas"
 filename: "Spicy-Meatballs-with-Chickpeas"
-created: 2020-04-11 15:09:18
+categories:
+- Pork
+- Chicken
+- Meat
+- Ground Beef
+- Turkey
+cook_time: 1 hour
+created: '2020-04-11 15:09:18'
+created_ts: 1586617758
+description: ''
+difficulty: ''
+directions: 'Heat oven to 350 degrees. Make the meatballs: In a large bowl, combine
+  ground lamb, raw rice, salt, cumin, coriander, cinnamon, onion and garlic. Knead
+  mixture well.
+
+
+  Coat a sheet pan or roasting pan lightly with olive oil. With wet hands, form mixture
+  into 1-ounce meatballs and arrange in one layer on pan. Bake, uncovered, for about
+  15 minutes, until lightly browned. Remove and let cool slightly.
+
+
+  Meanwhile, make the gravy: Place a wide heavy-bottomed pot or Dutch oven over medium
+  heat. Add 2 tablespoons olive oil. When oil is hot, add onion, sprinkle lightly
+  with salt and cook, stirring until softened and just beginning to brown, about 10
+  minutes.
+
+
+  Add saffron with soaking water, cumin, red-pepper flakes and cinnamon stick. Crush
+  tomatoes with your hands, and add to pot, along with all tomato juices. Raise heat
+  to medium-high, add broth and bring to a simmer. Taste and add more salt or red-pepper
+  flakes as needed. Carefully add meatballs and adjust heat to a gentle simmer. Cover
+  and cook for 30 minutes.
+
+
+  Warm 2 tablespoons olive oil in a wide skillet over medium-high heat. Add chickpeas
+  and a splash of water and heat through. Season to taste with salt. Sprinkle with
+  chopped parsley or cilantro. Serve each diner 5 or 6 meatballs and plenty of gravy.
+  Add a large spoonful of chickpeas on the side.'
+html:
+  description: null
+  directions: '<p>Heat oven to 350 degrees. Make the meatballs: In a large bowl, combine
+    ground lamb, raw rice, salt, cumin, coriander, cinnamon, onion and garlic. Knead
+    mixture well.</p>
+
+    <p>Coat a sheet pan or roasting pan lightly with olive oil. With wet hands, form
+    mixture into 1-ounce meatballs and arrange in one layer on pan. Bake, uncovered,
+    for about 15 minutes, until lightly browned. Remove and let cool slightly.</p>
+
+    <p>Meanwhile, make the gravy: Place a wide heavy-bottomed pot or Dutch oven over
+    medium heat. Add 2 tablespoons olive oil. When oil is hot, add onion, sprinkle
+    lightly with salt and cook, stirring until softened and just beginning to brown,
+    about 10 minutes.</p>
+
+    <p>Add saffron with soaking water, cumin, red-pepper flakes and cinnamon stick.
+    Crush tomatoes with your hands, and add to pot, along with all tomato juices.
+    Raise heat to medium-high, add broth and bring to a simmer. Taste and add more
+    salt or red-pepper flakes as needed. Carefully add meatballs and adjust heat to
+    a gentle simmer. Cover and cook for 30 minutes.</p>
+
+    <p>Warm 2 tablespoons olive oil in a wide skillet over medium-high heat. Add chickpeas
+    and a splash of water and heat through. Season to taste with salt. Sprinkle with
+    chopped parsley or cilantro. Serve each diner 5 or 6 meatballs and plenty of gravy.
+    Add a large spoonful of chickpeas on the side.</p>
+
+    '
+  ingredients: "<ul>\n<li>FOR THE MEATBALLS:</li>\n<li>1 \xBD pounds ground lamb (or\
+    \ substitute ground beef, pork or turkey)</li>\n<li>\xBD cup raw arborio rice\
+    \ or any white rice, rinsed and drained</li>\n<li>2 teaspoons kosher salt</li>\n\
+    <li>1 teaspoon toasted ground cumin</li>\n<li>1 teaspoon toasted ground coriander</li>\n\
+    <li>\xBD teaspoon ground cinnamon</li>\n<li>\xBD cup finely diced onion</li>\n\
+    <li>3 garlic cloves, grated or minced</li>\n<li>FOR THE GRAVY:</li>\n<li>Extra-virgin\
+    \ olive oil</li>\n<li>\xBD cup finely diced onion</li>\n<li>Kosher salt</li>\n\
+    <li>Pinch of saffron, crumbled, steeped in 1/4 cup warm water (optional)</li>\n\
+    <li>1 teaspoon toasted ground cumin</li>\n<li>\xBD teaspoon red-pepper flakes,\
+    \ or to taste</li>\n<li>1 (2-inch) cinnamon stick</li>\n<li>1 (28-ounce) can plum\
+    \ tomatoes with their juices</li>\n<li>1 cup chicken or beef broth (or chickpea\
+    \ cooking liquid)</li>\n<li>6 cups cooked chickpeas</li>\n<li>\xBD cup chopped\
+    \ parsley, cilantro or a combination</li>\n</ul>\n"
+  notes: null
+  nutrition: null
+image_url: https://static01.nyt.com/images/2020/04/08/dining/03Tanisrex-meatballs/merlin_171108054_b5f9159b-9d08-4188-88bc-d28d2dcc3ea1-articleLarge.jpg
+ingredients: "FOR THE MEATBALLS:\n1 \xBD pounds ground lamb (or substitute ground\
+  \ beef, pork or turkey)\n\xBD cup raw arborio rice or any white rice, rinsed and\
+  \ drained\n2 teaspoons kosher salt\n1 teaspoon toasted ground cumin\n1 teaspoon\
+  \ toasted ground coriander\n\xBD teaspoon ground cinnamon\n\xBD cup finely diced\
+  \ onion\n3 garlic cloves, grated or minced\nFOR THE GRAVY:\nExtra-virgin olive oil\n\
+  \xBD cup finely diced onion\nKosher salt\nPinch of saffron, crumbled, steeped in\
+  \ 1/4 cup warm water (optional)\n1 teaspoon toasted ground cumin\n\xBD teaspoon\
+  \ red-pepper flakes, or to taste\n1 (2-inch) cinnamon stick\n1 (28-ounce) can plum\
+  \ tomatoes with their juices\n1 cup chicken or beef broth (or chickpea cooking liquid)\n\
+  6 cups cooked chickpeas\n\xBD cup chopped parsley, cilantro or a combination"
+intrash: 0
+name: Spicy Meatballs with Chickpeas
+notes: ''
+nutritional_info: ''
+photo: 728F1B69-5DC3-46E9-A7E0-3A6766561CA9-53878-00004D7B3FC443A9.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: ''
+rating: 0
+servings: Yield 4 to 6 servings
+source: cooking.nytimes.com
+source_url: https://cooking.nytimes.com/recipes/1020975-spicy-meatballs-with-chickpeas?campaign_id=58&em_pos=medium&emc=edit_ck_20200411&instance_id=17545&nl=cooking&nl_art=4&ref=headline&regi_id=66130213&segment_id=24805&te=1&user_id=395abe2366af6455c19c9a60f1d308e8
+total_time: ''
+type: null
+uid: 4838DF55-3CCF-4F7C-A10A-E8AC57455ABB-53878-00004D78F774CAD8
 ---

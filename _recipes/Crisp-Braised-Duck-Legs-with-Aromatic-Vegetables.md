@@ -1,5 +1,96 @@
 ---
 title: "Crisp-Braised Duck Legs with Aromatic Vegetables"
 filename: "Crisp-Braised-Duck-Legs-with-Aromatic-Vegetables"
-created: 2020-04-07 12:31:28
+categories:
+- Duck
+cook_time: about 2 hours
+created: '2020-04-07 12:31:28'
+created_ts: 1586262688
+description: null
+difficulty: null
+directions: 'Put duck legs, skin side down, in a skillet large enough to accommodate
+  all ingredients comfortably; turn heat to medium. Heat oven to 400 degrees. Brown
+  duck legs carefully and evenly, sprinkling them with salt and pepper as they cook.
+  Meanwhile, peel and dice vegetables.
+
+
+  When legs are nicely browned, turn them over and sear for just a minute or two.
+  Remove to a plate; remove all but enough fat to moisten vegetables. Add vegetables
+  to skillet along with some salt and pepper. Cook over medium-high heat, stirring
+  occasionally, until they begin to brown, 10 to 15 minutes. Return duck legs to pan,
+  skin side up, and add stock; it should come about halfway up duck legs but should
+  not cover them. Turn heat to high, bring to a boil, and transfer to oven.
+
+
+  Cook for 30 minutes, then lower heat to 350 degrees. Continue to cook, undisturbed,
+  until duck is tender and liquid reduced, at least another half hour. The duck is
+  done when a thin-bladed knife pierces the meat with little resistance. When done,
+  duck will hold nicely in a warm oven for another hour. Serve hot.'
+html:
+  description: null
+  directions: '<p>Put duck legs, skin side down, in a skillet large enough to accommodate
+    all ingredients comfortably; turn heat to medium. Heat oven to 400 degrees. Brown
+    duck legs carefully and evenly, sprinkling them with salt and pepper as they cook.
+    Meanwhile, peel and dice vegetables.</p>
+
+    <p>When legs are nicely browned, turn them over and sear for just a minute or
+    two. Remove to a plate; remove all but enough fat to moisten vegetables. Add vegetables
+    to skillet along with some salt and pepper. Cook over medium-high heat, stirring
+    occasionally, until they begin to brown, 10 to 15 minutes. Return duck legs to
+    pan, skin side up, and add stock; it should come about halfway up duck legs but
+    should not cover them. Turn heat to high, bring to a boil, and transfer to oven.</p>
+
+    <p>Cook for 30 minutes, then lower heat to 350 degrees. Continue to cook, undisturbed,
+    until duck is tender and liquid reduced, at least another half hour. The duck
+    is done when a thin-bladed knife pierces the meat with little resistance. When
+    done, duck will hold nicely in a warm oven for another hour. Serve hot.</p>
+
+    '
+  ingredients: '<ul>
+
+    <li>2 duck legs, trimmed of excess fat</li>
+
+    <li>Salt and pepper to taste</li>
+
+    <li>2 large onion</li>
+
+    <li>1 pound carrots</li>
+
+    <li>6 celery stalks</li>
+
+    <li>2 cups chicken stock, preferably homemade</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
+image_url: null
+ingredients: '2 duck legs, trimmed of excess fat
+
+  Salt and pepper to taste
+
+  2 large onion
+
+  1 pound carrots
+
+  6 celery stalks
+
+  2 cups chicken stock, preferably homemade'
+intrash: 0
+name: Crisp-Braised Duck Legs with Aromatic Vegetables
+notes: null
+nutritional_info: null
+photo: null
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: null
+rating: 5
+servings: Yield 4 servings
+source: cooking.nytimes.com
+source_url: https://cooking.nytimes.com/recipes/1017472-crisp-braised-duck-legs-with-aromatic-vegetables?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
+total_time: null
+type: null
+uid: 59C94A12-982E-4BD9-8826-A29B0DA9019C-24114-00000F463DF5064E
 ---

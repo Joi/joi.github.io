@@ -1,5 +1,155 @@
 ---
 title: "Ragú Bolognese"
 filename: "Ragu-Bolognese"
-created: 2020-02-03 03:22:10
+categories:
+- Pasta
+- Veal
+- Italian
+- Meat
+cook_time: null
+created: '2020-02-03 03:22:10'
+created_ts: 1580700130
+description: "A rag\xFA is a meat sauce that is usually made with beef or veal, but\
+  \ can also be made from chicken, duckling, turkey, rabbit or lamb. Traditionally\
+  \ argue was made only at home and every self-respecting Italian housewife would\
+  \ start cooking her rag\xFA early in the morning and let it cook very slowly for\
+  \ at least 4 hours. Naples is particularly famous for its rag\xFA.\n\nIt is very\
+  \ rare to find a restaurant that serves a good rag\xFA. The rag\xFA takes a long\
+  \ time to make, but it should be eaten within a few hours. Unfortunately many restaurants\
+  \ like to keep their rag\xFA on hand for days at a time. At Harry's Bar we always\
+  \ make the sauce the day we serve it.\n\nRag\xFA - sometimes called Bolognese sauce\
+  \ - is good with any pasta, but I think fusilli are best."
+difficulty: Medium
+directions: "Chop the carrot, celery, and onion in a food processor fitted with the\
+  \ steel blade or by hand. Heat half the oil in a skillet, add the chopped vegetables,\
+  \ and saut\xE9 over medium heat for 10 minutes. Meanwhile, in a separate large skillet\
+  \ heat the remaining oil over medium heat. Add the garlic, let cool until golden,\
+  \ about 30 seconds, and discard it. Add the ground veal and stir to break up the\
+  \ meat. Cook the meat, stirring frequently, until it is evenly browned - about 10\
+  \ minutes.\n\nAdd the tomato paste, stirring until blended, and cook for 2 minutes.\
+  \ Stir in the flour and cook for another 2 minutes. Then raise the heat, add the\
+  \ white wine, let it boil until it is almost all evaporated, and stir in the stock,\
+  \ salt, pepper, and bouquet garni, scraping up the brown bits from the bottom of\
+  \ the pan. Bringing the mixture to a boil, lower the heat, and simmer, uncovered,\
+  \ for 1 hour, stirring rom time to time. If the sauce reduces too fast, lower the\
+  \ heat and add a few spoonfuls of stock or water. The sauce should not be too thick;\
+  \ it should pour from the spoon when it's done. Taste and adjust the seasoning.\n\
+  \nVariation: Substitute ground chicken, turkey, lamb or beef for the veal.\n\nWine\
+  \ notes\nItalian Chianti - Monte Vertine\nAmerican Zinfandel \"reserve\" - Fetzer\
+  \ Vineyards\n"
+html:
+  description: "<p>A rag\xFA is a meat sauce that is usually made with beef or veal,\
+    \ but can also be made from chicken, duckling, turkey, rabbit or lamb. Traditionally\
+    \ argue was made only at home and every self-respecting Italian housewife would\
+    \ start cooking her rag\xFA early in the morning and let it cook very slowly for\
+    \ at least 4 hours. Naples is particularly famous for its rag\xFA.</p>\n<p>It\
+    \ is very rare to find a restaurant that serves a good rag\xFA. The rag\xFA takes\
+    \ a long time to make, but it should be eaten within a few hours. Unfortunately\
+    \ many restaurants like to keep their rag\xFA on hand for days at a time. At Harry's\
+    \ Bar we always make the sauce the day we serve it.</p>\n<p>Rag\xFA - sometimes\
+    \ called Bolognese sauce - is good with any pasta, but I think fusilli are best.</p>\n"
+  directions: "<p>Chop the carrot, celery, and onion in a food processor fitted with\
+    \ the steel blade or by hand. Heat half the oil in a skillet, add the chopped\
+    \ vegetables, and saut\xE9 over medium heat for 10 minutes. Meanwhile, in a separate\
+    \ large skillet heat the remaining oil over medium heat. Add the garlic, let cool\
+    \ until golden, about 30 seconds, and discard it. Add the ground veal and stir\
+    \ to break up the meat. Cook the meat, stirring frequently, until it is evenly\
+    \ browned - about 10 minutes.</p>\n<p>Add the tomato paste, stirring until blended,\
+    \ and cook for 2 minutes. Stir in the flour and cook for another 2 minutes. Then\
+    \ raise the heat, add the white wine, let it boil until it is almost all evaporated,\
+    \ and stir in the stock, salt, pepper, and bouquet garni, scraping up the brown\
+    \ bits from the bottom of the pan. Bringing the mixture to a boil, lower the heat,\
+    \ and simmer, uncovered, for 1 hour, stirring rom time to time. If the sauce reduces\
+    \ too fast, lower the heat and add a few spoonfuls of stock or water. The sauce\
+    \ should not be too thick; it should pour from the spoon when it's done. Taste\
+    \ and adjust the seasoning.</p>\n<p>Variation: Substitute ground chicken, turkey,\
+    \ lamb or beef for the veal.</p>\n<p>Wine notes\nItalian Chianti - Monte Vertine\n\
+    American Zinfandel &quot;reserve&quot; - Fetzer Vineyards</p>\n"
+  ingredients: '<ul>
+
+    <li>1 carrot, peeled</li>
+
+    <li>1 celery rib</li>
+
+    <li>1 small onion</li>
+
+    <li>1/2 cup olive oil</li>
+
+    <li>1 garlic clove, crushed</li>
+
+    <li>1 pound ground veal</li>
+
+    <li>1/2 cup tomato paste</li>
+
+    <li>2 tablespoons flour</li>
+
+    <li>1/2 cup dry white wine</li>
+
+    <li>1 quart chicken stock or veal stock</li>
+
+    <li>1 teaspoon salt</li>
+
+    <li>Freshly ground pepper</li>
+
+    <li>1 fresh rosemary sprig</li>
+
+    <li>1 fresh thyme sprig</li>
+
+    <li>2 flat leaf parsley sprigs</li>
+
+    <li>Cheesecloth for bouquet garni</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
+image_url: null
+ingredients: '1 carrot, peeled
+
+  1 celery rib
+
+  1 small onion
+
+  1/2 cup olive oil
+
+  1 garlic clove, crushed
+
+  1 pound ground veal
+
+  1/2 cup tomato paste
+
+  2 tablespoons flour
+
+  1/2 cup dry white wine
+
+  1 quart chicken stock or veal stock
+
+  1 teaspoon salt
+
+  Freshly ground pepper
+
+  1 fresh rosemary sprig
+
+  1 fresh thyme sprig
+
+  2 flat leaf parsley sprigs
+
+  Cheesecloth for bouquet garni'
+intrash: 0
+name: "Rag\xFA Bolognese"
+notes: null
+nutritional_info: null
+photo: null
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: null
+rating: 5
+servings: 2 cups
+source: Harry's Bar Cookbook
+source_url: null
+total_time: null
+type: null
+uid: 262E123B-CE5F-49F4-A4BF-6EB433B9D6DA-408-0000264A91039DA4
 ---

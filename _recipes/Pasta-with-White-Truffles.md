@@ -1,5 +1,107 @@
 ---
 title: "Pasta with White Truffles"
 filename: "Pasta-with-White-Truffles"
-created: 2020-11-25 21:09:52
+categories:
+- Truffles
+cook_time: 20 minutes
+created: '2020-11-25 21:09:52'
+created_ts: 1606338592
+description: null
+difficulty: null
+directions: 'Cook the pasta in plenty of boiling salted water. Drain.
+
+
+  Meanwhile, in a large saucepan big enough to hold the cooked pasta easily, melt
+  the butter.
+
+
+  Stir in the cheese and cream. Add the cooked pasta, toss well and sprinkle with
+  salt and pepper.
+
+
+  Put into a serving dish and grate the truffle over the pasta or serve the truffle
+  at the table allowing each guest to help himself. Serve additional cheese in a small
+  bowl.'
+html:
+  description: null
+  directions: '<p>Cook the pasta in plenty of boiling salted water. Drain.</p>
+
+    <p>Meanwhile, in a large saucepan big enough to hold the cooked pasta easily,
+    melt the butter.</p>
+
+    <p>Stir in the cheese and cream. Add the cooked pasta, toss well and sprinkle
+    with salt and pepper.</p>
+
+    <p>Put into a serving dish and grate the truffle over the pasta or serve the truffle
+    at the table allowing each guest to help himself. Serve additional cheese in a
+    small bowl.</p>
+
+    '
+  ingredients: "<ul>\n<li>1 \xBD pounds fresh pasta (capellini or fettuccine)</li>\n\
+    <li>\xBD cup unsalted butter</li>\n<li>1 \xBD cups freshly grated Parmesan cheese</li>\n\
+    <li>1 cup heavy cream</li>\n<li>Coarse salt and freshly ground pepper to taste</li>\n\
+    <li>About 1 ounce white truffle</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Trans Fat: 0 grams
+
+    Fat: 30 grams
+
+    Calories: 544
+
+    Saturated Fat: 18 grams
+
+    Unsaturated Fat: 10 grams
+
+    Sodium: 359 milligrams
+
+    Sugar: 1 gram
+
+    Fiber: 3 grams
+
+    Carbohydrate: 51 grams
+
+    Protein: 18 grams</p>
+
+    '
+image_url: null
+ingredients: "1 \xBD pounds fresh pasta (capellini or fettuccine)\n\xBD cup unsalted\
+  \ butter\n1 \xBD cups freshly grated Parmesan cheese\n1 cup heavy cream\nCoarse\
+  \ salt and freshly ground pepper to taste\nAbout 1 ounce white truffle"
+intrash: 0
+name: Pasta with White Truffles
+notes: null
+nutritional_info: 'Trans Fat: 0 grams
+
+  Fat: 30 grams
+
+  Calories: 544
+
+  Saturated Fat: 18 grams
+
+  Unsaturated Fat: 10 grams
+
+  Sodium: 359 milligrams
+
+  Sugar: 1 gram
+
+  Fiber: 3 grams
+
+  Carbohydrate: 51 grams
+
+  Protein: 18 grams'
+photo: 453EBA32-177A-49EC-9336-98B0AD716B92-11471-0000094731F44B7B.jpg
+photo_large: 81E46551-2430-40C3-B750-D0AAD801C145-11471-000009472E191D6A.jpg
+photos:
+- filename: 81E46551-2430-40C3-B750-D0AAD801C145-11471-000009472E191D6A.jpg
+  name: '1'
+photos_dict:
+  '1': 81E46551-2430-40C3-B750-D0AAD801C145-11471-000009472E191D6A.jpg
+prep_time: null
+rating: 5
+servings: Yield 8 servings
+source: cooking.nytimes.com
+source_url: https://cooking.nytimes.com/recipes/1106-pasta-with-white-truffles?ds_c=71700000052595478&gclid=CjwKCAiAnvj9BRA4EiwAuUMDf2EDyei4s-c9dQro-qc11KGYQa70KJa2BhnF9yYNv3yUgnss0WyVXBoCUz0QAvD_BwE&gclsrc=aw.ds
+total_time: null
+type: null
+uid: C3AD4197-9530-4692-AD10-00AAAB5AD132-68048-0001193223818FE6
 ---

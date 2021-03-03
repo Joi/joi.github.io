@@ -1,7 +1,88 @@
 ---
 title: "Crown Roast of Lamb - Thermoworks"
 filename: "Crown-Roast-of-Lamb---Thermoworks"
-created: 2020-07-13 20:49:10
+categories:
+- Lamb
+cook_time: ''
+created: '2020-07-13 20:49:10'
+created_ts: 1594673350
+description: ''
+difficulty: ''
+directions: "Preheat oven to 425\xB0F (218\xB0C).\n\nOn the side of the racks with\
+  \ the bones, cut a shallow slit\u2014about \xBC-inch\u2014in the thick of the meat\
+  \ between each rib\u2019s end.\n\nCut another shallow slit perpendicular to and\
+  \ at the end of all the bones, separating their ends from the thick meat.\n\nCover\
+  \ a soup can in aluminum foil and set it on your work surface.\n\nUse the soup can\
+  \ to curve the rib racks, bone-side out, and tie them into a circle. Tie the racks\
+  \ in the hollow of the bones and also in the slit you cut beneath the bones. Use\
+  \ a slip-knot that you can cinch down to tighten the string.\n\nRemove the soup\
+  \ can and adjust the shape of your crown roast so that it is mostly circular.\n\n\
+  Combine herbs, garlic, lemons zest, oil, salt, and pepper.\n\nRub roast all over\
+  \ with the seasoning mixture, including the bottom of the crown and deep in the\
+  \ slits that you cut earlier.\n\nInsert a Pro-Series\xAE robe from a ChefAlarm into\
+  \ the meat in the thickest part. Set the high alarm for 125\xB0F (52\xB0C) for medium-rare.\n\
+  \nCap the bare bones with a sheet of foil to prevent them from burning.\n\nPlace\
+  \ the roast on a sheet pan and roast it until the desired temperature is reached.\
+  \ This should take about 25-30 minutes.\n\nAllow the roast to rest, then untie it.\
+  \ If you like bring it to the table filled with roasted vegetables or another stuffing\
+  \ that you have prepared separately.\n\nServe by slicing into chops between the\
+  \ ribs."
+html:
+  description: null
+  directions: "<p>Preheat oven to 425\xB0F (218\xB0C).</p>\n<p>On the side of the\
+    \ racks with the bones, cut a shallow slit\u2014about \xBC-inch\u2014in the thick\
+    \ of the meat between each rib\u2019s end.</p>\n<p>Cut another shallow slit perpendicular\
+    \ to and at the end of all the bones, separating their ends from the thick meat.</p>\n\
+    <p>Cover a soup can in aluminum foil and set it on your work surface.</p>\n<p>Use\
+    \ the soup can to curve the rib racks, bone-side out, and tie them into a circle.\
+    \ Tie the racks in the hollow of the bones and also in the slit you cut beneath\
+    \ the bones. Use a slip-knot that you can cinch down to tighten the string.</p>\n\
+    <p>Remove the soup can and adjust the shape of your crown roast so that it is\
+    \ mostly circular.</p>\n<p>Combine herbs, garlic, lemons zest, oil, salt, and\
+    \ pepper.</p>\n<p>Rub roast all over with the seasoning mixture, including the\
+    \ bottom of the crown and deep in the slits that you cut earlier.</p>\n<p>Insert\
+    \ a Pro-Series\xAE robe from a ChefAlarm into the meat in the thickest part. Set\
+    \ the high alarm for 125\xB0F (52\xB0C) for medium-rare.</p>\n<p>Cap the bare\
+    \ bones with a sheet of foil to prevent them from burning.</p>\n<p>Place the roast\
+    \ on a sheet pan and roast it until the desired temperature is reached. This should\
+    \ take about 25-30 minutes.</p>\n<p>Allow the roast to rest, then untie it. If\
+    \ you like bring it to the table filled with roasted vegetables or another stuffing\
+    \ that you have prepared separately.</p>\n<p>Serve by slicing into chops between\
+    \ the ribs.</p>\n"
+  ingredients: "<ul>\n<li>2 Tbsp chopped fresh rosemary</li>\n<li>6 garlic cloves,\
+    \ minced</li>\n<li>1 Tbsp chopped fresh oregano</li>\n<li>2 Tbsp chopped fresh\
+    \ parsley</li>\n<li>1 tsp lemon zest</li>\n<li>1 \xBD tsp salt</li>\n<li>1 tsp\
+    \ ground black pepper</li>\n<li>2 Frenched racks of lamb, each consisting of 7\
+    \ ribs</li>\n<li>Olive oil</li>\n</ul>\n"
+  notes: "<p>LAMB ROAST DONENESS TEMPERATURE CHART\nPreferred Doneness\tDegrees F\t\
+    Degrees C\nRare\t\t\t\t120-129\xB0F\t(49-54\xB0C)\nMedium Rare\t\t130-134\xB0\
+    F\t(55-57\xB0C)\nMedium\t\t\t\t135-144\xB0F\t(58-62\xB0C)\nMedium Well\t\t\t145-154\xB0\
+    F\t(63-67\xB0C)\nWell Done\t\t\t155-164\xB0F\t(68-73\xB0C)</p>\n"
+  nutrition: null
+image_url: https://blog.thermoworks.com/wp-content/uploads/2018/12/crown_roast_lamb_mk4_chefalarm-44-of-52-1024x683.jpg
+ingredients: "2 Tbsp chopped fresh rosemary\n6 garlic cloves, minced\n1 Tbsp chopped\
+  \ fresh oregano\n2 Tbsp chopped fresh parsley\n1 tsp lemon zest\n1 \xBD tsp salt\n\
+  1 tsp ground black pepper\n2 Frenched racks of lamb, each consisting of 7 ribs\n\
+  Olive oil"
+intrash: 0
+name: Crown Roast of Lamb - Thermoworks
+notes: "LAMB ROAST DONENESS TEMPERATURE CHART\nPreferred Doneness\tDegrees F\tDegrees\
+  \ C\nRare\t\t\t\t120-129\xB0F\t(49-54\xB0C)\nMedium Rare\t\t130-134\xB0F\t(55-57\xB0\
+  C)\nMedium\t\t\t\t135-144\xB0F\t(58-62\xB0C)\nMedium Well\t\t\t145-154\xB0F\t(63-67\xB0\
+  C)\nWell Done\t\t\t155-164\xB0F\t(68-73\xB0C)"
+nutritional_info: ''
+photo: 8F6894BA-1EF6-4FDC-9392-F5C1F6D616AD-29053-00041844B562EBFB.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: ''
+rating: 0
+servings: ''
+source: blog.thermoworks.com
+source_url: https://blog.thermoworks.com/blog/crown-roast-of-lamb/?gclid=CjwKCAjwjLD4BRAiEiwAg5NBFpYV0Z_X92bJ1jt70QHkxlKyzQA4cgZ6w8gUOGinMba5osRApA8vlBoCiwMQAvD_BwE
+total_time: ''
+type: null
+uid: 6841B537-E74F-4F36-AAA5-1F702A69BCB7-29053-0004183AC71EA44D
 ---
 LAMB ROAST DONENESS TEMPERATURE CHART
 Preferred Doneness	Degrees F	Degrees C

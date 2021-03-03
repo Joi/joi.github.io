@@ -1,5 +1,120 @@
 ---
 title: "Deviled Chicken Thighs"
 filename: "Deviled-Chicken-Thighs"
-created: 2020-03-16 19:06:22
+categories:
+- Chicken
+cook_time: 20 minutes
+created: '2020-03-16 19:06:22'
+created_ts: 1584385582
+description: null
+difficulty: ''
+directions: 'Heat the broiler to its maximum, and set the rack about 4 inches from
+  the heat. Season the chicken with salt and pepper on both sides, and place it in
+  a pan, skin side up. Broil, watching carefully, until the skin is golden brown,
+  about 5 minutes.
+
+
+  Meanwhile, combine the mustard, shallots and cayenne. (If you have a small food
+  processor, you can chop the shallots by throwing them in with the mustard and pulsing
+  the machine on and off a few times.)
+
+
+  When the chicken has browned, remove it from oven, and turn it. Spread just a teaspoon
+  or so of the mustard mixture on the underside of the chicken, and broil about 5
+  minutes. Turn the chicken, and spread the remaining mixture on the upper, or skin
+  side. Broil until mustard begins to brown.
+
+
+  At this point, the chicken may be done. (There will be only the barest trace of
+  pink near the bone; an instant-read thermometer inserted into the meat will read
+  160 degrees.) If it is not done, turn off the broiler and leave the chicken in the
+  oven 5 more minutes or so. Garnish and serve.'
+html:
+  description: null
+  directions: '<p>Heat the broiler to its maximum, and set the rack about 4 inches
+    from the heat. Season the chicken with salt and pepper on both sides, and place
+    it in a pan, skin side up. Broil, watching carefully, until the skin is golden
+    brown, about 5 minutes.</p>
+
+    <p>Meanwhile, combine the mustard, shallots and cayenne. (If you have a small
+    food processor, you can chop the shallots by throwing them in with the mustard
+    and pulsing the machine on and off a few times.)</p>
+
+    <p>When the chicken has browned, remove it from oven, and turn it. Spread just
+    a teaspoon or so of the mustard mixture on the underside of the chicken, and broil
+    about 5 minutes. Turn the chicken, and spread the remaining mixture on the upper,
+    or skin side. Broil until mustard begins to brown.</p>
+
+    <p>At this point, the chicken may be done. (There will be only the barest trace
+    of pink near the bone; an instant-read thermometer inserted into the meat will
+    read 160 degrees.) If it is not done, turn off the broiler and leave the chicken
+    in the oven 5 more minutes or so. Garnish and serve.</p>
+
+    '
+  ingredients: "<ul>\n<li>8 chicken thighs, or a mixture of thighs and drumsticks</li>\n\
+    <li>Salt and freshly ground black pepper</li>\n<li>\u2153 cup Dijon mustard</li>\n\
+    <li>\u2153 cup minced shallots, onion or scallion</li>\n<li>\xBC teaspoon ground\
+    \ cayenne pepper or Tabasco sauce, or to taste</li>\n<li>Minced parsley for garnish,\
+    \ optional</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 683
+
+    Total Carbohydrates: 5 grams
+
+    Total Fat: 50 grams
+
+    Dietary fiber: 2 grams
+
+    Protein: 50 grams
+
+    Saturated fat: 14 grams
+
+    Sodium: 775 milligrams
+
+    Sugar: 1 grams
+
+    Trans Fat: 0 grams
+
+    Unsaturated fat: 21 grams</p>
+
+    '
+image_url: https://static01.nyt.com/images/2016/02/09/dining/09COOKING_BAKEDCHICKEN2/09COOKING_BAKEDCHICKEN2-articleLarge-v2.jpg
+ingredients: "8 chicken thighs, or a mixture of thighs and drumsticks\nSalt and freshly\
+  \ ground black pepper\n\u2153 cup Dijon mustard\n\u2153 cup minced shallots, onion\
+  \ or scallion\n\xBC teaspoon ground cayenne pepper or Tabasco sauce, or to taste\n\
+  Minced parsley for garnish, optional"
+intrash: 0
+name: Deviled Chicken Thighs
+notes: null
+nutritional_info: 'Calories: 683
+
+  Total Carbohydrates: 5 grams
+
+  Total Fat: 50 grams
+
+  Dietary fiber: 2 grams
+
+  Protein: 50 grams
+
+  Saturated fat: 14 grams
+
+  Sodium: 775 milligrams
+
+  Sugar: 1 grams
+
+  Trans Fat: 0 grams
+
+  Unsaturated fat: 21 grams'
+photo: 446EC510-0EFA-4071-AC8E-C9527C094041-3480-000002944A27EDF2.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: ''
+rating: 3
+servings: Yield 4 servings
+source: cooking.nytimes.com
+source_url: https://cooking.nytimes.com/recipes/7237-deviled-chicken-thighs?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
+total_time: ''
+type: null
+uid: 3D759CDC-26D2-4052-B997-70FA0B74A0FC-3480-00000293D31F2FFE
 ---

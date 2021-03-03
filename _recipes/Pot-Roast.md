@@ -1,5 +1,159 @@
 ---
 title: "Pot Roast"
 filename: "Pot-Roast"
-created: 2020-03-31 17:17:45
+categories:
+- Beef
+- Short Ribs
+- Chuck Roast
+cook_time: 3 hours
+created: '2020-03-31 17:17:45'
+created_ts: 1585675065
+description: ''
+difficulty: ''
+directions: 'Preheat oven to 340 degrees. Season meat generously with salt and pepper.
+  On the stove top, heat oil in a large Dutch oven, or other heavy roasting pan with
+  a lid, over medium-high heat. Sear the meat until a dark crust forms, 3 to 4 minutes
+  per side. Remove meat to a plate.
+
+
+  Reduce heat to medium and add butter to the pan. Melt the butter and add the whole
+  head of garlic and vegetables, stirring frequently and scraping the bottom of the
+  pot, until the vegetables start to color, 8 to 10 minutes.
+
+
+  Add tomato paste and cook, stirring frequently, until it darkens slightly, about
+  5 minutes.
+
+
+  Add bay leaves, rosemary and wine and cook, stirring occasionally, until liquid
+  is reduced to a thick gravy consistency, 5 to 7 minutes.
+
+
+  Return meat to the pot. Add broth, then cover the pot and transfer to the oven.
+  Cook for 2 hours 20 minutes.
+
+
+  Let roast sit at room temperature for at least 10 minutes. Remove meat to a cutting
+  board to slice. Discard bay leaves and rosemary stems. Squeeze any garlic cloves
+  remaining in their skins into the stew and discard the skins. Serve slices of meat
+  in shallow bowls along with the vegetables and a generous amount of cooking liquid
+  ladled over top.'
+html:
+  description: null
+  directions: '<p>Preheat oven to 340 degrees. Season meat generously with salt and
+    pepper. On the stove top, heat oil in a large Dutch oven, or other heavy roasting
+    pan with a lid, over medium-high heat. Sear the meat until a dark crust forms,
+    3 to 4 minutes per side. Remove meat to a plate.</p>
+
+    <p>Reduce heat to medium and add butter to the pan. Melt the butter and add the
+    whole head of garlic and vegetables, stirring frequently and scraping the bottom
+    of the pot, until the vegetables start to color, 8 to 10 minutes.</p>
+
+    <p>Add tomato paste and cook, stirring frequently, until it darkens slightly,
+    about 5 minutes.</p>
+
+    <p>Add bay leaves, rosemary and wine and cook, stirring occasionally, until liquid
+    is reduced to a thick gravy consistency, 5 to 7 minutes.</p>
+
+    <p>Return meat to the pot. Add broth, then cover the pot and transfer to the oven.
+    Cook for 2 hours 20 minutes.</p>
+
+    <p>Let roast sit at room temperature for at least 10 minutes. Remove meat to a
+    cutting board to slice. Discard bay leaves and rosemary stems. Squeeze any garlic
+    cloves remaining in their skins into the stew and discard the skins. Serve slices
+    of meat in shallow bowls along with the vegetables and a generous amount of cooking
+    liquid ladled over top.</p>
+
+    '
+  ingredients: "<ul>\n<li>3 pound boneless beef chuck roast</li>\n<li>Kosher salt\
+    \ and ground black pepper</li>\n<li>3 tablespoons canola oil</li>\n<li>4 tablespoons\
+    \ butter</li>\n<li>2 medium red onions, cut into quarters</li>\n<li>4 carrots,\
+    \ peeled and cut into 2-inch pieces</li>\n<li>3 stalks celery, cut into 2-inch\
+    \ pieces</li>\n<li>1 rutabaga, peeled and cut into 12 to 16 pieces, about a pound</li>\n\
+    <li>8 cremini mushrooms, halved</li>\n<li>2 parsnips, peeled and cut into 2-inch\
+    \ pieces</li>\n<li>1 head garlic, top cut off to expose cloves</li>\n<li>\xBE\
+    \ cup tomato paste</li>\n<li>2 bay leaves</li>\n<li>3 sprigs rosemary</li>\n<li>1\
+    \ \xBD cups red wine, preferably cabernet</li>\n<li>4 cups beef broth</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 634
+
+    Total Carbohydrates: 25 grams
+
+    Total Fat: 40 grams
+
+    Dietary fiber: 6 grams
+
+    Protein: 38 grams
+
+    Saturated fat: 16 grams
+
+    Sodium: 1275 milligrams
+
+    Sugar: 11 grams
+
+    Trans Fat: 2 grams
+
+    Unsaturated fat: 19 grams</p>
+
+    '
+image_url: null
+ingredients: "3 pound boneless beef chuck roast\nKosher salt and ground black pepper\n\
+  3 tablespoons canola oil\n4 tablespoons butter\n2 medium red onions, cut into quarters\n\
+  4 carrots, peeled and cut into 2-inch pieces\n3 stalks celery, cut into 2-inch pieces\n\
+  1 rutabaga, peeled and cut into 12 to 16 pieces, about a pound\n8 cremini mushrooms,\
+  \ halved\n2 parsnips, peeled and cut into 2-inch pieces\n1 head garlic, top cut\
+  \ off to expose cloves\n\xBE cup tomato paste\n2 bay leaves\n3 sprigs rosemary\n\
+  1 \xBD cups red wine, preferably cabernet\n4 cups beef broth"
+intrash: 0
+name: Pot Roast
+notes: ''
+nutritional_info: 'Calories: 634
+
+  Total Carbohydrates: 25 grams
+
+  Total Fat: 40 grams
+
+  Dietary fiber: 6 grams
+
+  Protein: 38 grams
+
+  Saturated fat: 16 grams
+
+  Sodium: 1275 milligrams
+
+  Sugar: 11 grams
+
+  Trans Fat: 2 grams
+
+  Unsaturated fat: 19 grams'
+photo: 96D06D78-5113-4EEC-8D5C-03C44E0206CE-22544-0003EF07E40DA354.jpg
+photo_large: 2D40670C-A559-41B4-9712-32CA3FACA82C-7583-00000435D43CC350.jpg
+photos:
+- filename: 5474C822-5EE3-44D6-9B21-024F25E3C015-15303-000005874256DC57.jpg
+  name: '1'
+- filename: FB0DA254-0D33-4569-B914-47B8F9683611-15303-0000058756BBFB5C.jpg
+  name: '3'
+- filename: 58EAD647-51EF-4595-A0B7-EAF41807AA7A-15303-000005876C5A07F8.jpg
+  name: '4'
+- filename: 6E93139B-043F-4483-9422-2AFA3D0D80A4-15303-00000587973A9C8E.jpg
+  name: '5'
+- filename: 3A79BB51-26CD-4D73-A0AF-B34912CBEEEC-15303-00000587F65DAF55.jpg
+  name: '6'
+- filename: 2D40670C-A559-41B4-9712-32CA3FACA82C-7583-00000435D43CC350.jpg
+  name: '7'
+photos_dict:
+  '1': 5474C822-5EE3-44D6-9B21-024F25E3C015-15303-000005874256DC57.jpg
+  '3': FB0DA254-0D33-4569-B914-47B8F9683611-15303-0000058756BBFB5C.jpg
+  '4': 58EAD647-51EF-4595-A0B7-EAF41807AA7A-15303-000005876C5A07F8.jpg
+  '5': 6E93139B-043F-4483-9422-2AFA3D0D80A4-15303-00000587973A9C8E.jpg
+  '6': 3A79BB51-26CD-4D73-A0AF-B34912CBEEEC-15303-00000587F65DAF55.jpg
+  '7': 2D40670C-A559-41B4-9712-32CA3FACA82C-7583-00000435D43CC350.jpg
+prep_time: ''
+rating: 5
+servings: Yield 6 to 8 servings
+source: cooking.nytimes.com
+source_url: https://cooking.nytimes.com/recipes/1018016-pot-roast?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
+total_time: ''
+type: null
+uid: 9E51E154-F0B2-46FC-BF16-AF76BFEC11E9-16595-00014AA0B768B050
 ---

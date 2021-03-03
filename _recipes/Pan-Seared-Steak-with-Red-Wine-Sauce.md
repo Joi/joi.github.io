@@ -1,5 +1,125 @@
 ---
 title: "Pan-Seared Steak with Red Wine Sauce"
 filename: "Pan-Seared-Steak-with-Red-Wine-Sauce"
-created: 2020-03-30 16:04:41
+categories:
+- Beef
+- Steaks
+cook_time: 35 minutes
+created: '2020-03-30 16:04:41'
+created_ts: 1585584281
+description: ''
+difficulty: ''
+directions: 'Generously sprinkle salt and pepper all over steaks, then let steaks
+  rest uncovered for 15 minutes at room temperature. Meanwhile, mince the shallots.
+
+
+  Melt 1/2 tablespoon butter and the oil in a large skillet over medium-high heat
+  until almost smoking. Add steaks and cook until done to taste, about 3 to 4 minutes
+  per side for rare and a little longer for medium-rare or medium. (Bone-in steaks
+  take a few minutes longer to cook through than boneless.) If the pan begins to smoke
+  or burn, lower the heat. Transfer steaks to a plate to rest while you prepare the
+  sauce.
+
+
+  Add shallots to the skillet and cook over medium heat until lightly browned, about
+  1 minute. Add brandy to the skillet and use a long-handled match or igniter to set
+  the brandy on fire. (Stand back when you do this.) Let flames die out, then add
+  red wine and cook until reduced and syrupy, 2 to 4 minutes. Add stock and boil until
+  reduced and thickened, 3 to 4 minutes longer.
+
+
+  Remove pan from heat and whisk in remaining 2 tablespoons butter and the chives.
+  Serve steaks and sauce immediately with watercress.'
+html:
+  description: null
+  directions: '<p>Generously sprinkle salt and pepper all over steaks, then let steaks
+    rest uncovered for 15 minutes at room temperature. Meanwhile, mince the shallots.</p>
+
+    <p>Melt 1/2 tablespoon butter and the oil in a large skillet over medium-high
+    heat until almost smoking. Add steaks and cook until done to taste, about 3 to
+    4 minutes per side for rare and a little longer for medium-rare or medium. (Bone-in
+    steaks take a few minutes longer to cook through than boneless.) If the pan begins
+    to smoke or burn, lower the heat. Transfer steaks to a plate to rest while you
+    prepare the sauce.</p>
+
+    <p>Add shallots to the skillet and cook over medium heat until lightly browned,
+    about 1 minute. Add brandy to the skillet and use a long-handled match or igniter
+    to set the brandy on fire. (Stand back when you do this.) Let flames die out,
+    then add red wine and cook until reduced and syrupy, 2 to 4 minutes. Add stock
+    and boil until reduced and thickened, 3 to 4 minutes longer.</p>
+
+    <p>Remove pan from heat and whisk in remaining 2 tablespoons butter and the chives.
+    Serve steaks and sauce immediately with watercress.</p>
+
+    '
+  ingredients: "<ul>\n<li>Kosher salt, as needed</li>\n<li>Freshly ground black pepper,\
+    \ as needed</li>\n<li>1 \xBD pounds boneless steak, or 1 3/4 pounds bone-in steak\
+    \ (1 1/2 inches thick)</li>\n<li>2 shallots</li>\n<li>2 \xBD tablespoons unsalted\
+    \ butter</li>\n<li>\xBD teaspoon neutral oil, such as grapeseed</li>\n<li>2 tablespoons\
+    \ good brandy, preferably Cognac</li>\n<li>\u2153 cup dry red wine</li>\n<li>\u2153\
+    \ cup beef or chicken stock, preferably homemade</li>\n<li>1 tablespoon chopped\
+    \ chives</li>\n<li>Watercress, for serving</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 517
+
+    Total Carbohydrates: 7 grams
+
+    Total Fat: 35 grams
+
+    Dietary fiber: 1 gram
+
+    Protein: 35 grams
+
+    Saturated fat: 16 grams
+
+    Sodium: 594 milligrams
+
+    Sugar: 3 grams
+
+    Trans Fat: 2 grams
+
+    Unsaturated fat: 15 grams</p>
+
+    '
+image_url: https://static01.nyt.com/images/2017/01/13/dining/13STEAK-1/13STEAK-1-articleLarge.jpg
+ingredients: "Kosher salt, as needed\nFreshly ground black pepper, as needed\n1 \xBD\
+  \ pounds boneless steak, or 1 3/4 pounds bone-in steak (1 1/2 inches thick)\n2 shallots\n\
+  2 \xBD tablespoons unsalted butter\n\xBD teaspoon neutral oil, such as grapeseed\n\
+  2 tablespoons good brandy, preferably Cognac\n\u2153 cup dry red wine\n\u2153 cup\
+  \ beef or chicken stock, preferably homemade\n1 tablespoon chopped chives\nWatercress,\
+  \ for serving"
+intrash: 0
+name: Pan-Seared Steak with Red Wine Sauce
+notes: ''
+nutritional_info: 'Calories: 517
+
+  Total Carbohydrates: 7 grams
+
+  Total Fat: 35 grams
+
+  Dietary fiber: 1 gram
+
+  Protein: 35 grams
+
+  Saturated fat: 16 grams
+
+  Sodium: 594 milligrams
+
+  Sugar: 3 grams
+
+  Trans Fat: 2 grams
+
+  Unsaturated fat: 15 grams'
+photo: CFDABB00-F3BB-4177-9F82-6986E6E5B7B1-16595-0000F811EAD40BBB.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: ''
+rating: 4
+servings: Yield 4 servings
+source: cooking.nytimes.com
+source_url: https://cooking.nytimes.com/recipes/1018530-pan-seared-steak-with-red-wine-sauce?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=8
+total_time: ''
+type: null
+uid: E04CA9F8-FA0C-4488-8180-75643AF3F07C-16595-0000F81038E507B6
 ---

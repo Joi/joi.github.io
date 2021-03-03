@@ -1,5 +1,77 @@
 ---
 title: "Sweet and Sour Pork Ribs"
 filename: "Sweet-and-Sour-Pork-Ribs"
-created: 2020-02-03 15:58:54
+categories:
+- Pork
+cook_time: 30min
+created: '2020-02-03 15:58:54'
+created_ts: 1580745534
+description: null
+difficulty: Easy
+directions: "Place vegetable oil and ginger into mixing bowl and cook 3 min/250\xB0\
+  F/speed 1.\n\nAdd pork ribs, rock sugar, Chinese rice wine, rice vinegar and soy\
+  \ sauce, place simmering basket instead of measuring cup onto mixing bowl lid and\
+  \ cook 22-25 min/250\xB0F/\uE003/speed \uE002, depending on size of ribs. Serve\
+  \ hot.\n\nTips & tricks\n\nGarnish with green onions, sliced on the bias.\n\nReplace\
+  \ rock sugar with jaggary sugar or panela sugar.\n\nTo remove the odor from raw\
+  \ pork: before cooking, place 18 oz pork spare ribs, cut into pieces (2 in.) into\
+  \ mixing bowl, cover ribs with water and blanch 30 min/100\xB0F/\uE003/speed \uE002\
+  . Set ribs aside, dry mixing bowl, and continue with recipe.\n\nFor riblets, have\
+  \ the butcher cut ribs in half."
+html:
+  description: null
+  directions: "<p>Place vegetable oil and ginger into mixing bowl and cook 3 min/250\xB0\
+    F/speed 1.</p>\n<p>Add pork ribs, rock sugar, Chinese rice wine, rice vinegar\
+    \ and soy sauce, place simmering basket instead of measuring cup onto mixing bowl\
+    \ lid and cook 22-25 min/250\xB0F/\uE003/speed \uE002, depending on size of ribs.\
+    \ Serve hot.</p>\n<p>Tips &amp; tricks</p>\n<p>Garnish with green onions, sliced\
+    \ on the bias.</p>\n<p>Replace rock sugar with jaggary sugar or panela sugar.</p>\n\
+    <p>To remove the odor from raw pork: before cooking, place 18 oz pork spare ribs,\
+    \ cut into pieces (2 in.) into mixing bowl, cover ribs with water and blanch 30\
+    \ min/100\xB0F/\uE003/speed \uE002. Set ribs aside, dry mixing bowl, and continue\
+    \ with recipe.</p>\n<p>For riblets, have the butcher cut ribs in half.</p>\n"
+  ingredients: "<ul>\n<li>\xBD oz vegetable oil</li>\n<li>\xBD oz fresh ginger, thinly\
+    \ sliced</li>\n<li>18 oz pork spare ribs, cut into pieces (2 in.)</li>\n<li>2\
+    \ oz crumb rock sugar</li>\n<li>1 oz Chinese rice wine (Shaoxing Hua Diao)</li>\n\
+    <li>2 oz rice vinegar</li>\n<li>1 oz soy sauce</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 1368 kJ / 327 kcal
+
+    Protein: 26 g
+
+    Carbohydrates: 16 g
+
+    Fat: 17 g
+
+    Fiber: 0 g</p>
+
+    '
+image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/F772BA2A-2A16-4BAC-987F-29DCE887942E/Derivates/887DE0F0-8570-4E9C-8FD8-238A90CF4593.jpg
+ingredients: "\xBD oz vegetable oil\n\xBD oz fresh ginger, thinly sliced\n18 oz pork\
+  \ spare ribs, cut into pieces (2 in.)\n2 oz crumb rock sugar\n1 oz Chinese rice\
+  \ wine (Shaoxing Hua Diao)\n2 oz rice vinegar\n1 oz soy sauce"
+intrash: 0
+name: Sweet and Sour Pork Ribs
+notes: null
+nutritional_info: 'Calories: 1368 kJ / 327 kcal
+
+  Protein: 26 g
+
+  Carbohydrates: 16 g
+
+  Fat: 17 g
+
+  Fiber: 0 g'
+photo: AAA0CC00-532A-44F4-8887-21158C92E376-408-00004F95A76584A5.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: 10min
+rating: 0
+servings: 4 portions
+source: cookidoo.thermomix.com
+source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r449778
+total_time: null
+type: null
+uid: 20B902DA-FBD0-4411-8520-D0C31A1B2EB3-408-00004F927B86A8EA
 ---

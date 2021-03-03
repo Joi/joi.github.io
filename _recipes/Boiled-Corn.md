@@ -1,5 +1,61 @@
 ---
 title: "Boiled Corn"
 filename: "Boiled-Corn"
-created: 2020-07-15 19:37:22
+categories:
+- Corn
+cook_time: ''
+created: '2020-07-15 19:37:22'
+created_ts: 1594841842
+description: null
+difficulty: ''
+directions: "Boil water in Dutch Oven.\n\nAdd \xBC cup of butter and some pepper.\n\
+  \nTurn off heat and add corn.\n\nAllow to sit for 20 min.\n\nRemove corn and season\
+  \ with salt."
+html:
+  description: null
+  directions: "<p>Boil water in Dutch Oven.</p>\n<p>Add \xBC cup of butter and some\
+    \ pepper.</p>\n<p>Turn off heat and add corn.</p>\n<p>Allow to sit for 20 min.</p>\n\
+    <p>Remove corn and season with salt.</p>\n"
+  ingredients: '<ul>
+
+    <li>Corn</li>
+
+    <li>Butter</li>
+
+    <li>Salt</li>
+
+    <li>Pepper</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
+image_url: null
+ingredients: 'Corn
+
+  Butter
+
+  Salt
+
+  Pepper'
+intrash: 0
+name: Boiled Corn
+notes: null
+nutritional_info: null
+photo: 3E713826-907D-4C7E-A50F-E552F2F20A0E-29053-0004B199DA42BEE9.jpg
+photo_large: D688E9A8-92D0-474B-997F-39D46ACD72E7-29053-0004B19974BA446A.jpg
+photos:
+- filename: D688E9A8-92D0-474B-997F-39D46ACD72E7-29053-0004B19974BA446A.jpg
+  name: '1'
+photos_dict:
+  '1': D688E9A8-92D0-474B-997F-39D46ACD72E7-29053-0004B19974BA446A.jpg
+prep_time: ''
+rating: 5
+servings: ''
+source: null
+source_url: null
+total_time: ''
+type: null
+uid: 23FE81EA-D7B3-4C76-BDFE-07336D41F990-29053-0004B181B996F693
 ---

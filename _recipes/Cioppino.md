@@ -1,5 +1,108 @@
 ---
 title: "Cioppino"
 filename: "Cioppino"
-created: 2020-02-03 16:00:55
+categories:
+- Seafood
+- Soup
+cook_time: 55min
+created: '2020-02-03 16:00:55'
+created_ts: 1580745655
+description: null
+difficulty: Medium
+directions: "Scrub and debeard shellfish as necessary. Place mussels into simmering\
+  \ basket and place into a large bowl, cover with cold water and allow to soak 20\
+  \ minutes. Remove the simmering basket with mussels and discard water.\n\nPlace\
+  \ Varoma dish into position and weigh in shellfish. Insert Varoma tray and weigh\
+  \ in shrimp and calamari. Secure Varoma lid and set aside.\n\nPlace onions, shallots,\
+  \ fennel, carrots, celery, and garlic into mixing bowl and chop 8 sec/speed 5.\n\
+  \nAdd butter, oil, salt, pepper, oregano and chili flakes and saut\xE9 5 min/250\xB0\
+  F/speed 1.\n\nAdd tomatoes, clam juice, wine, tomato paste and bay leaf into mixing\
+  \ bowl, place Varoma into position and steam 10 min/Varoma/speed 1.\n\nCarefully\
+  \ remove Varoma lid, stir with spatula and add fish. Secure Varoma lid and steam\
+  \ a further 5-10 min/Varoma/speed 1 until fish is cooked to your liking. Remove\
+  \ bay leaf, transfer seafood to a large serving bowl and cover with tomato sauce.\
+  \ Serve immediately.\n\nTips & tricks\n\nGarnish with lemon wedges and fresh tarragon,\
+  \ parsley or fennel fronds.\n\nServe with toasted sourdough bread."
+html:
+  description: null
+  directions: "<p>Scrub and debeard shellfish as necessary. Place mussels into simmering\
+    \ basket and place into a large bowl, cover with cold water and allow to soak\
+    \ 20 minutes. Remove the simmering basket with mussels and discard water.</p>\n\
+    <p>Place Varoma dish into position and weigh in shellfish. Insert Varoma tray\
+    \ and weigh in shrimp and calamari. Secure Varoma lid and set aside.</p>\n<p>Place\
+    \ onions, shallots, fennel, carrots, celery, and garlic into mixing bowl and chop\
+    \ 8 sec/speed 5.</p>\n<p>Add butter, oil, salt, pepper, oregano and chili flakes\
+    \ and saut\xE9 5 min/250\xB0F/speed 1.</p>\n<p>Add tomatoes, clam juice, wine,\
+    \ tomato paste and bay leaf into mixing bowl, place Varoma into position and steam\
+    \ 10 min/Varoma/speed 1.</p>\n<p>Carefully remove Varoma lid, stir with spatula\
+    \ and add fish. Secure Varoma lid and steam a further 5-10 min/Varoma/speed 1\
+    \ until fish is cooked to your liking. Remove bay leaf, transfer seafood to a\
+    \ large serving bowl and cover with tomato sauce. Serve immediately.</p>\n<p>Tips\
+    \ &amp; tricks</p>\n<p>Garnish with lemon wedges and fresh tarragon, parsley or\
+    \ fennel fronds.</p>\n<p>Serve with toasted sourdough bread.</p>\n"
+  ingredients: "<ul>\n<li>32 oz shellfish, e.g. littleneck clams, black mussels</li>\n\
+    <li>16 oz fresh raw small shrimp, peeled and deveined, (thawed if frozen)</li>\n\
+    <li>2 oz squid tubes (calamari), cut into \xBC in. rings</li>\n<li>3 oz yellow\
+    \ onions, quartered (approx. \xBD medium onion)</li>\n<li>2 oz shallots, quartered\
+    \ (approx. 1 large shallot)</li>\n<li>2 oz fennel, cut into pieces (approx. 1\
+    \ medium bulb)</li>\n<li>1 oz carrots, cut into pieces (approx. \xBD medium carrot)</li>\n\
+    <li>1 oz celery, cut into pieces (approx. 1 stalk)</li>\n<li>4 - 6 garlic cloves</li>\n\
+    <li>1 oz unsalted butter</li>\n<li>2 tsp olive oil</li>\n<li>1 tsp fine sea salt,\
+    \ to taste</li>\n<li>\xBD tsp ground black pepper</li>\n<li>\xBC tsp dried oregano</li>\n\
+    <li>\xBC tsp dried red chili flakes</li>\n<li>28 oz canned diced tomatoes (approx.\
+    \ 1 can)</li>\n<li>8 oz clam juice</li>\n<li>2 oz dry white wine</li>\n<li>1 oz\
+    \ tomato paste</li>\n<li>1 dried bay leaf</li>\n<li>10 oz firm white fish, e.g.\
+    \ cod, halibut, cut into pieces (approx. 1 in.)</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 1481 kJ / 354 kcal
+
+    Protein: 32 g
+
+    Carbohydrates: 18 g
+
+    Fat: 9 g
+
+    Cholesterol: 139 mg
+
+    Fiber: 3 g</p>
+
+    '
+image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/90FDEF8A-4D38-403E-8C58-5C680632EA5A/Derivates/9AB025AE-6244-4AD0-B542-8CF9011C2EB2.jpg
+ingredients: "32 oz shellfish, e.g. littleneck clams, black mussels\n16 oz fresh raw\
+  \ small shrimp, peeled and deveined, (thawed if frozen)\n2 oz squid tubes (calamari),\
+  \ cut into \xBC in. rings\n3 oz yellow onions, quartered (approx. \xBD medium onion)\n\
+  2 oz shallots, quartered (approx. 1 large shallot)\n2 oz fennel, cut into pieces\
+  \ (approx. 1 medium bulb)\n1 oz carrots, cut into pieces (approx. \xBD medium carrot)\n\
+  1 oz celery, cut into pieces (approx. 1 stalk)\n4 - 6 garlic cloves\n1 oz unsalted\
+  \ butter\n2 tsp olive oil\n1 tsp fine sea salt, to taste\n\xBD tsp ground black\
+  \ pepper\n\xBC tsp dried oregano\n\xBC tsp dried red chili flakes\n28 oz canned\
+  \ diced tomatoes (approx. 1 can)\n8 oz clam juice\n2 oz dry white wine\n1 oz tomato\
+  \ paste\n1 dried bay leaf\n10 oz firm white fish, e.g. cod, halibut, cut into pieces\
+  \ (approx. 1 in.)"
+intrash: 0
+name: Cioppino
+notes: null
+nutritional_info: 'Calories: 1481 kJ / 354 kcal
+
+  Protein: 32 g
+
+  Carbohydrates: 18 g
+
+  Fat: 9 g
+
+  Cholesterol: 139 mg
+
+  Fiber: 3 g'
+photo: 5DEDB22C-C3CC-4C1D-B8AD-B9D49946D7C0-408-00004FB1BE503131.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: 25min
+rating: 0
+servings: 6 portions
+source: cookidoo.thermomix.com
+source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r157491
+total_time: null
+type: null
+uid: CECA8C5F-9273-42B0-B35C-F8FBCFBA66B6-408-00004FAF3D009AB0
 ---

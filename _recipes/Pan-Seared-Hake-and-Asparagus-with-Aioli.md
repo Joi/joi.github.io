@@ -1,5 +1,94 @@
 ---
 title: "Pan-Seared Hake and Asparagus with Aioli"
 filename: "Pan-Seared-Hake-and-Asparagus-with-Aioli"
-created: 2020-04-30 20:06:08
+categories:
+- Fish
+- White Fish
+cook_time: 30 minutes
+created: '2020-04-30 20:06:08'
+created_ts: 1588277168
+description: ''
+difficulty: ''
+directions: "Make the aioli: Combine garlic, lemon juice and salt in a blender or\
+  \ food processor, and let sit a minute or two. Add egg and yolk, and blend until\
+  \ combined. (Thermomix Speed 6 / 20 sec) With the blender running (Thermomix Speed\
+  \ 4 / 3 min), slowly add oil in a thin, steady stream. You\u2019re looking for an\
+  \ emulsified mixture, but it will be on the thin, saucelike side. Taste for seasoning,\
+  \ and add more salt and lemon juice, if needed. Stir in tarragon.\n\nPrepare the\
+  \ hake: Season hake with 3/4 teaspoon salt, pepper and paprika. Let sit while you\
+  \ cook the asparagus.\n\nMake the asparagus: Melt 2 tablespoons butter in a 12-inch\
+  \ skillet over high heat. Stir in asparagus and a pinch of salt, and let cook without\
+  \ moving for 2 minutes to brown slightly. Add a tablespoon of water, cover and cook,\
+  \ shaking pan occasionally, until just tender, 2 to 5 minutes longer depending on\
+  \ thickness of stalks. Transfer to a plate and loosely tent with foil to keep warm.\n\
+  \nReturn skillet to medium heat, and melt remaining 2 tablespoons butter. Place\
+  \ hake in an even layer in skillet, then scatter in scallions. Cover and cook until\
+  \ golden, 3 to 4 minutes, then flip and cook uncovered about another 3 to 4 minutes,\
+  \ until hake is cooked through and lightly browned on both sides. Transfer hake\
+  \ and scallions to serving plates, and immediately drizzle with aioli to taste.\
+  \ Serve with asparagus."
+html:
+  description: null
+  directions: "<p>Make the aioli: Combine garlic, lemon juice and salt in a blender\
+    \ or food processor, and let sit a minute or two. Add egg and yolk, and blend\
+    \ until combined. (Thermomix Speed 6 / 20 sec) With the blender running (Thermomix\
+    \ Speed 4 / 3 min), slowly add oil in a thin, steady stream. You\u2019re looking\
+    \ for an emulsified mixture, but it will be on the thin, saucelike side. Taste\
+    \ for seasoning, and add more salt and lemon juice, if needed. Stir in tarragon.</p>\n\
+    <p>Prepare the hake: Season hake with 3/4 teaspoon salt, pepper and paprika. Let\
+    \ sit while you cook the asparagus.</p>\n<p>Make the asparagus: Melt 2 tablespoons\
+    \ butter in a 12-inch skillet over high heat. Stir in asparagus and a pinch of\
+    \ salt, and let cook without moving for 2 minutes to brown slightly. Add a tablespoon\
+    \ of water, cover and cook, shaking pan occasionally, until just tender, 2 to\
+    \ 5 minutes longer depending on thickness of stalks. Transfer to a plate and loosely\
+    \ tent with foil to keep warm.</p>\n<p>Return skillet to medium heat, and melt\
+    \ remaining 2 tablespoons butter. Place hake in an even layer in skillet, then\
+    \ scatter in scallions. Cover and cook until golden, 3 to 4 minutes, then flip\
+    \ and cook uncovered about another 3 to 4 minutes, until hake is cooked through\
+    \ and lightly browned on both sides. Transfer hake and scallions to serving plates,\
+    \ and immediately drizzle with aioli to taste. Serve with asparagus.</p>\n"
+  ingredients: "<ul>\n<li>FOR THE AIOLI:</li>\n<li>1 to 2 garlic cloves, finely grated\
+    \ or mashed to a paste, or use 1 tablespoon minced green garlic</li>\n<li>\xBD\
+    \ teaspoon lemon juice, more to taste</li>\n<li>\u215B teaspoon fine sea salt,\
+    \ more to taste</li>\n<li>1 large egg</li>\n<li>1 large egg yolk</li>\n<li>\xBE\
+    \ cup extra-virgin olive oil</li>\n<li>1 tablespoon chopped fresh tarragon or\
+    \ chives</li>\n<li>FOR THE HAKE AND ASPARAGUS:</li>\n<li>4 (6-ounce) hake fillets,\
+    \ patted dry</li>\n<li>\xBE teaspoon kosher salt, more as needed</li>\n<li>\xBC\
+    \ teaspoon black pepper</li>\n<li>\xBC teaspoon sweet paprika</li>\n<li>4 tablespoons\
+    \ unsalted butter</li>\n<li>1 \xBD pounds asparagus, woody ends trimmed, cut into\
+    \ 1 1/4-inch pieces</li>\n<li>2 red or regular scallions, thinly sliced</li>\n\
+    </ul>\n"
+  notes: null
+  nutrition: null
+image_url: null
+ingredients: "FOR THE AIOLI:\n1 to 2 garlic cloves, finely grated or mashed to a paste,\
+  \ or use 1 tablespoon minced green garlic\n\xBD teaspoon lemon juice, more to taste\n\
+  \u215B teaspoon fine sea salt, more to taste\n1 large egg\n1 large egg yolk\n\xBE\
+  \ cup extra-virgin olive oil\n1 tablespoon chopped fresh tarragon or chives\nFOR\
+  \ THE HAKE AND ASPARAGUS:\n4 (6-ounce) hake fillets, patted dry\n\xBE teaspoon kosher\
+  \ salt, more as needed\n\xBC teaspoon black pepper\n\xBC teaspoon sweet paprika\n\
+  4 tablespoons unsalted butter\n1 \xBD pounds asparagus, woody ends trimmed, cut\
+  \ into 1 1/4-inch pieces\n2 red or regular scallions, thinly sliced"
+intrash: 0
+name: Pan-Seared Hake and Asparagus with Aioli
+notes: ''
+nutritional_info: ''
+photo: EC5D654A-F6EC-4BE4-9463-BF410DFFD0BB-29546-000347B9A1D539FD.jpg
+photo_large: FD7FABCF-4368-4F3B-A5D4-A4CCB0F229F5-7488-0000033A67300EB9.jpg
+photos:
+- filename: FD7FABCF-4368-4F3B-A5D4-A4CCB0F229F5-7488-0000033A67300EB9.jpg
+  name: '1'
+- filename: 467DF55A-6792-436B-B46B-006192D96A58-22544-0003EE8B33DBB75A.jpg
+  name: '2'
+photos_dict:
+  '1': FD7FABCF-4368-4F3B-A5D4-A4CCB0F229F5-7488-0000033A67300EB9.jpg
+  '2': 467DF55A-6792-436B-B46B-006192D96A58-22544-0003EE8B33DBB75A.jpg
+prep_time: ''
+rating: 5
+servings: Yield 4 servings
+source: cooking.nytimes.com
+source_url: https://cooking.nytimes.com/recipes/1019334-pan-seared-hake-and-asparagus-with-aioli?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
+total_time: ''
+type: null
+uid: 7F78231B-E31F-48EE-BE37-E7A5A9A2A08C-39436-000013D1319F8269
 ---

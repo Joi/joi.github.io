@@ -1,5 +1,130 @@
 ---
 title: "Beef meatballs with lemon and celery root"
 filename: "Beef-meatballs-with-lemon-and-celery-root"
-created: 2020-05-10 14:20:52
+categories:
+- Ground Beef
+cook_time: ''
+created: '2020-05-10 14:20:52'
+created_ts: 1589120452
+description: I often say that my favorite food is the sort that can, at once, comfort,
+  surprise, and delight. This dish (as is often the case with meatballs) does all
+  these things for me. The meatballs have all the comfort of a home-cooked meal, with
+  the lemon and celery root providing the surprise and delight. These are lovely as
+  they are, served with some couscous or rice to soak up the juices, or with a little
+  bit of Greek-style yogurt on the side. The dish can be made a day in advance and
+  kept in the fridge. Reheat before serving.
+difficulty: ''
+directions: "I. Put the beef, onion, breadcrumbs, parsley, egg, allspice, 1/2 tsp\
+  \ salt, and some black pepper into a large bowl. Using your\rmix well, then form\
+  \ into about 20 balls. Each ball should weight about I \xBD oz/40g.\n\r2. Put the\
+  \ oil into a large saut\xE9 pan with a lid and place over high heat. Add the meatballs\
+  \ and sear for about 5 minutes, turning so that all sides are golden brown. Transfer\
+  \ the meatballs to a separate plate and add the celery root, garlic, turmeric, fennel,\
+  \ and paprika to the pan. Cook over high heat, stirring, for 2 minutes, until the\
+  \ garlic has taken on a bit of color and the spices smell aromatic. Return the meatballs\
+  \ to the pan and add the stock, lemon juice, \xBD tsp salt, and some black pepper.\
+  \ Bring to a boil, then simmer gently over medium-low heat, covered, for 30 minutes.\
+  \ Remove the lid and leave to bubble away for about 10 minutes, for the sauce to\
+  \ thicken up.\n\r3. Remove the pan from the heat and allow it to sit for 5 or 10\
+  \ minutes. Serve, along with a final sprinkle of parsley."
+html:
+  description: '<p>I often say that my favorite food is the sort that can, at once,
+    comfort, surprise, and delight. This dish (as is often the case with meatballs)
+    does all these things for me. The meatballs have all the comfort of a home-cooked
+    meal, with the lemon and celery root providing the surprise and delight. These
+    are lovely as they are, served with some couscous or rice to soak up the juices,
+    or with a little bit of Greek-style yogurt on the side. The dish can be made a
+    day in advance and kept in the fridge. Reheat before serving.</p>
+
+    '
+  directions: "<p>I. Put the beef, onion, breadcrumbs, parsley, egg, allspice, 1/2\
+    \ tsp salt, and some black pepper into a large bowl. Using your\nmix well, then\
+    \ form into about 20 balls. Each ball should weight about I \xBD oz/40g.</p>\n\
+    <ol start=\"2\">\n<li>\n<p>Put the oil into a large saut\xE9 pan with a lid and\
+    \ place over high heat. Add the meatballs and sear for about 5 minutes, turning\
+    \ so that all sides are golden brown. Transfer the meatballs to a separate plate\
+    \ and add the celery root, garlic, turmeric, fennel, and paprika to the pan. Cook\
+    \ over high heat, stirring, for 2 minutes, until the garlic has taken on a bit\
+    \ of color and the spices smell aromatic. Return the meatballs to the pan and\
+    \ add the stock, lemon juice, \xBD tsp salt, and some black pepper. Bring to a\
+    \ boil, then simmer gently over medium-low heat, covered, for 30 minutes. Remove\
+    \ the lid and leave to bubble away for about 10 minutes, for the sauce to thicken\
+    \ up.</p>\n</li>\n<li>\n<p>Remove the pan from the heat and allow it to sit for\
+    \ 5 or 10 minutes. Serve, along with a final sprinkle of parsley.</p>\n</li>\n\
+    </ol>\n"
+  ingredients: '<ul>
+
+    <li>14 oz/400g ground beef
+
+    I medium onion, finely chopped (scant 1 cup/ 140g)
+
+    3 cups/ 120g fresh white breadcrumbs (from about 4 slices, crusts removed)
+
+    1 cup/20g parsley, chopped, plus extra to garnish
+
+    I large egg, beaten
+
+    3/4 tsp ground allspice
+
+    salt and black pepper
+
+    2 tbsp olive oil
+
+    1 medium celery root, peeled, quartered, then each quarter
+
+    cut crosswise into 1/2-inch /1 cm slices (4 cups/400g)</li>
+
+    <li>3 garlic cloves, minced
+
+    1/2 tsp ground turmeric
+
+    1 1/2 tsp fennel seeds, lightly crushed
+
+    I tsp sweet smoked paprika
+
+    2 cups/500 ml chicken
+
+    stock
+
+    3 1/2 tbsp lemon juice</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
+image_url: null
+ingredients: "14 oz/400g ground beef\rI medium onion, finely chopped (scant 1 cup/\
+  \ 140g)\r3 cups/ 120g fresh white breadcrumbs (from about 4 slices, crusts removed)\r\
+  1 cup/20g parsley, chopped, plus extra to garnish\rI large egg, beaten\r3/4 tsp\
+  \ ground allspice\rsalt and black pepper\r2 tbsp olive oil\r1 medium celery root,\
+  \ peeled, quartered, then each quarter\rcut crosswise into 1/2-inch /1 cm slices\
+  \ (4 cups/400g)\n3 garlic cloves, minced\r1/2 tsp ground turmeric\r1 1/2 tsp fennel\
+  \ seeds, lightly crushed\rI tsp sweet smoked paprika\r2 cups/500 ml chicken\rstock\r\
+  3 1/2 tbsp lemon juice"
+intrash: 0
+name: Beef meatballs with lemon and celery root
+notes: null
+nutritional_info: null
+photo: F0F9388B-79B9-4E07-B16B-434FAC84880A-10588-00000102F94E10B5.jpg
+photo_large: 471DD45F-5D92-4464-A2DE-4ECA827C5605-10588-00000102DF0486BD.jpg
+photos:
+- filename: 471DD45F-5D92-4464-A2DE-4ECA827C5605-10588-00000102DF0486BD.jpg
+  name: '1'
+- filename: 83F705D0-C448-4E83-84E8-0A8D67DB2FC1-10588-00000102E99A5237.jpg
+  name: '2'
+- filename: 82F0CE33-B21E-466C-B645-36EFEF80AA8E-10588-00000102F48C9454.jpg
+  name: '3'
+photos_dict:
+  '1': 471DD45F-5D92-4464-A2DE-4ECA827C5605-10588-00000102DF0486BD.jpg
+  '2': 83F705D0-C448-4E83-84E8-0A8D67DB2FC1-10588-00000102E99A5237.jpg
+  '3': 82F0CE33-B21E-466C-B645-36EFEF80AA8E-10588-00000102F48C9454.jpg
+prep_time: ''
+rating: 4
+servings: '4'
+source: Ottolenghi Simple
+source_url: null
+total_time: ''
+type: null
+uid: 63C6D918-6027-4F87-95BD-6A4D2845F30C-4647-0000B41A34AB568A
 ---

@@ -1,5 +1,94 @@
 ---
 title: "Thai Coconut Shrimp Curry"
 filename: "Thai-Coconut-Shrimp-Curry"
-created: 2020-10-14 11:40:56
+categories:
+- Shrimp
+- Curry
+cook_time: null
+created: '2020-10-14 11:40:56'
+created_ts: 1602675656
+description: null
+difficulty: null
+directions: "Prep shrimp as needed. Should be peeled, cleaned, and thawed if frozen.\
+  \ I used extra-large shrimp but medium and large work great too.\n\nDice onion,\
+  \ cut bell pepper into thin strips and chop, and mince or slice your jalapeno. For\
+  \ a spicier curry, include the jalape\xF1o seeds and use two jalape\xF1os. For a\
+  \ more mild curry remove the seeds and only use one jalapeno or skip entirely.\n\
+  \nHeat the oil over medium-high heat in a large pan. Add onion, jalapeno, and bell\
+  \ pepper and cook until softened, approx 4-5 minutes. Use a slotted spoon to transfer\
+  \ veggies to a bowl and set aside.\n\nOver medium heat, add the coconut milk, red\
+  \ curry paste, fish sauce, and brown sugar. Whisk together and bring to a gentle\
+  \ boil. In a small bowl, add 1.5 TBSP cornstarch to 1.5 TBSP cold water and whisk\
+  \ to dissolve. Add to sauce and simmer until thickened, stirring occasionally. Approx\
+  \ 5 minutes.\n\nPat shrimp dry and add to the sauce along with your cooked veggies.\
+  \ For more al dente vegetables, you can add them at the end if you prefer. Allow\
+  \ curry to simmer gently, stirring occasionally, until shrimp are cooked through\
+  \ and opaque.\n\nAt this point you can taste-test the curry and decide if you'd\
+  \ like more heat (cayenne or red pepper flakes may be added to amp up the spiciness)\
+  \ or extra of any of the ingredients. Sometimes I'll stir in extra red curry paste\
+  \ or add a teeny pinch of salt, to taste.\n\nTop with Thai basil. Serve with jasmine\
+  \ rice or basmati rice or see blog post for more tasty serving suggestions!"
+html:
+  description: null
+  directions: "<p>Prep shrimp as needed. Should be peeled, cleaned, and thawed if\
+    \ frozen. I used extra-large shrimp but medium and large work great too.</p>\n\
+    <p>Dice onion, cut bell pepper into thin strips and chop, and mince or slice your\
+    \ jalapeno. For a spicier curry, include the jalape\xF1o seeds and use two jalape\xF1\
+    os. For a more mild curry remove the seeds and only use one jalapeno or skip entirely.</p>\n\
+    <p>Heat the oil over medium-high heat in a large pan. Add onion, jalapeno, and\
+    \ bell pepper and cook until softened, approx 4-5 minutes. Use a slotted spoon\
+    \ to transfer veggies to a bowl and set aside.</p>\n<p>Over medium heat, add the\
+    \ coconut milk, red curry paste, fish sauce, and brown sugar. Whisk together and\
+    \ bring to a gentle boil. In a small bowl, add 1.5 TBSP cornstarch to 1.5 TBSP\
+    \ cold water and whisk to dissolve. Add to sauce and simmer until thickened, stirring\
+    \ occasionally. Approx 5 minutes.</p>\n<p>Pat shrimp dry and add to the sauce\
+    \ along with your cooked veggies. For more al dente vegetables, you can add them\
+    \ at the end if you prefer. Allow curry to simmer gently, stirring occasionally,\
+    \ until shrimp are cooked through and opaque.</p>\n<p>At this point you can taste-test\
+    \ the curry and decide if you'd like more heat (cayenne or red pepper flakes may\
+    \ be added to amp up the spiciness) or extra of any of the ingredients. Sometimes\
+    \ I'll stir in extra red curry paste or add a teeny pinch of salt, to taste.</p>\n\
+    <p>Top with Thai basil. Serve with jasmine rice or basmati rice or see blog post\
+    \ for more tasty serving suggestions!</p>\n"
+  ingredients: "<ul>\n<li>1 pound raw shrimp, cleaned and prepped (thaw if frozen)</li>\n\
+    <li>1-2 TBSP avocado oil or olive oil</li>\n<li>1 white onion</li>\n<li>1 red\
+    \ bell pepper</li>\n<li>1-2 large jalape\xF1o</li>\n<li>3 TBSP red curry paste</li>\n\
+    <li>1.5 TBSP fish sauce</li>\n<li>2 TBSP brown sugar</li>\n<li>14 oz canned unsweetened\
+    \ coconut milk</li>\n<li>1.5 TBSP cornstarch dissolved in 1.5 TBSP cold water</li>\n\
+    <li>2-3 TBSP fresh chopped Thai basil for topping</li>\n<li>lime wedges for serving</li>\n\
+    <li>crushed red pepper flakes (optional extra for a spicier curry) season to taste</li>\n\
+    </ul>\n"
+  notes: null
+  nutrition: '<p>CALORIES 444 CALORIES FROM FAT 270 % DAILY VALUE* FAT 30G46% SATURATED
+    FAT 22G138% CHOLESTEROL 286MG95% SODIUM 1431MG62% POTASSIUM 474MG14% CARBOHYDRATES
+    20G7% FIBER 4G17% SUGAR 13G14% PROTEIN 27G54% VITAMIN A 2794IU56% VITAMIN C 53MG64%
+    CALCIUM 210MG21% IRON 5MG28%</p>
+
+    '
+image_url: https://cdn.statically.io/img/peasandcrayons.com/wp-content/uploads/2019/10/thai-coconut-shrimp-curry-recipe-2-800x1200.jpg?f=auto
+ingredients: "1 pound raw shrimp, cleaned and prepped (thaw if frozen)\n1-2 TBSP avocado\
+  \ oil or olive oil\n1 white onion\n1 red bell pepper\n1-2 large jalape\xF1o\n3 TBSP\
+  \ red curry paste\n1.5 TBSP fish sauce\n2 TBSP brown sugar\n14 oz canned unsweetened\
+  \ coconut milk\n1.5 TBSP cornstarch dissolved in 1.5 TBSP cold water\n2-3 TBSP fresh\
+  \ chopped Thai basil for topping\nlime wedges for serving\ncrushed red pepper flakes\
+  \ (optional extra for a spicier curry) season to taste"
+intrash: 0
+name: Thai Coconut Shrimp Curry
+notes: null
+nutritional_info: CALORIES 444 CALORIES FROM FAT 270 % DAILY VALUE* FAT 30G46% SATURATED
+  FAT 22G138% CHOLESTEROL 286MG95% SODIUM 1431MG62% POTASSIUM 474MG14% CARBOHYDRATES
+  20G7% FIBER 4G17% SUGAR 13G14% PROTEIN 27G54% VITAMIN A 2794IU56% VITAMIN C 53MG64%
+  CALCIUM 210MG21% IRON 5MG28%
+photo: 89BCFF8C-08C4-415A-BDED-47ED1D56E752-31316-00001DFFF0F80E90.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: null
+rating: 0
+servings: null
+source: peasandcrayons.com
+source_url: https://peasandcrayons.com/2019/10/thai-coconut-shrimp-curry.html
+total_time: null
+type: null
+uid: 5B35D45F-9FF9-4147-BAE7-5FA3B09E4004-31316-00001DFFE246B2B2
 ---

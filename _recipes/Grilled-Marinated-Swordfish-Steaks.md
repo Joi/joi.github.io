@@ -1,5 +1,70 @@
 ---
 title: "Grilled Marinated Swordfish Steaks"
 filename: "Grilled-Marinated-Swordfish-Steaks"
-created: 2020-07-05 23:27:15
+categories:
+- Swordfish
+cook_time: 30 minutes
+created: '2020-07-05 23:27:15'
+created_ts: 1593991635
+description: ''
+difficulty: ''
+directions: 'Preheat a charcoal grill or broiler, or heat a grill pan.
+
+
+  Sprinkle fish with salt and pepper on both sides. Place oil in a flat dish, and
+  add soy sauce, vinegar, rosemary, garlic, coriander, cumin, lemon rind and pepper
+  flakes. Blend well. Place fish steaks in marinade, coat well on both sides, cover
+  with plastic wrap and let stand for 10 to 15 minutes.
+
+
+  If the swordfish is to be cooked on a grill (or grill pan), place fish on grill
+  and cook for 3 to 4 minutes. Turn and cook for 3 minutes more. Cook longer if desired.
+  If it is to be cooked under a broiler, place fish on a rack and cook for 3 to 4
+  minutes on each side. Serve with a string bean salad.'
+html:
+  description: null
+  directions: '<p>Preheat a charcoal grill or broiler, or heat a grill pan.</p>
+
+    <p>Sprinkle fish with salt and pepper on both sides. Place oil in a flat dish,
+    and add soy sauce, vinegar, rosemary, garlic, coriander, cumin, lemon rind and
+    pepper flakes. Blend well. Place fish steaks in marinade, coat well on both sides,
+    cover with plastic wrap and let stand for 10 to 15 minutes.</p>
+
+    <p>If the swordfish is to be cooked on a grill (or grill pan), place fish on grill
+    and cook for 3 to 4 minutes. Turn and cook for 3 minutes more. Cook longer if
+    desired. If it is to be cooked under a broiler, place fish on a rack and cook
+    for 3 to 4 minutes on each side. Serve with a string bean salad.</p>
+
+    '
+  ingredients: "<ul>\n<li>4 center-cut swordfish steaks, about 6 ounces each, one-inch\
+    \ thick</li>\n<li>Salt and freshly ground pepper to taste</li>\n<li>3 tablespoons\
+    \ olive oil</li>\n<li>2 teaspoons soy sauce</li>\n<li>1 tablespoon red-wine vinegar</li>\n\
+    <li>4 sprigs rosemary or 1 teaspoon dried</li>\n<li>1 tablespoon finely chopped\
+    \ garlic</li>\n<li>2 teaspoons ground coriander</li>\n<li>1 teaspoon ground cumin</li>\n\
+    <li>2 teaspoons grated lemon rind</li>\n<li>\xBC teaspoon red pepper flakes</li>\n\
+    </ul>\n"
+  notes: null
+  nutrition: null
+image_url: https://static01.nyt.com/images/2017/06/05/dining/05COOKING-SWORDFISH-STEAKS2/05COOKING-SWORDFISH-STEAKS2-articleLarge.jpg
+ingredients: "4 center-cut swordfish steaks, about 6 ounces each, one-inch thick\n\
+  Salt and freshly ground pepper to taste\n3 tablespoons olive oil\n2 teaspoons soy\
+  \ sauce\n1 tablespoon red-wine vinegar\n4 sprigs rosemary or 1 teaspoon dried\n\
+  1 tablespoon finely chopped garlic\n2 teaspoons ground coriander\n1 teaspoon ground\
+  \ cumin\n2 teaspoons grated lemon rind\n\xBC teaspoon red pepper flakes"
+intrash: 0
+name: Grilled Marinated Swordfish Steaks
+notes: ''
+nutritional_info: ''
+photo: FE0FE4E4-D762-45A3-A799-8D877F8EFCFF-631-0001AC45B121AA16.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: ''
+rating: 0
+servings: Yield 4 servings
+source: cooking.nytimes.com
+source_url: https://cooking.nytimes.com/recipes/10046-grilled-marinated-swordfish-steaks?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
+total_time: ''
+type: null
+uid: 6CE85452-0552-432B-9997-0D4BF98E4B75-631-0001AC40FCBE07A8
 ---

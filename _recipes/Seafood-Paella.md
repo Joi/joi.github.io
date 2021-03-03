@@ -1,5 +1,157 @@
 ---
 title: "Seafood Paella"
 filename: "Seafood-Paella"
-created: 2020-08-18 01:41:16
+categories:
+- Rice
+cook_time: 35 minutes
+created: '2020-08-18 01:41:16'
+created_ts: 1597714876
+description: null
+difficulty: null
+directions: "1 Preheat the grill: Heat a gas grill to medium-high heat (375\xBAF),\
+  \ or light a charcoal grill and let burn until the charcoal is covered with gray\
+  \ ash.\n\n2 Steep the saffron: In a saucepan over medium heat, bring the stock to\
+  \ a boil. Add the saffron and salt. Turn off the heat and let the saffron steep\
+  \ for at least 15 minutes. Taste and add more salt, if needed.\n\n3 Cook the sofrito\
+  \ base: In a 12- to 14-inch stainless steel skillet or cast iron pan, heat the oil\
+  \ over medium heat on top of the stove. Add the onion and red pepper, and cook for\
+  \ 5 to 7 minutes, or until the onion is translucent. Stir in the garlic and chorizo.\n\
+  \n4 Assemble the ingredients by the grill: On a table next to the grill, set the\
+  \ skillet with the sofrito, the rice, tomatoes, infused stock, salt, peas, shrimp,\
+  \ mussels, and clams.\n\n5 Begin cooking the paella: Set the skillet with the sofrito\
+  \ on the grill. Add the rice, and cook, stirring often, for 4 to 5 minutes, or until\
+  \ the rice is coated with oil and lightly toasted.\n\nStir in the stock, tomatoes,\
+  \ and peas. Taste for seasoning and add more salt, if you like.\n\nSpread the rice\
+  \ evenly over the bottom of the pan. Close the grill cover and simmer the rice without\
+  \ stirring for 15 minutes, or until the rice absorbs most of the stock. If the mixture\
+  \ looks dry, pour about 1 cup of hot water over it, but do not stir.\n\n6 Add the\
+  \ seafood: Nestle the mussels and clams into the rice with the hinge sides up so\
+  \ they release their juices into the rice. Arrange the shrimp around the shellfish.\n\
+  \nCover the pan with foil, close the grill and cook for 6 to 10 minutes longer (depending\
+  \ on the heat of your grill), or until the rice and shrimp are both cooked through\
+  \ and the mussels and clams are open. (Discard any shellfish that remain tightly\
+  \ shut once everything else is cooked.)\n\n7 Check to see if the bottom is browned:\
+  \ Slip a spatula under the rice and check to see if you have achieved the elusive\
+  \ golden brown socarrat. If not, set the pan over the heat, uncovered, for a few\
+  \ minutes to lightly caramelize the bottom.\n\nSprinkle with parsley and bring the\
+  \ whole pan to the table for serving."
+html:
+  description: null
+  directions: "<p>1 Preheat the grill: Heat a gas grill to medium-high heat (375\xBA\
+    F), or light a charcoal grill and let burn until the charcoal is covered with\
+    \ gray ash.</p>\n<p>2 Steep the saffron: In a saucepan over medium heat, bring\
+    \ the stock to a boil. Add the saffron and salt. Turn off the heat and let the\
+    \ saffron steep for at least 15 minutes. Taste and add more salt, if needed.</p>\n\
+    <p>3 Cook the sofrito base: In a 12- to 14-inch stainless steel skillet or cast\
+    \ iron pan, heat the oil over medium heat on top of the stove. Add the onion and\
+    \ red pepper, and cook for 5 to 7 minutes, or until the onion is translucent.\
+    \ Stir in the garlic and chorizo.</p>\n<p>4 Assemble the ingredients by the grill:\
+    \ On a table next to the grill, set the skillet with the sofrito, the rice, tomatoes,\
+    \ infused stock, salt, peas, shrimp, mussels, and clams.</p>\n<p>5 Begin cooking\
+    \ the paella: Set the skillet with the sofrito on the grill. Add the rice, and\
+    \ cook, stirring often, for 4 to 5 minutes, or until the rice is coated with oil\
+    \ and lightly toasted.</p>\n<p>Stir in the stock, tomatoes, and peas. Taste for\
+    \ seasoning and add more salt, if you like.</p>\n<p>Spread the rice evenly over\
+    \ the bottom of the pan. Close the grill cover and simmer the rice without stirring\
+    \ for 15 minutes, or until the rice absorbs most of the stock. If the mixture\
+    \ looks dry, pour about 1 cup of hot water over it, but do not stir.</p>\n<p>6\
+    \ Add the seafood: Nestle the mussels and clams into the rice with the hinge sides\
+    \ up so they release their juices into the rice. Arrange the shrimp around the\
+    \ shellfish.</p>\n<p>Cover the pan with foil, close the grill and cook for 6 to\
+    \ 10 minutes longer (depending on the heat of your grill), or until the rice and\
+    \ shrimp are both cooked through and the mussels and clams are open. (Discard\
+    \ any shellfish that remain tightly shut once everything else is cooked.)</p>\n\
+    <p>7 Check to see if the bottom is browned: Slip a spatula under the rice and\
+    \ check to see if you have achieved the elusive golden brown socarrat. If not,\
+    \ set the pan over the heat, uncovered, for a few minutes to lightly caramelize\
+    \ the bottom.</p>\n<p>Sprinkle with parsley and bring the whole pan to the table\
+    \ for serving.</p>\n"
+  ingredients: '<ul>
+
+    <li>4 1/2 cups chicken stock</li>
+
+    <li>1/2 teaspoon saffron threads, crumbled and then loosely measured</li>
+
+    <li>1/4 teaspoon salt</li>
+
+    <li>3 tablespoons olive oil</li>
+
+    <li>1/2 yellow onion, finely chopped</li>
+
+    <li>1/2 red bell pepper, finely chopped</li>
+
+    <li>3 cloves garlic, finely chopped</li>
+
+    <li>6 ounces mild dried chorizo sausage, sliced into thin half-moons (See Recipe
+    Note)</li>
+
+    <li>3 cups short-grain rice, such as Spanish Bomba rice or Italian Arborio</li>
+
+    <li>1 (14-ounce) can fire-roasted diced tomatoes</li>
+
+    <li>1 cup frozen green peas</li>
+
+    <li>1 pound large (21-24 per pound) shrimp, peeled and deveined, with tails left
+    on</li>
+
+    <li>1 pound mussels, rinsed and scrubbed</li>
+
+    <li>1 pound littleneck clams, rinsed and scrubbed</li>
+
+    <li>1/4 cup chopped parsley, for garnish</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
+image_url: null
+ingredients: '4 1/2 cups chicken stock
+
+  1/2 teaspoon saffron threads, crumbled and then loosely measured
+
+  1/4 teaspoon salt
+
+  3 tablespoons olive oil
+
+  1/2 yellow onion, finely chopped
+
+  1/2 red bell pepper, finely chopped
+
+  3 cloves garlic, finely chopped
+
+  6 ounces mild dried chorizo sausage, sliced into thin half-moons (See Recipe Note)
+
+  3 cups short-grain rice, such as Spanish Bomba rice or Italian Arborio
+
+  1 (14-ounce) can fire-roasted diced tomatoes
+
+  1 cup frozen green peas
+
+  1 pound large (21-24 per pound) shrimp, peeled and deveined, with tails left on
+
+  1 pound mussels, rinsed and scrubbed
+
+  1 pound littleneck clams, rinsed and scrubbed
+
+  1/4 cup chopped parsley, for garnish'
+intrash: 0
+name: Seafood Paella
+notes: null
+nutritional_info: null
+photo: 952654AD-25A9-4F20-A988-55D282F85668-1866-00001E8C5C65B9AB.jpg
+photo_large: 24008AAD-7AE7-4B70-B4A5-A83C0350CD9C-1866-00001E8A67100DD5.jpg
+photos:
+- filename: 24008AAD-7AE7-4B70-B4A5-A83C0350CD9C-1866-00001E8A67100DD5.jpg
+  name: '1'
+photos_dict:
+  '1': 24008AAD-7AE7-4B70-B4A5-A83C0350CD9C-1866-00001E8A67100DD5.jpg
+prep_time: 30 minutes
+rating: 5
+servings: 'Yield: 6 servings'
+source: simplyrecipes.com
+source_url: https://www.simplyrecipes.com/recipes/seafood_paella_on_the_grill/
+total_time: null
+type: null
+uid: 13A4D9ED-C451-44B4-8513-416C41C2F368-19898-00000D61AE4288EB
 ---

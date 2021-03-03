@@ -1,5 +1,95 @@
 ---
 title: "Butter-Basted, Pan-Seared Thick-Cut Steaks"
 filename: "Butter-Basted-Pan-Seared-Thick-Cut-Steaks"
-created: 2020-04-21 18:36:16
+categories:
+- Beef
+- Bison
+- Steaks
+cook_time: 25 minutes (or 1 hour 10 minutes to 3 days, if resting)
+created: '2020-04-21 18:36:16'
+created_ts: 1587494176
+description: ''
+difficulty: ''
+directions: "1. Carefully pat steak dry with paper towels. Season liberally on all\
+  \ sides, including edges, with salt and pepper. If desired, let steak rest at room\
+  \ temperature for 45 minutes, or refrigerated, loosely covered, up to 3 days (see\
+  \ note).\n\n2. In a 12-inch heavy-bottomed cast iron skillet, heat oil over high\
+  \ heat until just beginning to smoke. Carefully add steak and cook, flipping frequently,\
+  \ until a pale golden-brown crust starts to develop, about 4 minutes total.\n\n\
+  3. Add butter, herbs (if using), and shallot (if using) to skillet and continue\
+  \ to cook, flipping steak occasionally and basting any light spots with foaming\
+  \ butter. If butter begins to smoke excessively or steak begins to burn, reduce\
+  \ heat to medium. To baste, tilt pan slightly so that butter collects by handle.\
+  \ Use a spoon to pick up butter and pour it over steak, aiming at light spots.\n\
+  \n4. Continue flipping and basting until an instant-read thermometer inserted into\
+  \ thickest part of tenderloin side registers 120 to 125\xB0F (49 to 52\xB0C) for\
+  \ medium-rare or 130\xB0F (54\xB0C) for medium, 8 to 10 minutes total.\n\n5. Immediately\
+  \ transfer steak to a large heatproof plate and pour pan juices on top. Let rest\
+  \ 5 to 10 minutes. Carve and serve."
+html:
+  description: null
+  directions: "<ol>\n<li>\n<p>Carefully pat steak dry with paper towels. Season liberally\
+    \ on all sides, including edges, with salt and pepper. If desired, let steak rest\
+    \ at room temperature for 45 minutes, or refrigerated, loosely covered, up to\
+    \ 3 days (see note).</p>\n</li>\n<li>\n<p>In a 12-inch heavy-bottomed cast iron\
+    \ skillet, heat oil over high heat until just beginning to smoke. Carefully add\
+    \ steak and cook, flipping frequently, until a pale golden-brown crust starts\
+    \ to develop, about 4 minutes total.</p>\n</li>\n<li>\n<p>Add butter, herbs (if\
+    \ using), and shallot (if using) to skillet and continue to cook, flipping steak\
+    \ occasionally and basting any light spots with foaming butter. If butter begins\
+    \ to smoke excessively or steak begins to burn, reduce heat to medium. To baste,\
+    \ tilt pan slightly so that butter collects by handle. Use a spoon to pick up\
+    \ butter and pour it over steak, aiming at light spots.</p>\n</li>\n<li>\n<p>Continue\
+    \ flipping and basting until an instant-read thermometer inserted into thickest\
+    \ part of tenderloin side registers 120 to 125\xB0F (49 to 52\xB0C) for medium-rare\
+    \ or 130\xB0F (54\xB0C) for medium, 8 to 10 minutes total.</p>\n</li>\n<li>\n\
+    <p>Immediately transfer steak to a large heatproof plate and pour pan juices on\
+    \ top. Let rest 5 to 10 minutes. Carve and serve.</p>\n</li>\n</ol>\n"
+  ingredients: '<ul>
+
+    <li>1 large bone-in T-bone or ribeye steak (see note)</li>
+
+    <li>Kosher salt and freshly ground black pepper</li>
+
+    <li>1/4 cup (60ml) vegetable or canola oil</li>
+
+    <li>3 tablespoons (45g) unsalted butter</li>
+
+    <li>6 sprigs thyme or rosemary (optional)</li>
+
+    <li>1/2 cup finely sliced shallots (about 1 large; optional)</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
+image_url: https://www.seriouseats.com/2018/09/20180822-butter-basting-steak-fish-liz-clayman-9.jpg
+ingredients: '1 large bone-in T-bone or ribeye steak (see note)
+
+  Kosher salt and freshly ground black pepper
+
+  1/4 cup (60ml) vegetable or canola oil
+
+  3 tablespoons (45g) unsalted butter
+
+  6 sprigs thyme or rosemary (optional)
+
+  1/2 cup finely sliced shallots (about 1 large; optional)'
+intrash: 0
+name: Butter-Basted, Pan-Seared Thick-Cut Steaks
+notes: ''
+nutritional_info: ''
+photo: 57963DE2-73F8-4104-A627-6E45043530C2-89150-0000F2DFE3822090.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: 15 minutes
+rating: 4
+servings: Serves 2 to 3
+source: seriouseats.com
+source_url: https://www.seriouseats.com/recipes/2012/12/butter-basted-pan-seared-steaks-recipe.html
+total_time: ''
+type: null
+uid: 1274CF3F-4DDF-41CF-8CA0-B90D39F94A99-89150-0000F2DC0488DFB5
 ---

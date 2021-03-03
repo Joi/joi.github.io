@@ -1,6 +1,114 @@
 ---
 title: "Steamed Pork Buns (Char Siu Bao)"
 filename: "Steamed-Pork-Buns-Char-Siu-Bao"
-created: 2020-11-08 21:09:20
+categories:
+- Pork Shoulder
+cook_time: null
+created: '2020-11-08 21:09:20'
+created_ts: 1604869760
+description: null
+difficulty: null
+directions: "Instructions Checklist\n\nTo prepare the filling, rub five-spice powder\
+  \ evenly over pork. Heat a grill pan over medium-high heat. Coat the pan with cooking\
+  \ spray. Add pork to pan; cook 18 minutes or until a thermometer registers 155\xB0\
+  , turning pork occasionally. Remove pork from pan, and let stand 15 minutes.\n\n\
+  ADVERTISEMENT\n\nCut pork crosswise into thin slices; cut slices into thin strips.\
+  \ Place pork in a medium bowl. Add onions and next 7 ingredients (through 1/4 teaspoon\
+  \ salt); stir well to combine. Cover and refrigerate.\n\nTo prepare dough, combine\
+  \ 1 cup warm water, sugar, and yeast in a large bowl; let stand 5 minutes.\n\nLightly\
+  \ spoon flour into dry measuring cups; level with a knife. Add flour, oil, and 1/4\
+  \ teaspoon salt to yeast mixture; stir until a soft dough forms. Turn dough out\
+  \ onto a lightly floured surface. Knead until smooth and elastic (about 10 minutes).\
+  \ Place dough in a large bowl coated with cooking spray, turning to coat top. Cover\
+  \ and let rise in a warm place (85\xB0), free from drafts, 1 hour or until doubled\
+  \ in size. (Gently press two fingers into dough. If indentation remains, dough has\
+  \ risen enough.)\n\nPunch dough down; let rest 5 minutes. Turn dough out onto a\
+  \ clean surface; knead in baking powder. Let dough rest 5 minutes.\n\nDivide dough\
+  \ into 10 equal portions, forming each into a ball. Working with one dough ball\
+  \ at a time (cover remaining dough balls to keep from drying), roll ball into a\
+  \ 5-inch circle. Place 1/4 cup filling in center of dough circle. Bring up sides\
+  \ to cover filling and meet on top. Pinch and seal closed with a twist. Repeat procedure\
+  \ with remaining dough balls and filling.\n\nArrange 5 buns seam side down, 1 inch\
+  \ apart, in each tier of a 2-tiered bamboo steamer. Stack tiers; cover with lid.\n\
+  \nAdd water to a large skillet to a depth of 1 inch; bring to a boil over medium-high\
+  \ heat. Place steamer in pan; steam 15 minutes or until puffed and set. Cool 10\
+  \ minutes before serving."
+html:
+  description: null
+  directions: "<p>Instructions Checklist</p>\n<p>To prepare the filling, rub five-spice\
+    \ powder evenly over pork. Heat a grill pan over medium-high heat. Coat the pan\
+    \ with cooking spray. Add pork to pan; cook 18 minutes or until a thermometer\
+    \ registers 155\xB0, turning pork occasionally. Remove pork from pan, and let\
+    \ stand 15 minutes.</p>\n<p>ADVERTISEMENT</p>\n<p>Cut pork crosswise into thin\
+    \ slices; cut slices into thin strips. Place pork in a medium bowl. Add onions\
+    \ and next 7 ingredients (through 1/4 teaspoon salt); stir well to combine. Cover\
+    \ and refrigerate.</p>\n<p>To prepare dough, combine 1 cup warm water, sugar,\
+    \ and yeast in a large bowl; let stand 5 minutes.</p>\n<p>Lightly spoon flour\
+    \ into dry measuring cups; level with a knife. Add flour, oil, and 1/4 teaspoon\
+    \ salt to yeast mixture; stir until a soft dough forms. Turn dough out onto a\
+    \ lightly floured surface. Knead until smooth and elastic (about 10 minutes).\
+    \ Place dough in a large bowl coated with cooking spray, turning to coat top.\
+    \ Cover and let rise in a warm place (85\xB0), free from drafts, 1 hour or until\
+    \ doubled in size. (Gently press two fingers into dough. If indentation remains,\
+    \ dough has risen enough.)</p>\n<p>Punch dough down; let rest 5 minutes. Turn\
+    \ dough out onto a clean surface; knead in baking powder. Let dough rest 5 minutes.</p>\n\
+    <p>Divide dough into 10 equal portions, forming each into a ball. Working with\
+    \ one dough ball at a time (cover remaining dough balls to keep from drying),\
+    \ roll ball into a 5-inch circle. Place 1/4 cup filling in center of dough circle.\
+    \ Bring up sides to cover filling and meet on top. Pinch and seal closed with\
+    \ a twist. Repeat procedure with remaining dough balls and filling.</p>\n<p>Arrange\
+    \ 5 buns seam side down, 1 inch apart, in each tier of a 2-tiered bamboo steamer.\
+    \ Stack tiers; cover with lid.</p>\n<p>Add water to a large skillet to a depth\
+    \ of 1 inch; bring to a boil over medium-high heat. Place steamer in pan; steam\
+    \ 15 minutes or until puffed and set. Cool 10 minutes before serving.</p>\n"
+  ingredients: "<ul>\n<li>Filling:</li>\n<li>\xBD teaspoon five-spice powder</li>\n\
+    <li>1 pound pork tenderloin, trimmed</li>\n<li>Cooking spray</li>\n<li>1 cup thinly\
+    \ sliced green onions</li>\n<li>3 tablespoons hoisin sauce</li>\n<li>2 tablespoons\
+    \ rice vinegar</li>\n<li>1 tablespoon low-sodium soy sauce</li>\n<li>1\u2009\xBD\
+    \ teaspoons honey</li>\n<li>1 teaspoon minced peeled fresh ginger</li>\n<li>1\
+    \ teaspoon minced garlic</li>\n<li>\xBC teaspoon salt</li>\n<li>Dough:</li>\n\
+    <li>1 cup warm water (100\xB0 to 110\xB0)</li>\n<li>3 tablespoons sugar</li>\n\
+    <li>1 package dry yeast (about 2 1/4 teaspoons)</li>\n<li>3\u2009\xBC cups all-purpose\
+    \ flour (about 14 2/3 ounces)</li>\n<li>3 tablespoons canola oil</li>\n<li>\xBC\
+    \ teaspoon salt</li>\n<li>1\u2009\xBD teaspoons baking powder</li>\n</ul>\n"
+  notes: "<p>Kick up the spice level with some red chili peppers, cilantro, or jalape\xF1\
+    os. Tiny cubed cucumbers make a fresh, crunchy addition to this Asian favorite.\
+    \ Hint: The beauty of this recipe is that you don't have to stick with pork. Make\
+    \ it a veggie, bean or even seafood bun.</p>\n"
+  nutrition: '<p>259 calories; calories from fat 21%; fat 6.1g; saturated fat 0.9g;
+    mono fat 3.2g; poly fat 1.5g; protein 14.3g; carbohydrates 35.7g; fiber 1.6g;
+    cholesterol 27mg; iron 2.9mg; sodium 343mg; calcium 54mg.</p>
+
+    '
+image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2008%2F04%2F22%2Fpork-buns-ck-1734314-4x3-1-2000.jpg&q=85
+ingredients: "Filling:\n\xBD teaspoon five-spice powder\n1 pound pork tenderloin,\
+  \ trimmed\nCooking spray\n1 cup thinly sliced green onions\n3 tablespoons hoisin\
+  \ sauce\n2 tablespoons rice vinegar\n1 tablespoon low-sodium soy sauce\n1\u2009\xBD\
+  \ teaspoons honey\n1 teaspoon minced peeled fresh ginger\n1 teaspoon minced garlic\n\
+  \xBC teaspoon salt\nDough:\n1 cup warm water (100\xB0 to 110\xB0)\n3 tablespoons\
+  \ sugar\n1 package dry yeast (about 2 1/4 teaspoons)\n3\u2009\xBC cups all-purpose\
+  \ flour (about 14 2/3 ounces)\n3 tablespoons canola oil\n\xBC teaspoon salt\n1\u2009\
+  \xBD teaspoons baking powder"
+intrash: 0
+name: Steamed Pork Buns (Char Siu Bao)
+notes: "Kick up the spice level with some red chili peppers, cilantro, or jalape\xF1\
+  os. Tiny cubed cucumbers make a fresh, crunchy addition to this Asian favorite.\
+  \ Hint: The beauty of this recipe is that you don't have to stick with pork. Make\
+  \ it a veggie, bean or even seafood bun."
+nutritional_info: 259 calories; calories from fat 21%; fat 6.1g; saturated fat 0.9g;
+  mono fat 3.2g; poly fat 1.5g; protein 14.3g; carbohydrates 35.7g; fiber 1.6g; cholesterol
+  27mg; iron 2.9mg; sodium 343mg; calcium 54mg.
+photo: 837F0312-5A17-49E6-A8D9-E227461DA20B-26972-00000F550BBD275E.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: null
+rating: 0
+servings: 'Yield: 10 servings'
+source: myrecipes.com
+source_url: https://www.myrecipes.com/recipe/steamed-pork-buns-char-siu-bao
+total_time: null
+type: null
+uid: 2E941E51-A6DE-4FCF-AC16-1474BD78911B-26972-00000F54FB799798
 ---
 Kick up the spice level with some red chili peppers, cilantro, or jalapeños. Tiny cubed cucumbers make a fresh, crunchy addition to this Asian favorite. Hint: The beauty of this recipe is that you don't have to stick with pork. Make it a veggie, bean or even seafood bun.

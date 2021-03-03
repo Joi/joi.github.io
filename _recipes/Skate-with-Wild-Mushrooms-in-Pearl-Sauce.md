@@ -1,6 +1,154 @@
 ---
 title: "Skate with Wild Mushrooms in Pearl Sauce"
 filename: "Skate-with-Wild-Mushrooms-in-Pearl-Sauce"
-created: 2020-06-21 15:19:42
+categories:
+- Skate Wings
+cook_time: 1 1/4 hr
+created: '2020-06-21 15:19:42'
+created_ts: 1592752782
+description: null
+difficulty: null
+directions: "Make broth:\n\nWash chopped leek well in a bowl of cold water, agitating\
+  \ it, then lift out and pat dry.\n\nHeat oil in a 3- to 4-quart heavy saucepan over\
+  \ moderately high heat until hot but not smoking, then saut\xE9 leek, carrot, onion,\
+  \ and garlic clove, stirring frequently, until vegetables are soft and well browned,\
+  \ about 10 minutes. Stir in wine and deglaze saucepan by boiling, stirring and scraping\
+  \ up any brown bits, 1 minute.\n\nAdd water, soy sauce, parsley, thyme, bay leaf,\
+  \ and porcini and simmer, uncovered, until liquid is reduced to 3/4 cup, about 25\
+  \ minutes. Pour through a fine-mesh sieve into a glass measure, lightly pressing\
+  \ on and then discarding solids. Transfer to a small saucepan. If you have more\
+  \ than 3/4 cup, boil strained liquid a few minutes to reduce.\n\nSaut\xE9 fresh\
+  \ mushrooms:\n\nHeat butter and oil in a 10-inch heavy skillet until hot but not\
+  \ smoking, then saut\xE9 mushrooms with salt and pepper, stirring, until just tender\
+  \ and golden brown, about 4 minutes. Add celery and saut\xE9 until bright green\
+  \ and crisp-tender, about 2 minutes. Remove from heat and keep warm, covered with\
+  \ foil.\n\nFinish sauce and saut\xE9 skate:\n\nBring broth to a simmer, then remove\
+  \ from heat and stir in tapioca. Let stand, covered, 10 to 15 minutes.\n\nWhile\
+  \ sauce is standing, stir together flour and curry powder in a shallow bowl. Pat\
+  \ fish dry and sprinkle with salt and pepper, then dredge in flour mixture, shaking\
+  \ off excess and transferring to a plate as dredged.\n\nHeat butter in a 12-inch\
+  \ heavy skillet over moderately high heat until foam subsides, then saut\xE9 fish,\
+  \ turning over once, until golden brown and just cooked through, about 5 minutes\
+  \ total.\n\nReheat sauce, then season with salt and pepper. Serve fish with saut\xE9\
+  ed mushrooms and sauce.\n\n*Available at specialty foods shops."
+html:
+  description: null
+  directions: "<p>Make broth:</p>\n<p>Wash chopped leek well in a bowl of cold water,\
+    \ agitating it, then lift out and pat dry.</p>\n<p>Heat oil in a 3- to 4-quart\
+    \ heavy saucepan over moderately high heat until hot but not smoking, then saut\xE9\
+    \ leek, carrot, onion, and garlic clove, stirring frequently, until vegetables\
+    \ are soft and well browned, about 10 minutes. Stir in wine and deglaze saucepan\
+    \ by boiling, stirring and scraping up any brown bits, 1 minute.</p>\n<p>Add water,\
+    \ soy sauce, parsley, thyme, bay leaf, and porcini and simmer, uncovered, until\
+    \ liquid is reduced to 3/4 cup, about 25 minutes. Pour through a fine-mesh sieve\
+    \ into a glass measure, lightly pressing on and then discarding solids. Transfer\
+    \ to a small saucepan. If you have more than 3/4 cup, boil strained liquid a few\
+    \ minutes to reduce.</p>\n<p>Saut\xE9 fresh mushrooms:</p>\n<p>Heat butter and\
+    \ oil in a 10-inch heavy skillet until hot but not smoking, then saut\xE9 mushrooms\
+    \ with salt and pepper, stirring, until just tender and golden brown, about 4\
+    \ minutes. Add celery and saut\xE9 until bright green and crisp-tender, about\
+    \ 2 minutes. Remove from heat and keep warm, covered with foil.</p>\n<p>Finish\
+    \ sauce and saut\xE9 skate:</p>\n<p>Bring broth to a simmer, then remove from\
+    \ heat and stir in tapioca. Let stand, covered, 10 to 15 minutes.</p>\n<p>While\
+    \ sauce is standing, stir together flour and curry powder in a shallow bowl. Pat\
+    \ fish dry and sprinkle with salt and pepper, then dredge in flour mixture, shaking\
+    \ off excess and transferring to a plate as dredged.</p>\n<p>Heat butter in a\
+    \ 12-inch heavy skillet over moderately high heat until foam subsides, then saut\xE9\
+    \ fish, turning over once, until golden brown and just cooked through, about 5\
+    \ minutes total.</p>\n<p>Reheat sauce, then season with salt and pepper. Serve\
+    \ fish with saut\xE9ed mushrooms and sauce.</p>\n<p>*Available at specialty foods\
+    \ shops.</p>\n"
+  ingredients: "<ul>\n<li>For mushroom sauce:</li>\n<li>1 small leek (white and pale\
+    \ green parts only), chopped</li>\n<li>1 tablespoon olive oil</li>\n<li>1 medium\
+    \ carrot, chopped</li>\n<li>1/2 medium onion, chopped</li>\n<li>1 garlic clove</li>\n\
+    <li>1/4 cup dry white wine</li>\n<li>2 cups water</li>\n<li>1 teaspoon soy sauce</li>\n\
+    <li>1 fresh flat-leaf parsley sprig</li>\n<li>1 fresh thyme sprig</li>\n<li>1\
+    \ Turkish or 1/2 California bay leaf</li>\n<li>1 tablespoon crumbled dried porcini*</li>\n\
+    <li>1 tablespoon quick-cooking tapioca</li>\n<li>For saut\xE9ed mushrooms</li>\n\
+    <li>1/2 tablespoon unsalted butter</li>\n<li>1/2 tablespoon olive oil</li>\n<li>6\
+    \ oz mixed fresh mushrooms, such as oyster and chanterelle, trimmed and halved\
+    \ lengthwise or quartered if large</li>\n<li>1/4 teaspoon salt</li>\n<li>1/8 teaspoon\
+    \ black pepper</li>\n<li>1 celery rib, thinly sliced diagonally</li>\n<li>For\
+    \ skate</li>\n<li>1 1/2 tablespoons all-purpose flour</li>\n<li>1/4 teaspoon curry\
+    \ powder</li>\n<li>2 (5- to 6-oz) pieces skate fillet, halved crosswise if large</li>\n\
+    <li>1/2 teaspoon salt</li>\n<li>1/8 teaspoon black pepper</li>\n<li>1 1/2 tablespoons\
+    \ unsalted butter</li>\n</ul>\n"
+  notes: '<p>Broth (without tapioca) can be made 2 days ahead and cooled completely,
+    uncovered, then chilled, covered.</p>
+
+    '
+  nutrition: '<p>Calories 503
+
+    Carbohydrates 31 g(10%)
+
+    Fat 27 g(42%)
+
+    Protein 29 g(58%)
+
+    Saturated Fat 10 g(50%)
+
+    Sodium 1318 mg(55%)
+
+    Polyunsaturated Fat 3 g
+
+    Fiber 7 g(27%)
+
+    Monounsaturated Fat 11 g
+
+    Cholesterol 105 mg(35%)
+
+    per serving (2 servings) Powered by</p>
+
+    '
+image_url: https://assets.epicurious.com/photos/560de5b4f3a00aeb2f1d54ec/1:1/w_600%2Ch_600/232615.jpg
+ingredients: "For mushroom sauce:\n1 small leek (white and pale green parts only),\
+  \ chopped\n1 tablespoon olive oil\n1 medium carrot, chopped\n1/2 medium onion, chopped\n\
+  1 garlic clove\n1/4 cup dry white wine\n2 cups water\n1 teaspoon soy sauce\n1 fresh\
+  \ flat-leaf parsley sprig\n1 fresh thyme sprig\n1 Turkish or 1/2 California bay\
+  \ leaf\n1 tablespoon crumbled dried porcini*\n1 tablespoon quick-cooking tapioca\n\
+  For saut\xE9ed mushrooms\n1/2 tablespoon unsalted butter\n1/2 tablespoon olive oil\n\
+  6 oz mixed fresh mushrooms, such as oyster and chanterelle, trimmed and halved lengthwise\
+  \ or quartered if large\n1/4 teaspoon salt\n1/8 teaspoon black pepper\n1 celery\
+  \ rib, thinly sliced diagonally\nFor skate\n1 1/2 tablespoons all-purpose flour\n\
+  1/4 teaspoon curry powder\n2 (5- to 6-oz) pieces skate fillet, halved crosswise\
+  \ if large\n1/2 teaspoon salt\n1/8 teaspoon black pepper\n1 1/2 tablespoons unsalted\
+  \ butter"
+intrash: 0
+name: Skate with Wild Mushrooms in Pearl Sauce
+notes: Broth (without tapioca) can be made 2 days ahead and cooled completely, uncovered,
+  then chilled, covered.
+nutritional_info: 'Calories 503
+
+  Carbohydrates 31 g(10%)
+
+  Fat 27 g(42%)
+
+  Protein 29 g(58%)
+
+  Saturated Fat 10 g(50%)
+
+  Sodium 1318 mg(55%)
+
+  Polyunsaturated Fat 3 g
+
+  Fiber 7 g(27%)
+
+  Monounsaturated Fat 11 g
+
+  Cholesterol 105 mg(35%)
+
+  per serving (2 servings) Powered by'
+photo: 2F822DF1-553A-4593-8856-B374E91FC521-19099-00000BF3930AA982.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: 45 min
+rating: 0
+servings: 2 servings
+source: epicurious.com
+source_url: https://www.epicurious.com/recipes/food/views/Skate-with-Wild-Mushrooms-in-Pearl-Sauce-232615?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly
+total_time: null
+type: null
+uid: 9D39BED7-AD2F-4037-8244-914EAAAD5587-19099-00000BD49E4ACC48
 ---
 Broth (without tapioca) can be made 2 days ahead and cooled completely, uncovered, then chilled, covered.

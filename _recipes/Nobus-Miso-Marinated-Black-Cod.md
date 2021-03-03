@@ -1,6 +1,100 @@
 ---
 title: "Nobu's Miso-Marinated Black Cod"
 filename: "Nobus-Miso-Marinated-Black-Cod"
-created: 2020-04-19 16:55:20
+categories:
+- White Fish
+cook_time: ''
+created: '2020-04-19 16:55:20'
+created_ts: 1587315320
+description: ''
+difficulty: ''
+directions: "Optional (from one of our members): Add 1 dried hot chili to the marinade\
+  \ mixture at the beginning, boiling it with the sake and mirin and leaving it in\
+  \ for the duration of marinading.\n\nTwo to 3 days beforehand (at minimum, 6 hours)\
+  \ make the miso marinade and marinate the fish. Bring the sake and mirin to a boil\
+  \ in a medium saucepan over high heat. Boil for 20 seconds to evaporate the alcohol.\
+  \ Turn the heat down to low, add the miso paste, and whisk. When the miso has dissolved\
+  \ completely, turn the heat up to high again and add the sugar, whisking constantly\
+  \ to ensure that the sugar doesn't burn on the bottom of the pan. Remove from heat\
+  \ once the sugar is fully dissolved. Cool to room temperature.\n\nPat the black\
+  \ cod fillets thoroughly dry with paper towels. Slather the fish with the miso marinade\
+  \ and place in a non-reactive dish or bowl and cover tightly with plastic wrap.\
+  \ Leave to marinate in the refrigerator for 2 to 3 days (or 6 hours at a minimum).\n\
+  \nTo cook the fish: Preheat oven to 400\xB0F. Heat an oven-proof skillet over high\
+  \ heat on the stovetop. Lightly wipe off any excess miso clinging to the fillets,\
+  \ but don't rinse it off. Film the pan with a little oil, then place the fish skin-side-up\
+  \ on the pan and cook until the bottom of the fish browns and blackens in spots,\
+  \ about 3 minutes. Flip and continue cooking until the other side is browned, 2\
+  \ to 3 minutes. Transfer to the oven and bake for 5 to 10 minutes, until fish is\
+  \ opaque and flakes easily."
+html:
+  description: null
+  directions: "<p>Optional (from one of our members): Add 1 dried hot chili to the\
+    \ marinade mixture at the beginning, boiling it with the sake and mirin and leaving\
+    \ it in for the duration of marinading.</p>\n<p>Two to 3 days beforehand (at minimum,\
+    \ 6 hours) make the miso marinade and marinate the fish. Bring the sake and mirin\
+    \ to a boil in a medium saucepan over high heat. Boil for 20 seconds to evaporate\
+    \ the alcohol. Turn the heat down to low, add the miso paste, and whisk. When\
+    \ the miso has dissolved completely, turn the heat up to high again and add the\
+    \ sugar, whisking constantly to ensure that the sugar doesn't burn on the bottom\
+    \ of the pan. Remove from heat once the sugar is fully dissolved. Cool to room\
+    \ temperature.</p>\n<p>Pat the black cod fillets thoroughly dry with paper towels.\
+    \ Slather the fish with the miso marinade and place in a non-reactive dish or\
+    \ bowl and cover tightly with plastic wrap. Leave to marinate in the refrigerator\
+    \ for 2 to 3 days (or 6 hours at a minimum).</p>\n<p>To cook the fish: Preheat\
+    \ oven to 400\xB0F. Heat an oven-proof skillet over high heat on the stovetop.\
+    \ Lightly wipe off any excess miso clinging to the fillets, but don't rinse it\
+    \ off. Film the pan with a little oil, then place the fish skin-side-up on the\
+    \ pan and cook until the bottom of the fish browns and blackens in spots, about\
+    \ 3 minutes. Flip and continue cooking until the other side is browned, 2 to 3\
+    \ minutes. Transfer to the oven and bake for 5 to 10 minutes, until fish is opaque\
+    \ and flakes easily.</p>\n"
+  ingredients: '<ul>
+
+    <li>1/4 cup sake</li>
+
+    <li>1/4 cup mirin</li>
+
+    <li>4 tablespoons white miso paste</li>
+
+    <li>3 tablespoons sugar</li>
+
+    <li>4 black cod fillets, about 1/2 pound each</li>
+
+    </ul>
+
+    '
+  notes: '<p>Instead of cooking the fish on the stovetop, you can cook it on an outdoor
+    grill or under the broiler in your oven.</p>
+
+    '
+  nutrition: null
+image_url: https://www.realgoodfish.com/thumbs/600x400/files/zc/51744e8474c5b601a70000b5_w540_sfit__27740.jpg
+ingredients: '1/4 cup sake
+
+  1/4 cup mirin
+
+  4 tablespoons white miso paste
+
+  3 tablespoons sugar
+
+  4 black cod fillets, about 1/2 pound each'
+intrash: 0
+name: Nobu's Miso-Marinated Black Cod
+notes: Instead of cooking the fish on the stovetop, you can cook it on an outdoor
+  grill or under the broiler in your oven.
+nutritional_info: ''
+photo: AB22EEF2-37D7-48B1-9392-746F36072988-407-00005036275B54A3.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: ''
+rating: 5
+servings: Serves 4
+source: realgoodfish.com
+source_url: https://www.realgoodfish.com/recipe/237/nobus-miso-marinated-black-cod-recipe
+total_time: ''
+type: null
+uid: 87679938-6C84-4854-B875-67086B25742C-407-00005033619C36F7
 ---
 Instead of cooking the fish on the stovetop, you can cook it on an outdoor grill or under the broiler in your oven.

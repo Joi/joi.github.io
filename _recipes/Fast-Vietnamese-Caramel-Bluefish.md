@@ -1,5 +1,68 @@
 ---
 title: "Fast Vietnamese Caramel Bluefish"
 filename: "Fast-Vietnamese-Caramel-Bluefish"
-created: 2020-05-31 23:58:19
+categories:
+- Blue Fish
+cook_time: 20 minutes
+created: '2020-05-31 23:58:19'
+created_ts: 1590969499
+description: null
+difficulty: ''
+directions: "Brush fish all over with oil. Remove outer layer of lemongrass stalk\
+  \ and cut stalk into 2-inch lengths. Using the butt of a kitchen knife, pound and\
+  \ bruise stalks all over.\n\nPlace lemongrass pieces, sugar, fish sauce, soy sauce,\
+  \ ginger and black pepper in a large skillet. Bring to a simmer over medium-high\
+  \ heat, and reduce sauce for 1 to 2 minutes, until syrupy.\n\nPlace fish, skin side-down,\
+  \ in pan. Simmer, basting fish frequently with pan sauce, for 2 minutes; carefully\
+  \ turn fish and continue cooking until fish is just cooked through, 2 to 3 minutes\
+  \ longer.\n\nTransfer fish to a serving plate and garnish with scallion, jalape\xF1\
+  o and cilantro. Drizzle with additional sauce. Serve over rice, if desired."
+html:
+  description: null
+  directions: "<p>Brush fish all over with oil. Remove outer layer of lemongrass stalk\
+    \ and cut stalk into 2-inch lengths. Using the butt of a kitchen knife, pound\
+    \ and bruise stalks all over.</p>\n<p>Place lemongrass pieces, sugar, fish sauce,\
+    \ soy sauce, ginger and black pepper in a large skillet. Bring to a simmer over\
+    \ medium-high heat, and reduce sauce for 1 to 2 minutes, until syrupy.</p>\n<p>Place\
+    \ fish, skin side-down, in pan. Simmer, basting fish frequently with pan sauce,\
+    \ for 2 minutes; carefully turn fish and continue cooking until fish is just cooked\
+    \ through, 2 to 3 minutes longer.</p>\n<p>Transfer fish to a serving plate and\
+    \ garnish with scallion, jalape\xF1o and cilantro. Drizzle with additional sauce.\
+    \ Serve over rice, if desired.</p>\n"
+  ingredients: "<ul>\n<li>4 (6-ounce) skin-on bluefish fillets (or substitute mackerel,\
+    \ trout or thin salmon fillets)</li>\n<li>1 tablespoon peanut, grapeseed or safflower\
+    \ oil</li>\n<li>1 stalk lemongrass, or use lemon or lime zest (see note)</li>\n\
+    <li>\u2153 cup light brown sugar</li>\n<li>2 tablespoons Asian fish sauce</li>\n\
+    <li>1 \xBD tablespoons soy sauce</li>\n<li>1 teaspoon grated ginger</li>\n<li>\xBD\
+    \ teaspoon black pepper</li>\n<li>Sliced scallions, as needed</li>\n<li>Thinly\
+    \ sliced jalape\xF1o, as needed</li>\n<li>Fresh cilantro, as needed</li>\n<li>Cooked\
+    \ rice, for serving (optional)</li>\n</ul>\n"
+  notes: null
+  nutrition: null
+image_url: null
+ingredients: "4 (6-ounce) skin-on bluefish fillets (or substitute mackerel, trout\
+  \ or thin salmon fillets)\n1 tablespoon peanut, grapeseed or safflower oil\n1 stalk\
+  \ lemongrass, or use lemon or lime zest (see note)\n\u2153 cup light brown sugar\n\
+  2 tablespoons Asian fish sauce\n1 \xBD tablespoons soy sauce\n1 teaspoon grated\
+  \ ginger\n\xBD teaspoon black pepper\nSliced scallions, as needed\nThinly sliced\
+  \ jalape\xF1o, as needed\nFresh cilantro, as needed\nCooked rice, for serving (optional)"
+intrash: 0
+name: Fast Vietnamese Caramel Bluefish
+notes: null
+nutritional_info: null
+photo: 278371E5-8BFC-428D-A707-5A2508C13FE8-22544-0003EEFC42C0FE77.jpg
+photo_large: B5DC6ADE-E9F2-4E17-96C1-7D2662F6D500-7583-0000043563018CA9.jpg
+photos:
+- filename: B5DC6ADE-E9F2-4E17-96C1-7D2662F6D500-7583-0000043563018CA9.jpg
+  name: '1'
+photos_dict:
+  '1': B5DC6ADE-E9F2-4E17-96C1-7D2662F6D500-7583-0000043563018CA9.jpg
+prep_time: ''
+rating: 4
+servings: Yield 4 servings
+source: cooking.nytimes.com
+source_url: https://cooking.nytimes.com/recipes/1017451-fast-vietnamese-caramel-bluefish
+total_time: ''
+type: null
+uid: E557AA97-6162-49E3-A7E6-7D32CC383B53-11450-00014F58E1107A53
 ---

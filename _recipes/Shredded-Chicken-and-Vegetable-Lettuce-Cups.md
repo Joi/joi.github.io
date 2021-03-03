@@ -1,5 +1,109 @@
 ---
 title: "Shredded Chicken and Vegetable Lettuce Cups"
 filename: "Shredded-Chicken-and-Vegetable-Lettuce-Cups"
-created: 2020-02-03 16:07:31
+categories:
+- Chicken
+cook_time: 1h 15min
+created: '2020-02-03 16:07:31'
+created_ts: 1580746051
+description: null
+difficulty: Easy
+directions: "Place garlic and ginger into mixing bowl and chop 5 sec/speed 7.\n\n\
+  Add carrot and celery and chop 4 sec/speed 5. Scrape down sides of mixing bowl with\
+  \ spatula.\n\nAdd chicken, asparagus tips, red pepper, lemongrass, lime leaves,\
+  \ corn, fish sauce, tamari, sesame oil and water and cook 10 min/250\xB0F/\uE003\
+  /speed\uE002.\n\nAdd chili, green onions, water chestnuts, cilantro, mint leaves\
+  \ and lime juice and mix 20 sec/\uE003/speed \uE002.\n\nPlace simmering basket into\
+  \ mixing bowl, hold in place with spatula and drain liquid from chicken and vegetables\
+  \ into a bowl and reserve for future use. Discard lime leaves and transfer chicken\
+  \ mixture to a serving bowl. Serve in crispy lettuce cups sprinkled with sesame\
+  \ seeds.\n\nTips & tricks\n\nToast sesame seeds before starting recipe. Place 1\
+  \ oz sesame seeds into mixing bowl and without measuring cup toast 10 min/Varoma/speed\
+  \ \uE002.\n\nIf you prefer a slightly saltier version, add 2 tablespoons fish sauce.\n\
+  \nKeep drained liquid and combine with water when steaming rice, fish or chicken\
+  \ in the Varoma."
+html:
+  description: null
+  directions: "<p>Place garlic and ginger into mixing bowl and chop 5 sec/speed 7.</p>\n\
+    <p>Add carrot and celery and chop 4 sec/speed 5. Scrape down sides of mixing bowl\
+    \ with spatula.</p>\n<p>Add chicken, asparagus tips, red pepper, lemongrass, lime\
+    \ leaves, corn, fish sauce, tamari, sesame oil and water and cook 10 min/250\xB0\
+    F/\uE003/speed\uE002.</p>\n<p>Add chili, green onions, water chestnuts, cilantro,\
+    \ mint leaves and lime juice and mix 20 sec/\uE003/speed \uE002.</p>\n<p>Place\
+    \ simmering basket into mixing bowl, hold in place with spatula and drain liquid\
+    \ from chicken and vegetables into a bowl and reserve for future use. Discard\
+    \ lime leaves and transfer chicken mixture to a serving bowl. Serve in crispy\
+    \ lettuce cups sprinkled with sesame seeds.</p>\n<p>Tips &amp; tricks</p>\n<p>Toast\
+    \ sesame seeds before starting recipe. Place 1 oz sesame seeds into mixing bowl\
+    \ and without measuring cup toast 10 min/Varoma/speed \uE002.</p>\n<p>If you prefer\
+    \ a slightly saltier version, add 2 tablespoons fish sauce.</p>\n<p>Keep drained\
+    \ liquid and combine with water when steaming rice, fish or chicken in the Varoma.</p>\n"
+  ingredients: "<ul>\n<li>1 garlic clove</li>\n<li>1 piece fresh ginger (approx. 1\
+    \ in. x \xBE in.)</li>\n<li>2 oz carrot, cut into 2 in. pieces</li>\n<li>2 oz\
+    \ celery, cut into 2 in. pieces</li>\n<li>16 - 18 oz chicken breast, boneless\
+    \ and skinless, cubed (approx. 1 in.)</li>\n<li>1 oz green asparagus tips (approx.\
+    \ \xBD bunch) (optional)</li>\n<li>2 oz red pepper, diced</li>\n<li>\xBD stick\
+    \ fresh lemongrass (approx. \xBD in. x 3 in.), thinly sliced</li>\n<li>2 fresh\
+    \ kaffir lime leaves</li>\n<li>2 oz frozen sweet corn</li>\n<li>2 tbsp fish sauce</li>\n\
+    <li>2 tbsp tamari sauce</li>\n<li>1 tbsp sesame oil</li>\n<li>2 oz water</li>\n\
+    <li>1 serrano chili, to taste, finely sliced into rounds (optional)</li>\n<li>3\
+    \ oz green onions, cut on the bias (approx. \xBC in.)</li>\n<li>2 oz canned water\
+    \ chestnuts, drained and diced</li>\n<li>1 oz cilantro, leaves and tender stems,\
+    \ finely chopped (approx. \xBD bunch)</li>\n<li>20 mint leaves, torn into small\
+    \ pieces</li>\n<li>\xBD oz lime juice (approx. \xBD lime)</li>\n<li>27 oz iceberg\
+    \ lettuce, cored, wash and separate leaves, to serve</li>\n<li>2 tbsp white sesame\
+    \ seeds, toasted</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 1879 kJ / 449 kcal
+
+    Protein: 43 g
+
+    Carbohydrates: 38 g
+
+    Fat: 16 g
+
+    Cholesterol: 107 mg
+
+    Fiber: 6 g</p>
+
+    '
+image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/vimdb/212107.jpg
+ingredients: "1 garlic clove\n1 piece fresh ginger (approx. 1 in. x \xBE in.)\n2 oz\
+  \ carrot, cut into 2 in. pieces\n2 oz celery, cut into 2 in. pieces\n16 - 18 oz\
+  \ chicken breast, boneless and skinless, cubed (approx. 1 in.)\n1 oz green asparagus\
+  \ tips (approx. \xBD bunch) (optional)\n2 oz red pepper, diced\n\xBD stick fresh\
+  \ lemongrass (approx. \xBD in. x 3 in.), thinly sliced\n2 fresh kaffir lime leaves\n\
+  2 oz frozen sweet corn\n2 tbsp fish sauce\n2 tbsp tamari sauce\n1 tbsp sesame oil\n\
+  2 oz water\n1 serrano chili, to taste, finely sliced into rounds (optional)\n3 oz\
+  \ green onions, cut on the bias (approx. \xBC in.)\n2 oz canned water chestnuts,\
+  \ drained and diced\n1 oz cilantro, leaves and tender stems, finely chopped (approx.\
+  \ \xBD bunch)\n20 mint leaves, torn into small pieces\n\xBD oz lime juice (approx.\
+  \ \xBD lime)\n27 oz iceberg lettuce, cored, wash and separate leaves, to serve\n\
+  2 tbsp white sesame seeds, toasted"
+intrash: 0
+name: Shredded Chicken and Vegetable Lettuce Cups
+notes: null
+nutritional_info: 'Calories: 1879 kJ / 449 kcal
+
+  Protein: 43 g
+
+  Carbohydrates: 38 g
+
+  Fat: 16 g
+
+  Cholesterol: 107 mg
+
+  Fiber: 6 g'
+photo: F0A53D0F-9302-4F62-B78E-1EFEC8499AA8-408-0000500E16A38B26.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: 1h
+rating: 0
+servings: 4 portions
+source: cookidoo.thermomix.com
+source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r168065
+total_time: null
+type: null
+uid: 6CA83613-DD0D-4B20-B4F5-68475B593410-408-0000500CAF3CB83D
 ---

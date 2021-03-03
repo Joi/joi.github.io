@@ -173,7 +173,8 @@
   },
   "Chinese": {
     "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe",
-    "Kanitama": "Kanitama"
+    "Kanitama": "Kanitama",
+    "Mapo-Tofu": "Mapo Tofu"
   },
   "Chuck Roast": {
     "Beef-Stew-with-Carrots-Potatoes": "Beef Stew with Carrots & Potatoes",
@@ -302,7 +303,8 @@
     "The-Best-Meatball-Recipe--1-Minute-Video": "The Best Meatball Recipe | 1-Minute Video"
   },
   "Ground Pork": {
-    "Ginisang-Pechay-with-Ground-Pork-and-Shrimp": "Ginisang Pechay with Ground Pork and Shrimp"
+    "Ginisang-Pechay-with-Ground-Pork-and-Shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
+    "Mapo-Tofu": "Mapo Tofu"
   },
   "Hake": {
     "Confit-Hake-Cherry-Tomatoes-and-Garlic": "Confit Hake, Cherry Tomatoes and Garlic"
@@ -731,10 +733,10 @@
   "Tuna": {
     "Fresh-Tuna-Burgers-with-Ginger-Cilantro": "Fresh Tuna Burgers with Ginger & Cilantro",
     "Grilled-Tuna-Burgers-with-Spicy-Mayo": "Grilled Tuna Burgers with Spicy Mayo",
-    "Pan-Seared-Tuna-with-Avocado-Soy-Ginger-and-Lime": "Pan-Seared Tuna with Avocado, Soy, Ginger, and Lime",
     "Seared-Ahi-Tuna-Steaks": "Seared Ahi Tuna Steaks",
     "Tuna-Confit": "Tuna Confit",
-    "Tuna-Tataki-Recipe": "Tuna Tataki Recipe"
+    "Tuna-Tataki-Recipe": "Tuna Tataki Recipe",
+    "Tuna-Tataki-with-Lime-Ginger-and-Jalapeno": "Tuna Tataki with Lime, Ginger and Jalapeño"
   },
   "Turkey": {
     "Roasted-Turkey-Breast": "Roasted Turkey Breast",
@@ -808,6 +810,7 @@
     "Oven-Roasted-Spatchcocked-Chicken": "Oven Roasted Spatchcocked Chicken",
     "Paella": "Paella",
     "Prime-Rib": "Prime Rib",
-    "Rouille": "Rouille"
+    "Rouille": "Rouille",
+    "Tuna-Tataki-with-Lime-Ginger-and-Jalapeno": "Tuna Tataki with Lime, Ginger and Jalapeño"
   }
 }

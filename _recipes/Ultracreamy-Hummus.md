@@ -1,5 +1,91 @@
 ---
 title: "Ultracreamy Hummus"
 filename: "Ultracreamy-Hummus"
-created: 2020-02-03 15:19:07
+categories:
+- Spread
+cook_time: null
+created: '2020-02-03 15:19:07'
+created_ts: 1580743147
+description: null
+difficulty: null
+directions: "Combine chickpeas, baking soda, and 6 cups water in medium saucepan and\
+  \ bring to boil over high heat. Reduce heat and simmer, stirring occasionally, until\
+  \ chickpea skins begin to float to surface and chickpeas are creamy and very soft,\
+  \ 20 to 25 minutes.\n\nWhile chickpeas cook, mince garlic using garlic press or\
+  \ rasp-style grater. Measure out 1 tablespoon and set aside; discard remaining garlic.\
+  \ Whisk lemon juice, salt, and reserved garlic together in small bowl and let sit\
+  \ for 10 minutes. Strain garlic-lemon mixture through fine-mesh strainer set over\
+  \ bowl, pressing on solids to extract as much liquid as possible; discard solids.\n\
+  \nDrain chickpeas in colander and return to saucepan. Fill saucepan with cold water\
+  \ and gently swish chickpeas with your fingers to release skins. Pour off most of\
+  \ water into colander to collect skins, leaving chickpeas behind in saucepan. Repeat\
+  \ filling, swishing, and draining 3 or 4 times until most skins have been removed\
+  \ (this should yield about \xBE cup skins); discard skins. Transfer chickpeas to\
+  \ colander to drain.\n\nSet aside 2 tablespoons whole chickpeas for garnish. Process\
+  \ garlic-lemon mixture, \xBC cup water, cumin, and remaining chickpeas in food processor\
+  \ until smooth, about 1 minute, scraping down sides of bowl as needed. Add tahini\
+  \ and oil and process until hummus is smooth, creamy, and light, about 1 minute,\
+  \ scraping down sides of bowl as needed. (Hummus should have pourable consistency\
+  \ similar to yogurt. If too thick, loosen with water, adding 1 teaspoon at a time.)\
+  \ Season with salt and extra lemon juice to taste.\n\nTransfer to serving bowl and\
+  \ sprinkle with parsley, reserved chickpeas, and extra cumin. Drizzle with extra\
+  \ oil and serve. (Hummus can be refrigerated in airtight container for up to 5 days.\
+  \ Let sit, covered, at room temperature for 30 minutes before serving.)"
+html:
+  description: null
+  directions: "<p>Combine chickpeas, baking soda, and 6 cups water in medium saucepan\
+    \ and bring to boil over high heat. Reduce heat and simmer, stirring occasionally,\
+    \ until chickpea skins begin to float to surface and chickpeas are creamy and\
+    \ very soft, 20 to 25 minutes.</p>\n<p>While chickpeas cook, mince garlic using\
+    \ garlic press or rasp-style grater. Measure out 1 tablespoon and set aside; discard\
+    \ remaining garlic. Whisk lemon juice, salt, and reserved garlic together in small\
+    \ bowl and let sit for 10 minutes. Strain garlic-lemon mixture through fine-mesh\
+    \ strainer set over bowl, pressing on solids to extract as much liquid as possible;\
+    \ discard solids.</p>\n<p>Drain chickpeas in colander and return to saucepan.\
+    \ Fill saucepan with cold water and gently swish chickpeas with your fingers to\
+    \ release skins. Pour off most of water into colander to collect skins, leaving\
+    \ chickpeas behind in saucepan. Repeat filling, swishing, and draining 3 or 4\
+    \ times until most skins have been removed (this should yield about \xBE cup skins);\
+    \ discard skins. Transfer chickpeas to colander to drain.</p>\n<p>Set aside 2\
+    \ tablespoons whole chickpeas for garnish. Process garlic-lemon mixture, \xBC\
+    \ cup water, cumin, and remaining chickpeas in food processor until smooth, about\
+    \ 1 minute, scraping down sides of bowl as needed. Add tahini and oil and process\
+    \ until hummus is smooth, creamy, and light, about 1 minute, scraping down sides\
+    \ of bowl as needed. (Hummus should have pourable consistency similar to yogurt.\
+    \ If too thick, loosen with water, adding 1 teaspoon at a time.) Season with salt\
+    \ and extra lemon juice to taste.</p>\n<p>Transfer to serving bowl and sprinkle\
+    \ with parsley, reserved chickpeas, and extra cumin. Drizzle with extra oil and\
+    \ serve. (Hummus can be refrigerated in airtight container for up to 5 days. Let\
+    \ sit, covered, at room temperature for 30 minutes before serving.)</p>\n"
+  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>2 (15-ounce) cans chickpeas,\
+    \ rinsed</li>\n<li>\xBD teaspoon baking soda</li>\n<li>4 garlic cloves, peeled</li>\n\
+    <li>\u2153 cup lemon juice (2 lemons), plus extra for seasoning</li>\n<li>1 teaspoon\
+    \ table salt</li>\n<li>\xBC teaspoon ground cumin, plus extra for garnish</li>\n\
+    <li>\xBD cup tahini, stirred well</li>\n<li>2 tablespoons extra-virgin olive oil,\
+    \ plus extra for drizzling</li>\n<li>1 tablespoon minced fresh parsley</li>\n\
+    </ul>\n"
+  notes: null
+  nutrition: null
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_ultra_creamy_hummus_060_1_er9ulh
+ingredients: "GATHER YOUR INGREDIENTS\n2 (15-ounce) cans chickpeas, rinsed\n\xBD teaspoon\
+  \ baking soda\n4 garlic cloves, peeled\n\u2153 cup lemon juice (2 lemons), plus\
+  \ extra for seasoning\n1 teaspoon table salt\n\xBC teaspoon ground cumin, plus extra\
+  \ for garnish\n\xBD cup tahini, stirred well\n2 tablespoons extra-virgin olive oil,\
+  \ plus extra for drizzling\n1 tablespoon minced fresh parsley"
+intrash: 0
+name: Ultracreamy Hummus
+notes: null
+nutritional_info: null
+photo: 951D8C53-2E23-4AD2-AB3D-C8B565B5278F-408-00004D69F4F4AA05.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: null
+rating: 0
+servings: Serves 8 to 10
+source: cooksillustrated.com
+source_url: https://www.cooksillustrated.com/recipes/12228-ultracreamy-hummus
+total_time: null
+type: null
+uid: 0A8407AD-85A4-4F01-90F5-8C208097006B-408-00004D67876A2BBF
 ---

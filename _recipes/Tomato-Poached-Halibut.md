@@ -1,5 +1,133 @@
 ---
 title: "Tomato-Poached Halibut"
 filename: "Tomato-Poached-Halibut"
-created: 2020-08-07 11:33:42
+categories:
+- Halibut
+cook_time: 'prep/total time: 30 min.'
+created: '2020-08-07 11:33:42'
+created_ts: 1596800022
+description: null
+difficulty: ''
+directions: 'In a large nonstick skillet, heat oil over medium-high heat. Add poblano
+  peppers and onion; cook and stir 4-6 minutes or until tender.
+
+
+  Stir in tomatoes, olives, garlic, pepper and salt. Bring to a boil. Adjust heat
+  to maintain a gentle simmer. Add fillets. Cook, covered, 8-10 minutes or until fish
+  just begins to flake easily with a fork. Sprinkle with cilantro. Serve with lemon
+  wedges and, if desired, bread.
+
+  '
+html:
+  description: null
+  directions: '<p>In a large nonstick skillet, heat oil over medium-high heat. Add
+    poblano peppers and onion; cook and stir 4-6 minutes or until tender.</p>
+
+    <p>Stir in tomatoes, olives, garlic, pepper and salt. Bring to a boil. Adjust
+    heat to maintain a gentle simmer. Add fillets. Cook, covered, 8-10 minutes or
+    until fish just begins to flake easily with a fork. Sprinkle with cilantro. Serve
+    with lemon wedges and, if desired, bread.</p>
+
+    '
+  ingredients: '<ul>
+
+    <li>1 tablespoon olive oil</li>
+
+    <li>2 poblano peppers, finely chopped</li>
+
+    <li>1 small onion, finely chopped</li>
+
+    <li>1 can (14-1/2 ounces) fire-roasted diced tomatoes, undrained</li>
+
+    <li>1 can (14-1/2 ounces) no-salt-added diced tomatoes, undrained</li>
+
+    <li>1/4 cup chopped pitted green olives</li>
+
+    <li>3 garlic cloves, minced</li>
+
+    <li>1/4 teaspoon pepper</li>
+
+    <li>1/8 teaspoon salt</li>
+
+    <li>4 halibut fillets (4 ounces each)</li>
+
+    <li>1/3 cup chopped fresh cilantro</li>
+
+    <li>4 lemon wedges</li>
+
+    <li>Crusty whole grain bread, optional</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: '<p>Fat: 7g fat (1g saturated fat)
+
+    Calories: 224 calories
+
+    Sodium: 651mg sodium
+
+    Fiber: 4g fiber)
+
+    Carbohydrate: 17g carbohydrate (8g sugars
+
+    Cholesterol: 56mg cholesterol
+
+    Protein: 24g protein. Diabetic Exchanges: 3 lean meat</p>
+
+    '
+image_url: https://www.tasteofhome.com/wp-content/uploads/2018/01/exps149139_TH153345B07_21_11b-696x696.jpg
+ingredients: '1 tablespoon olive oil
+
+  2 poblano peppers, finely chopped
+
+  1 small onion, finely chopped
+
+  1 can (14-1/2 ounces) fire-roasted diced tomatoes, undrained
+
+  1 can (14-1/2 ounces) no-salt-added diced tomatoes, undrained
+
+  1/4 cup chopped pitted green olives
+
+  3 garlic cloves, minced
+
+  1/4 teaspoon pepper
+
+  1/8 teaspoon salt
+
+  4 halibut fillets (4 ounces each)
+
+  1/3 cup chopped fresh cilantro
+
+  4 lemon wedges
+
+  Crusty whole grain bread, optional'
+intrash: 0
+name: Tomato-Poached Halibut
+notes: null
+nutritional_info: 'Fat: 7g fat (1g saturated fat)
+
+  Calories: 224 calories
+
+  Sodium: 651mg sodium
+
+  Fiber: 4g fiber)
+
+  Carbohydrate: 17g carbohydrate (8g sugars
+
+  Cholesterol: 56mg cholesterol
+
+  Protein: 24g protein. Diabetic Exchanges: 3 lean meat'
+photo: 47E1742C-CD93-431C-815D-77AB7BFA4E5D-2643-000000EA918D9E6B.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: 15 min
+rating: 5
+servings: 4 servings
+source: tasteofhome.com
+source_url: https://www.tasteofhome.com/recipes/tomato-poached-halibut/
+total_time: ''
+type: null
+uid: 8CD26E14-3D18-4D2C-8D22-0C790E629F2B-2643-000000EA7A75D928
 ---

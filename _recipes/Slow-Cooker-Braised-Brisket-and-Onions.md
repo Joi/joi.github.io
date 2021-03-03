@@ -1,5 +1,83 @@
 ---
 title: "Slow-Cooker Braised Brisket and Onions"
 filename: "Slow-Cooker-Braised-Brisket-and-Onions"
-created: 2020-03-31 16:54:32
+categories:
+- Beef
+- Brisket
+cook_time: 9 to 10 hours on low or 6 to 7 hours on high
+created: '2020-03-31 16:54:32'
+created_ts: 1585673672
+description: ''
+difficulty: ''
+directions: "Combine paprika, onion powder, 1 teaspoon salt, garlic powder, and cayenne\
+  \ in bowl. Using fork, prick brisket all over. Rub spice mixture over brisket, wrap\
+  \ tightly in plastic wrap, and refrigerate for 8 to 24 hours.\n\nHeat oil in 12-inch\
+  \ skillet over medium heat until shimmering. Add onions and cook until softened\
+  \ and lightly browned, 8 to 10 minutes. Stir in flour, tomato paste, and garlic\
+  \ and cook until fragrant, about 1 minute. Slowly stir in broth, scraping up any\
+  \ browned bits and smoothing out any lumps; transfer to slow cooker.\n\nStir 2 tablespoons\
+  \ vinegar, sugar, thyme sprigs, and bay leaves into slow cooker. Unwrap brisket\
+  \ and nestle fat side up into slow cooker. Spoon portion of onion mixture over brisket.\
+  \ Cover and cook until beef is tender, 9 to 10 hours on low or 6 to 7 hours on high.\n\
+  \nTransfer brisket to carving board, tent loosely with aluminum foil, and let rest\
+  \ for 20 minutes.\n\nDiscard thyme sprigs and bay leaves. Using large spoon, skim\
+  \ fat from surface of sauce. Stir in remaining 1 teaspoon vinegar and season with\
+  \ salt and pepper to taste. Slice brisket against grain into \xBD-inch-thick slices\
+  \ and arrange on serving dish. Spoon 1 cup sauce over brisket and serve, passing\
+  \ remaining sauce separately.\n\nLike this recipe? Share it, or leave a comment\
+  \ below."
+html:
+  description: null
+  directions: "<p>Combine paprika, onion powder, 1 teaspoon salt, garlic powder, and\
+    \ cayenne in bowl. Using fork, prick brisket all over. Rub spice mixture over\
+    \ brisket, wrap tightly in plastic wrap, and refrigerate for 8 to 24 hours.</p>\n\
+    <p>Heat oil in 12-inch skillet over medium heat until shimmering. Add onions and\
+    \ cook until softened and lightly browned, 8 to 10 minutes. Stir in flour, tomato\
+    \ paste, and garlic and cook until fragrant, about 1 minute. Slowly stir in broth,\
+    \ scraping up any browned bits and smoothing out any lumps; transfer to slow cooker.</p>\n\
+    <p>Stir 2 tablespoons vinegar, sugar, thyme sprigs, and bay leaves into slow cooker.\
+    \ Unwrap brisket and nestle fat side up into slow cooker. Spoon portion of onion\
+    \ mixture over brisket. Cover and cook until beef is tender, 9 to 10 hours on\
+    \ low or 6 to 7 hours on high.</p>\n<p>Transfer brisket to carving board, tent\
+    \ loosely with aluminum foil, and let rest for 20 minutes.</p>\n<p>Discard thyme\
+    \ sprigs and bay leaves. Using large spoon, skim fat from surface of sauce. Stir\
+    \ in remaining 1 teaspoon vinegar and season with salt and pepper to taste. Slice\
+    \ brisket against grain into \xBD-inch-thick slices and arrange on serving dish.\
+    \ Spoon 1 cup sauce over brisket and serve, passing remaining sauce separately.</p>\n\
+    <p>Like this recipe? Share it, or leave a comment below.</p>\n"
+  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>1 tablespoon paprika</li>\n\
+    <li>2 teaspoons onion powder</li>\n<li>Salt and pepper</li>\n<li>1 teaspoon garlic\
+    \ powder</li>\n<li>\u215B teaspoon cayenne pepper</li>\n<li>1 (5-pound) beef brisket,\
+    \ flat cut, fat trimmed to 1/4 inch</li>\n<li>1 tablespoon vegetable oil</li>\n\
+    <li>3 onions, halved and sliced 1/2 inch thick</li>\n<li>3 tablespoons all-purpose\
+    \ flour</li>\n<li>1 tablespoon tomato paste</li>\n<li>3 garlic cloves, minced</li>\n\
+    <li>1 cup chicken broth</li>\n<li>2 tablespoons plus 1 teaspoon red wine vinegar</li>\n\
+    <li>1 tablespoon packed brown sugar</li>\n<li>3 sprigs fresh thyme</li>\n<li>3\
+    \ bay leaves</li>\n</ul>\n"
+  notes: null
+  nutrition: null
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_Brisket_lg_tla4lk
+ingredients: "GATHER YOUR INGREDIENTS\n1 tablespoon paprika\n2 teaspoons onion powder\n\
+  Salt and pepper\n1 teaspoon garlic powder\n\u215B teaspoon cayenne pepper\n1 (5-pound)\
+  \ beef brisket, flat cut, fat trimmed to 1/4 inch\n1 tablespoon vegetable oil\n\
+  3 onions, halved and sliced 1/2 inch thick\n3 tablespoons all-purpose flour\n1 tablespoon\
+  \ tomato paste\n3 garlic cloves, minced\n1 cup chicken broth\n2 tablespoons plus\
+  \ 1 teaspoon red wine vinegar\n1 tablespoon packed brown sugar\n3 sprigs fresh thyme\n\
+  3 bay leaves"
+intrash: 0
+name: Slow-Cooker Braised Brisket and Onions
+notes: ''
+nutritional_info: ''
+photo: CBE564A4-F261-4C15-95A0-D3847F83715C-16595-0001495E19FDA75B.jpg
+photo_large: null
+photos: []
+photos_dict: {}
+prep_time: ''
+rating: 0
+servings: Serves 10 to 12
+source: americastestkitchen.com
+source_url: https://www.americastestkitchen.com/recipes/10382-slow-cooker-braised-brisket-and-onions
+total_time: ''
+type: null
+uid: 2F4E16BA-24E1-47A4-8CC5-ECD1BB1AF489-16595-0001495B5A4DECEC
 ---
