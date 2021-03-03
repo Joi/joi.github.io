@@ -76,7 +76,8 @@ layout: default
 		<br>
 		<div class="recipes-list">
 			{% for recipe in site.recipes %}
-				{% assign json_data = site.data.recipes[recipe.filename] %}
+        {% comment %}{% assign json_data = site.data.recipes[recipe.filename] %}{% endcomment %}
+				{% assign json_data = recipe %}
 
 				{% if json_data.type == "_mine" %}
 				<div class="recipe-item-box">
@@ -145,8 +146,8 @@ layout: default
 		<br>
 		<div class="recipes-list">
 			{% for recipe in site.recipes %}
-				{% assign json_data = site.data.recipes[recipe.filename] %}
-
+				{% comment %}{% assign json_data = site.data.recipes[recipe.filename] %}{% endcomment %}
+				{% assign json_data = recipe %}
 				{% if json_data.rating == 5 and json_data.type != "_mine" %}
 				<div class="recipe-item-box">
 				<a class="recipe-item" href="{{ recipe.url }}">
