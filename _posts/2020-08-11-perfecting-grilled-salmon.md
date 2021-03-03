@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Perfecting Grilled Salmon
-tag: salmon
+tag:
+- Salmon
 category: recipe
 ---
 ![Grilled Salmon with Cilantro Pesto](/images/grilled-salmon-cilantro.jpeg)

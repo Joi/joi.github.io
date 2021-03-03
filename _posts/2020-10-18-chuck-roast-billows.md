@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Slow Smoked Chuck Roast Using ThermoWorks Billows
-tags: beef bbq smoking billows
+tags:
+- Beef
+- BBQ
+- Smoking
+- Billows
 ---
 ![Finished Chuck Roast](/images/chuck-roast-smoked.jpeg)
 

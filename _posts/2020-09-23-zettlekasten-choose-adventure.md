@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Zettelkasten as Choose Your Own Adventure publishing
-tags: knowledge-management
+tags:
+- Knowledge Management
 ---
 I've been studying zettelkasten, which is a note taking method that helps you organizing your thoughts and notes in a way that creates an emergent structure that improves the way you write, think and create new ideas. It's powerful, but complex.
 

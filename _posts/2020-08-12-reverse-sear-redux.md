@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Reverse Sear Redux
-tags: reverse-sear steak
+tags:
+- Reverse Sear
+- Steak
+- Beef
 Categories: recipes
 ---
 ![Reverse Sear Chart](/images/reverse-sear-graph.png)

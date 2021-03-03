@@ -2,7 +2,9 @@
 layout: post
 title: Spatchcocked Chicken
 category: recipe
-tag: spatchcocking
+tag:
+- Spatchcocking
+- Chicken
 ---
 ![Carved Roasted Chicken](/images/spatchcocked-carved.jpeg)
 

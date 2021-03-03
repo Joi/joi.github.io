@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Thanksgiving Turkey
-tags: #turkey #roasting
+tags:
+- Turkey
+- Roasting
 ---
 ![Turkey temperature](/images/turkey-temperature.png)
 *The turkey and oven temperature. I didn't set the thermometer up until the turkey had roasted overnight.*

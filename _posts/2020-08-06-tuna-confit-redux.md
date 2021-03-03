@@ -1,7 +1,9 @@
 ---
 type: post
 title: Tuna Confit Redux
-tags: tuna confit
+tags:
+- Tuna
+- Confit
 categories: recipe
 ---
 I made [[2020-07-03-tuna-confit|tuna confit]] about a month ago and I used the recipe from [Nosrat's book](https://www.saltfatacidheat.com/). I modified it a bit but it involved using a Dutch oven at 150ºF for about 9 min after preparing oil infused with various aromatics.

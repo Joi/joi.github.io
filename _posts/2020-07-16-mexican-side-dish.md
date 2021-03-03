@@ -2,7 +2,9 @@
 layout: post
 title: A Mexican Side Dish
 category: recipe
-tags: mexican salad
+tags:
+- Mexican
+- Salad
 ---
 ![Mexican Coleslaw](/images/mexican-coleslaw.jpeg)
 

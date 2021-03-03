@@ -2,7 +2,9 @@
 layout: post
 title: Crown Roast of Lamb
 category: recipe
-tags: roast lamb
+tags:
+- Roast
+- Lamb
 ---
 ![Carved Crown Roast](/images/carved-roast-crown.jpeg)
 

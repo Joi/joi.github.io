@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Chicken Bouillabaisse
-tags: Chicken Soup
+tags:
+- Chicken
+- Soup
 ---
 Ever since it started getting cold, we pivoted a bit from grilling to soups. This week we had the [[Monkfish-Braised-with-White-Beans-Fennel-&-Tomato|Monkfish with Beans]], which is effectively a soup, green Thai curry with shrimp and scallops which was very soupy, tonight is [[Chicken-Bouillabaisse]] and tomorrow is beef stew.
 

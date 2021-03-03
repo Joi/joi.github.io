@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Figuring Out Beef Stroganoff
-tags: beef recipe
+tags:
+- Beef
+- Recipe
 ---
 ![Beef Stroganoff](/images/beef-stroganoff.jpeg)
 

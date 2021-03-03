@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Super Slow Prime Rib with Oxtail Au Jus
-tags: prime-rib anova-oven roast
+tags:
+- Prime Rib
+- anova oven
+- roast
 ---
 ![Sliced Prime Rib](/images/sliced-prime-rib.jpeg)
 

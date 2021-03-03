@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Smoked St. Louis Style Ribs
-tags: bbq pork-ribs smoking
-category: recipe
+tags:
+- BBQ
+- Pork Spare Ribs
+- Smoking
+category:
+- Recipe
 ---
 ![Ribs Done](/images/sl-ribs-done.jpeg)
 
