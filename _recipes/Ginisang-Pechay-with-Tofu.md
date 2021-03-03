@@ -49,9 +49,7 @@ html:
     <li>1 medium yellow onion diced</li>\n<li>3 cloves garlic crushed</li>\n<li>1\
     \ cup chicken broth</li>\n<li>\xBD cup cooking oil</li>\n<li>2 Tbsp fish sauce</li>\n\
     <li>Salt and pepper to taste</li>\n</ul>\n"
-  notes: '<p>I made it with a lb of pork and a lb of shrimp and it was great.</p>
-
-    '
+  notes: null
   nutrition: null
 image_url: null
 ingredients: "1 lb bok choy cleaned and chopped\n1 lb tofu cut into \xBD in x \xBD\
@@ -60,7 +58,7 @@ ingredients: "1 lb bok choy cleaned and chopped\n1 lb tofu cut into \xBD in x \x
   Salt and pepper to taste"
 intrash: 0
 name: Ginisang Pechay with Tofu
-notes: I made it with a lb of pork and a lb of shrimp and it was great.
+notes: ''
 nutritional_info: ''
 photo: F8B3AF03-B696-42DE-9121-42D33AF03E5D-15291-00020AF6192CE592.jpg
 photo_large: B3009C8F-3EBC-4E8C-8B0A-3B9D6778662F-15291-00020AE6E8348173.jpg
@@ -108,4 +106,3 @@ total_time: ''
 type: _mine
 uid: 4F3E45E3-005E-45BB-B979-C01932CE279A-15291-00020AB486C3609F
 ---
-I made it with a lb of pork and a lb of shrimp and it was great.

@@ -32,7 +32,7 @@ html:
     \ mixture and stir.</p>\n<p>Pressure cook for 20 min.</p>\n<p>Quick release and\
     \ then simmer on low saut\xE9 setting until thickness is right.</p>\n<p>Add heavy\
     \ cream and parmesan.</p>\n"
-  ingredients: "<ul>\n<li>1 Tbsp olive oil</li>\n<li>1-\xBD cups diced yellow onion</li>\n\
+  ingredients: "<ul>\n<li>1 Tbsp olive oil</li>\n<li>1 \xBD cups diced yellow onion</li>\n\
     <li>\xBD cup diced carrots</li>\n<li>\xBD cup diced celery</li>\n<li>1 lb ground\
     \ beef chuck</li>\n<li>\xBD lb ground pork</li>\n<li>4 oz diced bacon</li>\n<li>4\
     \ cloves garlic, minced</li>\n<li>2 tablespoons tomato paste</li>\n<li>\xBD cup\
@@ -44,7 +44,7 @@ html:
   notes: null
   nutrition: null
 image_url: null
-ingredients: "1 Tbsp olive oil\n1-\xBD cups diced yellow onion\n\xBD cup diced carrots\n\
+ingredients: "1 Tbsp olive oil\n1 \xBD cups diced yellow onion\n\xBD cup diced carrots\n\
   \xBD cup diced celery\n1 lb ground beef chuck\n\xBD lb ground pork\n4 oz diced bacon\n\
   4 cloves garlic, minced\n2 tablespoons tomato paste\n\xBD cup dry red wine\n28 oz\
   \ of tomatoes\n\xBD cup Italian parsley\n\xBD cup basil\nFresh oregano\n\xBC cup\
