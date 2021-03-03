@@ -9,19 +9,19 @@ layout: default
 
 {% assign json_data = site.data.recipes[page.filename] %}
 
-{%- if json_data.photo_large -%}
-  {%- assign photo_hero = json_data.photo_large -%}
-{%- elsif json_data.photos[0].filename -%}
-  {%- assign photo_hero = json_data.photos[0].filename -%}
+{%- if page.photo_large -%}
+  {%- assign photo_hero = page.photo_large -%}
+{%- elsif page.photos[0].filename -%}
+  {%- assign photo_hero = page.photos[0].filename -%}
 {%- comment -%}
-{%- elsif json_data.photo -%}
-  {%- assign photo_hero = json_data.photo -%}
+{%- elsif page.photo -%}
+  {%- assign photo_hero = page.photo -%}
 {%- endcomment -%}
 {%- else -%}
   {%- assign photo_hero = nil -%}
 {%- endif -%}
 
-{% if json_data.type == "_mine" %}
+{% if page.type == "_mine" %}
   {%- assign class_mine = "mine" -%}
 {% else %}
   {%- assign class_mine = "notmine" -%}
@@ -30,18 +30,18 @@ layout: default
 {%- comment -%}
 ---- END VARS ------------------------------------------------
 {%- endcomment -%}
-
+<!--pre>{{ page.created_ts }}</pre-->
 <div class="{{ class_mine }}">
 <div class="row" id="title">
 	<div class="small-12 columns">
-    <h2 class="marker">{% if json_data.type == "_mine" %}Joi's {% endif %}{{ page.title }}</h2>
+    <h2 class="marker">{% if page.type == "_mine" %}Joi's {% endif %}{{ page.title }}</h2>
 
-    {% if json_data.source %}
+    {% if page.source %}
       <p class="source">Source: 
-        {% unless json_data.source_url %}
-          {{ json_data.source }}
+        {% unless page.source_url %}
+          {{ page.source }}
         {% else %}
-          <a href="{{ json_data.source_url }}" title="{{ json_data.source }}">{{ json_data.source }}</a>
+          <a href="{{ page.source_url }}" title="{{ page.source }}">{{ page.source }}</a>
         {% endunless %}
       </p>
     {% endif %}
@@ -53,7 +53,7 @@ layout: default
 <!-- Hero Banner Photo -->
 <div class="row" id="big-photo">
 	<div class="small-12 columns">
-		<img src="/images/recipes/{{json_data.uid}}/{{photo_hero}}">
+		<img src="/images/recipes/{{page.uid}}/{{photo_hero}}">
 	</div>
 </div>
 <!-- End Hero Banner Photo -->
@@ -65,11 +65,11 @@ layout: default
 <div class="row" id="row-one">
   <div class="large-8 medium-7 columns" id="writeup">
 
-    {% if json_data.type == "_mine" %}
-      {% if json_data.html['description'] != null %}
+    {% if page.type == "_mine" %}
+      {% if page.html['description'] != null %}
       <h4 id="description">Description</h4>
       <div class="box box-description">
-        {{ json_data.html['description'] }}
+        {{ page.html['description'] }}
       </div>
       {% endif %}
     {% else %}
@@ -92,28 +92,28 @@ layout: default
 <div class="row" id="row-two">
   <div class="medium-2 columns" id="photo-sidebar">
     <div class="" id="recipe-photos">
-    {% if json_data.photos %}
-      {% for phot in json_data.photos %}
+    {% if page.photos %}
+      {% for phot in page.photos %}
         {%- if phot.filename != photo_hero -%}
           <figure>
             <a
-              href="/images/recipes/{{json_data.uid}}/{{ phot.filename }}" 
+              href="/images/recipes/{{page.uid}}/{{ phot.filename }}" 
               title="recipe photo - {{ phot.name }}">
                 <img
-                  src="/images/recipes/{{json_data.uid}}/{{ phot.filename }}"
+                  src="/images/recipes/{{page.uid}}/{{ phot.filename }}"
                   alt="recipe photo - {{ phot.name }}" />
             </a>
           </figure>
         {%- endif -%}
       {% endfor %}
     {% else %}
-      {% if json_data.photo and json_data.photo != photo_hero %}
+      {% if page.photo and page.photo != photo_hero %}
         <figure>
           <a
-            href="/images/recipes/{{json_data.uid}}/{{json_data.photo}}" 
+            href="/images/recipes/{{page.uid}}/{{page.photo}}" 
             title="recipe photo from source">
               <img
-                src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}"
+                src="/images/recipes/{{page.uid}}/{{page.photo}}"
                 alt="recipe photo from source" />
             </a>
         </figure>
@@ -126,34 +126,34 @@ layout: default
   </div><!-- #photo-sidebar -->
 
   <div class="medium-6 small-7 columns">
-    {% if json_data.type == "_mine" %}
-      {% if json_data.html['directions'] != null %}
+    {% if page.type == "_mine" %}
+      {% if page.html['directions'] != null %}
       <h4 id="directions">Directions</h4>
       <div class="box box-directions">
-        {{ json_data.html['directions'] }}
+        {{ page.html['directions'] }}
       </div>
       {% endif %}
     {% else %}
     {% endif %}
   </div>
   <div class="medium-4 small-5 columns">
-    {% if json_data.html['ingredients'] != null %}
+    {% if page.html['ingredients'] != null %}
       <h4 id="ingredients">Ingredients</h4>
       <div class="box box-ingredients">
-        {{ json_data.html['ingredients'] }}
+        {{ page.html['ingredients'] }}
       </div>
     {% endif %}
   </div>
 </div><!-- #row-two -->
 
-{% if json_data.type == "_mine" %}
-  {% if json_data.html['nutrition'] != null %}
+{% if page.type == "_mine" %}
+  {% if page.html['nutrition'] != null %}
   <hr>
   <div class="row" id="row-three">
     <div class="small-12 columns">
         <h4 id="nutrition">Nutritional Facts</h4>
         <div class="box box-nutrition">
-          {{ json_data.html['nutrition'] }}
+          {{ page.html['nutrition'] }}
         </div>
     </div>
   </div><!-- #row-three -->

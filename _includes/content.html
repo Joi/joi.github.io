@@ -225,10 +225,16 @@
 							{% assign key = post[0].name | replace: " ","-" %}
 					{% endcomment %}
 
+          {% comment %}
+          Moving Recipe Data from JSON to per recipe YAML front matter
 					{% assign key 			= post[0].filename %}
 					{% assign json_data = site.data.recipes[key] %}
 					{% assign excerpt 	= json_data.ingredients | markdownify | strip_html | truncate: 500 | newline_to_br %}
 					{% assign title 	= json_data.name | markdownify | strip_html | truncate: 100  %}
+          {% endcomment %}
+
+					{% assign excerpt 	= post[0].ingredients | markdownify | strip_html | truncate: 500 | newline_to_br %}
+					{% assign title 	= post[0].name | markdownify | strip_html | truncate: 100  %}
 
 				{% endif %}
 
