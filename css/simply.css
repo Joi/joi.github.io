@@ -436,6 +436,16 @@ hr {
   padding-left: 0;
   margin-bottom: 1em;
 }
+#copyright {
+  background: #f1f1f1;
+  padding: .8em 1em 0 1em;
+}
+#copyright h6 {
+
+}
+#copyright .box{
+  font-size: 85%;
+}
 .marker {
   font-family: 'Permanent Marker';
 }
