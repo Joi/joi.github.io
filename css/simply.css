@@ -441,10 +441,20 @@ hr {
   padding: .8em 1em 0 1em;
 }
 #copyright h6 {
-
 }
 #copyright .box{
   font-size: 85%;
+}
+#copyright blockquote {
+  color: #000;
+  /* font-style: italic; */
+  margin: 0;
+  padding: 0.5rem 0 0.5rem 1rem;
+  border-left: none;
+}
+#copyright p {
+  margin-bottom: 0;
+  font-weight: bold;
 }
 .marker {
   font-family: 'Permanent Marker';
