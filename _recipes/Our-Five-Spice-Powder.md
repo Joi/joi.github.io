@@ -8,6 +8,43 @@ created: '2020-11-08 21:12:44'
 created_ts: 1604869964
 description: null
 difficulty: null
+directions: 'Gather your cinnamon, fennel seeds, Sichuan peppercorns, cloves, star
+  anise, and sand ginger (if using). Take any of the whole spices you have and toast
+  them in a dry pan over low heat until fragrant.
+
+
+  Transfer to a blender or spice grinder, and blend all the spices into a fine powder.
+  Store in a sealed container away from heat or light. Use within 24 months.'
+html:
+  description: null
+  directions: '<p>Gather your cinnamon, fennel seeds, Sichuan peppercorns, cloves,
+    star anise, and sand ginger (if using). Take any of the whole spices you have
+    and toast them in a dry pan over low heat until fragrant.</p>
+
+    <p>Transfer to a blender or spice grinder, and blend all the spices into a fine
+    powder. Store in a sealed container away from heat or light. Use within 24 months.</p>
+
+    '
+  ingredients: '<ul>
+
+    <li>1 tablespoon ground Chinese cassia cinnamon (1 part)</li>
+
+    <li>2 tablespoons fennel seeds (2 parts)</li>
+
+    <li>1 tablespoon Sichuan peppercorns (1 part)</li>
+
+    <li>1 teaspoon cloves (1/3 part)</li>
+
+    <li>4 star anise (for calculations, consider this equivalent to 1 part)</li>
+
+    <li>1 tablespoon sand ginger powder (1 part; equivalent to about 4 grams dried
+    sand ginger slices, optional)</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: https://thewoksoflife.com/wp-content/uploads/2019/12/five-spice-powder-6-340x493.jpg
 ingredients: '1 tablespoon ground Chinese cassia cinnamon (1 part)
 
@@ -23,6 +60,8 @@ ingredients: '1 tablespoon ground Chinese cassia cinnamon (1 part)
   ginger slices, optional)'
 intrash: 0
 name: Our Five Spice Powder
+notes: null
+nutritional_info: null
 photo: 20023C60-BF18-4981-8369-121D6ED16641-26972-00000F5630197867.jpg
 photo_large: null
 photos: []
@@ -36,14 +75,3 @@ total_time: null
 type: null
 uid: AFD92A2D-ECFE-41D3-A488-1BE7BB32FB33-26972-00000F5610EE8C3E
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 tablespoon ground Chinese cassia cinnamon (1 part)</li>
-<li>2 tablespoons fennel seeds (2 parts)</li>
-<li>1 tablespoon Sichuan peppercorns (1 part)</li>
-<li>1 teaspoon cloves (1/3 part)</li>
-<li>4 star anise (for calculations, consider this equivalent to 1 part)</li>
-<li>1 tablespoon sand ginger powder (1 part; equivalent to about 4 grams dried sand ginger slices, optional)</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

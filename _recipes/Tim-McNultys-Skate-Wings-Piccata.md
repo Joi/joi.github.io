@@ -8,6 +8,52 @@ created: '2020-05-27 12:44:39'
 created_ts: 1590583479
 description: ''
 difficulty: ''
+directions: 'In a small bowl, combine the olive oil and the melted butter. Season
+  the wings generously with salt and pepper and dredge two of them in the flour. Then
+  dip them into the egg and coat them with bread crumbs. Heat 2 tablespoons of the
+  oil and butter mixture in a large nonstick skillet and saute over medium heat until
+  lightly browned, about 2 minutes for each side. Transfer the wings to a warm platter
+  and repeat with the remaining pieces, adding an additional tablespoon of the oil
+  and butter mixture to the pan before cooking each batch.
+
+
+  Add the remaining 2 tablespoons of the oil and butter mixture to the pan and saute
+  the mushrooms over medium-low heat until soft and cooked through, about 7 minutes.
+  Raise the heat to high and add the lemon juice, capers and 3 tablespoons of water.
+  Boil for 1 minute, scraping the bottom of the pan to loosen any browned bits. Season
+  with salt and pepper and pour the mushrooms over the wings. Garnish with parsley
+  and serve.'
+html:
+  description: null
+  directions: '<p>In a small bowl, combine the olive oil and the melted butter. Season
+    the wings generously with salt and pepper and dredge two of them in the flour.
+    Then dip them into the egg and coat them with bread crumbs. Heat 2 tablespoons
+    of the oil and butter mixture in a large nonstick skillet and saute over medium
+    heat until lightly browned, about 2 minutes for each side. Transfer the wings
+    to a warm platter and repeat with the remaining pieces, adding an additional tablespoon
+    of the oil and butter mixture to the pan before cooking each batch.</p>
+
+    <p>Add the remaining 2 tablespoons of the oil and butter mixture to the pan and
+    saute the mushrooms over medium-low heat until soft and cooked through, about
+    7 minutes. Raise the heat to high and add the lemon juice, capers and 3 tablespoons
+    of water. Boil for 1 minute, scraping the bottom of the pan to loosen any browned
+    bits. Season with salt and pepper and pour the mushrooms over the wings. Garnish
+    with parsley and serve.</p>
+
+    '
+  ingredients: "<ul>\n<li>3 tablespoons olive oil</li>\n<li>3 tablespoons unsalted\
+    \ butter, melted</li>\n<li>6 skate wings, each 6 to 8 inches across</li>\n<li>Kosher\
+    \ salt and freshly ground black pepper to taste</li>\n<li>1 cup flour</li>\n<li>2\
+    \ large eggs, lightly beaten</li>\n<li>1 cup bread crumbs</li>\n<li>\xBD pound\
+    \ white mushrooms, thinly sliced</li>\n<li>4 tablespoons lemon juice</li>\n<li>1\
+    \ tablespoon capers</li>\n<li>Fresh Italian parsley, chopped, for garnish</li>\n\
+    </ul>\n"
+  notes: '<p>Breadcrumbs were whole wheat... but for some reason the crumbs absorbed
+    all of the butter/oil and were rather dry and cooling slowly on the pan. Had to
+    cook longer and stuck thicker pieces in oven to finish cooking.</p>
+
+    '
+  nutrition: null
 image_url: https://static01.nyt.com/applications/cooking/4dd3952/assets/NYTCookingLogo.png
 ingredients: "3 tablespoons olive oil\n3 tablespoons unsalted butter, melted\n6 skate\
   \ wings, each 6 to 8 inches across\nKosher salt and freshly ground black pepper\
@@ -16,6 +62,10 @@ ingredients: "3 tablespoons olive oil\n3 tablespoons unsalted butter, melted\n6 
   \ capers\nFresh Italian parsley, chopped, for garnish"
 intrash: 0
 name: Tim McNulty's Skate Wings Piccata
+notes: Breadcrumbs were whole wheat... but for some reason the crumbs absorbed all
+  of the butter/oil and were rather dry and cooling slowly on the pan. Had to cook
+  longer and stuck thicker pieces in oven to finish cooking.
+nutritional_info: ''
 photo: 43E0EA56-098A-46EE-93BE-54E06AC3763B-29546-000346578B9CB522.jpg
 photo_large: null
 photos: []
@@ -29,19 +79,4 @@ total_time: ''
 type: null
 uid: DBFAB744-4396-4E8D-92AE-115C6E16D77A-29546-00034653B911D352
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>3 tablespoons olive oil</li>
-<li>3 tablespoons unsalted butter, melted</li>
-<li>6 skate wings, each 6 to 8 inches across</li>
-<li>Kosher salt and freshly ground black pepper to taste</li>
-<li>1 cup flour</li>
-<li>2 large eggs, lightly beaten</li>
-<li>1 cup bread crumbs</li>
-<li>½ pound white mushrooms, thinly sliced</li>
-<li>4 tablespoons lemon juice</li>
-<li>1 tablespoon capers</li>
-<li>Fresh Italian parsley, chopped, for garnish</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+Breadcrumbs were whole wheat... but for some reason the crumbs absorbed all of the butter/oil and were rather dry and cooling slowly on the pan. Had to cook longer and stuck thicker pieces in oven to finish cooking.

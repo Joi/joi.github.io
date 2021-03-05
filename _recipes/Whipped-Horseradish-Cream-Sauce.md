@@ -8,6 +8,37 @@ created: '2020-12-20 15:34:48'
 created_ts: 1608478488
 description: ''
 difficulty: ''
+directions: "Pour heavy cream into a medium sized mixing bowl. Using an electric mixer,\
+  \ beat until soft peaks form and mixture becomes stiff.\n\nBy hand, fold in the\
+  \ remaining ingredients.\n\nChill until ready to serve.\n\nIf you\u2019ve tried\
+  \ this recipe, come back and let us know how it was!"
+html:
+  description: null
+  directions: "<p>Pour heavy cream into a medium sized mixing bowl. Using an electric\
+    \ mixer, beat until soft peaks form and mixture becomes stiff.</p>\n<p>By hand,\
+    \ fold in the remaining ingredients.</p>\n<p>Chill until ready to serve.</p>\n\
+    <p>If you\u2019ve tried this recipe, come back and let us know how it was!</p>\n"
+  ingredients: '<ul>
+
+    <li>1/2 pint heavy cream</li>
+
+    <li>1 tablespoon lemon zest</li>
+
+    <li>1-2 tablespoons horseradish drained (more if you want it to clear your sinuses)</li>
+
+    <li>1/4 teaspoon fine sea salt</li>
+
+    <li>1/8 teaspoon black pepper</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: '<p>Calories: 826kcal | Carbohydrates: 9g | Protein: 5g | Fat: 87g |
+    Saturated Fat: 54g | Cholesterol: 324mg | Sodium: 734mg | Potassium: 214mg | Fiber:
+    1g | Sugar: 1g | Vitamin A: 3480IU | Vitamin C: 12.9mg | Calcium: 154mg</p>
+
+    '
 image_url: https://www.savoryexperiments.com/wp-content/uploads/2013/12/Whipped-Horseradish-Cream-Sauce-FB-100x100.jpg
 ingredients: '1/2 pint heavy cream
 
@@ -20,6 +51,10 @@ ingredients: '1/2 pint heavy cream
   1/8 teaspoon black pepper'
 intrash: 0
 name: Whipped Horseradish Cream Sauce
+notes: ''
+nutritional_info: 'Calories: 826kcal | Carbohydrates: 9g | Protein: 5g | Fat: 87g
+  | Saturated Fat: 54g | Cholesterol: 324mg | Sodium: 734mg | Potassium: 214mg | Fiber:
+  1g | Sugar: 1g | Vitamin A: 3480IU | Vitamin C: 12.9mg | Calcium: 154mg'
 photo: 863A7F7C-CFAC-435A-A8BD-D314E591DC39-27386-00004BB70C9636FB.jpg
 photo_large: null
 photos: []
@@ -33,13 +68,3 @@ total_time: ''
 type: null
 uid: 7B5FB550-94DE-49BD-B637-98DDFDE388AF-27386-00004BB5714C9581
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1/2 pint heavy cream</li>
-<li>1 tablespoon lemon zest</li>
-<li>1-2 tablespoons horseradish drained (more if you want it to clear your sinuses)</li>
-<li>1/4 teaspoon fine sea salt</li>
-<li>1/8 teaspoon black pepper</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

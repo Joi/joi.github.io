@@ -8,6 +8,27 @@ created: '2020-07-15 16:45:13'
 created_ts: 1594831513
 description: null
 difficulty: ''
+directions: "Heat oil to 360\xB0F. Add sage leaves in batcges. Stir when bubbles die\
+  \ down and pull them out with a slotted spoon. (About 30 sec.) put on baking sheet.\
+  \ Dry and sprinkle with salt.\n\nCrumble Sage into salsa."
+html:
+  description: null
+  directions: "<p>Heat oil to 360\xB0F. Add sage leaves in batcges. Stir when bubbles\
+    \ die down and pull them out with a slotted spoon. (About 30 sec.) put on baking\
+    \ sheet. Dry and sprinkle with salt.</p>\n<p>Crumble Sage into salsa.</p>\n"
+  ingredients: '<ul>
+
+    <li>Basic Salsa Verde</li>
+
+    <li>24 sage leaves</li>
+
+    <li>3 cups neutral-tasting oil for frying</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: 'Basic Salsa Verde
 
@@ -16,6 +37,8 @@ ingredients: 'Basic Salsa Verde
   3 cups neutral-tasting oil for frying'
 intrash: 0
 name: Fried Sage Salsa Verde
+notes: null
+nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -29,11 +52,3 @@ total_time: ''
 type: null
 uid: AEB4BC7F-C507-498F-AD56-F3F1EA6A1CED-14775-000009F4FCAEEA00
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>Basic Salsa Verde</li>
-<li>24 sage leaves</li>
-<li>3 cups neutral-tasting oil for frying</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

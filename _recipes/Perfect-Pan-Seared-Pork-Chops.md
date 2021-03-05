@@ -8,6 +8,70 @@ created: '2020-12-09 01:08:15'
 created_ts: 1607476095
 description: ''
 difficulty: ''
+directions: "1. Pat pork chops dry with a paper towel. Combine salt and sugar in a\
+  \ small bowl. Season pork chops generously on all sides with salt/sugar mixture.\
+  \ Transfer to a wire rack set in a rimmed baking sheet and refrigerate, uncovered,\
+  \ at least 8 hours and up to 24.\n\n2. The next day, preheat oven to 250\xB0F. Place\
+  \ baking sheet with pork chops in oven and cook until an instant read thermometer\
+  \ inserted into the center of the chops registers 100 to 110\xB0F on for medium-rare,\
+  \ about 30 minutes, or 110 to 120\xB0F for medium, about 35 minutes. To prevent\
+  \ overcooking, start checking temperature 5 to 10 minutes before suggested time.\
+  \ Remove from oven.\n\n3. Heat oil in a large stainless steel or cast iron skillet\
+  \ over high heat heat until smoking. Place pork chops in skillet and cook, turning\
+  \ occasionally, until starting to brown, about 1 1/2 minutes. Add butter, shallots,\
+  \ and thyme to skillet. Continue cooking, spooning shallots and thyme on top of\
+  \ chops and basting with butter until golden brown on both sides and well-crusted,\
+  \ about 2 minutes longer. Stack pork chops with tongs, hold them on their sides,\
+  \ and sear the fat caps on the edges until crisp, about a minute. Remove pan from\
+  \ heat, transfer chops to a clean rack set in a rimmed baking sheet, and let rest\
+  \ for 3 to 5 minutes.\n\n4. Just before serving, reheat dripping in pan until smoking.\
+  \ Pour hot drippings over chops. They should sizzle and crisp a bit. Serve immediately."
+html:
+  description: null
+  directions: "<ol>\n<li>\n<p>Pat pork chops dry with a paper towel. Combine salt\
+    \ and sugar in a small bowl. Season pork chops generously on all sides with salt/sugar\
+    \ mixture. Transfer to a wire rack set in a rimmed baking sheet and refrigerate,\
+    \ uncovered, at least 8 hours and up to 24.</p>\n</li>\n<li>\n<p>The next day,\
+    \ preheat oven to 250\xB0F. Place baking sheet with pork chops in oven and cook\
+    \ until an instant read thermometer inserted into the center of the chops registers\
+    \ 100 to 110\xB0F on for medium-rare, about 30 minutes, or 110 to 120\xB0F for\
+    \ medium, about 35 minutes. To prevent overcooking, start checking temperature\
+    \ 5 to 10 minutes before suggested time. Remove from oven.</p>\n</li>\n<li>\n\
+    <p>Heat oil in a large stainless steel or cast iron skillet over high heat heat\
+    \ until smoking. Place pork chops in skillet and cook, turning occasionally, until\
+    \ starting to brown, about 1 1/2 minutes. Add butter, shallots, and thyme to skillet.\
+    \ Continue cooking, spooning shallots and thyme on top of chops and basting with\
+    \ butter until golden brown on both sides and well-crusted, about 2 minutes longer.\
+    \ Stack pork chops with tongs, hold them on their sides, and sear the fat caps\
+    \ on the edges until crisp, about a minute. Remove pan from heat, transfer chops\
+    \ to a clean rack set in a rimmed baking sheet, and let rest for 3 to 5 minutes.</p>\n\
+    </li>\n<li>\n<p>Just before serving, reheat dripping in pan until smoking. Pour\
+    \ hot drippings over chops. They should sizzle and crisp a bit. Serve immediately.</p>\n\
+    </li>\n</ol>\n"
+  ingredients: '<ul>
+
+    <li>2 bone-in pork rib chops, preferably blade-end, 1 1/2 inches thick (12 to
+    16 ounces each)</li>
+
+    <li>2 tablespoons kosher salt</li>
+
+    <li>1 1/2 teaspoons sugar</li>
+
+    <li>Freshly ground black pepper</li>
+
+    <li>2 tablespoons vegetable oil</li>
+
+    <li>2 tablespoons butter</li>
+
+    <li>1 medium shallot, thinly sliced</li>
+
+    <li>8 sprigs fresh thyme</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: https://www.seriouseats.com/recipes/images/2014/03/20140130-pork-chop-food-lab-28-200x150.jpg
 ingredients: '2 bone-in pork rib chops, preferably blade-end, 1 1/2 inches thick (12
   to 16 ounces each)
@@ -27,6 +91,8 @@ ingredients: '2 bone-in pork rib chops, preferably blade-end, 1 1/2 inches thick
   8 sprigs fresh thyme'
 intrash: 0
 name: Perfect Pan-Seared Pork Chops
+notes: ''
+nutritional_info: ''
 photo: 7286E422-06B0-4510-B255-88D03B5FCBB9-83053-00018937A5EA3DEA.jpg
 photo_large: null
 photos: []
@@ -40,16 +106,3 @@ total_time: ''
 type: null
 uid: D21590BB-EC09-472F-BD99-DA395EE0C0C1-83053-00018930316CBE48
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>2 bone-in pork rib chops, preferably blade-end, 1 1/2 inches thick (12 to 16 ounces each)</li>
-<li>2 tablespoons kosher salt</li>
-<li>1 1/2 teaspoons sugar</li>
-<li>Freshly ground black pepper</li>
-<li>2 tablespoons vegetable oil</li>
-<li>2 tablespoons butter</li>
-<li>1 medium shallot, thinly sliced</li>
-<li>8 sprigs fresh thyme</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

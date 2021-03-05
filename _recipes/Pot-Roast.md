@@ -10,6 +10,92 @@ created: '2020-03-31 17:17:45'
 created_ts: 1585675065
 description: ''
 difficulty: ''
+directions: 'Preheat oven to 340 degrees. Season meat generously with salt and pepper.
+  On the stove top, heat oil in a large Dutch oven, or other heavy roasting pan with
+  a lid, over medium-high heat. Sear the meat until a dark crust forms, 3 to 4 minutes
+  per side. Remove meat to a plate.
+
+
+  Reduce heat to medium and add butter to the pan. Melt the butter and add the whole
+  head of garlic and vegetables, stirring frequently and scraping the bottom of the
+  pot, until the vegetables start to color, 8 to 10 minutes.
+
+
+  Add tomato paste and cook, stirring frequently, until it darkens slightly, about
+  5 minutes.
+
+
+  Add bay leaves, rosemary and wine and cook, stirring occasionally, until liquid
+  is reduced to a thick gravy consistency, 5 to 7 minutes.
+
+
+  Return meat to the pot. Add broth, then cover the pot and transfer to the oven.
+  Cook for 2 hours 20 minutes.
+
+
+  Let roast sit at room temperature for at least 10 minutes. Remove meat to a cutting
+  board to slice. Discard bay leaves and rosemary stems. Squeeze any garlic cloves
+  remaining in their skins into the stew and discard the skins. Serve slices of meat
+  in shallow bowls along with the vegetables and a generous amount of cooking liquid
+  ladled over top.'
+html:
+  description: null
+  directions: '<p>Preheat oven to 340 degrees. Season meat generously with salt and
+    pepper. On the stove top, heat oil in a large Dutch oven, or other heavy roasting
+    pan with a lid, over medium-high heat. Sear the meat until a dark crust forms,
+    3 to 4 minutes per side. Remove meat to a plate.</p>
+
+    <p>Reduce heat to medium and add butter to the pan. Melt the butter and add the
+    whole head of garlic and vegetables, stirring frequently and scraping the bottom
+    of the pot, until the vegetables start to color, 8 to 10 minutes.</p>
+
+    <p>Add tomato paste and cook, stirring frequently, until it darkens slightly,
+    about 5 minutes.</p>
+
+    <p>Add bay leaves, rosemary and wine and cook, stirring occasionally, until liquid
+    is reduced to a thick gravy consistency, 5 to 7 minutes.</p>
+
+    <p>Return meat to the pot. Add broth, then cover the pot and transfer to the oven.
+    Cook for 2 hours 20 minutes.</p>
+
+    <p>Let roast sit at room temperature for at least 10 minutes. Remove meat to a
+    cutting board to slice. Discard bay leaves and rosemary stems. Squeeze any garlic
+    cloves remaining in their skins into the stew and discard the skins. Serve slices
+    of meat in shallow bowls along with the vegetables and a generous amount of cooking
+    liquid ladled over top.</p>
+
+    '
+  ingredients: "<ul>\n<li>3 pound boneless beef chuck roast</li>\n<li>Kosher salt\
+    \ and ground black pepper</li>\n<li>3 tablespoons canola oil</li>\n<li>4 tablespoons\
+    \ butter</li>\n<li>2 medium red onions, cut into quarters</li>\n<li>4 carrots,\
+    \ peeled and cut into 2-inch pieces</li>\n<li>3 stalks celery, cut into 2-inch\
+    \ pieces</li>\n<li>1 rutabaga, peeled and cut into 12 to 16 pieces, about a pound</li>\n\
+    <li>8 cremini mushrooms, halved</li>\n<li>2 parsnips, peeled and cut into 2-inch\
+    \ pieces</li>\n<li>1 head garlic, top cut off to expose cloves</li>\n<li>\xBE\
+    \ cup tomato paste</li>\n<li>2 bay leaves</li>\n<li>3 sprigs rosemary</li>\n<li>1\
+    \ \xBD cups red wine, preferably cabernet</li>\n<li>4 cups beef broth</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 634
+
+    Total Carbohydrates: 25 grams
+
+    Total Fat: 40 grams
+
+    Dietary fiber: 6 grams
+
+    Protein: 38 grams
+
+    Saturated fat: 16 grams
+
+    Sodium: 1275 milligrams
+
+    Sugar: 11 grams
+
+    Trans Fat: 2 grams
+
+    Unsaturated fat: 19 grams</p>
+
+    '
 image_url: null
 ingredients: "3 pound boneless beef chuck roast\nKosher salt and ground black pepper\n\
   3 tablespoons canola oil\n4 tablespoons butter\n2 medium red onions, cut into quarters\n\
@@ -20,6 +106,26 @@ ingredients: "3 pound boneless beef chuck roast\nKosher salt and ground black pe
   1 \xBD cups red wine, preferably cabernet\n4 cups beef broth"
 intrash: 0
 name: Pot Roast
+notes: ''
+nutritional_info: 'Calories: 634
+
+  Total Carbohydrates: 25 grams
+
+  Total Fat: 40 grams
+
+  Dietary fiber: 6 grams
+
+  Protein: 38 grams
+
+  Saturated fat: 16 grams
+
+  Sodium: 1275 milligrams
+
+  Sugar: 11 grams
+
+  Trans Fat: 2 grams
+
+  Unsaturated fat: 19 grams'
 photo: 96D06D78-5113-4EEC-8D5C-03C44E0206CE-22544-0003EF07E40DA354.jpg
 photo_large: 2D40670C-A559-41B4-9712-32CA3FACA82C-7583-00000435D43CC350.jpg
 photos:
@@ -51,24 +157,3 @@ total_time: ''
 type: null
 uid: 9E51E154-F0B2-46FC-BF16-AF76BFEC11E9-16595-00014AA0B768B050
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>3 pound boneless beef chuck roast</li>
-<li>Kosher salt and ground black pepper</li>
-<li>3 tablespoons canola oil</li>
-<li>4 tablespoons butter</li>
-<li>2 medium red onions, cut into quarters</li>
-<li>4 carrots, peeled and cut into 2-inch pieces</li>
-<li>3 stalks celery, cut into 2-inch pieces</li>
-<li>1 rutabaga, peeled and cut into 12 to 16 pieces, about a pound</li>
-<li>8 cremini mushrooms, halved</li>
-<li>2 parsnips, peeled and cut into 2-inch pieces</li>
-<li>1 head garlic, top cut off to expose cloves</li>
-<li>¾ cup tomato paste</li>
-<li>2 bay leaves</li>
-<li>3 sprigs rosemary</li>
-<li>1 ½ cups red wine, preferably cabernet</li>
-<li>4 cups beef broth</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

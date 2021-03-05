@@ -8,6 +8,71 @@ created: '2020-11-06 00:23:48'
 created_ts: 1604622228
 description: null
 difficulty: null
+directions: "To make the monkfish curry, place all the ingredients for the marinade\
+  \ in a small bowl and mix to combine. Rub all over the monkfish. Leave to marinate\
+  \ for 30 minutes in the fridge.\n\nPreheat the oven to 220C/200C Fan/Gas 7. Place\
+  \ the fish in a roasting tin and roast for 12\u201315 minutes. Baste the fish midway\
+  \ through cooking with the juices in the tin or use some extra oil for basting.\
+  \ Remove from the oven and drizzle with the lemon juice.\n\nMeanwhile, to make the\
+  \ malai kory sauce, heat the oil in a saucepan and add the cardamom pods, bay leaf\
+  \ and green chilli. Add the onion paste and fry for 2 minutes. Add the ginger and\
+  \ garlic paste and fry for another 2\u20133 minutes until the paste turns light\
+  \ brown in colour. Add the mustard, coriander and chilli powder. Add half of the\
+  \ fish stock and then add the coconut milk. Season with salt to taste. Bring to\
+  \ the boil and adjust the consistency of the sauce by simmering down or adding more\
+  \ of the fish stock as preferred. Stir in the cardamom powder. Strain the sauce\
+  \ and keep warm.\n\nTo make the mushrooms and beans, heat the oil in a frying pan\
+  \ and fry the mustard and cumin seeds for 1 minute. Add the ginger, turmeric, green\
+  \ chilli, beans and mushrooms and saut\xE9 for 2\u20133 minutes. Add the curry powder,\
+  \ timut pepper and season with salt to taste.\n\nLadle the sauce onto two large\
+  \ plates and place the mushrooms and beans in the centre. Top with the fish and\
+  \ garnish with samphire, onions and edible flowers. Serve immediately."
+html:
+  description: null
+  directions: "<p>To make the monkfish curry, place all the ingredients for the marinade\
+    \ in a small bowl and mix to combine. Rub all over the monkfish. Leave to marinate\
+    \ for 30 minutes in the fridge.</p>\n<p>Preheat the oven to 220C/200C Fan/Gas\
+    \ 7. Place the fish in a roasting tin and roast for 12\u201315 minutes. Baste\
+    \ the fish midway through cooking with the juices in the tin or use some extra\
+    \ oil for basting. Remove from the oven and drizzle with the lemon juice.</p>\n\
+    <p>Meanwhile, to make the malai kory sauce, heat the oil in a saucepan and add\
+    \ the cardamom pods, bay leaf and green chilli. Add the onion paste and fry for\
+    \ 2 minutes. Add the ginger and garlic paste and fry for another 2\u20133 minutes\
+    \ until the paste turns light brown in colour. Add the mustard, coriander and\
+    \ chilli powder. Add half of the fish stock and then add the coconut milk. Season\
+    \ with salt to taste. Bring to the boil and adjust the consistency of the sauce\
+    \ by simmering down or adding more of the fish stock as preferred. Stir in the\
+    \ cardamom powder. Strain the sauce and keep warm.</p>\n<p>To make the mushrooms\
+    \ and beans, heat the oil in a frying pan and fry the mustard and cumin seeds\
+    \ for 1 minute. Add the ginger, turmeric, green chilli, beans and mushrooms and\
+    \ saut\xE9 for 2\u20133 minutes. Add the curry powder, timut pepper and season\
+    \ with salt to taste.</p>\n<p>Ladle the sauce onto two large plates and place\
+    \ the mushrooms and beans in the centre. Top with the fish and garnish with samphire,\
+    \ onions and edible flowers. Serve immediately.</p>\n"
+  ingredients: "<ul>\n<li>For the marinade:</li>\n<li>2 tsp mild red chilli powder</li>\n\
+    <li>1 tsp ground turmeric</li>\n<li>\xBD tbsp ginger and garlic paste</li>\n<li>1\
+    \ tbsp Kasundi mustard sauce or wholegrain mustard</li>\n<li>1 tsp finely chopped\
+    \ green chilli</li>\n<li>1 tsp chickpea flour</li>\n<li>1 tbsp lemon juice</li>\n\
+    <li>1 tbsp rapeseed oil, plus extra for basting if needed</li>\n<li>For the monkfish\
+    \ curry:</li>\n<li>2 x 250g/9oz pieces monkfish tails, trimmed</li>\n<li>\xBD\
+    \ lemon, juice only</li>\n<li>For the malai kory sauce</li>\n<li>3 tbsp rapeseed\
+    \ oil</li>\n<li>1 black cardamom pod</li>\n<li>2 green cardamom pods</li>\n<li>1\
+    \ bay leaf</li>\n<li>1 green chilli, split</li>\n<li>3 onions, roughly chopped,\
+    \ fried in vegetable oil and blended into a paste</li>\n<li>1 tsp ginger and garlic\
+    \ paste</li>\n<li>1 tbsp Kasundi mustard sauce or wholegrain mustard</li>\n<li>2\
+    \ tsp ground coriander</li>\n<li>\xBD tsp red chilli powder</li>\n<li>100ml/3\xBD\
+    fl oz fish stock</li>\n<li>200ml/7fl oz coconut milk</li>\n<li>\xBC tsp green\
+    \ cardamom powder</li>\n<li>salt</li>\n<li>For the mushrooms and beans</li>\n\
+    <li>1 tbsp rapeseed oil</li>\n<li>\xBD tsp mustard seeds</li>\n<li>\xBD tsp cumin\
+    \ seeds</li>\n<li>10g fresh root ginger, peeled and julienned</li>\n<li>10g fresh\
+    \ root turmeric, peeled and julienned</li>\n<li>1 green chilli, finely chopped</li>\n\
+    <li>50g/1\xBEoz green beans, trimmed and blanched</li>\n<li>100g/3\xBDoz mixed\
+    \ fresh wild mushrooms</li>\n<li>1 tsp medium curry powder</li>\n<li>small pinch\
+    \ ground timut pepper or ground Sichuan peppercorns</li>\n<li>salt</li>\n<li>To\
+    \ garnish:</li>\n<li>handful samphire, saut\xE9ed</li>\n<li>finely chopped pickled\
+    \ silverskin onions</li>\n<li>edible flowers</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "For the marinade:\n2 tsp mild red chilli powder\n1 tsp ground turmeric\n\
   \xBD tbsp ginger and garlic paste\n1 tbsp Kasundi mustard sauce or wholegrain mustard\n\
@@ -28,6 +93,8 @@ ingredients: "For the marinade:\n2 tsp mild red chilli powder\n1 tsp ground turm
   edible flowers"
 intrash: 0
 name: Monkfish Curry
+notes: null
+nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -41,51 +108,3 @@ total_time: null
 type: null
 uid: 6216ABAB-DD61-45CE-ADA0-7EA4DE38E67E-17488-00000B17C5D816AF
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>For the marinade:</li>
-<li>2 tsp mild red chilli powder</li>
-<li>1 tsp ground turmeric</li>
-<li>½ tbsp ginger and garlic paste</li>
-<li>1 tbsp Kasundi mustard sauce or wholegrain mustard</li>
-<li>1 tsp finely chopped green chilli</li>
-<li>1 tsp chickpea flour</li>
-<li>1 tbsp lemon juice</li>
-<li>1 tbsp rapeseed oil, plus extra for basting if needed</li>
-<li>For the monkfish curry:</li>
-<li>2 x 250g/9oz pieces monkfish tails, trimmed</li>
-<li>½ lemon, juice only</li>
-<li>For the malai kory sauce</li>
-<li>3 tbsp rapeseed oil</li>
-<li>1 black cardamom pod</li>
-<li>2 green cardamom pods</li>
-<li>1 bay leaf</li>
-<li>1 green chilli, split</li>
-<li>3 onions, roughly chopped, fried in vegetable oil and blended into a paste</li>
-<li>1 tsp ginger and garlic paste</li>
-<li>1 tbsp Kasundi mustard sauce or wholegrain mustard</li>
-<li>2 tsp ground coriander</li>
-<li>½ tsp red chilli powder</li>
-<li>100ml/3½fl oz fish stock</li>
-<li>200ml/7fl oz coconut milk</li>
-<li>¼ tsp green cardamom powder</li>
-<li>salt</li>
-<li>For the mushrooms and beans</li>
-<li>1 tbsp rapeseed oil</li>
-<li>½ tsp mustard seeds</li>
-<li>½ tsp cumin seeds</li>
-<li>10g fresh root ginger, peeled and julienned</li>
-<li>10g fresh root turmeric, peeled and julienned</li>
-<li>1 green chilli, finely chopped</li>
-<li>50g/1¾oz green beans, trimmed and blanched</li>
-<li>100g/3½oz mixed fresh wild mushrooms</li>
-<li>1 tsp medium curry powder</li>
-<li>small pinch ground timut pepper or ground Sichuan peppercorns</li>
-<li>salt</li>
-<li>To garnish:</li>
-<li>handful samphire, sautéed</li>
-<li>finely chopped pickled silverskin onions</li>
-<li>edible flowers</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -13,6 +13,95 @@ created: '2020-03-29 01:23:08'
 created_ts: 1585444988
 description: null
 difficulty: ''
+directions: 'Set a large Dutch oven or stockpot over medium-high heat and add 4 tablespoons
+  butter or oil. When the butter melts or the oil shimmers, add onions and garlic,
+  and a generous pinch of salt.
+
+
+  Reduce the heat to medium and cook, stirring occasionally, until the onions are
+  tender, about 15 minutes.
+
+
+  Place the meat, vegetables and other add-ins in the pot, along with the raw chicken
+  (if using), and add enough liquid to cover. Season with salt. Increase heat to high
+  and bring to a boil, then reduce to a simmer.
+
+
+  Cook until the flavors have come together and the vegetables and greens are tender,
+  about 20 minutes more. If you added raw chicken, remove it from the soup when cooked,
+  allow to cool, shred and return to the soup. Taste and adjust for salt.
+
+
+  Add more hot liquid if needed to thin the soup to desired consistency. Taste and
+  adjust for salt.
+
+
+  Serve hot, and garnish as desired.'
+html:
+  description: null
+  directions: '<p>Set a large Dutch oven or stockpot over medium-high heat and add
+    4 tablespoons butter or oil. When the butter melts or the oil shimmers, add onions
+    and garlic, and a generous pinch of salt.</p>
+
+    <p>Reduce the heat to medium and cook, stirring occasionally, until the onions
+    are tender, about 15 minutes.</p>
+
+    <p>Place the meat, vegetables and other add-ins in the pot, along with the raw
+    chicken (if using), and add enough liquid to cover. Season with salt. Increase
+    heat to high and bring to a boil, then reduce to a simmer.</p>
+
+    <p>Cook until the flavors have come together and the vegetables and greens are
+    tender, about 20 minutes more. If you added raw chicken, remove it from the soup
+    when cooked, allow to cool, shred and return to the soup. Taste and adjust for
+    salt.</p>
+
+    <p>Add more hot liquid if needed to thin the soup to desired consistency. Taste
+    and adjust for salt.</p>
+
+    <p>Serve hot, and garnish as desired.</p>
+
+    '
+  ingredients: '<ul>
+
+    <li>4 tablespoons butter, olive oil or neutral-tasting oil</li>
+
+    <li>2 medium onions, diced</li>
+
+    <li>3 cloves garlic, sliced</li>
+
+    <li>Kosher salt</li>
+
+    <li>6 to 8 cups meat, vegetables or other add-ins (see notes)</li>
+
+    <li>About 1 1/2 pounds raw, boneless chicken (optional)</li>
+
+    <li>About 8 cups water or chicken stock, preferably homemade (see notes)</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: '<p>Calories: 218
+
+    Total Carbohydrates: 22 grams
+
+    Total Fat: 10 grams
+
+    Dietary fiber: 4 grams
+
+    Protein: 9 grams
+
+    Saturated fat: 1 gram
+
+    Sodium: 826 milligrams
+
+    Sugar: 5 grams
+
+    Trans Fat: 0 grams
+
+    Unsaturated fat: 6 grams</p>
+
+    '
 image_url: https://static01.nyt.com/images/2017/01/11/dining/11SOUPS21/11SOUPS21-articleLarge.jpg
 ingredients: '4 tablespoons butter, olive oil or neutral-tasting oil
 
@@ -29,6 +118,26 @@ ingredients: '4 tablespoons butter, olive oil or neutral-tasting oil
   About 8 cups water or chicken stock, preferably homemade (see notes)'
 intrash: 0
 name: Whatever You Want Soup
+notes: null
+nutritional_info: 'Calories: 218
+
+  Total Carbohydrates: 22 grams
+
+  Total Fat: 10 grams
+
+  Dietary fiber: 4 grams
+
+  Protein: 9 grams
+
+  Saturated fat: 1 gram
+
+  Sodium: 826 milligrams
+
+  Sugar: 5 grams
+
+  Trans Fat: 0 grams
+
+  Unsaturated fat: 6 grams'
 photo: C301CF21-3E04-40C9-8D58-C7FA3CEB4BDF-13288-0000085198424F30.jpg
 photo_large: null
 photos: []
@@ -42,15 +151,3 @@ total_time: ''
 type: null
 uid: C888788B-88DB-4A36-90E2-6DC9A5F6FC2A-13288-000008518665F880
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>4 tablespoons butter, olive oil or neutral-tasting oil</li>
-<li>2 medium onions, diced</li>
-<li>3 cloves garlic, sliced</li>
-<li>Kosher salt</li>
-<li>6 to 8 cups meat, vegetables or other add-ins (see notes)</li>
-<li>About 1 1/2 pounds raw, boneless chicken (optional)</li>
-<li>About 8 cups water or chicken stock, preferably homemade (see notes)</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

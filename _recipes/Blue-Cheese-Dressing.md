@@ -8,6 +8,29 @@ created: '2020-08-02 20:25:29'
 created_ts: 1596399929
 description: null
 difficulty: ''
+directions: "In a medium bowl, use a whisk to thoroughly combine the cheese, cr\xE8\
+  me fra\xEEche, olive oil, vinegar, and garlic. Alternatively, place everything into\
+  \ a jar, seal the lid, and shake vigorously to combine. Taste with a leaf of lettuce,\
+  \ then add salt and adjust acid as needed.\r\rRefrigerate leftovers, covered, for\
+  \ up to 3 days.\r\rIdeal for Belgian endive, chicories, Iceberg wedges, Little Gem\
+  \ and romainelettuce. This dressing also works beautifully as sauce for steak or\
+  \ dip for carrots and cucumbers."
+html:
+  description: null
+  directions: "<p>In a medium bowl, use a whisk to thoroughly combine the cheese,\
+    \ cr\xE8me fra\xEEche, olive oil, vinegar, and garlic. Alternatively, place everything\
+    \ into a jar, seal the lid, and shake vigorously to combine. Taste with a leaf\
+    \ of lettuce, then add salt and adjust acid as needed.</p>\n<p>Refrigerate leftovers,\
+    \ covered, for up to 3 days.</p>\n<p>Ideal for Belgian endive, chicories, Iceberg\
+    \ wedges, Little Gem and romainelettuce. This dressing also works beautifully\
+    \ as sauce for steak or dip for carrots and cucumbers.</p>\n"
+  ingredients: "<ul>\n<li>5 ounces creamy blue cheese, such as Roquefort, Bleu d\u2019\
+    Auvergne, or Maytag Blue, crumbled\n1 /2 cup cr\xE8me fra\xEEche (page 113 ),\
+    \ sour cream, or heavy cream\n1 /4 cup extra-virgin olive oil\n1 tablespoon red\
+    \ wine vinegar\n1 small garlic clove, finely grated or pounded with a pinch of\
+    \ salt\nSalt</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "5 ounces creamy blue cheese, such as Roquefort, Bleu d\u2019Auvergne,\
   \ or Maytag Blue, crumbled\r1 /2 cup cr\xE8me fra\xEEche (page 113 ), sour cream,\
@@ -15,6 +38,8 @@ ingredients: "5 ounces creamy blue cheese, such as Roquefort, Bleu d\u2019Auverg
   1 small garlic clove, finely grated or pounded with a pinch of salt\rSalt"
 intrash: 0
 name: Blue Cheese Dressing
+notes: null
+nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -28,14 +53,3 @@ total_time: ''
 type: null
 uid: CDF030C6-1C2A-4BF6-95CA-72A7FEBC9DFA-96025-0003C0D2A47CF20F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>5 ounces creamy blue cheese, such as Roquefort, Bleu d’Auvergne, or Maytag Blue, crumbled
-1 /2 cup crème fraîche (page 113 ), sour cream, or heavy cream
-1 /4 cup extra-virgin olive oil
-1 tablespoon red wine vinegar
-1 small garlic clove, finely grated or pounded with a pinch of salt
-Salt</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

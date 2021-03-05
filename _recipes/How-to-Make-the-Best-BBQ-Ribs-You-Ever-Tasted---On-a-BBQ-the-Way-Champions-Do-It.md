@@ -8,6 +8,264 @@ created: '2020-10-10 19:46:51'
 created_ts: 1602359211
 description: null
 difficulty: null
+directions: "1) Rinse. Rinse the ribs in cool water to remove any bone bits from the\
+  \ butchering.\n\n2) Skin 'n' trim. If the butcher has not removed the membrane from\
+  \ the under side, do it yourself. It gets leathery and hard to chew, it keeps fat\
+  \ in, and it keeps sauce out. Insert a butter knife under the membrane, then your\
+  \ fingers, work a section loose, grip it with a paper towel, and peel it off. Finally,\
+  \ trim the excess fat from both sides. If you can't get the skin off, with a sharp\
+  \ knife, cut slashes through it every inch so some of the fat will render out during\
+  \ the cooking. Click here to see more photos of how to skin 'n' trim and here's\
+  \ a quickie 1 minute video of the technique.\n\n3) Salt. Salt is important. It penetrates\
+  \ deep and amplifies flavor. It helps proteins retain moisture. And it helps with\
+  \ bark, the desired crust on the top formation. Click here to read more about how\
+  \ salt works. It is truly the magic rock. If you can, give the salt 1 to 2 hours\
+  \ to be absorbed.\n\nThe process of salting in advance is called dry brining. The\
+  \ rule of thumb is 1/2 teaspoon of kosher salt per pound of meat, but ribs are about\
+  \ 50% bone, so use about 1/4 teaspoon per pound. You can simply eyeball it by sprinkling\
+  \ on the same amount of salt you would sprinkle on the ribs if they were served\
+  \ to you unsalted.\n\nIf you are watching your salt intake, let's do some math.\
+  \ We recommend about 1/2 teaspoon of kosher salt per pound of meat. That's equivalent\
+  \ to 1/4 teaspoon of table salt. Table salt weights 5.69 grams per teaspoon. But\
+  \ most of us don't eat a whole pound of meat. Say you eat 1/2 pound, that's 1/8\
+  \ teaspoon of table salt or 0.711 grams or 711 milligrams, or less than 1/3 of your\
+  \ recommended daily intake.\n\nBeware of double salt jeopardy! Rubs and spice blends\
+  \ are a great way to add flavor to meat. Commercial rubs almost always contain salt\
+  \ because salt amps up flavor and helps form a crust. Brines are also a great way\
+  \ to add flavor as well as moisture (click here to read about The Science of Brines).\
+  \ Meat that is labeled \"enhanced\" or \"flavor enhanced\" or \"self-basting\" or\
+  \ \"basted\" has been injected with a brine at the packing plant.\n\nYou can use\
+  \ a rub on brined ribs, but beware of double salt jeopardy. A salty rub on top of\
+  \ brined or kosher meat can make it unbearably salty. If you use brined or kosher\
+  \ meat and then a rub, you should make your own rub and leave the salt out of the\
+  \ blend. Remember, you can always add salt, but you can't take it away.\n\n4) Rub.\
+  \ Some folks insist on putting the barbecue rub on the night before, but it isn't\
+  \ necessary. The molecules in spices are too large to penetrate more than a tiny\
+  \ fraction of an inch. Read this for the science. Anytime before cooking time, just\
+  \ coat the meat with a thin layer of water. The water helps dissolve the spices.\
+  \ Then sprinkle enough Meathead's Memphis Dust, an award wining barbecue rub spice\
+  \ blend, to coat all surfaces but not so much that the meat doesn't show through.\
+  \ That is about 2 tablespoons per side depending on the size of the slab. Spread\
+  \ the Memphis Dust on the meat and rub it in.\n\nA lot of cooks like to use mustard\
+  \ under the rub as a form of glue. Mustard is water, vinegar, and maybe white wine\
+  \ (all mostly water) with mustard powder mixed in. The amount of mustard powder\
+  \ is so small that by the time the water steams off and drips away, the mustard\
+  \ powder remaining is miniscule. My experience is that using a mustard slather makes\
+  \ little or no difference in the final outcome. If you want a mustard flavor, you\
+  \ will do much better by simply sprinkling it on the meat.\n\n5) Fire up your barbecue\
+  \ smoker or set up your grill for 2-zone or indirect cooking. 2-zone cooking on\
+  \ a grill is the secret to keeping the temp down so you don't shrink the proteins\
+  \ and make the meat tough. Adjust the temp. Preheat your cooker to about 225\xB0\
+  F and try to keep it there throughout the cook. This is crucial: You can absolutely\
+  \ positively noway nohow rely on bi-metal dial thermometers. Even if you spent a\
+  \ fortune on your grill they mount unreliable thermometers on them. If you are not\
+  \ monitoring your cooker with a good digital oven thermometer, you are setting yourself\
+  \ up for disappointment. Using a dial thermometer is like trying to send email with\
+  \ a typewriter. Click here to read my buyer's guide to thermometers.\n\nOn a charcoal\
+  \ grill, adjust the air intake dampers at the bottom to control heat on charcoal\
+  \ grills. Intake dampers are more effective than exhaust dampers for controlling\
+  \ the temp because they reduce the supply of oxygen to the coals. Take your time\
+  \ getting the temp right. Cooking at 225\xB0F will allow the meat to roast low and\
+  \ slow, liquefying the collagen in connective tissues and melting fats without getting\
+  \ the proteins knotted in a bunch. It's a magic temp that creates silky texture,\
+  \ adds moisture, and keeps the meat tender. If you can't hit 225\xB0F, get as close\
+  \ as you can. Don't go under 200\xB0F and try not to go over 250\xB0F. Click here\
+  \ for more about how to calibrate your grill. To learn more about what happens inside\
+  \ the meat when it is cooking read my article on meat science. Read my article on\
+  \ the thermodynamics of cooking to learn how different grills cook differently.\n\
+  \n6) Smoke. Add about 4 ounces of dry wood at this time. Do not soak the wood! This\
+  \ is a myth. Put the wood as close to the flame as possible.\n\n7) Relax. Put the\
+  \ slabs in the cooker in indirect heat, meaty side up, close the lid, go drink a\
+  \ beer, read a book, or make love.\n\n8) More smoke. When the smoke dwindles after\
+  \ 20 to 30 minutes, add another 4 ounces of wood. That's it. Stop adding wood. On\
+  \ your first attempt, resist the temptation. Nothing will ruin a meal faster and\
+  \ waste money better than oversmoked meat. You can always add more the next time\
+  \ you cook, but you cannot take it away if you oversmoke. If you have more than\
+  \ one slab on, halfway through the cook you will need to move the ribs closest to\
+  \ the fire away from the heat, and the slabs farthest from the flame in closer.\
+  \ Leave the meat side up. There is no need to flip the slabs. You can peek if you\
+  \ must, but don't leave the lid open for long.\n\n9) The Texas Crutch. This optional\
+  \ trick involves wrapping the slab in foil with about an ounce of water for up to\
+  \ an hour to speed cooking and tenderize a bit. Almost all barbecue ribs competition\
+  \ cooks use the Texas Crutch to get an edge. But the improvement is really slight\
+  \ and I never bother for backyard cooking. If you crutch too long you can turn the\
+  \ meat to mush and time in foil can soften the bark and remove a lot of rub. I recommend\
+  \ it only for barbecue competitions when the tiniest improvement can mean thousands\
+  \ of dollars. Skip it and you'll still have killer ribs. But if you've seen it on\
+  \ TV and must try it, click here to learn more about The Texas Crutch. The Texas\
+  \ Crutch is it is baked into a popular technique called the 3-2-1 method which I\
+  \ do not recommend. Two hours in foil or butcher paper is far too long and can make\
+  \ the meat mushy. Try the Texas Crutch after you master the basics.\n\n10) The bend\
+  \ test. Although I insist that you buy a good digital meat thermometer for most\
+  \ smoking and grilling, this is one of the few meats on which you cannot use a meat\
+  \ thermometer because the bones have an impact on the meat temp and because the\
+  \ meat is so thin. Allow 5 to 7 hours for St. Louis Cut (SLC) Ribs or Spare Ribs,\
+  \ and 3 to 5 hours for Baby Back Ribs. Thicker, meatier slabs take longer, and if\
+  \ you use rib holders so they are crammed close to each other, add another hour.\
+  \ The exact time will depend on how thick the slabs are and how steady you have\
+  \ kept the temp. If you use rib holders so they are crammed close to each other,\
+  \ add another hour. Then check to see if they are ready. I use the bend test (a.k.a.\
+  \ the bounce test). Pick up the slab with tongs and bounce it gently. If the surface\
+  \ cracks as in the picture above, it is ready. Here are some other tricks to tell\
+  \ when ribs are ready.\n\n11) Sauce. Some folks serve ribs without barbecue sauce,\
+  \ but most folks love their sauce. Just go easy. Let the meat shine through. When\
+  \ the meat is done, paint both sides with your favorite home made barbecue sauce\
+  \ or store-bought barbecue sauce and cook for another 15 minutes or so. Don't put\
+  \ the sauce on earlier than then. It has sugar and there is a risk it can burn.\
+  \ Now here's a trick I like: Sizzle on the sauce. Put the ribs with sauce directly\
+  \ over the hottest part of a grill in order to caramelize and crisp the sauce. On\
+  \ a charcoal grill, just move the slab over the coals. On a gas grill, crank up\
+  \ all the burners. On a water smoker, remove the water pan and move the meat close\
+  \ to the coals. On an offset smoker, put a grate over the coals in the firebox and\
+  \ put the meat there. With the lid open so you don't roast the meat from above,\
+  \ sizzle the sauce on one side and then the other. The sauce will actually sizzle\
+  \ and bubble. Stand by your grill and watch because sweet sauce can go from caramelized\
+  \ to carbonized in less than a minute! One coat of a thick sauce should be enough,\
+  \ but if you need two, go ahead, but don't hide all the fabulous flavors under too\
+  \ much sauce. If you think you'll want more sauce, put some in a bowl on the table.\n\
+  \nIf you've done all this right, you will notice that there is a thin pink layer\
+  \ beneath the surface of the meat. This does not mean it is undercooked! It is the\
+  \ highly prized smoke ring caused by the combustion gases and the smoke. It is a\
+  \ sign of Amazing Ribs. Now be ready to take a bow when the applause swells from\
+  \ the audience."
+html:
+  description: null
+  directions: "<ol>\n<li>\n<p>Rinse. Rinse the ribs in cool water to remove any bone\
+    \ bits from the butchering.</p>\n</li>\n<li>\n<p>Skin 'n' trim. If the butcher\
+    \ has not removed the membrane from the under side, do it yourself. It gets leathery\
+    \ and hard to chew, it keeps fat in, and it keeps sauce out. Insert a butter knife\
+    \ under the membrane, then your fingers, work a section loose, grip it with a\
+    \ paper towel, and peel it off. Finally, trim the excess fat from both sides.\
+    \ If you can't get the skin off, with a sharp knife, cut slashes through it every\
+    \ inch so some of the fat will render out during the cooking. Click here to see\
+    \ more photos of how to skin 'n' trim and here's a quickie 1 minute video of the\
+    \ technique.</p>\n</li>\n<li>\n<p>Salt. Salt is important. It penetrates deep\
+    \ and amplifies flavor. It helps proteins retain moisture. And it helps with bark,\
+    \ the desired crust on the top formation. Click here to read more about how salt\
+    \ works. It is truly the magic rock. If you can, give the salt 1 to 2 hours to\
+    \ be absorbed.</p>\n</li>\n</ol>\n<p>The process of salting in advance is called\
+    \ dry brining. The rule of thumb is 1/2 teaspoon of kosher salt per pound of meat,\
+    \ but ribs are about 50% bone, so use about 1/4 teaspoon per pound. You can simply\
+    \ eyeball it by sprinkling on the same amount of salt you would sprinkle on the\
+    \ ribs if they were served to you unsalted.</p>\n<p>If you are watching your salt\
+    \ intake, let's do some math. We recommend about 1/2 teaspoon of kosher salt per\
+    \ pound of meat. That's equivalent to 1/4 teaspoon of table salt. Table salt weights\
+    \ 5.69 grams per teaspoon. But most of us don't eat a whole pound of meat. Say\
+    \ you eat 1/2 pound, that's 1/8 teaspoon of table salt or 0.711 grams or 711 milligrams,\
+    \ or less than 1/3 of your recommended daily intake.</p>\n<p>Beware of double\
+    \ salt jeopardy! Rubs and spice blends are a great way to add flavor to meat.\
+    \ Commercial rubs almost always contain salt because salt amps up flavor and helps\
+    \ form a crust. Brines are also a great way to add flavor as well as moisture\
+    \ (click here to read about The Science of Brines). Meat that is labeled &quot;enhanced&quot;\
+    \ or &quot;flavor enhanced&quot; or &quot;self-basting&quot; or &quot;basted&quot;\
+    \ has been injected with a brine at the packing plant.</p>\n<p>You can use a rub\
+    \ on brined ribs, but beware of double salt jeopardy. A salty rub on top of brined\
+    \ or kosher meat can make it unbearably salty. If you use brined or kosher meat\
+    \ and then a rub, you should make your own rub and leave the salt out of the blend.\
+    \ Remember, you can always add salt, but you can't take it away.</p>\n<ol start=\"\
+    4\">\n<li>Rub. Some folks insist on putting the barbecue rub on the night before,\
+    \ but it isn't necessary. The molecules in spices are too large to penetrate more\
+    \ than a tiny fraction of an inch. Read this for the science. Anytime before cooking\
+    \ time, just coat the meat with a thin layer of water. The water helps dissolve\
+    \ the spices. Then sprinkle enough Meathead's Memphis Dust, an award wining barbecue\
+    \ rub spice blend, to coat all surfaces but not so much that the meat doesn't\
+    \ show through. That is about 2 tablespoons per side depending on the size of\
+    \ the slab. Spread the Memphis Dust on the meat and rub it in.</li>\n</ol>\n<p>A\
+    \ lot of cooks like to use mustard under the rub as a form of glue. Mustard is\
+    \ water, vinegar, and maybe white wine (all mostly water) with mustard powder\
+    \ mixed in. The amount of mustard powder is so small that by the time the water\
+    \ steams off and drips away, the mustard powder remaining is miniscule. My experience\
+    \ is that using a mustard slather makes little or no difference in the final outcome.\
+    \ If you want a mustard flavor, you will do much better by simply sprinkling it\
+    \ on the meat.</p>\n<ol start=\"5\">\n<li>Fire up your barbecue smoker or set\
+    \ up your grill for 2-zone or indirect cooking. 2-zone cooking on a grill is the\
+    \ secret to keeping the temp down so you don't shrink the proteins and make the\
+    \ meat tough. Adjust the temp. Preheat your cooker to about 225\xB0F and try to\
+    \ keep it there throughout the cook. This is crucial: You can absolutely positively\
+    \ noway nohow rely on bi-metal dial thermometers. Even if you spent a fortune\
+    \ on your grill they mount unreliable thermometers on them. If you are not monitoring\
+    \ your cooker with a good digital oven thermometer, you are setting yourself up\
+    \ for disappointment. Using a dial thermometer is like trying to send email with\
+    \ a typewriter. Click here to read my buyer's guide to thermometers.</li>\n</ol>\n\
+    <p>On a charcoal grill, adjust the air intake dampers at the bottom to control\
+    \ heat on charcoal grills. Intake dampers are more effective than exhaust dampers\
+    \ for controlling the temp because they reduce the supply of oxygen to the coals.\
+    \ Take your time getting the temp right. Cooking at 225\xB0F will allow the meat\
+    \ to roast low and slow, liquefying the collagen in connective tissues and melting\
+    \ fats without getting the proteins knotted in a bunch. It's a magic temp that\
+    \ creates silky texture, adds moisture, and keeps the meat tender. If you can't\
+    \ hit 225\xB0F, get as close as you can. Don't go under 200\xB0F and try not to\
+    \ go over 250\xB0F. Click here for more about how to calibrate your grill. To\
+    \ learn more about what happens inside the meat when it is cooking read my article\
+    \ on meat science. Read my article on the thermodynamics of cooking to learn how\
+    \ different grills cook differently.</p>\n<ol start=\"6\">\n<li>\n<p>Smoke. Add\
+    \ about 4 ounces of dry wood at this time. Do not soak the wood! This is a myth.\
+    \ Put the wood as close to the flame as possible.</p>\n</li>\n<li>\n<p>Relax.\
+    \ Put the slabs in the cooker in indirect heat, meaty side up, close the lid,\
+    \ go drink a beer, read a book, or make love.</p>\n</li>\n<li>\n<p>More smoke.\
+    \ When the smoke dwindles after 20 to 30 minutes, add another 4 ounces of wood.\
+    \ That's it. Stop adding wood. On your first attempt, resist the temptation. Nothing\
+    \ will ruin a meal faster and waste money better than oversmoked meat. You can\
+    \ always add more the next time you cook, but you cannot take it away if you oversmoke.\
+    \ If you have more than one slab on, halfway through the cook you will need to\
+    \ move the ribs closest to the fire away from the heat, and the slabs farthest\
+    \ from the flame in closer. Leave the meat side up. There is no need to flip the\
+    \ slabs. You can peek if you must, but don't leave the lid open for long.</p>\n\
+    </li>\n<li>\n<p>The Texas Crutch. This optional trick involves wrapping the slab\
+    \ in foil with about an ounce of water for up to an hour to speed cooking and\
+    \ tenderize a bit. Almost all barbecue ribs competition cooks use the Texas Crutch\
+    \ to get an edge. But the improvement is really slight and I never bother for\
+    \ backyard cooking. If you crutch too long you can turn the meat to mush and time\
+    \ in foil can soften the bark and remove a lot of rub. I recommend it only for\
+    \ barbecue competitions when the tiniest improvement can mean thousands of dollars.\
+    \ Skip it and you'll still have killer ribs. But if you've seen it on TV and must\
+    \ try it, click here to learn more about The Texas Crutch. The Texas Crutch is\
+    \ it is baked into a popular technique called the 3-2-1 method which I do not\
+    \ recommend. Two hours in foil or butcher paper is far too long and can make the\
+    \ meat mushy. Try the Texas Crutch after you master the basics.</p>\n</li>\n<li>\n\
+    <p>The bend test. Although I insist that you buy a good digital meat thermometer\
+    \ for most smoking and grilling, this is one of the few meats on which you cannot\
+    \ use a meat thermometer because the bones have an impact on the meat temp and\
+    \ because the meat is so thin. Allow 5 to 7 hours for St. Louis Cut (SLC) Ribs\
+    \ or Spare Ribs, and 3 to 5 hours for Baby Back Ribs. Thicker, meatier slabs take\
+    \ longer, and if you use rib holders so they are crammed close to each other,\
+    \ add another hour. The exact time will depend on how thick the slabs are and\
+    \ how steady you have kept the temp. If you use rib holders so they are crammed\
+    \ close to each other, add another hour. Then check to see if they are ready.\
+    \ I use the bend test (a.k.a. the bounce test). Pick up the slab with tongs and\
+    \ bounce it gently. If the surface cracks as in the picture above, it is ready.\
+    \ Here are some other tricks to tell when ribs are ready.</p>\n</li>\n<li>\n<p>Sauce.\
+    \ Some folks serve ribs without barbecue sauce, but most folks love their sauce.\
+    \ Just go easy. Let the meat shine through. When the meat is done, paint both\
+    \ sides with your favorite home made barbecue sauce or store-bought barbecue sauce\
+    \ and cook for another 15 minutes or so. Don't put the sauce on earlier than then.\
+    \ It has sugar and there is a risk it can burn. Now here's a trick I like: Sizzle\
+    \ on the sauce. Put the ribs with sauce directly over the hottest part of a grill\
+    \ in order to caramelize and crisp the sauce. On a charcoal grill, just move the\
+    \ slab over the coals. On a gas grill, crank up all the burners. On a water smoker,\
+    \ remove the water pan and move the meat close to the coals. On an offset smoker,\
+    \ put a grate over the coals in the firebox and put the meat there. With the lid\
+    \ open so you don't roast the meat from above, sizzle the sauce on one side and\
+    \ then the other. The sauce will actually sizzle and bubble. Stand by your grill\
+    \ and watch because sweet sauce can go from caramelized to carbonized in less\
+    \ than a minute! One coat of a thick sauce should be enough, but if you need two,\
+    \ go ahead, but don't hide all the fabulous flavors under too much sauce. If you\
+    \ think you'll want more sauce, put some in a bowl on the table.</p>\n</li>\n\
+    </ol>\n<p>If you've done all this right, you will notice that there is a thin\
+    \ pink layer beneath the surface of the meat. This does not mean it is undercooked!\
+    \ It is the highly prized smoke ring caused by the combustion gases and the smoke.\
+    \ It is a sign of Amazing Ribs. Now be ready to take a bow when the applause swells\
+    \ from the audience.</p>\n"
+  ingredients: "<ul>\n<li>1 slab baby back ribs or St. Louis cut ribs or spareribs</li>\n\
+    <li>4 tablespoons of Meathead's Memphis Dust</li>\n<li>1 teaspoon Morton\u2019\
+    s kosher salt (1/4 teaspoon per pound of meat)</li>\n<li>1 cup of barbecue sauce\
+    \ (optional)</li>\n</ul>\n"
+  notes: null
+  nutrition: "<p>Calories per serving 800\nSaturated Fat 21 g 103 %\nTrans Fat 1 g\n\
+    Cholesterol 246 mg 82 %\nSodium 943 mg 39 %\nTotal Carbohydrate 20 g 7 %\nDietary\
+    \ Fiber 0 g 2 %\nTotal Sugars 17 g\nIncludes 1 g Added Sugars\nProtein 68 g 137\
+    \ %\nVitamin D 4 \xB5g 26 %\nCalcium 127 mg 13 %\nIron 3 mg 17 %\nPotassium 994\
+    \ mg 21 %\n*Percent Daily Values are based on a 2,000 calorie diet.</p>\n"
 image_url: https://amazingribs.com/files/styles/content_body_600px/public/heroimage/ribs-with-flame_0.jpg?itok=02iXmTgt
 ingredients: "1 slab baby back ribs or St. Louis cut ribs or spareribs\n4 tablespoons\
   \ of Meathead's Memphis Dust\n1 teaspoon Morton\u2019s kosher salt (1/4 teaspoon\
@@ -15,6 +273,12 @@ ingredients: "1 slab baby back ribs or St. Louis cut ribs or spareribs\n4 tables
 intrash: 0
 name: How to Make the Best BBQ Ribs You Ever Tasted - On a BBQ the Way Champions Do
   It
+notes: null
+nutritional_info: "Calories per serving 800\nSaturated Fat 21 g 103 %\nTrans Fat 1\
+  \ g\nCholesterol 246 mg 82 %\nSodium 943 mg 39 %\nTotal Carbohydrate 20 g 7 %\n\
+  Dietary Fiber 0 g 2 %\nTotal Sugars 17 g\nIncludes 1 g Added Sugars\nProtein 68\
+  \ g 137 %\nVitamin D 4 \xB5g 26 %\nCalcium 127 mg 13 %\nIron 3 mg 17 %\nPotassium\
+  \ 994 mg 21 %\n*Percent Daily Values are based on a 2,000 calorie diet."
 photo: 4BAB4FD7-4507-4411-9E66-8F686FFFAD72-90978-00015787CD664C53.jpg
 photo_large: null
 photos: []
@@ -28,12 +292,3 @@ total_time: null
 type: null
 uid: 443AA4DF-83BF-4015-B7D3-4E1D3F116F9A-90978-00015781BFD6E773
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 slab baby back ribs or St. Louis cut ribs or spareribs</li>
-<li>4 tablespoons of Meathead's Memphis Dust</li>
-<li>1 teaspoon Morton’s kosher salt (1/4 teaspoon per pound of meat)</li>
-<li>1 cup of barbecue sauce (optional)</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

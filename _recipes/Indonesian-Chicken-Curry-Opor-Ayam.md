@@ -8,6 +8,86 @@ created: '2020-03-26 15:44:51'
 created_ts: 1585237491
 description: null
 difficulty: null
+directions: "In a dry skillet over medium-high heat, toast the coriander seeds for\
+  \ 2 to 3 minutes. Let cool, then grind in a spice grinder.\n\nIn a large saut\xE9\
+  \ pan, heat 2 tablespoons of the coconut oil over medium heat. Add the shallots\
+  \ and a generous pinch of salt and cook, stirring often, until browned, about 10\
+  \ minutes. Remove shallots to a food processor and set aside. Add the garlic cloves\
+  \ and candlenuts to the same pan and cook, stirring constantly to prevent burning,\
+  \ until deep golden brown, 2 to 3 minutes. Add the garlic and candlenuts to the\
+  \ shallots in the food processor along with the kaempferia galanga root, white pepper\
+  \ and 2 tablespoons water; pur\xE9e into a paste.\n\nHeat the remaining 1 tablespoon\
+  \ coconut oil in the saut\xE9 pan over medium heat and add the ginger, galangal,\
+  \ lemongrass, salam leaves and lime leaves, scrunching the lime leaves in your hands\
+  \ as you drop them into the pot. Allow to cook until the ingredients start to smell\
+  \ less intense and raw, stirring occasionally, 5 to 7 minutes.\n\nStir the ground\
+  \ coriander seeds, shallot paste mixture and tomato into the pan. Reduce the heat\
+  \ to low and slowly stir in the coconut milk, a little at a time, to keep the sauce\
+  \ from breaking. When all the coconut milk is incorporated and the mixture is gently\
+  \ simmering, add the chicken stock. Nestle the chicken into the pan and spoon some\
+  \ of the sauce over the top. Cover and cook on low heat for about 40 minutes, or\
+  \ until the chicken is cooked through and the dish is aromatic. You may have to\
+  \ adjust the heat to keep the mixture at a gentle simmer. (Do not boil.) Season\
+  \ to taste with salt. Before serving, remove the galangal, ginger, lemongrass, salam\
+  \ and makrut leaves. Serve with rice."
+html:
+  description: null
+  directions: "<p>In a dry skillet over medium-high heat, toast the coriander seeds\
+    \ for 2 to 3 minutes. Let cool, then grind in a spice grinder.</p>\n<p>In a large\
+    \ saut\xE9 pan, heat 2 tablespoons of the coconut oil over medium heat. Add the\
+    \ shallots and a generous pinch of salt and cook, stirring often, until browned,\
+    \ about 10 minutes. Remove shallots to a food processor and set aside. Add the\
+    \ garlic cloves and candlenuts to the same pan and cook, stirring constantly to\
+    \ prevent burning, until deep golden brown, 2 to 3 minutes. Add the garlic and\
+    \ candlenuts to the shallots in the food processor along with the kaempferia galanga\
+    \ root, white pepper and 2 tablespoons water; pur\xE9e into a paste.</p>\n<p>Heat\
+    \ the remaining 1 tablespoon coconut oil in the saut\xE9 pan over medium heat\
+    \ and add the ginger, galangal, lemongrass, salam leaves and lime leaves, scrunching\
+    \ the lime leaves in your hands as you drop them into the pot. Allow to cook until\
+    \ the ingredients start to smell less intense and raw, stirring occasionally,\
+    \ 5 to 7 minutes.</p>\n<p>Stir the ground coriander seeds, shallot paste mixture\
+    \ and tomato into the pan. Reduce the heat to low and slowly stir in the coconut\
+    \ milk, a little at a time, to keep the sauce from breaking. When all the coconut\
+    \ milk is incorporated and the mixture is gently simmering, add the chicken stock.\
+    \ Nestle the chicken into the pan and spoon some of the sauce over the top. Cover\
+    \ and cook on low heat for about 40 minutes, or until the chicken is cooked through\
+    \ and the dish is aromatic. You may have to adjust the heat to keep the mixture\
+    \ at a gentle simmer. (Do not boil.) Season to taste with salt. Before serving,\
+    \ remove the galangal, ginger, lemongrass, salam and makrut leaves. Serve with\
+    \ rice.</p>\n"
+  ingredients: "<ul>\n<li>\xBC cup coriander seeds</li>\n<li>3 tablespoons coconut\
+    \ oil</li>\n<li>10 small shallots, sliced</li>\n<li>Kosher salt, to taste</li>\n\
+    <li>15 garlic cloves</li>\n<li>5 candlenuts (or 5 to 10 macadamia nuts)</li>\n\
+    <li>2 to 3 1-inch pieces kaempferia galanga root, peeled (optional)</li>\n<li>\xBD\
+    \ tablespoon white peppercorns</li>\n<li>1 3-inch piece ginger, peeled and lightly\
+    \ smashed to loosen the fibers</li>\n<li>1 3-inch piece galangal, peeled and lightly\
+    \ smashed to loosen the fibers</li>\n<li>5 lemongrass stalks, trimmed, smashed\
+    \ and tied into knots</li>\n<li>10 to 15 fresh or dried salam leaves (Indonesian\
+    \ bay leaves)</li>\n<li>20 fresh makrut (kaffir) lime leaves</li>\n<li>1 tomato,\
+    \ chopped (or 1 cup cherry tomatoes)</li>\n<li>1 8.5-ounce can coconut milk</li>\n\
+    <li>\xBE cup chicken stock</li>\n<li>3 pounds bone-in chicken pieces</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 765
+
+    Total Carbohydrates: 28 grams
+
+    Total Fat: 53 grams
+
+    Dietary fiber: 5 grams
+
+    Protein: 48 grams
+
+    Saturated fat: 24 grams
+
+    Sodium: 1017 milligrams
+
+    Sugar: 7 grams
+
+    Trans Fat: 0 grams
+
+    Unsaturated fat: 17 grams</p>
+
+    '
 image_url: https://static01.nyt.com/images/2016/07/06/dining/06EIDjp4/06EIDjp4-articleLarge.jpg
 ingredients: "\xBC cup coriander seeds\n3 tablespoons coconut oil\n10 small shallots,\
   \ sliced\nKosher salt, to taste\n15 garlic cloves\n5 candlenuts (or 5 to 10 macadamia\
@@ -20,6 +100,26 @@ ingredients: "\xBC cup coriander seeds\n3 tablespoons coconut oil\n10 small shal
   \ cup chicken stock\n3 pounds bone-in chicken pieces"
 intrash: 0
 name: Indonesian Chicken Curry (Opor Ayam)
+notes: null
+nutritional_info: 'Calories: 765
+
+  Total Carbohydrates: 28 grams
+
+  Total Fat: 53 grams
+
+  Dietary fiber: 5 grams
+
+  Protein: 48 grams
+
+  Saturated fat: 24 grams
+
+  Sodium: 1017 milligrams
+
+  Sugar: 7 grams
+
+  Trans Fat: 0 grams
+
+  Unsaturated fat: 17 grams'
 photo: 0BEB79DE-1818-494C-800A-B0E4FB87039D-67145-001153F653DA2250.jpg
 photo_large: null
 photos: []
@@ -33,25 +133,3 @@ total_time: null
 type: null
 uid: 4DD0191F-C05E-4C84-86AF-DAD91B101A5F-67145-001153F3C917B389
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>¼ cup coriander seeds</li>
-<li>3 tablespoons coconut oil</li>
-<li>10 small shallots, sliced</li>
-<li>Kosher salt, to taste</li>
-<li>15 garlic cloves</li>
-<li>5 candlenuts (or 5 to 10 macadamia nuts)</li>
-<li>2 to 3 1-inch pieces kaempferia galanga root, peeled (optional)</li>
-<li>½ tablespoon white peppercorns</li>
-<li>1 3-inch piece ginger, peeled and lightly smashed to loosen the fibers</li>
-<li>1 3-inch piece galangal, peeled and lightly smashed to loosen the fibers</li>
-<li>5 lemongrass stalks, trimmed, smashed and tied into knots</li>
-<li>10 to 15 fresh or dried salam leaves (Indonesian bay leaves)</li>
-<li>20 fresh makrut (kaffir) lime leaves</li>
-<li>1 tomato, chopped (or 1 cup cherry tomatoes)</li>
-<li>1 8.5-ounce can coconut milk</li>
-<li>¾ cup chicken stock</li>
-<li>3 pounds bone-in chicken pieces</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

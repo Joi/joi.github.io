@@ -8,6 +8,121 @@ created: '2020-04-02 17:18:10'
 created_ts: 1585847890
 description: null
 difficulty: null
+directions: "BEFORE YOU BEGIN\n\nIf you have the time to blanch and skin them, fresh\
+  \ pearl onions are terrific. Simply cut an \u201Cx\u201D in the root end, blanch\
+  \ them in boiling water for 30 seconds, remove them with a slotted spoon, and refresh\
+  \ them in a bowl of ice water. Then slice off the very tip of the roots with a paring\
+  \ knife and squeeze the onions gently from the blossom end. They will pop right\
+  \ out of their skins.\n\nGenerously sprinkle chicken pieces with salt and ground\
+  \ black pepper; set aside. Bring red wine and chicken stock to boil in large, heavy\
+  \ saucepan; reduce heat to medium-high and simmer until reduced to about 4 cups,\
+  \ about 20 minutes.\n\nMeanwhile, fry bacon in large Dutch oven or deep, heavy-bottomed\
+  \ saut\xE9 pan over medium heat until fat has rendered and bacon is golden brown,\
+  \ about 5 minutes. Remove bacon with slotted spoon to paper towel-lined plate to\
+  \ drain; set aside. Heat 1 tablespoon butter with rendered bacon fat; add carrot,\
+  \ onion, shallots, and garlic and saut\xE9 until lightly browned, 10 to 15 minutes.\
+  \ Following illustration 1 below, press vegetables against side of pan with slotted\
+  \ spoon to squeeze out as much fat as possible; transfer vegetables to pan with\
+  \ reduced wine mixture (off heat) and discard all but 1 tablespoon fat from Dutch\
+  \ oven or saut\xE9 pan.\n\nReturn Dutch oven or saut\xE9 pan to burner over medium-high\
+  \ heat and add another 1 tablespoon butter. When butter is melted, add chicken (in\
+  \ batches if necessary to avoid overcrowding) and cook until well browned all over,\
+  \ turning once or twice during cooking, 12 to 16 minutes. Remove chicken to a plate;\
+  \ set aside. Pour off all fat from Dutch oven or saut\xE9 pan; return to heat and\
+  \ add wine-vegetable mixture. Bring to boil, scraping up browned bits from bottom\
+  \ of pan with wooden spoon (see illustration 2, below). Add browned chicken, bouquet\
+  \ garni (thyme, parsley, and bay leaf tied together), and tomato paste to boiling\
+  \ wine mixture; return to boil, then reduce heat to low and simmer gently, partially\
+  \ covered. Turn chicken once during cooking, until tender and infused with wine\
+  \ flavor, 45 to 60 minutes.\n\nWhile chicken and sauce are cooking, heat another\
+  \ 2 tablespoons butter in medium skillet over medium-low heat. Add pearl onions\
+  \ and cook, stirring occasionally and reducing heat if butter starts to brown too\
+  \ fast, until lightly browned and almost cooked through, 5 to 8 minutes. Add mushrooms,\
+  \ season with salt, cover, increase heat to medium, and cook until mushrooms release\
+  \ their liquid, about 5 minutes. Remove cover, increase heat to high, and boil until\
+  \ liquid evaporates and onions and mushrooms are golden brown, 2 to 3 minutes more.\
+  \ Transfer onions and mushrooms to plate with bacon; set aside.\n\nWhen the chicken\
+  \ is cooked, transfer to serving bowl or platter; cover with aluminum foil to keep\
+  \ warm. Following illustration 3, below, strain sauce through fine mesh sieve set\
+  \ over large measuring cup, pressing on solids with wooden spoon to release as much\
+  \ liquid as possible; sauce should measure 2 to 3 cups. Return sauce to pan; skim\
+  \ as much fat as possible off surface. Counting 1 tablespoon each of butter and\
+  \ flour for each cup of sauce, mash 2 to 3 tablespoons each butter and flour in\
+  \ small bowl or plate to make a beurre mani\xE9, as shown in illustration\n\nBring\
+  \ sauce to boil and whisk in beurre mani\xE9 until smooth. Add reserved chicken,\
+  \ bacon, onions and mushrooms; adjust seasoning with salt and ground black pepper\
+  \ to taste, reduce heat to medium-low and simmer very gently to warm through and\
+  \ blend flavors, about 5 minutes. Check seasoning one more time and adjust with\
+  \ additional salt and ground black pepper if necessary; add parsley. Transfer chicken\
+  \ to serving platter; pour sauce over chicken. Serve immediately."
+html:
+  description: null
+  directions: "<p>BEFORE YOU BEGIN</p>\n<p>If you have the time to blanch and skin\
+    \ them, fresh pearl onions are terrific. Simply cut an \u201Cx\u201D in the root\
+    \ end, blanch them in boiling water for 30 seconds, remove them with a slotted\
+    \ spoon, and refresh them in a bowl of ice water. Then slice off the very tip\
+    \ of the roots with a paring knife and squeeze the onions gently from the blossom\
+    \ end. They will pop right out of their skins.</p>\n<p>Generously sprinkle chicken\
+    \ pieces with salt and ground black pepper; set aside. Bring red wine and chicken\
+    \ stock to boil in large, heavy saucepan; reduce heat to medium-high and simmer\
+    \ until reduced to about 4 cups, about 20 minutes.</p>\n<p>Meanwhile, fry bacon\
+    \ in large Dutch oven or deep, heavy-bottomed saut\xE9 pan over medium heat until\
+    \ fat has rendered and bacon is golden brown, about 5 minutes. Remove bacon with\
+    \ slotted spoon to paper towel-lined plate to drain; set aside. Heat 1 tablespoon\
+    \ butter with rendered bacon fat; add carrot, onion, shallots, and garlic and\
+    \ saut\xE9 until lightly browned, 10 to 15 minutes. Following illustration 1 below,\
+    \ press vegetables against side of pan with slotted spoon to squeeze out as much\
+    \ fat as possible; transfer vegetables to pan with reduced wine mixture (off heat)\
+    \ and discard all but 1 tablespoon fat from Dutch oven or saut\xE9 pan.</p>\n\
+    <p>Return Dutch oven or saut\xE9 pan to burner over medium-high heat and add another\
+    \ 1 tablespoon butter. When butter is melted, add chicken (in batches if necessary\
+    \ to avoid overcrowding) and cook until well browned all over, turning once or\
+    \ twice during cooking, 12 to 16 minutes. Remove chicken to a plate; set aside.\
+    \ Pour off all fat from Dutch oven or saut\xE9 pan; return to heat and add wine-vegetable\
+    \ mixture. Bring to boil, scraping up browned bits from bottom of pan with wooden\
+    \ spoon (see illustration 2, below). Add browned chicken, bouquet garni (thyme,\
+    \ parsley, and bay leaf tied together), and tomato paste to boiling wine mixture;\
+    \ return to boil, then reduce heat to low and simmer gently, partially covered.\
+    \ Turn chicken once during cooking, until tender and infused with wine flavor,\
+    \ 45 to 60 minutes.</p>\n<p>While chicken and sauce are cooking, heat another\
+    \ 2 tablespoons butter in medium skillet over medium-low heat. Add pearl onions\
+    \ and cook, stirring occasionally and reducing heat if butter starts to brown\
+    \ too fast, until lightly browned and almost cooked through, 5 to 8 minutes. Add\
+    \ mushrooms, season with salt, cover, increase heat to medium, and cook until\
+    \ mushrooms release their liquid, about 5 minutes. Remove cover, increase heat\
+    \ to high, and boil until liquid evaporates and onions and mushrooms are golden\
+    \ brown, 2 to 3 minutes more. Transfer onions and mushrooms to plate with bacon;\
+    \ set aside.</p>\n<p>When the chicken is cooked, transfer to serving bowl or platter;\
+    \ cover with aluminum foil to keep warm. Following illustration 3, below, strain\
+    \ sauce through fine mesh sieve set over large measuring cup, pressing on solids\
+    \ with wooden spoon to release as much liquid as possible; sauce should measure\
+    \ 2 to 3 cups. Return sauce to pan; skim as much fat as possible off surface.\
+    \ Counting 1 tablespoon each of butter and flour for each cup of sauce, mash 2\
+    \ to 3 tablespoons each butter and flour in small bowl or plate to make a beurre\
+    \ mani\xE9, as shown in illustration</p>\n<p>Bring sauce to boil and whisk in\
+    \ beurre mani\xE9 until smooth. Add reserved chicken, bacon, onions and mushrooms;\
+    \ adjust seasoning with salt and ground black pepper to taste, reduce heat to\
+    \ medium-low and simmer very gently to warm through and blend flavors, about 5\
+    \ minutes. Check seasoning one more time and adjust with additional salt and ground\
+    \ black pepper if necessary; add parsley. Transfer chicken to serving platter;\
+    \ pour sauce over chicken. Serve immediately.</p>\n"
+  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>3 pounds chicken drumsticks\
+    \ (about 4 legs), carefully trimmed of all fat, cleaned, dried, and thighs and\
+    \ drumsticks separated</li>\n<li>Salt and ground black pepper</li>\n<li>1 bottle\
+    \ red wine (750ML), fruity, smooth, medium-bodied, such as Oregon Pinot Noir,\
+    \ Zinfandel, or a light Rhone valley wine</li>\n<li>2 \xBD cups chicken stock\
+    \ or low-sodium canned chicken broth</li>\n<li>6 ounces bacon (preferably thick-cut),\
+    \ cut crosswise into 1/4-inch pieces</li>\n<li>6 - 7 tablespoons unsalted butter,\
+    \ at room temperature</li>\n<li>1 large carrot, roughly chopped</li>\n<li>1 large\
+    \ onion, roughly chopped</li>\n<li>2 medium shallots, peeled and quartered</li>\n\
+    <li>2 medium cloves garlic, skin on and smashed</li>\n<li>1 teaspoon dried thyme</li>\n\
+    <li>10 parsley stems</li>\n<li>1 bay leaf</li>\n<li>1 \xBD teaspoons tomato paste</li>\n\
+    <li>24 frozen pearl onions (evenly sized), thawed, or fresh pearl onions</li>\n\
+    <li>\xBD pound white mushrooms (small), washed and halved if medium sized, quartered\
+    \ if large</li>\n<li>2 - 3 tablespoons unbleached all-purpose flour</li>\n<li>2\
+    \ tablespoons minced fresh parsley leaves</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/2940_coqauvin-article
 ingredients: "GATHER YOUR INGREDIENTS\n3 pounds chicken drumsticks (about 4 legs),\
   \ carefully trimmed of all fat, cleaned, dried, and thighs and drumsticks separated\n\
@@ -24,6 +139,8 @@ ingredients: "GATHER YOUR INGREDIENTS\n3 pounds chicken drumsticks (about 4 legs
   \ leaves"
 intrash: 0
 name: Coq Au Vin
+notes: null
+nutritional_info: null
 photo: 5280AC77-8795-40C7-A2F3-DD7ACFE3765D-9482-0000064EAE178D23.jpg
 photo_large: null
 photos: []
@@ -37,27 +154,3 @@ total_time: null
 type: null
 uid: 78B55C34-0876-4E1D-81B2-F04FF1D99E99-9482-0000064E9E95FCEA
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>GATHER YOUR INGREDIENTS</li>
-<li>3 pounds chicken drumsticks (about 4 legs), carefully trimmed of all fat, cleaned, dried, and thighs and drumsticks separated</li>
-<li>Salt and ground black pepper</li>
-<li>1 bottle red wine (750ML), fruity, smooth, medium-bodied, such as Oregon Pinot Noir, Zinfandel, or a light Rhone valley wine</li>
-<li>2 ½ cups chicken stock or low-sodium canned chicken broth</li>
-<li>6 ounces bacon (preferably thick-cut), cut crosswise into 1/4-inch pieces</li>
-<li>6 - 7 tablespoons unsalted butter, at room temperature</li>
-<li>1 large carrot, roughly chopped</li>
-<li>1 large onion, roughly chopped</li>
-<li>2 medium shallots, peeled and quartered</li>
-<li>2 medium cloves garlic, skin on and smashed</li>
-<li>1 teaspoon dried thyme</li>
-<li>10 parsley stems</li>
-<li>1 bay leaf</li>
-<li>1 ½ teaspoons tomato paste</li>
-<li>24 frozen pearl onions (evenly sized), thawed, or fresh pearl onions</li>
-<li>½ pound white mushrooms (small), washed and halved if medium sized, quartered if large</li>
-<li>2 - 3 tablespoons unbleached all-purpose flour</li>
-<li>2 tablespoons minced fresh parsley leaves</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

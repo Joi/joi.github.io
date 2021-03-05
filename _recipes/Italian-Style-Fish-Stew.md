@@ -9,6 +9,71 @@ created: '2020-04-11 13:30:28'
 created_ts: 1586611828
 description: ''
 difficulty: ''
+directions: 'Marinate the fish: Cut fish into 2-inch chunks and place in a medium
+  bowl. Season generously with salt and pepper. Add half the chopped thyme, 1 tablespoon
+  olive oil and the lemon slices. Toss to coat and set aside for 30 minutes (or refrigerate
+  for up to 8 hours).
+
+
+  Put 2 tablespoons olive oil in a wide heavy-bottomed pot over medium-high heat.
+  Add onions, season with salt and pepper and cook until softened, stirring, 5 or
+  6 minutes.
+
+
+  Add reserved thyme, minced garlic, saffron, red pepper flakes, fennel seed, bay
+  leaf and tomato paste and cook, stirring, for 2 minutes more. Add wine, tomatoes
+  and stock or water and bring to a simmer. Simmer for 10 minutes. Taste and adjust;
+  the broth should be well seasoned. (This seasoned base may be prepared up to 1 day
+  in advance, if desired.)
+
+
+  Heat oven to 450 degrees. Arrange fish, clams and lemon slices in the bottom of
+  a 9-by-12-inch baking dish or a wide earthenware casserole of similar size. Ladle
+  the broth over everything, cover and bake for 20 minutes, or until clams have opened
+  and fish flakes easily.
+
+
+  Toast the bread and rub each slice with garlic. Sprinkle parsley over the soup.
+  Serve in low soup bowls, giving each guest some fish, clams, broth and garlic toast.'
+html:
+  description: null
+  directions: '<p>Marinate the fish: Cut fish into 2-inch chunks and place in a medium
+    bowl. Season generously with salt and pepper. Add half the chopped thyme, 1 tablespoon
+    olive oil and the lemon slices. Toss to coat and set aside for 30 minutes (or
+    refrigerate for up to 8 hours).</p>
+
+    <p>Put 2 tablespoons olive oil in a wide heavy-bottomed pot over medium-high heat.
+    Add onions, season with salt and pepper and cook until softened, stirring, 5 or
+    6 minutes.</p>
+
+    <p>Add reserved thyme, minced garlic, saffron, red pepper flakes, fennel seed,
+    bay leaf and tomato paste and cook, stirring, for 2 minutes more. Add wine, tomatoes
+    and stock or water and bring to a simmer. Simmer for 10 minutes. Taste and adjust;
+    the broth should be well seasoned. (This seasoned base may be prepared up to 1
+    day in advance, if desired.)</p>
+
+    <p>Heat oven to 450 degrees. Arrange fish, clams and lemon slices in the bottom
+    of a 9-by-12-inch baking dish or a wide earthenware casserole of similar size.
+    Ladle the broth over everything, cover and bake for 20 minutes, or until clams
+    have opened and fish flakes easily.</p>
+
+    <p>Toast the bread and rub each slice with garlic. Sprinkle parsley over the soup.
+    Serve in low soup bowls, giving each guest some fish, clams, broth and garlic
+    toast.</p>
+
+    '
+  ingredients: "<ul>\n<li>2 pounds white-fleshed fish fillets, such as hake, snapper\
+    \ or sea bass, skin removed</li>\n<li>Salt and pepper</li>\n<li>2 teaspoons chopped\
+    \ thyme or marjoram</li>\n<li>Extra-virgin olive oil</li>\n<li>1 small lemon,\
+    \ thinly sliced</li>\n<li>2 cups diced white onion</li>\n<li>4 minced garlic cloves,\
+    \ plus 1 whole garlic clove for rubbing bread</li>\n<li>\xBC teaspoon crushed\
+    \ saffron</li>\n<li>\xBD teaspoon red pepper flakes</li>\n<li>\xBD teaspoon crushed\
+    \ fennel seed</li>\n<li>1 bay leaf</li>\n<li>1 tablespoon tomato paste</li>\n\
+    <li>1 cup dry white wine</li>\n<li>2 cups diced tomatoes, fresh or canned</li>\n\
+    <li>3 cups fish stock, light chicken broth or water</li>\n<li>12 large clams</li>\n\
+    <li>4 thick slices country bread</li>\n<li>\xBC cup chopped parsley</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "2 pounds white-fleshed fish fillets, such as hake, snapper or sea bass,\
   \ skin removed\nSalt and pepper\n2 teaspoons chopped thyme or marjoram\nExtra-virgin\
@@ -20,6 +85,8 @@ ingredients: "2 pounds white-fleshed fish fillets, such as hake, snapper or sea 
   \ slices country bread\n\xBC cup chopped parsley"
 intrash: 0
 name: Italian-Style Fish Stew
+notes: ''
+nutritional_info: ''
 photo: CDC5C12D-2646-4FE9-A531-510E7B5C7BF7-47978-0005C427CC91B7BA.jpg
 photo_large: 2047FA20-5989-41E8-AC84-D1E9791A3630-47978-0005C42391618497.jpg
 photos:
@@ -36,26 +103,3 @@ total_time: ''
 type: null
 uid: 07CCA1F2-E1F3-43E7-9754-D5E1289B797D-53878-00004814D79F4E62
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>2 pounds white-fleshed fish fillets, such as hake, snapper or sea bass, skin removed</li>
-<li>Salt and pepper</li>
-<li>2 teaspoons chopped thyme or marjoram</li>
-<li>Extra-virgin olive oil</li>
-<li>1 small lemon, thinly sliced</li>
-<li>2 cups diced white onion</li>
-<li>4 minced garlic cloves, plus 1 whole garlic clove for rubbing bread</li>
-<li>¼ teaspoon crushed saffron</li>
-<li>½ teaspoon red pepper flakes</li>
-<li>½ teaspoon crushed fennel seed</li>
-<li>1 bay leaf</li>
-<li>1 tablespoon tomato paste</li>
-<li>1 cup dry white wine</li>
-<li>2 cups diced tomatoes, fresh or canned</li>
-<li>3 cups fish stock, light chicken broth or water</li>
-<li>12 large clams</li>
-<li>4 thick slices country bread</li>
-<li>¼ cup chopped parsley</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

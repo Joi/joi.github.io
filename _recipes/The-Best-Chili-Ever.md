@@ -10,6 +10,133 @@ created: '2021-02-14 14:56:21'
 created_ts: 1613314581
 description: null
 difficulty: ''
+directions: "1. Place beans, 6 tablespoons kosher salt (or 3 tablespoons table salt),\
+  \ and water in a large plastic container or bowl. Allow to soak at room temperature\
+  \ at least 8 hours, or overnight. Drain and rinse soaked beans.\n\n2. Add dried\
+  \ chilies to a large heavy-bottomed Dutch oven or stockpot and cook over medium-high\
+  \ heat, stirring frequently, until slightly darkened with an intense, roasted aroma,\
+  \ 2 to 5 minutes. Do not allow to smoke. Remove chilies, place in a small bowl,\
+  \ and set aside. Alternatively, place dried chilies on a microwave-safe plate and\
+  \ microwave on high power in 15-second increments until chilies are pliable and\
+  \ toasted-smelling, about 30 seconds total.\n\n3. Season short ribs on all sides\
+  \ with salt and pepper. Add oil to Dutch oven and heat over high heat until smoking.\
+  \ Add half of short ribs and brown well on all sides (it may be necessary to brown\
+  \ ribs in 3 batches, depending on size of Dutch oven\u2014do not overcrowd pan),\
+  \ 8 to 12 minutes total, reducing heat if fat begins to smoke excessively or meat\
+  \ begins to burn. Transfer to a large rimmed baking sheet or plate. Repeat with\
+  \ remaining short ribs, browning them in the fat remaining in Dutch oven. Once all\
+  \ short ribs are cooked, transfer all rendered fat into a small bowl and reserve\
+  \ separately. Allow short ribs to cool at room temperature.\n\n4. Meanwhile, return\
+  \ Dutch oven to medium-high heat and add 1 cup (240ml) chicken broth, using a flat\
+  \ wooden spoon or stiff spatula to scrape browned bits off of bottom of pan. Reduce\
+  \ heat until chicken broth is at a bare simmer, add toasted chilies to liquid, and\
+  \ cook until chilies have softened and liquid is reduced by half, 5 to 8 minutes.\
+  \ Transfer chilies and liquid to a blender. Add anchovy, Marmite, soy sauce, tomato\
+  \ paste, ground spices, coffee, and chocolate and blend at high speed, scraping\
+  \ down sides as necessary, until a completely smooth pur\xE9e has formed, about\
+  \ 2 minutes. Set chili pur\xE9e aside.\n\n5. Trim meat from short rib bones and\
+  \ hand-chop into rough 1/2-inch to 1/4-inch pieces (finer or larger, as you prefer),\
+  \ reserving bones separately. Add any accumulated meat juices to chili pur\xE9e.\n\
+  \n6. Heat 4 tablespoons (60ml) rendered beef fat (if necessary, add vegetable oil\
+  \ to reach 4 tablespoons) in a large Dutch oven or heavy-bottomed stockpot over\
+  \ medium heat until shimmering. Add onions and cook, stirring frequently, until\
+  \ softened but not browned, 6 to 8 minutes. Add fresh chilies, garlic, and oregano\
+  \ and cook, stirring frequently, until fragrant, about 1 minute. Add chili pur\xE9\
+  e and cook, stirring frequently and scraping bottom of pot, until chili mixture\
+  \ begins to fry and leaves a coating on bottom of pan, 2 to 4 minutes. Add chicken\
+  \ stock, chopped beef, beef bones, and bay leaves. Bring to a simmer, scraping bottom\
+  \ of pan to loosen browned bits. Reduce heat to lowest possible setting, add beans,\
+  \ and cook, with cover slightly ajar, until beans are almost tender, about 1 hour.\
+  \ Add crushed tomatoes and cider vinegar and cook, with cover slightly ajar, until\
+  \ beans and beef are fully tender and broth is rich and lightly thickened, 2 to\
+  \ 3 1/2 hours longer, adding water if necessary to keep beans and meat mostly submerged\
+  \ (a little protrusion is okay).\n\n7. Using tongs, remove and discard bay leaves\
+  \ and bones. (At this point, any excess meat still attached to the bones can be\
+  \ removed, chopped, and added back to the chili, if desired.) Add vodka (or bourbon),\
+  \ hot sauce, and brown sugar and stir to combine. Season to taste with kosher salt,\
+  \ ground black pepper, and additional vinegar.\n\n8. Serve immediately, or, for\
+  \ best flavor, allow to cool and refrigerate overnight, or up to 1 week in a sealed\
+  \ container. Reheat and serve with desired garnishes."
+html:
+  description: null
+  directions: "<ol>\n<li>\n<p>Place beans, 6 tablespoons kosher salt (or 3 tablespoons\
+    \ table salt), and water in a large plastic container or bowl. Allow to soak at\
+    \ room temperature at least 8 hours, or overnight. Drain and rinse soaked beans.</p>\n\
+    </li>\n<li>\n<p>Add dried chilies to a large heavy-bottomed Dutch oven or stockpot\
+    \ and cook over medium-high heat, stirring frequently, until slightly darkened\
+    \ with an intense, roasted aroma, 2 to 5 minutes. Do not allow to smoke. Remove\
+    \ chilies, place in a small bowl, and set aside. Alternatively, place dried chilies\
+    \ on a microwave-safe plate and microwave on high power in 15-second increments\
+    \ until chilies are pliable and toasted-smelling, about 30 seconds total.</p>\n\
+    </li>\n<li>\n<p>Season short ribs on all sides with salt and pepper. Add oil to\
+    \ Dutch oven and heat over high heat until smoking. Add half of short ribs and\
+    \ brown well on all sides (it may be necessary to brown ribs in 3 batches, depending\
+    \ on size of Dutch oven\u2014do not overcrowd pan), 8 to 12 minutes total, reducing\
+    \ heat if fat begins to smoke excessively or meat begins to burn. Transfer to\
+    \ a large rimmed baking sheet or plate. Repeat with remaining short ribs, browning\
+    \ them in the fat remaining in Dutch oven. Once all short ribs are cooked, transfer\
+    \ all rendered fat into a small bowl and reserve separately. Allow short ribs\
+    \ to cool at room temperature.</p>\n</li>\n<li>\n<p>Meanwhile, return Dutch oven\
+    \ to medium-high heat and add 1 cup (240ml) chicken broth, using a flat wooden\
+    \ spoon or stiff spatula to scrape browned bits off of bottom of pan. Reduce heat\
+    \ until chicken broth is at a bare simmer, add toasted chilies to liquid, and\
+    \ cook until chilies have softened and liquid is reduced by half, 5 to 8 minutes.\
+    \ Transfer chilies and liquid to a blender. Add anchovy, Marmite, soy sauce, tomato\
+    \ paste, ground spices, coffee, and chocolate and blend at high speed, scraping\
+    \ down sides as necessary, until a completely smooth pur\xE9e has formed, about\
+    \ 2 minutes. Set chili pur\xE9e aside.</p>\n</li>\n<li>\n<p>Trim meat from short\
+    \ rib bones and hand-chop into rough 1/2-inch to 1/4-inch pieces (finer or larger,\
+    \ as you prefer), reserving bones separately. Add any accumulated meat juices\
+    \ to chili pur\xE9e.</p>\n</li>\n<li>\n<p>Heat 4 tablespoons (60ml) rendered beef\
+    \ fat (if necessary, add vegetable oil to reach 4 tablespoons) in a large Dutch\
+    \ oven or heavy-bottomed stockpot over medium heat until shimmering. Add onions\
+    \ and cook, stirring frequently, until softened but not browned, 6 to 8 minutes.\
+    \ Add fresh chilies, garlic, and oregano and cook, stirring frequently, until\
+    \ fragrant, about 1 minute. Add chili pur\xE9e and cook, stirring frequently and\
+    \ scraping bottom of pot, until chili mixture begins to fry and leaves a coating\
+    \ on bottom of pan, 2 to 4 minutes. Add chicken stock, chopped beef, beef bones,\
+    \ and bay leaves. Bring to a simmer, scraping bottom of pan to loosen browned\
+    \ bits. Reduce heat to lowest possible setting, add beans, and cook, with cover\
+    \ slightly ajar, until beans are almost tender, about 1 hour. Add crushed tomatoes\
+    \ and cider vinegar and cook, with cover slightly ajar, until beans and beef are\
+    \ fully tender and broth is rich and lightly thickened, 2 to 3 1/2 hours longer,\
+    \ adding water if necessary to keep beans and meat mostly submerged (a little\
+    \ protrusion is okay).</p>\n</li>\n<li>\n<p>Using tongs, remove and discard bay\
+    \ leaves and bones. (At this point, any excess meat still attached to the bones\
+    \ can be removed, chopped, and added back to the chili, if desired.) Add vodka\
+    \ (or bourbon), hot sauce, and brown sugar and stir to combine. Season to taste\
+    \ with kosher salt, ground black pepper, and additional vinegar.</p>\n</li>\n\
+    <li>\n<p>Serve immediately, or, for best flavor, allow to cool and refrigerate\
+    \ overnight, or up to 1 week in a sealed container. Reheat and serve with desired\
+    \ garnishes.</p>\n</li>\n</ol>\n"
+  ingredients: "<ul>\n<li>1 pound (450g) dried dark red kidney beans</li>\n<li>Kosher\
+    \ salt</li>\n<li>4 quarts (3.8L) water</li>\n<li>3 whole ancho, pasilla, or mulato\
+    \ chilies, seeded and torn into rough 1-inch pieces (about 1/2 ounce)</li>\n<li>2\
+    \ whole New Mexico red, California, coste\xF1o, or choricero chilies, seeded and\
+    \ torn into rough 1-inch pieces (about 1/8 ounce)</li>\n<li>1 whole cascabel,\
+    \ \xE1rbol, or pequin chili, seeded and torn in half</li>\n<li>5 pounds (2.3kg)\
+    \ bone-in beef short ribs, trimmed of silver skin and excess fat</li>\n<li>Freshly\
+    \ ground black pepper</li>\n<li>2 tablespoons (30ml) vegetable oil</li>\n<li>1\
+    \ quart (900ml) low-sodium chicken broth (preferably homemade), divided</li>\n\
+    <li>2 whole anchovy fillets</li>\n<li>1 teaspoon (5ml) Marmite</li>\n<li>2 teaspoons\
+    \ (10ml) soy sauce</li>\n<li>2 tablespoons (30ml) tomato paste</li>\n<li>1 1/2\
+    \ tablespoons whole cumin seeds, toasted, then ground</li>\n<li>1 1/2 teaspoons\
+    \ whole coriander seeds, toasted, then ground</li>\n<li>2 whole cloves, toasted\
+    \ and ground</li>\n<li>1 star anise, toasted and ground</li>\n<li>1 tablespoon\
+    \ extra-finely ground coffee beans</li>\n<li>1 ounce chopped unsweetened chocolate</li>\n\
+    <li>1 large yellow onion, diced fine (about 1 1/2 cups)</li>\n<li>3 fresh Thai\
+    \ bird chilies or 1 jalape\xF1o, finely chopped</li>\n<li>4 cloves garlic, minced\
+    \ (about 1 tablespoon)</li>\n<li>1 tablespoon dried oregano leaves</li>\n<li>2\
+    \ bay leaves</li>\n<li>1 (28-ounce; 794g) can crushed tomatoes</li>\n<li>1/4 cup\
+    \ (60ml) cider vinegar, plus more to taste</li>\n<li>1/4 cup (60ml) vodka or bourbon</li>\n\
+    <li>1 tablespoon (15ml) Buffalo-style hot sauce, such as Frank's RedHot (or more\
+    \ to taste)</li>\n<li>2 tablespoons dark brown sugar</li>\n<li>For the Garnish\
+    \ (all suggestions optional):</li>\n<li>Scallions, sliced finely</li>\n<li>Cheddar,\
+    \ Jack, or Colby cheese, grated</li>\n<li>Sour cream</li>\n<li>Jalape\xF1o or\
+    \ Poblano peppers, diced and seeded</li>\n<li>Onion, diced</li>\n<li>Avocado,\
+    \ diced</li>\n<li>Saltines</li>\n<li>Fritos</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "1 pound (450g) dried dark red kidney beans\nKosher salt\n4 quarts (3.8L)\
   \ water\n3 whole ancho, pasilla, or mulato chilies, seeded and torn into rough 1-inch\
@@ -34,6 +161,8 @@ ingredients: "1 pound (450g) dried dark red kidney beans\nKosher salt\n4 quarts 
   \ diced\nSaltines\nFritos"
 intrash: 0
 name: The Best Chili Ever
+notes: null
+nutritional_info: null
 photo: F3FFC445-785C-42AE-8C25-CC3281BA0FA4-26383-000125F0800740CD.jpg
 photo_large: 0B198794-BA45-4B63-800A-D9BF4335BFDC-26383-000125E5F69A9A49.jpg
 photos:
@@ -71,47 +200,3 @@ total_time: ''
 type: null
 uid: 10BBAF95-58C8-433E-B2F4-1BA5DB1741F3-23012-0000124E0AE6CF20
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 pound (450g) dried dark red kidney beans</li>
-<li>Kosher salt</li>
-<li>4 quarts (3.8L) water</li>
-<li>3 whole ancho, pasilla, or mulato chilies, seeded and torn into rough 1-inch pieces (about 1/2 ounce)</li>
-<li>2 whole New Mexico red, California, costeño, or choricero chilies, seeded and torn into rough 1-inch pieces (about 1/8 ounce)</li>
-<li>1 whole cascabel, árbol, or pequin chili, seeded and torn in half</li>
-<li>5 pounds (2.3kg) bone-in beef short ribs, trimmed of silver skin and excess fat</li>
-<li>Freshly ground black pepper</li>
-<li>2 tablespoons (30ml) vegetable oil</li>
-<li>1 quart (900ml) low-sodium chicken broth (preferably homemade), divided</li>
-<li>2 whole anchovy fillets</li>
-<li>1 teaspoon (5ml) Marmite</li>
-<li>2 teaspoons (10ml) soy sauce</li>
-<li>2 tablespoons (30ml) tomato paste</li>
-<li>1 1/2 tablespoons whole cumin seeds, toasted, then ground</li>
-<li>1 1/2 teaspoons whole coriander seeds, toasted, then ground</li>
-<li>2 whole cloves, toasted and ground</li>
-<li>1 star anise, toasted and ground</li>
-<li>1 tablespoon extra-finely ground coffee beans</li>
-<li>1 ounce chopped unsweetened chocolate</li>
-<li>1 large yellow onion, diced fine (about 1 1/2 cups)</li>
-<li>3 fresh Thai bird chilies or 1 jalapeño, finely chopped</li>
-<li>4 cloves garlic, minced (about 1 tablespoon)</li>
-<li>1 tablespoon dried oregano leaves</li>
-<li>2 bay leaves</li>
-<li>1 (28-ounce; 794g) can crushed tomatoes</li>
-<li>1/4 cup (60ml) cider vinegar, plus more to taste</li>
-<li>1/4 cup (60ml) vodka or bourbon</li>
-<li>1 tablespoon (15ml) Buffalo-style hot sauce, such as Frank's RedHot (or more to taste)</li>
-<li>2 tablespoons dark brown sugar</li>
-<li>For the Garnish (all suggestions optional):</li>
-<li>Scallions, sliced finely</li>
-<li>Cheddar, Jack, or Colby cheese, grated</li>
-<li>Sour cream</li>
-<li>Jalapeño or Poblano peppers, diced and seeded</li>
-<li>Onion, diced</li>
-<li>Avocado, diced</li>
-<li>Saltines</li>
-<li>Fritos</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

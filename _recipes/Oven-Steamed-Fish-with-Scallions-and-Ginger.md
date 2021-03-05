@@ -9,6 +9,72 @@ created: '2020-02-03 15:25:45'
 created_ts: 1580743545
 description: null
 difficulty: ''
+directions: 'Adjust oven rack to middle position and heat oven to 450 degrees. Chop
+  6 scallions coarse and spread evenly in 13 by 9-inch baking pan. Slice remaining
+  2 scallions thin on bias and set aside. Chop 2 inches ginger coarse and spread in
+  pan with chopped scallions. Slice remaining 1 inch ginger into matchsticks and set
+  aside. Sprinkle garlic over scallions and ginger in pan.
+
+
+  Fold 18 by 12-inch piece of aluminum foil lengthwise to create 18 by 6-inch sling
+  and spray lightly with vegetable oil spray. Place sling in pan lengthwise, with
+  extra foil hanging over ends of pan. Arrange cod on sling. If fillets vary in thickness,
+  place thinner fillets in middle and thicker fillets at ends.
+
+
+  Whisk soy sauce, rice wine, sesame oil, sugar, salt, and white pepper in small bowl
+  until combined. Pour around cod. Cover pan tightly with foil and bake until fish
+  registers 125 to 130 degrees, 12 to 14 minutes.
+
+
+  Grasping sling at both ends, carefully transfer sling and cod to deep platter. Place
+  spatula at 1 end of fillets to hold in place and carefully slide out sling from
+  under cod. Strain cooking liquid through fine-mesh strainer set over bowl, pressing
+  on solids to extract liquid; discard solids. Pour strained liquid over cod. Sprinkle
+  reserved scallions over cod. Heat vegetable oil in small skillet over high heat
+  until shimmering. Reduce heat to low, add reserved ginger, and cook, stirring, until
+  ginger begins to brown and crisp, 20 to 30 seconds. Drizzle oil and ginger over
+  cod (oil will crackle). Top with cilantro and serve.'
+html:
+  description: null
+  directions: '<p>Adjust oven rack to middle position and heat oven to 450 degrees.
+    Chop 6 scallions coarse and spread evenly in 13 by 9-inch baking pan. Slice remaining
+    2 scallions thin on bias and set aside. Chop 2 inches ginger coarse and spread
+    in pan with chopped scallions. Slice remaining 1 inch ginger into matchsticks
+    and set aside. Sprinkle garlic over scallions and ginger in pan.</p>
+
+    <p>Fold 18 by 12-inch piece of aluminum foil lengthwise to create 18 by 6-inch
+    sling and spray lightly with vegetable oil spray. Place sling in pan lengthwise,
+    with extra foil hanging over ends of pan. Arrange cod on sling. If fillets vary
+    in thickness, place thinner fillets in middle and thicker fillets at ends.</p>
+
+    <p>Whisk soy sauce, rice wine, sesame oil, sugar, salt, and white pepper in small
+    bowl until combined. Pour around cod. Cover pan tightly with foil and bake until
+    fish registers 125 to 130 degrees, 12 to 14 minutes.</p>
+
+    <p>Grasping sling at both ends, carefully transfer sling and cod to deep platter.
+    Place spatula at 1 end of fillets to hold in place and carefully slide out sling
+    from under cod. Strain cooking liquid through fine-mesh strainer set over bowl,
+    pressing on solids to extract liquid; discard solids. Pour strained liquid over
+    cod. Sprinkle reserved scallions over cod. Heat vegetable oil in small skillet
+    over high heat until shimmering. Reduce heat to low, add reserved ginger, and
+    cook, stirring, until ginger begins to brown and crisp, 20 to 30 seconds. Drizzle
+    oil and ginger over cod (oil will crackle). Top with cilantro and serve.</p>
+
+    '
+  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>8 scallions, trimmed,\
+    \ divided</li>\n<li>1 (3-inch) piece ginger, peeled, divided</li>\n<li>3 garlic\
+    \ cloves, sliced thin</li>\n<li>4 (6-ounce) skinless cod fillets, about 1 inch\
+    \ thick</li>\n<li>3 tablespoons soy sauce</li>\n<li>2 tablespoons Chinese rice\
+    \ wine or dry sherry</li>\n<li>1 \xBD teaspoons toasted sesame oil</li>\n<li>1\
+    \ \xBD teaspoons sugar</li>\n<li>\xBC teaspoon table salt</li>\n<li>\xBC teaspoon\
+    \ white pepper</li>\n<li>2 tablespoons vegetable oil</li>\n<li>\u2153 cup fresh\
+    \ cilantro leaves and thin stems</li>\n</ul>\n"
+  notes: '<p>Used Dutch oven instead of baking pan. Also used a remote thermometer.
+    Worked well.</p>
+
+    '
+  nutrition: null
 image_url: null
 ingredients: "GATHER YOUR INGREDIENTS\n8 scallions, trimmed, divided\n1 (3-inch) piece\
   \ ginger, peeled, divided\n3 garlic cloves, sliced thin\n4 (6-ounce) skinless cod\
@@ -18,6 +84,9 @@ ingredients: "GATHER YOUR INGREDIENTS\n8 scallions, trimmed, divided\n1 (3-inch)
   \u2153 cup fresh cilantro leaves and thin stems"
 intrash: 0
 name: Oven-Steamed Fish with Scallions and Ginger
+notes: Used Dutch oven instead of baking pan. Also used a remote thermometer. Worked
+  well.
+nutritional_info: null
 photo: 271546C3-86D7-442B-90DF-5EFCF8FD5E94-11906-00000E2238349B30.jpg
 photo_large: CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg
 photos:
@@ -40,21 +109,4 @@ total_time: ''
 type: null
 uid: 77B98054-DBCB-470E-83E9-62B8E4A68906-408-00004DC1BC68E0B3
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>GATHER YOUR INGREDIENTS</li>
-<li>8 scallions, trimmed, divided</li>
-<li>1 (3-inch) piece ginger, peeled, divided</li>
-<li>3 garlic cloves, sliced thin</li>
-<li>4 (6-ounce) skinless cod fillets, about 1 inch thick</li>
-<li>3 tablespoons soy sauce</li>
-<li>2 tablespoons Chinese rice wine or dry sherry</li>
-<li>1 ½ teaspoons toasted sesame oil</li>
-<li>1 ½ teaspoons sugar</li>
-<li>¼ teaspoon table salt</li>
-<li>¼ teaspoon white pepper</li>
-<li>2 tablespoons vegetable oil</li>
-<li>⅓ cup fresh cilantro leaves and thin stems</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+Used Dutch oven instead of baking pan. Also used a remote thermometer. Worked well.

@@ -8,6 +8,93 @@ created: '2020-03-21 20:37:24'
 created_ts: 1584823044
 description: ''
 difficulty: ''
+directions: "Pick up some bison sirloin steaks. Bison can be found more readily these\
+  \ days with the rise in popularity of bison farming. Check with farmers\u2019 markets,\
+  \ co-ops, and high-end grocery stores. Or go online and see if you can find a bison\
+  \ ranch near you, or one that ships.\n\nSeason the bison sirloin steaks. With a\
+  \ good cut of meat like this, I recommend seasoning it simply with sea salt and\
+  \ black pepper. If you really wanted to, you could hit it with a little fresh garlic\
+  \ or lemon juice, but it really doesn\u2019t need it\n\nGrill the bison sirloins\
+  \ over high heat. Heat up the grill to high for a few minutes beforehand, and clean\
+  \ the grates really well. Then wipe them with a little vegetable oil just before\
+  \ you grill the steaks. Grill them for a couple minutes, then rotate them 45 degrees\
+  \ to make the diamond grill marks.\n\nGrill the other side and let them rest. Flip\
+  \ the steaks over after five minutes on the first side. Let them grill for a couple\
+  \ more minutes, and then check the internal temperature with a digital thermometer.\
+  \ Rare 120\u2012125 degrees F, medium rare 130\u2012140, medium 140\u2012150, medium\
+  \ well 150\u2012160. Once done, let them rest uncovered for ten minutes. Serve with\
+  \ a little butter if you think you can handle it.\n\nTips & Tricks\n\nBison sirloins,\
+  \ like beef sirloins, are a good quality and flavorful cut of meat. Don\u2019t cover\
+  \ up that flavor with marinades and excessive seasoning.\n\nGrill the steaks over\
+  \ high heat to get the outside nice and crispy before the inside gets overcooked.\
+  \ That contrast of crispy and tender is highly prized in a steak.\n\nMake sure you\
+  \ let the steaks rest for ten minutes before you eat them.\n\nThe little knob of\
+  \ butter on top is there to make the steak sauce. When it melts and mixes with the\
+  \ meat juices, it makes a great sauce for dredging your bits of steak in."
+html:
+  description: null
+  directions: "<p>Pick up some bison sirloin steaks. Bison can be found more readily\
+    \ these days with the rise in popularity of bison farming. Check with farmers\u2019\
+    \ markets, co-ops, and high-end grocery stores. Or go online and see if you can\
+    \ find a bison ranch near you, or one that ships.</p>\n<p>Season the bison sirloin\
+    \ steaks. With a good cut of meat like this, I recommend seasoning it simply with\
+    \ sea salt and black pepper. If you really wanted to, you could hit it with a\
+    \ little fresh garlic or lemon juice, but it really doesn\u2019t need it</p>\n\
+    <p>Grill the bison sirloins over high heat. Heat up the grill to high for a few\
+    \ minutes beforehand, and clean the grates really well. Then wipe them with a\
+    \ little vegetable oil just before you grill the steaks. Grill them for a couple\
+    \ minutes, then rotate them 45 degrees to make the diamond grill marks.</p>\n\
+    <p>Grill the other side and let them rest. Flip the steaks over after five minutes\
+    \ on the first side. Let them grill for a couple more minutes, and then check\
+    \ the internal temperature with a digital thermometer. Rare 120\u2012125 degrees\
+    \ F, medium rare 130\u2012140, medium 140\u2012150, medium well 150\u2012160.\
+    \ Once done, let them rest uncovered for ten minutes. Serve with a little butter\
+    \ if you think you can handle it.</p>\n<p>Tips &amp; Tricks</p>\n<p>Bison sirloins,\
+    \ like beef sirloins, are a good quality and flavorful cut of meat. Don\u2019\
+    t cover up that flavor with marinades and excessive seasoning.</p>\n<p>Grill the\
+    \ steaks over high heat to get the outside nice and crispy before the inside gets\
+    \ overcooked. That contrast of crispy and tender is highly prized in a steak.</p>\n\
+    <p>Make sure you let the steaks rest for ten minutes before you eat them.</p>\n\
+    <p>The little knob of butter on top is there to make the steak sauce. When it\
+    \ melts and mixes with the meat juices, it makes a great sauce for dredging your\
+    \ bits of steak in.</p>\n"
+  ingredients: '<ul>
+
+    <li>2 bison sirloin steaks</li>
+
+    <li>Sea salt</li>
+
+    <li>Black pepper</li>
+
+    <li>Butter</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: '<p>Bison Sirloin
+
+    Servings: 4 oz
+
+    Calories: 131
+
+    Fat: 3 g
+
+    Saturated Fat: 1 g
+
+    Cholesterol: 70 mg
+
+    Sodium: 54 mg
+
+    Carbohydrates: 0.0 g
+
+    Fiber: 0.0 g
+
+    Sugar: 0.0 g
+
+    Protein: 25 g</p>
+
+    '
 image_url: https://howtocookmeat.com/wp-content/uploads/2018/05/grilledbisonsirloin.jpg
 ingredients: '2 bison sirloin steaks
 
@@ -18,6 +105,28 @@ ingredients: '2 bison sirloin steaks
   Butter'
 intrash: 0
 name: Grilled Bison Sirloin Steak
+notes: ''
+nutritional_info: 'Bison Sirloin
+
+  Servings: 4 oz
+
+  Calories: 131
+
+  Fat: 3 g
+
+  Saturated Fat: 1 g
+
+  Cholesterol: 70 mg
+
+  Sodium: 54 mg
+
+  Carbohydrates: 0.0 g
+
+  Fiber: 0.0 g
+
+  Sugar: 0.0 g
+
+  Protein: 25 g'
 photo: BF0BCBD1-314A-4991-B22F-AE719189124F-9067-0001DBCB3F34F0F7.jpg
 photo_large: null
 photos: []
@@ -31,12 +140,3 @@ total_time: ''
 type: null
 uid: D8148370-5CE9-402D-AE3E-48A3EC6EF6FD-9067-0001DBBAF05A061C
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>2 bison sirloin steaks</li>
-<li>Sea salt</li>
-<li>Black pepper</li>
-<li>Butter</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

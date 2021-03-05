@@ -8,12 +8,28 @@ created: '2020-07-30 18:04:11'
 created_ts: 1596132251
 description: ''
 difficulty: ''
+directions: "Saut\xE9 the carrot in oil for 2 to 3 minutes, until almost tender. Add\
+  \ the zucchini and scallion and saut\xE9 for 2 to 4 minutes. Add black pepper to\
+  \ taste and turn off heat. Add the lemon juice, mint, and salt to taste."
+html:
+  description: null
+  directions: "<p>Saut\xE9 the carrot in oil for 2 to 3 minutes, until almost tender.\
+    \ Add the zucchini and scallion and saut\xE9 for 2 to 4 minutes. Add black pepper\
+    \ to taste and turn off heat. Add the lemon juice, mint, and salt to taste.</p>\n"
+  ingredients: "<ul>\n<li>1 Tbs. olive oil</li>\n<li>2 cups julienned carrot</li>\n\
+    <li>4 cups julienned green zucchini</li>\n<li>4 scallions, thinly sliced on the\
+    \ diagonal</li>\n<li>Freshly ground black pepper</li>\n<li>2 Tbs. fresh lemon\
+    \ juice</li>\n<li>\xBD cup minced fresh mint</li>\n<li>Salt</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "1 Tbs. olive oil\n2 cups julienned carrot\n4 cups julienned green zucchini\n\
   4 scallions, thinly sliced on the diagonal\nFreshly ground black pepper\n2 Tbs.\
   \ fresh lemon juice\n\xBD cup minced fresh mint\nSalt"
 intrash: 0
 name: Julienned Zucchini and Carrots with Lemon and Mint
+notes: null
+nutritional_info: ''
 photo: null
 photo_large: null
 photos: []
@@ -27,16 +43,3 @@ total_time: ''
 type: null
 uid: 2229D91F-FC66-45AF-84D8-86ADE6A476D6-96025-0002CD60F9153D5F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 Tbs. olive oil</li>
-<li>2 cups julienned carrot</li>
-<li>4 cups julienned green zucchini</li>
-<li>4 scallions, thinly sliced on the diagonal</li>
-<li>Freshly ground black pepper</li>
-<li>2 Tbs. fresh lemon juice</li>
-<li>½ cup minced fresh mint</li>
-<li>Salt</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

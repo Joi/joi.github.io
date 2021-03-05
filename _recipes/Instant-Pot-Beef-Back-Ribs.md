@@ -8,6 +8,62 @@ created: '2020-09-02 02:55:00'
 created_ts: 1599015300
 description: ''
 difficulty: ''
+directions: "Remove membrane from the beef back ribs.\n\nIn a small bowl, combine\
+  \ all the dry ingredients and blend well.\n\nRub the dry ingredients evenly to coat\
+  \ the ribs.\n\nCover and refrigerate for at least an hour - even longer for more\
+  \ flavor.\n\nPreheat oven to 450\xB0\n\nPlace trivet inside the inner liner of the\
+  \ Instant Pot.\n\nPlace the rib rack inside the pot, curving the ribs to make them\
+  \ fit.\n\nPour the apple cider vinegar into the middle of the pot.\n\nClose the\
+  \ lid and the vent, cook on MANUAL for 25 minutes.\n\nAllow pot to perform a NATURAL\
+  \ RELEASE for 15 minutes.\n\nLine a baking sheet with aluminum foil and lay the\
+  \ ribs onto the foil.\n\nBaste with the desired amount of BBQ sauce and bake in\
+  \ the oven for 10-15 minutes (depending on the desired amount of crispiness)."
+html:
+  description: null
+  directions: "<p>Remove membrane from the beef back ribs.</p>\n<p>In a small bowl,\
+    \ combine all the dry ingredients and blend well.</p>\n<p>Rub the dry ingredients\
+    \ evenly to coat the ribs.</p>\n<p>Cover and refrigerate for at least an hour\
+    \ - even longer for more flavor.</p>\n<p>Preheat oven to 450\xB0</p>\n<p>Place\
+    \ trivet inside the inner liner of the Instant Pot.</p>\n<p>Place the rib rack\
+    \ inside the pot, curving the ribs to make them fit.</p>\n<p>Pour the apple cider\
+    \ vinegar into the middle of the pot.</p>\n<p>Close the lid and the vent, cook\
+    \ on MANUAL for 25 minutes.</p>\n<p>Allow pot to perform a NATURAL RELEASE for\
+    \ 15 minutes.</p>\n<p>Line a baking sheet with aluminum foil and lay the ribs\
+    \ onto the foil.</p>\n<p>Baste with the desired amount of BBQ sauce and bake in\
+    \ the oven for 10-15 minutes (depending on the desired amount of crispiness).</p>\n"
+  ingredients: '<ul>
+
+    <li>1 beef rib rack, membrane removed</li>
+
+    <li>2 tsp salt</li>
+
+    <li>1/4 tsp pepper</li>
+
+    <li>2 tsp paprika</li>
+
+    <li>1 tsp onion powder</li>
+
+    <li>1 tsp garlic powder</li>
+
+    <li>1/4 cup sugar</li>
+
+    <li>1 tsp dry mustard</li>
+
+    <li>1/2 tsp cayenne</li>
+
+    <li>1 cup apple cider vinegar</li>
+
+    <li>BBQ Sauce, of choice</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: '<p>Serving Size: 1 grams
+
+    Unsaturated Fat: 0 grams unsaturated fat</p>
+
+    '
 image_url: https://mamaneedscake.com/wp-content/uploads/2019/03/DSC09257-480x708.jpg
 ingredients: '1 beef rib rack, membrane removed
 
@@ -32,6 +88,10 @@ ingredients: '1 beef rib rack, membrane removed
   BBQ Sauce, of choice'
 intrash: 0
 name: Instant Pot Beef Back Ribs
+notes: ''
+nutritional_info: 'Serving Size: 1 grams
+
+  Unsaturated Fat: 0 grams unsaturated fat'
 photo: 7DA85977-B721-4875-BB52-11DEFB7ED584-13002-0005AFC931D9D76D.jpg
 photo_large: null
 photos:
@@ -57,19 +117,3 @@ total_time: ''
 type: null
 uid: 1A74E878-5E32-4516-990D-B8BCF4897175-13002-0005AFC76486770F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 beef rib rack, membrane removed</li>
-<li>2 tsp salt</li>
-<li>1/4 tsp pepper</li>
-<li>2 tsp paprika</li>
-<li>1 tsp onion powder</li>
-<li>1 tsp garlic powder</li>
-<li>1/4 cup sugar</li>
-<li>1 tsp dry mustard</li>
-<li>1/2 tsp cayenne</li>
-<li>1 cup apple cider vinegar</li>
-<li>BBQ Sauce, of choice</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

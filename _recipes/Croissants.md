@@ -8,6 +8,136 @@ created: '2020-02-03 14:59:35'
 created_ts: 1580741975
 description: null
 difficulty: ''
+directions: "Melt 3 tablespoons butter in medium saucepan over low heat. Remove from\
+  \ heat and immediately stir in milk (temperature should be lower than 90 degrees).\
+  \ Whisk in yeast; transfer milk mixture to bowl of stand mixer. Add flour, sugar,\
+  \ and 2 teaspoons salt. Using dough hook, knead on low speed until cohesive dough\
+  \ forms, 2 to 3 minutes. Increase speed to medium-low and knead for 1 minute. Remove\
+  \ bowl from mixer and cover with plastic wrap. Let dough rest at room temperature\
+  \ 30 minutes.\n\nTransfer dough to parchment paper\u2013lined rimmed baking sheet\
+  \ and shape into 10 by 7-inch rectangle about 1 inch thick. Wrap tightly with plastic\
+  \ and refrigerate for 2 hours.\n\nBUTTER BLOCK: While dough chills, fold 24-inch\
+  \ length of parchment in half to create 12-inch rectangle. Fold over 3 open sides\
+  \ of rectangle to form 8-inch square with enclosed sides. Crease folds firmly. Place\
+  \ 24 tablespoons cold butter directly on counter and beat with rolling pin for about\
+  \ 60 seconds until butter is just pliable but not warm, then fold butter in on itself\
+  \ using bench scraper. Beat into rough 6-inch square. Unfold parchment envelope.\
+  \ Using bench scraper, transfer butter to center of parchment, refolding at creases\
+  \ to enclose. Turn packet over so that flaps are underneath and gently roll until\
+  \ butter fills parchment square, taking care to achieve even thickness. Refrigerate\
+  \ at least 45 minutes.\n\nLAMINATE: Transfer dough to freezer. After 30 minutes,\
+  \ transfer to lightly floured counter and roll into 17 by 8-inch rectangle with\
+  \ long side parallel to edge of counter. Unwrap butter and place in center of dough.\
+  \ Fold sides of dough over butter so they meet in center. Press seam together with\
+  \ fingertips. With rolling pin, press firmly on each open end of packet. Roll out\
+  \ lengthwise into 24 by 8-inch rectangle. Starting at bottom of dough, fold into\
+  \ thirds like business letter into 8-inch square. Turn dough 90 degrees counterclockwise.\
+  \ Roll out lengthwise again into 24 by 8-inch rectangle and fold into thirds. Place\
+  \ dough on sheet, wrap tightly with plastic, and return to freezer for 30 minutes.\n\
+  \nTransfer dough to lightly floured counter so that top flap opens on right. Roll\
+  \ out dough lengthwise into 24 by 8-inch rectangle and fold into thirds. Place dough\
+  \ on sheet, wrap tightly with plastic, and refrigerate for 2 hours or up to 24 hours.\n\
+  \nSHAPE: Transfer dough to freezer. After 30 minutes, transfer to lightly floured\
+  \ counter and roll into 18 by 16-inch rectangle with long side of rectangle parallel\
+  \ to edge of counter. Fold upper half of dough over lower half. Using ruler, mark\
+  \ dough at 3-inch intervals along bottom edge with bench scraper (you should have\
+  \ 5 marks). Move ruler to top edge of dough, measure in 1\xBD inches from left,\
+  \ then use this mark to measure out 3-inch intervals (you should have 6 marks).\
+  \ Starting at lower left corner, use sharp pizza wheel or knife to cut dough from\
+  \ mark to mark. You will have 12 triangles and 5 diamonds; discard scraps. Unfold\
+  \ diamonds and cut into 10 triangles (making 22 equal-size triangles in total).\n\
+  \nPosition 1 triangle on counter. (Keep remaining triangles covered with plastic.)\
+  \ Cut 1/2-inch slit in center of short side of triangle. Grasp triangle by 2 corners\
+  \ on either side of slit and stretch gently, then stretch bottom point. Place triangle\
+  \ on counter so point is facing you. Fold down both sides of slit. Roll top of triangle\
+  \ partway toward point. Gently grasp point with 1 hand and stretch again. Resume\
+  \ rolling, tucking point underneath. Curve ends gently toward each other to create\
+  \ crescent. Repeat with remaining triangles.\n\nPlace 12 croissants on 2 parchment-lined\
+  \ rimmed baking sheets at least 21/2 inches apart. Lightly wrap with plastic. Let\
+  \ stand at room temperature until nearly doubled in size, 21/2 to 3 hours. (Shaped\
+  \ croissants can be refrigerated for up to 18 hours. Remove from refrigerator to\
+  \ rise and add at least 30 minutes to rising time.)\n\nAfter croissants have been\
+  \ rising for 2 hours, adjust oven racks to upper-middle and lower-middle positions\
+  \ and heat oven to 425 degrees. In small bowl, whisk together egg, water, and pinch\
+  \ salt. Brush croissants with egg wash. Place croissants in oven and reduce temperature\
+  \ to 400 degrees. Bake for 12 minutes, then switch and rotate baking sheets. Continue\
+  \ to bake until deep golden brown, 8 to 12 minutes longer. Transfer to wire rack\
+  \ and cool about 15 minutes. Serve warm or at room temperature.\n\nTO MAKE AHEAD:\
+  \ After shaping, place 10 croissants 1 inch apart on parchment-lined sheet. Wrap\
+  \ with plastic and freeze until solid, about 2 hours. Transfer to zipper-lock bag\
+  \ and freeze for up to 2 months. Bake frozen croissants as directed from step 8,\
+  \ increasing rising time by 1 to 2 hours."
+html:
+  description: null
+  directions: "<p>Melt 3 tablespoons butter in medium saucepan over low heat. Remove\
+    \ from heat and immediately stir in milk (temperature should be lower than 90\
+    \ degrees). Whisk in yeast; transfer milk mixture to bowl of stand mixer. Add\
+    \ flour, sugar, and 2 teaspoons salt. Using dough hook, knead on low speed until\
+    \ cohesive dough forms, 2 to 3 minutes. Increase speed to medium-low and knead\
+    \ for 1 minute. Remove bowl from mixer and cover with plastic wrap. Let dough\
+    \ rest at room temperature 30 minutes.</p>\n<p>Transfer dough to parchment paper\u2013\
+    lined rimmed baking sheet and shape into 10 by 7-inch rectangle about 1 inch thick.\
+    \ Wrap tightly with plastic and refrigerate for 2 hours.</p>\n<p>BUTTER BLOCK:\
+    \ While dough chills, fold 24-inch length of parchment in half to create 12-inch\
+    \ rectangle. Fold over 3 open sides of rectangle to form 8-inch square with enclosed\
+    \ sides. Crease folds firmly. Place 24 tablespoons cold butter directly on counter\
+    \ and beat with rolling pin for about 60 seconds until butter is just pliable\
+    \ but not warm, then fold butter in on itself using bench scraper. Beat into rough\
+    \ 6-inch square. Unfold parchment envelope. Using bench scraper, transfer butter\
+    \ to center of parchment, refolding at creases to enclose. Turn packet over so\
+    \ that flaps are underneath and gently roll until butter fills parchment square,\
+    \ taking care to achieve even thickness. Refrigerate at least 45 minutes.</p>\n\
+    <p>LAMINATE: Transfer dough to freezer. After 30 minutes, transfer to lightly\
+    \ floured counter and roll into 17 by 8-inch rectangle with long side parallel\
+    \ to edge of counter. Unwrap butter and place in center of dough. Fold sides of\
+    \ dough over butter so they meet in center. Press seam together with fingertips.\
+    \ With rolling pin, press firmly on each open end of packet. Roll out lengthwise\
+    \ into 24 by 8-inch rectangle. Starting at bottom of dough, fold into thirds like\
+    \ business letter into 8-inch square. Turn dough 90 degrees counterclockwise.\
+    \ Roll out lengthwise again into 24 by 8-inch rectangle and fold into thirds.\
+    \ Place dough on sheet, wrap tightly with plastic, and return to freezer for 30\
+    \ minutes.</p>\n<p>Transfer dough to lightly floured counter so that top flap\
+    \ opens on right. Roll out dough lengthwise into 24 by 8-inch rectangle and fold\
+    \ into thirds. Place dough on sheet, wrap tightly with plastic, and refrigerate\
+    \ for 2 hours or up to 24 hours.</p>\n<p>SHAPE: Transfer dough to freezer. After\
+    \ 30 minutes, transfer to lightly floured counter and roll into 18 by 16-inch\
+    \ rectangle with long side of rectangle parallel to edge of counter. Fold upper\
+    \ half of dough over lower half. Using ruler, mark dough at 3-inch intervals along\
+    \ bottom edge with bench scraper (you should have 5 marks). Move ruler to top\
+    \ edge of dough, measure in 1\xBD inches from left, then use this mark to measure\
+    \ out 3-inch intervals (you should have 6 marks). Starting at lower left corner,\
+    \ use sharp pizza wheel or knife to cut dough from mark to mark. You will have\
+    \ 12 triangles and 5 diamonds; discard scraps. Unfold diamonds and cut into 10\
+    \ triangles (making 22 equal-size triangles in total).</p>\n<p>Position 1 triangle\
+    \ on counter. (Keep remaining triangles covered with plastic.) Cut 1/2-inch slit\
+    \ in center of short side of triangle. Grasp triangle by 2 corners on either side\
+    \ of slit and stretch gently, then stretch bottom point. Place triangle on counter\
+    \ so point is facing you. Fold down both sides of slit. Roll top of triangle partway\
+    \ toward point. Gently grasp point with 1 hand and stretch again. Resume rolling,\
+    \ tucking point underneath. Curve ends gently toward each other to create crescent.\
+    \ Repeat with remaining triangles.</p>\n<p>Place 12 croissants on 2 parchment-lined\
+    \ rimmed baking sheets at least 21/2 inches apart. Lightly wrap with plastic.\
+    \ Let stand at room temperature until nearly doubled in size, 21/2 to 3 hours.\
+    \ (Shaped croissants can be refrigerated for up to 18 hours. Remove from refrigerator\
+    \ to rise and add at least 30 minutes to rising time.)</p>\n<p>After croissants\
+    \ have been rising for 2 hours, adjust oven racks to upper-middle and lower-middle\
+    \ positions and heat oven to 425 degrees. In small bowl, whisk together egg, water,\
+    \ and pinch salt. Brush croissants with egg wash. Place croissants in oven and\
+    \ reduce temperature to 400 degrees. Bake for 12 minutes, then switch and rotate\
+    \ baking sheets. Continue to bake until deep golden brown, 8 to 12 minutes longer.\
+    \ Transfer to wire rack and cool about 15 minutes. Serve warm or at room temperature.</p>\n\
+    <p>TO MAKE AHEAD: After shaping, place 10 croissants 1 inch apart on parchment-lined\
+    \ sheet. Wrap with plastic and freeze until solid, about 2 hours. Transfer to\
+    \ zipper-lock bag and freeze for up to 2 months. Bake frozen croissants as directed\
+    \ from step 8, increasing rising time by 1 to 2 hours.</p>\n"
+  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>3 tablespoons unsalted\
+    \ butter, very cold</li>\n<li>24 tablespoons European-style butter, very cold\
+    \ (3 sticks)</li>\n<li>1 \xBE cups whole milk</li>\n<li>4 teaspoons instant or\
+    \ rapid-rise yeast</li>\n<li>4 \xBC cups (21 1/4 ounces) all-purpose flour</li>\n\
+    <li>\xBC cup (1 3/4 ounces) sugar</li>\n<li>2 teaspoons salt</li>\n<li>1 large\
+    \ egg</li>\n<li>1 teaspoon cold water</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "GATHER YOUR INGREDIENTS\n3 tablespoons unsalted butter, very cold\n\
   24 tablespoons European-style butter, very cold (3 sticks)\n1 \xBE cups whole milk\n\
@@ -16,6 +146,8 @@ ingredients: "GATHER YOUR INGREDIENTS\n3 tablespoons unsalted butter, very cold\
   \ cold water"
 intrash: 0
 name: Croissants
+notes: null
+nutritional_info: null
 photo: 9AF1ACBA-02C5-4AE8-9F30-DCF6E93BE53B-29546-00034796D85870C1.jpg
 photo_large: F9BFDD67-1E6A-4F28-8F58-6427BAB6680B-29546-000347932DF34F00.jpg
 photos:
@@ -44,18 +176,3 @@ total_time: ''
 type: null
 uid: BE5EEE4D-1ABA-4AA5-8C91-EC260B903F88-408-00004C55FF1A633E
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>GATHER YOUR INGREDIENTS</li>
-<li>3 tablespoons unsalted butter, very cold</li>
-<li>24 tablespoons European-style butter, very cold (3 sticks)</li>
-<li>1 ¾ cups whole milk</li>
-<li>4 teaspoons instant or rapid-rise yeast</li>
-<li>4 ¼ cups (21 1/4 ounces) all-purpose flour</li>
-<li>¼ cup (1 3/4 ounces) sugar</li>
-<li>2 teaspoons salt</li>
-<li>1 large egg</li>
-<li>1 teaspoon cold water</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

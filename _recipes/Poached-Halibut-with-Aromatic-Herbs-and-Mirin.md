@@ -8,6 +8,53 @@ created: '2020-08-07 11:35:33'
 created_ts: 1596800133
 description: null
 difficulty: null
+directions: 'Put mirin, water, shallot, bay leaf, thyme, rosemary and peppercorns
+  into an 8-inch frying pan and bring to a boil.
+
+
+  Season the fish with salt.
+
+
+  Add the fish pieces into the pan, cover, and lower the heat to simmer.
+
+
+  Poach 4-5 minutes depending on the thickness of the fish.
+
+
+  Remove the fish from the liquid, and set aside in four separate bowls.
+
+
+  Add the butter, lemon juice and garlic into the pan and cook one minute.
+
+
+  Spoon liquid on top of fish.'
+html:
+  description: null
+  directions: '<p>Put mirin, water, shallot, bay leaf, thyme, rosemary and peppercorns
+    into an 8-inch frying pan and bring to a boil.</p>
+
+    <p>Season the fish with salt.</p>
+
+    <p>Add the fish pieces into the pan, cover, and lower the heat to simmer.</p>
+
+    <p>Poach 4-5 minutes depending on the thickness of the fish.</p>
+
+    <p>Remove the fish from the liquid, and set aside in four separate bowls.</p>
+
+    <p>Add the butter, lemon juice and garlic into the pan and cook one minute.</p>
+
+    <p>Spoon liquid on top of fish.</p>
+
+    '
+  ingredients: "<ul>\n<li>2 tbsp. mirin rice wine (or white wine)</li>\n<li>1 cup\
+    \ water or veggie stock</li>\n<li>1 shallot, peeled and sliced thin</li>\n<li>1\
+    \ bay leaf</li>\n<li>2-3 sprigs of thyme, or 1 tbsp. thyme leaves</li>\n<li>2\
+    \ sprigs of rosemary, or 1 tbsp. minced</li>\n<li>\xBD tsp. whole peppercorns</li>\n\
+    <li>Sea salt</li>\n<li>1 lb. halibut, cut into 4 four ounce pieces</li>\n<li>2\
+    \ tbsp. unsalted grass-fed butter</li>\n<li>1 tbsp. lemon juice and zest</li>\n\
+    <li>1 garlic clove, peeled and sliced thin</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://andreabeaman.com/wp-content/uploads/2017/02/poached-halibut-300x200.jpg
 ingredients: "2 tbsp. mirin rice wine (or white wine)\n1 cup water or veggie stock\n\
   1 shallot, peeled and sliced thin\n1 bay leaf\n2-3 sprigs of thyme, or 1 tbsp. thyme\
@@ -16,6 +63,8 @@ ingredients: "2 tbsp. mirin rice wine (or white wine)\n1 cup water or veggie sto
   \ butter\n1 tbsp. lemon juice and zest\n1 garlic clove, peeled and sliced thin"
 intrash: 0
 name: Poached Halibut with Aromatic Herbs and Mirin
+notes: null
+nutritional_info: null
 photo: 34C272A0-C286-4885-9B10-F0689DD1E012-2643-000000EB308B1793.jpg
 photo_large: null
 photos: []
@@ -29,20 +78,3 @@ total_time: null
 type: null
 uid: 2511DA17-AF5B-4D67-88AC-46A05FE82562-2643-000000EB19A79759
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>2 tbsp. mirin rice wine (or white wine)</li>
-<li>1 cup water or veggie stock</li>
-<li>1 shallot, peeled and sliced thin</li>
-<li>1 bay leaf</li>
-<li>2-3 sprigs of thyme, or 1 tbsp. thyme leaves</li>
-<li>2 sprigs of rosemary, or 1 tbsp. minced</li>
-<li>½ tsp. whole peppercorns</li>
-<li>Sea salt</li>
-<li>1 lb. halibut, cut into 4 four ounce pieces</li>
-<li>2 tbsp. unsalted grass-fed butter</li>
-<li>1 tbsp. lemon juice and zest</li>
-<li>1 garlic clove, peeled and sliced thin</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

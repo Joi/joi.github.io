@@ -20,6 +20,93 @@ description: "WHY THIS RECIPE WORKS\nWe started with a simple stir-together doug
   \ would be thick enough to stay put on the pie, and then pureed them in the food\
   \ processor with classic seasonings\u2014no cooking required."
 difficulty: ''
+directions: "BEFORE YOU BEGIN\n\nThis pizza bakes in a 12-inch cast-iron skillet.\
+  \ Weigh the flour and water for the best results. Use a block cheese, not fresh\
+  \ mozzarella, for this recipe. Avoid preshredded cheese; it contains added starch,\
+  \ which gives the melted cheese a drier, chewier texture.\n\nFOR THE DOUGH: Using\
+  \ wooden spoon or spatula, stir flour, salt, and yeast together in bowl. Add warm\
+  \ water and mix until most of flour is moistened. Using your hands, knead dough\
+  \ in bowl until dough forms sticky ball, about 1 minute. Spray 9-inch pie plate\
+  \ or cake pan with oil spray. Transfer dough to prepared plate and press into 7-\
+  \ to 8-inch disk. Spray top of dough with oil spray. Cover tightly with plastic\
+  \ wrap and refrigerate for 12 to 24 hours.\n\nFOR THE SAUCE: Place tomatoes in fine-mesh\
+  \ strainer and crush with your hands. Drain well, then transfer to food processor.\
+  \ Add oil, garlic, sugar, salt, oregano, and pepper flakes and process until smooth,\
+  \ about 30 seconds. (Sauce can be refrigerated for up to 3 days.)\n\nFOR THE PIZZA:\
+  \ Two hours before baking, remove dough from refrigerator and let sit at room temperature\
+  \ for 30 minutes.\n\nCoat bottom of 12-inch cast-iron skillet with oil. Transfer\
+  \ dough to prepared skillet and use your fingertips to flatten dough until it is\
+  \ \u215B inch from edge of skillet. Cover tightly with plastic and let rest until\
+  \ slightly puffy, about 1\xBD hours.\n\nThirty minutes before baking, adjust oven\
+  \ rack to lowest position and heat oven to 400 degrees. Spread \xBD cup sauce evenly\
+  \ over top of dough, leaving \xBD-inch border (save remaining sauce for another\
+  \ use). Sprinkle Monterey Jack evenly over border. Press Monterey Jack into side\
+  \ of skillet, forming \xBD- to \xBE-inch-tall wall. (Not all cheese will stick to\
+  \ side of skillet.) Evenly sprinkle mozzarella over sauce. Bake until cheese at\
+  \ edge of skillet is well browned, 25 to 30 minutes.\n\nTransfer skillet to stovetop\
+  \ and let sit until sizzling stops, about 3 minutes. Run butter knife around rim\
+  \ of skillet to loosen pizza. Using thin metal spatula, gently lift edge of pizza\
+  \ and peek at underside to assess browning. Cook pizza over medium heat until bottom\
+  \ crust is well browned, 2 to 5 minutes (skillet handle will be hot). Using 2 spatulas,\
+  \ transfer pizza to wire rack and let cool for 10 minutes. Slice and serve."
+html:
+  description: "<p>WHY THIS RECIPE WORKS\nWe started with a simple stir-together dough\
+    \ of bread flour, salt, yeast, and warm water; the warm water jump-started yeast\
+    \ activity so that the crumb was open and light. Instead of kneading the dough,\
+    \ we let it rest overnight in the refrigerator. During this rest, the dough's\
+    \ gluten strengthened enough for the crust to support the toppings but still have\
+    \ a tender crumb. Baking the pie in a generously oiled cast-iron skillet \u201C\
+    fried\u201D the outside of the crust. We also moved the skillet to the stove for\
+    \ the last few minutes of cooking to crisp up the underside of the crust. For\
+    \ the crispy cheese edge known as frico, we pressed shredded Monterey Jack cheese\
+    \ around the edge of the dough and up the sides of the skillet. For the sauce,\
+    \ we crushed canned whole tomatoes (which are less processed and therefore fresher-tasting\
+    \ than commercial crushed tomatoes) by hand, which allowed some of their juice\
+    \ to drain so the sauce would be thick enough to stay put on the pie, and then\
+    \ pureed them in the food processor with classic seasonings\u2014no cooking required.</p>\n"
+  directions: "<p>BEFORE YOU BEGIN</p>\n<p>This pizza bakes in a 12-inch cast-iron\
+    \ skillet. Weigh the flour and water for the best results. Use a block cheese,\
+    \ not fresh mozzarella, for this recipe. Avoid preshredded cheese; it contains\
+    \ added starch, which gives the melted cheese a drier, chewier texture.</p>\n\
+    <p>FOR THE DOUGH: Using wooden spoon or spatula, stir flour, salt, and yeast together\
+    \ in bowl. Add warm water and mix until most of flour is moistened. Using your\
+    \ hands, knead dough in bowl until dough forms sticky ball, about 1 minute. Spray\
+    \ 9-inch pie plate or cake pan with oil spray. Transfer dough to prepared plate\
+    \ and press into 7- to 8-inch disk. Spray top of dough with oil spray. Cover tightly\
+    \ with plastic wrap and refrigerate for 12 to 24 hours.</p>\n<p>FOR THE SAUCE:\
+    \ Place tomatoes in fine-mesh strainer and crush with your hands. Drain well,\
+    \ then transfer to food processor. Add oil, garlic, sugar, salt, oregano, and\
+    \ pepper flakes and process until smooth, about 30 seconds. (Sauce can be refrigerated\
+    \ for up to 3 days.)</p>\n<p>FOR THE PIZZA: Two hours before baking, remove dough\
+    \ from refrigerator and let sit at room temperature for 30 minutes.</p>\n<p>Coat\
+    \ bottom of 12-inch cast-iron skillet with oil. Transfer dough to prepared skillet\
+    \ and use your fingertips to flatten dough until it is \u215B inch from edge of\
+    \ skillet. Cover tightly with plastic and let rest until slightly puffy, about\
+    \ 1\xBD hours.</p>\n<p>Thirty minutes before baking, adjust oven rack to lowest\
+    \ position and heat oven to 400 degrees. Spread \xBD cup sauce evenly over top\
+    \ of dough, leaving \xBD-inch border (save remaining sauce for another use). Sprinkle\
+    \ Monterey Jack evenly over border. Press Monterey Jack into side of skillet,\
+    \ forming \xBD- to \xBE-inch-tall wall. (Not all cheese will stick to side of\
+    \ skillet.) Evenly sprinkle mozzarella over sauce. Bake until cheese at edge of\
+    \ skillet is well browned, 25 to 30 minutes.</p>\n<p>Transfer skillet to stovetop\
+    \ and let sit until sizzling stops, about 3 minutes. Run butter knife around rim\
+    \ of skillet to loosen pizza. Using thin metal spatula, gently lift edge of pizza\
+    \ and peek at underside to assess browning. Cook pizza over medium heat until\
+    \ bottom crust is well browned, 2 to 5 minutes (skillet handle will be hot). Using\
+    \ 2 spatulas, transfer pizza to wire rack and let cool for 10 minutes. Slice and\
+    \ serve.</p>\n"
+  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>Dough</li>\n<li>2 cups\
+    \ (11 ounces) bread flour</li>\n<li>1 teaspoon table salt</li>\n<li>1 teaspoon\
+    \ instant or rapid-rise yeast</li>\n<li>1 cup (8 ounces) warm water (105 to 110\
+    \ degrees)</li>\n<li>Vegetable oil spray</li>\n<li>Sauce</li>\n<li>1 (14.5-ounce)\
+    \ can whole peeled tomatoes</li>\n<li>1 teaspoon extra-virgin olive oil</li>\n\
+    <li>1 garlic clove, minced</li>\n<li>\xBC teaspoon sugar</li>\n<li>\xBC teaspoon\
+    \ table salt</li>\n<li>\xBC teaspoon dried oregano</li>\n<li>Pinch red pepper\
+    \ flakes</li>\n<li>Pizza</li>\n<li>3 tablespoons extra-virgin olive oil</li>\n\
+    <li>4 ounces Monterey Jack cheese, shredded (1 cup) 7 ounces whole-milk mozzarella\
+    \ cheese, shredded (1\xBE cups)</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_cast_iron_pan_pizza_056_1_twzoux
 ingredients: "GATHER YOUR INGREDIENTS\nDough\n2 cups (11 ounces) bread flour\n1 teaspoon\
   \ table salt\n1 teaspoon instant or rapid-rise yeast\n1 cup (8 ounces) warm water\
@@ -30,6 +117,8 @@ ingredients: "GATHER YOUR INGREDIENTS\nDough\n2 cups (11 ounces) bread flour\n1 
   \ shredded (1 cup) 7 ounces whole-milk mozzarella cheese, shredded (1\xBE cups)"
 intrash: 0
 name: Cast Iron Pan Pizza
+notes: ''
+nutritional_info: ''
 photo: 8CA62C64-969C-4EFF-B3C6-90F3F0EDA2EF-13891-0000ABF4C9D3AFA6.jpg
 photo_large: null
 photos: []
@@ -43,26 +132,3 @@ total_time: ''
 type: null
 uid: C78B9AC6-396B-4457-A6DD-DB04C91C1E6D-13891-0000ABF1F7B23642
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>GATHER YOUR INGREDIENTS</li>
-<li>Dough</li>
-<li>2 cups (11 ounces) bread flour</li>
-<li>1 teaspoon table salt</li>
-<li>1 teaspoon instant or rapid-rise yeast</li>
-<li>1 cup (8 ounces) warm water (105 to 110 degrees)</li>
-<li>Vegetable oil spray</li>
-<li>Sauce</li>
-<li>1 (14.5-ounce) can whole peeled tomatoes</li>
-<li>1 teaspoon extra-virgin olive oil</li>
-<li>1 garlic clove, minced</li>
-<li>¼ teaspoon sugar</li>
-<li>¼ teaspoon table salt</li>
-<li>¼ teaspoon dried oregano</li>
-<li>Pinch red pepper flakes</li>
-<li>Pizza</li>
-<li>3 tablespoons extra-virgin olive oil</li>
-<li>4 ounces Monterey Jack cheese, shredded (1 cup) 7 ounces whole-milk mozzarella cheese, shredded (1¾ cups)</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

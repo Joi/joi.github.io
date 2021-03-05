@@ -12,6 +12,73 @@ description: Chicken stock is an essential ingredient in any kitchen. At Harry's
   our soups, risotto, and sauces. If you like a more intensely flavored stock, use
   more chicken or less water.
 difficulty: Medium
+directions: Put the chicken (including the neck, gizzard, and heart but not the liver),
+  vegetables, bouquet garni, and salt in a large soup pot and add the water. Bring
+  to a boil. Reduce the heat and simmer, partially covered, skimming off the foam,
+  for 1 hour. Remove the chicken from the pot, remove the meat from the carcass, and
+  reserve it for another use. Return the carcass and the skin to the soup pot and
+  continue to simmer the stock, partially covered, for 30 minutes more. Strain the
+  stock through a fine sieve into a bowl, pressing hard on the solids, and let it
+  cool. Chill the stock and remove the layer of fat that has congealed on the surface.
+  Chicken stock will keep for 4 or 5 days in the refrigerator. It freezes well. Put
+  it in 1- or 2-cup (250 or 500 ml) containers for use in sauces, soups, and risotto.
+html:
+  description: '<p>Chicken stock is an essential ingredient in any kitchen. At Harry''s
+    Bar we like to use this light chicken stock so it doesn''t drown out other flavors
+    in our soups, risotto, and sauces. If you like a more intensely flavored stock,
+    use more chicken or less water.</p>
+
+    '
+  directions: '<p>Put the chicken (including the neck, gizzard, and heart but not
+    the liver), vegetables, bouquet garni, and salt in a large soup pot and add the
+    water. Bring to a boil. Reduce the heat and simmer, partially covered, skimming
+    off the foam, for 1 hour. Remove the chicken from the pot, remove the meat from
+    the carcass, and reserve it for another use. Return the carcass and the skin to
+    the soup pot and continue to simmer the stock, partially covered, for 30 minutes
+    more. Strain the stock through a fine sieve into a bowl, pressing hard on the
+    solids, and let it cool. Chill the stock and remove the layer of fat that has
+    congealed on the surface. Chicken stock will keep for 4 or 5 days in the refrigerator.
+    It freezes well. Put it in 1- or 2-cup (250 or 500 ml) containers for use in sauces,
+    soups, and risotto.</p>
+
+    '
+  ingredients: '<ul>
+
+    <li>1 3-4 pound chicken (1.350 to 1.800 g)</li>
+
+    <li>1 medium onion, chopped</li>
+
+    <li>2 leeks, white parts only, thoroughly washed and sliced</li>
+
+    <li>1 carrot, chopped</li>
+
+    <li>2 celery ribs, cut into chunks</li>
+
+    <li>Bouquet Garni</li>
+
+    <li>4 flat-leaf parsley sprigs</li>
+
+    <li>2 cloves</li>
+
+    <li>1 fresh thyme sprig</li>
+
+    <li>1 garlic clove</li>
+
+    <li>10 black peppercorns</li>
+
+    <li>1 small bay leave</li>
+
+    <li>Cheesecloth</li>
+
+    <li>2 teaspoons salt</li>
+
+    <li>3 quarts cold water</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: '1 3-4 pound chicken (1.350 to 1.800 g)
 
@@ -46,6 +113,8 @@ ingredients: '1 3-4 pound chicken (1.350 to 1.800 g)
   3 quarts cold water'
 intrash: 0
 name: Harry's Bar Chicken Stock
+notes: null
+nutritional_info: null
 photo: F600B36D-839E-4344-89FC-4E10DEB17E36-39996-00002085D88E725F.jpg
 photo_large: EF674E95-FBEB-40C7-83CC-B902DCA9B59C-39996-000020859FC48E6A.jpg
 photos:
@@ -71,23 +140,3 @@ total_time: ''
 type: null
 uid: 47365C63-5584-4742-8622-94EF89CC996B-25037-0000A09454C82C98
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 3-4 pound chicken (1.350 to 1.800 g)</li>
-<li>1 medium onion, chopped</li>
-<li>2 leeks, white parts only, thoroughly washed and sliced</li>
-<li>1 carrot, chopped</li>
-<li>2 celery ribs, cut into chunks</li>
-<li>Bouquet Garni</li>
-<li>4 flat-leaf parsley sprigs</li>
-<li>2 cloves</li>
-<li>1 fresh thyme sprig</li>
-<li>1 garlic clove</li>
-<li>10 black peppercorns</li>
-<li>1 small bay leave</li>
-<li>Cheesecloth</li>
-<li>2 teaspoons salt</li>
-<li>3 quarts cold water</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

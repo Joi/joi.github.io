@@ -8,12 +8,46 @@ created: '2020-08-14 02:12:38'
 created_ts: 1597371158
 description: null
 difficulty: ''
+directions: 'Quickly rinse the hamachi kama in cold water and pat dry.
+
+
+  Cover baking pan with aluminum foil. Brush the foil with some oil. Place Hamachi
+  Kama, skin side down.
+
+
+  Bake at 400F until the top is nicely browned, about 20-25 minutes (in my oven toaster).
+  Please remember cooking time varies depending on oven/toaster oven.
+
+
+  Serve immediately with lemon slice and a small dish containing yuzu and soy sauce
+  mixture. Squeeze lemon over the fish and dip in the sauce to eat.'
+html:
+  description: null
+  directions: '<p>Quickly rinse the hamachi kama in cold water and pat dry.</p>
+
+    <p>Cover baking pan with aluminum foil. Brush the foil with some oil. Place Hamachi
+    Kama, skin side down.</p>
+
+    <p>Bake at 400F until the top is nicely browned, about 20-25 minutes (in my oven
+    toaster). Please remember cooking time varies depending on oven/toaster oven.</p>
+
+    <p>Serve immediately with lemon slice and a small dish containing yuzu and soy
+    sauce mixture. Squeeze lemon over the fish and dip in the sauce to eat.</p>
+
+    '
+  ingredients: "<ul>\n<li>1 Hamachi Kama (available in Japanese market)</li>\n<li>1\
+    \ tsp neutral-flavored oil (vegetable, canola, etc)</li>\n<li>Lemon (slice, optional)</li>\n\
+    <li>1 Tbsp soy sauce</li>\n<li>\xBD tsp . yuzu juice/yuzu extract</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://v1.nitrocdn.com/KQYMGOLIdXGmoAcyJsPOrQDKktgCbwtG/assets/static/optimized/rev-e80bad3/wp-content/uploads/2012/09/Hamachi-Kama.jpg
 ingredients: "1 Hamachi Kama (available in Japanese market)\n1 tsp neutral-flavored\
   \ oil (vegetable, canola, etc)\nLemon (slice, optional)\n1 Tbsp soy sauce\n\xBD\
   \ tsp . yuzu juice/yuzu extract"
 intrash: 0
 name: Hamachi Kama
+notes: null
+nutritional_info: null
 photo: 419915EC-4FE5-4B06-A63C-64FCDF9BCEA9-11316-000008215ED94E83.jpg
 photo_large: null
 photos: []
@@ -27,13 +61,3 @@ total_time: ''
 type: null
 uid: B5BF403A-DF93-4260-9777-614FDE444194-11316-000008212FCB0ED0
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 Hamachi Kama (available in Japanese market)</li>
-<li>1 tsp neutral-flavored oil (vegetable, canola, etc)</li>
-<li>Lemon (slice, optional)</li>
-<li>1 Tbsp soy sauce</li>
-<li>½ tsp . yuzu juice/yuzu extract</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

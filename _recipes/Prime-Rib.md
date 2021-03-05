@@ -9,6 +9,41 @@ created: '2020-08-20 16:02:42'
 created_ts: 1597939362
 description: Inspired by Food Lab.
 difficulty: ''
+directions: "Dry brine prime rib the day before.\n\nSet oven to lowest temperature.\
+  \ (170\xBAF on Wolf or 135\xBAF Sous Vide Mode 100% humidity on Anova Precision\
+  \ Oven)\n\nRoast prime rib on rack until internal temperature hits 130\xBAF (medium\
+  \ rare) and remove from oven. (5 hours for 3 pound prime rib in my oven which hovered\
+  \ around 160\xBAF on \"roast\" setting.)\n\nTent with foil and rest for 30 min -\
+  \ 1 \xBD hours.\n\nIf it finishes more than 1 \xBD hours before serving, remove\
+  \ from oven and put back into oven for 45 min at 200\xBAF before searing to reheat.\n\
+  \nSear at max temperature in oven (550\xBAF on Wolf) for 6 - 10 min.\n\nSlice and\
+  \ serve."
+html:
+  description: '<p>Inspired by Food Lab.</p>
+
+    '
+  directions: "<p>Dry brine prime rib the day before.</p>\n<p>Set oven to lowest temperature.\
+    \ (170\xBAF on Wolf or 135\xBAF Sous Vide Mode 100% humidity on Anova Precision\
+    \ Oven)</p>\n<p>Roast prime rib on rack until internal temperature hits 130\xBA\
+    F (medium rare) and remove from oven. (5 hours for 3 pound prime rib in my oven\
+    \ which hovered around 160\xBAF on &quot;roast&quot; setting.)</p>\n<p>Tent with\
+    \ foil and rest for 30 min - 1 \xBD hours.</p>\n<p>If it finishes more than 1\
+    \ \xBD hours before serving, remove from oven and put back into oven for 45 min\
+    \ at 200\xBAF before searing to reheat.</p>\n<p>Sear at max temperature in oven\
+    \ (550\xBAF on Wolf) for 6 - 10 min.</p>\n<p>Slice and serve.</p>\n"
+  ingredients: '<ul>
+
+    <li>Prime Rib</li>
+
+    <li>Salt</li>
+
+    <li>Pepper</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: 'Prime Rib
 
@@ -17,6 +52,8 @@ ingredients: 'Prime Rib
   Pepper'
 intrash: 0
 name: Prime Rib
+notes: null
+nutritional_info: null
 photo: 8BF68ECB-3D21-476A-9600-823747213F0B-2241-0001DD4E127FBB06.jpg
 photo_large: 345B6076-40B7-4425-8C42-7C3059EEDA67-2241-0001DD4817BFB668.jpg
 photos:
@@ -51,20 +88,3 @@ total_time: ''
 type: _mine
 uid: 1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<h4 id="description">Description</h4>
-<div class="box box-description content"><p>Inspired by Food Lab.</p>
-</div>	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>Prime Rib</li>
-<li>Salt</li>
-<li>Pepper</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Dry brine prime rib the day before.</p>
-<p>Set oven to lowest temperature. (170ºF on Wolf or 135ºF Sous Vide Mode 100% humidity on Anova Precision Oven)</p>
-<p>Roast prime rib on rack until internal temperature hits 130ºF (medium rare) and remove from oven. (5 hours for 3 pound prime rib in my oven which hovered around 160ºF on &quot;roast&quot; setting.)</p>
-<p>Tent with foil and rest for 30 min - 1 ½ hours.</p>
-<p>If it finishes more than 1 ½ hours before serving, remove from oven and put back into oven for 45 min at 200ºF before searing to reheat.</p>
-<p>Sear at max temperature in oven (550ºF on Wolf) for 6 - 10 min.</p>
-<p>Slice and serve.</p>
-</div>	</div>

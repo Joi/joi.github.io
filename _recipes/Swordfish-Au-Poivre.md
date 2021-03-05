@@ -8,6 +8,42 @@ created: '2020-07-05 23:28:59'
 created_ts: 1593991739
 description: ''
 difficulty: ''
+directions: "Heat the oven to 150 degrees. Have an oven-proof platter that can hold\
+  \ the fish in a single layer ready. Dust the swordfish lightly with salt. Sprinkle\
+  \ the pepper on both sides, pressing the grains into the fish.\n\nHeat the oil to\
+  \ medium hot in a heavy skillet, about 12-inches in diameter, to hold the fish in\
+  \ a single layer. Sear the fish, pepper and all, until barely cooked through and\
+  \ still a bit pink in the center, about 3 minutes on each side. Transfer to the\
+  \ platter and place in the oven. Turn off the oven.\n\nAdd the butter to the skillet.\
+  \ When it melts add the shallot and saut\xE9, stirring, until translucent, a couple\
+  \ of minutes. Add the Cognac and swirl in the pan a minute or so until somewhat\
+  \ reduced and syrupy. Add the cream and parsley and continue cooking, stirring,\
+  \ until somewhat thickened. Remove from the heat.\n\nRemove the fish from the oven\
+  \ and pour the sauce over it, then serve, or transfer each portion to individual\
+  \ dinner plates, spoon on the sauce and serve."
+html:
+  description: null
+  directions: "<p>Heat the oven to 150 degrees. Have an oven-proof platter that can\
+    \ hold the fish in a single layer ready. Dust the swordfish lightly with salt.\
+    \ Sprinkle the pepper on both sides, pressing the grains into the fish.</p>\n\
+    <p>Heat the oil to medium hot in a heavy skillet, about 12-inches in diameter,\
+    \ to hold the fish in a single layer. Sear the fish, pepper and all, until barely\
+    \ cooked through and still a bit pink in the center, about 3 minutes on each side.\
+    \ Transfer to the platter and place in the oven. Turn off the oven.</p>\n<p>Add\
+    \ the butter to the skillet. When it melts add the shallot and saut\xE9, stirring,\
+    \ until translucent, a couple of minutes. Add the Cognac and swirl in the pan\
+    \ a minute or so until somewhat reduced and syrupy. Add the cream and parsley\
+    \ and continue cooking, stirring, until somewhat thickened. Remove from the heat.</p>\n\
+    <p>Remove the fish from the oven and pour the sauce over it, then serve, or transfer\
+    \ each portion to individual dinner plates, spoon on the sauce and serve.</p>\n"
+  ingredients: "<ul>\n<li>24 ounces swordfish about 1-inch thick, skin removed, in\
+    \ 4 portions</li>\n<li>Fine sea salt</li>\n<li>1 \xBD tablespoons crushed black\
+    \ peppercorns</li>\n<li>2 tablespoons extra-virgin olive oil</li>\n<li>1 tablespoon\
+    \ unsalted butter</li>\n<li>1 large shallot, minced</li>\n<li>\xBD cup Cognac\
+    \ or brandy</li>\n<li>\u2154 cup heavy cream</li>\n<li>1 tablespoon minced flat-leaf\
+    \ parsley leaves</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://static01.nyt.com/images/2020/06/17/dining/11pairrex/merlin_173165397_d0d4e7ba-789e-4bc7-ae1c-e8b484ded440-articleLarge.jpg
 ingredients: "24 ounces swordfish about 1-inch thick, skin removed, in 4 portions\n\
   Fine sea salt\n1 \xBD tablespoons crushed black peppercorns\n2 tablespoons extra-virgin\
@@ -15,6 +51,8 @@ ingredients: "24 ounces swordfish about 1-inch thick, skin removed, in 4 portion
   \ or brandy\n\u2154 cup heavy cream\n1 tablespoon minced flat-leaf parsley leaves"
 intrash: 0
 name: Swordfish Au Poivre
+notes: ''
+nutritional_info: ''
 photo: 708556EF-C975-4839-BE61-3C82BD93168A-631-0001AC5E0487BD62.jpg
 photo_large: null
 photos: []
@@ -28,17 +66,3 @@ total_time: ''
 type: null
 uid: 466F7A66-B9C7-46E6-B50D-D6FADF202548-631-0001AC5C5F20F7E0
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>24 ounces swordfish about 1-inch thick, skin removed, in 4 portions</li>
-<li>Fine sea salt</li>
-<li>1 ½ tablespoons crushed black peppercorns</li>
-<li>2 tablespoons extra-virgin olive oil</li>
-<li>1 tablespoon unsalted butter</li>
-<li>1 large shallot, minced</li>
-<li>½ cup Cognac or brandy</li>
-<li>⅔ cup heavy cream</li>
-<li>1 tablespoon minced flat-leaf parsley leaves</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

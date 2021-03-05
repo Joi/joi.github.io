@@ -8,12 +8,46 @@ created: '2020-06-05 15:45:11'
 created_ts: 1591371911
 description: ''
 difficulty: ''
+directions: 'Place a large cast-iron griddle or ovenproof skillet under the broiler
+  and preheat until very hot, at least 10 minutes.
+
+
+  Meanwhile, combine the mayonnaise, mustard and thyme in a small bowl.
+
+
+  Generously season the fillets with salt and pepper. Paint one side of each fillet
+  thickly with the mustard mixture.
+
+
+  Place the fish in the skillet, painted side up, and broil until the coating is brown
+  and bubbling, 3 to 4 minutes.'
+html:
+  description: null
+  directions: '<p>Place a large cast-iron griddle or ovenproof skillet under the broiler
+    and preheat until very hot, at least 10 minutes.</p>
+
+    <p>Meanwhile, combine the mayonnaise, mustard and thyme in a small bowl.</p>
+
+    <p>Generously season the fillets with salt and pepper. Paint one side of each
+    fillet thickly with the mustard mixture.</p>
+
+    <p>Place the fish in the skillet, painted side up, and broil until the coating
+    is brown and bubbling, 3 to 4 minutes.</p>
+
+    '
+  ingredients: "<ul>\n<li>\xBC cup mayonnaise</li>\n<li>3 tablespoons Dijon mustard</li>\n\
+    <li>\xBD teaspoon dried thyme</li>\n<li>4 6-ounce bluefish fillets, skin and bones\
+    \ removed</li>\n<li>Kosher salt</li>\n<li>freshly ground black pepper</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://static01.nyt.com/applications/cooking/f75a29f/assets/NYTCookingLogo.png
 ingredients: "\xBC cup mayonnaise\n3 tablespoons Dijon mustard\n\xBD teaspoon dried\
   \ thyme\n4 6-ounce bluefish fillets, skin and bones removed\nKosher salt\nfreshly\
   \ ground black pepper"
 intrash: 0
 name: Bluefish Dijonnaise
+notes: ''
+nutritional_info: ''
 photo: E787C885-0422-46B4-A58C-C26BD70E3741-29546-00061364C34AA199.jpg
 photo_large: null
 photos: []
@@ -27,14 +61,3 @@ total_time: ''
 type: null
 uid: C2E19284-E62B-4831-ABEB-78B65D403B2C-29546-0006136271828536
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>¼ cup mayonnaise</li>
-<li>3 tablespoons Dijon mustard</li>
-<li>½ teaspoon dried thyme</li>
-<li>4 6-ounce bluefish fillets, skin and bones removed</li>
-<li>Kosher salt</li>
-<li>freshly ground black pepper</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -15,6 +15,44 @@ description: 'Based on :
 
   - Thermoworks - Crown Roast of Lamb'
 difficulty: ''
+directions: "Dry brine crown.\n\nMake sure crown is round.\n\nMake rub by combing\
+  \ herbs, pepper, lemon zest.\n\nPreheat oven to 425\xBAF with cast-iron skillet\
+  \ large enough for the crown.\n\nCover lamb with oil then cover with rub.\n\nCover\
+  \ bones with foil. Put lamb on skillet.\n\nSet thermometer timer for 125\xBAF.\n\
+  \nWhen timer goes off, remove lamb and rest for about 15 min covered with foil.\
+  \ Should be 30 min or so of cooking.\n\nRemove oil from pan but leave juice. Make\
+  \ warm, but not too hot and add vinegar and mustard and stir.\n\nCarve lamb and\
+  \ serve with sauce."
+html:
+  description: '<p>Based on :</p>
+
+    <ul>
+
+    <li>Epicurious - Crown Roast of Lamb with Rosemary and Oregano</li>
+
+    <li>Food Network - Crown Roast of Lamb</li>
+
+    <li>Thermoworks - Crown Roast of Lamb</li>
+
+    </ul>
+
+    '
+  directions: "<p>Dry brine crown.</p>\n<p>Make sure crown is round.</p>\n<p>Make\
+    \ rub by combing herbs, pepper, lemon zest.</p>\n<p>Preheat oven to 425\xBAF with\
+    \ cast-iron skillet large enough for the crown.</p>\n<p>Cover lamb with oil then\
+    \ cover with rub.</p>\n<p>Cover bones with foil. Put lamb on skillet.</p>\n<p>Set\
+    \ thermometer timer for 125\xBAF.</p>\n<p>When timer goes off, remove lamb and\
+    \ rest for about 15 min covered with foil. Should be 30 min or so of cooking.</p>\n\
+    <p>Remove oil from pan but leave juice. Make warm, but not too hot and add vinegar\
+    \ and mustard and stir.</p>\n<p>Carve lamb and serve with sauce.</p>\n"
+  ingredients: "<ul>\n<li>Rub</li>\n<li>2 tbsp of fresh rosemary - chopped</li>\n\
+    <li>6 garlic cloves - minced</li>\n<li>1 tsp of oregano</li>\n<li>1 tsp of fresh\
+    \ thyme</li>\n<li>2 tbsp of chopped parsley</li>\n<li>1 tsp of lemon zest</li>\n\
+    <li>\xBD tsp salt in addition to salt for brining</li>\n<li>1 tsp of ground pepper</li>\n\
+    <li>light olive oil</li>\n<li>Sauce</li>\n<li>1 tsp Dijon mustard</li>\n<li>1\
+    \ tbsp wine vinegar</li>\n<li></li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "Rub\n\n2 tbsp of fresh rosemary - chopped\n6 garlic cloves - minced\n\
   1 tsp of oregano\n1 tsp of fresh thyme\n2 tbsp of chopped parsley\n1 tsp of lemon\
@@ -22,6 +60,8 @@ ingredients: "Rub\n\n2 tbsp of fresh rosemary - chopped\n6 garlic cloves - mince
   light olive oil\n\nSauce\n\n1 tsp Dijon mustard\n1 tbsp wine vinegar\n"
 intrash: 0
 name: Crown Roast of Lamb
+notes: null
+nutritional_info: null
 photo: 0FB9F6CD-8187-4952-A4DB-9C17BB488535-29053-0004B1367DF6F80C.jpg
 photo_large: 9149D496-D42C-4579-B6F1-4122D12ABE97-29053-0004B135658F0C74.jpg
 photos:
@@ -44,22 +84,3 @@ total_time: ''
 type: null
 uid: FD54C700-8CFA-4582-86E5-1BB6A9398CBA-29053-0004AE4B3DE321B5
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>Rub</li>
-<li>2 tbsp of fresh rosemary - chopped</li>
-<li>6 garlic cloves - minced</li>
-<li>1 tsp of oregano</li>
-<li>1 tsp of fresh thyme</li>
-<li>2 tbsp of chopped parsley</li>
-<li>1 tsp of lemon zest</li>
-<li>½ tsp salt in addition to salt for brining</li>
-<li>1 tsp of ground pepper</li>
-<li>light olive oil</li>
-<li>Sauce</li>
-<li>1 tsp Dijon mustard</li>
-<li>1 tbsp wine vinegar</li>
-<li></li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

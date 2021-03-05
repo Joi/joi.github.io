@@ -8,6 +8,95 @@ created: '2020-04-17 20:23:54'
 created_ts: 1587155034
 description: ''
 difficulty: ''
+directions: 'Season chicken legs with salt and pepper and let them sit for a while,
+  15 minutes to an hour, or overnight in the refrigerator.
+
+
+  Heat oven to 450 degrees. Put a cup or two of flour in a large bowl, add half the
+  chicken and tumble the legs around to coat.
+
+
+  Set a large oven-safe skillet over medium-high heat. Swirl in 2 tablespoons oil
+  or butter and allow to melt and foam. Shake excess flour off the chicken legs and
+  slide them into the hot pan in one layer; adjust the heat so the legs are sizzling
+  nicely. When the legs begin to brown, after about 5 minutes, turn them over to brown
+  the other side, an additional 4 to 5 minutes. Remove the chicken to a platter and
+  repeat with remaining legs, adding more oil or butter if the pan seems dry.
+
+
+  Pour off the grease in the pan and add the wine or other liquid to the skillet,
+  scraping at the sticky bits. Let simmer over medium heat until pan is completely
+  deglazed. Pour that liquid into a small bowl and set aside.
+
+
+  Add remaining oil or butter to the pan and allow it to heat. Add onion, carrot,
+  celery and a pinch of salt and cook, stirring occasionally, until the vegetables
+  have softened nicely, approximately 10 minutes. Add garlic, thyme and bay leaf and
+  cook for a minute or so, then return all the chicken to the pan, skin side up, along
+  with the reserved glazing liquid and between 1 and 3 cups stock or water, enough
+  to come up the sides of the chicken but not to get them swimming. Bring to a simmer
+  and then put the skillet in the oven.
+
+
+  After 5 minutes or so, reduce the oven heat to 325 degrees and cook until chicken
+  is very tender, 30 to 40 minutes. (Test for doneness by inserting a slender-bladed
+  knife into the meat. It should pull out easily.) Remove the skillet from the oven,
+  lift the legs from the skillet and put them aside again. Pour the liquid contents
+  of the skillet into a small bowl and allow it to sit for 5 minutes or so, letting
+  the fat rise to the surface. Use a small ladle to skim off and discard the fat,
+  then return liquid to the pan, along with the chicken. Bring back to a simmer on
+  the stovetop, then return to the oven for 5 minutes or so before serving, sprinkled
+  with the chopped parsley, or save to reheat later.'
+html:
+  description: null
+  directions: '<p>Season chicken legs with salt and pepper and let them sit for a
+    while, 15 minutes to an hour, or overnight in the refrigerator.</p>
+
+    <p>Heat oven to 450 degrees. Put a cup or two of flour in a large bowl, add half
+    the chicken and tumble the legs around to coat.</p>
+
+    <p>Set a large oven-safe skillet over medium-high heat. Swirl in 2 tablespoons
+    oil or butter and allow to melt and foam. Shake excess flour off the chicken legs
+    and slide them into the hot pan in one layer; adjust the heat so the legs are
+    sizzling nicely. When the legs begin to brown, after about 5 minutes, turn them
+    over to brown the other side, an additional 4 to 5 minutes. Remove the chicken
+    to a platter and repeat with remaining legs, adding more oil or butter if the
+    pan seems dry.</p>
+
+    <p>Pour off the grease in the pan and add the wine or other liquid to the skillet,
+    scraping at the sticky bits. Let simmer over medium heat until pan is completely
+    deglazed. Pour that liquid into a small bowl and set aside.</p>
+
+    <p>Add remaining oil or butter to the pan and allow it to heat. Add onion, carrot,
+    celery and a pinch of salt and cook, stirring occasionally, until the vegetables
+    have softened nicely, approximately 10 minutes. Add garlic, thyme and bay leaf
+    and cook for a minute or so, then return all the chicken to the pan, skin side
+    up, along with the reserved glazing liquid and between 1 and 3 cups stock or water,
+    enough to come up the sides of the chicken but not to get them swimming. Bring
+    to a simmer and then put the skillet in the oven.</p>
+
+    <p>After 5 minutes or so, reduce the oven heat to 325 degrees and cook until chicken
+    is very tender, 30 to 40 minutes. (Test for doneness by inserting a slender-bladed
+    knife into the meat. It should pull out easily.) Remove the skillet from the oven,
+    lift the legs from the skillet and put them aside again. Pour the liquid contents
+    of the skillet into a small bowl and allow it to sit for 5 minutes or so, letting
+    the fat rise to the surface. Use a small ladle to skim off and discard the fat,
+    then return liquid to the pan, along with the chicken. Bring back to a simmer
+    on the stovetop, then return to the oven for 5 minutes or so before serving, sprinkled
+    with the chopped parsley, or save to reheat later.</p>
+
+    '
+  ingredients: "<ul>\n<li>6 chicken legs, thigh and drumstick together</li>\n<li>Kosher\
+    \ salt and black pepper to taste</li>\n<li>All-purpose flour, for dredging</li>\n\
+    <li>4 to 5 tablespoons neutral oil, or unsalted butter</li>\n<li>\xBE cup white\
+    \ or red wine, beer, chicken stock or water</li>\n<li>1 large yellow onion, peeled\
+    \ and diced</li>\n<li>1 large carrot, peeled and diced</li>\n<li>2 celery stalks,\
+    \ diced</li>\n<li>2 cloves garlic, peeled and diced</li>\n<li>3 sprigs of thyme,\
+    \ rosemary or sage, leaves removed and roughly chopped</li>\n<li>1 bay leaf</li>\n\
+    <li>3 cups chicken stock, or water</li>\n<li>2 tablespoons roughly chopped parsley\
+    \ leaves</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://static01.nyt.com/images/2015/01/07/dining/07COOKBOOKTWELVERECIPES2/07COOKBOOKTWELVERECIPES2-articleLarge.jpg
 ingredients: "6 chicken legs, thigh and drumstick together\nKosher salt and black\
   \ pepper to taste\nAll-purpose flour, for dredging\n4 to 5 tablespoons neutral oil,\
@@ -18,6 +107,8 @@ ingredients: "6 chicken legs, thigh and drumstick together\nKosher salt and blac
   \ or water\n2 tablespoons roughly chopped parsley leaves"
 intrash: 0
 name: "Cal Peternell\u2019s Braised Chicken Legs"
+notes: ''
+nutritional_info: ''
 photo: 3432BBFD-1403-4DAE-ADC8-F0CD60D2817A-2334-0002361DB8487F6B.jpg
 photo_large: null
 photos: []
@@ -31,21 +122,3 @@ total_time: ''
 type: null
 uid: 570E9D2D-CE28-4E47-8EE7-3C314B75EB4A-2334-0002361B59397453
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>6 chicken legs, thigh and drumstick together</li>
-<li>Kosher salt and black pepper to taste</li>
-<li>All-purpose flour, for dredging</li>
-<li>4 to 5 tablespoons neutral oil, or unsalted butter</li>
-<li>¾ cup white or red wine, beer, chicken stock or water</li>
-<li>1 large yellow onion, peeled and diced</li>
-<li>1 large carrot, peeled and diced</li>
-<li>2 celery stalks, diced</li>
-<li>2 cloves garlic, peeled and diced</li>
-<li>3 sprigs of thyme, rosemary or sage, leaves removed and roughly chopped</li>
-<li>1 bay leaf</li>
-<li>3 cups chicken stock, or water</li>
-<li>2 tablespoons roughly chopped parsley leaves</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

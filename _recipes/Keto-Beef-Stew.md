@@ -9,6 +9,58 @@ created: '2020-03-27 18:07:00'
 created_ts: 1585332420
 description: ''
 difficulty: ''
+directions: "Rub the beef pieces all over with 1-1/2 teaspoons salt and 1/2 teaspoon\
+  \ pepper; let sit at room temperature for 30 to 60 minutes.\n\nHeat the olive oil\
+  \ in a Dutch oven or large pot with a lid over medium heat. Working in batches,\
+  \ add the beef pieces to the pot in one layer so they\u2019re not touching and sear\
+  \ on all sides until golden brown, 5 to 7 minutes. Remove and set aside on a plate.\
+  \ Repeat with all the beef.\n\nKeeping the pot over medium heat, add the shallots\
+  \ and cook, stirring often, until softened, 1 to 2 minutes. Add the celery and mushrooms\
+  \ and cook, stirring often, for 3 minutes. Add the garlic powder, thyme, and Worcestershire\
+  \ sauce and cook for 1 minute more, stirring and scraping the brown bits off the\
+  \ bottom of the pot with a spoon. Add the beef broth and continue scraping up the\
+  \ brown bits for 1 minute. Return the beef and any of its juices to the pot, and\
+  \ bring to a boil. Reduce to a simmer, cover, and cook for 45 minutes.\n\nAdd the\
+  \ green beans and simmer for 10 minutes more with the lid slightly open. Stir in\
+  \ the radishes and simmer 5 minutes more.\n\nGradually sprinkle in the xanthan gum,\
+  \ mixing until incorporated. Season to taste with salt and pepper. Garnish with\
+  \ the parsley and serve."
+html:
+  description: null
+  directions: "<p>Rub the beef pieces all over with 1-1/2 teaspoons salt and 1/2 teaspoon\
+    \ pepper; let sit at room temperature for 30 to 60 minutes.</p>\n<p>Heat the olive\
+    \ oil in a Dutch oven or large pot with a lid over medium heat. Working in batches,\
+    \ add the beef pieces to the pot in one layer so they\u2019re not touching and\
+    \ sear on all sides until golden brown, 5 to 7 minutes. Remove and set aside on\
+    \ a plate. Repeat with all the beef.</p>\n<p>Keeping the pot over medium heat,\
+    \ add the shallots and cook, stirring often, until softened, 1 to 2 minutes. Add\
+    \ the celery and mushrooms and cook, stirring often, for 3 minutes. Add the garlic\
+    \ powder, thyme, and Worcestershire sauce and cook for 1 minute more, stirring\
+    \ and scraping the brown bits off the bottom of the pot with a spoon. Add the\
+    \ beef broth and continue scraping up the brown bits for 1 minute. Return the\
+    \ beef and any of its juices to the pot, and bring to a boil. Reduce to a simmer,\
+    \ cover, and cook for 45 minutes.</p>\n<p>Add the green beans and simmer for 10\
+    \ minutes more with the lid slightly open. Stir in the radishes and simmer 5 minutes\
+    \ more.</p>\n<p>Gradually sprinkle in the xanthan gum, mixing until incorporated.\
+    \ Season to taste with salt and pepper. Garnish with the parsley and serve.</p>\n"
+  ingredients: "<ul>\n<li>Ingredients List</li>\n<li>1\xBD lbs beef chuck roast or\
+    \ chuck shoulder, cut into 1-inch pieces</li>\n<li>~ sea salt and freshly ground\
+    \ pepper</li>\n<li>3 Tbsp olive oil</li>\n<li>1 shallot, diced</li>\n<li>3 celery\
+    \ stalks, diced</li>\n<li>1/2 pound white or button mushrooms, quartered</li>\n\
+    <li>1 tsp garlic powder</li>\n<li>1 tsp dried thyme</li>\n<li>1 tbsp Worcestershire\
+    \ sauce</li>\n<li>1 qt beef broth</li>\n<li>1/2 lb green beans, trimmed and cut\
+    \ into 1-inch</li>\n<li>6 radishes, quartered</li>\n<li>1 tsp xanthan gum</li>\n\
+    <li>1/4 cup chopped fresh parsley for garnish, optional</li>\n</ul>\n"
+  notes: '<p>For easy, microwavable lunches or dinners, freeze single servings of
+    stew in microwavable containers. Then you can grab a meal anytime you need one!</p>
+
+    <p>Want to bulk this stew up a bit? Toss some cauliflower rice into your soup
+    bowl before adding the soup, and remember to update your macros!</p>
+
+    '
+  nutrition: '<p>352 Calories 26g Fat 24g Protein 6g Total Carbs 2g Fiber 4g Net Carbs</p>
+
+    '
 image_url: https://cdn.keto-mojo.com/wp-content/uploads/2019/12/Keto-Beef-Stew-1024x613.jpg
 ingredients: "Ingredients List\n1\xBD lbs beef chuck roast or chuck shoulder, cut\
   \ into 1-inch pieces\n~ sea salt and freshly ground pepper\n3 Tbsp olive oil\n1\
@@ -18,6 +70,14 @@ ingredients: "Ingredients List\n1\xBD lbs beef chuck roast or chuck shoulder, cu
   \ gum\n1/4 cup chopped fresh parsley for garnish, optional"
 intrash: 0
 name: Keto Beef Stew
+notes: 'For easy, microwavable lunches or dinners, freeze single servings of stew
+  in microwavable containers. Then you can grab a meal anytime you need one!
+
+
+  Want to bulk this stew up a bit? Toss some cauliflower rice into your soup bowl
+  before adding the soup, and remember to update your macros!'
+nutritional_info: 352 Calories 26g Fat 24g Protein 6g Total Carbs 2g Fiber 4g Net
+  Carbs
 photo: E7906B25-FB5F-4B5B-97F2-B47D8C802508-16595-00001302C084BBF2.jpg
 photo_large: null
 photos: []
@@ -31,23 +91,6 @@ total_time: ''
 type: null
 uid: 70775420-6676-49E8-9A5C-0059FF5F103D-16595-000012FEE9E67A5A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>Ingredients List</li>
-<li>1½ lbs beef chuck roast or chuck shoulder, cut into 1-inch pieces</li>
-<li>~ sea salt and freshly ground pepper</li>
-<li>3 Tbsp olive oil</li>
-<li>1 shallot, diced</li>
-<li>3 celery stalks, diced</li>
-<li>1/2 pound white or button mushrooms, quartered</li>
-<li>1 tsp garlic powder</li>
-<li>1 tsp dried thyme</li>
-<li>1 tbsp Worcestershire sauce</li>
-<li>1 qt beef broth</li>
-<li>1/2 lb green beans, trimmed and cut into 1-inch</li>
-<li>6 radishes, quartered</li>
-<li>1 tsp xanthan gum</li>
-<li>1/4 cup chopped fresh parsley for garnish, optional</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+For easy, microwavable lunches or dinners, freeze single servings of stew in microwavable containers. Then you can grab a meal anytime you need one!
+
+Want to bulk this stew up a bit? Toss some cauliflower rice into your soup bowl before adding the soup, and remember to update your macros!

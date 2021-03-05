@@ -8,6 +8,35 @@ created: '2020-05-05 00:48:28'
 created_ts: 1588639708
 description: ''
 difficulty: ''
+directions: "Combine Worcestershire sauce, soy sauce, fish sauce and maple syrup.\
+  \ Coat steak with the mixture. Season with salt and pepper. Let marinate 2 hours\
+  \ at room temperature.\n\nAbout an hour before serving, heat oven to 375 degrees.\
+  \ Coat potatoes with 2 tablespoons oil, salt and pepper, and roast crisp. Keep warm.\
+  \ Heat grill. Grill steaks. Set aside. Briefly saut\xE9 greens in a tablespoon of\
+  \ oil. Drain well. Place on dinner plates. Slice steaks and arrange on greens. Top\
+  \ with potatoes.\n\nWarm remaining oil in a small skillet, add herbs and lemon zest,\
+  \ and cook about 30 seconds, until herbs are fragrant. Pour herbs and oil over potatoes\
+  \ and steaks. Serve."
+html:
+  description: null
+  directions: "<p>Combine Worcestershire sauce, soy sauce, fish sauce and maple syrup.\
+    \ Coat steak with the mixture. Season with salt and pepper. Let marinate 2 hours\
+    \ at room temperature.</p>\n<p>About an hour before serving, heat oven to 375\
+    \ degrees. Coat potatoes with 2 tablespoons oil, salt and pepper, and roast crisp.\
+    \ Keep warm. Heat grill. Grill steaks. Set aside. Briefly saut\xE9 greens in a\
+    \ tablespoon of oil. Drain well. Place on dinner plates. Slice steaks and arrange\
+    \ on greens. Top with potatoes.</p>\n<p>Warm remaining oil in a small skillet,\
+    \ add herbs and lemon zest, and cook about 30 seconds, until herbs are fragrant.\
+    \ Pour herbs and oil over potatoes and steaks. Serve.</p>\n"
+  ingredients: "<ul>\n<li>2 tablespoons Worcestershire sauce</li>\n<li>2 tablespoons\
+    \ soy sauce</li>\n<li>2 tablespoons Thai fish sauce</li>\n<li>2 tablespoons maple\
+    \ syrup</li>\n<li>1 1-pound hanger steak, trimmed and divided in two</li>\n<li>Salt\
+    \ and freshly ground black pepper</li>\n<li>10 ounces small potatoes, quartered</li>\n\
+    <li>5 tablespoons herbaceous extra virgin olive oil</li>\n<li>6 ounces greens,\
+    \ preferably baby spinach</li>\n<li>\xBD cup coarsely chopped herbs</li>\n<li>1\
+    \ teaspoon grated lemon zest</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "2 tablespoons Worcestershire sauce\n2 tablespoons soy sauce\n2 tablespoons\
   \ Thai fish sauce\n2 tablespoons maple syrup\n1 1-pound hanger steak, trimmed and\
@@ -16,6 +45,8 @@ ingredients: "2 tablespoons Worcestershire sauce\n2 tablespoons soy sauce\n2 tab
   \ baby spinach\n\xBD cup coarsely chopped herbs\n1 teaspoon grated lemon zest"
 intrash: 0
 name: Hanger Steak with Olive Oil and Herbs
+notes: ''
+nutritional_info: ''
 photo: 39E9C8F4-B11E-4CF4-AB51-8B841250B6EA-14694-0000501D508C01D4.jpg
 photo_large: 6FFDBCB9-3F7E-4B26-ACDE-9F7EC12AE18D-14694-00005015BF597FBF.jpg
 photos:
@@ -32,19 +63,3 @@ total_time: ''
 type: null
 uid: D786F450-7037-453C-9DD7-EECBAE202032-39436-00015D8932851873
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>2 tablespoons Worcestershire sauce</li>
-<li>2 tablespoons soy sauce</li>
-<li>2 tablespoons Thai fish sauce</li>
-<li>2 tablespoons maple syrup</li>
-<li>1 1-pound hanger steak, trimmed and divided in two</li>
-<li>Salt and freshly ground black pepper</li>
-<li>10 ounces small potatoes, quartered</li>
-<li>5 tablespoons herbaceous extra virgin olive oil</li>
-<li>6 ounces greens, preferably baby spinach</li>
-<li>½ cup coarsely chopped herbs</li>
-<li>1 teaspoon grated lemon zest</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

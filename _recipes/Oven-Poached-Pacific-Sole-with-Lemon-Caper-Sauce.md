@@ -9,6 +9,74 @@ created: '2020-03-18 16:01:07'
 created_ts: 1584547267
 description: ''
 difficulty: ''
+directions: "Preheat the oven to 400 degrees. Oil or butter one or two baking dishes\
+  \ large enough to accommodate the fish fillets in one layer. Lay the fish in the\
+  \ dish(es) and season with salt and pepper.\n\nHeat the olive oil over medium heat\
+  \ in a small or medium skillet and add the shallot. Cook, stirring, until tender\
+  \ and translucent, about 3 minutes. Add the wine to the pan, bring to a boil, and\
+  \ pour the wine and shallots over the fish. Return the skillet to the stove (make\
+  \ sure the heat is off) for later use. Cover the baking dish with foil and place\
+  \ in the oven. Bake 8 to 10 minutes, or 5 minutes for each 1/2 inch of thickness,\
+  \ until the fish is opaque and pulls apart easily with a fork.\n\nWhile the fish\
+  \ is in the oven, whisk together the garlic, capers, lemon juice and olive oil.\
+  \ You can also mash the garlic in a mortar and pestle and work in the capers, lemon\
+  \ juice and olive oil, though I prefer the capers chopped, even some intact, and\
+  \ not pur\xE9ed.\n\nWhen the fish is done remove it from the oven and carefully\
+  \ transfer to a platter or plates. Cover and keep warm. Pour the liquid in the baking\
+  \ dish into the skillet and turn the heat on high. Reduce, stirring often, to about\
+  \ 1/4 cup \u2013 it should be thick \u2013 and stir in the garlic and caper mixture\
+  \ and the parsley. Whisk together, taste and adjust seasoning, pour over the fish\
+  \ and serve."
+html:
+  description: null
+  directions: "<p>Preheat the oven to 400 degrees. Oil or butter one or two baking\
+    \ dishes large enough to accommodate the fish fillets in one layer. Lay the fish\
+    \ in the dish(es) and season with salt and pepper.</p>\n<p>Heat the olive oil\
+    \ over medium heat in a small or medium skillet and add the shallot. Cook, stirring,\
+    \ until tender and translucent, about 3 minutes. Add the wine to the pan, bring\
+    \ to a boil, and pour the wine and shallots over the fish. Return the skillet\
+    \ to the stove (make sure the heat is off) for later use. Cover the baking dish\
+    \ with foil and place in the oven. Bake 8 to 10 minutes, or 5 minutes for each\
+    \ 1/2 inch of thickness, until the fish is opaque and pulls apart easily with\
+    \ a fork.</p>\n<p>While the fish is in the oven, whisk together the garlic, capers,\
+    \ lemon juice and olive oil. You can also mash the garlic in a mortar and pestle\
+    \ and work in the capers, lemon juice and olive oil, though I prefer the capers\
+    \ chopped, even some intact, and not pur\xE9ed.</p>\n<p>When the fish is done\
+    \ remove it from the oven and carefully transfer to a platter or plates. Cover\
+    \ and keep warm. Pour the liquid in the baking dish into the skillet and turn\
+    \ the heat on high. Reduce, stirring often, to about 1/4 cup \u2013 it should\
+    \ be thick \u2013 and stir in the garlic and caper mixture and the parsley. Whisk\
+    \ together, taste and adjust seasoning, pour over the fish and serve.</p>\n"
+  ingredients: "<ul>\n<li>1 \xBD pounds Pacific sole or flounder fillets</li>\n<li>Salt\
+    \ and freshly ground pepper</li>\n<li>1 tablespoon extra-virgin olive oil</li>\n\
+    <li>3 tablespoons finely chopped shallot</li>\n<li>1 cup dry white wine (you can\
+    \ also use ros\xE9; the sauce will have a pink hue)</li>\n<li>FOR THE SAUCE:</li>\n\
+    <li>1 plump garlic clove, minced or pur\xE9ed (more to taste)</li>\n<li>2 tablespoons\
+    \ capers, rinsed and coarsely chopped</li>\n<li>\xBC cup fresh lemon juice</li>\n\
+    <li>3 tablespoons extra-virgin olive oil</li>\n<li>2 to 4 tablespoons finely chopped\
+    \ parsley</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 299
+
+    Total Carbohydrates: 5 grams
+
+    Total Fat: 17 grams
+
+    Dietary fiber: 1 gram
+
+    Protein: 22 grams
+
+    Saturated fat: 3 grams
+
+    Sodium: 632 milligrams
+
+    Sugar: 2 grams
+
+    Trans Fat: 0 grams
+
+    Unsaturated fat: 11 grams</p>
+
+    '
 image_url: https://static01.nyt.com/images/2014/03/11/dining/11sole/11sole-articleLarge.jpg
 ingredients: "1 \xBD pounds Pacific sole or flounder fillets\nSalt and freshly ground\
   \ pepper\n1 tablespoon extra-virgin olive oil\n3 tablespoons finely chopped shallot\n\
@@ -18,6 +86,26 @@ ingredients: "1 \xBD pounds Pacific sole or flounder fillets\nSalt and freshly g
   \ extra-virgin olive oil\n2 to 4 tablespoons finely chopped parsley"
 intrash: 0
 name: Oven-Poached Pacific Sole with Lemon Caper Sauce
+notes: ''
+nutritional_info: 'Calories: 299
+
+  Total Carbohydrates: 5 grams
+
+  Total Fat: 17 grams
+
+  Dietary fiber: 1 gram
+
+  Protein: 22 grams
+
+  Saturated fat: 3 grams
+
+  Sodium: 632 milligrams
+
+  Sugar: 2 grams
+
+  Trans Fat: 0 grams
+
+  Unsaturated fat: 11 grams'
 photo: B6C2DA04-040B-401E-AB2E-3BC0F36182F0-9067-0000E0FBF5EDD277.jpg
 photo_large: null
 photos: []
@@ -31,19 +119,3 @@ total_time: ''
 type: null
 uid: B96AD161-7872-4FBB-ABD2-2C51CF408E15-9067-0000E0F8F7176475
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 ½ pounds Pacific sole or flounder fillets</li>
-<li>Salt and freshly ground pepper</li>
-<li>1 tablespoon extra-virgin olive oil</li>
-<li>3 tablespoons finely chopped shallot</li>
-<li>1 cup dry white wine (you can also use rosé; the sauce will have a pink hue)</li>
-<li>FOR THE SAUCE:</li>
-<li>1 plump garlic clove, minced or puréed (more to taste)</li>
-<li>2 tablespoons capers, rinsed and coarsely chopped</li>
-<li>¼ cup fresh lemon juice</li>
-<li>3 tablespoons extra-virgin olive oil</li>
-<li>2 to 4 tablespoons finely chopped parsley</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

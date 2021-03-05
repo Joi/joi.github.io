@@ -9,6 +9,57 @@ created: '2020-02-02 14:51:28'
 created_ts: 1580655088
 description: null
 difficulty: ''
+directions: "Rinse chicken thighs in water, and pat them very dry with paper towels.\
+  \ Sprinkle over them the flour, salt and pepper.\n\nMelt the butter in a large,\
+  \ heavy-bottomed pot or skillet set over medium-high heat. When the butter foams,\
+  \ cook the chicken, in batches if necessary, until well browned and crisp on all\
+  \ sides. Set aside.\n\nAdd the whole shallots to the pot and saut\xE9 them in the\
+  \ butter and chicken fat until they begin to soften and caramelize, approximately\
+  \ 10 to 12 minutes. Add the wine to deglaze the pot, stir with a large spoon, then\
+  \ add the mustard and tarragon, then the chicken thighs. Cover the pot, turn the\
+  \ heat to low and simmer for 30 minutes.\n\nRemove the lid, and allow the sauce\
+  \ to reduce and thicken, 15 to 20 minutes.\n\nAdd the cherry tomatoes to the pot,\
+  \ stir lightly to combine and serve immediately."
+html:
+  description: null
+  directions: "<p>Rinse chicken thighs in water, and pat them very dry with paper\
+    \ towels. Sprinkle over them the flour, salt and pepper.</p>\n<p>Melt the butter\
+    \ in a large, heavy-bottomed pot or skillet set over medium-high heat. When the\
+    \ butter foams, cook the chicken, in batches if necessary, until well browned\
+    \ and crisp on all sides. Set aside.</p>\n<p>Add the whole shallots to the pot\
+    \ and saut\xE9 them in the butter and chicken fat until they begin to soften and\
+    \ caramelize, approximately 10 to 12 minutes. Add the wine to deglaze the pot,\
+    \ stir with a large spoon, then add the mustard and tarragon, then the chicken\
+    \ thighs. Cover the pot, turn the heat to low and simmer for 30 minutes.</p>\n\
+    <p>Remove the lid, and allow the sauce to reduce and thicken, 15 to 20 minutes.</p>\n\
+    <p>Add the cherry tomatoes to the pot, stir lightly to combine and serve immediately.</p>\n"
+  ingredients: '<ul>
+
+    <li>8 bone-in chicken thighs</li>
+
+    <li>2 tablespoons flour</li>
+
+    <li>1 tablespoon kosher salt</li>
+
+    <li>1 tablespoon ground black pepper</li>
+
+    <li>2 tablespoons unsalted butter</li>
+
+    <li>12 to 15 whole medium shallots, peeled</li>
+
+    <li>2 cups white wine</li>
+
+    <li>2 tablespoons Dijon mustard</li>
+
+    <li>2 sprigs tarragon</li>
+
+    <li>2 cups cherry tomatoes, cut in half.</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: '8 bone-in chicken thighs
 
@@ -31,6 +82,8 @@ ingredients: '8 bone-in chicken thighs
   2 cups cherry tomatoes, cut in half.'
 intrash: 0
 name: "Rishia Zimmern\u2019s Chicken with Shallots"
+notes: null
+nutritional_info: null
 photo: 0D9ADA44-9A27-4604-8E5C-803C35475EE4-22544-0003EE9BCDA6FBC4.jpg
 photo_large: 624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg
 photos:
@@ -47,18 +100,3 @@ total_time: ''
 type: null
 uid: 57A666F1-E339-4107-80E4-F9F286673626-39996-000020226ACB939A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>8 bone-in chicken thighs</li>
-<li>2 tablespoons flour</li>
-<li>1 tablespoon kosher salt</li>
-<li>1 tablespoon ground black pepper</li>
-<li>2 tablespoons unsalted butter</li>
-<li>12 to 15 whole medium shallots, peeled</li>
-<li>2 cups white wine</li>
-<li>2 tablespoons Dijon mustard</li>
-<li>2 sprigs tarragon</li>
-<li>2 cups cherry tomatoes, cut in half.</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

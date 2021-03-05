@@ -8,6 +8,63 @@ created: '2020-08-17 15:50:48'
 created_ts: 1597679448
 description: ''
 difficulty: ''
+directions: 'Put the vinegar, shallots, black pepper and 1 tablespoon of tarragon
+  leaves into a small saucepan, and set over a medium flame. Bring just to a boil,
+  and then reduce heat to a simmer until there are only a few tablespoons of liquid
+  left, approximately 5 minutes. Remove from heat, and set aside to cool.
+
+
+  Fill a small saucepan with an inch or two of water, and set over medium-high heat
+  to boil.
+
+
+  Put the cooled shallot-and-tarragon mixture into a metal mixing bowl along with
+  a tablespoon of water and the egg yolks, then whisk to combine.
+
+
+  Turn the heat under the saucepan of water down to its lowest setting, and put the
+  bowl on top of the pan, making sure that it does not touch the water directly. Continue
+  to whisk the yolks until they thicken, approximately 5 to 7 minutes. You should
+  just about double the volume of the yolks.
+
+
+  Slowly beat in the butter, a tablespoon or two at a time, whisking slowly to combine
+  and emulsify. Remove the bowl from the pan occasionally, so as not to overcook the
+  eggs, and taste the sauce. Season with salt. If the flavor is not sharp enough,
+  add a splash of lemon juice. If the sauce is too thick, stir in a splash of hot
+  water. Add the remaining teaspoon of tarragon leaves, and serve.'
+html:
+  description: null
+  directions: '<p>Put the vinegar, shallots, black pepper and 1 tablespoon of tarragon
+    leaves into a small saucepan, and set over a medium flame. Bring just to a boil,
+    and then reduce heat to a simmer until there are only a few tablespoons of liquid
+    left, approximately 5 minutes. Remove from heat, and set aside to cool.</p>
+
+    <p>Fill a small saucepan with an inch or two of water, and set over medium-high
+    heat to boil.</p>
+
+    <p>Put the cooled shallot-and-tarragon mixture into a metal mixing bowl along
+    with a tablespoon of water and the egg yolks, then whisk to combine.</p>
+
+    <p>Turn the heat under the saucepan of water down to its lowest setting, and put
+    the bowl on top of the pan, making sure that it does not touch the water directly.
+    Continue to whisk the yolks until they thicken, approximately 5 to 7 minutes.
+    You should just about double the volume of the yolks.</p>
+
+    <p>Slowly beat in the butter, a tablespoon or two at a time, whisking slowly to
+    combine and emulsify. Remove the bowl from the pan occasionally, so as not to
+    overcook the eggs, and taste the sauce. Season with salt. If the flavor is not
+    sharp enough, add a splash of lemon juice. If the sauce is too thick, stir in
+    a splash of hot water. Add the remaining teaspoon of tarragon leaves, and serve.</p>
+
+    '
+  ingredients: "<ul>\n<li>\xBC cup white-wine vinegar</li>\n<li>1 small shallot, peeled\
+    \ and minced</li>\n<li>\xBD teaspoon freshly cracked black pepper</li>\n<li>1\
+    \ tablespoon plus 1 teaspoon chopped tarragon leaves</li>\n<li>2 egg yolks</li>\n\
+    <li>12 tablespoons unsalted butter, melted</li>\n<li>Kosher salt, to taste</li>\n\
+    <li>Splash of lemon juice, optional</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://static01.nyt.com/images/2015/05/10/magazine/10eat/10mag-10eat-t_CA0-articleLarge.jpg
 ingredients: "\xBC cup white-wine vinegar\n1 small shallot, peeled and minced\n\xBD\
   \ teaspoon freshly cracked black pepper\n1 tablespoon plus 1 teaspoon chopped tarragon\
@@ -15,6 +72,8 @@ ingredients: "\xBC cup white-wine vinegar\n1 small shallot, peeled and minced\n\
   Splash of lemon juice, optional"
 intrash: 0
 name: "B\xE9arnaise Sauce"
+notes: ''
+nutritional_info: ''
 photo: A2AFD596-C606-4E51-B59A-5CBEB6765946-2241-0000F0DFF24DEE34.jpg
 photo_large: null
 photos: []
@@ -28,16 +87,3 @@ total_time: ''
 type: null
 uid: 372FCAD3-4EE2-443B-92A8-59D831B0086F-2241-0000F0DBFFBC4020
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>¼ cup white-wine vinegar</li>
-<li>1 small shallot, peeled and minced</li>
-<li>½ teaspoon freshly cracked black pepper</li>
-<li>1 tablespoon plus 1 teaspoon chopped tarragon leaves</li>
-<li>2 egg yolks</li>
-<li>12 tablespoons unsalted butter, melted</li>
-<li>Kosher salt, to taste</li>
-<li>Splash of lemon juice, optional</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

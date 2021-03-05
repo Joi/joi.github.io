@@ -8,6 +8,52 @@ created: '2020-08-11 18:05:09'
 created_ts: 1597169109
 description: ''
 difficulty: ''
+directions: "The Dressing:\n\nChop together anchovy fillets, garlic, and pinch of\
+  \ salt. Use the side of a knife blade to mash into a paste, then scrape into a medium\
+  \ bowl. Whisk in egg yolks, 2 Tbsp. lemon juice, and mustard. Adding drop by drop\
+  \ to start, gradually whisk in olive oil, then vegetable oil; whisk until dressing\
+  \ is thick and glossy. Whisk in Parmesan. Season with salt, pepper, and more lemon\
+  \ juice, if desired.\n\nDO AHEAD: Can be made 1 day ahead.\n\nThe Croutons:\n\n\
+  Make your own. Tearing, not cutting the bread ensures nooks and crannies that catch\
+  \ the dressing and add texture. Preheat oven to 375\xB0. Toss bread with olive oil\
+  \ on a baking sheet; season with salt and pepper. Bake, tossing occasionally, until\
+  \ golden, 10\u201315 minutes.\n\nThe Lettuce:\n\nUse whole leaves; they provide\
+  \ the ideal mix of crispness, surface area, and structure.\n\nThe Cheese:\n\nCaesars\
+  \ crowned with a mound of grated Parmesan may look impressive, but all that clumpy\
+  \ cheese mutes the dressing. Instead, use a vegetable peeler to thinly shave a modest\
+  \ amount on top for little salty bursts.\n\nThe Assembly\n\nSkip the tongs. Use\
+  \ your hands to gently toss the lettuce, croutons, and dressing, then top off with\
+  \ the shaved Parm."
+html:
+  description: null
+  directions: "<p>The Dressing:</p>\n<p>Chop together anchovy fillets, garlic, and\
+    \ pinch of salt. Use the side of a knife blade to mash into a paste, then scrape\
+    \ into a medium bowl. Whisk in egg yolks, 2 Tbsp. lemon juice, and mustard. Adding\
+    \ drop by drop to start, gradually whisk in olive oil, then vegetable oil; whisk\
+    \ until dressing is thick and glossy. Whisk in Parmesan. Season with salt, pepper,\
+    \ and more lemon juice, if desired.</p>\n<p>DO AHEAD: Can be made 1 day ahead.</p>\n\
+    <p>The Croutons:</p>\n<p>Make your own. Tearing, not cutting the bread ensures\
+    \ nooks and crannies that catch the dressing and add texture. Preheat oven to\
+    \ 375\xB0. Toss bread with olive oil on a baking sheet; season with salt and pepper.\
+    \ Bake, tossing occasionally, until golden, 10\u201315 minutes.</p>\n<p>The Lettuce:</p>\n\
+    <p>Use whole leaves; they provide the ideal mix of crispness, surface area, and\
+    \ structure.</p>\n<p>The Cheese:</p>\n<p>Caesars crowned with a mound of grated\
+    \ Parmesan may look impressive, but all that clumpy cheese mutes the dressing.\
+    \ Instead, use a vegetable peeler to thinly shave a modest amount on top for little\
+    \ salty bursts.</p>\n<p>The Assembly</p>\n<p>Skip the tongs. Use your hands to\
+    \ gently toss the lettuce, croutons, and dressing, then top off with the shaved\
+    \ Parm.</p>\n"
+  ingredients: "<ul>\n<li>The Dressing:</li>\n<li>6 anchovy fillets packed in oil,\
+    \ drained</li>\n<li>1 small garlic clove</li>\n<li>Kosher salt</li>\n<li>2 large\
+    \ egg yolks</li>\n<li>2 tablespoons fresh lemon juice, plus more</li>\n<li>\xBE\
+    \ teaspoon Dijon mustard</li>\n<li>2 tablespoons olive oil</li>\n<li>\xBD cup\
+    \ vegetable oil</li>\n<li>3 tablespoons finely grated Parmesan</li>\n<li>Freshly\
+    \ ground black pepper</li>\n<li>The Croutons:</li>\n<li>3 cups torn 1&quot; pieces\
+    \ country bread, with crusts</li>\n<li>3 tablespoons olive oil</li>\n<li>The Lettuce:</li>\n\
+    <li>3 romaine hearts, leaves separated</li>\n<li>The Cheese:</li>\n<li>Parmesan,\
+    \ for serving</li>\n</ul>\n"
+  notes: ''
+  nutrition: null
 image_url: https://assets.bonappetit.com/photos/57ae12ef53e63daf11a4e1d6/16:9/w_1880,c_limit/BA-best-classic-caeser-salad.jpg
 ingredients: "The Dressing:\n6 anchovy fillets packed in oil, drained\n1 small garlic\
   \ clove\nKosher salt\n2 large egg yolks\n2 tablespoons fresh lemon juice, plus more\n\
@@ -17,6 +63,8 @@ ingredients: "The Dressing:\n6 anchovy fillets packed in oil, drained\n1 small g
   \ Lettuce:\n3 romaine hearts, leaves separated\nThe Cheese:\nParmesan, for serving"
 intrash: 0
 name: Classic Caesar Salad
+notes: ' '
+nutritional_info: ''
 photo: 1047285C-5914-49E8-91B9-69F8F9418A50-1060-0002AF0977449E27.jpg
 photo_large: null
 photos: []
@@ -30,26 +78,4 @@ total_time: ''
 type: null
 uid: A4154EF4-77BC-4CC2-AD86-57C0D9DA6EE5-1060-0002AF06087A9657
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>The Dressing:</li>
-<li>6 anchovy fillets packed in oil, drained</li>
-<li>1 small garlic clove</li>
-<li>Kosher salt</li>
-<li>2 large egg yolks</li>
-<li>2 tablespoons fresh lemon juice, plus more</li>
-<li>¾ teaspoon Dijon mustard</li>
-<li>2 tablespoons olive oil</li>
-<li>½ cup vegetable oil</li>
-<li>3 tablespoons finely grated Parmesan</li>
-<li>Freshly ground black pepper</li>
-<li>The Croutons:</li>
-<li>3 cups torn 1&quot; pieces country bread, with crusts</li>
-<li>3 tablespoons olive oil</li>
-<li>The Lettuce:</li>
-<li>3 romaine hearts, leaves separated</li>
-<li>The Cheese:</li>
-<li>Parmesan, for serving</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+ 

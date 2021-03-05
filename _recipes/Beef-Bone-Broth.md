@@ -9,6 +9,83 @@ created: '2020-10-13 20:10:16'
 created_ts: 1602619816
 description: ''
 difficulty: ''
+directions: "Preheat oven to 450\xB0F. Place beef bones, carrots, leek, onion, and\
+  \ garlic on a roasting pan or rimmed baking sheet and roast for 20 minutes. Toss\
+  \ the contents of the pan and continue to roast until deeply browned, about 20 minutes\
+  \ more.\n\nFill a large (at least 6-quart) stockpot with 12 cups of water (preferably\
+  \ filtered) . Add celery, bay leaves, peppercorns, and vinegar. Scrape the roasted\
+  \ bones and vegetables into the pot along with any juices. Add more water if necessary\
+  \ to cover bones and vegetables.\n\nCover the pot and bring to a gentle boil. Reduce\
+  \ heat to a very low simmer and cook with lid slightly ajar, skimming foam and excess\
+  \ fat occasionally, for at least 8 but up to 24 hours on the stovetop. (Do not leave\
+  \ on stovetop unattended, simply cool and continue simmering the next day.) The\
+  \ longer you simmer it, the better your broth will be. Add more water if necessary\
+  \ to ensure bones and vegetables are fully submerged. Alternately, you can cook\
+  \ the broth in a slow cooker on low for the same amount of time.\n\nRemove the pot\
+  \ from the heat and let cool slightly. Strain broth using a fine-mesh sieve and\
+  \ discard bones and vegetables. Let continue to cool until barely warm, then refrigerate\
+  \ in smaller containers overnight. Remove solidified fat from the top of the chilled\
+  \ broth.\n\nDo Ahead:\n\nBroth can be stored for up to 5 days in the refrigerator\
+  \ and up to 6 months in the freezer."
+html:
+  description: null
+  directions: "<p>Preheat oven to 450\xB0F. Place beef bones, carrots, leek, onion,\
+    \ and garlic on a roasting pan or rimmed baking sheet and roast for 20 minutes.\
+    \ Toss the contents of the pan and continue to roast until deeply browned, about\
+    \ 20 minutes more.</p>\n<p>Fill a large (at least 6-quart) stockpot with 12 cups\
+    \ of water (preferably filtered) . Add celery, bay leaves, peppercorns, and vinegar.\
+    \ Scrape the roasted bones and vegetables into the pot along with any juices.\
+    \ Add more water if necessary to cover bones and vegetables.</p>\n<p>Cover the\
+    \ pot and bring to a gentle boil. Reduce heat to a very low simmer and cook with\
+    \ lid slightly ajar, skimming foam and excess fat occasionally, for at least 8\
+    \ but up to 24 hours on the stovetop. (Do not leave on stovetop unattended, simply\
+    \ cool and continue simmering the next day.) The longer you simmer it, the better\
+    \ your broth will be. Add more water if necessary to ensure bones and vegetables\
+    \ are fully submerged. Alternately, you can cook the broth in a slow cooker on\
+    \ low for the same amount of time.</p>\n<p>Remove the pot from the heat and let\
+    \ cool slightly. Strain broth using a fine-mesh sieve and discard bones and vegetables.\
+    \ Let continue to cool until barely warm, then refrigerate in smaller containers\
+    \ overnight. Remove solidified fat from the top of the chilled broth.</p>\n<p>Do\
+    \ Ahead:</p>\n<p>Broth can be stored for up to 5 days in the refrigerator and\
+    \ up to 6 months in the freezer.</p>\n"
+  ingredients: '<ul>
+
+    <li>4 pounds beef bones, preferably a mix of marrow bones and bones with a little
+    meat on them, such as oxtail, short ribs, or knuckle bones (cut in half by a butcher)</li>
+
+    <li>2 medium unpeeled carrots, cut into 2-inch pieces</li>
+
+    <li>1 medium leek, end trimmed, cut into 2-inch pieces</li>
+
+    <li>1 medium onion, quartered</li>
+
+    <li>1 garlic head, halved crosswise</li>
+
+    <li>2 celery stalks, cut into 2-inch pieces</li>
+
+    <li>2 bay leaves</li>
+
+    <li>2 tablespoons black peppercorns</li>
+
+    <li>1 tablespoon cider vinegar</li>
+
+    <li>Special equipment:</li>
+
+    <li>6-quart (or larger) stockpot or a large slow cooker</li>
+
+    </ul>
+
+    '
+  notes: '<p>1:1 or 3:2 pounds of water per pounds of bone.
+
+    2 pounds per quart of water.
+
+    7 pounds of bones = 10.5 pounds of water
+
+    10.5 lb = 5 quarts</p>
+
+    '
+  nutrition: null
 image_url: https://assets.epicurious.com/photos/56be3121af205081531c883f/2:1/w_1260%2Ch_630/EP_02112016_bone_broth_hero.jpg
 ingredients: '4 pounds beef bones, preferably a mix of marrow bones and bones with
   a little meat on them, such as oxtail, short ribs, or knuckle bones (cut in half
@@ -35,6 +112,16 @@ ingredients: '4 pounds beef bones, preferably a mix of marrow bones and bones wi
   6-quart (or larger) stockpot or a large slow cooker'
 intrash: 0
 name: Beef Bone Broth
+notes: '1:1 or 3:2 pounds of water per pounds of bone.
+
+  2 pounds per quart of water.
+
+  7 pounds of bones = 10.5 pounds of water
+
+  10.5 lb = 5 quarts
+
+  '
+nutritional_info: ''
 photo: E6046610-A735-43B0-82F1-635D113A4B5B-38082-0000B645F45A03A7.jpg
 photo_large: null
 photos: []
@@ -48,19 +135,8 @@ total_time: ''
 type: null
 uid: 193BCEC7-317B-4381-8CA9-223F4306AD0D-38082-0000B63FB3D98158
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>4 pounds beef bones, preferably a mix of marrow bones and bones with a little meat on them, such as oxtail, short ribs, or knuckle bones (cut in half by a butcher)</li>
-<li>2 medium unpeeled carrots, cut into 2-inch pieces</li>
-<li>1 medium leek, end trimmed, cut into 2-inch pieces</li>
-<li>1 medium onion, quartered</li>
-<li>1 garlic head, halved crosswise</li>
-<li>2 celery stalks, cut into 2-inch pieces</li>
-<li>2 bay leaves</li>
-<li>2 tablespoons black peppercorns</li>
-<li>1 tablespoon cider vinegar</li>
-<li>Special equipment:</li>
-<li>6-quart (or larger) stockpot or a large slow cooker</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+1:1 or 3:2 pounds of water per pounds of bone.
+2 pounds per quart of water.
+7 pounds of bones = 10.5 pounds of water
+10.5 lb = 5 quarts
+

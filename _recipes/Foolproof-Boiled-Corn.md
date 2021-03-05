@@ -19,6 +19,47 @@ description: "To produce perfectly crisp, juicy corn every time, we figured out 
   \ between six and eight ears of different sizes, and the corn can sit in the water\
   \ for as long as 30 minutes without overcooking."
 difficulty: ''
+directions: 'Bring 4 quarts water to boil in large Dutch oven. Turn off heat, add
+  corn to water, cover, and let stand for at least 10 minutes or up to 30 minutes.
+
+
+  Transfer corn to large platter and serve immediately, passing butter, salt, and
+  pepper separately.'
+html:
+  description: "<p>To produce perfectly crisp, juicy corn every time, we figured out\
+    \ that the ideal doneness range is 150 to 170 degrees\u2014when the starches have\
+    \ gelatinized but a minimum amount of the pectin (the glue that holds the cell\
+    \ walls together) has dissolved. Consistently cooking the corn to that temperature\
+    \ was easy once we realized that we shouldn\u2019t boil the corn. Instead, we\
+    \ used a hack sous vide method: bringing a measured amount of water (4 quarts)\
+    \ to a boil, shutting off the heat, dropping in six ears of corn, and letting\
+    \ the corn stand for at least 10 minutes. The temperature of the water decreased\
+    \ quickly enough that there was never any chance of the corn overcooking, while\
+    \ the temperature of the corn increased to the ideal zone. Even better, the method\
+    \ is flexible: It can accommodate between six and eight ears of different sizes,\
+    \ and the corn can sit in the water for as long as 30 minutes without overcooking.</p>\n"
+  directions: '<p>Bring 4 quarts water to boil in large Dutch oven. Turn off heat,
+    add corn to water, cover, and let stand for at least 10 minutes or up to 30 minutes.</p>
+
+    <p>Transfer corn to large platter and serve immediately, passing butter, salt,
+    and pepper separately.</p>
+
+    '
+  ingredients: '<ul>
+
+    <li>GATHER YOUR INGREDIENTS</li>
+
+    <li>6 ears corn, husks and silk removed</li>
+
+    <li>Unsalted butter, softened</li>
+
+    <li>Salt and pepper</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/31790_sfs-boiled-corn-19
 ingredients: 'GATHER YOUR INGREDIENTS
 
@@ -29,6 +70,8 @@ ingredients: 'GATHER YOUR INGREDIENTS
   Salt and pepper'
 intrash: 0
 name: Foolproof Boiled Corn
+notes: ''
+nutritional_info: ''
 photo: EF968C31-83C9-4E18-92F0-6B0B81641DF5-631-00013DEE04705116.jpg
 photo_large: null
 photos: []
@@ -42,12 +85,3 @@ total_time: ''
 type: null
 uid: 6F310E22-E32B-458B-8309-74E56BB2E992-631-00013DE97356728A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>GATHER YOUR INGREDIENTS</li>
-<li>6 ears corn, husks and silk removed</li>
-<li>Unsalted butter, softened</li>
-<li>Salt and pepper</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -9,6 +9,76 @@ created: '2020-03-28 14:16:39'
 created_ts: 1585404999
 description: null
 difficulty: null
+directions: 'Melt two tablespoons of the butter in a large skillet. Add the onion
+  and saute until soft but not brown. Finely chop spinach and add to skillet, cooking
+  over medium heat until the spinach has wilted and most of the liquid in the pan
+  has evaporated.
+
+
+  In a separate sauce pan melt the remaining three tablespoons of butter. Add the
+  flour and cook for a minute or two. Add the milk and continue cooking over medium
+  heat, stirring constantly, until the sauce comes to a boil, is thickened and smooth.
+  Remove from heat. Add two-thirds cup of the sauce to the spinach. Add parsley, salt
+  and pepper to taste to the spinach.
+
+
+  Preheat oven to 350 degrees. Lightly butter a shallow baking pan. Season fish with
+  salt and pepper, arrange in the baking pan and spread the spinach over the fillets.
+
+
+  Add the cream to the remaining sauce in the saucepan and heat it through. Season
+  with salt and pepper, spread it over the spinach and fish, sprinkle with grated
+  cheese and bake 35 to 40 minutes.'
+html:
+  description: null
+  directions: '<p>Melt two tablespoons of the butter in a large skillet. Add the onion
+    and saute until soft but not brown. Finely chop spinach and add to skillet, cooking
+    over medium heat until the spinach has wilted and most of the liquid in the pan
+    has evaporated.</p>
+
+    <p>In a separate sauce pan melt the remaining three tablespoons of butter. Add
+    the flour and cook for a minute or two. Add the milk and continue cooking over
+    medium heat, stirring constantly, until the sauce comes to a boil, is thickened
+    and smooth. Remove from heat. Add two-thirds cup of the sauce to the spinach.
+    Add parsley, salt and pepper to taste to the spinach.</p>
+
+    <p>Preheat oven to 350 degrees. Lightly butter a shallow baking pan. Season fish
+    with salt and pepper, arrange in the baking pan and spread the spinach over the
+    fillets.</p>
+
+    <p>Add the cream to the remaining sauce in the saucepan and heat it through. Season
+    with salt and pepper, spread it over the spinach and fish, sprinkle with grated
+    cheese and bake 35 to 40 minutes.</p>
+
+    '
+  ingredients: "<ul>\n<li>5 tablespoons butter</li>\n<li>2 tablespoons chopped onion</li>\n\
+    <li>4 cups fresh spinach, washed and well-drained</li>\n<li>3 tablespoons flour</li>\n\
+    <li>1 \xBD cups milk</li>\n<li>1 tablespoon minced parsley</li>\n<li>Salt and\
+    \ freshly ground pepper</li>\n<li>2 pounds pollock or haddock fillets</li>\n<li>\xBD\
+    \ cup heavy cream</li>\n<li>2 tablespoons freshly grated Parmesan cheese</li>\n\
+    </ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 337
+
+    Total Carbohydrates: 8 grams
+
+    Total Fat: 21 grams
+
+    Dietary fiber: 1 gram
+
+    Protein: 31 grams
+
+    Saturated fat: 13 grams
+
+    Sodium: 645 milligrams
+
+    Sugar: 4 grams
+
+    Trans Fat: 0 grams
+
+    Unsaturated fat: 6 grams</p>
+
+    '
 image_url: https://static01.nyt.com/applications/cooking/b2fa694/assets/NYTCookingLogo.png
 ingredients: "5 tablespoons butter\n2 tablespoons chopped onion\n4 cups fresh spinach,\
   \ washed and well-drained\n3 tablespoons flour\n1 \xBD cups milk\n1 tablespoon minced\
@@ -16,6 +86,26 @@ ingredients: "5 tablespoons butter\n2 tablespoons chopped onion\n4 cups fresh sp
   \xBD cup heavy cream\n2 tablespoons freshly grated Parmesan cheese"
 intrash: 0
 name: Pollock or Haddock with Spinach
+notes: null
+nutritional_info: 'Calories: 337
+
+  Total Carbohydrates: 8 grams
+
+  Total Fat: 21 grams
+
+  Dietary fiber: 1 gram
+
+  Protein: 31 grams
+
+  Saturated fat: 13 grams
+
+  Sodium: 645 milligrams
+
+  Sugar: 4 grams
+
+  Trans Fat: 0 grams
+
+  Unsaturated fat: 6 grams'
 photo: C0A8036F-CC91-4817-B1A0-7853FCE09AB7-38252-00015A09687E4301.jpg
 photo_large: null
 photos: []
@@ -29,18 +119,3 @@ total_time: null
 type: null
 uid: 8E9EC973-FDF5-4F63-9533-6897DA47F569-38252-00015A06CE46E4D5
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>5 tablespoons butter</li>
-<li>2 tablespoons chopped onion</li>
-<li>4 cups fresh spinach, washed and well-drained</li>
-<li>3 tablespoons flour</li>
-<li>1 ½ cups milk</li>
-<li>1 tablespoon minced parsley</li>
-<li>Salt and freshly ground pepper</li>
-<li>2 pounds pollock or haddock fillets</li>
-<li>½ cup heavy cream</li>
-<li>2 tablespoons freshly grated Parmesan cheese</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

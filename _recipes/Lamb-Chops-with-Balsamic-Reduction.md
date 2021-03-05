@@ -8,6 +8,52 @@ created: '2020-12-25 13:02:18'
 created_ts: 1608901338
 description: null
 difficulty: null
+directions: 'In a small bowl or cup, mix together the rosemary, basil, thyme, salt
+  and pepper. Rub this mixture onto the lamb chops on both sides. Place them on a
+  plate, cover and set aside for 15 minutes to absorb the flavors.
+
+
+  Heat olive oil in a large skillet over medium-high heat. Place lamb chops in the
+  skillet, and cook for about 3 1/2 minutes per side for medium rare, or continue
+  to cook to your desired doneness. Remove from the skillet, and keep warm on a serving
+  platter.
+
+
+  Add shallots to the skillet, and cook for a few minutes, just until browned. Stir
+  in vinegar, scraping any bits of lamb from the bottom of the skillet, then stir
+  in the chicken broth. Continue to cook and stir over medium-high heat for about
+  5 minutes, until the sauce has reduced by half. If you don''t, the sauce will be
+  runny and not good. Remove from heat, and stir in the butter. Pour over the lamb
+  chops, and serve.'
+html:
+  description: null
+  directions: '<p>In a small bowl or cup, mix together the rosemary, basil, thyme,
+    salt and pepper. Rub this mixture onto the lamb chops on both sides. Place them
+    on a plate, cover and set aside for 15 minutes to absorb the flavors.</p>
+
+    <p>Heat olive oil in a large skillet over medium-high heat. Place lamb chops in
+    the skillet, and cook for about 3 1/2 minutes per side for medium rare, or continue
+    to cook to your desired doneness. Remove from the skillet, and keep warm on a
+    serving platter.</p>
+
+    <p>Add shallots to the skillet, and cook for a few minutes, just until browned.
+    Stir in vinegar, scraping any bits of lamb from the bottom of the skillet, then
+    stir in the chicken broth. Continue to cook and stir over medium-high heat for
+    about 5 minutes, until the sauce has reduced by half. If you don''t, the sauce
+    will be runny and not good. Remove from heat, and stir in the butter. Pour over
+    the lamb chops, and serve.</p>
+
+    '
+  ingredients: "<ul>\n<li>\xBE teaspoon dried rosemary</li>\n<li>\xBC teaspoon dried\
+    \ basil</li>\n<li>\xBD teaspoon dried thyme</li>\n<li>salt and pepper to taste</li>\n\
+    <li>4 lamb chops (3/4 inch thick)</li>\n<li>1 tablespoon olive oil</li>\n<li>\xBC\
+    \ cup minced shallots</li>\n<li>\u2153 cup aged balsamic vinegar</li>\n<li>\xBE\
+    \ cup chicken broth</li>\n<li>1 tablespoon butter</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>255 calories; protein 14.6g; carbohydrates 5g; fat 19.3g; cholesterol
+    63.9mg; sodium 70.4mg. Full Nutrition</p>
+
+    '
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F31252.jpg&q=85
 ingredients: "\xBE teaspoon dried rosemary\n\xBC teaspoon dried basil\n\xBD teaspoon\
   \ dried thyme\nsalt and pepper to taste\n4 lamb chops (3/4 inch thick)\n1 tablespoon\
@@ -15,6 +61,9 @@ ingredients: "\xBE teaspoon dried rosemary\n\xBC teaspoon dried basil\n\xBD teas
   \ chicken broth\n1 tablespoon butter"
 intrash: 0
 name: Lamb Chops with Balsamic Reduction
+notes: null
+nutritional_info: 255 calories; protein 14.6g; carbohydrates 5g; fat 19.3g; cholesterol
+  63.9mg; sodium 70.4mg. Full Nutrition
 photo: B49F6AA3-4916-4150-AF91-0A12BB98E612-66769-0000358331D1622E.jpg
 photo_large: null
 photos: []
@@ -28,18 +77,3 @@ total_time: null
 type: null
 uid: CF13A615-D8DB-4892-8DB0-899A104CEC15-66769-00003583266CAEEC
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>¾ teaspoon dried rosemary</li>
-<li>¼ teaspoon dried basil</li>
-<li>½ teaspoon dried thyme</li>
-<li>salt and pepper to taste</li>
-<li>4 lamb chops (3/4 inch thick)</li>
-<li>1 tablespoon olive oil</li>
-<li>¼ cup minced shallots</li>
-<li>⅓ cup aged balsamic vinegar</li>
-<li>¾ cup chicken broth</li>
-<li>1 tablespoon butter</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

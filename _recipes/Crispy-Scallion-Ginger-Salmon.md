@@ -8,6 +8,54 @@ created: '2020-10-20 18:43:43'
 created_ts: 1603219423
 description: ''
 difficulty: ''
+directions: "Place a frying pan (we used a cast-iron skillet), over medium-high heat.\
+  \ Spread two tablespoons of oil evenly in the pan. Place the salmon in the pan skin-side\
+  \ down. Cook the salmon on each side for 4-7 minutes, depending on the thickness\
+  \ of the piece. These somewhat thicker fillets took closer to 7 minutes on each\
+  \ side. Don\u2019t fuss with the salmon while it cooks.\n\nAs a little cheat, look\
+  \ at the side of your filet. There should be no appearance of rawness in the middle.\
+  \ As the cooked salmon converges in the center of the cross-section of your filet\
+  \ as you sear each side, you\u2019ll be able to get a decent sense of when your\
+  \ salmon is cooked.\n\nWhile the salmon is cooking, in a small bowl, mix together\
+  \ the water, soy sauce, sugar, sesame oil, and salt. Set aside.\n\nTransfer the\
+  \ cooked filets to a plate. In the same pan you seared the salmon in, add 2 tablespoons\
+  \ of oil, and lightly fry the ginger until crisp. Add the scallions and cook until\
+  \ wilted, followed by the prepared soy sauce mixture. Bring the sauce to a boil,\
+  \ and turn off the heat.\n\nTo serve the salmon, place on a bed of rice, and spoon\
+  \ the scallion and ginger evenly over the salmon. Pour the sauce over the top, and\
+  \ sprinkle with the chopped cilantro."
+html:
+  description: null
+  directions: "<p>Place a frying pan (we used a cast-iron skillet), over medium-high\
+    \ heat. Spread two tablespoons of oil evenly in the pan. Place the salmon in the\
+    \ pan skin-side down. Cook the salmon on each side for 4-7 minutes, depending\
+    \ on the thickness of the piece. These somewhat thicker fillets took closer to\
+    \ 7 minutes on each side. Don\u2019t fuss with the salmon while it cooks.</p>\n\
+    <p>As a little cheat, look at the side of your filet. There should be no appearance\
+    \ of rawness in the middle. As the cooked salmon converges in the center of the\
+    \ cross-section of your filet as you sear each side, you\u2019ll be able to get\
+    \ a decent sense of when your salmon is cooked.</p>\n<p>While the salmon is cooking,\
+    \ in a small bowl, mix together the water, soy sauce, sugar, sesame oil, and salt.\
+    \ Set aside.</p>\n<p>Transfer the cooked filets to a plate. In the same pan you\
+    \ seared the salmon in, add 2 tablespoons of oil, and lightly fry the ginger until\
+    \ crisp. Add the scallions and cook until wilted, followed by the prepared soy\
+    \ sauce mixture. Bring the sauce to a boil, and turn off the heat.</p>\n<p>To\
+    \ serve the salmon, place on a bed of rice, and spoon the scallion and ginger\
+    \ evenly over the salmon. Pour the sauce over the top, and sprinkle with the chopped\
+    \ cilantro.</p>\n"
+  ingredients: "<ul>\n<li>4 tablespoons oil</li>\n<li>2 eight oz. salmon fillets (450g\
+    \ total, sprinkled lightly and evenly with salt)</li>\n<li>\xBD cup water</li>\n\
+    <li>3 tablespoons soy sauce</li>\n<li>1 teaspoon sugar</li>\n<li>\xBC teaspoon\
+    \ sesame oil</li>\n<li>\xBC teaspoon salt</li>\n<li>4 tablespoons ginger (finely\
+    \ julienned)</li>\n<li>3 scallions (very thinly julienned into 2-inch pieces)</li>\n\
+    <li>1/2 cup cilantro (chopped)</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 308kcal (15%) Carbohydrates: 4g (1%) Protein: 24g (48%)
+    Fat: 22g (34%) Saturated Fat: 2g (10%) Cholesterol: 62mg (21%) Sodium: 954mg (40%)
+    Potassium: 649mg (19%) Fiber: 1g (4%) Sugar: 2g (2%) Vitamin A: 270IU (5%) Vitamin
+    C: 2.6mg (3%) Calcium: 23mg (2%) Iron: 1.4mg (8%)</p>
+
+    '
 image_url: https://thewoksoflife.com/wp-content/uploads/2017/03/scallion-ginger-salmon-7-340x511.jpg
 ingredients: "4 tablespoons oil\n2 eight oz. salmon fillets (450g total, sprinkled\
   \ lightly and evenly with salt)\n\xBD cup water\n3 tablespoons soy sauce\n1 teaspoon\
@@ -16,6 +64,11 @@ ingredients: "4 tablespoons oil\n2 eight oz. salmon fillets (450g total, sprinkl
   \ (chopped)"
 intrash: 0
 name: Crispy Scallion Ginger Salmon
+notes: ''
+nutritional_info: 'Calories: 308kcal (15%) Carbohydrates: 4g (1%) Protein: 24g (48%)
+  Fat: 22g (34%) Saturated Fat: 2g (10%) Cholesterol: 62mg (21%) Sodium: 954mg (40%)
+  Potassium: 649mg (19%) Fiber: 1g (4%) Sugar: 2g (2%) Vitamin A: 270IU (5%) Vitamin
+  C: 2.6mg (3%) Calcium: 23mg (2%) Iron: 1.4mg (8%)'
 photo: 4F294E9F-8B3C-4BD9-A6CF-24F1FA1FF44F-7512-0001E1EADD30A70D.jpg
 photo_large: null
 photos: []
@@ -29,18 +82,3 @@ total_time: ''
 type: null
 uid: FB351175-E30A-46F7-828B-2061D4F07D63-7512-0001E1E6CCA51ED2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>4 tablespoons oil</li>
-<li>2 eight oz. salmon fillets (450g total, sprinkled lightly and evenly with salt)</li>
-<li>½ cup water</li>
-<li>3 tablespoons soy sauce</li>
-<li>1 teaspoon sugar</li>
-<li>¼ teaspoon sesame oil</li>
-<li>¼ teaspoon salt</li>
-<li>4 tablespoons ginger (finely julienned)</li>
-<li>3 scallions (very thinly julienned into 2-inch pieces)</li>
-<li>1/2 cup cilantro (chopped)</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

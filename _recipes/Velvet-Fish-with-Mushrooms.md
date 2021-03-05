@@ -9,6 +9,74 @@ created: '2020-04-11 13:31:52'
 created_ts: 1586611912
 description: ''
 difficulty: ''
+directions: "Pour the egg white into a medium-size bowl, then add to it 1 tablespoon\
+  \ plus 1 teaspoon cornstarch, 1 tablespoon plus 1 teaspoon rice wine and salt, and\
+  \ whisk until all the cornstarch has dissolved. Use a chef\u2019s knife held at\
+  \ a 45-degree angle to the cutting surface to slice the fish fillets crosswise into\
+  \ 1/2-inch slices. Add the fish to the cornstarch mixture, then carefully toss it\
+  \ to coat the fish, and set aside to marinate for 30 to 45 minutes.\n\nPlace the\
+  \ mushrooms in a small bowl, then pour hot water over them and allow them to soak\
+  \ for 20 minutes or so, until they are very soft. Remove the mushrooms from the\
+  \ water and dry them, then thinly slice each mushroom. (Reserve the mushroom-soaking\
+  \ liquid.)\n\nMake the sauce. Combine the oyster sauce, the remaining tablespoon\
+  \ of rice wine, soy sauces, vinegars and sugar in a bowl, then whisk to combine.\
+  \ Sprinkle in the remaining tablespoon cornstarch, and whisk to dissolve it into\
+  \ the sauce. Add a tablespoon of the mushroom-soaking liquid or water, and set aside.\n\
+  \nVelvet the fish. Fill a wok or large pot with water, and bring to a boil over\
+  \ high heat. Add a teaspoon of oil to the boiling water. Carefully add the fish\
+  \ to the water, piece by piece, working in batches so as not to crowd the pieces.\
+  \ Allow the fish to cook until it has turned opaque, approximately 1 to 2 minutes,\
+  \ depending on the thickness of the fillets. Using a skimmer or spider, transfer\
+  \ the fish carefully to a platter to rest.\n\nTo finish the dish, heat the remaining\
+  \ 2 tablespoons oil in a wok or large skillet set over high heat. When the oil shimmers\
+  \ and is about to smoke, add the scallions, garlic and ginger, and stir-fry for\
+  \ 30 seconds, or until the mixture is fragrant. Add the mushrooms, and continue\
+  \ to stir-fry for an additional 30 seconds. Stir the sauce mixture, and add it to\
+  \ the wok, then cook for 2 to 3 minutes, until it has thickened slightly. If it\
+  \ is too thick, thin it out with some of the mushroom-soaking liquid. Add the fish\
+  \ to the wok, and carefully toss until the flesh is coated. Transfer the mixture\
+  \ to a warm platter, and serve immediately."
+html:
+  description: null
+  directions: "<p>Pour the egg white into a medium-size bowl, then add to it 1 tablespoon\
+    \ plus 1 teaspoon cornstarch, 1 tablespoon plus 1 teaspoon rice wine and salt,\
+    \ and whisk until all the cornstarch has dissolved. Use a chef\u2019s knife held\
+    \ at a 45-degree angle to the cutting surface to slice the fish fillets crosswise\
+    \ into 1/2-inch slices. Add the fish to the cornstarch mixture, then carefully\
+    \ toss it to coat the fish, and set aside to marinate for 30 to 45 minutes.</p>\n\
+    <p>Place the mushrooms in a small bowl, then pour hot water over them and allow\
+    \ them to soak for 20 minutes or so, until they are very soft. Remove the mushrooms\
+    \ from the water and dry them, then thinly slice each mushroom. (Reserve the mushroom-soaking\
+    \ liquid.)</p>\n<p>Make the sauce. Combine the oyster sauce, the remaining tablespoon\
+    \ of rice wine, soy sauces, vinegars and sugar in a bowl, then whisk to combine.\
+    \ Sprinkle in the remaining tablespoon cornstarch, and whisk to dissolve it into\
+    \ the sauce. Add a tablespoon of the mushroom-soaking liquid or water, and set\
+    \ aside.</p>\n<p>Velvet the fish. Fill a wok or large pot with water, and bring\
+    \ to a boil over high heat. Add a teaspoon of oil to the boiling water. Carefully\
+    \ add the fish to the water, piece by piece, working in batches so as not to crowd\
+    \ the pieces. Allow the fish to cook until it has turned opaque, approximately\
+    \ 1 to 2 minutes, depending on the thickness of the fillets. Using a skimmer or\
+    \ spider, transfer the fish carefully to a platter to rest.</p>\n<p>To finish\
+    \ the dish, heat the remaining 2 tablespoons oil in a wok or large skillet set\
+    \ over high heat. When the oil shimmers and is about to smoke, add the scallions,\
+    \ garlic and ginger, and stir-fry for 30 seconds, or until the mixture is fragrant.\
+    \ Add the mushrooms, and continue to stir-fry for an additional 30 seconds. Stir\
+    \ the sauce mixture, and add it to the wok, then cook for 2 to 3 minutes, until\
+    \ it has thickened slightly. If it is too thick, thin it out with some of the\
+    \ mushroom-soaking liquid. Add the fish to the wok, and carefully toss until the\
+    \ flesh is coated. Transfer the mixture to a warm platter, and serve immediately.</p>\n"
+  ingredients: "<ul>\n<li>2 tablespoons egg white, lightly beaten</li>\n<li>2 tablespoons\
+    \ plus 1 teaspoon cornstarch</li>\n<li>2 tablespoons plus 1 teaspoon Chinese rice\
+    \ wine or sake</li>\n<li>\xBD teaspoon kosher salt</li>\n<li>1 pound firm-fleshed,\
+    \ thick white fish fillets, like flounder, cod or halibut</li>\n<li>6 dried wood-ear\
+    \ mushrooms or shiitake mushrooms</li>\n<li>1 teaspoon plus 2 tablespoons neutral\
+    \ oil</li>\n<li>1 teaspoon oyster sauce</li>\n<li>1 tablespoon dark soy sauce</li>\n\
+    <li>1 tablespoon low-sodium soy sauce</li>\n<li>\xBC teaspoon Chinese black vinegar</li>\n\
+    <li>\xBD teaspoon white vinegar</li>\n<li>\xBE teaspoon white sugar</li>\n<li>1\
+    \ tablespoon sliced scallions, white part only</li>\n<li>1 tablespoon minced garlic</li>\n\
+    <li>1 tablespoon minced ginger</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-articleLarge.jpg
 ingredients: "2 tablespoons egg white, lightly beaten\n2 tablespoons plus 1 teaspoon\
   \ cornstarch\n2 tablespoons plus 1 teaspoon Chinese rice wine or sake\n\xBD teaspoon\
@@ -20,6 +88,8 @@ ingredients: "2 tablespoons egg white, lightly beaten\n2 tablespoons plus 1 teas
   \ part only\n1 tablespoon minced garlic\n1 tablespoon minced ginger"
 intrash: 0
 name: Velvet Fish with Mushrooms
+notes: ''
+nutritional_info: ''
 photo: 988345B1-94F5-4160-ADA9-6AD9A6FFEC2B-53878-0000482A1EC5C6A1.jpg
 photo_large: null
 photos: []
@@ -33,24 +103,3 @@ total_time: ''
 type: null
 uid: DFE23758-66D7-4E75-97F2-33521EB84FDE-53878-0000482877DB5AEA
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>2 tablespoons egg white, lightly beaten</li>
-<li>2 tablespoons plus 1 teaspoon cornstarch</li>
-<li>2 tablespoons plus 1 teaspoon Chinese rice wine or sake</li>
-<li>½ teaspoon kosher salt</li>
-<li>1 pound firm-fleshed, thick white fish fillets, like flounder, cod or halibut</li>
-<li>6 dried wood-ear mushrooms or shiitake mushrooms</li>
-<li>1 teaspoon plus 2 tablespoons neutral oil</li>
-<li>1 teaspoon oyster sauce</li>
-<li>1 tablespoon dark soy sauce</li>
-<li>1 tablespoon low-sodium soy sauce</li>
-<li>¼ teaspoon Chinese black vinegar</li>
-<li>½ teaspoon white vinegar</li>
-<li>¾ teaspoon white sugar</li>
-<li>1 tablespoon sliced scallions, white part only</li>
-<li>1 tablespoon minced garlic</li>
-<li>1 tablespoon minced ginger</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -8,6 +8,61 @@ created: '2020-09-02 13:58:40'
 created_ts: 1599055120
 description: null
 difficulty: ''
+directions: "Heat olive oil in the Instant Pot insert on the hottest saut\xE9 setting.\
+  \ Add onions, carrots, and celery, and cook until softened and lightly browned,\
+  \ about 8-10 minutes.\n\nAdd ground beef, pork, and pancetta to the Instant Pot\
+  \ with 1 teaspoon kosher salt and 1/2 teaspoon freshly-ground black pepper. Saut\xE9\
+  , breaking up meats with a spoon, until browned and most of the juices have evaporated.\n\
+  \nAdd garlic and tomato paste to the Instant Pot, and cook for 1 minute, until fragrant.\
+  \ Deglaze the insert with red wine, scraping up any brown bits from the bottom.\
+  \ Simmer for 2-3 minutes, until most of the wine has evaporated.\n\nStir in crushed\
+  \ tomatoes in pur\xE9e, water, and 1/4 cup chopped parsley. Bring to a simmer. Place\
+  \ lid on Instant pot, seal, and set the unit to HIGH pressure for 20 minutes.\n\n\
+  Quick release pressure and carefully lift lid when the float drops. Switch the Instant\
+  \ Pot to the lowest heat saut\xE9 setting and bring to a bubble. Simmer, uncovered,\
+  \ for 5-10 minutes, stirring often, until the sauce is thickened to your desired\
+  \ consistency.\n\nStir in heavy cream, remaining 1/4 cup chopped parsley, and ground\
+  \ nutmeg (if using). Season to taste with salt and pepper.\n\nServe over cooked\
+  \ pasta with plenty of freshly-grated cheese and a sprinkling of parsley, if desired."
+html:
+  description: null
+  directions: "<p>Heat olive oil in the Instant Pot insert on the hottest saut\xE9\
+    \ setting. Add onions, carrots, and celery, and cook until softened and lightly\
+    \ browned, about 8-10 minutes.</p>\n<p>Add ground beef, pork, and pancetta to\
+    \ the Instant Pot with 1 teaspoon kosher salt and 1/2 teaspoon freshly-ground\
+    \ black pepper. Saut\xE9, breaking up meats with a spoon, until browned and most\
+    \ of the juices have evaporated.</p>\n<p>Add garlic and tomato paste to the Instant\
+    \ Pot, and cook for 1 minute, until fragrant. Deglaze the insert with red wine,\
+    \ scraping up any brown bits from the bottom. Simmer for 2-3 minutes, until most\
+    \ of the wine has evaporated.</p>\n<p>Stir in crushed tomatoes in pur\xE9e, water,\
+    \ and 1/4 cup chopped parsley. Bring to a simmer. Place lid on Instant pot, seal,\
+    \ and set the unit to HIGH pressure for 20 minutes.</p>\n<p>Quick release pressure\
+    \ and carefully lift lid when the float drops. Switch the Instant Pot to the lowest\
+    \ heat saut\xE9 setting and bring to a bubble. Simmer, uncovered, for 5-10 minutes,\
+    \ stirring often, until the sauce is thickened to your desired consistency.</p>\n\
+    <p>Stir in heavy cream, remaining 1/4 cup chopped parsley, and ground nutmeg (if\
+    \ using). Season to taste with salt and pepper.</p>\n<p>Serve over cooked pasta\
+    \ with plenty of freshly-grated cheese and a sprinkling of parsley, if desired.</p>\n"
+  ingredients: "<ul>\n<li>1 tablespoon olive oil</li>\n<li>1-1/2 cups diced yellow\
+    \ onion</li>\n<li>\xBD cup diced carrots</li>\n<li>1/2 cup diced celery</li>\n\
+    <li>1 pound ground beef chuck</li>\n<li>1/2 pound ground pork</li>\n<li>4 ounces\
+    \ diced pancetta</li>\n<li>2 cloves garlic , minced</li>\n<li>2 tablespoons tomato\
+    \ paste</li>\n<li>1/2 cup dry red wine</li>\n<li>28 ounces crushed San Marzano\
+    \ tomatoes , in pur\xE9e</li>\n<li>1/2 cup water</li>\n<li>1/2 cup Italian parsley\
+    \ , divided</li>\n<li>1/4 cup heavy cream</li>\n<li>pinch ground nutmeg (to taste,\
+    \ optional)</li>\n<li>kosher salt and freshly-ground black pepper</li>\n<li>cooked\
+    \ tagliatelle, pappardelle, or your favorite pasta , for serving</li>\n</ul>\n"
+  notes: "<p>For the best flavor and texture of this sauce, crushed San Marzano tomatoes\
+    \ are key. Other crushed tomato varieties, or those packed in a more watery juice\
+    \ instead of pur\xE9e, will yield a thinner, less flavorful sauce.</p>\n<p>Make\
+    \ ahead: Bolognese sauce can be stored in airtight containers for 3-4 days in\
+    \ the refrigerator, or 3-4 months in the freezer.</p>\n"
+  nutrition: '<p>Calories: 513KCAL | Carbohydrates: 17G | Protein: 25G | Fat: 37G
+    | Saturated Fat: 13G | Cholesterol: 106MG | Sodium: 436MG | Potassium: 941MG |
+    Fiber: 4G | Sugar: 8G | Vitamin A: 2750IU | Vitamin C: 24.4MG | Calcium: 97MG
+    | Iron: 4.2MG</p>
+
+    '
 image_url: null
 ingredients: "1 tablespoon olive oil\n1-1/2 cups diced yellow onion\n\xBD cup diced\
   \ carrots\n1/2 cup diced celery\n1 pound ground beef chuck\n1/2 pound ground pork\n\
@@ -18,6 +73,14 @@ ingredients: "1 tablespoon olive oil\n1-1/2 cups diced yellow onion\n\xBD cup di
   \ tagliatelle, pappardelle, or your favorite pasta , for serving"
 intrash: 0
 name: Bolognese Sauce Recipe (Instant Pot)
+notes: "For the best flavor and texture of this sauce, crushed San Marzano tomatoes\
+  \ are key. Other crushed tomato varieties, or those packed in a more watery juice\
+  \ instead of pur\xE9e, will yield a thinner, less flavorful sauce.\n\nMake ahead:\
+  \ Bolognese sauce can be stored in airtight containers for 3-4 days in the refrigerator,\
+  \ or 3-4 months in the freezer."
+nutritional_info: 'Calories: 513KCAL | Carbohydrates: 17G | Protein: 25G | Fat: 37G
+  | Saturated Fat: 13G | Cholesterol: 106MG | Sodium: 436MG | Potassium: 941MG | Fiber:
+  4G | Sugar: 8G | Vitamin A: 2750IU | Vitamin C: 24.4MG | Calcium: 97MG | Iron: 4.2MG'
 photo: E8D91A69-CC96-4CC5-A7D6-C66EFB342584-13002-000625BE3FEBF04F.jpg
 photo_large: B44A406D-B3F5-4ECD-AE44-D47A0E60A1AE-13002-000625B99468A6A2.jpg
 photos:
@@ -43,25 +106,6 @@ total_time: ''
 type: null
 uid: 8202E24E-9C63-4DBB-A008-AFBA9C08982B-499-0000017FA2C55DFC
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 tablespoon olive oil</li>
-<li>1-1/2 cups diced yellow onion</li>
-<li>½ cup diced carrots</li>
-<li>1/2 cup diced celery</li>
-<li>1 pound ground beef chuck</li>
-<li>1/2 pound ground pork</li>
-<li>4 ounces diced pancetta</li>
-<li>2 cloves garlic , minced</li>
-<li>2 tablespoons tomato paste</li>
-<li>1/2 cup dry red wine</li>
-<li>28 ounces crushed San Marzano tomatoes , in purée</li>
-<li>1/2 cup water</li>
-<li>1/2 cup Italian parsley , divided</li>
-<li>1/4 cup heavy cream</li>
-<li>pinch ground nutmeg (to taste, optional)</li>
-<li>kosher salt and freshly-ground black pepper</li>
-<li>cooked tagliatelle, pappardelle, or your favorite pasta , for serving</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+For the best flavor and texture of this sauce, crushed San Marzano tomatoes are key. Other crushed tomato varieties, or those packed in a more watery juice instead of purée, will yield a thinner, less flavorful sauce.
+
+Make ahead: Bolognese sauce can be stored in airtight containers for 3-4 days in the refrigerator, or 3-4 months in the freezer.

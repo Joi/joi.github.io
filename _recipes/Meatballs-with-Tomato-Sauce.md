@@ -11,6 +11,70 @@ created: '2020-02-02 12:32:26'
 created_ts: 1580646746
 description: null
 difficulty: Easy
+directions: "Meatballs\n\nPlace a small bowl onto mixing bowl lid and weigh in bread\
+  \ and milk. Set bowl aside and leave to soak.\n\nPlace parsley and garlic into mixing\
+  \ bowl and chop 5 sec/speed 7. Scrape down sides of mixing bowl with spatula.\n\n\
+  Add ground beef, eggs, salt, and black pepper. Squeeze milk out of bread and discard\
+  \ milk. Add bread into mixing bowl and mix 10 sec/speed 5. Transfer into a bowl.\n\
+  \nGrease the Varoma dish and tray. Shape small meatballs (1\xBD in.) with oiled\
+  \ hands and place them into Varoma dish and tray. Set aside.\n\nTomato Sauce\n\n\
+  Place garlic, onions and olive oil into mixing bowl and chop 5 sec/speed 5, then\
+  \ saut\xE9 3 min/250\xB0F/speed 1.\n\nAdd tomatoes, salt and pepper. Place Varoma\
+  \ into position, secure Varoma lid and cook 20 min/Varoma/speed 1. Serve meatballs\
+  \ hot with sauce.\n\nTips & tricks\n\nUse any white or light crusty bread such as\
+  \ baguette, ciabatta, country bread, whole wheat bread or bread rolls.\n\nCook until\
+  \ the meatballs reach an internal temperature of 165\xB0F as measured with a food\
+  \ thermometer before removing meat from the heat source.\n\nServe Meatballs with\
+  \ rice or steamed potatoes.\n\nPart or all of the ground beef can be replaced with\
+  \ ground veal, pork or chicken.\n\nAdd 2 oz grated Parmesan cheese and chop with\
+  \ parsley and garlic.\n\nReplace canned tomatoes with fresh tomatoes and crush with\
+  \ salt and pepper 7 sec/speed 6 before continuing as directed by the recipe.\n\n\
+  Add Italian herbs or oregano, thyme and basil to Meatballs for more flavor."
+html:
+  description: null
+  directions: "<p>Meatballs</p>\n<p>Place a small bowl onto mixing bowl lid and weigh\
+    \ in bread and milk. Set bowl aside and leave to soak.</p>\n<p>Place parsley and\
+    \ garlic into mixing bowl and chop 5 sec/speed 7. Scrape down sides of mixing\
+    \ bowl with spatula.</p>\n<p>Add ground beef, eggs, salt, and black pepper. Squeeze\
+    \ milk out of bread and discard milk. Add bread into mixing bowl and mix 10 sec/speed\
+    \ 5. Transfer into a bowl.</p>\n<p>Grease the Varoma dish and tray. Shape small\
+    \ meatballs (1\xBD in.) with oiled hands and place them into Varoma dish and tray.\
+    \ Set aside.</p>\n<p>Tomato Sauce</p>\n<p>Place garlic, onions and olive oil into\
+    \ mixing bowl and chop 5 sec/speed 5, then saut\xE9 3 min/250\xB0F/speed 1.</p>\n\
+    <p>Add tomatoes, salt and pepper. Place Varoma into position, secure Varoma lid\
+    \ and cook 20 min/Varoma/speed 1. Serve meatballs hot with sauce.</p>\n<p>Tips\
+    \ &amp; tricks</p>\n<p>Use any white or light crusty bread such as baguette, ciabatta,\
+    \ country bread, whole wheat bread or bread rolls.</p>\n<p>Cook until the meatballs\
+    \ reach an internal temperature of 165\xB0F as measured with a food thermometer\
+    \ before removing meat from the heat source.</p>\n<p>Serve Meatballs with rice\
+    \ or steamed potatoes.</p>\n<p>Part or all of the ground beef can be replaced\
+    \ with ground veal, pork or chicken.</p>\n<p>Add 2 oz grated Parmesan cheese and\
+    \ chop with parsley and garlic.</p>\n<p>Replace canned tomatoes with fresh tomatoes\
+    \ and crush with salt and pepper 7 sec/speed 6 before continuing as directed by\
+    \ the recipe.</p>\n<p>Add Italian herbs or oregano, thyme and basil to Meatballs\
+    \ for more flavor.</p>\n"
+  ingredients: "<ul>\n<li>Meatballs</li>\n<li>2 oz bread, fresh or stale, cubed</li>\n\
+    <li>3 oz whole milk</li>\n<li>6 - 12 sprigs fresh flat-leaf parsley, leaves only</li>\n\
+    <li>1 garlic clove (optional)</li>\n<li>16 oz ground beef, crumbled</li>\n<li>2\
+    \ eggs</li>\n<li>\xBD tsp salt</li>\n<li>1 pinch ground black pepper</li>\n<li>oil,\
+    \ to grease</li>\n<li>Tomato Sauce</li>\n<li>1 garlic clove</li>\n<li>2 - 3 oz\
+    \ yellow onions, halved</li>\n<li>1 oz extra virgin olive oil</li>\n<li>30 oz\
+    \ canned crushed tomatoes</li>\n<li>1 tsp salt</li>\n<li>1 pinch ground black\
+    \ pepper</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 1837 kJ / 438 kcal
+
+    Protein: 31 g
+
+    Carbohydrates: 15 g
+
+    Fat: 28 g
+
+    Cholesterol: 178 mg
+
+    Fiber: 3.1 g</p>
+
+    '
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/97ABE58E-7379-419A-97BA-FB46A6645E4B/Derivates/677299E1-58CB-4D0B-88A9-03169298370B.jpg
 ingredients: "Meatballs\n2 oz bread, fresh or stale, cubed\n3 oz whole milk\n6 - 12\
   \ sprigs fresh flat-leaf parsley, leaves only\n1 garlic clove (optional)\n16 oz\
@@ -20,6 +84,18 @@ ingredients: "Meatballs\n2 oz bread, fresh or stale, cubed\n3 oz whole milk\n6 -
   \ black pepper"
 intrash: 0
 name: Meatballs with Tomato Sauce
+notes: null
+nutritional_info: 'Calories: 1837 kJ / 438 kcal
+
+  Protein: 31 g
+
+  Carbohydrates: 15 g
+
+  Fat: 28 g
+
+  Cholesterol: 178 mg
+
+  Fiber: 3.1 g'
 photo: 7FA9C48C-C578-4D82-9E29-52FED02454C3-25037-00009F52D450FA19.jpg
 photo_large: null
 photos: []
@@ -33,25 +109,3 @@ total_time: null
 type: null
 uid: 5B4116BF-6F4A-4E56-B458-15BC1D12942F-25037-00009F51FB96AA6B
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>Meatballs</li>
-<li>2 oz bread, fresh or stale, cubed</li>
-<li>3 oz whole milk</li>
-<li>6 - 12 sprigs fresh flat-leaf parsley, leaves only</li>
-<li>1 garlic clove (optional)</li>
-<li>16 oz ground beef, crumbled</li>
-<li>2 eggs</li>
-<li>½ tsp salt</li>
-<li>1 pinch ground black pepper</li>
-<li>oil, to grease</li>
-<li>Tomato Sauce</li>
-<li>1 garlic clove</li>
-<li>2 - 3 oz yellow onions, halved</li>
-<li>1 oz extra virgin olive oil</li>
-<li>30 oz canned crushed tomatoes</li>
-<li>1 tsp salt</li>
-<li>1 pinch ground black pepper</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

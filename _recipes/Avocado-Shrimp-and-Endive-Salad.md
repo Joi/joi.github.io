@@ -10,6 +10,58 @@ created: '2020-07-04 18:34:49'
 created_ts: 1593887689
 description: ''
 difficulty: ''
+directions: 'Whisk 2 tablespoons oil with 1 tablespoon lemon juice until combined.
+
+
+  Combine shrimp with remaining 2 tablespoons lemon juice, the salt, and pepper, and
+  let stand for 10 minutes.
+
+
+  Heat remaining 2 tablespoons oil in a skillet over high heat. Add shrimp and juices,
+  and cook, stirring, until shrimp are pink and cooked through, 1 to 2 minutes. Transfer
+  shrimp and juices to a bowl.
+
+
+  Add endives, avocados, tarragon, and dressing to shrimp, and gently toss. Serve
+  immediately.'
+html:
+  description: null
+  directions: '<p>Whisk 2 tablespoons oil with 1 tablespoon lemon juice until combined.</p>
+
+    <p>Combine shrimp with remaining 2 tablespoons lemon juice, the salt, and pepper,
+    and let stand for 10 minutes.</p>
+
+    <p>Heat remaining 2 tablespoons oil in a skillet over high heat. Add shrimp and
+    juices, and cook, stirring, until shrimp are pink and cooked through, 1 to 2 minutes.
+    Transfer shrimp and juices to a bowl.</p>
+
+    <p>Add endives, avocados, tarragon, and dressing to shrimp, and gently toss. Serve
+    immediately.</p>
+
+    '
+  ingredients: '<ul>
+
+    <li>1/4 c. extra-virgin olive oil</li>
+
+    <li>3 tbsp. fresh lemon juice</li>
+
+    <li>20 large shrimp</li>
+
+    <li>1/2 tsp. Coarse salt</li>
+
+    <li>Freshly ground pepper</li>
+
+    <li>2 medium Belgian endives</li>
+
+    <li>1 1/2 ripe Hass avocados</li>
+
+    <li>1 tbsp. coarsely chopped fresh tarragon</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: https://hips.hearstapps.com/del.h-cdn.co/assets/cm/15/10/54f6625355c87_-_mla102600_0707_salad_sxl-1.jpg?crop=1xw:1.0xh;center,top&resize=480:*
 ingredients: '1/4 c. extra-virgin olive oil
 
@@ -28,6 +80,8 @@ ingredients: '1/4 c. extra-virgin olive oil
   1 tbsp. coarsely chopped fresh tarragon'
 intrash: 0
 name: Avocado, Shrimp, and Endive Salad
+notes: ''
+nutritional_info: ''
 photo: 64998FF2-0091-4B33-88C0-332B7FB2387D-631-00014DBCCDDABBB1.jpg
 photo_large: null
 photos: []
@@ -41,16 +95,3 @@ total_time: ''
 type: null
 uid: 9B74B7CA-62C2-4033-9E59-1F75127E33F9-631-00014DB89A1ACAAB
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1/4 c. extra-virgin olive oil</li>
-<li>3 tbsp. fresh lemon juice</li>
-<li>20 large shrimp</li>
-<li>1/2 tsp. Coarse salt</li>
-<li>Freshly ground pepper</li>
-<li>2 medium Belgian endives</li>
-<li>1 1/2 ripe Hass avocados</li>
-<li>1 tbsp. coarsely chopped fresh tarragon</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

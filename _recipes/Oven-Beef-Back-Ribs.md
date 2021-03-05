@@ -8,6 +8,74 @@ created: '2020-07-13 18:04:20'
 created_ts: 1594663460
 description: ''
 difficulty: ''
+directions: "Preheat oven to 250 degrees F. Line a rimmed baking sheet with parchment\
+  \ paper.\n\nIn a small jar, mix the apple cider vinegar with the hot sauce. Set\
+  \ aside.\n\nPlace the ribs on the prepared baking sheet, bone side down. (Use two\
+  \ baking sheets if they don\u2019t fit in one). Spray the ribs with olive oil and\
+  \ sprinkle with smoked salt, black pepper, smoked paprika, onion powder and garlic\
+  \ powder.\n\nBake the ribs for 1 hour.\n\nMix the apple cider vinegar marinade again,\
+  \ then pour it into three small bowls, dividing it evenly. Baste the tops of the\
+  \ ribs with 1/3 of the marinade.\n\nReturn the ribs to the oven and bake them for\
+  \ three more hours, basting the top with 1/3 of the marinade every hour (make sure\
+  \ you rinse the basting brush after each basting with hot soapy water).\n\nAfter\
+  \ 4 hours of baking, the ribs should be nicely browned and very tender. At this\
+  \ point you can serve them, but to make them even better, reduce the oven to 200\
+  \ degrees F, and keep them in the oven for one more hour. This will ensure extra\
+  \ tender beef with extra crispy, caramelized exterior.\n\nRemove the ribs from the\
+  \ oven, cut into six portions and serve."
+html:
+  description: null
+  directions: "<p>Preheat oven to 250 degrees F. Line a rimmed baking sheet with parchment\
+    \ paper.</p>\n<p>In a small jar, mix the apple cider vinegar with the hot sauce.\
+    \ Set aside.</p>\n<p>Place the ribs on the prepared baking sheet, bone side down.\
+    \ (Use two baking sheets if they don\u2019t fit in one). Spray the ribs with olive\
+    \ oil and sprinkle with smoked salt, black pepper, smoked paprika, onion powder\
+    \ and garlic powder.</p>\n<p>Bake the ribs for 1 hour.</p>\n<p>Mix the apple cider\
+    \ vinegar marinade again, then pour it into three small bowls, dividing it evenly.\
+    \ Baste the tops of the ribs with 1/3 of the marinade.</p>\n<p>Return the ribs\
+    \ to the oven and bake them for three more hours, basting the top with 1/3 of\
+    \ the marinade every hour (make sure you rinse the basting brush after each basting\
+    \ with hot soapy water).</p>\n<p>After 4 hours of baking, the ribs should be nicely\
+    \ browned and very tender. At this point you can serve them, but to make them\
+    \ even better, reduce the oven to 200 degrees F, and keep them in the oven for\
+    \ one more hour. This will ensure extra tender beef with extra crispy, caramelized\
+    \ exterior.</p>\n<p>Remove the ribs from the oven, cut into six portions and serve.</p>\n"
+  ingredients: '<ul>
+
+    <li>1/2 cup apple cider vinegar</li>
+
+    <li>2 tablespoons hot pepper sauce</li>
+
+    <li>2 racks beef back ribs, 2 lb. each</li>
+
+    <li>Olive oil spray</li>
+
+    <li>2 teaspoons smoked salt</li>
+
+    <li>1/2 teaspoon black pepper</li>
+
+    <li>2 teaspoons smoked paprika</li>
+
+    <li>1 teaspoon onion powder</li>
+
+    <li>1 teaspoon garlic powder</li>
+
+    </ul>
+
+    '
+  notes: '<p>If your beef back ribs come already separated into individual ribs, bake
+    them just four hours.</p>
+
+    '
+  nutrition: '<p>Saturated Fat 9g
+
+    Sodium 830mg
+
+    Carbohydrates 2g
+
+    Protein 24g</p>
+
+    '
 image_url: https://healthyrecipesblogs.com/wp-content/uploads/2016/01/oven-beef-ribs-1-300x201.jpg
 ingredients: '1/2 cup apple cider vinegar
 
@@ -28,6 +96,15 @@ ingredients: '1/2 cup apple cider vinegar
   1 teaspoon garlic powder'
 intrash: 0
 name: Oven Beef Back Ribs
+notes: If your beef back ribs come already separated into individual ribs, bake them
+  just four hours.
+nutritional_info: 'Saturated Fat 9g
+
+  Sodium 830mg
+
+  Carbohydrates 2g
+
+  Protein 24g'
 photo: 0DAFEFE5-D525-4E0F-8378-6642D1A478AB-29053-00040F4640FC15FB.jpg
 photo_large: null
 photos: []
@@ -41,17 +118,4 @@ total_time: ''
 type: null
 uid: E8F3081A-B668-4CA7-B29A-87BDB467CD7F-29053-00040F43EB49D4B4
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1/2 cup apple cider vinegar</li>
-<li>2 tablespoons hot pepper sauce</li>
-<li>2 racks beef back ribs, 2 lb. each</li>
-<li>Olive oil spray</li>
-<li>2 teaspoons smoked salt</li>
-<li>1/2 teaspoon black pepper</li>
-<li>2 teaspoons smoked paprika</li>
-<li>1 teaspoon onion powder</li>
-<li>1 teaspoon garlic powder</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+If your beef back ribs come already separated into individual ribs, bake them just four hours.

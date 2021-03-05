@@ -8,6 +8,72 @@ created: '2020-04-02 17:19:17'
 created_ts: 1585847957
 description: null
 difficulty: ''
+directions: "Dissolve salt in 2 quarts cold water in large container. Submerge chicken\
+  \ in brine, cover, and refrigerate for 30 minutes to 1 hour. Remove chicken from\
+  \ brine and thoroughly pat dry with paper towels. Set aside tapered breast pieces.\n\
+  \nAdjust oven rack to middle position and heat oven to 300 degrees. Heat oil in\
+  \ Dutch oven over medium-high heat until just smoking. Place all chicken except\
+  \ reserved tapered breast pieces skin side down in pot and cook until skin is well\
+  \ browned, 5 to 8 minutes. (Reduce heat if pot begins to scorch.) Transfer chicken\
+  \ to plate. Pour off all but 2 tablespoons fat from pot, then reduce heat to medium.\n\
+  \nAdd onion and cook, stirring occasionally, until softened, 5 to 7 minutes. Stir\
+  \ in tomato paste, garlic, oregano, and pepper flakes and cook until fragrant, about\
+  \ 30 seconds. Stir in flour and cook, stirring constantly, for 1 minute. Stir in\
+  \ wine and 1\xBC cups water, scraping up any browned bits.\n\nPlace thighs and drumsticks\
+  \ skin side up in pot and bring to simmer over medium heat. Cover and cook for 8\
+  \ minutes. (Sauce will have consistency of thick gravy but will thin as chicken\
+  \ cooks.) Add broad breast pieces, skin side down, along with any accumulated juices.\
+  \ Cover and cook until broad breast pieces register 105 to 115 degrees, 3 to 5 minutes.\
+  \ Remove pot from heat.\n\nUsing tongs, flip broad breast pieces skin side up. Add\
+  \ tapered breast pieces, skin side up, to pot and cover. Transfer pot to oven and\
+  \ cook until breast pieces register 160 to 165 degrees, 15 to 30 minutes.\n\nTransfer\
+  \ chicken to serving dish. Discard skin from tapered breast pieces (or all skin,\
+  \ if desired). Sauce should thinly coat back of spoon; if necessary, simmer until\
+  \ slightly thickened, 1 to 2 minutes. Stir 3 tablespoons basil and vinegar into\
+  \ sauce. Season with salt and pepper to taste. Pour sauce over chicken. Sprinkle\
+  \ remaining 1 tablespoon basil over chicken and serve."
+html:
+  description: null
+  directions: "<p>Dissolve salt in 2 quarts cold water in large container. Submerge\
+    \ chicken in brine, cover, and refrigerate for 30 minutes to 1 hour. Remove chicken\
+    \ from brine and thoroughly pat dry with paper towels. Set aside tapered breast\
+    \ pieces.</p>\n<p>Adjust oven rack to middle position and heat oven to 300 degrees.\
+    \ Heat oil in Dutch oven over medium-high heat until just smoking. Place all chicken\
+    \ except reserved tapered breast pieces skin side down in pot and cook until skin\
+    \ is well browned, 5 to 8 minutes. (Reduce heat if pot begins to scorch.) Transfer\
+    \ chicken to plate. Pour off all but 2 tablespoons fat from pot, then reduce heat\
+    \ to medium.</p>\n<p>Add onion and cook, stirring occasionally, until softened,\
+    \ 5 to 7 minutes. Stir in tomato paste, garlic, oregano, and pepper flakes and\
+    \ cook until fragrant, about 30 seconds. Stir in flour and cook, stirring constantly,\
+    \ for 1 minute. Stir in wine and 1\xBC cups water, scraping up any browned bits.</p>\n\
+    <p>Place thighs and drumsticks skin side up in pot and bring to simmer over medium\
+    \ heat. Cover and cook for 8 minutes. (Sauce will have consistency of thick gravy\
+    \ but will thin as chicken cooks.) Add broad breast pieces, skin side down, along\
+    \ with any accumulated juices. Cover and cook until broad breast pieces register\
+    \ 105 to 115 degrees, 3 to 5 minutes. Remove pot from heat.</p>\n<p>Using tongs,\
+    \ flip broad breast pieces skin side up. Add tapered breast pieces, skin side\
+    \ up, to pot and cover. Transfer pot to oven and cook until breast pieces register\
+    \ 160 to 165 degrees, 15 to 30 minutes.</p>\n<p>Transfer chicken to serving dish.\
+    \ Discard skin from tapered breast pieces (or all skin, if desired). Sauce should\
+    \ thinly coat back of spoon; if necessary, simmer until slightly thickened, 1\
+    \ to 2 minutes. Stir 3 tablespoons basil and vinegar into sauce. Season with salt\
+    \ and pepper to taste. Pour sauce over chicken. Sprinkle remaining 1 tablespoon\
+    \ basil over chicken and serve.</p>\n"
+  ingredients: "<ul>\n<li>\xBD cup table salt, for brining</li>\n<li>1 \xBD - 2 pounds\
+    \ bone-in split chicken breasts, trimmed and each cut crosswise into 2 pieces\
+    \ of equal mass</li>\n<li>1 \xBD - 2 pounds chicken leg quarters, separated into\
+    \ drumsticks and thighs, trimmed</li>\n<li>1 tablespoon vegetable oil</li>\n<li>1\
+    \ onion, chopped fine</li>\n<li>2 tablespoons tomato paste</li>\n<li>4 garlic\
+    \ cloves, minced</li>\n<li>1 teaspoon dried oregano</li>\n<li>\xBC teaspoon red\
+    \ pepper flakes</li>\n<li>1 tablespoon all-purpose flour</li>\n<li>\u2153 cup\
+    \ dry white wine</li>\n<li>\xBC cup chopped fresh basil, divided</li>\n<li>2 teaspoon\
+    \ red wine vinegar</li>\n</ul>\n"
+  notes: '<p>September 11, 2020 - 11:21:23 - Cooked it yesterday. Was nice and not
+    sure what I''d do to improve the recipe. One substitution I made was that I use
+    fresh oregano instead of dry.</p>
+
+    '
+  nutrition: null
 image_url: null
 ingredients: "\xBD cup table salt, for brining\n1 \xBD - 2 pounds bone-in split chicken\
   \ breasts, trimmed and each cut crosswise into 2 pieces of equal mass\n1 \xBD -\
@@ -18,6 +84,10 @@ ingredients: "\xBD cup table salt, for brining\n1 \xBD - 2 pounds bone-in split 
   \ basil, divided\n2 teaspoon red wine vinegar"
 intrash: 0
 name: Braised Chicken with Basil and Tomato
+notes: September 11, 2020 - 11:21:23 - Cooked it yesterday. Was nice and not sure
+  what I'd do to improve the recipe. One substitution I made was that I use fresh
+  oregano instead of dry.
+nutritional_info: null
 photo: 117DE12A-AB70-4442-B326-6831AFC75E90-29546-000594679564A8AE.jpg
 photo_large: CEA47EBE-073C-46D7-ADBF-EC5096CCEC87-29546-000594637FB4D68E.jpg
 photos:
@@ -37,21 +107,4 @@ total_time: ''
 type: null
 uid: FF6B358D-8D29-4986-84E0-27C7EBD83014-9482-0000064F04336AC0
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>½ cup table salt, for brining</li>
-<li>1 ½ - 2 pounds bone-in split chicken breasts, trimmed and each cut crosswise into 2 pieces of equal mass</li>
-<li>1 ½ - 2 pounds chicken leg quarters, separated into drumsticks and thighs, trimmed</li>
-<li>1 tablespoon vegetable oil</li>
-<li>1 onion, chopped fine</li>
-<li>2 tablespoons tomato paste</li>
-<li>4 garlic cloves, minced</li>
-<li>1 teaspoon dried oregano</li>
-<li>¼ teaspoon red pepper flakes</li>
-<li>1 tablespoon all-purpose flour</li>
-<li>⅓ cup dry white wine</li>
-<li>¼ cup chopped fresh basil, divided</li>
-<li>2 teaspoon red wine vinegar</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+September 11, 2020 - 11:21:23 - Cooked it yesterday. Was nice and not sure what I'd do to improve the recipe. One substitution I made was that I use fresh oregano instead of dry.

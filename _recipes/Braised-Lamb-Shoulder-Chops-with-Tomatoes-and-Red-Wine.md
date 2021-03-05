@@ -9,6 +9,46 @@ created: '2020-05-14 14:37:55'
 created_ts: 1589467075
 description: ''
 difficulty: ''
+directions: "BEFORE YOU BEGIN\n\nBecause they are generally leaner, round bone chops,\
+  \ also called arm chops, are preferable for this braise. If available, however,\
+  \ lean blade chops also braise nicely.\n\nSprinkle chops with salt and pepper to\
+  \ taste.\n\nHeat 1 tablespoon of the oil in 12-inch heavy-bottomed nonreactive skillet\
+  \ over medium-high heat. Cooking in batches if necessary to avoid overcrowding,\
+  \ add chops; saut\xE9 until brown on both sides, 4 to 5 minutes. Remove from pan;\
+  \ set aside.\n\nPour fat from pan; return pan to medium heat, adding remaining tablespoon\
+  \ of oil. Add onion; saut\xE9 until softened, about 4 minutes. Add garlic; cook\
+  \ until fragrant, about 1 minute longer. Add wine; simmer until reduced by half,\
+  \ scraping browned bits from pan bottom with wooden spoon, 2 to 3 minutes. Stir\
+  \ in tomatoes, then return chops to pan. Reduce heat to low; cover and simmer until\
+  \ chops are cooked through but tender, 15 to 20 minutes.\n\nTransfer chops to each\
+  \ of four plates. Stir parsley into braising liquid; simmer until sauce thickens,\
+  \ 2 to 3 minutes. Adjust seasonings, spoon portion of sauce over each chop, and\
+  \ serve."
+html:
+  description: null
+  directions: "<p>BEFORE YOU BEGIN</p>\n<p>Because they are generally leaner, round\
+    \ bone chops, also called arm chops, are preferable for this braise. If available,\
+    \ however, lean blade chops also braise nicely.</p>\n<p>Sprinkle chops with salt\
+    \ and pepper to taste.</p>\n<p>Heat 1 tablespoon of the oil in 12-inch heavy-bottomed\
+    \ nonreactive skillet over medium-high heat. Cooking in batches if necessary to\
+    \ avoid overcrowding, add chops; saut\xE9 until brown on both sides, 4 to 5 minutes.\
+    \ Remove from pan; set aside.</p>\n<p>Pour fat from pan; return pan to medium\
+    \ heat, adding remaining tablespoon of oil. Add onion; saut\xE9 until softened,\
+    \ about 4 minutes. Add garlic; cook until fragrant, about 1 minute longer. Add\
+    \ wine; simmer until reduced by half, scraping browned bits from pan bottom with\
+    \ wooden spoon, 2 to 3 minutes. Stir in tomatoes, then return chops to pan. Reduce\
+    \ heat to low; cover and simmer until chops are cooked through but tender, 15\
+    \ to 20 minutes.</p>\n<p>Transfer chops to each of four plates. Stir parsley into\
+    \ braising liquid; simmer until sauce thickens, 2 to 3 minutes. Adjust seasonings,\
+    \ spoon portion of sauce over each chop, and serve.</p>\n"
+  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>4 lamb shoulder chops,\
+    \ about 3/4 inch thick, trimmed of external fat</li>\n<li>Salt and ground black\
+    \ pepper</li>\n<li>2 tablespoons olive oil</li>\n<li>1 small onion, chopped fine</li>\n\
+    <li>2 small cloves garlic, minced</li>\n<li>\u2153 cup dry red wine</li>\n<li>1\
+    \ cup canned tomatoes packed in puree, chopped</li>\n<li>2 tablespoons minced\
+    \ fresh parsley leaves</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/40718_sfs-braised-lamb-shoulder-chops-10
 ingredients: "GATHER YOUR INGREDIENTS\n4 lamb shoulder chops, about 3/4 inch thick,\
   \ trimmed of external fat\nSalt and ground black pepper\n2 tablespoons olive oil\n\
@@ -17,6 +57,8 @@ ingredients: "GATHER YOUR INGREDIENTS\n4 lamb shoulder chops, about 3/4 inch thi
   \ leaves"
 intrash: 0
 name: Braised Lamb Shoulder Chops with Tomatoes and Red Wine
+notes: ''
+nutritional_info: ''
 photo: 141ACF76-E20B-4975-991F-029226A4C302-13891-0000A77F547DB15F.jpg
 photo_large: null
 photos: []
@@ -30,17 +72,3 @@ total_time: ''
 type: null
 uid: D13408BA-0577-4A97-88CE-71405F9D9E67-13891-0000A77B222915D4
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>GATHER YOUR INGREDIENTS</li>
-<li>4 lamb shoulder chops, about 3/4 inch thick, trimmed of external fat</li>
-<li>Salt and ground black pepper</li>
-<li>2 tablespoons olive oil</li>
-<li>1 small onion, chopped fine</li>
-<li>2 small cloves garlic, minced</li>
-<li>⅓ cup dry red wine</li>
-<li>1 cup canned tomatoes packed in puree, chopped</li>
-<li>2 tablespoons minced fresh parsley leaves</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

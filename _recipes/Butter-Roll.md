@@ -8,12 +8,95 @@ created: '2020-05-16 14:37:21'
 created_ts: 1589639841
 description: null
 difficulty: ''
+directions: "All materials are weighed on a digital scale.\n\n[Guideline for the temperature\
+  \ of the water] If the room temperature is 28 \xB0 C or higher, the water temperature\
+  \ is 10 \xB0 C or lower. If the room temperature is around 20 \xB0 C, the water\
+  \ temperature is around 20 \xB0 C. If the room temperature is 10 \xB0 C or lower,\
+  \ use water at about 28 \xB0 C.\n\nPut the flour, salt, sugar in a bowl and mix\
+  \ with a rubber spatula.\n\nMake a hollow well in the middle, add yeast, water and\
+  \ eggs and mix well.\n\nPut it all together until it's no longer powdery in the\
+  \ bowl.\n\nPut the dough on the kneading board.\n\nWhen kneading, the dough is loose\
+  \ and difficult to put together, so do it while collecting the dough with a drech.\n\
+  \nLift the dough.\n\nHit the dough on the kneading board, and fold the dough that\
+  \ you are holding onto the hit dough.\n\nCross the hands 90 degrees and lift the\
+  \ dough.\n\nRepeat steps (6) to (8) to collect the dough.\n\nPut the butter warmed\
+  \ to room temperature and repeat steps (5) to (8).\n\nIt is difficult to put together\
+  \ the dough that has started to be mixed with butter, but the dough will be put\
+  \ together by repeating the kneading work.\n\nWhen you dough pull the dough apart,\
+  \ the dough should stretch like a thin film.\n\nPut in a bowl and allow to rise\
+  \ until about twice the size. (Primary rise: standard 28 \u2103 60 minutes ~)\n\n\
+  Take the dough out of the bowl, divide it into 40g pieces, and roll them up. Rise\
+  \ time is 30 minutes. (Can be divided into about 12 pieces)\n\n**Tri-fold molding**\n\
+  \nCrush the dough with your palm.\n\nFold the bottom third of the dough up and press\
+  \ it down with your palm.\n\nFold the top third of the dough down and press it down\
+  \ with your palm.\n\nPull one side to make it narrow.\n\nWith the narrow tip of\
+  \ the dough facing down, roll it out from the center down\n\nPlace it on baking\
+  \ dish with seams facing down and allow to rise until it is about twice the size.\
+  \ (Secondary rise: 50 minutes at 35 \xB0 C)\n\nCoat with egg.\n\nBaking at 200 \u2103\
+  \ for 10 to 12 minutes."
+html:
+  description: null
+  directions: "<p>All materials are weighed on a digital scale.</p>\n<p>[Guideline\
+    \ for the temperature of the water] If the room temperature is 28 \xB0 C or higher,\
+    \ the water temperature is 10 \xB0 C or lower. If the room temperature is around\
+    \ 20 \xB0 C, the water temperature is around 20 \xB0 C. If the room temperature\
+    \ is 10 \xB0 C or lower, use water at about 28 \xB0 C.</p>\n<p>Put the flour,\
+    \ salt, sugar in a bowl and mix with a rubber spatula.</p>\n<p>Make a hollow well\
+    \ in the middle, add yeast, water and eggs and mix well.</p>\n<p>Put it all together\
+    \ until it's no longer powdery in the bowl.</p>\n<p>Put the dough on the kneading\
+    \ board.</p>\n<p>When kneading, the dough is loose and difficult to put together,\
+    \ so do it while collecting the dough with a drech.</p>\n<p>Lift the dough.</p>\n\
+    <p>Hit the dough on the kneading board, and fold the dough that you are holding\
+    \ onto the hit dough.</p>\n<p>Cross the hands 90 degrees and lift the dough.</p>\n\
+    <p>Repeat steps (6) to (8) to collect the dough.</p>\n<p>Put the butter warmed\
+    \ to room temperature and repeat steps (5) to (8).</p>\n<p>It is difficult to\
+    \ put together the dough that has started to be mixed with butter, but the dough\
+    \ will be put together by repeating the kneading work.</p>\n<p>When you dough\
+    \ pull the dough apart, the dough should stretch like a thin film.</p>\n<p>Put\
+    \ in a bowl and allow to rise until about twice the size. (Primary rise: standard\
+    \ 28 \u2103 60 minutes ~)</p>\n<p>Take the dough out of the bowl, divide it into\
+    \ 40g pieces, and roll them up. Rise time is 30 minutes. (Can be divided into\
+    \ about 12 pieces)</p>\n<p><strong>Tri-fold molding</strong></p>\n<p>Crush the\
+    \ dough with your palm.</p>\n<p>Fold the bottom third of the dough up and press\
+    \ it down with your palm.</p>\n<p>Fold the top third of the dough down and press\
+    \ it down with your palm.</p>\n<p>Pull one side to make it narrow.</p>\n<p>With\
+    \ the narrow tip of the dough facing down, roll it out from the center down</p>\n\
+    <p>Place it on baking dish with seams facing down and allow to rise until it is\
+    \ about twice the size. (Secondary rise: 50 minutes at 35 \xB0 C)</p>\n<p>Coat\
+    \ with egg.</p>\n<p>Baking at 200 \u2103 for 10 to 12 minutes.</p>\n"
+  ingredients: '<ul>
+
+    <li>200 g Bread Flour</li>
+
+    <li>50 g Cake Flour</li>
+
+    <li>25 g Granulated Sugar</li>
+
+    <li>5 g Guerand''s Salt (fine particles)</li>
+
+    <li>10 g dry milk</li>
+
+    <li>4 g Instant dry yeast</li>
+
+    <li>120 g Water</li>
+
+    <li>60 g Whole Egg</li>
+
+    <li>40 g Unsalted Butter</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "200 g Bread Flour\n50 g Cake Flour\n25 g Granulated Sugar\n5 g Guerand's\
   \ Salt (fine particles) \n10 g dry milk\n4 g Instant dry yeast \n120 g Water\n60\
   \ g Whole Egg\n40 g Unsalted Butter"
 intrash: 0
 name: Butter Roll
+notes: null
+nutritional_info: null
 photo: F522063A-4155-42FD-AA39-494F5BD29F02-29546-0000D70B3D18819C.jpg
 photo_large: 9FFABAB3-E2FB-4006-8415-534BFECC1E42-29546-0000D704AED7E5DB.jpg
 photos:
@@ -30,17 +113,3 @@ total_time: ''
 type: null
 uid: 8EF38009-BB8A-474B-832A-573AA5F4DC59-11450-000003056F5299A6
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>200 g Bread Flour</li>
-<li>50 g Cake Flour</li>
-<li>25 g Granulated Sugar</li>
-<li>5 g Guerand's Salt (fine particles)</li>
-<li>10 g dry milk</li>
-<li>4 g Instant dry yeast</li>
-<li>120 g Water</li>
-<li>60 g Whole Egg</li>
-<li>40 g Unsalted Butter</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

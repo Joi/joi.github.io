@@ -8,6 +8,78 @@ created: '2020-09-17 15:26:27'
 created_ts: 1600356387
 description: null
 difficulty: null
+directions: "Prep your ingredients. I use kitchen shears to make cutting up the bacon\
+  \ easier. You can always finish prepping the remaining ingredients while the bacon\
+  \ is cooking to save time.\n\nAdd the bacon to your Instant Pot. Press the saut\xE9\
+  \ button and fry the bacon until crispy (about 10-12 mins).\n\nOnce the bacon is\
+  \ crispy, move the bacon to one side of the Instant Pot and scoop most of the grease\
+  \ out with a spoon. Discard the fat (or store it and save it for other recipes).\n\
+  \nAdd the garlic, red wine, chicken broth, and tomato paste to the Instant Pot.\
+  \ Give it a good stir.\n\nAdd the chicken, carrots, onions, mushrooms, and thyme\
+  \ to your Instant Pot. Stir it as best as you can. Close the lid and set the valve\
+  \ to \"sealing\". Cook on high pressure for 10 minutes.\n\nOnce the countdown has\
+  \ finished, let the pressure release naturally for 15 minutes, and then do a quick\
+  \ release of the remaining pressure.\n\nAdd the cornstarch slurry (mix the cornstarch\
+  \ and cold water together) to the Instant Pot. Press the saut\xE9 button and this\
+  \ will help the sauce sauce thicken a little bit (the sauce isn't meant to be too\
+  \ thick) if you let it cook for a few more minutes. Season with salt & pepper if\
+  \ needed.\n\nI use this 6-quart Instant Pot.\n\nInactive time = the time it takes\
+  \ your Instant Pot to get up to pressure."
+html:
+  description: null
+  directions: "<p>Prep your ingredients. I use kitchen shears to make cutting up the\
+    \ bacon easier. You can always finish prepping the remaining ingredients while\
+    \ the bacon is cooking to save time.</p>\n<p>Add the bacon to your Instant Pot.\
+    \ Press the saut\xE9 button and fry the bacon until crispy (about 10-12 mins).</p>\n\
+    <p>Once the bacon is crispy, move the bacon to one side of the Instant Pot and\
+    \ scoop most of the grease out with a spoon. Discard the fat (or store it and\
+    \ save it for other recipes).</p>\n<p>Add the garlic, red wine, chicken broth,\
+    \ and tomato paste to the Instant Pot. Give it a good stir.</p>\n<p>Add the chicken,\
+    \ carrots, onions, mushrooms, and thyme to your Instant Pot. Stir it as best as\
+    \ you can. Close the lid and set the valve to &quot;sealing&quot;. Cook on high\
+    \ pressure for 10 minutes.</p>\n<p>Once the countdown has finished, let the pressure\
+    \ release naturally for 15 minutes, and then do a quick release of the remaining\
+    \ pressure.</p>\n<p>Add the cornstarch slurry (mix the cornstarch and cold water\
+    \ together) to the Instant Pot. Press the saut\xE9 button and this will help the\
+    \ sauce sauce thicken a little bit (the sauce isn't meant to be too thick) if\
+    \ you let it cook for a few more minutes. Season with salt &amp; pepper if needed.</p>\n\
+    <p>I use this 6-quart Instant Pot.</p>\n<p>Inactive time = the time it takes your\
+    \ Instant Pot to get up to pressure.</p>\n"
+  ingredients: '<ul>
+
+    <li>6 strips bacon chopped into small pieces</li>
+
+    <li>6 boneless, skinless chicken thighs</li>
+
+    <li>2 large carrots chopped</li>
+
+    <li>10 ounces pearl onions peeled</li>
+
+    <li>7 ounces button mushrooms (leave them whole)</li>
+
+    <li>4 cloves garlic minced</li>
+
+    <li>2 cups red wine (I used Zinfandel)</li>
+
+    <li>1/2 cup chicken broth</li>
+
+    <li>2 heaping tablespoons tomato paste</li>
+
+    <li>4 sprigs fresh thyme</li>
+
+    <li>1 tablespoon cornstarch + 2 tablespoons cold water</li>
+
+    <li>Salt &amp; pepper to taste</li>
+
+    </ul>
+
+    '
+  notes: '<p>I used about a pound of chicken thighs in this recipe. Anything around
+    that mark (or even up to 1.5 lbs. or so) would work. I discuss more on why I chose
+    this cut of chicken within the blog post.</p>
+
+    '
+  nutrition: null
 image_url: https://www.saltandlavender.com/wp-content/uploads/2019/03/instant-pot-coq-au-vin-recipe-2.jpg
 ingredients: '6 strips bacon chopped into small pieces
 
@@ -34,6 +106,10 @@ ingredients: '6 strips bacon chopped into small pieces
   Salt & pepper to taste'
 intrash: 0
 name: Instant Pot Coq Au Vin
+notes: I used about a pound of chicken thighs in this recipe. Anything around that
+  mark (or even up to 1.5 lbs. or so) would work. I discuss more on why I chose this
+  cut of chicken within the blog post.
+nutritional_info: null
 photo: C19525B3-D651-4A1F-BB4F-D47257C354BA-15576-00000958AF1D8514.jpg
 photo_large: null
 photos: []
@@ -47,20 +123,4 @@ total_time: null
 type: null
 uid: EA3F9380-CD76-4171-85AF-AAD6C1D07C2D-15576-00000958A7284C6F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>6 strips bacon chopped into small pieces</li>
-<li>6 boneless, skinless chicken thighs</li>
-<li>2 large carrots chopped</li>
-<li>10 ounces pearl onions peeled</li>
-<li>7 ounces button mushrooms (leave them whole)</li>
-<li>4 cloves garlic minced</li>
-<li>2 cups red wine (I used Zinfandel)</li>
-<li>1/2 cup chicken broth</li>
-<li>2 heaping tablespoons tomato paste</li>
-<li>4 sprigs fresh thyme</li>
-<li>1 tablespoon cornstarch + 2 tablespoons cold water</li>
-<li>Salt &amp; pepper to taste</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+I used about a pound of chicken thighs in this recipe. Anything around that mark (or even up to 1.5 lbs. or so) would work. I discuss more on why I chose this cut of chicken within the blog post.

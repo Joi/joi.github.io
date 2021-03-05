@@ -9,6 +9,58 @@ created: '2020-04-08 13:22:24'
 created_ts: 1586352144
 description: ''
 difficulty: ''
+directions: 'Heat oven to 400 degrees. Lay out a double layer of foil big enough to
+  wrap fish in, and drizzle with oil. Place fish on foil. Put scallions and half the
+  thyme in cavity of fish. Drizzle 2 tablespoons butter over fish, and sprinkle with
+  salt to taste. Wrap fish loosely, place on a baking sheet and bake 35 minutes.
+
+
+  Place a small skillet over medium heat. When pan is hot, add almonds, and stir until
+  golden brown. Remove from pan, and set aside. In a small bowl, combine remaining
+  melted butter and lemon juice; set aside.
+
+
+  When fish is cooked, carefully peel skin from side facing you. With a knife, divide
+  fish in three portions by making two long cuts parallel to each other and perpendicular
+  to the backbone. Cut down to the rib bones, but do not cut through them. Remove
+  a portion of meat by sliding a spatula over rib bones and pulling meat away; repeat
+  with 2 remaining portions, and place on three warmed plates. Remove backbone and
+  attached rib bones. Cut three more fillets from remaining fish, placing them on
+  plates.
+
+
+  Drizzle lemon butter over each fillet, and sprinkle with toasted almonds. Pull leaves
+  from remaining sprigs of thyme, and scatter over fillets. Serve immediately.'
+html:
+  description: null
+  directions: '<p>Heat oven to 400 degrees. Lay out a double layer of foil big enough
+    to wrap fish in, and drizzle with oil. Place fish on foil. Put scallions and half
+    the thyme in cavity of fish. Drizzle 2 tablespoons butter over fish, and sprinkle
+    with salt to taste. Wrap fish loosely, place on a baking sheet and bake 35 minutes.</p>
+
+    <p>Place a small skillet over medium heat. When pan is hot, add almonds, and stir
+    until golden brown. Remove from pan, and set aside. In a small bowl, combine remaining
+    melted butter and lemon juice; set aside.</p>
+
+    <p>When fish is cooked, carefully peel skin from side facing you. With a knife,
+    divide fish in three portions by making two long cuts parallel to each other and
+    perpendicular to the backbone. Cut down to the rib bones, but do not cut through
+    them. Remove a portion of meat by sliding a spatula over rib bones and pulling
+    meat away; repeat with 2 remaining portions, and place on three warmed plates.
+    Remove backbone and attached rib bones. Cut three more fillets from remaining
+    fish, placing them on plates.</p>
+
+    <p>Drizzle lemon butter over each fillet, and sprinkle with toasted almonds. Pull
+    leaves from remaining sprigs of thyme, and scatter over fillets. Serve immediately.</p>
+
+    '
+  ingredients: "<ul>\n<li>1 tablespoon vegetable oil</li>\n<li>1 4-pound salmon, cleaned\
+    \ and scaled, head and tail removed</li>\n<li>2 scallions, trimmed</li>\n<li>1\
+    \ small bunch (about 1/2 cup) fresh thyme</li>\n<li>6 tablespoons melted butter</li>\n\
+    <li>1 tablespoon sea salt</li>\n<li>\u2153 cup sliced almonds</li>\n<li>Juice\
+    \ of half a lemon</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://static01.nyt.com/images/2014/04/10/dining/salmonthyme/salmonthyme-articleLarge.jpg
 ingredients: "1 tablespoon vegetable oil\n1 4-pound salmon, cleaned and scaled, head\
   \ and tail removed\n2 scallions, trimmed\n1 small bunch (about 1/2 cup) fresh thyme\n\
@@ -16,6 +68,8 @@ ingredients: "1 tablespoon vegetable oil\n1 4-pound salmon, cleaned and scaled, 
   Juice of half a lemon"
 intrash: 0
 name: Salmon with Thyme, Lemon Butter and Almonds
+notes: ''
+nutritional_info: ''
 photo: 76BB426B-598E-4DD6-9225-042EDB222F69-16595-0003B26A2D87D80E.jpg
 photo_large: null
 photos: []
@@ -29,16 +83,3 @@ total_time: ''
 type: null
 uid: F83ADFD7-F747-496E-9F78-8014F6D9B01C-16595-0003B2685E3340A3
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 tablespoon vegetable oil</li>
-<li>1 4-pound salmon, cleaned and scaled, head and tail removed</li>
-<li>2 scallions, trimmed</li>
-<li>1 small bunch (about 1/2 cup) fresh thyme</li>
-<li>6 tablespoons melted butter</li>
-<li>1 tablespoon sea salt</li>
-<li>⅓ cup sliced almonds</li>
-<li>Juice of half a lemon</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

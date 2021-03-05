@@ -8,6 +8,202 @@ created: '2020-09-08 22:35:04'
 created_ts: 1599604504
 description: null
 difficulty: null
+directions: "STEP-BY-STEP INSTRUCTIONS TO MAKE BBQ PORK RIBS:\n\nRemove pork ribs\
+  \ from the packaging and pat ribs dry with a paper towel. Spray the aluminum pan\
+  \ with nonstick cooking spray or rub with oil. Place ribs into pan. Remove silver\
+  \ skin from the back side of the ribs. Cook\u2019s note: This is optional. I like\
+  \ to remove it because it\u2019s a tough and rubber-y membrane that can make it\
+  \ a bit more challenging to eat the ribs after they are cooked. It is super easy\
+  \ to remove since it will pull off in one piece. It also helps the pork rub penetrate\
+  \ the meat easier.\n\nSprinkle some of the pork rub seasoning onto the back of the\
+  \ ribs. It\u2019s called \u2018rub\u2019 for a reason. So you want to really get\
+  \ in there and rub and press it in. Note: if you\u2019d like, you can cut the rack\
+  \ of ribs in half to make it easier to handle on the grill later.\n\nFlip the ribs\
+  \ over and season the opposite side. The rule of thumb with rub seasoning is however\
+  \ much naturally sticks to the ribs is enough. Whatever falls off after rubbing\
+  \ it in can be discarded. Pour apple juice into the bottom of the pan. Cover pan\
+  \ with aluminum foil and place into the fridge until your grill is ready.\n\nWe\
+  \ are gonna be cooking these ribs at a low temperature for over an hour. So make\
+  \ sure your propane tank is full or that you have another tank on standby, just\
+  \ in case.\n\nPreheat grill to 300f degrees. It\u2019s important to try to maintain\
+  \ this temperature through the cooking process so your ribs don\u2019t cook too\
+  \ fast. I have 3 burners and I will usually keep the middle burner off and just\
+  \ keep the two end burners on low so it\u2019s a nice, low, indirect heat for the\
+  \ ribs.\n\nClean the grill grates and carefully wipe them down with a bit of oil\
+  \ (you\u2019ll need nice, clean, nonstick grates a little later.) Place pan of ribs\
+  \ onto grill. Cover grill and cook for about an hour (maintaining 300f degrees during\
+  \ the cooking process.)\n\nRibs are safe to eat when an inserted meat thermometer\
+  \ (into the thickest part of the meat \u2013 away from the bone) reaches 145f degrees.\
+  \ But by cooking it low and slow for a longer amount of time, the ribs will end\
+  \ up reaching a temperature closer to 180f -190f degrees and that creates a more\
+  \ tender meat. Carefully remove ribs from the pan and place directly on the grill.\
+  \ Ensure heat stays on low. Meanwhile, in a small pot over medium heat, whisk together\
+  \ marmalade and vinegar. Continue to whisk until it\u2019s combined well. This should\
+  \ only take a minute or two. You can do this on the grill if you have a side burner\
+  \ attached to your grill.\n\nTake pot off heat and baste the cooked ribs with the\
+  \ marmalade sauce. Make sure to coat it well.\n\nCover grill and cook for an additional\
+  \ 5 minutes. Then repeat the process one more time.\n\nCarefully remove the ribs\
+  \ off the grill and place on a large cutting board and allow the meat to rest and\
+  \ cool for a few minutes.\n\nWith a sharp knife, carefully cut the ribs between\
+  \ the bones and serve!\n\nEnjoy!\n\nRemove pork ribs from the packaging and pat\
+  \ ribs dry with a paper towel. Spray the aluminum pan with nonstick cooking spray\
+  \ or rub with oil. Place ribs into pan. Remove silver skin from the back side of\
+  \ the ribs.\n\nSprinkle some of the pork rub seasoning onto the back of the ribs.\
+  \ It's called 'rub' for a reason. So you want to really get in there and rub and\
+  \ press it in. Note: if you'd like, you can cut the rack of ribs in half to make\
+  \ it easier to handle on the grill later.\n\nFlip the ribs over and season the opposite\
+  \ side. The rule of thumb with rub seasoning is however much naturally sticks to\
+  \ the ribs is enough. Whatever falls off after rubbing it in can be discarded. Pour\
+  \ apple juice into the bottom of the pan. Cover pan with aluminum foil and place\
+  \ into the fridge until your grill is ready.\n\nPreheat grill to 300f degrees. It's\
+  \ important to try to maintain this temperature through the cooking process so your\
+  \ ribs don't cook too fast. I have 3 burners and I will usually keep the middle\
+  \ burner off and just keep the two end burners on low so it's a nice, low, indirect\
+  \ heat for the ribs.\n\nClean the grill grates and carefully wipe them down with\
+  \ a bit of oil (you'll need nice, clean, nonstick grates a little later.) Place\
+  \ pan of ribs onto grill. Cover grill and cook for about an hour (maintaining 300f\
+  \ degrees during the cooking process.)\n\nRibs are done when an inserted meat thermometer\
+  \ (into the thickest part of the meat - away from the bone) reaches 145f degrees.\
+  \ Carefully remove ribs from the pan and place directly on the grill. Ensure heat\
+  \ stays on low.\n\nMeanwhile, in a small pot over medium heat, whisk together marmalade\
+  \ and vinegar. Continue to whisk until it's combined well. This should only take\
+  \ a minute or two. You can do this on the grill if you have a side burner attached\
+  \ to your grill.\n\nTake pot off heat and baste the cooked ribs with the marmalade\
+  \ sauce. Make sure to coat it well.\n\nCover grill and cook for an additional 5\
+  \ minutes. Then repeat the process one more time. Carefully remove the ribs off\
+  \ the grill and place on a large cutting board and allow the meat to rest and cool\
+  \ for a few minutes.\n\nWith a sharp knife, carefully cut the ribs between the bones\
+  \ and serve!"
+html:
+  description: null
+  directions: "<p>STEP-BY-STEP INSTRUCTIONS TO MAKE BBQ PORK RIBS:</p>\n<p>Remove\
+    \ pork ribs from the packaging and pat ribs dry with a paper towel. Spray the\
+    \ aluminum pan with nonstick cooking spray or rub with oil. Place ribs into pan.\
+    \ Remove silver skin from the back side of the ribs. Cook\u2019s note: This is\
+    \ optional. I like to remove it because it\u2019s a tough and rubber-y membrane\
+    \ that can make it a bit more challenging to eat the ribs after they are cooked.\
+    \ It is super easy to remove since it will pull off in one piece. It also helps\
+    \ the pork rub penetrate the meat easier.</p>\n<p>Sprinkle some of the pork rub\
+    \ seasoning onto the back of the ribs. It\u2019s called \u2018rub\u2019 for a\
+    \ reason. So you want to really get in there and rub and press it in. Note: if\
+    \ you\u2019d like, you can cut the rack of ribs in half to make it easier to handle\
+    \ on the grill later.</p>\n<p>Flip the ribs over and season the opposite side.\
+    \ The rule of thumb with rub seasoning is however much naturally sticks to the\
+    \ ribs is enough. Whatever falls off after rubbing it in can be discarded. Pour\
+    \ apple juice into the bottom of the pan. Cover pan with aluminum foil and place\
+    \ into the fridge until your grill is ready.</p>\n<p>We are gonna be cooking these\
+    \ ribs at a low temperature for over an hour. So make sure your propane tank is\
+    \ full or that you have another tank on standby, just in case.</p>\n<p>Preheat\
+    \ grill to 300f degrees. It\u2019s important to try to maintain this temperature\
+    \ through the cooking process so your ribs don\u2019t cook too fast. I have 3\
+    \ burners and I will usually keep the middle burner off and just keep the two\
+    \ end burners on low so it\u2019s a nice, low, indirect heat for the ribs.</p>\n\
+    <p>Clean the grill grates and carefully wipe them down with a bit of oil (you\u2019\
+    ll need nice, clean, nonstick grates a little later.) Place pan of ribs onto grill.\
+    \ Cover grill and cook for about an hour (maintaining 300f degrees during the\
+    \ cooking process.)</p>\n<p>Ribs are safe to eat when an inserted meat thermometer\
+    \ (into the thickest part of the meat \u2013 away from the bone) reaches 145f\
+    \ degrees. But by cooking it low and slow for a longer amount of time, the ribs\
+    \ will end up reaching a temperature closer to 180f -190f degrees and that creates\
+    \ a more tender meat. Carefully remove ribs from the pan and place directly on\
+    \ the grill. Ensure heat stays on low. Meanwhile, in a small pot over medium heat,\
+    \ whisk together marmalade and vinegar. Continue to whisk until it\u2019s combined\
+    \ well. This should only take a minute or two. You can do this on the grill if\
+    \ you have a side burner attached to your grill.</p>\n<p>Take pot off heat and\
+    \ baste the cooked ribs with the marmalade sauce. Make sure to coat it well.</p>\n\
+    <p>Cover grill and cook for an additional 5 minutes. Then repeat the process one\
+    \ more time.</p>\n<p>Carefully remove the ribs off the grill and place on a large\
+    \ cutting board and allow the meat to rest and cool for a few minutes.</p>\n<p>With\
+    \ a sharp knife, carefully cut the ribs between the bones and serve!</p>\n<p>Enjoy!</p>\n\
+    <p>Remove pork ribs from the packaging and pat ribs dry with a paper towel. Spray\
+    \ the aluminum pan with nonstick cooking spray or rub with oil. Place ribs into\
+    \ pan. Remove silver skin from the back side of the ribs.</p>\n<p>Sprinkle some\
+    \ of the pork rub seasoning onto the back of the ribs. It's called 'rub' for a\
+    \ reason. So you want to really get in there and rub and press it in. Note: if\
+    \ you'd like, you can cut the rack of ribs in half to make it easier to handle\
+    \ on the grill later.</p>\n<p>Flip the ribs over and season the opposite side.\
+    \ The rule of thumb with rub seasoning is however much naturally sticks to the\
+    \ ribs is enough. Whatever falls off after rubbing it in can be discarded. Pour\
+    \ apple juice into the bottom of the pan. Cover pan with aluminum foil and place\
+    \ into the fridge until your grill is ready.</p>\n<p>Preheat grill to 300f degrees.\
+    \ It's important to try to maintain this temperature through the cooking process\
+    \ so your ribs don't cook too fast. I have 3 burners and I will usually keep the\
+    \ middle burner off and just keep the two end burners on low so it's a nice, low,\
+    \ indirect heat for the ribs.</p>\n<p>Clean the grill grates and carefully wipe\
+    \ them down with a bit of oil (you'll need nice, clean, nonstick grates a little\
+    \ later.) Place pan of ribs onto grill. Cover grill and cook for about an hour\
+    \ (maintaining 300f degrees during the cooking process.)</p>\n<p>Ribs are done\
+    \ when an inserted meat thermometer (into the thickest part of the meat - away\
+    \ from the bone) reaches 145f degrees. Carefully remove ribs from the pan and\
+    \ place directly on the grill. Ensure heat stays on low.</p>\n<p>Meanwhile, in\
+    \ a small pot over medium heat, whisk together marmalade and vinegar. Continue\
+    \ to whisk until it's combined well. This should only take a minute or two. You\
+    \ can do this on the grill if you have a side burner attached to your grill.</p>\n\
+    <p>Take pot off heat and baste the cooked ribs with the marmalade sauce. Make\
+    \ sure to coat it well.</p>\n<p>Cover grill and cook for an additional 5 minutes.\
+    \ Then repeat the process one more time. Carefully remove the ribs off the grill\
+    \ and place on a large cutting board and allow the meat to rest and cool for a\
+    \ few minutes.</p>\n<p>With a sharp knife, carefully cut the ribs between the\
+    \ bones and serve!</p>\n"
+  ingredients: '<ul>
+
+    <li>pork ribs</li>
+
+    <li>pork seasoning rub</li>
+
+    <li>unsweetened apple juice</li>
+
+    <li>orange marmalade (peach preserves or apricot preserves)</li>
+
+    <li>apple cider vinegar</li>
+
+    <li>large disposable aluminum tray</li>
+
+    <li>aluminum foil</li>
+
+    <li>Homemade Pork Seasoning Rub:</li>
+
+    <li>1/2 cup brown sugar</li>
+
+    <li>1/4 cup smoked paprika</li>
+
+    <li>1 tablespoon coarse ground black pepper</li>
+
+    <li>1 tablespoon kosher salt</li>
+
+    <li>1 tablespoon chili powder</li>
+
+    <li>1 tablespoon garlic powder</li>
+
+    <li>1 tablespoon onion powder</li>
+
+    <li>1 teaspoon cayenne</li>
+
+    <li>1 rack pork ribs</li>
+
+    <li>1/2 cup pork seasoning rub (see below for a recipe)</li>
+
+    <li>1 cup unsweetened apple juice</li>
+
+    <li>1/2 cup orange marmalade (peach preserves or apricot preserves)</li>
+
+    <li>1/4 cup apple cider vinegar</li>
+
+    <li>1 large disposable aluminum tray</li>
+
+    <li>aluminum foil</li>
+
+    <li>3-INGREDIENT SAUSAGE ROLLS</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: '<p>Calories: 288kcal | Carbohydrates: 35g | Protein: 16g | Fat: 10g
+    | Saturated Fat: 2g | Cholesterol: 55mg | Sodium: 69mg | Potassium: 432mg | Fiber:
+    2g | Sugar: 20g | Vitamin A: 535IU | Vitamin C: 4mg | Calcium: 226mg | Iron: 7.7mg</p>
+
+    '
 image_url: https://www.thecountrycook.net/wp-content/uploads/2018/06/7583901920_IMG_8812.jpg
 ingredients: 'pork ribs
 
@@ -58,6 +254,10 @@ ingredients: 'pork ribs
   3-INGREDIENT SAUSAGE ROLLS'
 intrash: 0
 name: The Best Pork Ribs on a Gas Grill
+notes: null
+nutritional_info: 'Calories: 288kcal | Carbohydrates: 35g | Protein: 16g | Fat: 10g
+  | Saturated Fat: 2g | Cholesterol: 55mg | Sodium: 69mg | Potassium: 432mg | Fiber:
+  2g | Sugar: 20g | Vitamin A: 535IU | Vitamin C: 4mg | Calcium: 226mg | Iron: 7.7mg'
 photo: 49E12B1E-CE06-464F-81AA-44776590DE1A-18544-00000BAC275A8485.jpg
 photo_large: null
 photos: []
@@ -71,32 +271,3 @@ total_time: null
 type: null
 uid: 28B92DE2-549F-4D03-8E53-BB9E31990D0F-18544-00000BABF8C1D785
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>pork ribs</li>
-<li>pork seasoning rub</li>
-<li>unsweetened apple juice</li>
-<li>orange marmalade (peach preserves or apricot preserves)</li>
-<li>apple cider vinegar</li>
-<li>large disposable aluminum tray</li>
-<li>aluminum foil</li>
-<li>Homemade Pork Seasoning Rub:</li>
-<li>1/2 cup brown sugar</li>
-<li>1/4 cup smoked paprika</li>
-<li>1 tablespoon coarse ground black pepper</li>
-<li>1 tablespoon kosher salt</li>
-<li>1 tablespoon chili powder</li>
-<li>1 tablespoon garlic powder</li>
-<li>1 tablespoon onion powder</li>
-<li>1 teaspoon cayenne</li>
-<li>1 rack pork ribs</li>
-<li>1/2 cup pork seasoning rub (see below for a recipe)</li>
-<li>1 cup unsweetened apple juice</li>
-<li>1/2 cup orange marmalade (peach preserves or apricot preserves)</li>
-<li>1/4 cup apple cider vinegar</li>
-<li>1 large disposable aluminum tray</li>
-<li>aluminum foil</li>
-<li>3-INGREDIENT SAUSAGE ROLLS</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

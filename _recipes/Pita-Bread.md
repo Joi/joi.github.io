@@ -8,11 +8,67 @@ created: '2020-04-11 14:59:30'
 created_ts: 1586617170
 description: ''
 difficulty: Medium
+directions: "Place yeast, water and sugar into mixing bowl and warm 30 sec/100\xB0\
+  F/speed 2.\n\nAdd oil, flour and salt and knead 3 min/\uE001. Transfer dough into\
+  \ a bowl, cover with cling wrap and let rise in a warm place until doubled in size\
+  \ (approx. 1 hr.). Divide dough into 7-8 pieces, form each into a ball and allow\
+  \ to rest for 15 minutes. Roll out each ball with a rolling pin into a flat circle\
+  \ (approx. 6 in.) and allow to rest for a further |15 minutes.\n\nMeanwhile, preheat\
+  \ oven and baking sheet to 475\xB0F.\n\nPlace 2-4 dough circles onto preheated baking\
+  \ sheet and bake for 4-5 minutes (475\xB0F) until puffed up or light golden. Repeat\
+  \ with remaining dough. Transfer hot pita breads onto a plate and cover immediately\
+  \ with a dry kitchen towel (tea towel) to keep them soft. Allow to cool before serving.\n\
+  \nTips & tricks\n\nCut pita bread in half to fill with sandwich fillings (e.g. lettuce\
+  \ leaves, tomatoes, cheese, cold meat, mayonnaise).\n\nPlacing dough on preheated\
+  \ baking pan helps it puff up. If a few of the pita breads don\u2019t puff up, they\
+  \ can still be served as soft flatbreads."
+html:
+  description: null
+  directions: "<p>Place yeast, water and sugar into mixing bowl and warm 30 sec/100\xB0\
+    F/speed 2.</p>\n<p>Add oil, flour and salt and knead 3 min/\uE001. Transfer dough\
+    \ into a bowl, cover with cling wrap and let rise in a warm place until doubled\
+    \ in size (approx. 1 hr.). Divide dough into 7-8 pieces, form each into a ball\
+    \ and allow to rest for 15 minutes. Roll out each ball with a rolling pin into\
+    \ a flat circle (approx. 6 in.) and allow to rest for a further |15 minutes.</p>\n\
+    <p>Meanwhile, preheat oven and baking sheet to 475\xB0F.</p>\n<p>Place 2-4 dough\
+    \ circles onto preheated baking sheet and bake for 4-5 minutes (475\xB0F) until\
+    \ puffed up or light golden. Repeat with remaining dough. Transfer hot pita breads\
+    \ onto a plate and cover immediately with a dry kitchen towel (tea towel) to keep\
+    \ them soft. Allow to cool before serving.</p>\n<p>Tips &amp; tricks</p>\n<p>Cut\
+    \ pita bread in half to fill with sandwich fillings (e.g. lettuce leaves, tomatoes,\
+    \ cheese, cold meat, mayonnaise).</p>\n<p>Placing dough on preheated baking pan\
+    \ helps it puff up. If a few of the pita breads don\u2019t puff up, they can still\
+    \ be served as soft flatbreads.</p>\n"
+  ingredients: "<ul>\n<li>1 tsp dried instant yeast</li>\n<li>or \xBD oz fresh yeast</li>\n\
+    <li>10 oz water</li>\n<li>1 tsp sugar</li>\n<li>1 tsp olive oil</li>\n<li>18 oz\
+    \ bread flour</li>\n<li>1 tsp salt</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 977 kJ / 233 kcal
+
+    Protein: 7 g
+
+    Carbohydrates: 47 g
+
+    Fat: 1 g
+
+    Fiber: 2.4 g</p>
+
+    '
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/942C8336-8F3F-41CA-85D7-1A3CF42E0547/Derivates/D25184C1-D5A1-4D44-8637-7AEF21018166.jpg
 ingredients: "1 tsp dried instant yeast\nor \xBD oz fresh yeast\n10 oz water\n1 tsp\
   \ sugar\n1 tsp olive oil\n18 oz bread flour\n1 tsp salt"
 intrash: 0
 name: Pita Bread
+notes: ''
+nutritional_info: 'Calories: 977 kJ / 233 kcal
+
+  Protein: 7 g
+
+  Carbohydrates: 47 g
+
+  Fat: 1 g
+
+  Fiber: 2.4 g'
 photo: 9A7D7EE4-7336-4518-BADE-B6CEEFC46D35-53878-00004CF254FB6333.jpg
 photo_large: null
 photos: []
@@ -26,15 +82,3 @@ total_time: ''
 type: null
 uid: A2C1D3A5-6BAB-47AE-B15E-D7E4F4B559F1-53878-00004CEED8E59BC2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 tsp dried instant yeast</li>
-<li>or ½ oz fresh yeast</li>
-<li>10 oz water</li>
-<li>1 tsp sugar</li>
-<li>1 tsp olive oil</li>
-<li>18 oz bread flour</li>
-<li>1 tsp salt</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

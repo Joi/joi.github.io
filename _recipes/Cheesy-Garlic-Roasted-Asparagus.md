@@ -8,6 +8,48 @@ created: '2020-07-01 14:09:34'
 created_ts: 1593612574
 description: ''
 difficulty: ''
+directions: "Preheat oven to 425\xB0F (220\xB0C). Lightly grease a baking sheet with\
+  \ nonstick cooking oil spray.\n\nArrange asparagus on baking sheet. Set aside.\n\
+  \nIn a small bowl mix together olive oil, garlic, salt and pepper. Drizzle the oil\
+  \ mixture over the asparagus and toss to evenly coat.\n\nBake for 10-15 minutes\
+  \ until vibrant and just beginning to get tender.\n\nRemove from oven and top with\
+  \ the mozzarella cheese. Return to oven and broil (or grill) until the cheese melts\
+  \ and becomes golden (about 4-5 minutes).\n\nAdjust salt and pepper, if needed.\
+  \ Serve immediately."
+html:
+  description: null
+  directions: "<p>Preheat oven to 425\xB0F (220\xB0C). Lightly grease a baking sheet\
+    \ with nonstick cooking oil spray.</p>\n<p>Arrange asparagus on baking sheet.\
+    \ Set aside.</p>\n<p>In a small bowl mix together olive oil, garlic, salt and\
+    \ pepper. Drizzle the oil mixture over the asparagus and toss to evenly coat.</p>\n\
+    <p>Bake for 10-15 minutes until vibrant and just beginning to get tender.</p>\n\
+    <p>Remove from oven and top with the mozzarella cheese. Return to oven and broil\
+    \ (or grill) until the cheese melts and becomes golden (about 4-5 minutes).</p>\n\
+    <p>Adjust salt and pepper, if needed. Serve immediately.</p>\n"
+  ingredients: '<ul>
+
+    <li>1 pound (500 g) asparagus spears, woody ends removed</li>
+
+    <li>3 tablespoons olive oil</li>
+
+    <li>1 tablespoon minced garlic (or 4 cloves garlic, minced)</li>
+
+    <li>3/4 teaspoon Kosher salt</li>
+
+    <li>1/4 teaspoon fresh cracked black pepper</li>
+
+    <li>1 1/4 cup shredded mozzarella cheese</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: '<p>Calories: 226kcal | Carbohydrates: 6g | Protein: 10g | Fat: 18g |
+    Saturated Fat: 6g | Cholesterol: 27mg | Sodium: 658mg | Potassium: 270mg | Fiber:
+    2g | Sugar: 2g | Vitamin A: 1095IU | Vitamin C: 7.5mg | Calcium: 211mg | Iron:
+    2.7mg</p>
+
+    '
 image_url: https://cafedelites.com/wp-content/uploads/2018/03/Cheesy-Garlic-Roasted-Asparagus-IMAGE-10-1365x2048.jpg
 ingredients: '1 pound (500 g) asparagus spears, woody ends removed
 
@@ -22,6 +64,10 @@ ingredients: '1 pound (500 g) asparagus spears, woody ends removed
   1 1/4 cup shredded mozzarella cheese'
 intrash: 0
 name: Cheesy Garlic Roasted Asparagus
+notes: ''
+nutritional_info: 'Calories: 226kcal | Carbohydrates: 6g | Protein: 10g | Fat: 18g
+  | Saturated Fat: 6g | Cholesterol: 27mg | Sodium: 658mg | Potassium: 270mg | Fiber:
+  2g | Sugar: 2g | Vitamin A: 1095IU | Vitamin C: 7.5mg | Calcium: 211mg | Iron: 2.7mg'
 photo: 6DC2225D-722B-4194-BEAB-638821A21A8C-631-000053877C36ACF7.jpg
 photo_large: null
 photos: []
@@ -35,14 +81,3 @@ total_time: ''
 type: null
 uid: 2E749584-4AE4-41F8-8804-29123F35C8F4-631-00005385575AFFE6
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 pound (500 g) asparagus spears, woody ends removed</li>
-<li>3 tablespoons olive oil</li>
-<li>1 tablespoon minced garlic (or 4 cloves garlic, minced)</li>
-<li>3/4 teaspoon Kosher salt</li>
-<li>1/4 teaspoon fresh cracked black pepper</li>
-<li>1 1/4 cup shredded mozzarella cheese</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

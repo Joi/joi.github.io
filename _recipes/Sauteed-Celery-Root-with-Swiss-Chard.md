@@ -9,6 +9,35 @@ created: '2020-08-10 18:27:30'
 created_ts: 1597084050
 description: ''
 difficulty: ''
+directions: "Heat oil in heavy large pot over medium heat. Add onion and garlic and\
+  \ saut\xE9 3 minutes. Add celery root and saut\xE9 until crisp-tender, about 8 minutes.\
+  \ Add chard; cover and cook until wilted and tender, about 5 minutes. Stir in lemon\
+  \ juice. Season with salt and pepper."
+html:
+  description: null
+  directions: "<p>Heat oil in heavy large pot over medium heat. Add onion and garlic\
+    \ and saut\xE9 3 minutes. Add celery root and saut\xE9 until crisp-tender, about\
+    \ 8 minutes. Add chard; cover and cook until wilted and tender, about 5 minutes.\
+    \ Stir in lemon juice. Season with salt and pepper.</p>\n"
+  ingredients: '<ul>
+
+    <li>3 tablespoons olive oil</li>
+
+    <li>1 medium onion, coarsely chopped</li>
+
+    <li>2 cloves garlic, finely chopped</li>
+
+    <li>12 ounces celery root, peeled, cut into matchstick-size strips</li>
+
+    <li>1 pound Swiss chard, stems trimmed, leaves cut into 1/2-inch-wide strips</li>
+
+    <li>2 teaspoons fresh lemon juice</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: http://nashsorganicproduce.com/recipes/wp-content/uploads/2017/07/chard-rainbow-sq.jpg
 ingredients: '3 tablespoons olive oil
 
@@ -23,6 +52,8 @@ ingredients: '3 tablespoons olive oil
   2 teaspoons fresh lemon juice'
 intrash: 0
 name: Sauteed Celery Root with Swiss Chard
+notes: ''
+nutritional_info: ''
 photo: 200E48D3-51C5-4358-85D5-3DFE1DED7847-1060-000261ADE11C3B43.jpg
 photo_large: null
 photos: []
@@ -36,14 +67,3 @@ total_time: ''
 type: null
 uid: B502C26C-369B-4679-9CDA-699DA5AB2BA8-1060-000261A7AA093FFB
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>3 tablespoons olive oil</li>
-<li>1 medium onion, coarsely chopped</li>
-<li>2 cloves garlic, finely chopped</li>
-<li>12 ounces celery root, peeled, cut into matchstick-size strips</li>
-<li>1 pound Swiss chard, stems trimmed, leaves cut into 1/2-inch-wide strips</li>
-<li>2 teaspoons fresh lemon juice</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

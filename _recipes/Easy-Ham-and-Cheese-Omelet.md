@@ -10,12 +10,60 @@ created: '2020-02-03 22:48:31'
 created_ts: 1580770111
 description: null
 difficulty: null
+directions: 'Whisk eggs, pepper, and salt in bowl until eggs are thoroughly combined
+  and mixture is pure yellow. Spray 10-inch nonstick skillet with vegetable oil spray.
+
+
+  Melt butter in skillet over medium-high heat, swirling to coat skillet bottom. When
+  foaming subsides, add egg mixture and cook, gently stirring and scraping bottom
+  of skillet with rubber spatula in circular motion until large curds begin to form
+  and bare spots are visible on bottom of skillet, about 20 seconds.
+
+
+  Tilt skillet so uncooked eggs fill bare spots. Run spatula around edge of skillet
+  and push cooked eggs down off sides. Let cook, undisturbed, until bottom of omelet
+  is just set but top is still slightly wet, about 30 seconds.
+
+
+  Remove skillet from heat. Sprinkle ham and American cheese over half of omelet.
+  Cover and let sit until cheese has melted, about 1 minute. Fold unfilled half of
+  omelet over filled half to create half-moon shape. Holding plate in 1 hand, tilt
+  skillet to slide omelet onto plate. Serve.'
+html:
+  description: null
+  directions: '<p>Whisk eggs, pepper, and salt in bowl until eggs are thoroughly combined
+    and mixture is pure yellow. Spray 10-inch nonstick skillet with vegetable oil
+    spray.</p>
+
+    <p>Melt butter in skillet over medium-high heat, swirling to coat skillet bottom.
+    When foaming subsides, add egg mixture and cook, gently stirring and scraping
+    bottom of skillet with rubber spatula in circular motion until large curds begin
+    to form and bare spots are visible on bottom of skillet, about 20 seconds.</p>
+
+    <p>Tilt skillet so uncooked eggs fill bare spots. Run spatula around edge of skillet
+    and push cooked eggs down off sides. Let cook, undisturbed, until bottom of omelet
+    is just set but top is still slightly wet, about 30 seconds.</p>
+
+    <p>Remove skillet from heat. Sprinkle ham and American cheese over half of omelet.
+    Cover and let sit until cheese has melted, about 1 minute. Fold unfilled half
+    of omelet over filled half to create half-moon shape. Holding plate in 1 hand,
+    tilt skillet to slide omelet onto plate. Serve.</p>
+
+    '
+  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>3 large eggs</li>\n<li>\u215B\
+    \ teaspoon pepper</li>\n<li>Pinch salt</li>\n<li>\xBD tablespoon unsalted butter</li>\n\
+    <li>2 ounces ham steak, rind removed, cut into \xBC-inch pieces</li>\n<li>1 slice\
+    \ deli American cheese, torn into 1-inch pieces</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/41120-sfs-ham-cheese-omelet-14
 ingredients: "GATHER YOUR INGREDIENTS\n3 large eggs\n\u215B teaspoon pepper\nPinch\
   \ salt\n\xBD tablespoon unsalted butter\n2 ounces ham steak, rind removed, cut into\
   \ \xBC-inch pieces\n1 slice deli American cheese, torn into 1-inch pieces"
 intrash: 0
 name: Easy Ham and Cheese Omelet
+notes: null
+nutritional_info: null
 photo: 7D463F4B-8732-4AE3-A6DC-1185B0470359-408-000065EFCE467A94.jpg
 photo_large: null
 photos: []
@@ -29,15 +77,3 @@ total_time: null
 type: null
 uid: 975D913F-32E8-4ED1-A919-C061D9FCC8BC-408-000065EC77DB4640
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>GATHER YOUR INGREDIENTS</li>
-<li>3 large eggs</li>
-<li>⅛ teaspoon pepper</li>
-<li>Pinch salt</li>
-<li>½ tablespoon unsalted butter</li>
-<li>2 ounces ham steak, rind removed, cut into ¼-inch pieces</li>
-<li>1 slice deli American cheese, torn into 1-inch pieces</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

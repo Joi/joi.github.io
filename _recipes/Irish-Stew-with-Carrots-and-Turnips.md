@@ -15,6 +15,100 @@ description: 'WHY THIS RECIPE WORKS
   lamb stew recipe with a rich-tasting broth and the velvety texture that only marrow-rich
   bones can contribute.'
 difficulty: ''
+directions: 'Adjust oven rack to lower-middle position and heat oven to 300 degrees.
+  Cut meat from bones and reserve bones. Trim meat of excess fat and cut into 1 1/2-inch
+  cubes. Season meat generously with salt and pepper.
+
+
+  Heat 1 tablespoon oil in large ovenproof Dutch oven over medium-high heat until
+  shimmering, about 2 minutes. Add half of meat to pot so that individual pieces are
+  close together but not touching. Cook, without moving, until sides touching pot
+  are well-browned, 2 to 3 minutes. Using tongs, turn each piece and continue cooking
+  until most sides are well-browned, about 5 minutes longer. Transfer meat to medium
+  bowl, add another 1 tablespoon oil to pot, and swirl to coat pan bottom. Brown remaining
+  lamb; transfer meat to bowl and set aside.
+
+
+  Reduce heat to medium, add remaining tablespoon oil, and swirl to coat pan bottom.
+  Add onions and 1/4 teaspoon salt and cook, stirring frequently and vigorously, scraping
+  bottom of pot with wooden spoon to loosen browned bits, until onions have browned,
+  about 8 minutes. Add flour and stir until onions are evenly coated, 1 to 2 minutes.
+
+
+  Stir in 1 1/2 cups of water, scraping pan bottom and edges with wooden spoon to
+  loosen remaining browned bits. Gradually remaining 1 1/2 cups water, stirring constantly
+  and scraping pan edges to dissolve flour. Add thyme and 1 teaspoon salt and bring
+  to simmer. Add bones and then meat and accumulated juices. Return to simmer, cover,
+  and place in oven. Cook for 1 hour.
+
+
+  Remove pot from oven and place carrots and turnips on top of meat and bones. Cover
+  and return pot to oven and cook until meat is tender, about 1 hour. If serving immediately,
+  stir carrots and turnips into liquid, wait 5 minutes, and spoon off any fat that
+  rises to top. (Stew can be covered and refrigerated for up to 3 days. Spoon off
+  congealed fat and bring back to simmer over medium-low heat.)
+
+
+  Stir in parsley and adjust seasoning with salt and pepper. Remove bones if desired.
+  Serve immediately.
+
+
+  Like this recipe? Share it, or leave a comment below.'
+html:
+  description: '<p>WHY THIS RECIPE WORKS
+
+    For a lamb stew recipe with real flavor, finding the right cut of meat was half
+    the battle. We found that slicing the meat off the bone from a lamb shoulder chop,
+    browning it, and adding the bones and meat to the stewing liquid gave us a great
+    lamb stew recipe with a rich-tasting broth and the velvety texture that only marrow-rich
+    bones can contribute.</p>
+
+    '
+  directions: '<p>Adjust oven rack to lower-middle position and heat oven to 300 degrees.
+    Cut meat from bones and reserve bones. Trim meat of excess fat and cut into 1
+    1/2-inch cubes. Season meat generously with salt and pepper.</p>
+
+    <p>Heat 1 tablespoon oil in large ovenproof Dutch oven over medium-high heat until
+    shimmering, about 2 minutes. Add half of meat to pot so that individual pieces
+    are close together but not touching. Cook, without moving, until sides touching
+    pot are well-browned, 2 to 3 minutes. Using tongs, turn each piece and continue
+    cooking until most sides are well-browned, about 5 minutes longer. Transfer meat
+    to medium bowl, add another 1 tablespoon oil to pot, and swirl to coat pan bottom.
+    Brown remaining lamb; transfer meat to bowl and set aside.</p>
+
+    <p>Reduce heat to medium, add remaining tablespoon oil, and swirl to coat pan
+    bottom. Add onions and 1/4 teaspoon salt and cook, stirring frequently and vigorously,
+    scraping bottom of pot with wooden spoon to loosen browned bits, until onions
+    have browned, about 8 minutes. Add flour and stir until onions are evenly coated,
+    1 to 2 minutes.</p>
+
+    <p>Stir in 1 1/2 cups of water, scraping pan bottom and edges with wooden spoon
+    to loosen remaining browned bits. Gradually remaining 1 1/2 cups water, stirring
+    constantly and scraping pan edges to dissolve flour. Add thyme and 1 teaspoon
+    salt and bring to simmer. Add bones and then meat and accumulated juices. Return
+    to simmer, cover, and place in oven. Cook for 1 hour.</p>
+
+    <p>Remove pot from oven and place carrots and turnips on top of meat and bones.
+    Cover and return pot to oven and cook until meat is tender, about 1 hour. If serving
+    immediately, stir carrots and turnips into liquid, wait 5 minutes, and spoon off
+    any fat that rises to top. (Stew can be covered and refrigerated for up to 3 days.
+    Spoon off congealed fat and bring back to simmer over medium-low heat.)</p>
+
+    <p>Stir in parsley and adjust seasoning with salt and pepper. Remove bones if
+    desired. Serve immediately.</p>
+
+    <p>Like this recipe? Share it, or leave a comment below.</p>
+
+    '
+  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>4 \xBD pounds lamb shoulder\
+    \ chops, each 1 to 1 1/2 inches thick (see illustrations below and note in instructions)</li>\n\
+    <li>3 tablespoons vegetable oil</li>\n<li>3 medium-large onion, chopped coarse\
+    \ (about 5 cups)</li>\n<li>4 tablespoons unbleached all-purpose flour</li>\n<li>3\
+    \ cups water</li>\n<li>1 teaspoon dried thyme</li>\n<li>\xBD pound carrots, peeled\
+    \ and sliced 1/4 inch thick</li>\n<li>\xBD pound turnips, peeled and cut into\
+    \ 1-inch cubes</li>\n<li>\xBC cup minced fresh parsley leaves</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/34368_sfs-irish-stew-with-carrots-and-turnips-464bw
 ingredients: "GATHER YOUR INGREDIENTS\n4 \xBD pounds lamb shoulder chops, each 1 to\
   \ 1 1/2 inches thick (see illustrations below and note in instructions)\n3 tablespoons\
@@ -24,6 +118,8 @@ ingredients: "GATHER YOUR INGREDIENTS\n4 \xBD pounds lamb shoulder chops, each 1
   \ into 1-inch cubes\n\xBC cup minced fresh parsley leaves"
 intrash: 0
 name: Irish Stew with Carrots and Turnips
+notes: ''
+nutritional_info: ''
 photo: E1B13C3D-F184-4F64-A72A-EEBDFF4D67DB-13891-0000A8E013FDD867.jpg
 photo_large: null
 photos: []
@@ -37,18 +133,3 @@ total_time: ''
 type: null
 uid: A03A7DA8-F631-4EEF-8685-3C16E0158760-13891-0000A8DB02E7AC8F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>GATHER YOUR INGREDIENTS</li>
-<li>4 ½ pounds lamb shoulder chops, each 1 to 1 1/2 inches thick (see illustrations below and note in instructions)</li>
-<li>3 tablespoons vegetable oil</li>
-<li>3 medium-large onion, chopped coarse (about 5 cups)</li>
-<li>4 tablespoons unbleached all-purpose flour</li>
-<li>3 cups water</li>
-<li>1 teaspoon dried thyme</li>
-<li>½ pound carrots, peeled and sliced 1/4 inch thick</li>
-<li>½ pound turnips, peeled and cut into 1-inch cubes</li>
-<li>¼ cup minced fresh parsley leaves</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

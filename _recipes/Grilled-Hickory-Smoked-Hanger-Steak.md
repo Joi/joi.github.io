@@ -8,6 +8,55 @@ created: '2020-09-25 22:55:47'
 created_ts: 1601074547
 description: null
 difficulty: null
+directions: 'Put the hickory chips in a medium bowl and cover with water. Let the
+  chips stand for 1 hour, then drain.
+
+
+  Light a gas grill and turn it to high on one side; remove the grate over that side.
+  Keep the grate over the other side of the grill. Make a foil box with heavy-duty
+  foil, about 4 inches square. Set the foil box directly over the gas flame to heat.
+  Put the drained hickory chips in the box. Close the grill until it fills with smoke,
+  about 3 minutes. Lay the steaks on the grate opposite the smoke box, cover and smoke
+  for 20 minutes. Transfer the smoked steaks to a large platter.
+
+
+  Remove the foil smoke box and replace the grate. Light the other side of the grill
+  and turn the heat to high. Season the steaks with salt and pepper and grill until
+  nicely charred outside and medium-rare within, 4 to 5 minutes per side. Transfer
+  the steaks to a carving board and let rest for 5 minutes. Thickly slice the steaks
+  across the grain and serve with the Roasted Fall-Vegetable Hash.'
+html:
+  description: null
+  directions: '<p>Put the hickory chips in a medium bowl and cover with water. Let
+    the chips stand for 1 hour, then drain.</p>
+
+    <p>Light a gas grill and turn it to high on one side; remove the grate over that
+    side. Keep the grate over the other side of the grill. Make a foil box with heavy-duty
+    foil, about 4 inches square. Set the foil box directly over the gas flame to heat.
+    Put the drained hickory chips in the box. Close the grill until it fills with
+    smoke, about 3 minutes. Lay the steaks on the grate opposite the smoke box, cover
+    and smoke for 20 minutes. Transfer the smoked steaks to a large platter.</p>
+
+    <p>Remove the foil smoke box and replace the grate. Light the other side of the
+    grill and turn the heat to high. Season the steaks with salt and pepper and grill
+    until nicely charred outside and medium-rare within, 4 to 5 minutes per side.
+    Transfer the steaks to a carving board and let rest for 5 minutes. Thickly slice
+    the steaks across the grain and serve with the Roasted Fall-Vegetable Hash.</p>
+
+    '
+  ingredients: '<ul>
+
+    <li>2 cups hickory chips</li>
+
+    <li>Four 10- to 12-ounce trimmed hanger steaks</li>
+
+    <li>Salt and freshly ground black pepper Roasted Fall-Vegetable Hash, for serving</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fwww.foodandwine.com%2Fimg%2Ficons%2Fmissing-image-4x3.png
 ingredients: '2 cups hickory chips
 
@@ -16,6 +65,8 @@ ingredients: '2 cups hickory chips
   Salt and freshly ground black pepper Roasted Fall-Vegetable Hash, for serving'
 intrash: 0
 name: Grilled Hickory-Smoked Hanger Steak
+notes: null
+nutritional_info: null
 photo: D1FBCDD9-A39C-4B12-9830-5F0BA3B3137C-1219-0000004F5366219F.jpg
 photo_large: null
 photos: []
@@ -29,11 +80,3 @@ total_time: null
 type: null
 uid: 77B1648E-2A5C-477B-9A88-4DB9997D3FE9-1219-0000004F2C34F73A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>2 cups hickory chips</li>
-<li>Four 10- to 12-ounce trimmed hanger steaks</li>
-<li>Salt and freshly ground black pepper Roasted Fall-Vegetable Hash, for serving</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

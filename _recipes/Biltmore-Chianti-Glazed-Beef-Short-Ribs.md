@@ -9,6 +9,83 @@ created: '2020-02-03 15:56:27'
 created_ts: 1580745387
 description: null
 difficulty: Easy
+directions: "Line Varoma tray with a large piece of parchment. Set Varoma dish into\
+  \ position, insert Varoma tray and weigh short ribs onto parchment. Season with\
+  \ 1 tsp salt and 1 tsp pepper. Fold parchment loosely around ribs to form an open\
+  \ parcel and set Varoma aside.\n\nPlace onions, carrots, celery, garlic and olive\
+  \ oil into mixing bowl and chop 5 sec/speed 5. Scrape down sides of mixing bowl\
+  \ with spatula and without measuring cup cook 5 min/250\xB0F/speed 1.\n\nAdd flour\
+  \ and tomato paste and without measuring cup cook 5 min/250\xB0F/speed 1.\n\nAdd\
+  \ Chianti and without measuring cup cook 10 min/Varoma/speed 2.\n\nIn a small bowl,\
+  \ stir to combine cornstarch and 1 tbsp water. Add cornstarch mixture to mixing\
+  \ bowl.\n\nAdd beef stock, dark brown sugar, parsley, \xBD tsp salt, thyme, oregano\
+  \ and rosemary and without measuring cup cook 15 min/Varoma/speed 2.\n\nAdjust seasoning\
+  \ with salt and pepper to taste, insert measuring cup and increasing speed gradually\
+  \ pur\xE9e 1 min/speed 3-8. Strain sauce over a bowl through a fine mesh sieve,\
+  \ discard solids.\n\nPlace strained sauce and butter into mixing bowl and cook 5\
+  \ min/Varoma/speed 2. Transfer sauce to a bowl and set aside. Rinse mixing bowl.\n\
+  \nPlace 50 oz water into mixing bowl, set Varoma with short ribs into position,\
+  \ secure Varoma lid and steam 90 min/Varoma/speed 2. Meanwhile preheat oven to 275\xB0\
+  F. Line a baking sheet with foil.\n\nRemove Varoma and carefully transfer steamed\
+  \ short ribs to prepared baking sheet. Bake 1\xBD-2 hours (275\xB0F) or until tender,\
+  \ basting with reserved sauce every 20 minutes.\n\nTransfer Chianti Glazed Beef\
+  \ Short Ribs to a serving platter and serve with blistered tomatoes (see Tip).\n\
+  \nTips & tricks\n\nTo make blistered tomatoes: preheat grill to 450\xB0F or medium/high.\
+  \ Rub 3-4 stalks cherry tomatoes on the vine with 2 tsp extra virgin olive oil and\
+  \ season with salt. Grill tomatoes until blistered. Alternatively, place prepared\
+  \ cherry tomatoes under the broiler for 3-5 minutes."
+html:
+  description: null
+  directions: "<p>Line Varoma tray with a large piece of parchment. Set Varoma dish\
+    \ into position, insert Varoma tray and weigh short ribs onto parchment. Season\
+    \ with 1 tsp salt and 1 tsp pepper. Fold parchment loosely around ribs to form\
+    \ an open parcel and set Varoma aside.</p>\n<p>Place onions, carrots, celery,\
+    \ garlic and olive oil into mixing bowl and chop 5 sec/speed 5. Scrape down sides\
+    \ of mixing bowl with spatula and without measuring cup cook 5 min/250\xB0F/speed\
+    \ 1.</p>\n<p>Add flour and tomato paste and without measuring cup cook 5 min/250\xB0\
+    F/speed 1.</p>\n<p>Add Chianti and without measuring cup cook 10 min/Varoma/speed\
+    \ 2.</p>\n<p>In a small bowl, stir to combine cornstarch and 1 tbsp water. Add\
+    \ cornstarch mixture to mixing bowl.</p>\n<p>Add beef stock, dark brown sugar,\
+    \ parsley, \xBD tsp salt, thyme, oregano and rosemary and without measuring cup\
+    \ cook 15 min/Varoma/speed 2.</p>\n<p>Adjust seasoning with salt and pepper to\
+    \ taste, insert measuring cup and increasing speed gradually pur\xE9e 1 min/speed\
+    \ 3-8. Strain sauce over a bowl through a fine mesh sieve, discard solids.</p>\n\
+    <p>Place strained sauce and butter into mixing bowl and cook 5 min/Varoma/speed\
+    \ 2. Transfer sauce to a bowl and set aside. Rinse mixing bowl.</p>\n<p>Place\
+    \ 50 oz water into mixing bowl, set Varoma with short ribs into position, secure\
+    \ Varoma lid and steam 90 min/Varoma/speed 2. Meanwhile preheat oven to 275\xB0\
+    F. Line a baking sheet with foil.</p>\n<p>Remove Varoma and carefully transfer\
+    \ steamed short ribs to prepared baking sheet. Bake 1\xBD-2 hours (275\xB0F) or\
+    \ until tender, basting with reserved sauce every 20 minutes.</p>\n<p>Transfer\
+    \ Chianti Glazed Beef Short Ribs to a serving platter and serve with blistered\
+    \ tomatoes (see Tip).</p>\n<p>Tips &amp; tricks</p>\n<p>To make blistered tomatoes:\
+    \ preheat grill to 450\xB0F or medium/high. Rub 3-4 stalks cherry tomatoes on\
+    \ the vine with 2 tsp extra virgin olive oil and season with salt. Grill tomatoes\
+    \ until blistered. Alternatively, place prepared cherry tomatoes under the broiler\
+    \ for 3-5 minutes.</p>\n"
+  ingredients: "<ul>\n<li>64 oz beef short ribs, bone in</li>\n<li>1 \xBD tsp salt,\
+    \ divided, plus extra to season, to taste</li>\n<li>1 tsp ground black pepper,\
+    \ plus extra to season, to taste</li>\n<li>4 oz yellow onions, cut into pieces</li>\n\
+    <li>2 oz carrots, peeled, cut into pieces</li>\n<li>2 oz celery, cut into pieces</li>\n\
+    <li>1 garlic clove</li>\n<li>\xBD oz extra virgin olive oil</li>\n<li>1 tbsp all-purpose\
+    \ flour</li>\n<li>1 tbsp tomato paste</li>\n<li>10 oz Chianti wine</li>\n<li>1\
+    \ tbsp cornstarch</li>\n<li>1 tbsp water</li>\n<li>10 oz beef stock</li>\n<li>1\
+    \ tbsp dark brown sugar</li>\n<li>1 tbsp dried parsley</li>\n<li>\xBC tsp dried\
+    \ thyme</li>\n<li>\xBD tbsp dried oregano</li>\n<li>\xBC tsp dried rosemary</li>\n\
+    <li>\xBD oz unsalted butter</li>\n<li>50 oz water</li>\n<li>cherry tomatoes on\
+    \ the vine, blistered (see Tip)</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 3573 kJ / 854 kcal
+
+    Protein: 84 g
+
+    Carbohydrates: 14 g
+
+    Fat: 46 g
+
+    Fiber: 2 g</p>
+
+    '
 image_url: null
 ingredients: "64 oz beef short ribs, bone in\n1 \xBD tsp salt, divided, plus extra\
   \ to season, to taste\n1 tsp ground black pepper, plus extra to season, to taste\n\
@@ -20,6 +97,16 @@ ingredients: "64 oz beef short ribs, bone in\n1 \xBD tsp salt, divided, plus ext
   \ butter\n50 oz water\ncherry tomatoes on the vine, blistered (see Tip)"
 intrash: 0
 name: Biltmore Chianti Glazed Beef Short Ribs
+notes: null
+nutritional_info: 'Calories: 3573 kJ / 854 kcal
+
+  Protein: 84 g
+
+  Carbohydrates: 14 g
+
+  Fat: 46 g
+
+  Fiber: 2 g'
 photo: 420F33E8-7494-492F-8AE1-561B8E9F8DA1-29546-000347AAF91F7DAE.jpg
 photo_large: 051F2944-3334-47B8-9ABF-8A1209444FEB-29546-000347A8D964E07D.jpg
 photos:
@@ -39,30 +126,3 @@ total_time: ''
 type: null
 uid: AD430477-9151-456B-8A62-1A48083DB1A9-408-00004F71AC622DAB
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>64 oz beef short ribs, bone in</li>
-<li>1 ½ tsp salt, divided, plus extra to season, to taste</li>
-<li>1 tsp ground black pepper, plus extra to season, to taste</li>
-<li>4 oz yellow onions, cut into pieces</li>
-<li>2 oz carrots, peeled, cut into pieces</li>
-<li>2 oz celery, cut into pieces</li>
-<li>1 garlic clove</li>
-<li>½ oz extra virgin olive oil</li>
-<li>1 tbsp all-purpose flour</li>
-<li>1 tbsp tomato paste</li>
-<li>10 oz Chianti wine</li>
-<li>1 tbsp cornstarch</li>
-<li>1 tbsp water</li>
-<li>10 oz beef stock</li>
-<li>1 tbsp dark brown sugar</li>
-<li>1 tbsp dried parsley</li>
-<li>¼ tsp dried thyme</li>
-<li>½ tbsp dried oregano</li>
-<li>¼ tsp dried rosemary</li>
-<li>½ oz unsalted butter</li>
-<li>50 oz water</li>
-<li>cherry tomatoes on the vine, blistered (see Tip)</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

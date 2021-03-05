@@ -9,6 +9,56 @@ created: '2021-01-24 12:53:02'
 created_ts: 1611492782
 description: null
 difficulty: null
+directions: '1. Combine chicken, tomatillos, poblano peppers, Anaheim peppers, Serrano
+  peppers, onion, garlic, cumin, and a big pinch of salt in a pressure cooker. Heat
+  over high heat until gently sizzling, then seal pressure cooker, bring to high pressure,
+  and cook for 15 minutes. Release pressure.
+
+
+  2. Using tongs, transfer chicken pieces to a bowl and set aside. Add cilantro and
+  fish sauce to remaining contents of pressure cooker. Blend with a hand blender or
+  in a standing blender and season to taste with salt. Return chicken to sauce, discarding
+  skin and bones and shredding if desired. Transfer to a serving platter, garnish
+  with chopped cilantro, and serve immediately with tortillas and lime wedges.'
+html:
+  description: null
+  directions: '<ol>
+
+    <li>
+
+    <p>Combine chicken, tomatillos, poblano peppers, Anaheim peppers, Serrano peppers,
+    onion, garlic, cumin, and a big pinch of salt in a pressure cooker. Heat over
+    high heat until gently sizzling, then seal pressure cooker, bring to high pressure,
+    and cook for 15 minutes. Release pressure.</p>
+
+    </li>
+
+    <li>
+
+    <p>Using tongs, transfer chicken pieces to a bowl and set aside. Add cilantro
+    and fish sauce to remaining contents of pressure cooker. Blend with a hand blender
+    or in a standing blender and season to taste with salt. Return chicken to sauce,
+    discarding skin and bones and shredding if desired. Transfer to a serving platter,
+    garnish with chopped cilantro, and serve immediately with tortillas and lime wedges.</p>
+
+    </li>
+
+    </ol>
+
+    '
+  ingredients: "<ul>\n<li>3 pounds bone-in skin-on chicken thighs and drumsticks</li>\n\
+    <li>3/4 pound tomatillos, quartered, husks discarded (about 4 tomatillos)</li>\n\
+    <li>1 pound poblano peppers, roughly chopped, seeds and stems discarded (about\
+    \ 3 peppers)</li>\n<li>6 ounces Anaheim or Cubanelle peppers, roughly chopped,\
+    \ seeds and stems discarded (about 2 peppers)</li>\n<li>2 Serrano or jalape\xF1\
+    o chilies, roughly chopped, stems discarded</li>\n<li>10 ounces white onion, roughly\
+    \ chopped (about 1 medium)</li>\n<li>6 medium cloves garlic, peeled</li>\n<li>1\
+    \ tablespoon whole cumin seed, toasted and ground</li>\n<li>Kosher salt</li>\n\
+    <li>1/2 cup loosely packed fresh cilantro leaves and fine stems, plus more for\
+    \ garnish</li>\n<li>1 tablespoon Asian fish sauce, such as Red Boat</li>\n<li>Fresh\
+    \ corn tortillas and lime wedges, for serving</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://www.seriouseats.com/recipes/images/2015/04/20150420-chicken-chile-verde-pressure-cooker-easy-10-200x150.jpg
 ingredients: "3 pounds bone-in skin-on chicken thighs and drumsticks\n3/4 pound tomatillos,\
   \ quartered, husks discarded (about 4 tomatillos)\n1 pound poblano peppers, roughly\
@@ -21,6 +71,8 @@ ingredients: "3 pounds bone-in skin-on chicken thighs and drumsticks\n3/4 pound 
   \ sauce, such as Red Boat\nFresh corn tortillas and lime wedges, for serving"
 intrash: 0
 name: Easy Pressure Cooker Green Chili with Chicken
+notes: null
+nutritional_info: null
 photo: EE3E7126-F578-4AF7-A214-D50169BD5008-35869-00001A07B4523F7D.jpg
 photo_large: null
 photos: []
@@ -34,20 +86,3 @@ total_time: null
 type: null
 uid: 4FA42CC1-075F-47CB-B3C2-393C64D599ED-35869-00001A079663128A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>3 pounds bone-in skin-on chicken thighs and drumsticks</li>
-<li>3/4 pound tomatillos, quartered, husks discarded (about 4 tomatillos)</li>
-<li>1 pound poblano peppers, roughly chopped, seeds and stems discarded (about 3 peppers)</li>
-<li>6 ounces Anaheim or Cubanelle peppers, roughly chopped, seeds and stems discarded (about 2 peppers)</li>
-<li>2 Serrano or jalapeño chilies, roughly chopped, stems discarded</li>
-<li>10 ounces white onion, roughly chopped (about 1 medium)</li>
-<li>6 medium cloves garlic, peeled</li>
-<li>1 tablespoon whole cumin seed, toasted and ground</li>
-<li>Kosher salt</li>
-<li>1/2 cup loosely packed fresh cilantro leaves and fine stems, plus more for garnish</li>
-<li>1 tablespoon Asian fish sauce, such as Red Boat</li>
-<li>Fresh corn tortillas and lime wedges, for serving</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

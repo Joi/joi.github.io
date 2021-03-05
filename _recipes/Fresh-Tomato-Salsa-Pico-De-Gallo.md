@@ -8,6 +8,47 @@ created: '2020-08-16 15:33:38'
 created_ts: 1597592018
 description: null
 difficulty: null
+directions: "1 Prep the ingredients: Roughly chop the tomatoes, chiles, and onions.\
+  \ Be careful while handling the chile peppers. Use a plastic baggie or disposable\
+  \ gloves to handle them, or wash your hands thoroughly with soap and hot water after\
+  \ handling and avoid touching your eyes for several hours.\n\nSet aside some of\
+  \ the seeds from the peppers. If the salsa isn't hot enough, you can add a few for\
+  \ more heat.\n\n2 Make the salsa: Place all of the ingredients in the bowl of a\
+  \ food processor fitted with the blade. Pulse only a few times, just enough to finely\
+  \ dice the ingredients and not enough to pur\xE9e. If you don't have a food processor,\
+  \ you can finely dice by hand.\n\n3 Adjust seasonings: Place in a serving bowl.\
+  \ Add salt and pepper to taste. If the chilies make the salsa too hot, add some\
+  \ more chopped tomato. If it's not hot enough, carefully add a few of the seeds\
+  \ from the chilies, or add a little more ground cumin.\n\nLet the salsa sit for\
+  \ an hour (room temperature or chilled) for the flavors to combine.\n\n4 Serve:\
+  \ Serve with chips, tortillas, tacos, burritos, tostadas, quesadillas, pinto or\
+  \ black beans. The salsa will keep refrigerated for up to 5 days."
+html:
+  description: null
+  directions: "<p>1 Prep the ingredients: Roughly chop the tomatoes, chiles, and onions.\
+    \ Be careful while handling the chile peppers. Use a plastic baggie or disposable\
+    \ gloves to handle them, or wash your hands thoroughly with soap and hot water\
+    \ after handling and avoid touching your eyes for several hours.</p>\n<p>Set aside\
+    \ some of the seeds from the peppers. If the salsa isn't hot enough, you can add\
+    \ a few for more heat.</p>\n<p>2 Make the salsa: Place all of the ingredients\
+    \ in the bowl of a food processor fitted with the blade. Pulse only a few times,\
+    \ just enough to finely dice the ingredients and not enough to pur\xE9e. If you\
+    \ don't have a food processor, you can finely dice by hand.</p>\n<p>3 Adjust seasonings:\
+    \ Place in a serving bowl. Add salt and pepper to taste. If the chilies make the\
+    \ salsa too hot, add some more chopped tomato. If it's not hot enough, carefully\
+    \ add a few of the seeds from the chilies, or add a little more ground cumin.</p>\n\
+    <p>Let the salsa sit for an hour (room temperature or chilled) for the flavors\
+    \ to combine.</p>\n<p>4 Serve: Serve with chips, tortillas, tacos, burritos, tostadas,\
+    \ quesadillas, pinto or black beans. The salsa will keep refrigerated for up to\
+    \ 5 days.</p>\n"
+  ingredients: "<ul>\n<li>2 to 3 medium sized fresh tomatoes (1 to 1 1/2 pounds),\
+    \ stems removed</li>\n<li>1/2 red onion</li>\n<li>2 serrano chiles or 1 jalape\xF1\
+    o chile (stems, ribs, seeds removed), less or more to taste</li>\n<li>Juice of\
+    \ one lime</li>\n<li>1/2 cup chopped cilantro</li>\n<li>Salt and pepper to taste</li>\n\
+    <li>Pinch dried oregano (crumble in your fingers before adding), more to taste</li>\n\
+    <li>Pinch ground cumin, more to taste</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://www.simplyrecipes.com/wp-content/uploads/2019/07/Fresh-Tomato-Salsa-LEAD-1b-600x840.jpg
 ingredients: "2 to 3 medium sized fresh tomatoes (1 to 1 1/2 pounds), stems removed\n\
   1/2 red onion\n2 serrano chiles or 1 jalape\xF1o chile (stems, ribs, seeds removed),\
@@ -16,6 +57,8 @@ ingredients: "2 to 3 medium sized fresh tomatoes (1 to 1 1/2 pounds), stems remo
   \ taste\nPinch ground cumin, more to taste"
 intrash: 0
 name: Fresh Tomato Salsa (Pico De Gallo)
+notes: null
+nutritional_info: null
 photo: 3CF0DC89-AC0A-4036-9938-754597BF95D2-13578-0000048A3F84B36A.jpg
 photo_large: null
 photos: []
@@ -29,16 +72,3 @@ total_time: 6 min
 type: null
 uid: 7FEA67B8-DD5F-4E6A-AB99-C8035D5143B0-13578-00000484D2AC46BA
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>2 to 3 medium sized fresh tomatoes (1 to 1 1/2 pounds), stems removed</li>
-<li>1/2 red onion</li>
-<li>2 serrano chiles or 1 jalapeño chile (stems, ribs, seeds removed), less or more to taste</li>
-<li>Juice of one lime</li>
-<li>1/2 cup chopped cilantro</li>
-<li>Salt and pepper to taste</li>
-<li>Pinch dried oregano (crumble in your fingers before adding), more to taste</li>
-<li>Pinch ground cumin, more to taste</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

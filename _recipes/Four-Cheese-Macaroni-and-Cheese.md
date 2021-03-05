@@ -8,6 +8,43 @@ created: '2020-05-04 18:48:51'
 created_ts: 1588618131
 description: ''
 difficulty: ''
+directions: 'Heat oven to 375 degrees. Butter a 2-quart gratin dish.
+
+
+  Bring a large pot of heavily salted water to a boil. Cook pasta to al dente; drain
+  well.
+
+
+  Transfer hot pasta to a large bowl and toss immediately with Brie and cream cheese
+  until melted and smooth. In a separate bowl, whisk together eggs, mascarpone and
+  parmigiano. Stir egg mixture into pasta. Season with pepper and nutmeg.
+
+
+  Turn pasta into prepared pan. Bake until golden brown and bubbling, about 30 minutes.
+  Serve immediately.'
+html:
+  description: null
+  directions: '<p>Heat oven to 375 degrees. Butter a 2-quart gratin dish.</p>
+
+    <p>Bring a large pot of heavily salted water to a boil. Cook pasta to al dente;
+    drain well.</p>
+
+    <p>Transfer hot pasta to a large bowl and toss immediately with Brie and cream
+    cheese until melted and smooth. In a separate bowl, whisk together eggs, mascarpone
+    and parmigiano. Stir egg mixture into pasta. Season with pepper and nutmeg.</p>
+
+    <p>Turn pasta into prepared pan. Bake until golden brown and bubbling, about 30
+    minutes. Serve immediately.</p>
+
+    '
+  ingredients: "<ul>\n<li>Unsalted butter, as needed</li>\n<li>Kosher salt, as needed</li>\n\
+    <li>1 pound pasta, such as farfalle, macaroni or shells</li>\n<li>6 ounces Brie,\
+    \ rind removed and cheese cut into chunks</li>\n<li>4 ounces cream cheese, softened\
+    \ and cubed</li>\n<li>3 large eggs, lightly beaten</li>\n<li>1 cup mascarpone</li>\n\
+    <li>3 ounces Parmigiano-Reggiano, grated ( 3/4 cup)</li>\n<li>\xBE teaspoon black\
+    \ pepper</li>\n<li>\xBC teaspoon finely grated nutmeg</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://static01.nyt.com/images/2013/03/27/dining/27APPE/27APPE-articleLarge.jpg
 ingredients: "Unsalted butter, as needed\nKosher salt, as needed\n1 pound pasta, such\
   \ as farfalle, macaroni or shells\n6 ounces Brie, rind removed and cheese cut into\
@@ -16,6 +53,8 @@ ingredients: "Unsalted butter, as needed\nKosher salt, as needed\n1 pound pasta,
   \ black pepper\n\xBC teaspoon finely grated nutmeg"
 intrash: 0
 name: Four-Cheese Macaroni and Cheese
+notes: ''
+nutritional_info: ''
 photo: 22CEBC0C-2829-4324-8AA9-48DAF74019FA-39436-000149EC57C727AD.jpg
 photo_large: null
 photos: []
@@ -29,18 +68,3 @@ total_time: ''
 type: null
 uid: 8D936D6B-C75D-4807-8767-3A5464726736-39436-00014015E3513A27
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>Unsalted butter, as needed</li>
-<li>Kosher salt, as needed</li>
-<li>1 pound pasta, such as farfalle, macaroni or shells</li>
-<li>6 ounces Brie, rind removed and cheese cut into chunks</li>
-<li>4 ounces cream cheese, softened and cubed</li>
-<li>3 large eggs, lightly beaten</li>
-<li>1 cup mascarpone</li>
-<li>3 ounces Parmigiano-Reggiano, grated ( 3/4 cup)</li>
-<li>¾ teaspoon black pepper</li>
-<li>¼ teaspoon finely grated nutmeg</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

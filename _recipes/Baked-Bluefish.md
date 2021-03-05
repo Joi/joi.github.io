@@ -8,6 +8,63 @@ created: '2020-06-05 14:53:36'
 created_ts: 1591368816
 description: ''
 difficulty: ''
+directions: "Preheat oven to 350\xB0F.\n\nPlace fillet skin-side down in foil-lined-roasting\
+  \ pan: Cut a piece of foil large enough to enclose the bluefish fillet. (You can\
+  \ double layer the foil if you are working with thin foil). Place the foil in a\
+  \ roasting pan. Rinse the bluefish fillet and place it in the center of the foil,\
+  \ skin side down.\n\nAdd salt, pepper, lemon slices, butter, herbs: Sprinkle the\
+  \ fillet with salt and pepper. Lay a layer of thin lemon slices on top of the fillet.\
+  \ Arrange pats of butter along the top of the fillet. Lay several sprigs of fresh\
+  \ herbs on top of the butter and lemon slices.\n\nAdd white wine and lemon juice,\
+  \ seal foil packet: Create a boat shape with the foil around the fish so that liquid\
+  \ does not leak out. Pour white wine over the fish, and sprinkle with the lemon\
+  \ juice. Crimp the edges of the foil together so they are relatively sealed.\n\n\
+  Bake: Place in the 350\xB0F oven (or you can put the foil packet on the grill) and\
+  \ bake for 15 to 20 minutes or so, until the fish is cooked through and opaque.\n\
+  \nServe: Carefully lift the fillet from the foil and place on a serving dish. Pour\
+  \ the cooking liquid over the fish to serve."
+html:
+  description: null
+  directions: "<p>Preheat oven to 350\xB0F.</p>\n<p>Place fillet skin-side down in\
+    \ foil-lined-roasting pan: Cut a piece of foil large enough to enclose the bluefish\
+    \ fillet. (You can double layer the foil if you are working with thin foil). Place\
+    \ the foil in a roasting pan. Rinse the bluefish fillet and place it in the center\
+    \ of the foil, skin side down.</p>\n<p>Add salt, pepper, lemon slices, butter,\
+    \ herbs: Sprinkle the fillet with salt and pepper. Lay a layer of thin lemon slices\
+    \ on top of the fillet. Arrange pats of butter along the top of the fillet. Lay\
+    \ several sprigs of fresh herbs on top of the butter and lemon slices.</p>\n<p>Add\
+    \ white wine and lemon juice, seal foil packet: Create a boat shape with the foil\
+    \ around the fish so that liquid does not leak out. Pour white wine over the fish,\
+    \ and sprinkle with the lemon juice. Crimp the edges of the foil together so they\
+    \ are relatively sealed.</p>\n<p>Bake: Place in the 350\xB0F oven (or you can\
+    \ put the foil packet on the grill) and bake for 15 to 20 minutes or so, until\
+    \ the fish is cooked through and opaque.</p>\n<p>Serve: Carefully lift the fillet\
+    \ from the foil and place on a serving dish. Pour the cooking liquid over the\
+    \ fish to serve.</p>\n"
+  ingredients: '<ul>
+
+    <li>One bluefish fillet (1/2 pound to 1 pound)</li>
+
+    <li>Kosher salt</li>
+
+    <li>Freshly ground black pepper</li>
+
+    <li>3 to 5 very thin slices of fresh lemon</li>
+
+    <li>3 pats of butter (about a teaspoon each)</li>
+
+    <li>Several sprigs of fresh herbs such as tarragon, thyme, fennel fronds, and/or
+    parsley (or a teaspoon of dried herbs such as Italian seasoning or Herbes de Provence)</li>
+
+    <li>3 Tbsp dry white wine</li>
+
+    <li>2 Tbsp lemon juice</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: 'One bluefish fillet (1/2 pound to 1 pound)
 
@@ -27,6 +84,8 @@ ingredients: 'One bluefish fillet (1/2 pound to 1 pound)
   2 Tbsp lemon juice'
 intrash: 0
 name: Baked Bluefish
+notes: ''
+nutritional_info: ''
 photo: 399FA399-9E18-4673-AA98-EFBEC6EAE464-22544-0003EEF4F3310AB3.jpg
 photo_large: BEEE43D8-B04F-41B5-AA79-2A9D987CA240-22544-0003EEF32C138295.jpg
 photos:
@@ -43,16 +102,3 @@ total_time: ''
 type: null
 uid: CB6C7A4A-2F73-44D5-AC51-E12EB842AD85-29546-00061091B920E83D
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>One bluefish fillet (1/2 pound to 1 pound)</li>
-<li>Kosher salt</li>
-<li>Freshly ground black pepper</li>
-<li>3 to 5 very thin slices of fresh lemon</li>
-<li>3 pats of butter (about a teaspoon each)</li>
-<li>Several sprigs of fresh herbs such as tarragon, thyme, fennel fronds, and/or parsley (or a teaspoon of dried herbs such as Italian seasoning or Herbes de Provence)</li>
-<li>3 Tbsp dry white wine</li>
-<li>2 Tbsp lemon juice</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

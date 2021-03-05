@@ -8,6 +8,36 @@ created: '2020-07-01 14:07:31'
 created_ts: 1593612451
 description: ''
 difficulty: ''
+directions: "Make the shavings: Lay asparagus spears on a flat surface. With a vegetable\
+  \ peeler, shave each spear from the tip to the base (discard the outer peel). It\
+  \ takes a little practice, but it\u2019s easy once you get the hang of it! Place\
+  \ the shavings in a bowl, and pat them dry to remove extra water. (You\u2019ll have\
+  \ a lot of discarded pieces: you can save these and use them in a stir fry.)\n\n\
+  Make the vinaigrette: In a medium bowl, add the lemon juice. Then gradually whisk\
+  \ in the olive oil, 1 tablespoon at a time.\n\nServe: Toss the vinaigrette with\
+  \ the asparagus shavings, Parmesan shavings, kosher salt and fresh ground black\
+  \ pepper. Top with lemon zest (here\u2019s how to zest it!) and a few pinches of\
+  \ red pepper flakes. Taste, and add additional seasonings if desired."
+html:
+  description: null
+  directions: "<p>Make the shavings: Lay asparagus spears on a flat surface. With\
+    \ a vegetable peeler, shave each spear from the tip to the base (discard the outer\
+    \ peel). It takes a little practice, but it\u2019s easy once you get the hang\
+    \ of it! Place the shavings in a bowl, and pat them dry to remove extra water.\
+    \ (You\u2019ll have a lot of discarded pieces: you can save these and use them\
+    \ in a stir fry.)</p>\n<p>Make the vinaigrette: In a medium bowl, add the lemon\
+    \ juice. Then gradually whisk in the olive oil, 1 tablespoon at a time.</p>\n\
+    <p>Serve: Toss the vinaigrette with the asparagus shavings, Parmesan shavings,\
+    \ kosher salt and fresh ground black pepper. Top with lemon zest (here\u2019s\
+    \ how to zest it!) and a few pinches of red pepper flakes. Taste, and add additional\
+    \ seasonings if desired.</p>\n"
+  ingredients: "<ul>\n<li>16 large asparagus spears (about 1 pound)</li>\n<li>1 tablespoon\
+    \ lemon juice, plus lemon zest to serve</li>\n<li>3 tablespoons extra virgin olive\
+    \ oil</li>\n<li>3/4 cup Parmesan cheese shavings (about 1.5 ounces)</li>\n<li>\xBD\
+    \ teaspoon kosher salt</li>\n<li>Freshly ground black pepper</li>\n<li>Red pepper\
+    \ flakes</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://www.acouplecooks.com/wp-content/uploads/2019/05/Shaved-Asparagus-Salad-003-735x919.jpg
 ingredients: "16 large asparagus spears (about 1 pound)\n1 tablespoon lemon juice,\
   \ plus lemon zest to serve\n3 tablespoons extra virgin olive oil\n3/4 cup Parmesan\
@@ -15,6 +45,8 @@ ingredients: "16 large asparagus spears (about 1 pound)\n1 tablespoon lemon juic
   \ black pepper\nRed pepper flakes"
 intrash: 0
 name: Shaved Asparagus Salad
+notes: ''
+nutritional_info: ''
 photo: A3764609-17C0-452E-BA35-574BB88D19CF-631-0000536B0B2D465D.jpg
 photo_large: null
 photos: []
@@ -28,15 +60,3 @@ total_time: ''
 type: null
 uid: FA7BFE3F-3E44-40CF-A9D7-A308631AADE9-631-00005366EFA82EDF
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>16 large asparagus spears (about 1 pound)</li>
-<li>1 tablespoon lemon juice, plus lemon zest to serve</li>
-<li>3 tablespoons extra virgin olive oil</li>
-<li>3/4 cup Parmesan cheese shavings (about 1.5 ounces)</li>
-<li>½ teaspoon kosher salt</li>
-<li>Freshly ground black pepper</li>
-<li>Red pepper flakes</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

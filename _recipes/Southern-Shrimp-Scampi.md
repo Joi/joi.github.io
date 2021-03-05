@@ -8,6 +8,37 @@ created: '2020-06-18 17:46:14'
 created_ts: 1592502374
 description: null
 difficulty: ''
+directions: "In a bowl, toss garlic, salt and pepper with the shrimp, which may be\
+  \ refrigerated, well covered, for several hours at this point.\n\nWhen ready to\
+  \ cook, heat oil in a large saut\xE9 pan over high heat until it shimmers, then\
+  \ add shrimp and move shrimp around in the pan for about 2 minutes, or until the\
+  \ color just begins to turn from translucent.\n\nRemove shrimp, reduce heat to medium-high\
+  \ and add wine, scraping up any bits on the bottom of the pan. Cook for a couple\
+  \ of minutes to reduce, then add butter and swirl the pan to melt it.\n\nPut shrimp\
+  \ back into pan, stir about a minute to finishing cooking and add lemon juice.\n\
+  \nRemove to serving dish, sprinkle with parsley and red pepper flakes, adding more\
+  \ pepper if desired. Serve over rice or pasta or as is."
+html:
+  description: null
+  directions: "<p>In a bowl, toss garlic, salt and pepper with the shrimp, which may\
+    \ be refrigerated, well covered, for several hours at this point.</p>\n<p>When\
+    \ ready to cook, heat oil in a large saut\xE9 pan over high heat until it shimmers,\
+    \ then add shrimp and move shrimp around in the pan for about 2 minutes, or until\
+    \ the color just begins to turn from translucent.</p>\n<p>Remove shrimp, reduce\
+    \ heat to medium-high and add wine, scraping up any bits on the bottom of the\
+    \ pan. Cook for a couple of minutes to reduce, then add butter and swirl the pan\
+    \ to melt it.</p>\n<p>Put shrimp back into pan, stir about a minute to finishing\
+    \ cooking and add lemon juice.</p>\n<p>Remove to serving dish, sprinkle with parsley\
+    \ and red pepper flakes, adding more pepper if desired. Serve over rice or pasta\
+    \ or as is.</p>\n"
+  ingredients: "<ul>\n<li>3 large garlic cloves, finely chopped</li>\n<li>\xBD teaspoon\
+    \ salt</li>\n<li>\xBD teaspoon freshly ground black pepper</li>\n<li>1 \xBC pound\
+    \ large shrimp, preferably wild American shrimp (16/20 or 21/25 count), peeled\
+    \ and deveined</li>\n<li>2 tablespoons olive oil</li>\n<li>\xBD cup wine</li>\n\
+    <li>6 tablespoons butter</li>\n<li>1 tablespoon lemon juice</li>\n<li>2 tablespoons\
+    \ chopped Italian parsley</li>\n<li>\xBD teaspoon red pepper flakes</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "3 large garlic cloves, finely chopped\n\xBD teaspoon salt\n\xBD teaspoon\
   \ freshly ground black pepper\n1 \xBC pound large shrimp, preferably wild American\
@@ -16,6 +47,8 @@ ingredients: "3 large garlic cloves, finely chopped\n\xBD teaspoon salt\n\xBD te
   \ Italian parsley\n\xBD teaspoon red pepper flakes"
 intrash: 0
 name: Southern Shrimp Scampi
+notes: null
+nutritional_info: null
 photo: DB94FAA6-D987-4B80-B97E-7F6AD20EF3F8-22544-0003EE6A134C88F0.jpg
 photo_large: 85087699-B55D-4304-8B09-354EC010AE46-22544-0003EE650D1A91A9.jpg
 photos:
@@ -32,18 +65,3 @@ total_time: ''
 type: null
 uid: 16F04BDF-9EBF-45AE-A105-2EFDB4401C30-43629-0000074FA8C919E2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>3 large garlic cloves, finely chopped</li>
-<li>½ teaspoon salt</li>
-<li>½ teaspoon freshly ground black pepper</li>
-<li>1 ¼ pound large shrimp, preferably wild American shrimp (16/20 or 21/25 count), peeled and deveined</li>
-<li>2 tablespoons olive oil</li>
-<li>½ cup wine</li>
-<li>6 tablespoons butter</li>
-<li>1 tablespoon lemon juice</li>
-<li>2 tablespoons chopped Italian parsley</li>
-<li>½ teaspoon red pepper flakes</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

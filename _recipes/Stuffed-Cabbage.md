@@ -8,6 +8,113 @@ created: '2020-12-26 14:59:17'
 created_ts: 1608994757
 description: null
 difficulty: Easy
+directions: 'For the sauce, heat the olive oil in a large saucepan, add the onions,
+  and cook over medium-low heat for 8 minutes, until the onions are translucent. Add
+  the tomatoes, vinegar, brown sugar, raisins, salt, and pepper. Bring to a boil,
+  then lower the heat and simmer uncovered for 30 minutes, stirring occasionally.
+  Set aside.
+
+
+  Meanwhile, bring a large pot of water to a boil.
+
+
+  Remove the entire core of the cabbage with a paring knife. Immerse the head of cabbage
+  in the boiling water for a few minutes, peeling off each leaf with tongs as soon
+  as it s flexible. Set the leaves aside. Depending on the size of each leaf, you
+  will need at least 14 leaves.
+
+
+  For the filling, in a large bowl, combine the ground chuck, eggs, onion, breadcrumbs,
+  rice, thyme, salt, and pepper. Add 1 cup of the sauce to the meat mixture and mix
+  lightly with a fork.
+
+
+  Preheat the oven to 350 degrees F.
+
+
+  To assemble, place 1 cup of the sauce in the bottom of a large Dutch oven. Remove
+  the hard triangular rib from the base of each cabbage leaf with a small paring knife.
+  Place 1/3 to 1/2 cup of filling in an oval shape near the rib edge of each leaf
+  and roll up toward the outer edge, tucking the sides in as you roll. Place half
+  the cabbage rolls, seam sides down, over the sauce. Add more sauce and more cabbage
+  rolls alternately until you ve placed all the cabbage rolls in the pot. Pour the
+  remaining sauce over the cabbage rolls. Cover the dish tightly with the lid and
+  bake for 1 hour or until the meat is cooked and the rice is tender. Serve hot.'
+html:
+  description: null
+  directions: '<p>For the sauce, heat the olive oil in a large saucepan, add the onions,
+    and cook over medium-low heat for 8 minutes, until the onions are translucent.
+    Add the tomatoes, vinegar, brown sugar, raisins, salt, and pepper. Bring to a
+    boil, then lower the heat and simmer uncovered for 30 minutes, stirring occasionally.
+    Set aside.</p>
+
+    <p>Meanwhile, bring a large pot of water to a boil.</p>
+
+    <p>Remove the entire core of the cabbage with a paring knife. Immerse the head
+    of cabbage in the boiling water for a few minutes, peeling off each leaf with
+    tongs as soon as it s flexible. Set the leaves aside. Depending on the size of
+    each leaf, you will need at least 14 leaves.</p>
+
+    <p>For the filling, in a large bowl, combine the ground chuck, eggs, onion, breadcrumbs,
+    rice, thyme, salt, and pepper. Add 1 cup of the sauce to the meat mixture and
+    mix lightly with a fork.</p>
+
+    <p>Preheat the oven to 350 degrees F.</p>
+
+    <p>To assemble, place 1 cup of the sauce in the bottom of a large Dutch oven.
+    Remove the hard triangular rib from the base of each cabbage leaf with a small
+    paring knife. Place 1/3 to 1/2 cup of filling in an oval shape near the rib edge
+    of each leaf and roll up toward the outer edge, tucking the sides in as you roll.
+    Place half the cabbage rolls, seam sides down, over the sauce. Add more sauce
+    and more cabbage rolls alternately until you ve placed all the cabbage rolls in
+    the pot. Pour the remaining sauce over the cabbage rolls. Cover the dish tightly
+    with the lid and bake for 1 hour or until the meat is cooked and the rice is tender.
+    Serve hot.</p>
+
+    '
+  ingredients: '<ul>
+
+    <li>3 tablespoons good olive oil</li>
+
+    <li>1 1/2 cups chopped yellow onions (2 onions)</li>
+
+    <li>2 (28-ounce) cans crushed tomatoes and their juice</li>
+
+    <li>1/4 cup red wine vinegar</li>
+
+    <li>1/2 cup light brown sugar, lightly packed</li>
+
+    <li>1/2 cup raisins</li>
+
+    <li>1 1/2 teaspoons kosher salt</li>
+
+    <li>3/4 teaspoon freshly ground black pepper</li>
+
+    <li>1 large head Savoy or green cabbage, including outer leaves</li>
+
+    <li>For the filling:</li>
+
+    <li>2 1/2 pounds ground chuck</li>
+
+    <li>3 extra-large eggs, lightly beaten</li>
+
+    <li>1/2 cup finely chopped yellow onions</li>
+
+    <li>1/2 cup plain dried breadcrumbs</li>
+
+    <li>1/2 cup uncooked white rice</li>
+
+    <li>1 teaspoon minced fresh thyme leaves</li>
+
+    <li>1 1/2 teaspoons kosher salt</li>
+
+    <li>1/2 teaspoon freshly ground black pepper</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/26/0/BX0301_stuffed-cabbage_s4x3.jpg.rend.hgtvcom.826.620.suffix/1406932659102.jpeg
 ingredients: '3 tablespoons good olive oil
 
@@ -46,6 +153,8 @@ ingredients: '3 tablespoons good olive oil
   1/2 teaspoon freshly ground black pepper'
 intrash: 0
 name: Stuffed Cabbage
+notes: null
+nutritional_info: null
 photo: FE0A66FB-1E85-49D1-AC29-469E11097D29-1607-000000764E0E223F.jpg
 photo_large: null
 photos: []
@@ -59,26 +168,3 @@ total_time: null
 type: null
 uid: 1737A50E-3E47-4C94-89BC-6CE060E71748-1607-000000744934ACAF
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>3 tablespoons good olive oil</li>
-<li>1 1/2 cups chopped yellow onions (2 onions)</li>
-<li>2 (28-ounce) cans crushed tomatoes and their juice</li>
-<li>1/4 cup red wine vinegar</li>
-<li>1/2 cup light brown sugar, lightly packed</li>
-<li>1/2 cup raisins</li>
-<li>1 1/2 teaspoons kosher salt</li>
-<li>3/4 teaspoon freshly ground black pepper</li>
-<li>1 large head Savoy or green cabbage, including outer leaves</li>
-<li>For the filling:</li>
-<li>2 1/2 pounds ground chuck</li>
-<li>3 extra-large eggs, lightly beaten</li>
-<li>1/2 cup finely chopped yellow onions</li>
-<li>1/2 cup plain dried breadcrumbs</li>
-<li>1/2 cup uncooked white rice</li>
-<li>1 teaspoon minced fresh thyme leaves</li>
-<li>1 1/2 teaspoons kosher salt</li>
-<li>1/2 teaspoon freshly ground black pepper</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

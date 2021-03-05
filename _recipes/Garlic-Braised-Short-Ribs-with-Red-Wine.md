@@ -8,6 +8,73 @@ created: '2020-07-06 23:46:08'
 created_ts: 1594079168
 description: null
 difficulty: null
+directions: "Heat oven to 275 degrees. Heat oil in a large Dutch oven over medium-high\
+  \ heat. Season short ribs on all sides with salt and pepper. Working in batches,\
+  \ sear short ribs on all sides until deeply and evenly browned, 6 to 8 minutes per\
+  \ batch. Transfer browned short ribs to a large plate and continue with remaining\
+  \ ribs.\n\nPour off all but 2 tablespoons of remaining fat, leaving the good browned\
+  \ bits behind. Reduce heat to medium, and add garlic, cut side down and cook, undisturbed,\
+  \ until golden brown, about 1 to 2 minutes. Add onion, celery and carrots and season\
+  \ with salt and pepper. Toss to coat and continue to cook until vegetables are softened\
+  \ but not yet browned, about 5 to 10 minutes. Add tomato paste and stir to coat.\
+  \ Continue to cook, stirring occasionally, until tomato paste has started to caramelize\
+  \ a bit on the bottom and up the edges of the pot, about 2 to 3 minutes.\n\nAdd\
+  \ red wine and, using a wooden spoon, scrape up any browned or caramelized bits.\
+  \ Let this simmer 2 to 3 minutes, just to take the edge off and reduce a bit. Stir\
+  \ in beef stock along with thyme. Using tongs, return short ribs to the pot, along\
+  \ with any juices that have accumulated, nestling them in there so that they are\
+  \ submerged (if they are just barely covered, nestle them bone side up so that all\
+  \ the meat is submerged, adding more beef stock or water as necessary to cover).\
+  \ Bring to a simmer, then cover and transfer to oven.\n\nCook, undisturbed, until\
+  \ short ribs are meltingly tender and falling off the bone (you should be able to\
+  \ shred the meat with a fork), 3\xBD to 4 hours.\n\nUsing tongs, remove the ribs\
+  \ from the pot, taking care (for presentation purposes, really) not to let the bone\
+  \ slip out and transfer them to a large plate. (While you could serve the short\
+  \ ribs right out of this pot, the vegetables have all given up their flavor and\
+  \ texture and aren\u2019t worth much now, so feel free to strain the sauce for easier\
+  \ eating.) Scatter parsley, chives and lemon zest over the top of the short ribs.\
+  \ Separate the fat from the sauce, season with salt and pepper and serve alongside."
+html:
+  description: null
+  directions: "<p>Heat oven to 275 degrees. Heat oil in a large Dutch oven over medium-high\
+    \ heat. Season short ribs on all sides with salt and pepper. Working in batches,\
+    \ sear short ribs on all sides until deeply and evenly browned, 6 to 8 minutes\
+    \ per batch. Transfer browned short ribs to a large plate and continue with remaining\
+    \ ribs.</p>\n<p>Pour off all but 2 tablespoons of remaining fat, leaving the good\
+    \ browned bits behind. Reduce heat to medium, and add garlic, cut side down and\
+    \ cook, undisturbed, until golden brown, about 1 to 2 minutes. Add onion, celery\
+    \ and carrots and season with salt and pepper. Toss to coat and continue to cook\
+    \ until vegetables are softened but not yet browned, about 5 to 10 minutes. Add\
+    \ tomato paste and stir to coat. Continue to cook, stirring occasionally, until\
+    \ tomato paste has started to caramelize a bit on the bottom and up the edges\
+    \ of the pot, about 2 to 3 minutes.</p>\n<p>Add red wine and, using a wooden spoon,\
+    \ scrape up any browned or caramelized bits. Let this simmer 2 to 3 minutes, just\
+    \ to take the edge off and reduce a bit. Stir in beef stock along with thyme.\
+    \ Using tongs, return short ribs to the pot, along with any juices that have accumulated,\
+    \ nestling them in there so that they are submerged (if they are just barely covered,\
+    \ nestle them bone side up so that all the meat is submerged, adding more beef\
+    \ stock or water as necessary to cover). Bring to a simmer, then cover and transfer\
+    \ to oven.</p>\n<p>Cook, undisturbed, until short ribs are meltingly tender and\
+    \ falling off the bone (you should be able to shred the meat with a fork), 3\xBD\
+    \ to 4 hours.</p>\n<p>Using tongs, remove the ribs from the pot, taking care (for\
+    \ presentation purposes, really) not to let the bone slip out and transfer them\
+    \ to a large plate. (While you could serve the short ribs right out of this pot,\
+    \ the vegetables have all given up their flavor and texture and aren\u2019t worth\
+    \ much now, so feel free to strain the sauce for easier eating.) Scatter parsley,\
+    \ chives and lemon zest over the top of the short ribs. Separate the fat from\
+    \ the sauce, season with salt and pepper and serve alongside.</p>\n"
+  ingredients: "<ul>\n<li>2 tablespoons vegetable oil</li>\n<li>5 pounds bone-in short\
+    \ ribs, at least 1 1/2 inches thick</li>\n<li>Kosher salt and freshly ground pepper</li>\n\
+    <li>2 large heads garlic, halved crosswise</li>\n<li>1 medium onion (about 10\
+    \ ounces), chopped</li>\n<li>4 ribs celery (about 8 ounces, chopped</li>\n<li>2\
+    \ medium carrots (about 6 ounces), chopped</li>\n<li>3 tablespoons tomato paste</li>\n\
+    <li>2 cups dry red wine (about half a bottle)</li>\n<li>2 cups beef stock or bone\
+    \ broth (use beef bouillon dissolved in water if unavailable; chicken stock will\
+    \ work in a pinch), plus more as needed</li>\n<li>4 sprigs thyme</li>\n<li>1 cup\
+    \ parsley, coarsely chopped</li>\n<li>\xBD cup finely chopped chives</li>\n<li>1\
+    \ tablespoon finely grated lemon zest</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "2 tablespoons vegetable oil\n5 pounds bone-in short ribs, at least 1\
   \ 1/2 inches thick\nKosher salt and freshly ground pepper\n2 large heads garlic,\
@@ -19,6 +86,8 @@ ingredients: "2 tablespoons vegetable oil\n5 pounds bone-in short ribs, at least
   \xBD cup finely chopped chives\n1 tablespoon finely grated lemon zest"
 intrash: 0
 name: Garlic Braised Short Ribs with Red Wine
+notes: null
+nutritional_info: null
 photo: 117BF38D-4239-4E3B-9740-5C60DFB30A70-36256-00001A9DD2F43994.jpg
 photo_large: 36A50B49-515E-4809-8666-F6F5EA18EEA8-36256-00001A9DBD83A9E3.jpg
 photos:
@@ -47,22 +116,3 @@ total_time: 4 hr 30 min
 type: null
 uid: 5E4F61E2-22CC-4E47-A550-BD0266EF9E1C-11634-00000628B8D8587F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>2 tablespoons vegetable oil</li>
-<li>5 pounds bone-in short ribs, at least 1 1/2 inches thick</li>
-<li>Kosher salt and freshly ground pepper</li>
-<li>2 large heads garlic, halved crosswise</li>
-<li>1 medium onion (about 10 ounces), chopped</li>
-<li>4 ribs celery (about 8 ounces, chopped</li>
-<li>2 medium carrots (about 6 ounces), chopped</li>
-<li>3 tablespoons tomato paste</li>
-<li>2 cups dry red wine (about half a bottle)</li>
-<li>2 cups beef stock or bone broth (use beef bouillon dissolved in water if unavailable; chicken stock will work in a pinch), plus more as needed</li>
-<li>4 sprigs thyme</li>
-<li>1 cup parsley, coarsely chopped</li>
-<li>½ cup finely chopped chives</li>
-<li>1 tablespoon finely grated lemon zest</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

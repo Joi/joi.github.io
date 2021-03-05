@@ -14,6 +14,43 @@ description: 'Instead of bok choy, you can use other strong leafy greens such as
   If you want to go full vegan, replace fish sauce with a tbsp of tomato paste or
   vegan fish sauce alternative. Replace chicken broth with vegetable broth.'
 difficulty: ''
+directions: "Works well in a wok but you can use any saut\xE9 pan.\n\nFry tofu and\
+  \ set aside. Remove all but 2 tbsp of oil from wok.\n\n[photo:5]\n\nChop the onion,\
+  \ garlic and tomato and put in a bowl or vat. Chop the bok choy and shrimp and put\
+  \ in another bowl or vat.\n\nHeat pan slowly if you have time so that the whole\
+  \ pan gets hot and can hold the heat through the stir fry.\n\nAdd oil to pan and\
+  \ add onion, garlic and tomato and saut\xE9.\n\nAdd tofu and bok choy and stir-fry\
+  \ for 3 - 5 min until the bok choy is tender, but not soft. If you want, you can\
+  \ separate the leafy part from the thick stems and add them a min or two after the\
+  \ thick parts.\n\nAdd chicken broth (or water if you don't have any) and bring to\
+  \ boil. Cover and simmer for 2 - 3 min.\n\nAdd fish sauce and ground black pepper."
+html:
+  description: '<p>Instead of bok choy, you can use other strong leafy greens such
+    as Chinese cabbage.</p>
+
+    <p>If you want to go full vegan, replace fish sauce with a tbsp of tomato paste
+    or vegan fish sauce alternative. Replace chicken broth with vegetable broth.</p>
+
+    '
+  directions: "<p>Works well in a wok but you can use any saut\xE9 pan.</p>\n<p>Fry\
+    \ tofu and set aside. Remove all but 2 tbsp of oil from wok.</p>\n<p><img src=\"\
+    /images/recipes/4F3E45E3-005E-45BB-B979-C01932CE279A-15291-00020AB486C3609F/A034FC50-3415-4B00-B5BB-573BC5153AAC-15291-00020AB4871D98CC.jpg\"\
+    \ alt=\"5\" /></p>\n<p>Chop the onion, garlic and tomato and put in a bowl or\
+    \ vat. Chop the bok choy and shrimp and put in another bowl or vat.</p>\n<p>Heat\
+    \ pan slowly if you have time so that the whole pan gets hot and can hold the\
+    \ heat through the stir fry.</p>\n<p>Add oil to pan and add onion, garlic and\
+    \ tomato and saut\xE9.</p>\n<p>Add tofu and bok choy and stir-fry for 3 - 5 min\
+    \ until the bok choy is tender, but not soft. If you want, you can separate the\
+    \ leafy part from the thick stems and add them a min or two after the thick parts.</p>\n\
+    <p>Add chicken broth (or water if you don't have any) and bring to boil. Cover\
+    \ and simmer for 2 - 3 min.</p>\n<p>Add fish sauce and ground black pepper.</p>\n"
+  ingredients: "<ul>\n<li>1 lb bok choy cleaned and chopped</li>\n<li>1 lb tofu cut\
+    \ into \xBD in x \xBD in x 1 in rectangles</li>\n<li>1 medium tomato diced</li>\n\
+    <li>1 medium yellow onion diced</li>\n<li>3 cloves garlic crushed</li>\n<li>1\
+    \ cup chicken broth</li>\n<li>\xBD cup cooking oil</li>\n<li>2 Tbsp fish sauce</li>\n\
+    <li>Salt and pepper to taste</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "1 lb bok choy cleaned and chopped\n1 lb tofu cut into \xBD in x \xBD\
   \ in x 1 in rectangles\n1 medium tomato diced\n1 medium yellow onion diced\n3 cloves\
@@ -21,6 +58,8 @@ ingredients: "1 lb bok choy cleaned and chopped\n1 lb tofu cut into \xBD in x \x
   Salt and pepper to taste"
 intrash: 0
 name: Ginisang Pechay with Tofu
+notes: ''
+nutritional_info: ''
 photo: F8B3AF03-B696-42DE-9121-42D33AF03E5D-15291-00020AF6192CE592.jpg
 photo_large: B3009C8F-3EBC-4E8C-8B0A-3B9D6778662F-15291-00020AE6E8348173.jpg
 photos:
@@ -67,29 +106,3 @@ total_time: ''
 type: _mine
 uid: 4F3E45E3-005E-45BB-B979-C01932CE279A-15291-00020AB486C3609F
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<h4 id="description">Description</h4>
-<div class="box box-description content"><p>Instead of bok choy, you can use other strong leafy greens such as Chinese cabbage.</p>
-<p>If you want to go full vegan, replace fish sauce with a tbsp of tomato paste or vegan fish sauce alternative. Replace chicken broth with vegetable broth.</p>
-</div>	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 lb bok choy cleaned and chopped</li>
-<li>1 lb tofu cut into ½ in x ½ in x 1 in rectangles</li>
-<li>1 medium tomato diced</li>
-<li>1 medium yellow onion diced</li>
-<li>3 cloves garlic crushed</li>
-<li>1 cup chicken broth</li>
-<li>½ cup cooking oil</li>
-<li>2 Tbsp fish sauce</li>
-<li>Salt and pepper to taste</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Works well in a wok but you can use any sauté pan.</p>
-<p>Fry tofu and set aside. Remove all but 2 tbsp of oil from wok.</p>
-<p><img src="/images/recipes/4F3E45E3-005E-45BB-B979-C01932CE279A-15291-00020AB486C3609F/A034FC50-3415-4B00-B5BB-573BC5153AAC-15291-00020AB4871D98CC.jpg" alt="5" /></p>
-<p>Chop the onion, garlic and tomato and put in a bowl or vat. Chop the bok choy and shrimp and put in another bowl or vat.</p>
-<p>Heat pan slowly if you have time so that the whole pan gets hot and can hold the heat through the stir fry.</p>
-<p>Add oil to pan and add onion, garlic and tomato and sauté.</p>
-<p>Add tofu and bok choy and stir-fry for 3 - 5 min until the bok choy is tender, but not soft. If you want, you can separate the leafy part from the thick stems and add them a min or two after the thick parts.</p>
-<p>Add chicken broth (or water if you don't have any) and bring to boil. Cover and simmer for 2 - 3 min.</p>
-<p>Add fish sauce and ground black pepper.</p>
-</div>	</div>

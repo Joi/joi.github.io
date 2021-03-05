@@ -8,6 +8,66 @@ created: '2020-05-21 00:04:12'
 created_ts: 1590019452
 description: null
 difficulty: null
+directions: "Place yeast, milk and sugar into mixing bowl and blend 5 sec/speed 6.\
+  \ Warm 2 min/37\xB0C/speed 2.\n\nAdd flour and salt and combine 6 sec/speed 6. Knead\
+  \ for 3 min/ .\n\nTransfer mixture onto silicone bread mat or work surface and roll\
+  \ into a tight ball. Wrap with plastic wrap and allow to prove for 30 minutes.\n\
+  \nMeanwhile, roll butter between two pieces of baking paper into a large flat square\
+  \ about 1 cm thick. Place into refrigerator.\n\nRoll dough out into a square about\
+  \ 2cm thick. Place butter into centre of dough and fold corners in to meet in the\
+  \ middle as though it were an envelope.\n\nRoll dough out again. Fold bottom third\
+  \ up and top third down over bottom. Roll flat and wrap in plastic wrap. Refrigerate\
+  \ for 30 minutes.\n\nTurn folded dough so that open ends are at the top and bottom\
+  \ and repeat folding bottom third up and top third down over bottom. Roll flat and\
+  \ wrap in plastic wrap and refrigerate for 30 minutes.\n\nRepeat rolling, wrapping\
+  \ and refrigerating at least three more times. The dough and butter should start\
+  \ forming thin layers.\n\nPre-heat oven to 200\xB0C and line a large baking tray\
+  \ with paper.\n\nRoll dough out one final time to a large rectangle around 2cm thick.\n\
+  \nCut into triangles and roll, starting with wide part and finishing with pointy\
+  \ end. Brush with egg and bake for 15 minutes (200\xB0C) or until golden and puffy."
+html:
+  description: null
+  directions: "<p>Place yeast, milk and sugar into mixing bowl and blend 5 sec/speed\
+    \ 6. Warm 2 min/37\xB0C/speed 2.</p>\n<p>Add flour and salt and combine 6 sec/speed\
+    \ 6. Knead for 3 min/ .</p>\n<p>Transfer mixture onto silicone bread mat or work\
+    \ surface and roll into a tight ball. Wrap with plastic wrap and allow to prove\
+    \ for 30 minutes.</p>\n<p>Meanwhile, roll butter between two pieces of baking\
+    \ paper into a large flat square about 1 cm thick. Place into refrigerator.</p>\n\
+    <p>Roll dough out into a square about 2cm thick. Place butter into centre of dough\
+    \ and fold corners in to meet in the middle as though it were an envelope.</p>\n\
+    <p>Roll dough out again. Fold bottom third up and top third down over bottom.\
+    \ Roll flat and wrap in plastic wrap. Refrigerate for 30 minutes.</p>\n<p>Turn\
+    \ folded dough so that open ends are at the top and bottom and repeat folding\
+    \ bottom third up and top third down over bottom. Roll flat and wrap in plastic\
+    \ wrap and refrigerate for 30 minutes.</p>\n<p>Repeat rolling, wrapping and refrigerating\
+    \ at least three more times. The dough and butter should start forming thin layers.</p>\n\
+    <p>Pre-heat oven to 200\xB0C and line a large baking tray with paper.</p>\n<p>Roll\
+    \ dough out one final time to a large rectangle around 2cm thick.</p>\n<p>Cut\
+    \ into triangles and roll, starting with wide part and finishing with pointy end.\
+    \ Brush with egg and bake for 15 minutes (200\xB0C) or until golden and puffy.</p>\n"
+  ingredients: '<ul>
+
+    <li>30 g fresh yeast</li>
+
+    <li>370 g whole milk</li>
+
+    <li>60 g sugar</li>
+
+    <li>600 g bakers flour</li>
+
+    <li>1 tsp salt</li>
+
+    <li>270 g Butter</li>
+
+    <li>1 egg, beaten</li>
+
+    </ul>
+
+    '
+  notes: '<p>This recipe is from Thermomix Food Lovers Calendar 2012.</p>
+
+    '
+  nutrition: null
 image_url: https://d2mkh7ukbp9xav.cloudfront.net/recipeimage/hjp6lgtm-9d870-412635-cfcd2-1y865d2g/24644563-2a1e-4936-a006-f5d83bd7a050/main/butter-croissants.jpg
 ingredients: '30 g fresh yeast
 
@@ -24,6 +84,8 @@ ingredients: '30 g fresh yeast
   1 egg, beaten'
 intrash: 0
 name: Butter Croissants
+notes: This recipe is from Thermomix Food Lovers Calendar 2012.
+nutritional_info: null
 photo: EFD8ACFD-F61B-4241-9536-7CCB95CE1B65-11450-000070651D407E63.jpg
 photo_large: null
 photos: []
@@ -37,15 +99,4 @@ total_time: null
 type: null
 uid: 5B1024F0-41A9-4354-9863-C540ADC2E917-11450-0000705FA22AA2AD
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>30 g fresh yeast</li>
-<li>370 g whole milk</li>
-<li>60 g sugar</li>
-<li>600 g bakers flour</li>
-<li>1 tsp salt</li>
-<li>270 g Butter</li>
-<li>1 egg, beaten</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+This recipe is from Thermomix Food Lovers Calendar 2012.

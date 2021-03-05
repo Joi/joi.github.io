@@ -8,12 +8,43 @@ created: '2020-02-03 15:29:57'
 created_ts: 1580743797
 description: null
 difficulty: ''
+directions: "Arrange Brussels sprouts in single layer, cut sides down, in 12-inch\
+  \ nonstick skillet. Drizzle oil evenly over sprouts. Cover skillet, place over medium-high\
+  \ heat, and cook until sprouts are bright green and cut sides have started to brown,\
+  \ about 5 minutes.\n\nUncover and continue to cook until cut sides of sprouts are\
+  \ deeply and evenly browned and paring knife slides in with little to no resistance,\
+  \ 2 to 3 minutes longer, adjusting heat and moving sprouts as necessary to prevent\
+  \ them from overbrowning. While sprouts cook, combine lemon juice and \xBC teaspoon\
+  \ salt in small bowl.\n\nOff heat, add lemon juice mixture to skillet and stir to\
+  \ evenly coat sprouts. Season with salt and pepper to taste. Transfer sprouts to\
+  \ large plate, sprinkle with Pecorino, and serve."
+html:
+  description: null
+  directions: "<p>Arrange Brussels sprouts in single layer, cut sides down, in 12-inch\
+    \ nonstick skillet. Drizzle oil evenly over sprouts. Cover skillet, place over\
+    \ medium-high heat, and cook until sprouts are bright green and cut sides have\
+    \ started to brown, about 5 minutes.</p>\n<p>Uncover and continue to cook until\
+    \ cut sides of sprouts are deeply and evenly browned and paring knife slides in\
+    \ with little to no resistance, 2 to 3 minutes longer, adjusting heat and moving\
+    \ sprouts as necessary to prevent them from overbrowning. While sprouts cook,\
+    \ combine lemon juice and \xBC teaspoon salt in small bowl.</p>\n<p>Off heat,\
+    \ add lemon juice mixture to skillet and stir to evenly coat sprouts. Season with\
+    \ salt and pepper to taste. Transfer sprouts to large plate, sprinkle with Pecorino,\
+    \ and serve.</p>\n"
+  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>1 pound small (1 to 1\
+    \ 1/2 inches in diameter) Brussels sprouts, trimmed and halved</li>\n<li>5 tablespoons\
+    \ extra-virgin olive oil</li>\n<li>1 tablespoon lemon juice</li>\n<li>Salt and\
+    \ pepper</li>\n<li>\xBC cup shredded Pecorino Romano cheese</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/37780_sfs-skillet-roasted-brussels-sprouts-lemon-pecorino-romano-31
 ingredients: "GATHER YOUR INGREDIENTS\n1 pound small (1 to 1 1/2 inches in diameter)\
   \ Brussels sprouts, trimmed and halved\n5 tablespoons extra-virgin olive oil\n1\
   \ tablespoon lemon juice\nSalt and pepper\n\xBC cup shredded Pecorino Romano cheese"
 intrash: 0
 name: Skillet-Roasted Brussels Sprouts with Lemon and Pecorino Romano
+notes: null
+nutritional_info: null
 photo: D58D6336-62D6-403E-A4AB-E712344861D8-408-00004E012660FE33.jpg
 photo_large: null
 photos: []
@@ -27,14 +58,3 @@ total_time: ''
 type: null
 uid: C11FE1B7-550A-4A36-AA13-59A2DB4C677F-408-00004E00BB64C1CC
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>GATHER YOUR INGREDIENTS</li>
-<li>1 pound small (1 to 1 1/2 inches in diameter) Brussels sprouts, trimmed and halved</li>
-<li>5 tablespoons extra-virgin olive oil</li>
-<li>1 tablespoon lemon juice</li>
-<li>Salt and pepper</li>
-<li>¼ cup shredded Pecorino Romano cheese</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

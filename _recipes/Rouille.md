@@ -9,11 +9,26 @@ created: '2020-10-09 00:47:47'
 created_ts: 1602204467
 description: null
 difficulty: ''
+directions: "Crumble saffron threads in stock in a food processor or mortar. Add garlic\
+  \ and pur\xE9e, or grind with a pestle, until smooth. Transfer to a bowl and stir\
+  \ in mayonnaise, paprika, and cayenne. Season to taste with salt."
+html:
+  description: null
+  directions: "<p>Crumble saffron threads in stock in a food processor or mortar.\
+    \ Add garlic and pur\xE9e, or grind with a pestle, until smooth. Transfer to a\
+    \ bowl and stir in mayonnaise, paprika, and cayenne. Season to taste with salt.</p>\n"
+  ingredients: "<ul>\n<li>1 pinch saffron threads</li>\n<li>2 Tbsp fsh stock</li>\n\
+    <li>4 cloves garlic, peeled and minced</li>\n<li>1 cup mayonnaise</li>\n<li>\xBD\
+    \ tsp. sweet paprika</li>\n<li>1 pinch cayenne</li>\n<li>Salt</li>\n</ul>\n"
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "1 pinch saffron threads\n2 Tbsp fsh stock\n4 cloves garlic, peeled and\
   \ minced\n1 cup mayonnaise\n\xBD tsp. sweet paprika\n1 pinch cayenne\nSalt"
 intrash: 0
 name: Rouille
+notes: null
+nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -27,16 +42,3 @@ total_time: ''
 type: _mine
 uid: C17F174D-81B0-4847-9396-DE2E5E92EF57-79931-0001526F038511AC
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 pinch saffron threads</li>
-<li>2 Tbsp fsh stock</li>
-<li>4 cloves garlic, peeled and minced</li>
-<li>1 cup mayonnaise</li>
-<li>½ tsp. sweet paprika</li>
-<li>1 pinch cayenne</li>
-<li>Salt</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Crumble saffron threads in stock in a food processor or mortar. Add garlic and purée, or grind with a pestle, until smooth. Transfer to a bowl and stir in mayonnaise, paprika, and cayenne. Season to taste with salt.</p>
-</div>	</div>

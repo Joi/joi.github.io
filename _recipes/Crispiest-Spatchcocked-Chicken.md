@@ -22,10 +22,89 @@ description: "Two tricks make this simple recipe the most extraordinary way I kn
   \ skin dry out overnight, season it as early as possible, then pat it dry with a\
   \ paper towel before you begin to cook it. It\u2019ll help achieve a similar effect."
 difficulty: ''
+directions: " The day before you plan to cook the chicken, spatchcock it (or ask your\
+  \ butcher to help!). Use heavy-duty kitchen shears to snip down along both sides\
+  \ of the spine (the underside of the bird) and remove it. You can start from the\
+  \ tail or neck end, whichever you prefer. Once you\u2019ve removed the spine, reserve\
+  \ it for stock. Remove the wingtips and reserve them for stock, too.\n\n Lay the\
+  \ chicken on the cutting board, breast side up. Push down on the breastbone until\
+  \ you hear the cartilage pop and the bird lies flat. Generously season the bird\
+  \ with salt on both sides. Place it breast side up into a shallow roasting dish\
+  \ and refrigerate, uncovered, overnight.\n\n Pull the bird out of the fridge an\
+  \ hour before you plan to cook it. Preheat the oven to 425\xB0F, with a rack positioned\
+  \ in the upper third of the oven.\n\n Heat a 10-or 12-inch cast iron pan or other\
+  \ skillet over medium-high heat. Add just enough olive oil to coat the bottom of\
+  \ the pan. As soon as the oil shimmers, place the chicken in the pan, breast side\
+  \ down, and brown for 6 to 8 minutes, until golden. It\u2019s fine if the bird doesn\u2019\
+  t lie completely flat as long as the breast is in contact with the pan. Flip the\
+  \ bird over (again, it\u2019s fine if it doesn\u2019t lie entirely flat) and slide\
+  \ the entire cast iron pan into the oven on the prepared rack. Push the pan all\
+  \ the way to the very back of the oven, with the handle of the pan facing left.\n\
+  \n After about 20 minutes, carefully use an oven mitt to rotate the pan 180 degrees\
+  \ so the handle faces right and return it to the very back of the top rack. Cook\
+  \ until the chicken is brown all over and the juices run clear when you cut between\
+  \ the leg and the thigh, about 45 minutes.\n\n Let rest 10 minutes before carving.\
+  \ Serve warm or at room temperature."
+html:
+  description: "<p>Two tricks make this simple recipe the most extraordinary way I\
+    \ know to cook a whole chicken. First, spatchcocking. Spatchcocking is the term\
+    \ for removing a bird\u2019s backbone and then splaying it so it lies flat, but\
+    \ I like to think of it as a way to increase surface area for browning while decreasing\
+    \ cooking time. (It\u2019s also my favorite way to cook Thanksgiving turkey, cutting\
+    \ down cooking time by nearly half!</p>\n<p>The second trick is one I stumbled\
+    \ on by mistake at Eccolo, when one of my cooks seasoned a few chickens and left\
+    \ them uncovered in the walk-in overnight. When I came in the next day, I was\
+    \ annoyed by his negligence. The constantly circulating air of the walk-in\u2014\
+    like that of any refrigerator\u2014had dried out the chicken skin, and the birds\
+    \ looked scarily fossilized. But I had no choice, so I cooked them anyway. The\
+    \ dried-out skin cooked up golden and glassy. It was the crispiest roast chicken\
+    \ skin I\u2019d ever seen, even after the bird had rested. If you don\u2019t have\
+    \ a chance to season the chicken and let its skin dry out overnight, season it\
+    \ as early as possible, then pat it dry with a paper towel before you begin to\
+    \ cook it. It\u2019ll help achieve a similar effect.</p>\n"
+  directions: "<p>The day before you plan to cook the chicken, spatchcock it (or ask\
+    \ your butcher to help!). Use heavy-duty kitchen shears to snip down along both\
+    \ sides of the spine (the underside of the bird) and remove it. You can start\
+    \ from the tail or neck end, whichever you prefer. Once you\u2019ve removed the\
+    \ spine, reserve it for stock. Remove the wingtips and reserve them for stock,\
+    \ too.</p>\n<p>Lay the chicken on the cutting board, breast side up. Push down\
+    \ on the breastbone until you hear the cartilage pop and the bird lies flat. Generously\
+    \ season the bird with salt on both sides. Place it breast side up into a shallow\
+    \ roasting dish and refrigerate, uncovered, overnight.</p>\n<p>Pull the bird out\
+    \ of the fridge an hour before you plan to cook it. Preheat the oven to 425\xB0\
+    F, with a rack positioned in the upper third of the oven.</p>\n<p>Heat a 10-or\
+    \ 12-inch cast iron pan or other skillet over medium-high heat. Add just enough\
+    \ olive oil to coat the bottom of the pan. As soon as the oil shimmers, place\
+    \ the chicken in the pan, breast side down, and brown for 6 to 8 minutes, until\
+    \ golden. It\u2019s fine if the bird doesn\u2019t lie completely flat as long\
+    \ as the breast is in contact with the pan. Flip the bird over (again, it\u2019\
+    s fine if it doesn\u2019t lie entirely flat) and slide the entire cast iron pan\
+    \ into the oven on the prepared rack. Push the pan all the way to the very back\
+    \ of the oven, with the handle of the pan facing left.</p>\n<p>After about 20\
+    \ minutes, carefully use an oven mitt to rotate the pan 180 degrees so the handle\
+    \ faces right and return it to the very back of the top rack. Cook until the chicken\
+    \ is brown all over and the juices run clear when you cut between the leg and\
+    \ the thigh, about 45 minutes.</p>\n<p>Let rest 10 minutes before carving. Serve\
+    \ warm or at room temperature.</p>\n"
+  ingredients: '<ul>
+
+    <li>4-pound whole chicken
+
+    Salt
+
+    Extra-virgin olive oil</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: null
 ingredients: "4-pound whole chicken\rSalt\rExtra-virgin olive oil"
 intrash: 0
 name: Crispiest Spatchcocked Chicken
+notes: null
+nutritional_info: null
 photo: 206D843F-447F-463C-A413-CCB1E58CC3E0-20478-00000A13C71827A3.jpg
 photo_large: 4EE24BE6-D16C-423D-BC3F-A92F506CFCF8-20478-00000A13C07A89F7.jpg
 photos:
@@ -42,11 +121,3 @@ total_time: ''
 type: null
 uid: 0207668D-90FE-420C-8343-595CBE5D0033-631-000197C12A00D55C
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>4-pound whole chicken
-Salt
-Extra-virgin olive oil</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

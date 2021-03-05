@@ -8,6 +8,89 @@ created: '2020-04-24 19:01:08'
 created_ts: 1587754868
 description: ''
 difficulty: ''
+directions: "Brown Chuck Roast: Heat up Instant Pot using Saut\xE9 More function.\
+  \ Wait until it says HOT (~8 mins).\n\nPat dry the chuck roast steak with a paper\
+  \ towel, then generously season one side of the roast with kosher salt and ground\
+  \ black pepper. Drizzle the inner pot with 1 tbsp (15ml) olive oil, and ensure to\
+  \ coat the oil over the whole bottom of the pot. Then, place the seasoned side of\
+  \ the roast in Instant Pot. Season the other side with more salt + black pepper.\n\
+  \nLet it brown for 10 minutes per side (don\u2019t need to constantly flip the roast)\
+  \ to develop some awesome deep flavors. Set browned roast aside.\n\nSaut\xE9 Onion\
+  \ & Garlic: Add in sliced onions and saute until softened. Add in a pinch of kosher\
+  \ salt and ground black pepper to season. Add in garlic and saute for 30 seconds\
+  \ until fragrant. Add in mushroom and saute for 2 mins. Then season with another\
+  \ pinch of kosher salt.\n\nDeglaze Instant Pot: Pour in a dash of red wine or balsamic\
+  \ vinegar, then deglaze by scrubbing all the flavorful brown bits off the bottom\
+  \ of the pot with a wooden spoon.\n\nPressure Cook Pot Roast: Add 1 cup (250ml)\
+  \ of chicken stock, 1 tbsp (15ml) regular soy sauce, 1 tbsp (15 ml) fish sauce,\
+  \ 1 pinch of dried rosemary, 1 pinch of thyme, and 2 bay leaves in Instant Pot.\
+  \ Taste the seasoning and add more salt and pepper if desired.\n\nPlace the chuck\
+  \ roast and all its meat juice in Instant Pot.\n\nWith Venting Knob in Venting Position,\
+  \ close the lid, then turn Venting Knob to Sealing Position. Pressure cook at High\
+  \ Pressure for 45 minutes + Full Natural Release (25 minutes). Open the lid carefully.\n\
+  \nPressure Cook Vegetables: Set aside the chuck roast, and cover it with aluminum\
+  \ foil. Let it rest as you pressure cook the vegetables.\n\nSubmerge the quartered\
+  \ potatoes into the yummy gravy, then stack the chopped carrots on top of the potatoes.\
+  \ With Venting Knob in Venting Position, close the lid, then turn Venting Knob to\
+  \ Sealing Position. Pressure cook at High Pressure for 4 minutes + Quick Release.\
+  \ Open the lid carefully.\n\nMake Gravy & Serve: Taste the gravy again, then adjust\
+  \ the seasoning if necessary. Mix 1 \xBD tbsp (12g) cornstarch with 2 tbsp (30ml)\
+  \ water, then mix it into the gravy one third at a time until desired thickness.\n\
+  \nSlice the roast against the grain. High five your family. Serve pot roast and\
+  \ potatoes with the gravy. Immediately enjoy this umami filled dish you've just\
+  \ created!"
+html:
+  description: null
+  directions: "<p>Brown Chuck Roast: Heat up Instant Pot using Saut\xE9 More function.\
+    \ Wait until it says HOT (~8 mins).</p>\n<p>Pat dry the chuck roast steak with\
+    \ a paper towel, then generously season one side of the roast with kosher salt\
+    \ and ground black pepper. Drizzle the inner pot with 1 tbsp (15ml) olive oil,\
+    \ and ensure to coat the oil over the whole bottom of the pot. Then, place the\
+    \ seasoned side of the roast in Instant Pot. Season the other side with more salt\
+    \ + black pepper.</p>\n<p>Let it brown for 10 minutes per side (don\u2019t need\
+    \ to constantly flip the roast) to develop some awesome deep flavors. Set browned\
+    \ roast aside.</p>\n<p>Saut\xE9 Onion &amp; Garlic: Add in sliced onions and saute\
+    \ until softened. Add in a pinch of kosher salt and ground black pepper to season.\
+    \ Add in garlic and saute for 30 seconds until fragrant. Add in mushroom and saute\
+    \ for 2 mins. Then season with another pinch of kosher salt.</p>\n<p>Deglaze Instant\
+    \ Pot: Pour in a dash of red wine or balsamic vinegar, then deglaze by scrubbing\
+    \ all the flavorful brown bits off the bottom of the pot with a wooden spoon.</p>\n\
+    <p>Pressure Cook Pot Roast: Add 1 cup (250ml) of chicken stock, 1 tbsp (15ml)\
+    \ regular soy sauce, 1 tbsp (15 ml) fish sauce, 1 pinch of dried rosemary, 1 pinch\
+    \ of thyme, and 2 bay leaves in Instant Pot. Taste the seasoning and add more\
+    \ salt and pepper if desired.</p>\n<p>Place the chuck roast and all its meat juice\
+    \ in Instant Pot.</p>\n<p>With Venting Knob in Venting Position, close the lid,\
+    \ then turn Venting Knob to Sealing Position. Pressure cook at High Pressure for\
+    \ 45 minutes + Full Natural Release (25 minutes). Open the lid carefully.</p>\n\
+    <p>Pressure Cook Vegetables: Set aside the chuck roast, and cover it with aluminum\
+    \ foil. Let it rest as you pressure cook the vegetables.</p>\n<p>Submerge the\
+    \ quartered potatoes into the yummy gravy, then stack the chopped carrots on top\
+    \ of the potatoes. With Venting Knob in Venting Position, close the lid, then\
+    \ turn Venting Knob to Sealing Position. Pressure cook at High Pressure for 4\
+    \ minutes + Quick Release. Open the lid carefully.</p>\n<p>Make Gravy &amp; Serve:\
+    \ Taste the gravy again, then adjust the seasoning if necessary. Mix 1 \xBD tbsp\
+    \ (12g) cornstarch with 2 tbsp (30ml) water, then mix it into the gravy one third\
+    \ at a time until desired thickness.</p>\n<p>Slice the roast against the grain.\
+    \ High five your family. Serve pot roast and potatoes with the gravy. Immediately\
+    \ enjoy this umami filled dish you've just created!</p>\n"
+  ingredients: "<ul>\n<li>1 - 3 pounds (1176g) USDA choice grade chuck roast/Canada\
+    \ AAA grade blade roast (2 inches or 5cm thick)</li>\n<li>4 cloves garlic , minced</li>\n\
+    <li>2 small onions , sliced</li>\n<li>1 cup (250ml) unsalted chicken stock or\
+    \ high-quality unsalted beef stock</li>\n<li>1 tablespoon (15ml) regular soy sauce</li>\n\
+    <li>1 tablespoon (15ml) fish sauce (can substitute with regular soy sauce)</li>\n\
+    <li>1 tablespoon (15ml) olive oil</li>\n<li>1 pinch dried rosemary</li>\n<li>1\
+    \ pinch thyme</li>\n<li>2 bay leaves</li>\n<li>2 tablespoons (30ml) red wine or\
+    \ balsamic vinegar</li>\n<li>Kosher salt and ground black pepper to taste</li>\n\
+    <li>8 white mushrooms , sliced</li>\n<li>2 carrots , chopped</li>\n<li>2 - 4 potatoes\
+    \ , quartered</li>\n<li>1 \xBD tablespoon (12g) cornstarch mixed with 2 tablespoons\
+    \ (30ml) water</li>\n</ul>\n"
+  notes: null
+  nutrition: '<p>Calories: 520kcal | Carbohydrates: 22g | Protein: 49g | Fat: 27g
+    | Saturated Fat: 12g | Cholesterol: 156mg | Sodium: 375mg | Potassium: 1470mg
+    | Fiber: 4g | Sugar: 4g | Vitamin A: 5125IU | Vitamin C: 17mg | Calcium: 90mg
+    | Iron: 9mg</p>
+
+    '
 image_url: https://www.pressurecookrecipes.com/wp-content/uploads/2016/06/instant-pot-pot-roast-2-293x195.jpg
 ingredients: "1 - 3 pounds (1176g) USDA choice grade chuck roast/Canada AAA grade\
   \ blade roast (2 inches or 5cm thick)\n4 cloves garlic , minced\n2 small onions\
@@ -20,6 +103,11 @@ ingredients: "1 - 3 pounds (1176g) USDA choice grade chuck roast/Canada AAA grad
   \ with 2 tablespoons (30ml) water"
 intrash: 0
 name: Instant Pot Pot Roast
+notes: ''
+nutritional_info: 'Calories: 520kcal | Carbohydrates: 22g | Protein: 49g | Fat: 27g
+  | Saturated Fat: 12g | Cholesterol: 156mg | Sodium: 375mg | Potassium: 1470mg |
+  Fiber: 4g | Sugar: 4g | Vitamin A: 5125IU | Vitamin C: 17mg | Calcium: 90mg | Iron:
+  9mg'
 photo: 04F32423-3803-4827-A69C-013C08401320-89150-0001DFF72CBB4D92.jpg
 photo_large: null
 photos: []
@@ -33,24 +121,3 @@ total_time: ''
 type: null
 uid: 898D38DA-42A6-439A-827B-3937E5B5F7F8-89150-0001DFF5064B7E67
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 - 3 pounds (1176g) USDA choice grade chuck roast/Canada AAA grade blade roast (2 inches or 5cm thick)</li>
-<li>4 cloves garlic , minced</li>
-<li>2 small onions , sliced</li>
-<li>1 cup (250ml) unsalted chicken stock or high-quality unsalted beef stock</li>
-<li>1 tablespoon (15ml) regular soy sauce</li>
-<li>1 tablespoon (15ml) fish sauce (can substitute with regular soy sauce)</li>
-<li>1 tablespoon (15ml) olive oil</li>
-<li>1 pinch dried rosemary</li>
-<li>1 pinch thyme</li>
-<li>2 bay leaves</li>
-<li>2 tablespoons (30ml) red wine or balsamic vinegar</li>
-<li>Kosher salt and ground black pepper to taste</li>
-<li>8 white mushrooms , sliced</li>
-<li>2 carrots , chopped</li>
-<li>2 - 4 potatoes , quartered</li>
-<li>1 ½ tablespoon (12g) cornstarch mixed with 2 tablespoons (30ml) water</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>

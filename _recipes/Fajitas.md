@@ -8,6 +8,48 @@ created: '2020-08-19 13:14:12'
 created_ts: 1597842852
 description: null
 difficulty: null
+directions: "Mix soy sauce, lime juice, canola oil, brown sugar, cumin, black pepper,\
+  \ chile powder, and garlic in bowl.\n\nSet aside \xBD cup of the marinade.\n\nUse\
+  \ ziplock to marinate meat with rest of marinade for 3 to 10 hours.\n\nUsing \xBD\
+  \ cup marinade, marinate peppers.\n\nGrill steaks - cover and cook 1 min on each\
+  \ side and repeat until internal temp is 115\xB0 to 120\xB0F for medium-rare or\
+  \ 125\xB0 to 130\xB0F for medium.\n\nTent and foil steak on plate.\n\nMeanwhile,\
+  \ move cast iron pan from cold side of grill to hot side and preheat for 2 min.\n\
+  \nCook veggies for about 10 min until charred. Stir occasionally. When cooked, move\
+  \ steak from plate to cutting board and add juices to veggies.\n\nThinly slice meat\
+  \ against grain."
+html:
+  description: null
+  directions: "<p>Mix soy sauce, lime juice, canola oil, brown sugar, cumin, black\
+    \ pepper, chile powder, and garlic in bowl.</p>\n<p>Set aside \xBD cup of the\
+    \ marinade.</p>\n<p>Use ziplock to marinate meat with rest of marinade for 3 to\
+    \ 10 hours.</p>\n<p>Using \xBD cup marinade, marinate peppers.</p>\n<p>Grill steaks\
+    \ - cover and cook 1 min on each side and repeat until internal temp is 115\xB0\
+    \ to 120\xB0F for medium-rare or 125\xB0 to 130\xB0F for medium.</p>\n<p>Tent\
+    \ and foil steak on plate.</p>\n<p>Meanwhile, move cast iron pan from cold side\
+    \ of grill to hot side and preheat for 2 min.</p>\n<p>Cook veggies for about 10\
+    \ min until charred. Stir occasionally. When cooked, move steak from plate to\
+    \ cutting board and add juices to veggies.</p>\n<p>Thinly slice meat against grain.</p>\n"
+  ingredients: "<ul>\n<li>\xBD cup soy sauce\n\xBD cup lime juice (from 6 to 8 limes)\n\
+    \xBD cup canola oil\n\xBC cup packed brown sugar\n2 teaspoons ground cumin seed\n\
+    2 teaspoons freshly ground black pepper\n1 tablespoon chili powder (see the headnote)\n\
+    3 medium cloves garlic, finely minced (about 1 tablespoon)\n2 pounds trimmed skirt\
+    \ steak (about 1 whole steak), cut\ncrosswise into 5- to 6-inch pieces (see here\
+    \ for trimming instructions)\n1 large red bell pepper, stemmed, seeded, and cut\
+    \ into \xBD-inch-wide strips\n1 large yellow bell pepper, stemmed, seeded, and\
+    \ cut into \xBD-inch-wide strips\n1 large green bell pepper, stemmed, seeded,\
+    \ and cut into \xBD-inch-wide strips\n1 white or yellow onion, cut into \xBD-inch\
+    \ slices\n12 to 16 fresh flour or corn tortillas, hot\n1 recipe Pico de Gallo</li>\n\
+    <li>Guacamole, sour cream, shredded cheese, and salsa, for serving, if desired</li>\n\
+    </ul>\n"
+  notes: "<p><strong>Pico de Gallo</strong></p>\n<p>1\xBD pounds ripe tomatoes, cut\
+    \ into \xBC- to \xBD-inch dice (about\n3 cups, see Note above)\nKosher salt\n\xBD\
+    \ large white onion, finely diced (about \xBE cup)\n1 to 2 serrano or jalape\xF1\
+    o chiles, finely diced (seeds and membranes removed for a milder salsa)\n\xBD\
+    \ cup finely chopped fresh cilantro leaves\n1 tablespoon lime juice from 1 lime</p>\n\
+    <p>Toss  tomatoes with 1 tsp salt.  Drain for 20 - 30 min with strainer.</p>\n\
+    <p>Combine with onion, chiles, cilantro, and lime juice.</p>\n"
+  nutrition: null
 image_url: null
 ingredients: "\xBD cup soy sauce\r\xBD cup lime juice (from 6 to 8 limes)\r\xBD cup\
   \ canola oil\r\xBC cup packed brown sugar\r2 teaspoons ground cumin seed\r2 teaspoons\
@@ -22,6 +64,14 @@ ingredients: "\xBD cup soy sauce\r\xBD cup lime juice (from 6 to 8 limes)\r\xBD 
   \ cheese, and salsa, for serving, if desired"
 intrash: 0
 name: Fajitas
+notes: "**Pico de Gallo**\n\n1\xBD pounds ripe tomatoes, cut into \xBC- to \xBD-inch\
+  \ dice (about\r3 cups, see Note above)\rKosher salt\r\xBD large white onion, finely\
+  \ diced (about \xBE cup)\r1 to 2 serrano or jalape\xF1o chiles, finely diced (seeds\
+  \ and membranes removed for a milder salsa)\r\xBD cup finely chopped fresh cilantro\
+  \ leaves\r1 tablespoon lime juice from 1 lime\n\nToss  tomatoes with 1 tsp salt.\
+  \  Drain for 20 - 30 min with strainer.\n\nCombine with onion, chiles, cilantro,\
+  \ and lime juice."
+nutritional_info: null
 photo: 37D38DE5-F4F1-45EC-BBB9-153837F068AC-1866-00001E7CD30C6259.jpg
 photo_large: E47E4846-ECA1-46B6-B7FB-3E4C39118FBE-1866-00001E795FA4C478.jpg
 photos:
@@ -44,25 +94,10 @@ total_time: null
 type: null
 uid: 0219F138-40D0-4824-A931-1EFA48339B46-1866-00001C3CB0B4767A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>½ cup soy sauce
-½ cup lime juice (from 6 to 8 limes)
-½ cup canola oil
-¼ cup packed brown sugar
-2 teaspoons ground cumin seed
-2 teaspoons freshly ground black pepper
-1 tablespoon chili powder (see the headnote)
-3 medium cloves garlic, finely minced (about 1 tablespoon)
-2 pounds trimmed skirt steak (about 1 whole steak), cut
-crosswise into 5- to 6-inch pieces (see here for trimming instructions)
-1 large red bell pepper, stemmed, seeded, and cut into ½-inch-wide strips
-1 large yellow bell pepper, stemmed, seeded, and cut into ½-inch-wide strips
-1 large green bell pepper, stemmed, seeded, and cut into ½-inch-wide strips
-1 white or yellow onion, cut into ½-inch slices
-12 to 16 fresh flour or corn tortillas, hot
-1 recipe Pico de Gallo</li>
-<li>Guacamole, sour cream, shredded cheese, and salsa, for serving, if desired</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+**Pico de Gallo**
+
+1½ pounds ripe tomatoes, cut into ¼- to ½-inch dice (about3 cups, see Note above)Kosher salt½ large white onion, finely diced (about ¾ cup)1 to 2 serrano or jalapeño chiles, finely diced (seeds and membranes removed for a milder salsa)½ cup finely chopped fresh cilantro leaves1 tablespoon lime juice from 1 lime
+
+Toss  tomatoes with 1 tsp salt.  Drain for 20 - 30 min with strainer.
+
+Combine with onion, chiles, cilantro, and lime juice.

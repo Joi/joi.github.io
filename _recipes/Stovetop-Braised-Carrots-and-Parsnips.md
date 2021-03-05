@@ -8,6 +8,46 @@ created: '2020-03-30 20:07:56'
 created_ts: 1585598876
 description: ''
 difficulty: ''
+directions: 'Combine all ingredients except lemon juice and garnish in a skillet with
+  a cover; add a quarter cup of water. Bring to a boil, then cover and adjust heat
+  so mixture simmers gently. Check every few minutes and add more water if necessary.
+
+
+  Cook until the vegetables are tender and the liquid is almost gone, about a half-hour.
+  Uncover and boil off remaining liquid if necessary, then taste and adjust seasoning,
+  adding lemon juice as needed. Garnish and serve hot, warm or at room temperature.'
+html:
+  description: null
+  directions: '<p>Combine all ingredients except lemon juice and garnish in a skillet
+    with a cover; add a quarter cup of water. Bring to a boil, then cover and adjust
+    heat so mixture simmers gently. Check every few minutes and add more water if
+    necessary.</p>
+
+    <p>Cook until the vegetables are tender and the liquid is almost gone, about a
+    half-hour. Uncover and boil off remaining liquid if necessary, then taste and
+    adjust seasoning, adding lemon juice as needed. Garnish and serve hot, warm or
+    at room temperature.</p>
+
+    '
+  ingredients: '<ul>
+
+    <li>2 pounds carrots, peeled, trimmed and halved if more than 1/2-inch thick</li>
+
+    <li>2 pounds parsnips, peeled, trimmed and halved if more than 1/2-inch thick</li>
+
+    <li>4 tablespoons butter or extra virgin olive oil</li>
+
+    <li>Kosher salt and black pepper</li>
+
+    <li>Freshly squeezed lemon juice</li>
+
+    <li>Chopped fresh parsley, dill, mint, basil or chervil leaves for garnish (optional)</li>
+
+    </ul>
+
+    '
+  notes: null
+  nutrition: null
 image_url: https://static01.nyt.com/images/2015/03/18/dining/braised-carrots/braised-carrots-articleLarge.jpg
 ingredients: '2 pounds carrots, peeled, trimmed and halved if more than 1/2-inch thick
 
@@ -22,6 +62,8 @@ ingredients: '2 pounds carrots, peeled, trimmed and halved if more than 1/2-inch
   Chopped fresh parsley, dill, mint, basil or chervil leaves for garnish (optional)'
 intrash: 0
 name: Stovetop-Braised Carrots and Parsnips
+notes: ''
+nutritional_info: ''
 photo: 91C0C96B-2290-474F-A1F0-3E913DD75C28-16595-00010557F8B1A4F6.jpg
 photo_large: null
 photos: []
@@ -35,14 +77,3 @@ total_time: ''
 type: null
 uid: 3FDF0EF7-4FDE-4B9B-9C89-4D2772A34338-16595-00010556CF740A82
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
-</div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>2 pounds carrots, peeled, trimmed and halved if more than 1/2-inch thick</li>
-<li>2 pounds parsnips, peeled, trimmed and halved if more than 1/2-inch thick</li>
-<li>4 tablespoons butter or extra virgin olive oil</li>
-<li>Kosher salt and black pepper</li>
-<li>Freshly squeezed lemon juice</li>
-<li>Chopped fresh parsley, dill, mint, basil or chervil leaves for garnish (optional)</li>
-</ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
