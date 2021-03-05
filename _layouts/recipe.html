@@ -7,8 +7,6 @@ layout: default
 ---- VARS ------------------------------------------------
 {%- endcomment -%}
 
-{% assign json_data = site.data.recipes[page.filename] %}
-
 {%- if page.photo_large -%}
   {%- assign photo_hero = page.photo_large -%}
 {%- elsif page.photos[0].filename -%}
@@ -31,7 +29,7 @@ layout: default
 ---- END VARS ------------------------------------------------
 {%- endcomment -%}
 <!--pre>{{ page.created_ts }}</pre-->
-<div class="{{ class_mine }}">
+<div class="{{ class_mine }}" id="recipe">
 <div class="row" id="title">
 	<div class="small-12 columns">
     <h2 class="marker">{% if page.type == "_mine" %}Joi's {% endif %}{{ page.title }}</h2>
@@ -61,35 +59,25 @@ layout: default
   {%- comment -%}<hr>{%- endcomment -%}
 {%- endif -%}
 
-
+{% comment %}
+Hack. 
+Most of the content is templated in our Python script and inserted into
+the markdown file. However, we open this DIV and place the backlinks include
+here, since we cannot invoke another Liquid template over in the Python.
+We do the same at the bottom to include the Photostrip. 
+hacky, but it works.
+For now.
+- B. 2021-03-05
+{% endcomment %}
 <div class="row" id="row-one">
-  <div class="large-8 medium-7 columns" id="writeup">
-
-    {% if page.type == "_mine" %}
-      {% if page.html['description'] != null %}
-      <h4 id="description">Description</h4>
-      <div class="box box-description">
-        {{ page.html['description'] }}
-      </div>
-      {% endif %}
-    {% else %}
-    {% endif %}
-
-    {%- if content != "" -%}
-      <h4>Notes</h4>
-      {%- include content.html -%}
-    {% endif %}
-  </div>
   <div class="large-4 medium-5 columns bgc-lorange" id="backlinks">
-    {%- comment -%}{%- endcomment -%}
     {%- include backlinks.html -%}
-    {%- comment -%}{{ has_backlinks }}{%- endcomment -%}
   </div>
-</div><!-- #row-one -->
-
-{%- comment -%}<hr>{%- endcomment -%}
-
-<div class="row" id="row-two">
+{%- include content.html -%}
+{% comment %}
+Row Two is opened and populated over in the Pythin script.
+We just append the photostrip here and close it.
+{% endcomment %}
   <div class="medium-2 columns" id="photo-sidebar">
     <div class="" id="recipe-photos">
     {% if page.photos %}
@@ -124,28 +112,11 @@ layout: default
     &nbsp;
     </div>
   </div><!-- #photo-sidebar -->
-
-  <div class="medium-6 small-7 columns">
-    {% if page.type == "_mine" %}
-      {% if page.html['directions'] != null %}
-      <h4 id="directions">Directions</h4>
-      <div class="box box-directions">
-        {{ page.html['directions'] }}
-      </div>
-      {% endif %}
-    {% else %}
-    {% endif %}
-  </div>
-  <div class="medium-4 small-5 columns">
-    {% if page.html['ingredients'] != null %}
-      <h4 id="ingredients">Ingredients</h4>
-      <div class="box box-ingredients">
-        {{ page.html['ingredients'] }}
-      </div>
-    {% endif %}
-  </div>
 </div><!-- #row-two -->
 
+{% comment %}
+We don't need this do we? 
+I have it here and in the Pythin script.
 {% if page.type == "_mine" %}
   {% if page.html['nutrition'] != null %}
   <hr>
@@ -159,6 +130,8 @@ layout: default
   </div><!-- #row-three -->
   {% endif %}
 {% endif %}
+{% endcomment %}
+
 
 <hr>
 <div class="row" id="row-four">
