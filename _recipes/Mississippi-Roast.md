@@ -8,46 +8,6 @@ created: '2020-04-19 15:27:14'
 created_ts: 1587310034
 description: ''
 difficulty: ''
-directions: "Place roast on a cutting board and rub the salt and pepper all over it.\
-  \ Sprinkle the flour all over the seasoned meat and massage it into the flesh.\n\
-  \nHeat the oil in a large saut\xE9 pan set over high heat until it is shimmering\
-  \ and about to smoke. Place the roast in the pan and brown on all sides, 4 to 5\
-  \ minutes a side, to create a crust. Remove roast from pan and place it in the bowl\
-  \ of a slow cooker. Add the butter and the pepperoncini to the meat. Put the lid\
-  \ on the slow cooker, and set the machine to low.\n\nAs the roast heats, make a\
-  \ ranch dressing. Combine the mayonnaise, vinegar, dill and paprika in a small bowl\
-  \ and whisk to emulsify. Add the buttermilk if using, then whisk again. Remove the\
-  \ lid from the slow cooker and add the dressing. Replace the top and allow to continue\
-  \ cooking, undisturbed, for 6 to 8 hours, or until you can shred the meat easily\
-  \ using 2 forks. Mix the meat with the gravy surrounding it. Garnish with parsley,\
-  \ and serve with egg noodles or roast potatoes, or pile on sandwich rolls, however\
-  \ you like."
-html:
-  description: null
-  directions: "<p>Place roast on a cutting board and rub the salt and pepper all over\
-    \ it. Sprinkle the flour all over the seasoned meat and massage it into the flesh.</p>\n\
-    <p>Heat the oil in a large saut\xE9 pan set over high heat until it is shimmering\
-    \ and about to smoke. Place the roast in the pan and brown on all sides, 4 to\
-    \ 5 minutes a side, to create a crust. Remove roast from pan and place it in the\
-    \ bowl of a slow cooker. Add the butter and the pepperoncini to the meat. Put\
-    \ the lid on the slow cooker, and set the machine to low.</p>\n<p>As the roast\
-    \ heats, make a ranch dressing. Combine the mayonnaise, vinegar, dill and paprika\
-    \ in a small bowl and whisk to emulsify. Add the buttermilk if using, then whisk\
-    \ again. Remove the lid from the slow cooker and add the dressing. Replace the\
-    \ top and allow to continue cooking, undisturbed, for 6 to 8 hours, or until you\
-    \ can shred the meat easily using 2 forks. Mix the meat with the gravy surrounding\
-    \ it. Garnish with parsley, and serve with egg noodles or roast potatoes, or pile\
-    \ on sandwich rolls, however you like.</p>\n"
-  ingredients: "<ul>\n<li>1 boneless chuck roast or top or bottom round roast, 3 to\
-    \ 4 pounds</li>\n<li>2 teaspoons kosher salt, plus more to taste</li>\n<li>1 \xBD\
-    \ teaspoons freshly ground black pepper, plus more to taste</li>\n<li>\xBC cup\
-    \ all-purpose flour</li>\n<li>3 tablespoons neutral oil, like canola</li>\n<li>4\
-    \ tablespoons unsalted butter</li>\n<li>8 to 12 pepperoncini</li>\n<li>2 tablespoons\
-    \ mayonnaise</li>\n<li>2 teaspoons apple cider vinegar</li>\n<li>\xBD teaspoon\
-    \ dried dill</li>\n<li>\xBC teaspoon sweet paprika</li>\n<li>1 teaspoon buttermilk,\
-    \ optional</li>\n<li>Chopped parsley, for garnish</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://static01.nyt.com/images/2016/01/27/dining/27ROAST1/27ROAST1-articleLarge.jpg
 ingredients: "1 boneless chuck roast or top or bottom round roast, 3 to 4 pounds\n\
   2 teaspoons kosher salt, plus more to taste\n1 \xBD teaspoons freshly ground black\
@@ -57,8 +17,6 @@ ingredients: "1 boneless chuck roast or top or bottom round roast, 3 to 4 pounds
   \ sweet paprika\n1 teaspoon buttermilk, optional\nChopped parsley, for garnish"
 intrash: 0
 name: Mississippi Roast
-notes: ''
-nutritional_info: ''
 photo: C7DCC527-0A72-48F6-916F-4F70604BC32F-407-00004B67505E2760.jpg
 photo_large: null
 photos: []
@@ -72,3 +30,21 @@ total_time: ''
 type: null
 uid: 04FD9C12-9EED-4A32-9565-080092D3FF63-407-00004B651BB969DF
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 boneless chuck roast or top or bottom round roast, 3 to 4 pounds</li>
+<li>2 teaspoons kosher salt, plus more to taste</li>
+<li>1 ½ teaspoons freshly ground black pepper, plus more to taste</li>
+<li>¼ cup all-purpose flour</li>
+<li>3 tablespoons neutral oil, like canola</li>
+<li>4 tablespoons unsalted butter</li>
+<li>8 to 12 pepperoncini</li>
+<li>2 tablespoons mayonnaise</li>
+<li>2 teaspoons apple cider vinegar</li>
+<li>½ teaspoon dried dill</li>
+<li>¼ teaspoon sweet paprika</li>
+<li>1 teaspoon buttermilk, optional</li>
+<li>Chopped parsley, for garnish</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

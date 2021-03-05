@@ -8,22 +8,11 @@ created: '2020-07-23 13:02:18'
 created_ts: 1595509338
 description: null
 difficulty: null
-directions: null
-html:
-  description: null
-  directions: null
-  ingredients: "<ul>\n<li>3 tbsp red wine vinegar</li>\n<li>\xBC tsp dry mustard</li>\n\
-    <li>salt &amp; pepper</li>\n<li>\xBE cup light olive oil</li>\n<li>\xBC cup extra\
-    \ virgin olive oil</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "3 tbsp red wine vinegar\n\xBC tsp dry mustard\nsalt & pepper\n\xBE cup\
   \ light olive oil\n\xBC cup extra virgin olive oil "
 intrash: 0
 name: Vinaigarette
-notes: null
-nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -37,3 +26,13 @@ total_time: null
 type: null
 uid: 1AB2C2D7-C98A-4F88-92AD-D5EDDA17A0C0-1118-00000134914F69CC
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>3 tbsp red wine vinegar</li>
+<li>¼ tsp dry mustard</li>
+<li>salt &amp; pepper</li>
+<li>¾ cup light olive oil</li>
+<li>¼ cup extra virgin olive oil</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

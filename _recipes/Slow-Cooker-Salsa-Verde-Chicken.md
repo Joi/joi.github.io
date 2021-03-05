@@ -8,37 +8,6 @@ created: '2020-04-19 15:21:48'
 created_ts: 1587309708
 description: ''
 difficulty: ''
-directions: "Combine the chicken thighs, salsa verde, green chiles, chopped garlic,\
-  \ jalape\xF1o, garlic powder, onion powder and cumin in a 6- to 8-quart slow cooker.\
-  \ Stir to evenly combine. (Don\u2019t add salt now; jarred salsas are often high\
-  \ in sodium.) Cook on low until the chicken is tender and the flavors are blended,\
-  \ 5 to 6 hours. (If you will be away for 8 hours or more, set the cook time for\
-  \ 4 hours on low and set the slow cooker auto-switch to warm for the remaining time.)\n\
-  \nUse two forks to coarsely shred the chicken. With the heat on low, add the scallions\
-  \ and cilantro, and stir to combine. Season to taste with salt and lime juice. Serve\
-  \ with rice or in tortillas, if desired, with accompaniments."
-html:
-  description: null
-  directions: "<p>Combine the chicken thighs, salsa verde, green chiles, chopped garlic,\
-    \ jalape\xF1o, garlic powder, onion powder and cumin in a 6- to 8-quart slow cooker.\
-    \ Stir to evenly combine. (Don\u2019t add salt now; jarred salsas are often high\
-    \ in sodium.) Cook on low until the chicken is tender and the flavors are blended,\
-    \ 5 to 6 hours. (If you will be away for 8 hours or more, set the cook time for\
-    \ 4 hours on low and set the slow cooker auto-switch to warm for the remaining\
-    \ time.)</p>\n<p>Use two forks to coarsely shred the chicken. With the heat on\
-    \ low, add the scallions and cilantro, and stir to combine. Season to taste with\
-    \ salt and lime juice. Serve with rice or in tortillas, if desired, with accompaniments.</p>\n"
-  ingredients: "<ul>\n<li>1 \xBD pounds boneless, skinless chicken thighs</li>\n<li>1\
-    \ \xBD cups jarred salsa verde</li>\n<li>1 (4-ounce) can chopped mild green chiles</li>\n\
-    <li>8 garlic cloves, finely chopped</li>\n<li>1 jalape\xF1o, stemmed, seeded and\
-    \ diced</li>\n<li>1 teaspoon garlic powder</li>\n<li>1 teaspoon onion powder</li>\n\
-    <li>1 teaspoon ground cumin</li>\n<li>3 scallions (green and white parts), thinly\
-    \ sliced</li>\n<li>1 small bunch cilantro, leaves and tender stems finely chopped\
-    \ (about 1 heaping cup)</li>\n<li>Kosher salt, to taste</li>\n<li>Fresh lime juice,\
-    \ to taste</li>\n<li>Any combination of rice, tortillas, pepitas, queso fresco,\
-    \ diced avocado and crushed tortilla chips, for serving</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://static01.nyt.com/images/2019/11/25/dining/sd-slow-cooker-salsa-verde-chicken/sd-slow-cooker-salsa-verde-chicken-articleLarge.jpg
 ingredients: "1 \xBD pounds boneless, skinless chicken thighs\n1 \xBD cups jarred\
   \ salsa verde\n1 (4-ounce) can chopped mild green chiles\n8 garlic cloves, finely\
@@ -50,8 +19,6 @@ ingredients: "1 \xBD pounds boneless, skinless chicken thighs\n1 \xBD cups jarre
   \ tortilla chips, for serving"
 intrash: 0
 name: Slow Cooker Salsa Verde Chicken
-notes: ''
-nutritional_info: ''
 photo: C678CB4C-EC8D-43E5-B708-B7EE0FEAAC0B-407-00004B1B924F8705.jpg
 photo_large: null
 photos: []
@@ -65,3 +32,21 @@ total_time: ''
 type: null
 uid: 22A573CB-290E-48B6-95B4-8902C6D0388E-407-00004B19D7C22E2D
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 ½ pounds boneless, skinless chicken thighs</li>
+<li>1 ½ cups jarred salsa verde</li>
+<li>1 (4-ounce) can chopped mild green chiles</li>
+<li>8 garlic cloves, finely chopped</li>
+<li>1 jalapeño, stemmed, seeded and diced</li>
+<li>1 teaspoon garlic powder</li>
+<li>1 teaspoon onion powder</li>
+<li>1 teaspoon ground cumin</li>
+<li>3 scallions (green and white parts), thinly sliced</li>
+<li>1 small bunch cilantro, leaves and tender stems finely chopped (about 1 heaping cup)</li>
+<li>Kosher salt, to taste</li>
+<li>Fresh lime juice, to taste</li>
+<li>Any combination of rice, tortillas, pepitas, queso fresco, diced avocado and crushed tortilla chips, for serving</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -8,85 +8,6 @@ created: '2020-05-25 13:37:07'
 created_ts: 1590413827
 description: null
 difficulty: ''
-directions: "Before cooking, allow steaks stand 30 minutes at room temperature. Then\
-  \ season all sides with salt and pepper.\n\nHeat a large cast-iron skillet or pan\
-  \ over medium-high heat. Add 1 tablespoon of oil in and swirl to coat. When pan\
-  \ begins smoking, lay the steaks into the pan away from you, in batches of two and\
-  \ cook 3 minutes on each side or until browned.\n\nReduce heat to medium-low; add\
-  \ 2 tablespoons of butter, 3-4 sprigs of thyme, and 3 garlic cloves to the pan.\
-  \ Allow the butter to foam a little and baste the steaks (use an oven mitt, hold\
-  \ pan handle and very carefully tilt pan toward you so butter pools in the pan,\
-  \ and baste steaks with a large spoon).\n\nBaste constantly while cooking for a\
-  \ further 1-2 minutes, or until the steaks are done to your liking. (For well done\
-  \ steaks, flip them a couple more times while cooking until done to your preference.)\n\
-  \nDiscard the thyme and garlic from the pan and transfer steaks to a plate. Pour\
-  \ the pan juices over the steaks and let rest for 5 minutes. Repeat with the remaining\
-  \ steaks, then remove them and let rest. (Discard the thyme and garlic, but leave\
-  \ the second lot of pan juices in the pan.)\n\nWhile steaks are resting, add the\
-  \ crushed garlic to the buttery juices in the pan. Saut\xE9 on medium heat for 30\
-  \ seconds until fragrant. Add the vinegar and mushrooms and cook until soft, then\
-  \ add the cream. Season with salt and pepper to your taste.\n\nServe steak with\
-  \ the mushrooms sauce and garlic roasted potatoes."
-html:
-  description: null
-  directions: "<p>Before cooking, allow steaks stand 30 minutes at room temperature.\
-    \ Then season all sides with salt and pepper.</p>\n<p>Heat a large cast-iron skillet\
-    \ or pan over medium-high heat. Add 1 tablespoon of oil in and swirl to coat.\
-    \ When pan begins smoking, lay the steaks into the pan away from you, in batches\
-    \ of two and cook 3 minutes on each side or until browned.</p>\n<p>Reduce heat\
-    \ to medium-low; add 2 tablespoons of butter, 3-4 sprigs of thyme, and 3 garlic\
-    \ cloves to the pan. Allow the butter to foam a little and baste the steaks (use\
-    \ an oven mitt, hold pan handle and very carefully tilt pan toward you so butter\
-    \ pools in the pan, and baste steaks with a large spoon).</p>\n<p>Baste constantly\
-    \ while cooking for a further 1-2 minutes, or until the steaks are done to your\
-    \ liking. (For well done steaks, flip them a couple more times while cooking until\
-    \ done to your preference.)</p>\n<p>Discard the thyme and garlic from the pan\
-    \ and transfer steaks to a plate. Pour the pan juices over the steaks and let\
-    \ rest for 5 minutes. Repeat with the remaining steaks, then remove them and let\
-    \ rest. (Discard the thyme and garlic, but leave the second lot of pan juices\
-    \ in the pan.)</p>\n<p>While steaks are resting, add the crushed garlic to the\
-    \ buttery juices in the pan. Saut\xE9 on medium heat for 30 seconds until fragrant.\
-    \ Add the vinegar and mushrooms and cook until soft, then add the cream. Season\
-    \ with salt and pepper to your taste.</p>\n<p>Serve steak with the mushrooms sauce\
-    \ and garlic roasted potatoes.</p>\n"
-  ingredients: '<ul>
-
-    <li>For Steaks:</li>
-
-    <li>4 7-ounce (200 gram) New York strip steaks, 1-inch thick (Australian Porterhouse
-    steaks)</li>
-
-    <li>A pinch of salt</li>
-
-    <li>A pinch of cracked black pepper</li>
-
-    <li>2 tablespoons olive oil, divided</li>
-
-    <li>4 tablespoons butter, divided</li>
-
-    <li>6 cloves garlic lightly crushed with the back of a knife, divided</li>
-
-    <li>6-8 thyme sprigs, divided (or rosemary or parsley)</li>
-
-    <li>For Mushroom Sauce:</li>
-
-    <li>2 cloves garlic crushed</li>
-
-    <li>1-2 teaspoons balsamic vinegar (or Worcestershire sauce)</li>
-
-    <li>1 cup sliced brown mushrooms</li>
-
-    <li>1/2 cup light cream or reduced fat cream (or heavy cream)</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: '<p>Calories: 283kcal | Carbohydrates: 4g | Protein: 2g | Fat: 29g |
-    Saturated Fat: 15g | Cholesterol: 71mg | Sodium: 114mg | Potassium: 125mg | Vitamin
-    A: 860IU | Vitamin C: 4.8mg | Calcium: 40mg | Iron: 0.5mg</p>
-
-    '
 image_url: https://cafedelites.com/wp-content/uploads/2017/11/Garlic-Steak-Creamy-Mushroom-Sauce-IMAGE-200x200.jpg
 ingredients: 'For Steaks:
 
@@ -116,10 +37,6 @@ ingredients: 'For Steaks:
   1/2 cup light cream or reduced fat cream (or heavy cream)'
 intrash: 0
 name: Pan Seared Garlic Butter Steak & Mushroom Cream Sauce
-notes: null
-nutritional_info: 'Calories: 283kcal | Carbohydrates: 4g | Protein: 2g | Fat: 29g
-  | Saturated Fat: 15g | Cholesterol: 71mg | Sodium: 114mg | Potassium: 125mg | Vitamin
-  A: 860IU | Vitamin C: 4.8mg | Calcium: 40mg | Iron: 0.5mg'
 photo: 0115C5E8-2E3A-4E93-BF04-695DDC54ABF3-14842-000006869ABA8991.jpg
 photo_large: null
 photos:
@@ -136,3 +53,21 @@ total_time: ''
 type: null
 uid: 04CBAF39-7861-485D-B195-D741D37810E8-14842-0000068686800663
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>For Steaks:</li>
+<li>4 7-ounce (200 gram) New York strip steaks, 1-inch thick (Australian Porterhouse steaks)</li>
+<li>A pinch of salt</li>
+<li>A pinch of cracked black pepper</li>
+<li>2 tablespoons olive oil, divided</li>
+<li>4 tablespoons butter, divided</li>
+<li>6 cloves garlic lightly crushed with the back of a knife, divided</li>
+<li>6-8 thyme sprigs, divided (or rosemary or parsley)</li>
+<li>For Mushroom Sauce:</li>
+<li>2 cloves garlic crushed</li>
+<li>1-2 teaspoons balsamic vinegar (or Worcestershire sauce)</li>
+<li>1 cup sliced brown mushrooms</li>
+<li>1/2 cup light cream or reduced fat cream (or heavy cream)</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

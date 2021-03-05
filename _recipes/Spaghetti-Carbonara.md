@@ -8,44 +8,6 @@ created: '2020-09-16 11:34:50'
 created_ts: 1600256090
 description: null
 difficulty: null
-directions: "Place a large pot of lightly salted water (no more than 1 tablespoon\
-  \ salt) over high heat, and bring to a boil. Fill a large bowl with hot water for\
-  \ serving, and set aside.\n\nIn a mixing bowl, whisk together the eggs, yolks and\
-  \ pecorino and Parmesan. Season with a pinch of salt and generous black pepper.\n\
-  \nSet the water to boil. Meanwhile, heat oil in a large skillet over medium heat,\
-  \ add the pork, and saut\xE9 until the fat just renders, on the edge of crispness\
-  \ but not hard. Remove from heat and set aside.\n\nAdd pasta to the water and boil\
-  \ until a bit firmer than al dente. Just before pasta is ready, reheat guanciale\
-  \ in skillet, if needed. Reserve 1 cup of pasta water, then drain pasta and add\
-  \ to the skillet over low heat. Stir for a minute or so.\n\nEmpty serving bowl of\
-  \ hot water. Dry it and add hot pasta mixture. Stir in cheese mixture, adding some\
-  \ reserved pasta water if needed for creaminess. Serve immediately, dressing it\
-  \ with a bit of additional grated pecorino and pepper."
-html:
-  description: null
-  directions: "<p>Place a large pot of lightly salted water (no more than 1 tablespoon\
-    \ salt) over high heat, and bring to a boil. Fill a large bowl with hot water\
-    \ for serving, and set aside.</p>\n<p>In a mixing bowl, whisk together the eggs,\
-    \ yolks and pecorino and Parmesan. Season with a pinch of salt and generous black\
-    \ pepper.</p>\n<p>Set the water to boil. Meanwhile, heat oil in a large skillet\
-    \ over medium heat, add the pork, and saut\xE9 until the fat just renders, on\
-    \ the edge of crispness but not hard. Remove from heat and set aside.</p>\n<p>Add\
-    \ pasta to the water and boil until a bit firmer than al dente. Just before pasta\
-    \ is ready, reheat guanciale in skillet, if needed. Reserve 1 cup of pasta water,\
-    \ then drain pasta and add to the skillet over low heat. Stir for a minute or\
-    \ so.</p>\n<p>Empty serving bowl of hot water. Dry it and add hot pasta mixture.\
-    \ Stir in cheese mixture, adding some reserved pasta water if needed for creaminess.\
-    \ Serve immediately, dressing it with a bit of additional grated pecorino and\
-    \ pepper.</p>\n"
-  ingredients: "<ul>\n<li>Salt</li>\n<li>2 large eggs and 2 large yolks, room temperature</li>\n\
-    <li>1 ounce (about 1/3 packed cup) grated pecorino Romano, plus additional for\
-    \ serving</li>\n<li>1 ounce (about 1/3 packed cup) grated Parmesan</li>\n<li>Coarsely\
-    \ ground black pepper</li>\n<li>1 tablespoon olive oil</li>\n<li>3 \xBD ounces\
-    \ of slab guanciale (see recipe), pancetta or bacon, sliced into pieces about\
-    \ 1/4 inch thick by 1/3 inch square</li>\n<li>12 ounces spaghetti (about 3/4 box)</li>\n\
-    </ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "Salt\n2 large eggs and 2 large yolks, room temperature\n1 ounce (about\
   \ 1/3 packed cup) grated pecorino Romano, plus additional for serving\n1 ounce (about\
@@ -55,8 +17,6 @@ ingredients: "Salt\n2 large eggs and 2 large yolks, room temperature\n1 ounce (a
   \ box)"
 intrash: 0
 name: Spaghetti Carbonara
-notes: null
-nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -70,3 +30,16 @@ total_time: null
 type: null
 uid: 0EA15B08-8D2B-4915-9BD6-2B9715A46DA3-13501-000007A282FB44B2
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>Salt</li>
+<li>2 large eggs and 2 large yolks, room temperature</li>
+<li>1 ounce (about 1/3 packed cup) grated pecorino Romano, plus additional for serving</li>
+<li>1 ounce (about 1/3 packed cup) grated Parmesan</li>
+<li>Coarsely ground black pepper</li>
+<li>1 tablespoon olive oil</li>
+<li>3 ½ ounces of slab guanciale (see recipe), pancetta or bacon, sliced into pieces about 1/4 inch thick by 1/3 inch square</li>
+<li>12 ounces spaghetti (about 3/4 box)</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

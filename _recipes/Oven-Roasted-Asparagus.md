@@ -8,57 +8,12 @@ created: '2020-07-01 14:08:36'
 created_ts: 1593612516
 description: ''
 difficulty: ''
-directions: 'Instructions Checklist
-
-
-  Preheat an oven to 425 degrees F (220 degrees C).
-
-
-  Place the asparagus into a mixing bowl, and drizzle with the olive oil. Toss to
-  coat the spears, then sprinkle with Parmesan cheese, garlic, salt, and pepper. Arrange
-  the asparagus onto a baking sheet in a single layer.
-
-
-  Bake in the preheated oven until just tender, 12 to 15 minutes depending on thickness.
-  Sprinkle with lemon juice just before serving.'
-html:
-  description: null
-  directions: '<p>Instructions Checklist</p>
-
-    <p>Preheat an oven to 425 degrees F (220 degrees C).</p>
-
-    <p>Place the asparagus into a mixing bowl, and drizzle with the olive oil. Toss
-    to coat the spears, then sprinkle with Parmesan cheese, garlic, salt, and pepper.
-    Arrange the asparagus onto a baking sheet in a single layer.</p>
-
-    <p>Bake in the preheated oven until just tender, 12 to 15 minutes depending on
-    thickness. Sprinkle with lemon juice just before serving.</p>
-
-    '
-  ingredients: "<ul>\n<li>1 bunch thin asparagus spears, trimmed</li>\n<li>3 tablespoons\
-    \ olive oil</li>\n<li>1\u2009\xBD tablespoons grated Parmesan cheese</li>\n<li>1\
-    \ clove garlic, minced</li>\n<li>1 teaspoon sea salt</li>\n<li>\xBD teaspoon ground\
-    \ black pepper</li>\n<li>1 tablespoon lemon juice</li>\n</ul>\n"
-  notes: "<p>To remove woody ends, grab stalk of asparagus at either end and bend\
-    \ until it snaps. It will naturally snap where it starts to get tough.</p>\n<p>Partner\
-    \ Tip</p>\n<p>Reynolds\xAE Aluminum foil can be used to keep food moist, cook\
-    \ it evenly, and make clean-up easier.</p>\n"
-  nutrition: '<p>123 calories; 3.3 g protein; 5.2 g carbohydrates; 1.7 mg cholesterol;
-    471.4 mg sodium. Full Nutrition</p>
-
-    '
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1001600.jpg&w=568&h=568&c=sc&poi=face&q=85
 ingredients: "1 bunch thin asparagus spears, trimmed\n3 tablespoons olive oil\n1\u2009\
   \xBD tablespoons grated Parmesan cheese\n1 clove garlic, minced\n1 teaspoon sea\
   \ salt\n\xBD teaspoon ground black pepper\n1 tablespoon lemon juice"
 intrash: 0
 name: Oven-Roasted Asparagus
-notes: "To remove woody ends, grab stalk of asparagus at either end and bend until\
-  \ it snaps. It will naturally snap where it starts to get tough.\n\nPartner Tip\n\
-  \nReynolds\xAE Aluminum foil can be used to keep food moist, cook it evenly, and\
-  \ make clean-up easier."
-nutritional_info: 123 calories; 3.3 g protein; 5.2 g carbohydrates; 1.7 mg cholesterol;
-  471.4 mg sodium. Full Nutrition
 photo: C47B0365-AF02-4096-AD66-0EB9B7CF2492-631-0000537A2D56B190.jpg
 photo_large: null
 photos: []
@@ -72,8 +27,15 @@ total_time: ''
 type: null
 uid: 7C1488CD-F7E2-4D05-A497-F94B432DC770-631-00005377E8F6DAA0
 ---
-To remove woody ends, grab stalk of asparagus at either end and bend until it snaps. It will naturally snap where it starts to get tough.
-
-Partner Tip
-
-Reynolds® Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier.
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 bunch thin asparagus spears, trimmed</li>
+<li>3 tablespoons olive oil</li>
+<li>1 ½ tablespoons grated Parmesan cheese</li>
+<li>1 clove garlic, minced</li>
+<li>1 teaspoon sea salt</li>
+<li>½ teaspoon ground black pepper</li>
+<li>1 tablespoon lemon juice</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

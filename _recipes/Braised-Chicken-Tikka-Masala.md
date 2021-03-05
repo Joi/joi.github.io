@@ -13,83 +13,20 @@ description: Based on [this recipe from Cafe Delites](https://cafedelites.com/ch
   Cook's Illustrated [Braised Chicken with Basil and Tomato](https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato)
   which I find braises chicken and gets it done just right.
 difficulty: ''
-directions: "Break down chicken into 10 parts - drum stick, thighs, breast into 4\
-  \ parts, wings. Save the back and wing tips for stock.\n\n[photo:2]\n\nIn a bowl,\
-  \ combine chicken with all of the ingredients for the chicken marinade; let marinate\
-  \ overnight.\n\nPreheat oven to 300\xBAF.\n\nHeat oil in a large skillet or pot\
-  \ over medium-high heat and sear chicken pieces. 3 or 4 min per side. Do in batches\
-  \ and do not crowd.\n\nMelt butter in pan and saut\xE9 onions until soft.\n\nAdd\
-  \ garlic and ginger and saut\xE9 for 1 minute until fragrant, then add garam masala,\
-  \ cumin, turmeric and coriander. Fry for 20 seconds until fragrant.\n\nPour in the\
-  \ tomato puree, chili and salt. Let simmer for about 10-15 minutes, stirring occasionally\
-  \ until sauce thickens.\n\nStir in cream and sugar. Pour in the water to thin out\
-  \ the sauce, if needed.\n\nPut thighs and drumsticks in skin side up and bring to\
-  \ simmer. Cover and cook for 8 minutes. Add broad big pieces skin side down. Cover\
-  \ and cook until big breast pieces have an internal temperature of 105\xBAF to 115\xBA\
-  F degrees, 3 to 5 minutes.\n\nTurn big breast pieces skin side up. Add smaller tapered\
-  \ breast pieces, skin side up. Transfer covered pot to oven or simmer and cook until\
-  \ breast pieces have an internal temperature of 150\xBAF and dark meat is 160\xBA\
-  F, 15 to 30 minutes.\n\nGarnish with cilantro and serve."
-html:
-  description: '<p>Based on <a href="https://cafedelites.com/chicken-tikka-masala/">this
-    recipe from Cafe Delites</a> but changed to use whole chicken, bigger pieces and
-    cooking timing based on the Cook''s Illustrated <a href="https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato">Braised
-    Chicken with Basil and Tomato</a> which I find braises chicken and gets it done
-    just right.</p>
-
-    '
-  directions: "<p>Break down chicken into 10 parts - drum stick, thighs, breast into\
-    \ 4 parts, wings. Save the back and wing tips for stock.</p>\n<p><img src=\"/images/recipes/3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5/92FE3DF5-3FA1-4CD8-9017-CCED5175EA01-415-0000024726610296.jpg\"\
-    \ alt=\"2\" /></p>\n<p>In a bowl, combine chicken with all of the ingredients\
-    \ for the chicken marinade; let marinate overnight.</p>\n<p>Preheat oven to 300\xBA\
-    F.</p>\n<p>Heat oil in a large skillet or pot over medium-high heat and sear chicken\
-    \ pieces. 3 or 4 min per side. Do in batches and do not crowd.</p>\n<p>Melt butter\
-    \ in pan and saut\xE9 onions until soft.</p>\n<p>Add garlic and ginger and saut\xE9\
-    \ for 1 minute until fragrant, then add garam masala, cumin, turmeric and coriander.\
-    \ Fry for 20 seconds until fragrant.</p>\n<p>Pour in the tomato puree, chili and\
-    \ salt. Let simmer for about 10-15 minutes, stirring occasionally until sauce\
-    \ thickens.</p>\n<p>Stir in cream and sugar. Pour in the water to thin out the\
-    \ sauce, if needed.</p>\n<p>Put thighs and drumsticks in skin side up and bring\
-    \ to simmer. Cover and cook for 8 minutes. Add broad big pieces skin side down.\
-    \ Cover and cook until big breast pieces have an internal temperature of 105\xBA\
-    F to 115\xBAF degrees, 3 to 5 minutes.</p>\n<p>Turn big breast pieces skin side\
-    \ up. Add smaller tapered breast pieces, skin side up. Transfer covered pot to\
-    \ oven or simmer and cook until breast pieces have an internal temperature of\
-    \ 150\xBAF and dark meat is 160\xBAF, 15 to 30 minutes.</p>\n<p>Garnish with cilantro\
-    \ and serve.</p>\n"
-  ingredients: "<ul>\n<li><strong>For the chicken marinade:</strong></li>\n<li>Whole\
-    \ chicken</li>\n<li>1 cup plain yogurt</li>\n<li>1 \xBD Tbsp minced garlic</li>\n\
-    <li>1 Tbsp ginger</li>\n<li>2 tsp <a href=\"/recipes/garam-masala\">Garam Masala</a></li>\n\
-    <li>1 tsp turmeric</li>\n<li>1 tsp ground cumin</li>\n<li>1 tsp Kashmiri chili\
-    \ (or \xBD tsp ground red chili powder)</li>\n<li>1 tsp of salt</li>\n<li><strong>For\
-    \ the sauce:</strong></li>\n<li>2 Tbsp of vegetable/canola oil</li>\n<li>2 Tbsp\
-    \ butter</li>\n<li>2 small onions (or 1 large onion) finely diced</li>\n<li>1\
-    \ \xBDTbsp garlic finely grated</li>\n<li>1 Tbsp ginger finely grated</li>\n<li>1\
-    \ \xBD tsp garam masala</li>\n<li>1 \xBD tsp ground cumin</li>\n<li>1 tsp turmeric\
-    \ powder</li>\n<li>1 tsp ground coriander</li>\n<li>14 oz (400g) tomato puree\
-    \ (tomato sauce/Passata)</li>\n<li>1 tsp Kashmiri chili (optional for color and\
-    \ flavor)</li>\n<li>1 tsp ground red chili powder (adjust to your taste preference)</li>\n\
-    <li>1 tsp salt</li>\n<li>1 \xBC cups of heavy or thickened cream (use evaporated\
-    \ milk for lower calories)</li>\n<li>1 tsp brown sugar</li>\n<li>\xBC cup water\
-    \ if needed</li>\n<li>4 Tbsp Fresh cilantro to garnish</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "**For the chicken marinade:**\nWhole chicken\n1 cup plain yogurt\n1\
   \ \xBD Tbsp minced garlic\n1 Tbsp ginger\n2 tsp [recipe:Garam Masala]\n1 tsp turmeric\n\
   1 tsp ground cumin\n1 tsp Kashmiri chili (or \xBD tsp ground red chili powder)\n\
   1 tsp of salt\n**For the sauce:**\n2 Tbsp of vegetable/canola oil\n2 Tbsp butter\n\
   2 small onions (or 1 large onion) finely diced\n1 \xBDTbsp garlic finely grated\n\
-  1 Tbsp ginger finely grated\n1 \xBD tsp garam masala\n1 \xBD tsp ground cumin\n\
-  1 tsp turmeric powder\n1 tsp ground coriander\n14 oz (400g) tomato puree (tomato\
-  \ sauce/Passata)\n1 tsp Kashmiri chili (optional for color and flavor)\n1 tsp ground\
-  \ red chili powder (adjust to your taste preference)\n1 tsp salt\n1 \xBC cups of\
-  \ heavy or thickened cream (use evaporated milk for lower calories)\n1 tsp brown\
-  \ sugar\n\xBC cup water if needed\n4 Tbsp Fresh cilantro to garnish"
+  1 Tbsp ginger finely grated\n1 \xBD tsp [recipe:Garam Masala]\n1 \xBD tsp ground\
+  \ cumin\n1 tsp turmeric powder\n1 tsp ground coriander\n14 oz (400g) tomato puree\
+  \ (tomato sauce/Passata)\n1 tsp Kashmiri chili (optional for color and flavor)\n\
+  1 tsp ground red chili powder (adjust to your taste preference)\n1 tsp salt\n1 \xBC\
+  \ cups of heavy or thickened cream (use evaporated milk for lower calories)\n1 tsp\
+  \ brown sugar\n\xBC cup water if needed\n4 Tbsp Fresh cilantro to garnish"
 intrash: 0
 name: Braised Chicken Tikka Masala
-notes: null
-nutritional_info: ''
 photo: B77A007F-371B-491E-8599-B3290EEEE89A-26383-0001C3C3637BDDF9.jpg
 photo_large: B04139C8-D6A5-4C26-8F80-FF0B29758812-415-00000263F32582B7.jpg
 photos:
@@ -121,3 +58,50 @@ total_time: ''
 type: _mine
 uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5
 ---
+<div class="large-8 medium-7 columns" id="writeup">		<h4 id="description">Description</h4>
+<div class="box box-description content"><p>Based on <a href="https://cafedelites.com/chicken-tikka-masala/">this recipe from Cafe Delites</a> but changed to use whole chicken, bigger pieces and cooking timing based on the Cook's Illustrated <a href="https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato">Braised Chicken with Basil and Tomato</a> which I find braises chicken and gets it done just right.</p>
+</div>	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li><strong>For the chicken marinade:</strong></li>
+<li>Whole chicken</li>
+<li>1 cup plain yogurt</li>
+<li>1 ½ Tbsp minced garlic</li>
+<li>1 Tbsp ginger</li>
+<li>2 tsp [[Garam-Masala|Garam Masala]]</li>
+<li>1 tsp turmeric</li>
+<li>1 tsp ground cumin</li>
+<li>1 tsp Kashmiri chili (or ½ tsp ground red chili powder)</li>
+<li>1 tsp of salt</li>
+<li><strong>For the sauce:</strong></li>
+<li>2 Tbsp of vegetable/canola oil</li>
+<li>2 Tbsp butter</li>
+<li>2 small onions (or 1 large onion) finely diced</li>
+<li>1 ½Tbsp garlic finely grated</li>
+<li>1 Tbsp ginger finely grated</li>
+<li>1 ½ tsp [[Garam-Masala|Garam Masala]]</li>
+<li>1 ½ tsp ground cumin</li>
+<li>1 tsp turmeric powder</li>
+<li>1 tsp ground coriander</li>
+<li>14 oz (400g) tomato puree (tomato sauce/Passata)</li>
+<li>1 tsp Kashmiri chili (optional for color and flavor)</li>
+<li>1 tsp ground red chili powder (adjust to your taste preference)</li>
+<li>1 tsp salt</li>
+<li>1 ¼ cups of heavy or thickened cream (use evaporated milk for lower calories)</li>
+<li>1 tsp brown sugar</li>
+<li>¼ cup water if needed</li>
+<li>4 Tbsp Fresh cilantro to garnish</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Break down chicken into 10 parts - drum stick, thighs, breast into 4 parts, wings. Save the back and wing tips for stock.</p>
+<p><img src="/images/recipes/3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5/92FE3DF5-3FA1-4CD8-9017-CCED5175EA01-415-0000024726610296.jpg" alt="2" /></p>
+<p>In a bowl, combine chicken with all of the ingredients for the chicken marinade; let marinate overnight.</p>
+<p>Preheat oven to 300ºF.</p>
+<p>Heat oil in a large skillet or pot over medium-high heat and sear chicken pieces. 3 or 4 min per side. Do in batches and do not crowd.</p>
+<p>Melt butter in pan and sauté onions until soft.</p>
+<p>Add garlic and ginger and sauté for 1 minute until fragrant, then add garam masala, cumin, turmeric and coriander. Fry for 20 seconds until fragrant.</p>
+<p>Pour in the tomato puree, chili and salt. Let simmer for about 10-15 minutes, stirring occasionally until sauce thickens.</p>
+<p>Stir in cream and sugar. Pour in the water to thin out the sauce, if needed.</p>
+<p>Put thighs and drumsticks in skin side up and bring to simmer. Cover and cook for 8 minutes. Add broad big pieces skin side down. Cover and cook until big breast pieces have an internal temperature of 105ºF to 115ºF degrees, 3 to 5 minutes.</p>
+<p>Turn big breast pieces skin side up. Add smaller tapered breast pieces, skin side up. Transfer covered pot to oven or simmer and cook until breast pieces have an internal temperature of 150ºF and dark meat is 160ºF, 15 to 30 minutes.</p>
+<p>Garnish with cilantro and serve.</p>
+</div>	</div>

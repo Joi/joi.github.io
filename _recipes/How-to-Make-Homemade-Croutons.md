@@ -8,46 +8,6 @@ created: '2020-08-20 19:19:42'
 created_ts: 1597951182
 description: null
 difficulty: null
-directions: "Preheat oven to 375\xB0F. Line a large baking sheet with parchment paper;\
-  \ set aside.\n\nIn a large bowl, evenly drizzle the olive oil over the bread chunks.\
-  \ Then evenly sprinkle the Italian seasoning, garlic powder, salt and pepper over\
-  \ the bread. Toss gently until well-combined.\n\nSpread the bread cubes out in a\
-  \ single layer on a baking sheet.\n\nBake until golden, turning once halfway through\
-  \ cooking in order to brown all sides of the croutons. Cooking time will depend\
-  \ on the thickness of the cubes, so watch to be sure that they do not burn. (Mine\
-  \ generally take between 15-20 minutes.)\n\nRemove from oven, and let cool completely.\
-  \ Use immediately, or store in an air-tight container for up to 1 week."
-html:
-  description: null
-  directions: "<p>Preheat oven to 375\xB0F. Line a large baking sheet with parchment\
-    \ paper; set aside.</p>\n<p>In a large bowl, evenly drizzle the olive oil over\
-    \ the bread chunks. Then evenly sprinkle the Italian seasoning, garlic powder,\
-    \ salt and pepper over the bread. Toss gently until well-combined.</p>\n<p>Spread\
-    \ the bread cubes out in a single layer on a baking sheet.</p>\n<p>Bake until\
-    \ golden, turning once halfway through cooking in order to brown all sides of\
-    \ the croutons. Cooking time will depend on the thickness of the cubes, so watch\
-    \ to be sure that they do not burn. (Mine generally take between 15-20 minutes.)</p>\n\
-    <p>Remove from oven, and let cool completely. Use immediately, or store in an\
-    \ air-tight container for up to 1 week.</p>\n"
-  ingredients: '<ul>
-
-    <li>1 loaf of bread (about 12 ounces), cut into 3/4-inch cubes</li>
-
-    <li>1/4 cup olive oil</li>
-
-    <li>2 teaspoons Italian seasoning, homemade or store-bought</li>
-
-    <li>1 teaspoon garlic powder</li>
-
-    <li>3/4 teaspoon fine sea salt</li>
-
-    <li>1/2 teaspoon black pepper</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: https://www.gimmesomeoven.com/wp-content/uploads/2011/05/How-To-Make-Homemade-Croutons-Recipe-1-320x480.jpg
 ingredients: '1 loaf of bread (about 12 ounces), cut into 3/4-inch cubes
 
@@ -62,8 +22,6 @@ ingredients: '1 loaf of bread (about 12 ounces), cut into 3/4-inch cubes
   1/2 teaspoon black pepper'
 intrash: 0
 name: How to Make Homemade Croutons
-notes: null
-nutritional_info: null
 photo: 956BA465-93C1-400F-83A6-C79A13E8A519-1160-0000008B3611139C.jpg
 photo_large: null
 photos: []
@@ -77,3 +35,14 @@ total_time: null
 type: null
 uid: F0A88DB0-9EEF-4D37-B48D-E92C27F4FA0B-1160-0000008B1EE49A3B
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 loaf of bread (about 12 ounces), cut into 3/4-inch cubes</li>
+<li>1/4 cup olive oil</li>
+<li>2 teaspoons Italian seasoning, homemade or store-bought</li>
+<li>1 teaspoon garlic powder</li>
+<li>3/4 teaspoon fine sea salt</li>
+<li>1/2 teaspoon black pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

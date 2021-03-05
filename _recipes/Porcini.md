@@ -8,49 +8,11 @@ created: '2021-01-31 12:33:52'
 created_ts: 1612096432
 description: null
 difficulty: null
-directions: 'Porcini are very easy to use, you can just heat some garlic in olive
-  oil and, when oil is hot, add the whole frozen porcini.
-
-
-  When they start to get soft cut them in pieces, add some white wine and finish cooking.
-  At the end you can add parsley, salt and pepper and your porcini are ready to use
-  with tagliatelle or as side.'
-html:
-  description: null
-  directions: '<p>Porcini are very easy to use, you can just heat some garlic in olive
-    oil and, when oil is hot, add the whole frozen porcini.</p>
-
-    <p>When they start to get soft cut them in pieces, add some white wine and finish
-    cooking. At the end you can add parsley, salt and pepper and your porcini are
-    ready to use with tagliatelle or as side.</p>
-
-    '
-  ingredients: '<ul>
-
-    <li>frozen porcini mushrooms</li>
-
-    <li>white wine</li>
-
-    <li>salt</li>
-
-    <li>pepper</li>
-
-    <li>parsley</li>
-
-    <li>olive oil</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "frozen porcini mushrooms \nwhite wine\nsalt\npepper \nparsley \nolive\
   \ oil"
 intrash: 0
 name: Porcini
-notes: null
-nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -64,3 +26,14 @@ total_time: null
 type: null
 uid: 13476F9D-7A43-4D7A-AADA-B1E987D20773-49934-00002509433332EE
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>frozen porcini mushrooms</li>
+<li>white wine</li>
+<li>salt</li>
+<li>pepper</li>
+<li>parsley</li>
+<li>olive oil</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -9,42 +9,6 @@ created: '2020-02-03 15:37:19'
 created_ts: 1580744239
 description: null
 difficulty: null
-directions: 'Combine 2 tablespoons garlic and oil in 8-inch nonstick skillet. Cook
-  over low heat, stirring occasionally, until garlic is pale golden brown, 9 to 12
-  minutes. Off heat, stir in pepper flakes; set aside.
-
-
-  Bring 2 quarts water to boil in large pot. Add pasta and 2 teaspoons salt and cook,
-  stirring frequently, until al dente. Reserve 1 cup cooking water, then drain pasta
-  and return it to pot. Add remaining 1/2 teaspoon garlic, clams, anchovies, lemon
-  juice, reserved garlic-oil mixture, and reserved cooking water. Stir until pasta
-  is well coated with oil and no water remains in bottom of pot. Add Parmesan and
-  parsley and toss to combine. Season with salt and pepper to taste. Serve, passing
-  extra Parmesan separately.'
-html:
-  description: null
-  directions: '<p>Combine 2 tablespoons garlic and oil in 8-inch nonstick skillet.
-    Cook over low heat, stirring occasionally, until garlic is pale golden brown,
-    9 to 12 minutes. Off heat, stir in pepper flakes; set aside.</p>
-
-    <p>Bring 2 quarts water to boil in large pot. Add pasta and 2 teaspoons salt and
-    cook, stirring frequently, until al dente. Reserve 1 cup cooking water, then drain
-    pasta and return it to pot. Add remaining 1/2 teaspoon garlic, clams, anchovies,
-    lemon juice, reserved garlic-oil mixture, and reserved cooking water. Stir until
-    pasta is well coated with oil and no water remains in bottom of pot. Add Parmesan
-    and parsley and toss to combine. Season with salt and pepper to taste. Serve,
-    passing extra Parmesan separately.</p>
-
-    '
-  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>2 tablespoons plus 1/2\
-    \ teaspoon minced garlic</li>\n<li>\xBC cup extra-virgin olive oil</li>\n<li>\xBC\
-    \ teaspoon red pepper flakes</li>\n<li>1 pound spaghetti</li>\n<li>Salt and pepper</li>\n\
-    <li>2 (6 1/2-ounce) cans whole clams, drained and chopped</li>\n<li>4 anchovy\
-    \ fillets, rinsed, patted dry, and minced</li>\n<li>2 teaspoons lemon juice</li>\n\
-    <li>1 \xBD ounces Parmesan, grated (3/4 cup), plus extra for serving</li>\n<li>2\
-    \ tablespoons chopped fresh parsley</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/28098_sfs-garlicky-spaghetti-with-clams-024
 ingredients: "GATHER YOUR INGREDIENTS\n2 tablespoons plus 1/2 teaspoon minced garlic\n\
   \xBC cup extra-virgin olive oil\n\xBC teaspoon red pepper flakes\n1 pound spaghetti\n\
@@ -54,8 +18,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n2 tablespoons plus 1/2 teaspoon minced ga
   \ parsley"
 intrash: 0
 name: Garlicky Spaghetti with Clams
-notes: null
-nutritional_info: null
 photo: 97719EEB-7EB1-4B8A-B99B-0DE4697D4264-408-00004E683BD27F0A.jpg
 photo_large: null
 photos: []
@@ -69,3 +31,19 @@ total_time: null
 type: null
 uid: D07C7EDA-66CF-40A3-9EB4-C415CCB6AC12-408-00004E63C6179E14
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>GATHER YOUR INGREDIENTS</li>
+<li>2 tablespoons plus 1/2 teaspoon minced garlic</li>
+<li>¼ cup extra-virgin olive oil</li>
+<li>¼ teaspoon red pepper flakes</li>
+<li>1 pound spaghetti</li>
+<li>Salt and pepper</li>
+<li>2 (6 1/2-ounce) cans whole clams, drained and chopped</li>
+<li>4 anchovy fillets, rinsed, patted dry, and minced</li>
+<li>2 teaspoons lemon juice</li>
+<li>1 ½ ounces Parmesan, grated (3/4 cup), plus extra for serving</li>
+<li>2 tablespoons chopped fresh parsley</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

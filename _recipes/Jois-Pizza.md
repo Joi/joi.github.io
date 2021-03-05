@@ -7,39 +7,10 @@ created: '2021-02-04 16:00:56'
 created_ts: 1612454456
 description: In progress
 difficulty: ''
-directions: 'Make dough
-
-  Rise dough
-
-  Flatten dough ball
-
-  Add sauce
-
-  Bake until done'
-html:
-  description: '<p>In progress</p>
-
-    '
-  directions: '<p>Make dough
-
-    Rise dough
-
-    Flatten dough ball
-
-    Add sauce
-
-    Bake until done</p>
-
-    '
-  ingredients: null
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: null
 intrash: 0
 name: Joi's Pizza
-notes: null
-nutritional_info: null
 photo: 39E42453-1AD0-41B2-8E33-2AC2C34ABAB3-1700-00007F974F41B7B9.jpg
 photo_large: ABA40A1E-95BA-4C98-89F5-3E6EAF21EE23-1700-00007F9120C6D94D.jpg
 photos:
@@ -80,3 +51,6 @@ total_time: ''
 type: null
 uid: A1E99D4A-2290-4DB8-A6FE-7D304CBE7E39-1700-00007F835E4D8814
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns">	</div>	<div class="medium-6 small-7 columns">	</div>

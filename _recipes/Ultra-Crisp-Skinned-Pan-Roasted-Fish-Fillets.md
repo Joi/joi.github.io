@@ -9,60 +9,11 @@ created: '2020-07-07 23:54:06'
 created_ts: 1594166046
 description: null
 difficulty: ''
-directions: "1. Press the fillets between paper towels to dry all surfaces thoroughly.\
-  \ Season on both sides with salt and pepper. Heat the oil in a large heavy-bottomed\
-  \ stainless steel skillet over medium-high heat until shimmering. And the fish fillets\
-  \ skin side down, immediately reduce the heat to medium-low, and cook, pressing\
-  \ gently on the back of the fillets with a flexible metal fish spatula to ensure\
-  \ good contact between skin and pan for the first minute. Then continue cooking\
-  \ until the skin has rendered its fat and is crisp, about 5 minutes longer. If the\
-  \ skin shows resistance when you attempt to lift the fish with a spatula, allow\
-  \ it to continue to cook until it lifts easily.\n\r2. Flip the fish and cook on\
-  \ the second side until an instant-read thermometer inserted into the thickest part\
-  \ registers 120\xB0F for medium-rare, or 130\xB0F for medium, about 1 minute longer.\
-  \ Transfer the fish to a paper-towel-lined plate and allow to rest for 5 minutes\
-  \ before serving."
-html:
-  description: null
-  directions: "<ol>\n<li>\n<p>Press the fillets between paper towels to dry all surfaces\
-    \ thoroughly. Season on both sides with salt and pepper. Heat the oil in a large\
-    \ heavy-bottomed stainless steel skillet over medium-high heat until shimmering.\
-    \ And the fish fillets skin side down, immediately reduce the heat to medium-low,\
-    \ and cook, pressing gently on the back of the fillets with a flexible metal fish\
-    \ spatula to ensure good contact between skin and pan for the first minute. Then\
-    \ continue cooking until the skin has rendered its fat and is crisp, about 5 minutes\
-    \ longer. If the skin shows resistance when you attempt to lift the fish with\
-    \ a spatula, allow it to continue to cook until it lifts easily.</p>\n</li>\n\
-    <li>\n<p>Flip the fish and cook on the second side until an instant-read thermometer\
-    \ inserted into the thickest part registers 120\xB0F for medium-rare, or 130\xB0\
-    F for medium, about 1 minute longer. Transfer the fish to a paper-towel-lined\
-    \ plate and allow to rest for 5 minutes before serving.</p>\n</li>\n</ol>\n"
-  ingredients: '<ul>
-
-    <li>4 skin-on fish fillets (about 6 ounces each)
-
-    Kosher salt and freshly ground black pepper
-
-    2 tablespoons vegetable or canola oil</li>
-
-    </ul>
-
-    '
-  notes: '<p>NOTE: This recipe will work with any skin-on firm-fleshed fish fillets,
-    such as salmon, snapper, grouper, or bass. I prefer salmon rare to medium-rare;
-    white-fleshed fish should be cooked at least to medium.</p>
-
-    '
-  nutrition: null
 image_url: null
 ingredients: "4 skin-on fish fillets (about 6 ounces each)\rKosher salt and freshly\
   \ ground black pepper\r2 tablespoons vegetable or canola oil"
 intrash: 0
 name: Ultra-Crisp-Skinned Pan-Roasted Fish Fillets
-notes: 'NOTE: This recipe will work with any skin-on firm-fleshed fish fillets, such
-  as salmon, snapper, grouper, or bass. I prefer salmon rare to medium-rare; white-fleshed
-  fish should be cooked at least to medium.'
-nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -76,4 +27,11 @@ total_time: ''
 type: null
 uid: 64FEAA52-EFFC-4743-9B48-B166957247B3-631-00024AE4C1521CED
 ---
-NOTE: This recipe will work with any skin-on firm-fleshed fish fillets, such as salmon, snapper, grouper, or bass. I prefer salmon rare to medium-rare; white-fleshed fish should be cooked at least to medium.
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>4 skin-on fish fillets (about 6 ounces each)
+Kosher salt and freshly ground black pepper
+2 tablespoons vegetable or canola oil</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

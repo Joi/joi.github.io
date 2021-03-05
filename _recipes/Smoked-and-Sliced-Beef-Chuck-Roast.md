@@ -9,66 +9,6 @@ created: '2020-10-16 23:48:44'
 created_ts: 1602892124
 description: null
 difficulty: null
-directions: "1) Prep. Season the chuck roast with Kosher salt. If you can, give the\
-  \ salt 1 to 2 hours to be absorbed. The process of salting in advance is called\
-  \ dry brining. The rule of thumb is 1/2 teaspoon of kosher salt per pound of meat,\
-  \ but you can simply eyeball it by sprinkling on the same amount of salt you would\
-  \ sprinkle on a steak.\n\n2) Fire up. Prepare a smoker for indirect cooking. Alternatively,\
-  \ you can set up a charcoal grill for 2-zone cooking by placing a chimney full of\
-  \ hot charcoal briquets on one side of the grill's charcoal grate in order to create\
-  \ direct and indirect cooking zones. Adjust the smoker or grill vents to bring the\
-  \ temperature to about 225\xB0F in the indirect zone and add 2 to 3 chunks of your\
-  \ favorite smoking wood to the charcoal for flavor. On a gas grill, adjust the temperature\
-  \ knobs so that one half of the grill is off (the indirect side) and the other half\
-  \ is heated enough to maintain a temperature of approximately 225\xB0F on the indirect\
-  \ side.\n\n3) Once the smoker or grill is ready, season the chuck roast with coarsely\
-  \ ground black pepper.\n\n4) Cook. Place the chuck roast in the indirect zone on\
-  \ the main cooking grate as far away from the heat source as possible. Set the lid\
-  \ on the grill with the top vent fully open and positioned directly above the chuck\
-  \ roast in order to force the smoke over and around the meat.\n\n5) Allow the chuck\
-  \ roast to smoke until it reaches an internal temperature of 180\xB0F (we recommended\
-  \ using an instant read thermometer such as the ThermoWorks Thermapen Mk4 for the\
-  \ most accurate temperature readings).\n\n6) Serve. Remove the chuck roast from\
-  \ the smoker or grill. Slice and serve."
-html:
-  description: null
-  directions: "<ol>\n<li>\n<p>Prep. Season the chuck roast with Kosher salt. If you\
-    \ can, give the salt 1 to 2 hours to be absorbed. The process of salting in advance\
-    \ is called dry brining. The rule of thumb is 1/2 teaspoon of kosher salt per\
-    \ pound of meat, but you can simply eyeball it by sprinkling on the same amount\
-    \ of salt you would sprinkle on a steak.</p>\n</li>\n<li>\n<p>Fire up. Prepare\
-    \ a smoker for indirect cooking. Alternatively, you can set up a charcoal grill\
-    \ for 2-zone cooking by placing a chimney full of hot charcoal briquets on one\
-    \ side of the grill's charcoal grate in order to create direct and indirect cooking\
-    \ zones. Adjust the smoker or grill vents to bring the temperature to about 225\xB0\
-    F in the indirect zone and add 2 to 3 chunks of your favorite smoking wood to\
-    \ the charcoal for flavor. On a gas grill, adjust the temperature knobs so that\
-    \ one half of the grill is off (the indirect side) and the other half is heated\
-    \ enough to maintain a temperature of approximately 225\xB0F on the indirect side.</p>\n\
-    </li>\n<li>\n<p>Once the smoker or grill is ready, season the chuck roast with\
-    \ coarsely ground black pepper.</p>\n</li>\n<li>\n<p>Cook. Place the chuck roast\
-    \ in the indirect zone on the main cooking grate as far away from the heat source\
-    \ as possible. Set the lid on the grill with the top vent fully open and positioned\
-    \ directly above the chuck roast in order to force the smoke over and around the\
-    \ meat.</p>\n</li>\n<li>\n<p>Allow the chuck roast to smoke until it reaches an\
-    \ internal temperature of 180\xB0F (we recommended using an instant read thermometer\
-    \ such as the ThermoWorks Thermapen Mk4 for the most accurate temperature readings).</p>\n\
-    </li>\n<li>\n<p>Serve. Remove the chuck roast from the smoker or grill. Slice\
-    \ and serve.</p>\n</li>\n</ol>\n"
-  ingredients: '<ul>
-
-    <li>1 beef chuck roast with or without bone (approximately 3 pounds)</li>
-
-    <li>1/2 teaspoon Morton''s coarse kosher salt per pound of meat (read more about
-    the science of salt here)</li>
-
-    <li>Coarsely ground black pepper</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: https://amazingribs.com/files/styles/content_body_600px/public/smoked-and-sliced-chuck-roast.jpg?itok=qMvzK8oO
 ingredients: '1 beef chuck roast with or without bone (approximately 3 pounds)
 
@@ -78,8 +18,6 @@ ingredients: '1 beef chuck roast with or without bone (approximately 3 pounds)
   Coarsely ground black pepper'
 intrash: 0
 name: Smoked and Sliced Beef Chuck Roast
-notes: null
-nutritional_info: null
 photo: 94640A87-037E-4CA7-A384-7EE7F9BA89FB-60850-000021BB0D97FF21.jpg
 photo_large: null
 photos: []
@@ -93,3 +31,11 @@ total_time: null
 type: null
 uid: F72115CA-0E79-4216-98A1-70D07F6B394A-60850-000021BAF7931CC1
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 beef chuck roast with or without bone (approximately 3 pounds)</li>
+<li>1/2 teaspoon Morton's coarse kosher salt per pound of meat (read more about the science of salt here)</li>
+<li>Coarsely ground black pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -8,53 +8,6 @@ created: '2020-09-28 17:56:49'
 created_ts: 1601315809
 description: ''
 difficulty: ''
-directions: 'Mix the raisins and vinegar together and set aside.
-
-
-  Trim the livers of any membranes or connective tissue. Cut the pairs in half, making
-  all the pieces as uniform as possible. Pat the livers dry on paper towels.
-
-
-  Heat the oil in a large, heavy skillet. Add onions and saute slowly, over low heat,
-  until golden and tender, about 20 minutes. Transfer onions to a bowl, draining as
-  much of the oil as possible into skillet.
-
-
-  Increase the heat to high, add the livers and cook them very quickly, moving them
-  around in the oil, for three to five minutes until they begin to brown but are still
-  pink inside. Season with salt and pepper.
-
-
-  Sprinkle with sage and wine and the raisins and vinegar. Reduce heat to low, return
-  onions to pan, mix them in to reheat. Serve liver and onions moistened with the
-  pan juices.'
-html:
-  description: null
-  directions: '<p>Mix the raisins and vinegar together and set aside.</p>
-
-    <p>Trim the livers of any membranes or connective tissue. Cut the pairs in half,
-    making all the pieces as uniform as possible. Pat the livers dry on paper towels.</p>
-
-    <p>Heat the oil in a large, heavy skillet. Add onions and saute slowly, over low
-    heat, until golden and tender, about 20 minutes. Transfer onions to a bowl, draining
-    as much of the oil as possible into skillet.</p>
-
-    <p>Increase the heat to high, add the livers and cook them very quickly, moving
-    them around in the oil, for three to five minutes until they begin to brown but
-    are still pink inside. Season with salt and pepper.</p>
-
-    <p>Sprinkle with sage and wine and the raisins and vinegar. Reduce heat to low,
-    return onions to pan, mix them in to reheat. Serve liver and onions moistened
-    with the pan juices.</p>
-
-    '
-  ingredients: "<ul>\n<li>2 tablespoons raisins</li>\n<li>2 tablespoons Balsamic vinegar</li>\n\
-    <li>1 \u2153 pounds chicken livers</li>\n<li>4 tablespoons extra-virgin olive\
-    \ oil</li>\n<li>3 cups thinly sliced onions</li>\n<li>Salt and freshly ground\
-    \ black pepper</li>\n<li>\xBD teaspoon fresh sage leaves (or 1/4 teaspoon dried\
-    \ sage)</li>\n<li>1 tablespoon dry white wine</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://static01.nyt.com/applications/cooking/b035550/assets/NYTCookingLogo.png
 ingredients: "2 tablespoons raisins\n2 tablespoons Balsamic vinegar\n1 \u2153 pounds\
   \ chicken livers\n4 tablespoons extra-virgin olive oil\n3 cups thinly sliced onions\n\
@@ -62,8 +15,6 @@ ingredients: "2 tablespoons raisins\n2 tablespoons Balsamic vinegar\n1 \u2153 po
   \ dried sage)\n1 tablespoon dry white wine"
 intrash: 0
 name: Chicken Livers and Onions, Venetian Style
-notes: ''
-nutritional_info: ''
 photo: 3CE36D67-FE5B-4702-8BDD-65FAD29EFCC7-50715-000DDC04A6AABB3E.jpg
 photo_large: null
 photos: []
@@ -77,3 +28,16 @@ total_time: ''
 type: null
 uid: 571A421D-07BA-47AD-ABD9-24C2D0BE237F-50715-000DDC013E0851CF
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>2 tablespoons raisins</li>
+<li>2 tablespoons Balsamic vinegar</li>
+<li>1 ⅓ pounds chicken livers</li>
+<li>4 tablespoons extra-virgin olive oil</li>
+<li>3 cups thinly sliced onions</li>
+<li>Salt and freshly ground black pepper</li>
+<li>½ teaspoon fresh sage leaves (or 1/4 teaspoon dried sage)</li>
+<li>1 tablespoon dry white wine</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

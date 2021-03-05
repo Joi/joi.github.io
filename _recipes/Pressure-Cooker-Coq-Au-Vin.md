@@ -8,101 +8,6 @@ created: '2020-09-17 15:30:25'
 created_ts: 1600356625
 description: null
 difficulty: null
-directions: "Select saute setting on a 6-qt. electric pressure cooker. Adjust for\
-  \ medium heat; add bacon. Cook and stir until crisp. Remove with a slotted spoon;\
-  \ drain on paper towels. Discard drippings, reserving 1 tablespoon in pressure cooker.\
-  \ Brown chicken on both sides in reserved drippings; remove and set aside., Add\
-  \ onion, tomato paste and garlic to pressure cooker; cook and stir 5 minutes. Add\
-  \ wine; cook 2 minutes. Press cancel., Add chicken, carrots, mushrooms, broth, thyme,\
-  \ bay leaves, salt and pepper to pressure cooker. Lock lid; close pressure-release\
-  \ valve. Adjust to pressure-cook on high for 5 minutes. Quick-release pressure.\
-  \ A thermometer inserted in chicken should read at least 170\xB0. , Remove chicken\
-  \ and vegetables to a serving platter; keep warm. Discard thyme and bay leaves.\
-  \ Select saute setting and adjust for low heat. Simmer cooking juices, stirring\
-  \ constantly, until reduced by half, 10-15 minutes. Stir in bacon. Serve with chicken\
-  \ and vegetables., , Slow-cooker option: In a large skillet, cook bacon over medium\
-  \ heat until crisp, stirring occasionally. Remove with a slotted spoon; drain on\
-  \ paper towels. Discard drippings, reserving 1 tablespoon in pan. Brown chicken\
-  \ on both sides in reserved drippings; remove and set aside. Add onion, tomato paste\
-  \ and garlic to skillet; cook and stir over medium-high heat 5 minutes. Add wine;\
-  \ cook 2 minutes. Transfer to a 4- or 5-qt. slow cooker., Add chicken, carrots,\
-  \ mushrooms, broth, thyme, bay leaves, salt and pepper. Cook, covered, on low 6-7\
-  \ hours or until chicken is tender. , Remove chicken and vegetables to a serving\
-  \ platter; keep warm. Discard thyme and bay leaves. Transfer cooking juices to a\
-  \ large saucepan. Bring to a boil; cook until liquid is reduced by half, 10-15 minutes.\
-  \ Stir in bacon. Serve with chicken and vegetables."
-html:
-  description: null
-  directions: "<p>Select saute setting on a 6-qt. electric pressure cooker. Adjust\
-    \ for medium heat; add bacon. Cook and stir until crisp. Remove with a slotted\
-    \ spoon; drain on paper towels. Discard drippings, reserving 1 tablespoon in pressure\
-    \ cooker. Brown chicken on both sides in reserved drippings; remove and set aside.,\
-    \ Add onion, tomato paste and garlic to pressure cooker; cook and stir 5 minutes.\
-    \ Add wine; cook 2 minutes. Press cancel., Add chicken, carrots, mushrooms, broth,\
-    \ thyme, bay leaves, salt and pepper to pressure cooker. Lock lid; close pressure-release\
-    \ valve. Adjust to pressure-cook on high for 5 minutes. Quick-release pressure.\
-    \ A thermometer inserted in chicken should read at least 170\xB0. , Remove chicken\
-    \ and vegetables to a serving platter; keep warm. Discard thyme and bay leaves.\
-    \ Select saute setting and adjust for low heat. Simmer cooking juices, stirring\
-    \ constantly, until reduced by half, 10-15 minutes. Stir in bacon. Serve with\
-    \ chicken and vegetables., , Slow-cooker option: In a large skillet, cook bacon\
-    \ over medium heat until crisp, stirring occasionally. Remove with a slotted spoon;\
-    \ drain on paper towels. Discard drippings, reserving 1 tablespoon in pan. Brown\
-    \ chicken on both sides in reserved drippings; remove and set aside. Add onion,\
-    \ tomato paste and garlic to skillet; cook and stir over medium-high heat 5 minutes.\
-    \ Add wine; cook 2 minutes. Transfer to a 4- or 5-qt. slow cooker., Add chicken,\
-    \ carrots, mushrooms, broth, thyme, bay leaves, salt and pepper. Cook, covered,\
-    \ on low 6-7 hours or until chicken is tender. , Remove chicken and vegetables\
-    \ to a serving platter; keep warm. Discard thyme and bay leaves. Transfer cooking\
-    \ juices to a large saucepan. Bring to a boil; cook until liquid is reduced by\
-    \ half, 10-15 minutes. Stir in bacon. Serve with chicken and vegetables.</p>\n"
-  ingredients: '<ul>
-
-    <li>3 thick-sliced bacon strips, chopped</li>
-
-    <li>1-1/2 pounds boneless skinless chicken thighs</li>
-
-    <li>1 medium onion, chopped</li>
-
-    <li>2 tablespoons tomato paste</li>
-
-    <li>5 garlic cloves, minced</li>
-
-    <li>1-1/2 cups dry red wine or reduced-sodium chicken broth</li>
-
-    <li>4 medium carrots, chopped</li>
-
-    <li>2 cups sliced baby portobello mushrooms</li>
-
-    <li>1 cup reduced-sodium chicken broth</li>
-
-    <li>4 fresh thyme sprigs</li>
-
-    <li>2 bay leaves</li>
-
-    <li>1/2 teaspoon kosher salt</li>
-
-    <li>1/4 teaspoon pepper</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: '<p>Fat: 11g fat (3g saturated fat)
-
-    Calories: 244 calories
-
-    Sodium: 356mg sodium
-
-    Fiber: 2g fiber)
-
-    Carbohydrate: 9g carbohydrate (4g sugars
-
-    Cholesterol: 78mg cholesterol
-
-    Protein: 23g protein. Diabetic exchanges: 3 lean meat</p>
-
-    '
 image_url: https://www.tasteofhome.com/wp-content/uploads/2019/08/Pressure-Cooker-Coq-au-Vin-_EXPS_TOHON19_237444_B06_05_1b-696x696.jpg
 ingredients: '3 thick-sliced bacon strips, chopped
 
@@ -131,20 +36,6 @@ ingredients: '3 thick-sliced bacon strips, chopped
   1/4 teaspoon pepper'
 intrash: 0
 name: Pressure-Cooker Coq Au Vin
-notes: null
-nutritional_info: 'Fat: 11g fat (3g saturated fat)
-
-  Calories: 244 calories
-
-  Sodium: 356mg sodium
-
-  Fiber: 2g fiber)
-
-  Carbohydrate: 9g carbohydrate (4g sugars
-
-  Cholesterol: 78mg cholesterol
-
-  Protein: 23g protein. Diabetic exchanges: 3 lean meat'
 photo: 4ED13BAC-BCB3-40FA-82D7-8567A0B20E6D-15576-0000095A0255EA8B.jpg
 photo_large: null
 photos: []
@@ -158,3 +49,21 @@ total_time: null
 type: null
 uid: 73E5BCE3-92E4-4ECB-B5FF-825894F9C231-15576-00000959F8EA5EE2
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>3 thick-sliced bacon strips, chopped</li>
+<li>1-1/2 pounds boneless skinless chicken thighs</li>
+<li>1 medium onion, chopped</li>
+<li>2 tablespoons tomato paste</li>
+<li>5 garlic cloves, minced</li>
+<li>1-1/2 cups dry red wine or reduced-sodium chicken broth</li>
+<li>4 medium carrots, chopped</li>
+<li>2 cups sliced baby portobello mushrooms</li>
+<li>1 cup reduced-sodium chicken broth</li>
+<li>4 fresh thyme sprigs</li>
+<li>2 bay leaves</li>
+<li>1/2 teaspoon kosher salt</li>
+<li>1/4 teaspoon pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

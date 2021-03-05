@@ -8,55 +8,6 @@ created: '2021-01-19 12:47:22'
 created_ts: 1611060442
 description: null
 difficulty: null
-directions: "Clean the skate and lightly season with salt.\n\nCombine the sauce ingredients\
-  \ and mix well until the sugar is dissolved.\n\nFill a large pot with about two\
-  \ inches of water. Place a steamer on top. If no steamer is available, place a small\
-  \ heat proof baking dish or ramekin that can keep a large plate high enough not\
-  \ to touch the water, and then place a heat proof large plate on top. When the water\
-  \ starts to steam, add the fish and cover. Steam for about 8 to 10 minutes.\n\n\
-  Open the lid, and spoon the sauce all over the fish. Cover, and steam for 2 to 3\
-  \ more minutes. It\u2019s done if the flesh separates from the cartilage easily.\
-  \ Remove from the pot and place the optional scallion while the fish is still hot.\n\
-  \nParchment paper method\n\nPreheat the oven to 450\xB0F. Cut two pieces of parchment\
-  \ paper that\u2019s large enough to completely wrap the fish and leave extra for\
-  \ the folds. On a baking sheet, place the fish in the middle of the double layered\
-  \ parchment paper. You can add some lemon slices if you want. Bring the two long\
-  \ sides together and fold a couple of times to seal tightly. Next, fold and roll\
-  \ the shorter sides, and then tuck each one under the fish to seal the packet.\n\
-  \nBake the fish for about 8 to 10 minutes. Carefully open the packet, and spoon\
-  \ the sauce all over the fish. Return it to the oven, and cook for 2 to 3 minutes."
-html:
-  description: null
-  directions: "<p>Clean the skate and lightly season with salt.</p>\n<p>Combine the\
-    \ sauce ingredients and mix well until the sugar is dissolved.</p>\n<p>Fill a\
-    \ large pot with about two inches of water. Place a steamer on top. If no steamer\
-    \ is available, place a small heat proof baking dish or ramekin that can keep\
-    \ a large plate high enough not to touch the water, and then place a heat proof\
-    \ large plate on top. When the water starts to steam, add the fish and cover.\
-    \ Steam for about 8 to 10 minutes.</p>\n<p>Open the lid, and spoon the sauce all\
-    \ over the fish. Cover, and steam for 2 to 3 more minutes. It\u2019s done if the\
-    \ flesh separates from the cartilage easily. Remove from the pot and place the\
-    \ optional scallion while the fish is still hot.</p>\n<p>Parchment paper method</p>\n\
-    <p>Preheat the oven to 450\xB0F. Cut two pieces of parchment paper that\u2019\
-    s large enough to completely wrap the fish and leave extra for the folds. On a\
-    \ baking sheet, place the fish in the middle of the double layered parchment paper.\
-    \ You can add some lemon slices if you want. Bring the two long sides together\
-    \ and fold a couple of times to seal tightly. Next, fold and roll the shorter\
-    \ sides, and then tuck each one under the fish to seal the packet.</p>\n<p>Bake\
-    \ the fish for about 8 to 10 minutes. Carefully open the packet, and spoon the\
-    \ sauce all over the fish. Return it to the oven, and cook for 2 to 3 minutes.</p>\n"
-  ingredients: "<ul>\n<li>1 skate wing hongeo \uD64D\uC5B4 (about 3/4 to 1-1/4 pounds)</li>\n\
-    <li>salt</li>\n<li>Sauce</li>\n<li>1 scallion finely chopped (about 2 tablespoons)</li>\n\
-    <li>1 teaspoon minced garlic</li>\n<li>1/4 teaspoon ginger</li>\n<li>2 tablespoons\
-    \ soy sauce</li>\n<li>1 tablespoon rice wine or mirin or white wine</li>\n<li>1\
-    \ tablespoon lemon juice</li>\n<li>1/2 tablespoon sugar or 1 tablespoon corn syrup\
-    \ or oligodang, \uC62C\uB9AC\uACE0\uB2F9</li>\n<li>1/2 teaspoon gochugaru \uACE0\
-    \uCD94\uAC00\uB8E8 Korean red chili pepper flakes</li>\n<li>1/2 tablespoon sesame\
-    \ oil</li>\n<li>1/4 teaspoon sesame seeds</li>\n<li>Pinch pepper</li>\n<li>Optional\
-    \ Garnish</li>\n<li>1 scallion cut into about 4 inches and thinly sliced (pachae,\
-    \ \uD30C\uCC44)</li>\n<li>or a handful of spring mix or arugula</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://www.koreanbapsang.com/wp-content/uploads/2017/02/DSC_1847-e1486346972772-640x428.jpg
 ingredients: "1 skate wing hongeo \uD64D\uC5B4 (about 3/4 to 1-1/4 pounds)\nsalt\n\
   Sauce\n1 scallion finely chopped (about 2 tablespoons)\n1 teaspoon minced garlic\n\
@@ -68,8 +19,6 @@ ingredients: "1 skate wing hongeo \uD64D\uC5B4 (about 3/4 to 1-1/4 pounds)\nsalt
   \ and thinly sliced (pachae, \uD30C\uCC44)\nor a handful of spring mix or arugula"
 intrash: 0
 name: Hongeojjim (Steamed Skate Fish)
-notes: null
-nutritional_info: null
 photo: D06AF7D7-3B3D-41F4-B49F-8027C8258539-23424-0000117ABD42D6F0.jpg
 photo_large: null
 photos: []
@@ -83,3 +32,25 @@ total_time: null
 type: null
 uid: F9B9AC8D-9A56-4FCF-B8AD-DBC5883FEECD-23424-0000117A9AA52104
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 skate wing hongeo 홍어 (about 3/4 to 1-1/4 pounds)</li>
+<li>salt</li>
+<li>Sauce</li>
+<li>1 scallion finely chopped (about 2 tablespoons)</li>
+<li>1 teaspoon minced garlic</li>
+<li>1/4 teaspoon ginger</li>
+<li>2 tablespoons soy sauce</li>
+<li>1 tablespoon rice wine or mirin or white wine</li>
+<li>1 tablespoon lemon juice</li>
+<li>1/2 tablespoon sugar or 1 tablespoon corn syrup or oligodang, 올리고당</li>
+<li>1/2 teaspoon gochugaru 고추가루 Korean red chili pepper flakes</li>
+<li>1/2 tablespoon sesame oil</li>
+<li>1/4 teaspoon sesame seeds</li>
+<li>Pinch pepper</li>
+<li>Optional Garnish</li>
+<li>1 scallion cut into about 4 inches and thinly sliced (pachae, 파채)</li>
+<li>or a handful of spring mix or arugula</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

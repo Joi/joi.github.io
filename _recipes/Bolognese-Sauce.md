@@ -11,38 +11,6 @@ created: '2020-09-11 21:58:08'
 created_ts: 1599861488
 description: null
 difficulty: ''
-directions: "[photo:7]\n\nMix tomatoes, tomato paste, basil, oregano, parsley and\
-  \ garlic in a bowl with immersion blender.\n\n[photo:11]\n\nHeat olive oil and saut\xE9\
-  \ bacon. \n\n[photo:5]\n\nSaut\xE9 onions, carrots, and celery, until soft.\n\n\
-  [photo:15]\n\nAdd meat, break apart and allow fluid to evaporate if any.\n\nAdd\
-  \ wine and deglaze and allow wine to evaporate.\n\nAdd tomato mixture and stir.\n\
-  \nPressure cook for 20 min.\n\nQuick release and then simmer on low saut\xE9 setting\
-  \ until thickness is right.\n\nAdd heavy cream and parmesan.\n"
-html:
-  description: null
-  directions: "<p><img src=\"/images/recipes/8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1/1E6991E5-ED6C-4276-8086-9E10EC2BB9F5-8894-00003E763484BF79.jpg\"\
-    \ alt=\"7\" /></p>\n<p>Mix tomatoes, tomato paste, basil, oregano, parsley and\
-    \ garlic in a bowl with immersion blender.</p>\n<p><img src=\"/images/recipes/8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1/0147FADB-1CCD-41E5-82AE-89E605BB5A31-8894-00003E77E8AED551.jpg\"\
-    \ alt=\"11\" /></p>\n<p>Heat olive oil and saut\xE9 bacon.</p>\n<p><img src=\"\
-    /images/recipes/8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1/1269A7C2-593F-40F1-B9F7-35FA491517E9-8894-00003E7543F5B0CC.jpg\"\
-    \ alt=\"5\" /></p>\n<p>Saut\xE9 onions, carrots, and celery, until soft.</p>\n\
-    <p><img src=\"/images/recipes/8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1/39CB9C8B-73A1-40DD-A648-4A289FC2F21A-8894-00003E7995A60C31.jpg\"\
-    \ alt=\"15\" /></p>\n<p>Add meat, break apart and allow fluid to evaporate if\
-    \ any.</p>\n<p>Add wine and deglaze and allow wine to evaporate.</p>\n<p>Add tomato\
-    \ mixture and stir.</p>\n<p>Pressure cook for 20 min.</p>\n<p>Quick release and\
-    \ then simmer on low saut\xE9 setting until thickness is right.</p>\n<p>Add heavy\
-    \ cream and parmesan.</p>\n"
-  ingredients: "<ul>\n<li>1 Tbsp olive oil</li>\n<li>1 \xBD cups diced yellow onion</li>\n\
-    <li>\xBD cup diced carrots</li>\n<li>\xBD cup diced celery</li>\n<li>1 lb ground\
-    \ beef chuck</li>\n<li>\xBD lb ground pork</li>\n<li>4 oz diced bacon</li>\n<li>4\
-    \ cloves garlic, minced</li>\n<li>2 tablespoons tomato paste</li>\n<li>\xBD cup\
-    \ dry red wine</li>\n<li>28 oz of tomatoes</li>\n<li>\xBD cup Italian parsley</li>\n\
-    <li>\xBD cup basil</li>\n<li>Fresh oregano</li>\n<li>\xBC cup heavy cream</li>\n\
-    <li>parmesan cheese</li>\n<li>pinch ground nutmeg</li>\n<li>bay leaves</li>\n\
-    <li>mirin</li>\n<li>fish sauce</li>\n<li>kosher salt and freshly-ground black\
-    \ pepper</li>\n<li></li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "1 Tbsp olive oil\n1 \xBD cups diced yellow onion\n\xBD cup diced carrots\n\
   \xBD cup diced celery\n1 lb ground beef chuck\n\xBD lb ground pork\n4 oz diced bacon\n\
@@ -52,8 +20,6 @@ ingredients: "1 Tbsp olive oil\n1 \xBD cups diced yellow onion\n\xBD cup diced c
   kosher salt and freshly-ground black pepper\n"
 intrash: 0
 name: Bolognese Sauce
-notes: null
-nutritional_info: null
 photo: B5DEB0CE-E531-4A2A-B04F-80BB60BF7B33-37413-00001BE78EA81623.jpg
 photo_large: 2C7DEBA0-584E-491C-99E2-531EC9F06995-37413-00001BE77E34EAAB.jpg
 photos:
@@ -112,3 +78,43 @@ total_time: ''
 type: _mine
 uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 Tbsp olive oil</li>
+<li>1 ½ cups diced yellow onion</li>
+<li>½ cup diced carrots</li>
+<li>½ cup diced celery</li>
+<li>1 lb ground beef chuck</li>
+<li>½ lb ground pork</li>
+<li>4 oz diced bacon</li>
+<li>4 cloves garlic, minced</li>
+<li>2 tablespoons tomato paste</li>
+<li>½ cup dry red wine</li>
+<li>28 oz of tomatoes</li>
+<li>½ cup Italian parsley</li>
+<li>½ cup basil</li>
+<li>Fresh oregano</li>
+<li>¼ cup heavy cream</li>
+<li>parmesan cheese</li>
+<li>pinch ground nutmeg</li>
+<li>bay leaves</li>
+<li>mirin</li>
+<li>fish sauce</li>
+<li>kosher salt and freshly-ground black pepper</li>
+<li></li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1/1E6991E5-ED6C-4276-8086-9E10EC2BB9F5-8894-00003E763484BF79.jpg" alt="7" /></p>
+<p>Mix tomatoes, tomato paste, basil, oregano, parsley and garlic in a bowl with immersion blender.</p>
+<p><img src="/images/recipes/8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1/0147FADB-1CCD-41E5-82AE-89E605BB5A31-8894-00003E77E8AED551.jpg" alt="11" /></p>
+<p>Heat olive oil and sauté bacon.</p>
+<p><img src="/images/recipes/8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1/1269A7C2-593F-40F1-B9F7-35FA491517E9-8894-00003E7543F5B0CC.jpg" alt="5" /></p>
+<p>Sauté onions, carrots, and celery, until soft.</p>
+<p><img src="/images/recipes/8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1/39CB9C8B-73A1-40DD-A648-4A289FC2F21A-8894-00003E7995A60C31.jpg" alt="15" /></p>
+<p>Add meat, break apart and allow fluid to evaporate if any.</p>
+<p>Add wine and deglaze and allow wine to evaporate.</p>
+<p>Add tomato mixture and stir.</p>
+<p>Pressure cook for 20 min.</p>
+<p>Quick release and then simmer on low sauté setting until thickness is right.</p>
+<p>Add heavy cream and parmesan.</p>
+</div>	</div>

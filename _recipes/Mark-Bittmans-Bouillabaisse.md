@@ -11,54 +11,6 @@ created: '2020-10-09 00:44:04'
 created_ts: 1602204244
 description: ''
 difficulty: ''
-directions: "Heat oven to 400 degrees; brush bread liberally with olive oil, and bake\
-  \ on a sheet, turning once, until golden and crisp, about 5 minutes. Set aside.\n\
-  \nAdd enough olive oil to a Dutch oven, deep skillet or shallow pot to make a thick\
-  \ layer (don't skimp) on the bottom. In it, cook onion, garlic, celery, carrot,\
-  \ potato, fennel and saffron until glossy. Add stock and tomato and bring to a moderate\
-  \ boil; cook until thick and stewy rather than soupy. Season to taste; it should\
-  \ be so delicious that you don\u2019t even care whether you add fish.\n\nLower heat\
-  \ to a simmer, and, as you add fish, adjust heat so that the liquid continues to\
-  \ bubble gently. Add fish in order of how long they will take to cook. Monkfish,\
-  \ striped bass and squid are fish that might require more than a few minutes, so\
-  \ add them first. About five minutes later add clams and mussels, holding back any\
-  \ fish that has been cooked or will cook in a flash. When mollusks open, add remaining\
-  \ fish. Cut scallops into quarters and place in the bottom of 4 bowls.\n\nAdd pastis\
-  \ if you're using it; taste and adjust seasoning. Ladle hot soup and fish over the\
-  \ scallops, distributing clams and mussels evenly. Garnish and serve with croutons\
-  \ and rouille, if you're using."
-html:
-  description: null
-  directions: "<p>Heat oven to 400 degrees; brush bread liberally with olive oil,\
-    \ and bake on a sheet, turning once, until golden and crisp, about 5 minutes.\
-    \ Set aside.</p>\n<p>Add enough olive oil to a Dutch oven, deep skillet or shallow\
-    \ pot to make a thick layer (don't skimp) on the bottom. In it, cook onion, garlic,\
-    \ celery, carrot, potato, fennel and saffron until glossy. Add stock and tomato\
-    \ and bring to a moderate boil; cook until thick and stewy rather than soupy.\
-    \ Season to taste; it should be so delicious that you don\u2019t even care whether\
-    \ you add fish.</p>\n<p>Lower heat to a simmer, and, as you add fish, adjust heat\
-    \ so that the liquid continues to bubble gently. Add fish in order of how long\
-    \ they will take to cook. Monkfish, striped bass and squid are fish that might\
-    \ require more than a few minutes, so add them first. About five minutes later\
-    \ add clams and mussels, holding back any fish that has been cooked or will cook\
-    \ in a flash. When mollusks open, add remaining fish. Cut scallops into quarters\
-    \ and place in the bottom of 4 bowls.</p>\n<p>Add pastis if you're using it; taste\
-    \ and adjust seasoning. Ladle hot soup and fish over the scallops, distributing\
-    \ clams and mussels evenly. Garnish and serve with croutons and rouille, if you're\
-    \ using.</p>\n"
-  ingredients: "<ul>\n<li>Good olive oil, as needed</li>\n<li>4 to 8 thick slices\
-    \ good bread</li>\n<li>1 onion, chopped</li>\n<li>4 cloves garlic, chopped</li>\n\
-    <li>2 celery stalks, trimmed and chopped</li>\n<li>1 carrot, trimmed and chopped</li>\n\
-    <li>1 medium new potato, peeled and chopped</li>\n<li>1 small bulb fennel, trimmed\
-    \ and chopped</li>\n<li>\xBC teaspoon saffron, optional</li>\n<li>3 cups lobster\
-    \ or fish stock</li>\n<li>2 cups chopped tomatoes, with their juice (canned are\
-    \ O.K.)</li>\n<li>Salt and pepper</li>\n<li>1 to 1 \xBD pounds chopped boneless\
-    \ fish and shellfish, preferably a variety</li>\n<li>8 littleneck clams</li>\n\
-    <li>8 mussels</li>\n<li>2 sea scallops</li>\n<li>2 tablespoons Pernod or other\
-    \ pastis, optional</li>\n<li>Chopped fennel fronds, for garnish</li>\n<li>Chopped\
-    \ basil or parsley, for garnish</li>\n<li>Rouille, optional</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-articleLarge.jpg
 ingredients: "Good olive oil, as needed\n4 to 8 thick slices good bread\n1 onion,\
   \ chopped\n4 cloves garlic, chopped\n2 celery stalks, trimmed and chopped\n1 carrot,\
@@ -71,8 +23,6 @@ ingredients: "Good olive oil, as needed\n4 to 8 thick slices good bread\n1 onion
   Rouille, optional"
 intrash: 0
 name: "Mark Bittman\u2019s Bouillabaisse"
-notes: ''
-nutritional_info: ''
 photo: 29688DE2-C224-4976-B754-8C70DB62060F-79931-0001523B358A10DE.jpg
 photo_large: null
 photos: []
@@ -86,3 +36,28 @@ total_time: ''
 type: null
 uid: B4FA8284-2C9F-449C-9A2B-02F2C012D3E3-79931-00015237983D5DDF
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>Good olive oil, as needed</li>
+<li>4 to 8 thick slices good bread</li>
+<li>1 onion, chopped</li>
+<li>4 cloves garlic, chopped</li>
+<li>2 celery stalks, trimmed and chopped</li>
+<li>1 carrot, trimmed and chopped</li>
+<li>1 medium new potato, peeled and chopped</li>
+<li>1 small bulb fennel, trimmed and chopped</li>
+<li>¼ teaspoon saffron, optional</li>
+<li>3 cups lobster or fish stock</li>
+<li>2 cups chopped tomatoes, with their juice (canned are O.K.)</li>
+<li>Salt and pepper</li>
+<li>1 to 1 ½ pounds chopped boneless fish and shellfish, preferably a variety</li>
+<li>8 littleneck clams</li>
+<li>8 mussels</li>
+<li>2 sea scallops</li>
+<li>2 tablespoons Pernod or other pastis, optional</li>
+<li>Chopped fennel fronds, for garnish</li>
+<li>Chopped basil or parsley, for garnish</li>
+<li>Rouille, optional</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

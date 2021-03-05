@@ -9,47 +9,6 @@ created: '2020-07-09 14:31:38'
 created_ts: 1594305098
 description: ''
 difficulty: ''
-directions: "Prepare the day before:\n\nSpatchcock whole chicken and dry brine the\
-  \ day before with salt and pepper. Use approximately \xBD tsp of salt per pound\
-  \ of chicken. Lift skin on breast and separate and season under the skin as well.\n\
-  \nCooking:\n\nPre-heat oven to 450\xBAF. (Recipes range between 400 and 450\xBA\
-  F).\n\nOven:\n\nFlip the chicken over, coat with oil or butter and put skillet in\
-  \ oven.\n\nAfter 20 min or so, rotate the pan 180\xBA. The back of the oven is supposed\
-  \ to be hotter.\n\nCook for less than 45 min or so until the breast is 145\xBAF\
-  \ and the legs are 160\xBAF.\n\nBaste occasionally with butter while roasting.\n\
-  \nRest:\n\nRemove from oven and rest for 10-15 min.\n\nCarve and Serve."
-html:
-  description: null
-  directions: "<p>Prepare the day before:</p>\n<p>Spatchcock whole chicken and dry\
-    \ brine the day before with salt and pepper. Use approximately \xBD tsp of salt\
-    \ per pound of chicken. Lift skin on breast and separate and season under the\
-    \ skin as well.</p>\n<p>Cooking:</p>\n<p>Pre-heat oven to 450\xBAF. (Recipes range\
-    \ between 400 and 450\xBAF).</p>\n<p>Oven:</p>\n<p>Flip the chicken over, coat\
-    \ with oil or butter and put skillet in oven.</p>\n<p>After 20 min or so, rotate\
-    \ the pan 180\xBA. The back of the oven is supposed to be hotter.</p>\n<p>Cook\
-    \ for less than 45 min or so until the breast is 145\xBAF and the legs are 160\xBA\
-    F.</p>\n<p>Baste occasionally with butter while roasting.</p>\n<p>Rest:</p>\n\
-    <p>Remove from oven and rest for 10-15 min.</p>\n<p>Carve and Serve.</p>\n"
-  ingredients: '<ul>
-
-    <li>Whole Chicken</li>
-
-    <li>Salt &amp; Pepper</li>
-
-    <li>Light Olive Oil</li>
-
-    <li>Butter</li>
-
-    </ul>
-
-    '
-  notes: '<p>Some recipes add tarragon, paprika or thyme and sliced lemon or oregano,
-    thyme, garlic and rosemary.</p>
-
-    <p>With a 5.5 lb chicken, at 45 min it was 10 degrees too hot.</p>
-
-    '
-  nutrition: null
 image_url: null
 ingredients: 'Whole Chicken
 
@@ -60,12 +19,6 @@ ingredients: 'Whole Chicken
   Butter'
 intrash: 0
 name: Oven Roasted Spatchcocked Chicken
-notes: 'Some recipes add tarragon, paprika or thyme and sliced lemon or oregano, thyme,
-  garlic and rosemary.
-
-
-  With a 5.5 lb chicken, at 45 min it was 10 degrees too hot.'
-nutritional_info: null
 photo: 1E6F0850-AD17-424B-919B-059A81B1C18F-22008-00000A5E92C67743.jpg
 photo_large: C705FB1F-4526-4177-B221-A8F48F79BABF-22008-00000A5E5FB61826.jpg
 photos:
@@ -91,6 +44,27 @@ total_time: ''
 type: _mine
 uid: 36A76453-1BC6-44FF-A21C-1BC30580CED0-631-0002C95B214A28BC
 ---
-Some recipes add tarragon, paprika or thyme and sliced lemon or oregano, thyme, garlic and rosemary.
-
-With a 5.5 lb chicken, at 45 min it was 10 degrees too hot.
+<div class="large-8 medium-7 columns" id="writeup">		<h4 id="notes">Notes</h4>
+<div class="box box-notes"><p>Some recipes add tarragon, paprika or thyme and sliced lemon or oregano, thyme, garlic and rosemary.</p>
+<p>With a 5.5 lb chicken, at 45 min it was 10 degrees too hot.</p>
+</div>	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>Whole Chicken</li>
+<li>Salt &amp; Pepper</li>
+<li>Light Olive Oil</li>
+<li>Butter</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Prepare the day before:</p>
+<p>Spatchcock whole chicken and dry brine the day before with salt and pepper. Use approximately ½ tsp of salt per pound of chicken. Lift skin on breast and separate and season under the skin as well.</p>
+<p>Cooking:</p>
+<p>Pre-heat oven to 450ºF. (Recipes range between 400 and 450ºF).</p>
+<p>Oven:</p>
+<p>Flip the chicken over, coat with oil or butter and put skillet in oven.</p>
+<p>After 20 min or so, rotate the pan 180º. The back of the oven is supposed to be hotter.</p>
+<p>Cook for less than 45 min or so until the breast is 145ºF and the legs are 160ºF.</p>
+<p>Baste occasionally with butter while roasting.</p>
+<p>Rest:</p>
+<p>Remove from oven and rest for 10-15 min.</p>
+<p>Carve and Serve.</p>
+</div>	</div>

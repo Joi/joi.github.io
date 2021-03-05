@@ -8,66 +8,6 @@ created: '2020-07-20 23:43:32'
 created_ts: 1595288612
 description: null
 difficulty: null
-directions: "Preheat oven to 400\xB0F with a rack in the center. Into a large, heavy\
-  \ pan with a lid (such as this one or this one), place the shallots, bell pepper,\
-  \ tomatoes, garlic, capers, wine, stock, thyme and 1/2 teaspoon of the salt. Bake,\
-  \ covered, for 20 minutes.\n\nPat sea bass fillets dry with paper towels. Carefully\
-  \ remove pan from oven and arrange filets in pan on top of sauce, nestling them\
-  \ in a bit. Sprinkle fish with remaining 1/2 teaspoon salt and dot with butter.\n\
-  \nReturn pan to oven, uncovered. Bake until fish is just cooked through, about 15\
-  \ to 20 minutes depending on thickness.\n\nTo serve, place about a cup of orzo into\
-  \ each of four wide, shallow bowls and top each with a piece of fish. Spoon some\
-  \ veggies and plenty of sauce overtop, and sprinkle with basil and freshly ground\
-  \ black pepper."
-html:
-  description: null
-  directions: "<p>Preheat oven to 400\xB0F with a rack in the center. Into a large,\
-    \ heavy pan with a lid (such as this one or this one), place the shallots, bell\
-    \ pepper, tomatoes, garlic, capers, wine, stock, thyme and 1/2 teaspoon of the\
-    \ salt. Bake, covered, for 20 minutes.</p>\n<p>Pat sea bass fillets dry with paper\
-    \ towels. Carefully remove pan from oven and arrange filets in pan on top of sauce,\
-    \ nestling them in a bit. Sprinkle fish with remaining 1/2 teaspoon salt and dot\
-    \ with butter.</p>\n<p>Return pan to oven, uncovered. Bake until fish is just\
-    \ cooked through, about 15 to 20 minutes depending on thickness.</p>\n<p>To serve,\
-    \ place about a cup of orzo into each of four wide, shallow bowls and top each\
-    \ with a piece of fish. Spoon some veggies and plenty of sauce overtop, and sprinkle\
-    \ with basil and freshly ground black pepper.</p>\n"
-  ingredients: '<ul>
-
-    <li>2 shallots, minced</li>
-
-    <li>1 red bell pepper, diced small</li>
-
-    <li>12 ounces mixed cherry tomatoes, halved (quarter any obnoxiously large ones)</li>
-
-    <li>2 garlic cloves, minced</li>
-
-    <li>1/4 cup capers</li>
-
-    <li>1/2 cup dry white wine (see note)</li>
-
-    <li>1/2 cup low-sodium vegetable, chicken or fish stock</li>
-
-    <li>A few thyme sprigs</li>
-
-    <li>1 teaspoon fine sea salt, divided</li>
-
-    <li>4 6- to 8- ounce striped bass fillets, skin and bones removed</li>
-
-    <li>2 tablespoons butter, diced</li>
-
-    <li>1/4 cup julienned basil leaves</li>
-
-    <li>Freshly ground black pepper</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: '<p>Amount Per Serving: Calories: 236Total Fat: 8.7gCarbohydrates: 8.3gFiber:
-    2.3gProtein: 25.4g</p>
-
-    '
 image_url: https://umamigirl.com/wp-content/uploads/2018/11/Our-New-Favorite-Striped-Bass-Recipe-780-Umami-Girl-2-735x1110.jpg
 ingredients: '2 shallots, minced
 
@@ -96,9 +36,6 @@ ingredients: '2 shallots, minced
   Freshly ground black pepper'
 intrash: 0
 name: Our New Favorite Striped Bass
-notes: null
-nutritional_info: 'Amount Per Serving: Calories: 236Total Fat: 8.7gCarbohydrates:
-  8.3gFiber: 2.3gProtein: 25.4g'
 photo: F0EC5580-3FEB-4B0A-A06F-6C217EBC2771-31637-000013E2F9FCDC9F.jpg
 photo_large: null
 photos: []
@@ -112,3 +49,21 @@ total_time: null
 type: null
 uid: B6C8D6E6-0AC3-4C10-80EA-EBE1130CBD0C-31637-000013E2E2498393
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>2 shallots, minced</li>
+<li>1 red bell pepper, diced small</li>
+<li>12 ounces mixed cherry tomatoes, halved (quarter any obnoxiously large ones)</li>
+<li>2 garlic cloves, minced</li>
+<li>1/4 cup capers</li>
+<li>1/2 cup dry white wine (see note)</li>
+<li>1/2 cup low-sodium vegetable, chicken or fish stock</li>
+<li>A few thyme sprigs</li>
+<li>1 teaspoon fine sea salt, divided</li>
+<li>4 6- to 8- ounce striped bass fillets, skin and bones removed</li>
+<li>2 tablespoons butter, diced</li>
+<li>1/4 cup julienned basil leaves</li>
+<li>Freshly ground black pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

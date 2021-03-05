@@ -17,182 +17,6 @@ description: "Ever since that sauce-making competition at Chez Panisse, I\u2019v
   \ and pizza, of course, but also in  dishes as diverse as shakshuka , braised Moroccan\
   \ lamb, Mexican rice, or Proven\xE7al fish stew."
 difficulty: ''
-directions: "Set a large, heavy-bottomed, nonreactive pot over medium-high heat. When\
-  \ the pot is hot, add just enough olive oil to coat the bottom. When the oil shimmers,\
-  \ add the onions.\n\nSeason with salt and reduce the heat to medium, stirring from\
-  \ time to time to prevent burning. Cook until the onions are soft and translucent,\
-  \ or blond, about 15 minutes. A little browning is fine, but don\u2019t let the\
-  \ onions burn. If the onions begin to brown too quickly, turn down the heat and\
-  \ add a splash of water. While the onions cook, slice the garlic, then quarter the\
-  \ tomatoes, if using fresh. If using canned, pour them into a large, deep bowl and\
-  \ crush with your hands. Swirl about 1 /4 cup of water in one can, then pour it\
-  \ into the second can and swirl, then add into the tomatoes. Set aside.\n\nOnce\
-  \ the onions are soft, push them to the outer edges of the pot and add a spoonful\
-  \ of oil into the center. Add the garlic to the oil. Gently sizzle the garlic until\
-  \ it starts to give off an aroma, about 20 seconds, and before it begins to brown,\
-  \ add the tomatoes. If using fresh tomatoes, use a wooden spoon to smash them a\
-  \ bit and encourage the juice to come out. Bring the sauce to a boil, then reduce\
-  \ to a simmer. Season with salt and tear in basil leaves or add oregano, if using.\n\
-  \nCook over low heat, stirring the sauce often with a wooden spoon. Scrape the bottom\
-  \ of the pot to ensure that nothing sticks. If the sauce does start to stick and\
-  \ scorch, then do just the opposite. Don\u2019t stir! That\u2019ll just mix the\
-  \ burnt taste into the rest of the unaffected sauce. Instead, immediately transfer\
-  \ the sauce to a new pot without scraping the bottom, and leave the scorched pot\
-  \ to soak in the sink. Take extra care to prevent the new pot from burning again.\n\
-  \nPut a large pot of water on to boil over high heat. Cover with a lid to prevent\
-  \ too much evaporation.\n\nThe sauce will be done when its flavor shifts from raw\
-  \ to cooked, about 25 minutes. Dipping your spoon into the sauce, you\u2019ll be\
-  \ reminded less of the garden or the farmer\u2019s market and more of a comforting\
-  \ bowl of pasta. If you\u2019re using canned tomatoes, the shift is subtler: wait\
-  \ for the moment when the tomatoes lose their tinny taste from the can, which can\
-  \ take closer to 40 minutes. When the tomatoes are cooked, bring the sauce to a\
-  \ rapid simmer and stir in 3 /4 cup of olive oil. Let it simmer together for a couple\
-  \ of minutes; the pomarola will transform into a rich sauce as it emulsifies. Remove\
-  \ it from the heat. Pur\xE9e the sauce with a stick blender, blender, or food mill,\
-  \ then taste and adjust seasoning. Keep covered in the refrigerator for up to a\
-  \ week, or freeze for up to 3 months. For shelf-stable pomarola , process jars filled\
-  \ with sauce in a water bath for 20 minutes, and use within a year.\n\nTo serve\
-  \ 4 people, season the pot of water with salt until it tastes like the summer sea.\
-  \ Add the pasta, give it a stir, and cook until it\u2019s just al dente. While the\
-  \ pasta cooks, bring 2 cups of pomarola sauce to a simmer in a large saut\xE9 pan.\
-  \ Drain the pasta, reserving 1 cup of pasta water. Add the pasta to the sauce and\
-  \ toss, thinning as needed with pasta water and olive oil. Taste and adjust salt\
-  \ as needed. Serve immediately, with Parmesan, pecorino Romano, or ricotta salata\
-  \ cheese.\n\n**Variations**\n\n\u2022 To add some creaminess to the pasta, add 1\
-  \ /2 cup cr\xE8me fra\xEEche (page 113 ) to 2 cups pomarola sauce and bring to a\
-  \ simmer just before adding cooked pasta, or add 1 /2 cup of fresh ricotta cheese\
-  \ in large dollops into the pasta after tossing with tomato sauce.\n\n\u2022 To\
-  \ make Pasta alla Puttanesca , set a large skillet over medium heat and add enough\
-  \ olive oil to coat the bottom of the pan. When the oil shimmers, add 2 cloves minced\
-  \ garlic and 10 minced anchovy filets and cook gently until the garlic starts to\
-  \ give off an aroma, about 20 seconds. Before the garlic begins to take on any color,\
-  \ add 2 cups pomarola sauce, 1 /2 cup rinsed and pitted and black olives (preferably\
-  \ oil-cured), and 1 tablespoon rinsed salt-packed capers. Season to taste with red\
-  \ pepper flakes and salt and simmer for 10 minutes, stirring occasionally. In the\
-  \ meantime, cook 3 /4 pound of spaghetti until al dente and drain, reserving 1 cup\
-  \ of the pasta cooking water. Toss the pasta with the simmering sauce and thin as\
-  \ needed with pasta water. Taste and adjust salt as needed. Garnish with chopped\
-  \ parsley and serve immediately.\n\n\u2022 To make Pasta all\u2019Amatriciana ,\
-  \ set a large skillet over medium heat and add enough olive oil to coat the bottom\
-  \ of the pan. When the oil shimmers, add 1 finely diced yellow onion and a generous\
-  \ pinch of salt. Stirring occasionally, cook until the onion is soft and brown,\
-  \ about 15 minutes. Slice 6 ounces guanciale (cured pork jowl), pancetta, or bacon\
-  \ into matchsticks and add to the onion. Cook over medium heat until the meat is\
-  \ barely crisp, then add 2 cloves minced garlic and cook gently until the garlic\
-  \ starts to give off an aroma, about 20 seconds. Before the garlic begins to take\
-  \ on any color, add 2 cups pomarola sauce and season to taste with salt and crushed\
-  \ red pepper flakes. Simmer for about 10 minutes. In the meantime, cook 3 /4 pound\
-  \ of spaghetti or bucatini until al dente and drain, reserving 1 cup of the pasta\
-  \ cooking water. Toss the pasta with the simmering sauce and thin as needed with\
-  \ pasta water. Taste and adjust salt as needed. Garnish with abundant grated pecorino\
-  \ Romano or Parmesan and serve immediately.\n\n"
-html:
-  description: "<p>Ever since that sauce-making competition at Chez Panisse, I\u2019\
-    ve learned dozens and dozens of different methods for making basic tomato sauce,\
-    \ but the truth of the matter is that all of the variations\u2014using onion or\
-    \ not, adding basil or oregano, pur\xE9eing or milling\u2014offer little more\
-    \ than personal flourish. You can do it however you like; most important is to\
-    \ use the best-tasting tomatoes and olive oil you can find, and to get the salt\
-    \ right. Do that, and you\u2019ve got yourself a wonderful blank slate, ready\
-    \ to use in pasta and pizza, of course, but also in  dishes as diverse as shakshuka\
-    \ , braised Moroccan lamb, Mexican rice, or Proven\xE7al fish stew.</p>\n"
-  directions: "<p>Set a large, heavy-bottomed, nonreactive pot over medium-high heat.\
-    \ When the pot is hot, add just enough olive oil to coat the bottom. When the\
-    \ oil shimmers, add the onions.</p>\n<p>Season with salt and reduce the heat to\
-    \ medium, stirring from time to time to prevent burning. Cook until the onions\
-    \ are soft and translucent, or blond, about 15 minutes. A little browning is fine,\
-    \ but don\u2019t let the onions burn. If the onions begin to brown too quickly,\
-    \ turn down the heat and add a splash of water. While the onions cook, slice the\
-    \ garlic, then quarter the tomatoes, if using fresh. If using canned, pour them\
-    \ into a large, deep bowl and crush with your hands. Swirl about 1 /4 cup of water\
-    \ in one can, then pour it into the second can and swirl, then add into the tomatoes.\
-    \ Set aside.</p>\n<p>Once the onions are soft, push them to the outer edges of\
-    \ the pot and add a spoonful of oil into the center. Add the garlic to the oil.\
-    \ Gently sizzle the garlic until it starts to give off an aroma, about 20 seconds,\
-    \ and before it begins to brown, add the tomatoes. If using fresh tomatoes, use\
-    \ a wooden spoon to smash them a bit and encourage the juice to come out. Bring\
-    \ the sauce to a boil, then reduce to a simmer. Season with salt and tear in basil\
-    \ leaves or add oregano, if using.</p>\n<p>Cook over low heat, stirring the sauce\
-    \ often with a wooden spoon. Scrape the bottom of the pot to ensure that nothing\
-    \ sticks. If the sauce does start to stick and scorch, then do just the opposite.\
-    \ Don\u2019t stir! That\u2019ll just mix the burnt taste into the rest of the\
-    \ unaffected sauce. Instead, immediately transfer the sauce to a new pot without\
-    \ scraping the bottom, and leave the scorched pot to soak in the sink. Take extra\
-    \ care to prevent the new pot from burning again.</p>\n<p>Put a large pot of water\
-    \ on to boil over high heat. Cover with a lid to prevent too much evaporation.</p>\n\
-    <p>The sauce will be done when its flavor shifts from raw to cooked, about 25\
-    \ minutes. Dipping your spoon into the sauce, you\u2019ll be reminded less of\
-    \ the garden or the farmer\u2019s market and more of a comforting bowl of pasta.\
-    \ If you\u2019re using canned tomatoes, the shift is subtler: wait for the moment\
-    \ when the tomatoes lose their tinny taste from the can, which can take closer\
-    \ to 40 minutes. When the tomatoes are cooked, bring the sauce to a rapid simmer\
-    \ and stir in 3 /4 cup of olive oil. Let it simmer together for a couple of minutes;\
-    \ the pomarola will transform into a rich sauce as it emulsifies. Remove it from\
-    \ the heat. Pur\xE9e the sauce with a stick blender, blender, or food mill, then\
-    \ taste and adjust seasoning. Keep covered in the refrigerator for up to a week,\
-    \ or freeze for up to 3 months. For shelf-stable pomarola , process jars filled\
-    \ with sauce in a water bath for 20 minutes, and use within a year.</p>\n<p>To\
-    \ serve 4 people, season the pot of water with salt until it tastes like the summer\
-    \ sea. Add the pasta, give it a stir, and cook until it\u2019s just al dente.\
-    \ While the pasta cooks, bring 2 cups of pomarola sauce to a simmer in a large\
-    \ saut\xE9 pan. Drain the pasta, reserving 1 cup of pasta water. Add the pasta\
-    \ to the sauce and toss, thinning as needed with pasta water and olive oil. Taste\
-    \ and adjust salt as needed. Serve immediately, with Parmesan, pecorino Romano,\
-    \ or ricotta salata cheese.</p>\n<p><strong>Variations</strong></p>\n<p>\u2022\
-    \ To add some creaminess to the pasta, add 1 /2 cup cr\xE8me fra\xEEche (page\
-    \ 113 ) to 2 cups pomarola sauce and bring to a simmer just before adding cooked\
-    \ pasta, or add 1 /2 cup of fresh ricotta cheese in large dollops into the pasta\
-    \ after tossing with tomato sauce.</p>\n<p>\u2022 To make Pasta alla Puttanesca\
-    \ , set a large skillet over medium heat and add enough olive oil to coat the\
-    \ bottom of the pan. When the oil shimmers, add 2 cloves minced garlic and 10\
-    \ minced anchovy filets and cook gently until the garlic starts to give off an\
-    \ aroma, about 20 seconds. Before the garlic begins to take on any color, add\
-    \ 2 cups pomarola sauce, 1 /2 cup rinsed and pitted and black olives (preferably\
-    \ oil-cured), and 1 tablespoon rinsed salt-packed capers. Season to taste with\
-    \ red pepper flakes and salt and simmer for 10 minutes, stirring occasionally.\
-    \ In the meantime, cook 3 /4 pound of spaghetti until al dente and drain, reserving\
-    \ 1 cup of the pasta cooking water. Toss the pasta with the simmering sauce and\
-    \ thin as needed with pasta water. Taste and adjust salt as needed. Garnish with\
-    \ chopped parsley and serve immediately.</p>\n<p>\u2022 To make Pasta all\u2019\
-    Amatriciana , set a large skillet over medium heat and add enough olive oil to\
-    \ coat the bottom of the pan. When the oil shimmers, add 1 finely diced yellow\
-    \ onion and a generous pinch of salt. Stirring occasionally, cook until the onion\
-    \ is soft and brown, about 15 minutes. Slice 6 ounces guanciale (cured pork jowl),\
-    \ pancetta, or bacon into matchsticks and add to the onion. Cook over medium heat\
-    \ until the meat is barely crisp, then add 2 cloves minced garlic and cook gently\
-    \ until the garlic starts to give off an aroma, about 20 seconds. Before the garlic\
-    \ begins to take on any color, add 2 cups pomarola sauce and season to taste with\
-    \ salt and crushed red pepper flakes. Simmer for about 10 minutes. In the meantime,\
-    \ cook 3 /4 pound of spaghetti or bucatini until al dente and drain, reserving\
-    \ 1 cup of the pasta cooking water. Toss the pasta with the simmering sauce and\
-    \ thin as needed with pasta water. Taste and adjust salt as needed. Garnish with\
-    \ abundant grated pecorino Romano or Parmesan and serve immediately.</p>\n"
-  ingredients: '<ul>
-
-    <li>Extra-virgin olive oil
-
-    2 medium red or yellow onions, sliced thinly
-
-    Salt
-
-    4 garlic cloves
-
-    4 pounds fresh, ripe tomatoes, stemmed, or two (28-ounce) cans whole San Marzano
-    or Roma tomatoes
-
-    in their juice
-
-    16 fresh basil leaves or 1 tablespoon dried oregano
-
-    3 /4 pound spaghetti, bucatini, penne, or rigatoni
-
-    Parmesan, pecorino Romano, or ricotta salata for serving</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "Extra-virgin olive oil\r2 medium red or yellow onions, sliced thinly\r\
   Salt\r4 garlic cloves\r4 pounds fresh, ripe tomatoes, stemmed, or two (28-ounce)\
@@ -201,8 +25,6 @@ ingredients: "Extra-virgin olive oil\r2 medium red or yellow onions, sliced thin
   Parmesan, pecorino Romano, or ricotta salata for serving"
 intrash: 0
 name: Pasta alla Pomarola
-notes: null
-nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -216,3 +38,17 @@ total_time: ''
 type: null
 uid: 32733CD5-0A74-4CA3-8DD2-73D71EAE180F-631-00014D5CD603566D
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>Extra-virgin olive oil
+2 medium red or yellow onions, sliced thinly
+Salt
+4 garlic cloves
+4 pounds fresh, ripe tomatoes, stemmed, or two (28-ounce) cans whole San Marzano or Roma tomatoes
+in their juice
+16 fresh basil leaves or 1 tablespoon dried oregano
+3 /4 pound spaghetti, bucatini, penne, or rigatoni
+Parmesan, pecorino Romano, or ricotta salata for serving</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

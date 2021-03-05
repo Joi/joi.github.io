@@ -8,62 +8,6 @@ created: '2020-09-20 19:57:31'
 created_ts: 1600631851
 description: null
 difficulty: null
-directions: "Thinly slice garlic, then mash into a paste using the side of a chef\u2019\
-  s knife. Scatter rosemary leaves over garlic; finely chop and mix into garlic. Slice\
-  \ tenderloin in half crosswise to create 2 smaller roasts. Season generously with\
-  \ salt and pepper; rub with garlic-rosemary paste. If your butcher didn\u2019t already\
-  \ tie the roast for you, this is the time to do it: Place tenderloin onto lengths\
-  \ of precut kitchen twine spaced about 1\" apart and tie closed snugly. Place on\
-  \ a rimmed baking sheet and chill uncovered 12 hours.\n\nLet tenderloin sit at room\
-  \ temperature at least 1 hour and up to 2 hours before cooking.\n\nPreheat oven\
-  \ to 250\xB0. Heat oil in a large ovenproof skillet over medium-high. Add tenderloin\
-  \ and cook, turning occasionally, until well browned all over, 8\u201310 minutes.\
-  \ Transfer skillet to oven and roast tenderloin, turning every 10 minutes or so,\
-  \ until an instant-read thermometer inserted into the thickest part registers 120\xB0\
-  , 25\u201330 minutes. Transfer tenderloin to a cutting board and let rest 15 minutes\
-  \ before removing kitchen twine and slicing. Reserve skillet.\n\nMeanwhile, mix\
-  \ yogurt, sour cream, horseradish, and lemon zest in a small bowl to combine; season\
-  \ with salt and pepper.\n\nCook butter and rosemary sprigs in reserved skillet over\
-  \ medium heat, scraping up browned bi ts on the bottom, until butter is melted and\
-  \ very fragrant, about 4 minutes. Transfer sliced tenderloin to a platter; drizzle\
-  \ with rosemary-infused butter and sprinkle with sea salt. Serve with horseradish\
-  \ yogurt.\n\nDo Ahead: Tenderloin can be seasoned and chilled 2 days ahead; wrap\
-  \ in plastic wrap after 12 hours. Horseradish yogurt can be made 1 day ahead; cover\
-  \ and chill."
-html:
-  description: null
-  directions: "<p>Thinly slice garlic, then mash into a paste using the side of a\
-    \ chef\u2019s knife. Scatter rosemary leaves over garlic; finely chop and mix\
-    \ into garlic. Slice tenderloin in half crosswise to create 2 smaller roasts.\
-    \ Season generously with salt and pepper; rub with garlic-rosemary paste. If your\
-    \ butcher didn\u2019t already tie the roast for you, this is the time to do it:\
-    \ Place tenderloin onto lengths of precut kitchen twine spaced about 1&quot; apart\
-    \ and tie closed snugly. Place on a rimmed baking sheet and chill uncovered 12\
-    \ hours.</p>\n<p>Let tenderloin sit at room temperature at least 1 hour and up\
-    \ to 2 hours before cooking.</p>\n<p>Preheat oven to 250\xB0. Heat oil in a large\
-    \ ovenproof skillet over medium-high. Add tenderloin and cook, turning occasionally,\
-    \ until well browned all over, 8\u201310 minutes. Transfer skillet to oven and\
-    \ roast tenderloin, turning every 10 minutes or so, until an instant-read thermometer\
-    \ inserted into the thickest part registers 120\xB0, 25\u201330 minutes. Transfer\
-    \ tenderloin to a cutting board and let rest 15 minutes before removing kitchen\
-    \ twine and slicing. Reserve skillet.</p>\n<p>Meanwhile, mix yogurt, sour cream,\
-    \ horseradish, and lemon zest in a small bowl to combine; season with salt and\
-    \ pepper.</p>\n<p>Cook butter and rosemary sprigs in reserved skillet over medium\
-    \ heat, scraping up browned bi ts on the bottom, until butter is melted and very\
-    \ fragrant, about 4 minutes. Transfer sliced tenderloin to a platter; drizzle\
-    \ with rosemary-infused butter and sprinkle with sea salt. Serve with horseradish\
-    \ yogurt.</p>\n<p>Do Ahead: Tenderloin can be seasoned and chilled 2 days ahead;\
-    \ wrap in plastic wrap after 12 hours. Horseradish yogurt can be made 1 day ahead;\
-    \ cover and chill.</p>\n"
-  ingredients: "<ul>\n<li>2 garlic cloves</li>\n<li>2 tablespoons rosemary leaves,\
-    \ plus sprigs</li>\n<li>1 4-pound trimmed center-cut beef tenderloin</li>\n<li>Kosher\
-    \ salt, freshly ground pepper</li>\n<li>1 tablespoon vegetable oil</li>\n<li>1\
-    \ cup plain whole-milk Greek yogurt</li>\n<li>\u2153 cup sour cream</li>\n<li>2\
-    \ tablespoons prepared horseradish</li>\n<li>\xBD teaspoon finely grated lemon\
-    \ zest</li>\n<li>3 tablespoons unsalted butter</li>\n<li>Flaky sea salt (for serving)</li>\n\
-    </ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://assets.bonappetit.com/photos/5824ee29dcf576bb502c625c/16:9/w_1880,c_limit/roast-beef-tenderloin-with-garlic-and-rosemary.jpg
 ingredients: "2 garlic cloves\n2 tablespoons rosemary leaves, plus sprigs\n1 4-pound\
   \ trimmed center-cut beef tenderloin\nKosher salt, freshly ground pepper\n1 tablespoon\
@@ -72,8 +16,6 @@ ingredients: "2 garlic cloves\n2 tablespoons rosemary leaves, plus sprigs\n1 4-p
   \ butter\nFlaky sea salt (for serving)"
 intrash: 0
 name: Roast Beef Tenderloin with Garlic and Rosemary
-notes: null
-nutritional_info: null
 photo: DBBACBCB-CBEC-4604-9C81-846F8F253604-6729-00000448B20227A1.jpg
 photo_large: null
 photos: []
@@ -87,3 +29,19 @@ total_time: null
 type: null
 uid: 6D69C84F-C8D1-488C-9C76-16B77BC134E4-6729-000004489323E645
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>2 garlic cloves</li>
+<li>2 tablespoons rosemary leaves, plus sprigs</li>
+<li>1 4-pound trimmed center-cut beef tenderloin</li>
+<li>Kosher salt, freshly ground pepper</li>
+<li>1 tablespoon vegetable oil</li>
+<li>1 cup plain whole-milk Greek yogurt</li>
+<li>⅓ cup sour cream</li>
+<li>2 tablespoons prepared horseradish</li>
+<li>½ teaspoon finely grated lemon zest</li>
+<li>3 tablespoons unsalted butter</li>
+<li>Flaky sea salt (for serving)</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

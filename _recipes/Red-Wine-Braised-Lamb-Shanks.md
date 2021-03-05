@@ -8,68 +8,6 @@ created: '2020-12-02 19:18:45'
 created_ts: 1606936725
 description: ''
 difficulty: ''
-directions: "Instructions Checklist\n\nPreheat the oven to 325\xB0. In a large enameled\
-  \ cast-iron casserole, heat the olive oil. Season the lamb shanks with salt and\
-  \ pepper and brown them on 3 sides over moderately high heat, about 4 minutes per\
-  \ side. Add the garlic, carrots, celery and onion to the casserole. Add the red\
-  \ wine and boil for 3 minutes. Add the water and bring to a simmer. Add the bay\
-  \ leaves and peppercorns. Cover the casserole tightly and transfer to the oven.\
-  \ Braise the lamb shanks, turning once, for about 1 1/2 hours, or until very tender.\n\
-  \nTransfer the lamb shanks to an ovenproof serving dish. Using a fine sieve, strain\
-  \ the braising liquid into a medium saucepan, pressing on the solids. Boil the braising\
-  \ liquid over high heat until reduced to 1 1/2 cups, about 20 minutes. Season the\
-  \ sauce with salt and pepper and pour about 1/2 cup over the lamb shanks; keep the\
-  \ remaining sauce warm. Cover the lamb shanks with foil and reheat in the oven for\
-  \ about 10 minutes. Serve the lamb shanks with the remaining sauce, the Maple-Glazed\
-  \ Root Vegetables and the Braised Red Cabbage."
-html:
-  description: null
-  directions: "<p>Instructions Checklist</p>\n<p>Preheat the oven to 325\xB0. In a\
-    \ large enameled cast-iron casserole, heat the olive oil. Season the lamb shanks\
-    \ with salt and pepper and brown them on 3 sides over moderately high heat, about\
-    \ 4 minutes per side. Add the garlic, carrots, celery and onion to the casserole.\
-    \ Add the red wine and boil for 3 minutes. Add the water and bring to a simmer.\
-    \ Add the bay leaves and peppercorns. Cover the casserole tightly and transfer\
-    \ to the oven. Braise the lamb shanks, turning once, for about 1 1/2 hours, or\
-    \ until very tender.</p>\n<p>Transfer the lamb shanks to an ovenproof serving\
-    \ dish. Using a fine sieve, strain the braising liquid into a medium saucepan,\
-    \ pressing on the solids. Boil the braising liquid over high heat until reduced\
-    \ to 1 1/2 cups, about 20 minutes. Season the sauce with salt and pepper and pour\
-    \ about 1/2 cup over the lamb shanks; keep the remaining sauce warm. Cover the\
-    \ lamb shanks with foil and reheat in the oven for about 10 minutes. Serve the\
-    \ lamb shanks with the remaining sauce, the Maple-Glazed Root Vegetables and the\
-    \ Braised Red Cabbage.</p>\n"
-  ingredients: '<ul>
-
-    <li>2 tablespoons extra-virgin olive oil</li>
-
-    <li>Four 1-pound lamb shanks</li>
-
-    <li>Salt and freshly ground pepper</li>
-
-    <li>5 garlic cloves, peeled</li>
-
-    <li>4 medium carrots, sliced 1/4 thick</li>
-
-    <li>4 medium celery ribs, sliced 1/4 inch thick</li>
-
-    <li>1 large onion, coarsely chopped</li>
-
-    <li>One 750-milliliter bottle dry red wine</li>
-
-    <li>1 cup water</li>
-
-    <li>3 bay leaves</li>
-
-    <li>12 peppercorns</li>
-
-    <li>Maple-Glazed Root Vegetables and Braised Red Cabbage, for serving</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2015%2F01%2FACF36.jpg&q=85
 ingredients: '2 tablespoons extra-virgin olive oil
 
@@ -96,8 +34,6 @@ ingredients: '2 tablespoons extra-virgin olive oil
   Maple-Glazed Root Vegetables and Braised Red Cabbage, for serving'
 intrash: 0
 name: Red Wine-Braised Lamb Shanks
-notes: ''
-nutritional_info: ''
 photo: C3E7B511-F471-48B4-837E-03E1BED8CB3B-12026-0000D92B20173A0B.jpg
 photo_large: null
 photos: []
@@ -111,3 +47,20 @@ total_time: ''
 type: null
 uid: FCB0B0B7-1135-4CC2-B159-BF0FAE529699-12026-0000D92938D29AC8
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>2 tablespoons extra-virgin olive oil</li>
+<li>Four 1-pound lamb shanks</li>
+<li>Salt and freshly ground pepper</li>
+<li>5 garlic cloves, peeled</li>
+<li>4 medium carrots, sliced 1/4 thick</li>
+<li>4 medium celery ribs, sliced 1/4 inch thick</li>
+<li>1 large onion, coarsely chopped</li>
+<li>One 750-milliliter bottle dry red wine</li>
+<li>1 cup water</li>
+<li>3 bay leaves</li>
+<li>12 peppercorns</li>
+<li>Maple-Glazed Root Vegetables and Braised Red Cabbage, for serving</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -10,50 +10,6 @@ created: '2020-02-03 16:00:21'
 created_ts: 1580745621
 description: null
 difficulty: Easy
-directions: "Place garlic, onion, carrots, celery, tomatoes, red pepper, oregano and\
-  \ olive oil into mixing bowl and chop 3 sec/speed 5, then cook 30 min/212\xB0F/\uE003\
-  /speed \uE002.\n\nAdd ground beef, tomato paste and salt, gently stir through with\
-  \ spatula and cook 20 min/212\xB0F/\uE003/speed 1. Transfer into an oval baking\
-  \ dish (approx. 3 qt.) and set aside to keep warm.\n\nPlace potatoes, milk, salt\
-  \ and pepper into mixing bowl and cook 30 min/195\xB0F/\uE003/speed \uE002. Meanwhile\
-  \ preheat oven to 400\xB0F.\n\nAdd butter to mixing bowl and blend 15 sec/speed\
-  \ 7.\n\nSpread mashed potatoes over meat mixture, then crosshatch the top with a\
-  \ fork. Bake for 30 minutes (400\xB0F) until browned and bubbling. Allow to rest\
-  \ 10 minutes before serving."
-html:
-  description: null
-  directions: "<p>Place garlic, onion, carrots, celery, tomatoes, red pepper, oregano\
-    \ and olive oil into mixing bowl and chop 3 sec/speed 5, then cook 30 min/212\xB0\
-    F/\uE003/speed \uE002.</p>\n<p>Add ground beef, tomato paste and salt, gently\
-    \ stir through with spatula and cook 20 min/212\xB0F/\uE003/speed 1. Transfer\
-    \ into an oval baking dish (approx. 3 qt.) and set aside to keep warm.</p>\n<p>Place\
-    \ potatoes, milk, salt and pepper into mixing bowl and cook 30 min/195\xB0F/\uE003\
-    /speed \uE002. Meanwhile preheat oven to 400\xB0F.</p>\n<p>Add butter to mixing\
-    \ bowl and blend 15 sec/speed 7.</p>\n<p>Spread mashed potatoes over meat mixture,\
-    \ then crosshatch the top with a fork. Bake for 30 minutes (400\xB0F) until browned\
-    \ and bubbling. Allow to rest 10 minutes before serving.</p>\n"
-  ingredients: "<ul>\n<li>3 garlic cloves</li>\n<li>8 oz yellow onions, cut into pieces</li>\n\
-    <li>6 oz carrots, peeled, cut into pieces</li>\n<li>5 oz celery, cut into pieces</li>\n\
-    <li>6 oz tomatoes, quartered</li>\n<li>2 oz red bell pepper, de-seeded, cut into\
-    \ pieces</li>\n<li>2 sprigs fresh oregano, leaves only</li>\n<li>\xBD oz extra\
-    \ virgin olive oil</li>\n<li>20 oz ground beef, broken into pieces</li>\n<li>1\
-    \ tbsp tomato paste</li>\n<li>\xBD tsp salt, to taste</li>\n<li>35 oz potatoes,\
-    \ peeled, cut into pieces (1 in.)</li>\n<li>8 oz whole milk</li>\n<li>1 tsp salt</li>\n\
-    <li>\xBC tsp ground black pepper</li>\n<li>4 oz unsalted butter</li>\n</ul>\n"
-  notes: null
-  nutrition: '<p>Calories: 1661 kJ / 397 kcal
-
-    Protein: 12 g
-
-    Carbohydrates: 24 g
-
-    Fat: 29 g
-
-    Cholesterol: 71 mg
-
-    Fiber: 4 g</p>
-
-    '
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/vimdb/250368.jpg
 ingredients: "3 garlic cloves\n8 oz yellow onions, cut into pieces\n6 oz carrots,\
   \ peeled, cut into pieces\n5 oz celery, cut into pieces\n6 oz tomatoes, quartered\n\
@@ -64,18 +20,6 @@ ingredients: "3 garlic cloves\n8 oz yellow onions, cut into pieces\n6 oz carrots
   \ butter"
 intrash: 0
 name: Cottage Pie
-notes: null
-nutritional_info: 'Calories: 1661 kJ / 397 kcal
-
-  Protein: 12 g
-
-  Carbohydrates: 24 g
-
-  Fat: 29 g
-
-  Cholesterol: 71 mg
-
-  Fiber: 4 g'
 photo: 9C00D650-BBCF-49DF-813A-5BBCB0D91BAE-408-00004FA9FB76DA93.jpg
 photo_large: null
 photos: []
@@ -89,3 +33,24 @@ total_time: null
 type: null
 uid: D456D7F1-F235-49BA-8D43-4688CA578FEA-408-00004FA89F09169C
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>3 garlic cloves</li>
+<li>8 oz yellow onions, cut into pieces</li>
+<li>6 oz carrots, peeled, cut into pieces</li>
+<li>5 oz celery, cut into pieces</li>
+<li>6 oz tomatoes, quartered</li>
+<li>2 oz red bell pepper, de-seeded, cut into pieces</li>
+<li>2 sprigs fresh oregano, leaves only</li>
+<li>½ oz extra virgin olive oil</li>
+<li>20 oz ground beef, broken into pieces</li>
+<li>1 tbsp tomato paste</li>
+<li>½ tsp salt, to taste</li>
+<li>35 oz potatoes, peeled, cut into pieces (1 in.)</li>
+<li>8 oz whole milk</li>
+<li>1 tsp salt</li>
+<li>¼ tsp ground black pepper</li>
+<li>4 oz unsalted butter</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

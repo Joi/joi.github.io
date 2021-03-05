@@ -8,45 +8,6 @@ created: '2020-02-02 13:00:49'
 created_ts: 1580648449
 description: ''
 difficulty: ''
-directions: "To make the mayonnaise by hand: Rinse a mixing bowl with hot water and\
-  \ dry it well. Place the 2 egg yolks, vinegar, mustard, and a little salt and pepper\
-  \ in the bowl and beat the mixture with a whisk or an electric mixer at medium speed\
-  \ (3 min / speed 4 on TM5 ) until very well blended. Add \xBD cup (125 ml) of the\
-  \ oil drop by drop, beating constantly. Continuing to beat, add the rest of the\
-  \ oil in a thin stream, being careful to incorporate all the oil to form an emulsion.\
-  \ When all the oil has been absorbed, season the mayonnaise to taste with salt,\
-  \ pepper, and lemon juice. Beat in a little broth or water if you wish to thin the\
-  \ mayonnaise. To make mayonnaise in a food processor or blender: Put 1 egg, 1 egg\
-  \ yolk, the vinegar, the mustard, a little salt, and a few grinds of pepper in the\
-  \ bowl of the processor fitted with the steel blade and blend well. With the processor\
-  \ running, add the oil in a thin, steady stream. When the mayonnaise is emulsified\
-  \ and all the oil has been absorbed, scrape it into a bowl and adjust the seasoning\
-  \ to taste with salt, pepper, and lemon juice. Beat in a little broth or water if\
-  \ you wish to thin the mayonnaise."
-html:
-  description: null
-  directions: "<p>To make the mayonnaise by hand: Rinse a mixing bowl with hot water\
-    \ and dry it well. Place the 2 egg yolks, vinegar, mustard, and a little salt\
-    \ and pepper in the bowl and beat the mixture with a whisk or an electric mixer\
-    \ at medium speed (3 min / speed 4 on TM5 ) until very well blended. Add \xBD\
-    \ cup (125 ml) of the oil drop by drop, beating constantly. Continuing to beat,\
-    \ add the rest of the oil in a thin stream, being careful to incorporate all the\
-    \ oil to form an emulsion. When all the oil has been absorbed, season the mayonnaise\
-    \ to taste with salt, pepper, and lemon juice. Beat in a little broth or water\
-    \ if you wish to thin the mayonnaise. To make mayonnaise in a food processor or\
-    \ blender: Put 1 egg, 1 egg yolk, the vinegar, the mustard, a little salt, and\
-    \ a few grinds of pepper in the bowl of the processor fitted with the steel blade\
-    \ and blend well. With the processor running, add the oil in a thin, steady stream.\
-    \ When the mayonnaise is emulsified and all the oil has been absorbed, scrape\
-    \ it into a bowl and adjust the seasoning to taste with salt, pepper, and lemon\
-    \ juice. Beat in a little broth or water if you wish to thin the mayonnaise.</p>\n"
-  ingredients: "<ul>\n<li>2 large egg yolks or 1 large egg and 1 large egg yolk, at\
-    \ room temperature</li>\n<li>2 teaspoons white or red vinegar</li>\n<li>1/4 teaspoon\
-    \ dry mustard</li>\n<li>\xBE tsp Salt</li>\n<li>Freshly ground white pepper</li>\n\
-    <li>1 1/2 cups olive oil</li>\n<li>Fresh lemon juice</li>\n<li>Chicken broth or\
-    \ water as needed to thin sauce</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "2 large egg yolks or 1 large egg and 1 large egg yolk, at room temperature\n\
   2 teaspoons white or red vinegar\n1/4 teaspoon dry mustard\n\xBE tsp Salt\nFreshly\
@@ -54,8 +15,6 @@ ingredients: "2 large egg yolks or 1 large egg and 1 large egg yolk, at room tem
   \ water as needed to thin sauce"
 intrash: 0
 name: Mayonnaise
-notes: null
-nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -69,3 +28,16 @@ total_time: ''
 type: null
 uid: D5E799CA-BA36-4A30-B385-9CD111E6F9A5-25037-0000A0DF30640117
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>2 large egg yolks or 1 large egg and 1 large egg yolk, at room temperature</li>
+<li>2 teaspoons white or red vinegar</li>
+<li>1/4 teaspoon dry mustard</li>
+<li>¾ tsp Salt</li>
+<li>Freshly ground white pepper</li>
+<li>1 1/2 cups olive oil</li>
+<li>Fresh lemon juice</li>
+<li>Chicken broth or water as needed to thin sauce</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

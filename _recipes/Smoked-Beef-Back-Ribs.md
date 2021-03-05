@@ -8,106 +8,12 @@ created: '2020-11-28 13:04:40'
 created_ts: 1606568680
 description: null
 difficulty: null
-directions: "Rinse and Cleanup the Ribs\n\nRemove the beef back ribs from the packaging\
-  \ and give them a good rinse under cold water.\n\nLay the ribs on the cutting board\
-  \ and remove any large clumps of fat.\n\nTurn the rack of beef ribs over and remove\
-  \ the membrane on the boney side\n\nGet ahold of the thick layer of plastic-like\
-  \ membrane by prying up on it with your finger, a butter knife or whatever works\
-  \ best for you.\n\nOnce you have it started, get ahold of it with a paper towel\
-  \ and pull it off.\n\nI don\u2019t usually season the boney side of beef ribs..\
-  \ just doesn\u2019t seem to be justified but feel free to do so if you wish.\n\n\
-  Flip them over to meat side up and proceed with the seasoning process.\n\nSeason/Marinate\
-  \ the Beef Ribs Overnight\n\nPlease note that you can apply the mustard and rub\
-  \ right before the ribs go into the smoker and it will be fine but if you have time\
-  \ to do this the night before and let them marinate in the rub for several hours,\
-  \ the ribs will be even better.\n\nApply some yellow mustard to the meat side of\
-  \ the beef ribs.\n\nRub the mustard into the ribs with your hands and don\u2019\
-  t forget the sides and any crevices down between the rib bones.\n\nPut a tablespoon\
-  \ or two of Jeff\u2019s original rub onto the meaty side of the ribs and massage\
-  \ it in with the mustard to create a paste that is extremely flavorful. This paste\
-  \ not only tastes amazing, but it creates the perfect crust on the outside of the\
-  \ ribs.\n\nWrap the ribs in plastic wrap and place them in the fridge overnight\
-  \ or for at least 4 hours to allow some of the flavor of the rub to get into the\
-  \ top layer of the meat.\n\nGet the Smoker Ready\n\nPrepare your smoker for cooking\
-  \ at about 225\xB0F with indirect heat.\n\nIf your smoker has one, fill the water\
-  \ pan with water .\n\nLet the smoker heat up to 225 \xB0F before placing the meat\
-  \ in the smoker.\n\nSmoke the Beef Back Ribs\n\nPlace the Bradley rack in the smoker\
-  \ or lay the beef back ribs directly on the smoker grate bone side down.\n\nI recommend\
-  \ a good hearty smoke like mesquite, hickory or pecan but you can use any smoking\
-  \ wood that you have available and they will be fine.\n\nI like to apply smoke for\
-  \ the entire time to replicate the flavor of a wood burning smoker but if you do\
-  \ not like a more subtle smoke flavor, it is ok to smoke them for less time and\
-  \ finish with just heat.\n\nLet the beef ribs cook until they are tender. (This\
-  \ usually happens at around 185-190 \xB0F and can take anywhere from 4-6 hours or\
-  \ even more depending on variables such as weather, how often you raise/open the\
-  \ lid, and the starting meat temperature.\n\nSlice and Serve\n\nLet the smoked beef\
-  \ back ribs rest for about 10 minutes, then slice them up and serve to your family\
-  \ and guests."
-html:
-  description: null
-  directions: "<p>Rinse and Cleanup the Ribs</p>\n<p>Remove the beef back ribs from\
-    \ the packaging and give them a good rinse under cold water.</p>\n<p>Lay the ribs\
-    \ on the cutting board and remove any large clumps of fat.</p>\n<p>Turn the rack\
-    \ of beef ribs over and remove the membrane on the boney side</p>\n<p>Get ahold\
-    \ of the thick layer of plastic-like membrane by prying up on it with your finger,\
-    \ a butter knife or whatever works best for you.</p>\n<p>Once you have it started,\
-    \ get ahold of it with a paper towel and pull it off.</p>\n<p>I don\u2019t usually\
-    \ season the boney side of beef ribs.. just doesn\u2019t seem to be justified\
-    \ but feel free to do so if you wish.</p>\n<p>Flip them over to meat side up and\
-    \ proceed with the seasoning process.</p>\n<p>Season/Marinate the Beef Ribs Overnight</p>\n\
-    <p>Please note that you can apply the mustard and rub right before the ribs go\
-    \ into the smoker and it will be fine but if you have time to do this the night\
-    \ before and let them marinate in the rub for several hours, the ribs will be\
-    \ even better.</p>\n<p>Apply some yellow mustard to the meat side of the beef\
-    \ ribs.</p>\n<p>Rub the mustard into the ribs with your hands and don\u2019t forget\
-    \ the sides and any crevices down between the rib bones.</p>\n<p>Put a tablespoon\
-    \ or two of Jeff\u2019s original rub onto the meaty side of the ribs and massage\
-    \ it in with the mustard to create a paste that is extremely flavorful. This paste\
-    \ not only tastes amazing, but it creates the perfect crust on the outside of\
-    \ the ribs.</p>\n<p>Wrap the ribs in plastic wrap and place them in the fridge\
-    \ overnight or for at least 4 hours to allow some of the flavor of the rub to\
-    \ get into the top layer of the meat.</p>\n<p>Get the Smoker Ready</p>\n<p>Prepare\
-    \ your smoker for cooking at about 225\xB0F with indirect heat.</p>\n<p>If your\
-    \ smoker has one, fill the water pan with water .</p>\n<p>Let the smoker heat\
-    \ up to 225 \xB0F before placing the meat in the smoker.</p>\n<p>Smoke the Beef\
-    \ Back Ribs</p>\n<p>Place the Bradley rack in the smoker or lay the beef back\
-    \ ribs directly on the smoker grate bone side down.</p>\n<p>I recommend a good\
-    \ hearty smoke like mesquite, hickory or pecan but you can use any smoking wood\
-    \ that you have available and they will be fine.</p>\n<p>I like to apply smoke\
-    \ for the entire time to replicate the flavor of a wood burning smoker but if\
-    \ you do not like a more subtle smoke flavor, it is ok to smoke them for less\
-    \ time and finish with just heat.</p>\n<p>Let the beef ribs cook until they are\
-    \ tender. (This usually happens at around 185-190 \xB0F and can take anywhere\
-    \ from 4-6 hours or even more depending on variables such as weather, how often\
-    \ you raise/open the lid, and the starting meat temperature.</p>\n<p>Slice and\
-    \ Serve</p>\n<p>Let the smoked beef back ribs rest for about 10 minutes, then\
-    \ slice them up and serve to your family and guests.</p>\n"
-  ingredients: "<ul>\n<li>2 racks of beef back ribs (7 bones each)</li>\n<li>Yellow\
-    \ mustard</li>\n<li>2 racks of beef back ribs (7 bones each)</li>\n<li>Yellow\
-    \ mustard</li>\n<li>Jeff\u2019s original rub</li>\n<li>Plastic wrap</li>\n</ul>\n"
-  notes: '<p>Note: I recommend placing the wrapped ribs into a cookie sheet or pan
-    to prevent any runaway leaks.</p>
-
-    <p>The next morning, remove the ribs from the fridge, unwrap them from the plastic
-    and lay them in a Bradley rack or cookie sheet in preparation for transporting
-    them out to the smoker.</p>
-
-    '
-  nutrition: null
 image_url: null
 ingredients: "2 racks of beef back ribs (7 bones each)\nYellow mustard\n2 racks of\
   \ beef back ribs (7 bones each)\nYellow mustard\nJeff\u2019s original rub\nPlastic\
   \ wrap"
 intrash: 0
 name: Smoked Beef Back Ribs
-notes: 'Note: I recommend placing the wrapped ribs into a cookie sheet or pan to prevent
-  any runaway leaks.
-
-
-  The next morning, remove the ribs from the fridge, unwrap them from the plastic
-  and lay them in a Bradley rack or cookie sheet in preparation for transporting them
-  out to the smoker.'
-nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -121,6 +27,14 @@ total_time: null
 type: null
 uid: 9A862598-2E40-4F71-B1DC-0F6166DF70C0-12345-00000A847F496E14
 ---
-Note: I recommend placing the wrapped ribs into a cookie sheet or pan to prevent any runaway leaks.
-
-The next morning, remove the ribs from the fridge, unwrap them from the plastic and lay them in a Bradley rack or cookie sheet in preparation for transporting them out to the smoker.
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>2 racks of beef back ribs (7 bones each)</li>
+<li>Yellow mustard</li>
+<li>2 racks of beef back ribs (7 bones each)</li>
+<li>Yellow mustard</li>
+<li>Jeff’s original rub</li>
+<li>Plastic wrap</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

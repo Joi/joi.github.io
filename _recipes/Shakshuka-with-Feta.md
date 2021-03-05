@@ -8,42 +8,6 @@ created: '2020-08-13 22:37:31'
 created_ts: 1597358251
 description: null
 difficulty: null
-directions: 'Heat oven to 375 degrees. Heat oil in a large skillet over medium-low.
-  Add onion and bell pepper. Cook gently until very soft, about 20 minutes. Add garlic
-  and cook until tender, 1 to 2 minutes; stir in cumin, paprika and cayenne, and cook
-  1 minute. Pour in tomatoes and season with 3/4 teaspoon salt and 1/4 teaspoon pepper;
-  simmer until tomatoes have thickened, about 10 minutes. Taste and add more salt
-  and pepper if needed. Stir in crumbled feta.
-
-
-  Gently crack eggs into skillet over tomatoes. Season eggs with salt and pepper.
-  Transfer skillet to oven and bake until eggs are just set, 7 to 10 minutes. Sprinkle
-  with cilantro and serve with hot sauce.'
-html:
-  description: null
-  directions: '<p>Heat oven to 375 degrees. Heat oil in a large skillet over medium-low.
-    Add onion and bell pepper. Cook gently until very soft, about 20 minutes. Add
-    garlic and cook until tender, 1 to 2 minutes; stir in cumin, paprika and cayenne,
-    and cook 1 minute. Pour in tomatoes and season with 3/4 teaspoon salt and 1/4
-    teaspoon pepper; simmer until tomatoes have thickened, about 10 minutes. Taste
-    and add more salt and pepper if needed. Stir in crumbled feta.</p>
-
-    <p>Gently crack eggs into skillet over tomatoes. Season eggs with salt and pepper.
-    Transfer skillet to oven and bake until eggs are just set, 7 to 10 minutes. Sprinkle
-    with cilantro and serve with hot sauce.</p>
-
-    '
-  ingredients: "<ul>\n<li>3 tablespoons extra-virgin olive oil</li>\n<li>1 large onion,\
-    \ halved and thinly sliced</li>\n<li>1 large red bell pepper, seeded and thinly\
-    \ sliced</li>\n<li>3 garlic cloves, thinly sliced</li>\n<li>1 teaspoon ground\
-    \ cumin</li>\n<li>1 teaspoon sweet paprika</li>\n<li>\u215B teaspoon ground cayenne,\
-    \ or to taste</li>\n<li>1 (28-ounce) can whole plum tomatoes with their juices,\
-    \ coarsely chopped</li>\n<li>\xBE teaspoon kosher salt, plus more as needed</li>\n\
-    <li>\xBC teaspoon black pepper, plus more as needed</li>\n<li>5 ounces feta, crumbled\
-    \ (about 1 1/4 cups)</li>\n<li>6 large eggs</li>\n<li>Chopped cilantro, for serving</li>\n\
-    <li>Hot sauce, for serving</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://static01.nyt.com/images/2020/02/10/dining/mc-shakshuka/mc-shakshuka-articleLarge.jpg
 ingredients: "3 tablespoons extra-virgin olive oil\n1 large onion, halved and thinly\
   \ sliced\n1 large red bell pepper, seeded and thinly sliced\n3 garlic cloves, thinly\
@@ -54,8 +18,6 @@ ingredients: "3 tablespoons extra-virgin olive oil\n1 large onion, halved and th
   6 large eggs\nChopped cilantro, for serving\nHot sauce, for serving"
 intrash: 0
 name: Shakshuka with Feta
-notes: null
-nutritional_info: null
 photo: 77C4D8E9-FF5E-42F2-8E3D-8E0119B29F68-10322-000007EAECE874F5.jpg
 photo_large: null
 photos: []
@@ -69,3 +31,22 @@ total_time: null
 type: null
 uid: 6D155906-FBC9-49FC-AB13-3D66039BF1D9-10322-000007EADA7D05FE
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>3 tablespoons extra-virgin olive oil</li>
+<li>1 large onion, halved and thinly sliced</li>
+<li>1 large red bell pepper, seeded and thinly sliced</li>
+<li>3 garlic cloves, thinly sliced</li>
+<li>1 teaspoon ground cumin</li>
+<li>1 teaspoon sweet paprika</li>
+<li>⅛ teaspoon ground cayenne, or to taste</li>
+<li>1 (28-ounce) can whole plum tomatoes with their juices, coarsely chopped</li>
+<li>¾ teaspoon kosher salt, plus more as needed</li>
+<li>¼ teaspoon black pepper, plus more as needed</li>
+<li>5 ounces feta, crumbled (about 1 1/4 cups)</li>
+<li>6 large eggs</li>
+<li>Chopped cilantro, for serving</li>
+<li>Hot sauce, for serving</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

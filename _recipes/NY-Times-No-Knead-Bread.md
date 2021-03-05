@@ -8,85 +8,11 @@ created: '2020-04-20 07:01:04'
 created_ts: 1587366064
 description: null
 difficulty: ''
-directions: 'In a large bowl combine flour, yeast and salt. Add 1 5/8 cups water,
-  and stir until blended; dough will be shaggy and sticky. Cover bowl with plastic
-  wrap. Let dough rest at least 12 hours, preferably about 18, at warm room temperature,
-  about 70 degrees.
-
-
-  Dough is ready when its surface is dotted with bubbles. Lightly flour a work surface
-  and place dough on it; sprinkle it with a little more flour and fold it over on
-  itself once or twice. Cover loosely with plastic wrap and let rest about 15 minutes.
-
-
-  Using just enough flour to keep dough from sticking to work surface or to your fingers,
-  gently and quickly shape dough into a ball. Generously coat a cotton towel (not
-  terry cloth) with flour, wheat bran or cornmeal; put dough seam side down on towel
-  and dust with more flour, bran or cornmeal. Cover with another cotton towel and
-  let rise for about 2 hours. When it is ready, dough will be more than double in
-  size and will not readily spring back when poked with a finger.
-
-
-  At least a half-hour before dough is ready, heat oven to 450 degrees. Put a 6- to
-  8-quart heavy covered pot (cast iron, enamel, Pyrex or ceramic) in oven as it heats.
-  When dough is ready, carefully remove pot from oven. Slide your hand under towel
-  and turn dough over into pot, seam side up; it may look like a mess, but that is
-  O.K. Shake pan once or twice if dough is unevenly distributed; it will straighten
-  out as it bakes. Cover with lid and bake 30 minutes, then remove lid and bake another
-  15 to 30 minutes, until loaf is beautifully browned. Cool on a rack.'
-html:
-  description: null
-  directions: '<p>In a large bowl combine flour, yeast and salt. Add 1 5/8 cups water,
-    and stir until blended; dough will be shaggy and sticky. Cover bowl with plastic
-    wrap. Let dough rest at least 12 hours, preferably about 18, at warm room temperature,
-    about 70 degrees.</p>
-
-    <p>Dough is ready when its surface is dotted with bubbles. Lightly flour a work
-    surface and place dough on it; sprinkle it with a little more flour and fold it
-    over on itself once or twice. Cover loosely with plastic wrap and let rest about
-    15 minutes.</p>
-
-    <p>Using just enough flour to keep dough from sticking to work surface or to your
-    fingers, gently and quickly shape dough into a ball. Generously coat a cotton
-    towel (not terry cloth) with flour, wheat bran or cornmeal; put dough seam side
-    down on towel and dust with more flour, bran or cornmeal. Cover with another cotton
-    towel and let rise for about 2 hours. When it is ready, dough will be more than
-    double in size and will not readily spring back when poked with a finger.</p>
-
-    <p>At least a half-hour before dough is ready, heat oven to 450 degrees. Put a
-    6- to 8-quart heavy covered pot (cast iron, enamel, Pyrex or ceramic) in oven
-    as it heats. When dough is ready, carefully remove pot from oven. Slide your hand
-    under towel and turn dough over into pot, seam side up; it may look like a mess,
-    but that is O.K. Shake pan once or twice if dough is unevenly distributed; it
-    will straighten out as it bakes. Cover with lid and bake 30 minutes, then remove
-    lid and bake another 15 to 30 minutes, until loaf is beautifully browned. Cool
-    on a rack.</p>
-
-    '
-  ingredients: "<ul>\n<li>3 cups/385 grams all-purpose or bread flour, more for dusting</li>\n\
-    <li>\xBC teaspoon instant yeast</li>\n<li>1 \xBC teaspoons salt</li>\n<li>Cornmeal\
-    \ or wheat bran, as needed</li>\n</ul>\n"
-  notes: '<p>First time - 18 hours. Was too wet to roll into a ball.</p>
-
-    <p>Second time, only 11 hours, warmer weather. Was much more wet.</p>
-
-    <p>Need to try with less water/more flour.</p>
-
-    '
-  nutrition: null
 image_url: null
 ingredients: "3 cups/385 grams all-purpose or bread flour, more for dusting\n\xBC\
   \ teaspoon instant yeast\n1 \xBC teaspoons salt\nCornmeal or wheat bran, as needed"
 intrash: 0
 name: NY Times No-Knead Bread
-notes: 'First time - 18 hours. Was too wet to roll into a ball.
-
-
-  Second time, only 11 hours, warmer weather. Was much more wet.
-
-
-  Need to try with less water/more flour.'
-nutritional_info: null
 photo: 6B64EA85-66F9-4C8D-AE4A-498EE1BD0CF0-29546-0000D6DB8266426E.jpg
 photo_large: 2C68731D-EC36-4126-9D56-4869EA11129C-29546-0000D6D33A59D6EE.jpg
 photos:
@@ -106,8 +32,12 @@ total_time: ''
 type: null
 uid: 4EDCD740-CD7A-46A6-9754-B21A1869F5CA-32311-0000117B166F0546
 ---
-First time - 18 hours. Was too wet to roll into a ball.
-
-Second time, only 11 hours, warmer weather. Was much more wet.
-
-Need to try with less water/more flour.
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>3 cups/385 grams all-purpose or bread flour, more for dusting</li>
+<li>¼ teaspoon instant yeast</li>
+<li>1 ¼ teaspoons salt</li>
+<li>Cornmeal or wheat bran, as needed</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>
