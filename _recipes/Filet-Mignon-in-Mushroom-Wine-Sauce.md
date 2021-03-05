@@ -8,88 +8,6 @@ created: '2021-02-04 17:09:16'
 created_ts: 1612458556
 description: ''
 difficulty: ''
-directions: 'Place a large heavy-bottomed pan over medium/high heat and melt in 2
-  Tbsp butter and 1 Tbsp oil. Add thickly sliced mushrooms and cook 5 min until soft.
-  Stir in onion and cook another 3 minutes. Press in garlic cloves then season with
-  1/4 tsp salt, 1/4 tsp pepper and 1 Tbsp fresh thyme. Cook another 2 min, stirring
-  constantly until garlic is fragrant, then transfer mushroom mixture to a plate.
-  Wipe the skillet clean with a wet papertowel.
-
-
-  Pat dry steaks with a paper towel and season all over with salt and pepper (we use
-  a total of 1 tsp salt and 1/4 tsp pepper).
-
-
-  Place the same pan over medium/high heat and add 2 Tbsp butter and 1 Tbsp oil. When
-  butter is hot and finished foaming, add seasoned steaks to skillet and saute, turning
-  over once with tongs about 3-5 min per side for medium-rare (I cooked 5-6 min per
-  side for medium doneness). If steak is browning too fast, reduce heat to medium.
-  Use tongs to transfer steaks to the plate with mushrooms.
-
-
-  Add 1/2 cup Merlot and boil until reduced by half (3 min), scraping the bottom with
-  a spatula to deglaze the pan. Add 1 1/2 cups broth and boil until about 2/3 cup
-  liquid remains (5-6 min). Add 1/2 cup cream and boil until sauce thickens slighly
-  (2 min). Return mushrooms and steak to the pan and heat until warmed through (1
-  - 2 min). Season sauce to taste with more salt & pepper if desired (I added about
-  1/4 tsp more salt).'
-html:
-  description: null
-  directions: '<p>Place a large heavy-bottomed pan over medium/high heat and melt
-    in 2 Tbsp butter and 1 Tbsp oil. Add thickly sliced mushrooms and cook 5 min until
-    soft. Stir in onion and cook another 3 minutes. Press in garlic cloves then season
-    with 1/4 tsp salt, 1/4 tsp pepper and 1 Tbsp fresh thyme. Cook another 2 min,
-    stirring constantly until garlic is fragrant, then transfer mushroom mixture to
-    a plate. Wipe the skillet clean with a wet papertowel.</p>
-
-    <p>Pat dry steaks with a paper towel and season all over with salt and pepper
-    (we use a total of 1 tsp salt and 1/4 tsp pepper).</p>
-
-    <p>Place the same pan over medium/high heat and add 2 Tbsp butter and 1 Tbsp oil.
-    When butter is hot and finished foaming, add seasoned steaks to skillet and saute,
-    turning over once with tongs about 3-5 min per side for medium-rare (I cooked
-    5-6 min per side for medium doneness). If steak is browning too fast, reduce heat
-    to medium. Use tongs to transfer steaks to the plate with mushrooms.</p>
-
-    <p>Add 1/2 cup Merlot and boil until reduced by half (3 min), scraping the bottom
-    with a spatula to deglaze the pan. Add 1 1/2 cups broth and boil until about 2/3
-    cup liquid remains (5-6 min). Add 1/2 cup cream and boil until sauce thickens
-    slighly (2 min). Return mushrooms and steak to the pan and heat until warmed through
-    (1 - 2 min). Season sauce to taste with more salt &amp; pepper if desired (I added
-    about 1/4 tsp more salt).</p>
-
-    '
-  ingredients: '<ul>
-
-    <li>4 Tbsp unsalted butter divided</li>
-
-    <li>2 Tbsp olive oil divided</li>
-
-    <li>16 oz baby bella mushrooms thickly sliced</li>
-
-    <li>1 small or 1/2 medium yellow onion finely diced</li>
-
-    <li>4 medium garlic cloves minced</li>
-
-    <li>1 Tbsp chopped fresh thyme or 1 tsp dry thyme if you must</li>
-
-    <li>4 6 oz each filet mignon steaks (about 1 1/2&quot; thick)</li>
-
-    <li>1/2 cup Barefoot Merlot</li>
-
-    <li>1 1/2 cups low sodium beef broth</li>
-
-    <li>1/2 cup heavy whipping cream</li>
-
-    <li>Salt and Pepper to taste</li>
-
-    </ul>
-
-    '
-  notes: '<p>Thinner steaks will cook faster and thicker steaks can take longer.</p>
-
-    '
-  nutrition: null
 image_url: null
 ingredients: '4 Tbsp unsalted butter divided
 
@@ -114,8 +32,6 @@ ingredients: '4 Tbsp unsalted butter divided
   Salt and Pepper to taste'
 intrash: 0
 name: Filet Mignon in Mushroom Wine Sauce
-notes: Thinner steaks will cook faster and thicker steaks can take longer.
-nutritional_info: ''
 photo: C7C0959F-02FE-46D0-9FB1-AE0FE9197BE8-415-0000078A4D72BFB3.jpg
 photo_large: A240BB1E-4B7B-4CD2-9269-1EA68EA6620D-415-000007881ADAF06C.jpg
 photos:
@@ -159,4 +75,19 @@ total_time: ''
 type: null
 uid: 2178D961-6FD7-4D18-86D5-D96953BACD23-1700-00008335CC63C5B9
 ---
-Thinner steaks will cook faster and thicker steaks can take longer.
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>4 Tbsp unsalted butter divided</li>
+<li>2 Tbsp olive oil divided</li>
+<li>16 oz baby bella mushrooms thickly sliced</li>
+<li>1 small or 1/2 medium yellow onion finely diced</li>
+<li>4 medium garlic cloves minced</li>
+<li>1 Tbsp chopped fresh thyme or 1 tsp dry thyme if you must</li>
+<li>4 6 oz each filet mignon steaks (about 1 1/2&quot; thick)</li>
+<li>1/2 cup Barefoot Merlot</li>
+<li>1 1/2 cups low sodium beef broth</li>
+<li>1/2 cup heavy whipping cream</li>
+<li>Salt and Pepper to taste</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

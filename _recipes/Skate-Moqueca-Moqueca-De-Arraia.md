@@ -26,93 +26,6 @@ description: "One of the most popular ways to serve arraia (ray or skate in Engl
   \ likely have dend\xEA in stock, and in cities with an African immigrant population\
   \ you can often find dend\xEA in African markets, labeled simply palm oil."
 difficulty: ''
-directions: "Cut the skate wings into large pieces. Bring lots of water to a boil\
-  \ in a large saucepan, then add the skate. Lower the heat to a simmer and cook the\
-  \ fish for about 15 minutes. Drain the fish, and let cool completely. When the fish\
-  \ is cool, using your fingers or a fork, pull the meat away from the cartilaginous\
-  \ bony structure and flake it. Discard the cartilage. Season the meat with the lime\
-  \ juice, chopped garlic and cilantro and season with salt. Let marinade no more\
-  \ than 1/2 hour.\n\nPreheat the oven to 350F (180C)\n\nIn a ceramic or glass casserole,\
-  \ preferably round, layer the slices of tomato and onion, alternating with layers\
-  \ of the reserved fish. Pour the coconut milk and dend\xEA oil over all. Place in\
-  \ the preheated oven, and cook for 20-25 minutes, or until the tomato and onion\
-  \ are soft and the broth is bubbling hot.\n\nServe immediately accompanied by plain\
-  \ white rice and some sort of hot chili-pepper sauce."
-html:
-  description: "<p>One of the most popular ways to serve arraia (ray or skate in English)\
-    \ in Brazil comes from the northeastern state of Bahia, specifically from the\
-    \ Afro-Brazilian culinary traditions of Salvador, the state's capital city and\
-    \ Brazil's original capital.</p>\n<p>In traditional Bahian cuisine, a thick stew\
-    \ made from fish or seafood in a broth of tomatoes, onions, coconut milk and the\
-    \ brilliant-orange palm oil known as dend\xEA is called a moqueca. The word moqueca\
-    \ and the recipe both come from Africa and the tradition of cooking fish in moquecas\
-    \ crossed the Atlantic to Brazil in the hold of slave ships which carried Africans\
-    \ to slavery in the mines and sugar cane plantations of Brazil.</p>\n<p>This recipe\
-    \ for moqueca de arraia (moqueca of skate or ray) comes from the SENAC cooking\
-    \ school in Salvador, and is a typical moqueca. There are as many recipes for\
-    \ moqueca as there are cooks, but the ingredients used in this recipe are found\
-    \ in some combination in almost every recipe.</p>\n<p>Dend\xEA palm oil has a\
-    \ distinctive color and flavor and there really is no substitute for it, although\
-    \ substituting 2 or 3 tablespoons of sweet paprika will give the final dish almost\
-    \ the same color. However one of the most important flavor components will be\
-    \ missing when dend\xEA is absent. In cities that have a Brazilian immigrant community,\
-    \ markets that cater to Brazilians will likely have dend\xEA in stock, and in\
-    \ cities with an African immigrant population you can often find dend\xEA in African\
-    \ markets, labeled simply palm oil.</p>\n"
-  directions: "<p>Cut the skate wings into large pieces. Bring lots of water to a\
-    \ boil in a large saucepan, then add the skate. Lower the heat to a simmer and\
-    \ cook the fish for about 15 minutes. Drain the fish, and let cool completely.\
-    \ When the fish is cool, using your fingers or a fork, pull the meat away from\
-    \ the cartilaginous bony structure and flake it. Discard the cartilage. Season\
-    \ the meat with the lime juice, chopped garlic and cilantro and season with salt.\
-    \ Let marinade no more than 1/2 hour.</p>\n<p>Preheat the oven to 350F (180C)</p>\n\
-    <p>In a ceramic or glass casserole, preferably round, layer the slices of tomato\
-    \ and onion, alternating with layers of the reserved fish. Pour the coconut milk\
-    \ and dend\xEA oil over all. Place in the preheated oven, and cook for 20-25 minutes,\
-    \ or until the tomato and onion are soft and the broth is bubbling hot.</p>\n\
-    <p>Serve immediately accompanied by plain white rice and some sort of hot chili-pepper\
-    \ sauce.</p>\n"
-  ingredients: "<ul>\n<li>2 lbs (1 kg) skate wings</li>\n<li>1 clove garlic, finely\
-    \ chopped</li>\n<li>juice of one lime</li>\n<li>1 medium onion, sliced</li>\n\
-    <li>2 medium tomatoes, peeled, seeded and sliced</li>\n<li>2/3 cup coconut milk</li>\n\
-    <li>1/3 cup dend\xEA oil</li>\n<li>1/4 cup cilantro, finely chopped</li>\n<li>salt\
-    \ and pepper to taste</li>\n</ul>\n"
-  notes: null
-  nutrition: '<p>Calories 520 Calories from Fat 300
-
-    % DAILY VALUE
-
-    Total Fat 33g 51%
-
-    Saturated Fat 12g 60%
-
-    Trans Fat
-
-    Cholesterol 180mg 60%
-
-    Sodium 360mg 15%
-
-    Potassium 940mg 27%
-
-    Protein 43g 84%
-
-    Calories from Fat 300
-
-    Total Carbohydrate 12g 4%
-
-    Dietary Fiber 3g 12%
-
-    Sugars 5g 10%
-
-    Vitamin A 10%
-
-    Vitamin C 35%
-
-    Calcium 8%
-
-    Iron 25%</p>
-
-    '
 image_url: https://lh5.ggpht.com/HlvYDn0uSzOoSXJmWfEzjM5ze68FapjKdzBu-yzCncp_iE02r2zyEXOi2dJRhMBCWYSFTMU3R5e98--eEeJE=s640-c-rj-v1-e365
 ingredients: "2 lbs (1 kg) skate wings\n1 clove garlic, finely chopped\njuice of one\
   \ lime\n1 medium onion, sliced\n2 medium tomatoes, peeled, seeded and sliced\n2/3\
@@ -120,40 +33,6 @@ ingredients: "2 lbs (1 kg) skate wings\n1 clove garlic, finely chopped\njuice of
   \ and pepper to taste"
 intrash: 0
 name: Skate Moqueca (Moqueca De Arraia)
-notes: ''
-nutritional_info: 'Calories 520 Calories from Fat 300
-
-  % DAILY VALUE
-
-  Total Fat 33g 51%
-
-  Saturated Fat 12g 60%
-
-  Trans Fat
-
-  Cholesterol 180mg 60%
-
-  Sodium 360mg 15%
-
-  Potassium 940mg 27%
-
-  Protein 43g 84%
-
-  Calories from Fat 300
-
-  Total Carbohydrate 12g 4%
-
-  Dietary Fiber 3g 12%
-
-  Sugars 5g 10%
-
-  Vitamin A 10%
-
-  Vitamin C 35%
-
-  Calcium 8%
-
-  Iron 25%'
 photo: 6DAD2576-6BD0-4026-BB1C-40344D7A8107-22544-0004127605C324DC.jpg
 photo_large: null
 photos: []
@@ -167,3 +46,17 @@ total_time: 1 hr 10 min
 type: null
 uid: D81F7CB5-3C38-48A6-A04A-57D9DB0997BD-22544-000412688449837C
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>2 lbs (1 kg) skate wings</li>
+<li>1 clove garlic, finely chopped</li>
+<li>juice of one lime</li>
+<li>1 medium onion, sliced</li>
+<li>2 medium tomatoes, peeled, seeded and sliced</li>
+<li>2/3 cup coconut milk</li>
+<li>1/3 cup dendê oil</li>
+<li>1/4 cup cilantro, finely chopped</li>
+<li>salt and pepper to taste</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

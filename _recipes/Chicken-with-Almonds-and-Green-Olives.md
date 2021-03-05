@@ -8,70 +8,6 @@ created: '2020-04-02 17:11:21'
 created_ts: 1585847481
 description: null
 difficulty: ''
-directions: 'Heat 2 tablespoons of oil in a large braising pan. Add the almonds, bread
-  and garlic. Cook over medium heat so the garlic softens and the bread toasts but
-  nothing burns. Scrape into a food processor and let cool for 5 minutes. Add the
-  saffron and parsley and pulse to a coarse paste.
-
-
-  Preheat oven to 300 degrees. Season the chicken with salt and dust with flour. Add
-  2 tablespoons oil to the braiser and place over medium-high heat. Add chicken and
-  brown all sides, then remove to a plate. Wipe out the pan. Add remaining oil, the
-  chili and onions and cook until softened. Discard the chili. Nestle chicken in the
-  pan, pour in the wine and reduce by half.
-
-
-  Add the almond mixture and the broth, bring to a simmer, cover the pan and braise
-  in the oven until the chicken is almost tender, about 40 minutes. Stir in the olives
-  and cook until the chicken is very tender, 10 minutes more. Serve from the pan.'
-html:
-  description: null
-  directions: '<p>Heat 2 tablespoons of oil in a large braising pan. Add the almonds,
-    bread and garlic. Cook over medium heat so the garlic softens and the bread toasts
-    but nothing burns. Scrape into a food processor and let cool for 5 minutes. Add
-    the saffron and parsley and pulse to a coarse paste.</p>
-
-    <p>Preheat oven to 300 degrees. Season the chicken with salt and dust with flour.
-    Add 2 tablespoons oil to the braiser and place over medium-high heat. Add chicken
-    and brown all sides, then remove to a plate. Wipe out the pan. Add remaining oil,
-    the chili and onions and cook until softened. Discard the chili. Nestle chicken
-    in the pan, pour in the wine and reduce by half.</p>
-
-    <p>Add the almond mixture and the broth, bring to a simmer, cover the pan and
-    braise in the oven until the chicken is almost tender, about 40 minutes. Stir
-    in the olives and cook until the chicken is very tender, 10 minutes more. Serve
-    from the pan.</p>
-
-    '
-  ingredients: "<ul>\n<li>6 tablespoons olive oil</li>\n<li>\xBD cup blanched almonds\
-    \ (preferably Marcona)</li>\n<li>\xBD cup country bread, torn into small pieces</li>\n\
-    <li>4 cloves garlic, chopped</li>\n<li>Small pinch saffron</li>\n<li>1 tablespoon\
-    \ chopped parsley</li>\n<li>4 chicken thighs</li>\n<li>4 chicken drumsticks</li>\n\
-    <li>Sea salt</li>\n<li>Flour, for dusting</li>\n<li>1 dried red chili</li>\n<li>1\
-    \ Spanish onion, sliced</li>\n<li>\xBD cup white wine</li>\n<li>1 cup chicken\
-    \ broth</li>\n<li>\xBD cup pitted green olives</li>\n</ul>\n"
-  notes: null
-  nutrition: '<p>Calories: 927
-
-    Total Carbohydrates: 14 grams
-
-    Total Fat: 70 grams
-
-    Dietary fiber: 3 grams
-
-    Protein: 55 grams
-
-    Saturated fat: 14 grams
-
-    Sodium: 1079 milligrams
-
-    Sugar: 4 grams
-
-    Trans Fat: 0 grams
-
-    Unsaturated fat: 38 grams</p>
-
-    '
 image_url: https://static01.nyt.com/applications/cooking/b21c196/assets/NYTCookingLogo.png
 ingredients: "6 tablespoons olive oil\n\xBD cup blanched almonds (preferably Marcona)\n\
   \xBD cup country bread, torn into small pieces\n4 cloves garlic, chopped\nSmall\
@@ -80,26 +16,6 @@ ingredients: "6 tablespoons olive oil\n\xBD cup blanched almonds (preferably Mar
   \ white wine\n1 cup chicken broth\n\xBD cup pitted green olives"
 intrash: 0
 name: Chicken with Almonds and Green Olives
-notes: null
-nutritional_info: 'Calories: 927
-
-  Total Carbohydrates: 14 grams
-
-  Total Fat: 70 grams
-
-  Dietary fiber: 3 grams
-
-  Protein: 55 grams
-
-  Saturated fat: 14 grams
-
-  Sodium: 1079 milligrams
-
-  Sugar: 4 grams
-
-  Trans Fat: 0 grams
-
-  Unsaturated fat: 38 grams'
 photo: 10A2717F-3673-49E4-9F22-25B13AEC1FAD-9482-0000064C65CE3503.jpg
 photo_large: null
 photos: []
@@ -113,3 +29,23 @@ total_time: ''
 type: null
 uid: 946A1415-F2AA-4840-B4C2-BF0974488278-9482-0000064C5993610E
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>6 tablespoons olive oil</li>
+<li>½ cup blanched almonds (preferably Marcona)</li>
+<li>½ cup country bread, torn into small pieces</li>
+<li>4 cloves garlic, chopped</li>
+<li>Small pinch saffron</li>
+<li>1 tablespoon chopped parsley</li>
+<li>4 chicken thighs</li>
+<li>4 chicken drumsticks</li>
+<li>Sea salt</li>
+<li>Flour, for dusting</li>
+<li>1 dried red chili</li>
+<li>1 Spanish onion, sliced</li>
+<li>½ cup white wine</li>
+<li>1 cup chicken broth</li>
+<li>½ cup pitted green olives</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

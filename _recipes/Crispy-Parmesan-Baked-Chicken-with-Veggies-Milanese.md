@@ -8,85 +8,6 @@ created: '2020-11-16 21:09:56'
 created_ts: 1605560996
 description: null
 difficulty: null
-directions: "Preheat oven to 200\xB0C | 400\xB0F. Lightly grease a baking tray / sheet\
-  \ with cooking oil spray, or a light coating of oil. Set aside.\n\nIn a large bowl,\
-  \ whisk together the egg, lemon juice, 2 teaspoons garlic, parsley, salt and pepper.\n\
-  \nDip chicken into egg mixture, cover and allow to marinade in the refrigerator\
-  \ for 30 minutes to an hour (if time allows).*\n\nIn another bowl, combine the breadcrumbs\
-  \ with the parmesan cheese.\n\nDredge the egg coated chicken in the breadcrumb/parmesan\
-  \ mixture, lightly pressing to evenly coat.\n\nPlace chicken onto the baking sheet\
-  \ / tray and lightly spray with cooking oil spray. Arrange the potatoes around the\
-  \ chicken in a single layer. Mix together the butter, 2 teaspoons garlic and salt\
-  \ to taste, and pour half of the butter mixture over the potatoes. Toss to evenly\
-  \ coat.\n\nBake in preheated oven for 15 minutes.\n\nRemove baking tray from the\
-  \ oven and carefully flip each chicken breast. Move the potatoes to one side and\
-  \ place the green beans around the chicken on the other side of the baking sheet.\
-  \ Pour over the remaining garlic butter and return to the oven to broil (or grill)\
-  \ on medium-high heat for a further 10 minutes, or until chicken is golden and crisp,\
-  \ and potatoes are cooked through.\n\nSprinkle with fresh chopped parsley (optional),\
-  \ and serve immediately."
-html:
-  description: null
-  directions: "<p>Preheat oven to 200\xB0C | 400\xB0F. Lightly grease a baking tray\
-    \ / sheet with cooking oil spray, or a light coating of oil. Set aside.</p>\n\
-    <p>In a large bowl, whisk together the egg, lemon juice, 2 teaspoons garlic, parsley,\
-    \ salt and pepper.</p>\n<p>Dip chicken into egg mixture, cover and allow to marinade\
-    \ in the refrigerator for 30 minutes to an hour (if time allows).*</p>\n<p>In\
-    \ another bowl, combine the breadcrumbs with the parmesan cheese.</p>\n<p>Dredge\
-    \ the egg coated chicken in the breadcrumb/parmesan mixture, lightly pressing\
-    \ to evenly coat.</p>\n<p>Place chicken onto the baking sheet / tray and lightly\
-    \ spray with cooking oil spray. Arrange the potatoes around the chicken in a single\
-    \ layer. Mix together the butter, 2 teaspoons garlic and salt to taste, and pour\
-    \ half of the butter mixture over the potatoes. Toss to evenly coat.</p>\n<p>Bake\
-    \ in preheated oven for 15 minutes.</p>\n<p>Remove baking tray from the oven and\
-    \ carefully flip each chicken breast. Move the potatoes to one side and place\
-    \ the green beans around the chicken on the other side of the baking sheet. Pour\
-    \ over the remaining garlic butter and return to the oven to broil (or grill)\
-    \ on medium-high heat for a further 10 minutes, or until chicken is golden and\
-    \ crisp, and potatoes are cooked through.</p>\n<p>Sprinkle with fresh chopped\
-    \ parsley (optional), and serve immediately.</p>\n"
-  ingredients: '<ul>
-
-    <li>For The Chicken:</li>
-
-    <li>1 large egg</li>
-
-    <li>2 tablespoons lemon juice (or juice of 1/2 a lemon)</li>
-
-    <li>2 teaspoons minced garlic</li>
-
-    <li>1/2 tablespoon fresh chopped parsley</li>
-
-    <li>1/2 teaspoon each salt and pepper , to season</li>
-
-    <li>1/2 cup breadcrumbs</li>
-
-    <li>1/3 cup fresh grated parmesan cheese</li>
-
-    <li>4 skinless , boneless chicken breasts (or thighs)</li>
-
-    <li>For The Veggies:</li>
-
-    <li>8-10 (1 pound | 500 g) baby potatoes, quartered</li>
-
-    <li>1/2 cup butter , melted</li>
-
-    <li>2 teaspoons minced garlic</li>
-
-    <li>salt to taste</li>
-
-    <li>1 pound | 500 g green beans , cut into thirds</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: '<p>Calories: 502kcal | Carbohydrates: 41g | Protein: 33g | Fat: 22g
-    | Saturated Fat: 17g | Cholesterol: 216mg | Sodium: 852mg | Potassium: 1219mg
-    | Fiber: 6g | Sugar: 6g | Vitamin A: 1690IU | Vitamin C: 48.5mg | Calcium: 209mg
-    | Iron: 4.2mg</p>
-
-    '
 image_url: https://cafedelites.com/wp-content/uploads/2016/10/Lemon-Parmesan-Chicken-Schnitzel-Veggies-Sheetpan-Dinner-3000.jpg
 ingredients: 'For The Chicken:
 
@@ -119,11 +40,6 @@ ingredients: 'For The Chicken:
   1 pound | 500 g green beans , cut into thirds'
 intrash: 0
 name: Crispy Parmesan Baked Chicken with Veggies (Milanese)
-notes: null
-nutritional_info: 'Calories: 502kcal | Carbohydrates: 41g | Protein: 33g | Fat: 22g
-  | Saturated Fat: 17g | Cholesterol: 216mg | Sodium: 852mg | Potassium: 1219mg |
-  Fiber: 6g | Sugar: 6g | Vitamin A: 1690IU | Vitamin C: 48.5mg | Calcium: 209mg |
-  Iron: 4.2mg'
 photo: 12EADF33-7C5C-4EB8-9BBD-AEE3BC2C1A3E-42657-00001C298B87FB6F.jpg
 photo_large: null
 photos: []
@@ -137,3 +53,23 @@ total_time: null
 type: null
 uid: 996F2C5E-96F3-49F0-8BA7-FA11B61A8D71-42657-00001C297F8BDF66
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>For The Chicken:</li>
+<li>1 large egg</li>
+<li>2 tablespoons lemon juice (or juice of 1/2 a lemon)</li>
+<li>2 teaspoons minced garlic</li>
+<li>1/2 tablespoon fresh chopped parsley</li>
+<li>1/2 teaspoon each salt and pepper , to season</li>
+<li>1/2 cup breadcrumbs</li>
+<li>1/3 cup fresh grated parmesan cheese</li>
+<li>4 skinless , boneless chicken breasts (or thighs)</li>
+<li>For The Veggies:</li>
+<li>8-10 (1 pound | 500 g) baby potatoes, quartered</li>
+<li>1/2 cup butter , melted</li>
+<li>2 teaspoons minced garlic</li>
+<li>salt to taste</li>
+<li>1 pound | 500 g green beans , cut into thirds</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

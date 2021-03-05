@@ -8,53 +8,6 @@ created: '2020-07-31 11:14:42'
 created_ts: 1596194082
 description: null
 difficulty: ''
-directions: 'Heat oven to 200 degrees and place a large oven-safe plate or baking
-  sheet inside.
-
-
-  Place flour on a large, shallow plate. Season both sides of fish fillets with salt
-  and pepper to taste. Dredge fish in flour, shaking off excess.
-
-
-  In a 12-inch nonstick or enamel-lined skillet over medium-high heat, heat 2 tablespoons
-  clarified butter until bubbling. Place half of the fish fillets in the pan and cook
-  until just done, 2 to 3 minutes per side, then transfer to the plate or baking sheet
-  in the oven to keep warm. Add 2 more tablespoons clarified butter to skillet and
-  heat until bubbling, then cook remaining fillets. Wipe out the skillet.
-
-
-  Arrange the fish on a warm serving platter. Top with parsley. In reserved skillet,
-  heat remaining 4 tablespoons unsalted butter until bubbling and golden, 1 to 2 minutes,
-  then pour evenly over fillets. Serve immediately, with lemon wedges on the side.'
-html:
-  description: null
-  directions: '<p>Heat oven to 200 degrees and place a large oven-safe plate or baking
-    sheet inside.</p>
-
-    <p>Place flour on a large, shallow plate. Season both sides of fish fillets with
-    salt and pepper to taste. Dredge fish in flour, shaking off excess.</p>
-
-    <p>In a 12-inch nonstick or enamel-lined skillet over medium-high heat, heat 2
-    tablespoons clarified butter until bubbling. Place half of the fish fillets in
-    the pan and cook until just done, 2 to 3 minutes per side, then transfer to the
-    plate or baking sheet in the oven to keep warm. Add 2 more tablespoons clarified
-    butter to skillet and heat until bubbling, then cook remaining fillets. Wipe out
-    the skillet.</p>
-
-    <p>Arrange the fish on a warm serving platter. Top with parsley. In reserved skillet,
-    heat remaining 4 tablespoons unsalted butter until bubbling and golden, 1 to 2
-    minutes, then pour evenly over fillets. Serve immediately, with lemon wedges on
-    the side.</p>
-
-    '
-  ingredients: "<ul>\n<li>\xBD cup all-purpose flour</li>\n<li>6 4-ounce skinless,\
-    \ boneless sole or other thin fish fillets, patted dry</li>\n<li>Kosher salt,\
-    \ to taste</li>\n<li>Freshly ground white or black pepper, to taste</li>\n<li>4\
-    \ tablespoons clarified butter</li>\n<li>4 tablespoons unsalted butter, diced,\
-    \ at room temperature</li>\n<li>3 tablespoons minced parsley</li>\n<li>1 lemon,\
-    \ cut into wedges, for serving</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://static01.nyt.com/images/2017/01/13/dining/13COOKING-SOLE-MEUNIERE2/13COOKING-SOLE-MEUNIERE2-videoHpMedium.jpg
 ingredients: "\xBD cup all-purpose flour\n6 4-ounce skinless, boneless sole or other\
   \ thin fish fillets, patted dry\nKosher salt, to taste\nFreshly ground white or\
@@ -63,8 +16,6 @@ ingredients: "\xBD cup all-purpose flour\n6 4-ounce skinless, boneless sole or o
   \ into wedges, for serving"
 intrash: 0
 name: "Sole Meuni\xE8re"
-notes: null
-nutritional_info: null
 photo: 6F22A899-D008-4069-9053-CE46A9D7FFEE-22830-0000100207793ED9.jpg
 photo_large: null
 photos: []
@@ -78,3 +29,16 @@ total_time: ''
 type: null
 uid: 8BD3439A-B5C7-4F08-AB16-6B7FAC37FF17-22830-00001001DED2BBE9
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>½ cup all-purpose flour</li>
+<li>6 4-ounce skinless, boneless sole or other thin fish fillets, patted dry</li>
+<li>Kosher salt, to taste</li>
+<li>Freshly ground white or black pepper, to taste</li>
+<li>4 tablespoons clarified butter</li>
+<li>4 tablespoons unsalted butter, diced, at room temperature</li>
+<li>3 tablespoons minced parsley</li>
+<li>1 lemon, cut into wedges, for serving</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

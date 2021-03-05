@@ -8,80 +8,6 @@ created: '2020-03-31 19:52:28'
 created_ts: 1585684348
 description: ''
 difficulty: Easy
-directions: "Fill a large pot with 1 inch of water and stir in the salt. (Be sure\
-  \ your pot has a tightfitting lid.) Place a steamer rack inside of the pot. (If\
-  \ you don\u2019t have a steamer rack, lightly bunch a long piece of foil so that\
-  \ it looks like a rope. Then make a figure eight out of the foil rope and set it\
-  \ in the pot.)\n\nBring the water to a boil over high heat. Using tongs, pick up\
-  \ the crab, grasping it from behind and placing one arm of the tongs on the belly\
-  \ and the other on the back with the legs on either side. Place the crab back side\
-  \ up in the steamer rack. Cover and return the water to a full boil, about 1 minute.\
-  \ Reduce the heat to medium high and steam until the crab is cooked through, about\
-  \ 15 minutes more.\n\nUsing tongs, remove the crab to a colander and rinse under\
-  \ cold water until cool enough to handle.\n\nPlace the crab belly side up on a cutting\
-  \ board with the face closest to you. Using your hands or the tip of a knife, lift\
-  \ the triangular piece of shell at the tail of the crab (the apron), break it off,\
-  \ and discard. Pick up the crab with your hands, place a thumb in the hole where\
-  \ the apron was, and pull in one motion to remove the top shell (the carapace) from\
-  \ the rest of the body. Discard the carapace.\n\nPlace the crab belly side down\
-  \ on the cutting board with the tail closest to you. Remove and discard the soft,\
-  \ pointy gills from the body. Break off and discard the mouthpiece (the mandibles).\
-  \ Pull away any loose fragments from the body and discard. Rinse away any viscera\
-  \ under cold water.\n\nPlace the crab on the cutting board back side up and cut\
-  \ in half from face to tail through the middle of the body. If desired, cut the\
-  \ crab into smaller pieces by slicing between the legs, making sure to cut through\
-  \ the body.\n\nTo extract the meat, use seafood crackers or small hammers to crack\
-  \ open the claws, legs, and body. Serve with aioli, melted butter, or cucumber mignonette\
-  \ for dipping."
-html:
-  description: null
-  directions: "<p>Fill a large pot with 1 inch of water and stir in the salt. (Be\
-    \ sure your pot has a tightfitting lid.) Place a steamer rack inside of the pot.\
-    \ (If you don\u2019t have a steamer rack, lightly bunch a long piece of foil so\
-    \ that it looks like a rope. Then make a figure eight out of the foil rope and\
-    \ set it in the pot.)</p>\n<p>Bring the water to a boil over high heat. Using\
-    \ tongs, pick up the crab, grasping it from behind and placing one arm of the\
-    \ tongs on the belly and the other on the back with the legs on either side. Place\
-    \ the crab back side up in the steamer rack. Cover and return the water to a full\
-    \ boil, about 1 minute. Reduce the heat to medium high and steam until the crab\
-    \ is cooked through, about 15 minutes more.</p>\n<p>Using tongs, remove the crab\
-    \ to a colander and rinse under cold water until cool enough to handle.</p>\n\
-    <p>Place the crab belly side up on a cutting board with the face closest to you.\
-    \ Using your hands or the tip of a knife, lift the triangular piece of shell at\
-    \ the tail of the crab (the apron), break it off, and discard. Pick up the crab\
-    \ with your hands, place a thumb in the hole where the apron was, and pull in\
-    \ one motion to remove the top shell (the carapace) from the rest of the body.\
-    \ Discard the carapace.</p>\n<p>Place the crab belly side down on the cutting\
-    \ board with the tail closest to you. Remove and discard the soft, pointy gills\
-    \ from the body. Break off and discard the mouthpiece (the mandibles). Pull away\
-    \ any loose fragments from the body and discard. Rinse away any viscera under\
-    \ cold water.</p>\n<p>Place the crab on the cutting board back side up and cut\
-    \ in half from face to tail through the middle of the body. If desired, cut the\
-    \ crab into smaller pieces by slicing between the legs, making sure to cut through\
-    \ the body.</p>\n<p>To extract the meat, use seafood crackers or small hammers\
-    \ to crack open the claws, legs, and body. Serve with aioli, melted butter, or\
-    \ cucumber mignonette for dipping.</p>\n"
-  ingredients: '<ul>
-
-    <li>For the crab:</li>
-
-    <li>1 tablespoon kosher salt</li>
-
-    <li>1 (2-pound) whole live Dungeness crab</li>
-
-    <li>For serving:</li>
-
-    <li>Aioli (recipe link in intro)</li>
-
-    <li>Warm melted butter</li>
-
-    <li>Cucumber Mignonette (recipe link in intro)</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: https://chowhound1.cbsistatic.com/thumbnail/1200/0/chowhound1.cbsistatic.com/assets/recipe_photos/30258_RecipeImage_dungeness_crab2.jpg
 ingredients: 'For the crab:
 
@@ -98,8 +24,6 @@ ingredients: 'For the crab:
   Cucumber Mignonette (recipe link in intro)'
 intrash: 0
 name: Easy Steamed Dungeness Crab
-notes: ''
-nutritional_info: ''
 photo: 5E50E1BB-0CC8-4617-8AA7-8E7C39AA0634-16595-00015313A3AFA11E.jpg
 photo_large: null
 photos: []
@@ -113,3 +37,15 @@ total_time: ''
 type: null
 uid: A947450F-684C-4077-A669-1F1F4B3E244A-16595-000152F449C1E9CB
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>For the crab:</li>
+<li>1 tablespoon kosher salt</li>
+<li>1 (2-pound) whole live Dungeness crab</li>
+<li>For serving:</li>
+<li>Aioli (recipe link in intro)</li>
+<li>Warm melted butter</li>
+<li>Cucumber Mignonette (recipe link in intro)</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

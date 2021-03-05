@@ -8,111 +8,6 @@ created: '2020-12-06 00:49:20'
 created_ts: 1607215760
 description: null
 difficulty: null
-directions: "1. Adjust oven rack to lower position and preheat oven to 250\xB0F (121\xB0\
-  C). Heat oil in a large Dutch oven over high heat until lightly smoking. Add beef\
-  \ shins or oxtail and soup bones. Cook, flipping and stirring pieces occasionally,\
-  \ until well browned on all surfaces, about 15 minutes. Using tongs, transfer beef\
-  \ to a large plate and set aside.\n\n2. Add carrot, celery, and onion to pot and\
-  \ cook, stirring occasionally, until starting to lightly brown, about 8 minutes.\
-  \ Add wine, bay leaves, thyme, and parsley and cook, scraping up browned bits from\
-  \ bottom of pot. Bring to a boil and cook until reduced by half, about 10 minutes.\
-  \ Add chicken stock, bring to a boil, and cook until reduced by half, another 10\
-  \ minutes.\n\n3. Arrange beef shins/oxtail and bones in the bottom of a large roasting\
-  \ pan. Pour entire contents of Dutch oven on top of bones and spread vegetables\
-  \ around into an even layer. Place a V-rack on top, arranging meat and vegetables\
-  \ so that rack rests on bottom of pan.\n\n4. Season rib roast generously with salt\
-  \ and pepper on all sides and place on rack with fat cap facing up. Place in oven\
-  \ and cook until center of roast registers 125\xB0F (52\xB0C) on an instant-read\
-  \ thermometer for medium-rare or 135\xB0F (57\xB0C) for medium, 4 to 5 hours.\n\n\
-  5. Remove roast from oven, transfer to a large plate, and tent loosely with aluminum\
-  \ foil. Place in a warm spot in the kitchen and allow to rest while you finish the\
-  \ jus. Meanwhile, increase oven temperature to highest possible setting, 500 to\
-  \ 550\xB0F (260 to 288\xB0C).\n\n6. Using tongs, remove shins/oxtail from roasting\
-  \ pan and transfer to a medium saucepan. Pour remaining contents of pan through\
-  \ a fine-mesh strainer into saucepan. Discard strained vegetables and bones. (Reserve\
-  \ marrow, if you like, for spreading on bread or mixing back into jus.)\n\n7. Using\
-  \ a ladle, skim excess fat off top of liquid and discard. Bring liquid to a boil,\
-  \ reduce to a simmer, and cook until shins/oxtail are completely tender, about 20\
-  \ minutes. Transfer shins/oxtail to a serving plate and tent with foil to keep warm.\
-  \ Season jus to taste with salt and pepper (you may not need any salt). Stir in\
-  \ butter off heat. Keep warm.\n\n8. Wipe out roasting pan and replace V-rack. Remove\
-  \ foil from prime rib and place on top of rack with fat cap facing up. Ten minutes\
-  \ before guests are ready to be served, place roast back in hot oven and cook until\
-  \ well browned and crisp on the exterior, 6 to 10 minutes. Remove from oven, carve,\
-  \ and serve immediately, serving shin/oxtail meat on the side and passing hot jus\
-  \ around the table."
-html:
-  description: null
-  directions: "<ol>\n<li>\n<p>Adjust oven rack to lower position and preheat oven\
-    \ to 250\xB0F (121\xB0C). Heat oil in a large Dutch oven over high heat until\
-    \ lightly smoking. Add beef shins or oxtail and soup bones. Cook, flipping and\
-    \ stirring pieces occasionally, until well browned on all surfaces, about 15 minutes.\
-    \ Using tongs, transfer beef to a large plate and set aside.</p>\n</li>\n<li>\n\
-    <p>Add carrot, celery, and onion to pot and cook, stirring occasionally, until\
-    \ starting to lightly brown, about 8 minutes. Add wine, bay leaves, thyme, and\
-    \ parsley and cook, scraping up browned bits from bottom of pot. Bring to a boil\
-    \ and cook until reduced by half, about 10 minutes. Add chicken stock, bring to\
-    \ a boil, and cook until reduced by half, another 10 minutes.</p>\n</li>\n<li>\n\
-    <p>Arrange beef shins/oxtail and bones in the bottom of a large roasting pan.\
-    \ Pour entire contents of Dutch oven on top of bones and spread vegetables around\
-    \ into an even layer. Place a V-rack on top, arranging meat and vegetables so\
-    \ that rack rests on bottom of pan.</p>\n</li>\n<li>\n<p>Season rib roast generously\
-    \ with salt and pepper on all sides and place on rack with fat cap facing up.\
-    \ Place in oven and cook until center of roast registers 125\xB0F (52\xB0C) on\
-    \ an instant-read thermometer for medium-rare or 135\xB0F (57\xB0C) for medium,\
-    \ 4 to 5 hours.</p>\n</li>\n<li>\n<p>Remove roast from oven, transfer to a large\
-    \ plate, and tent loosely with aluminum foil. Place in a warm spot in the kitchen\
-    \ and allow to rest while you finish the jus. Meanwhile, increase oven temperature\
-    \ to highest possible setting, 500 to 550\xB0F (260 to 288\xB0C).</p>\n</li>\n\
-    <li>\n<p>Using tongs, remove shins/oxtail from roasting pan and transfer to a\
-    \ medium saucepan. Pour remaining contents of pan through a fine-mesh strainer\
-    \ into saucepan. Discard strained vegetables and bones. (Reserve marrow, if you\
-    \ like, for spreading on bread or mixing back into jus.)</p>\n</li>\n<li>\n<p>Using\
-    \ a ladle, skim excess fat off top of liquid and discard. Bring liquid to a boil,\
-    \ reduce to a simmer, and cook until shins/oxtail are completely tender, about\
-    \ 20 minutes. Transfer shins/oxtail to a serving plate and tent with foil to keep\
-    \ warm. Season jus to taste with salt and pepper (you may not need any salt).\
-    \ Stir in butter off heat. Keep warm.</p>\n</li>\n<li>\n<p>Wipe out roasting pan\
-    \ and replace V-rack. Remove foil from prime rib and place on top of rack with\
-    \ fat cap facing up. Ten minutes before guests are ready to be served, place roast\
-    \ back in hot oven and cook until well browned and crisp on the exterior, 6 to\
-    \ 10 minutes. Remove from oven, carve, and serve immediately, serving shin/oxtail\
-    \ meat on the side and passing hot jus around the table.</p>\n</li>\n</ol>\n"
-  ingredients: '<ul>
-
-    <li>1 tablespoon (15ml) vegetable oil</li>
-
-    <li>2 pounds (900g) beef shins or oxtail</li>
-
-    <li>1 pound (450g) beef or veal soup bones</li>
-
-    <li>1 large carrot, peeled and roughly chopped (about 1 1/2 cups)</li>
-
-    <li>2 ribs celery, roughly chopped (about 1 1/2 cups)</li>
-
-    <li>1 large onion, peeled and roughly chopped (about 1 1/2 cups)</li>
-
-    <li>1 (750ml) bottle dry red wine</li>
-
-    <li>2 bay leaves</li>
-
-    <li>4 sprigs fresh thyme</li>
-
-    <li>4 parsley stems</li>
-
-    <li>1 quart (1L) homemade or store-bought low-sodium chicken stock</li>
-
-    <li>1 standing rib roast (prime rib), 3 to 12 pounds (1.3 to 5.4kg; see note)</li>
-
-    <li>Kosher salt and freshly ground black pepper</li>
-
-    <li>4 tablespoons (58g) unsalted butter</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: https://www.seriouseats.com/recipes/images/2015/12/20151202-prime-rib-red-wine-jus-step-by-step-kenji-28-200x150.jpg
 ingredients: '1 tablespoon (15ml) vegetable oil
 
@@ -143,8 +38,6 @@ ingredients: '1 tablespoon (15ml) vegetable oil
   4 tablespoons (58g) unsalted butter'
 intrash: 0
 name: Perfect Prime Rib with Red Wine Jus
-notes: null
-nutritional_info: null
 photo: 9BA982AD-4E78-4C2E-94B5-EB65E8D13390-25227-00001658C86634F8.jpg
 photo_large: null
 photos: []
@@ -158,3 +51,22 @@ total_time: null
 type: null
 uid: E763742A-CCA6-430C-A854-E7AA059BD18B-25227-00001658B3908BF6
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 tablespoon (15ml) vegetable oil</li>
+<li>2 pounds (900g) beef shins or oxtail</li>
+<li>1 pound (450g) beef or veal soup bones</li>
+<li>1 large carrot, peeled and roughly chopped (about 1 1/2 cups)</li>
+<li>2 ribs celery, roughly chopped (about 1 1/2 cups)</li>
+<li>1 large onion, peeled and roughly chopped (about 1 1/2 cups)</li>
+<li>1 (750ml) bottle dry red wine</li>
+<li>2 bay leaves</li>
+<li>4 sprigs fresh thyme</li>
+<li>4 parsley stems</li>
+<li>1 quart (1L) homemade or store-bought low-sodium chicken stock</li>
+<li>1 standing rib roast (prime rib), 3 to 12 pounds (1.3 to 5.4kg; see note)</li>
+<li>Kosher salt and freshly ground black pepper</li>
+<li>4 tablespoons (58g) unsalted butter</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

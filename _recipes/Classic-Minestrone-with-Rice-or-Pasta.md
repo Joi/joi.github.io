@@ -8,66 +8,6 @@ created: '2020-02-02 15:13:01'
 created_ts: 1580656381
 description: null
 difficulty: null
-directions: 'BEFORE YOU BEGIN
-
-
-  Adding pasta or rice makes this hearty soup appropriate as a dinner. If the soup
-  seems too thick after adding the pasta or rice, stir in a little water. Pasta and
-  rice do not hold up well when refrigerated or frozen, so serve this soup as soon
-  as the pasta or rice is tender.
-
-
-  Bring vegetables, tomatoes, water, cheese rind, and 1 teaspoon salt to boil in a
-  soup kettle or pot. Reduce heat to medium-low; simmer, uncovered and stirring occasionally,
-  until vegetables are tender but still hold their shape, about 1 hour. Add arborio
-  rice or pasta and continue cooking until rice is tender but still a bit firm in
-  the center of each grain, about 20 minutes, or until pasta is al dente, 8 to 12
-  minutes, depending on shape.
-
-
-  Add beans and cook just until heated through, about 5 minutes. Remove pot from heat.
-  Remove and discard cheese rind. Stir in pesto (or rosemary-garlic mixture). Adjust
-  seasonings, adding pepper and more salt, if necessary. Ladle soup into bowls and
-  serve immediately.'
-html:
-  description: null
-  directions: '<p>BEFORE YOU BEGIN</p>
-
-    <p>Adding pasta or rice makes this hearty soup appropriate as a dinner. If the
-    soup seems too thick after adding the pasta or rice, stir in a little water. Pasta
-    and rice do not hold up well when refrigerated or frozen, so serve this soup as
-    soon as the pasta or rice is tender.</p>
-
-    <p>Bring vegetables, tomatoes, water, cheese rind, and 1 teaspoon salt to boil
-    in a soup kettle or pot. Reduce heat to medium-low; simmer, uncovered and stirring
-    occasionally, until vegetables are tender but still hold their shape, about 1
-    hour. Add arborio rice or pasta and continue cooking until rice is tender but
-    still a bit firm in the center of each grain, about 20 minutes, or until pasta
-    is al dente, 8 to 12 minutes, depending on shape.</p>
-
-    <p>Add beans and cook just until heated through, about 5 minutes. Remove pot from
-    heat. Remove and discard cheese rind. Stir in pesto (or rosemary-garlic mixture).
-    Adjust seasonings, adding pepper and more salt, if necessary. Ladle soup into
-    bowls and serve immediately.</p>
-
-    '
-  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>2 small leeks (or 1 large),\
-    \ white and light green parts sliced thin crosswise (about 3/4 cup) and washed\
-    \ thoroughly</li>\n<li>2 medium carrots, peeled and cut into small dice (about\
-    \ 3/4 cup)</li>\n<li>2 small onions, peeled and cut into small dice (about 3/4\
-    \ cup)</li>\n<li>2 medium ribs celery, trimmed and cut into small dice (about\
-    \ 3/4 cup)</li>\n<li>1 medium baking potato, peeled and cut into medium dice (about\
-    \ 1 1/4 cups)</li>\n<li>1 medium zucchini, trimmed and cut into medium dice (about\
-    \ 1 1/4 cups)</li>\n<li>3 cups stemmed spinach leaves, cut into thin strips</li>\n\
-    <li>(28 ounce) can whole tomatoes, packed in juice, drained, and chopped</li>\n\
-    <li>8 cups water</li>\n<li>1 Parmesan cheese rind, about 5 x 2 inches</li>\n<li>Table\
-    \ salt</li>\n<li>\xBD cup Arborio rice (or small pasta shape, such as elbows,\
-    \ ditalini, or orzo)</li>\n<li>1 can (15 ounces) cannellini beans, drained and\
-    \ rinsed (about 1 1/2 cups)</li>\n<li>\xBC cup basil pesto (or 1 tablespoon minced\
-    \ fresh rosemary mixed with 1 teaspoon minced garlic and 1 tablespoon extra-virgin\
-    \ olive oil)</li>\n<li>Ground black pepper</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/3283_s098-classic-minestrone-article
 ingredients: "GATHER YOUR INGREDIENTS\n2 small leeks (or 1 large), white and light\
   \ green parts sliced thin crosswise (about 3/4 cup) and washed thoroughly\n2 medium\
@@ -84,8 +24,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n2 small leeks (or 1 large), white and lig
   \ olive oil)\nGround black pepper"
 intrash: 0
 name: Classic Minestrone with Rice or Pasta
-notes: null
-nutritional_info: null
 photo: 3285798C-A5D2-419B-9A54-B53705DC645D-39996-000020289038D8AE.jpg
 photo_large: null
 photos: []
@@ -99,3 +37,24 @@ total_time: null
 type: null
 uid: 48DB1B13-A0D8-41BE-B52A-E6DBB235B608-39996-000020288761ACAE
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>GATHER YOUR INGREDIENTS</li>
+<li>2 small leeks (or 1 large), white and light green parts sliced thin crosswise (about 3/4 cup) and washed thoroughly</li>
+<li>2 medium carrots, peeled and cut into small dice (about 3/4 cup)</li>
+<li>2 small onions, peeled and cut into small dice (about 3/4 cup)</li>
+<li>2 medium ribs celery, trimmed and cut into small dice (about 3/4 cup)</li>
+<li>1 medium baking potato, peeled and cut into medium dice (about 1 1/4 cups)</li>
+<li>1 medium zucchini, trimmed and cut into medium dice (about 1 1/4 cups)</li>
+<li>3 cups stemmed spinach leaves, cut into thin strips</li>
+<li>(28 ounce) can whole tomatoes, packed in juice, drained, and chopped</li>
+<li>8 cups water</li>
+<li>1 Parmesan cheese rind, about 5 x 2 inches</li>
+<li>Table salt</li>
+<li>½ cup Arborio rice (or small pasta shape, such as elbows, ditalini, or orzo)</li>
+<li>1 can (15 ounces) cannellini beans, drained and rinsed (about 1 1/2 cups)</li>
+<li>¼ cup basil pesto (or 1 tablespoon minced fresh rosemary mixed with 1 teaspoon minced garlic and 1 tablespoon extra-virgin olive oil)</li>
+<li>Ground black pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

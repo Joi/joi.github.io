@@ -11,91 +11,6 @@ created: '2020-04-21 18:43:20'
 created_ts: 1587494600
 description: null
 difficulty: Hard
-directions: "Preheat the oven to 400 degrees. Oil or butter one or two baking dishes\
-  \ large enough to accommodate the fish fillets in one layer. Lay the fish in the\
-  \ dish(es) and season with salt and pepper.\n\nHeat the olive oil over medium heat\
-  \ in a small or medium skillet and add the shallot. Cook, stirring, until tender\
-  \ and translucent, about 3 minutes. Add the wine to the pan, bring to a boil, and\
-  \ pour the wine and shallots over the fish. Return the skillet to the stove (make\
-  \ sure the heat is off) for later use. Cover the baking dish with foil and place\
-  \ in the oven. Bake 8 to 10 minutes, or 5 minutes for each 1/2 inch of thickness,\
-  \ until the fish is opaque and pulls apart easily with a fork.\n\nWhile the fish\
-  \ is in the oven:\n\nHeat a good-sized heavy bottomed saucepan over medium-high\
-  \ heat, adding the shallots, wine, vermouth, dashi-kombu, and stock to the pot all\
-  \ at once. Bring to a boil and adjust heat so it comes to a gently simmer. Cook\
-  \ down until the liquid is getting thick, almost syrupy.\n\nPull the pan from the\
-  \ heat and remove the dashi-kombu, discarding or saving for another use.\n\nReturn\
-  \ the pan to the heat and add the cr\xE8me fraiche or heavy cream. If using the\
-  \ former, cook just longer enough until it is thickened to just coat the back of\
-  \ a spoon. If using cream, this will take a bit longer, but simmer until the cream\
-  \ will lightly coat the back of a spoon.\n\nScatter the sorrel over the sauce and\
-  \ wilt the sorrel for 25 seconds. Pull the pan from the heat and add the butter,\
-  \ swirling the pan to melt and incorporate the butter into an emulsion. If you think\
-  \ you need to stir the sauce, use a wooden spoon, not a whisk, which will catch\
-  \ the sorrel. Season with salt and pepper to taste. Add a few drops of lemon juice\
-  \ and taste. The lemon juice should add a spark to the sauce. Add more if you think\
-  \ it needs it.\n\nUse the sauce right away as it suffers if allowed to sit. If you\
-  \ need to, you can make the sauce up to the point where you remove the dashi-kombu.\
-  \ Then you can finish it quickly at the last minute.\n\nWhen the fish is done remove\
-  \ it from the oven and carefully transfer to a platter or plates and cover with\
-  \ sauce. Fish may complete before sauce. If so, plate on warm plates."
-html:
-  description: null
-  directions: "<p>Preheat the oven to 400 degrees. Oil or butter one or two baking\
-    \ dishes large enough to accommodate the fish fillets in one layer. Lay the fish\
-    \ in the dish(es) and season with salt and pepper.</p>\n<p>Heat the olive oil\
-    \ over medium heat in a small or medium skillet and add the shallot. Cook, stirring,\
-    \ until tender and translucent, about 3 minutes. Add the wine to the pan, bring\
-    \ to a boil, and pour the wine and shallots over the fish. Return the skillet\
-    \ to the stove (make sure the heat is off) for later use. Cover the baking dish\
-    \ with foil and place in the oven. Bake 8 to 10 minutes, or 5 minutes for each\
-    \ 1/2 inch of thickness, until the fish is opaque and pulls apart easily with\
-    \ a fork.</p>\n<p>While the fish is in the oven:</p>\n<p>Heat a good-sized heavy\
-    \ bottomed saucepan over medium-high heat, adding the shallots, wine, vermouth,\
-    \ dashi-kombu, and stock to the pot all at once. Bring to a boil and adjust heat\
-    \ so it comes to a gently simmer. Cook down until the liquid is getting thick,\
-    \ almost syrupy.</p>\n<p>Pull the pan from the heat and remove the dashi-kombu,\
-    \ discarding or saving for another use.</p>\n<p>Return the pan to the heat and\
-    \ add the cr\xE8me fraiche or heavy cream. If using the former, cook just longer\
-    \ enough until it is thickened to just coat the back of a spoon. If using cream,\
-    \ this will take a bit longer, but simmer until the cream will lightly coat the\
-    \ back of a spoon.</p>\n<p>Scatter the sorrel over the sauce and wilt the sorrel\
-    \ for 25 seconds. Pull the pan from the heat and add the butter, swirling the\
-    \ pan to melt and incorporate the butter into an emulsion. If you think you need\
-    \ to stir the sauce, use a wooden spoon, not a whisk, which will catch the sorrel.\
-    \ Season with salt and pepper to taste. Add a few drops of lemon juice and taste.\
-    \ The lemon juice should add a spark to the sauce. Add more if you think it needs\
-    \ it.</p>\n<p>Use the sauce right away as it suffers if allowed to sit. If you\
-    \ need to, you can make the sauce up to the point where you remove the dashi-kombu.\
-    \ Then you can finish it quickly at the last minute.</p>\n<p>When the fish is\
-    \ done remove it from the oven and carefully transfer to a platter or plates and\
-    \ cover with sauce. Fish may complete before sauce. If so, plate on warm plates.</p>\n"
-  ingredients: "<ul>\n<li>1 \xBD pounds Pacific sole or flounder fillets</li>\n<li>Salt\
-    \ and freshly ground pepper</li>\n<li>1 tablespoon extra-virgin olive oil</li>\n\
-    <li>3 tablespoons finely chopped shallot</li>\n<li>1 cup dry white wine (you can\
-    \ also use ros\xE9; the sauce will have a pink hue)</li>\n<li>1 medium bunch sorrel\
-    \ (around 4-ounces by weight), stems removed gently with a knife (pulling the\
-    \ stems as for kale will bruise the sorrel and discolor it, helping the sauce\
-    \ to turn khaki and taste like hay</li>\n<li>2 medium shallots, minced</li>\n\
-    <li>6 tablespoons (3 ounces) dry white wine, preferably un-oaked sauvignon blanc</li>\n\
-    <li>3 tablespoons (1\xBD ounces) white Noilly Prat (or other high quality) white\
-    \ vermouth*</li>\n<li>1 quart vegetable stock, fish stock if you\u2019ve got it</li>\n\
-    <li>1 3-inch x 3-inch square dashi-kombu, wiped with a damp paper towel and the\
-    \ edges pinked with kitchen scissors**</li>\n<li>1\xBD cups cr\xE8me fraiche if\
-    \ you have it, or use heavy cream</li>\n<li>2 tablespoons unsalted butter, cut\
-    \ into pea-sized bits and kept cold</li>\n<li>Salt and pepper (white pepper preferred\
-    \ for color as well as flavor, but not a deal breaker) ***</li>\n<li>Juice of\
-    \ half a lemon, as needed</li>\n</ul>\n"
-  notes: "<p>Chef\u2019s Notes from High Ground Organics site: *The vermouth adds\
-    \ depth and some sweetness to the sauce. Cheap vermouth can be harsh or bitter,\
-    \ and the herbs and spices in them just are not very pleasant when reduced. I\
-    \ opted for Noilly Prat because it is a French product in a French dish, but any\
-    \ good quality white vermouth will work. **Dashi-kombu is a seaweed found in Japanese\
-    \ markets and health food stores. Kombu adds an oceanic quality missing if you\
-    \ do not have fish fumet. It also helps to add viscosity to the sauce. ***White\
-    \ pepper will blend into the sauce better, and has a slightly higher pitched flavor/aroma\
-    \ than black pepper, so it is called for here.</p>\n"
-  nutrition: null
 image_url: null
 ingredients: "1 \xBD pounds Pacific sole or flounder fillets\nSalt and freshly ground\
   \ pepper\n1 tablespoon extra-virgin olive oil\n3 tablespoons finely chopped shallot\n\
@@ -113,16 +28,6 @@ ingredients: "1 \xBD pounds Pacific sole or flounder fillets\nSalt and freshly g
   \ as needed"
 intrash: 0
 name: Sorrel Sauce with Poached Fish
-notes: "Chef\u2019s Notes from High Ground Organics site: *The vermouth adds depth\
-  \ and some sweetness to the sauce. Cheap vermouth can be harsh or bitter, and the\
-  \ herbs and spices in them just are not very pleasant when reduced. I opted for\
-  \ Noilly Prat because it is a French product in a French dish, but any good quality\
-  \ white vermouth will work. **Dashi-kombu is a seaweed found in Japanese markets\
-  \ and health food stores. Kombu adds an oceanic quality missing if you do not have\
-  \ fish fumet. It also helps to add viscosity to the sauce. ***White pepper will\
-  \ blend into the sauce better, and has a slightly higher pitched flavor/aroma than\
-  \ black pepper, so it is called for here."
-nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -137,4 +42,23 @@ total_time: 45 min
 type: null
 uid: 7A82E399-1C0A-4A54-B4A6-539CFD569953-89150-0000F342AD89AD55
 ---
-Chef’s Notes from High Ground Organics site: *The vermouth adds depth and some sweetness to the sauce. Cheap vermouth can be harsh or bitter, and the herbs and spices in them just are not very pleasant when reduced. I opted for Noilly Prat because it is a French product in a French dish, but any good quality white vermouth will work. **Dashi-kombu is a seaweed found in Japanese markets and health food stores. Kombu adds an oceanic quality missing if you do not have fish fumet. It also helps to add viscosity to the sauce. ***White pepper will blend into the sauce better, and has a slightly higher pitched flavor/aroma than black pepper, so it is called for here.
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 ½ pounds Pacific sole or flounder fillets</li>
+<li>Salt and freshly ground pepper</li>
+<li>1 tablespoon extra-virgin olive oil</li>
+<li>3 tablespoons finely chopped shallot</li>
+<li>1 cup dry white wine (you can also use rosé; the sauce will have a pink hue)</li>
+<li>1 medium bunch sorrel (around 4-ounces by weight), stems removed gently with a knife (pulling the stems as for kale will bruise the sorrel and discolor it, helping the sauce to turn khaki and taste like hay</li>
+<li>2 medium shallots, minced</li>
+<li>6 tablespoons (3 ounces) dry white wine, preferably un-oaked sauvignon blanc</li>
+<li>3 tablespoons (1½ ounces) white Noilly Prat (or other high quality) white vermouth*</li>
+<li>1 quart vegetable stock, fish stock if you’ve got it</li>
+<li>1 3-inch x 3-inch square dashi-kombu, wiped with a damp paper towel and the edges pinked with kitchen scissors**</li>
+<li>1½ cups crème fraiche if you have it, or use heavy cream</li>
+<li>2 tablespoons unsalted butter, cut into pea-sized bits and kept cold</li>
+<li>Salt and pepper (white pepper preferred for color as well as flavor, but not a deal breaker) ***</li>
+<li>Juice of half a lemon, as needed</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

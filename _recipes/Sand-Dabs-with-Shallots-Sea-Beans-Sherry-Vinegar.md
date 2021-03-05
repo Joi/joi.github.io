@@ -27,110 +27,6 @@ description: "A RICHLY FLAVORED PANFRY THAT HAS A PUNGENT, DELICIOUS AROMA. \u20
   \ things, you should opt for the larger fish~it will be easier to manage 4 sizzling,\
   \ slippery objects than 8. Serve with new potatoes, boiled or steamed in their skins."
 difficulty: ''
-directions: "Briefly rinse the fish and pat dry. Lightly salt them all over. {You\
-  \ can do this step up to a few hours in advance; if you do, cover the fish loosely\
-  \ and refrigerate.}\n\nTen minutes to an hour before cooking the fish, pat dry again\
-  \ and dredge in flour. Tap to remove the excess flour, arrange, barely touching\
-  \ one another, on a platter or sheet pan, and refrigerate. This will help set the\
-  \ crust for easier handling and less flour will shed into, and taint, the pan sauce.\n\
-  \nHeat about half of the butter in a 12-inch skillet over medium heat. When it has\
-  \ melted and separated, but before it begins to color, give the fish a last flourshedding\
-  \ tap and gently lay them in the pan; they should sizzle on contact. Don\u2019t\
-  \ try to move the fish until they have set a crust. Cook until golden on both sides\
-  \ and cooked through, about 3 minutes per side, adjusting the time if your fish\
-  \ are thicker or thinner than 1/2 inch. Monitor closely, and reduce the heat if\
-  \ the butter is threatening to color beyond golden, or raise it if the fish are\
-  \ not coloring at all. Turn the fish gently, trying not to crack the golden crust;\
-  \ I lift and turn them with a metal spatula, nudging with a wooden spoon so they\
-  \ land where I want them to. When the fish are cooked, remove the pan from the heat\
-  \ and transfer to warm plates or a platter. Protect from drafts while you concoct\
-  \ the simple pan sauce.\n\nPour off the butter if it is darker than hazelnut colored.\
-  \ Return the pan to medium-low heat and add the remaining butter, the shallots,\
-  \ and glasswort, caperberries, or capers. Cook, stirring constantly, until the shallots\
-  \ have just lost their raw edge. Raise the heat slightly and add the vinegar. Taste\
-  \ as it comes to a boil, but it shouldn\u2019t need salt~the briny wort or capers\
-  \ will likely provide enough. Spoon over the fish and serve piping hot, while the\
-  \ heady aroma of brown butter and evaporating vinegar is still concentrated.\n\n\
-  Note: To clarify butter, melt the butter in your smallest, narrowest saucepan, or\
-  \ a butter warmer, over low heat. Monitor it as it comes to a controlled, quiet\
-  \ simmer, then let it bubble for a minute. Pull from the heat and leave to settle\
-  \ and separate, which should take 10 minutes or less. Skim the surface, then gently\
-  \ tilt the pan and pour the clear yellow butter off the water and solids at the\
-  \ bottom of the pan. WHOLE"
-html:
-  description: "<p>A RICHLY FLAVORED PANFRY THAT HAS A PUNGENT, DELICIOUS AROMA. \u201C\
-    Sea beans\u201D are glasswort, a crunchy, briny marsh succulent. We use fresh\
-    \ sea beans in the late spring when they are briefly in season, and pickled ones\
-    \ the rest of the year {see Pickled Glasswort, here}. You can substitute capers\
-    \ or caperberries. In lieu of sand dabs, a mild, succulent flatfish that is a\
-    \ San Francisco delicacy, you can use small, whole, pan-ready sole or flounder.\
-    \ By \u201Cpan-ready,\u201D I mean gutted, scaled, head and tail removed, and\
-    \ fins trimmed. Filleted fish is an option as well, but adjust the cooking time\
-    \ accordingly, and be prepared for it to curl as it cooks. Skate wing is another\
-    \ good choice~the skate in black butter of French tradition is the obvious inspiration\
-    \ for this dish.</p>\n<p>A large nonstick skillet is the best choice here. If\
-    \ you don\u2019t have one, clarify half of the butter {see Note below} before\
-    \ you brown the fish in it {or any time you plan to pan-brown a wet protein or\
-    \ starch in butter}. To keep wet fish from sticking to a non-nonstick pan, you\
-    \ need to use higher heat, and the solids in whole butter would burn at that temperature.\
-    \ Clarifying also removes the water, which makes food stick, from the butter.</p>\n\
-    <p>If you are new to panfrying fragile things, you should opt for the larger fish~it\
-    \ will be easier to manage 4 sizzling, slippery objects than 8. Serve with new\
-    \ potatoes, boiled or steamed in their skins.</p>\n"
-  directions: "<p>Briefly rinse the fish and pat dry. Lightly salt them all over.\
-    \ {You can do this step up to a few hours in advance; if you do, cover the fish\
-    \ loosely and refrigerate.}</p>\n<p>Ten minutes to an hour before cooking the\
-    \ fish, pat dry again and dredge in flour. Tap to remove the excess flour, arrange,\
-    \ barely touching one another, on a platter or sheet pan, and refrigerate. This\
-    \ will help set the crust for easier handling and less flour will shed into, and\
-    \ taint, the pan sauce.</p>\n<p>Heat about half of the butter in a 12-inch skillet\
-    \ over medium heat. When it has melted and separated, but before it begins to\
-    \ color, give the fish a last flourshedding tap and gently lay them in the pan;\
-    \ they should sizzle on contact. Don\u2019t try to move the fish until they have\
-    \ set a crust. Cook until golden on both sides and cooked through, about 3 minutes\
-    \ per side, adjusting the time if your fish are thicker or thinner than 1/2 inch.\
-    \ Monitor closely, and reduce the heat if the butter is threatening to color beyond\
-    \ golden, or raise it if the fish are not coloring at all. Turn the fish gently,\
-    \ trying not to crack the golden crust; I lift and turn them with a metal spatula,\
-    \ nudging with a wooden spoon so they land where I want them to. When the fish\
-    \ are cooked, remove the pan from the heat and transfer to warm plates or a platter.\
-    \ Protect from drafts while you concoct the simple pan sauce.</p>\n<p>Pour off\
-    \ the butter if it is darker than hazelnut colored. Return the pan to medium-low\
-    \ heat and add the remaining butter, the shallots, and glasswort, caperberries,\
-    \ or capers. Cook, stirring constantly, until the shallots have just lost their\
-    \ raw edge. Raise the heat slightly and add the vinegar. Taste as it comes to\
-    \ a boil, but it shouldn\u2019t need salt~the briny wort or capers will likely\
-    \ provide enough. Spoon over the fish and serve piping hot, while the heady aroma\
-    \ of brown butter and evaporating vinegar is still concentrated.</p>\n<p>Note:\
-    \ To clarify butter, melt the butter in your smallest, narrowest saucepan, or\
-    \ a butter warmer, over low heat. Monitor it as it comes to a controlled, quiet\
-    \ simmer, then let it bubble for a minute. Pull from the heat and leave to settle\
-    \ and separate, which should take 10 minutes or less. Skim the surface, then gently\
-    \ tilt the pan and pour the clear yellow butter off the water and solids at the\
-    \ bottom of the pan. WHOLE</p>\n"
-  ingredients: '<ul>
-
-    <li>8 small or 4 large pan-ready sand dabs, about 3 or 7 ounces, respectively,
-    and 1/2 inch thick, or 4 pan-ready flatfish, such as sole or flounder, about 7
-    to 8 ounces each, or about 1-1/2 pounds sole or flounder fillets</li>
-
-    <li>About 1 cup all-purpose flour</li>
-
-    <li>3 ounces slivered shallots {scant 3/4 cup or about 3 large shallots}</li>
-
-    <li>2/3 cup fresh glasswort or 1/3 cup drained Pickled Glasswort or 1/3 cup rinsed
-    caperberries or 1/4 cup rinsed capers</li>
-
-    <li>8 tablespoons {1 stick} unsalted butter {or 4 tablespoons clarified plus 4
-    tablespoons whole unsalted butter, if using a non-nonstick pan}</li>
-
-    <li>2 tablespoons sherry vinegar</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: '8 small or 4 large pan-ready sand dabs, about 3 or 7 ounces, respectively,
   and 1/2 inch thick, or 4 pan-ready flatfish, such as sole or flounder, about 7 to
@@ -149,8 +45,6 @@ ingredients: '8 small or 4 large pan-ready sand dabs, about 3 or 7 ounces, respe
   2 tablespoons sherry vinegar'
 intrash: 0
 name: Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar
-notes: null
-nutritional_info: null
 photo: 35DA805A-09E3-4D67-ACBD-D84815911951-13002-0005A1ABFBFFEF7C.jpg
 photo_large: 55A0B755-3EA3-4225-9085-985AC1335A03-13002-0005A1A84A7FBAE2.jpg
 photos:
@@ -179,3 +73,14 @@ total_time: ''
 type: null
 uid: 82E24D0C-460D-4289-95EE-8D5AF55D365A-13002-0005925FAFB78D5B
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>8 small or 4 large pan-ready sand dabs, about 3 or 7 ounces, respectively, and 1/2 inch thick, or 4 pan-ready flatfish, such as sole or flounder, about 7 to 8 ounces each, or about 1-1/2 pounds sole or flounder fillets</li>
+<li>About 1 cup all-purpose flour</li>
+<li>3 ounces slivered shallots {scant 3/4 cup or about 3 large shallots}</li>
+<li>2/3 cup fresh glasswort or 1/3 cup drained Pickled Glasswort or 1/3 cup rinsed caperberries or 1/4 cup rinsed capers</li>
+<li>8 tablespoons {1 stick} unsalted butter {or 4 tablespoons clarified plus 4 tablespoons whole unsalted butter, if using a non-nonstick pan}</li>
+<li>2 tablespoons sherry vinegar</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

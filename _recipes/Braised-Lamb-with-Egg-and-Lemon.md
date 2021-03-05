@@ -9,103 +9,6 @@ created: '2020-05-14 14:33:38'
 created_ts: 1589466818
 description: ''
 difficulty: ''
-directions: 'Position a rack in the middle of the oven and heat to 400 degrees. Season
-  lamb pieces generously with salt and pepper. Put 2 tablespoons olive oil in a large
-  Dutch oven or heavy-bottom soup pot over medium-high heat and brown the lamb lightly
-  on each side. (Do this in batches so as not to crowd the pan.) Remove browned lamb
-  from pan and set aside.
-
-
-  Lower heat to medium, then add onions and cook until soft, allowing them to brown
-  a bit, about 8 to 10 minutes. Add the garlic, flour, tomato paste and saffron, if
-  using, and stir to coat the onions. Stir in wine and broth, then bring to a simmer.
-  Add the browned lamb pieces, thyme, rosemary and bay leaf.
-
-
-  Cover pot and place on the middle rack of the oven. Bake for 15 minutes, then lower
-  heat to 350 degrees and cook for an additional hour. The meat should be meltingly
-  tender when pierced with a paring knife or skewer.
-
-
-  Remove lamb pieces with a slotted spoon. Strain cooking liquid through a fine-mesh
-  sieve, then return lamb pieces and strained liquid to the pot. Taste and adjust
-  seasoning. Cool to room temperature, then cover pot and refrigerate overnight; this
-  makes removing the fat easier and improves the flavor.
-
-
-  Remove the stew from the fridge and remove congealed fat. Place pot over medium
-  heat and bring to a bare simmer.
-
-
-  Bring a large pot of generously salted water to a boil. Cook fregola until al dente,
-  about 8 to 9 minutes, drain and put into a large serving bowl. Season with salt
-  and pepper to taste, and drizzle with olive oil. Keep warm.
-
-
-  Just before serving, whisk egg yolks and lemon juice together until well combined.
-  Gradually whisk in some of the hot stew liquid to temper the eggs. Turn off the
-  heat under the stew. Pour egg mixture back into the stew, stirring carefully with
-  a wooden spoon. The sauce will thicken very slightly. Taste for seasoning. (Sauce
-  may curdle if it gets too hot. If necessary, keep stew warm over a double boiler.)
-
-
-  Transfer stew to a serving dish. Mix together parsley, celery heart leaves and lemon
-  zest, and sprinkle abundantly over the stew. Garnish with peeled and halved hard-cooked
-  eggs. Serve with fregola and, if desired, vegetables such as spring carrots, turnips,
-  asparagus or peas.'
-html:
-  description: null
-  directions: '<p>Position a rack in the middle of the oven and heat to 400 degrees.
-    Season lamb pieces generously with salt and pepper. Put 2 tablespoons olive oil
-    in a large Dutch oven or heavy-bottom soup pot over medium-high heat and brown
-    the lamb lightly on each side. (Do this in batches so as not to crowd the pan.)
-    Remove browned lamb from pan and set aside.</p>
-
-    <p>Lower heat to medium, then add onions and cook until soft, allowing them to
-    brown a bit, about 8 to 10 minutes. Add the garlic, flour, tomato paste and saffron,
-    if using, and stir to coat the onions. Stir in wine and broth, then bring to a
-    simmer. Add the browned lamb pieces, thyme, rosemary and bay leaf.</p>
-
-    <p>Cover pot and place on the middle rack of the oven. Bake for 15 minutes, then
-    lower heat to 350 degrees and cook for an additional hour. The meat should be
-    meltingly tender when pierced with a paring knife or skewer.</p>
-
-    <p>Remove lamb pieces with a slotted spoon. Strain cooking liquid through a fine-mesh
-    sieve, then return lamb pieces and strained liquid to the pot. Taste and adjust
-    seasoning. Cool to room temperature, then cover pot and refrigerate overnight;
-    this makes removing the fat easier and improves the flavor.</p>
-
-    <p>Remove the stew from the fridge and remove congealed fat. Place pot over medium
-    heat and bring to a bare simmer.</p>
-
-    <p>Bring a large pot of generously salted water to a boil. Cook fregola until
-    al dente, about 8 to 9 minutes, drain and put into a large serving bowl. Season
-    with salt and pepper to taste, and drizzle with olive oil. Keep warm.</p>
-
-    <p>Just before serving, whisk egg yolks and lemon juice together until well combined.
-    Gradually whisk in some of the hot stew liquid to temper the eggs. Turn off the
-    heat under the stew. Pour egg mixture back into the stew, stirring carefully with
-    a wooden spoon. The sauce will thicken very slightly. Taste for seasoning. (Sauce
-    may curdle if it gets too hot. If necessary, keep stew warm over a double boiler.)</p>
-
-    <p>Transfer stew to a serving dish. Mix together parsley, celery heart leaves
-    and lemon zest, and sprinkle abundantly over the stew. Garnish with peeled and
-    halved hard-cooked eggs. Serve with fregola and, if desired, vegetables such as
-    spring carrots, turnips, asparagus or peas.</p>
-
-    '
-  ingredients: "<ul>\n<li>4 pounds boneless lamb shoulder, cut in 3-inch pieces</li>\n\
-    <li>Salt and pepper</li>\n<li>Extra-virgin olive oil</li>\n<li>1 large onion,\
-    \ diced</li>\n<li>4 large garlic cloves, chopped</li>\n<li>2 tablespoons all-purpose\
-    \ flour</li>\n<li>1 tablespoon tomato paste</li>\n<li>Pinch of saffron, crumbled\
-    \ (optional)</li>\n<li>\xBD cup white wine</li>\n<li>4 cups good chicken broth</li>\n\
-    <li>2 sprigs thyme</li>\n<li>2 sprigs rosemary</li>\n<li>Bay leaf</li>\n<li>1\
-    \ cup fregola, or use Israeli couscous</li>\n<li>4 egg yolks</li>\n<li>\xBD cup\
-    \ lemon juice, plus 1 teaspoon lemon zest</li>\n<li>3 tablespoons chopped parsley</li>\n\
-    <li>3 tablespoons chopped celery heart leaves</li>\n<li>4 hard-cooked eggs (8\
-    \ to 9 minutes) at room temperature, for garnish</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://static01.nyt.com/images/2016/03/16/dining/16KITCH1/16KITCH1-articleLarge.jpg
 ingredients: "4 pounds boneless lamb shoulder, cut in 3-inch pieces\nSalt and pepper\n\
   Extra-virgin olive oil\n1 large onion, diced\n4 large garlic cloves, chopped\n2\
@@ -117,8 +20,6 @@ ingredients: "4 pounds boneless lamb shoulder, cut in 3-inch pieces\nSalt and pe
   \ room temperature, for garnish"
 intrash: 0
 name: Braised Lamb with Egg and Lemon
-notes: ''
-nutritional_info: ''
 photo: 452A5100-63DA-4BFD-95C2-8F29AA0C2F8E-13891-0000A7435AA6AEFD.jpg
 photo_large: null
 photos: []
@@ -132,3 +33,27 @@ total_time: ''
 type: null
 uid: 6CC84790-1010-48A2-8720-1766D78708EE-13891-0000A740E9DE8711
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>4 pounds boneless lamb shoulder, cut in 3-inch pieces</li>
+<li>Salt and pepper</li>
+<li>Extra-virgin olive oil</li>
+<li>1 large onion, diced</li>
+<li>4 large garlic cloves, chopped</li>
+<li>2 tablespoons all-purpose flour</li>
+<li>1 tablespoon tomato paste</li>
+<li>Pinch of saffron, crumbled (optional)</li>
+<li>½ cup white wine</li>
+<li>4 cups good chicken broth</li>
+<li>2 sprigs thyme</li>
+<li>2 sprigs rosemary</li>
+<li>Bay leaf</li>
+<li>1 cup fregola, or use Israeli couscous</li>
+<li>4 egg yolks</li>
+<li>½ cup lemon juice, plus 1 teaspoon lemon zest</li>
+<li>3 tablespoons chopped parsley</li>
+<li>3 tablespoons chopped celery heart leaves</li>
+<li>4 hard-cooked eggs (8 to 9 minutes) at room temperature, for garnish</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -9,89 +9,12 @@ created: '2020-03-16 19:01:31'
 created_ts: 1584385291
 description: null
 difficulty: ''
-directions: 'For each of 4 packages, place one 12-inch-long sheet of aluminum foil
-  on top of another. Smear top sheet with 1/2 tablespoon olive oil, and layer a fillet
-  of salmon, 6 tomato halves, salt and pepper, 4 basil leaves and another half tablespoon
-  oil. Seal package by folding foil onto itself and crimping edges tightly. Repeat
-  to make other packages, and refrigerate until ready to cook, no more than 24 hours
-  later.
-
-
-  When you are ready to cook, heat oven to 500 degrees. Place packages in a roasting
-  pan. (Or they can be cooked on top of the stove in 2 skillets over medium-high heat.)
-  Cook 5 minutes (for medium-rare) to 8 minutes from the time the mixture starts to
-  sizzle, or roughly 10 to 12 minutes total.
-
-
-  Let packages rest a minute, and cut a slit along the top with a knife. Use a knife
-  and fork to open the package. Spoon the salmon, garnish and juices onto a plate,
-  and serve.'
-html:
-  description: null
-  directions: '<p>For each of 4 packages, place one 12-inch-long sheet of aluminum
-    foil on top of another. Smear top sheet with 1/2 tablespoon olive oil, and layer
-    a fillet of salmon, 6 tomato halves, salt and pepper, 4 basil leaves and another
-    half tablespoon oil. Seal package by folding foil onto itself and crimping edges
-    tightly. Repeat to make other packages, and refrigerate until ready to cook, no
-    more than 24 hours later.</p>
-
-    <p>When you are ready to cook, heat oven to 500 degrees. Place packages in a roasting
-    pan. (Or they can be cooked on top of the stove in 2 skillets over medium-high
-    heat.) Cook 5 minutes (for medium-rare) to 8 minutes from the time the mixture
-    starts to sizzle, or roughly 10 to 12 minutes total.</p>
-
-    <p>Let packages rest a minute, and cut a slit along the top with a knife. Use
-    a knife and fork to open the package. Spoon the salmon, garnish and juices onto
-    a plate, and serve.</p>
-
-    '
-  ingredients: "<ul>\n<li>4 tablespoons extra virgin olive oil</li>\n<li>1 \xBD to\
-    \ 2 pounds salmon fillet, cut crosswise (4 pieces)</li>\n<li>12 cherry tomatoes,\
-    \ sliced in half</li>\n<li>Salt and pepper</li>\n<li>16 basil leaves</li>\n</ul>\n"
-  notes: null
-  nutrition: '<p>Calories: 305
-
-    Total Carbohydrates: 2 grams
-
-    Total Fat: 25 grams
-
-    Dietary fiber: 1 grams
-
-    Protein: 18 grams
-
-    Saturated fat: 4 grams
-
-    Sodium: 339 milligrams
-
-    Sugar: 1 grams
-
-    Unsaturated fat: 13 grams</p>
-
-    '
 image_url: https://static01.nyt.com/images/2019/04/16/dining/mb-salmon-and-tomatoes-in-foil/merlin_151791966_abb05c69-bdb1-46ee-9bf3-92205387ec0c-articleLarge.jpg
 ingredients: "4 tablespoons extra virgin olive oil\n1 \xBD to 2 pounds salmon fillet,\
   \ cut crosswise (4 pieces)\n12 cherry tomatoes, sliced in half\nSalt and pepper\n\
   16 basil leaves"
 intrash: 0
 name: Salmon and Tomatoes in Foil
-notes: null
-nutritional_info: 'Calories: 305
-
-  Total Carbohydrates: 2 grams
-
-  Total Fat: 25 grams
-
-  Dietary fiber: 1 grams
-
-  Protein: 18 grams
-
-  Saturated fat: 4 grams
-
-  Sodium: 339 milligrams
-
-  Sugar: 1 grams
-
-  Unsaturated fat: 13 grams'
 photo: 73235E37-9CCB-48C8-9DF1-63C85F8985F6-3480-00000292AA592733.jpg
 photo_large: null
 photos: []
@@ -105,3 +28,13 @@ total_time: ''
 type: null
 uid: 478343E5-7749-4378-BE94-DDBF5303D157-3480-00000292A2FF3684
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>4 tablespoons extra virgin olive oil</li>
+<li>1 ½ to 2 pounds salmon fillet, cut crosswise (4 pieces)</li>
+<li>12 cherry tomatoes, sliced in half</li>
+<li>Salt and pepper</li>
+<li>16 basil leaves</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

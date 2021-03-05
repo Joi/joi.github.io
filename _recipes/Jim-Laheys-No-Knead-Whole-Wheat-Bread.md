@@ -8,70 +8,6 @@ created: '2020-04-21 17:20:15'
 created_ts: 1587489615
 description: null
 difficulty: null
-directions: "In a medium bowl, stir together the flours, salt, and yeast. Add the\
-  \ water and, using a wooden spoon or your hand, mix until you have a wet, sticky\
-  \ dough, about 30 seconds.\n\nCover the bowl and let it sit at room temperature\
-  \ until the surface is dotted with bubbles and the dough has more than doubled in\
-  \ size, 12 to 18 hours.\n\nGenerously dust a work surface with flour. Use a bowl\
-  \ scraper or rubber spatula to scrape the dough onto the surface in 1 piece. Using\
-  \ lightly floured hands or a bowl scraper or spatula, lift the edges of the dough\
-  \ in toward the center. Nudge and tuck in the edges of the dough to make it round.\n\
-  \nPlace a clean towel on your work surface and generously dust it with wheat bran,\
-  \ cornmeal, or flour. Gently place the dough on the towel, seam side down. If the\
-  \ dough feels tacky or sticky, dust the top lightly with wheat bran, cornmeal, or\
-  \ flour.\n\nFold the ends of the tea towel loosely over the dough to cover it and\
-  \ place it in a warm, draft-free spot to rise for 1 to 2 hours. The dough is ready\
-  \ when it is almost double in size. When you gently poke the dough with your finger,\
-  \ it should hold the impression. If it springs back, let it rise for another 15\
-  \ minutes.\n\nAbout half an hour before you think the second rise is complete, preheat\
-  \ the oven to 475\xB0F (245\xB0C). Adjust the oven rack to the lower third position\
-  \ and place a 4 1/2-to-5 1/2-quart heavy Dutch oven or pot with a lid in the center\
-  \ of the rack.\n\nUsing pot holders, carefully remove the preheated pot from the\
-  \ oven and uncover it. Unfold the tea towel and quickly but gently invert the dough\
-  \ into the pot, seam side up. (Use caution\u2014the pot will be very hot.) Cover\
-  \ the pot and bake for 30 minutes.\n\nRemove the lid and continue baking until the\
-  \ loaf is a deep chestnut color but not burnt, 15 to 30 minutes more. The bread\
-  \ is done when it registers 200\xB0F to 210\xB0F (93\xB0C to 99\xB0C) on an instant-read\
-  \ thermometer.\n\nUse a heatproof spatula or pot holders to carefully lift the bread\
-  \ out of the pot and place it on a rack to cool thoroughly.\n\nSlice and\u2026sigh.\
-  \ Originally published October 5, 2009."
-html:
-  description: null
-  directions: "<p>In a medium bowl, stir together the flours, salt, and yeast. Add\
-    \ the water and, using a wooden spoon or your hand, mix until you have a wet,\
-    \ sticky dough, about 30 seconds.</p>\n<p>Cover the bowl and let it sit at room\
-    \ temperature until the surface is dotted with bubbles and the dough has more\
-    \ than doubled in size, 12 to 18 hours.</p>\n<p>Generously dust a work surface\
-    \ with flour. Use a bowl scraper or rubber spatula to scrape the dough onto the\
-    \ surface in 1 piece. Using lightly floured hands or a bowl scraper or spatula,\
-    \ lift the edges of the dough in toward the center. Nudge and tuck in the edges\
-    \ of the dough to make it round.</p>\n<p>Place a clean towel on your work surface\
-    \ and generously dust it with wheat bran, cornmeal, or flour. Gently place the\
-    \ dough on the towel, seam side down. If the dough feels tacky or sticky, dust\
-    \ the top lightly with wheat bran, cornmeal, or flour.</p>\n<p>Fold the ends of\
-    \ the tea towel loosely over the dough to cover it and place it in a warm, draft-free\
-    \ spot to rise for 1 to 2 hours. The dough is ready when it is almost double in\
-    \ size. When you gently poke the dough with your finger, it should hold the impression.\
-    \ If it springs back, let it rise for another 15 minutes.</p>\n<p>About half an\
-    \ hour before you think the second rise is complete, preheat the oven to 475\xB0\
-    F (245\xB0C). Adjust the oven rack to the lower third position and place a 4 1/2-to-5\
-    \ 1/2-quart heavy Dutch oven or pot with a lid in the center of the rack.</p>\n\
-    <p>Using pot holders, carefully remove the preheated pot from the oven and uncover\
-    \ it. Unfold the tea towel and quickly but gently invert the dough into the pot,\
-    \ seam side up. (Use caution\u2014the pot will be very hot.) Cover the pot and\
-    \ bake for 30 minutes.</p>\n<p>Remove the lid and continue baking until the loaf\
-    \ is a deep chestnut color but not burnt, 15 to 30 minutes more. The bread is\
-    \ done when it registers 200\xB0F to 210\xB0F (93\xB0C to 99\xB0C) on an instant-read\
-    \ thermometer.</p>\n<p>Use a heatproof spatula or pot holders to carefully lift\
-    \ the bread out of the pot and place it on a rack to cool thoroughly.</p>\n<p>Slice\
-    \ and\u2026sigh. Originally published October 5, 2009.</p>\n"
-  ingredients: "<ul>\n<li>2 1/4 cups bread flour, plus more for the work surface</li>\n\
-    <li>3/4 cup whole-wheat flour</li>\n<li>1 1/4 teaspoons table salt</li>\n<li>1/2\
-    \ teaspoon instant or other active dry yeast</li>\n<li>1 1/3 cups cool (55 to\
-    \ 65\xB0F | 13\xB0 to 18\xB0C) water</li>\n<li>Wheat bran, cornmeal, or additional\
-    \ flour, for dusting</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://s23991.pcdn.co/wp-content/uploads/2009/10/jim-lahey-no-knead-whole-wheat-bread.jpg
 ingredients: "2 1/4 cups bread flour, plus more for the work surface\n3/4 cup whole-wheat\
   \ flour\n1 1/4 teaspoons table salt\n1/2 teaspoon instant or other active dry yeast\n\
@@ -79,8 +15,6 @@ ingredients: "2 1/4 cups bread flour, plus more for the work surface\n3/4 cup wh
   \ or additional flour, for dusting"
 intrash: 0
 name: Jim Lahey's No-Knead Whole-Wheat Bread
-notes: null
-nutritional_info: null
 photo: D1CE5E54-8BFA-4E6A-9DD7-1A7B6FB0D1F0-41786-0000140C4299043B.jpg
 photo_large: null
 photos:
@@ -97,3 +31,14 @@ total_time: null
 type: null
 uid: 5F3E3671-76A6-4945-9815-8862865AC3CA-41786-0000140C36B417D2
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>2 1/4 cups bread flour, plus more for the work surface</li>
+<li>3/4 cup whole-wheat flour</li>
+<li>1 1/4 teaspoons table salt</li>
+<li>1/2 teaspoon instant or other active dry yeast</li>
+<li>1 1/3 cups cool (55 to 65°F | 13° to 18°C) water</li>
+<li>Wheat bran, cornmeal, or additional flour, for dusting</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

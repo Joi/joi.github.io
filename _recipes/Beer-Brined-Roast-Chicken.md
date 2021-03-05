@@ -8,75 +8,6 @@ created: '2020-05-16 13:50:06'
 created_ts: 1589637006
 description: null
 difficulty: ''
-directions: "Prepare the brine: In a large pot combine 8 cups water, the salt and\
-  \ the sugar and bring to a simmer over high heat, stirring to help dissolve the\
-  \ salt and sugar. Remove from heat and add garlic, leek, thyme, sage and shallots;\
-  \ let cool to room temperature.\n\nPlace the chicken in a deep container large enough\
-  \ to hold it and the brine. Pour the cooled brine over the chicken. Pour in the\
-  \ 3 bottles of beer until the chicken is submerged; cover and refrigerate overnight.\n\
-  \nPrepare the chicken and vegetables: Heat oven to 350 degrees. Combine the brussels\
-  \ sprouts, potatoes, onions, chopped sage and lemon zest in a large bowl. Drizzle\
-  \ with oil and season with salt and pepper; toss to evenly coat.\n\nRemove the chicken\
-  \ from the brine and pat the skin dry with paper towels. Place about half of the\
-  \ vegetables in the bottom of a roasting pan or large saut\xE9 pan and set the chicken\
-  \ on top. Rub the butter evenly over the top of the chicken to coat. Pour the bottle\
-  \ of beer into the pan and arrange the sage sprigs in the pan around the chicken.\n\
-  \nRoast the chicken for 1 hour, basting every 20 minutes with the liquid in the\
-  \ pan.\n\nIncrease the oven temperature to 400 degrees. Spread the remaining vegetables\
-  \ on a baking sheet and place on a low rack or the bottom of the oven. Cook until\
-  \ the chicken skin is golden brown and crisp and the vegetables are just tender\
-  \ and slightly charred, 20 to 30 more minutes, stirring the vegetables and basting\
-  \ the chicken once halfway through.\n\nLet the chicken rest for 10 minutes before\
-  \ carving. Plate chicken with a mix of roasted veggies and the vegetables from the\
-  \ pan. Spoon the reduced cooking liquid from the pan over the top."
-html:
-  description: null
-  directions: "<p>Prepare the brine: In a large pot combine 8 cups water, the salt\
-    \ and the sugar and bring to a simmer over high heat, stirring to help dissolve\
-    \ the salt and sugar. Remove from heat and add garlic, leek, thyme, sage and shallots;\
-    \ let cool to room temperature.</p>\n<p>Place the chicken in a deep container\
-    \ large enough to hold it and the brine. Pour the cooled brine over the chicken.\
-    \ Pour in the 3 bottles of beer until the chicken is submerged; cover and refrigerate\
-    \ overnight.</p>\n<p>Prepare the chicken and vegetables: Heat oven to 350 degrees.\
-    \ Combine the brussels sprouts, potatoes, onions, chopped sage and lemon zest\
-    \ in a large bowl. Drizzle with oil and season with salt and pepper; toss to evenly\
-    \ coat.</p>\n<p>Remove the chicken from the brine and pat the skin dry with paper\
-    \ towels. Place about half of the vegetables in the bottom of a roasting pan or\
-    \ large saut\xE9 pan and set the chicken on top. Rub the butter evenly over the\
-    \ top of the chicken to coat. Pour the bottle of beer into the pan and arrange\
-    \ the sage sprigs in the pan around the chicken.</p>\n<p>Roast the chicken for\
-    \ 1 hour, basting every 20 minutes with the liquid in the pan.</p>\n<p>Increase\
-    \ the oven temperature to 400 degrees. Spread the remaining vegetables on a baking\
-    \ sheet and place on a low rack or the bottom of the oven. Cook until the chicken\
-    \ skin is golden brown and crisp and the vegetables are just tender and slightly\
-    \ charred, 20 to 30 more minutes, stirring the vegetables and basting the chicken\
-    \ once halfway through.</p>\n<p>Let the chicken rest for 10 minutes before carving.\
-    \ Plate chicken with a mix of roasted veggies and the vegetables from the pan.\
-    \ Spoon the reduced cooking liquid from the pan over the top.</p>\n"
-  ingredients: "<ul>\n<li>FOR THE BRINE:</li>\n<li>1 cup kosher salt</li>\n<li>\u2154\
-    \ cup packed light brown sugar</li>\n<li>4 cloves garlic, lightly crushed</li>\n\
-    <li>1 leek (white and light green part), quartered</li>\n<li>5 sprigs thyme</li>\n\
-    <li>7 sprigs sage</li>\n<li>2 shallots, halved and peeled</li>\n<li>3 (12-ounce)\
-    \ bottles lager-style beer</li>\n<li>FOR THE CHICKEN AND VEGETABLES:</li>\n<li>1\
-    \ whole chicken (4 to 4 1/2 pounds)</li>\n<li>1 \xBD pounds Brussels sprouts,\
-    \ trimmed and cut in half lengthwise</li>\n<li>1 1/2 pounds fingerling potatoes\
-    \ (or other small potato), cut in half lengthwise</li>\n<li>2 cups whole peeled\
-    \ pearl onions</li>\n<li>2 tablespoons chopped fresh sage</li>\n<li>1 teaspoon\
-    \ freshly grated lemon zest</li>\n<li>3 tablespoons vegetable oil</li>\n<li>Salt\
-    \ and freshly ground black pepper</li>\n<li>3 to 4 sprigs sage</li>\n<li>3 tablespoons\
-    \ butter, softened</li>\n<li>1 (12-ounce) bottle lager-style beer</li>\n</ul>\n"
-  notes: '<p>Preheat oven to 350 degrees F (175 degrees C).
-
-    Roast whole (thawed) chickens for 20 minutes per pound, plus an additional 15
-    minutes.
-
-    It was salty - maybe I left some brine inside of the bird.
-
-    Also, the vegetables burned when I put it on the bottom of the oven as suggested
-    so should be on the lower rack, not bottom of oven.</p>
-
-    '
-  nutrition: null
 image_url: null
 ingredients: "FOR THE BRINE:\n1 cup kosher salt\n\u2154 cup packed light brown sugar\n\
   4 cloves garlic, lightly crushed\n1 leek (white and light green part), quartered\n\
@@ -90,15 +21,6 @@ ingredients: "FOR THE BRINE:\n1 cup kosher salt\n\u2154 cup packed light brown s
   \ lager-style beer"
 intrash: 0
 name: Beer-Brined Roast Chicken
-notes: 'Preheat oven to 350 degrees F (175 degrees C).
-
-  Roast whole (thawed) chickens for 20 minutes per pound, plus an additional 15 minutes.
-
-  It was salty - maybe I left some brine inside of the bird.
-
-  Also, the vegetables burned when I put it on the bottom of the oven as suggested
-  so should be on the lower rack, not bottom of oven.'
-nutritional_info: null
 photo: 6884EEBB-8FC1-4F3C-9B7A-5FC7AD5EDE0D-29546-0000D6FF8044C095.jpg
 photo_large: B73C8969-A449-4105-8F14-BC00744A47B8-29546-0000D6F107C17DA6.jpg
 photos:
@@ -133,7 +55,29 @@ total_time: ''
 type: null
 uid: 81F199C6-8CF4-4867-962F-F6F6C266A0C6-11450-000000E96D4441C2
 ---
-Preheat oven to 350 degrees F (175 degrees C).
-Roast whole (thawed) chickens for 20 minutes per pound, plus an additional 15 minutes.
-It was salty - maybe I left some brine inside of the bird.
-Also, the vegetables burned when I put it on the bottom of the oven as suggested so should be on the lower rack, not bottom of oven.
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>FOR THE BRINE:</li>
+<li>1 cup kosher salt</li>
+<li>⅔ cup packed light brown sugar</li>
+<li>4 cloves garlic, lightly crushed</li>
+<li>1 leek (white and light green part), quartered</li>
+<li>5 sprigs thyme</li>
+<li>7 sprigs sage</li>
+<li>2 shallots, halved and peeled</li>
+<li>3 (12-ounce) bottles lager-style beer</li>
+<li>FOR THE CHICKEN AND VEGETABLES:</li>
+<li>1 whole chicken (4 to 4 1/2 pounds)</li>
+<li>1 ½ pounds Brussels sprouts, trimmed and cut in half lengthwise</li>
+<li>1 1/2 pounds fingerling potatoes (or other small potato), cut in half lengthwise</li>
+<li>2 cups whole peeled pearl onions</li>
+<li>2 tablespoons chopped fresh sage</li>
+<li>1 teaspoon freshly grated lemon zest</li>
+<li>3 tablespoons vegetable oil</li>
+<li>Salt and freshly ground black pepper</li>
+<li>3 to 4 sprigs sage</li>
+<li>3 tablespoons butter, softened</li>
+<li>1 (12-ounce) bottle lager-style beer</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

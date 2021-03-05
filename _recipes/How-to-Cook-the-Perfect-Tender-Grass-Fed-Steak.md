@@ -10,71 +10,6 @@ created: '2020-04-04 17:04:32'
 created_ts: 1586019872
 description: null
 difficulty: null
-directions: "Combine the salt, pepper and garlic in a small bowl. Rub the mixture\
-  \ into both sides of the steak, then allow the meat to come to room temperature\
-  \ while you prepare the grill.\n\nStart the grill and warm it until it is hot. If\
-  \ you are using a gas grill, turn off all but one of the burners once it has come\
-  \ up to temperature. If you are using charcoal, be sure all the coals have been\
-  \ raked to one side. Use the hand test: the grate will be hot enough when you can\
-  \ hold your palm 3-4 inches above the metal for no more than three seconds.\n\n\
-  Sear the steaks for 2-3 minutes on each side directly over the flame, with the lid\
-  \ down. Then, move the steaks to the part of grill that is not lit. Set the lid\
-  \ in place and allow the steaks to cook, without flipping them, until they reach\
-  \ 120-135 degrees**, about 10-20 minutes, depending on the size of the steak. Remove\
-  \ the steaks to a platter and allow them to rest a few minutes before serving.\n\
-  \nCombine the salt, pepper and garlic in a small bowl. Rub the mixture into both\
-  \ sides of the steak then allow the meat to come to room temperature. Preheat the\
-  \ oven to 200 \xB0, then heat a large cast iron skillet or other oven-proof skillet\
-  \ over a high flame. Once the skillet is so hot that you can see a little smoke\
-  \ rising off of it, add the butter or fat. Sear the steak for two minutes on each\
-  \ side. Turn off the flame, and insert an instant-read meat thermometer into the\
-  \ boneless edge of the steak \u2013 do not insert it into the top, as there is not\
-  \ enough thickness for the thermometer to take an accurate reading. Leaving the\
-  \ steak in the skillet, place it in the oven and allow it to finish cooking, about\
-  \ 10-20 minutes depending on the size of the cut, until the internal temperature\
-  \ reads 120-135 \xB0. Allow the meat to rest five minutes before carving and serving."
-html:
-  description: null
-  directions: "<p>Combine the salt, pepper and garlic in a small bowl. Rub the mixture\
-    \ into both sides of the steak, then allow the meat to come to room temperature\
-    \ while you prepare the grill.</p>\n<p>Start the grill and warm it until it is\
-    \ hot. If you are using a gas grill, turn off all but one of the burners once\
-    \ it has come up to temperature. If you are using charcoal, be sure all the coals\
-    \ have been raked to one side. Use the hand test: the grate will be hot enough\
-    \ when you can hold your palm 3-4 inches above the metal for no more than three\
-    \ seconds.</p>\n<p>Sear the steaks for 2-3 minutes on each side directly over\
-    \ the flame, with the lid down. Then, move the steaks to the part of grill that\
-    \ is not lit. Set the lid in place and allow the steaks to cook, without flipping\
-    \ them, until they reach 120-135 degrees**, about 10-20 minutes, depending on\
-    \ the size of the steak. Remove the steaks to a platter and allow them to rest\
-    \ a few minutes before serving.</p>\n<p>Combine the salt, pepper and garlic in\
-    \ a small bowl. Rub the mixture into both sides of the steak then allow the meat\
-    \ to come to room temperature. Preheat the oven to 200 \xB0, then heat a large\
-    \ cast iron skillet or other oven-proof skillet over a high flame. Once the skillet\
-    \ is so hot that you can see a little smoke rising off of it, add the butter or\
-    \ fat. Sear the steak for two minutes on each side. Turn off the flame, and insert\
-    \ an instant-read meat thermometer into the boneless edge of the steak \u2013\
-    \ do not insert it into the top, as there is not enough thickness for the thermometer\
-    \ to take an accurate reading. Leaving the steak in the skillet, place it in the\
-    \ oven and allow it to finish cooking, about 10-20 minutes depending on the size\
-    \ of the cut, until the internal temperature reads 120-135 \xB0. Allow the meat\
-    \ to rest five minutes before carving and serving.</p>\n"
-  ingredients: "<ul>\n<li>(The amount of seasoning you will use will vary based on\
-    \ the size of your steak. If it is close to one pound, use less. If it is closer\
-    \ to 2 pounds, use more.)</li>\n<li>1-2 tablespoons coarse salt</li>\n<li>1-2\
-    \ teaspoons ground black pepper</li>\n<li>1-2 cloves garlic, minced</li>\n<li>Either\
-    \ 1 sirloin, sirloin tip, tri-tip, top round or London Broil, rib eye, porterhouse,\
-    \ t-bone, top loin (NY Strip) or tenderloin (filet mignon) steak. Steaks should\
-    \ be at least 1 \xBC \u2013 1 \xBD inches thick.</li>\n<li>(The amount of seasoning\
-    \ you will use will vary based on the size of your steak. If it is close to one\
-    \ pound, use less. If it is closer to 2 pounds, use more.)</li>\n<li>1-2 tablespoons\
-    \ coarse salt</li>\n<li>1-2 teaspoons ground black pepper</li>\n<li>1-2 cloves\
-    \ garlic, minced</li>\n<li>2 tablespoons butter, tallow or rendered lamb fat</li>\n\
-    <li>Either 1 sirloin, sirloin tip, tri-tip, top round or London Broil, rib eye,\
-    \ porterhouse, t-bone, top loin (NY Strip) or tenderloin (filet mignon) steak.\
-    \ Steaks should be at least 1 \xBC \u2013 1 \xBD inches thick.</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://www.chelseagreen.com/wp-content/uploads/CGP-grasshopper-370_cmyk-1027x600.png
 ingredients: "(The amount of seasoning you will use will vary based on the size of\
   \ your steak. If it is close to one pound, use less. If it is closer to 2 pounds,\
@@ -91,8 +26,6 @@ ingredients: "(The amount of seasoning you will use will vary based on the size 
   \ \u2013 1 \xBD inches thick."
 intrash: 0
 name: How to Cook the Perfect, Tender, Grass Fed Steak
-notes: null
-nutritional_info: null
 photo: ABE1A316-2DEB-4277-B685-1ECC91FA78A8-14543-00000A0A51001070.jpg
 photo_large: null
 photos: []
@@ -106,3 +39,19 @@ total_time: null
 type: null
 uid: 84A294DD-8DCE-4C44-9FAD-DDFE22A5A76B-14543-00000A0A40C84C6A
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>(The amount of seasoning you will use will vary based on the size of your steak. If it is close to one pound, use less. If it is closer to 2 pounds, use more.)</li>
+<li>1-2 tablespoons coarse salt</li>
+<li>1-2 teaspoons ground black pepper</li>
+<li>1-2 cloves garlic, minced</li>
+<li>Either 1 sirloin, sirloin tip, tri-tip, top round or London Broil, rib eye, porterhouse, t-bone, top loin (NY Strip) or tenderloin (filet mignon) steak. Steaks should be at least 1 ¼ – 1 ½ inches thick.</li>
+<li>(The amount of seasoning you will use will vary based on the size of your steak. If it is close to one pound, use less. If it is closer to 2 pounds, use more.)</li>
+<li>1-2 tablespoons coarse salt</li>
+<li>1-2 teaspoons ground black pepper</li>
+<li>1-2 cloves garlic, minced</li>
+<li>2 tablespoons butter, tallow or rendered lamb fat</li>
+<li>Either 1 sirloin, sirloin tip, tri-tip, top round or London Broil, rib eye, porterhouse, t-bone, top loin (NY Strip) or tenderloin (filet mignon) steak. Steaks should be at least 1 ¼ – 1 ½ inches thick.</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

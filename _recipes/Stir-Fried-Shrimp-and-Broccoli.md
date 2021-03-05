@@ -8,50 +8,6 @@ created: '2020-02-03 15:15:37'
 created_ts: 1580742937
 description: null
 difficulty: null
-directions: "Combine shrimp, sugar, and salt in medium bowl. Let stand at room temperature\
-  \ for 30 minutes.\n\nWhisk 1/3 cup sherry, oyster sauce, soy sauce, chili-garlic\
-  \ sauce, and vinegar together in bowl. Whisk cornstarch and remaining 2 tablespoons\
-  \ sherry together in second bowl.\n\nHeat 1 tablespoon oil in 12-inch nonstick skillet\
-  \ over high heat until smoking. Add broccoli and 2 tablespoons sherry\u2013oyster\
-  \ sauce mixture and toss to coat. Cover skillet and cook for 4 minutes, stirring\
-  \ halfway through cooking. Uncover and continue to cook until broccoli is crisp-tender\
-  \ and beginning to brown in spots, 2 to 3 minutes longer. Transfer broccoli to bowl.\n\
-  \nAdd remaining 1 tablespoon oil, ginger, and garlic to skillet and cook until fragrant,\
-  \ about 1 minute. Add remaining sherry\u2013oyster sauce mixture and shrimp to skillet\
-  \ and bring to simmer. Reduce heat to medium-low, cover, and cook, stirring occasionally,\
-  \ until shrimp are just cooked through, 3 to 5 minutes.\n\nWhisk sherry-cornstarch\
-  \ mixture to recombine and add to skillet; increase heat to high and cook, stirring\
-  \ constantly, until sauce is thickened, 1 to 2 minutes. Return broccoli to skillet\
-  \ and toss to combine. Transfer to serving dish and serve."
-html:
-  description: null
-  directions: "<p>Combine shrimp, sugar, and salt in medium bowl. Let stand at room\
-    \ temperature for 30 minutes.</p>\n<p>Whisk 1/3 cup sherry, oyster sauce, soy\
-    \ sauce, chili-garlic sauce, and vinegar together in bowl. Whisk cornstarch and\
-    \ remaining 2 tablespoons sherry together in second bowl.</p>\n<p>Heat 1 tablespoon\
-    \ oil in 12-inch nonstick skillet over high heat until smoking. Add broccoli and\
-    \ 2 tablespoons sherry\u2013oyster sauce mixture and toss to coat. Cover skillet\
-    \ and cook for 4 minutes, stirring halfway through cooking. Uncover and continue\
-    \ to cook until broccoli is crisp-tender and beginning to brown in spots, 2 to\
-    \ 3 minutes longer. Transfer broccoli to bowl.</p>\n<p>Add remaining 1 tablespoon\
-    \ oil, ginger, and garlic to skillet and cook until fragrant, about 1 minute.\
-    \ Add remaining sherry\u2013oyster sauce mixture and shrimp to skillet and bring\
-    \ to simmer. Reduce heat to medium-low, cover, and cook, stirring occasionally,\
-    \ until shrimp are just cooked through, 3 to 5 minutes.</p>\n<p>Whisk sherry-cornstarch\
-    \ mixture to recombine and add to skillet; increase heat to high and cook, stirring\
-    \ constantly, until sauce is thickened, 1 to 2 minutes. Return broccoli to skillet\
-    \ and toss to combine. Transfer to serving dish and serve.</p>\n"
-  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>1 pound extra-large (21-25)\
-    \ shrimp, peeled, deveined, and tails removed</li>\n<li>1 teaspoon sugar</li>\n\
-    <li>\xBD teaspoon salt</li>\n<li>\u2153 cup plus 2 tablespoons dry sherry</li>\n\
-    <li>2 tablespoons oyster sauce</li>\n<li>1 tablespoon soy sauce</li>\n<li>1 tablespoon\
-    \ Asian chili-garlic sauce</li>\n<li>1 teaspoon sherry vinegar</li>\n<li>2 teaspoons\
-    \ cornstarch</li>\n<li>2 tablespoons vegetable oil</li>\n<li>1 pound broccoli,\
-    \ florets cut into 1-inch pieces, stalks peeled and sliced 1/4 inch thick</li>\n\
-    <li>1 tablespoon grated fresh ginger</li>\n<li>2 garlic cloves, minced</li>\n\
-    </ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/34906_sfs-shrimp-stir-fry-broccoli-6
 ingredients: "GATHER YOUR INGREDIENTS\n1 pound extra-large (21-25) shrimp, peeled,\
   \ deveined, and tails removed\n1 teaspoon sugar\n\xBD teaspoon salt\n\u2153 cup\
@@ -62,8 +18,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 pound extra-large (21-25) shrimp, peele
   \ minced"
 intrash: 0
 name: Stir-Fried Shrimp and Broccoli
-notes: null
-nutritional_info: null
 photo: 1AF0B7CA-AEBA-43BA-BBB7-51BBFE9F357E-408-00004D3919B32766.jpg
 photo_large: null
 photos: []
@@ -77,3 +31,22 @@ total_time: null
 type: null
 uid: A98C94BE-66CB-4A40-A6C7-E0C5E061A6BF-408-00004D3327E46671
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>GATHER YOUR INGREDIENTS</li>
+<li>1 pound extra-large (21-25) shrimp, peeled, deveined, and tails removed</li>
+<li>1 teaspoon sugar</li>
+<li>½ teaspoon salt</li>
+<li>⅓ cup plus 2 tablespoons dry sherry</li>
+<li>2 tablespoons oyster sauce</li>
+<li>1 tablespoon soy sauce</li>
+<li>1 tablespoon Asian chili-garlic sauce</li>
+<li>1 teaspoon sherry vinegar</li>
+<li>2 teaspoons cornstarch</li>
+<li>2 tablespoons vegetable oil</li>
+<li>1 pound broccoli, florets cut into 1-inch pieces, stalks peeled and sliced 1/4 inch thick</li>
+<li>1 tablespoon grated fresh ginger</li>
+<li>2 garlic cloves, minced</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

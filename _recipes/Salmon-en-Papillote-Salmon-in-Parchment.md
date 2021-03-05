@@ -9,34 +9,6 @@ created: '2020-03-20 18:23:15'
 created_ts: 1584728595
 description: ''
 difficulty: ''
-directions: "Heat the oven to 400 degrees. Cut 4 large heart-shaped pieces of parchment\
-  \ paper or foil, and place them on a sheet pan. Fold the parchment or foil in half\
-  \ down the middle, place a fillet with its garnishes and seasonings on one side\
-  \ of each, fold the other side over and crimp the rounded edge tightly closed.\n\
-  \nPlace in oven for 10 to 15 minutes, depending on how done you\u2019d like to serve\
-  \ the salmon. The packages should puff up and make for dramatic serving."
-html:
-  description: null
-  directions: "<p>Heat the oven to 400 degrees. Cut 4 large heart-shaped pieces of\
-    \ parchment paper or foil, and place them on a sheet pan. Fold the parchment or\
-    \ foil in half down the middle, place a fillet with its garnishes and seasonings\
-    \ on one side of each, fold the other side over and crimp the rounded edge tightly\
-    \ closed.</p>\n<p>Place in oven for 10 to 15 minutes, depending on how done you\u2019\
-    d like to serve the salmon. The packages should puff up and make for dramatic\
-    \ serving.</p>\n"
-  ingredients: '<ul>
-
-    <li>4 (6- to 8-ounce) skin-on salmon fillets</li>
-
-    <li>Cut vegetables, fresh herbs and/or slices of lemon, lime or orange</li>
-
-    <li>Salt and pepper</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: https://static01.nyt.com/images/2015/12/29/dining/29salmon-19/29salmon-19-articleLarge.jpg
 ingredients: '4 (6- to 8-ounce) skin-on salmon fillets
 
@@ -45,8 +17,6 @@ ingredients: '4 (6- to 8-ounce) skin-on salmon fillets
   Salt and pepper'
 intrash: 0
 name: Salmon en Papillote (Salmon in Parchment)
-notes: ''
-nutritional_info: ''
 photo: 38970885-00F8-44CD-8BED-67207F0482E1-9067-000185E577328092.jpg
 photo_large: null
 photos: []
@@ -60,3 +30,11 @@ total_time: ''
 type: null
 uid: 84B8F85A-0658-45CD-8041-E52CAE26014C-9067-000185E27B281BD5
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>4 (6- to 8-ounce) skin-on salmon fillets</li>
+<li>Cut vegetables, fresh herbs and/or slices of lemon, lime or orange</li>
+<li>Salt and pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -9,40 +9,6 @@ created: '2020-05-11 16:51:10'
 created_ts: 1589215870
 description: null
 difficulty: ''
-directions: "Boil paste to al dente.\n\nMeanwhile, bring milk up to a simmer in a\
-  \ large pot. (The pot should be large enough to hold all the pasta when cooked.)\n\
-  \nReduce heat to low, add cream cheese, and whisk until it\u2019s completely blended\
-  \ and no lumps remain.\n\nAdd cheddar and other cheese and butter, whisking until\
-  \ everything is completely melted.\n\nSeason with nutmeg, salt and a generous amount\
-  \ of pepper.\n\nAdd cooked pasta and stir to coat.\n\n In a separate bowl, whisk\
-  \ together eggs and parmigiano. Stir egg mixture into pasta.\n\nContinue to cook\
-  \ over medium-low heat until the sauce has thickened and is coating each piece of\
-  \ pasta nicely, 2 to 3 minutes; sauce will continue to thicken as it cools. Season\
-  \ again with more salt and pepper before serving.\n"
-html:
-  description: null
-  directions: "<p>Boil paste to al dente.</p>\n<p>Meanwhile, bring milk up to a simmer\
-    \ in a large pot. (The pot should be large enough to hold all the pasta when cooked.)</p>\n\
-    <p>Reduce heat to low, add cream cheese, and whisk until it\u2019s completely\
-    \ blended and no lumps remain.</p>\n<p>Add cheddar and other cheese and butter,\
-    \ whisking until everything is completely melted.</p>\n<p>Season with nutmeg,\
-    \ salt and a generous amount of pepper.</p>\n<p>Add cooked pasta and stir to coat.</p>\n\
-    <p>In a separate bowl, whisk together eggs and parmigiano. Stir egg mixture into\
-    \ pasta.</p>\n<p>Continue to cook over medium-low heat until the sauce has thickened\
-    \ and is coating each piece of pasta nicely, 2 to 3 minutes; sauce will continue\
-    \ to thicken as it cools. Season again with more salt and pepper before serving.</p>\n"
-  ingredients: "<ul>\n<li>1 pound elbows, shells, cavatappi, farfalle, fusilli or\
-    \ other short, tube-shaped pasta</li>\n<li>Kosher salt</li>\n<li>1 cups whole\
-    \ milk</li>\n<li>\xBC teaspoon finely grated nutmeg</li>\n<li>2 ounces cream cheese,\
-    \ cut into 1-inch pieces</li>\n<li>12 ounces sharp or white Cheddar, grated and\
-    \ 4 ounces Brie or other smelly cheese</li>\n<li>2 large eggs, lightly beaten</li>\n\
-    <li>3 tablespoons unsalted butter</li>\n<li>Freshly ground pepper</li>\n</ul>\n"
-  notes: '<p>Edited recipe after first try. Reduced milk from 2 cups -&gt; 1 cup.
-    Reduced Cream Cheese from 4 ounces to 2 ounces. Increase other cheese from zero
-    to 4 ounces. Added 2 large eggs.</p>
-
-    '
-  nutrition: null
 image_url: null
 ingredients: "1 pound elbows, shells, cavatappi, farfalle, fusilli or other short,\
   \ tube-shaped pasta\nKosher salt\n1 cups whole milk\n\xBC teaspoon finely grated\
@@ -51,10 +17,6 @@ ingredients: "1 pound elbows, shells, cavatappi, farfalle, fusilli or other shor
   \ beaten\n3 tablespoons unsalted butter\nFreshly ground pepper"
 intrash: 0
 name: Macaroni and Cheese
-notes: Edited recipe after first try. Reduced milk from 2 cups -> 1 cup. Reduced Cream
-  Cheese from 4 ounces to 2 ounces. Increase other cheese from zero to 4 ounces. Added
-  2 large eggs.
-nutritional_info: null
 photo: E6F41E63-B9F4-4971-B948-F13A2DACAD33-29546-0000D729F3AA544A.jpg
 photo_large: AA90E695-17D3-412E-9808-D3C2E8809723-29546-0000D728E4C977F8.jpg
 photos:
@@ -71,4 +33,17 @@ total_time: ''
 type: null
 uid: 9B1AB1E8-BE10-4F36-B0F0-9E37B79BF387-4647-00010AE1B323C85C
 ---
-Edited recipe after first try. Reduced milk from 2 cups -> 1 cup. Reduced Cream Cheese from 4 ounces to 2 ounces. Increase other cheese from zero to 4 ounces. Added 2 large eggs.
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 pound elbows, shells, cavatappi, farfalle, fusilli or other short, tube-shaped pasta</li>
+<li>Kosher salt</li>
+<li>1 cups whole milk</li>
+<li>¼ teaspoon finely grated nutmeg</li>
+<li>2 ounces cream cheese, cut into 1-inch pieces</li>
+<li>12 ounces sharp or white Cheddar, grated and 4 ounces Brie or other smelly cheese</li>
+<li>2 large eggs, lightly beaten</li>
+<li>3 tablespoons unsalted butter</li>
+<li>Freshly ground pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

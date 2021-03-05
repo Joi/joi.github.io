@@ -16,73 +16,6 @@ description: "A no-fuss recipe that is revolutionizing home baking trades flavor
   \ yeastiness. We bake the bread in a covered pot to create steam, producing a springy\
   \ interior, and then finish baking it uncovered for a beautifully browned crust."
 difficulty: ''
-directions: 'Whisk flour, salt, and yeast together in large bowl. Add water, lager,
-  and vinegar. Using rubber spatula, fold mixture, scraping up dry flour from bottom
-  of bowl until shaggy ball forms. Cover bowl with plastic wrap and let sit at room
-  temperature for at least 8 hours or up to 18 hours.
-
-
-  Lay 18 by 12-inch sheet of parchment paper on counter and spray with oil spray.
-  Transfer dough to lightly floured counter and knead 10 to 15 times. Shape dough
-  into ball by pulling edges into middle. Transfer dough, seam side down, to center
-  of parchment and spray surface of dough with oil spray. Pick up dough by lifting
-  parchment overhang and lower into heavy-bottomed Dutch oven (let any excess parchment
-  hang over pot edge). Cover loosely with plastic and let rise at room temperature
-  until dough has doubled in size and does not readily spring back when poked with
-  finger, about 2 hours.
-
-
-  Adjust oven rack to middle position. Remove plastic from pot. Lightly flour top
-  of dough and, using razor blade or sharp knife, make one 6-inch-long, 1/2-inch-deep
-  slit along top of dough. Cover pot and place in oven. Heat oven to 425 degrees.
-  Bake bread for 30 minutes (starting timing as soon as you turn on oven).
-
-
-  Remove lid and continue to bake until loaf is deep brown and registers 210 degrees,
-  20 to 30 minutes longer. Carefully remove bread from pot; transfer to wire rack
-  and let cool completely, about 2 hours.'
-html:
-  description: "<p>A no-fuss recipe that is revolutionizing home baking trades flavor\
-    \ and reliability for ease. Could we improve the bread's bland taste and make\
-    \ it rise high every time?</p>\n<p>To avoid lengthy and tiresome kneading, we\
-    \ let our bread dough sit for 8 to 18 hours, during which a process called autolysis\
-    \ develops gluten\u2014the protein that gives baked breads their bubbly, chewy\
-    \ crumb structure. After that, just 15 seconds of kneading does the trick. To\
-    \ give our bread more flavor than standard no-knead recipes, we add vinegar for\
-    \ acidic tang and lager beer for extra yeastiness. We bake the bread in a covered\
-    \ pot to create steam, producing a springy interior, and then finish baking it\
-    \ uncovered for a beautifully browned crust.</p>\n"
-  directions: '<p>Whisk flour, salt, and yeast together in large bowl. Add water,
-    lager, and vinegar. Using rubber spatula, fold mixture, scraping up dry flour
-    from bottom of bowl until shaggy ball forms. Cover bowl with plastic wrap and
-    let sit at room temperature for at least 8 hours or up to 18 hours.</p>
-
-    <p>Lay 18 by 12-inch sheet of parchment paper on counter and spray with oil spray.
-    Transfer dough to lightly floured counter and knead 10 to 15 times. Shape dough
-    into ball by pulling edges into middle. Transfer dough, seam side down, to center
-    of parchment and spray surface of dough with oil spray. Pick up dough by lifting
-    parchment overhang and lower into heavy-bottomed Dutch oven (let any excess parchment
-    hang over pot edge). Cover loosely with plastic and let rise at room temperature
-    until dough has doubled in size and does not readily spring back when poked with
-    finger, about 2 hours.</p>
-
-    <p>Adjust oven rack to middle position. Remove plastic from pot. Lightly flour
-    top of dough and, using razor blade or sharp knife, make one 6-inch-long, 1/2-inch-deep
-    slit along top of dough. Cover pot and place in oven. Heat oven to 425 degrees.
-    Bake bread for 30 minutes (starting timing as soon as you turn on oven).</p>
-
-    <p>Remove lid and continue to bake until loaf is deep brown and registers 210
-    degrees, 20 to 30 minutes longer. Carefully remove bread from pot; transfer to
-    wire rack and let cool completely, about 2 hours.</p>
-
-    '
-  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>3 cups (15 ounces) all-purpose\
-    \ flour</li>\n<li>1 \xBD teaspoons salt</li>\n<li>\xBC teaspoon instant or rapid-rise\
-    \ yeast</li>\n<li>\xBE cup plus 2 tablespoons water, room temperature</li>\n<li>6\
-    \ tablespoons mild-flavored lager</li>\n<li>1 tablespoon distilled white vinegar</li>\n\
-    <li>Vegetable oil spray</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/22085_sfs-easy-rustic-bread-7-1
 ingredients: "GATHER YOUR INGREDIENTS\n3 cups (15 ounces) all-purpose flour\n1 \xBD\
   \ teaspoons salt\n\xBC teaspoon instant or rapid-rise yeast\n\xBE cup plus 2 tablespoons\
@@ -90,8 +23,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n3 cups (15 ounces) all-purpose flour\n1 \
   \ white vinegar\nVegetable oil spray"
 intrash: 0
 name: Almost No-Knead Bread - Cook's County
-notes: ''
-nutritional_info: ''
 photo: 97F58C03-EFDA-4F8D-AF92-1585C9BB75B6-1358-000095A4F7690048.jpg
 photo_large: null
 photos: []
@@ -105,3 +36,16 @@ total_time: ''
 type: null
 uid: 9CE3F443-91C4-4058-AC65-C00221720A95-1358-000095A17DE99D5E
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>GATHER YOUR INGREDIENTS</li>
+<li>3 cups (15 ounces) all-purpose flour</li>
+<li>1 ½ teaspoons salt</li>
+<li>¼ teaspoon instant or rapid-rise yeast</li>
+<li>¾ cup plus 2 tablespoons water, room temperature</li>
+<li>6 tablespoons mild-flavored lager</li>
+<li>1 tablespoon distilled white vinegar</li>
+<li>Vegetable oil spray</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

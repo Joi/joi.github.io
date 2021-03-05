@@ -8,50 +8,6 @@ created: '2020-08-04 18:56:29'
 created_ts: 1596567389
 description: ''
 difficulty: ''
-directions: "Light a grill. Preheat the oven to 350\xB0. Spread the pecans in a pie\
-  \ dish and toast in the oven for about 5 minutes. Let the pecans cool, then coarsely\
-  \ chop them.\n\nIn a food processor, combine the pecans with the cilantro, cheese,\
-  \ stock and vinegar and process to a puree. With the machine on, gradually add the\
-  \ olive oil in a thin stream. Season the pesto with salt and pepper.\n\nOil the\
-  \ grill grates. Season the salmon with salt and pepper and grill the fillets skin\
-  \ side down, over moderately high heat until nicely charred and crisp, about 4 minutes.\
-  \ Carefully turn the fillets and grill until just cooked through, about 3 minutes\
-  \ longer. Spoon the pesto onto plates. Top with the fillets, skin side up, and serve."
-html:
-  description: null
-  directions: "<p>Light a grill. Preheat the oven to 350\xB0. Spread the pecans in\
-    \ a pie dish and toast in the oven for about 5 minutes. Let the pecans cool, then\
-    \ coarsely chop them.</p>\n<p>In a food processor, combine the pecans with the\
-    \ cilantro, cheese, stock and vinegar and process to a puree. With the machine\
-    \ on, gradually add the olive oil in a thin stream. Season the pesto with salt\
-    \ and pepper.</p>\n<p>Oil the grill grates. Season the salmon with salt and pepper\
-    \ and grill the fillets skin side down, over moderately high heat until nicely\
-    \ charred and crisp, about 4 minutes. Carefully turn the fillets and grill until\
-    \ just cooked through, about 3 minutes longer. Spoon the pesto onto plates. Top\
-    \ with the fillets, skin side up, and serve.</p>\n"
-  ingredients: '<ul>
-
-    <li>1/3 cup pecans, chopped</li>
-
-    <li>2 1/2 cups lightly packed cilantro</li>
-
-    <li>1/3 cup freshly grated Parmigiano-Reggiano cheese</li>
-
-    <li>1/4 cup chicken stock or low-sodium broth</li>
-
-    <li>1 tablespoon sherry vinegar</li>
-
-    <li>1/4 cup extra-virgin olive oil</li>
-
-    <li>Salt and freshly ground pepper</li>
-
-    <li>Four 6- to 7-ounce salmon fillets, with skin</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F200910-xl-grilled-salmon-with-cilantro-pecan-pesto.jpg%3Fitok%3D7GN8JWmp&w=700&c=sc&poi=face&q=85
 ingredients: '1/3 cup pecans, chopped
 
@@ -70,8 +26,6 @@ ingredients: '1/3 cup pecans, chopped
   Four 6- to 7-ounce salmon fillets, with skin'
 intrash: 0
 name: Grilled Salmon with Cilantro-Pecan Pesto
-notes: ''
-nutritional_info: ''
 photo: 937D4195-D9A8-4F1F-BAF6-5C617DBBA49F-1060-00008BCB3272B29C.jpg
 photo_large: null
 photos: []
@@ -85,3 +39,16 @@ total_time: ''
 type: null
 uid: DB7590E4-EBA3-4131-A16D-C681B9A471E7-1060-00008BC9986CDAF3
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1/3 cup pecans, chopped</li>
+<li>2 1/2 cups lightly packed cilantro</li>
+<li>1/3 cup freshly grated Parmigiano-Reggiano cheese</li>
+<li>1/4 cup chicken stock or low-sodium broth</li>
+<li>1 tablespoon sherry vinegar</li>
+<li>1/4 cup extra-virgin olive oil</li>
+<li>Salt and freshly ground pepper</li>
+<li>Four 6- to 7-ounce salmon fillets, with skin</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

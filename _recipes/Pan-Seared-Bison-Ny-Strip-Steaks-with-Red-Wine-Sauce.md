@@ -8,44 +8,12 @@ created: '2020-03-21 20:57:36'
 created_ts: 1584824256
 description: null
 difficulty: null
-directions: "Preheat cast iron skillet on high for 3-4 minutes.\n\nCut through the\
-  \ fat along the backside of the steaks to prevent curling. Rub strip steaks with\
-  \ vegetable oil, and season with salt and tri-colored pepper.\n\nCook the first\
-  \ side of the steaks on high heat for 5 minutes, and then turn and cook for an additional\
-  \ 3 minutes, reducing heat to medium high.\n\nRemove from pan, and set aside on\
-  \ warm platter. Let steaks rest for 10 minutes before serving to allow the juices\
-  \ to settle back into the meat.\n\nAdd butter, shallots, and peppercorns to cast\
-  \ iron skillet, and saut\xE9 until browned and caramelized. Stir often to prevent\
-  \ burning.\n\nAdd red wine all at once, and lower heat to medium. Cook until wine\
-  \ is reduced by \xBE of volume, about 15-20 minutes.\n\nServe red wine sauce over\
-  \ pan fried NY strips and enjoy!"
-html:
-  description: null
-  directions: "<p>Preheat cast iron skillet on high for 3-4 minutes.</p>\n<p>Cut through\
-    \ the fat along the backside of the steaks to prevent curling. Rub strip steaks\
-    \ with vegetable oil, and season with salt and tri-colored pepper.</p>\n<p>Cook\
-    \ the first side of the steaks on high heat for 5 minutes, and then turn and cook\
-    \ for an additional 3 minutes, reducing heat to medium high.</p>\n<p>Remove from\
-    \ pan, and set aside on warm platter. Let steaks rest for 10 minutes before serving\
-    \ to allow the juices to settle back into the meat.</p>\n<p>Add butter, shallots,\
-    \ and peppercorns to cast iron skillet, and saut\xE9 until browned and caramelized.\
-    \ Stir often to prevent burning.</p>\n<p>Add red wine all at once, and lower heat\
-    \ to medium. Cook until wine is reduced by \xBE of volume, about 15-20 minutes.</p>\n\
-    <p>Serve red wine sauce over pan fried NY strips and enjoy!</p>\n"
-  ingredients: "<ul>\n<li>4 (10oz.) bison NY strip steaks, thawed</li>\n<li>1 \xBD\
-    \ tbsp vegetable oil</li>\n<li>1 tsp sea salt</li>\n<li>1 \xBD tbsp black, green,\
-    \ and pink freshly ground peppercorns</li>\n<li>1 tbsp butter</li>\n<li>4 large\
-    \ shallots, minced</li>\n<li>1 cup red wine</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://highplainsbison.com/wp-content/uploads/2017/06/HPBPlaceHolder-457x300.png
 ingredients: "4 (10oz.) bison NY strip steaks, thawed\n1 \xBD tbsp vegetable oil\n\
   1 tsp sea salt\n1 \xBD tbsp black, green, and pink freshly ground peppercorns\n\
   1 tbsp butter\n4 large shallots, minced\n1 cup red wine"
 intrash: 0
 name: Pan Seared Bison Ny Strip Steaks with Red Wine Sauce
-notes: null
-nutritional_info: null
 photo: 6C0093C5-1EFC-419B-BB27-8B56114A2249-9255-00001EC16B84FD1E.jpg
 photo_large: null
 photos: []
@@ -59,3 +27,15 @@ total_time: null
 type: null
 uid: 84DD0A04-931D-4796-AFCB-37212304F853-9255-00001EC1562E163E
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>4 (10oz.) bison NY strip steaks, thawed</li>
+<li>1 ½ tbsp vegetable oil</li>
+<li>1 tsp sea salt</li>
+<li>1 ½ tbsp black, green, and pink freshly ground peppercorns</li>
+<li>1 tbsp butter</li>
+<li>4 large shallots, minced</li>
+<li>1 cup red wine</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

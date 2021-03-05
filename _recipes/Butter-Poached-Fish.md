@@ -8,72 +8,6 @@ created: '2020-08-07 11:32:21'
 created_ts: 1596799941
 description: null
 difficulty: null
-directions: "Salt the fish well and set aside. Slice the squash, cucumber and radishes\
-  \ very thinly into rounds, ideally with a mandoline -- although a knife is fine.\
-  \ Slice the green beans thinly on the diagonal. Toss all the vegetables with a little\
-  \ salt and vinegar and set aside.\n\nMelt the butter in a pot large enough to hold\
-  \ at least 1 piece of fish, and ideally 2, at a time, but small enough so that the\
-  \ pieces of fish are submerged. You can use more butter if you want to, or you can\
-  \ top things off with olive oil. You want the butter to be between 150\xB0F and\
-  \ 170\xB0F. When the butter hits the right temperature, pat the pieces of fish dry\
-  \ with paper towels and submerge in the oil. If the fish sizzles at all, lower the\
-  \ heat. You want the fish to cook gently. Let the fish swim in the butter for about\
-  \ 10 minutes for every 1/2 inch of thickness. One way to do this is to put the submerged\
-  \ fish into a 325\xB0F oven for 15 minutes.\n\nTo finish the salad, add a little\
-  \ bit of the melted butter, or use olive oil, and toss well. Put some on everyone's\
-  \ plate. Gently lift out the pieces of fish and lay them on the salad. Grind lots\
-  \ of black pepper over everything. Serve with some good crusty bread."
-html:
-  description: null
-  directions: "<p>Salt the fish well and set aside. Slice the squash, cucumber and\
-    \ radishes very thinly into rounds, ideally with a mandoline -- although a knife\
-    \ is fine. Slice the green beans thinly on the diagonal. Toss all the vegetables\
-    \ with a little salt and vinegar and set aside.</p>\n<p>Melt the butter in a pot\
-    \ large enough to hold at least 1 piece of fish, and ideally 2, at a time, but\
-    \ small enough so that the pieces of fish are submerged. You can use more butter\
-    \ if you want to, or you can top things off with olive oil. You want the butter\
-    \ to be between 150\xB0F and 170\xB0F. When the butter hits the right temperature,\
-    \ pat the pieces of fish dry with paper towels and submerge in the oil. If the\
-    \ fish sizzles at all, lower the heat. You want the fish to cook gently. Let the\
-    \ fish swim in the butter for about 10 minutes for every 1/2 inch of thickness.\
-    \ One way to do this is to put the submerged fish into a 325\xB0F oven for 15\
-    \ minutes.</p>\n<p>To finish the salad, add a little bit of the melted butter,\
-    \ or use olive oil, and toss well. Put some on everyone's plate. Gently lift out\
-    \ the pieces of fish and lay them on the salad. Grind lots of black pepper over\
-    \ everything. Serve with some good crusty bread.</p>\n"
-  ingredients: '<ul>
-
-    <li>1 to 2 pounds of skinless boneless fish or shrimp</li>
-
-    <li>Salt</li>
-
-    <li>1 yellow squash</li>
-
-    <li>1 green squash, like a zucchini</li>
-
-    <li>1 large cucumber</li>
-
-    <li>3 to 6 radishes</li>
-
-    <li>1/4 pound fresh green beans</li>
-
-    <li>1/4 cup white wine or rice vinegar</li>
-
-    <li>1 pound unsalted butter</li>
-
-    <li>Olive oil (optional)</li>
-
-    <li>Black pepper</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: '<p>Calories: 76kcal | Carbohydrates: 7g | Protein: 10g | Fat: 1g | Saturated
-    Fat: 1g | Cholesterol: 21mg | Sodium: 39mg | Potassium: 603mg | Fiber: 2g | Sugar:
-    4g | Vitamin A: 474IU | Vitamin C: 23mg | Calcium: 39mg | Iron: 1mg</p>
-
-    '
 image_url: https://honest-food.net/wp-content/uploads/2016/06/butter-poached-halibut.jpg
 ingredients: '1 to 2 pounds of skinless boneless fish or shrimp
 
@@ -98,10 +32,6 @@ ingredients: '1 to 2 pounds of skinless boneless fish or shrimp
   Black pepper'
 intrash: 0
 name: Butter Poached Fish
-notes: null
-nutritional_info: 'Calories: 76kcal | Carbohydrates: 7g | Protein: 10g | Fat: 1g |
-  Saturated Fat: 1g | Cholesterol: 21mg | Sodium: 39mg | Potassium: 603mg | Fiber:
-  2g | Sugar: 4g | Vitamin A: 474IU | Vitamin C: 23mg | Calcium: 39mg | Iron: 1mg'
 photo: 924BE9EA-E6E3-4B79-B897-C2E80518FC1E-2643-000000EA1D2D92FF.jpg
 photo_large: null
 photos: []
@@ -115,3 +45,19 @@ total_time: null
 type: null
 uid: 9F59212D-D621-4C89-9917-5B40488C653D-2643-000000EA04689936
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 to 2 pounds of skinless boneless fish or shrimp</li>
+<li>Salt</li>
+<li>1 yellow squash</li>
+<li>1 green squash, like a zucchini</li>
+<li>1 large cucumber</li>
+<li>3 to 6 radishes</li>
+<li>1/4 pound fresh green beans</li>
+<li>1/4 cup white wine or rice vinegar</li>
+<li>1 pound unsalted butter</li>
+<li>Olive oil (optional)</li>
+<li>Black pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

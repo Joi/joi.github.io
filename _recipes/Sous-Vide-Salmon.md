@@ -8,133 +8,6 @@ created: '2020-06-19 15:05:00'
 created_ts: 1592579100
 description: ''
 difficulty: ''
-directions: '1. Season salmon generously with salt on all sides.
-
-
-  2. Place salmon in a single layer in a gallon-size zipper-lock bag, or in batches
-  in quart-size bags. Add olive oil to bag or divide it between the smaller bags.
-  Add aromatics to bags, if using. Close bags, place in refrigerator, and let salmon
-  rest for at least 30 minutes or up to overnight.
-
-
-  3. Using your precision cooker, preheat a water bath according to the chart above.
-  Remove the air from the zipper-lock bags using the water displacement method: Seal
-  bag almost all the way, leaving about an inch open. Slowly lower bag into water
-  bath, holding the opened end above the water level. As bag is lowered, the water
-  pressure should force air out of it. Just before it is totally submerged, seal bag
-  completely. Use a rack, or clip bag to the side of cooking vessel using a binder
-  clip, to prevent it from moving excessively. Cook 30 to 45 minutes for fillets 1
-  inch thick or less, or 45 minutes to an hour for fillets between 1 and 2 inches.
-
-
-  4. Carefully remove salmon from bags (it will be very delicate) and transfer to
-  a double layer of paper towels. Discard aromatics and gently blot top of salmon
-  with more paper towels.
-
-
-  5. To Serve Immediately: Carefully peel away skin and discard. Serve salmon immediately
-  with the freshly skinned side down for better presentation.
-
-
-  6. To Serve Cold: Transfer salmon to refrigerator uncovered and allow it to chill
-  completely. Store in a sealed container for up to a few days and serve cold in sandwiches
-  or salads, stirred into pasta, or on top of rice bowls.
-
-
-  7. To Sear: Heat vegetable oil in a cast iron, carbon steel, or nonstick skillet
-  over medium-high heat until shimmering. Carefully add salmon skin side down and
-  cook, pressing gently on fillets with the back of a flexible fish spatula to help
-  maintain pan contact, until skin is browned and crisp, 1 to 1 1/2 minutes. Carefully
-  flip and cook for an additional 15 seconds. Transfer to paper towels to blot off
-  excess oil, then serve immediately.'
-html:
-  description: null
-  directions: '<ol>
-
-    <li>
-
-    <p>Season salmon generously with salt on all sides.</p>
-
-    </li>
-
-    <li>
-
-    <p>Place salmon in a single layer in a gallon-size zipper-lock bag, or in batches
-    in quart-size bags. Add olive oil to bag or divide it between the smaller bags.
-    Add aromatics to bags, if using. Close bags, place in refrigerator, and let salmon
-    rest for at least 30 minutes or up to overnight.</p>
-
-    </li>
-
-    <li>
-
-    <p>Using your precision cooker, preheat a water bath according to the chart above.
-    Remove the air from the zipper-lock bags using the water displacement method:
-    Seal bag almost all the way, leaving about an inch open. Slowly lower bag into
-    water bath, holding the opened end above the water level. As bag is lowered, the
-    water pressure should force air out of it. Just before it is totally submerged,
-    seal bag completely. Use a rack, or clip bag to the side of cooking vessel using
-    a binder clip, to prevent it from moving excessively. Cook 30 to 45 minutes for
-    fillets 1 inch thick or less, or 45 minutes to an hour for fillets between 1 and
-    2 inches.</p>
-
-    </li>
-
-    <li>
-
-    <p>Carefully remove salmon from bags (it will be very delicate) and transfer to
-    a double layer of paper towels. Discard aromatics and gently blot top of salmon
-    with more paper towels.</p>
-
-    </li>
-
-    <li>
-
-    <p>To Serve Immediately: Carefully peel away skin and discard. Serve salmon immediately
-    with the freshly skinned side down for better presentation.</p>
-
-    </li>
-
-    <li>
-
-    <p>To Serve Cold: Transfer salmon to refrigerator uncovered and allow it to chill
-    completely. Store in a sealed container for up to a few days and serve cold in
-    sandwiches or salads, stirred into pasta, or on top of rice bowls.</p>
-
-    </li>
-
-    <li>
-
-    <p>To Sear: Heat vegetable oil in a cast iron, carbon steel, or nonstick skillet
-    over medium-high heat until shimmering. Carefully add salmon skin side down and
-    cook, pressing gently on fillets with the back of a flexible fish spatula to help
-    maintain pan contact, until skin is browned and crisp, 1 to 1 1/2 minutes. Carefully
-    flip and cook for an additional 15 seconds. Transfer to paper towels to blot off
-    excess oil, then serve immediately.</p>
-
-    </li>
-
-    </ol>
-
-    '
-  ingredients: '<ul>
-
-    <li>4 salmon fillets (5 to 6 ounces; 140 to 170g each)</li>
-
-    <li>Kosher salt</li>
-
-    <li>2 tablespoons (30ml) extra-virgin olive oil</li>
-
-    <li>Aromatics such as fresh thyme, dill, parsley, thinly sliced shallots, and/or
-    citrus zest (optional)</li>
-
-    <li>2 teaspoons (10ml) vegetable oil, if serving seared</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: https://www.seriouseats.com/recipes/images/2016/08/20160826-sous-vide-salmon-46-750x563.jpg
 ingredients: '4 salmon fillets (5 to 6 ounces; 140 to 170g each)
 
@@ -148,8 +21,6 @@ ingredients: '4 salmon fillets (5 to 6 ounces; 140 to 170g each)
   2 teaspoons (10ml) vegetable oil, if serving seared'
 intrash: 0
 name: Sous Vide Salmon
-notes: ''
-nutritional_info: ''
 photo: 4318DFC9-C3AC-428D-9033-10A404D423F8-22544-00030580A3C36ED8.jpg
 photo_large: null
 photos: []
@@ -163,3 +34,13 @@ total_time: ''
 type: null
 uid: 3546BE2C-7934-45C5-BA0C-91881B9975D4-22544-0003057EAFAC95C7
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>4 salmon fillets (5 to 6 ounces; 140 to 170g each)</li>
+<li>Kosher salt</li>
+<li>2 tablespoons (30ml) extra-virgin olive oil</li>
+<li>Aromatics such as fresh thyme, dill, parsley, thinly sliced shallots, and/or citrus zest (optional)</li>
+<li>2 teaspoons (10ml) vegetable oil, if serving seared</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

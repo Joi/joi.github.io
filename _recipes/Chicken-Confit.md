@@ -22,116 +22,12 @@ description: "Take a page out of the French farmwife\u2019s handbook and keep co
   \ with a pile of arugula or chicories dressed in a bright, Honey-Mustard Vinaigrette\
   \ (page 240 ) and spoonfuls of Herb Salsa for a welcome acidic contrast."
 difficulty: ''
-directions: "Prep the chicken a day in advance. Use a sharp knife to slit the skin\
-  \ at the base around each drumstick, just above the ankle joint. Cut all the way\
-  \ around, down to the bone, making sure to sever the tendons. Season with salt and\
-  \ pepper. Layer in a dish with the thyme, cloves, bay leaves, and garlic. Cover\
-  \ and refrigerate overnight.\n\nTo prepare, remove the aromatics and lay the legs\
-  \ into a large Dutch oven or pot in a single layer. If using duck or chicken fat,\
-  \ warm gently in a medium saucepan just until it liquefies. Pour enough fat into\
-  \ the Dutch oven or pot to submerge the meat, and then heat over a medium flame\
-  \ until the first bubbles emerge from the chicken. Reduce the heat so that the fat\
-  \ never surpasses the slightest simmer. Cook until the meat is tender at the bone,\
-  \ about 2 hours. (Alternatively, cook the whole thing in the oven, at about 200\xB0\
-  F. Use the same cues to guide you as in stovetop simmering.)\n\nWhen the meat is\
-  \ cooked, turn off the heat and let it cool in the fat for a little while. Using\
-  \ metal tongs, carefully remove the chicken from the fat. Grab the bone at the ankle\
-  \ end to avoid tearing the skin.\n\nLet the meat and fat cool, then place the chicken\
-  \ into a glass or ceramic dish, strain the fat over it, ensuring it\u2019s completely\
-  \ submerged. Cover with a lid. Store in the fridge for up to 6 months.\n\nTo serve,\
-  \ remove the chicken from the fat, scraping off excess. Heat a cast iron pan over\
-  \ a medium flame, and place chicken, skin-side down, into the pan. As with Conveyor\
-  \ Belt Chicken , use the weight of a second, foil-wrapped cast iron pan to help\
-  \ render the fat and crisp the skin. Place the pan on top of the chicken and heat\
-  \ gently to crisp the skin at the same rate the meat reheats. As you start to hear\
-  \ crackles, rather than sizzles, pay closer attention to the meat so it doesn\u2019\
-  t burn. Once the skin is browned, flip the chicken and continue reheating the leg\
-  \ on the second side without a weight. The whole process will take about 15 minutes.\n\
-  \nServe immediately.\n\nVariations\n\n\u2022 For Duck Confit , cook 2 1 /2 to 3\
-  \ hours, until the meat is tender and falling off the bone.\n\n\u2022 For Turkey\
-  \ Confit , increase duck fat to 9 cups and cook 3 to 3 1 /2 hours, until the meat\
-  \ is tender and falling off the bone.\n\n\u2022 For Pork Confit , season 1 /2 -pound\
-  \ pieces of pork shoulder as above and replace the duck fat with lard or olive oil."
-html:
-  description: "<p>Take a page out of the French farmwife\u2019s handbook and keep\
-    \ confit on hand to save you from dinnertime desperation. Easy enough to make\
-    \ while you watch a movie or do the Sunday crossword, there\u2019s no reason not\
-    \ to try this recipe. I make a big batch once or twice each winter. I just stick\
-    \ it in the fridge, where it quickly makes its way to the back of the bottom shelf,\
-    \ a spot I rarely think to look. But I inevitably find it just when I need it\
-    \ most\u2014when an unexpected friend shows up for dinner, or I just can\u2019\
-    t muster the energy to cook. And, every time, I give silent thanks to that thoughtful,\
-    \ industrious earlier version of myself. You will, too.</p>\n<p>If you can\u2019\
-    t find or make duck fat, pure olive oil will work just fine. But if you do make\
-    \ the effort to find or render your own duck fat, you\u2019ll be rewarded in flavor.\
-    \ (There aren\u2019t many other uses for duck fat in the kitchen, but for roasting\
-    \ or frying potatoes, the excess fat from confit is an unforgettable one.) Serve\
-    \ the chicken and potatoes with a pile of arugula or chicories dressed in a bright,\
-    \ Honey-Mustard Vinaigrette (page 240 ) and spoonfuls of Herb Salsa for a welcome\
-    \ acidic contrast.</p>\n"
-  directions: "<p>Prep the chicken a day in advance. Use a sharp knife to slit the\
-    \ skin at the base around each drumstick, just above the ankle joint. Cut all\
-    \ the way around, down to the bone, making sure to sever the tendons. Season with\
-    \ salt and pepper. Layer in a dish with the thyme, cloves, bay leaves, and garlic.\
-    \ Cover and refrigerate overnight.</p>\n<p>To prepare, remove the aromatics and\
-    \ lay the legs into a large Dutch oven or pot in a single layer. If using duck\
-    \ or chicken fat, warm gently in a medium saucepan just until it liquefies. Pour\
-    \ enough fat into the Dutch oven or pot to submerge the meat, and then heat over\
-    \ a medium flame until the first bubbles emerge from the chicken. Reduce the heat\
-    \ so that the fat never surpasses the slightest simmer. Cook until the meat is\
-    \ tender at the bone, about 2 hours. (Alternatively, cook the whole thing in the\
-    \ oven, at about 200\xB0F. Use the same cues to guide you as in stovetop simmering.)</p>\n\
-    <p>When the meat is cooked, turn off the heat and let it cool in the fat for a\
-    \ little while. Using metal tongs, carefully remove the chicken from the fat.\
-    \ Grab the bone at the ankle end to avoid tearing the skin.</p>\n<p>Let the meat\
-    \ and fat cool, then place the chicken into a glass or ceramic dish, strain the\
-    \ fat over it, ensuring it\u2019s completely submerged. Cover with a lid. Store\
-    \ in the fridge for up to 6 months.</p>\n<p>To serve, remove the chicken from\
-    \ the fat, scraping off excess. Heat a cast iron pan over a medium flame, and\
-    \ place chicken, skin-side down, into the pan. As with Conveyor Belt Chicken ,\
-    \ use the weight of a second, foil-wrapped cast iron pan to help render the fat\
-    \ and crisp the skin. Place the pan on top of the chicken and heat gently to crisp\
-    \ the skin at the same rate the meat reheats. As you start to hear crackles, rather\
-    \ than sizzles, pay closer attention to the meat so it doesn\u2019t burn. Once\
-    \ the skin is browned, flip the chicken and continue reheating the leg on the\
-    \ second side without a weight. The whole process will take about 15 minutes.</p>\n\
-    <p>Serve immediately.</p>\n<p>Variations</p>\n<p>\u2022 For Duck Confit , cook\
-    \ 2 1 /2 to 3 hours, until the meat is tender and falling off the bone.</p>\n\
-    <p>\u2022 For Turkey Confit , increase duck fat to 9 cups and cook 3 to 3 1 /2\
-    \ hours, until the meat is tender and falling off the bone.</p>\n<p>\u2022 For\
-    \ Pork Confit , season 1 /2 -pound pieces of pork shoulder as above and replace\
-    \ the duck fat with lard or olive oil.</p>\n"
-  ingredients: '<ul>
-
-    <li>4 chicken legs, with thighs attached
-
-    Salt
-
-    Freshly ground black pepper
-
-    4 sprigs fresh thyme
-
-    4 cloves
-
-    2 bay leaves
-
-    3 garlic cloves, halved
-
-    About 4 cups duck or chicken fat or olive oil</li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "4 chicken legs, with thighs attached\rSalt\rFreshly ground black pepper\r\
   4 sprigs fresh thyme\r4 cloves\r2 bay leaves\r3 garlic cloves, halved\rAbout 4 cups\
   \ duck or chicken fat or olive oil"
 intrash: 0
 name: Chicken Confit
-notes: null
-nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -145,3 +41,16 @@ total_time: ''
 type: null
 uid: 05E0C925-6555-4B10-BAC5-7DAA697D8153-96025-00036CB64643958C
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>4 chicken legs, with thighs attached
+Salt
+Freshly ground black pepper
+4 sprigs fresh thyme
+4 cloves
+2 bay leaves
+3 garlic cloves, halved
+About 4 cups duck or chicken fat or olive oil</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

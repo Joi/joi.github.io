@@ -13,63 +13,6 @@ description: "This recipe, which can be made up to 5 days ahead, will produce a 
   \ Serve it with toasted crusty bread and crunchy sea salt.\n\nMAKES ABOUT 2 CUPS\
   \ JUS AND ENOUGH PULLED OXTAIL MEAT TO SERVE 8 AS AN HORS D\u2019OEUVRE\n"
 difficulty: ''
-directions: "1. Heat the oil in a large Dutch oven over high heat until lightly smoking.\
-  \ Add the oxtails and cook, flipping and stirring the pieces occasionally, until\
-  \ well browned on all surfaces, about 15 minutes. Using tongs, transfer to a large\
-  \ plate and set aside.\n2.\tAdd the carrot, celery, and onions to the pot and cook,\
-  \ stirring occasionally, until starting to lightly brown, about 8 minutes. Add the\
-  \ wine, bay leaves, thyme, and parsley and scrape up the browned bits from the bottom\
-  \ of the pot, then bring to a boil and cook until the liquid is reduced by half,\
-  \ about 10 minutes. Add the chicken stock and return the oxtails to the pot. Bring\
-  \ to a boil, reduce to a bare simmer, cover, and cook until the meat is starting\
-  \ to fall off the bones, 3 to 3\xBD hours.\n3.\tUsing tongs, transfer the oxtails\
-  \ to a large bowl. When they are cool enough to handle, shred the meat from the\
-  \ bones; discard the bones. Transfer the meat to a sealable storage container.\n\
-  4.\tStrain the braising liquid through a fine-mesh strainer into a medium saucepan.\
-  \ Carefully skim the excess fat from the top with a ladle. Spoon a few tablespoons\
-  \ of the liquid over the shredded meat and season the meat to taste with salt and\
-  \ pepper; cover the meat and liquid and refrigerate until ready to serve. (Reheat\
-  \ the meat in the microwave or in a skillet before serving; see Note above.)\n5.\t\
-  Shortly before serving the roast, return the strained braising liquid to a simmer\
-  \ and cook until reduced to 2 cups, about 15 minutes. Season to taste with salt\
-  \ and pepper. Serve the jus with the prime rib."
-html:
-  description: "<p>This recipe, which can be made up to 5 days ahead, will produce\
-    \ a rich red wine jus that can be poured over your prime rib, along with a pile\
-    \ of tender pulled oxtail meat. That meat makes a perfect hors d\u2019oeuvre for\
-    \ a fancy gathering. Serve it with toasted crusty bread and crunchy sea salt.</p>\n\
-    <p>MAKES ABOUT 2 CUPS JUS AND ENOUGH PULLED OXTAIL MEAT TO SERVE 8 AS AN HORS\
-    \ D\u2019OEUVRE</p>\n"
-  directions: "<ol>\n<li>Heat the oil in a large Dutch oven over high heat until lightly\
-    \ smoking. Add the oxtails and cook, flipping and stirring the pieces occasionally,\
-    \ until well browned on all surfaces, about 15 minutes. Using tongs, transfer\
-    \ to a large plate and set aside.</li>\n<li>Add the carrot, celery, and onions\
-    \ to the pot and cook, stirring occasionally, until starting to lightly brown,\
-    \ about 8 minutes. Add the wine, bay leaves, thyme, and parsley and scrape up\
-    \ the browned bits from the bottom of the pot, then bring to a boil and cook until\
-    \ the liquid is reduced by half, about 10 minutes. Add the chicken stock and return\
-    \ the oxtails to the pot. Bring to a boil, reduce to a bare simmer, cover, and\
-    \ cook until the meat is starting to fall off the bones, 3 to 3\xBD hours.</li>\n\
-    <li>Using tongs, transfer the oxtails to a large bowl. When they are cool enough\
-    \ to handle, shred the meat from the bones; discard the bones. Transfer the meat\
-    \ to a sealable storage container.</li>\n<li>Strain the braising liquid through\
-    \ a fine-mesh strainer into a medium saucepan. Carefully skim the excess fat from\
-    \ the top with a ladle. Spoon a few tablespoons of the liquid over the shredded\
-    \ meat and season the meat to taste with salt and pepper; cover the meat and liquid\
-    \ and refrigerate until ready to serve. (Reheat the meat in the microwave or in\
-    \ a skillet before serving; see Note above.)</li>\n<li>Shortly before serving\
-    \ the roast, return the strained braising liquid to a simmer and cook until reduced\
-    \ to 2 cups, about 15 minutes. Season to taste with salt and pepper. Serve the\
-    \ jus with the prime rib.</li>\n</ol>\n"
-  ingredients: "<ul>\n<li>1 tablespoon vegetable oil</li>\n<li>3 pounds oxtails</li>\n\
-    <li>1 large carrot, peeled and roughly chopped (about 1\xBD</li>\n<li>cups)</li>\n\
-    <li>2 stalks celery, roughly chopped (about 1\xBD cups)</li>\n<li>1 large onion,\
-    \ roughly chopped (about 1\xBD cups)</li>\n<li>1 bottle (750 ml) dry red wine</li>\n\
-    <li>2 bay leaves</li>\n<li>4 sprigs fresh thyme</li>\n<li>4 stems fresh parsley</li>\n\
-    <li>4 cups homemade or low-sodium canned chicken stock Kosher salt and freshly\
-    \ ground black pepper</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "1 tablespoon vegetable oil\n3 pounds oxtails\n1 large carrot, peeled\
   \ and roughly chopped (about 1\xBD\ncups)\n2 stalks celery, roughly chopped (about\
@@ -79,8 +22,6 @@ ingredients: "1 tablespoon vegetable oil\n3 pounds oxtails\n1 large carrot, peel
   \ black pepper"
 intrash: 0
 name: Oxtail Au Jus
-notes: null
-nutritional_info: null
 photo: 84BF3CD6-6325-44F0-9E48-7906E8A6A3E6-26383-000126417DBE7CB5.jpg
 photo_large: 582BCC5D-D8BE-47E1-A213-A201C0887506-26383-0001262BA31DA25F.jpg
 photos:
@@ -136,3 +77,19 @@ total_time: ''
 type: null
 uid: C7AD59DF-7961-4287-8189-C483C746C56E-26383-000125FF55081DA0
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 tablespoon vegetable oil</li>
+<li>3 pounds oxtails</li>
+<li>1 large carrot, peeled and roughly chopped (about 1½</li>
+<li>cups)</li>
+<li>2 stalks celery, roughly chopped (about 1½ cups)</li>
+<li>1 large onion, roughly chopped (about 1½ cups)</li>
+<li>1 bottle (750 ml) dry red wine</li>
+<li>2 bay leaves</li>
+<li>4 sprigs fresh thyme</li>
+<li>4 stems fresh parsley</li>
+<li>4 cups homemade or low-sodium canned chicken stock Kosher salt and freshly ground black pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -14,41 +14,6 @@ description: 'Inspired by [this recipe in Food and Wine.](https://www.foodandwin
 
   Goes well with bread.'
 difficulty: ''
-directions: "Pre-heat oven to 325\xBAF.\n\nIn Dutch oven, melt the butter.\n\nAdd\
-  \ garlic and pepper and season with salt and pepper.\n\nSaut\xE9 until pepper softens.\
-  \ About 5 min.\n\nAdd tomatoes, cream and water. Bring to a simmer.\n\nSeason fish\
-  \ with salt and pepper and put them in the pot.\n\nCover pot with lid and bake for\
-  \ 10 min.\n\nMeasure temperature, turn over and put back in for another 10 min or\
-  \ so.\n\nShoot for 130\xBAF internal temperature.\n\nMove fish to plates.\n\nAdd\
-  \ oregano and vinegar to pot, stir and cover fish with sauce/soup."
-html:
-  description: '<p>Inspired by <a href="https://www.foodandwine.com/recipes/swordfish-creamy-tomato-sauce">this
-    recipe in Food and Wine.</a></p>
-
-    <p>Slow braised fish. Can use any other similar fish.</p>
-
-    <p>Goes well with bread.</p>
-
-    '
-  directions: "<p>Pre-heat oven to 325\xBAF.</p>\n<p>In Dutch oven, melt the butter.</p>\n\
-    <p>Add garlic and pepper and season with salt and pepper.</p>\n<p>Saut\xE9 until\
-    \ pepper softens. About 5 min.</p>\n<p>Add tomatoes, cream and water. Bring to\
-    \ a simmer.</p>\n<p>Season fish with salt and pepper and put them in the pot.</p>\n\
-    <p>Cover pot with lid and bake for 10 min.</p>\n<p>Measure temperature, turn over\
-    \ and put back in for another 10 min or so.</p>\n<p>Shoot for 130\xBAF internal\
-    \ temperature.</p>\n<p>Move fish to plates.</p>\n<p>Add oregano and vinegar to\
-    \ pot, stir and cover fish with sauce/soup.</p>\n"
-  ingredients: "<ul>\n<li>\n<ol>\n<li>2 tbsp Unsalted butter</li>\n</ol>\n</li>\n\
-    <li>\n<ol>\n<li>4 Crushed garlic cloves</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>1\
-    \ Poblano pepper cut into \xBC-inch dice</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>Salt\
-    \ and pepper</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>16 oz of tomatoes, chopped and\
-    \ crushed</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>\xBD cup Water</li>\n</ol>\n</li>\n\
-    <li>\n<ol>\n<li>2 tbsp Heavy cream</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>4 6-ounce\
-    \ Swordfish steaks about 1 inch thick</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>1 tsp\
-    \ Red wine vinegar</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>Minced oregano</li>\n</ol>\n\
-    </li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "1. 2 tbsp Unsalted butter\n1. 4 Crushed garlic cloves\n1. 1 Poblano\
   \ pepper cut into \xBC-inch dice\n1. Salt and pepper\n1. 16 oz of tomatoes, chopped\
@@ -56,8 +21,6 @@ ingredients: "1. 2 tbsp Unsalted butter\n1. 4 Crushed garlic cloves\n1. 1 Poblan
   \ steaks about 1 inch thick\n1. 1 tsp Red wine vinegar\n1. Minced oregano"
 intrash: 0
 name: Swordfish in Creamy Tomato Sauce
-notes: null
-nutritional_info: null
 photo: C85D214A-BC19-4F63-8991-E5DA4F5B06C5-50715-0007FCAC66D2986B.jpg
 photo_large: 1E325214-F38A-4616-8097-72C633321F9D-50715-0007FCAB41F7D36F.jpg
 photos:
@@ -74,3 +37,58 @@ total_time: '45'
 type: null
 uid: 96A194FA-7F4A-42E1-B275-000A76DCEFE7-50715-0007FC418715CBB3
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>
+<ol>
+<li>2 tbsp Unsalted butter</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>4 Crushed garlic cloves</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>1 Poblano pepper cut into ¼-inch dice</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>Salt and pepper</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>16 oz of tomatoes, chopped and crushed</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>½ cup Water</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>2 tbsp Heavy cream</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>4 6-ounce Swordfish steaks about 1 inch thick</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>1 tsp Red wine vinegar</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>Minced oregano</li>
+</ol>
+</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>
