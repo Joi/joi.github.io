@@ -451,9 +451,14 @@ hr {
 }
 .bgc-lorange {
   background-color: #FFEEE3;
+  padding-left: 0.9em;
+  padding-right: 0.9em;
 }
 .fgc-orange {
   color: #F60;
+}
+#recipe #backlinks {
+  float:right;
 }
 footer {
   margin-top: 100px;
