@@ -13,7 +13,9 @@ layout: default
 		<h3>{{ page.title }}</h3>
 		<p>{{ page.date | date: '%B %d, %Y' }}</p>
 
-		{%- include content.html -%}
+		<div class="content">
+      {%- include content.html -%}
+    </div>
 
 	</div>
 	<div class="medium-3 columns" id="right-margin">
