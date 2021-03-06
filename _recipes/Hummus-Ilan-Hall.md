@@ -8,54 +8,6 @@ created: '2020-02-02 12:32:12'
 created_ts: 1580646732
 description: null
 difficulty: Easy
-directions: "**Hummus**\n\nPlace a bowl onto mixing bowl lid and weigh in garbanzo\
-  \ beans. Add enough water to cover beans by 2 inches. Cover bowl and set aside to\
-  \ soak overnight.\n\nRinse and drain soaked beans and place into mixing bowl, add\
-  \ 20 oz water, place simmering basket instead of measuring cup onto mixing bowl\
-  \ lid and cook 45 min/212\xB0F/reverse/speed 1.\n\nInsert simmering basket, hold\
-  \ it in place with spatula to drain and discard cooking liquid. Remove simmering\
-  \ basket.\n\nAdd 3 oz water, olive oil, tahini, garlic, lemon juice and salt, insert\
-  \ measuring cup and blend 2 min/speed 7. Transfer to a serving bowl and set aside.\
-  \ Clean mixing bowl.\n\n**Garlic Oil**\n\nPlace garlic and olive oil into mixing\
-  \ bowl and cook 5 min/250\xB0F/speed Stir. Transfer to a bowl and set aside to cool.\n\
-  \nRemove garlic cloves from cooled olive oil. Drizzle Hummus with Garlic Oil and\
-  \ sprinkle with paprika and pistachios. Serve with assorted vegetables or pita chips."
-html:
-  description: null
-  directions: "<p><strong>Hummus</strong></p>\n<p>Place a bowl onto mixing bowl lid\
-    \ and weigh in garbanzo beans. Add enough water to cover beans by 2 inches. Cover\
-    \ bowl and set aside to soak overnight.</p>\n<p>Rinse and drain soaked beans and\
-    \ place into mixing bowl, add 20 oz water, place simmering basket instead of measuring\
-    \ cup onto mixing bowl lid and cook 45 min/212\xB0F/reverse/speed 1.</p>\n<p>Insert\
-    \ simmering basket, hold it in place with spatula to drain and discard cooking\
-    \ liquid. Remove simmering basket.</p>\n<p>Add 3 oz water, olive oil, tahini,\
-    \ garlic, lemon juice and salt, insert measuring cup and blend 2 min/speed 7.\
-    \ Transfer to a serving bowl and set aside. Clean mixing bowl.</p>\n<p><strong>Garlic\
-    \ Oil</strong></p>\n<p>Place garlic and olive oil into mixing bowl and cook 5\
-    \ min/250\xB0F/speed Stir. Transfer to a bowl and set aside to cool.</p>\n<p>Remove\
-    \ garlic cloves from cooled olive oil. Drizzle Hummus with Garlic Oil and sprinkle\
-    \ with paprika and pistachios. Serve with assorted vegetables or pita chips.</p>\n"
-  ingredients: "<ul>\n<li><strong>Hummus</strong></li>\n<li>8 oz dried garbanzo beans</li>\n\
-    <li>23 oz water, divided, plus extra to soak beans</li>\n<li>3 oz extra virgin\
-    \ olive oil</li>\n<li>5 oz tahini</li>\n<li>1 garlic clove</li>\n<li>1 oz lemon\
-    \ juice</li>\n<li>1 \xBD tsp kosher salt, to taste</li>\n<li><strong>Garlic Oil</strong></li>\n\
-    <li>2 garlic cloves, smashed</li>\n<li>1 oz extra virgin olive oil</li>\n<li>ground\
-    \ smoked paprika, to garnish</li>\n<li>\xBD oz pistachios, toasted and chopped</li>\n\
-    <li>sliced raw vegetables, to serve</li>\n</ul>\n"
-  notes: null
-  nutrition: '<p>Calories: 11523 kJ / 2754 kcal
-
-    Protein: 71 g
-
-    Carbohydrates: 174 g
-
-    Fat: 209 g
-
-    Cholesterol: 0 mg
-
-    Fiber: 52 g</p>
-
-    '
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/DCFC4B1D-9B96-4B2D-9210-6795004579BB/Derivates/37085D6C-8D54-4F04-80ED-76400F519D0A.jpg
 ingredients: "**Hummus**\n8 oz dried garbanzo beans\n23 oz water, divided, plus extra\
   \ to soak beans\n3 oz extra virgin olive oil\n5 oz tahini\n1 garlic clove\n1 oz\
@@ -64,18 +16,6 @@ ingredients: "**Hummus**\n8 oz dried garbanzo beans\n23 oz water, divided, plus 
   \ oz pistachios, toasted and chopped\nsliced raw vegetables, to serve"
 intrash: 0
 name: Hummus (Ilan Hall)
-notes: null
-nutritional_info: 'Calories: 11523 kJ / 2754 kcal
-
-  Protein: 71 g
-
-  Carbohydrates: 174 g
-
-  Fat: 209 g
-
-  Cholesterol: 0 mg
-
-  Fiber: 52 g'
 photo: 82348952-B32B-42DC-AA8C-9497D3EE45F5-25037-00009F4F60E8F23D.jpg
 photo_large: null
 photos: []
@@ -89,3 +29,22 @@ total_time: ''
 type: null
 uid: 0D50D58F-97BC-420D-8B90-24B68665D672-25037-00009F4D10ECF74A
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li><strong>Hummus</strong></li>
+<li>8 oz dried garbanzo beans</li>
+<li>23 oz water, divided, plus extra to soak beans</li>
+<li>3 oz extra virgin olive oil</li>
+<li>5 oz tahini</li>
+<li>1 garlic clove</li>
+<li>1 oz lemon juice</li>
+<li>1 ½ tsp kosher salt, to taste</li>
+<li><strong>Garlic Oil</strong></li>
+<li>2 garlic cloves, smashed</li>
+<li>1 oz extra virgin olive oil</li>
+<li>ground smoked paprika, to garnish</li>
+<li>½ oz pistachios, toasted and chopped</li>
+<li>sliced raw vegetables, to serve</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

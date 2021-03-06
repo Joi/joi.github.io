@@ -13,73 +13,6 @@ description: 'Based on Harry''s Bar Recipe and :
 
   https://www.cookscountry.com/recipes/5819-pork-roast-with-mushroom-gravy?extcode=MCSKD10L0&ref=new_search_experience_14'
 difficulty: ''
-directions: "**The Rice**\n\nBring the stock to a simmer.\n\nHeat the olive oil in\
-  \ a heavy, large saucepan. Add onion and cook until golden but not brown. Add the\
-  \ rice and stir with a wooden spoon to coat the rice. Turn the heat to high and\
-  \ add some of the hot broth. The recipes say to add the broth gradually, but according\
-  \ to Kenji in Food lab, you can add it all at once. The downside is that you might\
-  \ have too much at the end. I don't add it all at once, but I add a bunch at the\
-  \ beginning.\n\nYou will need to stir constantly until liquid is absorbed. Continue\
-  \ adding broth, stirring until each batch is absorbed. This will take at least 20\
-  \ minutes. (Half way through this process you will add the vegetable mixture, below)\
-  \ You may have to adjust the heat from time to time but the risotto needs to keep\
-  \ boiling, but must not stick to the pot. The rice, when done, should be tender\
-  \ but with still the slightest bit of firmness. When all liquid is absorbed, remove\
-  \ from heat and stir in butter and Parmesan. Mix well until creamy. Add salt and\
-  \ pepper to taste. Serve with Parmesan for sprinkling. \n\n**Vegetables**\n\nHeat\
-  \ oil in pot. Add the garlic to flavor the oil. Add the mushrooms and cook for 5\
-  \ minutes until softened. Add the basil and oregano. Add the onion and cook for\
-  \ 2 minutes. Add the zucchini, broccoli, bell pepper, tomatoes and leek. Raise head\
-  \ and cook for 10 minutes, stirring often, until veggies are just cooked. Season\
-  \ with salt and pepper."
-html:
-  description: '<p>Based on Harry''s Bar Recipe and :</p>
-
-    <p>https://www.cookscountry.com/recipes/5819-pork-roast-with-mushroom-gravy?extcode=MCSKD10L0&amp;ref=new_search_experience_14</p>
-
-    '
-  directions: '<p><strong>The Rice</strong></p>
-
-    <p>Bring the stock to a simmer.</p>
-
-    <p>Heat the olive oil in a heavy, large saucepan. Add onion and cook until golden
-    but not brown. Add the rice and stir with a wooden spoon to coat the rice. Turn
-    the heat to high and add some of the hot broth. The recipes say to add the broth
-    gradually, but according to Kenji in Food lab, you can add it all at once. The
-    downside is that you might have too much at the end. I don''t add it all at once,
-    but I add a bunch at the beginning.</p>
-
-    <p>You will need to stir constantly until liquid is absorbed. Continue adding
-    broth, stirring until each batch is absorbed. This will take at least 20 minutes.
-    (Half way through this process you will add the vegetable mixture, below) You
-    may have to adjust the heat from time to time but the risotto needs to keep boiling,
-    but must not stick to the pot. The rice, when done, should be tender but with
-    still the slightest bit of firmness. When all liquid is absorbed, remove from
-    heat and stir in butter and Parmesan. Mix well until creamy. Add salt and pepper
-    to taste. Serve with Parmesan for sprinkling.</p>
-
-    <p><strong>Vegetables</strong></p>
-
-    <p>Heat oil in pot. Add the garlic to flavor the oil. Add the mushrooms and cook
-    for 5 minutes until softened. Add the basil and oregano. Add the onion and cook
-    for 2 minutes. Add the zucchini, broccoli, bell pepper, tomatoes and leek. Raise
-    head and cook for 10 minutes, stirring often, until veggies are just cooked. Season
-    with salt and pepper.</p>
-
-    '
-  ingredients: "<ul>\n<li>For the rice:</li>\n<li>5 to 6 cups chicken broth</li>\n\
-    <li>1 tbsp olive oil</li>\n<li>1 small minced onion</li>\n<li>1 \xBD cups arborio\
-    \ rice</li>\n<li>3 tbsp butter at room temp</li>\n<li>\u2154 cup freshly grated\
-    \ Parmesan</li>\n<li>Salt &amp; pepper to taste</li>\n<li>For the vegetables to\
-    \ be added half way through the rice cooking time:</li>\n<li>\xBC cup olive oil</li>\n\
-    <li>1 garlic clove, crushed</li>\n<li>1 cup thinly sliced shiitake mushroom caps</li>\n\
-    <li>1 tbsp finely chopped onion</li>\n<li>2 small zucchini, cut into \xBC inch\
-    \ dice</li>\n<li>6 asparagus cut in \xBD inch segments</li>\n<li>1/2 red bell\
-    \ pepper, diced</li>\n<li>2 medium plum tomatoes, diced</li>\n<li>1 medium leek,\
-    \ white part only, cleaned and diced.</li>\n<li>\xBD tsp. basil</li>\n<li>\xBC\
-    \ tsp. oregano</li>\n<li>Salt and pepper to taste.</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "For the rice:\n5 to 6 cups chicken broth\n1 tbsp olive oil\n1 small\
   \ minced onion\n1 \xBD cups arborio rice\n3 tbsp butter at room temp\n\u2154 cup\
@@ -92,8 +25,6 @@ ingredients: "For the rice:\n5 to 6 cups chicken broth\n1 tbsp olive oil\n1 smal
   \ to taste."
 intrash: 0
 name: Risotto Primavera
-notes: null
-nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -107,3 +38,29 @@ total_time: ''
 type: null
 uid: 16DAD724-0640-45B2-A7EB-66B408332186-2209-00009B8A4B171F2C
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>For the rice:</li>
+<li>5 to 6 cups chicken broth</li>
+<li>1 tbsp olive oil</li>
+<li>1 small minced onion</li>
+<li>1 ½ cups arborio rice</li>
+<li>3 tbsp butter at room temp</li>
+<li>⅔ cup freshly grated Parmesan</li>
+<li>Salt &amp; pepper to taste</li>
+<li>For the vegetables to be added half way through the rice cooking time:</li>
+<li>¼ cup olive oil</li>
+<li>1 garlic clove, crushed</li>
+<li>1 cup thinly sliced shiitake mushroom caps</li>
+<li>1 tbsp finely chopped onion</li>
+<li>2 small zucchini, cut into ¼ inch dice</li>
+<li>6 asparagus cut in ½ inch segments</li>
+<li>1/2 red bell pepper, diced</li>
+<li>2 medium plum tomatoes, diced</li>
+<li>1 medium leek, white part only, cleaned and diced.</li>
+<li>½ tsp. basil</li>
+<li>¼ tsp. oregano</li>
+<li>Salt and pepper to taste.</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

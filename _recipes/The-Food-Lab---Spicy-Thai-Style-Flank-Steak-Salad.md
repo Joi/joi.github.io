@@ -13,72 +13,6 @@ description: "This is probably my favorite beef marinade of all time. Sweet, spi
   \ skillet\u2014split the steak crosswise in half so you can fit it in the pan. Flank\
   \ steak can be replaced with hanger, skirt, or flap meat."
 difficulty: ''
-directions: "1. To make the marinade: Combine the sugar and water in a small saucepan\
-  \ and heat over medium heat, stirring, until the sugar is completely dissolved.\
-  \ Transfer to a small bowl. Add the fish sauce, soy sauce, lime juice, garlic, and\
-  \ chile powder and stir to combine. Transfer half the marinade to a small container\
-  \ and reserve. Add the oil to the remaining marinade and whisk to combine. Place\
-  \ the flank steak in a gallon-sized zipper-lock freezer bag, add the marinade, press\
-  \ out the air, and seal the bag. Allow the meat to marinate in the refrigerator,\
-  \ turning occasionally, for at least 1 hour, and up to 12 hours.\n\n2. Remove the\
-  \ steak from the marinade and pat dry with paper towels. Ignite a large chimneyful\
-  \ of coals and wait until they\u2019re covered in gray ash, then spread evenly over\
-  \ one half of the grill grate. Put the cooking grate in place, cover, and allow\
-  \ the grill to preheat for 5 minutes. Or, if using a gas grill, heat one set of\
-  \ burners to high and leave the rest off. Scrape the cooking grates clean.\n\n3.\
-  \ Place the flank steak on the hot side of the grill and cook until well charred\
-  \ on the first side, about 3 minutes. Flip the steak and continue to cook until\
-  \ the second side is well charred, about 3 minutes longer. Transfer the steak to\
-  \ the cooler side of the grill, cover, and cook until the center of the steak registers\
-  \ 125\xB0F for medium-rare, or 135\xB0F for medium, on an instant-read thermometer,\
-  \ about 5 minutes longer. Transfer to a cutting board, tent with foil, and allow\
-  \ to rest for at least 5 minutes. \n\r4. Thinly slice the beef against the grain\
-  \ and transfer to a large bowl. Add the herbs, shallots, cucumber, bean sprouts,\
-  \ and reserved marinade and toss to combine. Serve immediately."
-html:
-  description: "<p>This is probably my favorite beef marinade of all time. Sweet,\
-    \ spicy, sour, and salty, it encompasses the four basic flavors of Thai cuisine.\
-    \ While there\u2019s no salt added to the recipe, the fish sauce and soy sauce\
-    \ are plenty salty.</p>\n<p>NOTES: You can also cook the meat indoors in a grill\
-    \ pan or in a large skillet\u2014split the steak crosswise in half so you can\
-    \ fit it in the pan. Flank steak can be replaced with hanger, skirt, or flap meat.</p>\n"
-  directions: "<ol>\n<li>\n<p>To make the marinade: Combine the sugar and water in\
-    \ a small saucepan and heat over medium heat, stirring, until the sugar is completely\
-    \ dissolved. Transfer to a small bowl. Add the fish sauce, soy sauce, lime juice,\
-    \ garlic, and chile powder and stir to combine. Transfer half the marinade to\
-    \ a small container and reserve. Add the oil to the remaining marinade and whisk\
-    \ to combine. Place the flank steak in a gallon-sized zipper-lock freezer bag,\
-    \ add the marinade, press out the air, and seal the bag. Allow the meat to marinate\
-    \ in the refrigerator, turning occasionally, for at least 1 hour, and up to 12\
-    \ hours.</p>\n</li>\n<li>\n<p>Remove the steak from the marinade and pat dry with\
-    \ paper towels. Ignite a large chimneyful of coals and wait until they\u2019re\
-    \ covered in gray ash, then spread evenly over one half of the grill grate. Put\
-    \ the cooking grate in place, cover, and allow the grill to preheat for 5 minutes.\
-    \ Or, if using a gas grill, heat one set of burners to high and leave the rest\
-    \ off. Scrape the cooking grates clean.</p>\n</li>\n<li>\n<p>Place the flank steak\
-    \ on the hot side of the grill and cook until well charred on the first side,\
-    \ about 3 minutes. Flip the steak and continue to cook until the second side is\
-    \ well charred, about 3 minutes longer. Transfer the steak to the cooler side\
-    \ of the grill, cover, and cook until the center of the steak registers 125\xB0\
-    F for medium-rare, or 135\xB0F for medium, on an instant-read thermometer, about\
-    \ 5 minutes longer. Transfer to a cutting board, tent with foil, and allow to\
-    \ rest for at least 5 minutes.</p>\n</li>\n<li>\n<p>Thinly slice the beef against\
-    \ the grain and transfer to a large bowl. Add the herbs, shallots, cucumber, bean\
-    \ sprouts, and reserved marinade and toss to combine. Serve immediately.</p>\n\
-    </li>\n</ol>\n"
-  ingredients: "<ul>\n<li><strong>For the Marinade</strong></li>\n<li>\xBD cup packed\
-    \ brown sugar</li>\n<li>\xBC cup water</li>\n<li>3 tablespoons Asian fish sauce</li>\n\
-    <li>2 tablespoons soy sauce</li>\n<li>\u2153 cup lime juice (from 3 to 4 limes)</li>\n\
-    <li>2 medium cloves garlic, minced or grated on a</li>\n<li>Microplane (about\
-    \ 2 teaspoons)</li>\n<li>1 tablespoon Thai chile powder or red pepper flakes</li>\n\
-    <li>\xBC cup vegetable oil</li>\n<li>1 flank steak (about 2 pounds)</li>\n<li><strong>For\
-    \ the Salad</strong></li>\n<li>\xBD cup loosely packed fresh mint leaves</li>\n\
-    <li>\xBD cup loosely packed fresh cilantro leaves</li>\n<li>\xBD cup loosely packed\
-    \ fresh basil leaves</li>\n<li>4 medium shallots, finely sliced (about 1 cup)</li>\n\
-    <li>1 small cucumber, cut into \xBD-inch chunks</li>\n<li>1 to 2 cups mung bean\
-    \ sprouts, rinsed and dried</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "**For the Marinade**\n\n\xBD cup packed brown sugar\n\xBC cup water\n\
   3 tablespoons Asian fish sauce\n2 tablespoons soy sauce\n\u2153 cup lime juice (from\
@@ -91,8 +25,6 @@ ingredients: "**For the Marinade**\n\n\xBD cup packed brown sugar\n\xBC cup wate
   \ dried"
 intrash: 0
 name: The Food Lab - Spicy Thai-Style Flank Steak Salad
-notes: null
-nutritional_info: null
 photo: null
 photo_large: null
 photos: []
@@ -106,3 +38,26 @@ total_time: ''
 type: null
 uid: 78F6B3C4-762D-450B-80A6-55AD199BD8CF-2209-0001D6555BCEA1D1
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li><strong>For the Marinade</strong></li>
+<li>½ cup packed brown sugar</li>
+<li>¼ cup water</li>
+<li>3 tablespoons Asian fish sauce</li>
+<li>2 tablespoons soy sauce</li>
+<li>⅓ cup lime juice (from 3 to 4 limes)</li>
+<li>2 medium cloves garlic, minced or grated on a</li>
+<li>Microplane (about 2 teaspoons)</li>
+<li>1 tablespoon Thai chile powder or red pepper flakes</li>
+<li>¼ cup vegetable oil</li>
+<li>1 flank steak (about 2 pounds)</li>
+<li><strong>For the Salad</strong></li>
+<li>½ cup loosely packed fresh mint leaves</li>
+<li>½ cup loosely packed fresh cilantro leaves</li>
+<li>½ cup loosely packed fresh basil leaves</li>
+<li>4 medium shallots, finely sliced (about 1 cup)</li>
+<li>1 small cucumber, cut into ½-inch chunks</li>
+<li>1 to 2 cups mung bean sprouts, rinsed and dried</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -8,61 +8,6 @@ created: '2020-07-05 11:38:20'
 created_ts: 1593949100
 description: null
 difficulty: ''
-directions: 'Set Anova Sous Vide Precision Cooker to desired temp. Multiple options
-  available to choose from in drop down menu.
-
-
-  In a large bowl, toss shrimp with 1/2 teaspoon kosher salt and the baking soda.
-  Place shrimp in a heavy duty zipper-lock bag or a vacuum bag. If desired, add 1
-  to 2 tablespoons (15 to 30ml) olive oil or butter and aromatics. Remove all air
-  from bag using the water displacement method or a vacuum sealer. Press shrimp into
-  a single layer.
-
-
-  Add bagged shrimp to preheated water bath and cook for at least 15 minutes and up
-  to 1 hour (the texture should show very little variation within this time frame).
-
-
-  Remove shrimp from bag to a paper towel-lined plates. Serve hot, or chill and serve
-  cold.'
-html:
-  description: null
-  directions: '<p>Set Anova Sous Vide Precision Cooker to desired temp. Multiple options
-    available to choose from in drop down menu.</p>
-
-    <p>In a large bowl, toss shrimp with 1/2 teaspoon kosher salt and the baking soda.
-    Place shrimp in a heavy duty zipper-lock bag or a vacuum bag. If desired, add
-    1 to 2 tablespoons (15 to 30ml) olive oil or butter and aromatics. Remove all
-    air from bag using the water displacement method or a vacuum sealer. Press shrimp
-    into a single layer.</p>
-
-    <p>Add bagged shrimp to preheated water bath and cook for at least 15 minutes
-    and up to 1 hour (the texture should show very little variation within this time
-    frame).</p>
-
-    <p>Remove shrimp from bag to a paper towel-lined plates. Serve hot, or chill and
-    serve cold.</p>
-
-    '
-  ingredients: '<ul>
-
-    <li>1 1/2 pounds large peeled shrimp (about 700g)</li>
-
-    <li>Kosher salt</li>
-
-    <li>1/2 teaspoon baking soda</li>
-
-    <li>Extra virgin olive oil or butter (optional)</li>
-
-    <li>Aromatics such as garlic, shallots, tarragon, or parsley (optional)</li>
-
-    </ul>
-
-    '
-  notes: '<p>7/2/2020 Used oil from Tuna Confit</p>
-
-    '
-  nutrition: null
 image_url: https://images.anovaculinary.com/sous-vide-shrimp/header/sous-vide-shrimp-header-og.jpg
 ingredients: '1 1/2 pounds large peeled shrimp (about 700g)
 
@@ -75,8 +20,6 @@ ingredients: '1 1/2 pounds large peeled shrimp (about 700g)
   Aromatics such as garlic, shallots, tarragon, or parsley (optional)'
 intrash: 0
 name: Sous Vide Shrimp
-notes: 7/2/2020 Used oil from Tuna Confit
-nutritional_info: null
 photo: F1D914C9-7DC8-4BF3-96AD-65F7FE0824F9-6789-0000041D9E73813A.jpg
 photo_large: null
 photos: []
@@ -90,4 +33,13 @@ total_time: 30 min
 type: null
 uid: 4EBE9505-B809-4762-AA85-43CCD70D004C-6789-0000041D8DE23F73
 ---
-7/2/2020 Used oil from Tuna Confit
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 1/2 pounds large peeled shrimp (about 700g)</li>
+<li>Kosher salt</li>
+<li>1/2 teaspoon baking soda</li>
+<li>Extra virgin olive oil or butter (optional)</li>
+<li>Aromatics such as garlic, shallots, tarragon, or parsley (optional)</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

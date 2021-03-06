@@ -8,63 +8,6 @@ created: '2020-08-19 16:36:35'
 created_ts: 1597854995
 description: null
 difficulty: ''
-directions: "1. Adjust the oven racks to the lower- and upper-middle positions. Preheat\
-  \ the oven to 275\xB0F. Spread the bread evenly on two rimmed baking sheets. Stagger\
-  \ the pans on the oven racks and bake, rotating the pans and stirring the bread\
-  \ cubes several times, until the bread is completely dried, about 50 minutes. Remove\
-  \ from the oven and allow to cool. Increase the oven temperature to 350\xB0F.\n\n\
-  2. Heat the butter in a large Dutch oven over medium-high heat until the foaming\
-  \ subsides (don\u2019t allow the butter to brown), about 2 minutes. Add the sausage\
-  \ and mash with a stiff whisk or potato masher to break it up into fine pieces (the\
-  \ largest pieces should be no greater than \xBC inch), then cook, stirring frequently,\
-  \ until only a few bits of pink remain, about 8 minutes. Add the onion, celery,\
-  \ garlic, and sage and cook, stirring frequently, until the vegetables are softened,\
-  \ about 10 minutes. Remove from the heat and add half of the stock.\n\n3. Whisk\
-  \ the remaining stock, the eggs, and 3 tablespoons of the parsley in a medium bowl\
-  \ until homogeneous. Stirring constantly with a wooden spoon, slowly pour the egg\
-  \ mixture into the sausage mixture. Add the bread cubes and fold gently until evenly\
-  \ mixed.\n\n4. Use part of the stuffing to stuff the bird if desired. Transfer the\
-  \ remaining stuffing to buttered 9- by 13-inch baking dish (or 10- by 14-inch oval\
-  \ dish). Cover tightly with aluminum foil and bake until an instant-read thermometer\
-  \ inserted into the center of the stuffing reads 150\xB0F, about 45 minutes. Remove\
-  \ the foil and continue baking until golden brown and crisp on top. Sprinkle with\
-  \ the remaining tablespoon of parsley and serve."
-html:
-  description: null
-  directions: "<ol>\n<li>\n<p>Adjust the oven racks to the lower- and upper-middle\
-    \ positions. Preheat the oven to 275\xB0F. Spread the bread evenly on two rimmed\
-    \ baking sheets. Stagger the pans on the oven racks and bake, rotating the pans\
-    \ and stirring the bread cubes several times, until the bread is completely dried,\
-    \ about 50 minutes. Remove from the oven and allow to cool. Increase the oven\
-    \ temperature to 350\xB0F.</p>\n</li>\n<li>\n<p>Heat the butter in a large Dutch\
-    \ oven over medium-high heat until the foaming subsides (don\u2019t allow the\
-    \ butter to brown), about 2 minutes. Add the sausage and mash with a stiff whisk\
-    \ or potato masher to break it up into fine pieces (the largest pieces should\
-    \ be no greater than \xBC inch), then cook, stirring frequently, until only a\
-    \ few bits of pink remain, about 8 minutes. Add the onion, celery, garlic, and\
-    \ sage and cook, stirring frequently, until the vegetables are softened, about\
-    \ 10 minutes. Remove from the heat and add half of the stock.</p>\n</li>\n<li>\n\
-    <p>Whisk the remaining stock, the eggs, and 3 tablespoons of the parsley in a\
-    \ medium bowl until homogeneous. Stirring constantly with a wooden spoon, slowly\
-    \ pour the egg mixture into the sausage mixture. Add the bread cubes and fold\
-    \ gently until evenly mixed.</p>\n</li>\n<li>\n<p>Use part of the stuffing to\
-    \ stuff the bird if desired. Transfer the remaining stuffing to buttered 9- by\
-    \ 13-inch baking dish (or 10- by 14-inch oval dish). Cover tightly with aluminum\
-    \ foil and bake until an instant-read thermometer inserted into the center of\
-    \ the stuffing reads 150\xB0F, about 45 minutes. Remove the foil and continue\
-    \ baking until golden brown and crisp on top. Sprinkle with the remaining tablespoon\
-    \ of parsley and serve.</p>\n</li>\n</ol>\n"
-  ingredients: "<ul>\n<li>2\xBD pounds (about 2 loaves) high-quality sandwich bread\
-    \ or soft Italian or French bread, cut into \xBE-inch dice (about 5 quarts)\n\
-    8 tablespoons (1 stick) unsalted butter\n1\xBD pounds sage sausage, removed from\
-    \ casings\n1 large onion, finely chopped (about 2 cups)\n4 large stalks celery,\
-    \ finely chopped (about 2 cups)\n2 medium cloves garlic, minced or grated on a\
-    \ Microplane (about 2 teaspoons)\n\xBC cup minced fresh sage (or 2 teaspoons dried\
-    \ sage)\n4 cups homemade or low-sodium canned chicken or turkey stock\n3 large\
-    \ eggs\n\xBC cup minced fresh parsley\nKosher salt and freshly ground black pepper</li>\n\
-    </ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "2\xBD pounds (about 2 loaves) high-quality sandwich bread or soft Italian\
   \ or French bread, cut into \xBE-inch dice (about 5 quarts)\r8 tablespoons (1 stick)\
@@ -76,8 +19,6 @@ ingredients: "2\xBD pounds (about 2 loaves) high-quality sandwich bread or soft 
   Kosher salt and freshly ground black pepper"
 intrash: 0
 name: Stuffing
-notes: null
-nutritional_info: null
 photo: C1EE1A95-B35A-4D45-9115-A5689D56890F-2241-00031575FDEDE782.jpg
 photo_large: C97CB73B-63BA-4CF1-8AB0-C50A9950BAAD-2241-000315737380C867.jpg
 photos:
@@ -103,3 +44,19 @@ total_time: ''
 type: null
 uid: 361C126A-71BA-4EF3-89A9-AEC190712B26-2241-0001908744F256EF
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>2½ pounds (about 2 loaves) high-quality sandwich bread or soft Italian or French bread, cut into ¾-inch dice (about 5 quarts)
+8 tablespoons (1 stick) unsalted butter
+1½ pounds sage sausage, removed from casings
+1 large onion, finely chopped (about 2 cups)
+4 large stalks celery, finely chopped (about 2 cups)
+2 medium cloves garlic, minced or grated on a Microplane (about 2 teaspoons)
+¼ cup minced fresh sage (or 2 teaspoons dried sage)
+4 cups homemade or low-sodium canned chicken or turkey stock
+3 large eggs
+¼ cup minced fresh parsley
+Kosher salt and freshly ground black pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

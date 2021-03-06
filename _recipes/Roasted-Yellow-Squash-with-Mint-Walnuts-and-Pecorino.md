@@ -8,42 +8,6 @@ created: '2020-07-01 20:23:08'
 created_ts: 1593634988
 description: ''
 difficulty: ''
-directions: "Step\n\nPreheat oven to 450\xBA. In a large bowl, toss the squash, olive\
-  \ oil, salt and pepper. Place on single layer on baking sheet and roast until browned\
-  \ and tender, about 15 minutes. Remove from oven, toss with vinegar, mint, walnuts,\
-  \ and cheese, and serve."
-html:
-  description: null
-  directions: "<p>Step</p>\n<p>Preheat oven to 450\xBA. In a large bowl, toss the\
-    \ squash, olive oil, salt and pepper. Place on single layer on baking sheet and\
-    \ roast until browned and tender, about 15 minutes. Remove from oven, toss with\
-    \ vinegar, mint, walnuts, and cheese, and serve.</p>\n"
-  ingredients: '<ul>
-
-    <li>1 tablespoon extra-virgin olive oil</li>
-
-    <li>2 medium yellow squash, sliced crosswise 1/4-inch thick</li>
-
-    <li>1 tablespoon red wine vinegar</li>
-
-    <li>1 tablespoon minced mint</li>
-
-    <li>1/4 cup toasted walnuts</li>
-
-    <li>2 ounces Pecorino-Romano cheese, shaved with a vegetable peeler</li>
-
-    <li>Kosher salt</li>
-
-    <li>Black pepper</li>
-
-    </ul>
-
-    '
-  notes: '<p>7/1/2020 Made without cheese or walnut with sage and red onions matched
-    with Chicken yoghurt curry.</p>
-
-    '
-  nutrition: null
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F201311-r-xl-roasted-yellow-squash-with-mint-walnuts-and-pecorino.jpg%3Fitok%3D0vnydExC&w=700&c=sc&poi=face&q=85
 ingredients: '1 tablespoon extra-virgin olive oil
 
@@ -62,9 +26,6 @@ ingredients: '1 tablespoon extra-virgin olive oil
   Black pepper'
 intrash: 0
 name: Roasted Yellow Squash with Mint, Walnuts and Pecorino
-notes: 7/1/2020 Made without cheese or walnut with sage and red onions matched with
-  Chicken yoghurt curry.
-nutritional_info: ''
 photo: E587942C-3803-4BF0-8613-F633119F8814-631-000067EA17EFBF9C.jpg
 photo_large: null
 photos: []
@@ -78,4 +39,16 @@ total_time: ''
 type: null
 uid: 0710863A-1492-49F6-B4AB-47A7975DBC6E-631-000067E712BC754E
 ---
-7/1/2020 Made without cheese or walnut with sage and red onions matched with Chicken yoghurt curry.
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 tablespoon extra-virgin olive oil</li>
+<li>2 medium yellow squash, sliced crosswise 1/4-inch thick</li>
+<li>1 tablespoon red wine vinegar</li>
+<li>1 tablespoon minced mint</li>
+<li>1/4 cup toasted walnuts</li>
+<li>2 ounces Pecorino-Romano cheese, shaved with a vegetable peeler</li>
+<li>Kosher salt</li>
+<li>Black pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

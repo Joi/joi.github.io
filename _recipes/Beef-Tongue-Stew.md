@@ -3,96 +3,12 @@ title: "Beef Tongue Stew"
 filename: "Beef-Tongue-Stew"
 categories:
 - _mine
-- Tongue
 cook_time: ''
 created: '2021-01-21 20:05:32'
 created_ts: 1611259532
 description: Recipe is work in progress. I went very slow and low, but I think that
   going a little hotter might be better.
 difficulty: ''
-directions: "Preheat oven to 225\xBAF.\n\nSoak beef tongue in hot water with salt\
-  \ for awhile to remove some of the smell and blood.\n\nPut tongue and aromatics\
-  \ in stock in a Dutch oven and bring to boil.\n\nPut Dutch oven covered in oven.\n\
-  \nMake roux by combining butter and flour at a 1:1 weight ratio in a saucepan and\
-  \ mixing on low heat until roux is brownish. Do not burn.\n\n4 hours or so into\
-  \ the stewing, pull the tongue out of the soup. Peel and slice. Sear the slices\
-  \ of tongue and put back into the soup. Add tomato paste and Worcestershire sauce\
-  \ and put back in oven.\n\nA few hours before you think it will be done, put the\
-  \ potatoes, mushroom and second batch of carrots in.\n\nFinish once the tongue is\
-  \ fork soft.\n\nIf you want to go overnight, you can stick it in a slow cooker.\n\
-  \nRemove from heat and fold in roux and mix. Season to taste with salt and pepper.\n\
-  \nGarnish with sour cream and parsley."
-html:
-  description: '<p>Recipe is work in progress. I went very slow and low, but I think
-    that going a little hotter might be better.</p>
-
-    '
-  directions: "<p>Preheat oven to 225\xBAF.</p>\n<p>Soak beef tongue in hot water\
-    \ with salt for awhile to remove some of the smell and blood.</p>\n<p>Put tongue\
-    \ and aromatics in stock in a Dutch oven and bring to boil.</p>\n<p>Put Dutch\
-    \ oven covered in oven.</p>\n<p>Make roux by combining butter and flour at a 1:1\
-    \ weight ratio in a saucepan and mixing on low heat until roux is brownish. Do\
-    \ not burn.</p>\n<p>4 hours or so into the stewing, pull the tongue out of the\
-    \ soup. Peel and slice. Sear the slices of tongue and put back into the soup.\
-    \ Add tomato paste and Worcestershire sauce and put back in oven.</p>\n<p>A few\
-    \ hours before you think it will be done, put the potatoes, mushroom and second\
-    \ batch of carrots in.</p>\n<p>Finish once the tongue is fork soft.</p>\n<p>If\
-    \ you want to go overnight, you can stick it in a slow cooker.</p>\n<p>Remove\
-    \ from heat and fold in roux and mix. Season to taste with salt and pepper.</p>\n\
-    <p>Garnish with sour cream and parsley.</p>\n"
-  ingredients: '<ul>
-
-    <li>Beef tongue</li>
-
-    <li>Onions</li>
-
-    <li>Carrots</li>
-
-    <li>Thyme</li>
-
-    <li>Garlic</li>
-
-    <li>Chicken stock</li>
-
-    <li>Celery</li>
-
-    <li>Bay leaves</li>
-
-    <li>Tomato paste</li>
-
-    <li>Red wine</li>
-
-    <li>Salt</li>
-
-    <li>Worcestershire sauce</li>
-
-    <li>Add later:</li>
-
-    <li>Mushrooms</li>
-
-    <li>Potatoes</li>
-
-    <li>Carrots</li>
-
-    <li>Roux:</li>
-
-    <li>Flour</li>
-
-    <li>Butter</li>
-
-    <li>Garnish:</li>
-
-    <li>Sour cream</li>
-
-    <li>Parsley</li>
-
-    <li></li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: 'Beef tongue
 
@@ -147,8 +63,6 @@ ingredients: 'Beef tongue
   '
 intrash: 0
 name: Beef Tongue Stew
-notes: null
-nutritional_info: null
 photo: 536D4DC1-9C4B-4877-BBCC-8518D2CD31A2-2310-0000ED5453AAF6F7.jpg
 photo_large: 19C94459-AEB7-4AC4-B71C-960549A18DA1-2310-0000ED135F44C826.jpg
 photos:
@@ -207,3 +121,44 @@ total_time: ''
 type: _mine
 uid: 38671B20-78DF-4FD9-AFFB-C105A172BBDB-2310-0000EC521E0EC0EE
 ---
+<div class="large-8 medium-7 columns" id="writeup">		<h4 id="description">Description</h4>
+<div class="box box-description content"><p>Recipe is work in progress. I went very slow and low, but I think that going a little hotter might be better.</p>
+</div>	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>Beef tongue</li>
+<li>Onions</li>
+<li>Carrots</li>
+<li>Thyme</li>
+<li>Garlic</li>
+<li>Chicken stock</li>
+<li>Celery</li>
+<li>Bay leaves</li>
+<li>Tomato paste</li>
+<li>Red wine</li>
+<li>Salt</li>
+<li>Worcestershire sauce</li>
+<li>Add later:</li>
+<li>Mushrooms</li>
+<li>Potatoes</li>
+<li>Carrots</li>
+<li>Roux:</li>
+<li>Flour</li>
+<li>Butter</li>
+<li>Garnish:</li>
+<li>Sour cream</li>
+<li>Parsley</li>
+<li></li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Preheat oven to 225ºF.</p>
+<p>Soak beef tongue in hot water with salt for awhile to remove some of the smell and blood.</p>
+<p>Put tongue and aromatics in stock in a Dutch oven and bring to boil.</p>
+<p>Put Dutch oven covered in oven.</p>
+<p>Make roux by combining butter and flour at a 1:1 weight ratio in a saucepan and mixing on low heat until roux is brownish. Do not burn.</p>
+<p>4 hours or so into the stewing, pull the tongue out of the soup. Peel and slice. Sear the slices of tongue and put back into the soup. Add tomato paste and Worcestershire sauce and put back in oven.</p>
+<p>A few hours before you think it will be done, put the potatoes, mushroom and second batch of carrots in.</p>
+<p>Finish once the tongue is fork soft.</p>
+<p>If you want to go overnight, you can stick it in a slow cooker.</p>
+<p>Remove from heat and fold in roux and mix. Season to taste with salt and pepper.</p>
+<p>Garnish with sour cream and parsley.</p>
+</div>	</div>

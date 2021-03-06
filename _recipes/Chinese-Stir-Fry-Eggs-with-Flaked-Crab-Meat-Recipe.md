@@ -10,64 +10,6 @@ created: '2021-01-20 14:55:41'
 created_ts: 1611154541
 description: null
 difficulty: ''
-directions: 'Cook crab by dropping in a large pot of boiling water and boil 8 mins/lb.  Allow
-  the crab to cool, then remove the meat from the shell, using a fork to flake any
-  large pieces of crab meat.
-
-
-  Whisk the eggs gently until just mixed.  Add salt and whisk.  Heat wok over medium
-  heat until just smoking and add 2 tbsp oil.  Pour in the egg.  Have a spatula ready.  Once
-  the eggs have cooked on the bottom most layer (which will be really fast) use your
-  spatula to gently pull all the cooked egg towards you and up the side of your wok,
-  shaking the spatula gently and tilting the pan a bit so that any uncooked egg will
-  run off back towards the center of the wok.  The egg should gather in delicate folds
-  up the side of your wok.  Wait a few seconds and then repeat.  When you have just
-  one layer of egg left to cook (see photo of cooking eggs above), immediately add
-  the crab meat in, fold the eggs from the side of the wok over the crab meat, turn
-  off your heat, and use your spatula to gently break up to bite sized chunks and
-  immediately remove to serving platter.  Do not over cook!  Remember that the egg
-  will continue to cook and remove from heat while still slightly runny.  Top with
-  spring onion rounds and serve right away.  Enjoy!'
-html:
-  description: null
-  directions: '<p>Cook crab by dropping in a large pot of boiling water and boil 8
-    mins/lb.  Allow the crab to cool, then remove the meat from the shell, using a
-    fork to flake any large pieces of crab meat.</p>
-
-    <p>Whisk the eggs gently until just mixed.  Add salt and whisk.  Heat wok over
-    medium heat until just smoking and add 2 tbsp oil.  Pour in the egg.  Have a spatula
-    ready.  Once the eggs have cooked on the bottom most layer (which will be really
-    fast) use your spatula to gently pull all the cooked egg towards you and up the
-    side of your wok, shaking the spatula gently and tilting the pan a bit so that
-    any uncooked egg will run off back towards the center of the wok.  The egg should
-    gather in delicate folds up the side of your wok.  Wait a few seconds and then
-    repeat.  When you have just one layer of egg left to cook (see photo of cooking
-    eggs above), immediately add the crab meat in, fold the eggs from the side of
-    the wok over the crab meat, turn off your heat, and use your spatula to gently
-    break up to bite sized chunks and immediately remove to serving platter.  Do not
-    over cook!  Remember that the egg will continue to cook and remove from heat while
-    still slightly runny.  Top with spring onion rounds and serve right away.  Enjoy!</p>
-
-    '
-  ingredients: '<ul>
-
-    <li>1 large fresh crab, or 2 small fresh crabs</li>
-
-    <li>2 tbsp peanut oil</li>
-
-    <li>5 eggs</li>
-
-    <li>1/2 tsp salt</li>
-
-    <li>2 tbsp spring onion, chopped in rounds</li>
-
-    <li></li>
-
-    </ul>
-
-    '
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: '1 large fresh crab, or 2 small fresh crabs
 
@@ -82,8 +24,6 @@ ingredients: '1 large fresh crab, or 2 small fresh crabs
   '
 intrash: 0
 name: Chinese Stir Fry Eggs with Flaked Crab Meat Recipe
-notes: null
-nutritional_info: null
 photo: 0000A234-C3FC-44B4-91CA-3C26330955F4-2310-0000EC2181B69B2B.jpg
 photo_large: 0E50FE3D-249E-41C0-A0E0-A38C82177FA9-2310-0000EC209BE8C7F0.jpg
 photos:
@@ -100,3 +40,14 @@ total_time: ''
 type: null
 uid: 79FF11D8-6142-45D8-BBD2-3A717CC6A0C6-4181-00035DF8972F51CD
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 large fresh crab, or 2 small fresh crabs</li>
+<li>2 tbsp peanut oil</li>
+<li>5 eggs</li>
+<li>1/2 tsp salt</li>
+<li>2 tbsp spring onion, chopped in rounds</li>
+<li></li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

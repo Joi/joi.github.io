@@ -9,67 +9,6 @@ created_ts: 1599319566
 description: "Using b\xE9chamel instead of ricotta cheese. If your guests like ricotta\
   \ cheese, replace b\xE9chamel with ricotta cheese and put parmesan as a layer."
 difficulty: ''
-directions: "## Pasta\n\u200B\n1. Boil pasta with oil. Cool in bowl of cold water\
-  \ to prevent sticking.\n\u200B\n## Meat Sauce\n\u200B\n1. Heat oil in pot and soften\
-  \ onion and carrots - about 8 min. Then add garlic for 30 sec until fragrant.\n\
-  2. Add meat and break up and brown. Reduce and evaporate sauce.\n3. Deglaze with\
-  \ wine and reduce.\n4. Add tomato sauce, paste, crushed, herbs and bring to simmer.\
-  \ Season with salt and pepper and cook for 20-30 min or longer or do this in a pressure\
-  \ cooker for 20 min.\n\u200B\n## B\xE9chamel\n\u200B\n1. Melt butter over high heat.\n\
-  2. Remove from heat, add flour and whisk for 30 sec until well blended.\n3. Heat\
-  \ on low and whisk in half of the milk. Once well blended, add remaining milk in\
-  \ bits and mix and prevent lumping as you add. Should be creamy.\n4. Increase heat\
-  \ to medium and stir until thicker - about 6 min.\n5. Add parmesan cheese and remove\
-  \ from heat. Stir until cheese is melted and season.\n\u200B\n## Oven\n\u200B\n\
-  1. Preheat oven for 375\xBAF\n\u200B\n## Layers\n\u200B\n1. Add meat, lasagna sheets,\
-  \ meat (\u2153 of remaining), white sauce (\u2153 of remaining), mozzarella (\u2153\
-  \ of remaining), sheets, meat (\xBD of remaining), white sauce (\xBD of remaining),\
-  \ mozzarella (\xBD of remaining), sheets, remaining meat sauce, remaining white\
-  \ sauce, remaining cheese.\n"
-html:
-  description: "<p>Using b\xE9chamel instead of ricotta cheese. If your guests like\
-    \ ricotta cheese, replace b\xE9chamel with ricotta cheese and put parmesan as\
-    \ a layer.</p>\n"
-  directions: "<h2>Pasta</h2>\n<p>\u200B</p>\n<ol>\n<li>Boil pasta with oil. Cool\
-    \ in bowl of cold water to prevent sticking.\n\u200B</li>\n</ol>\n<h2>Meat Sauce</h2>\n\
-    <p>\u200B</p>\n<ol>\n<li>Heat oil in pot and soften onion and carrots - about\
-    \ 8 min. Then add garlic for 30 sec until fragrant.</li>\n<li>Add meat and break\
-    \ up and brown. Reduce and evaporate sauce.</li>\n<li>Deglaze with wine and reduce.</li>\n\
-    <li>Add tomato sauce, paste, crushed, herbs and bring to simmer. Season with salt\
-    \ and pepper and cook for 20-30 min or longer or do this in a pressure cooker\
-    \ for 20 min.\n\u200B</li>\n</ol>\n<h2>B\xE9chamel</h2>\n<p>\u200B</p>\n<ol>\n\
-    <li>Melt butter over high heat.</li>\n<li>Remove from heat, add flour and whisk\
-    \ for 30 sec until well blended.</li>\n<li>Heat on low and whisk in half of the\
-    \ milk. Once well blended, add remaining milk in bits and mix and prevent lumping\
-    \ as you add. Should be creamy.</li>\n<li>Increase heat to medium and stir until\
-    \ thicker - about 6 min.</li>\n<li>Add parmesan cheese and remove from heat. Stir\
-    \ until cheese is melted and season.\n\u200B</li>\n</ol>\n<h2>Oven</h2>\n<p>\u200B\
-    </p>\n<ol>\n<li>Preheat oven for 375\xBAF\n\u200B</li>\n</ol>\n<h2>Layers</h2>\n\
-    <p>\u200B</p>\n<ol>\n<li>Add meat, lasagna sheets, meat (\u2153 of remaining),\
-    \ white sauce (\u2153 of remaining), mozzarella (\u2153 of remaining), sheets,\
-    \ meat (\xBD of remaining), white sauce (\xBD of remaining), mozzarella (\xBD\
-    \ of remaining), sheets, remaining meat sauce, remaining white sauce, remaining\
-    \ cheese.</li>\n</ol>\n"
-  ingredients: "<ul>\n<li>\n<h2>Meat Sauce</h2>\n</li>\n<li>\u200B</li>\n<li>\n<ul>\n\
-    <li>1 tbsp olive oil</li>\n</ul>\n</li>\n<li>\n<ul>\n<li>\xBD onion, finely chopped</li>\n\
-    </ul>\n</li>\n<li>\n<ul>\n<li>\xBD carrot, finely diced</li>\n</ul>\n</li>\n<li>\n\
-    <ul>\n<li>2 cloves garlic cloves, minced</li>\n</ul>\n</li>\n<li>\n<ul>\n<li>16\
-    \ oz ground beef</li>\n</ul>\n</li>\n<li>\n<ul>\n<li>8 oz Italian sausage</li>\n\
-    </ul>\n</li>\n<li>\n<ul>\n<li>12 oz Passata</li>\n</ul>\n</li>\n<li>\n<ul>\n<li>14\
-    \ oz crushed tomatoes</li>\n</ul>\n</li>\n<li>\n<ul>\n<li>2 tbsp tomato paste</li>\n\
-    </ul>\n</li>\n<li>\n<ul>\n<li>1 tbsp fresh oregano</li>\n</ul>\n</li>\n<li>\n\
-    <ul>\n<li>1 tbsp fresh basil</li>\n</ul>\n</li>\n<li>\n<ul>\n<li>\xBC cup red\
-    \ wine</li>\n</ul>\n</li>\n<li>\n<ul>\n<li>Salt and pepper</li>\n</ul>\n</li>\n\
-    <li>\u200B</li>\n<li>\n<h2>B\xE9chamel</h2>\n</li>\n<li>\u200B</li>\n<li>\n<ul>\n\
-    <li>2 tbsp butter</li>\n</ul>\n</li>\n<li>\n<ul>\n<li>\u215B cup flour</li>\n\
-    </ul>\n</li>\n<li>\n<ul>\n<li>1 cup fresh shredded parmesan</li>\n</ul>\n</li>\n\
-    <li>\n<ul>\n<li>1 \xBD cup milk</li>\n</ul>\n</li>\n<li>\u200B</li>\n<li>\n<h2>Lasagna</h2>\n\
-    </li>\n<li>\u200B</li>\n<li>\n<ul>\n<li>8 oz fresh lasagna sheets</li>\n</ul>\n\
-    </li>\n<li>\n<ul>\n<li>12 oz fresh mozzarella cheese, shredded</li>\n</ul>\n</li>\n\
-    <li>\u200B</li>\n<li>\n<ul>\n<li>1 tbsp finely chopped fresh parsley</li>\n</ul>\n\
-    </li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "## Meat Sauce\n\u200B\n- 1 tbsp olive oil\n- \xBD onion, finely chopped\n\
   - \xBD carrot, finely diced\n- 2 cloves garlic cloves, minced\n- 16 oz ground beef\n\
@@ -81,8 +20,6 @@ ingredients: "## Meat Sauce\n\u200B\n- 1 tbsp olive oil\n- \xBD onion, finely ch
   - 1 tbsp finely chopped fresh parsley"
 intrash: 0
 name: Lasagna
-notes: null
-nutritional_info: null
 photo: A738C184-D910-47BB-8B63-0688F47B2CA8-50715-0006E3A5B4A3BDE7.jpg
 photo_large: B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg
 photos:
@@ -102,3 +39,123 @@ total_time: ''
 type: null
 uid: 6F6C35A4-9968-4D48-BB77-EB7ACB3DB08B-50715-0006C481622BC914
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>
+<h2>Meat Sauce</h2>
+</li>
+<li>​</li>
+<li>
+<ul>
+<li>1 tbsp olive oil</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>½ onion, finely chopped</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>½ carrot, finely diced</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>2 cloves garlic cloves, minced</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>16 oz ground beef</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>8 oz Italian sausage</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>12 oz Passata</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>14 oz crushed tomatoes</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>2 tbsp tomato paste</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>1 tbsp fresh oregano</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>1 tbsp fresh basil</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>¼ cup red wine</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>Salt and pepper</li>
+</ul>
+</li>
+<li>​</li>
+<li>
+<h2>Béchamel</h2>
+</li>
+<li>​</li>
+<li>
+<ul>
+<li>2 tbsp butter</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>⅛ cup flour</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>1 cup fresh shredded parmesan</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>1 ½ cup milk</li>
+</ul>
+</li>
+<li>​</li>
+<li>
+<h2>Lasagna</h2>
+</li>
+<li>​</li>
+<li>
+<ul>
+<li>8 oz fresh lasagna sheets</li>
+</ul>
+</li>
+<li>
+<ul>
+<li>12 oz fresh mozzarella cheese, shredded</li>
+</ul>
+</li>
+<li>​</li>
+<li>
+<ul>
+<li>1 tbsp finely chopped fresh parsley</li>
+</ul>
+</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

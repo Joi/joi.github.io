@@ -20,101 +20,6 @@ description: "WHY THIS RECIPE WORKS\nFor our Moroccan chicken tagine recipe, we 
   \ and spices imitated the low, deep notes of preserved lemons, and stirring in grated\
   \ lemon zest and lemon juice at the end brought a welcome brightness. "
 difficulty: null
-directions: "BEFORE YOU BEGIN\n\nUse a vegetable peeler to remove wide strips of zest\
-  \ from the lemon before juicing it (illustration below); be sure to trim away the\
-  \ bitter-tasting white pith from the zest before using. The breasts and thighs/drumsticks\
-  \ do not cook in the same amount of time; if using both, note that the breast pieces\
-  \ are added partway through the cooking time. If cooking in an authentic tagine,\
-  \ you may need to add additional liquid (water or broth) to the stew as it cooks\
-  \ to prevent the sauce from drying out. Serve with couscous.\n\nCombine 4 teaspoons\
-  \ of the garlic, paprika, cumin, cayenne, ginger, coriander, and cinnamon together\
-  \ in a small bowl and set aside. Mince 1 strip of the lemon zest and mix with the\
-  \ remaining teaspoon of minced garlic in a separate small bowl; set aside.\n\nPat\
-  \ the chicken dry with paper towels and season with salt and pepper. Heat the oil\
-  \ in a large Dutch oven over medium-high heat until just smoking. Brown half of\
-  \ the chicken on both sides, 5 to 8 minutes per side, reducing the heat if the pan\
-  \ begins to scorch. Transfer the chicken to a plate, leaving the fat in the pot.\
-  \ Return the pot with the fat to medium-high heat and repeat with the remaining\
-  \ chicken; transfer the chicken to the plate.\n\nPour off all but 1 tablespoon of\
-  \ the fat left in the pot. Add the onion and the remaining 2 lemon zest strips and\
-  \ cook over medium heat, stirring occasionally, until softened, 5 to 7 minutes.\
-  \ Stir in the garlic-spice mixture and cook until fragrant, about 30 seconds. Stir\
-  \ in the carrots, broth, and honey, scraping up any browned bits.\n\nNestle the\
-  \ chicken, along with any accumulated juices, into the pot and bring to a simmer.\
-  \ Cover, turn the heat to medium-low, and simmer until the chicken is fully cooked\
-  \ and tender, about 20 minutes for the breasts (160 degrees on an instant-read thermometer)\
-  \ or 1 hour for the thighs and drumsticks. (If using both types of chicken, simmer\
-  \ the thighs and drumsticks for 40 minutes before adding the breasts.)\n\nTransfer\
-  \ the chicken to a serving dish, tent loosely with foil, and let rest while finishing\
-  \ the sauce. Skim as much fat as possible off the surface of the sauce, add the\
-  \ olives, and return to a simmer until the sauce is thickened slightly and the carrots\
-  \ are tender, 4 to 6 minutes. Return the chicken to the pot. Stir in the garlic\u2013\
-  lemon zest mixture, cilantro, and lemon juice. Season with salt and pepper to taste\
-  \ and serve immediately.\n\nLike this recipe? Share it, or leave a comment below."
-html:
-  description: "<p>WHY THIS RECIPE WORKS\nFor our Moroccan chicken tagine recipe,\
-    \ we focused on the elements that give the dish its Moroccan character: spices,\
-    \ olives, and lemon. We experimented with a broad range of spices until we landed\
-    \ on a blend that was short on ingredients but long on flavor. Cumin, ginger,\
-    \ and cinnamon added depth and warmth, cayenne offered up some heat, coriander\
-    \ echoed the lemon\u2019s citrusy notes, and paprika brought a smokiness and deep\
-    \ color. Moroccan green olives being too hard to find and most other types being\
-    \ too mild, we sampled all sort of olives, until we came across Greek green olives,\
-    \ which had the assertiveness we were looking for. Traditionally, Moroccan preserved\
-    \ lemons are used to flavor the tagine recipe, but since they are sold only in\
-    \ specialty stores, we were determined to make fresh lemons work. We found that\
-    \ cooking lemon zest strips with the onion and spices imitated the low, deep notes\
-    \ of preserved lemons, and stirring in grated lemon zest and lemon juice at the\
-    \ end brought a welcome brightness.</p>\n"
-  directions: "<p>BEFORE YOU BEGIN</p>\n<p>Use a vegetable peeler to remove wide strips\
-    \ of zest from the lemon before juicing it (illustration below); be sure to trim\
-    \ away the bitter-tasting white pith from the zest before using. The breasts and\
-    \ thighs/drumsticks do not cook in the same amount of time; if using both, note\
-    \ that the breast pieces are added partway through the cooking time. If cooking\
-    \ in an authentic tagine, you may need to add additional liquid (water or broth)\
-    \ to the stew as it cooks to prevent the sauce from drying out. Serve with couscous.</p>\n\
-    <p>Combine 4 teaspoons of the garlic, paprika, cumin, cayenne, ginger, coriander,\
-    \ and cinnamon together in a small bowl and set aside. Mince 1 strip of the lemon\
-    \ zest and mix with the remaining teaspoon of minced garlic in a separate small\
-    \ bowl; set aside.</p>\n<p>Pat the chicken dry with paper towels and season with\
-    \ salt and pepper. Heat the oil in a large Dutch oven over medium-high heat until\
-    \ just smoking. Brown half of the chicken on both sides, 5 to 8 minutes per side,\
-    \ reducing the heat if the pan begins to scorch. Transfer the chicken to a plate,\
-    \ leaving the fat in the pot. Return the pot with the fat to medium-high heat\
-    \ and repeat with the remaining chicken; transfer the chicken to the plate.</p>\n\
-    <p>Pour off all but 1 tablespoon of the fat left in the pot. Add the onion and\
-    \ the remaining 2 lemon zest strips and cook over medium heat, stirring occasionally,\
-    \ until softened, 5 to 7 minutes. Stir in the garlic-spice mixture and cook until\
-    \ fragrant, about 30 seconds. Stir in the carrots, broth, and honey, scraping\
-    \ up any browned bits.</p>\n<p>Nestle the chicken, along with any accumulated\
-    \ juices, into the pot and bring to a simmer. Cover, turn the heat to medium-low,\
-    \ and simmer until the chicken is fully cooked and tender, about 20 minutes for\
-    \ the breasts (160 degrees on an instant-read thermometer) or 1 hour for the thighs\
-    \ and drumsticks. (If using both types of chicken, simmer the thighs and drumsticks\
-    \ for 40 minutes before adding the breasts.)</p>\n<p>Transfer the chicken to a\
-    \ serving dish, tent loosely with foil, and let rest while finishing the sauce.\
-    \ Skim as much fat as possible off the surface of the sauce, add the olives, and\
-    \ return to a simmer until the sauce is thickened slightly and the carrots are\
-    \ tender, 4 to 6 minutes. Return the chicken to the pot. Stir in the garlic\u2013\
-    lemon zest mixture, cilantro, and lemon juice. Season with salt and pepper to\
-    \ taste and serve immediately.</p>\n<p>Like this recipe? Share it, or leave a\
-    \ comment below.</p>\n"
-  ingredients: "<ul>\n<li>GATHER YOUR INGREDIENTS</li>\n<li>5 medium garlic cloves,\
-    \ minced or pressed through a garlic press (about 5 teaspoons)</li>\n<li>1 \xBC\
-    \ teaspoons sweet paprika</li>\n<li>\xBD teaspoon ground cumin</li>\n<li>\xBC\
-    \ teaspoon cayenne pepper</li>\n<li>\xBC teaspoon ground ginger</li>\n<li>\xBC\
-    \ teaspoon ground coriander</li>\n<li>\xBC teaspoon ground cinnamon</li>\n<li>3\
-    \ (2-inch-long) strips lemon zest from 1 to 2 lemons (see illustration below)</li>\n\
-    <li>4 pounds bone-in, skin-on chicken pieces (split breasts cut in half, drumsticks,\
-    \ and/or thighs)</li>\n<li>Salt and ground black pepper</li>\n<li>2 tablespoons\
-    \ olive oil</li>\n<li>1 large onion, halved and sliced 1/4 inch thick</li>\n<li>2\
-    \ medium carrots, peeled and cut crosswise into 1/2-inch-thick coins, very large\
-    \ pieces cut into half-moons (about 2 cups)</li>\n<li>2 cups low-sodium chicken\
-    \ broth</li>\n<li>1 tablespoon honey</li>\n<li>1 cup Greek cracked green olives,\
-    \ rinsed, pitted, and halved</li>\n<li>2 tablespoons chopped fresh cilantro leaves</li>\n\
-    <li>3 tablespoons juice from 1 to 2 lemons</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/8112_sfs-chicken-tangine-with-olives-and-lemon-article
 ingredients: "GATHER YOUR INGREDIENTS\n5 medium garlic cloves, minced or pressed through\
   \ a garlic press (about 5 teaspoons)\n1 \xBC teaspoons sweet paprika\n\xBD teaspoon\
@@ -130,8 +35,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n5 medium garlic cloves, minced or pressed
   \ 1 to 2 lemons"
 intrash: 0
 name: Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)
-notes: null
-nutritional_info: null
 photo: 7D6FEF6D-42D3-4622-AD14-E82E69B4983B-9482-00000654497DE2E2.jpg
 photo_large: null
 photos: []
@@ -145,3 +48,27 @@ total_time: null
 type: null
 uid: 224BC50D-D2EB-48F1-A2DE-9CA4A061D04C-9482-000006543D2F7DDD
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>GATHER YOUR INGREDIENTS</li>
+<li>5 medium garlic cloves, minced or pressed through a garlic press (about 5 teaspoons)</li>
+<li>1 ¼ teaspoons sweet paprika</li>
+<li>½ teaspoon ground cumin</li>
+<li>¼ teaspoon cayenne pepper</li>
+<li>¼ teaspoon ground ginger</li>
+<li>¼ teaspoon ground coriander</li>
+<li>¼ teaspoon ground cinnamon</li>
+<li>3 (2-inch-long) strips lemon zest from 1 to 2 lemons (see illustration below)</li>
+<li>4 pounds bone-in, skin-on chicken pieces (split breasts cut in half, drumsticks, and/or thighs)</li>
+<li>Salt and ground black pepper</li>
+<li>2 tablespoons olive oil</li>
+<li>1 large onion, halved and sliced 1/4 inch thick</li>
+<li>2 medium carrots, peeled and cut crosswise into 1/2-inch-thick coins, very large pieces cut into half-moons (about 2 cups)</li>
+<li>2 cups low-sodium chicken broth</li>
+<li>1 tablespoon honey</li>
+<li>1 cup Greek cracked green olives, rinsed, pitted, and halved</li>
+<li>2 tablespoons chopped fresh cilantro leaves</li>
+<li>3 tablespoons juice from 1 to 2 lemons</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -8,70 +8,6 @@ created: '2020-06-13 15:18:19'
 created_ts: 1592061499
 description: ''
 difficulty: ''
-directions: "Mix together herbs, garlic, 1/4 cup brown sugar, 1 tablespoon sea salt\
-  \ and crushed peppercorns.\n\nUntie the pork if rolled. In a large bowl, thoroughly\
-  \ dissolve 1/2 cup salt and 1/2 cup brown sugar in 2 quarts of cold water. Add bay\
-  \ leaves and 2 tablespoons of herb mixture. Place pork in a container or strong\
-  \ sealable bag and add this brine to completely cover. Cover or seal well and chill\
-  \ for from 8 hours to overnight.\n\nRemove the pork from the brine (discard the\
-  \ brine) and dry thoroughly. Cover with the remaining herb mixture, patting it in\
-  \ all over, then use kitchen twine to roll up pork and secure it tightly.\n\nHeat\
-  \ the oven to 225 degrees. Prepare a triple layer of aluminum foil large enough\
-  \ to comfortably enclose the pork. Put the rolled pork on the foil, skin/fatty side\
-  \ up. Gather the foil, scrunching it over to form a loose but well-sealed parcel.\
-  \ Place in a roasting pan in the oven. Take the first check for the internal temperature\
-  \ after 8 hours. For very tender meat that can be sliced, it should be 160 degrees\
-  \ and will probably take 10 hours. Check more often if needed. For a \u201Cpulled\
-  \ pork\u201D consistency, the internal temperature should be 200 degrees and it\
-  \ will take about 12 hours.\n\nRest the meat 20 minutes before unwrapping completely.\
-  \ Warm the applesauce and the rolls. Slice the pork not too thin (removing the twine\
-  \ as you go) and put in the sliced rolls with some of the cooking juices and lots\
-  \ of applesauce."
-html:
-  description: null
-  directions: "<p>Mix together herbs, garlic, 1/4 cup brown sugar, 1 tablespoon sea\
-    \ salt and crushed peppercorns.</p>\n<p>Untie the pork if rolled. In a large bowl,\
-    \ thoroughly dissolve 1/2 cup salt and 1/2 cup brown sugar in 2 quarts of cold\
-    \ water. Add bay leaves and 2 tablespoons of herb mixture. Place pork in a container\
-    \ or strong sealable bag and add this brine to completely cover. Cover or seal\
-    \ well and chill for from 8 hours to overnight.</p>\n<p>Remove the pork from the\
-    \ brine (discard the brine) and dry thoroughly. Cover with the remaining herb\
-    \ mixture, patting it in all over, then use kitchen twine to roll up pork and\
-    \ secure it tightly.</p>\n<p>Heat the oven to 225 degrees. Prepare a triple layer\
-    \ of aluminum foil large enough to comfortably enclose the pork. Put the rolled\
-    \ pork on the foil, skin/fatty side up. Gather the foil, scrunching it over to\
-    \ form a loose but well-sealed parcel. Place in a roasting pan in the oven. Take\
-    \ the first check for the internal temperature after 8 hours. For very tender\
-    \ meat that can be sliced, it should be 160 degrees and will probably take 10\
-    \ hours. Check more often if needed. For a \u201Cpulled pork\u201D consistency,\
-    \ the internal temperature should be 200 degrees and it will take about 12 hours.</p>\n\
-    <p>Rest the meat 20 minutes before unwrapping completely. Warm the applesauce\
-    \ and the rolls. Slice the pork not too thin (removing the twine as you go) and\
-    \ put in the sliced rolls with some of the cooking juices and lots of applesauce.</p>\n"
-  ingredients: "<ul>\n<li>6 tablespoons mixed finely chopped robust herbs (like thyme,\
-    \ rosemary, sage and parsley)</li>\n<li>3 garlic cloves, finely chopped</li>\n\
-    <li>\xBE cup brown sugar</li>\n<li>\xBD cup, plus 1 tablespoon sea salt</li>\n\
-    <li>1 tablespoon crushed black peppercorns</li>\n<li>A 7-pound pork shoulder,\
-    \ skin on, boned</li>\n<li>5 bay leaves</li>\n<li>1 lemon zest</li>\n<li>1 tsp\
-    \ fennel seeds</li>\n<li>Fennel fronds</li>\n<li>Rosemary applesauce</li>\n<li>Crusty\
-    \ bread rolls, for serving</li>\n</ul>\n"
-  notes: "<p>6/18/20:</p>\n<p>Brined, added fennel seeds, fronds and lemon zest to\
-    \ rub. 200 \xBAF until 180 \xBAF internal temp then let rest for 15 min - heat\
-    \ oven to to 500 \xBAF and roast for 5 min and let cool for another 15 min.</p>\n\
-    <p>Pan sauce:</p>\n<p>When the pork's finished, drain off and discard the excess\
-    \ fat and deglaze the rimmed baking sheet by heating it over a single burner and\
-    \ adding two cups of white wine, chicken stock, or a combination of both. Scrape\
-    \ up browned bits, transfer to a small saucepan, season to taste, and whisk in\
-    \ two tablespoons butter off heat.</p>\n<p>From comments:</p>\n<p>I gave this\
-    \ 5 stars, but with one caveat, use this on a 3-3.5lb pork shoulder instead of\
-    \ a 7lb one. I didn't read ahead that the recipe was for a 7lb pork shoulder,\
-    \ so I didn't half the recipe (just the time that I cooked it for). It came out\
-    \ perfectly done, and seasoned. I feel like if I used this on a 7lb pork shoulder\
-    \ that it would come out way under seasoned. For 3.5lb I cooked it on 200 degrees\
-    \ for 6 hours, and it came out with that perfect &quot;pulled pork&quot; consistency.</p>\n\
-    <p>--</p>\n<p>Temperature:</p>\n<p>160F sufficient... 180F target when remove\
-    \ from oven and let rest until 190F.</p>\n"
-  nutrition: null
 image_url: https://static01.nyt.com/images/2014/04/03/dining/Slow-Roast-Pork-Shoulder/Slow-Roast-Pork-Shoulder-articleLarge.jpg
 ingredients: "6 tablespoons mixed finely chopped robust herbs (like thyme, rosemary,\
   \ sage and parsley)\n3 garlic cloves, finely chopped\n\xBE cup brown sugar\n\xBD\
@@ -80,22 +16,6 @@ ingredients: "6 tablespoons mixed finely chopped robust herbs (like thyme, rosem
   Fennel fronds\nRosemary applesauce\nCrusty bread rolls, for serving"
 intrash: 0
 name: Slow Roast Pork Shoulder with Herb Rub
-notes: "6/18/20: \n\nBrined, added fennel seeds, fronds and lemon zest to rub. 200\
-  \ \xBAF until 180 \xBAF internal temp then let rest for 15 min - heat oven to to\
-  \ 500 \xBAF and roast for 5 min and let cool for another 15 min.\n\nPan sauce:\n\
-  \nWhen the pork's finished, drain off and discard the excess fat and deglaze the\
-  \ rimmed baking sheet by heating it over a single burner and adding two cups of\
-  \ white wine, chicken stock, or a combination of both. Scrape up browned bits, transfer\
-  \ to a small saucepan, season to taste, and whisk in two tablespoons butter off\
-  \ heat.\n\nFrom comments:\n\nI gave this 5 stars, but with one caveat, use this\
-  \ on a 3-3.5lb pork shoulder instead of a 7lb one. I didn't read ahead that the\
-  \ recipe was for a 7lb pork shoulder, so I didn't half the recipe (just the time\
-  \ that I cooked it for). It came out perfectly done, and seasoned. I feel like if\
-  \ I used this on a 7lb pork shoulder that it would come out way under seasoned.\
-  \ For 3.5lb I cooked it on 200 degrees for 6 hours, and it came out with that perfect\
-  \ \"pulled pork\" consistency.\n\n--\n\nTemperature:\n\n160F sufficient... 180F\
-  \ target when remove from oven and let rest until 190F."
-nutritional_info: ''
 photo: C479F5A8-6CEE-4E61-9439-32E13D40E01C-1358-00012EC31B801DBB.jpg
 photo_large: null
 photos: []
@@ -109,20 +29,20 @@ total_time: ''
 type: null
 uid: E02D444F-C24D-47F0-B290-52D1C0EB21F6-1358-00012EBF4535147A
 ---
-6/18/20: 
-
-Brined, added fennel seeds, fronds and lemon zest to rub. 200 ºF until 180 ºF internal temp then let rest for 15 min - heat oven to to 500 ºF and roast for 5 min and let cool for another 15 min.
-
-Pan sauce:
-
-When the pork's finished, drain off and discard the excess fat and deglaze the rimmed baking sheet by heating it over a single burner and adding two cups of white wine, chicken stock, or a combination of both. Scrape up browned bits, transfer to a small saucepan, season to taste, and whisk in two tablespoons butter off heat.
-
-From comments:
-
-I gave this 5 stars, but with one caveat, use this on a 3-3.5lb pork shoulder instead of a 7lb one. I didn't read ahead that the recipe was for a 7lb pork shoulder, so I didn't half the recipe (just the time that I cooked it for). It came out perfectly done, and seasoned. I feel like if I used this on a 7lb pork shoulder that it would come out way under seasoned. For 3.5lb I cooked it on 200 degrees for 6 hours, and it came out with that perfect "pulled pork" consistency.
-
---
-
-Temperature:
-
-160F sufficient... 180F target when remove from oven and let rest until 190F.
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>6 tablespoons mixed finely chopped robust herbs (like thyme, rosemary, sage and parsley)</li>
+<li>3 garlic cloves, finely chopped</li>
+<li>¾ cup brown sugar</li>
+<li>½ cup, plus 1 tablespoon sea salt</li>
+<li>1 tablespoon crushed black peppercorns</li>
+<li>A 7-pound pork shoulder, skin on, boned</li>
+<li>5 bay leaves</li>
+<li>1 lemon zest</li>
+<li>1 tsp fennel seeds</li>
+<li>Fennel fronds</li>
+<li>Rosemary applesauce</li>
+<li>Crusty bread rolls, for serving</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

@@ -9,36 +9,6 @@ created: '2020-09-15 11:10:10'
 created_ts: 1600168210
 description: Based on [this recipe from Food Network](https://www.foodnetwork.com/recipes/tyler-florence/pan-seared-tuna-with-avocado-soy-ginger-and-lime-recipe-1914316)
 difficulty: Easy
-directions: "Combine cilantro, jalape\xF1o, ginger, garlic, lime juice, soy sauce,\
-  \ sugar, salt, pepper, and 2 Tbsp of olive oil in bowl and mix well.\n\nHeat a heavy\
-  \ skillet slowly and once the skillet is fully heated, turn up heat to high. \n\n\
-  Add 2 Tbsp of extra-light olive oil and coat for searing.\n\nSeason tuna with salt\
-  \ and pepper and grilled quickly - about one minute per side. You can hold the tuna\
-  \ on its edge with tongs to get the sides.\n\nTurn off the heat and pour \xBD of\
-  \ the sauce mix onto the tuna and turn a few times to cover the tuna.\n\nPlate the\
-  \ tuna with the avocado and pour the remaining sauce over the tuna and avocado."
-html:
-  description: '<p>Based on <a href="https://www.foodnetwork.com/recipes/tyler-florence/pan-seared-tuna-with-avocado-soy-ginger-and-lime-recipe-1914316">this
-    recipe from Food Network</a></p>
-
-    '
-  directions: "<p>Combine cilantro, jalape\xF1o, ginger, garlic, lime juice, soy sauce,\
-    \ sugar, salt, pepper, and 2 Tbsp of olive oil in bowl and mix well.</p>\n<p>Heat\
-    \ a heavy skillet slowly and once the skillet is fully heated, turn up heat to\
-    \ high.</p>\n<p>Add 2 Tbsp of extra-light olive oil and coat for searing.</p>\n\
-    <p>Season tuna with salt and pepper and grilled quickly - about one minute per\
-    \ side. You can hold the tuna on its edge with tongs to get the sides.</p>\n<p>Turn\
-    \ off the heat and pour \xBD of the sauce mix onto the tuna and turn a few times\
-    \ to cover the tuna.</p>\n<p>Plate the tuna with the avocado and pour the remaining\
-    \ sauce over the tuna and avocado.</p>\n"
-  ingredients: "<ul>\n<li>Lots of chopped cilantro</li>\n<li>\xBD jalapeno, sliced</li>\n\
-    <li>1 tsp grated fresh ginger</li>\n<li>1 garlic clove, grated</li>\n<li>2 limes,\
-    \ juiced</li>\n<li>2 Tbsp soy sauce</li>\n<li>Pinch of sugar</li>\n<li>2 Tbsp\
-    \ extra-virgin olive oil</li>\n<li>2 Tbsp extra-light olive old or other cooking\
-    \ oil</li>\n<li>Sushi-grade tuna</li>\n<li>1 avocado sliced</li>\n<li>Salt and\
-    \ pepper</li>\n</ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "Lots of chopped cilantro\n\xBD jalapeno, sliced\n1 tsp grated fresh\
   \ ginger\n1 garlic clove, grated\n2 limes, juiced\n2 Tbsp soy sauce\nPinch of sugar\n\
@@ -46,8 +16,6 @@ ingredients: "Lots of chopped cilantro\n\xBD jalapeno, sliced\n1 tsp grated fres
   Sushi-grade tuna\n1 avocado sliced\nSalt and pepper"
 intrash: 0
 name: "Tuna Tataki with Lime, Ginger and Jalape\xF1o"
-notes: null
-nutritional_info: null
 photo: AEBC1500-7EFB-4D30-AA19-92E5C5ED3F52-39232-0000E032992D0652.jpg
 photo_large: 0E660FA2-3314-40BB-AED4-FB2E0368277E-39232-0000E02DBC102900.jpg
 photos:
@@ -73,3 +41,28 @@ total_time: ''
 type: _mine
 uid: 0299C616-3BC7-414C-8AD7-24EA7B7FCB03-9638-000005EE30E369B7
 ---
+<div class="large-8 medium-7 columns" id="writeup">		<h4 id="description">Description</h4>
+<div class="box box-description content"><p>Based on <a href="https://www.foodnetwork.com/recipes/tyler-florence/pan-seared-tuna-with-avocado-soy-ginger-and-lime-recipe-1914316">this recipe from Food Network</a></p>
+</div>	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>Lots of chopped cilantro</li>
+<li>½ jalapeno, sliced</li>
+<li>1 tsp grated fresh ginger</li>
+<li>1 garlic clove, grated</li>
+<li>2 limes, juiced</li>
+<li>2 Tbsp soy sauce</li>
+<li>Pinch of sugar</li>
+<li>2 Tbsp extra-virgin olive oil</li>
+<li>2 Tbsp extra-light olive old or other cooking oil</li>
+<li>Sushi-grade tuna</li>
+<li>1 avocado sliced</li>
+<li>Salt and pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Combine cilantro, jalapeño, ginger, garlic, lime juice, soy sauce, sugar, salt, pepper, and 2 Tbsp of olive oil in bowl and mix well.</p>
+<p>Heat a heavy skillet slowly and once the skillet is fully heated, turn up heat to high.</p>
+<p>Add 2 Tbsp of extra-light olive oil and coat for searing.</p>
+<p>Season tuna with salt and pepper and grilled quickly - about one minute per side. You can hold the tuna on its edge with tongs to get the sides.</p>
+<p>Turn off the heat and pour ½ of the sauce mix onto the tuna and turn a few times to cover the tuna.</p>
+<p>Plate the tuna with the avocado and pour the remaining sauce over the tuna and avocado.</p>
+</div>	</div>

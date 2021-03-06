@@ -8,60 +8,6 @@ created: '2020-10-22 21:11:40'
 created_ts: 1603401100
 description: null
 difficulty: ''
-directions: 'Cut the king oyster mushrooms into chunky discs (like scallops). Have
-  garlic, chillies, wood ear mushroom & scallion prepared.
-
-
-  Mix all the ingredients for the sauce. Set aside.
-
-
-  Heat up the oil. Fry garlic until fragrant.
-
-
-  Stir in king oyster mushrooms. Fry until brown on the edge.
-
-
-  Add wood ear mushroom, fresh chilli. Stir fry.
-
-
-  Pour in the sauce (stir well beforehand) and scallions. Turn off the heat as soon
-  as the sauce thickens.
-
-
-  Serve warm with plain rice and other savoury dishes, or as a topping for noodle
-  dishes.'
-html:
-  description: null
-  directions: '<p>Cut the king oyster mushrooms into chunky discs (like scallops).
-    Have garlic, chillies, wood ear mushroom &amp; scallion prepared.</p>
-
-    <p>Mix all the ingredients for the sauce. Set aside.</p>
-
-    <p>Heat up the oil. Fry garlic until fragrant.</p>
-
-    <p>Stir in king oyster mushrooms. Fry until brown on the edge.</p>
-
-    <p>Add wood ear mushroom, fresh chilli. Stir fry.</p>
-
-    <p>Pour in the sauce (stir well beforehand) and scallions. Turn off the heat as
-    soon as the sauce thickens.</p>
-
-    <p>Serve warm with plain rice and other savoury dishes, or as a topping for noodle
-    dishes.</p>
-
-    '
-  ingredients: "<ul>\n<li>2 tbsp cooking oil</li>\n<li>6 king oyster mushrooms, about\
-    \ 400g/14oz</li>\n<li>1 tbsp minced garlic</li>\n<li>50 g pre-soaked wood ear\
-    \ mushroom, about \u2153 cup</li>\n<li>3 fresh chillies, thinly sliced, or Sichuan\
-    \ pickled chilli (see note)</li>\n<li>1 stalk scallions, finely chopped</li>\n\
-    <li>For the sauce:</li>\n<li>1 tbsp Shaoxing rice wine</li>\n<li>1 tbsp black\
-    \ rice vinegar</li>\n<li>1 tbsp light soy sauce</li>\n<li>1 tsp dark soy sauce</li>\n\
-    <li>\xBD tbsp sugar</li>\n<li>\xBD tbsp cornstarch</li>\n<li>1 tbsp water</li>\n\
-    </ul>\n"
-  notes: null
-  nutrition: '<p>Calories: 240kcal</p>
-
-    '
 image_url: null
 ingredients: "2 tbsp cooking oil\n6 king oyster mushrooms, about 400g/14oz\n1 tbsp\
   \ minced garlic\n50 g pre-soaked wood ear mushroom, about \u2153 cup\n3 fresh chillies,\
@@ -71,8 +17,6 @@ ingredients: "2 tbsp cooking oil\n6 king oyster mushrooms, about 400g/14oz\n1 tb
   1 tbsp water"
 intrash: 0
 name: KING OYSTER MUSHROOM WITH GARLIC SAUCE
-notes: null
-nutritional_info: 'Calories: 240kcal'
 photo: FE633B30-7AF9-4F17-9E99-95F3349DAE2B-36256-00001A651852F2E7.jpg
 photo_large: F874CBF7-4E41-41AE-8762-911AAEC5D1FF-36256-00001A650FCA8705.jpg
 photos:
@@ -92,3 +36,22 @@ total_time: ''
 type: null
 uid: 9BD58944-2A23-43C2-832C-B57CE5F7F8FF-64845-00002AEE0BF7D9BE
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>2 tbsp cooking oil</li>
+<li>6 king oyster mushrooms, about 400g/14oz</li>
+<li>1 tbsp minced garlic</li>
+<li>50 g pre-soaked wood ear mushroom, about ⅓ cup</li>
+<li>3 fresh chillies, thinly sliced, or Sichuan pickled chilli (see note)</li>
+<li>1 stalk scallions, finely chopped</li>
+<li>For the sauce:</li>
+<li>1 tbsp Shaoxing rice wine</li>
+<li>1 tbsp black rice vinegar</li>
+<li>1 tbsp light soy sauce</li>
+<li>1 tsp dark soy sauce</li>
+<li>½ tbsp sugar</li>
+<li>½ tbsp cornstarch</li>
+<li>1 tbsp water</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>

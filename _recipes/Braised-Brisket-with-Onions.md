@@ -18,47 +18,12 @@ description: 'Based mostly on this:
 
   https://www.cooksillustrated.com/articles/552-how-to-braise-brisket'
 difficulty: ''
-directions: "Dry brine brisket for a day or two\n\nPreheat oven for 325\xBAF\n\nSaute\
-  \ onions in butter for 20 min until caramelized.\n\nAdd oil and sear brisket on\
-  \ both sides - 3 min\n\nRemove brisket, add garlic, broth and Worcestershire sauce,\
-  \ mix and replace brisket fat side up.\n\nAdd onions.\n\nBake in Dutch Oven at 325\
-  \ for 1 \xBD hours and then reduce to 250\xBAF after the internal temperature hits\
-  \ 180\xBAF and bake for 2 - 3 hours. Internal temperature - 200\xBAF.\n\nPour off\
-  \ excess fat and reduce over heat by \xBD - 5 min or so."
-html:
-  description: '<p>Based mostly on this:</p>
-
-    <p>https://dinnerthendessert.com/easy-beef-brisket-recipe/</p>
-
-    <p>Also see:</p>
-
-    <p>https://www.cooksillustrated.com/articles/552-how-to-braise-brisket</p>
-
-    '
-  directions: "<p>Dry brine brisket for a day or two</p>\n<p>Preheat oven for 325\xBA\
-    F</p>\n<p>Saute onions in butter for 20 min until caramelized.</p>\n<p>Add oil\
-    \ and sear brisket on both sides - 3 min</p>\n<p>Remove brisket, add garlic, broth\
-    \ and Worcestershire sauce, mix and replace brisket fat side up.</p>\n<p>Add onions.</p>\n\
-    <p>Bake in Dutch Oven at 325 for 1 \xBD hours and then reduce to 250\xBAF after\
-    \ the internal temperature hits 180\xBAF and bake for 2 - 3 hours. Internal temperature\
-    \ - 200\xBAF.</p>\n<p>Pour off excess fat and reduce over heat by \xBD - 5 min\
-    \ or so.</p>\n"
-  ingredients: "<ul>\n<li>Brisket, 5 lb</li>\n<li>\n<ol>\n<li>4 Onions, sliced</li>\n\
-    </ol>\n</li>\n<li>\n<ol>\n<li>4 tbsp unsalted butter</li>\n</ol>\n</li>\n<li>\n\
-    <ol>\n<li>\xBD tsp Kosher salt</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>2 tbsp of Olive\
-    \ oil</li>\n</ol>\n</li>\n<li>\n<ol>\n<li>2 tbsp Worcestershire sauce</li>\n</ol>\n\
-    </li>\n<li>\n<ol>\n<li>2 cup broth</li>\n</ol>\n</li>\n<li>Salt and pepper</li>\n\
-    </ul>\n"
-  notes: null
-  nutrition: null
 image_url: null
 ingredients: "Brisket, 5 lb\n\n1. 4 Onions, sliced\n1. 4 tbsp unsalted butter\n1.\
   \ \xBD tsp Kosher salt\n1. 2 tbsp of Olive oil\n1. 2 tbsp Worcestershire sauce\n\
   1. 2 cup broth\nSalt and pepper"
 intrash: 0
 name: Braised Brisket with Onions
-notes: null
-nutritional_info: null
 photo: 1ABD8978-5C05-45EA-BBE1-C020E8F81FCC-15281-00000A058CB2957B.jpg
 photo_large: A29DA219-01F1-4AE7-89DB-D723D0EA2CD0-15281-00000A055536D9CA.jpg
 photos:
@@ -102,3 +67,40 @@ total_time: ''
 type: null
 uid: 4CB07882-5BB7-4D7D-A85F-9C33428D9BBB-50715-00075EFA2FEFB0E5
 ---
+<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+</div><!-- #row-one -->
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>Brisket, 5 lb</li>
+<li>
+<ol>
+<li>4 Onions, sliced</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>4 tbsp unsalted butter</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>½ tsp Kosher salt</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>2 tbsp of Olive oil</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>2 tbsp Worcestershire sauce</li>
+</ol>
+</li>
+<li>
+<ol>
+<li>2 cup broth</li>
+</ol>
+</li>
+<li>Salt and pepper</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>
