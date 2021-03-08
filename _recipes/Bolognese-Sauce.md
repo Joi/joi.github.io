@@ -14,10 +14,10 @@ difficulty: ''
 image_url: null
 ingredients: "1 Tbsp olive oil\n1 \xBD cups diced yellow onion\n\xBD cup diced carrots\n\
   \xBD cup diced celery\n1 lb ground beef chuck\n\xBD lb ground pork\n4 oz diced bacon\n\
-  4 cloves garlic, minced\n2 tablespoons tomato paste\n\xBD cup dry red wine\n28 oz\
-  \ of tomatoes\n\xBD cup Italian parsley\n\xBD cup basil\nFresh oregano\n\xBC cup\
-  \ heavy cream\nparmesan cheese\npinch ground nutmeg\nbay leaves\nmirin\nfish sauce\n\
-  kosher salt and freshly-ground black pepper\n"
+  4 cloves garlic, minced\n2 Tbsp tomato paste\n\xBD cup dry red wine\n28 oz of tomatoes\n\
+  \xBD cup Italian parsley\n\xBD cup basil\nFresh oregano\n\xBC cup heavy cream\n\
+  parmesan cheese\npinch ground nutmeg\nbay leaves\nmirin\nfish sauce\nkosher salt\
+  \ and freshly-ground black pepper\n"
 intrash: 0
 name: Bolognese Sauce
 photo: B5DEB0CE-E531-4A2A-B04F-80BB60BF7B33-37413-00001BE78EA81623.jpg
@@ -37,6 +37,8 @@ photos:
   name: '14'
 - filename: 39CB9C8B-73A1-40DD-A648-4A289FC2F21A-8894-00003E7995A60C31.jpg
   name: '15'
+- filename: F12996D3-F990-4040-9D67-42EE9CC1B6B8.jpg
+  name: '16'
 - filename: 1A8CA245-75AA-4868-8504-8307D33E5102-8894-00003E727747CA0B.jpg
   name: '2'
 - filename: BFBC9A93-0D91-4263-9C58-68465C739ECC-8894-00003E7318599302.jpg
@@ -61,6 +63,7 @@ photos_dict:
   '13': D0C52E36-FF84-41CE-AA9A-6390BC929C8A-8894-00003E78DFAD909C.jpg
   '14': A29D0652-BDD6-4CEC-8C99-859DA1B61286-8894-00003E7937154B8E.jpg
   '15': 39CB9C8B-73A1-40DD-A648-4A289FC2F21A-8894-00003E7995A60C31.jpg
+  '16': F12996D3-F990-4040-9D67-42EE9CC1B6B8.jpg
   '2': 1A8CA245-75AA-4868-8504-8307D33E5102-8894-00003E727747CA0B.jpg
   '3': BFBC9A93-0D91-4263-9C58-68465C739ECC-8894-00003E7318599302.jpg
   '4': F9201EEB-B72B-4D0F-990F-03168164A8F3-8894-00003E7400A791AA.jpg
@@ -89,7 +92,7 @@ uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1
 <li>½ lb ground pork</li>
 <li>4 oz diced bacon</li>
 <li>4 cloves garlic, minced</li>
-<li>2 tablespoons tomato paste</li>
+<li>2 Tbsp tomato paste</li>
 <li>½ cup dry red wine</li>
 <li>28 oz of tomatoes</li>
 <li>½ cup Italian parsley</li>
