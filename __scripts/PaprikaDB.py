@@ -83,7 +83,7 @@ def make_filename(string):
     #string = created[0:10] + "-" + string
     #string=str(bytes(string, 'utf-8').decode('utf-8','ignore').encode("utf-8",'ignore'))
     #string=string.replace("b'","").replace("'","")
-    invalid = '<>:"/\|?* ,()“”‘’\''
+    invalid = r'<>:"/\|?* ,()“”‘’\''
     for char in invalid:
         string = string.replace(char, '')
     string = sanitize_filename(string)
