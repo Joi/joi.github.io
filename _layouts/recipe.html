@@ -133,6 +133,43 @@ I have it here and in the Pythin script.
 {% endif %}
 {% endcomment %}
 
+{% comment %}
+<!--
+    Need to rework this so that it displays a list of recipes—no duplicates—with their categories
+    Basically, need to dedupe.
+-->
+{% if page.categories != null %}
+<hr>
+<div class="row" id="row-three-two">
+  <div class="small-12 columns">
+      <h4 id="related">Related Recipes</h4>
+      <div class="box box-related">
+  {% assign sortedCats = page.categories | sort %}
+  {% for cat in sortedCats |  %}
+    {%- if cat != "_mine" -%}
+      {%- if site.data.recipe_categories[cat] -%}
+        {% assign recipes = site.data.recipe_categories[cat] %}
+        {% if recipes %}
+
+        <h5>{{ cat | capitalize }}</h5>
+          <ul>
+            {% for recipe in recipes %}
+            <li><a href="/recipes/{{ recipe[0] | slugify }}">{{ recipe[1] }}</a></li>
+            {% endfor %}
+          </ul>
+        {%- endif -%}
+      {%- endif -%}
+    {%- endif -%}
+  {% endfor %}
+    </div>
+  </div>
+</div><!-- #row-three-two -->
+  {%- endif -%}
+  {% endcomment %}
+
+
+
+
 
 <hr>
 <div class="row" id="row-four">
