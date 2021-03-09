@@ -208,7 +208,15 @@ SELECT
             ZRECIPEPHOTO as RP
         WHERE
             RP.ZRECIPE = R.Z_PK
-    ) as photos_names
+    ) as photos_names,
+    (
+        SELECT
+            GROUP_CONCAT(date(M.ZDATE + {ts_offset},'unixepoch'),"|") as dates
+        FROM
+            ZMEAL AS M
+        WHERE
+            M.ZRECIPE = R.Z_PK
+    ) as meal_dates
 
 FROM
     ZRECIPE as R
@@ -277,6 +285,19 @@ for result in results:
         #    result["photos"] = False 
 
 
+    # ---------------------------------------------------
+    # Meal Dates
+    # Split concatened mealdates into a list
+    if result['meal_dates']:
+        try:
+            result['meal_dates'] = result['meal_dates'].split('|')
+            rmeal_dates = ""
+            for meal_date in result['meal_dates']:
+              rmeal_dates += "- [[" + meal_date + "]]\n"
+            rmeal_dates  = commonmark.commonmark(rmeal_dates)
+        except:
+            pass
+
         # ---------------------------------------------------
         # Directions, Descriptions, Ingredients, Nutritional Info
     if result['directions']:
@@ -316,7 +337,8 @@ for result in results:
       'description' : rdescription,
       'ingredients' : ringredients,
       'nutrition'   : rnutrition,
-      'notes'       : rnotes
+      'notes'       : rnotes,
+      'meal_dates' : rmeal_dates
       }
 
     # ---------------------------------------------------
@@ -441,6 +463,11 @@ for result in results:
       if content['html']['directions']:
         output2 += '<h4 id="directions">Directions</h4><div class="box box-directions content">' + content['html']['directions'] + '</div>'
     output2 += '\t</div>'
+
+    #output2 += '\t<div>TESTING'
+    #output2 += content['html']['meal_dates']
+    #output2 += '\t</div>'
+
     # We append the Photostrip and close Row Two back in the _layouts/recipe.html template.
 
 
