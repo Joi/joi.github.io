@@ -64,7 +64,7 @@
 				{%- if link_origin.content contains wiki_link_title -%}
 
 				<div class="related-group"><a href="{{link_origin.url}}">
-					<p class="related-title">{{ link_origin.title }}</p>
+					<p class="related-title"><!--{{link_origin.date | date: "%F"}} - -->{{ link_origin.title }}</p>
 					<p class="related-excerpt">{{ link_origin.content | markdownify | strip_html | truncate: 140 }}</p>
 				</a></div>
 
