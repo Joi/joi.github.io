@@ -76,24 +76,22 @@ layout: default
 		<br>
 		<div class="recipes-list">
 			{% for recipe in site.recipes %}
-        {% comment %}{% assign json_data = site.data.recipes[recipe.filename] %}{% endcomment %}
-				{% assign json_data = recipe %}
 
-				{% if json_data.type == "_mine" %}
+				{% if recipe.type == "_mine" %}
 				<div class="recipe-item-box">
 				<a class="recipe-item" href="{{ recipe.url }}">
-					{% if json_data.photo %}
-					<img src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}" />
+					{% if recipe.photo %}
+					<img src="/images/recipes/{{recipe.uid}}/{{recipe.photo}}" />
 					{% else %}
 					<img src='/images/200x200.gif' />
 					{% endif %}
 					<div class="recipe-deets">
 					<div class="recipe-name"
-									aria-label="Ingredients: {{json_data.ingredients | truncate: 250}}"
+									aria-label="Ingredients: {{recipe.ingredients | truncate: 250}}"
 									alt="{{ recipe.title }}">{{ recipe.title }}</div>
-					{% if json_data.categories %}
+					{% if recipe.categories %}
 						<div class="recipe-cats">
-						{% for cat in json_data.categories %}
+						{% for cat in recipe.categories %}
               {% if cat != "_mine" %}
                 {{cat}}
               {% endif %}
@@ -103,7 +101,6 @@ layout: default
 					</div>
 				</a>
 				</div>
-
 				{% endif %}
 
 			{% endfor %}
@@ -146,23 +143,22 @@ layout: default
 		<br>
 		<div class="recipes-list">
 			{% for recipe in site.recipes %}
-				{% comment %}{% assign json_data = site.data.recipes[recipe.filename] %}{% endcomment %}
-				{% assign json_data = recipe %}
-				{% if json_data.rating == 5 and json_data.type != "_mine" %}
+
+				{% if recipe.rating == 5 and recipe.type != "_mine" %}
 				<div class="recipe-item-box">
 				<a class="recipe-item" href="{{ recipe.url }}">
-					{% if json_data.photo %}
-					<img src="/images/recipes/{{json_data.uid}}/{{json_data.photo}}" />
+					{% if recipe.photo %}
+					<img src="/images/recipes/{{recipe.uid}}/{{recipe.photo}}" />
 					{% else %}
 					<img src='/images/200x200.gif' />
 					{% endif %}
 					<div class="recipe-deets">
 					<div class="recipe-name"
-									aria-label="Ingredients: {{json_data.ingredients | truncate: 250}}"
+									aria-label="Ingredients: {{recipe.ingredients | truncate: 250}}"
 									alt="{{ recipe.title }}">{{ recipe.title }}</div>
-					{% if json_data.categories %}
+					{% if recipe.categories %}
 						<div class="recipe-cats">
-						{% for cat in json_data.categories %}
+						{% for cat in recipe.categories %}
 							{{cat}}
 						{% endfor %}
 						</div>
@@ -170,7 +166,6 @@ layout: default
 					</div>
 				</a>
 				</div>
-
 				{% endif %}
 
 			{% endfor %}
