@@ -464,9 +464,9 @@ for result in results:
         output2 += '<h4 id="directions">Directions</h4><div class="box box-directions content">' + content['html']['directions'] + '</div>'
     output2 += '\t</div>'
 
-    #output2 += '\t<div>TESTING'
-    #output2 += content['html']['meal_dates']
-    #output2 += '\t</div>'
+    output2 += '\t<div>TESTING'
+    output2 += content['html']['meal_dates']
+    output2 += '\t</div>'
 
     # We append the Photostrip and close Row Two back in the _layouts/recipe.html template.
 

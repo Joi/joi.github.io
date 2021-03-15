@@ -1,0 +1,18 @@
+---
+layout: post
+title: Kanitama Tester 1
+tags:
+- Chinese
+---
+![Kanitama](/images/recipes/0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681/A2A0EEBD-2C59-4FC8-8C87-A393A5880573-2310-0000D2D406094FF0.jpg)
+
+*Kanitama* or かに玉 in Japanese means "crab egg." The dish is similar to the Chinese-American Egg Foo Young. It's very popular in Japan.
+
+I tried cooking it based on [a recipe my wife found on the NHK みんなのきょうの料理 site](https://www.kyounoryouri.jp/recipe/3406_%E3%81%8B%E3%81%AB%E3%81%9F%E3%81%BE.html). I've put together [[Kanitama|a recipe in English based on this]].
+
+I only have a not-really-chinese wok-shaped stainless steel pan and I was worried about the egg sticking so I googled around for instructions about how to fry eggs without them sticking. I found a number of articles that mentioned the [[leidenfrost-effect|Leidenfrost effect]]. The effect explains that at 379°F, water doesn't evaporate but skips arcross the surface of a pan because the vapor from the water creates a barrier between the droplet and the pan. According to experts, this is the key to the egg not sticking to the pan. That and making sure that you use oil and that the oil not be allowed to get as hot as the pan before adding the egg.
+
+Interestingly, in the NHK recipe, it describes how to prepare the wok for that temperture without specifically mentioning why or the effect.
+
+The *kanitama* came out wonderfully. I still have some crab left over so I might try the mroe simple [[Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe|Chinese Stir Fry Eggs with Flaked Crab Meat Recipe]] today, but the sweet and sour sauce of the [[Kanitama]] recipe really brought us back to ramen shops in Japan and was a lovely nostaligic flavor.
+
