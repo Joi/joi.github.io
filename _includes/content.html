@@ -5,6 +5,18 @@
 	{% if debug0 %}
 	<pre><b>content:</b> {{ content }}</pre>
 	{% endif %}
+  {% if debug %}
+  <pre>
+  <b>page.i_am :</b> {{ page.i_am }}
+  <b>page.title:</b> {{ page.title }}
+  <b>page.url  :</b> {{ page.url }}
+  <b>page.date :</b> {{ page.date }}
+  <b>page.id   :</b> {{ page.id }}
+  <b>page.dir  :</b> {{ page.dir }}
+  <b>page.name :</b> {{ page.name }}
+  <b>page.path :</b> {{ page.path }}
+  </pre><hr>
+  {% endif %}
 {% comment %} --- END DEBUG ------------------ {% endcomment %}
 
 
@@ -32,10 +44,11 @@
 
 				{% assign itemparts 					= item | split:']]' %}
 				{% assign bracketted_string 	= itemparts[0] %}
+        {% assign bracketted_string_size = bracketted_string | size %}
 					{% comment %} --- DEBUG ---------------------- {% endcomment %}
 						{% if debug %}
-						<pre style="background:#ccc"><b>bracketted_string:</b> {{ bracketted_string }}</pre>
-						{% endif %}
+						<pre style="background:#ccc"><b>bracketted_string:</b> {{ bracketted_string }}</pre>						
+            {% endif %}
 					{% comment %} --- END DEBUG ------------------ {% endcomment %}
 
 
@@ -171,13 +184,31 @@
 		{% assign str = internal_link_str_array[forloop.index0] %}
 		{% assign alt = internal_link_alt_array[forloop.index0] %}
 
+    {% comment %}
+    Recipe <-> Post / Meal Date
+    Start of the Hack here to connect Recipes to Posts about Recipes 
+    via the Meal Date (matched to the Post Date)
+    This will create the following false positives:
+    - Link to a post not about this recipe (post is about different meal on same day)
+    - Link to a post not about any recipe (old posts, assuming we continue this way with Posts…)
+    {% endcomment %}
+    {% if alt == 'recipenote' %}
+      {% assign type = alt %}
+      {% assign alt = str | date_to_string: "ordinal", "US" %}
+    {% else %}
+      {% assign type = 'regular' %}
+    {% endif %}
+
+
 		{% comment %}
 			----------------------------------------------------------  
 			NON-EXISTNG INTERNAL LINKS
 			----------------------------------------------------------  
 		{% endcomment %}
 
-		{% if url == nil %}
+		{% if url == nil or  url == empty and type!='regular' %}{% comment %}{% endcomment %}
+      {% assign link_text = '<span class="no-note">' | append: alt | append: '</span>' %}
+    {% elsif url == nil %}
 				{% assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: alt | append: '</a>' %}
 		{% elsif url == empty %}
 				{% assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: alt | append: '</a>' %}

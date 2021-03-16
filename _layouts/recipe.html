@@ -76,10 +76,12 @@ For now.
   </div>
 {%- include content.html -%}
 {% comment %}
-Row Two is opened and populated over in the Pythin script.
-We just append the photostrip here and close it.
-{% endcomment %}
+- Row Two is opened and populated over in the Python script.
+  We just append the photostrip here and close it.
+- The photostrip column is opened in the Python script
+  So that we can conditionally insert the Recipe<->Post/Meal Date links
   <div class="medium-2 columns" id="photo-sidebar">
+{% endcomment %}
     <div class="" id="recipe-photos">
     {% if page.photos %}
       {% for phot in page.photos %}
