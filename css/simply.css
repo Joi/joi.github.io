@@ -436,6 +436,17 @@ hr {
   padding-left: 0;
   margin-bottom: 1em;
 }
+#meals {
+  margin-bottom: 2em;
+  padding-bottom:1.6em;
+  border-bottom: 1px solid #ccc;
+}
+#meals ul {
+  margin: 0 0 0 .65em;
+}
+#meals ul li {
+  list-style-type: "- ";
+}
 #copyright {
   background: #f1f1f1;
   padding: .8em 1em .8em 1em;
