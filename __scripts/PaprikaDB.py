@@ -13,6 +13,9 @@
 # pip install Unidecode | https://pypi.org/project/Unidecode/
 # pip install pathvalidate | https://pypi.org/project/pathvalidate/
 # pip install pyyaml
+
+print("\n\n\n---------------------------------------\nEXECUTING PaprikaDB EXPORT\n---------------------------------------\n")
+
 # IMPORTS -------------------------------------
 
 import os
@@ -32,6 +35,7 @@ from sqlite3 import Error
 from pathlib import Path
 from shutil import copyfile
 import config # This imports our local config file, "config.py". Access vars like so: config.var
+
 # VARS -----------------------------------------
 
 # Date time stamp
@@ -69,6 +73,7 @@ path_output_phot_files = path_project + '/images/recipes/'
 # Paparika Timestamp Offset: 978307200
 ts_offset = 978307200
 
+print ("✅ IMPORTs completed and VARs initiated\n")
 
 # - FUNCTIONS ----------------------------------
 
@@ -127,7 +132,11 @@ def paprika_markdownish(content,photos_dict,uid):
         return content
     else:
         raise ValueError("content null")
-    # OUTPUT DESTINATION DIRECTORIES ---------------------
+
+print ("✅ FUNCTIONS instantiated\n")
+
+
+# OUTPUT DESTINATION DIRECTORIES ---------------------
 
 # If Output Paths don't exist, create them
 if not os.path.exists(path_db_bu_sub):
@@ -140,6 +149,10 @@ if not os.path.exists(path_db_bu_sub):
 
 output_directories(path_output_json_files)
 output_directories(path_output_mkdn_files)
+
+print ("✅ DIRECTORIES created\n")
+
+
 # DATABASE BACKUPS -----------------------------------
 
 # Make a zipped backup of the DB
@@ -153,6 +166,9 @@ if os.path.exists(path_temp_working):
     shutil.rmtree(path_temp_working, ignore_errors=True) #nuke the temp working dir.
 
 copy_DB_Return = shutil.copytree(path_db_med, path_temp_working) # create a var here just to capture the useless out put of the copyfile() function
+
+print ("✅ DATABASE Backed up\n")
+
 
 # DATABASE OPERATIONS ------------------------------
 
@@ -257,10 +273,16 @@ for row in rows:
     # and here we glue the key to the value
     results.append(dict(zip(columns, row)))
 
-# --------------------------------------------------------------------------------------
+print ("✅ DATABASE Queried\n")
 
+
+
+# --------------------------------------------------------------------------------------
 # Create a dict to hold the cats -> recipes dictionary
 cats = {}
+
+# --------------------------------------------------------------------------------------
+# Loop through Results
 for result in results:
     result['photos_dict'] = {}
     result['photos'] = []
@@ -487,9 +509,13 @@ for result in results:
     f2.write(output2)
     f2.close()
 
+print ("✅ RESULTS Looped and Acted upon\n")
+
 
 # CLOSE DB
 conn.close()
+
+print ("✅ DATABASE Closed\n")
 
 
 # Convert the data struct to JSON and dump it to individual files
@@ -498,6 +524,8 @@ jsonDataPath = path_output_json_data + "recipe_categories.json"
 f = open(jsonDataPath, 'w')
 f.write(json_cats_dump)
 f.close()
+
+print ("✅ CATGEORY JSON Data Dumped\n")
 
 
 # End of Main RESULTS FOR Loop }
@@ -518,3 +546,6 @@ if os.path.exists(path_output_phot_files):
 
 moveReturn = shutil.copytree(path_photos, path_output_phot_files)
 #print("Successfully copied to destination path:", moveReturn)
+print ("✅ CLEANUP Done\n")
+
+print ("\n\n------------------------------\n 😎 We're done here.\n")
