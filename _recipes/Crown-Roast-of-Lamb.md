@@ -1,6 +1,6 @@
 ---
 title: "Crown Roast of Lamb"
-filename: "Crown-Roast-of-Lamb"
+filename: "crown-roast-of-lamb"
 categories:
 - Lamb
 cook_time: ''
@@ -26,22 +26,27 @@ meal_dates:
 - '2020-12-25'
 meal_types: 3|3
 name: Crown Roast of Lamb
+p_recipe_id: 253
+permalink: /recipes/crown-roast-of-lamb
 photo: 0FB9F6CD-8187-4952-A4DB-9C17BB488535-29053-0004B1367DF6F80C.jpg
 photo_large: 9149D496-D42C-4579-B6F1-4122D12ABE97-29053-0004B135658F0C74.jpg
-photos:
-- filename: 9149D496-D42C-4579-B6F1-4122D12ABE97-29053-0004B135658F0C74.jpg
-  name: '1'
-- filename: 5F64C8B1-5096-452A-8FC0-804AB2F6F0A4-29053-0004B13581B3D731.jpg
-  name: '2'
-- filename: FBC05A1A-A277-4630-89D4-96A62ADCFE4C-29053-0004B135C57C90FA.jpg
-  name: '3'
+photos: []
 photos_dict:
   '1': 9149D496-D42C-4579-B6F1-4122D12ABE97-29053-0004B135658F0C74.jpg
   '2': 5F64C8B1-5096-452A-8FC0-804AB2F6F0A4-29053-0004B13581B3D731.jpg
   '3': FBC05A1A-A277-4630-89D4-96A62ADCFE4C-29053-0004B135C57C90FA.jpg
+photos_filenames:
+- FBC05A1A-A277-4630-89D4-96A62ADCFE4C-29053-0004B135C57C90FA.jpg
+- 5F64C8B1-5096-452A-8FC0-804AB2F6F0A4-29053-0004B13581B3D731.jpg
+- 9149D496-D42C-4579-B6F1-4122D12ABE97-29053-0004B135658F0C74.jpg
+photos_names:
+- '3'
+- '2'
+- '1'
 prep_time: ''
 rating: 5
 servings: '6'
+slug: crown-roast-of-lamb
 source: null
 source_url: null
 total_time: ''

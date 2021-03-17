@@ -1,6 +1,6 @@
 ---
 title: "Steak Kebabs"
-filename: "Steak-Kebabs"
+filename: "steak-kebabs"
 categories: null
 cook_time: 10 minutes
 created: '2020-07-22 17:36:47'
@@ -49,13 +49,18 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Steak Kebabs
+p_recipe_id: 268
+permalink: /recipes/steak-kebabs
 photo: 1C031AE7-96A4-436D-A01E-6A428EDA47BE-37140-0000172C6AD7C0FB.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 25 minutes
 rating: 5
 servings: 'Servings: 5'
+slug: steak-kebabs
 source: cookingclassy.com
 source_url: https://www.cookingclassy.com/steak-kebabs/
 total_time: null

@@ -1,6 +1,6 @@
 ---
 title: "Aioli Sauce"
-filename: "Aioli-Sauce"
+filename: "aioli-sauce"
 categories:
 - Sauce
 cook_time: ''
@@ -44,16 +44,21 @@ meal_dates:
 - '2020-12-05'
 meal_types: 3|3|3|3
 name: Aioli Sauce
+p_recipe_id: 242
+permalink: /recipes/aioli-sauce
 photo: C1223062-F74E-4208-AC1C-A8D6907C7BE4-29053-000376E2CCD86DB9.jpg
 photo_large: 4A1B4683-121B-4179-B19A-661E6C6D0D13-29053-000376E2499F5BDF.jpg
-photos:
-- filename: 4A1B4683-121B-4179-B19A-661E6C6D0D13-29053-000376E2499F5BDF.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 4A1B4683-121B-4179-B19A-661E6C6D0D13-29053-000376E2499F5BDF.jpg
+photos_filenames:
+- 4A1B4683-121B-4179-B19A-661E6C6D0D13-29053-000376E2499F5BDF.jpg
+photos_names:
+- '1'
 prep_time: ''
 rating: 5
 servings: ''
+slug: aioli-sauce
 source: null
 source_url: null
 total_time: ''

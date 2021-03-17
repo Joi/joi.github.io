@@ -1,6 +1,6 @@
 ---
 title: "Garlic Butter Shrimp with Cilantro and Lime"
-filename: "Garlic-Butter-Shrimp-with-Cilantro-and-Lime"
+filename: "garlic-butter-shrimp-with-cilantro-and-lime"
 categories:
 - Shrimp
 cook_time: 5mins
@@ -30,16 +30,21 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Garlic Butter Shrimp with Cilantro and Lime
+p_recipe_id: 321
+permalink: /recipes/garlic-butter-shrimp-with-cilantro-and-lime
 photo: C3DE01BE-5BA9-4C71-8F3F-6B204BC0450B-2241-000315643A3ADA87.jpg
 photo_large: 97893798-FF99-4F95-B3D8-F704F8940C91-2241-00031561FD34E5F3.jpg
-photos:
-- filename: 97893798-FF99-4F95-B3D8-F704F8940C91-2241-00031561FD34E5F3.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 97893798-FF99-4F95-B3D8-F704F8940C91-2241-00031561FD34E5F3.jpg
+photos_filenames:
+- 97893798-FF99-4F95-B3D8-F704F8940C91-2241-00031561FD34E5F3.jpg
+photos_names:
+- '1'
 prep_time: 15mins
 rating: 5
 servings: 1 pound shrimp
+slug: garlic-butter-shrimp-with-cilantro-and-lime
 source: inspiredtaste.net
 source_url: https://www.inspiredtaste.net/36991/garlic-butter-shrimp-recipe/
 total_time: ''

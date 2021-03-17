@@ -1,6 +1,6 @@
 ---
 title: "Momofuku's Bo Ssam"
-filename: "Momofukus-Bo-Ssam"
+filename: "momofukus-bo-ssam"
 categories:
 - Pork Shoulder
 cook_time: 7 hours
@@ -25,13 +25,18 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Momofuku's Bo Ssam
+p_recipe_id: 376
+permalink: /recipes/momofukus-bo-ssam
 photo: A3759B41-92B2-40F3-A469-4306A434871A-79931-0001315FD21C94AD.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: Yield 6 to 10 servings
+slug: momofukus-bo-ssam
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12197-momofukus-bo-ssam?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=42
 total_time: ''

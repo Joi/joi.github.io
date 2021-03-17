@@ -1,6 +1,6 @@
 ---
 title: "Garam Masala"
-filename: "Garam-Masala"
+filename: "garam-masala"
 categories:
 - Curry
 cook_time: '10'
@@ -17,13 +17,18 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Garam Masala
+p_recipe_id: 468
+permalink: /recipes/garam-masala
 photo: 9525E6FD-A15D-414D-9861-F78EA7E3E1B9-10686-00000669655EC9C6.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: '10'
 rating: 5
 servings: null
+slug: garam-masala
 source: feastingathome.com
 source_url: https://www.feastingathome.com/garam-masala-recipe/
 total_time: null

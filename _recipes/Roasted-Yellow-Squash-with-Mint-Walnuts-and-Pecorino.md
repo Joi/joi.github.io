@@ -1,6 +1,6 @@
 ---
 title: "Roasted Yellow Squash with Mint, Walnuts and Pecorino"
-filename: "Roasted-Yellow-Squash-with-Mint-Walnuts-and-Pecorino"
+filename: "roasted-yellow-squash-with-mint-walnuts-and-pecorino"
 categories:
 - Yellow Squash
 cook_time: 20 min
@@ -29,13 +29,18 @@ meal_dates:
 - '2020-07-01'
 meal_types: '3'
 name: Roasted Yellow Squash with Mint, Walnuts and Pecorino
+p_recipe_id: 219
+permalink: /recipes/roasted-yellow-squash-with-mint-walnuts-and-pecorino
 photo: E587942C-3803-4BF0-8613-F633119F8814-631-000067EA17EFBF9C.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: 'Serves : 4'
+slug: roasted-yellow-squash-with-mint-walnuts-and-pecorino
 source: foodandwine.com
 source_url: https://www.foodandwine.com/recipes/roasted-yellow-squash-mint-walnuts-and-pecorino
 total_time: ''

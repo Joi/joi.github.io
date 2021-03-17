@@ -1,6 +1,6 @@
 ---
 title: "Pan-Seared Sablefish (Black Cod) with Lemon Pepper Aioli"
-filename: "Pan-Seared-Sablefish-Black-Cod-with-Lemon-Pepper-Aioli"
+filename: "pan-seared-sablefish-black-cod-with-lemon-pepper-aioli"
 categories:
 - Black Cod
 cook_time: 10 min
@@ -21,16 +21,21 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Pan-Seared Sablefish (Black Cod) with Lemon Pepper Aioli
+p_recipe_id: 241
+permalink: /recipes/pan-seared-sablefish-black-cod-with-lemon-pepper-aioli
 photo: B37CDA2A-7E2C-4B4D-A2EB-2B1DD392378F-29053-000366624DE72581.jpg
 photo_large: 9EFF478D-2306-475D-8542-618965EA6CF1-29053-0003665E467E9DF3.jpg
-photos:
-- filename: 9EFF478D-2306-475D-8542-618965EA6CF1-29053-0003665E467E9DF3.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 9EFF478D-2306-475D-8542-618965EA6CF1-29053-0003665E467E9DF3.jpg
+photos_filenames:
+- 9EFF478D-2306-475D-8542-618965EA6CF1-29053-0003665E467E9DF3.jpg
+photos_names:
+- '1'
 prep_time: 10 min
 rating: 5
 servings: 'Serves: 4'
+slug: pan-seared-sablefish-black-cod-with-lemon-pepper-aioli
 source: sitkasalmonshares.com
 source_url: https://sitkasalmonshares.com/blogs/recipes/pan-seared-sablefish-black-cod-with-lemon-pepper-aioli
 total_time: ''

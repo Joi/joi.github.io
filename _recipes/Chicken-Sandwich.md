@@ -1,6 +1,6 @@
 ---
 title: "Chicken Sandwich"
-filename: "Chicken-Sandwich"
+filename: "chicken-sandwich"
 categories:
 - Sandwich
 - Chicken
@@ -39,13 +39,18 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Chicken Sandwich
+p_recipe_id: 42
+permalink: /recipes/chicken-sandwich
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: null
 rating: 5
 servings: '6'
+slug: chicken-sandwich
 source: Harry's Bar Cookbook
 source_url: null
 total_time: null

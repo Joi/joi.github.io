@@ -1,6 +1,6 @@
 ---
 title: "Fattoush Salad"
-filename: "Fattoush-Salad"
+filename: "fattoush-salad"
 categories:
 - Salad
 cook_time: 20 mins
@@ -50,16 +50,21 @@ meal_dates:
 - '2020-09-18'
 meal_types: 3|3
 name: Fattoush Salad
+p_recipe_id: 294
+permalink: /recipes/fattoush-salad
 photo: 6B6EF7B7-4EDB-4562-9C14-D8D6266E16BB-2241-00036E0BC90316A1.jpg
 photo_large: 2DCEEE08-F8DB-4BA2-B79B-CF4508006542-2241-00036E09A88DF599.jpg
-photos:
-- filename: 2DCEEE08-F8DB-4BA2-B79B-CF4508006542-2241-00036E09A88DF599.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 2DCEEE08-F8DB-4BA2-B79B-CF4508006542-2241-00036E09A88DF599.jpg
+photos_filenames:
+- 2DCEEE08-F8DB-4BA2-B79B-CF4508006542-2241-00036E09A88DF599.jpg
+photos_names:
+- '1'
 prep_time: 20 mins
 rating: 5
 servings: Serves 6
+slug: fattoush-salad
 source: themediterraneandish.com
 source_url: https://www.themediterraneandish.com/fattoush-salad/
 total_time: ''

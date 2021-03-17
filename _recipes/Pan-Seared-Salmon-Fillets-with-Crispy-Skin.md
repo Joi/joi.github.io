@@ -1,6 +1,6 @@
 ---
 title: "Pan-Seared Salmon Fillets with Crispy Skin"
-filename: "Pan-Seared-Salmon-Fillets-with-Crispy-Skin"
+filename: "pan-seared-salmon-fillets-with-crispy-skin"
 categories:
 - Salmon
 cook_time: ''
@@ -16,13 +16,18 @@ meal_dates:
 - '2021-02-27'
 meal_types: 3|3
 name: Pan-Seared Salmon Fillets with Crispy Skin
+p_recipe_id: 304
+permalink: /recipes/pan-seared-salmon-fillets-with-crispy-skin
 photo: 2C2732D3-C3D8-4ACB-AB5D-FE8C30BCF7E5-624-00002000BF989FA2.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: ''
+slug: pan-seared-salmon-fillets-with-crispy-skin
 source: seriouseats.com
 source_url: https://www.seriouseats.com/2017/01/how-to-pan-fry-salmon-fillets.html
 total_time: ''

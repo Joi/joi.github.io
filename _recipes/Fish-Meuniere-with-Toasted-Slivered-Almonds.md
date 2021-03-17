@@ -1,6 +1,6 @@
 ---
 title: "Fish Meuniere with Toasted Slivered Almonds"
-filename: "Fish-Meuniere-with-Toasted-Slivered-Almonds"
+filename: "fish-meuniere-with-toasted-slivered-almonds"
 categories:
 - Fish
 - Seafood
@@ -23,13 +23,18 @@ meal_dates:
 - '2021-01-15'
 meal_types: '3'
 name: Fish Meuniere with Toasted Slivered Almonds
+p_recipe_id: 47
+permalink: /recipes/fish-meuniere-with-toasted-slivered-almonds
 photo: 5BADFF99-FE9C-4BE6-831E-B88022939C46-7996-000005DA8EFD2D3E.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: Serves 4
+slug: fish-meuniere-with-toasted-slivered-almonds
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/1399-fish-meuniere-with-toasted-slivered-almonds?incode=MCSCM00L0&ref=new_search_experience_7
 total_time: ''

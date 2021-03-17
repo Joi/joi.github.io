@@ -1,6 +1,6 @@
 ---
 title: "Pita Chips"
-filename: "Pita-Chips"
+filename: "pita-chips"
 categories:
 - Bread and Biscuits
 cook_time: 7 mins
@@ -16,13 +16,18 @@ meal_dates:
 - '2020-06-25'
 meal_types: '4'
 name: Pita Chips
+p_recipe_id: 203
+permalink: /recipes/pita-chips
 photo: 562D275D-06C0-4006-94C8-54AABCBF7526-22544-0004E1FC8729F7B1.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 10 mins
 rating: 5
 servings: 'Servings: 24'
+slug: pita-chips
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/14827/pita-chips/
 total_time: ''

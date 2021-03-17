@@ -1,6 +1,6 @@
 ---
 title: "Flounder with Brown Butter, Lemon and Tarragon"
-filename: "Flounder-with-Brown-Butter-Lemon-and-Tarragon"
+filename: "flounder-with-brown-butter-lemon-and-tarragon"
 categories:
 - Flounder
 cook_time: 20 minutes
@@ -35,13 +35,18 @@ meal_dates:
 - '2020-05-30'
 meal_types: '2'
 name: Flounder with Brown Butter, Lemon and Tarragon
+p_recipe_id: 175
+permalink: /recipes/flounder-with-brown-butter-lemon-and-tarragon
 photo: 9FD4D57B-A4F5-4450-A3AA-29E4036056BE-29546-0003F611BD7D7E22.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: Yield 4 servings
+slug: flounder-with-brown-butter-lemon-and-tarragon
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019589-flounder-with-brown-butter-lemon-and-tarragon?gclid=CjwKCAjw5cL2BRASEiwAENqAPoA0w_Lb4REkwI1qmcOvL4ID20NffmZe66F-5DY51zgG0akHN8jgGxoCWDcQAvD_BwE&gclsrc=aw.ds
 total_time: ''

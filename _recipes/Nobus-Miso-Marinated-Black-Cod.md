@@ -1,6 +1,6 @@
 ---
 title: "Nobu's Miso-Marinated Black Cod"
-filename: "Nobus-Miso-Marinated-Black-Cod"
+filename: "nobus-miso-marinated-black-cod"
 categories:
 - White Fish
 cook_time: ''
@@ -26,13 +26,18 @@ meal_dates:
 - '2021-01-29'
 meal_types: 3|2|3|3
 name: Nobu's Miso-Marinated Black Cod
+p_recipe_id: 116
+permalink: /recipes/nobus-miso-marinated-black-cod
 photo: AB22EEF2-37D7-48B1-9392-746F36072988-407-00005036275B54A3.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: Serves 4
+slug: nobus-miso-marinated-black-cod
 source: realgoodfish.com
 source_url: https://www.realgoodfish.com/recipe/237/nobus-miso-marinated-black-cod-recipe
 total_time: ''

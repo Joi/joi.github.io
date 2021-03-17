@@ -1,6 +1,6 @@
 ---
 title: "Basic Salsa Verde"
-filename: "Basic-Salsa-Verde"
+filename: "basic-salsa-verde"
 categories:
 - Sauce
 cook_time: ''
@@ -18,16 +18,27 @@ meal_dates:
 - '2020-10-08'
 meal_types: 3|3
 name: Basic Salsa Verde
+p_recipe_id: 251
+permalink: /recipes/basic-salsa-verde
 photo: D2A2C61F-0D45-4405-A6B0-DD1F1BFD8FF4-29053-0004BEE797AF20B6.jpg
 photo_large: D02A4B92-E38B-4310-8877-2D0AF31D8FCB-29053-0004BEE6028234A8.jpg
-photos:
-- filename: D02A4B92-E38B-4310-8877-2D0AF31D8FCB-29053-0004BEE6028234A8.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': D02A4B92-E38B-4310-8877-2D0AF31D8FCB-29053-0004BEE6028234A8.jpg
+  '2': F546B132-14AE-41C7-ABD2-BD67D9F70D1D-4038-0002206C2E274EF0.jpg
+  '3': FC60C92A-7B6C-4657-B19D-C592B58489E7-4038-000220863AF5CFC0.jpg
+photos_filenames:
+- D02A4B92-E38B-4310-8877-2D0AF31D8FCB-29053-0004BEE6028234A8.jpg
+- F546B132-14AE-41C7-ABD2-BD67D9F70D1D-4038-0002206C2E274EF0.jpg
+- FC60C92A-7B6C-4657-B19D-C592B58489E7-4038-000220863AF5CFC0.jpg
+photos_names:
+- '1'
+- '2'
+- '3'
 prep_time: ''
 rating: 5
 servings: ''
+slug: basic-salsa-verde
 source: null
 source_url: null
 total_time: ''

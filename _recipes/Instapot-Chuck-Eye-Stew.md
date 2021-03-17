@@ -1,6 +1,6 @@
 ---
 title: "Instapot Chuck Eye Stew"
-filename: "Instapot-Chuck-Eye-Stew"
+filename: "instapot-chuck-eye-stew"
 categories:
 - Meat
 cook_time: ''
@@ -47,13 +47,18 @@ meal_dates:
 - '2020-04-26'
 meal_types: '3'
 name: Instapot Chuck Eye Stew
+p_recipe_id: 130
+permalink: /recipes/instapot-chuck-eye-stew
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: '2'
+slug: instapot-chuck-eye-stew
 source: null
 source_url: null
 total_time: ''

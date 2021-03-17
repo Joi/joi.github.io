@@ -1,6 +1,6 @@
 ---
 title: "Chinese Boiled Shrimp with Ginger Scallion Dipping Sauce"
-filename: "Chinese-Boiled-Shrimp-with-Ginger-Scallion-Dipping-Sauce"
+filename: "chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce"
 categories:
 - Shrimp
 cook_time: 10 mins
@@ -18,16 +18,21 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Chinese Boiled Shrimp with Ginger Scallion Dipping Sauce
+p_recipe_id: 399
+permalink: /recipes/chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce
 photo: 8D845977-4EEF-4DAA-8959-A5477FF942D1-10626-0000080B5D1DC895.jpg
 photo_large: 2BC7F868-909A-4A88-8F55-A6423EE78520-10626-0000080B38B0065C.jpg
-photos:
-- filename: 2BC7F868-909A-4A88-8F55-A6423EE78520-10626-0000080B38B0065C.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 2BC7F868-909A-4A88-8F55-A6423EE78520-10626-0000080B38B0065C.jpg
+photos_filenames:
+- 2BC7F868-909A-4A88-8F55-A6423EE78520-10626-0000080B38B0065C.jpg
+photos_names:
+- '1'
 prep_time: 15 mins
 rating: 5
 servings: ''
+slug: chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/wprm_print/28887
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "Japanese Fried Chicken Thighs (Karaage)"
-filename: "Japanese-Fried-Chicken-Thighs-Karaage"
+filename: "japanese-fried-chicken-thighs-karaage"
 categories:
 - Chicken
 cook_time: 1 hour
@@ -20,16 +20,21 @@ meal_dates:
 - '2021-03-11'
 meal_types: 3|3
 name: Japanese Fried Chicken Thighs (Karaage)
+p_recipe_id: 30
+permalink: /recipes/japanese-fried-chicken-thighs-karaage
 photo: BFFADF72-BA81-4AFF-8A2B-531BE746240C-29546-0001D1BE440DA8ED.jpg
 photo_large: 2BE4ABFC-F15F-428D-B222-CD131D8EAA00-29546-0001D1BB3D1CA3B2.jpg
-photos:
-- filename: 2BE4ABFC-F15F-428D-B222-CD131D8EAA00-29546-0001D1BB3D1CA3B2.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 2BE4ABFC-F15F-428D-B222-CD131D8EAA00-29546-0001D1BB3D1CA3B2.jpg
+photos_filenames:
+- 2BE4ABFC-F15F-428D-B222-CD131D8EAA00-29546-0001D1BB3D1CA3B2.jpg
+photos_names:
+- '1'
 prep_time: ''
 rating: 5
 servings: Serves 4 to 6
+slug: japanese-fried-chicken-thighs-karaage
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/11892-japanese-fried-chicken-thighs-karaage
 total_time: ''

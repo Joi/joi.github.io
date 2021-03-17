@@ -1,6 +1,6 @@
 ---
 title: "Hummus (Ilan Hall)"
-filename: "Hummus-Ilan-Hall"
+filename: "hummus-ilan-hall"
 categories:
 - Spread
 cook_time: 9h 5min
@@ -19,13 +19,18 @@ meal_dates:
 - '2020-06-25'
 meal_types: '4'
 name: Hummus (Ilan Hall)
+p_recipe_id: 4
+permalink: /recipes/hummus-ilan-hall
 photo: 82348952-B32B-42DC-AA8C-9497D3EE45F5-25037-00009F4F60E8F23D.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 10min
 rating: 5
 servings: 1 total recipe
+slug: hummus-ilan-hall
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r418424
 total_time: ''

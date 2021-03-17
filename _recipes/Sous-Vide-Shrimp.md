@@ -1,6 +1,6 @@
 ---
 title: "Sous Vide Shrimp"
-filename: "Sous-Vide-Shrimp"
+filename: "sous-vide-shrimp"
 categories:
 - Shrimp
 cook_time: ''
@@ -23,13 +23,18 @@ meal_dates:
 - '2020-07-05'
 meal_types: '3'
 name: Sous Vide Shrimp
+p_recipe_id: 230
+permalink: /recipes/sous-vide-shrimp
 photo: F1D914C9-7DC8-4BF3-96AD-65F7FE0824F9-6789-0000041D9E73813A.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 00:20
 rating: 5
 servings: Ingredients for 4
+slug: sous-vide-shrimp
 source: recipes.anovaculinary.com
 source_url: https://recipes.anovaculinary.com/recipe/sous-vide-shrimp
 total_time: 30 min

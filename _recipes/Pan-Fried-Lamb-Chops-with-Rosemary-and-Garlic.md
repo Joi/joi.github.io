@@ -1,6 +1,6 @@
 ---
 title: "Pan-Fried Lamb Chops with Rosemary and Garlic"
-filename: "Pan-Fried-Lamb-Chops-with-Rosemary-and-Garlic"
+filename: "pan-fried-lamb-chops-with-rosemary-and-garlic"
 categories:
 - Lamb
 cook_time: ''
@@ -27,13 +27,18 @@ meal_dates:
 - '2020-05-28'
 meal_types: 3|3|3
 name: Pan-Fried Lamb Chops with Rosemary and Garlic
+p_recipe_id: 106
+permalink: /recipes/pan-fried-lamb-chops-with-rosemary-and-garlic
 photo: DC010AF3-939F-46AC-B038-3FEDFA9ADC90-2334-0001CE30F84AE143.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: Serves 6
+slug: pan-fried-lamb-chops-with-rosemary-and-garlic
 source: epicurious.com
 source_url: https://www.epicurious.com/recipes/food/views/pan-fried-lamb-chops-with-rosemary-and-garlic-3155
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "Cantonese-Style Lobster with Ginger and Scallions"
-filename: "Cantonese-Style-Lobster-with-Ginger-and-Scallions"
+filename: "cantonese-style-lobster-with-ginger-and-scallions"
 categories:
 - Lobster
 - Chinese
@@ -38,22 +38,27 @@ meal_dates:
 - '2021-03-09'
 meal_types: '3'
 name: Cantonese-Style Lobster with Ginger and Scallions
+p_recipe_id: 486
+permalink: /recipes/cantonese-style-lobster-with-ginger-and-scallions
 photo: 63A0AED0-19A8-4591-90E4-6E1AA9FE8BBA-4038-00021F64C005369F.jpg
 photo_large: 58A5EFE3-5CB6-4828-A5B9-F4CBF24A9720-4038-00021F62B9F20950.jpg
-photos:
-- filename: 58A5EFE3-5CB6-4828-A5B9-F4CBF24A9720-4038-00021F62B9F20950.jpg
-  name: '1'
-- filename: 5D8E4714-9503-497B-B6F0-BC0263C13FB8-4038-00021F631ECEE4FB.jpg
-  name: '2'
-- filename: 5E288383-97D7-42CF-B76E-BDA08C8EA26A-4038-00021F63875A1629.jpg
-  name: '3'
+photos: []
 photos_dict:
   '1': 58A5EFE3-5CB6-4828-A5B9-F4CBF24A9720-4038-00021F62B9F20950.jpg
   '2': 5D8E4714-9503-497B-B6F0-BC0263C13FB8-4038-00021F631ECEE4FB.jpg
   '3': 5E288383-97D7-42CF-B76E-BDA08C8EA26A-4038-00021F63875A1629.jpg
+photos_filenames:
+- 58A5EFE3-5CB6-4828-A5B9-F4CBF24A9720-4038-00021F62B9F20950.jpg
+- 5D8E4714-9503-497B-B6F0-BC0263C13FB8-4038-00021F631ECEE4FB.jpg
+- 5E288383-97D7-42CF-B76E-BDA08C8EA26A-4038-00021F63875A1629.jpg
+photos_names:
+- '1'
+- '2'
+- '3'
 prep_time: 30 minutes
 rating: 5
 servings: Serves 3 to 4
+slug: cantonese-style-lobster-with-ginger-and-scallions
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2013/05/cantonese-lobster-chinese-ginger-scallion-recipe.html
 total_time: ''

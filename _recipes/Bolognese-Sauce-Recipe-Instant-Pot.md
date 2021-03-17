@@ -1,6 +1,6 @@
 ---
 title: "Bolognese Sauce Recipe (Instant Pot)"
-filename: "Bolognese-Sauce-Recipe-Instant-Pot"
+filename: "bolognese-sauce-recipe-instant-pot"
 categories:
 - Pasta
 cook_time: 55 minutes
@@ -21,25 +21,30 @@ meal_dates:
 - '2020-09-02'
 meal_types: '3'
 name: Bolognese Sauce Recipe (Instant Pot)
+p_recipe_id: 334
+permalink: /recipes/bolognese-sauce-recipe-instant-pot
 photo: E8D91A69-CC96-4CC5-A7D6-C66EFB342584-13002-000625BE3FEBF04F.jpg
 photo_large: B44A406D-B3F5-4ECD-AE44-D47A0E60A1AE-13002-000625B99468A6A2.jpg
-photos:
-- filename: EA0D372C-1140-4A22-B07B-EFC778EC177B-13002-000625BB764848E3.jpg
-  name: '01'
-- filename: 7C1C7675-E785-45B8-A43D-3B85A0802005-13002-000625BB1B32DAB9.jpg
-  name: '02'
-- filename: 27BFEAB6-D7C4-45C7-B529-081D17267E53-13002-000625BAB5647FC2.jpg
-  name: '03'
-- filename: B44A406D-B3F5-4ECD-AE44-D47A0E60A1AE-13002-000625B99468A6A2.jpg
-  name: '04'
+photos: []
 photos_dict:
   '01': EA0D372C-1140-4A22-B07B-EFC778EC177B-13002-000625BB764848E3.jpg
   '02': 7C1C7675-E785-45B8-A43D-3B85A0802005-13002-000625BB1B32DAB9.jpg
   '03': 27BFEAB6-D7C4-45C7-B529-081D17267E53-13002-000625BAB5647FC2.jpg
   '04': B44A406D-B3F5-4ECD-AE44-D47A0E60A1AE-13002-000625B99468A6A2.jpg
+photos_filenames:
+- B44A406D-B3F5-4ECD-AE44-D47A0E60A1AE-13002-000625B99468A6A2.jpg
+- 7C1C7675-E785-45B8-A43D-3B85A0802005-13002-000625BB1B32DAB9.jpg
+- 27BFEAB6-D7C4-45C7-B529-081D17267E53-13002-000625BAB5647FC2.jpg
+- EA0D372C-1140-4A22-B07B-EFC778EC177B-13002-000625BB764848E3.jpg
+photos_names:
+- '04'
+- '02'
+- '03'
+- '01'
 prep_time: 30 minutes
 rating: 5
 servings: ''
+slug: bolognese-sauce-recipe-instant-pot
 source: stripedspatula.com
 source_url: https://stripedspatula.com/bolognese-sauce-recipe-instant-pot/
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "Italian-Style Fish Stew"
-filename: "Italian-Style-Fish-Stew"
+filename: "italian-style-fish-stew"
 categories:
 - Fish
 - White Fish
@@ -24,16 +24,21 @@ meal_dates:
 - '2020-06-25'
 meal_types: 3|3
 name: Italian-Style Fish Stew
+p_recipe_id: 100
+permalink: /recipes/italian-style-fish-stew
 photo: CDC5C12D-2646-4FE9-A531-510E7B5C7BF7-47978-0005C427CC91B7BA.jpg
 photo_large: 2047FA20-5989-41E8-AC84-D1E9791A3630-47978-0005C42391618497.jpg
-photos:
-- filename: 2047FA20-5989-41E8-AC84-D1E9791A3630-47978-0005C42391618497.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 2047FA20-5989-41E8-AC84-D1E9791A3630-47978-0005C42391618497.jpg
+photos_filenames:
+- 2047FA20-5989-41E8-AC84-D1E9791A3630-47978-0005C42391618497.jpg
+photos_names:
+- '1'
 prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings
+slug: italian-style-fish-stew
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018346-italian-style-fish-stew?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=3
 total_time: ''

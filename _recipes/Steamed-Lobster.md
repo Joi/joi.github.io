@@ -1,6 +1,6 @@
 ---
 title: "Steamed Lobster"
-filename: "Steamed-Lobster"
+filename: "steamed-lobster"
 categories:
 - Lobster
 cook_time: ''
@@ -17,19 +17,24 @@ meal_dates:
 - '2020-12-30'
 meal_types: 3|3|3
 name: Steamed Lobster
+p_recipe_id: 213
+permalink: /recipes/steamed-lobster
 photo: 9BADE4BF-02C7-4606-995C-BE71F9EBE9D1-47978-00061704CEB3A610.jpg
 photo_large: 2F994E8C-4BA9-4388-A263-5CFCB7BC21B3-47978-000616FFACE05284.jpg
-photos:
-- filename: 2F994E8C-4BA9-4388-A263-5CFCB7BC21B3-47978-000616FFACE05284.jpg
-  name: '1'
-- filename: 33C8EF71-6C8A-49C3-AFEC-C59B59F0B0D9-5738-000002FB5D7D9D17.jpg
-  name: '2'
+photos: []
 photos_dict:
   '1': 2F994E8C-4BA9-4388-A263-5CFCB7BC21B3-47978-000616FFACE05284.jpg
   '2': 33C8EF71-6C8A-49C3-AFEC-C59B59F0B0D9-5738-000002FB5D7D9D17.jpg
+photos_filenames:
+- 2F994E8C-4BA9-4388-A263-5CFCB7BC21B3-47978-000616FFACE05284.jpg
+- 33C8EF71-6C8A-49C3-AFEC-C59B59F0B0D9-5738-000002FB5D7D9D17.jpg
+photos_names:
+- '1'
+- '2'
 prep_time: ''
 rating: 5
 servings: ''
+slug: steamed-lobster
 source: null
 source_url: https://lobsteranywhere.com/cooking-lobster/
 total_time: ''

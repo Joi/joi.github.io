@@ -1,6 +1,6 @@
 ---
 title: "Tuna Confit"
-filename: "Tuna-Confit"
+filename: "tuna-confit"
 categories:
 - Tuna
 cook_time: ''
@@ -43,13 +43,18 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Tuna Confit
+p_recipe_id: 293
+permalink: /recipes/tuna-confit
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: '4'
+slug: tuna-confit
 source: null
 source_url: null
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "Chinese Roasted Chicken (烧鸡)"
-filename: "Chinese-Roasted-Chicken-Shao-Ji-"
+filename: "chinese-roasted-chicken-shao-ji"
 categories:
 - Chicken
 cook_time: 1 hr
@@ -37,13 +37,18 @@ meal_dates:
 - '2021-01-01'
 meal_types: '3'
 name: "Chinese Roasted Chicken (\u70E7\u9E21)"
+p_recipe_id: 441
+permalink: /recipes/chinese-roasted-chicken-shao-ji
 photo: 0326A685-887D-4010-A0AC-FE4B280611F8-1607-00007D847A5B7B7B.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 2 d
 rating: 5
 servings: 'Servings: 3'
+slug: chinese-roasted-chicken-shao-ji
 source: chinasichuanfood.com
 source_url: https://www.chinasichuanfood.com/chinese-roasted-chicken/
 total_time: null

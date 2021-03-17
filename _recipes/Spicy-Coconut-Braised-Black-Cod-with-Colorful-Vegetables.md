@@ -1,6 +1,6 @@
 ---
 title: "Spicy Coconut Braised Black Cod with Colorful Vegetables"
-filename: "Spicy-Coconut-Braised-Black-Cod-with-Colorful-Vegetables"
+filename: "spicy-coconut-braised-black-cod-with-colorful-vegetables"
 categories:
 - Black Cod
 cook_time: 20 min
@@ -53,13 +53,18 @@ meal_dates:
 - '2020-12-04'
 meal_types: 3|3
 name: Spicy Coconut Braised Black Cod with Colorful Vegetables
+p_recipe_id: 410
+permalink: /recipes/spicy-coconut-braised-black-cod-with-colorful-vegetables
 photo: 12994A4D-812D-4BE3-B7E6-C4C27AD20053-32901-000016CE71033E9C.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: null
 rating: 5
 servings: Serves 4
+slug: spicy-coconut-braised-black-cod-with-colorful-vegetables
 source: wholefoodsmarket.com
 source_url: https://www.wholefoodsmarket.com/recipes/spicy-coconut-braised-black-cod-colorful-vegetables
 total_time: null

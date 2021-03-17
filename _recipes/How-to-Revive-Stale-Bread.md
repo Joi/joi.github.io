@@ -1,6 +1,6 @@
 ---
 title: "How to Revive Stale Bread"
-filename: "How-to-Revive-Stale-Bread"
+filename: "how-to-revive-stale-bread"
 categories:
 - Bread and Biscuits
 cook_time: ''
@@ -28,13 +28,18 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: How to Revive Stale Bread
+p_recipe_id: 183
+permalink: /recipes/how-to-revive-stale-bread
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: ''
+slug: how-to-revive-stale-bread
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/how_tos/8226-how-to-revive-stale-bread
 total_time: ''

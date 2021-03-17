@@ -1,6 +1,6 @@
 ---
 title: "Oven-Poached Pacific Sole with Lemon Caper Sauce"
-filename: "Oven-Poached-Pacific-Sole-with-Lemon-Caper-Sauce"
+filename: "oven-poached-pacific-sole-with-lemon-caper-sauce"
 categories:
 - Fish
 - Sole
@@ -21,13 +21,18 @@ meal_dates:
 - '2020-04-16'
 meal_types: '3'
 name: Oven-Poached Pacific Sole with Lemon Caper Sauce
+p_recipe_id: 51
+permalink: /recipes/oven-poached-pacific-sole-with-lemon-caper-sauce
 photo: B6C2DA04-040B-401E-AB2E-3BC0F36182F0-9067-0000E0FBF5EDD277.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: Serves 4
+slug: oven-poached-pacific-sole-with-lemon-caper-sauce
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1014640-oven-poached-pacific-sole-with-lemon-caper-sauce?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=8
 total_time: ''

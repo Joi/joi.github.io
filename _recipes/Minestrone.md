@@ -1,6 +1,6 @@
 ---
 title: "Minestrone"
-filename: "Minestrone"
+filename: "minestrone"
 categories:
 - Italian
 - Soup
@@ -49,13 +49,18 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Minestrone
+p_recipe_id: 37
+permalink: /recipes/minestrone
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: null
 rating: 5
 servings: SERVES 6 AS A FIRST COURSE
+slug: minestrone
 source: Harry's Bar Cookbook
 source_url: null
 total_time: null

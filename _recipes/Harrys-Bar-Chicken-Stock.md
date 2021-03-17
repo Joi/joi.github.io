@@ -1,6 +1,6 @@
 ---
 title: "Harry's Bar Chicken Stock"
-filename: "Harrys-Bar-Chicken-Stock"
+filename: "harrys-bar-chicken-stock"
 categories:
 - Chicken
 - Soup
@@ -50,25 +50,30 @@ meal_dates:
 - '2020-06-24'
 meal_types: 2|4
 name: Harry's Bar Chicken Stock
+p_recipe_id: 13
+permalink: /recipes/harrys-bar-chicken-stock
 photo: F600B36D-839E-4344-89FC-4E10DEB17E36-39996-00002085D88E725F.jpg
 photo_large: EF674E95-FBEB-40C7-83CC-B902DCA9B59C-39996-000020859FC48E6A.jpg
-photos:
-- filename: 1AF8CBEB-3510-4F03-BAEB-EF7972972C19-39996-00002050B4C07631.jpg
-  name: '1'
-- filename: 50FA4372-A055-4FAD-804B-60C4E3ED0CDC-39996-00002071916B20DB.jpg
-  name: '2'
-- filename: E7F89F69-A319-4645-8E26-34EB1A4C4872-39996-0000207437BB4C4C.jpg
-  name: '3'
-- filename: EF674E95-FBEB-40C7-83CC-B902DCA9B59C-39996-000020859FC48E6A.jpg
-  name: '4'
+photos: []
 photos_dict:
   '1': 1AF8CBEB-3510-4F03-BAEB-EF7972972C19-39996-00002050B4C07631.jpg
   '2': 50FA4372-A055-4FAD-804B-60C4E3ED0CDC-39996-00002071916B20DB.jpg
   '3': E7F89F69-A319-4645-8E26-34EB1A4C4872-39996-0000207437BB4C4C.jpg
   '4': EF674E95-FBEB-40C7-83CC-B902DCA9B59C-39996-000020859FC48E6A.jpg
+photos_filenames:
+- EF674E95-FBEB-40C7-83CC-B902DCA9B59C-39996-000020859FC48E6A.jpg
+- E7F89F69-A319-4645-8E26-34EB1A4C4872-39996-0000207437BB4C4C.jpg
+- 50FA4372-A055-4FAD-804B-60C4E3ED0CDC-39996-00002071916B20DB.jpg
+- 1AF8CBEB-3510-4F03-BAEB-EF7972972C19-39996-00002050B4C07631.jpg
+photos_names:
+- '4'
+- '3'
+- '2'
+- '1'
 prep_time: ''
 rating: 5
 servings: MAKES ABOUT 10 CUPS (2.500 ML)
+slug: harrys-bar-chicken-stock
 source: Harry's Bar Cookbook
 source_url: null
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "Boiled Corn"
-filename: "Boiled-Corn"
+filename: "boiled-corn"
 categories:
 - Corn
 cook_time: ''
@@ -20,16 +20,21 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Boiled Corn
+p_recipe_id: 254
+permalink: /recipes/boiled-corn
 photo: 3E713826-907D-4C7E-A50F-E552F2F20A0E-29053-0004B199DA42BEE9.jpg
 photo_large: D688E9A8-92D0-474B-997F-39D46ACD72E7-29053-0004B19974BA446A.jpg
-photos:
-- filename: D688E9A8-92D0-474B-997F-39D46ACD72E7-29053-0004B19974BA446A.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': D688E9A8-92D0-474B-997F-39D46ACD72E7-29053-0004B19974BA446A.jpg
+photos_filenames:
+- D688E9A8-92D0-474B-997F-39D46ACD72E7-29053-0004B19974BA446A.jpg
+photos_names:
+- '1'
 prep_time: ''
 rating: 5
 servings: ''
+slug: boiled-corn
 source: null
 source_url: null
 total_time: ''

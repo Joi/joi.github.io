@@ -1,6 +1,6 @@
 ---
 title: "Shrimp Bisque"
-filename: "Shrimp-Bisque"
+filename: "shrimp-bisque"
 categories:
 - Shrimp
 - Soup
@@ -42,16 +42,21 @@ meal_dates:
 - '2020-07-28'
 meal_types: '3'
 name: Shrimp Bisque
+p_recipe_id: 279
+permalink: /recipes/shrimp-bisque
 photo: 266540B0-EE7C-4333-998D-57392CAD8F39-2209-000245978DCAB24B.jpg
 photo_large: 8522B969-B1FD-4273-ABC0-6B9F3229A010-2209-000245943EAD84C6.jpg
-photos:
-- filename: 8522B969-B1FD-4273-ABC0-6B9F3229A010-2209-000245943EAD84C6.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 8522B969-B1FD-4273-ABC0-6B9F3229A010-2209-000245943EAD84C6.jpg
+photos_filenames:
+- 8522B969-B1FD-4273-ABC0-6B9F3229A010-2209-000245943EAD84C6.jpg
+photos_names:
+- '1'
 prep_time: ''
 rating: 5
 servings: Serves 8 to 10
+slug: shrimp-bisque
 source: cookscountry.com
 source_url: https://www.cookscountry.com/recipes/4006-shrimp-bisque?extcode=MCSKD10L0&ref=new_search_experience_4
 total_time: ''

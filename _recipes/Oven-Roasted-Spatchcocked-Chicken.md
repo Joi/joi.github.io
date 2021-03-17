@@ -1,6 +1,6 @@
 ---
 title: "Oven Roasted Spatchcocked Chicken"
-filename: "Oven-Roasted-Spatchcocked-Chicken"
+filename: "oven-roasted-spatchcocked-chicken"
 categories:
 - Chicken
 - _mine
@@ -26,25 +26,30 @@ meal_dates:
 - '2020-10-08'
 meal_types: 3|3|3|3|3
 name: Oven Roasted Spatchcocked Chicken
+p_recipe_id: 240
+permalink: /recipes/oven-roasted-spatchcocked-chicken
 photo: 1E6F0850-AD17-424B-919B-059A81B1C18F-22008-00000A5E92C67743.jpg
 photo_large: C705FB1F-4526-4177-B221-A8F48F79BABF-22008-00000A5E5FB61826.jpg
-photos:
-- filename: A8BB5F09-FA69-4F87-BBE8-283A6B66D8BD-20478-00000A13DC2E7FA9.jpg
-  name: '1'
-- filename: 2845A2D7-CEB7-4706-BAC0-ADB03E0BC31F-22008-00000A5E4C707093.jpg
-  name: '2'
-- filename: 6BD1D298-DC7D-4997-85F3-02D7ACE46CBF-22008-00000A5E54E2C460.jpg
-  name: '3'
-- filename: C705FB1F-4526-4177-B221-A8F48F79BABF-22008-00000A5E5FB61826.jpg
-  name: '4'
+photos: []
 photos_dict:
   '1': A8BB5F09-FA69-4F87-BBE8-283A6B66D8BD-20478-00000A13DC2E7FA9.jpg
   '2': 2845A2D7-CEB7-4706-BAC0-ADB03E0BC31F-22008-00000A5E4C707093.jpg
   '3': 6BD1D298-DC7D-4997-85F3-02D7ACE46CBF-22008-00000A5E54E2C460.jpg
   '4': C705FB1F-4526-4177-B221-A8F48F79BABF-22008-00000A5E5FB61826.jpg
+photos_filenames:
+- A8BB5F09-FA69-4F87-BBE8-283A6B66D8BD-20478-00000A13DC2E7FA9.jpg
+- 2845A2D7-CEB7-4706-BAC0-ADB03E0BC31F-22008-00000A5E4C707093.jpg
+- 6BD1D298-DC7D-4997-85F3-02D7ACE46CBF-22008-00000A5E54E2C460.jpg
+- C705FB1F-4526-4177-B221-A8F48F79BABF-22008-00000A5E5FB61826.jpg
+photos_names:
+- '1'
+- '2'
+- '3'
+- '4'
 prep_time: ''
 rating: 5
 servings: ''
+slug: oven-roasted-spatchcocked-chicken
 source: Joi
 source_url: null
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "Mayonnaise"
-filename: "Mayonnaise"
+filename: "mayonnaise"
 categories:
 - Spread
 cook_time: ''
@@ -20,13 +20,18 @@ meal_dates:
 - '2021-01-22'
 meal_types: 2|3|3
 name: Mayonnaise
+p_recipe_id: 39
+permalink: /recipes/mayonnaise
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: "MAKES 1 \xBD CUPS (375 ML)"
+slug: mayonnaise
 source: Based on Harry's Bar Recipe
 source_url: null
 total_time: ''

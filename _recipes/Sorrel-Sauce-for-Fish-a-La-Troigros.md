@@ -1,6 +1,6 @@
 ---
 title: "Sorrel Sauce for Fish a Lá Troigros"
-filename: "Sorrel-Sauce-for-Fish-a-La-Troigros"
+filename: "sorrel-sauce-for-fish-a-la-troigros"
 categories:
 - Fish
 - Salmon
@@ -27,13 +27,18 @@ meal_dates:
 - '2020-04-16'
 meal_types: '3'
 name: "Sorrel Sauce for Fish a L\xE1 Troigros"
+p_recipe_id: 107
+permalink: /recipes/sorrel-sauce-for-fish-a-la-troigros
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: 'Yield: enough for 4 or more'
+slug: sorrel-sauce-for-fish-a-la-troigros
 source: highgroundorganics.com
 source_url: https://www.highgroundorganics.com/recipes/sorrel-sauce-for-fish-a-la-troigros/
 total_time: ''

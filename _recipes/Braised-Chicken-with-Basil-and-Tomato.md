@@ -1,6 +1,6 @@
 ---
 title: "Braised Chicken with Basil and Tomato"
-filename: "Braised-Chicken-with-Basil-and-Tomato"
+filename: "braised-chicken-with-basil-and-tomato"
 categories:
 - Chicken
 cook_time: ''
@@ -24,19 +24,24 @@ meal_dates:
 - '2020-12-09'
 meal_types: 3|3|3|3
 name: Braised Chicken with Basil and Tomato
+p_recipe_id: 86
+permalink: /recipes/braised-chicken-with-basil-and-tomato
 photo: 117DE12A-AB70-4442-B326-6831AFC75E90-29546-000594679564A8AE.jpg
 photo_large: CEA47EBE-073C-46D7-ADBF-EC5096CCEC87-29546-000594637FB4D68E.jpg
-photos:
-- filename: F1D2F3DF-862E-446C-BE10-CB8668CE2538-20016-00000637F19F7159.jpg
-  name: '1'
-- filename: CEA47EBE-073C-46D7-ADBF-EC5096CCEC87-29546-000594637FB4D68E.jpg
-  name: '2'
+photos: []
 photos_dict:
   '1': F1D2F3DF-862E-446C-BE10-CB8668CE2538-20016-00000637F19F7159.jpg
   '2': CEA47EBE-073C-46D7-ADBF-EC5096CCEC87-29546-000594637FB4D68E.jpg
+photos_filenames:
+- F1D2F3DF-862E-446C-BE10-CB8668CE2538-20016-00000637F19F7159.jpg
+- CEA47EBE-073C-46D7-ADBF-EC5096CCEC87-29546-000594637FB4D68E.jpg
+photos_names:
+- '1'
+- '2'
 prep_time: ''
 rating: 5
 servings: Serves 4 to 6
+slug: braised-chicken-with-basil-and-tomato
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato?incode=MCSCM00L0&ref=new_search_experience_19
 total_time: ''

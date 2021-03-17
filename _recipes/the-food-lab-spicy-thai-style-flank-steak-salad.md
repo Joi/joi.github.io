@@ -1,6 +1,6 @@
 ---
 title: "The Food Lab - Spicy Thai-Style Flank Steak Salad"
-filename: "The-Food-Lab---Spicy-Thai-Style-Flank-Steak-Salad"
+filename: "the-food-lab-spicy-thai-style-flank-steak-salad"
 categories:
 - Beef
 cook_time: ''
@@ -28,13 +28,18 @@ meal_dates:
 - '2020-07-25'
 meal_types: '4'
 name: The Food Lab - Spicy Thai-Style Flank Steak Salad
+p_recipe_id: 275
+permalink: /recipes/the-food-lab-spicy-thai-style-flank-steak-salad
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: '4'
+slug: the-food-lab-spicy-thai-style-flank-steak-salad
 source: The Food Lab
 source_url: null
 total_time: ''

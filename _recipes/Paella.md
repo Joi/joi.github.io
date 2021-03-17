@@ -1,6 +1,6 @@
 ---
 title: "Paella"
-filename: "Paella"
+filename: "paella"
 categories:
 - Seafood
 - Rice
@@ -28,16 +28,21 @@ meal_dates:
 - '2020-09-12'
 meal_types: '3'
 name: Paella
+p_recipe_id: 353
+permalink: /recipes/paella
 photo: 47EF0BD5-792F-4849-B7FD-4F88FB7DC041-1119-0000011B47ECD27B.jpg
 photo_large: 26B30777-A706-42E9-AFE1-5F38DC4DAC65-1119-0000011A9F40B52B.jpg
-photos:
-- filename: 26B30777-A706-42E9-AFE1-5F38DC4DAC65-1119-0000011A9F40B52B.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 26B30777-A706-42E9-AFE1-5F38DC4DAC65-1119-0000011A9F40B52B.jpg
+photos_filenames:
+- 26B30777-A706-42E9-AFE1-5F38DC4DAC65-1119-0000011A9F40B52B.jpg
+photos_names:
+- '1'
 prep_time: ''
 rating: 5
 servings: ''
+slug: paella
 source: null
 source_url: null
 total_time: ''

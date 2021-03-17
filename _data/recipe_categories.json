@@ -1,333 +1,333 @@
 {
   "Asparagus": {
-    "Risotto-Primavera": "Risotto Primavera"
+    "risotto-primavera": "Risotto Primavera"
   },
   "Beef": {
-    "Biltmore-Chianti-Glazed-Beef-Short-Ribs": "Biltmore Chianti Glazed Beef Short Ribs",
-    "Bolognese-Sauce": "Bolognese Sauce",
-    "Braised-Brisket-with-Onions": "Braised Brisket with Onions",
-    "Instant-Pot-Pot-Roast": "Instant Pot Pot Roast",
-    "Instant-Pot-Short-Ribs": "Instant Pot Short Ribs",
-    "Pot-Roast": "Pot Roast",
-    "The-Food-Lab---Spicy-Thai-Style-Flank-Steak-Salad": "The Food Lab - Spicy Thai-Style Flank Steak Salad"
+    "biltmore-chianti-glazed-beef-short-ribs": "Biltmore Chianti Glazed Beef Short Ribs",
+    "bolognese-sauce": "Bolognese Sauce",
+    "braised-brisket-with-onions": "Braised Brisket with Onions",
+    "instant-pot-pot-roast": "Instant Pot Pot Roast",
+    "instant-pot-short-ribs": "Instant Pot Short Ribs",
+    "pot-roast": "Pot Roast",
+    "the-food-lab-spicy-thai-style-flank-steak-salad": "The Food Lab - Spicy Thai-Style Flank Steak Salad"
   },
   "Black Cod": {
-    "Pan-Seared-Sablefish-Black-Cod-with-Lemon-Pepper-Aioli": "Pan-Seared Sablefish (Black Cod) with Lemon Pepper Aioli",
-    "Spicy-Coconut-Braised-Black-Cod-with-Colorful-Vegetables": "Spicy Coconut Braised Black Cod with Colorful Vegetables"
+    "pan-seared-sablefish-black-cod-with-lemon-pepper-aioli": "Pan-Seared Sablefish (Black Cod) with Lemon Pepper Aioli",
+    "spicy-coconut-braised-black-cod-with-colorful-vegetables": "Spicy Coconut Braised Black Cod with Colorful Vegetables"
   },
   "Blue Fish": {
-    "Baked-Bluefish": "Baked Bluefish"
+    "baked-bluefish": "Baked Bluefish"
   },
   "Branzino": {
-    "Roasted-Branzino-with-Caper-Butter": "Roasted Branzino with Caper Butter"
+    "roasted-branzino-with-caper-butter": "Roasted Branzino with Caper Butter"
   },
   "Bread and Biscuits": {
-    "Butter-Roll": "Butter Roll",
-    "How-to-Revive-Stale-Bread": "How to Revive Stale Bread",
-    "Pita-Bread": "Pita Bread",
-    "Pita-Chips": "Pita Chips"
+    "butter-roll": "Butter Roll",
+    "how-to-revive-stale-bread": "How to Revive Stale Bread",
+    "pita-bread": "Pita Bread",
+    "pita-chips": "Pita Chips"
   },
   "Brisket": {
-    "Braised-Brisket-with-Onions": "Braised Brisket with Onions"
+    "braised-brisket-with-onions": "Braised Brisket with Onions"
   },
   "Chick Steak": {
-    "Foolproof-Chuck-Steak-with-Smoky-Chimichurri": "Foolproof Chuck Steak with Smoky Chimichurri"
+    "foolproof-chuck-steak-with-smoky-chimichurri": "Foolproof Chuck Steak with Smoky Chimichurri"
   },
   "Chicken": {
-    "BBQ-Chicken": "BBQ Chicken",
-    "Braised-Chicken-Tikka-Masala": "Braised Chicken Tikka Masala",
-    "Braised-Chicken-with-Basil-and-Tomato": "Braised Chicken with Basil and Tomato",
-    "Braised-Chicken-with-Lemon-and-Olives": "Braised Chicken with Lemon and Olives",
-    "Chicken-Cacciatore-with-Mushrooms-Tomatoes-and-Wine": "Chicken Cacciatore with Mushrooms, Tomatoes and Wine",
-    "Chicken-Hearts": "Chicken Hearts",
-    "Chicken-Livers-and-Onions-Venetian-Style": "Chicken Livers and Onions, Venetian Style",
-    "Chicken-Sandwich": "Chicken Sandwich",
-    "Chicken-Stock": "Chicken Stock",
-    "Chicken-with-Vinegar": "Chicken with Vinegar",
-    "Chinese-Roasted-Chicken-Shao-Ji-": "Chinese Roasted Chicken (烧鸡)",
-    "Harrys-Bar-Chicken-Stock": "Harry's Bar Chicken Stock",
-    "Indian-Chicken-Curry-II": "Indian Chicken Curry II",
-    "Japanese-Fried-Chicken-Thighs-Karaage": "Japanese Fried Chicken Thighs (Karaage)",
-    "Moroccan-Chicken-Tagine-with-Olives-and-Lemon-Djej-Emshmel": "Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)",
-    "Oven-Roasted-Spatchcocked-Chicken": "Oven Roasted Spatchcocked Chicken",
-    "Rishia-Zimmerns-Chicken-with-Shallots": "Rishia Zimmern’s Chicken with Shallots",
-    "Roast-Chicken-101": "Roast Chicken 101",
-    "Stovetop-Roast-Chicken-with-Lemon-Herb-Sauce": "Stovetop Roast Chicken with Lemon-Herb Sauce"
+    "bbq-chicken": "BBQ Chicken",
+    "braised-chicken-tikka-masala": "Braised Chicken Tikka Masala",
+    "braised-chicken-with-basil-and-tomato": "Braised Chicken with Basil and Tomato",
+    "braised-chicken-with-lemon-and-olives": "Braised Chicken with Lemon and Olives",
+    "chicken-cacciatore-with-mushrooms-tomatoes-and-wine": "Chicken Cacciatore with Mushrooms, Tomatoes and Wine",
+    "chicken-hearts": "Chicken Hearts",
+    "chicken-livers-and-onions-venetian-style": "Chicken Livers and Onions, Venetian Style",
+    "chicken-sandwich": "Chicken Sandwich",
+    "chicken-stock": "Chicken Stock",
+    "chicken-with-vinegar": "Chicken with Vinegar",
+    "chinese-roasted-chicken-shao-ji": "Chinese Roasted Chicken (烧鸡)",
+    "harrys-bar-chicken-stock": "Harry's Bar Chicken Stock",
+    "indian-chicken-curry-ii": "Indian Chicken Curry II",
+    "japanese-fried-chicken-thighs-karaage": "Japanese Fried Chicken Thighs (Karaage)",
+    "moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel": "Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)",
+    "oven-roasted-spatchcocked-chicken": "Oven Roasted Spatchcocked Chicken",
+    "rishia-zimmerns-chicken-with-shallots": "Rishia Zimmern’s Chicken with Shallots",
+    "roast-chicken-101": "Roast Chicken 101",
+    "stovetop-roast-chicken-with-lemon-herb-sauce": "Stovetop Roast Chicken with Lemon-Herb Sauce"
   },
   "Chinese": {
-    "Cantonese-Style-Lobster-with-Ginger-and-Scallions": "Cantonese-Style Lobster with Ginger and Scallions",
-    "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe",
-    "Kanitama": "Kanitama"
+    "cantonese-style-lobster-with-ginger-and-scallions": "Cantonese-Style Lobster with Ginger and Scallions",
+    "chinese-stir-fry-eggs-with-flaked-crab-meat-recipe": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe",
+    "kanitama": "Kanitama"
   },
   "Chuck Roast": {
-    "Pot-Roast": "Pot Roast"
+    "pot-roast": "Pot Roast"
   },
   "Clams": {
-    "Mark-Bittmans-Bouillabaisse": "Mark Bittman’s Bouillabaisse"
+    "mark-bittmans-bouillabaisse": "Mark Bittman’s Bouillabaisse"
   },
   "Corn": {
-    "Boiled-Corn": "Boiled Corn"
+    "boiled-corn": "Boiled Corn"
   },
   "Crab": {
-    "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe",
-    "Kanitama": "Kanitama",
-    "Marie-Rose-Sauce": "Marie Rose Sauce"
+    "chinese-stir-fry-eggs-with-flaked-crab-meat-recipe": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe",
+    "kanitama": "Kanitama",
+    "marie-rose-sauce": "Marie Rose Sauce"
   },
   "Curry": {
-    "Braised-Chicken-Tikka-Masala": "Braised Chicken Tikka Masala",
-    "Curry-Powder": "Curry Powder",
-    "Garam-Masala": "Garam Masala"
+    "braised-chicken-tikka-masala": "Braised Chicken Tikka Masala",
+    "curry-powder": "Curry Powder",
+    "garam-masala": "Garam Masala"
   },
   "Duck": {
-    "Crisp-Braised-Duck-Legs-with-Aromatic-Vegetables": "Crisp-Braised Duck Legs with Aromatic Vegetables"
+    "crisp-braised-duck-legs-with-aromatic-vegetables": "Crisp-Braised Duck Legs with Aromatic Vegetables"
   },
   "Egg": {
-    "Chinese-Stir-Fry-Eggs-with-Flaked-Crab-Meat-Recipe": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe",
-    "Kanitama": "Kanitama"
+    "chinese-stir-fry-eggs-with-flaked-crab-meat-recipe": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe",
+    "kanitama": "Kanitama"
   },
   "Fish": {
-    "Fish-Meuniere-with-Toasted-Slivered-Almonds": "Fish Meuniere with Toasted Slivered Almonds",
-    "Four-Spice-Salmon": "Four-Spice Salmon",
-    "Italian-Style-Fish-Stew": "Italian-Style Fish Stew",
-    "Mark-Bittmans-Bouillabaisse": "Mark Bittman’s Bouillabaisse",
-    "Oven-Poached-Pacific-Sole-with-Lemon-Caper-Sauce": "Oven-Poached Pacific Sole with Lemon Caper Sauce",
-    "Oven-Steamed-Fish-with-Scallions-and-Ginger": "Oven-Steamed Fish with Scallions and Ginger",
-    "Pan-Seared-Hake-and-Asparagus-with-Aioli": "Pan-Seared Hake and Asparagus with Aioli",
-    "Sorrel-Sauce-for-Fish-a-La-Troigros": "Sorrel Sauce for Fish a Lá Troigros",
-    "Sorrel-Sauce-with-Poached-Fish": "Sorrel Sauce with Poached Fish"
+    "fish-meuniere-with-toasted-slivered-almonds": "Fish Meuniere with Toasted Slivered Almonds",
+    "four-spice-salmon": "Four-Spice Salmon",
+    "italian-style-fish-stew": "Italian-Style Fish Stew",
+    "mark-bittmans-bouillabaisse": "Mark Bittman’s Bouillabaisse",
+    "oven-poached-pacific-sole-with-lemon-caper-sauce": "Oven-Poached Pacific Sole with Lemon Caper Sauce",
+    "oven-steamed-fish-with-scallions-and-ginger": "Oven-Steamed Fish with Scallions and Ginger",
+    "pan-seared-hake-and-asparagus-with-aioli": "Pan-Seared Hake and Asparagus with Aioli",
+    "sorrel-sauce-for-fish-a-la-troigros": "Sorrel Sauce for Fish a Lá Troigros",
+    "sorrel-sauce-with-poached-fish": "Sorrel Sauce with Poached Fish"
   },
   "Flat Iron": {
-    "Fajitas": "Fajitas"
+    "fajitas": "Fajitas"
   },
   "Flounder": {
-    "Cream-of-Leek-and-Fish-Soup": "Cream of Leek and Fish Soup",
-    "Flounder-with-Brown-Butter-Lemon-and-Tarragon": "Flounder with Brown Butter, Lemon and Tarragon",
-    "Sand-Dabs-with-Shallots-Sea-Beans-Sherry-Vinegar": "Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar"
+    "cream-of-leek-and-fish-soup": "Cream of Leek and Fish Soup",
+    "flounder-with-brown-butter-lemon-and-tarragon": "Flounder with Brown Butter, Lemon and Tarragon",
+    "sand-dabs-with-shallots-sea-beans-sherry-vinegar": "Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar"
   },
   "Fluke": {
-    "Cream-of-Leek-and-Fish-Soup": "Cream of Leek and Fish Soup",
-    "Sand-Dabs-with-Shallots-Sea-Beans-Sherry-Vinegar": "Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar"
+    "cream-of-leek-and-fish-soup": "Cream of Leek and Fish Soup",
+    "sand-dabs-with-shallots-sea-beans-sherry-vinegar": "Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar"
   },
   "Ground Beef": {
-    "Hamburger-Steak": "Hamburger Steak"
+    "hamburger-steak": "Hamburger Steak"
   },
   "Ground Pork": {
-    "Ginisang-Pechay-with-Ground-Pork-and-Shrimp": "Ginisang Pechay with Ground Pork and Shrimp"
+    "ginisang-pechay-with-ground-pork-and-shrimp": "Ginisang Pechay with Ground Pork and Shrimp"
   },
   "Halibut": {
-    "Mediterranean-Lemon-Poached-Halibut": "Mediterranean Lemon Poached Halibut",
-    "Pan-Roasted-Halibut-with-Clamshell-Mushrooms-and-Lemon-Butter-Sauce": "Pan-Roasted Halibut with Clamshell Mushrooms and Lemon Butter Sauce",
-    "Tomato-Poached-Halibut": "Tomato-Poached Halibut",
-    "Ultra-Crisp-Skinned-Pan-Roasted-Fish-Fillets": "Ultra-Crisp-Skinned Pan-Roasted Fish Fillets"
+    "mediterranean-lemon-poached-halibut": "Mediterranean Lemon Poached Halibut",
+    "pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce": "Pan-Roasted Halibut with Clamshell Mushrooms and Lemon Butter Sauce",
+    "tomato-poached-halibut": "Tomato-Poached Halibut",
+    "ultra-crisp-skinned-pan-roasted-fish-fillets": "Ultra-Crisp-Skinned Pan-Roasted Fish Fillets"
   },
   "Italian": {
-    "Chicken-Sandwich": "Chicken Sandwich",
-    "Minestrone": "Minestrone",
-    "Ragu-Bolognese": "Ragú Bolognese"
+    "chicken-sandwich": "Chicken Sandwich",
+    "minestrone": "Minestrone",
+    "ragu-bolognese": "Ragú Bolognese"
   },
   "Lamb": {
-    "Braised-Lamb-Shanks": "Braised Lamb Shanks",
-    "Braised-Lamb-with-Red-Wine-and-Prunes": "Braised Lamb with Red Wine and Prunes",
-    "Crown-Roast-of-Lamb": "Crown Roast of Lamb",
-    "Pan-Fried-Lamb-Chops-with-Rosemary-and-Garlic": "Pan-Fried Lamb Chops with Rosemary and Garlic"
+    "braised-lamb-shanks": "Braised Lamb Shanks",
+    "braised-lamb-with-red-wine-and-prunes": "Braised Lamb with Red Wine and Prunes",
+    "crown-roast-of-lamb": "Crown Roast of Lamb",
+    "pan-fried-lamb-chops-with-rosemary-and-garlic": "Pan-Fried Lamb Chops with Rosemary and Garlic"
   },
   "Lobster": {
-    "Cantonese-Style-Lobster-with-Ginger-and-Scallions": "Cantonese-Style Lobster with Ginger and Scallions",
-    "Steamed-Lobster": "Steamed Lobster"
+    "cantonese-style-lobster-with-ginger-and-scallions": "Cantonese-Style Lobster with Ginger and Scallions",
+    "steamed-lobster": "Steamed Lobster"
   },
   "Meat": {
-    "Chicken-Sandwich": "Chicken Sandwich",
-    "Instapot-Chuck-Eye-Stew": "Instapot Chuck Eye Stew",
-    "Making-Meat-Tender-and-Succulent": "Making Meat Tender and Succulent",
-    "Ragu-Bolognese": "Ragú Bolognese",
-    "Rishia-Zimmerns-Chicken-with-Shallots": "Rishia Zimmern’s Chicken with Shallots"
+    "chicken-sandwich": "Chicken Sandwich",
+    "instapot-chuck-eye-stew": "Instapot Chuck Eye Stew",
+    "making-meat-tender-and-succulent": "Making Meat Tender and Succulent",
+    "ragu-bolognese": "Ragú Bolognese",
+    "rishia-zimmerns-chicken-with-shallots": "Rishia Zimmern’s Chicken with Shallots"
   },
   "Mexican": {
-    "The-Best-Chili-Ever": "The Best Chili Ever"
+    "the-best-chili-ever": "The Best Chili Ever"
   },
   "Monkfish": {
-    "Monkfish-Braised-with-White-Beans-Fennel-Tomato": "Monkfish Braised with White Beans, Fennel, & Tomato"
+    "monkfish-braised-with-white-beans-fennel-tomato": "Monkfish Braised with White Beans, Fennel, & Tomato"
   },
   "Mushroom": {
-    "KING-OYSTER-MUSHROOM-WITH-GARLIC-SAUCE": "KING OYSTER MUSHROOM WITH GARLIC SAUCE"
+    "king-oyster-mushroom-with-garlic-sauce": "KING OYSTER MUSHROOM WITH GARLIC SAUCE"
   },
   "Mussels": {
-    "Steamed-Mussels-with-Garlic-and-Parsley": "Steamed Mussels with Garlic and Parsley"
+    "steamed-mussels-with-garlic-and-parsley": "Steamed Mussels with Garlic and Parsley"
   },
   "Oxtail": {
-    "Oxtail-Au-Jus": "Oxtail Au Jus"
+    "oxtail-au-jus": "Oxtail Au Jus"
   },
   "Pasta": {
-    "Bolognese-Sauce": "Bolognese Sauce",
-    "Bolognese-Sauce-Recipe-Instant-Pot": "Bolognese Sauce Recipe (Instant Pot)",
-    "Lasagna": "Lasagna",
-    "Ragu-Bolognese": "Ragú Bolognese"
+    "bolognese-sauce": "Bolognese Sauce",
+    "bolognese-sauce-recipe-instant-pot": "Bolognese Sauce Recipe (Instant Pot)",
+    "lasagna": "Lasagna",
+    "ragu-bolognese": "Ragú Bolognese"
   },
   "Pork Shoulder": {
-    "Momofukus-Bo-Ssam": "Momofuku's Bo Ssam",
-    "Slow-Cooker-Chinese-Pulled-Pork": "Slow Cooker Chinese Pulled Pork",
-    "Slow-Roast-Pork-Shoulder-with-Herb-Rub": "Slow Roast Pork Shoulder with Herb Rub"
+    "momofukus-bo-ssam": "Momofuku's Bo Ssam",
+    "slow-cooker-chinese-pulled-pork": "Slow Cooker Chinese Pulled Pork",
+    "slow-roast-pork-shoulder-with-herb-rub": "Slow Roast Pork Shoulder with Herb Rub"
   },
   "Pork Spare Ribs": {
-    "BBQ-Spare-Ribs": "BBQ Spare Ribs"
+    "bbq-spare-ribs": "BBQ Spare Ribs"
   },
   "Prime Rib": {
-    "Prime-Rib": "Prime Rib"
+    "prime-rib": "Prime Rib"
   },
   "Rice": {
-    "Paella": "Paella",
-    "Risotto-Parmigiano---Basic-Risotto-with-Parmesan-Cheese": "Risotto Parmigiano - Basic Risotto with Parmesan Cheese",
-    "Risotto-Primavera": "Risotto Primavera",
-    "Seafood-Paella": "Seafood Paella"
+    "paella": "Paella",
+    "risotto-parmigiano-basic-risotto-with-parmesan-cheese": "Risotto Parmigiano - Basic Risotto with Parmesan Cheese",
+    "risotto-primavera": "Risotto Primavera",
+    "seafood-paella": "Seafood Paella"
   },
   "Salad": {
-    "Classic-Caesar-Salad": "Classic Caesar Salad",
-    "Fattoush-Salad": "Fattoush Salad",
-    "Mexican-Coleslaw-with-Cilantro-Lime-Dressing": "Mexican Coleslaw with Cilantro Lime Dressing"
+    "classic-caesar-salad": "Classic Caesar Salad",
+    "fattoush-salad": "Fattoush Salad",
+    "mexican-coleslaw-with-cilantro-lime-dressing": "Mexican Coleslaw with Cilantro Lime Dressing"
   },
   "Salmon": {
-    "Crispy-Scallion-Ginger-Salmon": "Crispy Scallion Ginger Salmon",
-    "Easy-Grilled-Salmon": "Easy Grilled Salmon",
-    "Four-Spice-Salmon": "Four-Spice Salmon",
-    "Pan-Seared-Salmon-Fillets-with-Crispy-Skin": "Pan-Seared Salmon Fillets with Crispy Skin",
-    "Salmon-and-Sorrel-Sauce": "Salmon and Sorrel Sauce",
-    "Shiozake-Grilled-Salted-Salmon": "Shiozake (Grilled Salted Salmon)",
-    "Sorrel-Sauce-for-Fish-a-La-Troigros": "Sorrel Sauce for Fish a Lá Troigros",
-    "Sorrel-Sauce-with-Poached-Fish": "Sorrel Sauce with Poached Fish",
-    "Ultra-Crisp-Skinned-Pan-Roasted-Fish-Fillets": "Ultra-Crisp-Skinned Pan-Roasted Fish Fillets"
+    "crispy-scallion-ginger-salmon": "Crispy Scallion Ginger Salmon",
+    "easy-grilled-salmon": "Easy Grilled Salmon",
+    "four-spice-salmon": "Four-Spice Salmon",
+    "pan-seared-salmon-fillets-with-crispy-skin": "Pan-Seared Salmon Fillets with Crispy Skin",
+    "salmon-and-sorrel-sauce": "Salmon and Sorrel Sauce",
+    "shiozake-grilled-salted-salmon": "Shiozake (Grilled Salted Salmon)",
+    "sorrel-sauce-for-fish-a-la-troigros": "Sorrel Sauce for Fish a Lá Troigros",
+    "sorrel-sauce-with-poached-fish": "Sorrel Sauce with Poached Fish",
+    "ultra-crisp-skinned-pan-roasted-fish-fillets": "Ultra-Crisp-Skinned Pan-Roasted Fish Fillets"
   },
   "Sandwich": {
-    "Chicken-Sandwich": "Chicken Sandwich"
+    "chicken-sandwich": "Chicken Sandwich"
   },
   "Sauce": {
-    "Aioli-Sauce": "Aioli Sauce",
-    "Basic-Salsa-Verde": "Basic Salsa Verde",
-    "Bolognese-Sauce": "Bolognese Sauce",
-    "Homemade-Ponzu-Sauce-Recipe": "Homemade Ponzu Sauce Recipe",
-    "Horseradish-Sauce": "Horseradish Sauce",
-    "Lemon-Butter-Sauce": "Lemon Butter Sauce",
-    "Marie-Rose-Sauce": "Marie Rose Sauce",
-    "Oxtail-Au-Jus": "Oxtail Au Jus",
-    "Rouille": "Rouille"
+    "aioli-sauce": "Aioli Sauce",
+    "basic-salsa-verde": "Basic Salsa Verde",
+    "bolognese-sauce": "Bolognese Sauce",
+    "homemade-ponzu-sauce-recipe": "Homemade Ponzu Sauce Recipe",
+    "horseradish-sauce": "Horseradish Sauce",
+    "lemon-butter-sauce": "Lemon Butter Sauce",
+    "marie-rose-sauce": "Marie Rose Sauce",
+    "oxtail-au-jus": "Oxtail Au Jus",
+    "rouille": "Rouille"
   },
   "Sausage": {
-    "Sous-Vide-Sausage": "Sous Vide Sausage"
+    "sous-vide-sausage": "Sous Vide Sausage"
   },
   "Scallops": {
-    "Soy-Balsamic-Glazed-Sea-Scallops": "Soy-Balsamic Glazed Sea Scallops"
+    "soy-balsamic-glazed-sea-scallops": "Soy-Balsamic Glazed Sea Scallops"
   },
   "Seafood": {
-    "Cream-of-Leek-and-Fish-Soup": "Cream of Leek and Fish Soup",
-    "Fish-Meuniere-with-Toasted-Slivered-Almonds": "Fish Meuniere with Toasted Slivered Almonds",
-    "Mark-Bittmans-Bouillabaisse": "Mark Bittman’s Bouillabaisse",
-    "Paella": "Paella"
+    "cream-of-leek-and-fish-soup": "Cream of Leek and Fish Soup",
+    "fish-meuniere-with-toasted-slivered-almonds": "Fish Meuniere with Toasted Slivered Almonds",
+    "mark-bittmans-bouillabaisse": "Mark Bittman’s Bouillabaisse",
+    "paella": "Paella"
   },
   "Seasoning": {
-    "Chinese-5-Spices": "Chinese 5 Spices",
-    "Curry-Powder": "Curry Powder"
+    "chinese-5-spices": "Chinese 5 Spices",
+    "curry-powder": "Curry Powder"
   },
   "Short Ribs": {
-    "Biltmore-Chianti-Glazed-Beef-Short-Ribs": "Biltmore Chianti Glazed Beef Short Ribs",
-    "Garlic-Braised-Short-Ribs-with-Red-Wine": "Garlic Braised Short Ribs with Red Wine",
-    "Instant-Pot-Short-Ribs": "Instant Pot Short Ribs",
-    "Pot-Roast": "Pot Roast",
-    "The-Best-Chili-Ever": "The Best Chili Ever"
+    "biltmore-chianti-glazed-beef-short-ribs": "Biltmore Chianti Glazed Beef Short Ribs",
+    "garlic-braised-short-ribs-with-red-wine": "Garlic Braised Short Ribs with Red Wine",
+    "instant-pot-short-ribs": "Instant Pot Short Ribs",
+    "pot-roast": "Pot Roast",
+    "the-best-chili-ever": "The Best Chili Ever"
   },
   "Shrimp": {
-    "Chinese-Boiled-Shrimp-with-Ginger-Scallion-Dipping-Sauce": "Chinese Boiled Shrimp with Ginger Scallion Dipping Sauce",
-    "Crispy-Coconut-Shrimp": "Crispy Coconut Shrimp",
-    "Garlic-Butter-Shrimp-with-Cilantro-and-Lime": "Garlic Butter Shrimp with Cilantro and Lime",
-    "Ginisang-Pechay-with-Ground-Pork-and-Shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
-    "Marie-Rose-Sauce": "Marie Rose Sauce",
-    "Shrimp-Bisque": "Shrimp Bisque",
-    "Shrimp-with-Lobster-Sauce": "Shrimp with Lobster Sauce",
-    "Sous-Vide-Shrimp": "Sous Vide Shrimp",
-    "Southern-Shrimp-Scampi": "Southern Shrimp Scampi"
+    "chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce": "Chinese Boiled Shrimp with Ginger Scallion Dipping Sauce",
+    "crispy-coconut-shrimp": "Crispy Coconut Shrimp",
+    "garlic-butter-shrimp-with-cilantro-and-lime": "Garlic Butter Shrimp with Cilantro and Lime",
+    "ginisang-pechay-with-ground-pork-and-shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
+    "marie-rose-sauce": "Marie Rose Sauce",
+    "shrimp-bisque": "Shrimp Bisque",
+    "shrimp-with-lobster-sauce": "Shrimp with Lobster Sauce",
+    "sous-vide-shrimp": "Sous Vide Shrimp",
+    "southern-shrimp-scampi": "Southern Shrimp Scampi"
   },
   "Sole": {
-    "Oven-Poached-Pacific-Sole-with-Lemon-Caper-Sauce": "Oven-Poached Pacific Sole with Lemon Caper Sauce",
-    "Sand-Dabs-with-Shallots-Sea-Beans-Sherry-Vinegar": "Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar",
-    "Sorrel-Sauce-with-Poached-Fish": "Sorrel Sauce with Poached Fish"
+    "oven-poached-pacific-sole-with-lemon-caper-sauce": "Oven-Poached Pacific Sole with Lemon Caper Sauce",
+    "sand-dabs-with-shallots-sea-beans-sherry-vinegar": "Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar",
+    "sorrel-sauce-with-poached-fish": "Sorrel Sauce with Poached Fish"
   },
   "Soup": {
-    "Chicken-Stock": "Chicken Stock",
-    "Cream-of-Leek-and-Fish-Soup": "Cream of Leek and Fish Soup",
-    "Harrys-Bar-Chicken-Stock": "Harry's Bar Chicken Stock",
-    "Mark-Bittmans-Bouillabaisse": "Mark Bittman’s Bouillabaisse",
-    "Minestrone": "Minestrone",
-    "Shrimp-Bisque": "Shrimp Bisque",
-    "The-Best-Chili-Ever": "The Best Chili Ever"
+    "chicken-stock": "Chicken Stock",
+    "cream-of-leek-and-fish-soup": "Cream of Leek and Fish Soup",
+    "harrys-bar-chicken-stock": "Harry's Bar Chicken Stock",
+    "mark-bittmans-bouillabaisse": "Mark Bittman’s Bouillabaisse",
+    "minestrone": "Minestrone",
+    "shrimp-bisque": "Shrimp Bisque",
+    "the-best-chili-ever": "The Best Chili Ever"
   },
   "Spread": {
-    "Hummus-Ilan-Hall": "Hummus (Ilan Hall)",
-    "Mayonnaise": "Mayonnaise"
+    "hummus-ilan-hall": "Hummus (Ilan Hall)",
+    "mayonnaise": "Mayonnaise"
   },
   "Squid": {
-    "Easy-Calamari-Recipe-with-Garlic-Lime-Sauce": "Easy Calamari Recipe with Garlic-Lime Sauce"
+    "easy-calamari-recipe-with-garlic-lime-sauce": "Easy Calamari Recipe with Garlic-Lime Sauce"
   },
   "Steaks": {
-    "Delmonico-Steaks-with-Balsamic-Onions-and-Sauce": "Delmonico Steaks with Balsamic Onions and Sauce",
-    "Hanger-Steak-with-Olive-Oil-and-Herbs": "Hanger Steak with Olive Oil and Herbs",
-    "Pan-Seared-Garlic-Butter-Steak-Mushroom-Cream-Sauce": "Pan Seared Garlic Butter Steak & Mushroom Cream Sauce"
+    "delmonico-steaks-with-balsamic-onions-and-sauce": "Delmonico Steaks with Balsamic Onions and Sauce",
+    "hanger-steak-with-olive-oil-and-herbs": "Hanger Steak with Olive Oil and Herbs",
+    "pan-seared-garlic-butter-steak-mushroom-cream-sauce": "Pan Seared Garlic Butter Steak & Mushroom Cream Sauce"
   },
   "Sweet Potato": {
-    "Silky-Ginger-Sweet-Potato-Soup": "Silky Ginger Sweet Potato Soup"
+    "silky-ginger-sweet-potato-soup": "Silky Ginger Sweet Potato Soup"
   },
   "Swordfish": {
-    "Swordfish-in-Creamy-Tomato-Sauce": "Swordfish in Creamy Tomato Sauce"
+    "swordfish-in-creamy-tomato-sauce": "Swordfish in Creamy Tomato Sauce"
   },
   "Tofu": {
-    "Ginisang-Pechay-with-Tofu": "Ginisang Pechay with Tofu"
+    "ginisang-pechay-with-tofu": "Ginisang Pechay with Tofu"
   },
   "Tomato": {
-    "Risotto-Primavera": "Risotto Primavera"
+    "risotto-primavera": "Risotto Primavera"
   },
   "Truffles": {
-    "Pasta-with-White-Truffles": "Pasta with White Truffles"
+    "pasta-with-white-truffles": "Pasta with White Truffles"
   },
   "Tuna": {
-    "Tuna-Confit": "Tuna Confit",
-    "Tuna-Tataki-Recipe": "Tuna Tataki Recipe",
-    "Tuna-Tataki-with-Lime-Ginger-and-Jalapeno": "Tuna Tataki with Lime, Ginger and Jalapeño"
+    "tuna-confit": "Tuna Confit",
+    "tuna-tataki-recipe": "Tuna Tataki Recipe",
+    "tuna-tataki-with-lime-ginger-and-jalapeno": "Tuna Tataki with Lime, Ginger and Jalapeño"
   },
   "Turkey": {
-    "Roasted-Turkey-Breast": "Roasted Turkey Breast",
-    "Stuffing": "Stuffing"
+    "roasted-turkey-breast": "Roasted Turkey Breast",
+    "stuffing": "Stuffing"
   },
   "Veal": {
-    "Ossobuco-Alla-Cipriani---Braised-Veal-Shanks-Cipriani": "Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani",
-    "Ragu-Bolognese": "Ragú Bolognese"
+    "ossobuco-alla-cipriani-braised-veal-shanks-cipriani": "Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani",
+    "ragu-bolognese": "Ragú Bolognese"
   },
   "White Fish": {
-    "Fish-Meuniere-with-Toasted-Slivered-Almonds": "Fish Meuniere with Toasted Slivered Almonds",
-    "Italian-Style-Fish-Stew": "Italian-Style Fish Stew",
-    "Nobus-Miso-Marinated-Black-Cod": "Nobu's Miso-Marinated Black Cod",
-    "Oven-Steamed-Fish-with-Scallions-and-Ginger": "Oven-Steamed Fish with Scallions and Ginger",
-    "Pan-Seared-Hake-and-Asparagus-with-Aioli": "Pan-Seared Hake and Asparagus with Aioli",
-    "Sorrel-Sauce-for-Fish-a-La-Troigros": "Sorrel Sauce for Fish a Lá Troigros",
-    "Sorrel-Sauce-with-Poached-Fish": "Sorrel Sauce with Poached Fish"
+    "fish-meuniere-with-toasted-slivered-almonds": "Fish Meuniere with Toasted Slivered Almonds",
+    "italian-style-fish-stew": "Italian-Style Fish Stew",
+    "nobus-miso-marinated-black-cod": "Nobu's Miso-Marinated Black Cod",
+    "oven-steamed-fish-with-scallions-and-ginger": "Oven-Steamed Fish with Scallions and Ginger",
+    "pan-seared-hake-and-asparagus-with-aioli": "Pan-Seared Hake and Asparagus with Aioli",
+    "sorrel-sauce-for-fish-a-la-troigros": "Sorrel Sauce for Fish a Lá Troigros",
+    "sorrel-sauce-with-poached-fish": "Sorrel Sauce with Poached Fish"
   },
   "Yellow Squash": {
-    "Roasted-Yellow-Squash-with-Mint-Walnuts-and-Pecorino": "Roasted Yellow Squash with Mint, Walnuts and Pecorino"
+    "roasted-yellow-squash-with-mint-walnuts-and-pecorino": "Roasted Yellow Squash with Mint, Walnuts and Pecorino"
   },
   "Zucchini": {
-    "Julienned-Zucchini-and-Carrots-with-Lemon-and-Mint": "Julienned Zucchini and Carrots with Lemon and Mint"
+    "julienned-zucchini-and-carrots-with-lemon-and-mint": "Julienned Zucchini and Carrots with Lemon and Mint"
   },
   "_mine": {
-    "BBQ-Chicken": "BBQ Chicken",
-    "Beef-Tongue-Stew": "Beef Tongue Stew",
-    "Bolognese-Sauce": "Bolognese Sauce",
-    "Braised-Chicken-Tikka-Masala": "Braised Chicken Tikka Masala",
-    "Chicken-Stock": "Chicken Stock",
-    "Chicken-with-Vinegar": "Chicken with Vinegar",
-    "Ginisang-Pechay-with-Ground-Pork-and-Shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
-    "Ginisang-Pechay-with-Tofu": "Ginisang Pechay with Tofu",
-    "Kanitama": "Kanitama",
-    "Marie-Rose-Sauce": "Marie Rose Sauce",
-    "Oven-Roasted-Spatchcocked-Chicken": "Oven Roasted Spatchcocked Chicken",
-    "Paella": "Paella",
-    "Prime-Rib": "Prime Rib",
-    "Rouille": "Rouille",
-    "Tuna-Tataki-with-Lime-Ginger-and-Jalapeno": "Tuna Tataki with Lime, Ginger and Jalapeño"
+    "bbq-chicken": "BBQ Chicken",
+    "beef-tongue-stew": "Beef Tongue Stew",
+    "bolognese-sauce": "Bolognese Sauce",
+    "braised-chicken-tikka-masala": "Braised Chicken Tikka Masala",
+    "chicken-stock": "Chicken Stock",
+    "chicken-with-vinegar": "Chicken with Vinegar",
+    "ginisang-pechay-with-ground-pork-and-shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
+    "ginisang-pechay-with-tofu": "Ginisang Pechay with Tofu",
+    "kanitama": "Kanitama",
+    "marie-rose-sauce": "Marie Rose Sauce",
+    "oven-roasted-spatchcocked-chicken": "Oven Roasted Spatchcocked Chicken",
+    "paella": "Paella",
+    "prime-rib": "Prime Rib",
+    "rouille": "Rouille",
+    "tuna-tataki-with-lime-ginger-and-jalapeno": "Tuna Tataki with Lime, Ginger and Jalapeño"
   }
 }

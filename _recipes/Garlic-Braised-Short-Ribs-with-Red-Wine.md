@@ -1,6 +1,6 @@
 ---
 title: "Garlic Braised Short Ribs with Red Wine"
-filename: "Garlic-Braised-Short-Ribs-with-Red-Wine"
+filename: "garlic-braised-short-ribs-with-red-wine"
 categories:
 - Short Ribs
 cook_time: null
@@ -23,28 +23,33 @@ meal_dates:
 - '2021-01-24'
 meal_types: 3|3
 name: Garlic Braised Short Ribs with Red Wine
+p_recipe_id: 235
+permalink: /recipes/garlic-braised-short-ribs-with-red-wine
 photo: 117BF38D-4239-4E3B-9740-5C60DFB30A70-36256-00001A9DD2F43994.jpg
 photo_large: 36A50B49-515E-4809-8666-F6F5EA18EEA8-36256-00001A9DBD83A9E3.jpg
-photos:
-- filename: 21D3B595-A55F-4AE8-877E-CF75A2EFF5ED-18639-00000904224E6654.jpg
-  name: '1'
-- filename: 25AC6F99-08DF-4EF7-9604-98DE8D2D406C-36256-00001A34F67CAA2F.jpg
-  name: '2'
-- filename: 9E26B0F2-A457-43EB-991D-CC4F05B6929F-36256-00001A3B08F21998.jpg
-  name: '3'
-- filename: 383A85E8-0547-4BFA-80E2-4E352FA3BE2F-36256-00001A3D9C068914.jpg
-  name: '4'
-- filename: 36A50B49-515E-4809-8666-F6F5EA18EEA8-36256-00001A9DBD83A9E3.jpg
-  name: '5'
+photos: []
 photos_dict:
   '1': 21D3B595-A55F-4AE8-877E-CF75A2EFF5ED-18639-00000904224E6654.jpg
   '2': 25AC6F99-08DF-4EF7-9604-98DE8D2D406C-36256-00001A34F67CAA2F.jpg
   '3': 9E26B0F2-A457-43EB-991D-CC4F05B6929F-36256-00001A3B08F21998.jpg
   '4': 383A85E8-0547-4BFA-80E2-4E352FA3BE2F-36256-00001A3D9C068914.jpg
   '5': 36A50B49-515E-4809-8666-F6F5EA18EEA8-36256-00001A9DBD83A9E3.jpg
+photos_filenames:
+- 21D3B595-A55F-4AE8-877E-CF75A2EFF5ED-18639-00000904224E6654.jpg
+- 25AC6F99-08DF-4EF7-9604-98DE8D2D406C-36256-00001A34F67CAA2F.jpg
+- 383A85E8-0547-4BFA-80E2-4E352FA3BE2F-36256-00001A3D9C068914.jpg
+- 9E26B0F2-A457-43EB-991D-CC4F05B6929F-36256-00001A3B08F21998.jpg
+- 36A50B49-515E-4809-8666-F6F5EA18EEA8-36256-00001A9DBD83A9E3.jpg
+photos_names:
+- '1'
+- '2'
+- '4'
+- '3'
+- '5'
 prep_time: null
 rating: 5
 servings: Yield 6 servings
+slug: garlic-braised-short-ribs-with-red-wine
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019034-garlic-braised-short-ribs-with-red-wine?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=9
 total_time: 4 hr 30 min

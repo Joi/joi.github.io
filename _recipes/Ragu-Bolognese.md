@@ -1,6 +1,6 @@
 ---
 title: "Ragú Bolognese"
-filename: "Ragu-Bolognese"
+filename: "ragu-bolognese"
 categories:
 - Pasta
 - Veal
@@ -57,13 +57,18 @@ meal_dates:
 - '2020-06-06'
 meal_types: '3'
 name: "Rag\xFA Bolognese"
+p_recipe_id: 8
+permalink: /recipes/ragu-bolognese
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: null
 rating: 5
 servings: 2 cups
+slug: ragu-bolognese
 source: Harry's Bar Cookbook
 source_url: null
 total_time: null

@@ -1,6 +1,6 @@
 ---
 title: "Oven-Steamed Fish with Scallions and Ginger"
-filename: "Oven-Steamed-Fish-with-Scallions-and-Ginger"
+filename: "oven-steamed-fish-with-scallions-and-ginger"
 categories:
 - Fish
 - White Fish
@@ -28,22 +28,27 @@ meal_dates:
 - '2021-02-02'
 meal_types: 3|3|3|3|3|3|3|3
 name: Oven-Steamed Fish with Scallions and Ginger
+p_recipe_id: 22
+permalink: /recipes/oven-steamed-fish-with-scallions-and-ginger
 photo: 271546C3-86D7-442B-90DF-5EFCF8FD5E94-11906-00000E2238349B30.jpg
 photo_large: CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg
-photos:
-- filename: 601ABC73-3E1A-4CFA-9AC4-580216E1FBD3-631-0001E571CAD8F15A.jpg
-  name: '1'
-- filename: CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg
-  name: '2'
-- filename: 23569CD4-BD0C-4DE8-9B31-397F4C56550B-11906-00000E22139D741F.jpg
-  name: '3'
+photos: []
 photos_dict:
   '1': 601ABC73-3E1A-4CFA-9AC4-580216E1FBD3-631-0001E571CAD8F15A.jpg
   '2': CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg
   '3': 23569CD4-BD0C-4DE8-9B31-397F4C56550B-11906-00000E22139D741F.jpg
+photos_filenames:
+- 601ABC73-3E1A-4CFA-9AC4-580216E1FBD3-631-0001E571CAD8F15A.jpg
+- 23569CD4-BD0C-4DE8-9B31-397F4C56550B-11906-00000E22139D741F.jpg
+- CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg
+photos_names:
+- '1'
+- '3'
+- '2'
 prep_time: ''
 rating: 5
 servings: Serves 4
+slug: oven-steamed-fish-with-scallions-and-ginger
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/11736-oven-steamed-fish-with-scallions-and-ginger
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "Salmon and Sorrel Sauce"
-filename: "Salmon-and-Sorrel-Sauce"
+filename: "salmon-and-sorrel-sauce"
 categories:
 - Salmon
 cook_time: ''
@@ -39,13 +39,18 @@ meal_dates:
 - '2020-04-18'
 meal_types: '3'
 name: Salmon and Sorrel Sauce
+p_recipe_id: 109
+permalink: /recipes/salmon-and-sorrel-sauce
 photo: 86BF2D33-509F-44C4-A8C4-BF405E2FB148-2334-00027235473507DB.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: ''
+slug: salmon-and-sorrel-sauce
 source: signaturedishes.net
 source_url: https://www.signaturedishes.net/recipes/salmon-sorrel-sauce.html
 total_time: ''

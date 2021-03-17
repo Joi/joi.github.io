@@ -1,6 +1,6 @@
 ---
 title: "Crispy Scallion Ginger Salmon"
-filename: "Crispy-Scallion-Ginger-Salmon"
+filename: "crispy-scallion-ginger-salmon"
 categories:
 - Salmon
 cook_time: ''
@@ -19,13 +19,18 @@ meal_dates:
 - '2020-10-20'
 meal_types: '3'
 name: Crispy Scallion Ginger Salmon
+p_recipe_id: 390
+permalink: /recipes/crispy-scallion-ginger-salmon
 photo: 4F294E9F-8B3C-4BD9-A6CF-24F1FA1FF44F-7512-0001E1EADD30A70D.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 10 minutes
 rating: 5
 servings: 'Serves: 4'
+slug: crispy-scallion-ginger-salmon
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/scallion-ginger-salmon/
 total_time: ''

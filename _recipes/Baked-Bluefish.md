@@ -1,6 +1,6 @@
 ---
 title: "Baked Bluefish"
-filename: "Baked-Bluefish"
+filename: "baked-bluefish"
 categories:
 - Blue Fish
 cook_time: 20 minutes
@@ -30,16 +30,21 @@ meal_dates:
 - '2020-06-05'
 meal_types: '3'
 name: Baked Bluefish
+p_recipe_id: 180
+permalink: /recipes/baked-bluefish
 photo: 399FA399-9E18-4673-AA98-EFBEC6EAE464-22544-0003EEF4F3310AB3.jpg
 photo_large: BEEE43D8-B04F-41B5-AA79-2A9D987CA240-22544-0003EEF32C138295.jpg
-photos:
-- filename: BEEE43D8-B04F-41B5-AA79-2A9D987CA240-22544-0003EEF32C138295.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': BEEE43D8-B04F-41B5-AA79-2A9D987CA240-22544-0003EEF32C138295.jpg
+photos_filenames:
+- BEEE43D8-B04F-41B5-AA79-2A9D987CA240-22544-0003EEF32C138295.jpg
+photos_names:
+- '1'
 prep_time: 10 minutes
 rating: 5
 servings: Serves 2 to 4
+slug: baked-bluefish
 source: simplyrecipes.com
 source_url: https://www.simplyrecipes.com/recipes/baked_bluefish/print/
 total_time: ''

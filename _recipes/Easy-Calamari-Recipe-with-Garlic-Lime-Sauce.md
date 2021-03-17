@@ -1,6 +1,6 @@
 ---
 title: "Easy Calamari Recipe with Garlic-Lime Sauce"
-filename: "Easy-Calamari-Recipe-with-Garlic-Lime-Sauce"
+filename: "easy-calamari-recipe-with-garlic-lime-sauce"
 categories:
 - Squid
 cook_time: 6 mins
@@ -30,13 +30,18 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Easy Calamari Recipe with Garlic-Lime Sauce
+p_recipe_id: 218
+permalink: /recipes/easy-calamari-recipe-with-garlic-lime-sauce
 photo: 82D62FC1-1FDA-4F39-898A-42B9E6CC0AE9-631-000061202E23EEEF.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 5 mins
 rating: 5
 servings: Serves 4
+slug: easy-calamari-recipe-with-garlic-lime-sauce
 source: themediterraneandish.com
 source_url: https://www.themediterraneandish.com/15-minute-calamari-recipe/
 total_time: ''

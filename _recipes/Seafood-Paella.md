@@ -1,6 +1,6 @@
 ---
 title: "Seafood Paella"
-filename: "Seafood-Paella"
+filename: "seafood-paella"
 categories:
 - Rice
 cook_time: 35 minutes
@@ -45,16 +45,21 @@ meal_dates:
 - '2020-12-08'
 meal_types: 3|3|3
 name: Seafood Paella
+p_recipe_id: 313
+permalink: /recipes/seafood-paella
 photo: 952654AD-25A9-4F20-A988-55D282F85668-1866-00001E8C5C65B9AB.jpg
 photo_large: 24008AAD-7AE7-4B70-B4A5-A83C0350CD9C-1866-00001E8A67100DD5.jpg
-photos:
-- filename: 24008AAD-7AE7-4B70-B4A5-A83C0350CD9C-1866-00001E8A67100DD5.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 24008AAD-7AE7-4B70-B4A5-A83C0350CD9C-1866-00001E8A67100DD5.jpg
+photos_filenames:
+- 24008AAD-7AE7-4B70-B4A5-A83C0350CD9C-1866-00001E8A67100DD5.jpg
+photos_names:
+- '1'
 prep_time: 30 minutes
 rating: 5
 servings: 'Yield: 6 servings'
+slug: seafood-paella
 source: simplyrecipes.com
 source_url: https://www.simplyrecipes.com/recipes/seafood_paella_on_the_grill/
 total_time: null

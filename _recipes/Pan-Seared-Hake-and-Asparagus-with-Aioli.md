@@ -1,6 +1,6 @@
 ---
 title: "Pan-Seared Hake and Asparagus with Aioli"
-filename: "Pan-Seared-Hake-and-Asparagus-with-Aioli"
+filename: "pan-seared-hake-and-asparagus-with-aioli"
 categories:
 - Fish
 - White Fish
@@ -26,19 +26,24 @@ meal_dates:
 - '2020-10-02'
 meal_types: 3|3|3|3
 name: Pan-Seared Hake and Asparagus with Aioli
+p_recipe_id: 131
+permalink: /recipes/pan-seared-hake-and-asparagus-with-aioli
 photo: EC5D654A-F6EC-4BE4-9463-BF410DFFD0BB-29546-000347B9A1D539FD.jpg
 photo_large: FD7FABCF-4368-4F3B-A5D4-A4CCB0F229F5-7488-0000033A67300EB9.jpg
-photos:
-- filename: FD7FABCF-4368-4F3B-A5D4-A4CCB0F229F5-7488-0000033A67300EB9.jpg
-  name: '1'
-- filename: 467DF55A-6792-436B-B46B-006192D96A58-22544-0003EE8B33DBB75A.jpg
-  name: '2'
+photos: []
 photos_dict:
   '1': FD7FABCF-4368-4F3B-A5D4-A4CCB0F229F5-7488-0000033A67300EB9.jpg
   '2': 467DF55A-6792-436B-B46B-006192D96A58-22544-0003EE8B33DBB75A.jpg
+photos_filenames:
+- FD7FABCF-4368-4F3B-A5D4-A4CCB0F229F5-7488-0000033A67300EB9.jpg
+- 467DF55A-6792-436B-B46B-006192D96A58-22544-0003EE8B33DBB75A.jpg
+photos_names:
+- '1'
+- '2'
 prep_time: ''
 rating: 5
 servings: Yield 4 servings
+slug: pan-seared-hake-and-asparagus-with-aioli
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019334-pan-seared-hake-and-asparagus-with-aioli?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
 total_time: ''

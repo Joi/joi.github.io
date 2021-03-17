@@ -1,6 +1,6 @@
 ---
 title: "Shiozake (Grilled Salted Salmon)"
-filename: "Shiozake-Grilled-Salted-Salmon"
+filename: "shiozake-grilled-salted-salmon"
 categories:
 - Salmon
 cook_time: ''
@@ -19,13 +19,18 @@ meal_dates:
 - '2020-06-12'
 meal_types: '3'
 name: Shiozake (Grilled Salted Salmon)
+p_recipe_id: 186
+permalink: /recipes/shiozake-grilled-salted-salmon
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: ''
+slug: shiozake-grilled-salted-salmon
 source: based on japanesecooking101.com
 source_url: https://www.japanesecooking101.com/shiozake-recipe/
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "Silky Ginger Sweet Potato Soup"
-filename: "Silky-Ginger-Sweet-Potato-Soup"
+filename: "silky-ginger-sweet-potato-soup"
 categories:
 - Sweet Potato
 cook_time: 1 hr
@@ -37,13 +37,18 @@ meal_dates:
 - '2020-07-02'
 meal_types: '3'
 name: Silky Ginger Sweet Potato Soup
+p_recipe_id: 220
+permalink: /recipes/silky-ginger-sweet-potato-soup
 photo: 9ABE349C-3599-43F8-875E-E4AC27B7BE8B-17048-000007FA1BD06D74.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: 'Yield: 4'
+slug: silky-ginger-sweet-potato-soup
 source: howsweeteats.com
 source_url: https://www.howsweeteats.com/2018/01/sweet-potato-soup-ginger/
 total_time: ''

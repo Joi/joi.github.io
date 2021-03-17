@@ -1,6 +1,6 @@
 ---
 title: "Tomato-Poached Halibut"
-filename: "Tomato-Poached-Halibut"
+filename: "tomato-poached-halibut"
 categories:
 - Halibut
 cook_time: 'prep/total time: 30 min.'
@@ -38,13 +38,18 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Tomato-Poached Halibut
+p_recipe_id: 297
+permalink: /recipes/tomato-poached-halibut
 photo: 47E1742C-CD93-431C-815D-77AB7BFA4E5D-2643-000000EA918D9E6B.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 15 min
 rating: 5
 servings: 4 servings
+slug: tomato-poached-halibut
 source: tasteofhome.com
 source_url: https://www.tasteofhome.com/recipes/tomato-poached-halibut/
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "Classic Caesar Salad"
-filename: "Classic-Caesar-Salad"
+filename: "classic-caesar-salad"
 categories:
 - Salad
 cook_time: ''
@@ -21,13 +21,18 @@ meal_dates:
 - '2021-01-02'
 meal_types: 3|3
 name: Classic Caesar Salad
+p_recipe_id: 302
+permalink: /recipes/classic-caesar-salad
 photo: 1047285C-5914-49E8-91B9-69F8F9418A50-1060-0002AF0977449E27.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: 6 servings
+slug: classic-caesar-salad
 source: bonappetit.com
 source_url: https://www.bonappetit.com/recipe/classic-caesar-salad
 total_time: ''

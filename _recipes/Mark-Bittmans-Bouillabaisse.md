@@ -1,6 +1,6 @@
 ---
 title: "Mark Bittman’s Bouillabaisse"
-filename: "Mark-Bittmans-Bouillabaisse"
+filename: "mark-bittmans-bouillabaisse"
 categories:
 - Clams
 - Fish
@@ -26,13 +26,18 @@ meal_dates:
 - '2020-10-09'
 meal_types: '3'
 name: "Mark Bittman\u2019s Bouillabaisse"
+p_recipe_id: 377
+permalink: /recipes/mark-bittmans-bouillabaisse
 photo: 29688DE2-C224-4976-B754-8C70DB62060F-79931-0001523B358A10DE.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings
+slug: mark-bittmans-bouillabaisse
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12637-mark-bittmans-bouillabaisse
 total_time: ''

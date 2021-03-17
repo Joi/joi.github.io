@@ -1,6 +1,6 @@
 ---
 title: "Hamburger Steak"
-filename: "Hamburger-Steak"
+filename: "hamburger-steak"
 categories:
 - Ground Beef
 cook_time: 10 minutes
@@ -41,16 +41,21 @@ meal_dates:
 - '2020-06-28'
 meal_types: '3'
 name: Hamburger Steak
+p_recipe_id: 207
+permalink: /recipes/hamburger-steak
 photo: F5C03072-3445-4B8B-BE4E-2B7306D4B19E-47978-0005E250C2B57D70.jpg
 photo_large: CC86E0C9-07E6-4CDE-BE93-1C071F05C359-47978-0005E2501AD4B281.jpg
-photos:
-- filename: CC86E0C9-07E6-4CDE-BE93-1C071F05C359-47978-0005E2501AD4B281.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': CC86E0C9-07E6-4CDE-BE93-1C071F05C359-47978-0005E2501AD4B281.jpg
+photos_filenames:
+- CC86E0C9-07E6-4CDE-BE93-1C071F05C359-47978-0005E2501AD4B281.jpg
+photos_names:
+- '1'
 prep_time: 15 minutes
 rating: 5
 servings: 'Yield: 8 steaks'
+slug: hamburger-steak
 source: japanesecooking101.com
 source_url: https://www.japanesecooking101.com/hamburger-steak-recipe/
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "KING OYSTER MUSHROOM WITH GARLIC SAUCE"
-filename: "KING-OYSTER-MUSHROOM-WITH-GARLIC-SAUCE"
+filename: "king-oyster-mushroom-with-garlic-sauce"
 categories:
 - Mushroom
 cook_time: 3 minutes
@@ -21,19 +21,24 @@ meal_dates:
 - '2021-01-24'
 meal_types: 3|2
 name: KING OYSTER MUSHROOM WITH GARLIC SAUCE
+p_recipe_id: 391
+permalink: /recipes/king-oyster-mushroom-with-garlic-sauce
 photo: FE633B30-7AF9-4F17-9E99-95F3349DAE2B-36256-00001A651852F2E7.jpg
 photo_large: F874CBF7-4E41-41AE-8762-911AAEC5D1FF-36256-00001A650FCA8705.jpg
-photos:
-- filename: 68F703E9-1FD7-43A4-B518-39BF8547E678-36256-00001A5B16CD32BA.jpg
-  name: '1'
-- filename: F874CBF7-4E41-41AE-8762-911AAEC5D1FF-36256-00001A650FCA8705.jpg
-  name: '2'
+photos: []
 photos_dict:
   '1': 68F703E9-1FD7-43A4-B518-39BF8547E678-36256-00001A5B16CD32BA.jpg
   '2': F874CBF7-4E41-41AE-8762-911AAEC5D1FF-36256-00001A650FCA8705.jpg
+photos_filenames:
+- 68F703E9-1FD7-43A4-B518-39BF8547E678-36256-00001A5B16CD32BA.jpg
+- F874CBF7-4E41-41AE-8762-911AAEC5D1FF-36256-00001A650FCA8705.jpg
+photos_names:
+- '1'
+- '2'
 prep_time: 5 minutes
 rating: 5
 servings: 'Calories: 240kcal'
+slug: king-oyster-mushroom-with-garlic-sauce
 source: redhousespice.com
 source_url: https://redhousespice.com/king-oyster-mushroom-garlic-sauce/
 total_time: ''

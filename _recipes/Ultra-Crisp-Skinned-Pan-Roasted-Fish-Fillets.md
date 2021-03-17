@@ -1,6 +1,6 @@
 ---
 title: "Ultra-Crisp-Skinned Pan-Roasted Fish Fillets"
-filename: "Ultra-Crisp-Skinned-Pan-Roasted-Fish-Fillets"
+filename: "ultra-crisp-skinned-pan-roasted-fish-fillets"
 categories:
 - Salmon
 - Halibut
@@ -17,13 +17,18 @@ meal_dates:
 - '2020-07-07'
 meal_types: '3'
 name: Ultra-Crisp-Skinned Pan-Roasted Fish Fillets
+p_recipe_id: 236
+permalink: /recipes/ultra-crisp-skinned-pan-roasted-fish-fillets
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: '4'
+slug: ultra-crisp-skinned-pan-roasted-fish-fillets
 source: Food Lab
 source_url: null
 total_time: ''

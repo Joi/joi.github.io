@@ -1,6 +1,6 @@
 ---
 title: "Pita Bread"
-filename: "Pita-Bread"
+filename: "pita-bread"
 categories:
 - Bread and Biscuits
 cook_time: 2h
@@ -17,13 +17,18 @@ meal_dates:
 - '2020-05-30'
 meal_types: 2|4
 name: Pita Bread
+p_recipe_id: 103
+permalink: /recipes/pita-bread
 photo: 9A7D7EE4-7336-4518-BADE-B6CEEFC46D35-53878-00004CF254FB6333.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 20min
 rating: 5
 servings: 8 pieces
+slug: pita-bread
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r91285
 total_time: ''

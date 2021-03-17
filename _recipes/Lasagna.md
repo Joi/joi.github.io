@@ -1,6 +1,6 @@
 ---
 title: "Lasagna"
-filename: "Lasagna"
+filename: "lasagna"
 categories:
 - Pasta
 cook_time: ''
@@ -23,19 +23,24 @@ meal_dates:
 - '2020-09-05'
 meal_types: '3'
 name: Lasagna
+p_recipe_id: 338
+permalink: /recipes/lasagna
 photo: A738C184-D910-47BB-8B63-0688F47B2CA8-50715-0006E3A5B4A3BDE7.jpg
 photo_large: B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg
-photos:
-- filename: 0B078906-6297-4532-B14C-F04BABC90416-50715-0006E3A5256FFC07.jpg
-  name: '01'
-- filename: B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg
-  name: '02'
+photos: []
 photos_dict:
   '01': 0B078906-6297-4532-B14C-F04BABC90416-50715-0006E3A5256FFC07.jpg
   '02': B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg
+photos_filenames:
+- B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg
+- 0B078906-6297-4532-B14C-F04BABC90416-50715-0006E3A5256FFC07.jpg
+photos_names:
+- '02'
+- '01'
 prep_time: ''
 rating: 5
 servings: '6'
+slug: lasagna
 source: null
 source_url: null
 total_time: ''

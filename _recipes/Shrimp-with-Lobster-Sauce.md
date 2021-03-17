@@ -1,6 +1,6 @@
 ---
 title: "Shrimp with Lobster Sauce"
-filename: "Shrimp-with-Lobster-Sauce"
+filename: "shrimp-with-lobster-sauce"
 categories:
 - Shrimp
 cook_time: 10 mins
@@ -41,16 +41,21 @@ meal_dates:
 - '2020-08-29'
 meal_types: '3'
 name: Shrimp with Lobster Sauce
+p_recipe_id: 320
+permalink: /recipes/shrimp-with-lobster-sauce
 photo: 9040346D-6527-4E57-8014-DA3E67EBA953-13002-0005936120398C25.jpg
 photo_large: D930BA34-6DA1-419F-9535-6D44EE6D3B74-13002-0005935F06F8FE7F.jpg
-photos:
-- filename: D930BA34-6DA1-419F-9535-6D44EE6D3B74-13002-0005935F06F8FE7F.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': D930BA34-6DA1-419F-9535-6D44EE6D3B74-13002-0005935F06F8FE7F.jpg
+photos_filenames:
+- D930BA34-6DA1-419F-9535-6D44EE6D3B74-13002-0005935F06F8FE7F.jpg
+photos_names:
+- '1'
 prep_time: 10 mins
 rating: 5
 servings: ''
+slug: shrimp-with-lobster-sauce
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/shrimp-lobster-sauce/
 total_time: ''

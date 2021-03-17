@@ -1,6 +1,6 @@
 ---
 title: "Braised Chicken Tikka Masala"
-filename: "Braised-Chicken-Tikka-Masala"
+filename: "braised-chicken-tikka-masala"
 categories:
 - Chicken
 - Curry
@@ -30,21 +30,11 @@ meal_dates:
 - '2021-02-04'
 meal_types: '3'
 name: Braised Chicken Tikka Masala
+p_recipe_id: 448
+permalink: /recipes/braised-chicken-tikka-masala
 photo: B77A007F-371B-491E-8599-B3290EEEE89A-26383-0001C3C3637BDDF9.jpg
 photo_large: B04139C8-D6A5-4C26-8F80-FF0B29758812-415-00000263F32582B7.jpg
-photos:
-- filename: 132A54AF-6B66-47A0-A210-10B7D8D35D7D-1700-00007F7D9B398BE4.jpg
-  name: '1'
-- filename: 92FE3DF5-3FA1-4CD8-9017-CCED5175EA01-415-0000024726610296.jpg
-  name: '2'
-- filename: C48FC691-478B-4D11-ACF4-DEDEC9471150-415-0000024EC92D5DD2.jpg
-  name: '3'
-- filename: 5B038DFF-B6C7-4292-898A-1A9CC71D817B-415-00000255D10E098A.jpg
-  name: '4'
-- filename: 2FCD1573-1DEF-47D7-BC46-676BE349EBC9-415-00000255DCEB0F57.jpg
-  name: '5'
-- filename: B04139C8-D6A5-4C26-8F80-FF0B29758812-415-00000263F32582B7.jpg
-  name: '6'
+photos: []
 photos_dict:
   '1': 132A54AF-6B66-47A0-A210-10B7D8D35D7D-1700-00007F7D9B398BE4.jpg
   '2': 92FE3DF5-3FA1-4CD8-9017-CCED5175EA01-415-0000024726610296.jpg
@@ -52,9 +42,24 @@ photos_dict:
   '4': 5B038DFF-B6C7-4292-898A-1A9CC71D817B-415-00000255D10E098A.jpg
   '5': 2FCD1573-1DEF-47D7-BC46-676BE349EBC9-415-00000255DCEB0F57.jpg
   '6': B04139C8-D6A5-4C26-8F80-FF0B29758812-415-00000263F32582B7.jpg
+photos_filenames:
+- 132A54AF-6B66-47A0-A210-10B7D8D35D7D-1700-00007F7D9B398BE4.jpg
+- 92FE3DF5-3FA1-4CD8-9017-CCED5175EA01-415-0000024726610296.jpg
+- C48FC691-478B-4D11-ACF4-DEDEC9471150-415-0000024EC92D5DD2.jpg
+- 2FCD1573-1DEF-47D7-BC46-676BE349EBC9-415-00000255DCEB0F57.jpg
+- 5B038DFF-B6C7-4292-898A-1A9CC71D817B-415-00000255D10E098A.jpg
+- B04139C8-D6A5-4C26-8F80-FF0B29758812-415-00000263F32582B7.jpg
+photos_names:
+- '1'
+- '2'
+- '3'
+- '5'
+- '4'
+- '6'
 prep_time: 15 mins
 rating: 5
 servings: 'Serves: - 6 people'
+slug: braised-chicken-tikka-masala
 source: null
 source_url: null
 total_time: ''
@@ -71,7 +76,7 @@ uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5
 <li>1 cup plain yogurt</li>
 <li>1 ½ Tbsp minced garlic</li>
 <li>1 Tbsp ginger</li>
-<li>2 tsp [[Garam-Masala|Garam Masala]]</li>
+<li>2 tsp [[garam-masala|Garam Masala]]</li>
 <li>1 tsp turmeric</li>
 <li>1 tsp ground cumin</li>
 <li>1 tsp Kashmiri chili (or ½ tsp ground red chili powder)</li>
@@ -82,7 +87,7 @@ uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5
 <li>2 small onions (or 1 large onion) finely diced</li>
 <li>1 ½Tbsp garlic finely grated</li>
 <li>1 Tbsp ginger finely grated</li>
-<li>1 ½ tsp [[Garam-Masala|Garam Masala]]</li>
+<li>1 ½ tsp [[garam-masala|Garam Masala]]</li>
 <li>1 ½ tsp ground cumin</li>
 <li>1 tsp turmeric powder</li>
 <li>1 tsp ground coriander</li>

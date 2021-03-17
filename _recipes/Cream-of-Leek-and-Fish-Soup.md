@@ -1,6 +1,6 @@
 ---
 title: "Cream of Leek and Fish Soup"
-filename: "Cream-of-Leek-and-Fish-Soup"
+filename: "cream-of-leek-and-fish-soup"
 categories:
 - Seafood
 - Soup
@@ -34,13 +34,18 @@ meal_dates:
 - '2020-09-23'
 meal_types: '3'
 name: Cream of Leek and Fish Soup
+p_recipe_id: 368
+permalink: /recipes/cream-of-leek-and-fish-soup
 photo: C962CA2C-893F-47AB-B4AB-E36E6F25EBBC-17729-00000957EC5B4493.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 35 min
 rating: 5
 servings: 4 serving(s)
+slug: cream-of-leek-and-fish-soup
 source: ricardocuisine.com
 source_url: https://www.ricardocuisine.com/en/recipes/6993-cream-of-leek-and-fish-soup
 total_time: ''

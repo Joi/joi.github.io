@@ -1,6 +1,6 @@
 ---
 title: "Sous Vide Sausage"
-filename: "Sous-Vide-Sausage"
+filename: "sous-vide-sausage"
 categories:
 - Sausage
 cook_time: ''
@@ -23,13 +23,18 @@ meal_dates:
 - '2020-07-04'
 meal_types: '3'
 name: Sous Vide Sausage
+p_recipe_id: 229
+permalink: /recipes/sous-vide-sausage
 photo: C4B39337-CDA1-451C-B1F8-2FC911828754-631-00014E3BCE86958A.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 45 min
 rating: 5
 servings: Ingredients for 2
+slug: sous-vide-sausage
 source: recipes.anovaculinary.com
 source_url: https://recipes.anovaculinary.com/recipe/sous-vide-sausage
 total_time: 45 min

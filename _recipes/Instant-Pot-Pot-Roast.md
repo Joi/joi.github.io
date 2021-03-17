@@ -1,6 +1,6 @@
 ---
 title: "Instant Pot Pot Roast"
-filename: "Instant-Pot-Pot-Roast"
+filename: "instant-pot-pot-roast"
 categories:
 - Beef
 cook_time: 2 hours
@@ -22,13 +22,18 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Instant Pot Pot Roast
+p_recipe_id: 125
+permalink: /recipes/instant-pot-pot-roast
 photo: 04F32423-3803-4827-A69C-013C08401320-89150-0001DFF72CBB4D92.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: 'Servings: 4'
+slug: instant-pot-pot-roast
 source: pressurecookrecipes.com
 source_url: https://www.pressurecookrecipes.com/instant-pot-pot-roast/
 total_time: ''

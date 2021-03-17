@@ -1,6 +1,6 @@
 ---
 title: "Tuna Tataki with Lime, Ginger and Jalapeño"
-filename: "Tuna-Tataki-with-Lime-Ginger-and-Jalapeno"
+filename: "tuna-tataki-with-lime-ginger-and-jalapeno"
 categories:
 - Tuna
 - _mine
@@ -25,25 +25,30 @@ meal_dates:
 - '2021-03-02'
 meal_types: 3|3|3|3|3|3|3
 name: "Tuna Tataki with Lime, Ginger and Jalape\xF1o"
+p_recipe_id: 354
+permalink: /recipes/tuna-tataki-with-lime-ginger-and-jalapeno
 photo: AEBC1500-7EFB-4D30-AA19-92E5C5ED3F52-39232-0000E032992D0652.jpg
 photo_large: 0E660FA2-3314-40BB-AED4-FB2E0368277E-39232-0000E02DBC102900.jpg
-photos:
-- filename: 563B4723-B02D-405E-A02D-0394C4D8CF48-39232-0000E02CB9F36F57.jpg
-  name: '1'
-- filename: 0E660FA2-3314-40BB-AED4-FB2E0368277E-39232-0000E02DBC102900.jpg
-  name: '2'
-- filename: FBF50E32-398F-4910-9D08-3C5D1B00D082-39232-0000E02F875271AB.jpg
-  name: '3'
-- filename: 93CBAB55-A2DD-478E-8E15-D6816BA181C3-39232-0000E03055A469B9.jpg
-  name: '4'
+photos: []
 photos_dict:
   '1': 563B4723-B02D-405E-A02D-0394C4D8CF48-39232-0000E02CB9F36F57.jpg
   '2': 0E660FA2-3314-40BB-AED4-FB2E0368277E-39232-0000E02DBC102900.jpg
   '3': FBF50E32-398F-4910-9D08-3C5D1B00D082-39232-0000E02F875271AB.jpg
   '4': 93CBAB55-A2DD-478E-8E15-D6816BA181C3-39232-0000E03055A469B9.jpg
+photos_filenames:
+- 563B4723-B02D-405E-A02D-0394C4D8CF48-39232-0000E02CB9F36F57.jpg
+- 0E660FA2-3314-40BB-AED4-FB2E0368277E-39232-0000E02DBC102900.jpg
+- 93CBAB55-A2DD-478E-8E15-D6816BA181C3-39232-0000E03055A469B9.jpg
+- FBF50E32-398F-4910-9D08-3C5D1B00D082-39232-0000E02F875271AB.jpg
+photos_names:
+- '1'
+- '2'
+- '4'
+- '3'
 prep_time: ''
 rating: 5
 servings: 'Yield: 1 serving'
+slug: tuna-tataki-with-lime-ginger-and-jalapeno
 source: null
 source_url: null
 total_time: ''

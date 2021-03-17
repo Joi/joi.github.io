@@ -1,6 +1,6 @@
 ---
 title: "Easy Grilled Salmon"
-filename: "Easy-Grilled-Salmon"
+filename: "easy-grilled-salmon"
 categories:
 - Salmon
 cook_time: 10 minutes
@@ -77,13 +77,18 @@ meal_dates:
 - '2020-08-11'
 meal_types: 3|3
 name: Easy Grilled Salmon
+p_recipe_id: 194
+permalink: /recipes/easy-grilled-salmon
 photo: 4D8EED01-028B-45F1-A20D-51576002DA9A-1358-0002214023C94B58.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 15 minutes
 rating: 5
 servings: ''
+slug: easy-grilled-salmon
 source: simplyrecipes.com
 source_url: https://www.simplyrecipes.com/recipes/easy_grilled_salmon/
 total_time: ''

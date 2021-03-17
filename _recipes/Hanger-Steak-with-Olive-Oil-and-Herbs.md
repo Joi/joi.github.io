@@ -1,6 +1,6 @@
 ---
 title: "Hanger Steak with Olive Oil and Herbs"
-filename: "Hanger-Steak-with-Olive-Oil-and-Herbs"
+filename: "hanger-steak-with-olive-oil-and-herbs"
 categories:
 - Steaks
 cook_time: 20 minutes
@@ -20,16 +20,21 @@ meal_dates:
 - '2020-09-26'
 meal_types: 3|3
 name: Hanger Steak with Olive Oil and Herbs
+p_recipe_id: 137
+permalink: /recipes/hanger-steak-with-olive-oil-and-herbs
 photo: 39E9C8F4-B11E-4CF4-AB51-8B841250B6EA-14694-0000501D508C01D4.jpg
 photo_large: 6FFDBCB9-3F7E-4B26-ACDE-9F7EC12AE18D-14694-00005015BF597FBF.jpg
-photos:
-- filename: 6FFDBCB9-3F7E-4B26-ACDE-9F7EC12AE18D-14694-00005015BF597FBF.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 6FFDBCB9-3F7E-4B26-ACDE-9F7EC12AE18D-14694-00005015BF597FBF.jpg
+photos_filenames:
+- 6FFDBCB9-3F7E-4B26-ACDE-9F7EC12AE18D-14694-00005015BF597FBF.jpg
+photos_names:
+- '1'
 prep_time: ''
 rating: 5
 servings: Yield 2 servings
+slug: hanger-steak-with-olive-oil-and-herbs
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/8451-hanger-steak-with-olive-oil-and-herbs
 total_time: ''

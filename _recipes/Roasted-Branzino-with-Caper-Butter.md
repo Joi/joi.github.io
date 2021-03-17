@@ -1,6 +1,6 @@
 ---
 title: "Roasted Branzino with Caper Butter"
-filename: "Roasted-Branzino-with-Caper-Butter"
+filename: "roasted-branzino-with-caper-butter"
 categories:
 - Branzino
 cook_time: 40 mins
@@ -34,22 +34,27 @@ meal_dates:
 - '2021-02-13'
 meal_types: 3|3|3|3
 name: Roasted Branzino with Caper Butter
+p_recipe_id: 417
+permalink: /recipes/roasted-branzino-with-caper-butter
 photo: 6D9BF66C-7EFC-4AEE-9A81-942B783D6F50-11471-00000947882FD918.jpg
 photo_large: 681AC837-C3C3-4F73-B541-87143368AC58-11471-000009476739C86F.jpg
-photos:
-- filename: 681AC837-C3C3-4F73-B541-87143368AC58-11471-000009476739C86F.jpg
-  name: '1'
-- filename: 7843F783-FC31-4E0B-910F-BA4536C23690-11471-00000947771732F2.jpg
-  name: '2'
-- filename: A921771C-9944-4575-90A2-D54C4E736026-11471-0000094784455D91.jpg
-  name: '3'
+photos: []
 photos_dict:
   '1': 681AC837-C3C3-4F73-B541-87143368AC58-11471-000009476739C86F.jpg
   '2': 7843F783-FC31-4E0B-910F-BA4536C23690-11471-00000947771732F2.jpg
   '3': A921771C-9944-4575-90A2-D54C4E736026-11471-0000094784455D91.jpg
+photos_filenames:
+- 7843F783-FC31-4E0B-910F-BA4536C23690-11471-00000947771732F2.jpg
+- 681AC837-C3C3-4F73-B541-87143368AC58-11471-000009476739C86F.jpg
+- A921771C-9944-4575-90A2-D54C4E736026-11471-0000094784455D91.jpg
+photos_names:
+- '2'
+- '1'
+- '3'
 prep_time: 25 mins
 rating: 5
 servings: 'Yield: 8'
+slug: roasted-branzino-with-caper-butter
 source: foodandwine.com
 source_url: https://www.foodandwine.com/recipes/roasted-branzino-caper-butter
 total_time: null

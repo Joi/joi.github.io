@@ -1,6 +1,6 @@
 ---
 title: "Curry Powder"
-filename: "Curry-Powder"
+filename: "curry-powder"
 categories:
 - Curry
 - Seasoning
@@ -17,16 +17,21 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Curry Powder
+p_recipe_id: 449
+permalink: /recipes/curry-powder
 photo: 1EB1B451-308B-49C1-B277-83E5AA277EE0-4181-0001E2777FE69309.jpg
 photo_large: A11F7F03-B770-4019-9A26-AF1B2931D454-4181-0001E276D00B9041.jpg
-photos:
-- filename: A11F7F03-B770-4019-9A26-AF1B2931D454-4181-0001E276D00B9041.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': A11F7F03-B770-4019-9A26-AF1B2931D454-4181-0001E276D00B9041.jpg
+photos_filenames:
+- A11F7F03-B770-4019-9A26-AF1B2931D454-4181-0001E276D00B9041.jpg
+photos_names:
+- '1'
 prep_time: null
 rating: 5
 servings: null
+slug: curry-powder
 source: null
 source_url: null
 total_time: null

@@ -1,6 +1,6 @@
 ---
 title: "Homemade Ponzu Sauce Recipe"
-filename: "Homemade-Ponzu-Sauce-Recipe"
+filename: "homemade-ponzu-sauce-recipe"
 categories:
 - Sauce
 cook_time: ''
@@ -18,13 +18,18 @@ meal_dates:
 - '2020-06-26'
 meal_types: '4'
 name: Homemade Ponzu Sauce Recipe
+p_recipe_id: 205
+permalink: /recipes/homemade-ponzu-sauce-recipe
 photo: 40E40D8B-493D-4408-A988-16118AC6B783-533-0000001E229E5A6E.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 5 mins
 rating: 5
 servings: 'Servings: 1 cup'
+slug: homemade-ponzu-sauce-recipe
 source: justonecookbook.com
 source_url: https://www.justonecookbook.com/ponzu-sauce/
 total_time: ''

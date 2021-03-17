@@ -1,6 +1,6 @@
 ---
 title: "Braised Lamb with Red Wine and Prunes"
-filename: "Braised-Lamb-with-Red-Wine-and-Prunes"
+filename: "braised-lamb-with-red-wine-and-prunes"
 categories:
 - Lamb
 cook_time: 2 hours 30 minutes
@@ -17,19 +17,24 @@ meal_dates:
 - '2020-05-16'
 meal_types: '3'
 name: Braised Lamb with Red Wine and Prunes
+p_recipe_id: 147
+permalink: /recipes/braised-lamb-with-red-wine-and-prunes
 photo: 0541AC85-A828-48A8-9504-243EC1B2AA4E-29546-0000D713AB6D770C.jpg
 photo_large: 1F52A9C3-7EB1-4290-978D-52C636543B12-29546-0000D7106908C545.jpg
-photos:
-- filename: 1F52A9C3-7EB1-4290-978D-52C636543B12-29546-0000D7106908C545.jpg
-  name: '1'
-- filename: 7C95DFE5-D646-43DD-A6F4-52F204AE7FC8-29546-0000D711639552FE.jpg
-  name: '2'
+photos: []
 photos_dict:
   '1': 1F52A9C3-7EB1-4290-978D-52C636543B12-29546-0000D7106908C545.jpg
   '2': 7C95DFE5-D646-43DD-A6F4-52F204AE7FC8-29546-0000D711639552FE.jpg
+photos_filenames:
+- 7C95DFE5-D646-43DD-A6F4-52F204AE7FC8-29546-0000D711639552FE.jpg
+- 1F52A9C3-7EB1-4290-978D-52C636543B12-29546-0000D7106908C545.jpg
+photos_names:
+- '2'
+- '1'
 prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings
+slug: braised-lamb-with-red-wine-and-prunes
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1015744-braised-lamb-with-red-wine-and-prunes?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=19
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "Four-Spice Salmon"
-filename: "Four-Spice-Salmon"
+filename: "four-spice-salmon"
 categories:
 - Fish
 - Salmon
@@ -20,16 +20,21 @@ meal_dates:
 - '2020-07-17'
 meal_types: 3|3
 name: Four-Spice Salmon
+p_recipe_id: 57
+permalink: /recipes/four-spice-salmon
 photo: C343B34F-5A16-4397-AEE6-7394A4475055-29546-000347A112A37A95.jpg
 photo_large: 4D14DE40-8AFD-47FF-8348-EC1688A6DC9C-29546-0003479E4ABED064.jpg
-photos:
-- filename: 4D14DE40-8AFD-47FF-8348-EC1688A6DC9C-29546-0003479E4ABED064.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 4D14DE40-8AFD-47FF-8348-EC1688A6DC9C-29546-0003479E4ABED064.jpg
+photos_filenames:
+- 4D14DE40-8AFD-47FF-8348-EC1688A6DC9C-29546-0003479E4ABED064.jpg
+photos_names:
+- '1'
 prep_time: ''
 rating: 5
 servings: Yield 4 servings
+slug: four-spice-salmon
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1014578-four-spice-salmon?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=11
 total_time: ''

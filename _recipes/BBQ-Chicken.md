@@ -1,6 +1,6 @@
 ---
 title: "BBQ Chicken"
-filename: "BBQ-Chicken"
+filename: "bbq-chicken"
 categories:
 - Chicken
 - _mine
@@ -27,19 +27,24 @@ meal_dates:
 - '2020-09-06'
 meal_types: '3'
 name: BBQ Chicken
+p_recipe_id: 341
+permalink: /recipes/bbq-chicken
 photo: 461780EB-E4B6-44A8-AE23-762E3FB2D02B-13411-00000962172396CD.jpg
 photo_large: 8CFA0C82-D0C4-4F26-ABBF-441CB2444555-13411-00000961FEA8CB38.jpg
-photos:
-- filename: F0996122-7C1C-42E7-95B6-D6056823E31A-13411-0000096209DEE383.jpg
-  name: '01'
-- filename: 8CFA0C82-D0C4-4F26-ABBF-441CB2444555-13411-00000961FEA8CB38.jpg
-  name: '02'
+photos: []
 photos_dict:
   '01': F0996122-7C1C-42E7-95B6-D6056823E31A-13411-0000096209DEE383.jpg
   '02': 8CFA0C82-D0C4-4F26-ABBF-441CB2444555-13411-00000961FEA8CB38.jpg
+photos_filenames:
+- F0996122-7C1C-42E7-95B6-D6056823E31A-13411-0000096209DEE383.jpg
+- 8CFA0C82-D0C4-4F26-ABBF-441CB2444555-13411-00000961FEA8CB38.jpg
+photos_names:
+- '01'
+- '02'
 prep_time: ''
 rating: 5
 servings: ''
+slug: bbq-chicken
 source: null
 source_url: null
 total_time: ''

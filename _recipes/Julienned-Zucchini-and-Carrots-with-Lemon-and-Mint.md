@@ -1,6 +1,6 @@
 ---
 title: "Julienned Zucchini and Carrots with Lemon and Mint"
-filename: "Julienned-Zucchini-and-Carrots-with-Lemon-and-Mint"
+filename: "julienned-zucchini-and-carrots-with-lemon-and-mint"
 categories:
 - Zucchini
 cook_time: ''
@@ -17,13 +17,18 @@ meal_dates:
 - '2020-07-30'
 meal_types: '3'
 name: Julienned Zucchini and Carrots with Lemon and Mint
+p_recipe_id: 280
+permalink: /recipes/julienned-zucchini-and-carrots-with-lemon-and-mint
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: '4'
+slug: julienned-zucchini-and-carrots-with-lemon-and-mint
 source: null
 source_url: null
 total_time: ''

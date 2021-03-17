@@ -1,6 +1,6 @@
 ---
 title: "Butter Roll"
-filename: "Butter-Roll"
+filename: "butter-roll"
 categories:
 - Bread and Biscuits
 cook_time: ''
@@ -17,16 +17,21 @@ meal_dates:
 - '2020-05-16'
 meal_types: '4'
 name: Butter Roll
+p_recipe_id: 164
+permalink: /recipes/butter-roll
 photo: F522063A-4155-42FD-AA39-494F5BD29F02-29546-0000D70B3D18819C.jpg
 photo_large: 9FFABAB3-E2FB-4006-8415-534BFECC1E42-29546-0000D704AED7E5DB.jpg
-photos:
-- filename: 9FFABAB3-E2FB-4006-8415-534BFECC1E42-29546-0000D704AED7E5DB.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 9FFABAB3-E2FB-4006-8415-534BFECC1E42-29546-0000D704AED7E5DB.jpg
+photos_filenames:
+- 9FFABAB3-E2FB-4006-8415-534BFECC1E42-29546-0000D704AED7E5DB.jpg
+photos_names:
+- '1'
 prep_time: '1'
 rating: 5
 servings: ''
+slug: butter-roll
 source: tomiz.com
 source_url: https://tomiz.com/recipe/pro/detail/9521
 total_time: ''

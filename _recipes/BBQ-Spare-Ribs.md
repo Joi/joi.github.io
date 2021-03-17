@@ -1,6 +1,6 @@
 ---
 title: "BBQ Spare Ribs"
-filename: "BBQ-Spare-Ribs"
+filename: "bbq-spare-ribs"
 categories:
 - Pork Spare Ribs
 cook_time: ''
@@ -18,16 +18,21 @@ meal_dates:
 - '2021-01-17'
 meal_types: '3'
 name: BBQ Spare Ribs
+p_recipe_id: 349
+permalink: /recipes/bbq-spare-ribs
 photo: F497AAEF-7534-4B02-B7E1-D292B9A9D9F4-50715-00081F5AF19CF83E.jpg
 photo_large: E766C562-5EBC-4C39-A1B6-41EB6963081B-50715-00081F5A55BD3B82.jpg
-photos:
-- filename: E766C562-5EBC-4C39-A1B6-41EB6963081B-50715-00081F5A55BD3B82.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': E766C562-5EBC-4C39-A1B6-41EB6963081B-50715-00081F5A55BD3B82.jpg
+photos_filenames:
+- E766C562-5EBC-4C39-A1B6-41EB6963081B-50715-00081F5A55BD3B82.jpg
+photos_names:
+- '1'
 prep_time: ''
 rating: 5
 servings: ''
+slug: bbq-spare-ribs
 source: null
 source_url: null
 total_time: ''

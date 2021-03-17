@@ -1,6 +1,6 @@
 ---
 title: "Braised Lamb Shanks"
-filename: "Braised-Lamb-Shanks"
+filename: "braised-lamb-shanks"
 categories:
 - Lamb
 cook_time: 3 hrs
@@ -46,13 +46,18 @@ meal_dates:
 - '2020-12-03'
 meal_types: '3'
 name: Braised Lamb Shanks
+p_recipe_id: 423
+permalink: /recipes/braised-lamb-shanks
 photo: CB70421F-5016-4858-8745-F747D606F8BC-12026-0000D9101C53110B.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 20 mins
 rating: 5
 servings: ''
+slug: braised-lamb-shanks
 source: cafedelites.com
 source_url: https://cafedelites.com/lamb-shanks/
 total_time: ''

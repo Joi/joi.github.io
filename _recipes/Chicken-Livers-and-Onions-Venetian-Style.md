@@ -1,6 +1,6 @@
 ---
 title: "Chicken Livers and Onions, Venetian Style"
-filename: "Chicken-Livers-and-Onions-Venetian-Style"
+filename: "chicken-livers-and-onions-venetian-style"
 categories:
 - Chicken
 cook_time: 45 minutes
@@ -19,13 +19,18 @@ meal_dates:
 - '2021-01-18'
 meal_types: 3|2
 name: Chicken Livers and Onions, Venetian Style
+p_recipe_id: 373
+permalink: /recipes/chicken-livers-and-onions-venetian-style
 photo: 3CE36D67-FE5B-4702-8BDD-65FAD29EFCC7-50715-000DDC04A6AABB3E.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings
+slug: chicken-livers-and-onions-venetian-style
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/3702-chicken-livers-and-onions-venetian-style
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "Marie Rose Sauce"
-filename: "Marie-Rose-Sauce"
+filename: "marie-rose-sauce"
 categories:
 - Shrimp
 - Crab
@@ -19,13 +19,18 @@ meal_dates:
 - '2021-01-22'
 meal_types: '3'
 name: Marie Rose Sauce
+p_recipe_id: 458
+permalink: /recipes/marie-rose-sauce
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: ''
+slug: marie-rose-sauce
 source: null
 source_url: null
 total_time: ''
@@ -37,7 +42,7 @@ uid: B6713303-47E6-4EC6-B28A-A94F33DE95C9-31488-00001728BCEAC9EC
 </div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>⅔ cup of fresh [[Mayonnaise|Mayonnaise]]</li>
+<li>⅔ cup of fresh [[mayonnaise|Mayonnaise]]</li>
 <li>1 Tbsp ketchup</li>
 <li>1 tsp Worcestershire sauce</li>
 <li>1 tsp freshly grated horseradish or wasabi</li>

@@ -1,6 +1,6 @@
 ---
 title: "Rishia Zimmern’s Chicken with Shallots"
-filename: "Rishia-Zimmerns-Chicken-with-Shallots"
+filename: "rishia-zimmerns-chicken-with-shallots"
 categories:
 - Chicken
 - Meat
@@ -36,16 +36,21 @@ meal_dates:
 - '2021-03-11'
 meal_types: 3|3|3
 name: "Rishia Zimmern\u2019s Chicken with Shallots"
+p_recipe_id: 15
+permalink: /recipes/rishia-zimmerns-chicken-with-shallots
 photo: 0D9ADA44-9A27-4604-8E5C-803C35475EE4-22544-0003EE9BCDA6FBC4.jpg
 photo_large: 624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg
-photos:
-- filename: 624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg
+photos_filenames:
+- 624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg
+photos_names:
+- '1'
 prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings
+slug: rishia-zimmerns-chicken-with-shallots
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1016135-rishia-zimmerns-chicken-with-shallots?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
 total_time: ''

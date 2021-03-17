@@ -1,6 +1,6 @@
 ---
 title: "Fajitas"
-filename: "Fajitas"
+filename: "fajitas"
 categories:
 - Flat Iron
 cook_time: null
@@ -25,22 +25,27 @@ meal_dates:
 - '2020-08-19'
 meal_types: '3'
 name: Fajitas
+p_recipe_id: 314
+permalink: /recipes/fajitas
 photo: 37D38DE5-F4F1-45EC-BBB9-153837F068AC-1866-00001E7CD30C6259.jpg
 photo_large: E47E4846-ECA1-46B6-B7FB-3E4C39118FBE-1866-00001E795FA4C478.jpg
-photos:
-- filename: 70DF875A-EC39-4702-AA1B-0DC8DAE4485F-1866-00001E7657DDEA0F.jpg
-  name: '1'
-- filename: AE7100D6-F6B3-4D64-93A9-56A6FE94DA0A-1866-00001E772E6D95CA.jpg
-  name: '2'
-- filename: E47E4846-ECA1-46B6-B7FB-3E4C39118FBE-1866-00001E795FA4C478.jpg
-  name: '3'
+photos: []
 photos_dict:
   '1': 70DF875A-EC39-4702-AA1B-0DC8DAE4485F-1866-00001E7657DDEA0F.jpg
   '2': AE7100D6-F6B3-4D64-93A9-56A6FE94DA0A-1866-00001E772E6D95CA.jpg
   '3': E47E4846-ECA1-46B6-B7FB-3E4C39118FBE-1866-00001E795FA4C478.jpg
+photos_filenames:
+- E47E4846-ECA1-46B6-B7FB-3E4C39118FBE-1866-00001E795FA4C478.jpg
+- 70DF875A-EC39-4702-AA1B-0DC8DAE4485F-1866-00001E7657DDEA0F.jpg
+- AE7100D6-F6B3-4D64-93A9-56A6FE94DA0A-1866-00001E772E6D95CA.jpg
+photos_names:
+- '3'
+- '1'
+- '2'
 prep_time: null
 rating: 5
 servings: 4 - 6
+slug: fajitas
 source: The Food Lab
 source_url: null
 total_time: null

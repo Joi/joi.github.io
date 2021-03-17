@@ -1,6 +1,6 @@
 ---
 title: "Horseradish Sauce"
-filename: "Horseradish-Sauce"
+filename: "horseradish-sauce"
 categories:
 - Sauce
 cook_time: 2 minutes
@@ -28,13 +28,18 @@ meal_dates:
 - '2020-09-21'
 meal_types: 3|3
 name: Horseradish Sauce
+p_recipe_id: 264
+permalink: /recipes/horseradish-sauce
 photo: 1E9C0D08-F976-4691-9035-337AC9F283B1-24647-00000FABF6EBFB30.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 2 minutes
 rating: 5
 servings: 'Servings: 12'
+slug: horseradish-sauce
 source: natashaskitchen.com
 source_url: https://natashaskitchen.com/horseradish-sauce-recipe/
 total_time: null

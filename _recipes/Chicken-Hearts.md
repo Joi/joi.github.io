@@ -1,6 +1,6 @@
 ---
 title: "Chicken Hearts"
-filename: "Chicken-Hearts"
+filename: "chicken-hearts"
 categories:
 - Chicken
 cook_time: 10 mins
@@ -28,13 +28,18 @@ meal_dates:
 - '2020-12-27'
 meal_types: 3|3
 name: Chicken Hearts
+p_recipe_id: 277
+permalink: /recipes/chicken-hearts
 photo: E3C69623-8421-4C73-A105-E300D7B47A9E-2209-0001DBA96F3CC751.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 10 mins
 rating: 5
 servings: ''
+slug: chicken-hearts
 source: healthyrecipesblogs.com
 source_url: https://healthyrecipesblogs.com/chicken-hearts-recipe/
 total_time: ''

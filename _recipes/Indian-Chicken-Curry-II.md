@@ -1,6 +1,6 @@
 ---
 title: "Indian Chicken Curry II"
-filename: "Indian-Chicken-Curry-II"
+filename: "indian-chicken-curry-ii"
 categories:
 - Chicken
 cook_time: 25 mins
@@ -21,13 +21,18 @@ meal_dates:
 - '2020-07-01'
 meal_types: 3|3
 name: Indian Chicken Curry II
+p_recipe_id: 117
+permalink: /recipes/indian-chicken-curry-ii
 photo: 84089300-843C-4267-93C6-8DFD327BBC88-30964-000010B6274F741D.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 20 mins
 rating: 5
 servings: 'Servings: 4'
+slug: indian-chicken-curry-ii
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/46822/indian-chicken-curry-ii/
 total_time: null

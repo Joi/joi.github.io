@@ -1,6 +1,6 @@
 ---
 title: "Pan-Roasted Halibut with Clamshell Mushrooms and Lemon Butter Sauce"
-filename: "Pan-Roasted-Halibut-with-Clamshell-Mushrooms-and-Lemon-Butter-Sauce"
+filename: "pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce"
 categories:
 - Halibut
 cook_time: 15 mins
@@ -19,16 +19,21 @@ meal_dates:
 - '2020-06-14'
 meal_types: '3'
 name: Pan-Roasted Halibut with Clamshell Mushrooms and Lemon Butter Sauce
+p_recipe_id: 191
+permalink: /recipes/pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce
 photo: 4AE6DE4F-9D14-417F-9377-3B079F26ED99-22544-0003EEAD50714E1F.jpg
 photo_large: F7C82A69-FD21-4B0C-B42E-8FCD0BA0C1E3-22544-0003EEA93F822F5D.jpg
-photos:
-- filename: F7C82A69-FD21-4B0C-B42E-8FCD0BA0C1E3-22544-0003EEA93F822F5D.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': F7C82A69-FD21-4B0C-B42E-8FCD0BA0C1E3-22544-0003EEA93F822F5D.jpg
+photos_filenames:
+- F7C82A69-FD21-4B0C-B42E-8FCD0BA0C1E3-22544-0003EEA93F822F5D.jpg
+photos_names:
+- '1'
 prep_time: 15 mins
 rating: 5
 servings: 'Servings: 2'
+slug: pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/236504/pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce/
 total_time: ''

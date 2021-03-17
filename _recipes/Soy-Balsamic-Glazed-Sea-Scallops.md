@@ -1,6 +1,6 @@
 ---
 title: "Soy-Balsamic Glazed Sea Scallops"
-filename: "Soy-Balsamic-Glazed-Sea-Scallops"
+filename: "soy-balsamic-glazed-sea-scallops"
 categories:
 - Scallops
 cook_time: 12 min
@@ -35,13 +35,18 @@ meal_dates:
 - '2020-07-18'
 meal_types: '2'
 name: Soy-Balsamic Glazed Sea Scallops
+p_recipe_id: 262
+permalink: /recipes/soy-balsamic-glazed-sea-scallops
 photo: 6D97F242-EF86-4E0A-B19F-430D6123B2F8-23547-00000F36D3A55D40.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 10 min
 rating: 5
 servings: Yields 2
+slug: soy-balsamic-glazed-sea-scallops
 source: withsaltandwit.com
 source_url: https://withsaltandwit.com/soy-balsamic-glazed-sea-scallops/
 total_time: null

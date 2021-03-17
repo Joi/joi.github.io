@@ -1,6 +1,6 @@
 ---
 title: "Mediterranean Lemon Poached Halibut"
-filename: "Mediterranean-Lemon-Poached-Halibut"
+filename: "mediterranean-lemon-poached-halibut"
 categories:
 - Halibut
 cook_time: 15 mins
@@ -49,16 +49,21 @@ meal_dates:
 - '2020-08-25'
 meal_types: '3'
 name: Mediterranean Lemon Poached Halibut
+p_recipe_id: 295
+permalink: /recipes/mediterranean-lemon-poached-halibut
 photo: DF924802-86B4-476E-9696-6DCD792E087A-12311-0000072A1320EF48.jpg
 photo_large: 4E849399-C04E-46EA-953F-DCDF76B830EE-12311-0000072A058D3A9D.jpg
-photos:
-- filename: 4E849399-C04E-46EA-953F-DCDF76B830EE-12311-0000072A058D3A9D.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 4E849399-C04E-46EA-953F-DCDF76B830EE-12311-0000072A058D3A9D.jpg
+photos_filenames:
+- 4E849399-C04E-46EA-953F-DCDF76B830EE-12311-0000072A058D3A9D.jpg
+photos_names:
+- '1'
 prep_time: 10 mins
 rating: 5
 servings: 'Yield: 6'
+slug: mediterranean-lemon-poached-halibut
 source: themediterraneandish.com
 source_url: https://www.themediterraneandish.com/mediterranean-wine-lemon-poached-halibut/
 total_time: null

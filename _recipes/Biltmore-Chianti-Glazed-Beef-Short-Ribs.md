@@ -1,6 +1,6 @@
 ---
 title: "Biltmore Chianti Glazed Beef Short Ribs"
-filename: "Biltmore-Chianti-Glazed-Beef-Short-Ribs"
+filename: "biltmore-chianti-glazed-beef-short-ribs"
 categories:
 - Beef
 - Short Ribs
@@ -23,19 +23,24 @@ meal_dates:
 - '2020-05-24'
 meal_types: '3'
 name: Biltmore Chianti Glazed Beef Short Ribs
+p_recipe_id: 29
+permalink: /recipes/biltmore-chianti-glazed-beef-short-ribs
 photo: 420F33E8-7494-492F-8AE1-561B8E9F8DA1-29546-000347AAF91F7DAE.jpg
 photo_large: 051F2944-3334-47B8-9ABF-8A1209444FEB-29546-000347A8D964E07D.jpg
-photos:
-- filename: DE36B32D-FAA3-4EB7-A192-B41FD629BB66-29546-000347A871E10A12.jpg
-  name: '1'
-- filename: 051F2944-3334-47B8-9ABF-8A1209444FEB-29546-000347A8D964E07D.jpg
-  name: '2'
+photos: []
 photos_dict:
   '1': DE36B32D-FAA3-4EB7-A192-B41FD629BB66-29546-000347A871E10A12.jpg
   '2': 051F2944-3334-47B8-9ABF-8A1209444FEB-29546-000347A8D964E07D.jpg
+photos_filenames:
+- 051F2944-3334-47B8-9ABF-8A1209444FEB-29546-000347A8D964E07D.jpg
+- DE36B32D-FAA3-4EB7-A192-B41FD629BB66-29546-000347A871E10A12.jpg
+photos_names:
+- '2'
+- '1'
 prep_time: 15min
 rating: 5
 servings: 4 portions
+slug: biltmore-chianti-glazed-beef-short-ribs
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r536448
 total_time: ''

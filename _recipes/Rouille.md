@@ -1,6 +1,6 @@
 ---
 title: "Rouille"
-filename: "Rouille"
+filename: "rouille"
 categories:
 - Sauce
 - _mine
@@ -18,13 +18,18 @@ meal_dates:
 - '2020-10-09'
 meal_types: 3|3
 name: Rouille
+p_recipe_id: 378
+permalink: /recipes/rouille
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: ''
+slug: rouille
 source: null
 source_url: null
 total_time: ''

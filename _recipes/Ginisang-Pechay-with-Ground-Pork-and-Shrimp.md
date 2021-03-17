@@ -1,6 +1,6 @@
 ---
 title: "Ginisang Pechay with Ground Pork and Shrimp"
-filename: "Ginisang-Pechay-with-Ground-Pork-and-Shrimp"
+filename: "ginisang-pechay-with-ground-pork-and-shrimp"
 categories:
 - Shrimp
 - _mine
@@ -41,19 +41,27 @@ meal_dates:
 - '2021-02-23'
 meal_types: 3|3
 name: Ginisang Pechay with Ground Pork and Shrimp
+p_recipe_id: 479
+permalink: /recipes/ginisang-pechay-with-ground-pork-and-shrimp
 photo: 7B7D1638-11B3-4787-9384-CE92FE051664-26383-00017286251C9F3C.jpg
 photo_large: 1967A315-2161-4F72-B690-19196A716D84-26383-00017281FAE33C55.jpg
-photos:
-- filename: 1967A315-2161-4F72-B690-19196A716D84-26383-00017281FAE33C55.jpg
-  name: '1'
-- filename: C7066E29-16DB-41E6-97D1-81F359F78745-26383-000172826D5F67A7.jpg
-  name: '2'
+photos: []
 photos_dict:
   '1': 1967A315-2161-4F72-B690-19196A716D84-26383-00017281FAE33C55.jpg
   '2': C7066E29-16DB-41E6-97D1-81F359F78745-26383-000172826D5F67A7.jpg
+  '3': 676CECF5-4CA2-47CC-8461-1222978C906F-4038-00022091A7224A21.jpg
+photos_filenames:
+- 1967A315-2161-4F72-B690-19196A716D84-26383-00017281FAE33C55.jpg
+- C7066E29-16DB-41E6-97D1-81F359F78745-26383-000172826D5F67A7.jpg
+- 676CECF5-4CA2-47CC-8461-1222978C906F-4038-00022091A7224A21.jpg
+photos_names:
+- '1'
+- '2'
+- '3'
 prep_time: ''
 rating: 5
 servings: ''
+slug: ginisang-pechay-with-ground-pork-and-shrimp
 source: null
 source_url: null
 total_time: ''

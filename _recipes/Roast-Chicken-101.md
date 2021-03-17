@@ -1,6 +1,6 @@
 ---
 title: "Roast Chicken 101"
-filename: "Roast-Chicken-101"
+filename: "roast-chicken-101"
 categories:
 - Chicken
 cook_time: 02:10
@@ -24,13 +24,18 @@ meal_dates:
 - '2021-03-04'
 meal_types: 3|3
 name: Roast Chicken 101
+p_recipe_id: 444
+permalink: /recipes/roast-chicken-101
 photo: E53109E2-A98E-48C6-9B75-D5B3370D0A24-79834-000040B3394AB6D2.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: '24:10'
 rating: 5
 servings: '4'
+slug: roast-chicken-101
 source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/wttK3xUw6HH3zPw5XOzL
 total_time: null

@@ -1,6 +1,6 @@
 ---
 title: "Swordfish in Creamy Tomato Sauce"
-filename: "Swordfish-in-Creamy-Tomato-Sauce"
+filename: "swordfish-in-creamy-tomato-sauce"
 categories:
 - Swordfish
 cook_time: '30'
@@ -23,16 +23,21 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Swordfish in Creamy Tomato Sauce
+p_recipe_id: 348
+permalink: /recipes/swordfish-in-creamy-tomato-sauce
 photo: C85D214A-BC19-4F63-8991-E5DA4F5B06C5-50715-0007FCAC66D2986B.jpg
 photo_large: 1E325214-F38A-4616-8097-72C633321F9D-50715-0007FCAB41F7D36F.jpg
-photos:
-- filename: 1E325214-F38A-4616-8097-72C633321F9D-50715-0007FCAB41F7D36F.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 1E325214-F38A-4616-8097-72C633321F9D-50715-0007FCAB41F7D36F.jpg
+photos_filenames:
+- 1E325214-F38A-4616-8097-72C633321F9D-50715-0007FCAB41F7D36F.jpg
+photos_names:
+- '1'
 prep_time: '15'
 rating: 5
 servings: '4'
+slug: swordfish-in-creamy-tomato-sauce
 source: null
 source_url: null
 total_time: '45'

@@ -1,6 +1,6 @@
 ---
 title: "Lemon Butter Sauce"
-filename: "Lemon-Butter-Sauce"
+filename: "lemon-butter-sauce"
 categories:
 - Sauce
 cook_time: 15 mins
@@ -25,13 +25,18 @@ meal_dates:
 - '2021-01-26'
 meal_types: '3'
 name: Lemon Butter Sauce
+p_recipe_id: 401
+permalink: /recipes/lemon-butter-sauce
 photo: E5B37250-BAB0-40DD-8825-DD8C87D4E63C-10626-0000074C7D910106.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 15 mins
 rating: 5
 servings: null
+slug: lemon-butter-sauce
 source: dashofsanity.com
 source_url: https://dashofsanity.com/copycat-carrabbas-lemon-butter-sauce/
 total_time: null

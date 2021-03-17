@@ -1,6 +1,6 @@
 ---
 title: "Sorrel Sauce with Poached Fish"
-filename: "Sorrel-Sauce-with-Poached-Fish"
+filename: "sorrel-sauce-with-poached-fish"
 categories:
 - Fish
 - Salmon
@@ -30,13 +30,18 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Sorrel Sauce with Poached Fish
+p_recipe_id: 122
+permalink: /recipes/sorrel-sauce-with-poached-fish
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 20 min
 rating: 5
 servings: '4'
+slug: sorrel-sauce-with-poached-fish
 source: "Mashup of L\xE1 Troigros Sorrel recipe and NYT Oven-Poached Pacific Sole\
   \ recipe"
 source_url: null

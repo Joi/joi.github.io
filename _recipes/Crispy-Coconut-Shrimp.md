@@ -1,6 +1,6 @@
 ---
 title: "Crispy Coconut Shrimp"
-filename: "Crispy-Coconut-Shrimp"
+filename: "crispy-coconut-shrimp"
 categories:
 - Shrimp
 cook_time: 20min
@@ -19,13 +19,18 @@ meal_dates:
 - '2020-04-13'
 meal_types: '3'
 name: Crispy Coconut Shrimp
+p_recipe_id: 43
+permalink: /recipes/crispy-coconut-shrimp
 photo: BB2763AF-95B1-4C64-A83D-1B18D3352C06-408-00004F434DBCED45.jpg
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: 10min
 rating: 5
 servings: 4 portions
+slug: crispy-coconut-shrimp
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r574872
 total_time: ''

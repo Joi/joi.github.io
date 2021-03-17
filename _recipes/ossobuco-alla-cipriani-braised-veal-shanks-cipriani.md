@@ -1,6 +1,6 @@
 ---
 title: "Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani"
-filename: "Ossobuco-Alla-Cipriani---Braised-Veal-Shanks-Cipriani"
+filename: "ossobuco-alla-cipriani-braised-veal-shanks-cipriani"
 categories:
 - Veal
 cook_time: ''
@@ -49,16 +49,21 @@ meal_dates:
 - '2020-06-21'
 meal_types: '3'
 name: Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani
+p_recipe_id: 199
+permalink: /recipes/ossobuco-alla-cipriani-braised-veal-shanks-cipriani
 photo: 6B67A530-86EF-4C84-A090-514D9E994C09-22544-0003EDEBB4329E41.jpg
 photo_large: E9938ACB-4842-449A-A00C-D82EA76917B3-22544-0003EDEA20022C26.jpg
-photos:
-- filename: E9938ACB-4842-449A-A00C-D82EA76917B3-22544-0003EDEA20022C26.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': E9938ACB-4842-449A-A00C-D82EA76917B3-22544-0003EDEA20022C26.jpg
+photos_filenames:
+- E9938ACB-4842-449A-A00C-D82EA76917B3-22544-0003EDEA20022C26.jpg
+photos_names:
+- '1'
 prep_time: ''
 rating: 5
 servings: '6'
+slug: ossobuco-alla-cipriani-braised-veal-shanks-cipriani
 source: Harry's Bar Cookbook
 source_url: null
 total_time: ''

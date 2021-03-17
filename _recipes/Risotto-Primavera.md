@@ -1,6 +1,6 @@
 ---
 title: "Risotto Primavera"
-filename: "Risotto-Primavera"
+filename: "risotto-primavera"
 categories:
 - Rice
 - Asparagus
@@ -29,13 +29,18 @@ meal_dates:
 - '2021-01-04'
 meal_types: 3|3
 name: Risotto Primavera
+p_recipe_id: 273
+permalink: /recipes/risotto-primavera
 photo: null
 photo_large: null
 photos: []
 photos_dict: {}
+photos_filenames: null
+photos_names: null
 prep_time: ''
 rating: 5
 servings: 4 people
+slug: risotto-primavera
 source: null
 source_url: https://www.epicurious.com/recipes/member/views/risotto-alla-primavera-harrys-bar-52374811
 total_time: ''

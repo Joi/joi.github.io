@@ -1,6 +1,6 @@
 ---
 title: "Southern Shrimp Scampi"
-filename: "Southern-Shrimp-Scampi"
+filename: "southern-shrimp-scampi"
 categories:
 - Shrimp
 cook_time: 20 minutes
@@ -19,16 +19,21 @@ meal_dates:
 - '2020-06-18'
 meal_types: '3'
 name: Southern Shrimp Scampi
+p_recipe_id: 195
+permalink: /recipes/southern-shrimp-scampi
 photo: DB94FAA6-D987-4B80-B97E-7F6AD20EF3F8-22544-0003EE6A134C88F0.jpg
 photo_large: 85087699-B55D-4304-8B09-354EC010AE46-22544-0003EE650D1A91A9.jpg
-photos:
-- filename: 85087699-B55D-4304-8B09-354EC010AE46-22544-0003EE650D1A91A9.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 85087699-B55D-4304-8B09-354EC010AE46-22544-0003EE650D1A91A9.jpg
+photos_filenames:
+- 85087699-B55D-4304-8B09-354EC010AE46-22544-0003EE650D1A91A9.jpg
+photos_names:
+- '1'
 prep_time: ''
 rating: 5
 servings: Yield 4 servings
+slug: southern-shrimp-scampi
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1016723-southern-shrimp-scampi
 total_time: ''

@@ -1,6 +1,6 @@
 ---
 title: "Chinese 5 Spices"
-filename: "Chinese-5-Spices"
+filename: "chinese-5-spices"
 categories:
 - Seasoning
 cook_time: null
@@ -16,16 +16,21 @@ intrash: 0
 meal_dates: null
 meal_types: null
 name: Chinese 5 Spices
+p_recipe_id: 450
+permalink: /recipes/chinese-5-spices
 photo: 819B8588-BC94-40DA-89C7-9BCF1036E86B-4181-0001E28A3B23CBA7.jpg
 photo_large: 706A3B1C-E667-42CC-BD8C-2D6D61A697AC-4181-0001E289F8DE5CC0.jpg
-photos:
-- filename: 706A3B1C-E667-42CC-BD8C-2D6D61A697AC-4181-0001E289F8DE5CC0.jpg
-  name: '1'
+photos: []
 photos_dict:
   '1': 706A3B1C-E667-42CC-BD8C-2D6D61A697AC-4181-0001E289F8DE5CC0.jpg
+photos_filenames:
+- 706A3B1C-E667-42CC-BD8C-2D6D61A697AC-4181-0001E289F8DE5CC0.jpg
+photos_names:
+- '1'
 prep_time: null
 rating: 5
 servings: null
+slug: chinese-5-spices
 source: null
 source_url: null
 total_time: null
