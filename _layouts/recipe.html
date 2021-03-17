@@ -82,18 +82,18 @@ For now.
   So that we can conditionally insert the Recipe<->Post/Meal Date links
   <div class="medium-2 columns" id="photo-sidebar">
 {% endcomment %}
-    {% comment %}
+    
     <div class="" id="recipe-photos">
-    {% if page.photos %}
-      {% for phot in page.photos %}
-        {%- if phot.filename != photo_hero -%}
+    {% if page.photos_dict %}
+      {% for phot in page.photos_dict %}
+        {%- if phot[1] != photo_hero -%}
           <figure>
             <a
-              href="/images/recipes/{{page.uid}}/{{ phot.filename }}" 
-              title="recipe photo - {{ phot.name }}">
+              href="/images/recipes/{{page.uid}}/{{ phot[1] }}" 
+              title="recipe photo - {{ phot[0] }}">
                 <img
-                  src="/images/recipes/{{page.uid}}/{{ phot.filename }}"
-                  alt="recipe photo - {{ phot.name }}" />
+                  src="/images/recipes/{{page.uid}}/{{ phot[1] }}"
+                  alt="recipe photo - {{ phot[0] }}" />
             </a>
           </figure>
         {%- endif -%}
@@ -115,7 +115,7 @@ For now.
     {% endif %}
     &nbsp;
     </div>
-    {% endcomment %}
+    
   </div><!-- #photo-sidebar -->
 </div><!-- #row-two -->
 
