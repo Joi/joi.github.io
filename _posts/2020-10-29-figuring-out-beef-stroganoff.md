@@ -61,6 +61,6 @@ I guess I'll do:
 - flour
 - cream cheese
 - parsley
-- gemi-glace sauce
+- demi-glace sauce
 
 Generally, it turn out great!
