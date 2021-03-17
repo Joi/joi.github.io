@@ -28,6 +28,7 @@
 
 {%- for link_origin in site.documents -%}
 	{%- if link_origin.url != page.url -%}
+  {%- if link_origin.i_am != 'note' -%}
 		{%- if link_origin.content contains wiki_link_title -%}
       {%- assign link_count = link_count | plus:1 -%}
 
@@ -50,6 +51,7 @@
 
 		{%- endif -%}
 	{%- endif -%}
+	{%- endif -%}
 {%- endfor -%}
 
 {%- if link_count > 0 -%}
@@ -61,6 +63,7 @@
 
 		{%- for link_origin in site.documents -%}
 			{%- if link_origin.url != page.url -%}
+      {%- if link_origin.i_am != 'note' -%}
 				{%- if link_origin.content contains wiki_link_title -%}
 
 				<div class="related-group"><a href="{{link_origin.url}}">
@@ -69,6 +72,7 @@
 				</a></div>
 
 				{%- endif -%}
+			{%- endif -%}
 			{%- endif -%}
 		{%- endfor -%}
 
