@@ -14,6 +14,9 @@ ingredients: "\xBD cup soy sauce\n\xBD cup citrus juice (See Notes: I love the m
   \ mirin (2 Tbsp sake or water + 2 tsp sugar)\n\xBD cup katsuobushi (dried bonito\
   \ flakes) (packed; 6 g)\n1 piece kombu (dried kelp) (2\" x 3\" strip; 6 g)"
 intrash: 0
+meal_dates:
+- '2020-06-26'
+meal_types: '4'
 name: Homemade Ponzu Sauce Recipe
 photo: 40E40D8B-493D-4408-A988-16118AC6B783-533-0000001E229E5A6E.jpg
 photo_large: null
@@ -38,4 +41,7 @@ uid: 01709B11-ED19-453F-851F-0DB48598E545-533-0000001E0CEE2435
 <li>½ cup katsuobushi (dried bonito flakes) (packed; 6 g)</li>
 <li>1 piece kombu (dried kelp) (2&quot; x 3&quot; strip; 6 g)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-06-26|recipenote]]</li>
+</ul>
+		</div>

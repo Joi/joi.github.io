@@ -20,6 +20,8 @@ ingredients: "1. 2 tbsp Unsalted butter\n1. 4 Crushed garlic cloves\n1. 1 Poblan
   \ and crushed\n1. \xBD cup Water\n1. 2 tbsp Heavy cream\n1. 4 6-ounce Swordfish\
   \ steaks about 1 inch thick\n1. 1 tsp Red wine vinegar\n1. Minced oregano"
 intrash: 0
+meal_dates: null
+meal_types: null
 name: Swordfish in Creamy Tomato Sauce
 photo: C85D214A-BC19-4F63-8991-E5DA4F5B06C5-50715-0007FCAC66D2986B.jpg
 photo_large: 1E325214-F38A-4616-8097-72C633321F9D-50715-0007FCAB41F7D36F.jpg
@@ -91,4 +93,7 @@ uid: 96A194FA-7F4A-42E1-B275-000A76DCEFE7-50715-0007FC418715CBB3
 </ol>
 </li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-09-07|recipenote]]</li>
+</ul>
+		</div>

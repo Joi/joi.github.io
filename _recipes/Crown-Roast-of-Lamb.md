@@ -21,6 +21,10 @@ ingredients: "Rub\n\n2 tbsp of fresh rosemary - chopped\n6 garlic cloves - mince
   \ zest\n\xBD tsp salt in addition to salt for brining\n1 tsp of ground pepper\n\
   light olive oil\n\nSauce\n\n1 tsp Dijon mustard\n1 tbsp wine vinegar\n"
 intrash: 0
+meal_dates:
+- '2020-07-14'
+- '2020-12-25'
+meal_types: 3|3
 name: Crown Roast of Lamb
 photo: 0FB9F6CD-8187-4952-A4DB-9C17BB488535-29053-0004B1367DF6F80C.jpg
 photo_large: 9149D496-D42C-4579-B6F1-4122D12ABE97-29053-0004B135658F0C74.jpg
@@ -62,4 +66,8 @@ uid: FD54C700-8CFA-4582-86E5-1BB6A9398CBA-29053-0004AE4B3DE321B5
 <li>1 tbsp wine vinegar</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-14|recipenote]]</li>
+<li>[[2020-12-25|recipenote]]</li>
+</ul>
+		</div>

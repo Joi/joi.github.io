@@ -42,6 +42,9 @@ ingredients: '2 tablespoons extra-virgin olive oil divided
 
   Salt and pepper to season'
 intrash: 0
+meal_dates:
+- '2020-12-03'
+meal_types: '3'
 name: Braised Lamb Shanks
 photo: CB70421F-5016-4858-8745-F747D606F8BC-12026-0000D9101C53110B.jpg
 photo_large: null
@@ -76,4 +79,7 @@ uid: 4ABFD903-B1A7-4A76-825B-61517E4A7067-12026-0000D90D031A26A7
 <li>2 bay leaves</li>
 <li>Salt and pepper to season</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-12-03|recipenote]]</li>
+</ul>
+		</div>

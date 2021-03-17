@@ -15,6 +15,10 @@ ingredients: "4 6-ounce skinned salmon fillets\nSalt and black pepper\n1 tablesp
   \ teaspoons cumin seed or ground cumin\n1 teaspoon freshly grated nutmeg\n2 tablespoons\
   \ peanut oil, grape seed or other neutral oil, or clarified butter"
 intrash: 0
+meal_dates:
+- '2020-05-26'
+- '2020-07-17'
+meal_types: 3|3
 name: Four-Spice Salmon
 photo: C343B34F-5A16-4397-AEE6-7394A4475055-29546-000347A112A37A95.jpg
 photo_large: 4D14DE40-8AFD-47FF-8348-EC1688A6DC9C-29546-0003479E4ABED064.jpg
@@ -43,4 +47,8 @@ uid: 31AA9966-2763-4AC5-A716-BBD238901647-9067-0001860E2C2E307C
 <li>1 teaspoon freshly grated nutmeg</li>
 <li>2 tablespoons peanut oil, grape seed or other neutral oil, or clarified butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-05-26|recipenote]]</li>
+<li>[[2020-07-17|recipenote]]</li>
+</ul>
+		</div>

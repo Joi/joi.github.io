@@ -16,6 +16,9 @@ ingredients: "\xBD lb sashimi grade yellowfin/ahi tuna\n2 Tbsp neutral-flavored 
   \ soy sauce\n1 tsp toasted white sesame seeds\nGarnish:\n\xBD lemon\nKorean Chili\
   \ Thread"
 intrash: 0
+meal_dates:
+- '2020-06-26'
+meal_types: '3'
 name: Tuna Tataki Recipe
 photo: 073913C4-4104-4425-BB1D-864AD02162CE-533-000000148D3C4395.jpg
 photo_large: null
@@ -46,4 +49,7 @@ uid: 39091A3A-A890-436A-A9C2-58FA599B57F5-533-00000014701D437B
 <li>½ lemon</li>
 <li>Korean Chili Thread</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-06-26|recipenote]]</li>
+</ul>
+		</div>

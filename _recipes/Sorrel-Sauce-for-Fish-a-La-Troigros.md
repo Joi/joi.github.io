@@ -23,6 +23,9 @@ ingredients: "1 medium bunch sorrel (around 4-ounces by weight), stems removed g
   \ for color as well as flavor, but not a deal breaker) ***\nJuice of half a lemon,\
   \ as needed"
 intrash: 0
+meal_dates:
+- '2020-04-16'
+meal_types: '3'
 name: "Sorrel Sauce for Fish a L\xE1 Troigros"
 photo: null
 photo_large: null
@@ -51,4 +54,7 @@ uid: F5D3EF55-3CE9-43ED-B3F8-21D291360B88-2334-0001D2B7AB462ECC
 <li>Salt and pepper (white pepper preferred for color as well as flavor, but not a deal breaker) ***</li>
 <li>Juice of half a lemon, as needed</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-04-16|recipenote]]</li>
+</ul>
+		</div>

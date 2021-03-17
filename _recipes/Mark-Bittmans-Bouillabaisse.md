@@ -22,6 +22,9 @@ ingredients: "Good olive oil, as needed\n4 to 8 thick slices good bread\n1 onion
   \ optional\nChopped fennel fronds, for garnish\nChopped basil or parsley, for garnish\n\
   Rouille, optional"
 intrash: 0
+meal_dates:
+- '2020-10-09'
+meal_types: '3'
 name: "Mark Bittman\u2019s Bouillabaisse"
 photo: 29688DE2-C224-4976-B754-8C70DB62060F-79931-0001523B358A10DE.jpg
 photo_large: null
@@ -60,4 +63,7 @@ uid: B4FA8284-2C9F-449C-9A2B-02F2C012D3E3-79931-00015237983D5DDF
 <li>Chopped basil or parsley, for garnish</li>
 <li>Rouille, optional</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-10-09|recipenote]]</li>
+</ul>
+		</div>

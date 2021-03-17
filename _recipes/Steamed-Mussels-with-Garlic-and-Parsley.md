@@ -14,6 +14,12 @@ ingredients: "2 tablespoons extra-virgin olive oil, plus more for toasts\n2 garl
   \ red pepper\n4 pounds mussels, cleaned\n\xBC cup white wine or water\n1 baguette,\
   \ split lengthwise, then cut crosswise in half\n1 cup roughly chopped parsley"
 intrash: 0
+meal_dates:
+- '2020-05-26'
+- '2020-05-30'
+- '2020-06-23'
+- '2020-12-11'
+meal_types: 3|3|3|3
 name: Steamed Mussels with Garlic and Parsley
 photo: 82BDD745-71E1-40DA-A48B-B41BEC1D7653-29546-0002C343E3777139.jpg
 photo_large: null
@@ -39,4 +45,10 @@ uid: 2FCD1B65-0D67-4B15-B081-C691590DEBE3-29546-0002C343712D52F3
 <li>1 baguette, split lengthwise, then cut crosswise in half</li>
 <li>1 cup roughly chopped parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-05-26|recipenote]]</li>
+<li>[[2020-05-30|recipenote]]</li>
+<li>[[2020-06-23|recipenote]]</li>
+<li>[[2020-12-11|recipenote]]</li>
+</ul>
+		</div>

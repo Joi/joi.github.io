@@ -21,6 +21,9 @@ ingredients: '2 duck legs, trimmed of excess fat
 
   2 cups chicken stock, preferably homemade'
 intrash: 0
+meal_dates:
+- '2020-04-07'
+meal_types: '3'
 name: Crisp-Braised Duck Legs with Aromatic Vegetables
 photo: null
 photo_large: null
@@ -45,4 +48,7 @@ uid: 59C94A12-982E-4BD9-8826-A29B0DA9019C-24114-00000F463DF5064E
 <li>6 celery stalks</li>
 <li>2 cups chicken stock, preferably homemade</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-04-07|recipenote]]</li>
+</ul>
+		</div>

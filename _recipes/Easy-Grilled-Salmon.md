@@ -72,6 +72,10 @@ ingredients: '1 1/2 to 3 pounds salmon fillets, skin-on (about 1/3 to 1/2 pound 
 
   1/4 cup white sugar'
 intrash: 0
+meal_dates:
+- '2020-06-19'
+- '2020-08-11'
+meal_types: 3|3
 name: Easy Grilled Salmon
 photo: 4D8EED01-028B-45F1-A20D-51576002DA9A-1358-0002214023C94B58.jpg
 photo_large: null
@@ -117,4 +121,8 @@ uid: 68D76D1C-AD59-4F01-8CF7-EC68A1493E03-1358-000221322E5129BD
 <li>A dash of red chili pepper flakes</li>
 <li>1/4 cup white sugar</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-06-19|recipenote]]</li>
+<li>[[2020-08-11|recipenote]]</li>
+</ul>
+		</div>

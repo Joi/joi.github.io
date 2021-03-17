@@ -19,6 +19,9 @@ ingredients: "64 oz beef short ribs, bone in\n1 \xBD tsp salt, divided, plus ext
   \ tsp dried thyme\n\xBD tbsp dried oregano\n\xBC tsp dried rosemary\n\xBD oz unsalted\
   \ butter\n50 oz water\ncherry tomatoes on the vine, blistered (see Tip)"
 intrash: 0
+meal_dates:
+- '2020-05-24'
+meal_types: '3'
 name: Biltmore Chianti Glazed Beef Short Ribs
 photo: 420F33E8-7494-492F-8AE1-561B8E9F8DA1-29546-000347AAF91F7DAE.jpg
 photo_large: 051F2944-3334-47B8-9ABF-8A1209444FEB-29546-000347A8D964E07D.jpg
@@ -65,4 +68,7 @@ uid: AD430477-9151-456B-8A62-1A48083DB1A9-408-00004F71AC622DAB
 <li>50 oz water</li>
 <li>cherry tomatoes on the vine, blistered (see Tip)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-05-24|recipenote]]</li>
+</ul>
+		</div>

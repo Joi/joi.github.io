@@ -31,6 +31,9 @@ ingredients: '2 Tbsp balsamic vinegar
 
   Fresh chopped cilantro, for garnish'
 intrash: 0
+meal_dates:
+- '2020-07-18'
+meal_types: '2'
 name: Soy-Balsamic Glazed Sea Scallops
 photo: 6D97F242-EF86-4E0A-B19F-430D6123B2F8-23547-00000F36D3A55D40.jpg
 photo_large: null
@@ -60,4 +63,7 @@ uid: 8882747A-DD2F-4B5F-9AD9-984367393EB2-23547-00000F35FF5BA070
 <li>1/4 tsp Black pepper</li>
 <li>Fresh chopped cilantro, for garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-18|recipenote]]</li>
+</ul>
+		</div>

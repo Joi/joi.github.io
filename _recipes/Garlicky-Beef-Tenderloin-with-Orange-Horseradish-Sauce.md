@@ -14,6 +14,9 @@ ingredients: "(4-pound) beef tenderloin, trimmed and tied\n1 tablespoon kosher s
   \ oil\n2 cups cr\xE8me fra\xEEche\n\xBC cup white horseradish\nGrated zest of half\
   \ an orange"
 intrash: 0
+meal_dates:
+- '2020-07-02'
+meal_types: '3'
 name: Garlicky Beef Tenderloin with Orange Horseradish Sauce
 photo: E1072FB5-7A39-4304-AAEC-A5AD809D0A84-8626-0000038D03EFACF5.jpg
 photo_large: null
@@ -41,4 +44,7 @@ uid: EEED405B-FB6D-4F73-A3FF-BD1E5D7B6D25-8626-0000038D01E586DD
 <li>¼ cup white horseradish</li>
 <li>Grated zest of half an orange</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-02|recipenote]]</li>
+</ul>
+		</div>

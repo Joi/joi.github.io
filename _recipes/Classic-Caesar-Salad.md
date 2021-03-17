@@ -16,6 +16,10 @@ ingredients: "The Dressing:\n6 anchovy fillets packed in oil, drained\n1 small g
   3 cups torn 1\" pieces country bread, with crusts\n3 tablespoons olive oil\nThe\
   \ Lettuce:\n3 romaine hearts, leaves separated\nThe Cheese:\nParmesan, for serving"
 intrash: 0
+meal_dates:
+- '2020-08-11'
+- '2021-01-02'
+meal_types: 3|3
 name: Classic Caesar Salad
 photo: 1047285C-5914-49E8-91B9-69F8F9418A50-1060-0002AF0977449E27.jpg
 photo_large: null
@@ -52,4 +56,8 @@ uid: A4154EF4-77BC-4CC2-AD86-57C0D9DA6EE5-1060-0002AF06087A9657
 <li>The Cheese:</li>
 <li>Parmesan, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-08-11|recipenote]]</li>
+<li>[[2021-01-02|recipenote]]</li>
+</ul>
+		</div>

@@ -19,6 +19,9 @@ ingredients: "**Fish**\n\xBD cup unbleached all-purpose flour\n4 sole fillets or
   \ leaves\n1 \xBD tablespoons lemon juice from 1 lemon\n1 lemon, cut in wedges for\
   \ serving"
 intrash: 0
+meal_dates:
+- '2021-01-15'
+meal_types: '3'
 name: Fish Meuniere with Toasted Slivered Almonds
 photo: 5BADFF99-FE9C-4BE6-831E-B88022939C46-7996-000005DA8EFD2D3E.jpg
 photo_large: null
@@ -49,4 +52,7 @@ uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4
 <li>1 ½ tablespoons lemon juice from 1 lemon</li>
 <li>1 lemon, cut in wedges for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-01-15|recipenote]]</li>
+</ul>
+		</div>

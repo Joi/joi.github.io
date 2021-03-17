@@ -13,6 +13,9 @@ ingredients: "2 pounds lamb shoulder\n1 cup pitted prunes\n1 tablespoon minced g
   Salt and pepper\n1 chopped onion\n2 teaspoons minced ginger\n\xBC teaspoon cinnamon\n\
   1 \xBD cup red wine\n\xBD cup stock or water"
 intrash: 0
+meal_dates:
+- '2020-05-16'
+meal_types: '3'
 name: Braised Lamb with Red Wine and Prunes
 photo: 0541AC85-A828-48A8-9504-243EC1B2AA4E-29546-0000D713AB6D770C.jpg
 photo_large: 1F52A9C3-7EB1-4290-978D-52C636543B12-29546-0000D7106908C545.jpg
@@ -46,4 +49,7 @@ uid: 6665AE81-BAFC-41FB-B3B2-CE6FB6A69405-13891-0000A72EF98AC351
 <li>1 ½ cup red wine</li>
 <li>½ cup stock or water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-05-16|recipenote]]</li>
+</ul>
+		</div>

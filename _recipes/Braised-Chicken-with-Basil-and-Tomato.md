@@ -17,6 +17,12 @@ ingredients: "\xBD cup table salt, for brining\n1 \xBD - 2 pounds bone-in split 
   1 tablespoon all-purpose flour\n\u2153 cup dry white wine\n\xBC cup chopped fresh\
   \ basil, divided\n2 teaspoon red wine vinegar"
 intrash: 0
+meal_dates:
+- '2020-05-13'
+- '2020-06-03'
+- '2020-09-10'
+- '2020-12-09'
+meal_types: 3|3|3|3
 name: Braised Chicken with Basil and Tomato
 photo: 117DE12A-AB70-4442-B326-6831AFC75E90-29546-000594679564A8AE.jpg
 photo_large: CEA47EBE-073C-46D7-ADBF-EC5096CCEC87-29546-000594637FB4D68E.jpg
@@ -54,4 +60,10 @@ uid: FF6B358D-8D29-4986-84E0-27C7EBD83014-9482-0000064F04336AC0
 <li>¼ cup chopped fresh basil, divided</li>
 <li>2 teaspoon red wine vinegar</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-05-13|recipenote]]</li>
+<li>[[2020-06-03|recipenote]]</li>
+<li>[[2020-09-10|recipenote]]</li>
+<li>[[2020-12-09|recipenote]]</li>
+</ul>
+		</div>

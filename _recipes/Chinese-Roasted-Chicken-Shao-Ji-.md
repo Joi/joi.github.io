@@ -33,6 +33,9 @@ ingredients: '1 chicken (around 1 kg )
 
   1/2 tsp. five spice powder'
 intrash: 0
+meal_dates:
+- '2021-01-01'
+meal_types: '3'
 name: "Chinese Roasted Chicken (\u70E7\u9E21)"
 photo: 0326A685-887D-4010-A0AC-FE4B280611F8-1607-00007D847A5B7B7B.jpg
 photo_large: null
@@ -63,4 +66,7 @@ uid: C35DC53C-4546-403C-A6E8-E7DA8F8ADBD0-1607-00007D8057C690B4
 <li>1 tsp. salt</li>
 <li>1/2 tsp. five spice powder</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-01-01|recipenote]]</li>
+</ul>
+		</div>

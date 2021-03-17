@@ -45,6 +45,8 @@ ingredients: 'STEAK
 
   1/2 teaspoon smoked paprika'
 intrash: 0
+meal_dates: null
+meal_types: null
 name: Foolproof Chuck Steak with Smoky Chimichurri
 photo: 9F2B0A69-45A5-42A5-A5AB-4C11FB2DED79-2241-0003156E983A5E12.jpg
 photo_large: 6DD2B439-B4B2-4442-A592-EDA30198A1F1-2241-0003156A1399F4A6.jpg
@@ -84,4 +86,7 @@ uid: CEDB473E-DE66-49BB-A26A-E39699CB17AE-6290-0000032FC1829B23
 <li>1 teaspoon dried oregano</li>
 <li>1/2 teaspoon smoked paprika</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-08-29|recipenote]]</li>
+</ul>
+		</div>

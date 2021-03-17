@@ -33,6 +33,9 @@ ingredients: "1 pound (450g) dried dark red kidney beans\nKosher salt\n4 quarts 
   Sour cream\nJalape\xF1o or Poblano peppers, diced and seeded\nOnion, diced\nAvocado,\
   \ diced\nSaltines\nFritos"
 intrash: 0
+meal_dates:
+- '2021-02-21'
+meal_types: '3'
 name: The Best Chili Ever
 photo: F3FFC445-785C-42AE-8C25-CC3281BA0FA4-26383-000125F0800740CD.jpg
 photo_large: 0B198794-BA45-4B63-800A-D9BF4335BFDC-26383-000125E5F69A9A49.jpg
@@ -114,4 +117,7 @@ uid: 10BBAF95-58C8-433E-B2F4-1BA5DB1741F3-23012-0000124E0AE6CF20
 <li>Saltines</li>
 <li>Fritos</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-02-21|recipenote]]</li>
+</ul>
+		</div>

@@ -44,6 +44,8 @@ ingredients: '8 small or 4 large pan-ready sand dabs, about 3 or 7 ounces, respe
 
   2 tablespoons sherry vinegar'
 intrash: 0
+meal_dates: null
+meal_types: null
 name: Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar
 photo: 35DA805A-09E3-4D67-ACBD-D84815911951-13002-0005A1ABFBFFEF7C.jpg
 photo_large: 55A0B755-3EA3-4225-9085-985AC1335A03-13002-0005A1A84A7FBAE2.jpg
@@ -83,4 +85,10 @@ uid: 82E24D0C-460D-4289-95EE-8D5AF55D365A-13002-0005925FAFB78D5B
 <li>8 tablespoons {1 stick} unsalted butter {or 4 tablespoons clarified plus 4 tablespoons whole unsalted butter, if using a non-nonstick pan}</li>
 <li>2 tablespoons sherry vinegar</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-09-01|recipenote]]</li>
+<li>[[2020-08-22|recipenote]]</li>
+<li>[[2020-09-19|recipenote]]</li>
+<li>[[2020-10-13|recipenote]]</li>
+</ul>
+		</div>

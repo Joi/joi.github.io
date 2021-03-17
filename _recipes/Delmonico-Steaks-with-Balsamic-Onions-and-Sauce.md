@@ -43,6 +43,9 @@ ingredients: 'STEAKS:
 
   Add Ingredients to Grocery List'
 intrash: 0
+meal_dates:
+- '2020-11-11'
+meal_types: '3'
 name: Delmonico Steaks with Balsamic Onions and Sauce
 photo: 6004B870-C56D-48EE-B997-8BE5D6FD81FA-32901-000013EAA1C8DA35.jpg
 photo_large: null
@@ -78,4 +81,7 @@ uid: D4299074-37F6-44AE-8F7F-A71B686EBE77-32901-000013EA8945E420
 <li>freshly ground black pepper, to taste</li>
 <li>Add Ingredients to Grocery List</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-11-11|recipenote]]</li>
+</ul>
+		</div>

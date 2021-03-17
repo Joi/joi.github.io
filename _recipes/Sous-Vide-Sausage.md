@@ -19,6 +19,9 @@ ingredients: '3 lb / 1.36 kg Raw natural casing sausages such as Bratwurst or It
 
   Buns and condiments for serving'
 intrash: 0
+meal_dates:
+- '2020-07-04'
+meal_types: '3'
 name: Sous Vide Sausage
 photo: C4B39337-CDA1-451C-B1F8-2FC911828754-631-00014E3BCE86958A.jpg
 photo_large: null
@@ -42,4 +45,7 @@ uid: CA1FD559-CB27-4BD2-8710-02EF9E0DDB1C-631-00014E37CD374A8D
 <li>1 tbsp / 15 ml Butter or Vegetable Oil</li>
 <li>Buns and condiments for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-04|recipenote]]</li>
+</ul>
+		</div>

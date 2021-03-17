@@ -36,6 +36,10 @@ ingredients: 'For Steaks:
 
   1/2 cup light cream or reduced fat cream (or heavy cream)'
 intrash: 0
+meal_dates:
+- '2020-05-25'
+- '2020-06-08'
+meal_types: 3|3
 name: Pan Seared Garlic Butter Steak & Mushroom Cream Sauce
 photo: 0115C5E8-2E3A-4E93-BF04-695DDC54ABF3-14842-000006869ABA8991.jpg
 photo_large: null
@@ -70,4 +74,8 @@ uid: 04CBAF39-7861-485D-B195-D741D37810E8-14842-0000068686800663
 <li>1 cup sliced brown mushrooms</li>
 <li>1/2 cup light cream or reduced fat cream (or heavy cream)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-05-25|recipenote]]</li>
+<li>[[2020-06-08|recipenote]]</li>
+</ul>
+		</div>

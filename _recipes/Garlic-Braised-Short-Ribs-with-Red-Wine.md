@@ -18,6 +18,10 @@ ingredients: "2 tablespoons vegetable oil\n5 pounds bone-in short ribs, at least
   \ in a pinch), plus more as needed\n4 sprigs thyme\n1 cup parsley, coarsely chopped\n\
   \xBD cup finely chopped chives\n1 tablespoon finely grated lemon zest"
 intrash: 0
+meal_dates:
+- '2020-07-08'
+- '2021-01-24'
+meal_types: 3|3
 name: Garlic Braised Short Ribs with Red Wine
 photo: 117BF38D-4239-4E3B-9740-5C60DFB30A70-36256-00001A9DD2F43994.jpg
 photo_large: 36A50B49-515E-4809-8666-F6F5EA18EEA8-36256-00001A9DBD83A9E3.jpg
@@ -65,4 +69,8 @@ uid: 5E4F61E2-22CC-4E47-A550-BD0266EF9E1C-11634-00000628B8D8587F
 <li>½ cup finely chopped chives</li>
 <li>1 tablespoon finely grated lemon zest</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-08|recipenote]]</li>
+<li>[[2021-01-24|recipenote]]</li>
+</ul>
+		</div>

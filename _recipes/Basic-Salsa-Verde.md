@@ -13,6 +13,10 @@ ingredients: "3 tbsp finely diced shallot (about 1 medium shallot)\n3 tbsp red w
   \ vinegar\n\xBC cup very finely chopped parsley leaves\n\xBC cup extra virgin olive\
   \ oil \nsalt"
 intrash: 0
+meal_dates:
+- '2020-07-15'
+- '2020-10-08'
+meal_types: 3|3
 name: Basic Salsa Verde
 photo: D2A2C61F-0D45-4405-A6B0-DD1F1BFD8FF4-29053-0004BEE797AF20B6.jpg
 photo_large: D02A4B92-E38B-4310-8877-2D0AF31D8FCB-29053-0004BEE6028234A8.jpg
@@ -39,4 +43,8 @@ uid: B8A1AF50-039E-416A-967A-19D14C8A70A2-14775-000009F2FBE6BC44
 <li>¼ cup extra virgin olive oil</li>
 <li>salt</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-15|recipenote]]</li>
+<li>[[2020-10-08|recipenote]]</li>
+</ul>
+		</div>

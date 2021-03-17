@@ -23,6 +23,10 @@ ingredients: '1/2 cup sour cream
 
   1 Tbsp chives finely chopped'
 intrash: 0
+meal_dates:
+- '2020-08-17'
+- '2020-09-21'
+meal_types: 3|3
 name: Horseradish Sauce
 photo: 1E9C0D08-F976-4691-9035-337AC9F283B1-24647-00000FABF6EBFB30.jpg
 photo_large: null
@@ -48,4 +52,8 @@ uid: EC595FE1-4031-41AB-8691-CD7CA7131526-24647-00000FABE7C420F3
 <li>1/8 tsp black pepper</li>
 <li>1 Tbsp chives finely chopped</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-08-17|recipenote]]</li>
+<li>[[2020-09-21|recipenote]]</li>
+</ul>
+		</div>

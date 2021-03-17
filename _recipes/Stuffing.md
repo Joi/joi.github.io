@@ -18,6 +18,9 @@ ingredients: "2\xBD pounds (about 2 loaves) high-quality sandwich bread or soft 
   \ canned chicken or turkey stock\r3 large eggs\r\xBC cup minced fresh parsley\r\
   Kosher salt and freshly ground black pepper"
 intrash: 0
+meal_dates:
+- '2020-08-20'
+meal_types: '3'
 name: Stuffing
 photo: C1EE1A95-B35A-4D45-9115-A5689D56890F-2241-00031575FDEDE782.jpg
 photo_large: C97CB73B-63BA-4CF1-8AB0-C50A9950BAAD-2241-000315737380C867.jpg
@@ -59,4 +62,7 @@ uid: 361C126A-71BA-4EF3-89A9-AEC190712B26-2241-0001908744F256EF
 ¼ cup minced fresh parsley
 Kosher salt and freshly ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-08-20|recipenote]]</li>
+</ul>
+		</div>

@@ -15,6 +15,15 @@ ingredients: "Lots of chopped cilantro\n\xBD jalapeno, sliced\n1 tsp grated fres
   2 Tbsp extra-virgin olive oil\n2 Tbsp extra-light olive old or other cooking oil\n\
   Sushi-grade tuna\n1 avocado sliced\nSalt and pepper"
 intrash: 0
+meal_dates:
+- '2020-09-15'
+- '2020-10-16'
+- '2020-11-17'
+- '2020-12-11'
+- '2021-01-08'
+- '2021-01-22'
+- '2021-03-02'
+meal_types: 3|3|3|3|3|3|3
 name: "Tuna Tataki with Lime, Ginger and Jalape\xF1o"
 photo: AEBC1500-7EFB-4D30-AA19-92E5C5ED3F52-39232-0000E032992D0652.jpg
 photo_large: 0E660FA2-3314-40BB-AED4-FB2E0368277E-39232-0000E02DBC102900.jpg
@@ -65,4 +74,13 @@ uid: 0299C616-3BC7-414C-8AD7-24EA7B7FCB03-9638-000005EE30E369B7
 <p>Season tuna with salt and pepper and grilled quickly - about one minute per side. You can hold the tuna on its edge with tongs to get the sides.</p>
 <p>Turn off the heat and pour ½ of the sauce mix onto the tuna and turn a few times to cover the tuna.</p>
 <p>Plate the tuna with the avocado and pour the remaining sauce over the tuna and avocado.</p>
-</div>	</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-09-15|recipenote]]</li>
+<li>[[2020-10-16|recipenote]]</li>
+<li>[[2020-11-17|recipenote]]</li>
+<li>[[2020-12-11|recipenote]]</li>
+<li>[[2021-01-08|recipenote]]</li>
+<li>[[2021-01-22|recipenote]]</li>
+<li>[[2021-03-02|recipenote]]</li>
+</ul>
+		</div>

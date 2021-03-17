@@ -45,6 +45,10 @@ ingredients: '2 loaves pita bread
 
   scant 1/4 tsp ground allspice'
 intrash: 0
+meal_dates:
+- '2020-08-24'
+- '2020-09-18'
+meal_types: 3|3
 name: Fattoush Salad
 photo: 6B6EF7B7-4EDB-4562-9C14-D8D6266E16BB-2241-00036E0BC90316A1.jpg
 photo_large: 2DCEEE08-F8DB-4BA2-B79B-CF4508006542-2241-00036E09A88DF599.jpg
@@ -84,4 +88,8 @@ uid: 4FEBFB5B-BED2-46AA-AAB2-6695964DDD04-2643-000000E5CE888C1F
 <li>1/4 tsp ground cinnamon</li>
 <li>scant 1/4 tsp ground allspice</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-08-24|recipenote]]</li>
+<li>[[2020-09-18|recipenote]]</li>
+</ul>
+		</div>

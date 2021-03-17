@@ -30,6 +30,8 @@ ingredients: '3 to 3 1/2 pounds pork shoulder, cut into very large chunks (3 to 
 
   1 large scallion sliced'
 intrash: 0
+meal_dates: null
+meal_types: null
 name: Slow Cooker Chinese Pulled Pork
 photo: 6637C0E4-F460-46DF-9405-ECE1DD01063C-80121-00002D75E49EA846.jpg
 photo_large: null
@@ -58,4 +60,8 @@ uid: 03AE94B2-36BE-4BAF-BF9D-2D6D4795BF56-80121-00002D75D6966D4C
 <li>12 Hawaiian dinner rolls</li>
 <li>1 large scallion sliced</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-10-22|recipenote]]</li>
+<li>[[2021-01-24|recipenote]]</li>
+</ul>
+		</div>

@@ -35,6 +35,14 @@ ingredients: '7 lb chicken parts
 
   1 tsp white wine vinegar '
 intrash: 0
+meal_dates:
+- '2020-09-26'
+- '2020-09-26'
+- '2020-11-14'
+- '2020-12-13'
+- '2021-01-03'
+- '2021-01-31'
+meal_types: 3|4|4|4|4|4
 name: Chicken Stock
 photo: FB4ED580-DEE0-46DE-996B-53AB5BFA6916-20298-00001A85CF115FDF.jpg
 photo_large: B3B7824B-78CD-411B-AADB-7A5835C97518-20298-00001A8063212962.jpg
@@ -87,4 +95,12 @@ uid: F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C
 <p>Strain and cool.</p>
 <p>Scrape fat and freeze to use for other cooking stuff like confit.</p>
 <p>Refrigerate stock for up to 5 days and freezer for much longer. I use quart ziplock bags. Also cool to use in ice cube tray to make smaller portions for sauces.</p>
-</div>	</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-09-26|recipenote]]</li>
+<li>[[2020-09-26|recipenote]]</li>
+<li>[[2020-11-14|recipenote]]</li>
+<li>[[2020-12-13|recipenote]]</li>
+<li>[[2021-01-03|recipenote]]</li>
+<li>[[2021-01-31|recipenote]]</li>
+</ul>
+		</div>

@@ -18,6 +18,9 @@ ingredients: "GATHER YOUR INGREDIENTS\nChicken\n3 \xBD pounds bone-in, skin-on c
   1 \xBD tablespoons minced fresh chives\n1 tablespoon cold unsalted butter\nSalt\
   \ and ground black pepper"
 intrash: 0
+meal_dates:
+- '2020-04-17'
+meal_types: '3'
 name: Stovetop Roast Chicken with Lemon-Herb Sauce
 photo: 99555BB3-6FE3-4CCA-865D-8F10BB342D9F-9482-0000064D9DF847FA.jpg
 photo_large: null
@@ -51,4 +54,7 @@ uid: 1CC279D0-B28C-4D56-89AD-5F9651D51E75-9482-0000064D90F7DDA4
 <li>1 tablespoon cold unsalted butter</li>
 <li>Salt and ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-04-17|recipenote]]</li>
+</ul>
+		</div>

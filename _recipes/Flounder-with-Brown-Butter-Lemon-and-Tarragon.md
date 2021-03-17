@@ -31,6 +31,9 @@ ingredients: '1 cup all-purpose flour
 
   Lemon wedges'
 intrash: 0
+meal_dates:
+- '2020-05-30'
+meal_types: '2'
 name: Flounder with Brown Butter, Lemon and Tarragon
 photo: 9FD4D57B-A4F5-4450-A3AA-29E4036056BE-29546-0003F611BD7D7E22.jpg
 photo_large: null
@@ -60,4 +63,7 @@ uid: 56396C69-7752-4252-A866-F5C6F25FA4A7-29546-0003F60F7C9EC8AF
 <li>A few tarragon leaves, for garnish</li>
 <li>Lemon wedges</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-05-30|recipenote]]</li>
+</ul>
+		</div>

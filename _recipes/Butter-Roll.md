@@ -13,6 +13,9 @@ ingredients: "200 g Bread Flour\n50 g Cake Flour\n25 g Granulated Sugar\n5 g Gue
   \ Salt (fine particles) \n10 g dry milk\n4 g Instant dry yeast \n120 g Water\n60\
   \ g Whole Egg\n40 g Unsalted Butter"
 intrash: 0
+meal_dates:
+- '2020-05-16'
+meal_types: '4'
 name: Butter Roll
 photo: F522063A-4155-42FD-AA39-494F5BD29F02-29546-0000D70B3D18819C.jpg
 photo_large: 9FFABAB3-E2FB-4006-8415-534BFECC1E42-29546-0000D704AED7E5DB.jpg
@@ -43,4 +46,7 @@ uid: 8EF38009-BB8A-474B-832A-573AA5F4DC59-11450-000003056F5299A6
 <li>60 g Whole Egg</li>
 <li>40 g Unsalted Butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-05-16|recipenote]]</li>
+</ul>
+		</div>

@@ -33,6 +33,9 @@ ingredients: '2 tablespoons coconut oil
 
   extra coconut milk or cream for drizzling'
 intrash: 0
+meal_dates:
+- '2020-07-02'
+meal_types: '3'
 name: Silky Ginger Sweet Potato Soup
 photo: 9ABE349C-3599-43F8-875E-E4AC27B7BE8B-17048-000007FA1BD06D74.jpg
 photo_large: null
@@ -63,4 +66,7 @@ uid: ECE2D7FE-A2D1-47B2-94F2-69E75CFBD8C2-17048-000007F9F43C38A5
 <li>2 tablespoons hemp hearts for topping</li>
 <li>extra coconut milk or cream for drizzling</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-02|recipenote]]</li>
+</ul>
+		</div>

@@ -17,6 +17,10 @@ ingredients: "4 cups shredded cabbage mix, I like a mix with red and green cabba
   \ teaspoon sea salt\nExtra veggie broth to thin out dressing if needed , I used\
   \ 1/4 cup"
 intrash: 0
+meal_dates:
+- '2020-07-16'
+- '2021-02-06'
+meal_types: 3|2
 name: Mexican Coleslaw with Cilantro Lime Dressing
 photo: E3512B52-3B38-4E58-9A87-B78AF76C9FBC-29053-00054525A18BAD83.jpg
 photo_large: 1CFDEE44-B3C4-4A73-BE09-77B086338490-29053-000545233BF075E4.jpg
@@ -49,4 +53,8 @@ uid: 77134287-CBD0-4325-84C7-4CF8666CCC2D-29053-0004FDD9DFD38753
 <li>1/2 teaspoon sea salt</li>
 <li>Extra veggie broth to thin out dressing if needed , I used 1/4 cup</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-16|recipenote]]</li>
+<li>[[2021-02-06|recipenote]]</li>
+</ul>
+		</div>

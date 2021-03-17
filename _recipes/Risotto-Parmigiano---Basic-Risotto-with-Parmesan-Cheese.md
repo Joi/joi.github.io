@@ -20,6 +20,12 @@ ingredients: "5 to 6 cups of chicken stock, preferably homemade (1,250 to 1,500 
   \ at room temperature (45 g)\r2/3 cup freshly grated _Parmesan_ cheese (80 g) plus\
   \ extra to pass at table\nSalt\rFreshly ground ground pepper"
 intrash: 0
+meal_dates:
+- '2020-06-27'
+- '2020-07-23'
+- '2020-07-24'
+- '2021-01-04'
+meal_types: 3|3|3|3
 name: Risotto Parmigiano - Basic Risotto with Parmesan Cheese
 photo: BB706A95-2AB6-481F-86FC-803DA68FC757-22544-00043A9058F3784F.jpg
 photo_large: ED4B1500-16C4-4385-A8CC-98C101E4D321-22544-00043A8F7FE965F6.jpg
@@ -49,4 +55,10 @@ uid: 925BC2D4-5E40-4CE6-B62B-49042E1643E5-22544-000439DB3B695B3A
 <li>Salt
 Freshly ground ground pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-06-27|recipenote]]</li>
+<li>[[2020-07-23|recipenote]]</li>
+<li>[[2020-07-24|recipenote]]</li>
+<li>[[2021-01-04|recipenote]]</li>
+</ul>
+		</div>

@@ -27,6 +27,8 @@ ingredients: 'Extra Virgin Olive Oil (I used Private Reserve Greek olive oil)
 
   3 tbsp chopped fresh dill'
 intrash: 0
+meal_dates: null
+meal_types: null
 name: Easy Calamari Recipe with Garlic-Lime Sauce
 photo: 82D62FC1-1FDA-4F39-898A-42B9E6CC0AE9-631-000061202E23EEEF.jpg
 photo_large: null
@@ -54,4 +56,9 @@ uid: 2831FFFC-E6FD-4540-8340-DABBF6E34558-631-0000611A318FD25C
 <li>Pinch cayenne pepper, optional</li>
 <li>3 tbsp chopped fresh dill</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-04|recipenote]]</li>
+<li>[[2020-07-11|recipenote]]</li>
+<li>[[2020-12-30|recipenote]]</li>
+</ul>
+		</div>

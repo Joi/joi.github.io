@@ -23,6 +23,10 @@ ingredients: '1 lb. chicken hearts
 
   1/2 teaspoon ground cumin'
 intrash: 0
+meal_dates:
+- '2020-07-27'
+- '2020-12-27'
+meal_types: 3|3
 name: Chicken Hearts
 photo: E3C69623-8421-4C73-A105-E300D7B47A9E-2209-0001DBA96F3CC751.jpg
 photo_large: null
@@ -48,4 +52,8 @@ uid: AAC09848-659F-47C4-B6A5-F2F4E409B1CD-2209-0001DBA6EF98B659
 <li>1/2 teaspoon onion powder</li>
 <li>1/2 teaspoon ground cumin</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-27|recipenote]]</li>
+<li>[[2020-12-27|recipenote]]</li>
+</ul>
+		</div>

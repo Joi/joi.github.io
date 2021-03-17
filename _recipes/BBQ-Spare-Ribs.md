@@ -14,6 +14,9 @@ ingredients: "Pork Spare Ribs\n**Homemade Pork Seasoning Rub**\n \xBD cup brown 
   1 tbsp chili powder\n1 tbsp garlic powder\n1 tbsp onion powder\n1 tsp cayenne\n\
   BBQ Sauce"
 intrash: 0
+meal_dates:
+- '2021-01-17'
+meal_types: '3'
 name: BBQ Spare Ribs
 photo: F497AAEF-7534-4B02-B7E1-D292B9A9D9F4-50715-00081F5AF19CF83E.jpg
 photo_large: E766C562-5EBC-4C39-A1B6-41EB6963081B-50715-00081F5A55BD3B82.jpg
@@ -46,4 +49,7 @@ uid: F6F34E62-D960-486A-9A20-B976D1309E32-50715-00080BBC09D1E91C
 <li>1 tsp cayenne</li>
 <li>BBQ Sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-01-17|recipenote]]</li>
+</ul>
+		</div>

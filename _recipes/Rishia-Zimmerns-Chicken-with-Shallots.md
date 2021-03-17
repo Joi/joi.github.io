@@ -30,6 +30,11 @@ ingredients: '8 bone-in chicken thighs
 
   2 cups cherry tomatoes, cut in half.'
 intrash: 0
+meal_dates:
+- '2020-04-02'
+- '2020-06-11'
+- '2021-03-11'
+meal_types: 3|3|3
 name: "Rishia Zimmern\u2019s Chicken with Shallots"
 photo: 0D9ADA44-9A27-4604-8E5C-803C35475EE4-22544-0003EE9BCDA6FBC4.jpg
 photo_large: 624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg
@@ -61,4 +66,9 @@ uid: 57A666F1-E339-4107-80E4-F9F286673626-39996-000020226ACB939A
 <li>2 sprigs tarragon</li>
 <li>2 cups cherry tomatoes, cut in half.</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-04-02|recipenote]]</li>
+<li>[[2020-06-11|recipenote]]</li>
+<li>[[2021-03-11|recipenote]]</li>
+</ul>
+		</div>

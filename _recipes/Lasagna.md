@@ -19,6 +19,9 @@ ingredients: "## Meat Sauce\n\u200B\n- 1 tbsp olive oil\n- \xBD onion, finely ch
   - 8 oz fresh lasagna sheets\n- 12 oz fresh mozzarella cheese, shredded\n\u200B\n\
   - 1 tbsp finely chopped fresh parsley"
 intrash: 0
+meal_dates:
+- '2020-09-05'
+meal_types: '3'
 name: Lasagna
 photo: A738C184-D910-47BB-8B63-0688F47B2CA8-50715-0006E3A5B4A3BDE7.jpg
 photo_large: B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg
@@ -158,4 +161,7 @@ uid: 6F6C35A4-9968-4D48-BB77-EB7ACB3DB08B-50715-0006C481622BC914
 </ul>
 </li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-09-05|recipenote]]</li>
+</ul>
+		</div>

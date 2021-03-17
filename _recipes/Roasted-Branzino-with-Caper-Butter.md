@@ -27,6 +27,12 @@ ingredients: '1 stick unsalted butter, softened
 
   3 tablespoons extra-virgin olive oil'
 intrash: 0
+meal_dates:
+- '2020-11-24'
+- '2020-12-23'
+- '2021-01-13'
+- '2021-02-13'
+meal_types: 3|3|3|3
 name: Roasted Branzino with Caper Butter
 photo: 6D9BF66C-7EFC-4AEE-9A81-942B783D6F50-11471-00000947882FD918.jpg
 photo_large: 681AC837-C3C3-4F73-B541-87143368AC58-11471-000009476739C86F.jpg
@@ -63,4 +69,10 @@ uid: B40DF28F-D2C8-4BC1-8E47-5009C4E843E4-68048-0000AAD508735823
 <li>4 large rosemary sprigs</li>
 <li>3 tablespoons extra-virgin olive oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-11-24|recipenote]]</li>
+<li>[[2020-12-23|recipenote]]</li>
+<li>[[2021-01-13|recipenote]]</li>
+<li>[[2021-02-13|recipenote]]</li>
+</ul>
+		</div>

@@ -21,6 +21,10 @@ ingredients: "5 eggs\n\xBD pound of crab - shredded\n1 cup of shiitake mushrooms
   1 Tbsp Shaoxing wine\n1 Tbsp sugar\n1 Tbsp rice vinegar\n\u2153 tsp salt\n1 tsp\
   \ soy sauce\n1 Tbsp potato starch dissolved in 1 Tbsp of water\n\n"
 intrash: 0
+meal_dates:
+- '2021-01-20'
+- '2021-02-16'
+meal_types: 3|3
 name: Kanitama
 photo: FA7B8558-6651-40E5-B58F-E10409643E3C-2310-0000D443463A29BE.jpg
 photo_large: A2A0EEBD-2C59-4FC8-8C87-A393A5880573-2310-0000D2D406094FF0.jpg
@@ -67,7 +71,7 @@ uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681
 </div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Cut shiitake, bamboo shoots, ginger and green onions. Prepare shredded crab.</p>
 <p>Break eggs in bowl and mix with a dash of salt, pepper, sugar and 2 tbsp of Shaoxing wine and mix gently without frothing.</p>
 <p>Combine all ingredients except potato starch for sweet and sour sauce in a bowl.</p>
-<p>Heat wok slowly to make sure that the entire wok is hot, then turn to high heat. Check for the <a href="/pages/leidenfrost-effect.html">Leidenfrost effect</a>, which is key to getting everything cooked properly and not stick to the pan.</p>
+<p>Heat wok slowly to make sure that the entire wok is hot, then turn to high heat. Check for the [[leidenfrost-effect|Leidenfrost effect]], which is key to getting everything cooked properly and not stick to the pan.</p>
 <p>Add 1 tbsp of light oil and stir fry the bamboo shoots, shiitake and ginger.</p>
 <p>Add crab, add 1 tsp of sesame oil and stir fry.</p>
 <p>Transfer to bowl and clean wok.</p>
@@ -75,4 +79,8 @@ uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681
 <p>Heat wok, add 1 tbsp light oil and pour egg mixture in. Once the edges start to solidify, fold the egg in on it self and cook without mixing aggressively. Before it is completely set, remove everything from wok.</p>
 <p>Add sweet and source mix to wok and heat. After boiling, slowly mix in potato starch/water mixture until the sauce becomes thick.</p>
 <p>Pour the sauce over everything and serve.</p>
-</div>	</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-01-20|recipenote]]</li>
+<li>[[2021-02-16|recipenote]]</li>
+</ul>
+		</div>

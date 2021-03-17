@@ -16,6 +16,10 @@ ingredients: 'Prime Rib
 
   Pepper'
 intrash: 0
+meal_dates:
+- '2020-10-04'
+- '2020-12-06'
+meal_types: 3|3
 name: Prime Rib
 photo: 8BF68ECB-3D21-476A-9600-823747213F0B-2241-0001DD4E127FBB06.jpg
 photo_large: 345B6076-40B7-4425-8C42-7C3059EEDA67-2241-0001DD4817BFB668.jpg
@@ -67,4 +71,8 @@ uid: 1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259
 <p>If it finishes more than 1 ½ hours before serving, remove from oven and put back into oven for 45 min at 200ºF before searing to reheat.</p>
 <p>Sear at max temperature in oven (550ºF on Wolf) for 6 - 10 min.</p>
 <p>Slice and serve.</p>
-</div>	</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-10-04|recipenote]]</li>
+<li>[[2020-12-06|recipenote]]</li>
+</ul>
+		</div>

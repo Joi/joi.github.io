@@ -45,6 +45,10 @@ ingredients: '1 3-4 pound chicken (1.350 to 1.800 g)
 
   3 quarts cold water'
 intrash: 0
+meal_dates:
+- '2020-06-11'
+- '2020-06-24'
+meal_types: 2|4
 name: Harry's Bar Chicken Stock
 photo: F600B36D-839E-4344-89FC-4E10DEB17E36-39996-00002085D88E725F.jpg
 photo_large: EF674E95-FBEB-40C7-83CC-B902DCA9B59C-39996-000020859FC48E6A.jpg
@@ -90,4 +94,8 @@ uid: 47365C63-5584-4742-8622-94EF89CC996B-25037-0000A09454C82C98
 <li>2 teaspoons salt</li>
 <li>3 quarts cold water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-06-11|recipenote]]</li>
+<li>[[2020-06-24|recipenote]]</li>
+</ul>
+		</div>

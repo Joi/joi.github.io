@@ -19,6 +19,10 @@ ingredients: '1 whole Chicken
 
   2 Tbsp High smoke point oil, like grapeseed'
 intrash: 0
+meal_dates:
+- '2021-01-01'
+- '2021-03-04'
+meal_types: 3|3
 name: Roast Chicken 101
 photo: E53109E2-A98E-48C6-9B75-D5B3370D0A24-79834-000040B3394AB6D2.jpg
 photo_large: null
@@ -42,4 +46,8 @@ uid: 9CA8E908-CB87-4646-B9E4-EA9617ADEFFF-79834-000040B32B39656B
 <li>2 tsp Smoked paprika</li>
 <li>2 Tbsp High smoke point oil, like grapeseed</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-01-01|recipenote]]</li>
+<li>[[2021-03-04|recipenote]]</li>
+</ul>
+		</div>

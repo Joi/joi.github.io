@@ -45,6 +45,9 @@ ingredients: 'For Spice Rub:
 
   1/4 cup grated carrots'
 intrash: 0
+meal_dates:
+- '2020-08-25'
+meal_types: '3'
 name: Mediterranean Lemon Poached Halibut
 photo: DF924802-86B4-476E-9696-6DCD792E087A-12311-0000072A1320EF48.jpg
 photo_large: 4E849399-C04E-46EA-953F-DCDF76B830EE-12311-0000072A058D3A9D.jpg
@@ -84,4 +87,7 @@ uid: 7F9B1014-78E5-4DA8-B030-A3DBAD3D82D6-2643-000000E50A6D15D1
 <li>3 scallions, both white and green parts, chopped</li>
 <li>1/4 cup grated carrots</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-08-25|recipenote]]</li>
+</ul>
+		</div>

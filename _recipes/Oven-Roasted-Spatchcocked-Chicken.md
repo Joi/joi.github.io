@@ -18,6 +18,13 @@ ingredients: 'Whole Chicken
 
   Butter'
 intrash: 0
+meal_dates:
+- '2020-07-15'
+- '2020-07-23'
+- '2020-07-30'
+- '2020-08-06'
+- '2020-10-08'
+meal_types: 3|3|3|3|3
 name: Oven Roasted Spatchcocked Chicken
 photo: 1E6F0850-AD17-424B-919B-059A81B1C18F-22008-00000A5E92C67743.jpg
 photo_large: C705FB1F-4526-4177-B221-A8F48F79BABF-22008-00000A5E5FB61826.jpg
@@ -67,4 +74,11 @@ uid: 36A76453-1BC6-44FF-A21C-1BC30580CED0-631-0002C95B214A28BC
 <p>Rest:</p>
 <p>Remove from oven and rest for 10-15 min.</p>
 <p>Carve and Serve.</p>
-</div>	</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-15|recipenote]]</li>
+<li>[[2020-07-23|recipenote]]</li>
+<li>[[2020-07-30|recipenote]]</li>
+<li>[[2020-08-06|recipenote]]</li>
+<li>[[2020-10-08|recipenote]]</li>
+</ul>
+		</div>

@@ -37,6 +37,9 @@ ingredients: '8 oz. shrimp (21 size, or about 10 shrimp)
 
   1 scallion, chopped'
 intrash: 0
+meal_dates:
+- '2020-08-29'
+meal_types: '3'
 name: Shrimp with Lobster Sauce
 photo: 9040346D-6527-4E57-8014-DA3E67EBA953-13002-0005936120398C25.jpg
 photo_large: D930BA34-6DA1-419F-9535-6D44EE6D3B74-13002-0005935F06F8FE7F.jpg
@@ -72,4 +75,7 @@ uid: B606531D-7F81-4AD9-B14E-BA7E920951F3-5646-000003098E73CAE3
 <li>1 egg, beaten slightly</li>
 <li>1 scallion, chopped</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-08-29|recipenote]]</li>
+</ul>
+		</div>

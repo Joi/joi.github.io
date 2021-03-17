@@ -36,6 +36,8 @@ ingredients: '6 cups chicken stock
 
   Worcestershire sause'
 intrash: 0
+meal_dates: null
+meal_types: null
 name: Chicken Sandwich
 photo: null
 photo_large: null
@@ -65,4 +67,9 @@ uid: FF152B59-4FDC-41E6-9C93-6A95ED09083E-25037-0000A041D3575177
 <li>1/2 head romaine lettuce, coarsely shredded</li>
 <li>Worcestershire sause</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-06-11|recipenote]]</li>
+<li>[[2020-08-17|recipenote]]</li>
+<li>[[2021-01-22|recipenote]]</li>
+</ul>
+		</div>

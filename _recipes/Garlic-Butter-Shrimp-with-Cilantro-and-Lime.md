@@ -27,6 +27,8 @@ ingredients: 'YOU WILL NEED
 
   1/2 cup fresh cilantro leaves and tender stems, chopped'
 intrash: 0
+meal_dates: null
+meal_types: null
 name: Garlic Butter Shrimp with Cilantro and Lime
 photo: C3DE01BE-5BA9-4C71-8F3F-6B204BC0450B-2241-000315643A3ADA87.jpg
 photo_large: 97893798-FF99-4F95-B3D8-F704F8940C91-2241-00031561FD34E5F3.jpg
@@ -57,4 +59,7 @@ uid: 9966B4CF-829A-4D19-860F-F7AC1BFB2ED8-5646-0000030C2287F7BC
 <li>2 scallions, chopped</li>
 <li>1/2 cup fresh cilantro leaves and tender stems, chopped</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-08-29|recipenote]]</li>
+</ul>
+		</div>

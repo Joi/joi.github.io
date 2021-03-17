@@ -13,6 +13,8 @@ ingredients: "6  star anise pods\n1 \xBD teaspoons whole cloves (or 1 1/4 teaspo
   \ ground) \n1 cinnamon stick (3 inches long ) or two tablespoons ground\n2 tablespoons\
   \ fennel seeds\n2 teaspoons Szechuan peppercorns"
 intrash: 0
+meal_dates: null
+meal_types: null
 name: Chinese 5 Spices
 photo: 819B8588-BC94-40DA-89C7-9BCF1036E86B-4181-0001E28A3B23CBA7.jpg
 photo_large: 706A3B1C-E667-42CC-BD8C-2D6D61A697AC-4181-0001E289F8DE5CC0.jpg
@@ -39,4 +41,7 @@ uid: E2D3A29F-1034-4BD7-9633-0EF992A95660-4181-0001E27BEC161880
 <li>2 tablespoons fennel seeds</li>
 <li>2 teaspoons Szechuan peppercorns</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-02-04|recipenote]]</li>
+</ul>
+		</div>

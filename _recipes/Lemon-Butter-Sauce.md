@@ -21,6 +21,9 @@ ingredients: '12 tablespoons cold unsalted butter, sliced into 1/2 inch pieces, 
 
   Kosher salt and ground white pepper'
 intrash: 0
+meal_dates:
+- '2021-01-26'
+meal_types: '3'
 name: Lemon Butter Sauce
 photo: E5B37250-BAB0-40DD-8825-DD8C87D4E63C-10626-0000074C7D910106.jpg
 photo_large: null
@@ -45,4 +48,7 @@ uid: E2E90BC0-9E53-4ABE-9A74-07AC0D2B286F-10626-0000074C49E472D7
 <li>3 tablespoons fresh lemon juice</li>
 <li>Kosher salt and ground white pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-01-26|recipenote]]</li>
+</ul>
+		</div>

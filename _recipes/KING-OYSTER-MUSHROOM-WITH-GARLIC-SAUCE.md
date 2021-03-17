@@ -16,6 +16,10 @@ ingredients: "2 tbsp cooking oil\n6 king oyster mushrooms, about 400g/14oz\n1 tb
   1 tbsp light soy sauce\n1 tsp dark soy sauce\n\xBD tbsp sugar\n\xBD tbsp cornstarch\n\
   1 tbsp water"
 intrash: 0
+meal_dates:
+- '2020-10-22'
+- '2021-01-24'
+meal_types: 3|2
 name: KING OYSTER MUSHROOM WITH GARLIC SAUCE
 photo: FE633B30-7AF9-4F17-9E99-95F3349DAE2B-36256-00001A651852F2E7.jpg
 photo_large: F874CBF7-4E41-41AE-8762-911AAEC5D1FF-36256-00001A650FCA8705.jpg
@@ -54,4 +58,8 @@ uid: 9BD58944-2A23-43C2-832C-B57CE5F7F8FF-64845-00002AEE0BF7D9BE
 <li>½ tbsp cornstarch</li>
 <li>1 tbsp water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-10-22|recipenote]]</li>
+<li>[[2021-01-24|recipenote]]</li>
+</ul>
+		</div>

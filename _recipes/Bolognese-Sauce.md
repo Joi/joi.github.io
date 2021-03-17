@@ -19,6 +19,18 @@ ingredients: "1 Tbsp olive oil\n1 \xBD cups diced yellow onion\n\xBD cup diced c
   parmesan cheese\npinch ground nutmeg\nbay leaves\nmirin\nfish sauce\nkosher salt\
   \ and freshly-ground black pepper\n"
 intrash: 0
+meal_dates:
+- '2020-09-11'
+- '2020-09-16'
+- '2020-12-21'
+- '2020-12-27'
+- '2021-01-18'
+- '2021-01-25'
+- '2021-02-07'
+- '2021-02-17'
+- '2021-02-25'
+- '2021-03-06'
+meal_types: 3|3|3|3|3|3|3|3|3|3
 name: Bolognese Sauce
 photo: B5DEB0CE-E531-4A2A-B04F-80BB60BF7B33-37413-00001BE78EA81623.jpg
 photo_large: 2C7DEBA0-584E-491C-99E2-531EC9F06995-37413-00001BE77E34EAAB.jpg
@@ -120,4 +132,16 @@ uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1
 <p>Pressure cook for 20 min.</p>
 <p>Quick release and then simmer on low sauté setting until thickness is right.</p>
 <p>Add heavy cream and parmesan.</p>
-</div>	</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-09-11|recipenote]]</li>
+<li>[[2020-09-16|recipenote]]</li>
+<li>[[2020-12-21|recipenote]]</li>
+<li>[[2020-12-27|recipenote]]</li>
+<li>[[2021-01-18|recipenote]]</li>
+<li>[[2021-01-25|recipenote]]</li>
+<li>[[2021-02-07|recipenote]]</li>
+<li>[[2021-02-17|recipenote]]</li>
+<li>[[2021-02-25|recipenote]]</li>
+<li>[[2021-03-06|recipenote]]</li>
+</ul>
+		</div>

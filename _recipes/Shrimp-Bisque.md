@@ -38,6 +38,9 @@ ingredients: 'GATHER YOUR INGREDIENTS
 
   Salt and pepper'
 intrash: 0
+meal_dates:
+- '2020-07-28'
+meal_types: '3'
 name: Shrimp Bisque
 photo: 266540B0-EE7C-4333-998D-57392CAD8F39-2209-000245978DCAB24B.jpg
 photo_large: 8522B969-B1FD-4273-ABC0-6B9F3229A010-2209-000245943EAD84C6.jpg
@@ -73,4 +76,7 @@ uid: 07B00EC3-D72D-4F99-9495-7378F03075FA-2209-0002342328EFFF9D
 <li>2 cups heavy cream</li>
 <li>Salt and pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-28|recipenote]]</li>
+</ul>
+		</div>

@@ -21,6 +21,9 @@ ingredients: "1 tablespoon vegetable oil\n3 pounds oxtails\n1 large carrot, peel
   4 cups homemade or low-sodium canned chicken stock Kosher salt and freshly ground\
   \ black pepper"
 intrash: 0
+meal_dates:
+- '2021-02-20'
+meal_types: '3'
 name: Oxtail Au Jus
 photo: 84BF3CD6-6325-44F0-9E48-7906E8A6A3E6-26383-000126417DBE7CB5.jpg
 photo_large: 582BCC5D-D8BE-47E1-A213-A201C0887506-26383-0001262BA31DA25F.jpg
@@ -92,4 +95,7 @@ uid: C7AD59DF-7961-4287-8189-C483C746C56E-26383-000125FF55081DA0
 <li>4 stems fresh parsley</li>
 <li>4 cups homemade or low-sodium canned chicken stock Kosher salt and freshly ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-02-20|recipenote]]</li>
+</ul>
+		</div>

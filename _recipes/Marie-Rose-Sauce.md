@@ -15,6 +15,9 @@ image_url: null
 ingredients: "\u2154 cup of fresh [recipe:Mayonnaise]\n1 Tbsp ketchup\n1 tsp Worcestershire\
   \ sauce\n1 tsp freshly grated horseradish or wasabi\nTabasco sauce\nPinch of paprika"
 intrash: 0
+meal_dates:
+- '2021-01-22'
+meal_types: '3'
 name: Marie Rose Sauce
 photo: null
 photo_large: null
@@ -44,4 +47,7 @@ uid: B6713303-47E6-4EC6-B28A-A94F33DE95C9-31488-00001728BCEAC9EC
 </div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Combine everything except paprika</p>
 <p>Either toss shrimp or lobster or serve on the side as a dipping sauce</p>
 <p>Sprinkle with paprika for flavor and color</p>
-</div>	</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-01-22|recipenote]]</li>
+</ul>
+		</div>

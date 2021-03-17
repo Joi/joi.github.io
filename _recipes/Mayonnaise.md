@@ -14,6 +14,11 @@ ingredients: "2 large egg yolks or 1 large egg and 1 large egg yolk, at room tem
   \ ground white pepper\n1 1/2 cups olive oil\nFresh lemon juice\nChicken broth or\
   \ water as needed to thin sauce"
 intrash: 0
+meal_dates:
+- '2020-06-11'
+- '2020-08-17'
+- '2021-01-22'
+meal_types: 2|3|3
 name: Mayonnaise
 photo: null
 photo_large: null
@@ -40,4 +45,9 @@ uid: D5E799CA-BA36-4A30-B385-9CD111E6F9A5-25037-0000A0DF30640117
 <li>Fresh lemon juice</li>
 <li>Chicken broth or water as needed to thin sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-06-11|recipenote]]</li>
+<li>[[2020-08-17|recipenote]]</li>
+<li>[[2021-01-22|recipenote]]</li>
+</ul>
+		</div>

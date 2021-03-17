@@ -26,6 +26,9 @@ ingredients: "**For the chicken marinade:**\nWhole chicken\n1 cup plain yogurt\n
   \ cups of heavy or thickened cream (use evaporated milk for lower calories)\n1 tsp\
   \ brown sugar\n\xBC cup water if needed\n4 Tbsp Fresh cilantro to garnish"
 intrash: 0
+meal_dates:
+- '2021-02-04'
+meal_types: '3'
 name: Braised Chicken Tikka Masala
 photo: B77A007F-371B-491E-8599-B3290EEEE89A-26383-0001C3C3637BDDF9.jpg
 photo_large: B04139C8-D6A5-4C26-8F80-FF0B29758812-415-00000263F32582B7.jpg
@@ -104,4 +107,7 @@ uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5
 <p>Put thighs and drumsticks in skin side up and bring to simmer. Cover and cook for 8 minutes. Add broad big pieces skin side down. Cover and cook until big breast pieces have an internal temperature of 105ºF to 115ºF degrees, 3 to 5 minutes.</p>
 <p>Turn big breast pieces skin side up. Add smaller tapered breast pieces, skin side up. Transfer covered pot to oven or simmer and cook until breast pieces have an internal temperature of 150ºF and dark meat is 160ºF, 15 to 30 minutes.</p>
 <p>Garnish with cilantro and serve.</p>
-</div>	</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-02-04|recipenote]]</li>
+</ul>
+		</div>

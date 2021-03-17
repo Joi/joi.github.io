@@ -24,6 +24,9 @@ ingredients: "4 \xBD cups chicken stock\n\xBD tsp saffron threads, crumbled and 
   \ mussels, rinsed and scrubbed\n1 lb littleneck clams, rinsed and scrubbed\n\xBC\
   \ cup chopped parsley, for garnish"
 intrash: 0
+meal_dates:
+- '2020-09-12'
+meal_types: '3'
 name: Paella
 photo: 47EF0BD5-792F-4849-B7FD-4F88FB7DC041-1119-0000011B47ECD27B.jpg
 photo_large: 26B30777-A706-42E9-AFE1-5F38DC4DAC65-1119-0000011A9F40B52B.jpg
@@ -72,4 +75,7 @@ uid: D012AD02-2C8B-45D6-B54B-B7C3339CDF60-1119-00000022984CEC03
 <p>Cover pan with foil or lid and close grill or oven and cook for 6 - 10 min until rice and shrimp are done.</p>
 <p>Remove when done and sprinkle with parsley.</p>
 <p>Serve in the pan.</p>
-</div>	</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-09-12|recipenote]]</li>
+</ul>
+		</div>

@@ -50,6 +50,12 @@ ingredients: '4 chunks monkfish fillet, about 6 ounces each, skin and translucen
 
   About 1/2 cup [recipe: Aioli Sauce]'
 intrash: 0
+meal_dates:
+- '2020-09-01'
+- '2020-08-22'
+- '2020-09-19'
+- '2020-10-13'
+meal_types: 3|3|3|3
 name: Monkfish Braised with White Beans, Fennel, & Tomato
 photo: B8A6D2EE-191D-46C3-AEB1-FCB5A89E8461-13002-000592A4D027D972.jpg
 photo_large: C9F676C9-3E3E-4ECB-8379-6B02FAAA2ED0-13002-000592A0B76502DE.jpg
@@ -100,4 +106,10 @@ uid: 4BEE23AC-2D81-4286-95B1-C03143055FB4-13002-00059228C79F4EF4
 <li>About 1-1/2 cups cooked white beans, drained, cooking liquid reserved</li>
 <li>About 1/2 cup [[-Aioli-Sauce| Aioli Sauce]]</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-09-01|recipenote]]</li>
+<li>[[2020-08-22|recipenote]]</li>
+<li>[[2020-09-19|recipenote]]</li>
+<li>[[2020-10-13|recipenote]]</li>
+</ul>
+		</div>

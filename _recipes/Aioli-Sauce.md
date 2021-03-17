@@ -37,6 +37,12 @@ ingredients: '2 cloves of garlic or 1 tablespoon of green garlic
 
   1 tablespoon of fresh tarragon or chives'
 intrash: 0
+meal_dates:
+- '2020-07-10'
+- '2020-09-19'
+- '2020-10-13'
+- '2020-12-05'
+meal_types: 3|3|3|3
 name: Aioli Sauce
 photo: C1223062-F74E-4208-AC1C-A8D6907C7BE4-29053-000376E2CCD86DB9.jpg
 photo_large: 4A1B4683-121B-4179-B19A-661E6C6D0D13-29053-000376E2499F5BDF.jpg
@@ -68,4 +74,10 @@ uid: 383352B7-6E3A-4CB7-A36E-EA826E3E00AB-631-0003169816AA6155
 <li>3/4 cup extra-virgin olive oil</li>
 <li>1 tablespoon of fresh tarragon or chives</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-10|recipenote]]</li>
+<li>[[2020-09-19|recipenote]]</li>
+<li>[[2020-10-13|recipenote]]</li>
+<li>[[2020-12-05|recipenote]]</li>
+</ul>
+		</div>

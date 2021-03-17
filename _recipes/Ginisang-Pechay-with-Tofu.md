@@ -20,6 +20,8 @@ ingredients: "1 lb bok choy cleaned and chopped\n1 lb tofu cut into \xBD in x \x
   \ garlic crushed\n1 cup chicken broth\n\xBD cup cooking oil\n2 Tbsp fish sauce\n\
   Salt and pepper to taste"
 intrash: 0
+meal_dates: null
+meal_types: null
 name: Ginisang Pechay with Tofu
 photo: F8B3AF03-B696-42DE-9121-42D33AF03E5D-15291-00020AF6192CE592.jpg
 photo_large: B3009C8F-3EBC-4E8C-8B0A-3B9D6778662F-15291-00020AE6E8348173.jpg
@@ -92,4 +94,8 @@ uid: 4F3E45E3-005E-45BB-B979-C01932CE279A-15291-00020AB486C3609F
 <p>Add tofu and bok choy and stir-fry for 3 - 5 min until the bok choy is tender, but not soft. If you want, you can separate the leafy part from the thick stems and add them a min or two after the thick parts.</p>
 <p>Add chicken broth (or water if you don't have any) and bring to boil. Cover and simmer for 2 - 3 min.</p>
 <p>Add fish sauce and ground black pepper.</p>
-</div>	</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-02-26|recipenote]]</li>
+<li>[[2021-02-23|recipenote]]</li>
+</ul>
+		</div>

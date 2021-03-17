@@ -12,6 +12,10 @@ image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/
 ingredients: "1 tsp dried instant yeast\nor \xBD oz fresh yeast\n10 oz water\n1 tsp\
   \ sugar\n1 tsp olive oil\n18 oz bread flour\n1 tsp salt"
 intrash: 0
+meal_dates:
+- '2020-05-09'
+- '2020-05-30'
+meal_types: 2|4
 name: Pita Bread
 photo: 9A7D7EE4-7336-4518-BADE-B6CEEFC46D35-53878-00004CF254FB6333.jpg
 photo_large: null
@@ -37,4 +41,8 @@ uid: A2C1D3A5-6BAB-47AE-B15E-D7E4F4B559F1-53878-00004CEED8E59BC2
 <li>18 oz bread flour</li>
 <li>1 tsp salt</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-05-09|recipenote]]</li>
+<li>[[2020-05-30|recipenote]]</li>
+</ul>
+		</div>

@@ -15,6 +15,10 @@ ingredients: "GATHER YOUR INGREDIENTS\n3 tablespoons soy sauce\n2 tablespoons sa
   \ and cut crosswise into 1- to 1\xBD-inch-wide strips\n1 \xBC cups cornstarch\n\
   1 quart vegetable oil, for frying\nLemon wedges"
 intrash: 0
+meal_dates:
+- '2020-05-21'
+- '2021-03-11'
+meal_types: 3|3
 name: Japanese Fried Chicken Thighs (Karaage)
 photo: BFFADF72-BA81-4AFF-8A2B-531BE746240C-29546-0001D1BE440DA8ED.jpg
 photo_large: 2BE4ABFC-F15F-428D-B222-CD131D8EAA00-29546-0001D1BB3D1CA3B2.jpg
@@ -47,4 +51,8 @@ uid: AF9FDAAB-9F87-45DF-AC3C-6D85FFF3DF26-408-00004F23542EA29A
 <li>1 quart vegetable oil, for frying</li>
 <li>Lemon wedges</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-05-21|recipenote]]</li>
+<li>[[2021-03-11|recipenote]]</li>
+</ul>
+		</div>

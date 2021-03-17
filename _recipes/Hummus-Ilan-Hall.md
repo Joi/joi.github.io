@@ -15,6 +15,9 @@ ingredients: "**Hummus**\n8 oz dried garbanzo beans\n23 oz water, divided, plus 
   \ smashed\n1 oz extra virgin olive oil\nground smoked paprika, to garnish\n\xBD\
   \ oz pistachios, toasted and chopped\nsliced raw vegetables, to serve"
 intrash: 0
+meal_dates:
+- '2020-06-25'
+meal_types: '4'
 name: Hummus (Ilan Hall)
 photo: 82348952-B32B-42DC-AA8C-9497D3EE45F5-25037-00009F4F60E8F23D.jpg
 photo_large: null
@@ -47,4 +50,7 @@ uid: 0D50D58F-97BC-420D-8B90-24B68665D672-25037-00009F4D10ECF74A
 <li>½ oz pistachios, toasted and chopped</li>
 <li>sliced raw vegetables, to serve</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-06-25|recipenote]]</li>
+</ul>
+		</div>

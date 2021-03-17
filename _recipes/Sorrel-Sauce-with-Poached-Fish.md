@@ -27,6 +27,8 @@ ingredients: "1 \xBD pounds Pacific sole or flounder fillets\nSalt and freshly g
   \ for color as well as flavor, but not a deal breaker) ***\nJuice of half a lemon,\
   \ as needed"
 intrash: 0
+meal_dates: null
+meal_types: null
 name: Sorrel Sauce with Poached Fish
 photo: null
 photo_large: null
@@ -61,4 +63,8 @@ uid: 7A82E399-1C0A-4A54-B4A6-539CFD569953-89150-0000F342AD89AD55
 <li>Salt and pepper (white pepper preferred for color as well as flavor, but not a deal breaker) ***</li>
 <li>Juice of half a lemon, as needed</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-04-19|recipenote]]</li>
+<li>[[2020-07-01|recipenote]]</li>
+</ul>
+		</div>

@@ -36,6 +36,10 @@ ingredients: '1 lb bok choy cleaned and chopped
 
   Ground black pepper to taste'
 intrash: 0
+meal_dates:
+- '2021-02-26'
+- '2021-02-23'
+meal_types: 3|3
 name: Ginisang Pechay with Ground Pork and Shrimp
 photo: 7B7D1638-11B3-4787-9384-CE92FE051664-26383-00017286251C9F3C.jpg
 photo_large: 1967A315-2161-4F72-B690-19196A716D84-26383-00017281FAE33C55.jpg
@@ -86,4 +90,8 @@ uid: D1802362-2744-4AED-A6DC-2AB29EC1D022-26383-0001720E4DC5724D
 <p>Add shrimp and bok choy and stir-fry for 3 - 5 min until the bok choy is tender, but not soft. If you want, you can separate the leafy part from the thick stems and add them a min or two after the thick parts.</p>
 <p>Add chicken broth (or water if you don't have any) and bring to boil. Cover and simmer for 2 - 3 min.</p>
 <p>Add fish sauce and ground black pepper.</p>
-</div>	</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-02-26|recipenote]]</li>
+<li>[[2021-02-23|recipenote]]</li>
+</ul>
+		</div>

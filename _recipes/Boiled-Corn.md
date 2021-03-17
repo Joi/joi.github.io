@@ -17,6 +17,8 @@ ingredients: 'Corn
 
   Pepper'
 intrash: 0
+meal_dates: null
+meal_types: null
 name: Boiled Corn
 photo: 3E713826-907D-4C7E-A50F-E552F2F20A0E-29053-0004B199DA42BEE9.jpg
 photo_large: D688E9A8-92D0-474B-997F-39D46ACD72E7-29053-0004B19974BA446A.jpg
@@ -42,4 +44,8 @@ uid: 23FE81EA-D7B3-4C76-BDFE-07336D41F990-29053-0004B181B996F693
 <li>Salt</li>
 <li>Pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2020-07-14|recipenote]]</li>
+<li>[[2020-12-25|recipenote]]</li>
+</ul>
+		</div>

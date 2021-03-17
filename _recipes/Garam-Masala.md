@@ -14,6 +14,8 @@ ingredients: "1 tablespoon ground cumin\n2 teaspoons ground coriander\n2 teaspoo
   \ teaspoon ground nutmeg\n\xBD teaspoon ground cloves\n1/4\u2013 \xBD teaspoon cayenne\
   \ (optional)"
 intrash: 0
+meal_dates: null
+meal_types: null
 name: Garam Masala
 photo: 9525E6FD-A15D-414D-9861-F78EA7E3E1B9-10686-00000669655EC9C6.jpg
 photo_large: null
@@ -40,4 +42,7 @@ uid: 091C9703-71CD-4710-9D13-0BA79AAB8724-10686-0000065A926CC623
 <li>½ teaspoon ground cloves</li>
 <li>1/4– ½ teaspoon cayenne (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
+<li>[[2021-01-22|recipenote]]</li>
+</ul>
+		</div>
