@@ -82,6 +82,7 @@ For now.
   So that we can conditionally insert the Recipe<->Post/Meal Date links
   <div class="medium-2 columns" id="photo-sidebar">
 {% endcomment %}
+    {% comment %}
     <div class="" id="recipe-photos">
     {% if page.photos %}
       {% for phot in page.photos %}
@@ -114,6 +115,7 @@ For now.
     {% endif %}
     &nbsp;
     </div>
+    {% endcomment %}
   </div><!-- #photo-sidebar -->
 </div><!-- #row-two -->
 
