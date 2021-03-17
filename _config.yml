@@ -22,7 +22,7 @@ name: Joi Ito
 title: Joi's Cooking
 email: joi@ito.com
 description: >- # this means to ignore newlines until "baseurl:"
-    An experimental website to play with Jekyll.
+    Joi's Cooking and Related Tangents
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cooking.ito.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joi
@@ -50,6 +50,10 @@ collections:
     permalink: /recipes/:slug
   pages:
     output: true
+  notes:
+    output: true
+    sort_by: date
+    permalink: /:year/:month/:day/notes/:slug
 
 defaults:
   - scope:
@@ -58,18 +62,27 @@ defaults:
     values:
       layout: "post"
       i_am  : "post" # to review - see post.html layout
+
   - scope:
       path: "_pages" # Source path!
       type: "pages"
     values:
       layout: "page"
       i_am  : "page" # to review - see post.html layout
+
   - scope:
       path: "_recipes"
       type: "recipes" # Refers to the collections key name
     values:
       layout: "recipe"
       i_am  : "recipe" # to review - see post.html layout
+
+  - scope:
+      path: "_notes" # Source path!
+      type: "notes"
+    values:
+      layout: "note"
+      i_am  : "note" # to review - see note.html layout
 
 # Exclude from processing.
 # The following items will not be processed, by default.

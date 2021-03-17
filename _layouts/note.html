@@ -1,0 +1,46 @@
+---
+layout: default
+---
+<!-- template: post.html -->
+<div class="row" id="content">
+	{%- comment -%}
+	<div class="medium-2 columns" id="left-margin">
+		&nbsp;
+	</div>
+	{%- endcomment -%}
+	<div class="medium-9 columns" id="main">
+
+		<h3>{{ page.title }}</h3>
+		<p>{{ page.date | date: '%B %d, %Y' }}</p>
+
+		<div class="content">
+      {%- include content.html -%}
+    </div>
+
+	</div>
+	<div class="medium-3 columns" id="right-margin">
+		{%- comment -%}{%- include backlinks.html -%}{%- endcomment -%}
+    
+		{% for tag in page.tags %}
+      {%- if site.data.recipe_categories[tag] -%}
+        {% assign recipes = site.data.recipe_categories[tag] %}
+        {% if recipes %}
+          <h5>{{ tag | capitalize }}</h5>
+          <ul>{% for recipe in recipes %}
+            <li><a href="/recipes/{{ recipe[0] | slugify }}">{{ recipe[1] }}</a></li>{% endfor %}
+          </ul>
+        {%- endif -%}
+      {%- endif -%}
+		{% endfor %}
+
+{%- comment -%}
+		{% assign key 			= post.categories %}
+		{% assign json_data = site.data.recipes[key] %}
+		{% assign excerpt 	= json_data.ingredients | markdownify | strip_html | truncate: 500 | newline_to_br %}
+		{% assign title 	= json_data.name | markdownify | strip_html | truncate: 100  %}
+{%- endcomment -%}
+
+
+	</div>
+</div>
+<!-- /template: post.html -->
