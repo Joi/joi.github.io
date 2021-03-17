@@ -78,44 +78,11 @@ For now.
 {% comment %}
 - Row Two is opened and populated over in the Python script.
   We just append the photostrip here and close it.
-- The photostrip column is opened in the Python script
+- The old photostrip column is opened in the Python script
   So that we can conditionally insert the Recipe<->Post/Meal Date links
   <div class="medium-2 columns" id="photo-sidebar">
 {% endcomment %}
-    
-    <div class="" id="recipe-photos">
-    {% if page.photos_dict %}
-      {% for phot in page.photos_dict %}
-        {%- if phot[1] != photo_hero -%}
-          <figure>
-            <a
-              href="/images/recipes/{{page.uid}}/{{ phot[1] }}" 
-              title="recipe photo - {{ phot[0] }}">
-                <img
-                  src="/images/recipes/{{page.uid}}/{{ phot[1] }}"
-                  alt="recipe photo - {{ phot[0] }}" />
-            </a>
-          </figure>
-        {%- endif -%}
-      {% endfor %}
-    {% else %}
-      {% if page.photo and page.photo != photo_hero %}
-        <figure>
-          <a
-            href="/images/recipes/{{page.uid}}/{{page.photo}}" 
-            title="recipe photo from source">
-              <img
-                src="/images/recipes/{{page.uid}}/{{page.photo}}"
-                alt="recipe photo from source" />
-            </a>
-        </figure>
-      {% else %}
-        <!-- No photos -->
-      {% endif %}
-    {% endif %}
-    &nbsp;
-    </div>
-    
+
   </div><!-- #photo-sidebar -->
 </div><!-- #row-two -->
 

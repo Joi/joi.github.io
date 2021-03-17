@@ -312,15 +312,6 @@ for result in results:
         result['photos_dict'] = dict(zip(result['photos_names'], result['photos_filenames']))
     except:
         pass
-    # --------------------------------------------------------------------------------------
-    # Temporary, parse out the name:filename dictionary into a list of key:value dicts
-    # I am doing this to preserve legacy in the Jekyl templates. May remove laters.
-    for k,v in sorted(result['photos_dict'].items()):
-        phots = {'filename':v,'name':k}
-        result['photos'].append(phots)
-    # Delete the concatened phot_names and photo_filenames string we got from the SQL query
-    del result['photos_names'],result['photos_filenames']
-    # --------------------------------------------------------------------------------------
 
 
     # ---------------------------------------------------
