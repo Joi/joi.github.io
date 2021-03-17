@@ -296,10 +296,10 @@ for result in results:
     result['permalink'] = '/recipes/'+fileName
     # --------------------------------------------------------------------------------------
     # Start of RESULT Items FOR loop {
-        # ---------------------------------------------------
-        # Photos Stuff
-        # We do this first so we have access to the photo data when parsing Paprika Markdown-ish [photo:name]
-        # Split concatened photo filenames and names into a lists
+    # ---------------------------------------------------
+    # Photos Stuff
+    # We do this first so we have access to the photo data when parsing Paprika Markdown-ish [photo:name]
+    # Split concatened photo filenames and names into a lists
     try:
         result['photos_filenames'] = result['photos_filenames'].split('|')
     except:
@@ -312,9 +312,15 @@ for result in results:
         result['photos_dict'] = dict(zip(result['photos_names'], result['photos_filenames']))
     except:
         pass
-
-        #if result["photos"] == []:
-        #    result["photos"] = False 
+    # --------------------------------------------------------------------------------------
+    # Temporary, parse out the name:filename dictionary into a list of key:value dicts
+    # I am doing this to preserve legacy in the Jekyl templates. May remove laters.
+    for k,v in sorted(result['photos_dict'].items()):
+        phots = {'filename':v,'name':k}
+        result['photos'].append(phots)
+    # Delete the concatened phot_names and photo_filenames string we got from the SQL query
+    del result['photos_names'],result['photos_filenames']
+    # --------------------------------------------------------------------------------------
 
 
     # ---------------------------------------------------
@@ -402,17 +408,6 @@ for result in results:
         result["source_url"] = None 
 
     # end of RESULT Items FOR loop }
-    # --------------------------------------------------------------------------------------
-  
-
-    # --------------------------------------------------------------------------------------
-    # Temporary, parse out the name:filename dictionary into a list of key:value dicts
-    # I am doing this to preserve legacy in the Jekyl templates. May remove laters.
-    for k,v in sorted(result['photos_dict'].items()):
-        phots = {'filename':v,'name':k}
-        result['photos'].append(phots)
-    # Delete the concatened phot_names and photo_filenames string we got from the SQL query
-    del result['photos_names'],result['photos_filenames']
     # --------------------------------------------------------------------------------------
 
     
