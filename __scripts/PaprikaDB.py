@@ -91,7 +91,7 @@ def make_filename(string):
     invalid = r'<>:"/\|?* ,()“”‘’\''
     for char in invalid:
         string = string.replace(char, '')
-    string = sanitize_filename(string)
+    string = sanitize_filename(string).lower().rstrip('-').replace('---','-')
     
     return string
 
@@ -185,7 +185,7 @@ with conn:
 SELECT 
     GROUP_CONCAT(C.ZNAME,"|") as `categories`,
     R.ZCOOKTIME        as `cook_time`,
-    R.ZINTRASH        as `intrash`,
+    R.ZINTRASH         as `intrash`,
     datetime(R.ZCREATED + {ts_offset},'unixepoch') as `created`,
     R.ZCREATED + {ts_offset}                       as `created_ts`,
     R.ZDESCRIPTIONTEXT as `description`,
@@ -205,6 +205,7 @@ SELECT
     R.ZSOURCEURL       as `source_url`,
     R.ZTOTALTIME       as `total_time`,
     R.ZUID             as `uid`,
+    R.Z_PK             as `p_recipe_id`,
     -- We need to do these SELECTS because
     -- otherwise the Category concat
     -- replicates itself the number of times
@@ -291,7 +292,8 @@ for result in results:
 
     # FILENAME : This is our Key between the YAML in Markdown stubs and the JSON Data files
     fileName = make_filename(result['name'])
-
+    result['slug'] = fileName
+    result['permalink'] = '/recipes/'+fileName
     # --------------------------------------------------------------------------------------
     # Start of RESULT Items FOR loop {
         # ---------------------------------------------------
@@ -459,7 +461,6 @@ for result in results:
 
     # Going to split the "result" array into bits we want in the YAML and stuff we will put
     # in the content body
-
     result2 = result
     content = {}
     content["html"] = result2['html']
@@ -495,6 +496,7 @@ for result in results:
     output2 += '\t</div>'
 
     output2 += '\t<div class="medium-2 columns" id="photo-sidebar">'
+
     if content['html']['meal_dates']:
       output2 += '\t\t<div class="" id="meals"><h4>Prepared</h4>'
       output2 += content['html']['meal_dates']
@@ -508,6 +510,8 @@ for result in results:
     f2 = open(mdFilePath, 'w')
     f2.write(output2)
     f2.close()
+
+    del result,result2,output2,content
 
 print ("✅ RESULTS Looped and Acted upon\n")
 

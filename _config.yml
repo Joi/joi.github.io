@@ -47,7 +47,7 @@ collections:
     permalink: /:year/:month/:day/:slug
   recipes:
     output: true
-    permalink: /recipes/:slug
+    #permalink: /recipes/:slug SET explicitly by the Python scrip in the markdown stubs.
   pages:
     output: true
   notes:
