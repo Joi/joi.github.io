@@ -265,7 +265,7 @@ GROUP BY    R.Z_PK;
 #    https://stackoverflow.com/questions/16519385/output-pyodbc-cursor-results-as-python-dictionary/16523148#16523148
 #
 
-# This grabs the key (cur.descriptiomn) for us
+# This grabs the key (cur.description) for us
 columns = [column[0] for column in cur.description]
 rows = cur.fetchall()
 
@@ -274,7 +274,7 @@ for row in rows:
     # and here we glue the key to the value
     results.append(dict(zip(columns, row)))
 
-print ("✅ DATABASE Queried\n")
+print ("✅ DATABASE Queried For Recipes\n")
 
 
 
@@ -416,49 +416,6 @@ for result in results:
     # --------------------------------------------------------------------------------------
 
     
-    # Convert the data struct to JSON and dump it to individual files
-    # Disabled 2021-03-03 by B. -> Migrated to YAML Front Matter in Recipe Markdown files
-    #json_dump = json.dumps(result, ensure_ascii=False, sort_keys=True, indent=2)
-    #jsonFilePath = path_output_json_files + fileName + ".json"
-    #f = open(jsonFilePath, 'w')
-    #f.write(json_dump)
-    #f.close()
-
-
-    # Prepare and Dump the Markodwn Recipe Stub Files
-    # MARKDOWN --------------------------------
-    # Create a string of Markdown
-    # So this will require some "design." What do we want to include from the export?
-    # How should it be styled? What do we jam into the metadata/frontmatter
-    # What do we include as #tags in the body?
-
-    #output  = "---\n"
-    #output += "title: \"" + result['name'] + "\"\n"
-    #output += "filename: \"" + fileName + "\"\n"
-    
-    #output += yaml.dump(result)
-    
-    # Duplicate. Already in YAML
-    #output += "created: " + str(result['created']) + "\n"
-    
-    #output += "---\n"
-    #if (result['notes']):
-    #  output += str(result['notes']) + "\n"
-    
-    # Create/Open a text file for each recipe and write the above Markdown string into it
-    #mdFilePath = path_output_mkdn_files + fileName + ".md"
-    #f = open(mdFilePath, 'w')
-    #f.write(output)
-    #f.close()
-
-
-    # Prepare and Dump the Markodwn Recipe Stub Files TEST
-    # MARKDOWN --------------------------------
-    # Create a string of Markdown
-    # We are testing out an approach whereby we dump all the recipe "content"
-    # (Directions, Ingredients, Notes, Description, etc…)
-    # Into the Markdown, to force the _includes/content.html code to do the backlinking magic for us.
-
     # Going to split the "result" array into bits we want in the YAML and stuff we will put
     # in the content body
     result2 = result
