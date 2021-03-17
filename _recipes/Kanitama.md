@@ -24,15 +24,25 @@ intrash: 0
 meal_dates:
 - '2021-01-20'
 - '2021-02-16'
-meal_types: 3|3
+- '2021-03-16'
+meal_types: 3|3|3
 name: Kanitama
 photo: FA7B8558-6651-40E5-B58F-E10409643E3C-2310-0000D443463A29BE.jpg
 photo_large: A2A0EEBD-2C59-4FC8-8C87-A393A5880573-2310-0000D2D406094FF0.jpg
 photos:
 - filename: A2A0EEBD-2C59-4FC8-8C87-A393A5880573-2310-0000D2D406094FF0.jpg
   name: '1'
+- filename: 3D465544-2886-4812-BB47-FBDAD739552B-4038-00021F402AB823AF.jpg
+  name: '2'
+- filename: CCC6D45F-4138-4EE3-97C3-BAE4435205FA-4038-00021F40D345E959.jpg
+  name: '3'
+- filename: 7CA9E499-8323-4204-A113-832777910D48-4038-00021F4219DA406F.jpg
+  name: '4'
 photos_dict:
   '1': A2A0EEBD-2C59-4FC8-8C87-A393A5880573-2310-0000D2D406094FF0.jpg
+  '2': 3D465544-2886-4812-BB47-FBDAD739552B-4038-00021F402AB823AF.jpg
+  '3': CCC6D45F-4138-4EE3-97C3-BAE4435205FA-4038-00021F40D345E959.jpg
+  '4': 7CA9E499-8323-4204-A113-832777910D48-4038-00021F4219DA406F.jpg
 prep_time: ''
 rating: 5
 servings: '4'
@@ -82,5 +92,6 @@ uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681
 </div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
 <li>[[2021-01-20|recipenote]]</li>
 <li>[[2021-02-16|recipenote]]</li>
+<li>[[2021-03-16|recipenote]]</li>
 </ul>
 		</div>
