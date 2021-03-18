@@ -34,6 +34,7 @@ import sqlite3
 from sqlite3 import Error
 from pathlib import Path
 from shutil import copyfile
+from collections import defaultdict
 import config # This imports our local config file, "config.py". Access vars like so: config.var
 
 # VARS -----------------------------------------
@@ -66,9 +67,9 @@ path_db_working     = path_temp_working + filename_db
 
 # Output
 path_output_json_data  = path_project + '/_data/'
-path_output_json_files = path_project + '/_data/recipes/'
-path_output_mkdn_files = path_project + '/_recipes/'
-path_output_phot_files = path_project + '/images/recipes/'
+path_output_recipe_mkdn_files = path_project + '/_recipes/'
+path_output_recipe_phot_files = path_project + '/images/recipes/'
+path_output_meal_mkdn_files   = path_project + '/_meals/'
 
 # Paparika Timestamp Offset: 978307200
 ts_offset = 978307200
@@ -96,9 +97,11 @@ def make_filename(string):
     return string
 
 # Delete and Create Output Directories
-def output_directories(path):
+def pheonix_output_directories(path):
   if os.path.exists(path):
+    # if path exists, burn it down
     shutil.rmtree(path, ignore_errors=True)
+  # and now raise it anew
   os.mkdir(path)
 
  # Turn a multiline text block into a Markdown List
@@ -142,13 +145,8 @@ print ("✅ FUNCTIONS instantiated\n")
 if not os.path.exists(path_db_bu_sub):
     os.mkdir(path_db_bu_sub)
 
-#if not os.path.exists(path_output_json_files):
-#    os.mkdir(path_output_json_files)
-#if not os.path.exists(path_output_mkdn_files):
-#    os.mkdir(path_output_mkdn_files)
-
-output_directories(path_output_json_files)
-output_directories(path_output_mkdn_files)
+# These ones we want to recreate every time
+pheonix_output_directories(path_output_recipe_mkdn_files)
 
 print ("✅ DIRECTORIES created\n")
 
@@ -449,37 +447,153 @@ for result in results:
 
 
     # Create/Open a text file for each recipe and write the above Markdown string into it
-    mdFilePath = path_output_mkdn_files + fileName + ".md"
+    mdFilePath = path_output_recipe_mkdn_files + fileName + ".md"
     f2 = open(mdFilePath, 'w')
     f2.write(output2)
     f2.close()
 
     del result,result2,output2,content
 
-print ("✅ RESULTS Looped and Acted upon\n")
+print ("✅ RECIPE RESULTS Looped and Acted upon\n")
+# END RECIPES ---------------------------------------------------------------------
 
 
-# CLOSE DB
+
+
+# START MEALS ---------------------------------------------------------------------
+
+# Second Database Operation: Get our recipe Data
+conn = db_connect(path_db_working)
+with conn:
+    cur = conn.cursor()
+    cur.execute(f"""
+SELECT 
+    M.ZRECIPE as recipe_id,
+    M.ZNAME as recipe_name,
+    M.ZDATE + {ts_offset}                       as `meal_date_ts`,
+    DATE(M.ZDATE, 'unixepoch', '+31 year', 'localtime') as `meal_date`,
+    M.ZTYPE as meal_type_code,
+    MT.ZNAME as meal_type_name
+
+FROM
+    ZMEAL as M
+
+LEFT JOIN    ZMEALTYPE AS MT
+    ON    MT.Z_PK = M.ZTYPE
+
+WHERE
+  M.ZRECIPE is not NULL
+
+GROUP BY    M.Z_PK
+ORDER BY
+    meal_date_ts ASC
+;
+"""
+    )
+
+    
+# --------------------------------------------------------------------------------------
+# For the next bit with columns and results and dict and zip, see:
+#    https://stackoverflow.com/questions/16519385/output-pyodbc-cursor-results-as-python-dictionary/16523148#16523148
+#
+
+# This grabs the key (cur.description) for us
+columns = [column[0] for column in cur.description]
+rows = cur.fetchall()
+
+data_meals = []
+for row in rows:
+    # and here we glue the key to the value
+    data_meals.append(dict(zip(columns, row)))
+
+print ("✅ DATABASE Queried For Meals\n")
+
+# Initialise MEALS Indices dict
+meals_indices = defaultdict(dict)
+# RECIPE by DATE and MEAL
+meals_indices['recipe_by_date_and_meal'] = defaultdict(dict)
+# MEAL by RECIPE and DATE
+meals_indices['meal_by_recipe_and_date'] = defaultdict(dict)
+# MEAL by DATE and RECIPE
+meals_indices['meal_by_date_and_recipe'] = defaultdict(dict)
+
+# Loop the data into the new struct
+for data_meal in data_meals:
+  meal_date             = data_meal['meal_date']
+  meal_recipe_id        = data_meal['recipe_id']
+  meal_recipe_name      = data_meal['recipe_name']
+  meal_recipe_filename  = make_filename(data_meal['recipe_name'])
+  meal_type_name        = data_meal['meal_type_name']
+
+  # RECIPE by DATE and MEAL ---
+  # If the `meal_type_name` key doesn't exist, we need to initialise the list
+  try:
+    meals_indices['recipe_by_date_and_meal'][meal_date][meal_type_name]
+  except:
+    meals_indices['recipe_by_date_and_meal'][meal_date][meal_type_name] = []
+  # Creating both here and can decide later which one to use.
+  # Create the meal dict with name and filename
+  append_meal_dict = {
+    'recipe_id'       : meal_recipe_id,
+    'recipe_filename' : meal_recipe_filename,
+    'recipe_name'     : meal_recipe_name
+  }
+  # Create the meal id list (we'll need to do lookup in recipe YAML data)
+  append_meal_list = meal_recipe_id
+  # and append it to the existing date dict, which is "defaultdicts" initialised before the FOR
+  meals_indices['recipe_by_date_and_meal'][meal_date][meal_type_name].append(append_meal_list)
+
+  # MEAL by RECIPE and DATE ---
+  meals_indices['meal_by_recipe_and_date'][meal_recipe_id][meal_date] = meal_type_name
+
+  # MEAL by DATE and RECIPE ---
+  meals_indices['meal_by_date_and_recipe'][meal_date][meal_recipe_id] = meal_type_name
+
+print ("✅ MEAL RESULTS Looped and Acted upon\n")
+
+# CLOSE DB ------------------------------------------------------------------------
 conn.close()
 
 print ("✅ DATABASE Closed\n")
 
 
-# Convert the data struct to JSON and dump it to individual files
-json_cats_dump = json.dumps(cats, ensure_ascii=False, sort_keys=True, indent=2)
+
+
+
+
+# File writing and Miscellaneous cleanup ------------------------------------------
+
+# Convert the data structs to JSON and dump to individual files
+
+# Category Indices
+json_cats_dump = json.dumps(cats, ensure_ascii=False, sort_keys=True, indent=1)
 jsonDataPath = path_output_json_data + "recipe_categories.json"
 f = open(jsonDataPath, 'w')
 f.write(json_cats_dump)
 f.close()
-
 print ("✅ CATGEORY JSON Data Dumped\n")
 
+# Meals Indices
+""" json_data_meals_dump = json.dumps(data_meals, ensure_ascii=False, sort_keys=True, indent=1)
+json_data_meals_path = path_output_json_data + "data_meals.json"
+f = open(json_data_meals_path, 'w')
+f.write(json_data_meals_dump)
+f.close()
+print ("✅ MEALS JSON Data Dumped\n") """
 
-# End of Main RESULTS FOR Loop }
-    
+json_meals_indices_dump = json.dumps(meals_indices, ensure_ascii=False, sort_keys=True, indent=1)
+json_meals_indices_path = path_output_json_data + "meals_indices.json"
+f = open(json_meals_indices_path, 'w')
+f.write(json_meals_indices_dump)
+f.close()
+print ("✅ MEALS JSON Indices Dumped\n")
+
 #pp = pprint.PrettyPrinter(indent=4)
 #pp.pprint(cats)
 #print(cats)
+#pp.pprint(data_meals)
+#print(json_meals_indices_dump)
+
 
 # CLEANUP --------------------------------------------
 # Delete the temp working direcotry
@@ -487,11 +601,11 @@ shutil.rmtree(path_temp_working, ignore_errors=True) # "ignore errors" nukes it
 # IMAGES ----------------------------------------------
 # Move the images out of the unzipped My Recipes dir to somehwere Jekyll can pick them up.
 
-if os.path.exists(path_output_phot_files):
-    shutil.rmtree(path_output_phot_files, ignore_errors=True)
+if os.path.exists(path_output_recipe_phot_files):
+    shutil.rmtree(path_output_recipe_phot_files, ignore_errors=True)
     #print("Nuked Recipe / Images Directory")
 
-moveReturn = shutil.copytree(path_photos, path_output_phot_files)
+moveReturn = shutil.copytree(path_photos, path_output_recipe_phot_files)
 #print("Successfully copied to destination path:", moveReturn)
 print ("✅ CLEANUP Done\n")
 
