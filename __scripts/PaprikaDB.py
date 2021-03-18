@@ -17,6 +17,9 @@
 print("\n\n\n---------------------------------------\nEXECUTING PaprikaDB EXPORT\n---------------------------------------\n")
 
 # IMPORTS -------------------------------------
+# speedracergogogo
+import time
+start_time = time.time()
 
 import os
 import re
@@ -608,5 +611,6 @@ if os.path.exists(path_output_recipe_phot_files):
 moveReturn = shutil.copytree(path_photos, path_output_recipe_phot_files)
 #print("Successfully copied to destination path:", moveReturn)
 print ("✅ CLEANUP Done\n")
-
-print ("\n\n------------------------------\n 😎 We're done here.\n")
+exectime = round((time.time() - start_time),3)
+print("------------------------------\n⏱  %s seconds \n------------------------------\n" % exectime)
+print ("😎 🤙🏼 We're done here.\n")
