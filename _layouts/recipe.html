@@ -96,7 +96,8 @@ For now.
       {% endcomment %}
       {% assign day = meal[0] | split: "-" %}
       {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal[1] | downcase }}-{{ page.filename }}{% endcapture %}
-      {% capture obs_path %}%2F_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}-{{ page.filename }}{% endcapture %}
+      <!-- {% capture obs_path %}%2F_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}-{{ page.filename }}{% endcapture %} -->
+      {% capture obs_path %}_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}-{{ page.filename }}{% endcapture %}
       {% comment %}
       Here we check to see if the Note exists
       {% endcomment %}
@@ -110,8 +111,10 @@ For now.
       {% comment %}
       If it does not, we link to Obsidian, giving us a pathway to creating it.
       {% endcomment %}
+        <!-- <a class="no-endpoint-link"
+          href="obsidian://new?vault=joi.github.io&path={{ obs_path }}"> -->
         <a class="no-endpoint-link"
-          href="obsidian://new?vault=joi.github.io&path={{ obs_path }}">
+          href="obsidian://new?vault=joi.github.io&file={{ obs_path }}">
       {% endif %}
         <em>{{ meal[1] }}</em>
         <strong>{{ meal[0] | date_to_string: "ordinal", "US" }}</strong>
