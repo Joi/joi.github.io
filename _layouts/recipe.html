@@ -102,19 +102,23 @@ For now.
       Here we check to see if the Note exists
       {% endcomment %}
       {% assign result = site.notes | where: "url", note_path %}
+      
       {% if result[0] %}
-      {% comment %}
-      If it does, we link to it.
-      {% endcomment %}
+        {% comment %}
+        If it does, we link to it.
+        {% endcomment %}
         <a href="{{ note_path }}">
-      {% else %}
-      {% comment %}
-      If it does not, we link to Obsidian, giving us a pathway to creating it.
-      {% endcomment %}
+      
+      {% elsif jekyll.environment == 'development' %}
+        {% comment %}
+        If it does not, we link to Obsidian, giving us a pathway to creating it.
+        {% endcomment %}
         <!-- <a class="no-endpoint-link"
           href="obsidian://new?vault=joi.github.io&path={{ obs_path }}"> -->
         <a class="no-endpoint-link"
           href="obsidian://new?vault=joi.github.io&file={{ obs_path }}">
+      {% else %}
+        <a class="dead-link">
       {% endif %}
         <em>{{ meal[1] }}</em>
         <strong>{{ meal[0] | date_to_string: "ordinal", "US" }}</strong>
