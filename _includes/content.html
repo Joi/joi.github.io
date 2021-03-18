@@ -209,9 +209,9 @@
 		{% if url == nil or  url == empty and type!='regular' %}{% comment %}{% endcomment %}
       {% assign link_text = '<span class="no-note">' | append: alt | append: '</span>' %}
     {% elsif url == nil %}
-				{% assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: alt | append: '</a>' %}
+				{% assign link_text = '<a class="no-endpoint-link" href="' | append: 'javascript:void(0)' | append: '">' | append: alt | append: '</a>' %}
 		{% elsif url == empty %}
-				{% assign link_text = '<a style="background-color:#ffffc4;" href="' | append: 'javascript:void(0)' | append: '">' | append: alt | append: '</a>' %}
+				{% assign link_text = '<a class="no-endpoint-link" href="' | append: 'javascript:void(0)' | append: '">' | append: alt | append: '</a>' %}
 
 		{% comment %}
 			----------------------------------------------------------  
