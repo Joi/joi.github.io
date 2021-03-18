@@ -438,10 +438,10 @@ for result in results:
 
     output2 += '\t<div class="medium-2 columns" id="photo-sidebar">'
 
-    if content['html']['meal_dates']:
-      output2 += '\t\t<div class="" id="meals"><h4>Prepared</h4>'
-      output2 += content['html']['meal_dates']
-      output2 += '\t\t</div>'
+    """if content['html']['meal_dates']:
+    output2 += '\t\t<div class="" id="meals"><h4>Prepared</h4>'
+    output2 += content['html']['meal_dates']
+    output2 += '\t\t</div>' """
 
     # We append the Photostrip and close Row Two back in the _layouts/recipe.html template.
 

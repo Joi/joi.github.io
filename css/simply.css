@@ -397,6 +397,13 @@ a:active,
 #header-menu .menu a:active {
   color: #f60;
 }
+a.no-endpoint-link {
+  background-color:#f1f1f1;
+}
+a.no-endpoint-link:hover {
+  background-color:#fff;
+  color:#f60;
+}
 hr {
   margin-top:3em;
   margin-bottom:2em;
@@ -442,10 +449,21 @@ hr {
   border-bottom: 1px solid #ccc;
 }
 #meals ul {
-  margin: 0 0 0 .65em;
+  margin: 0;
 }
 #meals ul li {
-  list-style-type: "- ";
+  list-style-type: none;
+  font-size: 80%;
+  line-height: 140%;
+  margin-bottom: 1em;
+}
+#meals ul li a {
+  display: block;
+  padding: 1px 2px 2px;
+}
+#meals ul li a em {
+  display: block;
+  font-style: normal;
 }
 #copyright {
   background: #f1f1f1;
