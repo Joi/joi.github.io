@@ -79,8 +79,4 @@ uid: 04CBAF39-7861-485D-B195-D741D37810E8-14842-0000068686800663
 <li>1 cup sliced brown mushrooms</li>
 <li>1/2 cup light cream or reduced fat cream (or heavy cream)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-05-25|recipenote]]</li>
-<li>[[2020-06-08|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

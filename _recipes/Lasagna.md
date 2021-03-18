@@ -166,7 +166,4 @@ uid: 6F6C35A4-9968-4D48-BB77-EB7ACB3DB08B-50715-0006C481622BC914
 </ul>
 </li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-09-05|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

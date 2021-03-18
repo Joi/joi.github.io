@@ -70,10 +70,4 @@ uid: 7F78231B-E31F-48EE-BE37-E7A5A9A2A08C-39436-000013D1319F8269
 <li>1 ½ pounds asparagus, woody ends trimmed, cut into 1 1/4-inch pieces</li>
 <li>2 red or regular scallions, thinly sliced</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-04-30|recipenote]]</li>
-<li>[[2020-05-22|recipenote]]</li>
-<li>[[2020-06-16|recipenote]]</li>
-<li>[[2020-10-02|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

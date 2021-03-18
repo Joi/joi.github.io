@@ -54,7 +54,4 @@ uid: F6F34E62-D960-486A-9A20-B976D1309E32-50715-00080BBC09D1E91C
 <li>1 tsp cayenne</li>
 <li>BBQ Sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2021-01-17|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

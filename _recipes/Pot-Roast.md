@@ -80,8 +80,4 @@ uid: 9E51E154-F0B2-46FC-BF16-AF76BFEC11E9-16595-00014AA0B768B050
 <li>1 ½ cups red wine, preferably cabernet</li>
 <li>4 cups beef broth</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-05-01|recipenote]]</li>
-<li>[[2020-05-31|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

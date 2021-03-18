@@ -53,7 +53,4 @@ uid: E02D444F-C24D-47F0-B290-52D1C0EB21F6-1358-00012EBF4535147A
 <li>Rosemary applesauce</li>
 <li>Crusty bread rolls, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-06-18|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

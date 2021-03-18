@@ -58,7 +58,4 @@ uid: 79FF11D8-6142-45D8-BBD2-3A717CC6A0C6-4181-00035DF8972F51CD
 <li>2 tbsp spring onion, chopped in rounds</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2021-01-20|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

@@ -72,8 +72,4 @@ uid: 16DAD724-0640-45B2-A7EB-66B408332186-2209-00009B8A4B171F2C
 <li>¼ tsp. oregano</li>
 <li>Salt and pepper to taste.</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-08-31|recipenote]]</li>
-<li>[[2021-01-04|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

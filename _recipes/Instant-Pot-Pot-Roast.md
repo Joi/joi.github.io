@@ -60,8 +60,4 @@ uid: 898D38DA-42A6-439A-827B-3937E5B5F7F8-89150-0001DFF5064B7E67
 <li>2 - 4 potatoes , quartered</li>
 <li>1 ½ tablespoon (12g) cornstarch mixed with 2 tablespoons (30ml) water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-04-19|recipenote]]</li>
-<li>[[2020-07-01|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

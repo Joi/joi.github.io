@@ -73,7 +73,4 @@ uid: 8CD26E14-3D18-4D2C-8D22-0C790E629F2B-2643-000000EA7A75D928
 <li>4 lemon wedges</li>
 <li>Crusty whole grain bread, optional</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-08-25|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

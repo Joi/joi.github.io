@@ -57,8 +57,4 @@ uid: EC595FE1-4031-41AB-8691-CD7CA7131526-24647-00000FABE7C420F3
 <li>1/8 tsp black pepper</li>
 <li>1 Tbsp chives finely chopped</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-08-17|recipenote]]</li>
-<li>[[2020-09-21|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

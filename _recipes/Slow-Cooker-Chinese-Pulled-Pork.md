@@ -65,8 +65,4 @@ uid: 03AE94B2-36BE-4BAF-BF9D-2D6D4795BF56-80121-00002D75D6966D4C
 <li>12 Hawaiian dinner rolls</li>
 <li>1 large scallion sliced</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-10-22|recipenote]]</li>
-<li>[[2021-01-24|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

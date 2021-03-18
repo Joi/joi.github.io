@@ -46,7 +46,4 @@ uid: 01709B11-ED19-453F-851F-0DB48598E545-533-0000001E0CEE2435
 <li>½ cup katsuobushi (dried bonito flakes) (packed; 6 g)</li>
 <li>1 piece kombu (dried kelp) (2&quot; x 3&quot; strip; 6 g)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-06-26|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

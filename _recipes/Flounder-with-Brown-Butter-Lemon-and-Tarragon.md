@@ -68,7 +68,4 @@ uid: 56396C69-7752-4252-A866-F5C6F25FA4A7-29546-0003F60F7C9EC8AF
 <li>A few tarragon leaves, for garnish</li>
 <li>Lemon wedges</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-05-30|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

@@ -84,7 +84,4 @@ uid: 4ABFD903-B1A7-4A76-825B-61517E4A7067-12026-0000D90D031A26A7
 <li>2 bay leaves</li>
 <li>Salt and pepper to season</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-12-03|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

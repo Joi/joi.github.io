@@ -49,7 +49,4 @@ uid: EEED405B-FB6D-4F73-A3FF-BD1E5D7B6D25-8626-0000038D01E586DD
 <li>¼ cup white horseradish</li>
 <li>Grated zest of half an orange</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-07-02|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

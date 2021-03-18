@@ -99,8 +99,4 @@ uid: 47365C63-5584-4742-8622-94EF89CC996B-25037-0000A09454C82C98
 <li>2 teaspoons salt</li>
 <li>3 quarts cold water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-06-11|recipenote]]</li>
-<li>[[2020-06-24|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

@@ -51,7 +51,4 @@ uid: 8EF38009-BB8A-474B-832A-573AA5F4DC59-11450-000003056F5299A6
 <li>60 g Whole Egg</li>
 <li>40 g Unsalted Butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-05-16|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

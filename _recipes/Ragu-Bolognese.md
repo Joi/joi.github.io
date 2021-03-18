@@ -95,7 +95,4 @@ uid: 262E123B-CE5F-49F4-A4BF-6EB433B9D6DA-408-0000264A91039DA4
 <li>2 flat leaf parsley sprigs</li>
 <li>Cheesecloth for bouquet garni</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-06-06|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

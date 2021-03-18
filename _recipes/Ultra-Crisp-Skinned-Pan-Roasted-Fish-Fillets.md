@@ -42,7 +42,4 @@ uid: 64FEAA52-EFFC-4743-9B48-B166957247B3-631-00024AE4C1521CED
 Kosher salt and freshly ground black pepper
 2 tablespoons vegetable or canola oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-07-07|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

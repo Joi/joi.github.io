@@ -76,10 +76,4 @@ uid: C2186635-4946-49D4-AB8C-D7D88DE283A3-64741-0002E2EF431210DA
 <li>100 ml whole milk</li>
 <li>1 - 2 tablespoons (14g - 28g) unsalted butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-04-05|recipenote]]</li>
-<li>[[2020-04-24|recipenote]]</li>
-<li>[[2020-07-08|recipenote]]</li>
-<li>[[2020-08-26|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

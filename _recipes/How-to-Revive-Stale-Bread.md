@@ -48,7 +48,4 @@ uid: 044596A7-CE96-4DDE-87A6-BC1ADE61D510-1358-000095528CA0522F
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns">	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-06-05|recipenote]]</li>
-</ul>
-		</div>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns">	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

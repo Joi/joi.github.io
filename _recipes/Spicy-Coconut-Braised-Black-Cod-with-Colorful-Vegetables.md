@@ -94,8 +94,4 @@ uid: 37776CF7-F041-4781-8709-86CD56695119-32901-000016CE5DB55070
 <li>2 tablespoons lime juice</li>
 <li>Lime wedges</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-11-13|recipenote]]</li>
-<li>[[2020-12-04|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

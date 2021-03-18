@@ -73,7 +73,4 @@ uid: 0406E117-8344-4062-A62F-FBAC97655E1C-13411-00000961DB0A0BC1
 <p>Cook with top closed again for about 5 min until sauce starts to dry. Coat with more BBQ sauce and cover and cook until internal temperature is 135ºF - about another 5 min.</p>
 <p>Flip the bird and put skin-side down on hot side of grill. Cover underside (now facing up) of bird with BBQ sauce and cook covered until breast registers 150ºF.</p>
 <p>Rest for 10 min before carving.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-09-06|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">

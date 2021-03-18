@@ -90,8 +90,4 @@ uid: 5DBE772B-969E-4E3B-A941-D1A67C2DD712-37140-0000172C5FF86FD8
 <li>1/2 tsp garlic powder</li>
 <li>10 wooden skewer sticks soaked in water for at least 30 minutes</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-08-17|recipenote]]</li>
-<li>[[2020-09-21|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

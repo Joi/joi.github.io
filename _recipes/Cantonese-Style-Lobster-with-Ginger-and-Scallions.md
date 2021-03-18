@@ -81,7 +81,4 @@ uid: BEAF973D-2E93-4FCD-A6D7-A538E8A6EB9F-39232-0002EBFB5135FE41
 <li>1 long green hot pepper, finely sliced on the bias</li>
 <li>12 yellow chives, cut into 2-inch pieces (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2021-03-09|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

@@ -85,9 +85,4 @@ uid: 13A4D9ED-C451-44B4-8513-416C41C2F368-19898-00000D61AE4288EB
 <li>1 pound littleneck clams, rinsed and scrubbed</li>
 <li>1/4 cup chopped parsley, for garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-08-18|recipenote]]</li>
-<li>[[2020-11-10|recipenote]]</li>
-<li>[[2020-12-08|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

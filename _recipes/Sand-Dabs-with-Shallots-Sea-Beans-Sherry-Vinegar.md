@@ -90,10 +90,4 @@ uid: 82E24D0C-460D-4289-95EE-8D5AF55D365A-13002-0005925FAFB78D5B
 <li>8 tablespoons {1 stick} unsalted butter {or 4 tablespoons clarified plus 4 tablespoons whole unsalted butter, if using a non-nonstick pan}</li>
 <li>2 tablespoons sherry vinegar</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-09-01|recipenote]]</li>
-<li>[[2020-08-22|recipenote]]</li>
-<li>[[2020-09-19|recipenote]]</li>
-<li>[[2020-10-13|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

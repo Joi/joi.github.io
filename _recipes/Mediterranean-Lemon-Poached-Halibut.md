@@ -92,7 +92,4 @@ uid: 7F9B1014-78E5-4DA8-B030-A3DBAD3D82D6-2643-000000E50A6D15D1
 <li>3 scallions, both white and green parts, chopped</li>
 <li>1/4 cup grated carrots</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-08-25|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

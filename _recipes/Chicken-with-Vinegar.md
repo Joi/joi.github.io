@@ -94,9 +94,4 @@ uid: AB5344FC-BAB3-4231-B60A-1D06DACA40E4-51240-0001496E91E6A8C5
 <p>Put thighs and drumsticks in skin side up and bring to simmer. Cover and cook for 8 minutes. Add broad big pieces skin side down. Cover and cook until big breast pieces have an internal temperature of 105ºF to 115ºF degrees, 3 to 5 minutes.</p>
 <p>Turn big breast pieces skin side up. Add smaller tapered breast pieces, skin side up. Transfer covered pot to oven or simmer and cook until breast pieces have an internal temperature of 150ºF and dark meat is 160ºF, 15 to 30 minutes.</p>
 <p>After chicken is done, remove and plate. Return pot to stove and add cream and simmer. Adjust seasoning with salt, pepper and vinegar. Add remaining tarragon and put sauce on chicken and serve.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-12-24|recipenote]]</li>
-<li>[[2021-01-14|recipenote]]</li>
-<li>[[2021-02-24|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">

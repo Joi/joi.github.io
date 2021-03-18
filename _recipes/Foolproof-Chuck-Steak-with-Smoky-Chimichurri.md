@@ -91,7 +91,4 @@ uid: CEDB473E-DE66-49BB-A26A-E39699CB17AE-6290-0000032FC1829B23
 <li>1 teaspoon dried oregano</li>
 <li>1/2 teaspoon smoked paprika</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-08-29|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

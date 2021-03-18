@@ -72,14 +72,4 @@ uid: 77B98054-DBCB-470E-83E9-62B8E4A68906-408-00004DC1BC68E0B3
 <li>2 tablespoons vegetable oil</li>
 <li>⅓ cup fresh cilantro leaves and thin stems</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-05-06|recipenote]]</li>
-<li>[[2020-06-29|recipenote]]</li>
-<li>[[2020-07-21|recipenote]]</li>
-<li>[[2020-07-29|recipenote]]</li>
-<li>[[2020-08-15|recipenote]]</li>
-<li>[[2020-11-20|recipenote]]</li>
-<li>[[2020-12-19|recipenote]]</li>
-<li>[[2021-02-02|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

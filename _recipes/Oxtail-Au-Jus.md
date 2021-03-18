@@ -100,7 +100,4 @@ uid: C7AD59DF-7961-4287-8189-C483C746C56E-26383-000125FF55081DA0
 <li>4 stems fresh parsley</li>
 <li>4 cups homemade or low-sodium canned chicken stock Kosher salt and freshly ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2021-02-20|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

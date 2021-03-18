@@ -99,8 +99,4 @@ uid: 4F3E45E3-005E-45BB-B979-C01932CE279A-15291-00020AB486C3609F
 <p>Add tofu and bok choy and stir-fry for 3 - 5 min until the bok choy is tender, but not soft. If you want, you can separate the leafy part from the thick stems and add them a min or two after the thick parts.</p>
 <p>Add chicken broth (or water if you don't have any) and bring to boil. Cover and simmer for 2 - 3 min.</p>
 <p>Add fish sauce and ground black pepper.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2021-02-26|recipenote]]</li>
-<li>[[2021-02-23|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">

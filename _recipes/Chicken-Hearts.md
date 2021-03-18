@@ -57,8 +57,4 @@ uid: AAC09848-659F-47C4-B6A5-F2F4E409B1CD-2209-0001DBA6EF98B659
 <li>1/2 teaspoon onion powder</li>
 <li>1/2 teaspoon ground cumin</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-07-27|recipenote]]</li>
-<li>[[2020-12-27|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

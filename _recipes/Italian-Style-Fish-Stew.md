@@ -67,8 +67,4 @@ uid: 07CCA1F2-E1F3-43E7-9754-D5E1289B797D-53878-00004814D79F4E62
 <li>4 thick slices country bread</li>
 <li>¼ cup chopped parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-04-11|recipenote]]</li>
-<li>[[2020-06-25|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

@@ -51,8 +51,4 @@ uid: 9CA8E908-CB87-4646-B9E4-EA9617ADEFFF-79834-000040B32B39656B
 <li>2 tsp Smoked paprika</li>
 <li>2 Tbsp High smoke point oil, like grapeseed</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2021-01-01|recipenote]]</li>
-<li>[[2021-03-04|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

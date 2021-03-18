@@ -126,8 +126,4 @@ uid: 68D76D1C-AD59-4F01-8CF7-EC68A1493E03-1358-000221322E5129BD
 <li>A dash of red chili pepper flakes</li>
 <li>1/4 cup white sugar</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-06-19|recipenote]]</li>
-<li>[[2020-08-11|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

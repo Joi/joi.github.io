@@ -48,7 +48,4 @@ uid: C3AD4197-9530-4692-AD10-00AAAB5AD132-68048-0001193223818FE6
 <li>Coarse salt and freshly ground pepper to taste</li>
 <li>About 1 ounce white truffle</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-11-25|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

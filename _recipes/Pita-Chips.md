@@ -44,7 +44,4 @@ uid: D06BD415-2D41-4CB1-A8D1-7135509AC066-22544-0004E1F97748FAF9
 <li>½ teaspoon dried basil</li>
 <li>1 teaspoon dried chervil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-06-25|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

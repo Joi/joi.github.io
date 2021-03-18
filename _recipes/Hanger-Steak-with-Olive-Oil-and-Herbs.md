@@ -56,8 +56,4 @@ uid: D786F450-7037-453C-9DD7-EECBAE202032-39436-00015D8932851873
 <li>½ cup coarsely chopped herbs</li>
 <li>1 teaspoon grated lemon zest</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-05-05|recipenote]]</li>
-<li>[[2020-09-26|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

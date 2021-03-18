@@ -57,7 +57,4 @@ uid: 802393D9-138D-4502-9F6E-BD0359A4CC55-14274-00000915E85CF295
 <li>½ cup red wine</li>
 <li>1 28-ounce can chopped tomatoes in juice, pulsed in a food processor</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-04-10|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

@@ -59,8 +59,4 @@ uid: AAAD7A1C-0B46-4AC0-AA7A-101B2EBE2DF4-30964-000010B6103D68BD
 <li>½ lemon, juiced</li>
 <li>½ teaspoon cayenne pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-04-19|recipenote]]</li>
-<li>[[2020-07-01|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

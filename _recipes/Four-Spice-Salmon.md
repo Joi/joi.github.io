@@ -52,8 +52,4 @@ uid: 31AA9966-2763-4AC5-A716-BBD238901647-9067-0001860E2C2E307C
 <li>1 teaspoon freshly grated nutmeg</li>
 <li>2 tablespoons peanut oil, grape seed or other neutral oil, or clarified butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-05-26|recipenote]]</li>
-<li>[[2020-07-17|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

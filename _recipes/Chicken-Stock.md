@@ -100,12 +100,4 @@ uid: F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C
 <p>Strain and cool.</p>
 <p>Scrape fat and freeze to use for other cooking stuff like confit.</p>
 <p>Refrigerate stock for up to 5 days and freezer for much longer. I use quart ziplock bags. Also cool to use in ice cube tray to make smaller portions for sauces.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-09-26|recipenote]]</li>
-<li>[[2020-09-26|recipenote]]</li>
-<li>[[2020-11-14|recipenote]]</li>
-<li>[[2020-12-13|recipenote]]</li>
-<li>[[2021-01-03|recipenote]]</li>
-<li>[[2021-01-31|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">

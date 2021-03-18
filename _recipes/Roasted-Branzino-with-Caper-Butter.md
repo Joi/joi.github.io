@@ -74,10 +74,4 @@ uid: B40DF28F-D2C8-4BC1-8E47-5009C4E843E4-68048-0000AAD508735823
 <li>4 large rosemary sprigs</li>
 <li>3 tablespoons extra-virgin olive oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-11-24|recipenote]]</li>
-<li>[[2020-12-23|recipenote]]</li>
-<li>[[2021-01-13|recipenote]]</li>
-<li>[[2021-02-13|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

@@ -52,7 +52,4 @@ uid: 4EA3C540-EED9-45D2-BA95-6B4C6A931A26-4181-0001E2348E51AA07
 <li>1 clove</li>
 <li>Chili / red pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2021-02-04|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

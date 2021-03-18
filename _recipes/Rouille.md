@@ -48,8 +48,4 @@ uid: C17F174D-81B0-4847-9396-DE2E5E92EF57-79931-0001526F038511AC
 <li>Salt</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Crumble saffron threads in stock in a food processor or mortar. Add garlic and purée, or grind with a pestle, until smooth. Transfer to a bowl and stir in mayonnaise, paprika, and cayenne. Season to taste with salt.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-10-08|recipenote]]</li>
-<li>[[2020-10-09|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">

@@ -53,7 +53,4 @@ uid: B2B43BA7-22D4-4BD8-83DC-D14E3B6E8D92-14274-0000091878C6BB9A
 <li>1 cup chicken broth</li>
 <li>3 tablespoons chopped parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-03-29|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

@@ -54,7 +54,4 @@ uid: 6665AE81-BAFC-41FB-B3B2-CE6FB6A69405-13891-0000A72EF98AC351
 <li>1 ½ cup red wine</li>
 <li>½ cup stock or water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-05-16|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

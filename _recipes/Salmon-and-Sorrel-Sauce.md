@@ -74,7 +74,4 @@ uid: A62FE62C-0F90-4AB7-8B49-B06BD1C85461-2334-00027230C7452159
 <li>1 to 2 tablespoons grapeseed oilntry bread)</li>
 <li>Salt and Cayenne Pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-04-18|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

@@ -57,8 +57,4 @@ uid: 7CD2B197-0D17-40C4-B4F1-DE264072C132-26091-0000455FD63EE6F3
 <li>1½ tablespoons salt</li>
 <li>2 tablespoons Shaoxing wine</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-10-22|recipenote]]</li>
-<li>[[2021-01-24|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

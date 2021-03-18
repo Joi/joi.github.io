@@ -111,10 +111,4 @@ uid: 4BEE23AC-2D81-4286-95B1-C03143055FB4-13002-00059228C79F4EF4
 <li>About 1-1/2 cups cooked white beans, drained, cooking liquid reserved</li>
 <li>About 1/2 cup [[-aioli-sauce| Aioli Sauce]]</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-09-01|recipenote]]</li>
-<li>[[2020-08-22|recipenote]]</li>
-<li>[[2020-09-19|recipenote]]</li>
-<li>[[2020-10-13|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

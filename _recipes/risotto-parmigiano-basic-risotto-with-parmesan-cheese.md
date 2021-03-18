@@ -60,10 +60,4 @@ uid: 925BC2D4-5E40-4CE6-B62B-49042E1643E5-22544-000439DB3B695B3A
 <li>Salt
 Freshly ground ground pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-06-27|recipenote]]</li>
-<li>[[2020-07-23|recipenote]]</li>
-<li>[[2020-07-24|recipenote]]</li>
-<li>[[2021-01-04|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

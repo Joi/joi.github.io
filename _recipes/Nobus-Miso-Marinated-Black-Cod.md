@@ -53,10 +53,4 @@ uid: 87679938-6C84-4854-B875-67086B25742C-407-00005033619C36F7
 <li>3 tablespoons sugar</li>
 <li>4 black cod fillets, about 1/2 pound each</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-04-20|recipenote]]</li>
-<li>[[2020-04-22|recipenote]]</li>
-<li>[[2020-06-22|recipenote]]</li>
-<li>[[2021-01-29|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

@@ -80,7 +80,4 @@ uid: B606531D-7F81-4AD9-B14E-BA7E920951F3-5646-000003098E73CAE3
 <li>1 egg, beaten slightly</li>
 <li>1 scallion, chopped</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-08-29|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

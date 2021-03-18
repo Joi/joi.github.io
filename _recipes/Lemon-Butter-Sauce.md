@@ -53,7 +53,4 @@ uid: E2E90BC0-9E53-4ABE-9A74-07AC0D2B286F-10626-0000074C49E472D7
 <li>3 tablespoons fresh lemon juice</li>
 <li>Kosher salt and ground white pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2021-01-26|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

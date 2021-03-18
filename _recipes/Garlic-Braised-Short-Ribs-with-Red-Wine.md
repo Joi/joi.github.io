@@ -74,8 +74,4 @@ uid: 5E4F61E2-22CC-4E47-A550-BD0266EF9E1C-11634-00000628B8D8587F
 <li>½ cup finely chopped chives</li>
 <li>1 tablespoon finely grated lemon zest</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-07-08|recipenote]]</li>
-<li>[[2021-01-24|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

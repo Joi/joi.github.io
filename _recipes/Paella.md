@@ -80,7 +80,4 @@ uid: D012AD02-2C8B-45D6-B54B-B7C3339CDF60-1119-00000022984CEC03
 <p>Cover pan with foil or lid and close grill or oven and cook for 6 - 10 min until rice and shrimp are done.</p>
 <p>Remove when done and sprinkle with parsley.</p>
 <p>Serve in the pan.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-09-12|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">

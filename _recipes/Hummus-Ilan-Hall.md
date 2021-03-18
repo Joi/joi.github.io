@@ -55,7 +55,4 @@ uid: 0D50D58F-97BC-420D-8B90-24B68665D672-25037-00009F4D10ECF74A
 <li>½ oz pistachios, toasted and chopped</li>
 <li>sliced raw vegetables, to serve</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-06-25|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

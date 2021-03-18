@@ -59,7 +59,4 @@ uid: 0710863A-1492-49F6-B4AB-47A7975DBC6E-631-000067E712BC754E
 <li>Kosher salt</li>
 <li>Black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-07-01|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

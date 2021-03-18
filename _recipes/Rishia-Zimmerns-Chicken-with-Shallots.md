@@ -71,9 +71,4 @@ uid: 57A666F1-E339-4107-80E4-F9F286673626-39996-000020226ACB939A
 <li>2 sprigs tarragon</li>
 <li>2 cups cherry tomatoes, cut in half.</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-04-02|recipenote]]</li>
-<li>[[2020-06-11|recipenote]]</li>
-<li>[[2021-03-11|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

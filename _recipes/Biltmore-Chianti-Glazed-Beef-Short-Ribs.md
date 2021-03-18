@@ -73,7 +73,4 @@ uid: AD430477-9151-456B-8A62-1A48083DB1A9-408-00004F71AC622DAB
 <li>50 oz water</li>
 <li>cherry tomatoes on the vine, blistered (see Tip)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-05-24|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

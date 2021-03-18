@@ -71,7 +71,4 @@ uid: C35DC53C-4546-403C-A6E8-E7DA8F8ADBD0-1607-00007D8057C690B4
 <li>1 tsp. salt</li>
 <li>1/2 tsp. five spice powder</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2021-01-01|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

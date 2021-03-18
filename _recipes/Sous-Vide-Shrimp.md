@@ -50,7 +50,4 @@ uid: 4EBE9505-B809-4762-AA85-43CCD70D004C-6789-0000041D8DE23F73
 <li>Extra virgin olive oil or butter (optional)</li>
 <li>Aromatics such as garlic, shallots, tarragon, or parsley (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-07-05|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

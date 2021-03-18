@@ -94,9 +94,4 @@ uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681
 <p>Heat wok, add 1 tbsp light oil and pour egg mixture in. Once the edges start to solidify, fold the egg in on it self and cook without mixing aggressively. Before it is completely set, remove everything from wok.</p>
 <p>Add sweet and source mix to wok and heat. After boiling, slowly mix in potato starch/water mixture until the sauce becomes thick.</p>
 <p>Pour the sauce over everything and serve.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2021-01-20|recipenote]]</li>
-<li>[[2021-02-16|recipenote]]</li>
-<li>[[2021-03-16|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">

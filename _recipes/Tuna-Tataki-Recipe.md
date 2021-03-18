@@ -54,7 +54,4 @@ uid: 39091A3A-A890-436A-A9C2-58FA599B57F5-533-00000014701D437B
 <li>½ lemon</li>
 <li>Korean Chili Thread</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-06-26|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

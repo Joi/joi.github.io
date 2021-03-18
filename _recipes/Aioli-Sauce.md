@@ -79,10 +79,4 @@ uid: 383352B7-6E3A-4CB7-A36E-EA826E3E00AB-631-0003169816AA6155
 <li>3/4 cup extra-virgin olive oil</li>
 <li>1 tablespoon of fresh tarragon or chives</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-07-10|recipenote]]</li>
-<li>[[2020-09-19|recipenote]]</li>
-<li>[[2020-10-13|recipenote]]</li>
-<li>[[2020-12-05|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

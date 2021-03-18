@@ -73,7 +73,4 @@ crosswise into 5- to 6-inch pieces (see here for trimming instructions)
 1 recipe Pico de Gallo</li>
 <li>Guacamole, sour cream, shredded cheese, and salsa, for serving, if desired</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-08-19|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

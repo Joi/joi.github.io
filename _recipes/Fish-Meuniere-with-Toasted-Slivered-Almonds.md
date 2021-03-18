@@ -57,7 +57,4 @@ uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4
 <li>1 ½ tablespoons lemon juice from 1 lemon</li>
 <li>1 lemon, cut in wedges for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2021-01-15|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

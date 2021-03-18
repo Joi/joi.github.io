@@ -68,7 +68,4 @@ uid: 8882747A-DD2F-4B5F-9AD9-984367393EB2-23547-00000F35FF5BA070
 <li>1/4 tsp Black pepper</li>
 <li>Fresh chopped cilantro, for garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-07-18|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

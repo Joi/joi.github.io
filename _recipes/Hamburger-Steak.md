@@ -80,7 +80,4 @@ uid: 359750A3-4957-4735-9DAC-935A18605F94-5025-000001ECAB5B5782
 <li>1/2 cup worcester sauce</li>
 <li>1-2 Tbsp sake (or wine)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-06-28|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

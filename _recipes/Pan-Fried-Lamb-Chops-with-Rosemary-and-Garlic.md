@@ -55,9 +55,4 @@ uid: A14C420C-9137-424C-A2EA-412E33AF030D-2334-0001CE2B6F219C82
 <li>3 tablespoons olive oil</li>
 <li>Fresh rosemary sprigs (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-04-29|recipenote]]</li>
-<li>[[2020-05-11|recipenote]]</li>
-<li>[[2020-05-28|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

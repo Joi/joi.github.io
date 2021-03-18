@@ -46,7 +46,4 @@ uid: E2D3A29F-1034-4BD7-9633-0EF992A95660-4181-0001E27BEC161880
 <li>2 tablespoons fennel seeds</li>
 <li>2 teaspoons Szechuan peppercorns</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2021-02-04|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

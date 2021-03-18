@@ -50,10 +50,4 @@ uid: 2FCD1B65-0D67-4B15-B081-C691590DEBE3-29546-0002C343712D52F3
 <li>1 baguette, split lengthwise, then cut crosswise in half</li>
 <li>1 cup roughly chopped parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-05-26|recipenote]]</li>
-<li>[[2020-05-30|recipenote]]</li>
-<li>[[2020-06-23|recipenote]]</li>
-<li>[[2020-12-11|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">

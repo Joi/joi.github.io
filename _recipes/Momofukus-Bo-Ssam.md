@@ -69,8 +69,4 @@ uid: 6A292E01-87EF-4723-8710-E64BEAF241CA-79931-0001315D0EBC60D3
 <li>1 dozen or more fresh oysters (optional)</li>
 <li>Kimchi (available in many Asian markets, and online)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">		<div class="" id="meals"><h4>Prepared</h4><ul>
-<li>[[2020-09-28|recipenote]]</li>
-<li>[[2021-01-18|recipenote]]</li>
-</ul>
-		</div>
+</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
