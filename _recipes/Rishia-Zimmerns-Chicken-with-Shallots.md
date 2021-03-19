@@ -34,7 +34,8 @@ meal_dates:
 - '2020-04-02'
 - '2020-06-11'
 - '2021-03-11'
-meal_types: 3|3|3
+- '2021-03-19'
+meal_types: 3|3|3|3
 name: "Rishia Zimmern\u2019s Chicken with Shallots"
 p_recipe_id: 15
 permalink: /recipes/rishia-zimmerns-chicken-with-shallots

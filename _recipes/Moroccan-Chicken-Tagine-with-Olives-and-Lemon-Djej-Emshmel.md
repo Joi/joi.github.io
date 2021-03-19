@@ -36,7 +36,8 @@ ingredients: "GATHER YOUR INGREDIENTS\n5 medium garlic cloves, minced or pressed
 intrash: 0
 meal_dates:
 - '2020-04-27'
-meal_types: '3'
+- '2021-03-19'
+meal_types: 3|3
 name: Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)
 p_recipe_id: 88
 permalink: /recipes/moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel

@@ -24,7 +24,8 @@ meal_dates:
 - '2020-07-30'
 - '2020-08-06'
 - '2020-10-08'
-meal_types: 3|3|3|3|3
+- '2021-03-19'
+meal_types: 3|3|3|3|3|3
 name: Oven Roasted Spatchcocked Chicken
 p_recipe_id: 240
 permalink: /recipes/oven-roasted-spatchcocked-chicken

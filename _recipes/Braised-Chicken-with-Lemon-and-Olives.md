@@ -18,7 +18,8 @@ ingredients: "8 chicken thighs, skin-on and bone-in, about 3 1/2 pounds\nSalt an
 intrash: 0
 meal_dates:
 - '2020-03-29'
-meal_types: '3'
+- '2021-03-19'
+meal_types: 3|3
 name: Braised Chicken with Lemon and Olives
 p_recipe_id: 72
 permalink: /recipes/braised-chicken-with-lemon-and-olives
