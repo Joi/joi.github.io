@@ -7,7 +7,10 @@ categories:
 cook_time: 5 hours
 created: '2020-08-20 16:02:42'
 created_ts: 1597939362
-description: Inspired by Food Lab.
+description: 'Inspired by Food Lab.
+
+
+  Serve with [recipe:Oxtail Jus].'
 difficulty: ''
 image_url: null
 ingredients: 'Prime Rib
@@ -19,7 +22,10 @@ intrash: 0
 meal_dates:
 - '2020-10-04'
 - '2020-12-06'
-meal_types: 3|3
+- '2021-01-02'
+- '2021-02-20'
+- '2020-12-20'
+meal_types: 3|3|3|3|3
 name: Prime Rib
 p_recipe_id: 317
 permalink: /recipes/prime-rib
@@ -34,6 +40,8 @@ photos_dict:
   '5': 4C80CD0D-F36F-4018-AD58-584006C1CCD1-2241-0001DD4C0274AC8A.jpg
   '6': 4E8B3C39-9821-47FF-B8AB-16F762165011-2241-0001DD4C761C2BE8.jpg
   '7': 1887EE7F-8647-4A14-8DFF-8DDD73E37A85-2241-0001DD4D05BDE2DB.jpg
+  '8': A854BCB5-23AE-447F-9AEA-A47ABEAB1FDA-641-000051A239A3E0AC.jpg
+  '9': 8610AA5E-E065-4CE6-AD28-8B8C312AC606-641-000051A2FB93D0CD.jpg
 photos_filenames:
 - 4E8B3C39-9821-47FF-B8AB-16F762165011-2241-0001DD4C761C2BE8.jpg
 - 55B7187E-A264-47D2-9D28-E1039E5BB1F3-2241-0001DD4B012AF508.jpg
@@ -42,6 +50,8 @@ photos_filenames:
 - 4C80CD0D-F36F-4018-AD58-584006C1CCD1-2241-0001DD4C0274AC8A.jpg
 - 1887EE7F-8647-4A14-8DFF-8DDD73E37A85-2241-0001DD4D05BDE2DB.jpg
 - AA8566E6-2470-4292-BD98-2B32228296D9-2241-0001DD4A50A1A0D2.jpg
+- A854BCB5-23AE-447F-9AEA-A47ABEAB1FDA-641-000051A239A3E0AC.jpg
+- 8610AA5E-E065-4CE6-AD28-8B8C312AC606-641-000051A2FB93D0CD.jpg
 photos_names:
 - '6'
 - '4'
@@ -50,6 +60,8 @@ photos_names:
 - '5'
 - '7'
 - '3'
+- '8'
+- '9'
 prep_time: 15 min
 rating: 5
 servings: ''
@@ -62,6 +74,7 @@ uid: 1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<h4 id="description">Description</h4>
 <div class="box box-description content"><p>Inspired by Food Lab.</p>
+<p>Serve with [[oxtail-jus|Oxtail Jus]].</p>
 </div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>

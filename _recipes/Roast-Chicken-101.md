@@ -22,7 +22,8 @@ intrash: 0
 meal_dates:
 - '2021-01-01'
 - '2021-03-04'
-meal_types: 3|3
+- '2021-03-19'
+meal_types: 3|3|3
 name: Roast Chicken 101
 p_recipe_id: 444
 permalink: /recipes/roast-chicken-101

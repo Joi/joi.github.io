@@ -22,8 +22,7 @@ meal_dates:
 - '2020-06-03'
 - '2020-09-10'
 - '2020-12-09'
-- '2021-03-19'
-meal_types: 3|3|3|3|3
+meal_types: 3|3|3|3
 name: Braised Chicken with Basil and Tomato
 p_recipe_id: 86
 permalink: /recipes/braised-chicken-with-basil-and-tomato

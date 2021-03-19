@@ -4,7 +4,9 @@ title: My Thermometers
 tags: gear
 ---
 I'm currently using:
--	[Lavatools Javelin Pro](https://www.lavatools.co/products/javelin-pro-d) - Instant Read Thermometer
+-	Pen Thermometers
+	-	[Lavatools Javelin Pro](https://www.lavatools.co/products/javelin-pro-d)
+	-	[Thermapen Mk4](https://www.thermoworks.com/Thermapen-Mk4)
 -	[ThermoWorks Therma Differential Thermocouple Meter](https://www.thermoworks.com/Therma-Differential)
 	-	[Fast Response Penetration Probe Type K, 4" L x .12" D reduce to .06" at Tip, 482F](https://www.thermoworks.com/PRB-K-159) - -58 - 482F (cable and handle max temp 105ºF), 0.6 sec in liquid, 3-4 sec full reading
 	-	[Sous Vide Needle Probe 60mm, with waterproof heat shrink, 1m lead](https://www.thermoworks.com/THS-113-109) - -58 - 482ºF (cable and shrink max temp 194ºF) / < 0.4 sec in liquid, < 2 sec for full reading

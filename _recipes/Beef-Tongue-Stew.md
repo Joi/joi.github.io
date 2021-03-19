@@ -62,8 +62,9 @@ ingredients: 'Beef tongue
 
   '
 intrash: 0
-meal_dates: null
-meal_types: null
+meal_dates:
+- '2021-01-10'
+meal_types: '3'
 name: Beef Tongue Stew
 p_recipe_id: 457
 permalink: /recipes/beef-tongue-stew
