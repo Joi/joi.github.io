@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2021-03-16-dinner-kanitama.md",
+            "file": "_posts/2020-12-07-prime-rib-with-oxtail-jus.md",
             "mode": "source"
           }
         }
@@ -77,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-03-16-dinner-kanitama.md",
+                "file": "_posts/2020-12-07-prime-rib-with-oxtail-jus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -93,15 +93,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "_notes/2021-03-16-dinner-kanitama.md",
-    "_notes/2021-02-16-dinner-kanitama.md",
-    "_notes/2021-01-20-dinner-kanitama.md",
-    "_posts/2020-10-29-figuring-out-beef-stroganoff.md",
-    "Untitled.md",
-    "_pages/leidenfrost-effect.md",
-    "_recipes/Velvet-Fish-with-Mushrooms.md",
-    "_pages/my-thermometers.md",
     "_posts/2020-12-07-prime-rib-with-oxtail-jus.md",
-    "_pages/rice.md"
+    "_notes/2020-10-29-dinner-beef-stroganoff.md",
+    "_notes/2020-07-25-snacks-the-food-lab-spicy-thai-style-flank-steak-salad.md",
+    "_notes/2021-03-18-dinner-beef-stroganoff.md",
+    "_notes/2021-03-16-dinner.md",
+    "_notes/2021-03-16-dinner-kanitama.md",
+    "_notes/2020-10-29-figuring-out-beef-stroganoff.md",
+    "_posts/2020-10-29-figuring-out-beef-stroganoff.md",
+    "_notes/2021-01-20-dinner-kanitama.md",
+    "_notes/2021-02-16-dinner-kanitama.md"
   ]
 }

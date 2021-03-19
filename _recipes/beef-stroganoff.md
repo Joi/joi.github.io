@@ -12,8 +12,8 @@ image_url: null
 ingredients: "1 lb beef sliced thin\n1 large onion thinly sliced\n1 package of mushrooms\n\
   1 Tbsp butter\n2 cloves garlic\n\xBC cup white wine\nWhite rice\nSalt and white\
   \ pepper\n\n**Sauce**\n6 oz tomato puree\n1 Tbsp tomato paste\n1 Tbsp Worcestershire\
-  \ sauce\n\xBD cup demi-glace sauce\n1 Tbsp flour\n\n**Garnish**\nCream cheese\n\
-  Chopped arsley\ndemi-glace sauce"
+  \ sauce\n\xBD cup demi-glace sauce\n1 Tbsp Dijon mustard\n1 Tbsp flour (separately\
+  \ for thickening)\n\n**Garnish**\nCream cheese\nChopped arsley\ndemi-glace sauce"
 intrash: 0
 meal_dates:
 - '2021-03-18'
@@ -27,10 +27,13 @@ photo_large: 300A3E2E-5607-47F6-8ECD-13F8658B640E-641-00004F008E58A241.jpg
 photos: []
 photos_dict:
   '1': 300A3E2E-5607-47F6-8ECD-13F8658B640E-641-00004F008E58A241.jpg
+  '2': 0A079714-B8B0-435A-8B1F-FB1967FD6B62-641-00004FED3FE04E00.jpg
 photos_filenames:
 - 300A3E2E-5607-47F6-8ECD-13F8658B640E-641-00004F008E58A241.jpg
+- 0A079714-B8B0-435A-8B1F-FB1967FD6B62-641-00004FED3FE04E00.jpg
 photos_names:
 - '1'
+- '2'
 prep_time: 15 min
 rating: 0
 servings: ''
@@ -59,7 +62,8 @@ uid: 2BFBB0EB-1535-434A-99C6-682B1593F3D1-45654-0003D9CE6707F661
 <li>1 Tbsp tomato paste</li>
 <li>1 Tbsp Worcestershire sauce</li>
 <li>½ cup demi-glace sauce</li>
-<li>1 Tbsp flour</li>
+<li>1 Tbsp Dijon mustard</li>
+<li>1 Tbsp flour (separately for thickening)</li>
 <li><strong>Garnish</strong></li>
 <li>Cream cheese</li>
 <li>Chopped arsley</li>

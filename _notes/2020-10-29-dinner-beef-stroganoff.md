@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Figuring Out Beef Stroganoff
 tags:
 - Beef
