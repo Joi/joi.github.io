@@ -72,8 +72,8 @@ path_db_working     = path_temp_working + filename_db
 # Output
 path_output_json_data  = path_project + '/_data/'
 path_output_recipe_mkdn_files = path_project + '/_recipes/'
-path_output_recipe_phot_files = path_project + '/images/recipes/'
 path_output_meal_mkdn_files   = path_project + '/_meals/'
+path_output_recipe_phot_files = path_project + '/images/recipes/'
 
 # Paparika Timestamp Offset: 978307200
 ts_offset = 978307200
@@ -150,7 +150,10 @@ if not os.path.exists(path_db_bu_sub):
     os.mkdir(path_db_bu_sub)
 
 # These ones we want to recreate every time
+# Recipe Markdown Stubs Directory
 pheonix_output_directories(path_output_recipe_mkdn_files)
+# Recipe Renamed Photos Directory
+pheonix_output_directories(path_output_recipe_phot_files)
 
 print ("✅ DIRECTORIES created\n")
 
@@ -283,19 +286,19 @@ print ("✅ DATABASE Queried For Recipes\n")
 # --------------------------------------------------------------------------------------
 # Create a dict to hold the cats -> recipes dictionary
 cats = {}
-
+photos = defaultdict(dict)
 # --------------------------------------------------------------------------------------
 # Loop through Results
 for result in results:
     result['photos_dict'] = {}
-    result['photos'] = []
+    #result['photos'] = []
     result['html'] = {}
     result['type'] = None
 
     # FILENAME : This is our Key between the YAML in Markdown stubs and the JSON Data files
-    fileName = make_filename(result['name'])
-    result['slug'] = fileName
-    result['permalink'] = '/recipes/'+fileName
+    recipe_filename = make_filename(result['name'])
+    result['slug'] = recipe_filename
+    result['permalink'] = '/recipes/'+recipe_filename
     # --------------------------------------------------------------------------------------
     # Start of RESULT Items FOR loop {
 
@@ -311,10 +314,84 @@ for result in results:
         result['photos_names'] = result['photos_names'].split('|')
         # if we have photo_names, zip filenames & names into into a key=value dict
         # We will use this for the PMD parse below
-
         result['photos_dict'] = dict(zip(result['photos_names'], result['photos_filenames']))
     except:
+        result['photos_dict'] = None
         pass
+
+    # ----------------------------------------------------------------
+    # Some notes about photos ----------------------------------------
+    # Paprika has several types of photos it manages in different ways:
+    # 1. The Recipe Thumbnail
+    #     a) This is either generated from the source recipe, 
+    #        or set from the first photo uploaded to the recipe
+    #     b) its UID is stored in the Recipe table, in the PHOTO column.
+    # 2. The Recipe "large photo"
+    #     a) Same provenance as Thumbnail, just the larger version of it.
+    # 3. User-uploaded photos
+    #     a) photos the user uploads into Paprika themselves are assigned UIDs 
+    #        and numbered names (editable in the recipe edit view).
+    #     b) all their metadata is stored in its own table ('ZRECIPEPHOTO') 
+    #        and related via the recipe ID (not UID)
+    #
+    #  We need to copy both kinds with new file names over. 
+    #  The thumbs will simply be named "thumb"
+    #
+    # ----------------------------------------------------------------
+
+    # Disabled. I generated this and printed out a JSON file to use as a guide. Not needed in production, 
+    # but as we ain't done yet, keeping it around.
+    #photos[result['uid']] = {'recipe_filename':recipe_filename,'recipe_thumb':result['photo_thumb'], 'recipe_photos':result['photos_dict']}
+
+    # We need to move and rename the photo files and vars (which go into the recipe stubs), here, all at once. 
+    result['photos_filenames_new'] = []
+    result['photos_dict_new'] = {}
+    # First, if this recipe result has any photos
+
+    if result['photo_thumb'] or result['photos_dict']:
+      source_path_recipe_photos = path_photos + result['uid'] + "/"
+      dest_path_recipe_photos = path_output_recipe_phot_files + "/"
+
+      if result['photo_thumb']:
+        try:
+          # New photo_thumb file name
+          new_photo_thumb = recipe_filename + "-thumb.jpg"
+          #copy the thumbnail over
+          shutil.copy2(source_path_recipe_photos + "/" + result['photo_thumb'], dest_path_recipe_photos + new_photo_thumb)
+          result['photo_thumb'] = new_photo_thumb
+        except:
+          print( "🛑 THUMBNAIL PHOTO Missing for " + recipe_filename + "\n" )
+
+      if result['photo_large']:
+        try:
+          # New photo_large file name
+          new_photo_large = recipe_filename + "-large.jpg"
+          #copy the large photo over
+          shutil.copy2(source_path_recipe_photos + "/" + result['photo_large'], dest_path_recipe_photos + new_photo_large)
+          result['photo_large'] = new_photo_large
+        except:
+          print( "🛑 LARGE PHOTO Missing for " + recipe_filename + "\n" )
+
+      if result['photos_dict']:
+        #print("\n" + recipe_filename + ": has photos_dict")
+        for photo_name,pd2 in result['photos_dict'].items():
+          photo_name_fn = make_filename(photo_name)
+          #print("\tphoto name:" + photo_name + "\n\tphoto UID:" + pd2)
+          try:
+            new_photo_filename = recipe_filename + "-" + photo_name_fn + ".jpg"
+            shutil.copy2(source_path_recipe_photos + "/" + pd2,dest_path_recipe_photos + new_photo_filename)
+            result['photos_filenames_new'].append(new_photo_filename)
+            result['photos_dict_new'][photo_name] = new_photo_filename
+
+            # Need Joi to update the Regex in the paprika_markdownish function
+            # before we can swap this and fix the Paths in the Recipe markdown output.
+            #result['photos_dict'] = result['photos_dict_new']
+
+          except Exception as e:
+            print( "🛑 Something fubar in photos for " + recipe_filename + "\n" + new_photo_filename + "\n")
+            #print(e)
+            #print("-------\n")
+
 
 
     # ---------------------------------------------------
@@ -388,8 +465,8 @@ for result in results:
               if cl not in cats.keys():
                 cats[cl] = {}
 
-              if fileName not in cats[cl].keys():
-                cats[cl][fileName] = str(result['name'])
+              if recipe_filename not in cats[cl].keys():
+                cats[cl][recipe_filename] = str(result['name'])
 
         except:
             pass
@@ -400,6 +477,11 @@ for result in results:
         result["source"] = None 
     if result["source_url"] == "":
         result["source_url"] = None 
+
+    # Clean out a bit of stuff
+    result.pop('photos_filenames')
+    result.pop('photos_filenames_new')
+    result.pop('photos_names')
 
     # end of RESULT Items FOR loop }
     # --------------------------------------------------------------------------------------
@@ -415,7 +497,7 @@ for result in results:
 
     output2  = "---\n"
     output2 += "title: \"" + result2['name'] + "\"\n"
-    output2 += "filename: \"" + fileName + "\"\n"
+    output2 += "filename: \"" + recipe_filename + "\"\n"
     # Dumping all recipe metadata as YAML here
     output2 += yaml.dump(result2)
     output2 += "---\n"
@@ -452,7 +534,7 @@ for result in results:
 
 
     # Create/Open a text file for each recipe and write the above Markdown string into it
-    mdFilePath = path_output_recipe_mkdn_files + fileName + ".md"
+    mdFilePath = path_output_recipe_mkdn_files + recipe_filename + ".md"
     f2 = open(mdFilePath, 'w')
     f2.write(output2)
     f2.close()
@@ -593,11 +675,19 @@ f.write(json_meals_indices_dump)
 f.close()
 print ("✅ MEALS JSON Indices Dumped\n")
 
-#pp = pprint.PrettyPrinter(indent=4)
+#pp = pprint.PrettyPrinter(indent=1)
 #pp.pprint(cats)
 #print(cats)
 #pp.pprint(data_meals)
 #print(json_meals_indices_dump)
+#pp.pprint(photos)
+
+""" json_photos_indices_dump = json.dumps(photos, ensure_ascii=False, sort_keys=True, indent=1)
+json_photos_indices_path = path_output_json_data + "photos_indices.json"
+f = open(json_photos_indices_path, 'w')
+f.write(json_photos_indices_dump)
+f.close()
+print ("✅ PHOTOS JSON Indices Dumped\n") """
 
 
 # CLEANUP --------------------------------------------
@@ -607,13 +697,13 @@ shutil.rmtree(path_temp_working, ignore_errors=True) # "ignore errors" nukes it
 
 # IMAGES ----------------------------------------------
 # Move the images out of the unzipped My Recipes dir to somehwere Jekyll can pick them up.
-if os.path.exists(path_output_recipe_phot_files):
-    shutil.rmtree(path_output_recipe_phot_files, ignore_errors=True)
-    #print("Nuked Recipe / Images Directory")
+#if os.path.exists(path_output_recipe_phot_files):
+#    shutil.rmtree(path_output_recipe_phot_files, ignore_errors=True)
+    #print(" - Nuked Recipe / Images Directory\n")
+#moveReturn = shutil.copytree(path_photos, path_output_recipe_phot_files)
+#print(" - Successfully copied to destination path:", moveReturn)
 
-moveReturn = shutil.copytree(path_photos, path_output_recipe_phot_files)
-#print("Successfully copied to destination path:", moveReturn)
-print ("✅ CLEANUP Done\n")
+print ("\n✅ CLEANUP Done\n")
 exectime = round((time.time() - start_time),3)
 print("------------------------------\n⏱  %s seconds \n------------------------------\n" % exectime)
 print ("😎 🤙🏼 We're done here.\n")

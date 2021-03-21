@@ -9,12 +9,8 @@ layout: default
 
 {%- if page.photo_large -%}
   {%- assign photo_hero = page.photo_large -%}
-{%- elsif page.photos[0].filename -%}
-  {%- assign photo_hero = page.photos[0].filename -%}
-{%- comment -%}
-{%- elsif page.photo -%}
-  {%- assign photo_hero = page.photo -%}
-{%- endcomment -%}
+{%- elsif page.photos_dict_new[0].filename -%}
+  {%- assign photo_hero = page.photos_dict_new[0].filename -%}
 {%- else -%}
   {%- assign photo_hero = nil -%}
 {%- endif -%}
@@ -51,7 +47,7 @@ layout: default
 <!-- Hero Banner Photo -->
 <div class="row" id="big-photo">
 	<div class="small-12 columns">
-		<img src="/images/recipes/{{page.uid}}/{{photo_hero}}">
+		<img src="/images/recipes/{{photo_hero}}">
 	</div>
 </div>
 <!-- End Hero Banner Photo -->
