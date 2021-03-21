@@ -44,8 +44,9 @@ import config # This imports our local config file, "config.py". Access vars lik
 
 # Date time stamp
 now = datetime.now()
-dt = now.strftime("%Y-%m-%d %H.%M")
-#print(dt)
+# DT stamp restricted to the hour. For the local database backups.
+dt_hourly = now.strftime("%Y-%m-%d %H.00")
+#print(dt_hourly)
 
 # Environment-dependent Paths
 path_project    = config.path_project # manually set in config.py, which is NOT checked into GIT.
@@ -60,7 +61,7 @@ path_db_full    = path_user_home + path_db_sub + filename_db
 path_photos     = path_user_home + path_paprika + 'Photos/'
 
 # Paprika Databse Backup. / We create this before we do anything, just in case.
-file_db_bu          = 'Paprika-BU-' + dt + '.sqlite'
+file_db_bu          = 'Paprika-BU-' + dt_hourly + '.sqlite'
 path_db_bu_sub      = path_project + '/__scripts/backups/'
 path_db_bu          = path_db_bu_sub + file_db_bu + '.zip'
 
@@ -297,6 +298,7 @@ for result in results:
     result['permalink'] = '/recipes/'+fileName
     # --------------------------------------------------------------------------------------
     # Start of RESULT Items FOR loop {
+
     # ---------------------------------------------------
     # Photos Stuff
     # We do this first so we have access to the photo data when parsing Paprika Markdown-ish [photo:name]
@@ -601,9 +603,10 @@ print ("✅ MEALS JSON Indices Dumped\n")
 # CLEANUP --------------------------------------------
 # Delete the temp working direcotry
 shutil.rmtree(path_temp_working, ignore_errors=True) # "ignore errors" nukes it
+
+
 # IMAGES ----------------------------------------------
 # Move the images out of the unzipped My Recipes dir to somehwere Jekyll can pick them up.
-
 if os.path.exists(path_output_recipe_phot_files):
     shutil.rmtree(path_output_recipe_phot_files, ignore_errors=True)
     #print("Nuked Recipe / Images Directory")
