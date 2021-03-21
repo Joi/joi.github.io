@@ -198,7 +198,7 @@ SELECT
     R.ZNAME            as `name`,
     R.ZNOTES           as `notes`,
     R.ZNUTRITIONALINFO as `nutritional_info`,
-    R.ZPHOTO           as `photo`,
+    R.ZPHOTO           as `photo_thumb`,
     R.ZPHOTOLARGE      as `photo_large`,
     R.ZPREPTIME        as `prep_time`,
     R.ZRATING          as `rating`,

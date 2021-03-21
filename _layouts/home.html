@@ -80,8 +80,8 @@ layout: default
 				{% if recipe.type == "_mine" %}
 				<div class="recipe-item-box">
 				<a class="recipe-item" href="{{ recipe.url }}">
-					{% if recipe.photo %}
-					<img src="/images/recipes/{{recipe.uid}}/{{recipe.photo}}" />
+					{% if recipe.photo_thumb %}
+					<img src="/images/recipes/{{recipe.uid}}/{{recipe.photo_thumb}}" />
 					{% else %}
 					<img src='/images/200x200.gif' />
 					{% endif %}
@@ -147,8 +147,8 @@ layout: default
 				{% if recipe.rating == 5 and recipe.type != "_mine" %}
 				<div class="recipe-item-box">
 				<a class="recipe-item" href="{{ recipe.url }}">
-					{% if recipe.photo %}
-					<img src="/images/recipes/{{recipe.uid}}/{{recipe.photo}}" />
+					{% if recipe.photo_thumb %}
+					<img src="/images/recipes/{{recipe.uid}}/{{recipe.photo_thumb}}" />
 					{% else %}
 					<img src='/images/200x200.gif' />
 					{% endif %}
