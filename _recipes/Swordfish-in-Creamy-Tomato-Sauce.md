@@ -25,15 +25,12 @@ meal_types: null
 name: Swordfish in Creamy Tomato Sauce
 p_recipe_id: 348
 permalink: /recipes/swordfish-in-creamy-tomato-sauce
-photo: C85D214A-BC19-4F63-8991-E5DA4F5B06C5-50715-0007FCAC66D2986B.jpg
-photo_large: 1E325214-F38A-4616-8097-72C633321F9D-50715-0007FCAB41F7D36F.jpg
-photos: []
+photo_large: swordfish-in-creamy-tomato-sauce-large.jpg
+photo_thumb: swordfish-in-creamy-tomato-sauce-thumb.jpg
 photos_dict:
   '1': 1E325214-F38A-4616-8097-72C633321F9D-50715-0007FCAB41F7D36F.jpg
-photos_filenames:
-- 1E325214-F38A-4616-8097-72C633321F9D-50715-0007FCAB41F7D36F.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': swordfish-in-creamy-tomato-sauce-1.jpg
 prep_time: '15'
 rating: 5
 servings: '4'
@@ -46,7 +43,7 @@ uid: 96A194FA-7F4A-42E1-B275-000A76DCEFE7-50715-0007FC418715CBB3
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>
 <ol>
 <li>2 tbsp Unsalted butter</li>
@@ -98,4 +95,4 @@ uid: 96A194FA-7F4A-42E1-B275-000A76DCEFE7-50715-0007FC418715CBB3
 </ol>
 </li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

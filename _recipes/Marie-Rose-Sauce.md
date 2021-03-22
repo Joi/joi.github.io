@@ -21,12 +21,10 @@ meal_types: '3'
 name: Marie Rose Sauce
 p_recipe_id: 458
 permalink: /recipes/marie-rose-sauce
-photo: null
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: null
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: ''
@@ -37,11 +35,11 @@ total_time: ''
 type: _mine
 uid: B6713303-47E6-4EC6-B28A-A94F33DE95C9-31488-00001728BCEAC9EC
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<h4 id="description">Description</h4>
+<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Same as Thousand Island sauce</p>
-</div>	</div><!-- #writeup -->
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>⅔ cup of fresh [[mayonnaise|Mayonnaise]]</li>
 <li>1 Tbsp ketchup</li>
 <li>1 tsp Worcestershire sauce</li>
@@ -49,7 +47,7 @@ uid: B6713303-47E6-4EC6-B28A-A94F33DE95C9-31488-00001728BCEAC9EC
 <li>Tabasco sauce</li>
 <li>Pinch of paprika</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Combine everything except paprika</p>
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Combine everything except paprika</p>
 <p>Either toss shrimp or lobster or serve on the side as a dipping sauce</p>
 <p>Sprinkle with paprika for flavor and color</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>

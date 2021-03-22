@@ -27,9 +27,8 @@ meal_types: '3'
 name: Oxtail Au Jus
 p_recipe_id: 478
 permalink: /recipes/oxtail-au-jus
-photo: 84BF3CD6-6325-44F0-9E48-7906E8A6A3E6-26383-000126417DBE7CB5.jpg
-photo_large: 582BCC5D-D8BE-47E1-A213-A201C0887506-26383-0001262BA31DA25F.jpg
-photos: []
+photo_large: oxtail-au-jus-large.jpg
+photo_thumb: oxtail-au-jus-thumb.jpg
 photos_dict:
   '1': 582BCC5D-D8BE-47E1-A213-A201C0887506-26383-0001262BA31DA25F.jpg
   '10': D26A23FE-1A93-4292-AD46-15025AF76EF2-26383-00012637FDD62045.jpg
@@ -45,36 +44,21 @@ photos_dict:
   '7': BF4C9F8E-46D9-4D16-A1D2-BCB7C71FA6C0-26383-000126362BC713E1.jpg
   '8': 72350FCE-5D65-476E-9C18-622C1E3F43E4-26383-0001263674905CA5.jpg
   '9': 7244785A-74DE-4415-B894-FECDF08A6F1C-26383-0001263726E447ED.jpg
-photos_filenames:
-- C41C495B-DAB4-4E8E-BCEA-111FE3AED8DD-26383-0001262DD8188B00.jpg
-- 41FA8B12-4BDF-423A-983B-4E70B1F785B9-26383-0001263F1B6DC386.jpg
-- 1FFEAC29-C27C-424F-B2B9-7BA52566A7FD-26383-00012638CC412C9A.jpg
-- 72350FCE-5D65-476E-9C18-622C1E3F43E4-26383-0001263674905CA5.jpg
-- F3DFA421-9908-49DE-AB62-E33D8F7D709D-26383-0001262D450C7348.jpg
-- 12D83E63-2B4F-46A5-8A25-250BB9B8A3CC-26383-0001263026FE2E3D.jpg
-- 49AFD7C0-F45D-4E9F-9627-4733601BE2DB-26383-0001263E4D3542C6.jpg
-- 7244785A-74DE-4415-B894-FECDF08A6F1C-26383-0001263726E447ED.jpg
-- BF4C9F8E-46D9-4D16-A1D2-BCB7C71FA6C0-26383-000126362BC713E1.jpg
-- 582BCC5D-D8BE-47E1-A213-A201C0887506-26383-0001262BA31DA25F.jpg
-- C8DED127-D676-4084-9F16-B7EE7883E177-26383-0001262CC02D0EFD.jpg
-- 819837B4-2939-41BB-8A33-B3651AE82C34-26383-0001263DE3E3368B.jpg
-- B3B3EE5D-A55A-4C39-A55F-86519F361416-26383-0001262EB8F0B68B.jpg
-- D26A23FE-1A93-4292-AD46-15025AF76EF2-26383-00012637FDD62045.jpg
-photos_names:
-- '4'
-- '14'
-- '11'
-- '8'
-- '3'
-- '6'
-- '13'
-- '9'
-- '7'
-- '1'
-- '2'
-- '12'
-- '5'
-- '10'
+photos_dict_new:
+  '1': oxtail-au-jus-1.jpg
+  '10': oxtail-au-jus-10.jpg
+  '11': oxtail-au-jus-11.jpg
+  '12': oxtail-au-jus-12.jpg
+  '13': oxtail-au-jus-13.jpg
+  '14': oxtail-au-jus-14.jpg
+  '2': oxtail-au-jus-2.jpg
+  '3': oxtail-au-jus-3.jpg
+  '4': oxtail-au-jus-4.jpg
+  '5': oxtail-au-jus-5.jpg
+  '6': oxtail-au-jus-6.jpg
+  '7': oxtail-au-jus-7.jpg
+  '8': oxtail-au-jus-8.jpg
+  '9': oxtail-au-jus-9.jpg
 prep_time: ''
 rating: 5
 servings: ''
@@ -87,7 +71,7 @@ uid: C7AD59DF-7961-4287-8189-C483C746C56E-26383-000125FF55081DA0
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon vegetable oil</li>
 <li>3 pounds oxtails</li>
 <li>1 large carrot, peeled and roughly chopped (about 1½</li>
@@ -100,4 +84,4 @@ uid: C7AD59DF-7961-4287-8189-C483C746C56E-26383-000125FF55081DA0
 <li>4 stems fresh parsley</li>
 <li>4 cups homemade or low-sodium canned chicken stock Kosher salt and freshly ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

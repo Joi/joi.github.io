@@ -35,12 +35,10 @@ meal_types: null
 name: Slow Cooker Chinese Pulled Pork
 p_recipe_id: 394
 permalink: /recipes/slow-cooker-chinese-pulled-pork
-photo: 6637C0E4-F460-46DF-9405-ECE1DD01063C-80121-00002D75E49EA846.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: slow-cooker-chinese-pulled-pork-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 10 minutes
 rating: 5
 servings: Serves 6 to 8
@@ -53,7 +51,7 @@ uid: 03AE94B2-36BE-4BAF-BF9D-2D6D4795BF56-80121-00002D75D6966D4C
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 to 3 1/2 pounds pork shoulder, cut into very large chunks (3 to 4 inches)</li>
 <li>2 1/2 teaspoons of Chinese 5-spice powder*</li>
 <li>1/4 cup hoisin sauce</li>
@@ -65,4 +63,4 @@ uid: 03AE94B2-36BE-4BAF-BF9D-2D6D4795BF56-80121-00002D75D6966D4C
 <li>12 Hawaiian dinner rolls</li>
 <li>1 large scallion sliced</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

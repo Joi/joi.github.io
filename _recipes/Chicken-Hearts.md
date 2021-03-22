@@ -30,12 +30,10 @@ meal_types: 3|3
 name: Chicken Hearts
 p_recipe_id: 277
 permalink: /recipes/chicken-hearts
-photo: E3C69623-8421-4C73-A105-E300D7B47A9E-2209-0001DBA96F3CC751.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: chicken-hearts-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 10 mins
 rating: 5
 servings: ''
@@ -48,7 +46,7 @@ uid: AAC09848-659F-47C4-B6A5-F2F4E409B1CD-2209-0001DBA6EF98B659
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 lb. chicken hearts</li>
 <li>1 tablespoon olive oil</li>
 <li>1 teaspoon Diamond Crystal kosher salt or 1/2 teaspoon sea salt</li>
@@ -57,4 +55,4 @@ uid: AAC09848-659F-47C4-B6A5-F2F4E409B1CD-2209-0001DBA6EF98B659
 <li>1/2 teaspoon onion powder</li>
 <li>1/2 teaspoon ground cumin</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

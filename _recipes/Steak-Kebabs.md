@@ -51,12 +51,10 @@ meal_types: null
 name: Steak Kebabs
 p_recipe_id: 268
 permalink: /recipes/steak-kebabs
-photo: 1C031AE7-96A4-436D-A01E-6A428EDA47BE-37140-0000172C6AD7C0FB.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: steak-kebabs-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 25 minutes
 rating: 5
 servings: 'Servings: 5'
@@ -69,7 +67,7 @@ uid: 5DBE772B-969E-4E3B-A941-D1A67C2DD712-37140-0000172C5FF86FD8
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Marinade</li>
 <li>1/4 c olive oil</li>
 <li>1/4 c soy sauce</li>
@@ -90,4 +88,4 @@ uid: 5DBE772B-969E-4E3B-A941-D1A67C2DD712-37140-0000172C5FF86FD8
 <li>1/2 tsp garlic powder</li>
 <li>10 wooden skewer sticks soaked in water for at least 30 minutes</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

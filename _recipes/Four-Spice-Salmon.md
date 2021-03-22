@@ -22,15 +22,12 @@ meal_types: 3|3
 name: Four-Spice Salmon
 p_recipe_id: 57
 permalink: /recipes/four-spice-salmon
-photo: C343B34F-5A16-4397-AEE6-7394A4475055-29546-000347A112A37A95.jpg
-photo_large: 4D14DE40-8AFD-47FF-8348-EC1688A6DC9C-29546-0003479E4ABED064.jpg
-photos: []
+photo_large: four-spice-salmon-large.jpg
+photo_thumb: four-spice-salmon-thumb.jpg
 photos_dict:
   '1': 4D14DE40-8AFD-47FF-8348-EC1688A6DC9C-29546-0003479E4ABED064.jpg
-photos_filenames:
-- 4D14DE40-8AFD-47FF-8348-EC1688A6DC9C-29546-0003479E4ABED064.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': four-spice-salmon-1.jpg
 prep_time: ''
 rating: 5
 servings: Yield 4 servings
@@ -43,7 +40,7 @@ uid: 31AA9966-2763-4AC5-A716-BBD238901647-9067-0001860E2C2E307C
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 6-ounce skinned salmon fillets</li>
 <li>Salt and black pepper</li>
 <li>1 tablespoon coriander seeds or ground coriander</li>
@@ -52,4 +49,4 @@ uid: 31AA9966-2763-4AC5-A716-BBD238901647-9067-0001860E2C2E307C
 <li>1 teaspoon freshly grated nutmeg</li>
 <li>2 tablespoons peanut oil, grape seed or other neutral oil, or clarified butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

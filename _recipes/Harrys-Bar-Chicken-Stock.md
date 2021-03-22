@@ -52,24 +52,18 @@ meal_types: 2|4
 name: Harry's Bar Chicken Stock
 p_recipe_id: 13
 permalink: /recipes/harrys-bar-chicken-stock
-photo: F600B36D-839E-4344-89FC-4E10DEB17E36-39996-00002085D88E725F.jpg
-photo_large: EF674E95-FBEB-40C7-83CC-B902DCA9B59C-39996-000020859FC48E6A.jpg
-photos: []
+photo_large: harrys-bar-chicken-stock-large.jpg
+photo_thumb: harrys-bar-chicken-stock-thumb.jpg
 photos_dict:
   '1': 1AF8CBEB-3510-4F03-BAEB-EF7972972C19-39996-00002050B4C07631.jpg
   '2': 50FA4372-A055-4FAD-804B-60C4E3ED0CDC-39996-00002071916B20DB.jpg
   '3': E7F89F69-A319-4645-8E26-34EB1A4C4872-39996-0000207437BB4C4C.jpg
   '4': EF674E95-FBEB-40C7-83CC-B902DCA9B59C-39996-000020859FC48E6A.jpg
-photos_filenames:
-- EF674E95-FBEB-40C7-83CC-B902DCA9B59C-39996-000020859FC48E6A.jpg
-- E7F89F69-A319-4645-8E26-34EB1A4C4872-39996-0000207437BB4C4C.jpg
-- 50FA4372-A055-4FAD-804B-60C4E3ED0CDC-39996-00002071916B20DB.jpg
-- 1AF8CBEB-3510-4F03-BAEB-EF7972972C19-39996-00002050B4C07631.jpg
-photos_names:
-- '4'
-- '3'
-- '2'
-- '1'
+photos_dict_new:
+  '1': harrys-bar-chicken-stock-1.jpg
+  '2': harrys-bar-chicken-stock-2.jpg
+  '3': harrys-bar-chicken-stock-3.jpg
+  '4': harrys-bar-chicken-stock-4.jpg
 prep_time: ''
 rating: 5
 servings: MAKES ABOUT 10 CUPS (2.500 ML)
@@ -82,7 +76,7 @@ uid: 47365C63-5584-4742-8622-94EF89CC996B-25037-0000A09454C82C98
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 3-4 pound chicken (1.350 to 1.800 g)</li>
 <li>1 medium onion, chopped</li>
 <li>2 leeks, white parts only, thoroughly washed and sliced</li>
@@ -99,4 +93,4 @@ uid: 47365C63-5584-4742-8622-94EF89CC996B-25037-0000A09454C82C98
 <li>2 teaspoons salt</li>
 <li>3 quarts cold water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

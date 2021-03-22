@@ -19,12 +19,10 @@ meal_types: null
 name: Garam Masala
 p_recipe_id: 468
 permalink: /recipes/garam-masala
-photo: 9525E6FD-A15D-414D-9861-F78EA7E3E1B9-10686-00000669655EC9C6.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: garam-masala-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: '10'
 rating: 5
 servings: null
@@ -37,7 +35,7 @@ uid: 091C9703-71CD-4710-9D13-0BA79AAB8724-10686-0000065A926CC623
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon ground cumin</li>
 <li>2 teaspoons ground coriander</li>
 <li>2 teaspoons ground cardamom</li>
@@ -47,4 +45,4 @@ uid: 091C9703-71CD-4710-9D13-0BA79AAB8724-10686-0000065A926CC623
 <li>½ teaspoon ground cloves</li>
 <li>1/4– ½ teaspoon cayenne (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -59,12 +59,10 @@ meal_types: '3'
 name: "Rag\xFA Bolognese"
 p_recipe_id: 8
 permalink: /recipes/ragu-bolognese
-photo: null
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: null
+photos_dict: null
+photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: 2 cups
@@ -77,7 +75,7 @@ uid: 262E123B-CE5F-49F4-A4BF-6EB433B9D6DA-408-0000264A91039DA4
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 carrot, peeled</li>
 <li>1 celery rib</li>
 <li>1 small onion</li>
@@ -95,4 +93,4 @@ uid: 262E123B-CE5F-49F4-A4BF-6EB433B9D6DA-408-0000264A91039DA4
 <li>2 flat leaf parsley sprigs</li>
 <li>Cheesecloth for bouquet garni</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

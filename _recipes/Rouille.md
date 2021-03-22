@@ -20,12 +20,10 @@ meal_types: 3|3
 name: Rouille
 p_recipe_id: 378
 permalink: /recipes/rouille
-photo: null
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: null
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: ''
@@ -38,7 +36,7 @@ uid: C17F174D-81B0-4847-9396-DE2E5E92EF57-79931-0001526F038511AC
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 pinch saffron threads</li>
 <li>2 Tbsp fsh stock</li>
 <li>4 cloves garlic, peeled and minced</li>
@@ -47,5 +45,5 @@ uid: C17F174D-81B0-4847-9396-DE2E5E92EF57-79931-0001526F038511AC
 <li>1 pinch cayenne</li>
 <li>Salt</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Crumble saffron threads in stock in a food processor or mortar. Add garlic and purée, or grind with a pestle, until smooth. Transfer to a bowl and stir in mayonnaise, paprika, and cayenne. Season to taste with salt.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Crumble saffron threads in stock in a food processor or mortar. Add garlic and purée, or grind with a pestle, until smooth. Transfer to a bowl and stir in mayonnaise, paprika, and cayenne. Season to taste with salt.</p>
+</div>	</div>

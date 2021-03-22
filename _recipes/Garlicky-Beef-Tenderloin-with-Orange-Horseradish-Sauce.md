@@ -20,12 +20,10 @@ meal_types: '3'
 name: Garlicky Beef Tenderloin with Orange Horseradish Sauce
 p_recipe_id: 211
 permalink: /recipes/garlicky-beef-tenderloin-with-orange-horseradish-sauce
-photo: E1072FB5-7A39-4304-AAEC-A5AD809D0A84-8626-0000038D03EFACF5.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: garlicky-beef-tenderloin-with-orange-horseradish-sauce-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 8 to 10 servings
@@ -38,7 +36,7 @@ uid: EEED405B-FB6D-4F73-A3FF-BD1E5D7B6D25-8626-0000038D01E586DD
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>(4-pound) beef tenderloin, trimmed and tied</li>
 <li>1 tablespoon kosher salt, more to taste</li>
 <li>1 teaspoon black pepper, more to taste</li>
@@ -49,4 +47,4 @@ uid: EEED405B-FB6D-4F73-A3FF-BD1E5D7B6D25-8626-0000038D01E586DD
 <li>¼ cup white horseradish</li>
 <li>Grated zest of half an orange</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -49,12 +49,10 @@ meal_types: '3'
 name: Instapot Chuck Eye Stew
 p_recipe_id: 130
 permalink: /recipes/instapot-chuck-eye-stew
-photo: null
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: null
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: '2'
@@ -67,7 +65,7 @@ uid: CB5616BE-378B-4E49-BD72-A9B439D968A7-89150-000287A752BD566F
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Chuck Eye Steak</li>
 <li>4 cloves garlic, smashed and sliced vertically</li>
 <li>2 medium onions</li>
@@ -86,4 +84,4 @@ uid: CB5616BE-378B-4E49-BD72-A9B439D968A7-89150-000287A752BD566F
 <li>Pepper</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

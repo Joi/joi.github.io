@@ -32,15 +32,12 @@ meal_types: '3'
 name: Baked Bluefish
 p_recipe_id: 180
 permalink: /recipes/baked-bluefish
-photo: 399FA399-9E18-4673-AA98-EFBEC6EAE464-22544-0003EEF4F3310AB3.jpg
-photo_large: BEEE43D8-B04F-41B5-AA79-2A9D987CA240-22544-0003EEF32C138295.jpg
-photos: []
+photo_large: baked-bluefish-large.jpg
+photo_thumb: baked-bluefish-thumb.jpg
 photos_dict:
   '1': BEEE43D8-B04F-41B5-AA79-2A9D987CA240-22544-0003EEF32C138295.jpg
-photos_filenames:
-- BEEE43D8-B04F-41B5-AA79-2A9D987CA240-22544-0003EEF32C138295.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': baked-bluefish-1.jpg
 prep_time: 10 minutes
 rating: 5
 servings: Serves 2 to 4
@@ -53,7 +50,7 @@ uid: CB6C7A4A-2F73-44D5-AC51-E12EB842AD85-29546-00061091B920E83D
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>One bluefish fillet (1/2 pound to 1 pound)</li>
 <li>Kosher salt</li>
 <li>Freshly ground black pepper</li>
@@ -63,4 +60,4 @@ uid: CB6C7A4A-2F73-44D5-AC51-E12EB842AD85-29546-00061091B920E83D
 <li>3 Tbsp dry white wine</li>
 <li>2 Tbsp lemon juice</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

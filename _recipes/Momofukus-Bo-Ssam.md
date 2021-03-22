@@ -27,12 +27,10 @@ meal_types: null
 name: Momofuku's Bo Ssam
 p_recipe_id: 376
 permalink: /recipes/momofukus-bo-ssam
-photo: A3759B41-92B2-40F3-A469-4306A434871A-79931-0001315FD21C94AD.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: momofukus-bo-ssam-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 6 to 10 servings
@@ -45,7 +43,7 @@ uid: 6A292E01-87EF-4723-8710-E64BEAF241CA-79931-0001315D0EBC60D3
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>PORK BUTT:</li>
 <li>1 whole bone-in pork butt or picnic ham (8 to 10 pounds)</li>
 <li>1 cup white sugar</li>
@@ -69,4 +67,4 @@ uid: 6A292E01-87EF-4723-8710-E64BEAF241CA-79931-0001315D0EBC60D3
 <li>1 dozen or more fresh oysters (optional)</li>
 <li>Kimchi (available in many Asian markets, and online)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -22,12 +22,10 @@ meal_types: '3'
 name: Braised Chicken with Lemon and Olives
 p_recipe_id: 72
 permalink: /recipes/braised-chicken-with-lemon-and-olives
-photo: A99D4799-04D5-41D4-AEF5-B9C33B94ADCC-14274-000009188663A80F.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: braised-chicken-with-lemon-and-olives-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: Yield 4 to 6 servings
@@ -40,7 +38,7 @@ uid: B2B43BA7-22D4-4BD8-83DC-D14E3B6E8D92-14274-0000091878C6BB9A
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>8 chicken thighs, skin-on and bone-in, about 3 1/2 pounds</li>
 <li>Salt and pepper</li>
 <li>½ teaspoon red pepper flakes</li>
@@ -53,4 +51,4 @@ uid: B2B43BA7-22D4-4BD8-83DC-D14E3B6E8D92-14274-0000091878C6BB9A
 <li>1 cup chicken broth</li>
 <li>3 tablespoons chopped parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -36,21 +36,16 @@ meal_types: 3|3|3|3
 name: Roasted Branzino with Caper Butter
 p_recipe_id: 417
 permalink: /recipes/roasted-branzino-with-caper-butter
-photo: 6D9BF66C-7EFC-4AEE-9A81-942B783D6F50-11471-00000947882FD918.jpg
-photo_large: 681AC837-C3C3-4F73-B541-87143368AC58-11471-000009476739C86F.jpg
-photos: []
+photo_large: roasted-branzino-with-caper-butter-large.jpg
+photo_thumb: roasted-branzino-with-caper-butter-thumb.jpg
 photos_dict:
   '1': 681AC837-C3C3-4F73-B541-87143368AC58-11471-000009476739C86F.jpg
   '2': 7843F783-FC31-4E0B-910F-BA4536C23690-11471-00000947771732F2.jpg
   '3': A921771C-9944-4575-90A2-D54C4E736026-11471-0000094784455D91.jpg
-photos_filenames:
-- 7843F783-FC31-4E0B-910F-BA4536C23690-11471-00000947771732F2.jpg
-- 681AC837-C3C3-4F73-B541-87143368AC58-11471-000009476739C86F.jpg
-- A921771C-9944-4575-90A2-D54C4E736026-11471-0000094784455D91.jpg
-photos_names:
-- '2'
-- '1'
-- '3'
+photos_dict_new:
+  '1': roasted-branzino-with-caper-butter-1.jpg
+  '2': roasted-branzino-with-caper-butter-2.jpg
+  '3': roasted-branzino-with-caper-butter-3.jpg
 prep_time: 25 mins
 rating: 5
 servings: 'Yield: 8'
@@ -63,7 +58,7 @@ uid: B40DF28F-D2C8-4BC1-8E47-5009C4E843E4-68048-0000AAD508735823
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 stick unsalted butter, softened</li>
 <li>1 tablespoon finely chopped capers</li>
 <li>1 tablespoon fresh lemon juice</li>
@@ -74,4 +69,4 @@ uid: B40DF28F-D2C8-4BC1-8E47-5009C4E843E4-68048-0000AAD508735823
 <li>4 large rosemary sprigs</li>
 <li>3 tablespoons extra-virgin olive oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

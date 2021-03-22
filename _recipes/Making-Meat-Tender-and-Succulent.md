@@ -16,12 +16,10 @@ meal_types: null
 name: Making Meat Tender and Succulent
 p_recipe_id: 129
 permalink: /recipes/making-meat-tender-and-succulent
-photo: FE114ABE-477A-4B0B-99C5-056D12B8E43A-15978-00023F10F6E9A763.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: making-meat-tender-and-succulent-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: ''
@@ -34,4 +32,4 @@ uid: CF762501-746D-460A-8F21-6BC85020BA92-15978-00023F0FAEC303B4
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns">	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients">	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

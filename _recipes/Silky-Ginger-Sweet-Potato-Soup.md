@@ -39,12 +39,10 @@ meal_types: '3'
 name: Silky Ginger Sweet Potato Soup
 p_recipe_id: 220
 permalink: /recipes/silky-ginger-sweet-potato-soup
-photo: 9ABE349C-3599-43F8-875E-E4AC27B7BE8B-17048-000007FA1BD06D74.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: silky-ginger-sweet-potato-soup-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: 'Yield: 4'
@@ -57,7 +55,7 @@ uid: ECE2D7FE-A2D1-47B2-94F2-69E75CFBD8C2-17048-000007F9F43C38A5
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons coconut oil</li>
 <li>1/2 sweet onion diced</li>
 <li>2 garlic cloves</li>
@@ -71,4 +69,4 @@ uid: ECE2D7FE-A2D1-47B2-94F2-69E75CFBD8C2-17048-000007F9F43C38A5
 <li>2 tablespoons hemp hearts for topping</li>
 <li>extra coconut milk or cream for drizzling</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

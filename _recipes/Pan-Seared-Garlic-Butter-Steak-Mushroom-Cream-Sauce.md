@@ -43,15 +43,12 @@ meal_types: 3|3
 name: Pan Seared Garlic Butter Steak & Mushroom Cream Sauce
 p_recipe_id: 168
 permalink: /recipes/pan-seared-garlic-butter-steak-mushroom-cream-sauce
-photo: 0115C5E8-2E3A-4E93-BF04-695DDC54ABF3-14842-000006869ABA8991.jpg
 photo_large: null
-photos: []
+photo_thumb: pan-seared-garlic-butter-steak-mushroom-cream-sauce-thumb.jpg
 photos_dict:
   '1': 85BA16AD-B9A0-4516-8D4D-3B2CB4CB44E6-22544-0003EEC592E3F961.jpg
-photos_filenames:
-- 85BA16AD-B9A0-4516-8D4D-3B2CB4CB44E6-22544-0003EEC592E3F961.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': pan-seared-garlic-butter-steak-mushroom-cream-sauce-1.jpg
 prep_time: 10 mins
 rating: 5
 servings: ''
@@ -64,7 +61,7 @@ uid: 04CBAF39-7861-485D-B195-D741D37810E8-14842-0000068686800663
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For Steaks:</li>
 <li>4 7-ounce (200 gram) New York strip steaks, 1-inch thick (Australian Porterhouse steaks)</li>
 <li>A pinch of salt</li>
@@ -79,4 +76,4 @@ uid: 04CBAF39-7861-485D-B195-D741D37810E8-14842-0000068686800663
 <li>1 cup sliced brown mushrooms</li>
 <li>1/2 cup light cream or reduced fat cream (or heavy cream)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -21,12 +21,10 @@ meal_types: '4'
 name: Hummus (Ilan Hall)
 p_recipe_id: 4
 permalink: /recipes/hummus-ilan-hall
-photo: 82348952-B32B-42DC-AA8C-9497D3EE45F5-25037-00009F4F60E8F23D.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: hummus-ilan-hall-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 10min
 rating: 5
 servings: 1 total recipe
@@ -39,7 +37,7 @@ uid: 0D50D58F-97BC-420D-8B90-24B68665D672-25037-00009F4D10ECF74A
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li><strong>Hummus</strong></li>
 <li>8 oz dried garbanzo beans</li>
 <li>23 oz water, divided, plus extra to soak beans</li>
@@ -55,4 +53,4 @@ uid: 0D50D58F-97BC-420D-8B90-24B68665D672-25037-00009F4D10ECF74A
 <li>½ oz pistachios, toasted and chopped</li>
 <li>sliced raw vegetables, to serve</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

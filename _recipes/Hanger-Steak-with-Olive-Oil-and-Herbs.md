@@ -22,15 +22,12 @@ meal_types: 3|3
 name: Hanger Steak with Olive Oil and Herbs
 p_recipe_id: 137
 permalink: /recipes/hanger-steak-with-olive-oil-and-herbs
-photo: 39E9C8F4-B11E-4CF4-AB51-8B841250B6EA-14694-0000501D508C01D4.jpg
-photo_large: 6FFDBCB9-3F7E-4B26-ACDE-9F7EC12AE18D-14694-00005015BF597FBF.jpg
-photos: []
+photo_large: hanger-steak-with-olive-oil-and-herbs-large.jpg
+photo_thumb: hanger-steak-with-olive-oil-and-herbs-thumb.jpg
 photos_dict:
   '1': 6FFDBCB9-3F7E-4B26-ACDE-9F7EC12AE18D-14694-00005015BF597FBF.jpg
-photos_filenames:
-- 6FFDBCB9-3F7E-4B26-ACDE-9F7EC12AE18D-14694-00005015BF597FBF.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': hanger-steak-with-olive-oil-and-herbs-1.jpg
 prep_time: ''
 rating: 5
 servings: Yield 2 servings
@@ -43,7 +40,7 @@ uid: D786F450-7037-453C-9DD7-EECBAE202032-39436-00015D8932851873
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons Worcestershire sauce</li>
 <li>2 tablespoons soy sauce</li>
 <li>2 tablespoons Thai fish sauce</li>
@@ -56,4 +53,4 @@ uid: D786F450-7037-453C-9DD7-EECBAE202032-39436-00015D8932851873
 <li>½ cup coarsely chopped herbs</li>
 <li>1 teaspoon grated lemon zest</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

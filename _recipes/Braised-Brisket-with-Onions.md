@@ -29,9 +29,8 @@ meal_types: '3'
 name: Braised Brisket with Onions
 p_recipe_id: 342
 permalink: /recipes/braised-brisket-with-onions
-photo: 1ABD8978-5C05-45EA-BBE1-C020E8F81FCC-15281-00000A058CB2957B.jpg
-photo_large: A29DA219-01F1-4AE7-89DB-D723D0EA2CD0-15281-00000A055536D9CA.jpg
-photos: []
+photo_large: braised-brisket-with-onions-large.jpg
+photo_thumb: braised-brisket-with-onions-thumb.jpg
 photos_dict:
   '01': 58DC568A-93ED-4451-8038-B1F5EDC206CD-50715-00076560D4C83250.jpg
   '02': 32162939-170F-4108-9424-DD61D4D4E24D-50715-000765613985F72B.jpg
@@ -43,28 +42,17 @@ photos_dict:
   08: DB0AFAE4-08D8-4031-B54D-C39C747C5D1C-15281-00000A054D7B82FD.jpg
   09: A29DA219-01F1-4AE7-89DB-D723D0EA2CD0-15281-00000A055536D9CA.jpg
   '10': EF25BF66-00E3-4D6F-9643-0427856E7C86-15281-00000A055C03A13D.jpg
-photos_filenames:
-- 58DC568A-93ED-4451-8038-B1F5EDC206CD-50715-00076560D4C83250.jpg
-- F1628B4E-51CF-4E40-AC90-AEA7D354D656-50715-00076562A7353A27.jpg
-- D8C6F2DC-BC4F-49ED-BCEF-DBD8E4215438-50715-00076562465ACD71.jpg
-- 32162939-170F-4108-9424-DD61D4D4E24D-50715-000765613985F72B.jpg
-- F2AAB4FE-7F5B-4659-817F-3A9592945F0F-50715-00076561AE3CA524.jpg
-- 10C79E1A-E86C-4030-9986-17CD4EBBC68A-50715-00077646828C79F2.jpg
-- A5065799-9472-4178-B2F7-D6D076A18C45-50715-00077645F4E993B2.jpg
-- A29DA219-01F1-4AE7-89DB-D723D0EA2CD0-15281-00000A055536D9CA.jpg
-- EF25BF66-00E3-4D6F-9643-0427856E7C86-15281-00000A055C03A13D.jpg
-- DB0AFAE4-08D8-4031-B54D-C39C747C5D1C-15281-00000A054D7B82FD.jpg
-photos_names:
-- '01'
-- '05'
-- '04'
-- '02'
-- '03'
-- '07'
-- '06'
-- 09
-- '10'
-- 08
+photos_dict_new:
+  '01': braised-brisket-with-onions-01.jpg
+  '02': braised-brisket-with-onions-02.jpg
+  '03': braised-brisket-with-onions-03.jpg
+  '04': braised-brisket-with-onions-04.jpg
+  '05': braised-brisket-with-onions-05.jpg
+  '06': braised-brisket-with-onions-06.jpg
+  '07': braised-brisket-with-onions-07.jpg
+  08: braised-brisket-with-onions-08.jpg
+  09: braised-brisket-with-onions-09.jpg
+  '10': braised-brisket-with-onions-10.jpg
 prep_time: ''
 rating: 5
 servings: ''
@@ -77,7 +65,7 @@ uid: 4CB07882-5BB7-4D7D-A85F-9C33428D9BBB-50715-00075EFA2FEFB0E5
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Brisket, 5 lb</li>
 <li>
 <ol>
@@ -111,4 +99,4 @@ uid: 4CB07882-5BB7-4D7D-A85F-9C33428D9BBB-50715-00075EFA2FEFB0E5
 </li>
 <li>Salt and pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -23,12 +23,10 @@ meal_types: 3|3
 name: Indian Chicken Curry II
 p_recipe_id: 117
 permalink: /recipes/indian-chicken-curry-ii
-photo: 84089300-843C-4267-93C6-8DFD327BBC88-30964-000010B6274F741D.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: indian-chicken-curry-ii-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 20 mins
 rating: 5
 servings: 'Servings: 4'
@@ -41,7 +39,7 @@ uid: AAAD7A1C-0B46-4AC0-AA7A-101B2EBE2DF4-30964-000010B6103D68BD
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 tablespoons olive oil</li>
 <li>1 small onion, chopped</li>
 <li>2 cloves garlic, minced</li>
@@ -59,4 +57,4 @@ uid: AAAD7A1C-0B46-4AC0-AA7A-101B2EBE2DF4-30964-000010B6103D68BD
 <li>½ lemon, juiced</li>
 <li>½ teaspoon cayenne pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -43,15 +43,12 @@ meal_types: '3'
 name: Hamburger Steak
 p_recipe_id: 207
 permalink: /recipes/hamburger-steak
-photo: F5C03072-3445-4B8B-BE4E-2B7306D4B19E-47978-0005E250C2B57D70.jpg
-photo_large: CC86E0C9-07E6-4CDE-BE93-1C071F05C359-47978-0005E2501AD4B281.jpg
-photos: []
+photo_large: hamburger-steak-large.jpg
+photo_thumb: hamburger-steak-thumb.jpg
 photos_dict:
   '1': CC86E0C9-07E6-4CDE-BE93-1C071F05C359-47978-0005E2501AD4B281.jpg
-photos_filenames:
-- CC86E0C9-07E6-4CDE-BE93-1C071F05C359-47978-0005E2501AD4B281.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': hamburger-steak-1.jpg
 prep_time: 15 minutes
 rating: 5
 servings: 'Yield: 8 steaks'
@@ -64,7 +61,7 @@ uid: 359750A3-4957-4735-9DAC-935A18605F94-5025-000001ECAB5B5782
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3/4 cup Panko bread crumb</li>
 <li>1/4 cup milk</li>
 <li>1 lb ground beef</li>
@@ -80,4 +77,4 @@ uid: 359750A3-4957-4735-9DAC-935A18605F94-5025-000001ECAB5B5782
 <li>1/2 cup worcester sauce</li>
 <li>1-2 Tbsp sake (or wine)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

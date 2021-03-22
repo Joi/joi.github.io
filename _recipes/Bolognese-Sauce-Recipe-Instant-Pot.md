@@ -23,24 +23,18 @@ meal_types: '3'
 name: Bolognese Sauce Recipe (Instant Pot)
 p_recipe_id: 334
 permalink: /recipes/bolognese-sauce-recipe-instant-pot
-photo: E8D91A69-CC96-4CC5-A7D6-C66EFB342584-13002-000625BE3FEBF04F.jpg
-photo_large: B44A406D-B3F5-4ECD-AE44-D47A0E60A1AE-13002-000625B99468A6A2.jpg
-photos: []
+photo_large: bolognese-sauce-recipe-instant-pot-large.jpg
+photo_thumb: bolognese-sauce-recipe-instant-pot-thumb.jpg
 photos_dict:
   '01': EA0D372C-1140-4A22-B07B-EFC778EC177B-13002-000625BB764848E3.jpg
   '02': 7C1C7675-E785-45B8-A43D-3B85A0802005-13002-000625BB1B32DAB9.jpg
   '03': 27BFEAB6-D7C4-45C7-B529-081D17267E53-13002-000625BAB5647FC2.jpg
   '04': B44A406D-B3F5-4ECD-AE44-D47A0E60A1AE-13002-000625B99468A6A2.jpg
-photos_filenames:
-- B44A406D-B3F5-4ECD-AE44-D47A0E60A1AE-13002-000625B99468A6A2.jpg
-- 7C1C7675-E785-45B8-A43D-3B85A0802005-13002-000625BB1B32DAB9.jpg
-- 27BFEAB6-D7C4-45C7-B529-081D17267E53-13002-000625BAB5647FC2.jpg
-- EA0D372C-1140-4A22-B07B-EFC778EC177B-13002-000625BB764848E3.jpg
-photos_names:
-- '04'
-- '02'
-- '03'
-- '01'
+photos_dict_new:
+  '01': bolognese-sauce-recipe-instant-pot-01.jpg
+  '02': bolognese-sauce-recipe-instant-pot-02.jpg
+  '03': bolognese-sauce-recipe-instant-pot-03.jpg
+  '04': bolognese-sauce-recipe-instant-pot-04.jpg
 prep_time: 30 minutes
 rating: 5
 servings: ''
@@ -53,7 +47,7 @@ uid: 8202E24E-9C63-4DBB-A008-AFBA9C08982B-499-0000017FA2C55DFC
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon olive oil</li>
 <li>1-1/2 cups diced yellow onion</li>
 <li>½ cup diced carrots</li>
@@ -72,4 +66,4 @@ uid: 8202E24E-9C63-4DBB-A008-AFBA9C08982B-499-0000017FA2C55DFC
 <li>kosher salt and freshly-ground black pepper</li>
 <li>cooked tagliatelle, pappardelle, or your favorite pasta , for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

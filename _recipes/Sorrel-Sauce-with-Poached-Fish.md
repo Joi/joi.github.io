@@ -32,12 +32,10 @@ meal_types: null
 name: Sorrel Sauce with Poached Fish
 p_recipe_id: 122
 permalink: /recipes/sorrel-sauce-with-poached-fish
-photo: null
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: null
+photos_dict: null
+photos_dict_new: {}
 prep_time: 20 min
 rating: 5
 servings: '4'
@@ -51,7 +49,7 @@ uid: 7A82E399-1C0A-4A54-B4A6-539CFD569953-89150-0000F342AD89AD55
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 ½ pounds Pacific sole or flounder fillets</li>
 <li>Salt and freshly ground pepper</li>
 <li>1 tablespoon extra-virgin olive oil</li>
@@ -68,4 +66,4 @@ uid: 7A82E399-1C0A-4A54-B4A6-539CFD569953-89150-0000F342AD89AD55
 <li>Salt and pepper (white pepper preferred for color as well as flavor, but not a deal breaker) ***</li>
 <li>Juice of half a lemon, as needed</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

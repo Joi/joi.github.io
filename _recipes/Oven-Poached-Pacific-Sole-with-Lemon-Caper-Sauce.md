@@ -23,12 +23,10 @@ meal_types: '3'
 name: Oven-Poached Pacific Sole with Lemon Caper Sauce
 p_recipe_id: 51
 permalink: /recipes/oven-poached-pacific-sole-with-lemon-caper-sauce
-photo: B6C2DA04-040B-401E-AB2E-3BC0F36182F0-9067-0000E0FBF5EDD277.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: oven-poached-pacific-sole-with-lemon-caper-sauce-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Serves 4
@@ -41,7 +39,7 @@ uid: B96AD161-7872-4FBB-ABD2-2C51CF408E15-9067-0000E0F8F7176475
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 ½ pounds Pacific sole or flounder fillets</li>
 <li>Salt and freshly ground pepper</li>
 <li>1 tablespoon extra-virgin olive oil</li>
@@ -54,4 +52,4 @@ uid: B96AD161-7872-4FBB-ABD2-2C51CF408E15-9067-0000E0F8F7176475
 <li>3 tablespoons extra-virgin olive oil</li>
 <li>2 to 4 tablespoons finely chopped parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

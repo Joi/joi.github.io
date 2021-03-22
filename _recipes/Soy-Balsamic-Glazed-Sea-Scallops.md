@@ -37,12 +37,10 @@ meal_types: '2'
 name: Soy-Balsamic Glazed Sea Scallops
 p_recipe_id: 262
 permalink: /recipes/soy-balsamic-glazed-sea-scallops
-photo: 6D97F242-EF86-4E0A-B19F-430D6123B2F8-23547-00000F36D3A55D40.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: soy-balsamic-glazed-sea-scallops-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 10 min
 rating: 5
 servings: Yields 2
@@ -55,7 +53,7 @@ uid: 8882747A-DD2F-4B5F-9AD9-984367393EB2-23547-00000F35FF5BA070
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 Tbsp balsamic vinegar</li>
 <li>1/4 cup soy sauce</li>
 <li>2 tsp rice vinegar</li>
@@ -68,4 +66,4 @@ uid: 8882747A-DD2F-4B5F-9AD9-984367393EB2-23547-00000F35FF5BA070
 <li>1/4 tsp Black pepper</li>
 <li>Fresh chopped cilantro, for garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

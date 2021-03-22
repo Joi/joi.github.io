@@ -40,12 +40,10 @@ meal_types: null
 name: Tomato-Poached Halibut
 p_recipe_id: 297
 permalink: /recipes/tomato-poached-halibut
-photo: 47E1742C-CD93-431C-815D-77AB7BFA4E5D-2643-000000EA918D9E6B.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: tomato-poached-halibut-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 15 min
 rating: 5
 servings: 4 servings
@@ -58,7 +56,7 @@ uid: 8CD26E14-3D18-4D2C-8D22-0C790E629F2B-2643-000000EA7A75D928
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon olive oil</li>
 <li>2 poblano peppers, finely chopped</li>
 <li>1 small onion, finely chopped</li>
@@ -73,4 +71,4 @@ uid: 8CD26E14-3D18-4D2C-8D22-0C790E629F2B-2643-000000EA7A75D928
 <li>4 lemon wedges</li>
 <li>Crusty whole grain bread, optional</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -21,12 +21,10 @@ meal_types: '3'
 name: Crispy Scallion Ginger Salmon
 p_recipe_id: 390
 permalink: /recipes/crispy-scallion-ginger-salmon
-photo: 4F294E9F-8B3C-4BD9-A6CF-24F1FA1FF44F-7512-0001E1EADD30A70D.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: crispy-scallion-ginger-salmon-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 10 minutes
 rating: 5
 servings: 'Serves: 4'
@@ -39,7 +37,7 @@ uid: FB351175-E30A-46F7-828B-2061D4F07D63-7512-0001E1E6CCA51ED2
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 tablespoons oil</li>
 <li>2 eight oz. salmon fillets (450g total, sprinkled lightly and evenly with salt)</li>
 <li>½ cup water</li>
@@ -51,4 +49,4 @@ uid: FB351175-E30A-46F7-828B-2061D4F07D63-7512-0001E1E6CCA51ED2
 <li>3 scallions (very thinly julienned into 2-inch pieces)</li>
 <li>1/2 cup cilantro (chopped)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

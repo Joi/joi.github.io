@@ -21,12 +21,10 @@ meal_types: 3|2
 name: Chicken Livers and Onions, Venetian Style
 p_recipe_id: 373
 permalink: /recipes/chicken-livers-and-onions-venetian-style
-photo: 3CE36D67-FE5B-4702-8BDD-65FAD29EFCC7-50715-000DDC04A6AABB3E.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: chicken-livers-and-onions-venetian-style-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings
@@ -39,7 +37,7 @@ uid: 571A421D-07BA-47AD-ABD9-24C2D0BE237F-50715-000DDC013E0851CF
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons raisins</li>
 <li>2 tablespoons Balsamic vinegar</li>
 <li>1 ⅓ pounds chicken livers</li>
@@ -49,4 +47,4 @@ uid: 571A421D-07BA-47AD-ABD9-24C2D0BE237F-50715-000DDC013E0851CF
 <li>½ teaspoon fresh sage leaves (or 1/4 teaspoon dried sage)</li>
 <li>1 tablespoon dry white wine</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

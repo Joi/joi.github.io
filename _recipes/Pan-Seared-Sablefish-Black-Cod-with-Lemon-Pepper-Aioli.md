@@ -23,15 +23,12 @@ meal_types: null
 name: Pan-Seared Sablefish (Black Cod) with Lemon Pepper Aioli
 p_recipe_id: 241
 permalink: /recipes/pan-seared-sablefish-black-cod-with-lemon-pepper-aioli
-photo: B37CDA2A-7E2C-4B4D-A2EB-2B1DD392378F-29053-000366624DE72581.jpg
-photo_large: 9EFF478D-2306-475D-8542-618965EA6CF1-29053-0003665E467E9DF3.jpg
-photos: []
+photo_large: pan-seared-sablefish-black-cod-with-lemon-pepper-aioli-large.jpg
+photo_thumb: pan-seared-sablefish-black-cod-with-lemon-pepper-aioli-thumb.jpg
 photos_dict:
   '1': 9EFF478D-2306-475D-8542-618965EA6CF1-29053-0003665E467E9DF3.jpg
-photos_filenames:
-- 9EFF478D-2306-475D-8542-618965EA6CF1-29053-0003665E467E9DF3.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': pan-seared-sablefish-black-cod-with-lemon-pepper-aioli-1.jpg
 prep_time: 10 min
 rating: 5
 servings: 'Serves: 4'
@@ -44,7 +41,7 @@ uid: 3A634181-C441-41C2-9CCC-EE5225583B19-5879-00015F2CD2FD1E0B
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For the Aioli:</li>
 <li>1 egg yolk</li>
 <li>2 Tbsp Dijon mustard (we love Edmond Fallot)</li>
@@ -67,4 +64,4 @@ uid: 3A634181-C441-41C2-9CCC-EE5225583B19-5879-00015F2CD2FD1E0B
 <li>2 Tbsp lemon juice</li>
 <li>Salt and pepper, to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

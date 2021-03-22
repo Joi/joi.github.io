@@ -29,12 +29,10 @@ meal_types: 3|3|3
 name: Pan-Fried Lamb Chops with Rosemary and Garlic
 p_recipe_id: 106
 permalink: /recipes/pan-fried-lamb-chops-with-rosemary-and-garlic
-photo: DC010AF3-939F-46AC-B038-3FEDFA9ADC90-2334-0001CE30F84AE143.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: pan-fried-lamb-chops-with-rosemary-and-garlic-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Serves 6
@@ -47,7 +45,7 @@ uid: A14C420C-9137-424C-A2EA-412E33AF030D-2334-0001CE2B6F219C82
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons minced garlic</li>
 <li>1 1/2 tablespoons chopped fresh rosemary or 2 teaspoons dried</li>
 <li>1 teaspoon dried crushed red pepper</li>
@@ -55,4 +53,4 @@ uid: A14C420C-9137-424C-A2EA-412E33AF030D-2334-0001CE2B6F219C82
 <li>3 tablespoons olive oil</li>
 <li>Fresh rosemary sprigs (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

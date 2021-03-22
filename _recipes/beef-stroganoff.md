@@ -22,18 +22,14 @@ meal_types: 3|3
 name: Beef Stroganoff
 p_recipe_id: 397
 permalink: /recipes/beef-stroganoff
-photo: 2A0147CA-FF67-465D-A87A-8F6295156937-641-00004F911F26D62E.jpg
-photo_large: 300A3E2E-5607-47F6-8ECD-13F8658B640E-641-00004F008E58A241.jpg
-photos: []
+photo_large: beef-stroganoff-large.jpg
+photo_thumb: beef-stroganoff-thumb.jpg
 photos_dict:
   '1': 300A3E2E-5607-47F6-8ECD-13F8658B640E-641-00004F008E58A241.jpg
   '2': 0A079714-B8B0-435A-8B1F-FB1967FD6B62-641-00004FED3FE04E00.jpg
-photos_filenames:
-- 300A3E2E-5607-47F6-8ECD-13F8658B640E-641-00004F008E58A241.jpg
-- 0A079714-B8B0-435A-8B1F-FB1967FD6B62-641-00004FED3FE04E00.jpg
-photos_names:
-- '1'
-- '2'
+photos_dict_new:
+  '1': beef-stroganoff-1.jpg
+  '2': beef-stroganoff-2.jpg
 prep_time: 15 min
 rating: 0
 servings: ''
@@ -44,11 +40,11 @@ total_time: ''
 type: _mine
 uid: 2BFBB0EB-1535-434A-99C6-682B1593F3D1-45654-0003D9CE6707F661
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<h4 id="description">Description</h4>
+<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>This is still a recipe work-in-progress that hasn't been &quot;perfected.&quot;</p>
-</div>	</div><!-- #writeup -->
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 lb beef sliced thin</li>
 <li>1 large onion thinly sliced</li>
 <li>1 package of mushrooms</li>
@@ -69,7 +65,7 @@ uid: 2BFBB0EB-1535-434A-99C6-682B1593F3D1-45654-0003D9CE6707F661
 <li>Chopped arsley</li>
 <li>demi-glace sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Mix tomato puree, tomato paste, Worcestershire sauce and demi-glace sauce in bowl.</p>
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Mix tomato puree, tomato paste, Worcestershire sauce and demi-glace sauce in bowl.</p>
 <p>Mix 1 Tbsp flour with 1 Tbsp water in small bowl.</p>
 <p>Sauté onions, mushrooms and garlic.</p>
 <p>Add meat.</p>
@@ -78,4 +74,4 @@ uid: 2BFBB0EB-1535-434A-99C6-682B1593F3D1-45654-0003D9CE6707F661
 <p>Simmer and reduce.</p>
 <p>Add flour and water and stir in and allow to thicken.</p>
 <p>Top with parsley and sour cream and serve over rice.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>

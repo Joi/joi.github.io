@@ -26,25 +26,21 @@ meal_dates:
 - '2020-11-20'
 - '2020-12-19'
 - '2021-02-02'
-meal_types: 3|3|3|3|3|3|3|3
+- '2021-03-21'
+meal_types: 3|3|3|3|3|3|3|3|3
 name: Oven-Steamed Fish with Scallions and Ginger
 p_recipe_id: 22
 permalink: /recipes/oven-steamed-fish-with-scallions-and-ginger
-photo: 271546C3-86D7-442B-90DF-5EFCF8FD5E94-11906-00000E2238349B30.jpg
-photo_large: CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg
-photos: []
+photo_large: oven-steamed-fish-with-scallions-and-ginger-large.jpg
+photo_thumb: oven-steamed-fish-with-scallions-and-ginger-thumb.jpg
 photos_dict:
   '1': 601ABC73-3E1A-4CFA-9AC4-580216E1FBD3-631-0001E571CAD8F15A.jpg
   '2': CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg
   '3': 23569CD4-BD0C-4DE8-9B31-397F4C56550B-11906-00000E22139D741F.jpg
-photos_filenames:
-- 601ABC73-3E1A-4CFA-9AC4-580216E1FBD3-631-0001E571CAD8F15A.jpg
-- 23569CD4-BD0C-4DE8-9B31-397F4C56550B-11906-00000E22139D741F.jpg
-- CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg
-photos_names:
-- '1'
-- '3'
-- '2'
+photos_dict_new:
+  '1': oven-steamed-fish-with-scallions-and-ginger-1.jpg
+  '2': oven-steamed-fish-with-scallions-and-ginger-2.jpg
+  '3': oven-steamed-fish-with-scallions-and-ginger-3.jpg
 prep_time: ''
 rating: 5
 servings: Serves 4
@@ -57,7 +53,7 @@ uid: 77B98054-DBCB-470E-83E9-62B8E4A68906-408-00004DC1BC68E0B3
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>8 scallions, trimmed, divided</li>
 <li>1 (3-inch) piece ginger, peeled, divided</li>
@@ -72,4 +68,4 @@ uid: 77B98054-DBCB-470E-83E9-62B8E4A68906-408-00004DC1BC68E0B3
 <li>2 tablespoons vegetable oil</li>
 <li>⅓ cup fresh cilantro leaves and thin stems</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

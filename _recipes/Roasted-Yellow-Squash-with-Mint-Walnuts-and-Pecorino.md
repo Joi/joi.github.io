@@ -31,12 +31,10 @@ meal_types: '3'
 name: Roasted Yellow Squash with Mint, Walnuts and Pecorino
 p_recipe_id: 219
 permalink: /recipes/roasted-yellow-squash-with-mint-walnuts-and-pecorino
-photo: E587942C-3803-4BF0-8613-F633119F8814-631-000067EA17EFBF9C.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: roasted-yellow-squash-with-mint-walnuts-and-pecorino-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: 'Serves : 4'
@@ -49,7 +47,7 @@ uid: 0710863A-1492-49F6-B4AB-47A7975DBC6E-631-000067E712BC754E
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon extra-virgin olive oil</li>
 <li>2 medium yellow squash, sliced crosswise 1/4-inch thick</li>
 <li>1 tablespoon red wine vinegar</li>
@@ -59,4 +57,4 @@ uid: 0710863A-1492-49F6-B4AB-47A7975DBC6E-631-000067E712BC754E
 <li>Kosher salt</li>
 <li>Black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

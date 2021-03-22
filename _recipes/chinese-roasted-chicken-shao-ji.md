@@ -39,12 +39,10 @@ meal_types: '3'
 name: "Chinese Roasted Chicken (\u70E7\u9E21)"
 p_recipe_id: 441
 permalink: /recipes/chinese-roasted-chicken-shao-ji
-photo: 0326A685-887D-4010-A0AC-FE4B280611F8-1607-00007D847A5B7B7B.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: chinese-roasted-chicken-shao-ji-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 2 d
 rating: 5
 servings: 'Servings: 3'
@@ -57,7 +55,7 @@ uid: C35DC53C-4546-403C-A6E8-E7DA8F8ADBD0-1607-00007D8057C690B4
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 chicken (around 1 kg )</li>
 <li>Marinade</li>
 <li>1 chicken , around 1 kg</li>
@@ -71,4 +69,4 @@ uid: C35DC53C-4546-403C-A6E8-E7DA8F8ADBD0-1607-00007D8057C690B4
 <li>1 tsp. salt</li>
 <li>1/2 tsp. five spice powder</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

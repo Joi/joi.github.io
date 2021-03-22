@@ -25,18 +25,14 @@ meal_types: '3'
 name: Biltmore Chianti Glazed Beef Short Ribs
 p_recipe_id: 29
 permalink: /recipes/biltmore-chianti-glazed-beef-short-ribs
-photo: 420F33E8-7494-492F-8AE1-561B8E9F8DA1-29546-000347AAF91F7DAE.jpg
-photo_large: 051F2944-3334-47B8-9ABF-8A1209444FEB-29546-000347A8D964E07D.jpg
-photos: []
+photo_large: biltmore-chianti-glazed-beef-short-ribs-large.jpg
+photo_thumb: biltmore-chianti-glazed-beef-short-ribs-thumb.jpg
 photos_dict:
   '1': DE36B32D-FAA3-4EB7-A192-B41FD629BB66-29546-000347A871E10A12.jpg
   '2': 051F2944-3334-47B8-9ABF-8A1209444FEB-29546-000347A8D964E07D.jpg
-photos_filenames:
-- 051F2944-3334-47B8-9ABF-8A1209444FEB-29546-000347A8D964E07D.jpg
-- DE36B32D-FAA3-4EB7-A192-B41FD629BB66-29546-000347A871E10A12.jpg
-photos_names:
-- '2'
-- '1'
+photos_dict_new:
+  '1': biltmore-chianti-glazed-beef-short-ribs-1.jpg
+  '2': biltmore-chianti-glazed-beef-short-ribs-2.jpg
 prep_time: 15min
 rating: 5
 servings: 4 portions
@@ -49,7 +45,7 @@ uid: AD430477-9151-456B-8A62-1A48083DB1A9-408-00004F71AC622DAB
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>64 oz beef short ribs, bone in</li>
 <li>1 ½ tsp salt, divided, plus extra to season, to taste</li>
 <li>1 tsp ground black pepper, plus extra to season, to taste</li>
@@ -73,4 +69,4 @@ uid: AD430477-9151-456B-8A62-1A48083DB1A9-408-00004F71AC622DAB
 <li>50 oz water</li>
 <li>cherry tomatoes on the vine, blistered (see Tip)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

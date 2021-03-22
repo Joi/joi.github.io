@@ -28,21 +28,16 @@ meal_types: 3|3
 name: Crown Roast of Lamb
 p_recipe_id: 253
 permalink: /recipes/crown-roast-of-lamb
-photo: 0FB9F6CD-8187-4952-A4DB-9C17BB488535-29053-0004B1367DF6F80C.jpg
-photo_large: 9149D496-D42C-4579-B6F1-4122D12ABE97-29053-0004B135658F0C74.jpg
-photos: []
+photo_large: crown-roast-of-lamb-large.jpg
+photo_thumb: crown-roast-of-lamb-thumb.jpg
 photos_dict:
   '1': 9149D496-D42C-4579-B6F1-4122D12ABE97-29053-0004B135658F0C74.jpg
   '2': 5F64C8B1-5096-452A-8FC0-804AB2F6F0A4-29053-0004B13581B3D731.jpg
   '3': FBC05A1A-A277-4630-89D4-96A62ADCFE4C-29053-0004B135C57C90FA.jpg
-photos_filenames:
-- FBC05A1A-A277-4630-89D4-96A62ADCFE4C-29053-0004B135C57C90FA.jpg
-- 5F64C8B1-5096-452A-8FC0-804AB2F6F0A4-29053-0004B13581B3D731.jpg
-- 9149D496-D42C-4579-B6F1-4122D12ABE97-29053-0004B135658F0C74.jpg
-photos_names:
-- '3'
-- '2'
-- '1'
+photos_dict_new:
+  '1': crown-roast-of-lamb-1.jpg
+  '2': crown-roast-of-lamb-2.jpg
+  '3': crown-roast-of-lamb-3.jpg
 prep_time: ''
 rating: 5
 servings: '6'
@@ -55,7 +50,7 @@ uid: FD54C700-8CFA-4582-86E5-1BB6A9398CBA-29053-0004AE4B3DE321B5
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Rub</li>
 <li>2 tbsp of fresh rosemary - chopped</li>
 <li>6 garlic cloves - minced</li>
@@ -71,4 +66,4 @@ uid: FD54C700-8CFA-4582-86E5-1BB6A9398CBA-29053-0004AE4B3DE321B5
 <li>1 tbsp wine vinegar</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

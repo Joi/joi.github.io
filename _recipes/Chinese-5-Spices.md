@@ -18,15 +18,12 @@ meal_types: null
 name: Chinese 5 Spices
 p_recipe_id: 450
 permalink: /recipes/chinese-5-spices
-photo: 819B8588-BC94-40DA-89C7-9BCF1036E86B-4181-0001E28A3B23CBA7.jpg
-photo_large: 706A3B1C-E667-42CC-BD8C-2D6D61A697AC-4181-0001E289F8DE5CC0.jpg
-photos: []
+photo_large: chinese-5-spices-large.jpg
+photo_thumb: chinese-5-spices-thumb.jpg
 photos_dict:
   '1': 706A3B1C-E667-42CC-BD8C-2D6D61A697AC-4181-0001E289F8DE5CC0.jpg
-photos_filenames:
-- 706A3B1C-E667-42CC-BD8C-2D6D61A697AC-4181-0001E289F8DE5CC0.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': chinese-5-spices-1.jpg
 prep_time: null
 rating: 5
 servings: null
@@ -39,11 +36,11 @@ uid: E2D3A29F-1034-4BD7-9633-0EF992A95660-4181-0001E27BEC161880
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6  star anise pods</li>
 <li>1 ½ teaspoons whole cloves (or 1 1/4 teaspoon ground)</li>
 <li>1 cinnamon stick (3 inches long ) or two tablespoons ground</li>
 <li>2 tablespoons fennel seeds</li>
 <li>2 teaspoons Szechuan peppercorns</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -35,9 +35,8 @@ meal_types: 3|3|3|3|3|3|3|3|3|3|3
 name: Bolognese Sauce
 p_recipe_id: 350
 permalink: /recipes/bolognese-sauce
-photo: B5DEB0CE-E531-4A2A-B04F-80BB60BF7B33-37413-00001BE78EA81623.jpg
-photo_large: 2C7DEBA0-584E-491C-99E2-531EC9F06995-37413-00001BE77E34EAAB.jpg
-photos: []
+photo_large: bolognese-sauce-large.jpg
+photo_thumb: bolognese-sauce-thumb.jpg
 photos_dict:
   '1': 2C7DEBA0-584E-491C-99E2-531EC9F06995-37413-00001BE77E34EAAB.jpg
   '10': 96BADC2C-B687-4237-ACB0-1FD5A504B9BF-8894-00003E777CC98CCB.jpg
@@ -55,40 +54,23 @@ photos_dict:
   '7': 1E6991E5-ED6C-4276-8086-9E10EC2BB9F5-8894-00003E763484BF79.jpg
   '8': 2203F29E-EDA2-47F7-A82F-CBCA447401B1-8894-00003E76957A20E5.jpg
   '9': 0DE03C07-D7DC-49E7-9984-E8F7B77F8697-8894-00003E7718F4F3C6.jpg
-photos_filenames:
-- 2C7DEBA0-584E-491C-99E2-531EC9F06995-37413-00001BE77E34EAAB.jpg
-- 0DE03C07-D7DC-49E7-9984-E8F7B77F8697-8894-00003E7718F4F3C6.jpg
-- 1E6991E5-ED6C-4276-8086-9E10EC2BB9F5-8894-00003E763484BF79.jpg
-- 2203F29E-EDA2-47F7-A82F-CBCA447401B1-8894-00003E76957A20E5.jpg
-- BFBC9A93-0D91-4263-9C58-68465C739ECC-8894-00003E7318599302.jpg
-- 39CB9C8B-73A1-40DD-A648-4A289FC2F21A-8894-00003E7995A60C31.jpg
-- 0147FADB-1CCD-41E5-82AE-89E605BB5A31-8894-00003E77E8AED551.jpg
-- D0C52E36-FF84-41CE-AA9A-6390BC929C8A-8894-00003E78DFAD909C.jpg
-- F9201EEB-B72B-4D0F-990F-03168164A8F3-8894-00003E7400A791AA.jpg
-- 96BADC2C-B687-4237-ACB0-1FD5A504B9BF-8894-00003E777CC98CCB.jpg
-- A29D0652-BDD6-4CEC-8C99-859DA1B61286-8894-00003E7937154B8E.jpg
-- 9A4028C8-0BE3-47A5-957E-2006A1CFE930-8894-00003E7846327B24.jpg
-- 1269A7C2-593F-40F1-B9F7-35FA491517E9-8894-00003E7543F5B0CC.jpg
-- 1A8CA245-75AA-4868-8504-8307D33E5102-8894-00003E727747CA0B.jpg
-- 5484C045-0C23-4336-BDBF-42FA7181415C-8894-00003E75CF639F0F.jpg
-- F12996D3-F990-4040-9D67-42EE9CC1B6B8.jpg
-photos_names:
-- '1'
-- '9'
-- '7'
-- '8'
-- '3'
-- '15'
-- '11'
-- '13'
-- '4'
-- '10'
-- '14'
-- '12'
-- '5'
-- '2'
-- '6'
-- '16'
+photos_dict_new:
+  '1': bolognese-sauce-1.jpg
+  '10': bolognese-sauce-10.jpg
+  '11': bolognese-sauce-11.jpg
+  '12': bolognese-sauce-12.jpg
+  '13': bolognese-sauce-13.jpg
+  '14': bolognese-sauce-14.jpg
+  '15': bolognese-sauce-15.jpg
+  '16': bolognese-sauce-16.jpg
+  '2': bolognese-sauce-2.jpg
+  '3': bolognese-sauce-3.jpg
+  '4': bolognese-sauce-4.jpg
+  '5': bolognese-sauce-5.jpg
+  '6': bolognese-sauce-6.jpg
+  '7': bolognese-sauce-7.jpg
+  '8': bolognese-sauce-8.jpg
+  '9': bolognese-sauce-9.jpg
 prep_time: ''
 rating: 5
 servings: ''
@@ -101,7 +83,7 @@ uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 Tbsp olive oil</li>
 <li>1 ½ cups diced yellow onion</li>
 <li>½ cup diced carrots</li>
@@ -125,17 +107,17 @@ uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1
 <li>kosher salt and freshly-ground black pepper</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1/1E6991E5-ED6C-4276-8086-9E10EC2BB9F5-8894-00003E763484BF79.jpg" alt="7" /></p>
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/bolognese-sauce-7.jpg" alt="7" /></p>
 <p>Mix tomatoes, tomato paste, basil, oregano, parsley and garlic in a bowl with immersion blender.</p>
-<p><img src="/images/recipes/8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1/0147FADB-1CCD-41E5-82AE-89E605BB5A31-8894-00003E77E8AED551.jpg" alt="11" /></p>
+<p><img src="/images/recipes/bolognese-sauce-11.jpg" alt="11" /></p>
 <p>Heat olive oil and sauté bacon.</p>
-<p><img src="/images/recipes/8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1/1269A7C2-593F-40F1-B9F7-35FA491517E9-8894-00003E7543F5B0CC.jpg" alt="5" /></p>
+<p><img src="/images/recipes/bolognese-sauce-5.jpg" alt="5" /></p>
 <p>Sauté onions, carrots, and celery, until soft.</p>
-<p><img src="/images/recipes/8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1/39CB9C8B-73A1-40DD-A648-4A289FC2F21A-8894-00003E7995A60C31.jpg" alt="15" /></p>
+<p><img src="/images/recipes/bolognese-sauce-15.jpg" alt="15" /></p>
 <p>Add meat, break apart and allow fluid to evaporate if any.</p>
 <p>Add wine and deglaze and allow wine to evaporate.</p>
 <p>Add tomato mixture and stir.</p>
 <p>Pressure cook for 20 min.</p>
 <p>Quick release and then simmer on low sauté setting until thickness is right.</p>
 <p>Add heavy cream and parmesan.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>

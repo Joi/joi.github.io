@@ -19,15 +19,12 @@ meal_types: '4'
 name: Butter Roll
 p_recipe_id: 164
 permalink: /recipes/butter-roll
-photo: F522063A-4155-42FD-AA39-494F5BD29F02-29546-0000D70B3D18819C.jpg
-photo_large: 9FFABAB3-E2FB-4006-8415-534BFECC1E42-29546-0000D704AED7E5DB.jpg
-photos: []
+photo_large: butter-roll-large.jpg
+photo_thumb: butter-roll-thumb.jpg
 photos_dict:
   '1': 9FFABAB3-E2FB-4006-8415-534BFECC1E42-29546-0000D704AED7E5DB.jpg
-photos_filenames:
-- 9FFABAB3-E2FB-4006-8415-534BFECC1E42-29546-0000D704AED7E5DB.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': butter-roll-1.jpg
 prep_time: '1'
 rating: 5
 servings: ''
@@ -40,7 +37,7 @@ uid: 8EF38009-BB8A-474B-832A-573AA5F4DC59-11450-000003056F5299A6
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>200 g Bread Flour</li>
 <li>50 g Cake Flour</li>
 <li>25 g Granulated Sugar</li>
@@ -51,4 +48,4 @@ uid: 8EF38009-BB8A-474B-832A-573AA5F4DC59-11450-000003056F5299A6
 <li>60 g Whole Egg</li>
 <li>40 g Unsalted Butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

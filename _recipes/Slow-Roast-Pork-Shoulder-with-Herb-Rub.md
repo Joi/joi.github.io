@@ -21,12 +21,10 @@ meal_types: '2'
 name: Slow Roast Pork Shoulder with Herb Rub
 p_recipe_id: 187
 permalink: /recipes/slow-roast-pork-shoulder-with-herb-rub
-photo: C479F5A8-6CEE-4E61-9439-32E13D40E01C-1358-00012EC31B801DBB.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: slow-roast-pork-shoulder-with-herb-rub-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 10 servings
@@ -39,7 +37,7 @@ uid: E02D444F-C24D-47F0-B290-52D1C0EB21F6-1358-00012EBF4535147A
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6 tablespoons mixed finely chopped robust herbs (like thyme, rosemary, sage and parsley)</li>
 <li>3 garlic cloves, finely chopped</li>
 <li>¾ cup brown sugar</li>
@@ -53,4 +51,4 @@ uid: E02D444F-C24D-47F0-B290-52D1C0EB21F6-1358-00012EBF4535147A
 <li>Rosemary applesauce</li>
 <li>Crusty bread rolls, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

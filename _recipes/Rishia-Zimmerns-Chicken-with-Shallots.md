@@ -38,15 +38,12 @@ meal_types: 3|3|3
 name: "Rishia Zimmern\u2019s Chicken with Shallots"
 p_recipe_id: 15
 permalink: /recipes/rishia-zimmerns-chicken-with-shallots
-photo: 0D9ADA44-9A27-4604-8E5C-803C35475EE4-22544-0003EE9BCDA6FBC4.jpg
-photo_large: 624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg
-photos: []
+photo_large: rishia-zimmerns-chicken-with-shallots-large.jpg
+photo_thumb: rishia-zimmerns-chicken-with-shallots-thumb.jpg
 photos_dict:
   '1': 624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg
-photos_filenames:
-- 624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': rishia-zimmerns-chicken-with-shallots-1.jpg
 prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings
@@ -59,7 +56,7 @@ uid: 57A666F1-E339-4107-80E4-F9F286673626-39996-000020226ACB939A
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>8 bone-in chicken thighs</li>
 <li>2 tablespoons flour</li>
 <li>1 tablespoon kosher salt</li>
@@ -71,4 +68,4 @@ uid: 57A666F1-E339-4107-80E4-F9F286673626-39996-000020226ACB939A
 <li>2 sprigs tarragon</li>
 <li>2 cups cherry tomatoes, cut in half.</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

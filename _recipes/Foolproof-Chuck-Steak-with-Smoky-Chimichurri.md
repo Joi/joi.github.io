@@ -50,15 +50,12 @@ meal_types: null
 name: Foolproof Chuck Steak with Smoky Chimichurri
 p_recipe_id: 322
 permalink: /recipes/foolproof-chuck-steak-with-smoky-chimichurri
-photo: 9F2B0A69-45A5-42A5-A5AB-4C11FB2DED79-2241-0003156E983A5E12.jpg
-photo_large: 6DD2B439-B4B2-4442-A592-EDA30198A1F1-2241-0003156A1399F4A6.jpg
-photos: []
+photo_large: foolproof-chuck-steak-with-smoky-chimichurri-large.jpg
+photo_thumb: foolproof-chuck-steak-with-smoky-chimichurri-thumb.jpg
 photos_dict:
   '1': 6DD2B439-B4B2-4442-A592-EDA30198A1F1-2241-0003156A1399F4A6.jpg
-photos_filenames:
-- 6DD2B439-B4B2-4442-A592-EDA30198A1F1-2241-0003156A1399F4A6.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': foolproof-chuck-steak-with-smoky-chimichurri-1.jpg
 prep_time: 20 mins
 rating: 5
 servings: Serves 2 to 4
@@ -71,7 +68,7 @@ uid: CEDB473E-DE66-49BB-A26A-E39699CB17AE-6290-0000032FC1829B23
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>STEAK</li>
 <li>1 to 1 1/2 pounds chuck steak or chuck-eye steak (1 to 1 1/2 in. thick)</li>
 <li>1 to 2 tablespoons kosher salt</li>
@@ -91,4 +88,4 @@ uid: CEDB473E-DE66-49BB-A26A-E39699CB17AE-6290-0000032FC1829B23
 <li>1 teaspoon dried oregano</li>
 <li>1/2 teaspoon smoked paprika</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

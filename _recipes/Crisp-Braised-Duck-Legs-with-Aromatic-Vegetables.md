@@ -27,12 +27,10 @@ meal_types: '3'
 name: Crisp-Braised Duck Legs with Aromatic Vegetables
 p_recipe_id: 94
 permalink: /recipes/crisp-braised-duck-legs-with-aromatic-vegetables
-photo: null
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: null
+photos_dict: null
+photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: Yield 4 servings
@@ -45,7 +43,7 @@ uid: 59C94A12-982E-4BD9-8826-A29B0DA9019C-24114-00000F463DF5064E
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 duck legs, trimmed of excess fat</li>
 <li>Salt and pepper to taste</li>
 <li>2 large onion</li>
@@ -53,4 +51,4 @@ uid: 59C94A12-982E-4BD9-8826-A29B0DA9019C-24114-00000F463DF5064E
 <li>6 celery stalks</li>
 <li>2 cups chicken stock, preferably homemade</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -19,18 +19,14 @@ meal_types: '3'
 name: Braised Lamb with Red Wine and Prunes
 p_recipe_id: 147
 permalink: /recipes/braised-lamb-with-red-wine-and-prunes
-photo: 0541AC85-A828-48A8-9504-243EC1B2AA4E-29546-0000D713AB6D770C.jpg
-photo_large: 1F52A9C3-7EB1-4290-978D-52C636543B12-29546-0000D7106908C545.jpg
-photos: []
+photo_large: braised-lamb-with-red-wine-and-prunes-large.jpg
+photo_thumb: braised-lamb-with-red-wine-and-prunes-thumb.jpg
 photos_dict:
   '1': 1F52A9C3-7EB1-4290-978D-52C636543B12-29546-0000D7106908C545.jpg
   '2': 7C95DFE5-D646-43DD-A6F4-52F204AE7FC8-29546-0000D711639552FE.jpg
-photos_filenames:
-- 7C95DFE5-D646-43DD-A6F4-52F204AE7FC8-29546-0000D711639552FE.jpg
-- 1F52A9C3-7EB1-4290-978D-52C636543B12-29546-0000D7106908C545.jpg
-photos_names:
-- '2'
-- '1'
+photos_dict_new:
+  '1': braised-lamb-with-red-wine-and-prunes-1.jpg
+  '2': braised-lamb-with-red-wine-and-prunes-2.jpg
 prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings
@@ -43,7 +39,7 @@ uid: 6665AE81-BAFC-41FB-B3B2-CE6FB6A69405-13891-0000A72EF98AC351
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 pounds lamb shoulder</li>
 <li>1 cup pitted prunes</li>
 <li>1 tablespoon minced garlic</li>
@@ -54,4 +50,4 @@ uid: 6665AE81-BAFC-41FB-B3B2-CE6FB6A69405-13891-0000A72EF98AC351
 <li>1 ½ cup red wine</li>
 <li>½ cup stock or water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

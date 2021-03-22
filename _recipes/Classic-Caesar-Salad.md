@@ -23,12 +23,10 @@ meal_types: 3|3
 name: Classic Caesar Salad
 p_recipe_id: 302
 permalink: /recipes/classic-caesar-salad
-photo: 1047285C-5914-49E8-91B9-69F8F9418A50-1060-0002AF0977449E27.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: classic-caesar-salad-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: 6 servings
@@ -41,7 +39,7 @@ uid: A4154EF4-77BC-4CC2-AD86-57C0D9DA6EE5-1060-0002AF06087A9657
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>The Dressing:</li>
 <li>6 anchovy fillets packed in oil, drained</li>
 <li>1 small garlic clove</li>
@@ -61,4 +59,4 @@ uid: A4154EF4-77BC-4CC2-AD86-57C0D9DA6EE5-1060-0002AF06087A9657
 <li>The Cheese:</li>
 <li>Parmesan, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

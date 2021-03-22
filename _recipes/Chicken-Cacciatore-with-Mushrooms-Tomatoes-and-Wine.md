@@ -23,12 +23,10 @@ meal_types: '3'
 name: Chicken Cacciatore with Mushrooms, Tomatoes and Wine
 p_recipe_id: 71
 permalink: /recipes/chicken-cacciatore-with-mushrooms-tomatoes-and-wine
-photo: 87F61631-015D-4917-947A-041663628DBE-14274-00000915EEC7A2D5.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: chicken-cacciatore-with-mushrooms-tomatoes-and-wine-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: Yield 4 to 5 servings
@@ -41,7 +39,7 @@ uid: 802393D9-138D-4502-9F6E-BD0359A4CC55-14274-00000915E85CF295
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ ounce dried mushrooms, like porcini (1/2 cup)</li>
 <li>2 tablespoons olive oil</li>
 <li>Salt and freshly ground pepper</li>
@@ -57,4 +55,4 @@ uid: 802393D9-138D-4502-9F6E-BD0359A4CC55-14274-00000915E85CF295
 <li>½ cup red wine</li>
 <li>1 28-ounce can chopped tomatoes in juice, pulsed in a food processor</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

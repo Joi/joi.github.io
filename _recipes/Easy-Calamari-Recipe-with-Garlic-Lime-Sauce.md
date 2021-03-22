@@ -32,12 +32,10 @@ meal_types: null
 name: Easy Calamari Recipe with Garlic-Lime Sauce
 p_recipe_id: 218
 permalink: /recipes/easy-calamari-recipe-with-garlic-lime-sauce
-photo: 82D62FC1-1FDA-4F39-898A-42B9E6CC0AE9-631-000061202E23EEEF.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: easy-calamari-recipe-with-garlic-lime-sauce-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 5 mins
 rating: 5
 servings: Serves 4
@@ -50,7 +48,7 @@ uid: 2831FFFC-E6FD-4540-8340-DABBF6E34558-631-0000611A318FD25C
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Extra Virgin Olive Oil (I used Private Reserve Greek olive oil)</li>
 <li>Unsalted butter</li>
 <li>10 garlic cloves, roughly chopped</li>
@@ -61,4 +59,4 @@ uid: 2831FFFC-E6FD-4540-8340-DABBF6E34558-631-0000611A318FD25C
 <li>Pinch cayenne pepper, optional</li>
 <li>3 tbsp chopped fresh dill</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

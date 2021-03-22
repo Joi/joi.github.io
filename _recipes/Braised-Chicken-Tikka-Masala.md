@@ -32,9 +32,8 @@ meal_types: '3'
 name: Braised Chicken Tikka Masala
 p_recipe_id: 448
 permalink: /recipes/braised-chicken-tikka-masala
-photo: B77A007F-371B-491E-8599-B3290EEEE89A-26383-0001C3C3637BDDF9.jpg
-photo_large: B04139C8-D6A5-4C26-8F80-FF0B29758812-415-00000263F32582B7.jpg
-photos: []
+photo_large: braised-chicken-tikka-masala-large.jpg
+photo_thumb: braised-chicken-tikka-masala-thumb.jpg
 photos_dict:
   '1': 132A54AF-6B66-47A0-A210-10B7D8D35D7D-1700-00007F7D9B398BE4.jpg
   '2': 92FE3DF5-3FA1-4CD8-9017-CCED5175EA01-415-0000024726610296.jpg
@@ -42,20 +41,13 @@ photos_dict:
   '4': 5B038DFF-B6C7-4292-898A-1A9CC71D817B-415-00000255D10E098A.jpg
   '5': 2FCD1573-1DEF-47D7-BC46-676BE349EBC9-415-00000255DCEB0F57.jpg
   '6': B04139C8-D6A5-4C26-8F80-FF0B29758812-415-00000263F32582B7.jpg
-photos_filenames:
-- 132A54AF-6B66-47A0-A210-10B7D8D35D7D-1700-00007F7D9B398BE4.jpg
-- 92FE3DF5-3FA1-4CD8-9017-CCED5175EA01-415-0000024726610296.jpg
-- C48FC691-478B-4D11-ACF4-DEDEC9471150-415-0000024EC92D5DD2.jpg
-- 2FCD1573-1DEF-47D7-BC46-676BE349EBC9-415-00000255DCEB0F57.jpg
-- 5B038DFF-B6C7-4292-898A-1A9CC71D817B-415-00000255D10E098A.jpg
-- B04139C8-D6A5-4C26-8F80-FF0B29758812-415-00000263F32582B7.jpg
-photos_names:
-- '1'
-- '2'
-- '3'
-- '5'
-- '4'
-- '6'
+photos_dict_new:
+  '1': braised-chicken-tikka-masala-1.jpg
+  '2': braised-chicken-tikka-masala-2.jpg
+  '3': braised-chicken-tikka-masala-3.jpg
+  '4': braised-chicken-tikka-masala-4.jpg
+  '5': braised-chicken-tikka-masala-5.jpg
+  '6': braised-chicken-tikka-masala-6.jpg
 prep_time: 15 mins
 rating: 5
 servings: 'Serves: - 6 people'
@@ -66,11 +58,11 @@ total_time: ''
 type: _mine
 uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<h4 id="description">Description</h4>
+<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Based on <a href="https://cafedelites.com/chicken-tikka-masala/">this recipe from Cafe Delites</a> but changed to use whole chicken, bigger pieces and cooking timing based on the Cook's Illustrated <a href="https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato">Braised Chicken with Basil and Tomato</a> which I find braises chicken and gets it done just right.</p>
-</div>	</div><!-- #writeup -->
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li><strong>For the chicken marinade:</strong></li>
 <li>Whole chicken</li>
 <li>1 cup plain yogurt</li>
@@ -100,8 +92,8 @@ uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5
 <li>¼ cup water if needed</li>
 <li>4 Tbsp Fresh cilantro to garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Break down chicken into 10 parts - drum stick, thighs, breast into 4 parts, wings. Save the back and wing tips for stock.</p>
-<p><img src="/images/recipes/3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5/92FE3DF5-3FA1-4CD8-9017-CCED5175EA01-415-0000024726610296.jpg" alt="2" /></p>
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Break down chicken into 10 parts - drum stick, thighs, breast into 4 parts, wings. Save the back and wing tips for stock.</p>
+<p><img src="/images/recipes/braised-chicken-tikka-masala-2.jpg" alt="2" /></p>
 <p>In a bowl, combine chicken with all of the ingredients for the chicken marinade; let marinate overnight.</p>
 <p>Preheat oven to 300ºF.</p>
 <p>Heat oil in a large skillet or pot over medium-high heat and sear chicken pieces. 3 or 4 min per side. Do in batches and do not crowd.</p>
@@ -112,4 +104,4 @@ uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5
 <p>Put thighs and drumsticks in skin side up and bring to simmer. Cover and cook for 8 minutes. Add broad big pieces skin side down. Cover and cook until big breast pieces have an internal temperature of 105ºF to 115ºF degrees, 3 to 5 minutes.</p>
 <p>Turn big breast pieces skin side up. Add smaller tapered breast pieces, skin side up. Transfer covered pot to oven or simmer and cook until breast pieces have an internal temperature of 150ºF and dark meat is 160ºF, 15 to 30 minutes.</p>
 <p>Garnish with cilantro and serve.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>

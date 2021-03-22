@@ -30,12 +30,10 @@ meal_types: null
 name: How to Revive Stale Bread
 p_recipe_id: 183
 permalink: /recipes/how-to-revive-stale-bread
-photo: null
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: null
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: ''
@@ -48,4 +46,4 @@ uid: 044596A7-CE96-4DDE-87A6-BC1ADE61D510-1358-000095528CA0522F
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns">	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients">	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

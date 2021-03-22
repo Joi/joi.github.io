@@ -16,10 +16,10 @@ image_url: null
 ingredients: "5 eggs\n\xBD pound of crab - shredded\n1 cup of shiitake mushrooms -\
   \ sliced thin\n\xBD pound of boiled bamboo shoots - cut into thin sticks\n1 knob\
   \ of ginger - cut into thin sticks\n2 scallions - sliced thin at an angle\nSalt,\
-  \ pepper, sugar\n2 Tbsp Shaoxing wine\n1 Tbsp light oil\n1 tsp sesame oil\n\n*Sweet\
-  \ and sour sauce*\n_In addition to the above_\n\n1 cup of Chinese chicken stock\n\
+  \ pepper, sugar\n2 Tbsp Shaoxing wine\n1 Tbsp light oil\n1 tsp sesame oil\n\n**Sweet\
+  \ and sour sauce**\n_In addition to the above_\n1 cup of Chinese chicken stock\n\
   1 Tbsp Shaoxing wine\n1 Tbsp sugar\n1 Tbsp rice vinegar\n\u2153 tsp salt\n1 tsp\
-  \ soy sauce\n1 Tbsp potato starch dissolved in 1 Tbsp of water\n\n"
+  \ soy sauce\n1 Tbsp potato starch dissolved in 1 Tbsp of water"
 intrash: 0
 meal_dates:
 - '2021-01-20'
@@ -29,24 +29,18 @@ meal_types: 3|3|3
 name: Kanitama
 p_recipe_id: 454
 permalink: /recipes/kanitama
-photo: FA7B8558-6651-40E5-B58F-E10409643E3C-2310-0000D443463A29BE.jpg
-photo_large: A2A0EEBD-2C59-4FC8-8C87-A393A5880573-2310-0000D2D406094FF0.jpg
-photos: []
+photo_large: kanitama-large.jpg
+photo_thumb: kanitama-thumb.jpg
 photos_dict:
   '1': A2A0EEBD-2C59-4FC8-8C87-A393A5880573-2310-0000D2D406094FF0.jpg
   '2': 3D465544-2886-4812-BB47-FBDAD739552B-4038-00021F402AB823AF.jpg
   '3': CCC6D45F-4138-4EE3-97C3-BAE4435205FA-4038-00021F40D345E959.jpg
   '4': 7CA9E499-8323-4204-A113-832777910D48-4038-00021F4219DA406F.jpg
-photos_filenames:
-- A2A0EEBD-2C59-4FC8-8C87-A393A5880573-2310-0000D2D406094FF0.jpg
-- CCC6D45F-4138-4EE3-97C3-BAE4435205FA-4038-00021F40D345E959.jpg
-- 7CA9E499-8323-4204-A113-832777910D48-4038-00021F4219DA406F.jpg
-- 3D465544-2886-4812-BB47-FBDAD739552B-4038-00021F402AB823AF.jpg
-photos_names:
-- '1'
-- '3'
-- '4'
-- '2'
+photos_dict_new:
+  '1': kanitama-1.jpg
+  '2': kanitama-2.jpg
+  '3': kanitama-3.jpg
+  '4': kanitama-4.jpg
 prep_time: ''
 rating: 5
 servings: '4'
@@ -57,11 +51,11 @@ total_time: ''
 type: _mine
 uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<h4 id="description">Description</h4>
+<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Based on the <a href="https://www.kyounoryouri.jp/recipe/3406_%E3%81%8B%E3%81%AB%E3%81%9F%E3%81%BE.html">かにたま recipe from NHK's みんなのきょうの料理</a></p>
-</div>	</div><!-- #writeup -->
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>5 eggs</li>
 <li>½ pound of crab - shredded</li>
 <li>1 cup of shiitake mushrooms - sliced thin</li>
@@ -72,7 +66,7 @@ uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681
 <li>2 Tbsp Shaoxing wine</li>
 <li>1 Tbsp light oil</li>
 <li>1 tsp sesame oil</li>
-<li><em>Sweet and sour sauce</em></li>
+<li><strong>Sweet and sour sauce</strong></li>
 <li><em>In addition to the above</em></li>
 <li>1 cup of Chinese chicken stock</li>
 <li>1 Tbsp Shaoxing wine</li>
@@ -81,9 +75,8 @@ uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681
 <li>⅓ tsp salt</li>
 <li>1 tsp soy sauce</li>
 <li>1 Tbsp potato starch dissolved in 1 Tbsp of water</li>
-<li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Cut shiitake, bamboo shoots, ginger and green onions. Prepare shredded crab.</p>
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Cut shiitake, bamboo shoots, ginger and green onions. Prepare shredded crab.</p>
 <p>Break eggs in bowl and mix with a dash of salt, pepper, sugar and 2 tbsp of Shaoxing wine and mix gently without frothing.</p>
 <p>Combine all ingredients except potato starch for sweet and sour sauce in a bowl.</p>
 <p>Heat wok slowly to make sure that the entire wok is hot, then turn to high heat. Check for the [[leidenfrost-effect|Leidenfrost effect]], which is key to getting everything cooked properly and not stick to the pan.</p>
@@ -94,4 +87,4 @@ uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681
 <p>Heat wok, add 1 tbsp light oil and pour egg mixture in. Once the edges start to solidify, fold the egg in on it self and cook without mixing aggressively. Before it is completely set, remove everything from wok.</p>
 <p>Add sweet and source mix to wok and heat. After boiling, slowly mix in potato starch/water mixture until the sauce becomes thick.</p>
 <p>Pour the sauce over everything and serve.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>

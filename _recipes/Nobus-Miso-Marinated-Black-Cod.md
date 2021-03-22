@@ -28,12 +28,10 @@ meal_types: 3|2|3|3
 name: Nobu's Miso-Marinated Black Cod
 p_recipe_id: 116
 permalink: /recipes/nobus-miso-marinated-black-cod
-photo: AB22EEF2-37D7-48B1-9392-746F36072988-407-00005036275B54A3.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: nobus-miso-marinated-black-cod-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Serves 4
@@ -46,11 +44,11 @@ uid: 87679938-6C84-4854-B875-67086B25742C-407-00005033619C36F7
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/4 cup sake</li>
 <li>1/4 cup mirin</li>
 <li>4 tablespoons white miso paste</li>
 <li>3 tablespoons sugar</li>
 <li>4 black cod fillets, about 1/2 pound each</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

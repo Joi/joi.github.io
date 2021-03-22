@@ -24,15 +24,12 @@ meal_types: 3|2
 name: Mexican Coleslaw with Cilantro Lime Dressing
 p_recipe_id: 258
 permalink: /recipes/mexican-coleslaw-with-cilantro-lime-dressing
-photo: E3512B52-3B38-4E58-9A87-B78AF76C9FBC-29053-00054525A18BAD83.jpg
-photo_large: 1CFDEE44-B3C4-4A73-BE09-77B086338490-29053-000545233BF075E4.jpg
-photos: []
+photo_large: mexican-coleslaw-with-cilantro-lime-dressing-large.jpg
+photo_thumb: mexican-coleslaw-with-cilantro-lime-dressing-thumb.jpg
 photos_dict:
   '1': 1CFDEE44-B3C4-4A73-BE09-77B086338490-29053-000545233BF075E4.jpg
-photos_filenames:
-- 1CFDEE44-B3C4-4A73-BE09-77B086338490-29053-000545233BF075E4.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': mexican-coleslaw-with-cilantro-lime-dressing-1.jpg
 prep_time: 10 mins
 rating: 5
 servings: '8'
@@ -45,7 +42,7 @@ uid: 77134287-CBD0-4325-84C7-4CF8666CCC2D-29053-0004FDD9DFD38753
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 cups shredded cabbage mix, I like a mix with red and green cabbage and shredded carrots (you could also use some broccoli slaw)</li>
 <li>1 red pepper, medium sized</li>
 <li>Dressing:</li>
@@ -58,4 +55,4 @@ uid: 77134287-CBD0-4325-84C7-4CF8666CCC2D-29053-0004FDD9DFD38753
 <li>1/2 teaspoon sea salt</li>
 <li>Extra veggie broth to thin out dressing if needed , I used 1/4 cup</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

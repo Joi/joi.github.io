@@ -51,12 +51,10 @@ meal_types: null
 name: Minestrone
 p_recipe_id: 37
 permalink: /recipes/minestrone
-photo: null
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: null
+photos_dict: null
+photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: SERVES 6 AS A FIRST COURSE
@@ -69,7 +67,7 @@ uid: D3E70F76-8A68-4AD8-8725-A359CA2D231A-408-0000001C0E3F872C
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons of olive oil</li>
 <li>2 tablespoons unsalted butter</li>
 <li>1 medium onion, diced</li>
@@ -87,4 +85,4 @@ uid: D3E70F76-8A68-4AD8-8725-A359CA2D231A-408-0000001C0E3F872C
 <li>1/3 cup tomato sauce</li>
 <li>Freshly grated Parmesan cheese</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

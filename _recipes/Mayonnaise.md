@@ -22,12 +22,10 @@ meal_types: 2|3|3
 name: Mayonnaise
 p_recipe_id: 39
 permalink: /recipes/mayonnaise
-photo: null
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: null
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: "MAKES 1 \xBD CUPS (375 ML)"
@@ -40,7 +38,7 @@ uid: D5E799CA-BA36-4A30-B385-9CD111E6F9A5-25037-0000A0DF30640117
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 large egg yolks or 1 large egg and 1 large egg yolk, at room temperature</li>
 <li>2 teaspoons white or red vinegar</li>
 <li>1/4 teaspoon dry mustard</li>
@@ -50,4 +48,4 @@ uid: D5E799CA-BA36-4A30-B385-9CD111E6F9A5-25037-0000A0DF30640117
 <li>Fresh lemon juice</li>
 <li>Chicken broth or water as needed to thin sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

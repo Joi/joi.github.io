@@ -37,12 +37,10 @@ meal_types: '2'
 name: Flounder with Brown Butter, Lemon and Tarragon
 p_recipe_id: 175
 permalink: /recipes/flounder-with-brown-butter-lemon-and-tarragon
-photo: 9FD4D57B-A4F5-4450-A3AA-29E4036056BE-29546-0003F611BD7D7E22.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: flounder-with-brown-butter-lemon-and-tarragon-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 4 servings
@@ -55,7 +53,7 @@ uid: 56396C69-7752-4252-A866-F5C6F25FA4A7-29546-0003F60F7C9EC8AF
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 cup all-purpose flour</li>
 <li>Salt and pepper</li>
 <li>Pinch of cayenne</li>
@@ -68,4 +66,4 @@ uid: 56396C69-7752-4252-A866-F5C6F25FA4A7-29546-0003F60F7C9EC8AF
 <li>A few tarragon leaves, for garnish</li>
 <li>Lemon wedges</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

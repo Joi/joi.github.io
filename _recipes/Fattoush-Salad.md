@@ -52,15 +52,12 @@ meal_types: 3|3
 name: Fattoush Salad
 p_recipe_id: 294
 permalink: /recipes/fattoush-salad
-photo: 6B6EF7B7-4EDB-4562-9C14-D8D6266E16BB-2241-00036E0BC90316A1.jpg
-photo_large: 2DCEEE08-F8DB-4BA2-B79B-CF4508006542-2241-00036E09A88DF599.jpg
-photos: []
+photo_large: fattoush-salad-large.jpg
+photo_thumb: fattoush-salad-thumb.jpg
 photos_dict:
   '1': 2DCEEE08-F8DB-4BA2-B79B-CF4508006542-2241-00036E09A88DF599.jpg
-photos_filenames:
-- 2DCEEE08-F8DB-4BA2-B79B-CF4508006542-2241-00036E09A88DF599.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': fattoush-salad-1.jpg
 prep_time: 20 mins
 rating: 5
 servings: Serves 6
@@ -73,7 +70,7 @@ uid: 4FEBFB5B-BED2-46AA-AAB2-6695964DDD04-2643-000000E5CE888C1F
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 loaves pita bread</li>
 <li>Early Harvest Extra Virgin Olive Oil</li>
 <li>1/2 tsp sumac, more for later</li>
@@ -93,4 +90,4 @@ uid: 4FEBFB5B-BED2-46AA-AAB2-6695964DDD04-2643-000000E5CE888C1F
 <li>1/4 tsp ground cinnamon</li>
 <li>scant 1/4 tsp ground allspice</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

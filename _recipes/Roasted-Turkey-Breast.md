@@ -40,9 +40,8 @@ meal_types: '3'
 name: Roasted Turkey Breast
 p_recipe_id: 315
 permalink: /recipes/roasted-turkey-breast
-photo: EACC5BE6-14E7-459A-9615-90A751235128-2241-0003158687FD6553.jpg
-photo_large: D0DBD563-E551-4459-9FB1-9AE06952D193-2241-00031580FA36D071.jpg
-photos: []
+photo_large: roasted-turkey-breast-large.jpg
+photo_thumb: roasted-turkey-breast-thumb.jpg
 photos_dict:
   '1': D4F78BB1-3CC4-4328-A363-5070AF04D795-1866-00001E92129AC113.jpg
   '2': BE3B9CC9-DF08-4367-8006-7C6FE402B702-1866-00001E92A6531163.jpg
@@ -51,22 +50,14 @@ photos_dict:
   '5': F2CC64A2-863B-4EDC-BE62-5FEADE972CB8-2241-000315802867CB1A.jpg
   '6': E8786EA4-4B65-49EB-A2F0-4D006F84A27C-2241-000315807AD314DE.jpg
   '7': D0DBD563-E551-4459-9FB1-9AE06952D193-2241-00031580FA36D071.jpg
-photos_filenames:
-- D4F78BB1-3CC4-4328-A363-5070AF04D795-1866-00001E92129AC113.jpg
-- BE3B9CC9-DF08-4367-8006-7C6FE402B702-1866-00001E92A6531163.jpg
-- B81C5621-B8A8-43CB-A1C7-D87D56CCD1BC-2241-0003157FCF47D6C3.jpg
-- E8786EA4-4B65-49EB-A2F0-4D006F84A27C-2241-000315807AD314DE.jpg
-- D0DBD563-E551-4459-9FB1-9AE06952D193-2241-00031580FA36D071.jpg
-- F2CC64A2-863B-4EDC-BE62-5FEADE972CB8-2241-000315802867CB1A.jpg
-- DF29CD59-DEE2-46A8-84B0-2CEE87D61C84-2241-0003157F75B806A5.jpg
-photos_names:
-- '1'
-- '2'
-- '4'
-- '6'
-- '7'
-- '5'
-- '3'
+photos_dict_new:
+  '1': roasted-turkey-breast-1.jpg
+  '2': roasted-turkey-breast-2.jpg
+  '3': roasted-turkey-breast-3.jpg
+  '4': roasted-turkey-breast-4.jpg
+  '5': roasted-turkey-breast-5.jpg
+  '6': roasted-turkey-breast-6.jpg
+  '7': roasted-turkey-breast-7.jpg
 prep_time: ''
 rating: 5
 servings: 6-8
@@ -79,7 +70,7 @@ uid: 2C9AD955-920A-42CE-BF3C-E764CC456104-2241-0001903C0249FBF5
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 whole bone-in, skin-on turkey breast, 4 to 5 pounds,
 patted dry
 1 recipe Classic Sage and Sausage Stuffing (here)
@@ -89,4 +80,4 @@ patted dry
 1 tablespoon kosher salt
 ½ teaspoon freshly ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

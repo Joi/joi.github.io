@@ -21,15 +21,12 @@ meal_types: '3'
 name: Southern Shrimp Scampi
 p_recipe_id: 195
 permalink: /recipes/southern-shrimp-scampi
-photo: DB94FAA6-D987-4B80-B97E-7F6AD20EF3F8-22544-0003EE6A134C88F0.jpg
-photo_large: 85087699-B55D-4304-8B09-354EC010AE46-22544-0003EE650D1A91A9.jpg
-photos: []
+photo_large: southern-shrimp-scampi-large.jpg
+photo_thumb: southern-shrimp-scampi-thumb.jpg
 photos_dict:
   '1': 85087699-B55D-4304-8B09-354EC010AE46-22544-0003EE650D1A91A9.jpg
-photos_filenames:
-- 85087699-B55D-4304-8B09-354EC010AE46-22544-0003EE650D1A91A9.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': southern-shrimp-scampi-1.jpg
 prep_time: ''
 rating: 5
 servings: Yield 4 servings
@@ -42,7 +39,7 @@ uid: 16F04BDF-9EBF-45AE-A105-2EFDB4401C30-43629-0000074FA8C919E2
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 large garlic cloves, finely chopped</li>
 <li>½ teaspoon salt</li>
 <li>½ teaspoon freshly ground black pepper</li>
@@ -54,4 +51,4 @@ uid: 16F04BDF-9EBF-45AE-A105-2EFDB4401C30-43629-0000074FA8C919E2
 <li>2 tablespoons chopped Italian parsley</li>
 <li>½ teaspoon red pepper flakes</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

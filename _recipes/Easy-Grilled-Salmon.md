@@ -79,12 +79,10 @@ meal_types: 3|3
 name: Easy Grilled Salmon
 p_recipe_id: 194
 permalink: /recipes/easy-grilled-salmon
-photo: 4D8EED01-028B-45F1-A20D-51576002DA9A-1358-0002214023C94B58.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: easy-grilled-salmon-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 15 minutes
 rating: 5
 servings: ''
@@ -97,7 +95,7 @@ uid: 68D76D1C-AD59-4F01-8CF7-EC68A1493E03-1358-000221322E5129BD
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 1/2 to 3 pounds salmon fillets, skin-on (about 1/3 to 1/2 pound per person)</li>
 <li>Extra virgin olive oil</li>
 <li>Basic marinade:</li>
@@ -126,4 +124,4 @@ uid: 68D76D1C-AD59-4F01-8CF7-EC68A1493E03-1358-000221322E5129BD
 <li>A dash of red chili pepper flakes</li>
 <li>1/4 cup white sugar</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

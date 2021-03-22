@@ -28,12 +28,10 @@ meal_types: '3'
 name: "Mark Bittman\u2019s Bouillabaisse"
 p_recipe_id: 377
 permalink: /recipes/mark-bittmans-bouillabaisse
-photo: 29688DE2-C224-4976-B754-8C70DB62060F-79931-0001523B358A10DE.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: mark-bittmans-bouillabaisse-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings
@@ -46,7 +44,7 @@ uid: B4FA8284-2C9F-449C-9A2B-02F2C012D3E3-79931-00015237983D5DDF
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Good olive oil, as needed</li>
 <li>4 to 8 thick slices good bread</li>
 <li>1 onion, chopped</li>
@@ -68,4 +66,4 @@ uid: B4FA8284-2C9F-449C-9A2B-02F2C012D3E3-79931-00015237983D5DDF
 <li>Chopped basil or parsley, for garnish</li>
 <li>Rouille, optional</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

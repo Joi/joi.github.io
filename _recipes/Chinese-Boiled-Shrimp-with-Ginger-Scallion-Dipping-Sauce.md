@@ -20,15 +20,12 @@ meal_types: null
 name: Chinese Boiled Shrimp with Ginger Scallion Dipping Sauce
 p_recipe_id: 399
 permalink: /recipes/chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce
-photo: 8D845977-4EEF-4DAA-8959-A5477FF942D1-10626-0000080B5D1DC895.jpg
-photo_large: 2BC7F868-909A-4A88-8F55-A6423EE78520-10626-0000080B38B0065C.jpg
-photos: []
+photo_large: chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce-large.jpg
+photo_thumb: chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce-thumb.jpg
 photos_dict:
   '1': 2BC7F868-909A-4A88-8F55-A6423EE78520-10626-0000080B38B0065C.jpg
-photos_filenames:
-- 2BC7F868-909A-4A88-8F55-A6423EE78520-10626-0000080B38B0065C.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce-1.jpg
 prep_time: 15 mins
 rating: 5
 servings: ''
@@ -41,7 +38,7 @@ uid: 7CD2B197-0D17-40C4-B4F1-DE264072C132-26091-0000455FD63EE6F3
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For the sauce:</li>
 <li>1 tablespoon ginger (minced)</li>
 <li>1 tablespoon scallion (minced)</li>
@@ -57,4 +54,4 @@ uid: 7CD2B197-0D17-40C4-B4F1-DE264072C132-26091-0000455FD63EE6F3
 <li>1½ tablespoons salt</li>
 <li>2 tablespoons Shaoxing wine</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

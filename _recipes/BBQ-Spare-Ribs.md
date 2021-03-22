@@ -20,15 +20,12 @@ meal_types: '3'
 name: BBQ Spare Ribs
 p_recipe_id: 349
 permalink: /recipes/bbq-spare-ribs
-photo: F497AAEF-7534-4B02-B7E1-D292B9A9D9F4-50715-00081F5AF19CF83E.jpg
-photo_large: E766C562-5EBC-4C39-A1B6-41EB6963081B-50715-00081F5A55BD3B82.jpg
-photos: []
+photo_large: bbq-spare-ribs-large.jpg
+photo_thumb: bbq-spare-ribs-thumb.jpg
 photos_dict:
   '1': E766C562-5EBC-4C39-A1B6-41EB6963081B-50715-00081F5A55BD3B82.jpg
-photos_filenames:
-- E766C562-5EBC-4C39-A1B6-41EB6963081B-50715-00081F5A55BD3B82.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': bbq-spare-ribs-1.jpg
 prep_time: ''
 rating: 5
 servings: ''
@@ -41,7 +38,7 @@ uid: F6F34E62-D960-486A-9A20-B976D1309E32-50715-00080BBC09D1E91C
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Pork Spare Ribs</li>
 <li><strong>Homemade Pork Seasoning Rub</strong></li>
 <li>½ cup brown sugar</li>
@@ -54,4 +51,4 @@ uid: F6F34E62-D960-486A-9A20-B976D1309E32-50715-00080BBC09D1E91C
 <li>1 tsp cayenne</li>
 <li>BBQ Sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

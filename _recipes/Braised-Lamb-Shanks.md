@@ -48,12 +48,10 @@ meal_types: '3'
 name: Braised Lamb Shanks
 p_recipe_id: 423
 permalink: /recipes/braised-lamb-shanks
-photo: CB70421F-5016-4858-8745-F747D606F8BC-12026-0000D9101C53110B.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: braised-lamb-shanks-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 20 mins
 rating: 5
 servings: ''
@@ -66,7 +64,7 @@ uid: 4ABFD903-B1A7-4A76-825B-61517E4A7067-12026-0000D90D031A26A7
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons extra-virgin olive oil divided</li>
 <li>4 - 6 lamb shanks trimmed of excess fat</li>
 <li>1 large white onion diced</li>
@@ -84,4 +82,4 @@ uid: 4ABFD903-B1A7-4A76-825B-61517E4A7067-12026-0000D90D031A26A7
 <li>2 bay leaves</li>
 <li>Salt and pepper to season</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

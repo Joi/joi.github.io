@@ -41,12 +41,10 @@ meal_types: '3'
 name: Salmon and Sorrel Sauce
 p_recipe_id: 109
 permalink: /recipes/salmon-and-sorrel-sauce
-photo: 86BF2D33-509F-44C4-A8C4-BF405E2FB148-2334-00027235473507DB.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: salmon-and-sorrel-sauce-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: ''
@@ -59,7 +57,7 @@ uid: A62FE62C-0F90-4AB7-8B49-B06BD1C85461-2334-00027230C7452159
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 pounds fresh salmon</li>
 <li>4 ounces fresh sorrel leaves (about 1 qt. tightly packed)</li>
 <li>1 quart fish stock prefably home made</li>
@@ -74,4 +72,4 @@ uid: A62FE62C-0F90-4AB7-8B49-B06BD1C85461-2334-00027230C7452159
 <li>1 to 2 tablespoons grapeseed oilntry bread)</li>
 <li>Salt and Cayenne Pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

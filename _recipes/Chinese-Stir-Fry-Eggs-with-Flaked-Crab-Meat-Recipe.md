@@ -29,15 +29,12 @@ meal_types: '3'
 name: Chinese Stir Fry Eggs with Flaked Crab Meat Recipe
 p_recipe_id: 453
 permalink: /recipes/chinese-stir-fry-eggs-with-flaked-crab-meat-recipe
-photo: 0000A234-C3FC-44B4-91CA-3C26330955F4-2310-0000EC2181B69B2B.jpg
-photo_large: 0E50FE3D-249E-41C0-A0E0-A38C82177FA9-2310-0000EC209BE8C7F0.jpg
-photos: []
+photo_large: chinese-stir-fry-eggs-with-flaked-crab-meat-recipe-large.jpg
+photo_thumb: chinese-stir-fry-eggs-with-flaked-crab-meat-recipe-thumb.jpg
 photos_dict:
   '1': 0E50FE3D-249E-41C0-A0E0-A38C82177FA9-2310-0000EC209BE8C7F0.jpg
-photos_filenames:
-- 0E50FE3D-249E-41C0-A0E0-A38C82177FA9-2310-0000EC209BE8C7F0.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': chinese-stir-fry-eggs-with-flaked-crab-meat-recipe-1.jpg
 prep_time: 15 min
 rating: 5
 servings: ''
@@ -50,7 +47,7 @@ uid: 79FF11D8-6142-45D8-BBD2-3A717CC6A0C6-4181-00035DF8972F51CD
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 large fresh crab, or 2 small fresh crabs</li>
 <li>2 tbsp peanut oil</li>
 <li>5 eggs</li>
@@ -58,4 +55,4 @@ uid: 79FF11D8-6142-45D8-BBD2-3A717CC6A0C6-4181-00035DF8972F51CD
 <li>2 tbsp spring onion, chopped in rounds</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -27,24 +27,18 @@ meal_types: 3|3|3|3|3|3|3
 name: "Tuna Tataki with Lime, Ginger and Jalape\xF1o"
 p_recipe_id: 354
 permalink: /recipes/tuna-tataki-with-lime-ginger-and-jalapeno
-photo: AEBC1500-7EFB-4D30-AA19-92E5C5ED3F52-39232-0000E032992D0652.jpg
-photo_large: 0E660FA2-3314-40BB-AED4-FB2E0368277E-39232-0000E02DBC102900.jpg
-photos: []
+photo_large: tuna-tataki-with-lime-ginger-and-jalapeno-large.jpg
+photo_thumb: tuna-tataki-with-lime-ginger-and-jalapeno-thumb.jpg
 photos_dict:
   '1': 563B4723-B02D-405E-A02D-0394C4D8CF48-39232-0000E02CB9F36F57.jpg
   '2': 0E660FA2-3314-40BB-AED4-FB2E0368277E-39232-0000E02DBC102900.jpg
   '3': FBF50E32-398F-4910-9D08-3C5D1B00D082-39232-0000E02F875271AB.jpg
   '4': 93CBAB55-A2DD-478E-8E15-D6816BA181C3-39232-0000E03055A469B9.jpg
-photos_filenames:
-- 563B4723-B02D-405E-A02D-0394C4D8CF48-39232-0000E02CB9F36F57.jpg
-- 0E660FA2-3314-40BB-AED4-FB2E0368277E-39232-0000E02DBC102900.jpg
-- 93CBAB55-A2DD-478E-8E15-D6816BA181C3-39232-0000E03055A469B9.jpg
-- FBF50E32-398F-4910-9D08-3C5D1B00D082-39232-0000E02F875271AB.jpg
-photos_names:
-- '1'
-- '2'
-- '4'
-- '3'
+photos_dict_new:
+  '1': tuna-tataki-with-lime-ginger-and-jalapeno-1.jpg
+  '2': tuna-tataki-with-lime-ginger-and-jalapeno-2.jpg
+  '3': tuna-tataki-with-lime-ginger-and-jalapeno-3.jpg
+  '4': tuna-tataki-with-lime-ginger-and-jalapeno-4.jpg
 prep_time: ''
 rating: 5
 servings: 'Yield: 1 serving'
@@ -55,11 +49,11 @@ total_time: ''
 type: _mine
 uid: 0299C616-3BC7-414C-8AD7-24EA7B7FCB03-9638-000005EE30E369B7
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<h4 id="description">Description</h4>
+<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Based on <a href="https://www.foodnetwork.com/recipes/tyler-florence/pan-seared-tuna-with-avocado-soy-ginger-and-lime-recipe-1914316">this recipe from Food Network</a></p>
-</div>	</div><!-- #writeup -->
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Lots of chopped cilantro</li>
 <li>½ jalapeno, sliced</li>
 <li>1 tsp grated fresh ginger</li>
@@ -73,10 +67,10 @@ uid: 0299C616-3BC7-414C-8AD7-24EA7B7FCB03-9638-000005EE30E369B7
 <li>1 avocado sliced</li>
 <li>Salt and pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns"><h4 id="directions">Directions</h4><div class="box box-directions content"><p>Combine cilantro, jalapeño, ginger, garlic, lime juice, soy sauce, sugar, salt, pepper, and 2 Tbsp of olive oil in bowl and mix well.</p>
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Combine cilantro, jalapeño, ginger, garlic, lime juice, soy sauce, sugar, salt, pepper, and 2 Tbsp of olive oil in bowl and mix well.</p>
 <p>Heat a heavy skillet slowly and once the skillet is fully heated, turn up heat to high.</p>
 <p>Add 2 Tbsp of extra-light olive oil and coat for searing.</p>
 <p>Season tuna with salt and pepper and grilled quickly - about one minute per side. You can hold the tuna on its edge with tongs to get the sides.</p>
 <p>Turn off the heat and pour ½ of the sauce mix onto the tuna and turn a few times to cover the tuna.</p>
 <p>Plate the tuna with the avocado and pour the remaining sauce over the tuna and avocado.</p>
-</div>	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>

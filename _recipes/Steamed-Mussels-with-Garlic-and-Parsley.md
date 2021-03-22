@@ -23,12 +23,10 @@ meal_types: 3|3|3|3
 name: Steamed Mussels with Garlic and Parsley
 p_recipe_id: 170
 permalink: /recipes/steamed-mussels-with-garlic-and-parsley
-photo: 82BDD745-71E1-40DA-A48B-B41BEC1D7653-29546-0002C343E3777139.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: steamed-mussels-with-garlic-and-parsley-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 4 servings
@@ -41,7 +39,7 @@ uid: 2FCD1B65-0D67-4B15-B081-C691590DEBE3-29546-0002C343712D52F3
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons extra-virgin olive oil, plus more for toasts</li>
 <li>2 garlic cloves, minced, plus 1 or 2 whole garlic cloves for rubbing toasts</li>
 <li>Pinch of crushed red pepper</li>
@@ -50,4 +48,4 @@ uid: 2FCD1B65-0D67-4B15-B081-C691590DEBE3-29546-0002C343712D52F3
 <li>1 baguette, split lengthwise, then cut crosswise in half</li>
 <li>1 cup roughly chopped parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

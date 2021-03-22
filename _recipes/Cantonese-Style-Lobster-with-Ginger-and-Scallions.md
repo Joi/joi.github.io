@@ -40,21 +40,16 @@ meal_types: '3'
 name: Cantonese-Style Lobster with Ginger and Scallions
 p_recipe_id: 486
 permalink: /recipes/cantonese-style-lobster-with-ginger-and-scallions
-photo: 63A0AED0-19A8-4591-90E4-6E1AA9FE8BBA-4038-00021F64C005369F.jpg
-photo_large: 58A5EFE3-5CB6-4828-A5B9-F4CBF24A9720-4038-00021F62B9F20950.jpg
-photos: []
+photo_large: cantonese-style-lobster-with-ginger-and-scallions-large.jpg
+photo_thumb: cantonese-style-lobster-with-ginger-and-scallions-thumb.jpg
 photos_dict:
   '1': 58A5EFE3-5CB6-4828-A5B9-F4CBF24A9720-4038-00021F62B9F20950.jpg
   '2': 5D8E4714-9503-497B-B6F0-BC0263C13FB8-4038-00021F631ECEE4FB.jpg
   '3': 5E288383-97D7-42CF-B76E-BDA08C8EA26A-4038-00021F63875A1629.jpg
-photos_filenames:
-- 58A5EFE3-5CB6-4828-A5B9-F4CBF24A9720-4038-00021F62B9F20950.jpg
-- 5D8E4714-9503-497B-B6F0-BC0263C13FB8-4038-00021F631ECEE4FB.jpg
-- 5E288383-97D7-42CF-B76E-BDA08C8EA26A-4038-00021F63875A1629.jpg
-photos_names:
-- '1'
-- '2'
-- '3'
+photos_dict_new:
+  '1': cantonese-style-lobster-with-ginger-and-scallions-1.jpg
+  '2': cantonese-style-lobster-with-ginger-and-scallions-2.jpg
+  '3': cantonese-style-lobster-with-ginger-and-scallions-3.jpg
 prep_time: 30 minutes
 rating: 5
 servings: Serves 3 to 4
@@ -67,7 +62,7 @@ uid: BEAF973D-2E93-4FCD-A6D7-A538E8A6EB9F-39232-0002EBFB5135FE41
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/4 cup Shaoxing wine or dry sherry</li>
 <li>1 tablespoon soy sauce</li>
 <li>1/2 cup cornstarch, divided</li>
@@ -81,4 +76,4 @@ uid: BEAF973D-2E93-4FCD-A6D7-A538E8A6EB9F-39232-0002EBFB5135FE41
 <li>1 long green hot pepper, finely sliced on the bias</li>
 <li>12 yellow chives, cut into 2-inch pieces (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

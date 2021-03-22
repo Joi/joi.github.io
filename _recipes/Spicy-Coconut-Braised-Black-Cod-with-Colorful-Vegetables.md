@@ -55,12 +55,10 @@ meal_types: 3|3
 name: Spicy Coconut Braised Black Cod with Colorful Vegetables
 p_recipe_id: 410
 permalink: /recipes/spicy-coconut-braised-black-cod-with-colorful-vegetables
-photo: 12994A4D-812D-4BE3-B7E6-C4C27AD20053-32901-000016CE71033E9C.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: spicy-coconut-braised-black-cod-with-colorful-vegetables-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: Serves 4
@@ -73,7 +71,7 @@ uid: 37776CF7-F041-4781-8709-86CD56695119-32901-000016CE5DB55070
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons chopped fresh mint</li>
 <li>2 tablespoons chopped fresh cilantro</li>
 <li>1 cup bean sprouts</li>
@@ -94,4 +92,4 @@ uid: 37776CF7-F041-4781-8709-86CD56695119-32901-000016CE5DB55070
 <li>2 tablespoons lime juice</li>
 <li>Lime wedges</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

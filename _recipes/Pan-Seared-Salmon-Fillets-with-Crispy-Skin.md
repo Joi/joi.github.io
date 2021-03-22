@@ -18,12 +18,10 @@ meal_types: 3|3
 name: Pan-Seared Salmon Fillets with Crispy Skin
 p_recipe_id: 304
 permalink: /recipes/pan-seared-salmon-fillets-with-crispy-skin
-photo: 2C2732D3-C3D8-4ACB-AB5D-FE8C30BCF7E5-624-00002000BF989FA2.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: pan-seared-salmon-fillets-with-crispy-skin-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: ''
@@ -36,7 +34,7 @@ uid: 7E4B4234-CEC2-4020-9A87-FE365C33289F-624-00001FFD190CC215
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>More Breadcrumbs</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

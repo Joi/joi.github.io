@@ -59,9 +59,8 @@ meal_types: 3|3|3|3
 name: Monkfish Braised with White Beans, Fennel, & Tomato
 p_recipe_id: 328
 permalink: /recipes/monkfish-braised-with-white-beans-fennel-tomato
-photo: B8A6D2EE-191D-46C3-AEB1-FCB5A89E8461-13002-000592A4D027D972.jpg
-photo_large: C9F676C9-3E3E-4ECB-8379-6B02FAAA2ED0-13002-000592A0B76502DE.jpg
-photos: []
+photo_large: monkfish-braised-with-white-beans-fennel-tomato-large.jpg
+photo_thumb: monkfish-braised-with-white-beans-fennel-tomato-thumb.jpg
 photos_dict:
   '1': C9F676C9-3E3E-4ECB-8379-6B02FAAA2ED0-13002-000592A0B76502DE.jpg
   '2': 06A8D5C0-7623-4FFA-BCD6-0C8D0737FC4B-13002-000592A19CE34292.jpg
@@ -69,20 +68,13 @@ photos_dict:
   '4': 81F5D143-C0D7-47B8-A6CE-B1DAA6998250-13002-000592A28BE385D0.jpg
   '5': 2BCB00E7-B86A-46AF-884A-87E2A8E0F164-13002-000592A33C4CCE22.jpg
   '6': F516D6E6-5BA1-49B4-979F-BF841212F35F-13002-000592A408FECC0A.jpg
-photos_filenames:
-- 06A8D5C0-7623-4FFA-BCD6-0C8D0737FC4B-13002-000592A19CE34292.jpg
-- C9F676C9-3E3E-4ECB-8379-6B02FAAA2ED0-13002-000592A0B76502DE.jpg
-- F516D6E6-5BA1-49B4-979F-BF841212F35F-13002-000592A408FECC0A.jpg
-- 2BCB00E7-B86A-46AF-884A-87E2A8E0F164-13002-000592A33C4CCE22.jpg
-- 81F5D143-C0D7-47B8-A6CE-B1DAA6998250-13002-000592A28BE385D0.jpg
-- 0C9CBA38-7CE8-4E93-8B16-F2A60DE4A58C-13002-000592A24F475B1E.jpg
-photos_names:
-- '2'
-- '1'
-- '6'
-- '5'
-- '4'
-- '3'
+photos_dict_new:
+  '1': monkfish-braised-with-white-beans-fennel-tomato-1.jpg
+  '2': monkfish-braised-with-white-beans-fennel-tomato-2.jpg
+  '3': monkfish-braised-with-white-beans-fennel-tomato-3.jpg
+  '4': monkfish-braised-with-white-beans-fennel-tomato-4.jpg
+  '5': monkfish-braised-with-white-beans-fennel-tomato-5.jpg
+  '6': monkfish-braised-with-white-beans-fennel-tomato-6.jpg
 prep_time: ''
 rating: 5
 servings: '4'
@@ -95,7 +87,7 @@ uid: 4BEE23AC-2D81-4286-95B1-C03143055FB4-13002-00059228C79F4EF4
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 chunks monkfish fillet, about 6 ounces each, skin and translucent membrane removed</li>
 <li>Salt</li>
 <li>1/2 cup mild-tasting olive oil</li>
@@ -111,4 +103,4 @@ uid: 4BEE23AC-2D81-4286-95B1-C03143055FB4-13002-00059228C79F4EF4
 <li>About 1-1/2 cups cooked white beans, drained, cooking liquid reserved</li>
 <li>About 1/2 cup [[-aioli-sauce| Aioli Sauce]]</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

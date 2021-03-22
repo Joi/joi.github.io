@@ -28,18 +28,14 @@ meal_types: 3|3|3|3
 name: Pan-Seared Hake and Asparagus with Aioli
 p_recipe_id: 131
 permalink: /recipes/pan-seared-hake-and-asparagus-with-aioli
-photo: EC5D654A-F6EC-4BE4-9463-BF410DFFD0BB-29546-000347B9A1D539FD.jpg
-photo_large: FD7FABCF-4368-4F3B-A5D4-A4CCB0F229F5-7488-0000033A67300EB9.jpg
-photos: []
+photo_large: pan-seared-hake-and-asparagus-with-aioli-large.jpg
+photo_thumb: pan-seared-hake-and-asparagus-with-aioli-thumb.jpg
 photos_dict:
   '1': FD7FABCF-4368-4F3B-A5D4-A4CCB0F229F5-7488-0000033A67300EB9.jpg
   '2': 467DF55A-6792-436B-B46B-006192D96A58-22544-0003EE8B33DBB75A.jpg
-photos_filenames:
-- FD7FABCF-4368-4F3B-A5D4-A4CCB0F229F5-7488-0000033A67300EB9.jpg
-- 467DF55A-6792-436B-B46B-006192D96A58-22544-0003EE8B33DBB75A.jpg
-photos_names:
-- '1'
-- '2'
+photos_dict_new:
+  '1': pan-seared-hake-and-asparagus-with-aioli-1.jpg
+  '2': pan-seared-hake-and-asparagus-with-aioli-2.jpg
 prep_time: ''
 rating: 5
 servings: Yield 4 servings
@@ -52,7 +48,7 @@ uid: 7F78231B-E31F-48EE-BE37-E7A5A9A2A08C-39436-000013D1319F8269
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>FOR THE AIOLI:</li>
 <li>1 to 2 garlic cloves, finely grated or mashed to a paste, or use 1 tablespoon minced green garlic</li>
 <li>½ teaspoon lemon juice, more to taste</li>
@@ -70,4 +66,4 @@ uid: 7F78231B-E31F-48EE-BE37-E7A5A9A2A08C-39436-000013D1319F8269
 <li>1 ½ pounds asparagus, woody ends trimmed, cut into 1 1/4-inch pieces</li>
 <li>2 red or regular scallions, thinly sliced</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -47,15 +47,12 @@ meal_types: 3|3|3
 name: Seafood Paella
 p_recipe_id: 313
 permalink: /recipes/seafood-paella
-photo: 952654AD-25A9-4F20-A988-55D282F85668-1866-00001E8C5C65B9AB.jpg
-photo_large: 24008AAD-7AE7-4B70-B4A5-A83C0350CD9C-1866-00001E8A67100DD5.jpg
-photos: []
+photo_large: seafood-paella-large.jpg
+photo_thumb: seafood-paella-thumb.jpg
 photos_dict:
   '1': 24008AAD-7AE7-4B70-B4A5-A83C0350CD9C-1866-00001E8A67100DD5.jpg
-photos_filenames:
-- 24008AAD-7AE7-4B70-B4A5-A83C0350CD9C-1866-00001E8A67100DD5.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': seafood-paella-1.jpg
 prep_time: 30 minutes
 rating: 5
 servings: 'Yield: 6 servings'
@@ -68,7 +65,7 @@ uid: 13A4D9ED-C451-44B4-8513-416C41C2F368-19898-00000D61AE4288EB
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 1/2 cups chicken stock</li>
 <li>1/2 teaspoon saffron threads, crumbled and then loosely measured</li>
 <li>1/4 teaspoon salt</li>
@@ -85,4 +82,4 @@ uid: 13A4D9ED-C451-44B4-8513-416C41C2F368-19898-00000D61AE4288EB
 <li>1 pound littleneck clams, rinsed and scrubbed</li>
 <li>1/4 cup chopped parsley, for garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

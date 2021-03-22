@@ -41,12 +41,10 @@ meal_types: null
 name: Chicken Sandwich
 p_recipe_id: 42
 permalink: /recipes/chicken-sandwich
-photo: null
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: null
+photos_dict: null
+photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: '6'
@@ -59,7 +57,7 @@ uid: FF152B59-4FDC-41E6-9C93-6A95ED09083E-25037-0000A041D3575177
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6 cups chicken stock</li>
 <li>1 celery rib, cut in chunks</li>
 <li>1 small onion, halved</li>
@@ -72,4 +70,4 @@ uid: FF152B59-4FDC-41E6-9C93-6A95ED09083E-25037-0000A041D3575177
 <li>1/2 head romaine lettuce, coarsely shredded</li>
 <li>Worcestershire sause</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

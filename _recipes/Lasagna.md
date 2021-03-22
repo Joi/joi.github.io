@@ -25,18 +25,14 @@ meal_types: '3'
 name: Lasagna
 p_recipe_id: 338
 permalink: /recipes/lasagna
-photo: A738C184-D910-47BB-8B63-0688F47B2CA8-50715-0006E3A5B4A3BDE7.jpg
-photo_large: B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg
-photos: []
+photo_large: lasagna-large.jpg
+photo_thumb: lasagna-thumb.jpg
 photos_dict:
   '01': 0B078906-6297-4532-B14C-F04BABC90416-50715-0006E3A5256FFC07.jpg
   '02': B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg
-photos_filenames:
-- B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg
-- 0B078906-6297-4532-B14C-F04BABC90416-50715-0006E3A5256FFC07.jpg
-photos_names:
-- '02'
-- '01'
+photos_dict_new:
+  '01': lasagna-01.jpg
+  '02': lasagna-02.jpg
 prep_time: ''
 rating: 5
 servings: '6'
@@ -49,7 +45,7 @@ uid: 6F6C35A4-9968-4D48-BB77-EB7ACB3DB08B-50715-0006C481622BC914
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>
 <h2>Meat Sauce</h2>
 </li>
@@ -166,4 +162,4 @@ uid: 6F6C35A4-9968-4D48-BB77-EB7ACB3DB08B-50715-0006C481622BC914
 </ul>
 </li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

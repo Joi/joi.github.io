@@ -19,15 +19,12 @@ meal_types: null
 name: Curry Powder
 p_recipe_id: 449
 permalink: /recipes/curry-powder
-photo: 1EB1B451-308B-49C1-B277-83E5AA277EE0-4181-0001E2777FE69309.jpg
-photo_large: A11F7F03-B770-4019-9A26-AF1B2931D454-4181-0001E276D00B9041.jpg
-photos: []
+photo_large: curry-powder-large.jpg
+photo_thumb: curry-powder-thumb.jpg
 photos_dict:
   '1': A11F7F03-B770-4019-9A26-AF1B2931D454-4181-0001E276D00B9041.jpg
-photos_filenames:
-- A11F7F03-B770-4019-9A26-AF1B2931D454-4181-0001E276D00B9041.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': curry-powder-1.jpg
 prep_time: null
 rating: 5
 servings: null
@@ -40,7 +37,7 @@ uid: 4EA3C540-EED9-45D2-BA95-6B4C6A931A26-4181-0001E2348E51AA07
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon cardamom</li>
 <li>1 tablespoon ground coriander</li>
 <li>2 teaspoons cumin</li>
@@ -52,4 +49,4 @@ uid: 4EA3C540-EED9-45D2-BA95-6B4C6A931A26-4181-0001E2348E51AA07
 <li>1 clove</li>
 <li>Chili / red pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

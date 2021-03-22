@@ -31,12 +31,10 @@ meal_types: 3|3
 name: Risotto Primavera
 p_recipe_id: 273
 permalink: /recipes/risotto-primavera
-photo: null
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: null
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: 4 people
@@ -49,7 +47,7 @@ uid: 16DAD724-0640-45B2-A7EB-66B408332186-2209-00009B8A4B171F2C
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For the rice:</li>
 <li>5 to 6 cups chicken broth</li>
 <li>1 tbsp olive oil</li>
@@ -72,4 +70,4 @@ uid: 16DAD724-0640-45B2-A7EB-66B408332186-2209-00009B8A4B171F2C
 <li>¼ tsp. oregano</li>
 <li>Salt and pepper to taste.</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

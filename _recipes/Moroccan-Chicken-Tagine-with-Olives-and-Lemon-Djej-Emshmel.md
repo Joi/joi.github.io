@@ -40,12 +40,10 @@ meal_types: '3'
 name: Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)
 p_recipe_id: 88
 permalink: /recipes/moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel
-photo: 7D6FEF6D-42D3-4622-AD14-E82E69B4983B-9482-00000654497DE2E2.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: Serves 4
@@ -58,7 +56,7 @@ uid: 224BC50D-D2EB-48F1-A2DE-9CA4A061D04C-9482-000006543D2F7DDD
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>5 medium garlic cloves, minced or pressed through a garlic press (about 5 teaspoons)</li>
 <li>1 ¼ teaspoons sweet paprika</li>
@@ -79,4 +77,4 @@ uid: 224BC50D-D2EB-48F1-A2DE-9CA4A061D04C-9482-000006543D2F7DDD
 <li>2 tablespoons chopped fresh cilantro leaves</li>
 <li>3 tablespoons juice from 1 to 2 lemons</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

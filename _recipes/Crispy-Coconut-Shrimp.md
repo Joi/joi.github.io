@@ -21,12 +21,10 @@ meal_types: '3'
 name: Crispy Coconut Shrimp
 p_recipe_id: 43
 permalink: /recipes/crispy-coconut-shrimp
-photo: BB2763AF-95B1-4C64-A83D-1B18D3352C06-408-00004F434DBCED45.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: crispy-coconut-shrimp-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 10min
 rating: 5
 servings: 4 portions
@@ -39,7 +37,7 @@ uid: FF85292E-75D5-4D26-8037-CF4463A11520-408-00004F40BFE23A06
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Sriracha Dipping Sauce</li>
 <li>1 garlic clove</li>
 <li>4 oz mayonnaise, sugar-free</li>
@@ -56,4 +54,4 @@ uid: FF85292E-75D5-4D26-8037-CF4463A11520-408-00004F40BFE23A06
 <li>16 oz large raw shrimp, peeled, deveined, tail on</li>
 <li>avocado oil, to fry</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

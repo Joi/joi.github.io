@@ -34,12 +34,10 @@ meal_types: 3|3|3|3
 name: Instant Pot Short Ribs
 p_recipe_id: 90
 permalink: /recipes/instant-pot-short-ribs
-photo: 1952B3B6-5192-4523-9BC3-42FD604742DA-64741-0002E301647D834B.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: instant-pot-short-ribs-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 10 minutes
 rating: 5
 servings: ''
@@ -52,7 +50,7 @@ uid: C2186635-4946-49D4-AB8C-D7D88DE283A3-64741-0002E2EF431210DA
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6 - 10 pieces (1116g) bone-in short ribs (1.5 - 2 inches thick)</li>
 <li>6 cloves garlic , crushed and chopped</li>
 <li>2 (300g) small onions , sliced</li>
@@ -76,4 +74,4 @@ uid: C2186635-4946-49D4-AB8C-D7D88DE283A3-64741-0002E2EF431210DA
 <li>100 ml whole milk</li>
 <li>1 - 2 tablespoons (14g - 28g) unsalted butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

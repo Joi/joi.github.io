@@ -51,15 +51,12 @@ meal_types: '3'
 name: Mediterranean Lemon Poached Halibut
 p_recipe_id: 295
 permalink: /recipes/mediterranean-lemon-poached-halibut
-photo: DF924802-86B4-476E-9696-6DCD792E087A-12311-0000072A1320EF48.jpg
-photo_large: 4E849399-C04E-46EA-953F-DCDF76B830EE-12311-0000072A058D3A9D.jpg
-photos: []
+photo_large: mediterranean-lemon-poached-halibut-large.jpg
+photo_thumb: mediterranean-lemon-poached-halibut-thumb.jpg
 photos_dict:
   '1': 4E849399-C04E-46EA-953F-DCDF76B830EE-12311-0000072A058D3A9D.jpg
-photos_filenames:
-- 4E849399-C04E-46EA-953F-DCDF76B830EE-12311-0000072A058D3A9D.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': mediterranean-lemon-poached-halibut-1.jpg
 prep_time: 10 mins
 rating: 5
 servings: 'Yield: 6'
@@ -72,7 +69,7 @@ uid: 7F9B1014-78E5-4DA8-B030-A3DBAD3D82D6-2643-000000E50A6D15D1
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For Spice Rub:</li>
 <li>1 tsp dried oregano</li>
 <li>1 tsp coriander</li>
@@ -92,4 +89,4 @@ uid: 7F9B1014-78E5-4DA8-B030-A3DBAD3D82D6-2643-000000E50A6D15D1
 <li>3 scallions, both white and green parts, chopped</li>
 <li>1/4 cup grated carrots</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

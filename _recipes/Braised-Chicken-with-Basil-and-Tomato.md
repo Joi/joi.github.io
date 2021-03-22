@@ -26,18 +26,14 @@ meal_types: 3|3|3|3
 name: Braised Chicken with Basil and Tomato
 p_recipe_id: 86
 permalink: /recipes/braised-chicken-with-basil-and-tomato
-photo: 117DE12A-AB70-4442-B326-6831AFC75E90-29546-000594679564A8AE.jpg
-photo_large: CEA47EBE-073C-46D7-ADBF-EC5096CCEC87-29546-000594637FB4D68E.jpg
-photos: []
+photo_large: braised-chicken-with-basil-and-tomato-large.jpg
+photo_thumb: braised-chicken-with-basil-and-tomato-thumb.jpg
 photos_dict:
   '1': F1D2F3DF-862E-446C-BE10-CB8668CE2538-20016-00000637F19F7159.jpg
   '2': CEA47EBE-073C-46D7-ADBF-EC5096CCEC87-29546-000594637FB4D68E.jpg
-photos_filenames:
-- F1D2F3DF-862E-446C-BE10-CB8668CE2538-20016-00000637F19F7159.jpg
-- CEA47EBE-073C-46D7-ADBF-EC5096CCEC87-29546-000594637FB4D68E.jpg
-photos_names:
-- '1'
-- '2'
+photos_dict_new:
+  '1': braised-chicken-with-basil-and-tomato-1.jpg
+  '2': braised-chicken-with-basil-and-tomato-2.jpg
 prep_time: ''
 rating: 5
 servings: Serves 4 to 6
@@ -50,7 +46,7 @@ uid: FF6B358D-8D29-4986-84E0-27C7EBD83014-9482-0000064F04336AC0
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ cup table salt, for brining</li>
 <li>1 ½ - 2 pounds bone-in split chicken breasts, trimmed and each cut crosswise into 2 pieces of equal mass</li>
 <li>1 ½ - 2 pounds chicken leg quarters, separated into drumsticks and thighs, trimmed</li>
@@ -65,4 +61,4 @@ uid: FF6B358D-8D29-4986-84E0-27C7EBD83014-9482-0000064F04336AC0
 <li>¼ cup chopped fresh basil, divided</li>
 <li>2 teaspoon red wine vinegar</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -18,12 +18,10 @@ meal_types: '4'
 name: Pita Chips
 p_recipe_id: 203
 permalink: /recipes/pita-chips
-photo: 562D275D-06C0-4006-94C8-54AABCBF7526-22544-0004E1FC8729F7B1.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: pita-chips-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 10 mins
 rating: 5
 servings: 'Servings: 24'
@@ -36,7 +34,7 @@ uid: D06BD415-2D41-4CB1-A8D1-7135509AC066-22544-0004E1F97748FAF9
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>12 pita bread pockets</li>
 <li>½ cup olive oil</li>
 <li>½ teaspoon ground black pepper</li>
@@ -44,4 +42,4 @@ uid: D06BD415-2D41-4CB1-A8D1-7135509AC066-22544-0004E1F97748FAF9
 <li>½ teaspoon dried basil</li>
 <li>1 teaspoon dried chervil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

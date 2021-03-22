@@ -39,9 +39,8 @@ meal_types: '3'
 name: The Best Chili Ever
 p_recipe_id: 473
 permalink: /recipes/the-best-chili-ever
-photo: F3FFC445-785C-42AE-8C25-CC3281BA0FA4-26383-000125F0800740CD.jpg
-photo_large: 0B198794-BA45-4B63-800A-D9BF4335BFDC-26383-000125E5F69A9A49.jpg
-photos: []
+photo_large: the-best-chili-ever-large.jpg
+photo_thumb: the-best-chili-ever-thumb.jpg
 photos_dict:
   '1': 0B198794-BA45-4B63-800A-D9BF4335BFDC-26383-000125E5F69A9A49.jpg
   '2': A11B4C55-69D7-4769-B654-A5AFD9557510-26383-000125E902F1D58A.jpg
@@ -51,24 +50,15 @@ photos_dict:
   '6': CE2CD689-318F-4330-B24E-3C8E76956696-26383-000125EBD669A2CF.jpg
   '7': 23EB56B9-2647-4113-B6AE-21CA0F58F7F0-26383-000125ED86CD1672.jpg
   '8': 19B93CF6-CAC9-43EE-8120-3460F215B924-33135-00001DFC3B254F9E.jpg
-photos_filenames:
-- DE09FB72-B6D5-4A36-B420-A1953F1D0E5D-26383-000125E991DF2ABD.jpg
-- 0B198794-BA45-4B63-800A-D9BF4335BFDC-26383-000125E5F69A9A49.jpg
-- CE2CD689-318F-4330-B24E-3C8E76956696-26383-000125EBD669A2CF.jpg
-- A11B4C55-69D7-4769-B654-A5AFD9557510-26383-000125E902F1D58A.jpg
-- 23EB56B9-2647-4113-B6AE-21CA0F58F7F0-26383-000125ED86CD1672.jpg
-- 8A09C3F7-77EC-49BB-A075-D89B7D70E28E-26383-000125EAB4FE4C87.jpg
-- 010BBCE9-FCC2-475A-A12E-7576B11E0DBB-26383-000125EA50D5FA3A.jpg
-- 19B93CF6-CAC9-43EE-8120-3460F215B924-33135-00001DFC3B254F9E.jpg
-photos_names:
-- '3'
-- '1'
-- '6'
-- '2'
-- '7'
-- '5'
-- '4'
-- '8'
+photos_dict_new:
+  '1': the-best-chili-ever-1.jpg
+  '2': the-best-chili-ever-2.jpg
+  '3': the-best-chili-ever-3.jpg
+  '4': the-best-chili-ever-4.jpg
+  '5': the-best-chili-ever-5.jpg
+  '6': the-best-chili-ever-6.jpg
+  '7': the-best-chili-ever-7.jpg
+  '8': the-best-chili-ever-8.jpg
 prep_time: 2 hours
 rating: 5
 servings: Serves 6 to 10
@@ -81,7 +71,7 @@ uid: 10BBAF95-58C8-433E-B2F4-1BA5DB1741F3-23012-0000124E0AE6CF20
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 pound (450g) dried dark red kidney beans</li>
 <li>Kosher salt</li>
 <li>4 quarts (3.8L) water</li>
@@ -122,4 +112,4 @@ uid: 10BBAF95-58C8-433E-B2F4-1BA5DB1741F3-23012-0000124E0AE6CF20
 <li>Saltines</li>
 <li>Fritos</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

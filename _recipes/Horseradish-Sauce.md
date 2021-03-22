@@ -30,12 +30,10 @@ meal_types: 3|3
 name: Horseradish Sauce
 p_recipe_id: 264
 permalink: /recipes/horseradish-sauce
-photo: 1E9C0D08-F976-4691-9035-337AC9F283B1-24647-00000FABF6EBFB30.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: horseradish-sauce-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: 2 minutes
 rating: 5
 servings: 'Servings: 12'
@@ -48,7 +46,7 @@ uid: EC595FE1-4031-41AB-8691-CD7CA7131526-24647-00000FABE7C420F3
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/2 cup sour cream</li>
 <li>2 Tbsp prepared horseradish drained</li>
 <li>2 Tbsp mayo</li>
@@ -57,4 +55,4 @@ uid: EC595FE1-4031-41AB-8691-CD7CA7131526-24647-00000FABE7C420F3
 <li>1/8 tsp black pepper</li>
 <li>1 Tbsp chives finely chopped</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -25,12 +25,10 @@ meal_types: '3'
 name: Fish Meuniere with Toasted Slivered Almonds
 p_recipe_id: 47
 permalink: /recipes/fish-meuniere-with-toasted-slivered-almonds
-photo: 5BADFF99-FE9C-4BE6-831E-B88022939C46-7996-000005DA8EFD2D3E.jpg
 photo_large: null
-photos: []
-photos_dict: {}
-photos_filenames: null
-photos_names: null
+photo_thumb: fish-meuniere-with-toasted-slivered-almonds-thumb.jpg
+photos_dict: null
+photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Serves 4
@@ -43,7 +41,7 @@ uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li><strong>Fish</strong></li>
 <li>½ cup unbleached all-purpose flour</li>
 <li>4 sole fillets or flounder fillets, each 5 to 6 ounces and 3/8 inch thick, patted dry with paper towels</li>
@@ -57,4 +55,4 @@ uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4
 <li>1 ½ tablespoons lemon juice from 1 lemon</li>
 <li>1 lemon, cut in wedges for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

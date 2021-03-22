@@ -51,15 +51,12 @@ meal_types: '3'
 name: Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani
 p_recipe_id: 199
 permalink: /recipes/ossobuco-alla-cipriani-braised-veal-shanks-cipriani
-photo: 6B67A530-86EF-4C84-A090-514D9E994C09-22544-0003EDEBB4329E41.jpg
-photo_large: E9938ACB-4842-449A-A00C-D82EA76917B3-22544-0003EDEA20022C26.jpg
-photos: []
+photo_large: ossobuco-alla-cipriani-braised-veal-shanks-cipriani-large.jpg
+photo_thumb: ossobuco-alla-cipriani-braised-veal-shanks-cipriani-thumb.jpg
 photos_dict:
   '1': E9938ACB-4842-449A-A00C-D82EA76917B3-22544-0003EDEA20022C26.jpg
-photos_filenames:
-- E9938ACB-4842-449A-A00C-D82EA76917B3-22544-0003EDEA20022C26.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-1.jpg
 prep_time: ''
 rating: 5
 servings: '6'
@@ -72,7 +69,7 @@ uid: E180BD94-AC3C-451E-9238-78D97C67B764-22544-0003AA78C45EC856
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/2 cup olive oil or more as needed (125 mL)
 2 veal shanks, cut into 1 1/2 to 2-inch ( 4 to 5 cm) slices</li>
 <li>Salt</li>
@@ -92,4 +89,4 @@ uid: E180BD94-AC3C-451E-9238-78D97C67B764-22544-0003AA78C45EC856
 <li>2 tablespoons chopped fresh basil</li>
 <li>1 teaspoon chopped fresh rosemary</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

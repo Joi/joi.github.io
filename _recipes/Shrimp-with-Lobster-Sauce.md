@@ -43,15 +43,12 @@ meal_types: '3'
 name: Shrimp with Lobster Sauce
 p_recipe_id: 320
 permalink: /recipes/shrimp-with-lobster-sauce
-photo: 9040346D-6527-4E57-8014-DA3E67EBA953-13002-0005936120398C25.jpg
-photo_large: D930BA34-6DA1-419F-9535-6D44EE6D3B74-13002-0005935F06F8FE7F.jpg
-photos: []
+photo_large: shrimp-with-lobster-sauce-large.jpg
+photo_thumb: shrimp-with-lobster-sauce-thumb.jpg
 photos_dict:
   '1': D930BA34-6DA1-419F-9535-6D44EE6D3B74-13002-0005935F06F8FE7F.jpg
-photos_filenames:
-- D930BA34-6DA1-419F-9535-6D44EE6D3B74-13002-0005935F06F8FE7F.jpg
-photos_names:
-- '1'
+photos_dict_new:
+  '1': shrimp-with-lobster-sauce-1.jpg
 prep_time: 10 mins
 rating: 5
 servings: ''
@@ -64,7 +61,7 @@ uid: B606531D-7F81-4AD9-B14E-BA7E920951F3-5646-000003098E73CAE3
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>8 oz. shrimp (21 size, or about 10 shrimp)</li>
 <li>4 oz. ground pork</li>
 <li>2 tablespoons vegetable oil</li>
@@ -80,4 +77,4 @@ uid: B606531D-7F81-4AD9-B14E-BA7E920951F3-5646-000003098E73CAE3
 <li>1 egg, beaten slightly</li>
 <li>1 scallion, chopped</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

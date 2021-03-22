@@ -49,27 +49,20 @@ meal_types: null
 name: Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar
 p_recipe_id: 329
 permalink: /recipes/sand-dabs-with-shallots-sea-beans-sherry-vinegar
-photo: 35DA805A-09E3-4D67-ACBD-D84815911951-13002-0005A1ABFBFFEF7C.jpg
-photo_large: 55A0B755-3EA3-4225-9085-985AC1335A03-13002-0005A1A84A7FBAE2.jpg
-photos: []
+photo_large: sand-dabs-with-shallots-sea-beans-sherry-vinegar-large.jpg
+photo_thumb: sand-dabs-with-shallots-sea-beans-sherry-vinegar-thumb.jpg
 photos_dict:
   '1': 55A0B755-3EA3-4225-9085-985AC1335A03-13002-0005A1A84A7FBAE2.jpg
   '2': CE8BED61-CA21-4944-BB6A-2AE6D3B7AF54-13002-0005A1A9FAAA153B.jpg
   '3': 8138A686-B6C0-401B-BB21-B3B2F29B6464-13002-0005A1AA4D0BD303.jpg
   '4': 815EB73A-986C-452E-B03B-F62BEA26ED7D-13002-0005A1AAAE815BC6.jpg
   '5': DEA1348C-4F2A-43FB-BBDB-50A529510843-13002-0005A1AB038D26C8.jpg
-photos_filenames:
-- 8138A686-B6C0-401B-BB21-B3B2F29B6464-13002-0005A1AA4D0BD303.jpg
-- 815EB73A-986C-452E-B03B-F62BEA26ED7D-13002-0005A1AAAE815BC6.jpg
-- CE8BED61-CA21-4944-BB6A-2AE6D3B7AF54-13002-0005A1A9FAAA153B.jpg
-- 55A0B755-3EA3-4225-9085-985AC1335A03-13002-0005A1A84A7FBAE2.jpg
-- DEA1348C-4F2A-43FB-BBDB-50A529510843-13002-0005A1AB038D26C8.jpg
-photos_names:
-- '3'
-- '4'
-- '2'
-- '1'
-- '5'
+photos_dict_new:
+  '1': sand-dabs-with-shallots-sea-beans-sherry-vinegar-1.jpg
+  '2': sand-dabs-with-shallots-sea-beans-sherry-vinegar-2.jpg
+  '3': sand-dabs-with-shallots-sea-beans-sherry-vinegar-3.jpg
+  '4': sand-dabs-with-shallots-sea-beans-sherry-vinegar-4.jpg
+  '5': sand-dabs-with-shallots-sea-beans-sherry-vinegar-5.jpg
 prep_time: ''
 rating: 5
 servings: '4'
@@ -82,7 +75,7 @@ uid: 82E24D0C-460D-4289-95EE-8D5AF55D365A-13002-0005925FAFB78D5B
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns"><h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>8 small or 4 large pan-ready sand dabs, about 3 or 7 ounces, respectively, and 1/2 inch thick, or 4 pan-ready flatfish, such as sole or flounder, about 7 to 8 ounces each, or about 1-1/2 pounds sole or flounder fillets</li>
 <li>About 1 cup all-purpose flour</li>
 <li>3 ounces slivered shallots {scant 3/4 cup or about 3 large shallots}</li>
@@ -90,4 +83,4 @@ uid: 82E24D0C-460D-4289-95EE-8D5AF55D365A-13002-0005925FAFB78D5B
 <li>8 tablespoons {1 stick} unsalted butter {or 4 tablespoons clarified plus 4 tablespoons whole unsalted butter, if using a non-nonstick pan}</li>
 <li>2 tablespoons sherry vinegar</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns">	</div>	<div class="medium-2 columns" id="photo-sidebar">
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
