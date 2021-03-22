@@ -130,9 +130,9 @@ def db_connect(db_file):
 # Parse Paprika Markdown-ish into Markdown
     # if 0 == recipe -> pass 1 to make_filename()
     # if 0 == photo -> take 1 as key into {photos_dict} and get filename
-def paprika_markdownish(content,photos_dict,uid):
+def paprika_markdownish(content,photos_dict):
     if content:
-        content = re.sub(r'\[(photo):(.+?)\]',lambda x: '![' + x.group(2) + '](/images/recipes/' + uid + '/' + photos_dict[x.group(2)] + ')',content)
+        content = re.sub(r'\[(photo):(.+?)\]',lambda x: '![' + x.group(2) + '](/images/recipes/' + photos_dict[x.group(2)] + ')',content)
         #content = re.sub(r'\[(recipe):(.+?)\]',lambda x: '[' + x.group(2) + '](/recipes/' + make_filename(x.group(2)).lower() + ')',content)
         # This is for if we want ObsidianMD instead of regular
         content = re.sub(r'\[(recipe):(.+?)\]',lambda x: '[[' + make_filename(x.group(2)) + '|' + x.group(2) + ']]',content)
@@ -417,19 +417,19 @@ for result in results:
     # ---------------------------------------------------
     # Directions, Descriptions, Ingredients, Nutritional Info
     if result['directions']:
-      rdirections  = paprika_markdownish(result['directions'],result['photos_dict'],result['uid'])
+      rdirections  = paprika_markdownish(result['directions'],result['photos_dict_new'])
       rdirections  = commonmark.commonmark(rdirections)
     else:
       rdirections = None
 
     if result['description']:
-      rdescription = paprika_markdownish(result['description'],result['photos_dict'],result['uid'])
+      rdescription = paprika_markdownish(result['description'],result['photos_dict_new'])
       rdescription = commonmark.commonmark(rdescription)
     else:
       rdescription = None
 
     if result['ingredients']:
-      list_ing_lines   = paprika_markdownish(result['ingredients'],result['photos_dict'],result['uid'])
+      list_ing_lines   = paprika_markdownish(result['ingredients'],result['photos_dict_new'])
       list_ing_lines   = re.sub('\\\\x{0D}','\n',list_ing_lines)
       list_ing_lines   = re.sub('\n\n','\n',list_ing_lines)
       list_ing_lines   = make_list(list_ing_lines)
@@ -443,7 +443,7 @@ for result in results:
       rnutrition = None
 
     if result['notes']:
-      result['notes'] = paprika_markdownish(result['notes'],result['photos_dict'],result['uid'])
+      result['notes'] = paprika_markdownish(result['notes'],result['photos_dict_new'])
       rnotes = commonmark.commonmark(result['notes'])
     else:
       rnotes = None
