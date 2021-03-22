@@ -404,6 +404,9 @@ a.no-endpoint-link:hover {
   background-color:#fff;
   color:#f60;
 }
+.column, .columns {
+  padding-top: .4em;
+}
 hr {
   margin-top:3em;
   margin-bottom:2em;
@@ -434,6 +437,7 @@ hr {
 }
 #ingredients {
   background: #F7F5E0;
+  border-radius: 10px;
 }
 #ingredients h4 {
 }
