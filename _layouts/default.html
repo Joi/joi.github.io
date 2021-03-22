@@ -3,8 +3,14 @@
 <head>
 	<link rel="icon" type="image/png" href="https://joi.ito.com/favicon.png">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>{{ page.title }}</title>
-<!-- link to main stylesheet -->
+	<title>
+    Joi's Cooking {{ page.title }}
+    {% if page.i_am == "note" %}
+      - {{ page.date | date_to_string: "ordinal", "US" }}
+    {% endif %}
+</title>
+  
+  <!-- link to main stylesheet -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://joi.ito.com/_site/css/foundation.css" type="text/css" />
@@ -38,7 +44,7 @@
   <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   <!-- End MathJax -->
 </head>
-<body>
+<body class="{{ page.i_am }}">
 <nav>
 	<div class="top-bar">
 		<div class="row columns">

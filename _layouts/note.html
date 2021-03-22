@@ -2,7 +2,7 @@
 layout: default
 ---
 <!-- template: post.html -->
-<div class="row" id="content">
+<div class="row" id="">
 	{%- comment -%}
 	<div class="medium-2 columns" id="left-margin">
 		&nbsp;
@@ -10,8 +10,8 @@ layout: default
 	{%- endcomment -%}
 	<div class="medium-9 columns" id="main">
 
-		<h3>{{ page.title }}</h3>
-		<p>{{ page.date | date: '%B %d, %Y' }}</p>
+    <h5>Meal notes</h5>
+		<h3>{{ page.title }} - {{ page.date | date_to_string: "ordinal", "US" }}</h3>
 
 		<div class="content">
       {%- include content.html -%}
