@@ -530,15 +530,6 @@ for result in results:
         output2 += '<h4>Directions</h4><div class="box box-directions content">' + content['html']['directions'] + '</div>'
     output2 += '\t</div>'
 
-    output2 += '\t<div class="medium-2 columns" id="photo-sidebar">'
-
-    """if content['html']['meal_dates']:
-    output2 += '\t\t<div class="" id="meals"><h4>Prepared</h4>'
-    output2 += content['html']['meal_dates']
-    output2 += '\t\t</div>' """
-
-    # We append the Photostrip and close Row Two back in the _layouts/recipe.html template.
-
 
     # Create/Open a text file for each recipe and write the above Markdown string into it
     mdFilePath = path_output_recipe_mkdn_files + recipe_filename + ".md"

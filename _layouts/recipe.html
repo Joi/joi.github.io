@@ -59,10 +59,9 @@ layout: default
 Hack. 
 Most of the content is templated in our Python script and inserted into
 the markdown file. However, we open this DIV and place the backlinks include
-here, since we cannot invoke another Liquid template over in the Python.
-We do the same at the bottom to include the Photostrip. 
-hacky, but it works.
-For now.
+here, because we cannot invoke another Liquid template over in the Python.
+We then use CSS to push the Backlinks to the right of the layout.
+Hacky, but it works.
 - B. 2021-03-05
 {% endcomment %}
 <div class="row" id="row-one">
@@ -70,60 +69,61 @@ For now.
     <div class="bgc-lorange">{%- include backlinks.html -%}</div>
     &nbsp;
   </div>
-{%- include content.html -%}
-{% comment %}
-- Row Two is opened and populated over in the Python script.
-  We just append the photostrip here and close it.
-- The old photostrip column is opened in the Python script
-  So that we can conditionally insert the Recipe<->Post/Meal Date links
+
+  {%- include content.html -%}
+
   <div class="medium-2 columns" id="photo-sidebar">
-{% endcomment %}
-{% assign pp_recipe_id = page.p_recipe_id | downcase %}
-{% assign mbrd_dict = site.data.meals_indices.meal_by_recipe_and_date[pp_recipe_id] %}
-{% if mbrd_dict %}
-<div class="" id="meals">
-  <h4>Prepared</h4>
-  <ul>
-  {% for meal in mbrd_dict reversed %}
-    <li>
-      {% comment %}
-      Assemble the theoretical Note's URI Path.
-      We will use this first to see if the Note exists, and then, if it does, to link to it.
-      {% endcomment %}
-      {% assign day = meal[0] | split: "-" %}
-      {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal[1] | downcase }}-{{ page.filename }}{% endcapture %}
-      <!-- {% capture obs_path %}%2F_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}-{{ page.filename }}{% endcapture %} -->
-      {% capture obs_path %}_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}-{{ page.filename }}{% endcapture %}
-      {% comment %}
-      Here we check to see if the Note exists
-      {% endcomment %}
-      {% assign result = site.notes | where: "url", note_path %}
-      
-      {% if result[0] %}
-        {% comment %}
-        If it does, we link to it.
-        {% endcomment %}
-        <a href="{{ note_path }}">
-      
-      {% elsif jekyll.environment == 'development' %}
-        {% comment %}
-        If it does not, we link to Obsidian, giving us a pathway to creating it.
-        {% endcomment %}
-        <!-- <a class="no-endpoint-link"
-          href="obsidian://new?vault=joi.github.io&path={{ obs_path }}"> -->
-        <a class="no-endpoint-link"
-          href="obsidian://new?vault=joi.github.io&file={{ obs_path }}">
-      {% else %}
-        <a class="dead-link">
-      {% endif %}
-        <em>{{ meal[1] }}</em>
-        <strong>{{ meal[0] | date_to_string: "ordinal", "US" }}</strong>
-        </a>
-    </li>
-  {% endfor %}
-  </ul>
-</div>
-{% endif %}
+  
+    {% assign pp_recipe_id = page.p_recipe_id | downcase %}
+    {% assign mbrd_dict = site.data.meals_indices.meal_by_recipe_and_date[pp_recipe_id] %}
+    {% if mbrd_dict %}
+    <div class="" id="meals">
+      <h4>Prepared</h4>
+      <ul>
+      {% for meal in mbrd_dict reversed %}
+        <li>
+          {% comment %}
+          Assemble the theoretical Note's URI Path.
+          We will use this first to see if the Note exists, and then, if it does, to link to it.
+          {% endcomment %}
+          {% assign day = meal[0] | split: "-" %}
+          {% comment %}
+          {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal[1] | downcase }}-{{ page.filename }}{% endcapture %}
+          <!-- {% capture obs_path %}%2F_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}-{{ page.filename }}{% endcapture %} -->
+          {% capture obs_path %}_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}-{{ page.filename }}{% endcapture %}
+          {% endcomment %}
+          {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal[1] | downcase }}{% endcapture %}
+          {% capture obs_path %}_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}{% endcapture %}
+          {% comment %}
+          Here we check to see if the Note exists
+          {% endcomment %}
+          {% assign result = site.notes | where: "url", note_path %}
+          
+          {% if result[0] %}
+            {% comment %}
+            If it does, we link to it.
+            {% endcomment %}
+            <a href="{{ note_path }}">
+          
+          {% elsif jekyll.environment == 'development' %}
+            {% comment %}
+            If it does not, we link to Obsidian, giving us a pathway to creating it.
+            {% endcomment %}
+            <!-- <a class="no-endpoint-link"
+              href="obsidian://new?vault=joi.github.io&path={{ obs_path }}"> -->
+            <a class="no-endpoint-link"
+              href="obsidian://new?vault=joi.github.io&file={{ obs_path }}">
+          {% else %}
+            <a class="dead-link">
+          {% endif %}
+            <em>{{ meal[1] }}</em>
+            <strong>{{ meal[0] | date_to_string: "ordinal", "US" }}</strong>
+            </a>
+        </li>
+      {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
 
   </div><!-- #photo-sidebar -->
 </div><!-- #row-two -->
