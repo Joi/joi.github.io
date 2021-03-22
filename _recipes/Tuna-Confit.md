@@ -40,8 +40,9 @@ ingredients: '1. 2 lb. top-quality fresh tuna (yellowfin or ahi), cut into 1-inc
 
   1. Zest of 1 lemon, pared in strips'
 intrash: 0
-meal_dates: null
-meal_types: null
+meal_dates:
+- '2020-08-05'
+meal_types: '3'
 name: Tuna Confit
 p_recipe_id: 293
 permalink: /recipes/tuna-confit

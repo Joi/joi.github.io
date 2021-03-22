@@ -11,6 +11,9 @@
   "pot-roast": "Pot Roast",
   "the-food-lab-spicy-thai-style-flank-steak-salad": "The Food Lab - Spicy Thai-Style Flank Steak Salad"
  },
+ "Beef Back Ribs": {
+  "instant-pot-beef-back-ribs": "Instant Pot Beef Back Ribs"
+ },
  "Black Cod": {
   "pan-seared-sablefish-black-cod-with-lemon-pepper-aioli": "Pan-Seared Sablefish (Black Cod) with Lemon Pepper Aioli",
   "spicy-coconut-braised-black-cod-with-colorful-vegetables": "Spicy Coconut Braised Black Cod with Colorful Vegetables"
@@ -336,6 +339,8 @@
   "paella": "Paella",
   "prime-rib": "Prime Rib",
   "rouille": "Rouille",
+  "shrimp-and-endive-salad": "Shrimp and Endive Salad",
+  "steamed-lobster": "Steamed Lobster",
   "tuna-tataki-with-lime-ginger-and-jalapeno": "Tuna Tataki with Lime, Ginger and Jalapeño"
  }
 }

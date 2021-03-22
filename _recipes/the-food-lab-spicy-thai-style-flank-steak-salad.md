@@ -26,7 +26,7 @@ ingredients: "**For the Marinade**\n\n\xBD cup packed brown sugar\n\xBC cup wate
 intrash: 0
 meal_dates:
 - '2020-07-25'
-meal_types: '4'
+meal_types: '3'
 name: The Food Lab - Spicy Thai-Style Flank Steak Salad
 p_recipe_id: 275
 permalink: /recipes/the-food-lab-spicy-thai-style-flank-steak-salad

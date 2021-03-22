@@ -1,6 +1,4 @@
 ---
-layout: post
-title: Mastering Billows
 tags:
 - BBQ
 - Temperature

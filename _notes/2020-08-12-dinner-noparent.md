@@ -1,6 +1,4 @@
 ---
-layout: post
-title: Reverse Sear Redux
 tags:
 - Reverse Sear
 - Steak
@@ -13,7 +11,7 @@ Categories: recipes
 
 ![Reverse Sear Plated](/images/rev-sear-plated.jpeg)
 
-Did a [[2020-08-02-reverse-sear|reverse sear]] again. This time, the steak from Savenor's was 2 inches, 1/2 inch thicker than the last time. I wanted to leave plenty of time to cook the steaks so I stuck them into the oven set to 170ºF. I used a remote temperature monitor to track the temperature from my office while it cooked and I kept an eye on my estimated finish time that I calculated by estimating the degrees per minute that it was heating up at each measurement and extrapolating it to my "pull temperature" of 122ºF for a medium-rare doneness after searing and resting - 135ºF serving temperature target.
+Did a [[2020-08-02-dinner-noparent|reverse sear]] again. This time, the steak from Savenor's was 2 inches, 1/2 inch thicker than the last time. I wanted to leave plenty of time to cook the steaks so I stuck them into the oven set to 170ºF. I used a remote temperature monitor to track the temperature from my office while it cooked and I kept an eye on my estimated finish time that I calculated by estimating the degrees per minute that it was heating up at each measurement and extrapolating it to my "pull temperature" of 122ºF for a medium-rare doneness after searing and resting - 135ºF serving temperature target.
 
 At 3:43PM, I realized that my steak was going to arrive an hour early at this rate - I was trying to finish at 5:30PM pull for a 5:45PM sear completion with 15 min for resting, slicing an serving - 6PM serve time. I turned off the oven, but kept the steak in the slowly cooling oven. Because of the residual heat in the oven and the hotter parts of the steak heating the center (where my thermometer was placed), the temperature continued to climb, but slower and slower. At 5:06PM, my oven temperature was 118ºF and I was down to 0.1ºF / min heating so I turned the oven back on.
 
