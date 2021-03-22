@@ -6,7 +6,7 @@ tags:
 - Confit
 categories: recipe
 ---
-I made [[2020-07-03-tuna-confit|tuna confit]] about a month ago and I used the recipe from [Nosrat's book](https://www.saltfatacidheat.com/). I modified it a bit but it involved using a Dutch oven at 150ºF for about 9 min after preparing oil infused with various aromatics.
+I made [[2020-07-03-dinner|tuna confit]] about a month ago and I used the recipe from [Nosrat's book](https://www.saltfatacidheat.com/). I modified it a bit but it involved using a Dutch oven at 150ºF for about 9 min after preparing oil infused with various aromatics.
 
 After reading [Modernist Cuisine](https://modernistcuisine.com/books/modernist-cuisine-at-home/), I decided to try it again, but with the sous vide instead. The cool thing that I learned from Modernist Cuisine was that I could use glass jars which could be used to refrigerate the tuna after it was done.
 
