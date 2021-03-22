@@ -291,16 +291,21 @@ photos = defaultdict(dict)
 # Loop through Results
 for result in results:
     result['photos_dict'] = {}
-    #result['photos'] = []
     result['html'] = {}
     result['type'] = None
 
-    # FILENAME : This is our Key between the YAML in Markdown stubs and the JSON Data files
+    # RECIPE_FILENAME : 
+    # This is also our Key between the YAML in Markdown stubs and the JSON Data files
     recipe_filename = make_filename(result['name'])
     result['slug'] = recipe_filename
     result['permalink'] = '/recipes/'+recipe_filename
+
+
+
     # --------------------------------------------------------------------------------------
     # Start of RESULT Items FOR loop {
+
+
 
     # ---------------------------------------------------
     # Photos Stuff
@@ -346,8 +351,8 @@ for result in results:
     # We need to move and rename the photo files and vars (which go into the recipe stubs), here, all at once. 
     result['photos_filenames_new'] = []
     result['photos_dict_new'] = {}
-    # First, if this recipe result has any photos
 
+    # First, if this recipe result has any photos
     if result['photo_thumb'] or result['photos_dict']:
       source_path_recipe_photos = path_photos + result['uid'] + "/"
       dest_path_recipe_photos = path_output_recipe_phot_files + "/"
@@ -389,8 +394,8 @@ for result in results:
 
           except Exception as e:
             print( "🛑 Something fubar in photos for " + recipe_filename + "\n" + new_photo_filename + "\n")
-            #print(e)
-            #print("-------\n")
+            print(e)
+            print("-------\n")
 
 
 
@@ -407,8 +412,10 @@ for result in results:
         except:
             pass
 
-        # ---------------------------------------------------
-        # Directions, Descriptions, Ingredients, Nutritional Info
+
+
+    # ---------------------------------------------------
+    # Directions, Descriptions, Ingredients, Nutritional Info
     if result['directions']:
       rdirections  = paprika_markdownish(result['directions'],result['photos_dict'],result['uid'])
       rdirections  = commonmark.commonmark(rdirections)
@@ -506,21 +513,21 @@ for result in results:
     output2 += '<div class="large-8 medium-7 columns" id="writeup">'
     if result2['type'] == "_mine":
       if content['html']['description']:
-        output2 += '\t\t<h4 id="description">Description</h4>\n<div class="box box-description content">'+ content['html']['description'] + '</div>'
+        output2 += '\t\t<div id="description"><h4>Description</h4>\n<div class="box box-description content">'+ content['html']['description'] + '</div></div>'
       if content['html']['notes']:
-        output2 += '\t\t<h4 id="notes">Notes</h4>\n<div class="box box-notes">' + content['html']['notes'] + '</div>'
+        output2 += '\t\t<div id="notes"><h4>Notes</h4>\n<div class="box box-notes">' + content['html']['notes'] + '</div></div>'
     output2 += '\t</div><!-- #writeup -->\n'
     output2 += '</div><!-- #row-one -->\n'
 
     output2 += '<div class="row" id="row-two">'
-    output2 += '\t<div class="medium-4 small-5 columns">'
+    output2 += '\t<div class="medium-4 small-5 columns" id="ingredients">'
     if content['html']['ingredients']:
-        output2 += '<h4 id="ingredients">Ingredients</h4><div class="box box-ingredients content">' + content['html']['ingredients'] + '</div>'
+        output2 += '<h4>Ingredients</h4><div class="box box-ingredients content">' + content['html']['ingredients'] + '</div>'
     output2 += '\t</div>'
-    output2 += '\t<div class="medium-6 small-7 columns">'
+    output2 += '\t<div class="medium-6 small-7 columns" id="directions">'
     if result2['type'] == "_mine":
       if content['html']['directions']:
-        output2 += '<h4 id="directions">Directions</h4><div class="box box-directions content">' + content['html']['directions'] + '</div>'
+        output2 += '<h4>Directions</h4><div class="box box-directions content">' + content['html']['directions'] + '</div>'
     output2 += '\t</div>'
 
     output2 += '\t<div class="medium-2 columns" id="photo-sidebar">'

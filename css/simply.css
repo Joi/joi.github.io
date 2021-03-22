@@ -432,16 +432,23 @@ hr {
 	font-size: 1rem;
 	font-weight: bold;
 }
-
+#ingredients {
+  background: #F7F5E0;
+}
+#ingredients h4 {
+}
 .box-ingredients ul {
   margin-left: 0;
   margin-top: 1em;
 }
 .box-ingredients li {
-  line-height: 1.4em;
+  border-bottom: 1px solid #e8e1a2;
+  font-size:90%;
+  line-height: 1.2em;
   list-style-type: none;
   padding-left: 0;
-  margin-bottom: 1em;
+  padding-bottom:.5em;
+  margin-bottom: .5em;
 }
 #meals {
   margin-bottom: 2em;
