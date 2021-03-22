@@ -9,9 +9,10 @@ layout: default
 	</div>
 	{%- endcomment -%}
 	<div class="medium-9 columns" id="main">
-
-    <h5>Meal notes</h5>
-		<h3>{{ page.title }} - {{ page.date | date_to_string: "ordinal", "US" }}</h3>
+    <div class="page-header">
+      <div class="sup-head">Meal notes</div>
+      <div class="title">{{ page.title }} - {{ page.date | date_to_string: "ordinal", "US" }}</div>
+    </div>
 
 		<div class="content">
       {%- include content.html -%}

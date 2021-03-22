@@ -28,17 +28,26 @@ layout: default
 <div class="{{ class_mine }}" id="recipe">
 <div class="row" id="title">
 	<div class="small-12 columns">
-    <h2 class="marker">{% if page.type == "_mine" %}Joi's {% endif %}{{ page.title }}</h2>
 
-    {% if page.source %}
-      <p class="source">Source: 
-        {% unless page.source_url %}
-          {{ page.source }}
-        {% else %}
-          <a href="{{ page.source_url }}" title="{{ page.source }}">{{ page.source }}</a>
-        {% endunless %}
-      </p>
-    {% endif %}
+    <div class="page-header">
+      <div class="sup-head">Recipe</div>
+
+      {% assign recipe_prefix = "" %}
+      {% if page.type == "_mine" %}
+        {% assign recipe_prefix = "Joi's " %}
+      {% endif %}
+
+      <div class="title marker">{{recipe_prefix}}{{ page.title }}</div>
+      {% if page.source %}
+        <p class="source">Source: 
+          {% unless page.source_url %}
+            {{ page.source }}
+          {% else %}
+            <a href="{{ page.source_url }}" title="{{ page.source }}">{{ page.source }}</a>
+          {% endunless %}
+        </p>
+      {% endif %}
+    </div>
 
   </div>
 </div>

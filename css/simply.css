@@ -8,9 +8,6 @@ th, td {
   text-align: left;
 }
 
-.source {
-  font-size: 14px;
-}
 a[aria-label]:hover:after,
 .recipe-name[aria-label]:hover:after {
   content: attr(aria-label);
@@ -536,4 +533,32 @@ h6.debug {
   margin-bottom: 5px;
   border-bottom: 1px dashed #ccc;
   background: #cdf;
+}
+
+/* Page type-specific */
+
+body.page {}
+body.post {}
+body.recipe .page-header .title {
+  font-size: 2.5rem;
+  line-height: 110%;
+  margin: 0.2rem 0 0.5rem;
+}
+body.recipe .page-header .source {
+  font-size: 12px;
+  color: #666;
+}
+
+/* Note pages */
+body.note .page-header {
+  margin-bottom: 1em;
+}
+body.note .page-header .title {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+body.note .content h1,
+body.note .content h2,
+body.note .content h3 {
+  font-size: 2rem;
 }
