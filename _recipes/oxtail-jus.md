@@ -37,7 +37,8 @@ intrash: 0
 meal_dates:
 - '2021-01-02'
 - '2020-12-06'
-meal_types: 3|3
+- '2021-02-20'
+meal_types: 3|3|3
 name: Oxtail Jus
 p_recipe_id: 488
 permalink: /recipes/oxtail-jus
