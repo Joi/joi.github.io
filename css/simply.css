@@ -517,7 +517,20 @@ footer #techpro {
 #big-photo {
   margin-bottom: 2em;
 }
-
+a.recip-figure {
+  display: block;
+  width: 100%;
+  margin: 1em 0 2em;
+}
+.recip-thumb {
+  display: block;
+  height: 100px;
+  width: 100%;
+}
+.recip-caption {
+  font-weight: 600;
+  font-size: 80%
+}
 /* DEBUG */
 
 pre {

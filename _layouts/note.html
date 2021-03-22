@@ -1,7 +1,26 @@
 ---
 layout: default
 ---
-<!-- template: post.html -->
+{%- comment -%}
+Assign Date and Meal vars from the filename of this Note,
+which happen to correspond/define the page.title and page.note vars
+{%- endcomment -%}
+
+{% assign key_date = page.date | date: "%Y-%m-%d" %}
+{% assign key_meal = page.title %}
+
+<!-- template: note.html -->
+<div class="row" id="title">
+	<div class="small-12 columns">
+
+    <div class="page-header">
+      <div class="sup-head">Meal notes</div>
+      <div class="title">{{ page.title }} - {{ page.date | date_to_string: "ordinal", "US" }}</div>
+    </div>
+
+  </div>
+</div>
+
 <div class="row" id="">
 	{%- comment -%}
 	<div class="medium-2 columns" id="left-margin">
@@ -9,10 +28,7 @@ layout: default
 	</div>
 	{%- endcomment -%}
 	<div class="medium-9 columns" id="main">
-    <div class="page-header">
-      <div class="sup-head">Meal notes</div>
-      <div class="title">{{ page.title }} - {{ page.date | date_to_string: "ordinal", "US" }}</div>
-    </div>
+
 
 		<div class="content">
       {%- include content.html -%}
@@ -20,28 +36,27 @@ layout: default
 
 	</div>
 	<div class="medium-3 columns" id="right-margin">
-		{%- comment -%}{%- include backlinks.html -%}{%- endcomment -%}
+		{%- include backlinks.html -%}
     
-		{% for tag in page.tags %}
-      {%- if site.data.recipe_categories[tag] -%}
-        {% assign recipes = site.data.recipe_categories[tag] %}
-        {% if recipes %}
-          <h5>{{ tag | capitalize }}</h5>
-          <ul>{% for recipe in recipes %}
-            <li><a href="/recipes/{{ recipe[0] | slugify }}">{{ recipe[1] }}</a></li>{% endfor %}
-          </ul>
-        {%- endif -%}
-      {%- endif -%}
-		{% endfor %}
-
-{%- comment -%}
-		{% assign key 			= post.categories %}
-		{% assign json_data = site.data.recipes[key] %}
-		{% assign excerpt 	= json_data.ingredients | markdownify | strip_html | truncate: 500 | newline_to_br %}
-		{% assign title 	= json_data.name | markdownify | strip_html | truncate: 100  %}
-{%- endcomment -%}
-
+    {% assign rbdm_dict = site.data.meals_indices.recipe_by_date_and_meal[key_date][key_meal] %}
+    {% if rbdm_dict %}
+      <h4 class="marker">Recipes prepared</h4>
+      {% for recipe_id in rbdm_dict %}
+        <!--{{ recipe_id }}-->
+        {% assign result = site.recipes | where: "p_recipe_id", recipe_id %}
+        {% if result[0] %}
+          {% for recip in result %}
+            <a class="recip-figure" href="{{recip.url}}">
+              <div
+                class="recip-thumb"
+                style="background:no-repeat center url('/images/recipes/{{recip.photo_thumb}}');">&nbsp</div>
+              <div class="recip-caption">{{recip.title}}</div>
+            </a>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
 
 	</div>
 </div>
-<!-- /template: post.html -->
+<!-- /template: note.html -->
