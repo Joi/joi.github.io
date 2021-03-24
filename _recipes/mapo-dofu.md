@@ -6,7 +6,6 @@ categories:
 - Chinese
 - Ground Pork
 - Tofu
-- New Category
 cook_time: ''
 created: '2021-03-24 15:26:16'
 created_ts: 1616599576
