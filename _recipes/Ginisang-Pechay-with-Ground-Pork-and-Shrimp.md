@@ -18,9 +18,9 @@ difficulty: ''
 image_url: null
 ingredients: '1 lb bok choy cleaned and chopped
 
-  6 oz ground pork
+  8 oz ground pork
 
-  4 oz chopped or small shrimp
+  1 lb chopped or small shrimp
 
   1 medium tomato diced
 
@@ -50,10 +50,16 @@ photos_dict:
   '1': 1967A315-2161-4F72-B690-19196A716D84-26383-00017281FAE33C55.jpg
   '2': C7066E29-16DB-41E6-97D1-81F359F78745-26383-000172826D5F67A7.jpg
   '3': 676CECF5-4CA2-47CC-8461-1222978C906F-4038-00022091A7224A21.jpg
+  '4': F31F528B-DCE6-475B-B1D4-CA720FCD508A-651-000014707A9EE060.jpg
+  '5': EC50B7C2-073C-47F3-A66B-8FE804E316D1-651-00001470D5B24616.jpg
+  '6': D7915768-9C7C-42C5-BE0E-1F0BCD452C5D-651-000014714D1546ED.jpg
 photos_dict_new:
   '1': ginisang-pechay-with-ground-pork-and-shrimp-1.jpg
   '2': ginisang-pechay-with-ground-pork-and-shrimp-2.jpg
   '3': ginisang-pechay-with-ground-pork-and-shrimp-3.jpg
+  '4': ginisang-pechay-with-ground-pork-and-shrimp-4.jpg
+  '5': ginisang-pechay-with-ground-pork-and-shrimp-5.jpg
+  '6': ginisang-pechay-with-ground-pork-and-shrimp-6.jpg
 prep_time: ''
 rating: 5
 servings: ''
@@ -70,13 +76,14 @@ uid: D1802362-2744-4AED-A6DC-2AB29EC1D022-26383-0001720E4DC5724D
 <p>Instead of bok choy, you can use other strong leafy greens such as Chinese cabbage.</p>
 <p><a href="https://panlasangpinoy.com/ginisang-pechay-with-ground-pork-and-shrimp-bok-choy/">Inspired by this recipe.</a></p>
 </div></div>		<div id="notes"><h4>Notes</h4>
-<div class="box box-notes"><p>I made it with a lb of pork and a lb of shrimp and it was great.</p>
+<div class="box box-notes"><p>You can add more protein. I made it with a lb of pork and a lb of shrimp and it was great.</p>
+<p>Works well with asparagus too. <img src="/images/recipes/ginisang-pechay-with-ground-pork-and-shrimp-6.jpg" alt="6" /></p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 lb bok choy cleaned and chopped</li>
-<li>6 oz ground pork</li>
-<li>4 oz chopped or small shrimp</li>
+<li>8 oz ground pork</li>
+<li>1 lb chopped or small shrimp</li>
 <li>1 medium tomato diced</li>
 <li>1 medium yellow onion diced</li>
 <li>3 cloves garlic crushed</li>

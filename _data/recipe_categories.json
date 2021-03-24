@@ -60,7 +60,8 @@
  "Chinese": {
   "cantonese-style-lobster-with-ginger-and-scallions": "Cantonese-Style Lobster with Ginger and Scallions",
   "chinese-stir-fry-eggs-with-flaked-crab-meat-recipe": "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe",
-  "kanitama": "Kanitama"
+  "kanitama": "Kanitama",
+  "mapo-dofu": "Mapo Dofu"
  },
  "Chuck Roast": {
   "pot-roast": "Pot Roast"
@@ -116,7 +117,8 @@
   "hamburger-steak": "Hamburger Steak"
  },
  "Ground Pork": {
-  "ginisang-pechay-with-ground-pork-and-shrimp": "Ginisang Pechay with Ground Pork and Shrimp"
+  "ginisang-pechay-with-ground-pork-and-shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
+  "mapo-dofu": "Mapo Dofu"
  },
  "Halibut": {
   "mediterranean-lemon-poached-halibut": "Mediterranean Lemon Poached Halibut",
@@ -157,6 +159,9 @@
  },
  "Mussels": {
   "steamed-mussels-with-garlic-and-parsley": "Steamed Mussels with Garlic and Parsley"
+ },
+ "New Category": {
+  "mapo-dofu": "Mapo Dofu"
  },
  "Oxtail": {
   "oxtail-au-jus": "Oxtail Au Jus",
@@ -285,7 +290,8 @@
   "swordfish-in-creamy-tomato-sauce": "Swordfish in Creamy Tomato Sauce"
  },
  "Tofu": {
-  "ginisang-pechay-with-tofu": "Ginisang Pechay with Tofu"
+  "ginisang-pechay-with-tofu": "Ginisang Pechay with Tofu",
+  "mapo-dofu": "Mapo Dofu"
  },
  "Tomato": {
   "risotto-primavera": "Risotto Primavera"
@@ -333,10 +339,12 @@
   "ginisang-pechay-with-tofu": "Ginisang Pechay with Tofu",
   "kanitama": "Kanitama",
   "kohlrabi-soup": "Kohlrabi Soup",
+  "mapo-dofu": "Mapo Dofu",
   "marie-rose-sauce": "Marie Rose Sauce",
   "oven-roasted-spatchcocked-chicken": "Oven Roasted Spatchcocked Chicken",
   "oxtail-jus": "Oxtail Jus",
   "paella": "Paella",
+  "pizza": "Pizza",
   "prime-rib": "Prime Rib",
   "rouille": "Rouille",
   "shrimp-and-endive-salad": "Shrimp and Endive Salad",
