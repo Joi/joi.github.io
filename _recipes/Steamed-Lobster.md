@@ -10,9 +10,7 @@ created_ts: 1593428350
 description: null
 difficulty: ''
 image_url: null
-ingredients: 'Live lobster
-
-  '
+ingredients: Live lobster
 intrash: 0
 meal_dates:
 - '2020-07-04'
@@ -44,15 +42,37 @@ uid: 44A1BA78-B7C0-4AB8-B9A9-D3E3C584B5EE-47978-000609DDB4D1CC3B
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Live lobster</li>
-<li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Following are rough steaming times, but I stick a thermometer into the center of the tail where it connects to the caprice and pull it when it's about 140ºF.</p>
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Following are rough steaming times, but I stick a thermometer into the center of the tail where it connects to the carapace and pull it when it's about 140ºF.</p>
 <p>Lobster Size	Steaming Times</p>
-<p>|Weight|Min|
-|---|---|
-|1 lb.-1-1/4 lbs.|7-9|
-|1-1/2 lb.	|9-11|
-|2 lbs.|11-12|
-|3 lbs.|12-14|
-|5 lb.|22-24|</p>
+<table>
+<thead>
+<tr>
+<th>Weight</th>
+<th>Min</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 lb.-1-1/4 lbs.</td>
+<td>7-9</td>
+</tr>
+<tr>
+<td>1-1/2 lb.</td>
+<td>9-11</td>
+</tr>
+<tr>
+<td>2 lbs.</td>
+<td>11-12</td>
+</tr>
+<tr>
+<td>3 lbs.</td>
+<td>12-14</td>
+</tr>
+<tr>
+<td>5 lb.</td>
+<td>22-24</td>
+</tr>
+</tbody>
+</table>
 </div>	</div>
