@@ -9,7 +9,7 @@
 
 # (which should be the path to the direcotry one level up from where this file here is.)
 
-# pip install commonmark | NEW!
+# pip3 install mistletoe
 # pip install Unidecode | https://pypi.org/project/Unidecode/
 # pip install pathvalidate | https://pypi.org/project/pathvalidate/
 # pip install pyyaml
@@ -29,7 +29,7 @@ from datetime import datetime
 import zipfile
 import json
 import yaml
-import commonmark
+import mistletoe
 import pprint
 from pathvalidate import sanitize_filename
 import unidecode
@@ -408,7 +408,7 @@ for result in results:
             rmeal_dates = ""
             for meal_date in result['meal_dates']:
               rmeal_dates += "- [[" + meal_date + "|recipenote]]\n"
-            rmeal_dates  = commonmark.commonmark(rmeal_dates)
+            rmeal_dates  = mistletoe.markdown(rmeal_dates)
         except:
             pass
 
@@ -418,13 +418,13 @@ for result in results:
     # Directions, Descriptions, Ingredients, Nutritional Info
     if result['directions']:
       rdirections  = paprika_markdownish(result['directions'],result['photos_dict_new'])
-      rdirections  = commonmark.commonmark(rdirections)
+      rdirections  = mistletoe.markdown(rdirections)
     else:
       rdirections = None
 
     if result['description']:
       rdescription = paprika_markdownish(result['description'],result['photos_dict_new'])
-      rdescription = commonmark.commonmark(rdescription)
+      rdescription = mistletoe.markdown(rdescription)
     else:
       rdescription = None
 
@@ -433,18 +433,18 @@ for result in results:
       list_ing_lines   = re.sub('\\\\x{0D}','\n',list_ing_lines)
       list_ing_lines   = re.sub('\n\n','\n',list_ing_lines)
       list_ing_lines   = make_list(list_ing_lines)
-      ringredients = commonmark.commonmark(list_ing_lines)
+      ringredients = mistletoe.markdown(list_ing_lines)
     else:
       ringredients = None
 
     if result['nutritional_info']:
-      rnutrition = commonmark.commonmark(str(result['nutritional_info']))
+      rnutrition = mistletoe.markdown(str(result['nutritional_info']))
     else:
       rnutrition = None
 
     if result['notes']:
       result['notes'] = paprika_markdownish(result['notes'],result['photos_dict_new'])
-      rnotes = commonmark.commonmark(result['notes'])
+      rnotes = mistletoe.markdown(result['notes'])
     else:
       rnotes = None
 
