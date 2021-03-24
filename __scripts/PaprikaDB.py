@@ -2,17 +2,20 @@
 # Paprika Database
 # This script connects to Paprika app's SQLite database and pull out whatever we want and format it as JSON, YAML, whatever.
 
-# NOTE:
+# NOTES:
 # Before running the first time: 1. create a file in the same directory as this Notebook, named "config.py" 2. copy paste this line:
-
 # path_project = "/local/path/to/this/repo/joi.github.io"
-
 # (which should be the path to the direcotry one level up from where this file here is.)
 
 # pip3 install mistletoe
 # pip install Unidecode | https://pypi.org/project/Unidecode/
 # pip install pathvalidate | https://pypi.org/project/pathvalidate/
 # pip install pyyaml
+
+# REGARDING MARKDOWN
+# We ran with Commonmakr for a while but ran into an issue: it doesn't do tables.
+# A quick fix was to switch to "Markdown-It" https://github.com/executablebooks/markdown-it-py
+
 
 print("\n\n\n---------------------------------------\nEXECUTING PaprikaDB EXPORT\n---------------------------------------\n")
 
@@ -29,7 +32,9 @@ from datetime import datetime
 import zipfile
 import json
 import yaml
-import mistletoe
+from markdown_it import MarkdownIt
+from markdown_it.extensions.footnote import footnote_plugin
+#from markdown_it.extensions.front_matter import front_matter_plugin
 import pprint
 from pathvalidate import sanitize_filename
 import unidecode
@@ -39,6 +44,18 @@ from pathlib import Path
 from shutil import copyfile
 from collections import defaultdict
 import config # This imports our local config file, "config.py". Access vars like so: config.var
+
+
+# INITIALIZE CLASSES ------------------------------
+# Markdown-It
+mdit = (
+    MarkdownIt()
+    .use(footnote_plugin)
+    #.use(front_matter_plugin)
+    #.disable('image')
+    .enable('table')
+)
+
 
 # VARS -----------------------------------------
 
@@ -173,6 +190,7 @@ if os.path.exists(path_temp_working):
 copy_DB_Return = shutil.copytree(path_db_med, path_temp_working) # create a var here just to capture the useless out put of the copyfile() function
 
 print ("✅ DATABASE Backed up\n")
+
 
 
 # DATABASE OPERATIONS ------------------------------
@@ -408,7 +426,7 @@ for result in results:
             rmeal_dates = ""
             for meal_date in result['meal_dates']:
               rmeal_dates += "- [[" + meal_date + "|recipenote]]\n"
-            rmeal_dates  = mistletoe.markdown(rmeal_dates)
+            rmeal_dates  = mdit.render(rmeal_dates)
         except:
             pass
 
@@ -418,13 +436,13 @@ for result in results:
     # Directions, Descriptions, Ingredients, Nutritional Info
     if result['directions']:
       rdirections  = paprika_markdownish(result['directions'],result['photos_dict_new'])
-      rdirections  = mistletoe.markdown(rdirections)
+      rdirections  = mdit.render(rdirections)
     else:
       rdirections = None
 
     if result['description']:
       rdescription = paprika_markdownish(result['description'],result['photos_dict_new'])
-      rdescription = mistletoe.markdown(rdescription)
+      rdescription = mdit.render(rdescription)
     else:
       rdescription = None
 
@@ -433,18 +451,18 @@ for result in results:
       list_ing_lines   = re.sub('\\\\x{0D}','\n',list_ing_lines)
       list_ing_lines   = re.sub('\n\n','\n',list_ing_lines)
       list_ing_lines   = make_list(list_ing_lines)
-      ringredients = mistletoe.markdown(list_ing_lines)
+      ringredients = mdit.render(list_ing_lines)
     else:
       ringredients = None
 
     if result['nutritional_info']:
-      rnutrition = mistletoe.markdown(str(result['nutritional_info']))
+      rnutrition = mdit.render(str(result['nutritional_info']))
     else:
       rnutrition = None
 
     if result['notes']:
       result['notes'] = paprika_markdownish(result['notes'],result['photos_dict_new'])
-      rnotes = mistletoe.markdown(result['notes'])
+      rnotes = mdit.render(result['notes'])
     else:
       rnotes = None
 
