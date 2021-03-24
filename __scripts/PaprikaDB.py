@@ -33,8 +33,8 @@ import zipfile
 import json
 import yaml
 from markdown_it import MarkdownIt
-from markdown_it.extensions.footnote import footnote_plugin
-#from markdown_it.extensions.front_matter import front_matter_plugin
+from mdit_py_plugins.footnote import footnote_plugin
+#from mdit_py_plugins.front_matter import front_matter_plugin
 import pprint
 from pathvalidate import sanitize_filename
 import unidecode
