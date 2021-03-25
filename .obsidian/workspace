@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2021-03-24-dinner.md",
+            "file": "_notes/2020-08-17-dinner.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-03-24-dinner.md",
+                "file": "_notes/2020-08-17-dinner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +93,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_notes/2020-08-17-dinner.md",
+    "_notes/2021-03-16-dinner.md",
     "_notes/2021-03-24-dinner.md",
     "_notes/2020-12-07-dinner.md",
     "_notes/2021-01-10-dinner.md",
@@ -100,8 +102,6 @@
     "_notes/2021-02-20-dinner.md",
     "_notes/2021-03-18-dinner.md",
     "_notes/2021-03-20-dinner.md",
-    "_notes/2020-10-18-dinner.md",
-    "_notes/2021-03-20-dinner 1.md",
-    "_site/images/recipes/ginisang-pechay-with-ground-pork-and-shrimp-large.jpg"
+    "_notes/2020-10-18-dinner.md"
   ]
 }
