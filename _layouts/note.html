@@ -47,9 +47,17 @@ which happen to correspond/define the page.title and page.note vars
         {% if result[0] %}
           {% for recip in result %}
             <a class="recip-figure" href="{{recip.url}}">
+              {% if photo_thumb %}
+              {% capture background %}
+              no-repeat center url('/images/recipes/{{recip.photo_thumb}}')
+              {% endcapture%}
+              {% else %}
+              {% assign background = "#f1f1f1" %}
+              {% endif %}
               <div
                 class="recip-thumb"
-                style="background:no-repeat center url('/images/recipes/{{recip.photo_thumb}}');">&nbsp</div>
+                style="background:{{ background }};"
+                >&nbsp</div>
               <div class="recip-caption">{{recip.title}}</div>
             </a>
           {% endfor %}
