@@ -277,11 +277,9 @@ LEFT JOIN    ZRECIPECATEGORY AS C
 WHERE
   R.ZINTRASH IS 0
   AND ( R.ZRATING = 5 OR C.ZNAME LIKE '%mine%')
-
 GROUP BY    R.Z_PK;
 """
     )
-
     
 # --------------------------------------------------------------------------------------
 # For the next bit with columns and results and dict and zip, see:
@@ -414,6 +412,8 @@ for result in results:
             print( "🛑 Something fubar in photos for " + recipe_filename + "\n" + new_photo_filename + "\n")
             print(e)
             print("-------\n")
+        
+        result['photos_dict'] = result['photos_dict_new']
 
 
 
@@ -435,19 +435,19 @@ for result in results:
     # ---------------------------------------------------
     # Directions, Descriptions, Ingredients, Nutritional Info
     if result['directions']:
-      rdirections  = paprika_markdownish(result['directions'],result['photos_dict_new'])
+      rdirections  = paprika_markdownish(result['directions'],result['photos_dict'])
       rdirections  = mdit.render(rdirections)
     else:
       rdirections = None
 
     if result['description']:
-      rdescription = paprika_markdownish(result['description'],result['photos_dict_new'])
+      rdescription = paprika_markdownish(result['description'],result['photos_dict'])
       rdescription = mdit.render(rdescription)
     else:
       rdescription = None
 
     if result['ingredients']:
-      list_ing_lines   = paprika_markdownish(result['ingredients'],result['photos_dict_new'])
+      list_ing_lines   = paprika_markdownish(result['ingredients'],result['photos_dict'])
       list_ing_lines   = re.sub('\\\\x{0D}','\n',list_ing_lines)
       list_ing_lines   = re.sub('\n\n','\n',list_ing_lines)
       list_ing_lines   = make_list(list_ing_lines)
@@ -461,7 +461,7 @@ for result in results:
       rnutrition = None
 
     if result['notes']:
-      result['notes'] = paprika_markdownish(result['notes'],result['photos_dict_new'])
+      result['notes'] = paprika_markdownish(result['notes'],result['photos_dict'])
       rnotes = mdit.render(result['notes'])
     else:
       rnotes = None
@@ -504,6 +504,7 @@ for result in results:
         result["source_url"] = None 
 
     # Clean out a bit of stuff
+    result.pop('photos_dict_new')
     result.pop('photos_filenames')
     result.pop('photos_filenames_new')
     result.pop('photos_names')
