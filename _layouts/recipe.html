@@ -140,6 +140,7 @@ Hacky, but it works.
   </div><!-- #photo-sidebar -->
 </div><!-- #row-two -->
 
+
 {% comment %}
 We don't need this do we? 
 I have it here and in the Python script.
@@ -157,6 +158,81 @@ I have it here and in the Python script.
   {% endif %}
 {% endif %}
 {% endcomment %}
+
+
+{% if jekyll.environment == 'development' %}
+  <hr>
+  <div class="row dev-only" id="row-three">
+
+    <div class="medium-4 columns" id="stuff">
+      {% if page.categories %}
+      <div class="dev-cats">
+        <h4>Categories</h4>
+        <ul>
+          {% for cat in page.categories %}
+            <li>{{ cat }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      {% if page.mine %}
+      <div class="dev-mine">
+        This is <strong>my recipe</strong>.
+      </div>
+      {% endif %}
+      {% if page.type %}
+      <div class="dev-type">
+        This recipe is <strong>{{ page.type }}</strong>.
+      </div>
+      {% endif %}
+      {% if page.rating %}
+      <h4>Rating</h4>
+      <div class="dev-rating">
+        {% for num in (1..page.rating) %}★ {% endfor %} <em>({{ page.rating }})</em>
+      </div>
+      {% endif %}
+    </div>
+
+    <div class="medium-8 columns" id="photo-strip">
+      <!--p><strong>{{photo_hero_is}}</strong> (<em>{{ photo_hero }})</em> is the Hero Photo</p-->
+      {% if page.photos_dict %}
+      <div class="dev-photos">
+        {% for phot in page.photos_dict %}
+          {% assign phot_name = phot[0] %}
+          {% assign phot_filename = phot[1] %}
+          {% if phot.filename != photo_hero %}
+            <figure>
+              <a
+                href="/images/recipes/{{ phot_filename }}" 
+                title="{{ phot_name }} : {{ phot_filename }}">
+                  <img
+                    src="/images/recipes/{{ phot_filename }}"
+                    alt="{{ phot_name }} : {{ phot_filename }}" />
+              </a>
+              <figcaption><strong>{{ phot_name }}</strong><br>{{ phot_filename }}</figcaption>
+            </figure>
+          {% endif %}
+        {% endfor %}
+      {% else %}
+        {% if page.photo and page.photo != photo_hero %}
+          <figure>
+            <a
+              href="/images/recipes/{{page.photo}}" 
+              title="recipe photo from source">
+                <img
+                  src="/images/recipes/{{page.photo}}"
+                  alt="recipe photo from source" />
+              </a>
+          </figure>
+        {% else %}
+          <!-- No photos -->
+        {% endif %}
+      {% endif %}
+      </div>
+      &nbsp;
+    </div>
+  </div>
+{% endif %}
 
 
 

@@ -575,3 +575,25 @@ body.note .content h2,
 body.note .content h3 {
   font-size: 2rem;
 }
+
+.dev-only {
+  color: #900;
+  background: #F6E8E8;
+}
+.dev-only #photo-strip .dev-photos {
+  overflow: auto;
+  width: 100%
+}
+.dev-only #photo-strip figure {
+  display: block;
+  float:left;
+  margin: 10px 10px 0 0;
+  width: 200px;
+}
+.dev-only #photo-strip figure figcaption {
+  margin: 0;
+  font-size: 8pt;
+}
+.dev-only #stuff div {
+  margin-bottom: 1em;
+}
