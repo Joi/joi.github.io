@@ -77,7 +77,7 @@ layout: default
 		<div class="recipes-list">
 			{% for recipe in site.recipes %}
 
-				{% if recipe.type == "_mine" %}
+				{% if recipe.mine %}
 				<div class="recipe-item-box">
 				<a class="recipe-item" href="{{ recipe.url }}">
 					{% if recipe.photo_thumb %}

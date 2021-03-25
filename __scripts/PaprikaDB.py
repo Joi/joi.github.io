@@ -276,10 +276,11 @@ LEFT JOIN    ZRECIPECATEGORY AS C
 
 WHERE
   R.ZINTRASH IS 0
-  AND ( R.ZRATING = 5 OR C.ZNAME LIKE '%mine%')
+
 GROUP BY    R.Z_PK;
 """
     )
+#  AND ( R.ZRATING = 5 OR C.ZNAME LIKE '%mine%')
     
 # --------------------------------------------------------------------------------------
 # For the next bit with columns and results and dict and zip, see:
@@ -309,6 +310,7 @@ for result in results:
     result['photos_dict'] = {}
     result['html'] = {}
     result['type'] = None
+    result['mine'] = None
 
     # RECIPE_FILENAME : 
     # This is also our Key between the YAML in Markdown stubs and the JSON Data files
@@ -483,9 +485,11 @@ for result in results:
             result['categories'] = result['categories'].split('|')
             for cl in result['categories']:
               
-              # Using the categories as a toggle hack ("recipe by Joi or not")
+              # Using the categories as a toggle hack ("recipe by Joi or not", etc…)
               if cl == "_mine":
-                result['type'] = cl
+                result['mine'] = 1
+              if cl == "_stub":
+                result['type'] = 'stub'
 
               if cl not in cats.keys():
                 cats[cl] = {}
@@ -493,8 +497,12 @@ for result in results:
               if recipe_filename not in cats[cl].keys():
                 cats[cl][recipe_filename] = str(result['name'])
 
-        except:
-            pass
+        except Exception as e:
+          print( "🛑 Something fubar in categories for " + recipe_filename + "\n")
+          print(e)
+          print("-------\n")
+        remove_cats_hacks = ['_mine','_stub']
+        result['categories'] = [i for i in result['categories'] if i not in remove_cats_hacks]
 
     # ---------------------------------------------------
     # Sources
@@ -530,7 +538,7 @@ for result in results:
 
     # We open Row One and include  _includes/backlinks.html in the _layouts/recipe.html tempplate.
     output2 += '<div class="large-8 medium-7 columns" id="writeup">'
-    if result2['type'] == "_mine":
+    if result2['mine']:
       if content['html']['description']:
         output2 += '\t\t<div id="description"><h4>Description</h4>\n<div class="box box-description content">'+ content['html']['description'] + '</div></div>'
       if content['html']['notes']:
@@ -544,7 +552,7 @@ for result in results:
         output2 += '<h4>Ingredients</h4><div class="box box-ingredients content">' + content['html']['ingredients'] + '</div>'
     output2 += '\t</div>'
     output2 += '\t<div class="medium-6 small-7 columns" id="directions">'
-    if result2['type'] == "_mine":
+    if result2['mine']:
       if content['html']['directions']:
         output2 += '<h4>Directions</h4><div class="box box-directions content">' + content['html']['directions'] + '</div>'
     output2 += '\t</div>'

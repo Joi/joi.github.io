@@ -3,27 +3,30 @@ layout: default
 ---
 <!-- template: recipe.html -->
 
-{%- comment -%}
+{% comment %}
 ---- VARS ------------------------------------------------
-{%- endcomment -%}
+{% endcomment %}
 
-{%- if page.photo_large -%}
-  {%- assign photo_hero = page.photo_large -%}
-{%- elsif page.photos_dict_new[0].filename -%}
-  {%- assign photo_hero = page.photos_dict_new[0].filename -%}
-{%- else -%}
-  {%- assign photo_hero = nil -%}
-{%- endif -%}
-
-{% if page.type == "_mine" %}
-  {%- assign class_mine = "mine" -%}
+<p>{% if page.photo_large %}
+  {% assign photo_hero = page.photo_large %}
+  {% assign photo_hero_is = 'page.photo_large' %}
+{% elsif page.photos_dict[0].filename %}
+  {% assign photo_hero = page.photos_dict[0].filename %}
+  {% assign photo_hero_is = 'page.photos_dict[0]' %}
 {% else %}
-  {%- assign class_mine = "notmine" -%}
+  {% assign photo_hero = nil %}
+  {% assign photo_hero_is = 'nil' %}
+{% endif %}</p>
+
+{% if page.mine %}
+  {% assign class_mine = "mine" %}
+{% else %}
+  {% assign class_mine = "notmine" %}
 {% endif %}
 
-{%- comment -%}
+{% comment %}
 ---- END VARS ------------------------------------------------
-{%- endcomment -%}
+{% endcomment %}
 <!--pre>{{ page.created_ts }}</pre-->
 <div class="{{ class_mine }}" id="recipe">
 <div class="row" id="title">
@@ -33,7 +36,7 @@ layout: default
       <div class="sup-head">Recipe</div>
 
       {% assign recipe_prefix = "" %}
-      {% if page.type == "_mine" %}
+      {% if page.mine %}
         {% assign recipe_prefix = "Joi's " %}
       {% endif %}
 
@@ -52,7 +55,7 @@ layout: default
   </div>
 </div>
 
-{%- if photo_hero -%}
+{% if photo_hero %}
 <!-- Hero Banner Photo -->
 <div class="row" id="big-photo">
 	<div class="small-12 columns">
@@ -60,9 +63,9 @@ layout: default
 	</div>
 </div>
 <!-- End Hero Banner Photo -->
-{%- else -%}
-  {%- comment -%}<hr>{%- endcomment -%}
-{%- endif -%}
+{% else %}
+  {% comment %}<hr>{% endcomment %}
+{% endif %}
 
 {% comment %}
 Hack. 
@@ -75,11 +78,11 @@ Hacky, but it works.
 {% endcomment %}
 <div class="row" id="row-one">
   <div class="large-4 medium-5" id="backlinks">
-    <div class="bgc-lorange">{%- include backlinks.html -%}</div>
+    <div class="bgc-lorange">{% include backlinks.html %}</div>
     &nbsp;
   </div>
 
-  {%- include content.html -%}
+  {% include content.html %}
 
   <div class="medium-2 columns" id="photo-sidebar">
   
@@ -140,7 +143,7 @@ Hacky, but it works.
 {% comment %}
 We don't need this do we? 
 I have it here and in the Python script.
-{% if page.type == "_mine" %}
+{% if page.mine %}
   {% if page.html['nutrition'] != null %}
   <hr>
   <div class="row" id="row-three">
@@ -154,6 +157,8 @@ I have it here and in the Python script.
   {% endif %}
 {% endif %}
 {% endcomment %}
+
+
 
 <hr>
 <div class="row" id="row-four">
