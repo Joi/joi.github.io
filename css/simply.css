@@ -597,3 +597,6 @@ body.note .content h3 {
 .dev-only #stuff div {
   margin-bottom: 1em;
 }
+.dev-only .dev-cats ul li {
+  list-style-type: "— ";
+}

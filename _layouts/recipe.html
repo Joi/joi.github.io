@@ -165,6 +165,7 @@ I have it here and in the Python script.
   <div class="row dev-only" id="row-three">
 
     <div class="medium-4 columns" id="stuff">
+
       {% if page.categories %}
       <div class="dev-cats">
         <h4>Categories</h4>
@@ -175,22 +176,30 @@ I have it here and in the Python script.
         </ul>
       </div>
       {% endif %}
-      {% if page.mine %}
-      <div class="dev-mine">
-        This is <strong>my recipe</strong>.
-      </div>
-      {% endif %}
-      {% if page.type %}
-      <div class="dev-type">
-        This recipe is <strong>{{ page.type }}</strong>.
-      </div>
-      {% endif %}
+
       {% if page.rating %}
       <h4>Rating</h4>
       <div class="dev-rating">
         {% for num in (1..page.rating) %}★ {% endfor %} <em>({{ page.rating }})</em>
       </div>
       {% endif %}
+
+      <h4>Meta</h4>
+      <div class="dev-mine">
+      {% if page.mine %}
+        This is <strong>my recipe</strong>.
+      {% else %}
+        This is <strong>not</strong> my recipe.
+      {% endif %}
+      </div>
+      <div class="dev-type">
+      {% if page.type %}
+        This recipe is <strong>{{ page.type }}</strong>.
+      {% else %}
+        This recipe has <strong>no special</strong> type.
+      {% endif %}
+      </div>
+
     </div>
 
     <div class="medium-8 columns" id="photo-strip">
