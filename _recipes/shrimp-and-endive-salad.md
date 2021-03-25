@@ -2,6 +2,8 @@
 title: "Shrimp and Endive Salad"
 filename: "shrimp-and-endive-salad"
 categories:
+- Salad
+- Shrimp
 - _mine
 cook_time: ''
 created: '2021-03-22 15:49:08'
@@ -39,7 +41,7 @@ photos_dict:
 photos_dict_new:
   '1': shrimp-and-endive-salad-1.jpg
 prep_time: ''
-rating: 0
+rating: 5
 servings: ''
 slug: shrimp-and-endive-salad
 source: null

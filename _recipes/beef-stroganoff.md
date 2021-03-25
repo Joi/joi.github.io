@@ -27,9 +27,13 @@ photo_thumb: beef-stroganoff-thumb.jpg
 photos_dict:
   '1': 300A3E2E-5607-47F6-8ECD-13F8658B640E-641-00004F008E58A241.jpg
   '2': 0A079714-B8B0-435A-8B1F-FB1967FD6B62-641-00004FED3FE04E00.jpg
+  '3': 9CD08FB3-D1D6-47E7-9167-59203155DB1C-651-00002560C41E137F.jpg
+  '4': C7F6A824-9FEB-4801-893F-61DFAFB4138E-651-0000256188672C66.jpg
 photos_dict_new:
   '1': beef-stroganoff-1.jpg
   '2': beef-stroganoff-2.jpg
+  '3': beef-stroganoff-3.jpg
+  '4': beef-stroganoff-4.jpg
 prep_time: 15 min
 rating: 0
 servings: ''

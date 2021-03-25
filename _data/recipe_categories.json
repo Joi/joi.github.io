@@ -135,7 +135,8 @@
   "braised-lamb-shanks": "Braised Lamb Shanks",
   "braised-lamb-with-red-wine-and-prunes": "Braised Lamb with Red Wine and Prunes",
   "crown-roast-of-lamb": "Crown Roast of Lamb",
-  "pan-fried-lamb-chops-with-rosemary-and-garlic": "Pan-Fried Lamb Chops with Rosemary and Garlic"
+  "pan-fried-lamb-chops-with-rosemary-and-garlic": "Pan-Fried Lamb Chops with Rosemary and Garlic",
+  "spring-lamb-chops-on-oyster-mushrooms": "Spring Lamb Chops on Oyster Mushrooms"
  },
  "Lobster": {
   "cantonese-style-lobster-with-ginger-and-scallions": "Cantonese-Style Lobster with Ginger and Scallions",
@@ -155,7 +156,9 @@
   "monkfish-braised-with-white-beans-fennel-tomato": "Monkfish Braised with White Beans, Fennel, & Tomato"
  },
  "Mushroom": {
-  "king-oyster-mushroom-with-garlic-sauce": "King Oyster Mushroom with Garlic Sauce"
+  "king-oyster-mushroom-with-garlic-sauce": "King Oyster Mushroom with Garlic Sauce",
+  "mushroom-sauce-for-steak": "Mushroom Sauce for Steak",
+  "spring-lamb-chops-on-oyster-mushrooms": "Spring Lamb Chops on Oyster Mushrooms"
  },
  "Mussels": {
   "steamed-mussels-with-garlic-and-parsley": "Steamed Mussels with Garlic and Parsley"
@@ -190,7 +193,8 @@
  "Salad": {
   "classic-caesar-salad": "Classic Caesar Salad",
   "fattoush-salad": "Fattoush Salad",
-  "mexican-coleslaw-with-cilantro-lime-dressing": "Mexican Coleslaw with Cilantro Lime Dressing"
+  "mexican-coleslaw-with-cilantro-lime-dressing": "Mexican Coleslaw with Cilantro Lime Dressing",
+  "shrimp-and-endive-salad": "Shrimp and Endive Salad"
  },
  "Salmon": {
   "crispy-scallion-ginger-salmon": "Crispy Scallion Ginger Salmon",
@@ -214,6 +218,7 @@
   "horseradish-sauce": "Horseradish Sauce",
   "lemon-butter-sauce": "Lemon Butter Sauce",
   "marie-rose-sauce": "Marie Rose Sauce",
+  "mushroom-sauce-for-steak": "Mushroom Sauce for Steak",
   "oxtail-au-jus": "Oxtail Au Jus",
   "oxtail-jus": "Oxtail Jus",
   "rouille": "Rouille"
@@ -247,6 +252,7 @@
   "garlic-butter-shrimp-with-cilantro-and-lime": "Garlic Butter Shrimp with Cilantro and Lime",
   "ginisang-pechay-with-ground-pork-and-shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
   "marie-rose-sauce": "Marie Rose Sauce",
+  "shrimp-and-endive-salad": "Shrimp and Endive Salad",
   "shrimp-bisque": "Shrimp Bisque",
   "shrimp-with-lobster-sauce": "Shrimp with Lobster Sauce",
   "sous-vide-shrimp": "Sous Vide Shrimp",
@@ -278,6 +284,7 @@
  "Steaks": {
   "delmonico-steaks-with-balsamic-onions-and-sauce": "Delmonico Steaks with Balsamic Onions and Sauce",
   "hanger-steak-with-olive-oil-and-herbs": "Hanger Steak with Olive Oil and Herbs",
+  "mushroom-sauce-for-steak": "Mushroom Sauce for Steak",
   "pan-seared-garlic-butter-steak-mushroom-cream-sauce": "Pan Seared Garlic Butter Steak & Mushroom Cream Sauce"
  },
  "Sweet Potato": {
