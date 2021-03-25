@@ -9,7 +9,25 @@ created_ts: 1612454456
 description: In progress
 difficulty: ''
 image_url: null
-ingredients: null
+ingredients: 'Flour
+
+  Salt
+
+  Yeast
+
+  Water
+
+  Canned whole tomatoes
+
+  Basil
+
+  Oregano
+
+  Olive oil
+
+  Parmesan cheese
+
+  Mozzarella cheese'
 intrash: 0
 meal_dates: null
 meal_types: null
@@ -52,9 +70,23 @@ uid: A1E99D4A-2290-4DB8-A6FE-7D304CBE7E39-1700-00007F835E4D8814
 <div class="box box-description content"><p>In progress</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients">	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Make dough
-Rise dough
-Flatten dough ball
-Add sauce
-Bake until done</p>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>Flour</li>
+<li>Salt</li>
+<li>Yeast</li>
+<li>Water</li>
+<li>Canned whole tomatoes</li>
+<li>Basil</li>
+<li>Oregano</li>
+<li>Olive oil</li>
+<li>Parmesan cheese</li>
+<li>Mozzarella cheese</li>
+</ul>
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><ol>
+<li>Make dough</li>
+<li>Rise dough</li>
+<li>Flatten dough ball</li>
+<li>Add sauce</li>
+<li>Bake until done</li>
+</ol>
 </div>	</div>
