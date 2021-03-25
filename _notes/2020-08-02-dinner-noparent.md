@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Reverse Sear
 tags:
 - Reverse Sear
