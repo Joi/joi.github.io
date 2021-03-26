@@ -422,15 +422,17 @@ for result in results:
     # ---------------------------------------------------
     # Meal Dates
     # Split concatened mealdates into a list
+    rmeal_dates = ""
     if result['meal_dates']:
-        try:
-            result['meal_dates'] = result['meal_dates'].split('|')
-            rmeal_dates = ""
-            for meal_date in result['meal_dates']:
-              rmeal_dates += "- [[" + meal_date + "|recipenote]]\n"
-            rmeal_dates  = mdit.render(rmeal_dates)
-        except:
-            pass
+      try:
+        result['meal_dates'] = result['meal_dates'].split('|')
+        for meal_date in result['meal_dates']:
+          rmeal_dates += "- [[" + meal_date + "|recipenote]]\n"
+        rmeal_dates  = mdit.render(rmeal_dates)
+      except Exception as e:
+          print( "🛑 Something fubar in rmeal_dates: " + rmeal_dates + "\n")
+          print(e)
+          print("-------\n")
 
 
 
