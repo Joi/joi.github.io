@@ -18,13 +18,13 @@ meal_dates:
 - '2020-09-28'
 - '2021-01-18'
 meal_types: 3|2
+mine: null
 name: Chicken Livers and Onions, Venetian Style
 p_recipe_id: 373
 permalink: /recipes/chicken-livers-and-onions-venetian-style
 photo_large: null
 photo_thumb: chicken-livers-and-onions-venetian-style-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings

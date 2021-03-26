@@ -56,19 +56,13 @@ meal_dates:
 - '2020-09-19'
 - '2020-10-13'
 meal_types: 3|3|3|3
+mine: null
 name: Monkfish Braised with White Beans, Fennel, & Tomato
 p_recipe_id: 328
 permalink: /recipes/monkfish-braised-with-white-beans-fennel-tomato
 photo_large: monkfish-braised-with-white-beans-fennel-tomato-large.jpg
 photo_thumb: monkfish-braised-with-white-beans-fennel-tomato-thumb.jpg
 photos_dict:
-  '1': C9F676C9-3E3E-4ECB-8379-6B02FAAA2ED0-13002-000592A0B76502DE.jpg
-  '2': 06A8D5C0-7623-4FFA-BCD6-0C8D0737FC4B-13002-000592A19CE34292.jpg
-  '3': 0C9CBA38-7CE8-4E93-8B16-F2A60DE4A58C-13002-000592A24F475B1E.jpg
-  '4': 81F5D143-C0D7-47B8-A6CE-B1DAA6998250-13002-000592A28BE385D0.jpg
-  '5': 2BCB00E7-B86A-46AF-884A-87E2A8E0F164-13002-000592A33C4CCE22.jpg
-  '6': F516D6E6-5BA1-49B4-979F-BF841212F35F-13002-000592A408FECC0A.jpg
-photos_dict_new:
   '1': monkfish-braised-with-white-beans-fennel-tomato-1.jpg
   '2': monkfish-braised-with-white-beans-fennel-tomato-2.jpg
   '3': monkfish-braised-with-white-beans-fennel-tomato-3.jpg

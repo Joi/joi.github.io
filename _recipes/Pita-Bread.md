@@ -16,13 +16,13 @@ meal_dates:
 - '2020-05-09'
 - '2020-05-30'
 meal_types: 2|4
+mine: null
 name: Pita Bread
 p_recipe_id: 103
 permalink: /recipes/pita-bread
 photo_large: null
 photo_thumb: pita-bread-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 20min
 rating: 5
 servings: 8 pieces

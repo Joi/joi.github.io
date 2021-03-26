@@ -49,17 +49,13 @@ meal_dates:
 - '2020-06-11'
 - '2020-06-24'
 meal_types: 2|4
+mine: null
 name: Harry's Bar Chicken Stock
 p_recipe_id: 13
 permalink: /recipes/harrys-bar-chicken-stock
 photo_large: harrys-bar-chicken-stock-large.jpg
 photo_thumb: harrys-bar-chicken-stock-thumb.jpg
 photos_dict:
-  '1': 1AF8CBEB-3510-4F03-BAEB-EF7972972C19-39996-00002050B4C07631.jpg
-  '2': 50FA4372-A055-4FAD-804B-60C4E3ED0CDC-39996-00002071916B20DB.jpg
-  '3': E7F89F69-A319-4645-8E26-34EB1A4C4872-39996-0000207437BB4C4C.jpg
-  '4': EF674E95-FBEB-40C7-83CC-B902DCA9B59C-39996-000020859FC48E6A.jpg
-photos_dict_new:
   '1': harrys-bar-chicken-stock-1.jpg
   '2': harrys-bar-chicken-stock-2.jpg
   '3': harrys-bar-chicken-stock-3.jpg

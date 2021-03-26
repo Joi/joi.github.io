@@ -25,13 +25,13 @@ intrash: 0
 meal_dates:
 - '2020-10-09'
 meal_types: '3'
+mine: null
 name: "Mark Bittman\u2019s Bouillabaisse"
 p_recipe_id: 377
 permalink: /recipes/mark-bittmans-bouillabaisse
 photo_large: null
 photo_thumb: mark-bittmans-bouillabaisse-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings

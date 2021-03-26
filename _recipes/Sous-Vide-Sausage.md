@@ -22,13 +22,13 @@ intrash: 0
 meal_dates:
 - '2020-07-04'
 meal_types: '3'
+mine: null
 name: Sous Vide Sausage
 p_recipe_id: 229
 permalink: /recipes/sous-vide-sausage
 photo_large: null
 photo_thumb: sous-vide-sausage-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 45 min
 rating: 5
 servings: Ingredients for 2

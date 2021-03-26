@@ -27,13 +27,13 @@ meal_dates:
 - '2020-07-27'
 - '2020-12-27'
 meal_types: 3|3
+mine: null
 name: Chicken Hearts
 p_recipe_id: 277
 permalink: /recipes/chicken-hearts
 photo_large: null
 photo_thumb: chicken-hearts-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 10 mins
 rating: 5
 servings: ''

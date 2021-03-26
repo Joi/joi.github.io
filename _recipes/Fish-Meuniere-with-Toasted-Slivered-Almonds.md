@@ -22,13 +22,13 @@ intrash: 0
 meal_dates:
 - '2021-01-15'
 meal_types: '3'
+mine: null
 name: Fish Meuniere with Toasted Slivered Almonds
 p_recipe_id: 47
 permalink: /recipes/fish-meuniere-with-toasted-slivered-almonds
 photo_large: null
 photo_thumb: fish-meuniere-with-toasted-slivered-almonds-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Serves 4

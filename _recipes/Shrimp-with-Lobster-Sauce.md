@@ -40,14 +40,13 @@ intrash: 0
 meal_dates:
 - '2020-08-29'
 meal_types: '3'
+mine: null
 name: Shrimp with Lobster Sauce
 p_recipe_id: 320
 permalink: /recipes/shrimp-with-lobster-sauce
 photo_large: shrimp-with-lobster-sauce-large.jpg
 photo_thumb: shrimp-with-lobster-sauce-thumb.jpg
 photos_dict:
-  '1': D930BA34-6DA1-419F-9535-6D44EE6D3B74-13002-0005935F06F8FE7F.jpg
-photos_dict_new:
   '1': shrimp-with-lobster-sauce-1.jpg
 prep_time: 10 mins
 rating: 5

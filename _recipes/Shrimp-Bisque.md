@@ -41,14 +41,13 @@ intrash: 0
 meal_dates:
 - '2020-07-28'
 meal_types: '3'
+mine: null
 name: Shrimp Bisque
 p_recipe_id: 279
 permalink: /recipes/shrimp-bisque
 photo_large: shrimp-bisque-large.jpg
 photo_thumb: shrimp-bisque-thumb.jpg
 photos_dict:
-  '1': 8522B969-B1FD-4273-ABC0-6B9F3229A010-2209-000245943EAD84C6.jpg
-photos_dict_new:
   '1': shrimp-bisque-1.jpg
 prep_time: ''
 rating: 5

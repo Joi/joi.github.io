@@ -4,7 +4,6 @@ filename: "shrimp-and-endive-salad"
 categories:
 - Salad
 - Shrimp
-- _mine
 cook_time: ''
 created: '2021-03-22 15:49:08'
 created_ts: 1616428148
@@ -31,14 +30,13 @@ intrash: 0
 meal_dates:
 - '2020-07-05'
 meal_types: '3'
+mine: 1
 name: Shrimp and Endive Salad
 p_recipe_id: 490
 permalink: /recipes/shrimp-and-endive-salad
 photo_large: shrimp-and-endive-salad-large.jpg
 photo_thumb: shrimp-and-endive-salad-thumb.jpg
 photos_dict:
-  '1': BB82C70D-27E3-4914-BB9B-0A6F52F2A83C-641-0001409122080EA9.jpg
-photos_dict_new:
   '1': shrimp-and-endive-salad-1.jpg
 prep_time: ''
 rating: 5
@@ -47,7 +45,7 @@ slug: shrimp-and-endive-salad
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: 2E32CCAE-E32E-464E-8933-8BD80801B7C1-641-0001405C698FD612
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>

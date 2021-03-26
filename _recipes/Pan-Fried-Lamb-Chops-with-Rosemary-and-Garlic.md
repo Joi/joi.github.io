@@ -26,13 +26,13 @@ meal_dates:
 - '2020-05-11'
 - '2020-05-28'
 meal_types: 3|3|3
+mine: null
 name: Pan-Fried Lamb Chops with Rosemary and Garlic
 p_recipe_id: 106
 permalink: /recipes/pan-fried-lamb-chops-with-rosemary-and-garlic
 photo_large: null
 photo_thumb: pan-fried-lamb-chops-with-rosemary-and-garlic-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Serves 6

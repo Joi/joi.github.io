@@ -3,7 +3,6 @@ title: "Oven Roasted Spatchcocked Chicken"
 filename: "oven-roasted-spatchcocked-chicken"
 categories:
 - Chicken
-- _mine
 cook_time: ''
 created: '2020-07-09 14:31:38'
 created_ts: 1594305098
@@ -27,17 +26,13 @@ meal_dates:
 - '2021-03-19'
 - '2020-07-09'
 meal_types: 3|3|3|3|3|3|3
+mine: 1
 name: Oven Roasted Spatchcocked Chicken
 p_recipe_id: 240
 permalink: /recipes/oven-roasted-spatchcocked-chicken
 photo_large: oven-roasted-spatchcocked-chicken-large.jpg
 photo_thumb: oven-roasted-spatchcocked-chicken-thumb.jpg
 photos_dict:
-  '1': A8BB5F09-FA69-4F87-BBE8-283A6B66D8BD-20478-00000A13DC2E7FA9.jpg
-  '2': 2845A2D7-CEB7-4706-BAC0-ADB03E0BC31F-22008-00000A5E4C707093.jpg
-  '3': 6BD1D298-DC7D-4997-85F3-02D7ACE46CBF-22008-00000A5E54E2C460.jpg
-  '4': C705FB1F-4526-4177-B221-A8F48F79BABF-22008-00000A5E5FB61826.jpg
-photos_dict_new:
   '1': oven-roasted-spatchcocked-chicken-1.jpg
   '2': oven-roasted-spatchcocked-chicken-2.jpg
   '3': oven-roasted-spatchcocked-chicken-3.jpg
@@ -49,7 +44,7 @@ slug: oven-roasted-spatchcocked-chicken
 source: Joi
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: 36A76453-1BC6-44FF-A21C-1BC30580CED0-631-0002C95B214A28BC
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>

@@ -23,19 +23,13 @@ meal_dates:
 - '2020-05-01'
 - '2020-05-31'
 meal_types: 3|3
+mine: null
 name: Pot Roast
 p_recipe_id: 77
 permalink: /recipes/pot-roast
 photo_large: pot-roast-large.jpg
 photo_thumb: pot-roast-thumb.jpg
 photos_dict:
-  '1': 5474C822-5EE3-44D6-9B21-024F25E3C015-15303-000005874256DC57.jpg
-  '3': FB0DA254-0D33-4569-B914-47B8F9683611-15303-0000058756BBFB5C.jpg
-  '4': 58EAD647-51EF-4595-A0B7-EAF41807AA7A-15303-000005876C5A07F8.jpg
-  '5': 6E93139B-043F-4483-9422-2AFA3D0D80A4-15303-00000587973A9C8E.jpg
-  '6': 3A79BB51-26CD-4D73-A0AF-B34912CBEEEC-15303-00000587F65DAF55.jpg
-  '7': 2D40670C-A559-41B4-9712-32CA3FACA82C-7583-00000435D43CC350.jpg
-photos_dict_new:
   '1': pot-roast-1.jpg
   '3': pot-roast-3.jpg
   '4': pot-roast-4.jpg

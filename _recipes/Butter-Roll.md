@@ -16,14 +16,13 @@ intrash: 0
 meal_dates:
 - '2020-05-16'
 meal_types: '4'
+mine: null
 name: Butter Roll
 p_recipe_id: 164
 permalink: /recipes/butter-roll
 photo_large: butter-roll-large.jpg
 photo_thumb: butter-roll-thumb.jpg
 photos_dict:
-  '1': 9FFABAB3-E2FB-4006-8415-534BFECC1E42-29546-0000D704AED7E5DB.jpg
-photos_dict_new:
   '1': butter-roll-1.jpg
 prep_time: '1'
 rating: 5

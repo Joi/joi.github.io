@@ -23,13 +23,13 @@ meal_dates:
 - '2021-01-01'
 - '2021-03-04'
 meal_types: 3|3
+mine: null
 name: Roast Chicken 101
 p_recipe_id: 444
 permalink: /recipes/roast-chicken-101
 photo_large: null
 photo_thumb: roast-chicken-101-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: '24:10'
 rating: 5
 servings: '4'

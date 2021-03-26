@@ -29,14 +29,13 @@ intrash: 0
 meal_dates:
 - '2020-06-05'
 meal_types: '3'
+mine: null
 name: Baked Bluefish
 p_recipe_id: 180
 permalink: /recipes/baked-bluefish
 photo_large: baked-bluefish-large.jpg
 photo_thumb: baked-bluefish-thumb.jpg
 photos_dict:
-  '1': BEEE43D8-B04F-41B5-AA79-2A9D987CA240-22544-0003EEF32C138295.jpg
-photos_dict_new:
   '1': baked-bluefish-1.jpg
 prep_time: 10 minutes
 rating: 5

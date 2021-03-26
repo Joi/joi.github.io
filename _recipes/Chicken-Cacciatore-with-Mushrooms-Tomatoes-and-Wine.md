@@ -20,13 +20,13 @@ intrash: 0
 meal_dates:
 - '2020-04-10'
 meal_types: '3'
+mine: null
 name: Chicken Cacciatore with Mushrooms, Tomatoes and Wine
 p_recipe_id: 71
 permalink: /recipes/chicken-cacciatore-with-mushrooms-tomatoes-and-wine
 photo_large: null
 photo_thumb: chicken-cacciatore-with-mushrooms-tomatoes-and-wine-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: Yield 4 to 5 servings

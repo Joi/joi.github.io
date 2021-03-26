@@ -15,14 +15,13 @@ ingredients: "6  star anise pods\n1 \xBD teaspoons whole cloves (or 1 1/4 teaspo
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Chinese 5 Spices
 p_recipe_id: 450
 permalink: /recipes/chinese-5-spices
 photo_large: chinese-5-spices-large.jpg
 photo_thumb: chinese-5-spices-thumb.jpg
 photos_dict:
-  '1': 706A3B1C-E667-42CC-BD8C-2D6D61A697AC-4181-0001E289F8DE5CC0.jpg
-photos_dict_new:
   '1': chinese-5-spices-1.jpg
 prep_time: null
 rating: 5

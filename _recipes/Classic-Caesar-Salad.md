@@ -20,13 +20,13 @@ meal_dates:
 - '2020-08-11'
 - '2021-01-02'
 meal_types: 3|3
+mine: null
 name: Classic Caesar Salad
 p_recipe_id: 302
 permalink: /recipes/classic-caesar-salad
 photo_large: null
 photo_thumb: classic-caesar-salad-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: 6 servings

@@ -25,16 +25,13 @@ meal_dates:
 - '2020-07-14'
 - '2020-12-25'
 meal_types: 3|3
+mine: null
 name: Crown Roast of Lamb
 p_recipe_id: 253
 permalink: /recipes/crown-roast-of-lamb
 photo_large: crown-roast-of-lamb-large.jpg
 photo_thumb: crown-roast-of-lamb-thumb.jpg
 photos_dict:
-  '1': 9149D496-D42C-4579-B6F1-4122D12ABE97-29053-0004B135658F0C74.jpg
-  '2': 5F64C8B1-5096-452A-8FC0-804AB2F6F0A4-29053-0004B13581B3D731.jpg
-  '3': FBC05A1A-A277-4630-89D4-96A62ADCFE4C-29053-0004B135C57C90FA.jpg
-photos_dict_new:
   '1': crown-roast-of-lamb-1.jpg
   '2': crown-roast-of-lamb-2.jpg
   '3': crown-roast-of-lamb-3.jpg

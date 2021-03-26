@@ -16,14 +16,13 @@ intrash: 0
 meal_dates:
 - '2020-11-25'
 meal_types: '3'
+mine: null
 name: Pasta with White Truffles
 p_recipe_id: 418
 permalink: /recipes/pasta-with-white-truffles
 photo_large: pasta-with-white-truffles-large.jpg
 photo_thumb: pasta-with-white-truffles-thumb.jpg
 photos_dict:
-  '1': 81E46551-2430-40C3-B750-D0AAD801C145-11471-000009472E191D6A.jpg
-photos_dict_new:
   '1': pasta-with-white-truffles-1.jpg
 prep_time: null
 rating: 5

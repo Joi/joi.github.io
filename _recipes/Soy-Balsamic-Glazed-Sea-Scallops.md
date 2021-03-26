@@ -34,13 +34,13 @@ intrash: 0
 meal_dates:
 - '2020-07-18'
 meal_types: '2'
+mine: null
 name: Soy-Balsamic Glazed Sea Scallops
 p_recipe_id: 262
 permalink: /recipes/soy-balsamic-glazed-sea-scallops
 photo_large: null
 photo_thumb: soy-balsamic-glazed-sea-scallops-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 10 min
 rating: 5
 servings: Yields 2

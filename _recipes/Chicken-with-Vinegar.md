@@ -3,7 +3,6 @@ title: "Chicken with Vinegar"
 filename: "chicken-with-vinegar"
 categories:
 - Chicken
-- _mine
 cook_time: ''
 created: '2020-12-25 16:05:48'
 created_ts: 1608912348
@@ -37,15 +36,13 @@ meal_dates:
 - '2021-01-14'
 - '2021-02-24'
 meal_types: 3|3|3
+mine: 1
 name: Chicken with Vinegar
 p_recipe_id: 436
 permalink: /recipes/chicken-with-vinegar
 photo_large: chicken-with-vinegar-large.jpg
 photo_thumb: chicken-with-vinegar-thumb.jpg
 photos_dict:
-  '1': CDB31EC4-2AC2-4247-90A4-F6507BFE3870-51240-00014A097AB42350.jpg
-  '3': 730DDD40-D410-4B6E-950B-8FC20B2B49AF-51240-00014A0A6E950231.jpg
-photos_dict_new:
   '1': chicken-with-vinegar-1.jpg
   '3': chicken-with-vinegar-3.jpg
 prep_time: ''
@@ -55,7 +52,7 @@ slug: chicken-with-vinegar
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: AB5344FC-BAB3-4231-B60A-1D06DACA40E4-51240-0001496E91E6A8C5
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>

@@ -19,13 +19,13 @@ meal_dates:
 - '2020-08-17'
 - '2021-01-22'
 meal_types: 2|3|3
+mine: null
 name: Mayonnaise
 p_recipe_id: 39
 permalink: /recipes/mayonnaise
 photo_large: null
 photo_thumb: null
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: "MAKES 1 \xBD CUPS (375 ML)"

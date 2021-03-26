@@ -4,7 +4,6 @@ filename: "chicken-stock"
 categories:
 - Chicken
 - Soup
-- _mine
 cook_time: ''
 created: '2020-09-01 18:05:51'
 created_ts: 1598983551
@@ -43,17 +42,13 @@ meal_dates:
 - '2021-01-03'
 - '2021-01-31'
 meal_types: 3|4|4|4|4|4
+mine: 1
 name: Chicken Stock
 p_recipe_id: 330
 permalink: /recipes/chicken-stock
 photo_large: chicken-stock-large.jpg
 photo_thumb: chicken-stock-thumb.jpg
 photos_dict:
-  '1': B3B7824B-78CD-411B-AADB-7A5835C97518-20298-00001A8063212962.jpg
-  '2': C70F04E7-0D82-4BEF-AA63-6F06E4F934D1-20298-00001A8154FCC780.jpg
-  '3': EF81962C-E700-4E56-8C5A-D949986C95A2-20298-00001A83FA2B3020.jpg
-  '4': D3C4FD1B-2546-4520-8EF1-ED91F215B6E2-20298-00001A849225FBD8.jpg
-photos_dict_new:
   '1': chicken-stock-1.jpg
   '2': chicken-stock-2.jpg
   '3': chicken-stock-3.jpg
@@ -65,7 +60,7 @@ slug: chicken-stock
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>

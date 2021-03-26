@@ -18,13 +18,13 @@ intrash: 0
 meal_dates:
 - '2020-04-13'
 meal_types: '3'
+mine: null
 name: Crispy Coconut Shrimp
 p_recipe_id: 43
 permalink: /recipes/crispy-coconut-shrimp
 photo_large: null
 photo_thumb: crispy-coconut-shrimp-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 10min
 rating: 5
 servings: 4 portions

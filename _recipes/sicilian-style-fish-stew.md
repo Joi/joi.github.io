@@ -22,16 +22,13 @@ intrash: 0
 meal_dates:
 - '2021-03-14'
 meal_types: '3'
+mine: null
 name: Sicilian-Style Fish Stew
 p_recipe_id: 487
 permalink: /recipes/sicilian-style-fish-stew
 photo_large: sicilian-style-fish-stew-large.jpg
 photo_thumb: sicilian-style-fish-stew-thumb.jpg
 photos_dict:
-  '1': 86288D1D-EDE7-481D-9599-F72C5564FBFB-4038-00021F54B0543FED.jpg
-  '2': AFFE18A9-B99F-41B5-B5F7-6DEDECA86B03-4038-00021F5B77FE4FB4.jpg
-  '3': 19BF341A-B847-4C22-B6BC-995647F108D5-4038-00021F5C932DA058.jpg
-photos_dict_new:
   '1': sicilian-style-fish-stew-1.jpg
   '2': sicilian-style-fish-stew-2.jpg
   '3': sicilian-style-fish-stew-3.jpg

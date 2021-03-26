@@ -76,13 +76,13 @@ meal_dates:
 - '2020-06-19'
 - '2020-08-11'
 meal_types: 3|3
+mine: null
 name: Easy Grilled Salmon
 p_recipe_id: 194
 permalink: /recipes/easy-grilled-salmon
 photo_large: null
 photo_thumb: easy-grilled-salmon-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 15 minutes
 rating: 5
 servings: ''

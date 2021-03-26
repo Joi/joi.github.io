@@ -19,14 +19,13 @@ ingredients: 'Corn
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Boiled Corn
 p_recipe_id: 254
 permalink: /recipes/boiled-corn
 photo_large: boiled-corn-large.jpg
 photo_thumb: boiled-corn-thumb.jpg
 photos_dict:
-  '1': D688E9A8-92D0-474B-997F-39D46ACD72E7-29053-0004B19974BA446A.jpg
-photos_dict_new:
   '1': boiled-corn-1.jpg
 prep_time: ''
 rating: 5

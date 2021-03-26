@@ -28,16 +28,13 @@ meal_dates:
 - '2021-02-02'
 - '2021-03-21'
 meal_types: 3|3|3|3|3|3|3|3|3
+mine: null
 name: Oven-Steamed Fish with Scallions and Ginger
 p_recipe_id: 22
 permalink: /recipes/oven-steamed-fish-with-scallions-and-ginger
 photo_large: oven-steamed-fish-with-scallions-and-ginger-large.jpg
 photo_thumb: oven-steamed-fish-with-scallions-and-ginger-thumb.jpg
 photos_dict:
-  '1': 601ABC73-3E1A-4CFA-9AC4-580216E1FBD3-631-0001E571CAD8F15A.jpg
-  '2': CB76D542-DBBB-4A4A-B133-0055763D03F4-11906-00000E220A9FC0F0.jpg
-  '3': 23569CD4-BD0C-4DE8-9B31-397F4C56550B-11906-00000E22139D741F.jpg
-photos_dict_new:
   '1': oven-steamed-fish-with-scallions-and-ginger-1.jpg
   '2': oven-steamed-fish-with-scallions-and-ginger-2.jpg
   '3': oven-steamed-fish-with-scallions-and-ginger-3.jpg

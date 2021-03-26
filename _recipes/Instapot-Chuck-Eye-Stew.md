@@ -46,13 +46,13 @@ intrash: 0
 meal_dates:
 - '2020-04-26'
 meal_types: '3'
+mine: null
 name: Instapot Chuck Eye Stew
 p_recipe_id: 130
 permalink: /recipes/instapot-chuck-eye-stew
 photo_large: null
 photo_thumb: null
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: '2'

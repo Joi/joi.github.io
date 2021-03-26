@@ -33,13 +33,13 @@ intrash: 0
 meal_dates:
 - '2020-09-23'
 meal_types: '3'
+mine: null
 name: Cream of Leek and Fish Soup
 p_recipe_id: 368
 permalink: /recipes/cream-of-leek-and-fish-soup
 photo_large: null
 photo_thumb: cream-of-leek-and-fish-soup-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 35 min
 rating: 5
 servings: 4 serving(s)

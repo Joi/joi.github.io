@@ -29,13 +29,13 @@ ingredients: "1 \xBD pounds Pacific sole or flounder fillets\nSalt and freshly g
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Sorrel Sauce with Poached Fish
 p_recipe_id: 122
 permalink: /recipes/sorrel-sauce-with-poached-fish
 photo_large: null
 photo_thumb: null
 photos_dict: null
-photos_dict_new: {}
 prep_time: 20 min
 rating: 5
 servings: '4'

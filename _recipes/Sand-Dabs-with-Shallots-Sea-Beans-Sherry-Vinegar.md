@@ -46,18 +46,13 @@ ingredients: '8 small or 4 large pan-ready sand dabs, about 3 or 7 ounces, respe
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar
 p_recipe_id: 329
 permalink: /recipes/sand-dabs-with-shallots-sea-beans-sherry-vinegar
 photo_large: sand-dabs-with-shallots-sea-beans-sherry-vinegar-large.jpg
 photo_thumb: sand-dabs-with-shallots-sea-beans-sherry-vinegar-thumb.jpg
 photos_dict:
-  '1': 55A0B755-3EA3-4225-9085-985AC1335A03-13002-0005A1A84A7FBAE2.jpg
-  '2': CE8BED61-CA21-4944-BB6A-2AE6D3B7AF54-13002-0005A1A9FAAA153B.jpg
-  '3': 8138A686-B6C0-401B-BB21-B3B2F29B6464-13002-0005A1AA4D0BD303.jpg
-  '4': 815EB73A-986C-452E-B03B-F62BEA26ED7D-13002-0005A1AAAE815BC6.jpg
-  '5': DEA1348C-4F2A-43FB-BBDB-50A529510843-13002-0005A1AB038D26C8.jpg
-photos_dict_new:
   '1': sand-dabs-with-shallots-sea-beans-sherry-vinegar-1.jpg
   '2': sand-dabs-with-shallots-sea-beans-sherry-vinegar-2.jpg
   '3': sand-dabs-with-shallots-sea-beans-sherry-vinegar-3.jpg

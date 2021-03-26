@@ -5,7 +5,6 @@ categories:
 - Shrimp
 - Crab
 - Sauce
-- _mine
 cook_time: ''
 created: '2021-01-22 21:36:16'
 created_ts: 1611351376
@@ -18,13 +17,13 @@ intrash: 0
 meal_dates:
 - '2021-01-22'
 meal_types: '3'
+mine: 1
 name: Marie Rose Sauce
 p_recipe_id: 458
 permalink: /recipes/marie-rose-sauce
 photo_large: null
 photo_thumb: null
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: ''
@@ -32,7 +31,7 @@ slug: marie-rose-sauce
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: B6713303-47E6-4EC6-B28A-A94F33DE95C9-31488-00001728BCEAC9EC
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>

@@ -24,16 +24,13 @@ intrash: 0
 meal_dates:
 - '2020-08-19'
 meal_types: '3'
+mine: null
 name: Fajitas
 p_recipe_id: 314
 permalink: /recipes/fajitas
 photo_large: fajitas-large.jpg
 photo_thumb: fajitas-thumb.jpg
 photos_dict:
-  '1': 70DF875A-EC39-4702-AA1B-0DC8DAE4485F-1866-00001E7657DDEA0F.jpg
-  '2': AE7100D6-F6B3-4D64-93A9-56A6FE94DA0A-1866-00001E772E6D95CA.jpg
-  '3': E47E4846-ECA1-46B6-B7FB-3E4C39118FBE-1866-00001E795FA4C478.jpg
-photos_dict_new:
   '1': fajitas-1.jpg
   '2': fajitas-2.jpg
   '3': fajitas-3.jpg

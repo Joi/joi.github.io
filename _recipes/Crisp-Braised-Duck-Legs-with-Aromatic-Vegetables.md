@@ -24,13 +24,13 @@ intrash: 0
 meal_dates:
 - '2020-04-07'
 meal_types: '3'
+mine: null
 name: Crisp-Braised Duck Legs with Aromatic Vegetables
 p_recipe_id: 94
 permalink: /recipes/crisp-braised-duck-legs-with-aromatic-vegetables
 photo_large: null
 photo_thumb: null
 photos_dict: null
-photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: Yield 4 servings

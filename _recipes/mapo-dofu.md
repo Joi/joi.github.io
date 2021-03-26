@@ -2,7 +2,6 @@
 title: "Mapo Dofu"
 filename: "mapo-dofu"
 categories:
-- _mine
 - Chinese
 - Ground Pork
 - Tofu
@@ -23,16 +22,13 @@ meal_dates:
 - '2021-03-24'
 - '2021-03-03'
 meal_types: 3|3
+mine: 1
 name: Mapo Dofu
 p_recipe_id: 492
 permalink: /recipes/mapo-dofu
 photo_large: mapo-dofu-large.jpg
 photo_thumb: mapo-dofu-thumb.jpg
 photos_dict:
-  '1': 10212E14-2FCA-47D4-B6C3-77EC0F1A2911-651-00001EB1B3BE4710.jpg
-  '2': B948897C-0D7F-4535-95CE-01CF1A183BD0-651-00001EB2C1556398.jpg
-  '3': E899A604-56B9-4567-B4CA-E9A7226E7F4D-651-00001EE2D3B5BF3E.jpg
-photos_dict_new:
   '1': mapo-dofu-1.jpg
   '2': mapo-dofu-2.jpg
   '3': mapo-dofu-3.jpg
@@ -43,7 +39,7 @@ slug: mapo-dofu
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: F189F7A3-07AA-47B9-80AC-0E6B2879D4C5-651-00000524A207DA6A
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->

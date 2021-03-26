@@ -19,14 +19,13 @@ intrash: 0
 meal_dates:
 - '2020-06-26'
 meal_types: '3'
+mine: null
 name: Tuna Tataki Recipe
 p_recipe_id: 204
 permalink: /recipes/tuna-tataki-recipe
 photo_large: tuna-tataki-recipe-large.jpg
 photo_thumb: tuna-tataki-recipe-thumb.jpg
 photos_dict:
-  '1': E8C10918-81C2-40E5-991C-F456FDC3EF9A-87636-0001662DE2961F8E.jpg
-photos_dict_new:
   '1': tuna-tataki-recipe-1.jpg
 prep_time: 5 mins
 rating: 5

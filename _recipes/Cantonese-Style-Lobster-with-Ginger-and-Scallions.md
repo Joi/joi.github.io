@@ -37,16 +37,13 @@ intrash: 0
 meal_dates:
 - '2021-03-09'
 meal_types: '3'
+mine: null
 name: Cantonese-Style Lobster with Ginger and Scallions
 p_recipe_id: 486
 permalink: /recipes/cantonese-style-lobster-with-ginger-and-scallions
 photo_large: cantonese-style-lobster-with-ginger-and-scallions-large.jpg
 photo_thumb: cantonese-style-lobster-with-ginger-and-scallions-thumb.jpg
 photos_dict:
-  '1': 58A5EFE3-5CB6-4828-A5B9-F4CBF24A9720-4038-00021F62B9F20950.jpg
-  '2': 5D8E4714-9503-497B-B6F0-BC0263C13FB8-4038-00021F631ECEE4FB.jpg
-  '3': 5E288383-97D7-42CF-B76E-BDA08C8EA26A-4038-00021F63875A1629.jpg
-photos_dict_new:
   '1': cantonese-style-lobster-with-ginger-and-scallions-1.jpg
   '2': cantonese-style-lobster-with-ginger-and-scallions-2.jpg
   '3': cantonese-style-lobster-with-ginger-and-scallions-3.jpg

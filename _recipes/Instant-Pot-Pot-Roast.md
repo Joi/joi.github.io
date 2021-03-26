@@ -21,13 +21,13 @@ ingredients: "1 - 3 pounds (1176g) USDA choice grade chuck roast/Canada AAA grad
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Instant Pot Pot Roast
 p_recipe_id: 125
 permalink: /recipes/instant-pot-pot-roast
 photo_large: null
 photo_thumb: instant-pot-pot-roast-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: 'Servings: 4'

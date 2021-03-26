@@ -48,13 +48,13 @@ ingredients: 'Marinade
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Steak Kebabs
 p_recipe_id: 268
 permalink: /recipes/steak-kebabs
 photo_large: null
 photo_thumb: steak-kebabs-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 25 minutes
 rating: 5
 servings: 'Servings: 5'

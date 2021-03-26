@@ -26,23 +26,13 @@ intrash: 0
 meal_dates:
 - '2020-09-07'
 meal_types: '3'
+mine: null
 name: Braised Brisket with Onions
 p_recipe_id: 342
 permalink: /recipes/braised-brisket-with-onions
 photo_large: braised-brisket-with-onions-large.jpg
 photo_thumb: braised-brisket-with-onions-thumb.jpg
 photos_dict:
-  '01': 58DC568A-93ED-4451-8038-B1F5EDC206CD-50715-00076560D4C83250.jpg
-  '02': 32162939-170F-4108-9424-DD61D4D4E24D-50715-000765613985F72B.jpg
-  '03': F2AAB4FE-7F5B-4659-817F-3A9592945F0F-50715-00076561AE3CA524.jpg
-  '04': D8C6F2DC-BC4F-49ED-BCEF-DBD8E4215438-50715-00076562465ACD71.jpg
-  '05': F1628B4E-51CF-4E40-AC90-AEA7D354D656-50715-00076562A7353A27.jpg
-  '06': A5065799-9472-4178-B2F7-D6D076A18C45-50715-00077645F4E993B2.jpg
-  '07': 10C79E1A-E86C-4030-9986-17CD4EBBC68A-50715-00077646828C79F2.jpg
-  08: DB0AFAE4-08D8-4031-B54D-C39C747C5D1C-15281-00000A054D7B82FD.jpg
-  09: A29DA219-01F1-4AE7-89DB-D723D0EA2CD0-15281-00000A055536D9CA.jpg
-  '10': EF25BF66-00E3-4D6F-9643-0427856E7C86-15281-00000A055C03A13D.jpg
-photos_dict_new:
   '01': braised-brisket-with-onions-01.jpg
   '02': braised-brisket-with-onions-02.jpg
   '03': braised-brisket-with-onions-03.jpg

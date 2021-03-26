@@ -45,13 +45,13 @@ intrash: 0
 meal_dates:
 - '2020-12-03'
 meal_types: '3'
+mine: null
 name: Braised Lamb Shanks
 p_recipe_id: 423
 permalink: /recipes/braised-lamb-shanks
 photo_large: null
 photo_thumb: braised-lamb-shanks-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 20 mins
 rating: 5
 servings: ''

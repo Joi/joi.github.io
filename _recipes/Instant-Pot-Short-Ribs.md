@@ -31,13 +31,13 @@ meal_dates:
 - '2020-07-08'
 - '2020-08-26'
 meal_types: 3|3|3|3
+mine: null
 name: Instant Pot Short Ribs
 p_recipe_id: 90
 permalink: /recipes/instant-pot-short-ribs
 photo_large: null
 photo_thumb: instant-pot-short-ribs-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 10 minutes
 rating: 5
 servings: ''

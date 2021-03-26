@@ -23,14 +23,13 @@ meal_dates:
 - '2020-04-11'
 - '2020-06-25'
 meal_types: 3|3
+mine: null
 name: Italian-Style Fish Stew
 p_recipe_id: 100
 permalink: /recipes/italian-style-fish-stew
 photo_large: italian-style-fish-stew-large.jpg
 photo_thumb: italian-style-fish-stew-thumb.jpg
 photos_dict:
-  '1': 2047FA20-5989-41E8-AC84-D1E9791A3630-47978-0005C42391618497.jpg
-photos_dict_new:
   '1': italian-style-fish-stew-1.jpg
 prep_time: ''
 rating: 5

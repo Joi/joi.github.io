@@ -25,15 +25,13 @@ meal_dates:
 - '2020-06-16'
 - '2020-10-02'
 meal_types: 3|3|3|3
+mine: null
 name: Pan-Seared Hake and Asparagus with Aioli
 p_recipe_id: 131
 permalink: /recipes/pan-seared-hake-and-asparagus-with-aioli
 photo_large: pan-seared-hake-and-asparagus-with-aioli-large.jpg
 photo_thumb: pan-seared-hake-and-asparagus-with-aioli-thumb.jpg
 photos_dict:
-  '1': FD7FABCF-4368-4F3B-A5D4-A4CCB0F229F5-7488-0000033A67300EB9.jpg
-  '2': 467DF55A-6792-436B-B46B-006192D96A58-22544-0003EE8B33DBB75A.jpg
-photos_dict_new:
   '1': pan-seared-hake-and-asparagus-with-aioli-1.jpg
   '2': pan-seared-hake-and-asparagus-with-aioli-2.jpg
 prep_time: ''

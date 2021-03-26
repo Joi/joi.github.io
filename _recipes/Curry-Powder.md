@@ -16,14 +16,13 @@ ingredients: "1 tablespoon cardamom\n1 tablespoon ground coriander\n2 teaspoons 
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Curry Powder
 p_recipe_id: 449
 permalink: /recipes/curry-powder
 photo_large: curry-powder-large.jpg
 photo_thumb: curry-powder-thumb.jpg
 photos_dict:
-  '1': A11F7F03-B770-4019-9A26-AF1B2931D454-4181-0001E276D00B9041.jpg
-photos_dict_new:
   '1': curry-powder-1.jpg
 prep_time: null
 rating: 5

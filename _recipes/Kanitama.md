@@ -4,7 +4,6 @@ filename: "kanitama"
 categories:
 - Egg
 - Crab
-- _mine
 - Chinese
 cook_time: ''
 created: '2021-01-21 12:18:08'
@@ -26,18 +25,13 @@ meal_dates:
 - '2021-02-16'
 - '2021-03-16'
 meal_types: 3|3|3
+mine: 1
 name: Kanitama
 p_recipe_id: 454
 permalink: /recipes/kanitama
 photo_large: kanitama-large.jpg
 photo_thumb: kanitama-thumb.jpg
 photos_dict:
-  '1': A2A0EEBD-2C59-4FC8-8C87-A393A5880573-2310-0000D2D406094FF0.jpg
-  '2': 3D465544-2886-4812-BB47-FBDAD739552B-4038-00021F402AB823AF.jpg
-  '3': CCC6D45F-4138-4EE3-97C3-BAE4435205FA-4038-00021F40D345E959.jpg
-  '6': DF762FED-846A-40FB-86DE-4E64BF4ECF63-651-000023C524128826.jpg
-  '7': 836AEE51-A8CE-4868-B469-68E5181AA6B9-651-000023C59EC1DCEA.jpg
-photos_dict_new:
   '1': kanitama-1.jpg
   '2': kanitama-2.jpg
   '3': kanitama-3.jpg
@@ -50,7 +44,7 @@ slug: kanitama
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>

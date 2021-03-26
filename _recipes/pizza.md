@@ -2,7 +2,7 @@
 title: "Pizza"
 filename: "pizza"
 categories:
-- _mine
+- Italian
 cook_time: ''
 created: '2021-02-04 16:00:56'
 created_ts: 1612454456
@@ -31,25 +31,13 @@ ingredients: 'Flour
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: 1
 name: Pizza
 p_recipe_id: 469
 permalink: /recipes/pizza
 photo_large: pizza-large.jpg
 photo_thumb: pizza-thumb.jpg
 photos_dict:
-  '1': ABA40A1E-95BA-4C98-89F5-3E6EAF21EE23-1700-00007F9120C6D94D.jpg
-  '10': 15CAECBD-EB17-4332-A7C0-D8083C2D67C9-651-000026011647C2E5.jpg
-  '11': D00D9F5B-6924-4242-B335-D643994ABBBC-651-00002601CD5CF992.jpg
-  '12': 635F494B-58B5-4F90-8203-27A8A5ADBDB6-651-0000260283594557.jpg
-  '2': 83FB9195-DAB3-4AE9-8202-C4C74E2FEDD7-1700-00007F917EA78623.jpg
-  '3': E79EE993-9BC7-4A13-91C3-94548347324F-1700-00007F91E0C35257.jpg
-  '4': 88FE799D-9E6D-4A9D-B5BF-556F85A45797-1700-00007F92A29AF76D.jpg
-  '5': 0E23E333-B607-48AF-AB14-1C73CF9D35F3-1700-00007F938EF251DB.jpg
-  '6': 4BDC496B-D47A-4E9D-B589-22AA65E2FDEA-1700-00007F942636659B.jpg
-  '7': B67A5EF0-AEEB-4DC2-97C2-20C99684AFA1-1700-00007F94837F284A.jpg
-  '8': 909D9BEE-90D7-4435-839D-01237B6AF7BB-1700-00007F94ECA955AD.jpg
-  '9': 26D4AC3D-3C72-45BA-B919-E1F40816FDC3-1700-00007F9566D66372.jpg
-photos_dict_new:
   '1': pizza-1.jpg
   '10': pizza-10.jpg
   '11': pizza-11.jpg
@@ -69,7 +57,7 @@ slug: pizza
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: stub
 uid: A1E99D4A-2290-4DB8-A6FE-7D304CBE7E39-1700-00007F835E4D8814
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>

@@ -21,14 +21,13 @@ meal_dates:
 - '2020-07-16'
 - '2021-02-06'
 meal_types: 3|2
+mine: null
 name: Mexican Coleslaw with Cilantro Lime Dressing
 p_recipe_id: 258
 permalink: /recipes/mexican-coleslaw-with-cilantro-lime-dressing
 photo_large: mexican-coleslaw-with-cilantro-lime-dressing-large.jpg
 photo_thumb: mexican-coleslaw-with-cilantro-lime-dressing-thumb.jpg
 photos_dict:
-  '1': 1CFDEE44-B3C4-4A73-BE09-77B086338490-29053-000545233BF075E4.jpg
-photos_dict_new:
   '1': mexican-coleslaw-with-cilantro-lime-dressing-1.jpg
 prep_time: 10 mins
 rating: 5

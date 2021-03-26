@@ -48,14 +48,13 @@ intrash: 0
 meal_dates:
 - '2020-06-21'
 meal_types: '3'
+mine: null
 name: Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani
 p_recipe_id: 199
 permalink: /recipes/ossobuco-alla-cipriani-braised-veal-shanks-cipriani
 photo_large: ossobuco-alla-cipriani-braised-veal-shanks-cipriani-large.jpg
 photo_thumb: ossobuco-alla-cipriani-braised-veal-shanks-cipriani-thumb.jpg
 photos_dict:
-  '1': E9938ACB-4842-449A-A00C-D82EA76917B3-22544-0003EDEA20022C26.jpg
-photos_dict_new:
   '1': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-1.jpg
 prep_time: ''
 rating: 5

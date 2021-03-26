@@ -18,13 +18,13 @@ intrash: 0
 meal_dates:
 - '2020-06-25'
 meal_types: '4'
+mine: null
 name: Hummus (Ilan Hall)
 p_recipe_id: 4
 permalink: /recipes/hummus-ilan-hall
 photo_large: null
 photo_thumb: hummus-ilan-hall-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 10min
 rating: 5
 servings: 1 total recipe

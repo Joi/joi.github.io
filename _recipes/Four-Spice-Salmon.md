@@ -19,14 +19,13 @@ meal_dates:
 - '2020-05-26'
 - '2020-07-17'
 meal_types: 3|3
+mine: null
 name: Four-Spice Salmon
 p_recipe_id: 57
 permalink: /recipes/four-spice-salmon
 photo_large: four-spice-salmon-large.jpg
 photo_thumb: four-spice-salmon-thumb.jpg
 photos_dict:
-  '1': 4D14DE40-8AFD-47FF-8348-EC1688A6DC9C-29546-0003479E4ABED064.jpg
-photos_dict_new:
   '1': four-spice-salmon-1.jpg
 prep_time: ''
 rating: 5

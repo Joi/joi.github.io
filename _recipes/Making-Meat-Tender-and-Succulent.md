@@ -13,13 +13,13 @@ ingredients: null
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Making Meat Tender and Succulent
 p_recipe_id: 129
 permalink: /recipes/making-meat-tender-and-succulent
 photo_large: null
 photo_thumb: making-meat-tender-and-succulent-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: ''

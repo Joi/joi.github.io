@@ -40,14 +40,13 @@ intrash: 0
 meal_dates:
 - '2020-06-28'
 meal_types: '3'
+mine: null
 name: Hamburger Steak
 p_recipe_id: 207
 permalink: /recipes/hamburger-steak
 photo_large: hamburger-steak-large.jpg
 photo_thumb: hamburger-steak-thumb.jpg
 photos_dict:
-  '1': CC86E0C9-07E6-4CDE-BE93-1C071F05C359-47978-0005E2501AD4B281.jpg
-photos_dict_new:
   '1': hamburger-steak-1.jpg
 prep_time: 15 minutes
 rating: 5

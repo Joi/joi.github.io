@@ -3,7 +3,6 @@ title: "BBQ Chicken"
 filename: "bbq-chicken"
 categories:
 - Chicken
-- _mine
 cook_time: ''
 created: '2020-09-07 11:35:46'
 created_ts: 1599478546
@@ -26,15 +25,13 @@ intrash: 0
 meal_dates:
 - '2020-09-06'
 meal_types: '3'
+mine: 1
 name: BBQ Chicken
 p_recipe_id: 341
 permalink: /recipes/bbq-chicken
 photo_large: bbq-chicken-large.jpg
 photo_thumb: bbq-chicken-thumb.jpg
 photos_dict:
-  On the grill: F0996122-7C1C-42E7-95B6-D6056823E31A-13411-0000096209DEE383.jpg
-  Plated: 8CFA0C82-D0C4-4F26-ABBF-441CB2444555-13411-00000961FEA8CB38.jpg
-photos_dict_new:
   On the grill: bbq-chicken-on-the-grill.jpg
   Plated: bbq-chicken-plated.jpg
 prep_time: ''
@@ -44,7 +41,7 @@ slug: bbq-chicken
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: 0406E117-8344-4062-A62F-FBAC97655E1C-13411-00000961DB0A0BC1
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>

@@ -27,13 +27,13 @@ intrash: 0
 meal_dates:
 - '2020-07-25'
 meal_types: '3'
+mine: null
 name: The Food Lab - Spicy Thai-Style Flank Steak Salad
 p_recipe_id: 275
 permalink: /recipes/the-food-lab-spicy-thai-style-flank-steak-salad
 photo_large: null
 photo_thumb: null
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: '4'

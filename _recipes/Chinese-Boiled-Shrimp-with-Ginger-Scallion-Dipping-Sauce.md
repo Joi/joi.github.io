@@ -17,14 +17,13 @@ ingredients: "For the sauce:\n1 tablespoon ginger (minced)\n1 tablespoon scallio
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Chinese Boiled Shrimp with Ginger Scallion Dipping Sauce
 p_recipe_id: 399
 permalink: /recipes/chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce
 photo_large: chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce-large.jpg
 photo_thumb: chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce-thumb.jpg
 photos_dict:
-  '1': 2BC7F868-909A-4A88-8F55-A6423EE78520-10626-0000080B38B0065C.jpg
-photos_dict_new:
   '1': chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce-1.jpg
 prep_time: 15 mins
 rating: 5

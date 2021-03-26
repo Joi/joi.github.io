@@ -2,7 +2,7 @@
 title: "Beef Stroganoff"
 filename: "beef-stroganoff"
 categories:
-- _mine
+- Beef
 cook_time: 15 min
 created: '2020-10-29 12:01:08'
 created_ts: 1603972868
@@ -19,17 +19,13 @@ meal_dates:
 - '2021-03-18'
 - '2020-10-29'
 meal_types: 3|3
+mine: 1
 name: Beef Stroganoff
 p_recipe_id: 397
 permalink: /recipes/beef-stroganoff
 photo_large: beef-stroganoff-large.jpg
 photo_thumb: beef-stroganoff-thumb.jpg
 photos_dict:
-  '1': 300A3E2E-5607-47F6-8ECD-13F8658B640E-641-00004F008E58A241.jpg
-  '2': 0A079714-B8B0-435A-8B1F-FB1967FD6B62-641-00004FED3FE04E00.jpg
-  '3': 9CD08FB3-D1D6-47E7-9167-59203155DB1C-651-00002560C41E137F.jpg
-  '4': C7F6A824-9FEB-4801-893F-61DFAFB4138E-651-0000256188672C66.jpg
-photos_dict_new:
   '1': beef-stroganoff-1.jpg
   '2': beef-stroganoff-2.jpg
   '3': beef-stroganoff-3.jpg
@@ -41,7 +37,7 @@ slug: beef-stroganoff
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: 2BFBB0EB-1535-434A-99C6-682B1593F3D1-45654-0003D9CE6707F661
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>

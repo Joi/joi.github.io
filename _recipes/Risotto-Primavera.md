@@ -28,13 +28,13 @@ meal_dates:
 - '2020-08-31'
 - '2021-01-04'
 meal_types: 3|3
+mine: null
 name: Risotto Primavera
 p_recipe_id: 273
 permalink: /recipes/risotto-primavera
 photo_large: null
 photo_thumb: null
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: 4 people

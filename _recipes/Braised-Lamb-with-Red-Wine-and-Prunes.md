@@ -16,15 +16,13 @@ intrash: 0
 meal_dates:
 - '2020-05-16'
 meal_types: '3'
+mine: null
 name: Braised Lamb with Red Wine and Prunes
 p_recipe_id: 147
 permalink: /recipes/braised-lamb-with-red-wine-and-prunes
 photo_large: braised-lamb-with-red-wine-and-prunes-large.jpg
 photo_thumb: braised-lamb-with-red-wine-and-prunes-thumb.jpg
 photos_dict:
-  '1': 1F52A9C3-7EB1-4290-978D-52C636543B12-29546-0000D7106908C545.jpg
-  '2': 7C95DFE5-D646-43DD-A6F4-52F204AE7FC8-29546-0000D711639552FE.jpg
-photos_dict_new:
   '1': braised-lamb-with-red-wine-and-prunes-1.jpg
   '2': braised-lamb-with-red-wine-and-prunes-2.jpg
 prep_time: ''

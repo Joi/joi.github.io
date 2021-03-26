@@ -29,13 +29,13 @@ ingredients: 'Extra Virgin Olive Oil (I used Private Reserve Greek olive oil)
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Easy Calamari Recipe with Garlic-Lime Sauce
 p_recipe_id: 218
 permalink: /recipes/easy-calamari-recipe-with-garlic-lime-sauce
 photo_large: null
 photo_thumb: easy-calamari-recipe-with-garlic-lime-sauce-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 5 mins
 rating: 5
 servings: Serves 4

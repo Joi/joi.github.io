@@ -29,14 +29,13 @@ ingredients: 'YOU WILL NEED
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Garlic Butter Shrimp with Cilantro and Lime
 p_recipe_id: 321
 permalink: /recipes/garlic-butter-shrimp-with-cilantro-and-lime
 photo_large: garlic-butter-shrimp-with-cilantro-and-lime-large.jpg
 photo_thumb: garlic-butter-shrimp-with-cilantro-and-lime-thumb.jpg
 photos_dict:
-  '1': 97893798-FF99-4F95-B3D8-F704F8940C91-2241-00031561FD34E5F3.jpg
-photos_dict_new:
   '1': garlic-butter-shrimp-with-cilantro-and-lime-1.jpg
 prep_time: 15mins
 rating: 5

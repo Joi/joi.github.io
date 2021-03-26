@@ -19,14 +19,13 @@ meal_dates:
 - '2020-05-05'
 - '2020-09-26'
 meal_types: 3|3
+mine: null
 name: Hanger Steak with Olive Oil and Herbs
 p_recipe_id: 137
 permalink: /recipes/hanger-steak-with-olive-oil-and-herbs
 photo_large: hanger-steak-with-olive-oil-and-herbs-large.jpg
 photo_thumb: hanger-steak-with-olive-oil-and-herbs-thumb.jpg
 photos_dict:
-  '1': 6FFDBCB9-3F7E-4B26-ACDE-9F7EC12AE18D-14694-00005015BF597FBF.jpg
-photos_dict_new:
   '1': hanger-steak-with-olive-oil-and-herbs-1.jpg
 prep_time: ''
 rating: 5

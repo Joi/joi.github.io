@@ -37,13 +37,13 @@ ingredients: '1 tablespoon olive oil
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Tomato-Poached Halibut
 p_recipe_id: 297
 permalink: /recipes/tomato-poached-halibut
 photo_large: null
 photo_thumb: tomato-poached-halibut-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 15 min
 rating: 5
 servings: 4 servings

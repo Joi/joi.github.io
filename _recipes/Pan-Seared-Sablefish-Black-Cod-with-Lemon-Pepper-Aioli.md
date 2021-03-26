@@ -4,64 +4,63 @@ filename: "pan-seared-sablefish-black-cod-with-lemon-pepper-aioli"
 categories:
 - Black Cod
 cook_time: 10 min
-created: '2020-07-09 17:39:04'
-created_ts: 1594316344
+created: '2020-12-05 17:10:53'
+created_ts: 1607188253
 description: null
-difficulty: ''
-image_url: null
-ingredients: "For the Aioli:\n1 egg yolk\n2 Tbsp Dijon mustard (we love Edmond Fallot)\n\
-  2 Tbsp lemon juice\n\xBD tsp grated lemon zest\n1 large garlic clove, grated or\
-  \ finely minced\n\xBD tsp kosher salt\n\xBC tsp freshly cracked black pepper\n\xBC\
-  \ c canola oil\n\xBC c olive oil\nFor the Fish:\n4 (8 oz) pieces skin-on sablefish\
-  \ (black cod)\n1 Tbsp olive oil\nSalt and pepper, to taste\nFor the Greens:\n2 bunches\
-  \ of Swiss chard or any green vegetable, cut in 2-inch pieces\n3 Tbsp olive oil\n\
-  2 garlic cloves, minced\n\xBC tsp red pepper flakes\n2 Tbsp lemon juice\nSalt and\
-  \ pepper, to taste"
+difficulty: null
+image_url: https://cdn.shopify.com/s/files/1/0305/5921/articles/pan-seared-black-cod_1800x.jpg?v=1455225618
+ingredients: "For the Aioli:\n1 egg yolk\n2 tablespoons Dijon mustard (we love Edmond\
+  \ Fallot)\n2 tablespoons lemon juice\n\xBD teaspoon grated lemon zest\n1 large garlic\
+  \ clove, grated or finely minced\n\xBD teaspoon kosher salt\n\xBC teaspoon freshly\
+  \ cracked black pepper\n\xBC cup canola oil\n\xBC cup olive oil\nFor the Fish:\n\
+  4 (8 ounce) pieces skin-on sablefish (black cod)\n1 tablespoon olive oil\nSalt and\
+  \ pepper, to taste\nFor the Greens:\n2 bunches of Swiss chard or any green vegetable,\
+  \ cut in 2-inch pieces\n3 tablespoons olive oil\n2 garlic cloves, minced\n\xBC teaspoon\
+  \ red pepper flakes\n2 tablespoons lemon juice\nSalt and pepper, to taste"
 intrash: 0
-meal_dates: null
-meal_types: null
+meal_dates:
+- '2020-12-05'
+meal_types: '3'
+mine: null
 name: Pan-Seared Sablefish (Black Cod) with Lemon Pepper Aioli
-p_recipe_id: 241
+p_recipe_id: 425
 permalink: /recipes/pan-seared-sablefish-black-cod-with-lemon-pepper-aioli
-photo_large: pan-seared-sablefish-black-cod-with-lemon-pepper-aioli-large.jpg
+photo_large: null
 photo_thumb: pan-seared-sablefish-black-cod-with-lemon-pepper-aioli-thumb.jpg
-photos_dict:
-  '1': 9EFF478D-2306-475D-8542-618965EA6CF1-29053-0003665E467E9DF3.jpg
-photos_dict_new:
-  '1': pan-seared-sablefish-black-cod-with-lemon-pepper-aioli-1.jpg
+photos_dict: null
 prep_time: 10 min
-rating: 5
+rating: 0
 servings: 'Serves: 4'
 slug: pan-seared-sablefish-black-cod-with-lemon-pepper-aioli
 source: sitkasalmonshares.com
 source_url: https://sitkasalmonshares.com/blogs/recipes/pan-seared-sablefish-black-cod-with-lemon-pepper-aioli
-total_time: ''
+total_time: null
 type: null
-uid: 3A634181-C441-41C2-9CCC-EE5225583B19-5879-00015F2CD2FD1E0B
+uid: 717583BD-BDAB-495B-B7E0-35E49908A3DF-70156-0000F2CE1CE3A25E
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For the Aioli:</li>
 <li>1 egg yolk</li>
-<li>2 Tbsp Dijon mustard (we love Edmond Fallot)</li>
-<li>2 Tbsp lemon juice</li>
-<li>½ tsp grated lemon zest</li>
+<li>2 tablespoons Dijon mustard (we love Edmond Fallot)</li>
+<li>2 tablespoons lemon juice</li>
+<li>½ teaspoon grated lemon zest</li>
 <li>1 large garlic clove, grated or finely minced</li>
-<li>½ tsp kosher salt</li>
-<li>¼ tsp freshly cracked black pepper</li>
-<li>¼ c canola oil</li>
-<li>¼ c olive oil</li>
+<li>½ teaspoon kosher salt</li>
+<li>¼ teaspoon freshly cracked black pepper</li>
+<li>¼ cup canola oil</li>
+<li>¼ cup olive oil</li>
 <li>For the Fish:</li>
-<li>4 (8 oz) pieces skin-on sablefish (black cod)</li>
-<li>1 Tbsp olive oil</li>
+<li>4 (8 ounce) pieces skin-on sablefish (black cod)</li>
+<li>1 tablespoon olive oil</li>
 <li>Salt and pepper, to taste</li>
 <li>For the Greens:</li>
 <li>2 bunches of Swiss chard or any green vegetable, cut in 2-inch pieces</li>
-<li>3 Tbsp olive oil</li>
+<li>3 tablespoons olive oil</li>
 <li>2 garlic cloves, minced</li>
-<li>¼ tsp red pepper flakes</li>
-<li>2 Tbsp lemon juice</li>
+<li>¼ teaspoon red pepper flakes</li>
+<li>2 tablespoons lemon juice</li>
 <li>Salt and pepper, to taste</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

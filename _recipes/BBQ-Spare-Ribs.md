@@ -17,14 +17,13 @@ intrash: 0
 meal_dates:
 - '2021-01-17'
 meal_types: '3'
+mine: null
 name: BBQ Spare Ribs
 p_recipe_id: 349
 permalink: /recipes/bbq-spare-ribs
 photo_large: bbq-spare-ribs-large.jpg
 photo_thumb: bbq-spare-ribs-thumb.jpg
 photos_dict:
-  '1': E766C562-5EBC-4C39-A1B6-41EB6963081B-50715-00081F5A55BD3B82.jpg
-photos_dict_new:
   '1': bbq-spare-ribs-1.jpg
 prep_time: ''
 rating: 5

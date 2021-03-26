@@ -15,13 +15,13 @@ intrash: 0
 meal_dates:
 - '2020-06-25'
 meal_types: '4'
+mine: null
 name: Pita Chips
 p_recipe_id: 203
 permalink: /recipes/pita-chips
 photo_large: null
 photo_thumb: pita-chips-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 10 mins
 rating: 5
 servings: 'Servings: 24'

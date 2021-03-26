@@ -33,16 +33,13 @@ meal_dates:
 - '2021-01-13'
 - '2021-02-13'
 meal_types: 3|3|3|3
+mine: null
 name: Roasted Branzino with Caper Butter
 p_recipe_id: 417
 permalink: /recipes/roasted-branzino-with-caper-butter
 photo_large: roasted-branzino-with-caper-butter-large.jpg
 photo_thumb: roasted-branzino-with-caper-butter-thumb.jpg
 photos_dict:
-  '1': 681AC837-C3C3-4F73-B541-87143368AC58-11471-000009476739C86F.jpg
-  '2': 7843F783-FC31-4E0B-910F-BA4536C23690-11471-00000947771732F2.jpg
-  '3': A921771C-9944-4575-90A2-D54C4E736026-11471-0000094784455D91.jpg
-photos_dict_new:
   '1': roasted-branzino-with-caper-butter-1.jpg
   '2': roasted-branzino-with-caper-butter-2.jpg
   '3': roasted-branzino-with-caper-butter-3.jpg

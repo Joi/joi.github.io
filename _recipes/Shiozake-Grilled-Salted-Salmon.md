@@ -18,13 +18,13 @@ intrash: 0
 meal_dates:
 - '2020-06-12'
 meal_types: '3'
+mine: null
 name: Shiozake (Grilled Salted Salmon)
 p_recipe_id: 186
 permalink: /recipes/shiozake-grilled-salted-salmon
 photo_large: null
 photo_thumb: null
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: ''

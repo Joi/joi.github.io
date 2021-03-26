@@ -19,13 +19,13 @@ intrash: 0
 meal_dates:
 - '2020-03-29'
 meal_types: '3'
+mine: null
 name: Braised Chicken with Lemon and Olives
 p_recipe_id: 72
 permalink: /recipes/braised-chicken-with-lemon-and-olives
 photo_large: null
 photo_thumb: braised-chicken-with-lemon-and-olives-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: Yield 4 to 6 servings

@@ -40,14 +40,13 @@ meal_dates:
 - '2020-05-25'
 - '2020-06-08'
 meal_types: 3|3
+mine: null
 name: Pan Seared Garlic Butter Steak & Mushroom Cream Sauce
 p_recipe_id: 168
 permalink: /recipes/pan-seared-garlic-butter-steak-mushroom-cream-sauce
 photo_large: null
 photo_thumb: pan-seared-garlic-butter-steak-mushroom-cream-sauce-thumb.jpg
 photos_dict:
-  '1': 85BA16AD-B9A0-4516-8D4D-3B2CB4CB44E6-22544-0003EEC592E3F961.jpg
-photos_dict_new:
   '1': pan-seared-garlic-butter-steak-mushroom-cream-sauce-1.jpg
 prep_time: 10 mins
 rating: 5

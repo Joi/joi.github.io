@@ -4,7 +4,6 @@ filename: "braised-chicken-tikka-masala"
 categories:
 - Chicken
 - Curry
-- _mine
 cook_time: 30 mins
 created: '2021-01-15 18:55:42'
 created_ts: 1610736942
@@ -29,19 +28,13 @@ intrash: 0
 meal_dates:
 - '2021-02-04'
 meal_types: '3'
+mine: 1
 name: Braised Chicken Tikka Masala
 p_recipe_id: 448
 permalink: /recipes/braised-chicken-tikka-masala
 photo_large: braised-chicken-tikka-masala-large.jpg
 photo_thumb: braised-chicken-tikka-masala-thumb.jpg
 photos_dict:
-  '1': 132A54AF-6B66-47A0-A210-10B7D8D35D7D-1700-00007F7D9B398BE4.jpg
-  '2': 92FE3DF5-3FA1-4CD8-9017-CCED5175EA01-415-0000024726610296.jpg
-  '3': C48FC691-478B-4D11-ACF4-DEDEC9471150-415-0000024EC92D5DD2.jpg
-  '4': 5B038DFF-B6C7-4292-898A-1A9CC71D817B-415-00000255D10E098A.jpg
-  '5': 2FCD1573-1DEF-47D7-BC46-676BE349EBC9-415-00000255DCEB0F57.jpg
-  '6': B04139C8-D6A5-4C26-8F80-FF0B29758812-415-00000263F32582B7.jpg
-photos_dict_new:
   '1': braised-chicken-tikka-masala-1.jpg
   '2': braised-chicken-tikka-masala-2.jpg
   '3': braised-chicken-tikka-masala-3.jpg
@@ -55,7 +48,7 @@ slug: braised-chicken-tikka-masala
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>

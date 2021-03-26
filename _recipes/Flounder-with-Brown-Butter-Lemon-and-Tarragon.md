@@ -34,13 +34,13 @@ intrash: 0
 meal_dates:
 - '2020-05-30'
 meal_types: '2'
+mine: null
 name: Flounder with Brown Butter, Lemon and Tarragon
 p_recipe_id: 175
 permalink: /recipes/flounder-with-brown-butter-lemon-and-tarragon
 photo_large: null
 photo_thumb: flounder-with-brown-butter-lemon-and-tarragon-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 4 servings

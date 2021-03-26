@@ -20,17 +20,13 @@ intrash: 0
 meal_dates:
 - '2020-09-02'
 meal_types: '3'
+mine: null
 name: Bolognese Sauce Recipe (Instant Pot)
 p_recipe_id: 334
 permalink: /recipes/bolognese-sauce-recipe-instant-pot
 photo_large: bolognese-sauce-recipe-instant-pot-large.jpg
 photo_thumb: bolognese-sauce-recipe-instant-pot-thumb.jpg
 photos_dict:
-  '01': EA0D372C-1140-4A22-B07B-EFC778EC177B-13002-000625BB764848E3.jpg
-  '02': 7C1C7675-E785-45B8-A43D-3B85A0802005-13002-000625BB1B32DAB9.jpg
-  '03': 27BFEAB6-D7C4-45C7-B529-081D17267E53-13002-000625BAB5647FC2.jpg
-  '04': B44A406D-B3F5-4ECD-AE44-D47A0E60A1AE-13002-000625B99468A6A2.jpg
-photos_dict_new:
   '01': bolognese-sauce-recipe-instant-pot-01.jpg
   '02': bolognese-sauce-recipe-instant-pot-02.jpg
   '03': bolognese-sauce-recipe-instant-pot-03.jpg

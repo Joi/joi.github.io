@@ -25,13 +25,13 @@ meal_dates:
 - '2020-06-22'
 - '2021-01-29'
 meal_types: 3|2|3|3
+mine: null
 name: Nobu's Miso-Marinated Black Cod
 p_recipe_id: 116
 permalink: /recipes/nobus-miso-marinated-black-cod
 photo_large: null
 photo_thumb: nobus-miso-marinated-black-cod-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Serves 4

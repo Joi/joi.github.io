@@ -27,13 +27,13 @@ meal_dates:
 - '2020-08-17'
 - '2020-09-21'
 meal_types: 3|3
+mine: null
 name: Horseradish Sauce
 p_recipe_id: 264
 permalink: /recipes/horseradish-sauce
 photo_large: null
 photo_thumb: horseradish-sauce-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 2 minutes
 rating: 5
 servings: 'Servings: 12'

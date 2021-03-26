@@ -17,13 +17,13 @@ intrash: 0
 meal_dates:
 - '2020-06-26'
 meal_types: '4'
+mine: null
 name: Homemade Ponzu Sauce Recipe
 p_recipe_id: 205
 permalink: /recipes/homemade-ponzu-sauce-recipe
 photo_large: null
 photo_thumb: homemade-ponzu-sauce-recipe-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 5 mins
 rating: 5
 servings: 'Servings: 1 cup'

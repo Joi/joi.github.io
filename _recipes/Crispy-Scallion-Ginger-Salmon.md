@@ -18,13 +18,13 @@ intrash: 0
 meal_dates:
 - '2020-10-20'
 meal_types: '3'
+mine: null
 name: Crispy Scallion Ginger Salmon
 p_recipe_id: 390
 permalink: /recipes/crispy-scallion-ginger-salmon
 photo_large: null
 photo_thumb: crispy-scallion-ginger-salmon-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 10 minutes
 rating: 5
 servings: 'Serves: 4'

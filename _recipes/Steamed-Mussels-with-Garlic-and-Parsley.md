@@ -20,13 +20,13 @@ meal_dates:
 - '2020-06-23'
 - '2020-12-11'
 meal_types: 3|3|3|3
+mine: null
 name: Steamed Mussels with Garlic and Parsley
 p_recipe_id: 170
 permalink: /recipes/steamed-mussels-with-garlic-and-parsley
 photo_large: null
 photo_thumb: steamed-mussels-with-garlic-and-parsley-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 4 servings

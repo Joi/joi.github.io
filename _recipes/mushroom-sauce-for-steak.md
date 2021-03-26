@@ -32,14 +32,13 @@ intrash: 0
 meal_dates:
 - '2021-02-15'
 meal_types: '3'
+mine: null
 name: Mushroom Sauce for Steak
 p_recipe_id: 476
 permalink: /recipes/mushroom-sauce-for-steak
 photo_large: mushroom-sauce-for-steak-large.jpg
 photo_thumb: mushroom-sauce-for-steak-thumb.jpg
 photos_dict:
-  '1': 6A216ABF-F301-4296-A9F7-A3BDC6163C21-651-000026147380AA60.jpg
-photos_dict_new:
   '1': mushroom-sauce-for-steak-1.jpg
 prep_time: 5 minutes
 rating: 5

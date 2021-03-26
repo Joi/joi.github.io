@@ -35,14 +35,13 @@ meal_dates:
 - '2020-06-11'
 - '2021-03-11'
 meal_types: 3|3|3
+mine: null
 name: "Rishia Zimmern\u2019s Chicken with Shallots"
 p_recipe_id: 15
 permalink: /recipes/rishia-zimmerns-chicken-with-shallots
 photo_large: rishia-zimmerns-chicken-with-shallots-large.jpg
 photo_thumb: rishia-zimmerns-chicken-with-shallots-thumb.jpg
 photos_dict:
-  '1': 624C3EB3-6F81-4CBB-A210-91EA4187AD31-22544-0003EE997F59A926.jpg
-photos_dict_new:
   '1': rishia-zimmerns-chicken-with-shallots-1.jpg
 prep_time: ''
 rating: 5

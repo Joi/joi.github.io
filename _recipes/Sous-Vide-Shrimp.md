@@ -22,13 +22,13 @@ intrash: 0
 meal_dates:
 - '2020-07-05'
 meal_types: '3'
+mine: null
 name: Sous Vide Shrimp
 p_recipe_id: 230
 permalink: /recipes/sous-vide-shrimp
 photo_large: null
 photo_thumb: sous-vide-shrimp-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 00:20
 rating: 5
 servings: Ingredients for 4

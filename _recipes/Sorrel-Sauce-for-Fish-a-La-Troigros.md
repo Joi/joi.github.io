@@ -26,13 +26,13 @@ intrash: 0
 meal_dates:
 - '2020-04-16'
 meal_types: '3'
+mine: null
 name: "Sorrel Sauce for Fish a L\xE1 Troigros"
 p_recipe_id: 107
 permalink: /recipes/sorrel-sauce-for-fish-a-la-troigros
 photo_large: null
 photo_thumb: null
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: 'Yield: enough for 4 or more'

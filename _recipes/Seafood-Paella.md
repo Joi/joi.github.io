@@ -44,14 +44,13 @@ meal_dates:
 - '2020-11-10'
 - '2020-12-08'
 meal_types: 3|3|3
+mine: null
 name: Seafood Paella
 p_recipe_id: 313
 permalink: /recipes/seafood-paella
 photo_large: seafood-paella-large.jpg
 photo_thumb: seafood-paella-thumb.jpg
 photos_dict:
-  '1': 24008AAD-7AE7-4B70-B4A5-A83C0350CD9C-1866-00001E8A67100DD5.jpg
-photos_dict_new:
   '1': seafood-paella-1.jpg
 prep_time: 30 minutes
 rating: 5

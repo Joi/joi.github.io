@@ -34,17 +34,13 @@ intrash: 0
 meal_dates:
 - '2020-09-03'
 meal_types: '3'
+mine: null
 name: Instant Pot Beef Back Ribs
 p_recipe_id: 333
 permalink: /recipes/instant-pot-beef-back-ribs
 photo_large: instant-pot-beef-back-ribs-large.jpg
 photo_thumb: instant-pot-beef-back-ribs-thumb.jpg
 photos_dict:
-  '1': 6CC20193-2991-4DFB-8C2C-A2A28274C397-36459-000638E890DE65B9.jpg
-  '2': A32B21D2-7DA1-4307-9DEC-9B30E18B6229-36459-000638E9744A4A3B.jpg
-  '3': F9A5E94D-6A88-4408-98C7-908092FE0B28-5486-000003B660C83F3B.jpg
-  '4': F11438F4-905A-4FB0-9459-31E97F5CD115-5486-000003B66B598480.jpg
-photos_dict_new:
   '1': instant-pot-beef-back-ribs-1.jpg
   '2': instant-pot-beef-back-ribs-2.jpg
   '3': instant-pot-beef-back-ribs-3.jpg

@@ -16,13 +16,13 @@ ingredients: "1 tablespoon ground cumin\n2 teaspoons ground coriander\n2 teaspoo
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Garam Masala
 p_recipe_id: 468
 permalink: /recipes/garam-masala
 photo_large: null
 photo_thumb: garam-masala-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: '10'
 rating: 5
 servings: null

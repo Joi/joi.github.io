@@ -15,13 +15,13 @@ meal_dates:
 - '2020-08-21'
 - '2021-02-27'
 meal_types: 3|3
+mine: null
 name: Pan-Seared Salmon Fillets with Crispy Skin
 p_recipe_id: 304
 permalink: /recipes/pan-seared-salmon-fillets-with-crispy-skin
 photo_large: null
 photo_thumb: pan-seared-salmon-fillets-with-crispy-skin-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: ''

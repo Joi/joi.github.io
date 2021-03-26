@@ -18,14 +18,13 @@ intrash: 0
 meal_dates:
 - '2020-06-18'
 meal_types: '3'
+mine: null
 name: Southern Shrimp Scampi
 p_recipe_id: 195
 permalink: /recipes/southern-shrimp-scampi
 photo_large: southern-shrimp-scampi-large.jpg
 photo_thumb: southern-shrimp-scampi-thumb.jpg
 photos_dict:
-  '1': 85087699-B55D-4304-8B09-354EC010AE46-22544-0003EE650D1A91A9.jpg
-photos_dict_new:
   '1': southern-shrimp-scampi-1.jpg
 prep_time: ''
 rating: 5

@@ -26,14 +26,13 @@ meal_dates:
 - '2020-07-24'
 - '2021-01-04'
 meal_types: 3|3|3|3
+mine: null
 name: Risotto Parmigiano - Basic Risotto with Parmesan Cheese
 p_recipe_id: 201
 permalink: /recipes/risotto-parmigiano-basic-risotto-with-parmesan-cheese
 photo_large: risotto-parmigiano-basic-risotto-with-parmesan-cheese-large.jpg
 photo_thumb: risotto-parmigiano-basic-risotto-with-parmesan-cheese-thumb.jpg
 photos_dict:
-  '1': ED4B1500-16C4-4385-A8CC-98C101E4D321-22544-00043A8F7FE965F6.jpg
-photos_dict_new:
   '1': risotto-parmigiano-basic-risotto-with-parmesan-cheese-1.jpg
 prep_time: ''
 rating: 5

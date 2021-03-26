@@ -3,7 +3,6 @@ title: "Tuna Tataki with Lime, Ginger and Jalapeño"
 filename: "tuna-tataki-with-lime-ginger-and-jalapeno"
 categories:
 - Tuna
-- _mine
 cook_time: ''
 created: '2020-09-15 11:10:10'
 created_ts: 1600168210
@@ -24,17 +23,13 @@ meal_dates:
 - '2021-01-22'
 - '2021-03-02'
 meal_types: 3|3|3|3|3|3|3
+mine: 1
 name: "Tuna Tataki with Lime, Ginger and Jalape\xF1o"
 p_recipe_id: 354
 permalink: /recipes/tuna-tataki-with-lime-ginger-and-jalapeno
 photo_large: tuna-tataki-with-lime-ginger-and-jalapeno-large.jpg
 photo_thumb: tuna-tataki-with-lime-ginger-and-jalapeno-thumb.jpg
 photos_dict:
-  '1': 563B4723-B02D-405E-A02D-0394C4D8CF48-39232-0000E02CB9F36F57.jpg
-  '2': 0E660FA2-3314-40BB-AED4-FB2E0368277E-39232-0000E02DBC102900.jpg
-  '3': FBF50E32-398F-4910-9D08-3C5D1B00D082-39232-0000E02F875271AB.jpg
-  '4': 93CBAB55-A2DD-478E-8E15-D6816BA181C3-39232-0000E03055A469B9.jpg
-photos_dict_new:
   '1': tuna-tataki-with-lime-ginger-and-jalapeno-1.jpg
   '2': tuna-tataki-with-lime-ginger-and-jalapeno-2.jpg
   '3': tuna-tataki-with-lime-ginger-and-jalapeno-3.jpg
@@ -46,7 +41,7 @@ slug: tuna-tataki-with-lime-ginger-and-jalapeno
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: 0299C616-3BC7-414C-8AD7-24EA7B7FCB03-9638-000005EE30E369B7
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>

@@ -20,13 +20,13 @@ intrash: 0
 meal_dates:
 - '2020-04-16'
 meal_types: '3'
+mine: null
 name: Oven-Poached Pacific Sole with Lemon Caper Sauce
 p_recipe_id: 51
 permalink: /recipes/oven-poached-pacific-sole-with-lemon-caper-sauce
 photo_large: null
 photo_thumb: oven-poached-pacific-sole-with-lemon-caper-sauce-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Serves 4

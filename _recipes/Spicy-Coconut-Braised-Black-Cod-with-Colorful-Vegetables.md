@@ -52,13 +52,13 @@ meal_dates:
 - '2020-11-13'
 - '2020-12-04'
 meal_types: 3|3
+mine: null
 name: Spicy Coconut Braised Black Cod with Colorful Vegetables
 p_recipe_id: 410
 permalink: /recipes/spicy-coconut-braised-black-cod-with-colorful-vegetables
 photo_large: null
 photo_thumb: spicy-coconut-braised-black-cod-with-colorful-vegetables-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: Serves 4

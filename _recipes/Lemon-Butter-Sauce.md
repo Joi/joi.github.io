@@ -24,13 +24,13 @@ intrash: 0
 meal_dates:
 - '2021-01-26'
 meal_types: '3'
+mine: null
 name: Lemon Butter Sauce
 p_recipe_id: 401
 permalink: /recipes/lemon-butter-sauce
 photo_large: null
 photo_thumb: lemon-butter-sauce-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 15 mins
 rating: 5
 servings: null

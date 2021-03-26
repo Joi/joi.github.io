@@ -22,14 +22,13 @@ ingredients: "1. 2 tbsp Unsalted butter\n1. 4 Crushed garlic cloves\n1. 1 Poblan
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Swordfish in Creamy Tomato Sauce
 p_recipe_id: 348
 permalink: /recipes/swordfish-in-creamy-tomato-sauce
 photo_large: swordfish-in-creamy-tomato-sauce-large.jpg
 photo_thumb: swordfish-in-creamy-tomato-sauce-thumb.jpg
 photos_dict:
-  '1': 1E325214-F38A-4616-8097-72C633321F9D-50715-0007FCAB41F7D36F.jpg
-photos_dict_new:
   '1': swordfish-in-creamy-tomato-sauce-1.jpg
 prep_time: '15'
 rating: 5

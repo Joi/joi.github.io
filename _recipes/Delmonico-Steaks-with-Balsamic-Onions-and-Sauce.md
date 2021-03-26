@@ -46,13 +46,13 @@ intrash: 0
 meal_dates:
 - '2020-11-11'
 meal_types: '3'
+mine: null
 name: Delmonico Steaks with Balsamic Onions and Sauce
 p_recipe_id: 406
 permalink: /recipes/delmonico-steaks-with-balsamic-onions-and-sauce
 photo_large: null
 photo_thumb: delmonico-steaks-with-balsamic-onions-and-sauce-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 15 min
 rating: 5
 servings: 'Serves: 4'

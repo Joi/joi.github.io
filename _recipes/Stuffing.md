@@ -21,17 +21,13 @@ intrash: 0
 meal_dates:
 - '2020-08-20'
 meal_types: '3'
+mine: null
 name: Stuffing
 p_recipe_id: 316
 permalink: /recipes/stuffing
 photo_large: stuffing-large.jpg
 photo_thumb: stuffing-thumb.jpg
 photos_dict:
-  '1': C97CB73B-63BA-4CF1-8AB0-C50A9950BAAD-2241-000315737380C867.jpg
-  '2': 5D6A7AD4-6B55-4ABD-BBF5-5915C934D18D-2241-00031573CE24D6E5.jpg
-  '3': F374B10E-FCC3-4E5C-A707-F74003E934C7-2241-0003157451C04C54.jpg
-  '4': D8A3262D-47B4-4FB7-99D9-5841811C4574-2241-0003157578FCD12B.jpg
-photos_dict_new:
   '1': stuffing-1.jpg
   '2': stuffing-2.jpg
   '3': stuffing-3.jpg

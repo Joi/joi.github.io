@@ -22,15 +22,13 @@ intrash: 0
 meal_dates:
 - '2020-05-24'
 meal_types: '3'
+mine: null
 name: Biltmore Chianti Glazed Beef Short Ribs
 p_recipe_id: 29
 permalink: /recipes/biltmore-chianti-glazed-beef-short-ribs
 photo_large: biltmore-chianti-glazed-beef-short-ribs-large.jpg
 photo_thumb: biltmore-chianti-glazed-beef-short-ribs-thumb.jpg
 photos_dict:
-  '1': DE36B32D-FAA3-4EB7-A192-B41FD629BB66-29546-000347A871E10A12.jpg
-  '2': 051F2944-3334-47B8-9ABF-8A1209444FEB-29546-000347A8D964E07D.jpg
-photos_dict_new:
   '1': biltmore-chianti-glazed-beef-short-ribs-1.jpg
   '2': biltmore-chianti-glazed-beef-short-ribs-2.jpg
 prep_time: 15min

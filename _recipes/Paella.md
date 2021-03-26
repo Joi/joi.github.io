@@ -4,7 +4,6 @@ filename: "paella"
 categories:
 - Seafood
 - Rice
-- _mine
 cook_time: ''
 created: '2020-09-12 14:56:58'
 created_ts: 1599922618
@@ -27,14 +26,13 @@ intrash: 0
 meal_dates:
 - '2020-09-12'
 meal_types: '3'
+mine: 1
 name: Paella
 p_recipe_id: 353
 permalink: /recipes/paella
 photo_large: paella-large.jpg
 photo_thumb: paella-thumb.jpg
 photos_dict:
-  '1': 26B30777-A706-42E9-AFE1-5F38DC4DAC65-1119-0000011A9F40B52B.jpg
-photos_dict_new:
   '1': paella-1.jpg
 prep_time: ''
 rating: 5
@@ -43,7 +41,7 @@ slug: paella
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: D012AD02-2C8B-45D6-B54B-B7C3339CDF60-1119-00000022984CEC03
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>

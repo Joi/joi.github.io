@@ -36,21 +36,13 @@ intrash: 0
 meal_dates:
 - '2021-02-21'
 meal_types: '3'
+mine: null
 name: The Best Chili Ever
 p_recipe_id: 473
 permalink: /recipes/the-best-chili-ever
 photo_large: the-best-chili-ever-large.jpg
 photo_thumb: the-best-chili-ever-thumb.jpg
 photos_dict:
-  '1': 0B198794-BA45-4B63-800A-D9BF4335BFDC-26383-000125E5F69A9A49.jpg
-  '2': A11B4C55-69D7-4769-B654-A5AFD9557510-26383-000125E902F1D58A.jpg
-  '3': DE09FB72-B6D5-4A36-B420-A1953F1D0E5D-26383-000125E991DF2ABD.jpg
-  '4': 010BBCE9-FCC2-475A-A12E-7576B11E0DBB-26383-000125EA50D5FA3A.jpg
-  '5': 8A09C3F7-77EC-49BB-A075-D89B7D70E28E-26383-000125EAB4FE4C87.jpg
-  '6': CE2CD689-318F-4330-B24E-3C8E76956696-26383-000125EBD669A2CF.jpg
-  '7': 23EB56B9-2647-4113-B6AE-21CA0F58F7F0-26383-000125ED86CD1672.jpg
-  '8': 19B93CF6-CAC9-43EE-8120-3460F215B924-33135-00001DFC3B254F9E.jpg
-photos_dict_new:
   '1': the-best-chili-ever-1.jpg
   '2': the-best-chili-ever-2.jpg
   '3': the-best-chili-ever-3.jpg

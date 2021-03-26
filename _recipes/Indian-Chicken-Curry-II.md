@@ -20,13 +20,13 @@ meal_dates:
 - '2020-04-19'
 - '2020-07-01'
 meal_types: 3|3
+mine: null
 name: Indian Chicken Curry II
 p_recipe_id: 117
 permalink: /recipes/indian-chicken-curry-ii
 photo_large: null
 photo_thumb: indian-chicken-curry-ii-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: 20 mins
 rating: 5
 servings: 'Servings: 4'

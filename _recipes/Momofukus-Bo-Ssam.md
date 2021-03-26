@@ -24,13 +24,13 @@ ingredients: "PORK BUTT:\n1 whole bone-in pork butt or picnic ham (8 to 10 pound
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Momofuku's Bo Ssam
 p_recipe_id: 376
 permalink: /recipes/momofukus-bo-ssam
 photo_large: null
 photo_thumb: momofukus-bo-ssam-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 6 to 10 servings

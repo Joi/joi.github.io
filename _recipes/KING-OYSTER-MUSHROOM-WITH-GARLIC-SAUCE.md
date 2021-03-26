@@ -20,15 +20,13 @@ meal_dates:
 - '2020-10-22'
 - '2021-01-24'
 meal_types: 3|2
+mine: null
 name: King Oyster Mushroom with Garlic Sauce
 p_recipe_id: 391
 permalink: /recipes/king-oyster-mushroom-with-garlic-sauce
 photo_large: king-oyster-mushroom-with-garlic-sauce-large.jpg
 photo_thumb: king-oyster-mushroom-with-garlic-sauce-thumb.jpg
 photos_dict:
-  '1': 68F703E9-1FD7-43A4-B518-39BF8547E678-36256-00001A5B16CD32BA.jpg
-  '2': F874CBF7-4E41-41AE-8762-911AAEC5D1FF-36256-00001A650FCA8705.jpg
-photos_dict_new:
   '1': king-oyster-mushroom-with-garlic-sauce-1.jpg
   '2': king-oyster-mushroom-with-garlic-sauce-2.jpg
 prep_time: 5 minutes

@@ -49,14 +49,13 @@ meal_dates:
 - '2020-08-24'
 - '2020-09-18'
 meal_types: 3|3
+mine: null
 name: Fattoush Salad
 p_recipe_id: 294
 permalink: /recipes/fattoush-salad
 photo_large: fattoush-salad-large.jpg
 photo_thumb: fattoush-salad-thumb.jpg
 photos_dict:
-  '1': 2DCEEE08-F8DB-4BA2-B79B-CF4508006542-2241-00036E09A88DF599.jpg
-photos_dict_new:
   '1': fattoush-salad-1.jpg
 prep_time: 20 mins
 rating: 5

@@ -56,13 +56,13 @@ intrash: 0
 meal_dates:
 - '2020-06-06'
 meal_types: '3'
+mine: null
 name: "Rag\xFA Bolognese"
 p_recipe_id: 8
 permalink: /recipes/ragu-bolognese
 photo_large: null
 photo_thumb: null
 photos_dict: null
-photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: 2 cups

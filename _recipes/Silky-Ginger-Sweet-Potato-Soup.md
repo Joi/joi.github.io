@@ -36,13 +36,13 @@ intrash: 0
 meal_dates:
 - '2020-07-02'
 meal_types: '3'
+mine: null
 name: Silky Ginger Sweet Potato Soup
 p_recipe_id: 220
 permalink: /recipes/silky-ginger-sweet-potato-soup
 photo_large: null
 photo_thumb: silky-ginger-sweet-potato-soup-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: 'Yield: 4'

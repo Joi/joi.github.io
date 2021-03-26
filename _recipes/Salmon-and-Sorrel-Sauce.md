@@ -38,13 +38,13 @@ intrash: 0
 meal_dates:
 - '2020-04-18'
 meal_types: '3'
+mine: null
 name: Salmon and Sorrel Sauce
 p_recipe_id: 109
 permalink: /recipes/salmon-and-sorrel-sauce
 photo_large: null
 photo_thumb: salmon-and-sorrel-sauce-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: ''

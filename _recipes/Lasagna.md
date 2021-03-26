@@ -22,15 +22,13 @@ intrash: 0
 meal_dates:
 - '2020-09-05'
 meal_types: '3'
+mine: null
 name: Lasagna
 p_recipe_id: 338
 permalink: /recipes/lasagna
 photo_large: lasagna-large.jpg
 photo_thumb: lasagna-thumb.jpg
 photos_dict:
-  '01': 0B078906-6297-4532-B14C-F04BABC90416-50715-0006E3A5256FFC07.jpg
-  '02': B815070E-7259-42AF-B368-580A5511B793-50715-0006E3A45060067F.jpg
-photos_dict_new:
   '01': lasagna-01.jpg
   '02': lasagna-02.jpg
 prep_time: ''

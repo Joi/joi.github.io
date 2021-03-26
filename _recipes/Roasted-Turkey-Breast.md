@@ -37,20 +37,13 @@ intrash: 0
 meal_dates:
 - '2020-08-20'
 meal_types: '3'
+mine: null
 name: Roasted Turkey Breast
 p_recipe_id: 315
 permalink: /recipes/roasted-turkey-breast
 photo_large: roasted-turkey-breast-large.jpg
 photo_thumb: roasted-turkey-breast-thumb.jpg
 photos_dict:
-  '1': D4F78BB1-3CC4-4328-A363-5070AF04D795-1866-00001E92129AC113.jpg
-  '2': BE3B9CC9-DF08-4367-8006-7C6FE402B702-1866-00001E92A6531163.jpg
-  '3': DF29CD59-DEE2-46A8-84B0-2CEE87D61C84-2241-0003157F75B806A5.jpg
-  '4': B81C5621-B8A8-43CB-A1C7-D87D56CCD1BC-2241-0003157FCF47D6C3.jpg
-  '5': F2CC64A2-863B-4EDC-BE62-5FEADE972CB8-2241-000315802867CB1A.jpg
-  '6': E8786EA4-4B65-49EB-A2F0-4D006F84A27C-2241-000315807AD314DE.jpg
-  '7': D0DBD563-E551-4459-9FB1-9AE06952D193-2241-00031580FA36D071.jpg
-photos_dict_new:
   '1': roasted-turkey-breast-1.jpg
   '2': roasted-turkey-breast-2.jpg
   '3': roasted-turkey-breast-3.jpg

@@ -23,15 +23,13 @@ meal_dates:
 - '2020-09-10'
 - '2020-12-09'
 meal_types: 3|3|3|3
+mine: null
 name: Braised Chicken with Basil and Tomato
 p_recipe_id: 86
 permalink: /recipes/braised-chicken-with-basil-and-tomato
 photo_large: braised-chicken-with-basil-and-tomato-large.jpg
 photo_thumb: braised-chicken-with-basil-and-tomato-thumb.jpg
 photos_dict:
-  '1': F1D2F3DF-862E-446C-BE10-CB8668CE2538-20016-00000637F19F7159.jpg
-  '2': CEA47EBE-073C-46D7-ADBF-EC5096CCEC87-29546-000594637FB4D68E.jpg
-photos_dict_new:
   '1': braised-chicken-with-basil-and-tomato-1.jpg
   '2': braised-chicken-with-basil-and-tomato-2.jpg
 prep_time: ''

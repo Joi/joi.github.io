@@ -37,13 +37,13 @@ intrash: 0
 meal_dates:
 - '2020-04-27'
 meal_types: '3'
+mine: null
 name: Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)
 p_recipe_id: 88
 permalink: /recipes/moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel
 photo_large: null
 photo_thumb: moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: null
 rating: 5
 servings: Serves 4

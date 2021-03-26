@@ -47,14 +47,13 @@ ingredients: 'STEAK
 intrash: 0
 meal_dates: null
 meal_types: null
+mine: null
 name: Foolproof Chuck Steak with Smoky Chimichurri
 p_recipe_id: 322
 permalink: /recipes/foolproof-chuck-steak-with-smoky-chimichurri
 photo_large: foolproof-chuck-steak-with-smoky-chimichurri-large.jpg
 photo_thumb: foolproof-chuck-steak-with-smoky-chimichurri-thumb.jpg
 photos_dict:
-  '1': 6DD2B439-B4B2-4442-A592-EDA30198A1F1-2241-0003156A1399F4A6.jpg
-photos_dict_new:
   '1': foolproof-chuck-steak-with-smoky-chimichurri-1.jpg
 prep_time: 20 mins
 rating: 5

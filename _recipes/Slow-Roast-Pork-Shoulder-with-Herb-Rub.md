@@ -18,13 +18,13 @@ intrash: 0
 meal_dates:
 - '2020-06-18'
 meal_types: '2'
+mine: null
 name: Slow Roast Pork Shoulder with Herb Rub
 p_recipe_id: 187
 permalink: /recipes/slow-roast-pork-shoulder-with-herb-rub
 photo_large: null
 photo_thumb: slow-roast-pork-shoulder-with-herb-rub-thumb.jpg
 photos_dict: null
-photos_dict_new: {}
 prep_time: ''
 rating: 5
 servings: Yield 10 servings

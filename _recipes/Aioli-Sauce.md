@@ -43,14 +43,13 @@ meal_dates:
 - '2020-10-13'
 - '2020-12-05'
 meal_types: 3|3|3|3
+mine: null
 name: Aioli Sauce
 p_recipe_id: 242
 permalink: /recipes/aioli-sauce
 photo_large: aioli-sauce-large.jpg
 photo_thumb: aioli-sauce-thumb.jpg
 photos_dict:
-  '1': 4A1B4683-121B-4179-B19A-661E6C6D0D13-29053-000376E2499F5BDF.jpg
-photos_dict_new:
   '1': aioli-sauce-1.jpg
 prep_time: ''
 rating: 5

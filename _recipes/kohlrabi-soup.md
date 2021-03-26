@@ -3,7 +3,6 @@ title: "Kohlrabi Soup"
 filename: "kohlrabi-soup"
 categories:
 - Soup
-- _mine
 cook_time: ''
 created: '2021-03-08 21:28:58'
 created_ts: 1615238938
@@ -22,15 +21,13 @@ intrash: 0
 meal_dates:
 - '2021-03-08'
 meal_types: '3'
+mine: 1
 name: Kohlrabi Soup
 p_recipe_id: 485
 permalink: /recipes/kohlrabi-soup
 photo_large: kohlrabi-soup-large.jpg
 photo_thumb: kohlrabi-soup-thumb.jpg
 photos_dict:
-  '1': 8D8BC682-4680-4077-8CCB-D02D25D7D4A0-641-0000551F5A143A83.jpg
-  '2': 1FA8D8DC-86C2-469B-9653-32EF20FFD29A-641-0000551FD5451588.jpg
-photos_dict_new:
   '1': kohlrabi-soup-1.jpg
   '2': kohlrabi-soup-2.jpg
 prep_time: ''
@@ -40,7 +37,7 @@ slug: kohlrabi-soup
 source: null
 source_url: null
 total_time: ''
-type: _mine
+type: null
 uid: 02CCE5A9-6684-4E28-8B94-84459DE31F12
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
