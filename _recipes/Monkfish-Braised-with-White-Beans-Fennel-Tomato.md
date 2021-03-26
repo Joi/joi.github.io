@@ -55,7 +55,8 @@ meal_dates:
 - '2020-08-22'
 - '2020-09-19'
 - '2020-10-13'
-meal_types: 3|3|3|3
+- '2021-03-26'
+meal_types: 3|3|3|3|3
 mine: null
 name: Monkfish Braised with White Beans, Fennel, & Tomato
 p_recipe_id: 328
