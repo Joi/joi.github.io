@@ -114,6 +114,7 @@ def make_filename(string):
     for char in invalid:
         string = string.replace(char, '')
     string = sanitize_filename(string).lower().rstrip('-').replace('---','-')
+    string = string.lower()
     
     return string
 
