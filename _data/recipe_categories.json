@@ -7,7 +7,8 @@
   "shaved-asparagus-salad": "Shaved Asparagus Salad"
  },
  "Avocado": {
-  "best-ever-guacamole": "Best Ever Guacamole"
+  "best-ever-guacamole": "Best Ever Guacamole",
+  "lobster-salad": "Lobster Salad"
  },
  "BBQ": {
   "3-2-1-ribs": "3 2 1 Ribs",
@@ -38,6 +39,7 @@
   "short-ribs-braised-in-red-wine-with-bacon-parsnips-and-pearl-onions": "Short Ribs Braised in Red Wine with Bacon, Parsnips, and Pearl Onions",
   "simple-grilled-hanger-steak-with-worcestershire-garlic-and-thyme": "Simple Grilled Hanger Steak with Worcestershire, Garlic, and Thyme",
   "slow-cooker-braised-brisket-and-onions": "Slow-Cooker Braised Brisket and Onions",
+  "steak": "Steak",
   "tangy-braised-short-ribs": "Tangy Braised Short Ribs",
   "the-food-lab-spicy-thai-style-flank-steak-salad": "The Food Lab - Spicy Thai-Style Flank Steak Salad"
  },
@@ -181,7 +183,8 @@
   "making-mapo-tofu": "Making Mapo Tofu",
   "mapo-dofu": "Mapo Dofu",
   "mapo-tofu": "Mapo Tofu",
-  "mapotofu": "Mapotofu"
+  "mapotofu": "Mapotofu",
+  "shrimp-with-mayonaise-ebimayo": "Shrimp with Mayonaise - ebimayo"
  },
  "Chuck Roast": {
   "beef-stew-with-carrots-potatoes": "Beef Stew with Carrots & Potatoes",
@@ -382,6 +385,7 @@
  },
  "Lobster": {
   "cantonese-style-lobster-with-ginger-and-scallions": "Cantonese-Style Lobster with Ginger and Scallions",
+  "lobster-salad": "Lobster Salad",
   "steamed-lobster": "Steamed Lobster"
  },
  "Meat": {
@@ -399,6 +403,7 @@
   "roasted-whole-duck": "Roasted Whole Duck",
   "slow-cooker-lamb-vindaloo": "Slow-Cooker Lamb Vindaloo",
   "spicy-meatballs-with-chickpeas": "Spicy Meatballs with Chickpeas",
+  "steak": "Steak",
   "the-science-of-cooking-frozen-steaks": "The Science of Cooking Frozen Steaks",
   "whatever-you-want-soup": "Whatever You Want Soup"
  },
@@ -502,7 +507,8 @@
  "Prime Rib": {
   "perfect-prime-rib-with-red-wine-jus": "Perfect Prime Rib with Red Wine Jus",
   "prime-rib": "Prime Rib",
-  "reverse-sear-prime-rib-roast": "Reverse-Sear Prime Rib Roast"
+  "reverse-sear-prime-rib-roast": "Reverse-Sear Prime Rib Roast",
+  "steak": "Steak"
  },
  "Red Onions": {
   "pickled-red-onions": "Pickled Red Onions"
@@ -640,6 +646,7 @@
   "shrimp-and-endive-salad": "Shrimp and Endive Salad",
   "shrimp-bisque": "Shrimp Bisque",
   "shrimp-with-lobster-sauce": "Shrimp with Lobster Sauce",
+  "shrimp-with-mayonaise-ebimayo": "Shrimp with Mayonaise - ebimayo",
   "sous-vide-shrimp": "Sous Vide Shrimp",
   "southern-shrimp-scampi": "Southern Shrimp Scampi",
   "stir-fried-shrimp-and-broccoli": "Stir-Fried Shrimp and Broccoli",
@@ -708,6 +715,7 @@
   "pan-seared-garlic-butter-steak-mushroom-cream-sauce": "Pan Seared Garlic Butter Steak & Mushroom Cream Sauce",
   "pan-seared-steak-with-red-wine-sauce": "Pan-Seared Steak with Red Wine Sauce",
   "pan-seared-steaks": "Pan-Seared Steaks",
+  "steak": "Steak",
   "steak-101": "Steak 101"
  },
  "Striped Bass": {
@@ -730,7 +738,8 @@
  "Tenderloin": {
   "filet-mignon-in-mushroom-wine-sauce": "Filet Mignon in Mushroom Wine Sauce",
   "roast-beef-tenderloin-with-garlic-and-rosemary": "Roast Beef Tenderloin with Garlic and Rosemary",
-  "roast-beef-tenderloin-with-wine-sauce": "Roast Beef Tenderloin with Wine Sauce"
+  "roast-beef-tenderloin-with-wine-sauce": "Roast Beef Tenderloin with Wine Sauce",
+  "steak": "Steak"
  },
  "Tofu": {
   "ginisang-pechay-with-tofu": "Ginisang Pechay with Tofu",
@@ -784,6 +793,9 @@
   "stovetop-braised-carrots-and-parsnips": "Stovetop-Braised Carrots and Parsnips",
   "whole-roasted-cauliflower": "Whole Roasted Cauliflower"
  },
+ "Wagyu": {
+  "seared-wagyu": "Seared Wagyu"
+ },
  "White Fish": {
   "baked-flounder-with-panko-and-parmesan": "Baked Flounder with Panko and Parmesan",
   "baked-flounder-with-parmesan-crumbs": "Baked Flounder with Parmesan Crumbs",
@@ -832,17 +844,23 @@
   "kohlrabi-soup": "Kohlrabi Soup",
   "mapo-dofu": "Mapo Dofu",
   "marie-rose-sauce": "Marie Rose Sauce",
+  "mayonnaise": "Mayonnaise",
   "oven-roasted-spatchcocked-chicken": "Oven Roasted Spatchcocked Chicken",
   "oxtail-jus": "Oxtail Jus",
   "paella": "Paella",
   "pizza": "Pizza",
   "prime-rib": "Prime Rib",
   "rouille": "Rouille",
+  "seared-wagyu": "Seared Wagyu",
   "shrimp-and-endive-salad": "Shrimp and Endive Salad",
+  "shrimp-with-mayonaise-ebimayo": "Shrimp with Mayonaise - ebimayo",
+  "steak": "Steak",
   "steamed-lobster": "Steamed Lobster",
   "tuna-tataki-with-lime-ginger-and-jalapeno": "Tuna Tataki with Lime, Ginger and Jalapeño"
  },
  "_stub": {
-  "pizza": "Pizza"
+  "seared-wagyu": "Seared Wagyu",
+  "shrimp-with-mayonaise-ebimayo": "Shrimp with Mayonaise - ebimayo",
+  "steak": "Steak"
  }
 }

@@ -4,8 +4,8 @@ filename: "steakhouse-style-grilled-marinated-flank-steak"
 categories:
 - Hanger steak
 cook_time: at least 1 1/2 hours
-created: '2021-03-05 14:16:48'
-created_ts: 1614953808
+created: '2021-03-27 17:19:28'
+created_ts: 1616865568
 description: null
 difficulty: null
 image_url: https://www.seriouseats.com/recipes/images/20110502-texas-beef-council-marinated-grilled-flank-steak-5-200x150.jpg
@@ -31,24 +31,25 @@ ingredients: '1/2 cup Worcestershire sauce
 
   1 whole flank steak, about 2 pounds (see note)'
 intrash: 0
-meal_dates: null
-meal_types: null
+meal_dates:
+- '2021-03-04'
+meal_types: '3'
 mine: null
 name: Steakhouse-Style Grilled Marinated Flank Steak
-p_recipe_id: 483
+p_recipe_id: 496
 permalink: /recipes/steakhouse-style-grilled-marinated-flank-steak
 photo_large: null
 photo_thumb: steakhouse-style-grilled-marinated-flank-steak-thumb.jpg
 photos_dict: null
 prep_time: 30 minutes
-rating: 0
+rating: 5
 servings: Serves 4 to 6
 slug: steakhouse-style-grilled-marinated-flank-steak
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2011/05/steakhouse-style-grilled-marinated-flank-stea.html
 total_time: null
 type: null
-uid: 18EA58EC-F5A0-43FC-ACE8-ABC947AA7E3E
+uid: D3C390CB-B1AA-48D6-B5C4-76888EF3EE6D
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->

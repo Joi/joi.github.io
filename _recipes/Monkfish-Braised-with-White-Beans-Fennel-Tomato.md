@@ -65,11 +65,19 @@ photo_large: monkfish-braised-with-white-beans-fennel-tomato-large.jpg
 photo_thumb: monkfish-braised-with-white-beans-fennel-tomato-thumb.jpg
 photos_dict:
   '1': monkfish-braised-with-white-beans-fennel-tomato-1.jpg
+  '10': monkfish-braised-with-white-beans-fennel-tomato-10.jpg
+  '11': monkfish-braised-with-white-beans-fennel-tomato-11.jpg
+  '12': monkfish-braised-with-white-beans-fennel-tomato-12.jpg
+  '13': monkfish-braised-with-white-beans-fennel-tomato-13.jpg
+  '14': monkfish-braised-with-white-beans-fennel-tomato-14.jpg
   '2': monkfish-braised-with-white-beans-fennel-tomato-2.jpg
   '3': monkfish-braised-with-white-beans-fennel-tomato-3.jpg
   '4': monkfish-braised-with-white-beans-fennel-tomato-4.jpg
   '5': monkfish-braised-with-white-beans-fennel-tomato-5.jpg
   '6': monkfish-braised-with-white-beans-fennel-tomato-6.jpg
+  '7': monkfish-braised-with-white-beans-fennel-tomato-7.jpg
+  '8': monkfish-braised-with-white-beans-fennel-tomato-8.jpg
+  '9': monkfish-braised-with-white-beans-fennel-tomato-9.jpg
 prep_time: ''
 rating: 5
 servings: '4'

@@ -8,7 +8,7 @@ created: '2020-09-28 17:56:49'
 created_ts: 1601315809
 description: ''
 difficulty: ''
-image_url: https://static01.nyt.com/applications/cooking/b035550/assets/NYTCookingLogo.png
+image_url: null
 ingredients: "2 tablespoons raisins\n2 tablespoons Balsamic vinegar\n1 \u2153 pounds\
   \ chicken livers\n4 tablespoons extra-virgin olive oil\n3 cups thinly sliced onions\n\
   Salt and freshly ground black pepper\n\xBD teaspoon fresh sage leaves (or 1/4 teaspoon\
@@ -17,14 +17,17 @@ intrash: 0
 meal_dates:
 - '2020-09-28'
 - '2021-01-18'
-meal_types: 3|2
+- '2021-03-28'
+meal_types: 3|2|2
 mine: null
 name: Chicken Livers and Onions, Venetian Style
 p_recipe_id: 373
 permalink: /recipes/chicken-livers-and-onions-venetian-style
-photo_large: null
+photo_large: chicken-livers-and-onions-venetian-style-large.jpg
 photo_thumb: chicken-livers-and-onions-venetian-style-thumb.jpg
-photos_dict: null
+photos_dict:
+  '1': chicken-livers-and-onions-venetian-style-1.jpg
+  '2': chicken-livers-and-onions-venetian-style-2.jpg
 prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings

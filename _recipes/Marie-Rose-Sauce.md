@@ -16,14 +16,17 @@ ingredients: "\u2154 cup of fresh [recipe:Mayonnaise]\n1 Tbsp ketchup\n1 tsp Wor
 intrash: 0
 meal_dates:
 - '2021-01-22'
-meal_types: '3'
+- '2021-03-27'
+meal_types: 3|2
 mine: 1
 name: Marie Rose Sauce
 p_recipe_id: 458
 permalink: /recipes/marie-rose-sauce
-photo_large: null
-photo_thumb: null
-photos_dict: null
+photo_large: marie-rose-sauce-large.jpg
+photo_thumb: marie-rose-sauce-thumb.jpg
+photos_dict:
+  '1': marie-rose-sauce-1.jpg
+  '2': marie-rose-sauce-2.jpg
 prep_time: ''
 rating: 5
 servings: ''
