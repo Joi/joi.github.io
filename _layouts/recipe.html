@@ -108,7 +108,7 @@ Hacky, but it works.
         {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal[1] | downcase }}{% endcapture %}
         {% capture obs_path %}_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}{% endcapture %}
 
-        {% assign result = site.notes | where_exp: "item", "item.url == note_path" %}
+        {% assign result = site.notes | where_exp: "item", "item.url == note_path and item.feature" %}
 
         {% if result[0] %}
           <li>
@@ -136,7 +136,7 @@ Hacky, but it works.
         {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal[1] | downcase }}{% endcapture %}
         {% capture obs_path %}_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}{% endcapture %}
 
-        {% assign result = site.notes | where_exp: "item", "item.url == note_path" %}
+        {% assign result = site.notes | where_exp: "item", "item.url == note_path and item.feature == null" %}
 
         {% if result[0] %}
           <li>
@@ -151,6 +151,7 @@ Hacky, but it works.
       </ul>
     </div>
 
+    {% if jekyll.environment == 'development' %}
     <div class="meals dev-only" id="">
       <h5>No Notes yet</h5>
       <ul>
@@ -180,7 +181,7 @@ Hacky, but it works.
       {% endfor %}
       </ul>
     </div>
-
+    {% endif %}
     {% endif %}
 
   </div><!-- #photo-sidebar -->
