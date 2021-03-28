@@ -1,10 +1,10 @@
 ---
+feature: Billows and Brined Salmon
 tags:
 - BBQ
 - Temperature
 - Salmon
 - Billows
-featured: 1
 ---
 ![Temperature for Session](/images/smoked-salmon-billows.png)
 *The temperature stayed mostly in my target window thanks to Billows.*
