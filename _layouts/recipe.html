@@ -108,9 +108,9 @@ Hacky, but it works.
         {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal[1] | downcase }}{% endcapture %}
         {% capture obs_path %}_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}{% endcapture %}
 
-        {% assign result = site.notes | where_exp: "item", "item.url == note_path and item.feature" %}
+        {% assign result = site.notes | where_exp: "item", "item.url == note_path" %}
 
-        {% if result[0] %}
+        {% if result[0] and result[0].feature %}
           <li>
             <a href="{{ note_path }}" title="{{ result[0].feature }} - {{ meal[1] }} - {{ meal[0] | date_to_string: 'ordinal', 'US' }}">
               <!--em>{{ meal[1] }}</em-->
@@ -136,9 +136,9 @@ Hacky, but it works.
         {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal[1] | downcase }}{% endcapture %}
         {% capture obs_path %}_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}{% endcapture %}
 
-        {% assign result = site.notes | where_exp: "item", "item.url == note_path and item.feature == null" %}
+        {% assign result = site.notes | where_exp: "item", "item.url == note_path" %}
 
-        {% if result[0] %}
+        {% if result[0] and result[0].feature == null %}
           <li>
             <a href="{{ note_path }}" title="{{ meal[1] }} - {{ meal[0] | date_to_string: 'ordinal', 'US' }}">
               <em>{{ meal[1] }}</em>
