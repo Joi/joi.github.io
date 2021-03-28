@@ -108,7 +108,7 @@ Hacky, but it works.
         {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal[1] | downcase }}{% endcapture %}
         {% capture obs_path %}_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}{% endcapture %}
 
-        {% assign result = site.notes | where_exp: "item", "item.url == note_path and item.feature" %}
+        {% assign result = site.notes | where_exp: "item", "item.url == note_path" %}
 
         {% if result[0] %}
           <li>
