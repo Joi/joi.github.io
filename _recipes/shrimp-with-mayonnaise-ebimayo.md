@@ -89,7 +89,7 @@ uid: 38FA8814-B207-4409-8F03-B8C191D89FA4-52325-00013BDD53836253
 </ol>
 <p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-11.jpg" alt="egg and starch" /></p>
 <ol>
-<li>Add egg and 30g of starch in bowl with shrimp and mix.</li>
+<li>Mix egg and 30g of starch in bowl then add to shrimp mix.</li>
 </ol>
 <p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-7.jpg" alt="starch in vat" /></p>
 <p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-6.jpg" alt="finished shrimp" /></p>
