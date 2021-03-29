@@ -4528,14 +4528,13 @@
   "499": {
    "featured": [
     {
+     "date": "2020-10-21",
+     "feature": "Trying billows again with smoked fish",
+     "type": "Dinner"
+    },
+    {
      "date": "2020-11-22",
      "feature": "Billows and Brined Salmon",
-     "type": "Dinner"
-    }
-   ],
-   "regular": [
-    {
-     "date": "2020-10-21",
      "type": "Dinner"
     }
    ]

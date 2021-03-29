@@ -19,9 +19,11 @@ mine: 1
 name: Grill Smoked Fish
 p_recipe_id: 499
 permalink: /recipes/grill-smoked-fish
-photo_large: null
-photo_thumb: null
-photos_dict: null
+photo_large: grill-smoked-fish-large.jpg
+photo_thumb: grill-smoked-fish-thumb.jpg
+photos_dict:
+  '1': grill-smoked-fish-1.jpg
+  '2': grill-smoked-fish-2.jpg
 prep_time: ''
 rating: 0
 servings: ''
