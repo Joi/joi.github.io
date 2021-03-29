@@ -4,8 +4,8 @@ filename: "spaghetti-with-bottarga"
 categories:
 - Pasta
 cook_time: null
-created: '2020-09-15 22:25:25'
-created_ts: 1600208725
+created: '2020-09-16 11:25:25'
+created_ts: 1600255525
 description: null
 difficulty: null
 image_url: https://www.cookingwithnonna.com/images/stories/rapidrecipe/th/cropped-1939-spaghetti%20with%20bottarga%20-%201000.jpg
@@ -27,7 +27,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Spaghetti with Bottarga
-p_recipe_id: 96
+p_recipe_id: 355
 permalink: /recipes/spaghetti-with-bottarga
 photo_large: null
 photo_thumb: spaghetti-with-bottarga-thumb.jpg

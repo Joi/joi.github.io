@@ -2,13 +2,13 @@
 title: "Cantonese-Style Lobster with Ginger and Scallions"
 filename: "cantonese-style-lobster-with-ginger-and-scallions"
 categories:
-- Chinese
 - Lobster
+- Chinese
 cook_time: 30 minutes
-created: '2021-03-09 01:51:23'
-created_ts: 1615254683
-description: null
-difficulty: null
+created: '2021-03-09 15:51:23'
+created_ts: 1615305083
+description: ''
+difficulty: ''
 image_url: null
 ingredients: '1/4 cup Shaoxing wine or dry sherry
 
@@ -35,11 +35,11 @@ ingredients: '1/4 cup Shaoxing wine or dry sherry
   12 yellow chives, cut into 2-inch pieces (optional)'
 intrash: 0
 meal_dates:
-- '2021-03-08'
+- '2021-03-09'
 meal_types: '3'
 mine: null
 name: Cantonese-Style Lobster with Ginger and Scallions
-p_recipe_id: 341
+p_recipe_id: 486
 permalink: /recipes/cantonese-style-lobster-with-ginger-and-scallions
 photo_large: cantonese-style-lobster-with-ginger-and-scallions-large.jpg
 photo_thumb: cantonese-style-lobster-with-ginger-and-scallions-thumb.jpg
@@ -53,7 +53,7 @@ servings: Serves 3 to 4
 slug: cantonese-style-lobster-with-ginger-and-scallions
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2013/05/cantonese-lobster-chinese-ginger-scallion-recipe.html
-total_time: null
+total_time: ''
 type: null
 uid: BEAF973D-2E93-4FCD-A6D7-A538E8A6EB9F-39232-0002EBFB5135FE41
 ---

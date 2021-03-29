@@ -4,10 +4,10 @@ filename: "sole-meuniere"
 categories:
 - Sole
 cook_time: 20 minutes
-created: '2020-07-30 22:14:42'
-created_ts: 1596147282
+created: '2020-07-31 11:14:42'
+created_ts: 1596194082
 description: null
-difficulty: null
+difficulty: ''
 image_url: https://static01.nyt.com/images/2017/01/13/dining/13COOKING-SOLE-MEUNIERE2/13COOKING-SOLE-MEUNIERE2-videoHpMedium.jpg
 ingredients: "\xBD cup all-purpose flour\n6 4-ounce skinless, boneless sole or other\
   \ thin fish fillets, patted dry\nKosher salt, to taste\nFreshly ground white or\
@@ -16,23 +16,23 @@ ingredients: "\xBD cup all-purpose flour\n6 4-ounce skinless, boneless sole or o
   \ into wedges, for serving"
 intrash: 0
 meal_dates:
-- '2021-01-14'
-- '2020-07-30'
+- '2020-07-31'
+- '2021-01-15'
 meal_types: 3|3
 mine: null
 name: "Sole Meuni\xE8re"
-p_recipe_id: 250
+p_recipe_id: 282
 permalink: /recipes/sole-meuniere
 photo_large: null
 photo_thumb: sole-meuniere-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: Yield 6 servings
 slug: sole-meuniere
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018509-sole-meuniere
-total_time: null
+total_time: ''
 type: null
 uid: 8BD3439A-B5C7-4F08-AB16-6B7FAC37FF17-22830-00001001DED2BBE9
 ---

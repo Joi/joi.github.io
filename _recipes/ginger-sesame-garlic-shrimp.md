@@ -4,10 +4,10 @@ filename: "ginger-sesame-garlic-shrimp"
 categories:
 - Shrimp
 cook_time: 10 minutes
-created: '2020-08-01 02:27:30'
-created_ts: 1596248850
-description: null
-difficulty: null
+created: '2020-08-01 15:27:30'
+created_ts: 1596295650
+description: ''
+difficulty: ''
 image_url: https://www.simplyrecipes.com/wp-content/uploads/2015/09/ginger-sesame-garlic-shrimp-vertical-a-12001-600x843.jpg
 ingredients: 'Marinade:
 
@@ -36,11 +36,11 @@ ingredients: 'Marinade:
   1 Tbsp sesame seeds, toasted'
 intrash: 0
 meal_dates:
-- '2020-07-31'
+- '2020-08-01'
 meal_types: '3'
 mine: null
 name: Ginger Sesame Garlic Shrimp
-p_recipe_id: 368
+p_recipe_id: 284
 permalink: /recipes/ginger-sesame-garlic-shrimp
 photo_large: null
 photo_thumb: ginger-sesame-garlic-shrimp-thumb.jpg
@@ -51,7 +51,7 @@ servings: Serves 2 to 3
 slug: ginger-sesame-garlic-shrimp
 source: simplyrecipes.com
 source_url: https://www.simplyrecipes.com/recipes/ginger_sesame_garlic_shrimp/
-total_time: null
+total_time: ''
 type: null
 uid: CE5FA6A7-C9CA-4754-A273-4A972D908B91-96025-000361F98DBB2F68
 ---

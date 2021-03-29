@@ -4,8 +4,8 @@ filename: "roast-beef-tenderloin-with-garlic-and-rosemary"
 categories:
 - Tenderloin
 cook_time: null
-created: '2020-09-20 06:57:31'
-created_ts: 1600585051
+created: '2020-09-20 19:57:31'
+created_ts: 1600631851
 description: null
 difficulty: null
 image_url: https://assets.bonappetit.com/photos/5824ee29dcf576bb502c625c/16:9/w_1880,c_limit/roast-beef-tenderloin-with-garlic-and-rosemary.jpg
@@ -19,7 +19,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Roast Beef Tenderloin with Garlic and Rosemary
-p_recipe_id: 197
+p_recipe_id: 367
 permalink: /recipes/roast-beef-tenderloin-with-garlic-and-rosemary
 photo_large: null
 photo_thumb: roast-beef-tenderloin-with-garlic-and-rosemary-thumb.jpg

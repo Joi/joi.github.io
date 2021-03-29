@@ -4,10 +4,10 @@ filename: "slow-cooker-butter-chicken"
 categories:
 - Chicken
 cook_time: about 5 hours
-created: '2020-04-19 02:25:30'
-created_ts: 1587263130
-description: null
-difficulty: null
+created: '2020-04-19 15:25:30'
+created_ts: 1587309930
+description: ''
+difficulty: ''
 image_url: https://static01.nyt.com/images/2017/07/12/multimedia/12crowdrex-copy/12crowdrex-articleLarge.jpg
 ingredients: "3 tablespoons vegetable oil\n1 medium yellow onion, diced\n3 cloves\
   \ garlic, finely chopped\n3 tablespoons grated ginger\n1 tablespoon garam masala\n\
@@ -22,18 +22,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Slow-Cooker Butter Chicken
-p_recipe_id: 307
+p_recipe_id: 111
 permalink: /recipes/slow-cooker-butter-chicken
 photo_large: null
 photo_thumb: slow-cooker-butter-chicken-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: Yield 4 to 6 servings
 slug: slow-cooker-butter-chicken
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018803-slow-cooker-butter-chicken?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-total_time: null
+total_time: ''
 type: null
 uid: AD9AE9FD-055E-4CB3-9F75-C9A884CA619A-407-00004B4D6A521E4B
 ---

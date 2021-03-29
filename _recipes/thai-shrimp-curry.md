@@ -2,11 +2,11 @@
 title: "Thai Shrimp Curry"
 filename: "thai-shrimp-curry"
 categories:
-- Curry
 - Shrimp
+- Curry
 cook_time: 15 minutes
-created: '2020-10-13 22:38:49'
-created_ts: 1602628729
+created: '2020-10-14 11:38:49'
+created_ts: 1602675529
 description: null
 difficulty: null
 image_url: https://www.onceuponachef.com/images/2015/02/Thai-Shrimp-Curry1-1700x1240.jpg
@@ -39,7 +39,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Thai Shrimp Curry
-p_recipe_id: 403
+p_recipe_id: 383
 permalink: /recipes/thai-shrimp-curry
 photo_large: null
 photo_thumb: thai-shrimp-curry-thumb.jpg

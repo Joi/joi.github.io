@@ -4,8 +4,8 @@ filename: "shredded-chicken-and-vegetable-lettuce-cups"
 categories:
 - Chicken
 cook_time: 1h 15min
-created: '2020-02-03 02:07:31'
-created_ts: 1580695651
+created: '2020-02-03 16:07:31'
+created_ts: 1580746051
 description: null
 difficulty: Easy
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/vimdb/212107.jpg
@@ -26,7 +26,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Shredded Chicken and Vegetable Lettuce Cups
-p_recipe_id: 191
+p_recipe_id: 19
 permalink: /recipes/shredded-chicken-and-vegetable-lettuce-cups
 photo_large: null
 photo_thumb: shredded-chicken-and-vegetable-lettuce-cups-thumb.jpg

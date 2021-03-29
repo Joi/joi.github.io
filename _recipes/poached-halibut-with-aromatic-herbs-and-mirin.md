@@ -4,8 +4,8 @@ filename: "poached-halibut-with-aromatic-herbs-and-mirin"
 categories:
 - Halibut
 cook_time: 5 mins
-created: '2020-08-06 22:35:33'
-created_ts: 1596753333
+created: '2020-08-07 11:35:33'
+created_ts: 1596800133
 description: null
 difficulty: null
 image_url: https://andreabeaman.com/wp-content/uploads/2017/02/poached-halibut-300x200.jpg
@@ -16,11 +16,11 @@ ingredients: "2 tbsp. mirin rice wine (or white wine)\n1 cup water or veggie sto
   \ butter\n1 tbsp. lemon juice and zest\n1 garlic clove, peeled and sliced thin"
 intrash: 0
 meal_dates:
-- '2020-08-24'
+- '2020-08-25'
 meal_types: '3'
 mine: null
 name: Poached Halibut with Aromatic Herbs and Mirin
-p_recipe_id: 71
+p_recipe_id: 296
 permalink: /recipes/poached-halibut-with-aromatic-herbs-and-mirin
 photo_large: null
 photo_thumb: poached-halibut-with-aromatic-herbs-and-mirin-thumb.jpg

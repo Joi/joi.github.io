@@ -2,17 +2,17 @@
 title: "Whatever You Want Soup"
 filename: "whatever-you-want-soup"
 categories:
-- Turkey
-- Short Ribs
 - Pork
 - Veal
 - Lamb
 - Meat
+- Short Ribs
+- Turkey
 cook_time: about 45 minutes
-created: '2020-03-28 12:23:08'
-created_ts: 1585398188
+created: '2020-03-29 01:23:08'
+created_ts: 1585444988
 description: null
-difficulty: null
+difficulty: ''
 image_url: https://static01.nyt.com/images/2017/01/11/dining/11SOUPS21/11SOUPS21-articleLarge.jpg
 ingredients: '4 tablespoons butter, olive oil or neutral-tasting oil
 
@@ -32,18 +32,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Whatever You Want Soup
-p_recipe_id: 360
+p_recipe_id: 69
 permalink: /recipes/whatever-you-want-soup
 photo_large: null
 photo_thumb: whatever-you-want-soup-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: Yield 6 to 8 servings
 slug: whatever-you-want-soup
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018526-whatever-you-want-soup?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
-total_time: null
+total_time: ''
 type: null
 uid: C888788B-88DB-4A36-90E2-6DC9A5F6FC2A-13288-000008518665F880
 ---

@@ -4,10 +4,10 @@ filename: "barbecued-beef-back-ribs"
 categories:
 - Beef Back Ribs
 cook_time: 4 h, 35 m
-created: '2020-09-26 01:30:18'
-created_ts: 1601083818
-description: null
-difficulty: null
+created: '2020-09-26 14:30:18'
+created_ts: 1601130618
+description: ''
+difficulty: ''
 image_url: https://s23991.pcdn.co/wp-content/uploads/2020/06/barbecued-beef-back-ribs.jpg
 ingredients: "3/4 cup raw or turbinado sugar, such as Sugar In The Raw\n1/4 cup salt,\
   \ or more, depending on your tolerance for the stuff (up to 1/2 cup)\n1/4 cup paprika\n\
@@ -18,12 +18,12 @@ ingredients: "3/4 cup raw or turbinado sugar, such as Sugar In The Raw\n1/4 cup 
   \ cups your favorite barbecue sauce"
 intrash: 0
 meal_dates:
-- '2020-11-27'
-- '2020-09-25'
+- '2020-09-26'
+- '2020-11-28'
 meal_types: 3|3
 mine: null
 name: Barbecued Beef Back Ribs
-p_recipe_id: 1
+p_recipe_id: 372
 permalink: /recipes/barbecued-beef-back-ribs
 photo_large: null
 photo_thumb: barbecued-beef-back-ribs-thumb.jpg
@@ -34,7 +34,7 @@ servings: Serves 4
 slug: barbecued-beef-back-ribs
 source: leitesculinaria.com
 source_url: https://leitesculinaria.com/44707/recipes-barbecued-beef-back-ribs.html
-total_time: null
+total_time: ''
 type: null
 uid: 002B5A2A-3091-46DA-9AE1-6B2BE769239B-50715-000D33962EDD8009
 ---

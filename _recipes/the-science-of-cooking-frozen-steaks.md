@@ -3,12 +3,12 @@ title: "The Science of Cooking Frozen Steaks"
 filename: "the-science-of-cooking-frozen-steaks"
 categories:
 - Meat
-cook_time: null
-created: '2020-03-04 08:10:06'
-created_ts: 1583309406
+cook_time: ''
+created: '2020-03-04 22:10:06'
+created_ts: 1583359806
 description: Conventional wisdom holds that frozen steaks should be thawed before
   cooking, but we wondered if steaks could be cooked straight from the freezer.
-difficulty: null
+difficulty: ''
 image_url: https://image.zype.com/5b0820fbdc4390132f0001ca/5b400b104b32992a31061223/custom_thumbnail/240.jpeg?1532618163
 ingredients: 'Frozen Steaks
 
@@ -17,22 +17,22 @@ ingredients: 'Frozen Steaks
   Oil'
 intrash: 0
 meal_dates:
-- '2020-04-02'
+- '2020-04-03'
 meal_types: '3'
 mine: null
 name: The Science of Cooking Frozen Steaks
-p_recipe_id: 207
+p_recipe_id: 45
 permalink: /recipes/the-science-of-cooking-frozen-steaks
 photo_large: null
 photo_thumb: the-science-of-cooking-frozen-steaks-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 4
-servings: null
+servings: ''
 slug: the-science-of-cooking-frozen-steaks
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/how_tos/8741-the-science-of-cooking-frozen-steaks?t=1583359622
-total_time: null
+total_time: ''
 type: null
 uid: 75B4FD78-C78A-4289-9E47-CC2FF12B53D3-40248-0002477EA0853A95
 ---

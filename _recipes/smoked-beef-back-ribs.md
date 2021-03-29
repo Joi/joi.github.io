@@ -4,8 +4,8 @@ filename: "smoked-beef-back-ribs"
 categories:
 - Beef Back Ribs
 cook_time: 5 hours
-created: '2020-11-27 23:04:40'
-created_ts: 1606518280
+created: '2020-11-28 13:04:40'
+created_ts: 1606568680
 description: null
 difficulty: null
 image_url: null
@@ -17,7 +17,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Smoked Beef Back Ribs
-p_recipe_id: 276
+p_recipe_id: 420
 permalink: /recipes/smoked-beef-back-ribs
 photo_large: null
 photo_thumb: null

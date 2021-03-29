@@ -2,14 +2,14 @@
 title: "Fish Meuniere with Toasted Slivered Almonds"
 filename: "fish-meuniere-with-toasted-slivered-almonds"
 categories:
-- White Fish
 - Fish
 - Seafood
-cook_time: null
-created: '2020-03-07 01:44:48'
-created_ts: 1583545488
+- White Fish
+cook_time: ''
+created: '2020-03-07 15:44:48'
+created_ts: 1583595888
 description: null
-difficulty: null
+difficulty: ''
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/1343_jf04-fishmeuniere-article
 ingredients: "**Fish**\n\xBD cup unbleached all-purpose flour\n4 sole fillets or flounder\
   \ fillets, each 5 to 6 ounces and 3/8 inch thick, patted dry with paper towels\n\
@@ -20,22 +20,22 @@ ingredients: "**Fish**\n\xBD cup unbleached all-purpose flour\n4 sole fillets or
   \ serving"
 intrash: 0
 meal_dates:
-- '2021-01-14'
+- '2021-01-15'
 meal_types: '3'
 mine: null
 name: Fish Meuniere with Toasted Slivered Almonds
-p_recipe_id: 166
+p_recipe_id: 47
 permalink: /recipes/fish-meuniere-with-toasted-slivered-almonds
 photo_large: null
 photo_thumb: fish-meuniere-with-toasted-slivered-almonds-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 5
 servings: Serves 4
 slug: fish-meuniere-with-toasted-slivered-almonds
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/1399-fish-meuniere-with-toasted-slivered-almonds?incode=MCSCM00L0&ref=new_search_experience_7
-total_time: null
+total_time: ''
 type: null
 uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4
 ---

@@ -2,11 +2,11 @@
 title: "3 2 1 Ribs"
 filename: "3-2-1-ribs"
 categories:
-- BBQ
 - Pork Spare Ribs
+- BBQ
 cook_time: 6 hrs
-created: '2020-09-18 08:21:11'
-created_ts: 1600417271
+created: '2020-09-18 21:21:11'
+created_ts: 1600464071
 description: null
 difficulty: null
 image_url: https://heygrillheycdn.sfo2.cdn.digitaloceanspaces.com/2019/06/Copy-of-how-to-make_-1-683x1024.jpg
@@ -26,7 +26,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: 3 2 1 Ribs
-p_recipe_id: 238
+p_recipe_id: 364
 permalink: /recipes/3-2-1-ribs
 photo_large: null
 photo_thumb: 3-2-1-ribs-thumb.jpg

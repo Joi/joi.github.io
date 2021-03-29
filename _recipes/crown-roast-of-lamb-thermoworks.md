@@ -3,11 +3,11 @@ title: "Crown Roast of Lamb - Thermoworks"
 filename: "crown-roast-of-lamb-thermoworks"
 categories:
 - Lamb
-cook_time: null
-created: '2020-07-13 07:49:10'
-created_ts: 1594626550
-description: null
-difficulty: null
+cook_time: ''
+created: '2020-07-13 20:49:10'
+created_ts: 1594673350
+description: ''
+difficulty: ''
 image_url: https://blog.thermoworks.com/wp-content/uploads/2018/12/crown_roast_lamb_mk4_chefalarm-44-of-52-1024x683.jpg
 ingredients: "2 Tbsp chopped fresh rosemary\n6 garlic cloves, minced\n1 Tbsp chopped\
   \ fresh oregano\n2 Tbsp chopped fresh parsley\n1 tsp lemon zest\n1 \xBD tsp salt\n\
@@ -18,18 +18,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Crown Roast of Lamb - Thermoworks
-p_recipe_id: 183
+p_recipe_id: 249
 permalink: /recipes/crown-roast-of-lamb-thermoworks
 photo_large: null
 photo_thumb: crown-roast-of-lamb-thermoworks-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
-servings: null
+servings: ''
 slug: crown-roast-of-lamb-thermoworks
 source: blog.thermoworks.com
 source_url: https://blog.thermoworks.com/blog/crown-roast-of-lamb/?gclid=CjwKCAjwjLD4BRAiEiwAg5NBFpYV0Z_X92bJ1jt70QHkxlKyzQA4cgZ6w8gUOGinMba5osRApA8vlBoCiwMQAvD_BwE
-total_time: null
+total_time: ''
 type: null
 uid: 6841B537-E74F-4F36-AAA5-1F702A69BCB7-29053-0004183AC71EA44D
 ---

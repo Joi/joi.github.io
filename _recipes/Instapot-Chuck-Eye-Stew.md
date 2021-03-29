@@ -3,11 +3,11 @@ title: "Instapot Chuck Eye Stew"
 filename: "instapot-chuck-eye-stew"
 categories:
 - Meat
-cook_time: null
-created: '2020-04-26 09:14:09'
-created_ts: 1587892449
+cook_time: ''
+created: '2020-04-26 22:14:09'
+created_ts: 1587939249
 description: Joi's recent version 4/26/2020
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: 'Chuck Eye Steak
 
@@ -44,22 +44,22 @@ ingredients: 'Chuck Eye Steak
   '
 intrash: 0
 meal_dates:
-- '2020-04-25'
+- '2020-04-26'
 meal_types: '3'
 mine: null
 name: Instapot Chuck Eye Stew
-p_recipe_id: 363
+p_recipe_id: 130
 permalink: /recipes/instapot-chuck-eye-stew
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 5
 servings: '2'
 slug: instapot-chuck-eye-stew
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: CB5616BE-378B-4E49-BD72-A9B439D968A7-89150-000287A752BD566F
 ---

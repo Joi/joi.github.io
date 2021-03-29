@@ -3,11 +3,11 @@ title: "Croissants"
 filename: "croissants"
 categories:
 - Bread and Biscuits
-cook_time: null
-created: '2020-02-03 00:59:35'
-created_ts: 1580691575
+cook_time: ''
+created: '2020-02-03 14:59:35'
+created_ts: 1580741975
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "GATHER YOUR INGREDIENTS\n3 tablespoons unsalted butter, very cold\n\
   24 tablespoons European-style butter, very cold (3 sticks)\n1 \xBE cups whole milk\n\
@@ -19,7 +19,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Croissants
-p_recipe_id: 340
+p_recipe_id: 32
 permalink: /recipes/croissants
 photo_large: croissants-large.jpg
 photo_thumb: croissants-thumb.jpg
@@ -29,13 +29,13 @@ photos_dict:
   '3': croissants-3.jpg
   '4': croissants-4.jpg
   '5': croissants-5.jpg
-prep_time: null
+prep_time: ''
 rating: 4
 servings: 22 croissants
 slug: croissants
 source: americastestkitchen.com
 source_url: https://www.americastestkitchen.com/recipes/6770-croissants?incode=MASAD00L0&ref=new_search_experience_1
-total_time: null
+total_time: ''
 type: null
 uid: BE5EEE4D-1ABA-4AA5-8C91-EC260B903F88-408-00004C55FF1A633E
 ---

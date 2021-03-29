@@ -3,11 +3,11 @@ title: "Cilantro Lime Dressing {Mexican Salad Dressing}"
 filename: "cilantro-lime-dressing-{mexican-salad-dressing}"
 categories:
 - Salad
-cook_time: null
-created: '2020-07-15 12:49:37'
-created_ts: 1594817377
-description: null
-difficulty: null
+cook_time: ''
+created: '2020-07-16 01:49:37'
+created_ts: 1594864177
+description: ''
+difficulty: ''
 image_url: https://cdn.jwplayer.com/v2/media/MJpuOTRB/poster.jpg?width=720
 ingredients: '1/2 cup finely minced fresh cilantro leaves
 
@@ -28,22 +28,22 @@ ingredients: '1/2 cup finely minced fresh cilantro leaves
   Freshly ground black pepper, to taste'
 intrash: 0
 meal_dates:
-- '2020-07-15'
+- '2020-07-16'
 meal_types: '3'
 mine: null
 name: Cilantro Lime Dressing {Mexican Salad Dressing}
-p_recipe_id: 440
+p_recipe_id: 255
 permalink: /recipes/cilantro-lime-dressing-{mexican-salad-dressing}
 photo_large: null
 photo_thumb: cilantro-lime-dressing-{mexican-salad-dressing}-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
-servings: null
+servings: ''
 slug: cilantro-lime-dressing-{mexican-salad-dressing}
 source: fivehearthome.com
 source_url: https://www.fivehearthome.com/cilantro-lime-vinaigrette-zesty-mexican-salad-dressing-recipe/
-total_time: null
+total_time: ''
 type: null
 uid: F9B2D1B0-BF79-4EFE-8703-78B7F1A63319-29053-0004C5CE4375F09A
 ---

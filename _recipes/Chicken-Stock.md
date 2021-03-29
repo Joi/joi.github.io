@@ -4,15 +4,15 @@ filename: "chicken-stock"
 categories:
 - Chicken
 - Soup
-cook_time: null
-created: '2020-09-01 05:05:51'
-created_ts: 1598936751
+cook_time: ''
+created: '2020-09-01 18:05:51'
+created_ts: 1598983551
 description: "Keep chicken parts and veggies like leeks, celery greens and parsley\
   \ stems in freezer until out of frozen chicken stock or freezer is full of frozen\
   \ chicken parts. Make the stock and freeze in quart bags and make \xBC cup cubes\
   \ with big ice maker mold. Use stock for everything.\n\nInspired by Nosrat's recipe\
   \ in _Salt, Fat, Acid, Heat_."
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: '7 lb chicken parts
 
@@ -35,17 +35,17 @@ ingredients: '7 lb chicken parts
   1 tsp white wine vinegar '
 intrash: 0
 meal_dates:
-- '2021-01-30'
-- '2021-01-02'
-- '2020-12-12'
-- '2020-11-13'
-- '2020-09-25'
-- '2020-09-25'
-- '2021-03-26'
-meal_types: 5|4|4|4|4|3|5
+- '2020-09-26'
+- '2020-09-26'
+- '2020-11-14'
+- '2020-12-13'
+- '2021-01-03'
+- '2021-01-31'
+- '2021-03-27'
+meal_types: 3|4|4|4|4|5|5
 mine: 1
 name: Chicken Stock
-p_recipe_id: 431
+p_recipe_id: 330
 permalink: /recipes/chicken-stock
 photo_large: chicken-stock-large.jpg
 photo_thumb: chicken-stock-thumb.jpg
@@ -54,13 +54,13 @@ photos_dict:
   '2': chicken-stock-2.jpg
   '3': chicken-stock-3.jpg
   '4': chicken-stock-4.jpg
-prep_time: null
+prep_time: ''
 rating: 5
-servings: null
+servings: ''
 slug: chicken-stock
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C
 ---

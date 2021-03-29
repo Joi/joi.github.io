@@ -4,11 +4,11 @@ filename: "shrimp-and-endive-salad"
 categories:
 - Salad
 - Shrimp
-cook_time: null
-created: '2021-03-22 02:49:08'
-created_ts: 1616381348
+cook_time: ''
+created: '2021-03-22 15:49:08'
+created_ts: 1616428148
 description: 'Inspired by a salad that I used to eat at [_Il Fornaio_](https://www.ilfornaio.com/). '
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: 'Endive
 
@@ -28,23 +28,23 @@ ingredients: 'Endive
   Pepper'
 intrash: 0
 meal_dates:
-- '2020-07-04'
+- '2020-07-05'
 meal_types: '3'
 mine: 1
 name: Shrimp and Endive Salad
-p_recipe_id: 455
+p_recipe_id: 490
 permalink: /recipes/shrimp-and-endive-salad
 photo_large: shrimp-and-endive-salad-large.jpg
 photo_thumb: shrimp-and-endive-salad-thumb.jpg
 photos_dict:
   '1': shrimp-and-endive-salad-1.jpg
-prep_time: null
+prep_time: ''
 rating: 5
-servings: null
+servings: ''
 slug: shrimp-and-endive-salad
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: 2E32CCAE-E32E-464E-8933-8BD80801B7C1-641-0001405C698FD612
 ---

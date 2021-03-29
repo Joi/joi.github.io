@@ -2,16 +2,16 @@
 title: "Braised Chicken Tikka Masala"
 filename: "braised-chicken-tikka-masala"
 categories:
-- Curry
 - Chicken
+- Curry
 cook_time: 30 mins
-created: '2021-01-15 04:55:42'
-created_ts: 1610686542
+created: '2021-01-15 18:55:42'
+created_ts: 1610736942
 description: Based on [this recipe from Cafe Delites](https://cafedelites.com/chicken-tikka-masala/)
   but changed to use whole chicken, bigger pieces and cooking timing based on the
   Cook's Illustrated [Braised Chicken with Basil and Tomato](https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato)
   which I find braises chicken and gets it done just right.
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "**For the chicken marinade:**\nWhole chicken\n1 cup plain yogurt\n1\
   \ \xBD Tbsp minced garlic\n1 Tbsp ginger\n2 tsp [recipe:Garam Masala]\n1 tsp turmeric\n\
@@ -26,11 +26,11 @@ ingredients: "**For the chicken marinade:**\nWhole chicken\n1 cup plain yogurt\n
   \ brown sugar\n\xBC cup water if needed\n4 Tbsp Fresh cilantro to garnish"
 intrash: 0
 meal_dates:
-- '2021-02-03'
+- '2021-02-04'
 meal_types: '3'
 mine: 1
 name: Braised Chicken Tikka Masala
-p_recipe_id: 112
+p_recipe_id: 448
 permalink: /recipes/braised-chicken-tikka-masala
 photo_large: braised-chicken-tikka-masala-large.jpg
 photo_thumb: braised-chicken-tikka-masala-thumb.jpg
@@ -47,7 +47,7 @@ servings: 'Serves: - 6 people'
 slug: braised-chicken-tikka-masala
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5
 ---

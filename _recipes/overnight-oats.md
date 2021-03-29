@@ -4,10 +4,10 @@ filename: "overnight-oats"
 categories:
 - Oats
 cook_time: 0 mins
-created: '2020-03-22 01:23:03'
-created_ts: 1584840183
-description: null
-difficulty: null
+created: '2020-03-22 14:23:03'
+created_ts: 1584886983
+description: ''
+difficulty: ''
 image_url: https://www.skinnytaste.com/wp-content/uploads/2012/06/Skinny-Overnight-Oats-in-a-Jar-550x732.jpg
 ingredients: '1/4 cup quick oats, I prefer organic
 
@@ -31,7 +31,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Overnight Oats
-p_recipe_id: 436
+p_recipe_id: 63
 permalink: /recipes/overnight-oats
 photo_large: null
 photo_thumb: overnight-oats-thumb.jpg
@@ -42,7 +42,7 @@ servings: 'Yield: 1'
 slug: overnight-oats
 source: skinnytaste.com
 source_url: https://www.skinnytaste.com/skinny-overnight-oats-in-jar/
-total_time: null
+total_time: ''
 type: null
 uid: F65DCE30-5869-4404-ACDA-1BCF020369C6-9067-000215EAF89E89DD
 ---

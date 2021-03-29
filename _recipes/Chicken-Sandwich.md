@@ -7,8 +7,8 @@ categories:
 - Italian
 - Meat
 cook_time: null
-created: '2020-02-02 06:49:33'
-created_ts: 1580626173
+created: '2020-02-02 20:49:33'
+created_ts: 1580676573
 description: "To make a really good chicken sandwich you must use freshly cooked chicken.\
   \ If you want to use leftover chicken, you will need about 3 cups (750 ml) for 6\
   \ sandwiches.\rMAKES 6 SANDWICHES"
@@ -40,7 +40,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Chicken Sandwich
-p_recipe_id: 449
+p_recipe_id: 42
 permalink: /recipes/chicken-sandwich
 photo_large: null
 photo_thumb: null

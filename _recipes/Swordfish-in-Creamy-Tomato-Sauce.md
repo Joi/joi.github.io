@@ -4,8 +4,8 @@ filename: "swordfish-in-creamy-tomato-sauce"
 categories:
 - Swordfish
 cook_time: '30'
-created: '2020-09-09 01:39:11'
-created_ts: 1599615551
+created: '2020-09-09 14:39:11'
+created_ts: 1599662351
 description: 'Inspired by [this recipe in Food and Wine.](https://www.foodandwine.com/recipes/swordfish-creamy-tomato-sauce)
 
 
@@ -13,7 +13,7 @@ description: 'Inspired by [this recipe in Food and Wine.](https://www.foodandwin
 
 
   Goes well with bread.'
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "1. 2 tbsp Unsalted butter\n1. 4 Crushed garlic cloves\n1. 1 Poblano\
   \ pepper cut into \xBC-inch dice\n1. Salt and pepper\n1. 16 oz of tomatoes, chopped\
@@ -24,7 +24,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Swordfish in Creamy Tomato Sauce
-p_recipe_id: 264
+p_recipe_id: 348
 permalink: /recipes/swordfish-in-creamy-tomato-sauce
 photo_large: swordfish-in-creamy-tomato-sauce-large.jpg
 photo_thumb: swordfish-in-creamy-tomato-sauce-thumb.jpg

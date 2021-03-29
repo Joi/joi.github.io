@@ -3,11 +3,11 @@ title: "Stuffing"
 filename: "stuffing"
 categories:
 - Turkey
-cook_time: null
-created: '2020-08-19 03:36:35'
-created_ts: 1597808195
+cook_time: ''
+created: '2020-08-19 16:36:35'
+created_ts: 1597854995
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "2\xBD pounds (about 2 loaves) high-quality sandwich bread or soft Italian\
   \ or French bread, cut into \xBE-inch dice (about 5 quarts)\r8 tablespoons (1 stick)\
@@ -19,11 +19,11 @@ ingredients: "2\xBD pounds (about 2 loaves) high-quality sandwich bread or soft 
   Kosher salt and freshly ground black pepper"
 intrash: 0
 meal_dates:
-- '2020-08-19'
+- '2020-08-20'
 meal_types: '3'
 mine: null
 name: Stuffing
-p_recipe_id: 100
+p_recipe_id: 316
 permalink: /recipes/stuffing
 photo_large: stuffing-large.jpg
 photo_thumb: stuffing-thumb.jpg
@@ -32,13 +32,13 @@ photos_dict:
   '2': stuffing-2.jpg
   '3': stuffing-3.jpg
   '4': stuffing-4.jpg
-prep_time: null
+prep_time: ''
 rating: 5
 servings: 10-12
 slug: stuffing
 source: Food Lab
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: 361C126A-71BA-4EF3-89A9-AEC190712B26-2241-0001908744F256EF
 ---

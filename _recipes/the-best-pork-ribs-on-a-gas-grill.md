@@ -4,8 +4,8 @@ filename: "the-best-pork-ribs-on-a-gas-grill"
 categories:
 - Pork Spare Ribs
 cook_time: null
-created: '2020-09-08 09:35:04'
-created_ts: 1599557704
+created: '2020-09-08 22:35:04'
+created_ts: 1599604504
 description: null
 difficulty: null
 image_url: https://www.thecountrycook.net/wp-content/uploads/2018/06/7583901920_IMG_8812.jpg
@@ -58,11 +58,11 @@ ingredients: 'pork ribs
   3-INGREDIENT SAUSAGE ROLLS'
 intrash: 0
 meal_dates:
-- '2020-09-08'
+- '2020-09-09'
 meal_types: '3'
 mine: null
 name: The Best Pork Ribs on a Gas Grill
-p_recipe_id: 78
+p_recipe_id: 345
 permalink: /recipes/the-best-pork-ribs-on-a-gas-grill
 photo_large: null
 photo_thumb: the-best-pork-ribs-on-a-gas-grill-thumb.jpg

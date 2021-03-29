@@ -2,13 +2,13 @@
 title: "Mapo Tofu"
 filename: "mapo-tofu"
 categories:
-- Ground Pork
 - Chinese
+- Ground Pork
 cook_time: 35 minutes
-created: '2021-02-28 02:21:05'
-created_ts: 1614478865
+created: '2021-02-28 16:21:05'
+created_ts: 1614529265
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "\xBD cup oil (divided)\n1-2 fresh Thai bird chili peppers (thinly sliced)\n\
   6-8 dried red chilies (roughly chopped)\n1 1/2 tablespoons Sichuan peppercorns (powdered\
@@ -23,7 +23,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Mapo Tofu
-p_recipe_id: 56
+p_recipe_id: 481
 permalink: /recipes/mapo-tofu
 photo_large: mapo-tofu-large.jpg
 photo_thumb: mapo-tofu-thumb.jpg
@@ -35,7 +35,7 @@ servings: 'Serves: 6 servings'
 slug: mapo-tofu
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/ma-po-tofu-real-deal/
-total_time: null
+total_time: ''
 type: null
 uid: 1A7FABAC-7AD9-4851-B9CD-1F64461C7DAB
 ---

@@ -4,8 +4,8 @@ filename: "adobo-sauce"
 categories:
 - Sauce
 cook_time: 15 mins
-created: '2020-08-16 02:40:29'
-created_ts: 1597545629
+created: '2020-08-16 15:40:29'
+created_ts: 1597592429
 description: null
 difficulty: null
 image_url: https://i2.wp.com/chilipeppermadness.com/wp-content/uploads/2020/01/Adobo-Sauce-Recipe1.jpg
@@ -20,7 +20,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Adobo Sauce
-p_recipe_id: 261
+p_recipe_id: 308
 permalink: /recipes/adobo-sauce
 photo_large: null
 photo_thumb: adobo-sauce-thumb.jpg

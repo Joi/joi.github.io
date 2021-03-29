@@ -2,13 +2,13 @@
 title: "Mark Bittman's Basic Pizza Dough"
 filename: "mark-bittmans-basic-pizza-dough"
 categories:
-- Pizza
 - Italian
+- Pizza
 cook_time: 2 to 3 hours mostly unattended
-created: '2021-02-03 06:08:38'
-created_ts: 1612332518
-description: null
-difficulty: null
+created: '2021-02-03 20:08:38'
+created_ts: 1612382918
+description: ''
+difficulty: ''
 image_url: https://static01.nyt.com/images/2014/05/01/dining/Basic-Pizza-Dough/Basic-Pizza-Dough-articleLarge.jpg
 ingredients: '3 cups all-purpose or bread flour, or more as needed, plus more for
   kneading
@@ -25,18 +25,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Mark Bittman's Basic Pizza Dough
-p_recipe_id: 27
+p_recipe_id: 467
 permalink: /recipes/mark-bittmans-basic-pizza-dough
 photo_large: null
 photo_thumb: mark-bittmans-basic-pizza-dough-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: Yield 2 pies
 slug: mark-bittmans-basic-pizza-dough
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12399-mark-bittmans-basic-pizza-dough
-total_time: null
+total_time: ''
 type: null
 uid: 09BA992D-E3EF-4F25-AE69-7DC75FBF3ABC-1700-00003E7028F06EF5
 ---

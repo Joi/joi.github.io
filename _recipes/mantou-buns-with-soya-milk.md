@@ -4,8 +4,8 @@ filename: "mantou-buns-with-soya-milk"
 categories:
 - Bread and Biscuits
 cook_time: 1h 35min
-created: '2020-02-01 22:33:50'
-created_ts: 1580596430
+created: '2020-02-02 12:33:50'
+created_ts: 1580646830
 description: null
 difficulty: Easy
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/17886068-1254-4182-b416-cb91f119acc8/Derivates/60ff7248-2fe1-48e2-bcaa-0ae1b8409805.jpg
@@ -18,7 +18,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Mantou Buns with Soya Milk
-p_recipe_id: 167
+p_recipe_id: 18
 permalink: /recipes/mantou-buns-with-soya-milk
 photo_large: null
 photo_thumb: mantou-buns-with-soya-milk-thumb.jpg

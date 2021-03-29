@@ -4,8 +4,8 @@ filename: "instant-pot-coq-au-vin"
 categories:
 - Chicken
 cook_time: 45 minutes
-created: '2020-09-17 02:26:27'
-created_ts: 1600309587
+created: '2020-09-17 15:26:27'
+created_ts: 1600356387
 description: null
 difficulty: null
 image_url: https://www.saltandlavender.com/wp-content/uploads/2019/03/instant-pot-coq-au-vin-recipe-2.jpg
@@ -37,7 +37,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Instant Pot Coq Au Vin
-p_recipe_id: 419
+p_recipe_id: 363
 permalink: /recipes/instant-pot-coq-au-vin
 photo_large: null
 photo_thumb: instant-pot-coq-au-vin-thumb.jpg

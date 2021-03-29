@@ -2,14 +2,14 @@
 title: "Mapotofu"
 filename: "mapotofu"
 categories:
-- Tofu
-- Ground Pork
 - Chinese
-cook_time: null
-created: '2021-03-24 02:18:40'
-created_ts: 1616552320
-description: null
-difficulty: null
+- Ground Pork
+- Tofu
+cook_time: ''
+created: '2021-03-24 15:18:40'
+created_ts: 1616599120
+description: ''
+difficulty: ''
 image_url: https://www.kyounoryouri.jp/upfile/r/l_1179995078_438.jpg?bustcache=1356573811
 ingredients: "\u6728\u7DBF\u8C46\u8150  1\u4E01\uFF08400g\uFF09\n\u306D\u304E  1/3\u672C\
   \n\u8C5A\u3072\u304D\u8089  100g\n\u306B\u3093\u306B\u304F  \u5C0F\u3055\u30581\n\
@@ -27,14 +27,14 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Mapotofu
-p_recipe_id: 456
+p_recipe_id: 491
 permalink: /recipes/mapotofu
 photo_large: null
 photo_thumb: mapotofu-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
-servings: null
+servings: ''
 slug: mapotofu
 source: kyounoryouri.jp
 source_url: https://www.kyounoryouri.jp/recipe/3771_%E3%83%9E%E3%83%BC%E3%83%9C%E3%83%BC%E8%B1%86%E8%85%90.html

@@ -2,11 +2,11 @@
 title: "Biltmore Chianti Glazed Beef Short Ribs"
 filename: "biltmore-chianti-glazed-beef-short-ribs"
 categories:
-- Short Ribs
 - Beef
+- Short Ribs
 cook_time: 4h
-created: '2020-02-03 01:56:27'
-created_ts: 1580694987
+created: '2020-02-03 15:56:27'
+created_ts: 1580745387
 description: null
 difficulty: Easy
 image_url: null
@@ -20,11 +20,11 @@ ingredients: "64 oz beef short ribs, bone in\n1 \xBD tsp salt, divided, plus ext
   \ butter\n50 oz water\ncherry tomatoes on the vine, blistered (see Tip)"
 intrash: 0
 meal_dates:
-- '2020-05-23'
+- '2020-05-24'
 meal_types: '3'
 mine: null
 name: Biltmore Chianti Glazed Beef Short Ribs
-p_recipe_id: 306
+p_recipe_id: 29
 permalink: /recipes/biltmore-chianti-glazed-beef-short-ribs
 photo_large: biltmore-chianti-glazed-beef-short-ribs-large.jpg
 photo_thumb: biltmore-chianti-glazed-beef-short-ribs-thumb.jpg
@@ -37,7 +37,7 @@ servings: 4 portions
 slug: biltmore-chianti-glazed-beef-short-ribs
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r536448
-total_time: null
+total_time: ''
 type: null
 uid: AD430477-9151-456B-8A62-1A48083DB1A9-408-00004F71AC622DAB
 ---

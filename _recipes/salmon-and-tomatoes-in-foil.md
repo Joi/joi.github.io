@@ -2,40 +2,40 @@
 title: "Salmon and Tomatoes in Foil"
 filename: "salmon-and-tomatoes-in-foil"
 categories:
-- Salmon
 - Fish
+- Salmon
 cook_time: 30 minutes
-created: '2020-03-16 06:01:31'
-created_ts: 1584338491
+created: '2020-03-16 19:01:31'
+created_ts: 1584385291
 description: null
-difficulty: null
+difficulty: ''
 image_url: https://static01.nyt.com/images/2019/04/16/dining/mb-salmon-and-tomatoes-in-foil/merlin_151791966_abb05c69-bdb1-46ee-9bf3-92205387ec0c-articleLarge.jpg
 ingredients: "4 tablespoons extra virgin olive oil\n1 \xBD to 2 pounds salmon fillet,\
   \ cut crosswise (4 pieces)\n12 cherry tomatoes, sliced in half\nSalt and pepper\n\
   16 basil leaves"
 intrash: 0
 meal_dates:
-- '2020-05-31'
-- '2020-05-17'
-- '2020-05-11'
-- '2020-04-07'
-- '2020-04-03'
-- '2021-02-04'
+- '2020-04-04'
+- '2020-04-08'
+- '2020-05-12'
+- '2020-05-18'
+- '2020-06-01'
+- '2021-02-05'
 meal_types: 3|3|3|3|3|3
 mine: null
 name: Salmon and Tomatoes in Foil
-p_recipe_id: 128
+p_recipe_id: 48
 permalink: /recipes/salmon-and-tomatoes-in-foil
 photo_large: null
 photo_thumb: salmon-and-tomatoes-in-foil-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 4
 servings: Yield 4 servings
 slug: salmon-and-tomatoes-in-foil
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1016252-salmon-and-tomatoes-in-foil?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=3
-total_time: null
+total_time: ''
 type: null
 uid: 478343E5-7749-4378-BE94-DDBF5303D157-3480-00000292A2FF3684
 ---

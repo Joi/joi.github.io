@@ -4,8 +4,8 @@ filename: "spaghetti-carbonara"
 categories:
 - Pasta
 cook_time: 25 minutes
-created: '2020-09-15 22:34:50'
-created_ts: 1600209290
+created: '2020-09-16 11:34:50'
+created_ts: 1600256090
 description: null
 difficulty: null
 image_url: null
@@ -20,7 +20,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Spaghetti Carbonara
-p_recipe_id: 31
+p_recipe_id: 357
 permalink: /recipes/spaghetti-carbonara
 photo_large: null
 photo_thumb: null

@@ -4,11 +4,11 @@ filename: "braised-lamb-shanks"
 categories:
 - Lamb
 cook_time: 3 hrs
-created: '2020-05-09 01:43:44'
-created_ts: 1588988624
-description: null
-difficulty: null
-image_url: null
+created: '2020-12-02 19:16:49'
+created_ts: 1606936609
+description: ''
+difficulty: ''
+image_url: https://cafedelites.com/wp-content/uploads/2018/12/Lamb-Shanks-IMAGE-35-1365x2048.jpg
 ingredients: '2 tablespoons extra-virgin olive oil divided
 
   4 - 6 lamb shanks trimmed of excess fat
@@ -43,25 +43,24 @@ ingredients: '2 tablespoons extra-virgin olive oil divided
   Salt and pepper to season'
 intrash: 0
 meal_dates:
-- '2020-05-08'
+- '2020-12-03'
 meal_types: '3'
 mine: null
 name: Braised Lamb Shanks
-p_recipe_id: 208
+p_recipe_id: 423
 permalink: /recipes/braised-lamb-shanks
-photo_large: braised-lamb-shanks-large.jpg
+photo_large: null
 photo_thumb: braised-lamb-shanks-thumb.jpg
-photos_dict:
-  '1': braised-lamb-shanks-1.jpg
+photos_dict: null
 prep_time: 20 mins
 rating: 5
-servings: null
+servings: ''
 slug: braised-lamb-shanks
 source: cafedelites.com
 source_url: https://cafedelites.com/lamb-shanks/
-total_time: null
+total_time: ''
 type: null
-uid: 76F7FCAF-D84A-4322-AEA6-F49B58D52339-4647-000066C3AA0F4991
+uid: 4ABFD903-B1A7-4A76-825B-61517E4A7067-12026-0000D90D031A26A7
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->

@@ -3,9 +3,9 @@ title: "Crispiest Spatchcocked Chicken"
 filename: "crispiest-spatchcocked-chicken"
 categories:
 - Chicken
-cook_time: null
-created: '2020-07-05 04:11:14'
-created_ts: 1593922274
+cook_time: ''
+created: '2020-07-05 17:11:14'
+created_ts: 1593969074
 description: "Two tricks make this simple recipe the most extraordinary way I know\
   \ to cook a whole chicken. First, spatchcocking. Spatchcocking is the term for removing\
   \ a bird\u2019s backbone and then splaying it so it lies flat, but I like to think\
@@ -21,28 +21,28 @@ description: "Two tricks make this simple recipe the most extraordinary way I kn
   \ had rested. If you don\u2019t have a chance to season the chicken and let its\
   \ skin dry out overnight, season it as early as possible, then pat it dry with a\
   \ paper towel before you begin to cook it. It\u2019ll help achieve a similar effect."
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "4-pound whole chicken\rSalt\rExtra-virgin olive oil"
 intrash: 0
 meal_dates:
-- '2020-07-08'
+- '2020-07-09'
 meal_types: '3'
 mine: null
 name: Crispiest Spatchcocked Chicken
-p_recipe_id: 5
+p_recipe_id: 231
 permalink: /recipes/crispiest-spatchcocked-chicken
 photo_large: crispiest-spatchcocked-chicken-large.jpg
 photo_thumb: crispiest-spatchcocked-chicken-thumb.jpg
 photos_dict:
   '1': crispiest-spatchcocked-chicken-1.jpg
-prep_time: null
+prep_time: ''
 rating: 0
-servings: null
+servings: ''
 slug: crispiest-spatchcocked-chicken
 source: Salt, Fat, Acid, Heat
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: 0207668D-90FE-420C-8343-595CBE5D0033-631-000197C12A00D55C
 ---

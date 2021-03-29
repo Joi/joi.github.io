@@ -4,8 +4,8 @@ filename: "skate-with-green-herb-sauce"
 categories:
 - Skate Wings
 cook_time: 15 minutes
-created: '2020-06-21 02:20:08'
-created_ts: 1592706008
+created: '2020-06-21 15:20:08'
+created_ts: 1592752808
 description: null
 difficulty: null
 image_url: https://i2.wp.com/www.foodrepublic.com/wp-content/uploads/2012/02/skate_greenherbsauce.jpg?resize=1000%2C%20667&ssl=1
@@ -35,7 +35,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Skate with Green Herb Sauce
-p_recipe_id: 391
+p_recipe_id: 198
 permalink: /recipes/skate-with-green-herb-sauce
 photo_large: null
 photo_thumb: skate-with-green-herb-sauce-thumb.jpg

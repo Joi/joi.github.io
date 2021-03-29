@@ -2,14 +2,14 @@
 title: "Bolognese Sauce"
 filename: "bolognese-sauce"
 categories:
-- Sauce
 - Pasta
 - Beef
-cook_time: null
-created: '2020-09-11 08:58:08'
-created_ts: 1599814688
+- Sauce
+cook_time: ''
+created: '2020-09-11 21:58:08'
+created_ts: 1599861488
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "1 Tbsp olive oil\n1 \xBD cups diced yellow onion\n\xBD cup diced carrots\n\
   \xBD cup diced celery\n1 lb ground beef chuck\n\xBD lb ground pork\n4 oz diced bacon\n\
@@ -19,21 +19,21 @@ ingredients: "1 Tbsp olive oil\n1 \xBD cups diced yellow onion\n\xBD cup diced c
   \ and freshly-ground black pepper\n"
 intrash: 0
 meal_dates:
-- '2021-01-24'
-- '2021-01-17'
-- '2020-12-26'
-- '2020-12-20'
-- '2020-09-15'
-- '2020-09-10'
-- '2021-03-05'
-- '2021-02-24'
-- '2021-02-16'
-- '2021-02-06'
-- '2021-03-16'
+- '2020-09-11'
+- '2020-09-16'
+- '2020-12-21'
+- '2020-12-27'
+- '2021-01-18'
+- '2021-01-25'
+- '2021-02-07'
+- '2021-02-17'
+- '2021-02-25'
+- '2021-03-06'
+- '2021-03-17'
 meal_types: 3|3|3|3|3|3|3|3|3|3|3
 mine: 1
 name: Bolognese Sauce
-p_recipe_id: 231
+p_recipe_id: 350
 permalink: /recipes/bolognese-sauce
 photo_large: bolognese-sauce-large.jpg
 photo_thumb: bolognese-sauce-thumb.jpg
@@ -54,13 +54,13 @@ photos_dict:
   '7': bolognese-sauce-7.jpg
   '8': bolognese-sauce-8.jpg
   '9': bolognese-sauce-9.jpg
-prep_time: null
+prep_time: ''
 rating: 5
-servings: null
+servings: ''
 slug: bolognese-sauce
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1
 ---

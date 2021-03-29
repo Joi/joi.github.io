@@ -4,10 +4,10 @@ filename: "slow-cooker-beef-short-ribs"
 categories:
 - Short Ribs
 cook_time: 10 minutes
-created: '2020-12-12 22:39:25'
-created_ts: 1607812765
+created: '2020-12-13 12:39:25'
+created_ts: 1607863165
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: '3 lbs beef short ribs
 
@@ -32,23 +32,23 @@ ingredients: '3 lbs beef short ribs
   optional crusty French bread'
 intrash: 0
 meal_dates:
-- '2020-12-13'
+- '2020-12-14'
 meal_types: '3'
 mine: null
 name: Slow Cooker Beef Short Ribs
-p_recipe_id: 32
+p_recipe_id: 430
 permalink: /recipes/slow-cooker-beef-short-ribs
 photo_large: slow-cooker-beef-short-ribs-large.jpg
 photo_thumb: slow-cooker-beef-short-ribs-thumb.jpg
 photos_dict:
   '1': slow-cooker-beef-short-ribs-1.jpg
-prep_time: null
+prep_time: ''
 rating: 0
 servings: 'Servings: 10'
 slug: slow-cooker-beef-short-ribs
 source: pauladeen.com
 source_url: https://www.pauladeen.com/recipe/slow-cooker-beef-short-ribs/
-total_time: null
+total_time: ''
 type: null
 uid: 0F6BB6C3-A267-4D8A-80C0-103F1CE9DF36-42209-0000227129F0FA3A
 ---

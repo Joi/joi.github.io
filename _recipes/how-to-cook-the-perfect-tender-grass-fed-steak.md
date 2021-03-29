@@ -2,12 +2,12 @@
 title: "How to Cook the Perfect, Tender, Grass Fed Steak"
 filename: "how-to-cook-the-perfect-tender-grass-fed-steak"
 categories:
-- Steaks
-- Bison
 - Beef
+- Bison
+- Steaks
 cook_time: null
-created: '2020-04-04 04:04:32'
-created_ts: 1585973072
+created: '2020-04-04 17:04:32'
+created_ts: 1586019872
 description: null
 difficulty: null
 image_url: https://www.chelseagreen.com/wp-content/uploads/CGP-grasshopper-370_cmyk-1027x600.png
@@ -29,7 +29,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: How to Cook the Perfect, Tender, Grass Fed Steak
-p_recipe_id: 239
+p_recipe_id: 89
 permalink: /recipes/how-to-cook-the-perfect-tender-grass-fed-steak
 photo_large: null
 photo_thumb: how-to-cook-the-perfect-tender-grass-fed-steak-thumb.jpg

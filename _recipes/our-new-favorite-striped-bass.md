@@ -4,8 +4,8 @@ filename: "our-new-favorite-striped-bass"
 categories:
 - Striped Bass
 cook_time: 35 minutes
-created: '2020-07-20 10:43:32'
-created_ts: 1595241812
+created: '2020-07-20 23:43:32'
+created_ts: 1595288612
 description: null
 difficulty: null
 image_url: https://umamigirl.com/wp-content/uploads/2018/11/Our-New-Favorite-Striped-Bass-Recipe-780-Umami-Girl-2-735x1110.jpg
@@ -39,7 +39,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Our New Favorite Striped Bass
-p_recipe_id: 330
+p_recipe_id: 267
 permalink: /recipes/our-new-favorite-striped-bass
 photo_large: null
 photo_thumb: our-new-favorite-striped-bass-thumb.jpg

@@ -2,13 +2,13 @@
 title: "Oven-Poached Pacific Sole with Lemon Caper Sauce"
 filename: "oven-poached-pacific-sole-with-lemon-caper-sauce"
 categories:
-- Sole
 - Fish
+- Sole
 cook_time: 40 minutes
-created: '2020-03-18 03:01:07'
-created_ts: 1584500467
-description: null
-difficulty: null
+created: '2020-03-18 16:01:07'
+created_ts: 1584547267
+description: ''
+difficulty: ''
 image_url: https://static01.nyt.com/images/2014/03/11/dining/11sole/11sole-articleLarge.jpg
 ingredients: "1 \xBD pounds Pacific sole or flounder fillets\nSalt and freshly ground\
   \ pepper\n1 tablespoon extra-virgin olive oil\n3 tablespoons finely chopped shallot\n\
@@ -18,22 +18,22 @@ ingredients: "1 \xBD pounds Pacific sole or flounder fillets\nSalt and freshly g
   \ extra-virgin olive oil\n2 to 4 tablespoons finely chopped parsley"
 intrash: 0
 meal_dates:
-- '2020-04-15'
+- '2020-04-16'
 meal_types: '3'
 mine: null
 name: Oven-Poached Pacific Sole with Lemon Caper Sauce
-p_recipe_id: 335
+p_recipe_id: 51
 permalink: /recipes/oven-poached-pacific-sole-with-lemon-caper-sauce
 photo_large: null
 photo_thumb: oven-poached-pacific-sole-with-lemon-caper-sauce-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 5
 servings: Serves 4
 slug: oven-poached-pacific-sole-with-lemon-caper-sauce
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1014640-oven-poached-pacific-sole-with-lemon-caper-sauce?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=8
-total_time: null
+total_time: ''
 type: null
 uid: B96AD161-7872-4FBB-ABD2-2C51CF408E15-9067-0000E0F8F7176475
 ---

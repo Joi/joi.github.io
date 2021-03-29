@@ -4,8 +4,8 @@ filename: "mushroom-filling"
 categories:
 - Breakfast
 cook_time: null
-created: '2020-02-03 00:51:13'
-created_ts: 1580691073
+created: '2020-02-03 14:51:13'
+created_ts: 1580741473
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/20178_sfs-fluffy-omelets-mushroom-filling-2
@@ -17,7 +17,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Mushroom Filling
-p_recipe_id: 374
+p_recipe_id: 35
 permalink: /recipes/mushroom-filling
 photo_large: null
 photo_thumb: mushroom-filling-thumb.jpg

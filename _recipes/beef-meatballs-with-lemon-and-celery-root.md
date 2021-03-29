@@ -3,9 +3,9 @@ title: "Beef meatballs with lemon and celery root"
 filename: "beef-meatballs-with-lemon-and-celery-root"
 categories:
 - Ground Beef
-cook_time: null
-created: '2020-05-10 01:20:52'
-created_ts: 1589073652
+cook_time: ''
+created: '2020-05-10 14:20:52'
+created_ts: 1589120452
 description: I often say that my favorite food is the sort that can, at once, comfort,
   surprise, and delight. This dish (as is often the case with meatballs) does all
   these things for me. The meatballs have all the comfort of a home-cooked meal, with
@@ -13,7 +13,7 @@ description: I often say that my favorite food is the sort that can, at once, co
   they are, served with some couscous or rice to soak up the juices, or with a little
   bit of Greek-style yogurt on the side. The dish can be made a day in advance and
   kept in the fridge. Reheat before serving.
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "14 oz/400g ground beef\rI medium onion, finely chopped (scant 1 cup/\
   \ 140g)\r3 cups/ 120g fresh white breadcrumbs (from about 4 slices, crusts removed)\r\
@@ -25,11 +25,11 @@ ingredients: "14 oz/400g ground beef\rI medium onion, finely chopped (scant 1 cu
   3 1/2 tbsp lemon juice"
 intrash: 0
 meal_dates:
-- '2020-05-09'
+- '2020-05-10'
 meal_types: '3'
 mine: null
 name: Beef meatballs with lemon and celery root
-p_recipe_id: 178
+p_recipe_id: 143
 permalink: /recipes/beef-meatballs-with-lemon-and-celery-root
 photo_large: beef-meatballs-with-lemon-and-celery-root-large.jpg
 photo_thumb: beef-meatballs-with-lemon-and-celery-root-thumb.jpg
@@ -37,13 +37,13 @@ photos_dict:
   '1': beef-meatballs-with-lemon-and-celery-root-1.jpg
   '2': beef-meatballs-with-lemon-and-celery-root-2.jpg
   '3': beef-meatballs-with-lemon-and-celery-root-3.jpg
-prep_time: null
+prep_time: ''
 rating: 4
 servings: '4'
 slug: beef-meatballs-with-lemon-and-celery-root
 source: Ottolenghi Simple
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: 63C6D918-6027-4F87-95BD-6A4D2845F30C-4647-0000B41A34AB568A
 ---

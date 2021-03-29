@@ -3,11 +3,11 @@ title: "French Chicken in a Pot"
 filename: "french-chicken-in-a-pot"
 categories:
 - Chicken
-cook_time: null
-created: '2020-05-26 17:08:02'
-created_ts: 1590512882
+cook_time: ''
+created: '2020-05-27 06:08:02'
+created_ts: 1590559682
 description: null
-difficulty: null
+difficulty: ''
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/29894_sfs-chicken-in-a-pot-18
 ingredients: "GATHER YOUR INGREDIENTS\n1 whole roasting chicken (4 1/2 to 5 pounds),\
   \ giblets removed and discarded, wings tucked under back (see note)\n2 teaspoons\
@@ -18,22 +18,22 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 whole roasting chicken (4 1/2 to 5 poun
   \ 1 lemon"
 intrash: 0
 meal_dates:
-- '2020-05-26'
+- '2020-05-27'
 meal_types: '3'
 mine: null
 name: French Chicken in a Pot
-p_recipe_id: 116
+p_recipe_id: 171
 permalink: /recipes/french-chicken-in-a-pot
 photo_large: null
 photo_thumb: french-chicken-in-a-pot-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 4
 servings: Serves 4
 slug: french-chicken-in-a-pot
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/4022-french-chicken-in-a-pot?incode=MCSCM00L0&ref=new_search_experience_1
-total_time: null
+total_time: ''
 type: null
 uid: 40C2E60A-8F0B-4AF9-9A1E-07E1334645D9-20587-0000089478BD8670
 ---

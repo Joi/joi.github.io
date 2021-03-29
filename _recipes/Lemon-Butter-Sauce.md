@@ -4,8 +4,8 @@ filename: "lemon-butter-sauce"
 categories:
 - Sauce
 cook_time: 15 mins
-created: '2020-11-02 23:07:17'
-created_ts: 1604358437
+created: '2020-11-03 13:07:17'
+created_ts: 1604408837
 description: null
 difficulty: null
 image_url: https://dashofsanity.com/wp-content/uploads/2018/01/COPYCAT-CARRABBAS-LEMON-BUTTER-SAUCE.png
@@ -22,11 +22,11 @@ ingredients: '12 tablespoons cold unsalted butter, sliced into 1/2 inch pieces, 
   Kosher salt and ground white pepper'
 intrash: 0
 meal_dates:
-- '2021-01-25'
+- '2021-01-26'
 meal_types: '3'
 mine: null
 name: Lemon Butter Sauce
-p_recipe_id: 411
+p_recipe_id: 401
 permalink: /recipes/lemon-butter-sauce
 photo_large: null
 photo_thumb: lemon-butter-sauce-thumb.jpg

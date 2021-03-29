@@ -2,13 +2,13 @@
 title: "Italian-Style Fish Stew"
 filename: "italian-style-fish-stew"
 categories:
-- White Fish
 - Fish
+- White Fish
 cook_time: 1 hour
-created: '2020-04-11 00:30:28'
-created_ts: 1586565028
-description: null
-difficulty: null
+created: '2020-04-11 13:30:28'
+created_ts: 1586611828
+description: ''
+difficulty: ''
 image_url: null
 ingredients: "2 pounds white-fleshed fish fillets, such as hake, snapper or sea bass,\
   \ skin removed\nSalt and pepper\n2 teaspoons chopped thyme or marjoram\nExtra-virgin\
@@ -20,24 +20,24 @@ ingredients: "2 pounds white-fleshed fish fillets, such as hake, snapper or sea 
   \ slices country bread\n\xBC cup chopped parsley"
 intrash: 0
 meal_dates:
-- '2020-06-24'
-- '2020-04-10'
+- '2020-04-11'
+- '2020-06-25'
 meal_types: 3|3
 mine: null
 name: Italian-Style Fish Stew
-p_recipe_id: 24
+p_recipe_id: 100
 permalink: /recipes/italian-style-fish-stew
 photo_large: italian-style-fish-stew-large.jpg
 photo_thumb: italian-style-fish-stew-thumb.jpg
 photos_dict:
   '1': italian-style-fish-stew-1.jpg
-prep_time: null
+prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings
 slug: italian-style-fish-stew
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018346-italian-style-fish-stew?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=3
-total_time: null
+total_time: ''
 type: null
 uid: 07CCA1F2-E1F3-43E7-9754-D5E1289B797D-53878-00004814D79F4E62
 ---

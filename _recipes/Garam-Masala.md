@@ -4,8 +4,8 @@ filename: "garam-masala"
 categories:
 - Curry
 cook_time: '10'
-created: '2021-02-04 00:58:46'
-created_ts: 1612400326
+created: '2021-02-04 14:58:46'
+created_ts: 1612450726
 description: null
 difficulty: null
 image_url: https://www.feastingathome.com/wp-content/uploads/2018/12/garam-masala-recipe-100-683x1024.jpg
@@ -18,7 +18,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Garam Masala
-p_recipe_id: 26
+p_recipe_id: 468
 permalink: /recipes/garam-masala
 photo_large: null
 photo_thumb: garam-masala-thumb.jpg

@@ -4,8 +4,8 @@ filename: "asian-salad-dressing"
 categories:
 - Salad
 cook_time: null
-created: '2020-10-22 08:27:55'
-created_ts: 1603355275
+created: '2020-10-22 21:27:55'
+created_ts: 1603402075
 description: null
 difficulty: null
 image_url: https://www.culinaryhill.com/wp-content/uploads/2020/01/Asian-Salad-Dressing-Recipe-Culinary-Hill-hero.jpg
@@ -40,11 +40,11 @@ ingredients: '2 tablespoons canola oil (see note 1)
   1/8 teaspoon garlic powder'
 intrash: 0
 meal_dates:
-- '2020-10-21'
+- '2020-10-22'
 meal_types: '3'
 mine: null
 name: Asian Salad Dressing
-p_recipe_id: 203
+p_recipe_id: 392
 permalink: /recipes/asian-salad-dressing
 photo_large: null
 photo_thumb: asian-salad-dressing-thumb.jpg

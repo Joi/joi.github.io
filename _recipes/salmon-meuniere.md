@@ -4,10 +4,10 @@ filename: "salmon-meuniere"
 categories:
 - Salmon
 cook_time: 10 mins
-created: '2020-07-22 22:15:23'
-created_ts: 1595456123
+created: '2020-07-23 11:15:23'
+created_ts: 1595502923
 description: 'Based on: https://www.wellplated.com/salmon-meuniere/'
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "\xBC cup all-purpose flour\n1 \xBC teaspoons kosher salt - divided\n\
   \xBD teaspoon black pepper\n2 6-ounce salmon fillets, skins removed\n2 tablespoons\
@@ -16,12 +16,12 @@ ingredients: "\xBC cup all-purpose flour\n1 \xBC teaspoons kosher salt - divided
   \ fresh parsley\n1 tablespoon drained capers"
 intrash: 0
 meal_dates:
-- '2020-11-13'
-- '2020-09-28'
+- '2020-09-29'
+- '2020-11-14'
 meal_types: 3|3
 mine: null
 name: Salmon Meuniere
-p_recipe_id: 76
+p_recipe_id: 270
 permalink: /recipes/salmon-meuniere
 photo_large: salmon-meuniere-large.jpg
 photo_thumb: salmon-meuniere-thumb.jpg
@@ -33,7 +33,7 @@ servings: 'Servings: 2 servings'
 slug: salmon-meuniere
 source: wellplated.com
 source_url: https://www.wellplated.com/salmon-meuniere/
-total_time: null
+total_time: ''
 type: null
 uid: 281C0C73-405E-432E-A50B-7BF799868111-1118-00000110C5CB2AD2
 ---

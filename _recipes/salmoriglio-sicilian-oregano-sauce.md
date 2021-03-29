@@ -3,11 +3,11 @@ title: "Salmoriglio Sicilian Oregano Sauce"
 filename: "salmoriglio-sicilian-oregano-sauce"
 categories:
 - Sauce
-cook_time: null
-created: '2020-07-30 05:42:04'
-created_ts: 1596087724
+cook_time: ''
+created: '2020-07-30 18:42:04'
+created_ts: 1596134524
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "\xBC cup very finely chopped parsley\r2 tablespoons very finely chopped\
   \ fresh oregano or marjoram or 1 tablespoon dried oregano\r1 garlic clove, finely\
@@ -15,22 +15,22 @@ ingredients: "\xBC cup very finely chopped parsley\r2 tablespoons very finely ch
   \ lemon juice\rSalt"
 intrash: 0
 meal_dates:
-- '2020-07-29'
+- '2020-07-30'
 meal_types: '3'
 mine: null
 name: Salmoriglio Sicilian Oregano Sauce
-p_recipe_id: 252
+p_recipe_id: 281
 permalink: /recipes/salmoriglio-sicilian-oregano-sauce
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: "\xBD cup"
 slug: salmoriglio-sicilian-oregano-sauce
 source: Salt, Fat, Acid, Heat
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: 8CBA434A-8D16-4B6E-BEC2-2364ECF2E5C3-96025-0002CF722DAFF147
 ---

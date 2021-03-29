@@ -3,11 +3,11 @@ title: "Mayonnaise"
 filename: "mayonnaise"
 categories:
 - Spread
-cook_time: null
-created: '2020-02-01 23:00:49'
-created_ts: 1580598049
-description: null
-difficulty: null
+cook_time: ''
+created: '2020-02-02 13:00:49'
+created_ts: 1580648449
+description: ''
+difficulty: ''
 image_url: null
 ingredients: "2 large egg yolks or 1 large egg and 1 large egg yolk, at room temperature\n\
   2 tap white or red vinegar\n\xBC tsp dry mustard\n\xBE tsp Salt\nFreshly ground\
@@ -15,26 +15,26 @@ ingredients: "2 large egg yolks or 1 large egg and 1 large egg yolk, at room tem
   \ as needed to thin sauce"
 intrash: 0
 meal_dates:
-- '2021-01-21'
-- '2020-08-16'
-- '2020-06-10'
-- '2021-03-26'
-meal_types: 3|3|2|5
+- '2020-06-11'
+- '2020-08-17'
+- '2021-01-22'
+- '2021-03-27'
+meal_types: 2|3|3|5
 mine: 1
 name: Mayonnaise
-p_recipe_id: 390
+p_recipe_id: 39
 permalink: /recipes/mayonnaise
 photo_large: mayonnaise-large.jpg
 photo_thumb: mayonnaise-thumb.jpg
 photos_dict:
   '1': mayonnaise-1.jpg
-prep_time: null
+prep_time: ''
 rating: 5
 servings: ''
 slug: mayonnaise
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: D5E799CA-BA36-4A30-B385-9CD111E6F9A5-25037-0000A0DF30640117
 ---

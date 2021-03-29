@@ -2,13 +2,13 @@
 title: "Sorrel Sauce with Poached Fish"
 filename: "sorrel-sauce-with-poached-fish"
 categories:
-- White Fish
-- Sole
-- Salmon
 - Fish
+- Salmon
+- Sole
+- White Fish
 cook_time: 20 min
-created: '2020-04-21 05:43:20'
-created_ts: 1587447800
+created: '2020-04-21 18:43:20'
+created_ts: 1587494600
 description: null
 difficulty: Hard
 image_url: null
@@ -31,7 +31,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Sorrel Sauce with Poached Fish
-p_recipe_id: 218
+p_recipe_id: 122
 permalink: /recipes/sorrel-sauce-with-poached-fish
 photo_large: null
 photo_thumb: null

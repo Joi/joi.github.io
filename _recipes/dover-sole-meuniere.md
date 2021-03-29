@@ -4,9 +4,9 @@ filename: "dover-sole-meuniere"
 categories:
 - Sole
 cook_time: 30 min
-created: '2020-07-31 07:34:09'
-created_ts: 1596180849
-description: null
+created: '2020-07-31 20:34:09'
+created_ts: 1596227649
+description: ''
 difficulty: Easy
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2015/11/20/5/QFSP02_Geoffreys-Dover-Sole-Meuniere_s4x3.jpg.rend.hgtvcom.826.620.suffix/1449102906778.jpeg
 ingredients: '1 to 2 cups quick-mixing flour, such as Wondra
@@ -29,7 +29,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Dover Sole Meuniere
-p_recipe_id: 205
+p_recipe_id: 283
 permalink: /recipes/dover-sole-meuniere
 photo_large: null
 photo_thumb: dover-sole-meuniere-thumb.jpg
@@ -40,7 +40,7 @@ servings: 'Yield: 4 servings'
 slug: dover-sole-meuniere
 source: foodnetwork.com
 source_url: https://www.foodnetwork.com/recipes/geoffrey-zakarian/dover-sole-meuniere-3185347
-total_time: null
+total_time: ''
 type: null
 uid: 7270F200-1ACF-436B-B042-C40410A9A6A0-96025-000324221A61F300
 ---

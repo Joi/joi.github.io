@@ -4,8 +4,8 @@ filename: "caesar-salad"
 categories:
 - Salad
 cook_time: 30min
-created: '2020-02-03 02:02:47'
-created_ts: 1580695367
+created: '2020-02-03 16:02:47'
+created_ts: 1580745767
 description: null
 difficulty: Medium
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/vimdb/166356.jpg
@@ -20,7 +20,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Caesar Salad
-p_recipe_id: 43
+p_recipe_id: 5
 permalink: /recipes/caesar-salad
 photo_large: null
 photo_thumb: caesar-salad-thumb.jpg

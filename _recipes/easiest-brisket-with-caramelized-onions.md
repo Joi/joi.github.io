@@ -4,8 +4,8 @@ filename: "easiest-brisket-with-caramelized-onions"
 categories:
 - Brisket
 cook_time: 3 hours
-created: '2020-09-06 11:30:29'
-created_ts: 1599391829
+created: '2020-09-07 00:30:29'
+created_ts: 1599438629
 description: null
 difficulty: null
 image_url: https://dinnerthendessert.com/wp-content/uploads/2018/01/Beef-Brisket-with-Caramelized-Onions-FB.jpg
@@ -31,7 +31,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Easiest Brisket with Caramelized Onions
-p_recipe_id: 177
+p_recipe_id: 340
 permalink: /recipes/easiest-brisket-with-caramelized-onions
 photo_large: null
 photo_thumb: easiest-brisket-with-caramelized-onions-thumb.jpg

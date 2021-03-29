@@ -4,10 +4,10 @@ filename: "tim-mcnultys-skate-wings-piccata"
 categories:
 - Skate Wings
 cook_time: 30 minutes
-created: '2020-05-26 23:44:39'
-created_ts: 1590536679
-description: null
-difficulty: null
+created: '2020-05-27 12:44:39'
+created_ts: 1590583479
+description: ''
+difficulty: ''
 image_url: https://static01.nyt.com/applications/cooking/4dd3952/assets/NYTCookingLogo.png
 ingredients: "3 tablespoons olive oil\n3 tablespoons unsalted butter, melted\n6 skate\
   \ wings, each 6 to 8 inches across\nKosher salt and freshly ground black pepper\
@@ -16,22 +16,22 @@ ingredients: "3 tablespoons olive oil\n3 tablespoons unsalted butter, melted\n6 
   \ capers\nFresh Italian parsley, chopped, for garnish"
 intrash: 0
 meal_dates:
-- '2020-05-29'
+- '2020-05-30'
 meal_types: '3'
 mine: null
 name: Tim McNulty's Skate Wings Piccata
-p_recipe_id: 399
+p_recipe_id: 172
 permalink: /recipes/tim-mcnultys-skate-wings-piccata
 photo_large: null
 photo_thumb: tim-mcnultys-skate-wings-piccata-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 4
 servings: Yield 6 servings
 slug: tim-mcnultys-skate-wings-piccata
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/8583-tim-mcnultys-skate-wings-piccata?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=3
-total_time: null
+total_time: ''
 type: null
 uid: DBFAB744-4396-4E8D-92AE-115C6E16D77A-29546-00034653B911D352
 ---

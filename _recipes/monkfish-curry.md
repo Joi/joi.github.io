@@ -4,8 +4,8 @@ filename: "monkfish-curry"
 categories:
 - Monkfish
 cook_time: 10 to 30 mins
-created: '2020-11-05 10:23:48'
-created_ts: 1604571828
+created: '2020-11-06 00:23:48'
+created_ts: 1604622228
 description: null
 difficulty: null
 image_url: null
@@ -31,7 +31,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Monkfish Curry
-p_recipe_id: 175
+p_recipe_id: 403
 permalink: /recipes/monkfish-curry
 photo_large: null
 photo_thumb: null

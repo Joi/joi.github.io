@@ -4,8 +4,8 @@ filename: "skate-with-wild-mushrooms-in-pearl-sauce"
 categories:
 - Skate Wings
 cook_time: 1 1/4 hr
-created: '2020-06-21 02:19:42'
-created_ts: 1592705982
+created: '2020-06-21 15:19:42'
+created_ts: 1592752782
 description: null
 difficulty: null
 image_url: https://assets.epicurious.com/photos/560de5b4f3a00aeb2f1d54ec/1:1/w_600%2Ch_600/232615.jpg
@@ -26,7 +26,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Skate with Wild Mushrooms in Pearl Sauce
-p_recipe_id: 283
+p_recipe_id: 197
 permalink: /recipes/skate-with-wild-mushrooms-in-pearl-sauce
 photo_large: null
 photo_thumb: skate-with-wild-mushrooms-in-pearl-sauce-thumb.jpg

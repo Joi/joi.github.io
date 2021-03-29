@@ -3,9 +3,9 @@ title: "Monkfish Braised with White Beans, Fennel, & Tomato"
 filename: "monkfish-braised-with-white-beans-fennel-tomato"
 categories:
 - Monkfish
-cook_time: null
-created: '2020-09-01 04:52:04'
-created_ts: 1598935924
+cook_time: ''
+created: '2020-09-01 17:52:04'
+created_ts: 1598982724
 description: 'THIS DISH REAPPEARS IN A NUMBER OF FORMS AT ZUNI, SOMETIMES WITH THICKLY
   sliced boiled potatoes instead of beans, or with house-salted cod in lieu of monkfish,
   or with big chunks of blanched leeks in place of the fennel. In summer, we shove
@@ -18,7 +18,7 @@ description: 'THIS DISH REAPPEARS IN A NUMBER OF FORMS AT ZUNI, SOMETIMES WITH T
   If you plan to make the fumet, ask for monkfish bones when you buy the fillets.
   (The fumet will take less than an hour to make.) You can cook the beans a day or
   two in advance.'
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: '4 chunks monkfish fillet, about 6 ounces each, skin and translucent
   membrane removed
@@ -51,15 +51,15 @@ ingredients: '4 chunks monkfish fillet, about 6 ounces each, skin and translucen
   About 1/2 cup [recipe: Aioli Sauce]'
 intrash: 0
 meal_dates:
-- '2020-10-12'
-- '2020-09-18'
-- '2020-08-21'
-- '2020-08-31'
-- '2021-03-25'
+- '2020-09-01'
+- '2020-08-22'
+- '2020-09-19'
+- '2020-10-13'
+- '2021-03-26'
 meal_types: 3|3|3|3|3
 mine: null
 name: Monkfish Braised with White Beans, Fennel, & Tomato
-p_recipe_id: 133
+p_recipe_id: 328
 permalink: /recipes/monkfish-braised-with-white-beans-fennel-tomato
 photo_large: monkfish-braised-with-white-beans-fennel-tomato-large.jpg
 photo_thumb: monkfish-braised-with-white-beans-fennel-tomato-thumb.jpg
@@ -78,13 +78,13 @@ photos_dict:
   '7': monkfish-braised-with-white-beans-fennel-tomato-7.jpg
   '8': monkfish-braised-with-white-beans-fennel-tomato-8.jpg
   '9': monkfish-braised-with-white-beans-fennel-tomato-9.jpg
-prep_time: null
+prep_time: ''
 rating: 5
 servings: '4'
 slug: monkfish-braised-with-white-beans-fennel-tomato
 source: The Zuni Cafe Cookbook
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: 4BEE23AC-2D81-4286-95B1-C03143055FB4-13002-00059228C79F4EF4
 ---

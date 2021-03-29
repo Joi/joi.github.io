@@ -4,10 +4,10 @@ filename: "foolproof-chuck-steak-with-smoky-chimichurri"
 categories:
 - Chick Steak
 cook_time: 60 mins
-created: '2020-08-23 00:35:15'
-created_ts: 1598142915
+created: '2020-08-23 13:35:15'
+created_ts: 1598189715
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: 'STEAK
 
@@ -49,7 +49,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Foolproof Chuck Steak with Smoky Chimichurri
-p_recipe_id: 370
+p_recipe_id: 322
 permalink: /recipes/foolproof-chuck-steak-with-smoky-chimichurri
 photo_large: foolproof-chuck-steak-with-smoky-chimichurri-large.jpg
 photo_thumb: foolproof-chuck-steak-with-smoky-chimichurri-thumb.jpg
@@ -61,7 +61,7 @@ servings: Serves 2 to 4
 slug: foolproof-chuck-steak-with-smoky-chimichurri
 source: myrecipes.com
 source_url: https://www.myrecipes.com/recipe/foolproof-chuck-steak-smoky-chimichurri
-total_time: null
+total_time: ''
 type: null
 uid: CEDB473E-DE66-49BB-A26A-E39699CB17AE-6290-0000032FC1829B23
 ---

@@ -3,11 +3,11 @@ title: "Tuna Confit"
 filename: "tuna-confit"
 categories:
 - Tuna
-cook_time: null
-created: '2020-08-05 18:42:38'
-created_ts: 1596652958
+cook_time: ''
+created: '2020-08-06 07:42:38'
+created_ts: 1596699758
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: '1. 2 lb. top-quality fresh tuna (yellowfin or ahi), cut into 1-inch-thick
   steaks
@@ -41,22 +41,22 @@ ingredients: '1. 2 lb. top-quality fresh tuna (yellowfin or ahi), cut into 1-inc
   1. Zest of 1 lemon, pared in strips'
 intrash: 0
 meal_dates:
-- '2020-08-04'
+- '2020-08-05'
 meal_types: '3'
 mine: null
 name: Tuna Confit
-p_recipe_id: 86
+p_recipe_id: 293
 permalink: /recipes/tuna-confit
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 5
 servings: '4'
 slug: tuna-confit
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: 2EAA4463-01CB-4867-B49F-3B45423BBD9A-1060-0001042DD69580EF
 ---

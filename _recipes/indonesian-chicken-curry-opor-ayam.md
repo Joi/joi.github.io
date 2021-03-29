@@ -4,8 +4,8 @@ filename: "indonesian-chicken-curry-opor-ayam"
 categories:
 - Chicken
 cook_time: 70 minutes
-created: '2020-03-26 02:44:51'
-created_ts: 1585190691
+created: '2020-03-26 15:44:51'
+created_ts: 1585237491
 description: null
 difficulty: null
 image_url: https://static01.nyt.com/images/2016/07/06/dining/06EIDjp4/06EIDjp4-articleLarge.jpg
@@ -23,7 +23,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Indonesian Chicken Curry (Opor Ayam)
-p_recipe_id: 139
+p_recipe_id: 64
 permalink: /recipes/indonesian-chicken-curry-opor-ayam
 photo_large: null
 photo_thumb: indonesian-chicken-curry-opor-ayam-thumb.jpg

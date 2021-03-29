@@ -4,8 +4,8 @@ filename: "tuna-tataki-recipe"
 categories:
 - Tuna
 cook_time: 5 mins
-created: '2020-06-25 21:42:57'
-created_ts: 1593121377
+created: '2020-06-26 10:42:57'
+created_ts: 1593168177
 description: null
 difficulty: ''
 image_url: null
@@ -17,11 +17,11 @@ ingredients: "\xBD lb sashimi grade yellowfin/ahi tuna\n2 Tbsp neutral-flavored 
   \ Thread"
 intrash: 0
 meal_dates:
-- '2020-06-25'
+- '2020-06-26'
 meal_types: '3'
 mine: null
 name: Tuna Tataki Recipe
-p_recipe_id: 109
+p_recipe_id: 204
 permalink: /recipes/tuna-tataki-recipe
 photo_large: tuna-tataki-recipe-large.jpg
 photo_thumb: tuna-tataki-recipe-thumb.jpg

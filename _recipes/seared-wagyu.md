@@ -3,33 +3,33 @@ title: "Seared Wagyu"
 filename: "seared-wagyu"
 categories:
 - Wagyu
-cook_time: null
-created: '2021-03-27 02:14:27'
-created_ts: 1616811267
+cook_time: ''
+created: '2021-03-27 15:14:27'
+created_ts: 1616858067
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: Wagyu
 intrash: 0
 meal_dates:
-- '2021-03-26'
+- '2021-03-27'
 meal_types: '3'
 mine: 1
 name: Seared Wagyu
-p_recipe_id: 458
+p_recipe_id: 495
 permalink: /recipes/seared-wagyu
 photo_large: seared-wagyu-large.jpg
 photo_thumb: seared-wagyu-thumb.jpg
 photos_dict:
   '1': seared-wagyu-1.jpg
   '2': seared-wagyu-2.jpg
-prep_time: null
+prep_time: ''
 rating: 0
-servings: null
+servings: ''
 slug: seared-wagyu
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: stub
 uid: 262774CC-626C-4F72-8909-FE19C8E95011-52325-0000F03B26F6A966
 ---
