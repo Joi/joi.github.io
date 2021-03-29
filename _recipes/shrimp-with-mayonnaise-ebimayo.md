@@ -79,29 +79,29 @@ uid: 38FA8814-B207-4409-8F03-B8C191D89FA4-52325-00013BDD53836253
 <li>Coriander, chopped</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/shrimp-with-mayonaise-ebimayo-9.jpg" alt="mayonnaise mix" /></p>
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-9.jpg" alt="mayonnaise mix" /></p>
 <ol>
 <li>Mix cream, condensed milk, gin and ketchup in a bowl and add mayonnaise at the end.</li>
 </ol>
-<p><img src="/images/recipes/shrimp-with-mayonaise-ebimayo-14.jpg" alt="mix shrimp" /></p>
+<p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-14.jpg" alt="mix shrimp" /></p>
 <ol>
 <li>Put shrimp in bowl and add salt, pepper, starch, sesame oil and mix.</li>
 </ol>
-<p><img src="/images/recipes/shrimp-with-mayonaise-ebimayo-11.jpg" alt="egg and starch" /></p>
+<p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-11.jpg" alt="egg and starch" /></p>
 <ol>
 <li>Add egg and 30g of starch in bowl with shrimp and mix.</li>
 </ol>
-<p><img src="/images/recipes/shrimp-with-mayonaise-ebimayo-7.jpg" alt="starch in vat" /></p>
-<p><img src="/images/recipes/shrimp-with-mayonaise-ebimayo-6.jpg" alt="finished shrimp" /></p>
+<p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-7.jpg" alt="starch in vat" /></p>
+<p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-6.jpg" alt="finished shrimp" /></p>
 <ol>
 <li>Put starch in a vat and dunk shrimp and coat with starch.</li>
 </ol>
-<p><img src="/images/recipes/shrimp-with-mayonaise-ebimayo-5.jpg" alt="fry" /></p>
+<p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-5.jpg" alt="fry" /></p>
 <ol>
 <li>Heat oil to 340ºF and fry shrimp for a few min and remove before they turn brown.</li>
 </ol>
-<p><img src="/images/recipes/shrimp-with-mayonaise-ebimayo-3.jpg" alt="fried" /></p>
-<p><img src="/images/recipes/shrimp-with-mayonaise-ebimayo-2.jpg" alt="mix with mayonnaise" /></p>
+<p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-3.jpg" alt="fried" /></p>
+<p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-2.jpg" alt="mix with mayonnaise" /></p>
 <ol>
 <li>Mix with mayonnaise and garnish with parsley and nuts and serve.</li>
 </ol>
