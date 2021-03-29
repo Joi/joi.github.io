@@ -5,8 +5,8 @@ categories:
 - Chicken
 - Soup
 cook_time: ''
-created: '2020-10-15 18:13:56'
-created_ts: 1602785636
+created: '2020-10-15 05:13:56'
+created_ts: 1602738836
 description: "this is an easy, crowd-pleasing dish I owe to Madeleine Serraille, sister\
   \ of the famous fr\xE8res Troisgros. It is one of the distracting dishes her brother\
   \ Jean would sniff and sample when he happened by her house on his way back to the\
@@ -48,11 +48,11 @@ ingredients: '4 chicken legs (about 8 ounces each) or one 3-pound chicken, back 
   About 1/2 cup [recipe:Aioli Sauce] or 1 garlic clove, peeled'
 intrash: 0
 meal_dates:
-- '2020-10-15'
+- '2020-10-14'
 meal_types: '3'
 mine: null
 name: Chicken Bouillabaisse
-p_recipe_id: 386
+p_recipe_id: 432
 permalink: /recipes/chicken-bouillabaisse
 photo_large: null
 photo_thumb: null

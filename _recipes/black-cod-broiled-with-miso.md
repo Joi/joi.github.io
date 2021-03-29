@@ -4,8 +4,8 @@ filename: "black-cod-broiled-with-miso"
 categories:
 - Black Cod
 cook_time: 20 minutes
-created: '2020-11-13 01:54:31'
-created_ts: 1605232471
+created: '2020-11-12 11:54:31'
+created_ts: 1605182071
 description: null
 difficulty: null
 image_url: https://static01.nyt.com/images/2017/04/25/dining/25COOKING-FISHWITHSAUCE2/25COOKING-FISHWITHSAUCE2-articleLarge.jpg
@@ -16,7 +16,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Black Cod Broiled with Miso
-p_recipe_id: 411
+p_recipe_id: 156
 permalink: /recipes/black-cod-broiled-with-miso
 photo_large: null
 photo_thumb: black-cod-broiled-with-miso-thumb.jpg

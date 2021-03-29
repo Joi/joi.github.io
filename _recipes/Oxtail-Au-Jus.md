@@ -2,17 +2,17 @@
 title: "Oxtail Au Jus"
 filename: "oxtail-au-jus"
 categories:
-- Sauce
 - Oxtail
-cook_time: ''
-created: '2021-02-21 14:45:50'
-created_ts: 1613918750
+- Sauce
+cook_time: null
+created: '2021-02-21 00:45:50'
+created_ts: 1613868350
 description: "This recipe, which can be made up to 5 days ahead, will produce a rich\
   \ red wine jus that can be poured over your prime rib, along with a pile of tender\
   \ pulled oxtail meat. That meat makes a perfect hors d\u2019oeuvre for a fancy gathering.\
   \ Serve it with toasted crusty bread and crunchy sea salt.\n\nMAKES ABOUT 2 CUPS\
   \ JUS AND ENOUGH PULLED OXTAIL MEAT TO SERVE 8 AS AN HORS D\u2019OEUVRE\n"
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "1 tablespoon vegetable oil\n3 pounds oxtails\n1 large carrot, peeled\
   \ and roughly chopped (about 1\xBD\ncups)\n2 stalks celery, roughly chopped (about\
@@ -25,7 +25,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Oxtail Au Jus
-p_recipe_id: 478
+p_recipe_id: 359
 permalink: /recipes/oxtail-au-jus
 photo_large: oxtail-au-jus-large.jpg
 photo_thumb: oxtail-au-jus-thumb.jpg
@@ -44,13 +44,13 @@ photos_dict:
   '7': oxtail-au-jus-7.jpg
   '8': oxtail-au-jus-8.jpg
   '9': oxtail-au-jus-9.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: oxtail-au-jus
 source: The Food Lab
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: C7AD59DF-7961-4287-8189-C483C746C56E-26383-000125FF55081DA0
 ---

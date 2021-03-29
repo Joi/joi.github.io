@@ -4,9 +4,9 @@ filename: "samin-nosrat-chicken-stock"
 categories:
 - Chicken
 - Soup
-cook_time: ''
-created: '2020-07-22 20:27:34'
-created_ts: 1595449654
+cook_time: null
+created: '2020-07-22 07:27:34'
+created_ts: 1595402854
 description: "Stock With stock on hand, dinner is always within reach. A tasty, simple,\
   \ quick dinner that can take one of countless forms\u2014soup, yes of course, but\
   \ also stuffing and panade , a gratin made with bread and abundant stock. Or grains\
@@ -24,7 +24,7 @@ description: "Stock With stock on hand, dinner is always within reach. A tasty, 
   \nIf all you have on hand is roasted bones, it\u2019s worth making a trek out to\
   \ the butcher shop to buy a few pounds of chicken heads and feet, or some wingtips.\
   \ The gelatin the raw bones contain will add a ton of body and richness to the stock."
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: '7 pounds chicken bones (at least half should be raw) 7 quarts water
 
@@ -36,22 +36,22 @@ ingredients: '7 pounds chicken bones (at least half should be raw) 7 quarts wate
   5 parsley sprigs or 10 stems 1 teaspoon white wine vinegar '
 intrash: 0
 meal_dates:
-- '2020-07-22'
+- '2020-07-21'
 meal_types: '4'
 mine: null
 name: Samin Nosrat Chicken Stock
-p_recipe_id: 269
+p_recipe_id: 355
 permalink: /recipes/samin-nosrat-chicken-stock
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
-servings: ''
+servings: null
 slug: samin-nosrat-chicken-stock
 source: Salt, Fat, Acid, Heat
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: C601E9C0-C4D5-46AE-A477-AA39294FDA0D-2209-00006094A0ADA430
 ---

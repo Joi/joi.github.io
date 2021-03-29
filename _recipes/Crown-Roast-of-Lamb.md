@@ -3,9 +3,9 @@ title: "Crown Roast of Lamb"
 filename: "crown-roast-of-lamb"
 categories:
 - Lamb
-cook_time: ''
-created: '2020-07-15 18:38:30'
-created_ts: 1594838310
+cook_time: null
+created: '2020-07-15 05:38:30'
+created_ts: 1594791510
 description: 'Based on :
 
 
@@ -14,7 +14,7 @@ description: 'Based on :
   - Food Network - Crown Roast of Lamb
 
   - Thermoworks - Crown Roast of Lamb'
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "Rub\n\n2 tbsp of fresh rosemary - chopped\n6 garlic cloves - minced\n\
   1 tsp of oregano\n1 tsp of fresh thyme\n2 tbsp of chopped parsley\n1 tsp of lemon\
@@ -22,12 +22,12 @@ ingredients: "Rub\n\n2 tbsp of fresh rosemary - chopped\n6 garlic cloves - mince
   light olive oil\n\nSauce\n\n1 tsp Dijon mustard\n1 tbsp wine vinegar\n"
 intrash: 0
 meal_dates:
-- '2020-07-14'
-- '2020-12-25'
+- '2020-12-24'
+- '2020-07-13'
 meal_types: 3|3
 mine: null
 name: Crown Roast of Lamb
-p_recipe_id: 253
+p_recipe_id: 448
 permalink: /recipes/crown-roast-of-lamb
 photo_large: crown-roast-of-lamb-large.jpg
 photo_thumb: crown-roast-of-lamb-thumb.jpg
@@ -35,13 +35,13 @@ photos_dict:
   '1': crown-roast-of-lamb-1.jpg
   '2': crown-roast-of-lamb-2.jpg
   '3': crown-roast-of-lamb-3.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: '6'
 slug: crown-roast-of-lamb
 source: null
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: FD54C700-8CFA-4582-86E5-1BB6A9398CBA-29053-0004AE4B3DE321B5
 ---

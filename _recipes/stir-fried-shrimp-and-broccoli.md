@@ -4,8 +4,8 @@ filename: "stir-fried-shrimp-and-broccoli"
 categories:
 - Shrimp
 cook_time: null
-created: '2020-02-03 15:15:37'
-created_ts: 1580742937
+created: '2020-02-03 01:15:37'
+created_ts: 1580692537
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/34906_sfs-shrimp-stir-fry-broccoli-6
@@ -21,7 +21,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Stir-Fried Shrimp and Broccoli
-p_recipe_id: 28
+p_recipe_id: 300
 permalink: /recipes/stir-fried-shrimp-and-broccoli
 photo_large: null
 photo_thumb: stir-fried-shrimp-and-broccoli-thumb.jpg

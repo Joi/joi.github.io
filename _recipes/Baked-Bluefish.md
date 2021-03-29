@@ -4,10 +4,10 @@ filename: "baked-bluefish"
 categories:
 - Blue Fish
 cook_time: 20 minutes
-created: '2020-06-05 14:53:36'
-created_ts: 1591368816
-description: ''
-difficulty: ''
+created: '2020-06-05 01:53:36'
+created_ts: 1591322016
+description: null
+difficulty: null
 image_url: null
 ingredients: 'One bluefish fillet (1/2 pound to 1 pound)
 
@@ -27,11 +27,11 @@ ingredients: 'One bluefish fillet (1/2 pound to 1 pound)
   2 Tbsp lemon juice'
 intrash: 0
 meal_dates:
-- '2020-06-05'
+- '2020-06-04'
 meal_types: '3'
 mine: null
 name: Baked Bluefish
-p_recipe_id: 180
+p_recipe_id: 364
 permalink: /recipes/baked-bluefish
 photo_large: baked-bluefish-large.jpg
 photo_thumb: baked-bluefish-thumb.jpg
@@ -43,7 +43,7 @@ servings: Serves 2 to 4
 slug: baked-bluefish
 source: simplyrecipes.com
 source_url: https://www.simplyrecipes.com/recipes/baked_bluefish/print/
-total_time: ''
+total_time: null
 type: null
 uid: CB6C7A4A-2F73-44D5-AC51-E12EB842AD85-29546-00061091B920E83D
 ---

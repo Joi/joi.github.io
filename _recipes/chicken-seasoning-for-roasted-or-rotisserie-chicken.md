@@ -2,11 +2,11 @@
 title: "Chicken Seasoning (For Roasted or Rotisserie Chicken)"
 filename: "chicken-seasoning-for-roasted-or-rotisserie-chicken"
 categories:
-- Chicken
 - Sauce
+- Chicken
 cook_time: 5 minutes
-created: '2020-11-12 12:00:22'
-created_ts: 1605182422
+created: '2020-11-11 22:00:22'
+created_ts: 1605132022
 description: null
 difficulty: null
 image_url: https://www.flavormosaic.com/wp-content/uploads/2018/04/Homemade-Rotisserie-Chicken-Seasoning-Mix-4-667x1000.jpg
@@ -28,7 +28,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Chicken Seasoning (For Roasted or Rotisserie Chicken)
-p_recipe_id: 407
+p_recipe_id: 165
 permalink: /recipes/chicken-seasoning-for-roasted-or-rotisserie-chicken
 photo_large: null
 photo_thumb: chicken-seasoning-for-roasted-or-rotisserie-chicken-thumb.jpg

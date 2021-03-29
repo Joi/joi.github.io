@@ -3,8 +3,8 @@ title: "Classic Roast Beef Tenderloin"
 filename: "classic-roast-beef-tenderloin"
 categories: null
 cook_time: null
-created: '2020-06-29 00:34:29'
-created_ts: 1593390869
+created: '2020-06-28 11:34:29'
+created_ts: 1593344069
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/1695_sfs-best-rost-tendrln-0011-article
@@ -27,7 +27,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Classic Roast Beef Tenderloin
-p_recipe_id: 210
+p_recipe_id: 202
 permalink: /recipes/classic-roast-beef-tenderloin
 photo_large: null
 photo_thumb: classic-roast-beef-tenderloin-thumb.jpg

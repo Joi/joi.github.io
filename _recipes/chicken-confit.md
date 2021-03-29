@@ -3,9 +3,9 @@ title: "Chicken Confit"
 filename: "chicken-confit"
 categories:
 - Chicken
-cook_time: ''
-created: '2020-08-01 18:44:05'
-created_ts: 1596307445
+cook_time: null
+created: '2020-08-01 05:44:05'
+created_ts: 1596260645
 description: "Take a page out of the French farmwife\u2019s handbook and keep confit\
   \ on hand to save you from dinnertime desperation. Easy enough to make while you\
   \ watch a movie or do the Sunday crossword, there\u2019s no reason not to try this\
@@ -21,29 +21,29 @@ description: "Take a page out of the French farmwife\u2019s handbook and keep co
   \ the excess fat from confit is an unforgettable one.) Serve the chicken and potatoes\
   \ with a pile of arugula or chicories dressed in a bright, Honey-Mustard Vinaigrette\
   \ (page 240 ) and spoonfuls of Herb Salsa for a welcome acidic contrast."
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "4 chicken legs, with thighs attached\rSalt\rFreshly ground black pepper\r\
   4 sprigs fresh thyme\r4 cloves\r2 bay leaves\r3 garlic cloves, halved\rAbout 4 cups\
   \ duck or chicken fat or olive oil"
 intrash: 0
 meal_dates:
-- '2020-08-02'
+- '2020-08-01'
 meal_types: '4'
 mine: null
 name: Chicken Confit
-p_recipe_id: 285
+p_recipe_id: 18
 permalink: /recipes/chicken-confit
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
-servings: ''
+servings: null
 slug: chicken-confit
 source: Salt, Fat, Acid, Heat
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: 05E0C925-6555-4B10-BAC5-7DAA697D8153-96025-00036CB64643958C
 ---

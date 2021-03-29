@@ -4,8 +4,8 @@ filename: "guacamole"
 categories:
 - Spread
 cook_time: 5min
-created: '2020-02-02 12:32:40'
-created_ts: 1580646760
+created: '2020-02-01 22:32:40'
+created_ts: 1580596360
 description: null
 difficulty: Easy
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/5DDE0DA5-4A36-4968-9574-03E3CFEAA54F/Derivates/CE92A32D-F6CF-489C-A413-7DB877C802E7.jpg
@@ -17,7 +17,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Guacamole
-p_recipe_id: 24
+p_recipe_id: 226
 permalink: /recipes/guacamole
 photo_large: null
 photo_thumb: guacamole-thumb.jpg

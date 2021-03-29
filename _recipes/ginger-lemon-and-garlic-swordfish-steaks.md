@@ -3,8 +3,8 @@ title: "Ginger, Lemon and Garlic Swordfish Steaks"
 filename: "ginger-lemon-and-garlic-swordfish-steaks"
 categories: null
 cook_time: 5-6 minutes
-created: '2020-07-18 11:33:20'
-created_ts: 1595072000
+created: '2020-07-17 22:33:20'
+created_ts: 1595025200
 description: null
 difficulty: null
 image_url: https://mdyo8n9ckd3g81vs1qipy6bt-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/grilled-swordfish-basil-butter-900x600.jpg
@@ -23,11 +23,11 @@ ingredients: '1-inch section of ginger, peeled and finely chopped
   4 swordfish steaks'
 intrash: 0
 meal_dates:
-- '2020-07-18'
+- '2020-07-17'
 meal_types: '3'
 mine: null
 name: Ginger, Lemon and Garlic Swordfish Steaks
-p_recipe_id: 261
+p_recipe_id: 328
 permalink: /recipes/ginger-lemon-and-garlic-swordfish-steaks
 photo_large: null
 photo_thumb: ginger-lemon-and-garlic-swordfish-steaks-thumb.jpg

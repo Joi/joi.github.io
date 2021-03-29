@@ -4,8 +4,8 @@ filename: "slow-cooked-lamb-shoulder"
 categories:
 - Lamb
 cook_time: null
-created: '2020-05-16 13:58:42'
-created_ts: 1589637522
+created: '2020-05-16 00:58:42'
+created_ts: 1589590722
 description: null
 difficulty: null
 image_url: https://www.recipetineats.com/wp-content/uploads/2015/02/Slow-Cooked-lamb-Shoulder_1.jpg?resize=650,910
@@ -39,7 +39,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Slow Cooked Lamb Shoulder
-p_recipe_id: 165
+p_recipe_id: 452
 permalink: /recipes/slow-cooked-lamb-shoulder
 photo_large: null
 photo_thumb: slow-cooked-lamb-shoulder-thumb.jpg

@@ -2,11 +2,11 @@
 title: "Smoked 3-2-1 St. Louis Style Spare Ribs"
 filename: "smoked-3-2-1-st.-louis-style-spare-ribs"
 categories:
-- Pork Spare Ribs
 - BBQ
+- Pork Spare Ribs
 cook_time: 6 hours
-created: '2020-09-18 21:47:06'
-created_ts: 1600465626
+created: '2020-09-18 08:47:06'
+created_ts: 1600418826
 description: null
 difficulty: null
 image_url: null
@@ -18,7 +18,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Smoked 3-2-1 St. Louis Style Spare Ribs
-p_recipe_id: 366
+p_recipe_id: 91
 permalink: /recipes/smoked-3-2-1-st.-louis-style-spare-ribs
 photo_large: null
 photo_thumb: null

@@ -4,8 +4,8 @@ filename: "soy-balsamic-glazed-sea-scallops"
 categories:
 - Scallops
 cook_time: 12 min
-created: '2020-07-18 11:43:17'
-created_ts: 1595072597
+created: '2020-07-17 22:43:17'
+created_ts: 1595025797
 description: null
 difficulty: null
 image_url: https://withsaltandwit.com/wp-content/uploads/2014/11/28.jpg
@@ -32,11 +32,11 @@ ingredients: '2 Tbsp balsamic vinegar
   Fresh chopped cilantro, for garnish'
 intrash: 0
 meal_dates:
-- '2020-07-18'
+- '2020-07-17'
 meal_types: '2'
 mine: null
 name: Soy-Balsamic Glazed Sea Scallops
-p_recipe_id: 262
+p_recipe_id: 245
 permalink: /recipes/soy-balsamic-glazed-sea-scallops
 photo_large: null
 photo_thumb: soy-balsamic-glazed-sea-scallops-thumb.jpg

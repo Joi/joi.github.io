@@ -4,9 +4,9 @@ filename: "harrys-bar-chicken-stock"
 categories:
 - Chicken
 - Soup
-cook_time: ''
-created: '2020-02-02 12:55:27'
-created_ts: 1580648127
+cook_time: null
+created: '2020-02-01 22:55:27'
+created_ts: 1580597727
 description: Chicken stock is an essential ingredient in any kitchen. At Harry's Bar
   we like to use this light chicken stock so it doesn't drown out other flavors in
   our soups, risotto, and sauces. If you like a more intensely flavored stock, use
@@ -46,12 +46,12 @@ ingredients: '1 3-4 pound chicken (1.350 to 1.800 g)
   3 quarts cold water'
 intrash: 0
 meal_dates:
-- '2020-06-11'
-- '2020-06-24'
-meal_types: 2|4
+- '2020-06-23'
+- '2020-06-10'
+meal_types: 4|2
 mine: null
 name: Harry's Bar Chicken Stock
-p_recipe_id: 13
+p_recipe_id: 127
 permalink: /recipes/harrys-bar-chicken-stock
 photo_large: harrys-bar-chicken-stock-large.jpg
 photo_thumb: harrys-bar-chicken-stock-thumb.jpg
@@ -60,13 +60,13 @@ photos_dict:
   '2': harrys-bar-chicken-stock-2.jpg
   '3': harrys-bar-chicken-stock-3.jpg
   '4': harrys-bar-chicken-stock-4.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: MAKES ABOUT 10 CUPS (2.500 ML)
 slug: harrys-bar-chicken-stock
 source: Harry's Bar Cookbook
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: 47365C63-5584-4742-8622-94EF89CC996B-25037-0000A09454C82C98
 ---

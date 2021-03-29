@@ -2,14 +2,14 @@
 title: "Baked Flounder with Panko and Parmesan"
 filename: "baked-flounder-with-panko-and-parmesan"
 categories:
-- Fish
-- White Fish
 - Flounder
+- White Fish
+- Fish
 cook_time: 15 m
-created: '2020-05-08 02:19:45'
-created_ts: 1588904385
-description: ''
-difficulty: ''
+created: '2020-05-07 13:19:45'
+created_ts: 1588857585
+description: null
+difficulty: null
 image_url: https://images.media-allrecipes.com/userphotos/560x315/3733038.jpg
 ingredients: '4 (4 ounce) flounder fillets
 
@@ -26,11 +26,11 @@ ingredients: '4 (4 ounce) flounder fillets
   1 pinch dried thyme'
 intrash: 0
 meal_dates:
-- '2020-05-08'
+- '2020-05-07'
 meal_types: '3'
 mine: null
 name: Baked Flounder with Panko and Parmesan
-p_recipe_id: 139
+p_recipe_id: 46
 permalink: /recipes/baked-flounder-with-panko-and-parmesan
 photo_large: null
 photo_thumb: baked-flounder-with-panko-and-parmesan-thumb.jpg
@@ -41,7 +41,7 @@ servings: '4'
 slug: baked-flounder-with-panko-and-parmesan
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/231549/baked-flounder-with-panko-and-parmesan/
-total_time: ''
+total_time: null
 type: null
 uid: 1630FF61-789C-46DC-BACB-1427D27506BB-14694-000078BF91292AA2
 ---

@@ -4,8 +4,8 @@ filename: "ultracreamy-hummus"
 categories:
 - Spread
 cook_time: null
-created: '2020-02-03 15:19:07'
-created_ts: 1580743147
+created: '2020-02-03 01:19:07'
+created_ts: 1580692747
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_ultra_creamy_hummus_060_1_er9ulh
@@ -19,7 +19,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Ultracreamy Hummus
-p_recipe_id: 3
+p_recipe_id: 28
 permalink: /recipes/ultracreamy-hummus
 photo_large: null
 photo_thumb: ultracreamy-hummus-thumb.jpg

@@ -4,10 +4,10 @@ filename: "filet-mignon-in-mushroom-wine-sauce"
 categories:
 - Tenderloin
 cook_time: 30 minutes
-created: '2021-02-04 17:09:16'
-created_ts: 1612458556
-description: ''
-difficulty: ''
+created: '2021-02-04 03:09:16'
+created_ts: 1612408156
+description: null
+difficulty: null
 image_url: null
 ingredients: '4 Tbsp unsalted butter divided
 
@@ -32,11 +32,11 @@ ingredients: '4 Tbsp unsalted butter divided
   Salt and Pepper to taste'
 intrash: 0
 meal_dates:
-- '2021-02-07'
+- '2021-02-06'
 meal_types: '3'
 mine: null
 name: Filet Mignon in Mushroom Wine Sauce
-p_recipe_id: 471
+p_recipe_id: 64
 permalink: /recipes/filet-mignon-in-mushroom-wine-sauce
 photo_large: filet-mignon-in-mushroom-wine-sauce-large.jpg
 photo_thumb: filet-mignon-in-mushroom-wine-sauce-thumb.jpg
@@ -57,7 +57,7 @@ servings: 'Servings: 4'
 slug: filet-mignon-in-mushroom-wine-sauce
 source: natashaskitchen.com
 source_url: https://natashaskitchen.com/filet-mignon-in-mushroom-wine-sauce/
-total_time: ''
+total_time: null
 type: null
 uid: 2178D961-6FD7-4D18-86D5-D96953BACD23-1700-00008335CC63C5B9
 ---

@@ -4,8 +4,8 @@ filename: "simple-tender-pork-chops"
 categories:
 - Pork
 cook_time: 01:05
-created: '2020-12-10 01:35:04'
-created_ts: 1607564104
+created: '2020-12-09 11:35:04'
+created_ts: 1607513704
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/anova-applied-electronics/image/upload/w_517,h_327,c_fit,f_auto,q_auto,dpr_2.0,/v1598878747/mobileProduction/zdyrgxjkn6qvkqus1v3m.jpg
@@ -13,11 +13,11 @@ ingredients: "2 Thick pork chops (bone in or boneless is fine)\n\xBD Tbsp Kosher
   Black pepper\n1 Tbsp Butter\n1 tsp Olive oil\nOptional aromatic herbs"
 intrash: 0
 meal_dates:
-- '2020-12-10'
+- '2020-12-09'
 meal_types: '3'
 mine: null
 name: Simple Tender Pork Chops
-p_recipe_id: 428
+p_recipe_id: 146
 permalink: /recipes/simple-tender-pork-chops
 photo_large: null
 photo_thumb: simple-tender-pork-chops-thumb.jpg

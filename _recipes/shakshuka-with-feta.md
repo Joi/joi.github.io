@@ -4,8 +4,8 @@ filename: "shakshuka-with-feta"
 categories:
 - Egg
 cook_time: 50 minutes
-created: '2020-08-13 22:37:31'
-created_ts: 1597358251
+created: '2020-08-13 09:37:31'
+created_ts: 1597311451
 description: null
 difficulty: null
 image_url: https://static01.nyt.com/images/2020/02/10/dining/mc-shakshuka/mc-shakshuka-articleLarge.jpg
@@ -21,7 +21,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Shakshuka with Feta
-p_recipe_id: 303
+p_recipe_id: 196
 permalink: /recipes/shakshuka-with-feta
 photo_large: null
 photo_thumb: shakshuka-with-feta-thumb.jpg

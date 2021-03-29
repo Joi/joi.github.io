@@ -3,9 +3,9 @@ title: "Foolproof Boiled Corn"
 filename: "foolproof-boiled-corn"
 categories:
 - Corn
-cook_time: ''
-created: '2020-07-04 13:45:08'
-created_ts: 1593870308
+cook_time: null
+created: '2020-07-04 00:45:08'
+created_ts: 1593823508
 description: "To produce perfectly crisp, juicy corn every time, we figured out that\
   \ the ideal doneness range is 150 to 170 degrees\u2014when the starches have gelatinized\
   \ but a minimum amount of the pectin (the glue that holds the cell walls together)\
@@ -18,7 +18,7 @@ description: "To produce perfectly crisp, juicy corn every time, we figured out 
   \ increased to the ideal zone. Even better, the method is flexible: It can accommodate\
   \ between six and eight ears of different sizes, and the corn can sit in the water\
   \ for as long as 30 minutes without overcooking."
-difficulty: ''
+difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/31790_sfs-boiled-corn-19
 ingredients: 'GATHER YOUR INGREDIENTS
 
@@ -29,22 +29,22 @@ ingredients: 'GATHER YOUR INGREDIENTS
   Salt and pepper'
 intrash: 0
 meal_dates:
-- '2020-07-04'
+- '2020-07-03'
 meal_types: '3'
 mine: null
 name: Foolproof Boiled Corn
-p_recipe_id: 224
+p_recipe_id: 198
 permalink: /recipes/foolproof-boiled-corn
 photo_large: null
 photo_thumb: foolproof-boiled-corn-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 4
 servings: Serves 4 to 6
 slug: foolproof-boiled-corn
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/9071-foolproof-boiled-corn?t=1593870284
-total_time: ''
+total_time: null
 type: null
 uid: 6F310E22-E32B-458B-8309-74E56BB2E992-631-00013DE97356728A
 ---

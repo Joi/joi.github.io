@@ -2,38 +2,38 @@
 title: "Marie Rose Sauce"
 filename: "marie-rose-sauce"
 categories:
-- Shrimp
-- Crab
 - Sauce
-cook_time: ''
-created: '2021-01-22 21:36:16'
-created_ts: 1611351376
+- Crab
+- Shrimp
+cook_time: null
+created: '2021-01-22 07:36:16'
+created_ts: 1611300976
 description: Same as Thousand Island sauce
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "\u2154 cup of fresh [recipe:Mayonnaise]\n1 Tbsp ketchup\n1 tsp Worcestershire\
   \ sauce\n1 tsp freshly grated horseradish or wasabi\nTabasco sauce\nPinch of paprika"
 intrash: 0
 meal_dates:
-- '2021-01-22'
-- '2021-03-27'
+- '2021-01-21'
+- '2021-03-26'
 meal_types: 3|5
 mine: 1
 name: Marie Rose Sauce
-p_recipe_id: 458
+p_recipe_id: 329
 permalink: /recipes/marie-rose-sauce
 photo_large: marie-rose-sauce-large.jpg
 photo_thumb: marie-rose-sauce-thumb.jpg
 photos_dict:
   '1': marie-rose-sauce-1.jpg
   '2': marie-rose-sauce-2.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: marie-rose-sauce
 source: null
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: B6713303-47E6-4EC6-B28A-A94F33DE95C9-31488-00001728BCEAC9EC
 ---

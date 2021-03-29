@@ -4,10 +4,10 @@ filename: "japanese-fried-chicken-karaage"
 categories:
 - Chicken
 cook_time: 30 min
-created: '2020-02-03 15:50:50'
-created_ts: 1580745050
+created: '2020-02-03 01:50:50'
+created_ts: 1580694650
 description: Based on [this Cook's Illustrated Recipe](https://www.cooksillustrated.com/recipes/11892-japanese-fried-chicken-thighs-karaage).
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "3 Tbsp soy sauce\n2 Tbsp sake\n1 Tbsp grated fresh ginger\n2 garlic\
   \ cloves, minced\n\xBE tsp sugar\n\u215B tsp table salt\n1 - 2 lb boneless chicken\
@@ -15,13 +15,13 @@ ingredients: "3 Tbsp soy sauce\n2 Tbsp sake\n1 Tbsp grated fresh ginger\n2 garli
   \ garnish"
 intrash: 0
 meal_dates:
-- '2020-05-21'
-- '2021-03-11'
-- '2021-03-25'
+- '2020-05-20'
+- '2021-03-10'
+- '2021-03-24'
 meal_types: 3|3|3
 mine: 1
 name: Japanese fried chicken - karaage
-p_recipe_id: 30
+p_recipe_id: 312
 permalink: /recipes/japanese-fried-chicken-karaage
 photo_large: japanese-fried-chicken-karaage-large.jpg
 photo_thumb: japanese-fried-chicken-karaage-thumb.jpg
@@ -38,7 +38,7 @@ servings: ''
 slug: japanese-fried-chicken-karaage
 source: null
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: AF9FDAAB-9F87-45DF-AC3C-6D85FFF3DF26-408-00004F23542EA29A
 ---

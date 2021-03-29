@@ -2,12 +2,12 @@
 title: "Cottage Pie"
 filename: "cottage-pie"
 categories:
+- Ground Beef
 - Beef
 - Egg
-- Ground Beef
 cook_time: 2h 15min
-created: '2020-02-03 16:00:21'
-created_ts: 1580745621
+created: '2020-02-03 02:00:21'
+created_ts: 1580695221
 description: null
 difficulty: Easy
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/vimdb/250368.jpg
@@ -23,7 +23,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Cottage Pie
-p_recipe_id: 38
+p_recipe_id: 387
 permalink: /recipes/cottage-pie
 photo_large: null
 photo_thumb: cottage-pie-thumb.jpg

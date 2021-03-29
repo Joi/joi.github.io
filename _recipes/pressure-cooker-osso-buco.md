@@ -4,10 +4,10 @@ filename: "pressure-cooker-osso-buco"
 categories:
 - Veal
 cook_time: 2 hours 30 minutes
-created: '2020-04-19 15:31:16'
-created_ts: 1587310276
-description: ''
-difficulty: ''
+created: '2020-04-19 02:31:16'
+created_ts: 1587263476
+description: null
+difficulty: null
 image_url: https://static01.nyt.com/images/2017/09/25/dining/pressurecookerossobuco/pressurecookerossobuco-articleLarge.jpg
 ingredients: "FOR THE OSSO BUCO:\nAll-purpose flour, for dredging\n4 sprigs fresh\
   \ thyme\n2 sprigs fresh rosemary\n1 bay leaf\n2 \xBD to 3 pounds (4 pieces) osso\
@@ -24,18 +24,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Pressure Cooker Osso Buco
-p_recipe_id: 113
+p_recipe_id: 243
 permalink: /recipes/pressure-cooker-osso-buco
 photo_large: null
 photo_thumb: pressure-cooker-osso-buco-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 to 6 servings
 slug: pressure-cooker-osso-buco
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018854-pressure-cooker-osso-buco?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-total_time: ''
+total_time: null
 type: null
 uid: 875B7AB2-9EF9-42D1-8F64-32A20488CB8F-407-00004B9D9A9E2EC5
 ---

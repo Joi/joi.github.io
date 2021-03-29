@@ -4,8 +4,8 @@ filename: "herb-and-lemon-roasted-striped-bass"
 categories:
 - Striped Bass
 cook_time: 25 mins
-created: '2020-07-20 23:30:58'
-created_ts: 1595287858
+created: '2020-07-20 10:30:58'
+created_ts: 1595241058
 description: null
 difficulty: null
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2Fimage%2Frecipes%2Fck%2F10%2F08%2Fherb-roasted-bass-ck-x.jpg%3Fitok%3DQPzVZ7gR&w=400&c=sc&poi=face&q=85
@@ -27,7 +27,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Herb and Lemon Roasted Striped Bass
-p_recipe_id: 266
+p_recipe_id: 158
 permalink: /recipes/herb-and-lemon-roasted-striped-bass
 photo_large: null
 photo_thumb: herb-and-lemon-roasted-striped-bass-thumb.jpg

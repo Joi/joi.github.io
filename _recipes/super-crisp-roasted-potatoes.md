@@ -3,9 +3,9 @@ title: "Super-Crisp Roasted Potatoes"
 filename: "super-crisp-roasted-potatoes"
 categories:
 - Potato
-cook_time: ''
-created: '2020-09-12 19:38:19'
-created_ts: 1599939499
+cook_time: null
+created: '2020-09-12 06:38:19'
+created_ts: 1599892699
 description: "How often do you get roasted potatoes that look like they\u2019re going\
   \ to be awesomely crisp only to find that rather than crispness, all you\u2019ve\
   \ got is a papery (or worse, leathery) skin on the exterior?\n\nRoasting potatoes\
@@ -51,7 +51,7 @@ description: "How often do you get roasted potatoes that look like they\u2019re 
   \ bottom of the pan. This is not an ideal situation.\n\nMORAL OF THE STORY: Your\
   \ potatoes will release themselves from the pan when they\u2019re good and ready.\
   \ Don\u2019t force them."
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "1. 3 pounds russet (baking) potatoes, scrubbed and cut into 1- to 2-inch\
   \ cubes\n1. Kosher salt\n1. \xBC cup duck fat, bacon fat, or olive oil\n1. Freshly\
@@ -59,25 +59,25 @@ ingredients: "1. 3 pounds russet (baking) potatoes, scrubbed and cut into 1- to 
   \ and/or chives"
 intrash: 0
 meal_dates:
-- '2020-09-13'
-- '2020-09-28'
-- '2020-10-14'
-- '2021-03-01'
+- '2020-10-13'
+- '2020-09-27'
+- '2020-09-12'
+- '2021-02-28'
 meal_types: 3|3|3|3
 mine: null
 name: Super-Crisp Roasted Potatoes
-p_recipe_id: 352
+p_recipe_id: 343
 permalink: /recipes/super-crisp-roasted-potatoes
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: 4-6
 slug: super-crisp-roasted-potatoes
 source: The Food Lab
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: C1015696-C7AF-4733-9057-844DB17B93D1-50715-0008F84FEDDFD354
 ---

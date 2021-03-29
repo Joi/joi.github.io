@@ -7,8 +7,8 @@ categories:
 - Italian
 - Meat
 cook_time: null
-created: '2020-02-03 03:22:10'
-created_ts: 1580700130
+created: '2020-02-02 13:22:10'
+created_ts: 1580649730
 description: "A rag\xFA is a meat sauce that is usually made with beef or veal, but\
   \ can also be made from chicken, duckling, turkey, rabbit or lamb. Traditionally\
   \ argue was made only at home and every self-respecting Italian housewife would\
@@ -54,11 +54,11 @@ ingredients: '1 carrot, peeled
   Cheesecloth for bouquet garni'
 intrash: 0
 meal_dates:
-- '2020-06-06'
+- '2020-06-05'
 meal_types: '3'
 mine: null
 name: "Rag\xFA Bolognese"
-p_recipe_id: 8
+p_recipe_id: 74
 permalink: /recipes/ragu-bolognese
 photo_large: null
 photo_thumb: null

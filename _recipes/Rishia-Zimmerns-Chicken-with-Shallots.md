@@ -5,10 +5,10 @@ categories:
 - Chicken
 - Meat
 cook_time: 1 hour 30 minutes
-created: '2020-02-02 14:51:28'
-created_ts: 1580655088
+created: '2020-02-02 00:51:28'
+created_ts: 1580604688
 description: null
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: '8 bone-in chicken thighs
 
@@ -31,25 +31,25 @@ ingredients: '8 bone-in chicken thighs
   2 cups cherry tomatoes, cut in half.'
 intrash: 0
 meal_dates:
-- '2020-04-02'
-- '2020-06-11'
-- '2021-03-11'
+- '2020-06-10'
+- '2021-03-10'
+- '2020-04-01'
 meal_types: 3|3|3
 mine: null
 name: "Rishia Zimmern\u2019s Chicken with Shallots"
-p_recipe_id: 15
+p_recipe_id: 155
 permalink: /recipes/rishia-zimmerns-chicken-with-shallots
 photo_large: rishia-zimmerns-chicken-with-shallots-large.jpg
 photo_thumb: rishia-zimmerns-chicken-with-shallots-thumb.jpg
 photos_dict:
   '1': rishia-zimmerns-chicken-with-shallots-1.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Yield 4 to 6 servings
 slug: rishia-zimmerns-chicken-with-shallots
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1016135-rishia-zimmerns-chicken-with-shallots?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-total_time: ''
+total_time: null
 type: null
 uid: 57A666F1-E339-4107-80E4-F9F286673626-39996-000020226ACB939A
 ---

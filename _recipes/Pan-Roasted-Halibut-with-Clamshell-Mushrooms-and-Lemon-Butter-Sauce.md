@@ -4,10 +4,10 @@ filename: "pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce"
 categories:
 - Halibut
 cook_time: 15 mins
-created: '2020-06-14 14:27:59'
-created_ts: 1592144879
-description: ''
-difficulty: ''
+created: '2020-06-14 01:27:59'
+created_ts: 1592098079
+description: null
+difficulty: null
 image_url: null
 ingredients: "1 tablespoon olive oil\n1 tablespoon butter\n\xBC cup clamshell mushrooms,\
   \ or more to taste\nsalt and freshly ground black pepper to taste\n2 (7 ounce) halibut\
@@ -16,11 +16,11 @@ ingredients: "1 tablespoon olive oil\n1 tablespoon butter\n\xBC cup clamshell mu
   \ flat-leaf Italian parsley"
 intrash: 0
 meal_dates:
-- '2020-06-14'
+- '2020-06-13'
 meal_types: '3'
 mine: null
 name: Pan-Roasted Halibut with Clamshell Mushrooms and Lemon Butter Sauce
-p_recipe_id: 191
+p_recipe_id: 365
 permalink: /recipes/pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce
 photo_large: pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce-large.jpg
 photo_thumb: pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce-thumb.jpg
@@ -32,7 +32,7 @@ servings: 'Servings: 2'
 slug: pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/236504/pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce/
-total_time: ''
+total_time: null
 type: null
 uid: CBA252D8-4074-4C16-B731-B4B6E7EF42B3-1358-00017A9499BA0EF1
 ---

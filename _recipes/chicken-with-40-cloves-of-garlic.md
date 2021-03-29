@@ -4,8 +4,8 @@ filename: "chicken-with-40-cloves-of-garlic"
 categories:
 - Chicken
 cook_time: 1 hour 40 minutes
-created: '2020-04-02 17:07:19'
-created_ts: 1585847239
+created: '2020-04-02 04:07:19'
+created_ts: 1585800439
 description: null
 difficulty: null
 image_url: https://static01.nyt.com/images/2014/05/27/dining/Chicken-With-40-Cloves-of-Garlic/Chicken-With-40-Cloves-of-Garlic-articleLarge.jpg
@@ -19,7 +19,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Chicken with 40 Cloves of Garlic
-p_recipe_id: 81
+p_recipe_id: 433
 permalink: /recipes/chicken-with-40-cloves-of-garlic
 photo_large: null
 photo_thumb: chicken-with-40-cloves-of-garlic-thumb.jpg

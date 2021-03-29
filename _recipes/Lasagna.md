@@ -3,12 +3,12 @@ title: "Lasagna"
 filename: "lasagna"
 categories:
 - Pasta
-cook_time: ''
-created: '2020-09-05 15:26:06'
-created_ts: 1599319566
+cook_time: null
+created: '2020-09-05 02:26:06'
+created_ts: 1599272766
 description: "Using b\xE9chamel instead of ricotta cheese. If your guests like ricotta\
   \ cheese, replace b\xE9chamel with ricotta cheese and put parmesan as a layer."
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "## Meat Sauce\n\u200B\n- 1 tbsp olive oil\n- \xBD onion, finely chopped\n\
   - \xBD carrot, finely diced\n- 2 cloves garlic cloves, minced\n- 16 oz ground beef\n\
@@ -20,24 +20,24 @@ ingredients: "## Meat Sauce\n\u200B\n- 1 tbsp olive oil\n- \xBD onion, finely ch
   - 1 tbsp finely chopped fresh parsley"
 intrash: 0
 meal_dates:
-- '2020-09-05'
+- '2020-09-04'
 meal_types: '3'
 mine: null
 name: Lasagna
-p_recipe_id: 338
+p_recipe_id: 199
 permalink: /recipes/lasagna
 photo_large: lasagna-large.jpg
 photo_thumb: lasagna-thumb.jpg
 photos_dict:
   '01': lasagna-01.jpg
   '02': lasagna-02.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: '6'
 slug: lasagna
 source: null
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: 6F6C35A4-9968-4D48-BB77-EB7ACB3DB08B-50715-0006C481622BC914
 ---

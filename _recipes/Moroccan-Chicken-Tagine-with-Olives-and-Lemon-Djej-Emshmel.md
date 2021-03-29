@@ -4,8 +4,8 @@ filename: "moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel"
 categories:
 - Chicken
 cook_time: null
-created: '2020-04-02 17:34:53'
-created_ts: 1585848893
+created: '2020-04-02 04:34:53'
+created_ts: 1585802093
 description: "WHY THIS RECIPE WORKS\nFor our Moroccan chicken tagine recipe, we focused\
   \ on the elements that give the dish its Moroccan character: spices, olives, and\
   \ lemon. We experimented with a broad range of spices until we landed on a blend\
@@ -35,11 +35,11 @@ ingredients: "GATHER YOUR INGREDIENTS\n5 medium garlic cloves, minced or pressed
   \ 1 to 2 lemons"
 intrash: 0
 meal_dates:
-- '2020-04-27'
+- '2020-04-26'
 meal_types: '3'
 mine: null
 name: Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)
-p_recipe_id: 88
+p_recipe_id: 66
 permalink: /recipes/moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel
 photo_large: null
 photo_thumb: moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel-thumb.jpg

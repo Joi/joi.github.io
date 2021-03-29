@@ -16,6 +16,9 @@ which happen to correspond/define the page.title and page.note vars
     <div class="page-header">
       <div class="sup-head">Meal notes</div>
       <div class="title">{{ page.title }} - {{ page.date | date_to_string: "ordinal", "US" }}</div>
+      {% if page.feature %}
+      <div class="feature-title">{{ page.feature }}</div>
+      {% endif %}
     </div>
 
   </div>
@@ -28,7 +31,6 @@ which happen to correspond/define the page.title and page.note vars
 	</div>
 	{%- endcomment -%}
 	<div class="medium-9 columns" id="main">
-
 
 		<div class="content">
       {%- include content.html -%}
@@ -65,4 +67,39 @@ which happen to correspond/define the page.title and page.note vars
 
 	</div>
 </div>
+
+{% if jekyll.environment == 'development' %}
+<hr>
+<div class="row dev-only" id="">
+  <div class="medium-12 columns" id="stuff">
+
+    <h5>Categories of Recipes in this Meal</h5>
+
+    {% if rbdm_dict %}
+      <h4>Recipes</h4>
+      {% for recipe_id in rbdm_dict %}
+        {% assign result = site.recipes | where: "p_recipe_id", recipe_id %}
+
+        {% if result[0] %}
+          {% for recip in result %}
+              <pre>{{ recip.categories | jsonify }}</pre>
+          {% endfor %}
+        {% endif %}
+
+      {% endfor %}
+    {% endif %}
+
+
+<pre>
+CTX: Meal
+    - Recipe
+      - Categories
+    - Recipe
+      - Categories
+</pre>
+
+  </div>
+</div>
+{% endif %}
+
 <!-- /template: note.html -->

@@ -4,10 +4,10 @@ filename: "chicken-hearts"
 categories:
 - Chicken
 cook_time: 10 mins
-created: '2020-07-27 16:14:32'
-created_ts: 1595866472
-description: ''
-difficulty: ''
+created: '2020-07-27 03:14:32'
+created_ts: 1595819672
+description: null
+difficulty: null
 image_url: https://healthyrecipesblogs.com/wp-content/uploads/2014/06/chicken-hearts-recipe-1-300x201.jpg
 ingredients: '1 lb. chicken hearts
 
@@ -24,23 +24,23 @@ ingredients: '1 lb. chicken hearts
   1/2 teaspoon ground cumin'
 intrash: 0
 meal_dates:
-- '2020-07-27'
-- '2020-12-27'
+- '2020-12-26'
+- '2020-07-26'
 meal_types: 3|3
 mine: null
 name: Chicken Hearts
-p_recipe_id: 277
+p_recipe_id: 302
 permalink: /recipes/chicken-hearts
 photo_large: null
 photo_thumb: chicken-hearts-thumb.jpg
 photos_dict: null
 prep_time: 10 mins
 rating: 5
-servings: ''
+servings: null
 slug: chicken-hearts
 source: healthyrecipesblogs.com
 source_url: https://healthyrecipesblogs.com/chicken-hearts-recipe/
-total_time: ''
+total_time: null
 type: null
 uid: AAC09848-659F-47C4-B6A5-F2F4E409B1CD-2209-0001DBA6EF98B659
 ---

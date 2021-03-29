@@ -2,13 +2,13 @@
 title: "Salmon with Thyme, Lemon Butter and Almonds"
 filename: "salmon-with-thyme-lemon-butter-and-almonds"
 categories:
-- Fish
 - Salmon
+- Fish
 cook_time: 40 minutes
-created: '2020-04-08 13:22:24'
-created_ts: 1586352144
-description: ''
-difficulty: ''
+created: '2020-04-08 00:22:24'
+created_ts: 1586305344
+description: null
+difficulty: null
 image_url: https://static01.nyt.com/images/2014/04/10/dining/salmonthyme/salmonthyme-articleLarge.jpg
 ingredients: "1 tablespoon vegetable oil\n1 4-pound salmon, cleaned and scaled, head\
   \ and tail removed\n2 scallions, trimmed\n1 small bunch (about 1/2 cup) fresh thyme\n\
@@ -19,18 +19,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Salmon with Thyme, Lemon Butter and Almonds
-p_recipe_id: 98
+p_recipe_id: 439
 permalink: /recipes/salmon-with-thyme-lemon-butter-and-almonds
 photo_large: null
 photo_thumb: salmon-with-thyme-lemon-butter-and-almonds-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 6 servings
 slug: salmon-with-thyme-lemon-butter-and-almonds
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/11687-salmon-with-thyme-lemon-butter-and-almonds?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-total_time: ''
+total_time: null
 type: null
 uid: F83ADFD7-F747-496E-9F78-8014F6D9B01C-16595-0003B2685E3340A3
 ---

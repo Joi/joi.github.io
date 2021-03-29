@@ -3,16 +3,16 @@ title: "The Food Lab - Spicy Thai-Style Flank Steak Salad"
 filename: "the-food-lab-spicy-thai-style-flank-steak-salad"
 categories:
 - Beef
-cook_time: ''
-created: '2020-07-27 14:36:53'
-created_ts: 1595860613
+cook_time: null
+created: '2020-07-27 01:36:53'
+created_ts: 1595813813
 description: "This is probably my favorite beef marinade of all time. Sweet, spicy,\
   \ sour, and salty, it encompasses the four basic flavors of Thai cuisine. While\
   \ there\u2019s no salt added to the recipe, the fish sauce and soy sauce are plenty\
   \ salty.\n\nNOTES: You can also cook the meat indoors in a grill pan or in a large\
   \ skillet\u2014split the steak crosswise in half so you can fit it in the pan. Flank\
   \ steak can be replaced with hanger, skirt, or flap meat."
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "**For the Marinade**\n\n\xBD cup packed brown sugar\n\xBC cup water\n\
   3 tablespoons Asian fish sauce\n2 tablespoons soy sauce\n\u2153 cup lime juice (from\
@@ -25,22 +25,22 @@ ingredients: "**For the Marinade**\n\n\xBD cup packed brown sugar\n\xBC cup wate
   \ dried"
 intrash: 0
 meal_dates:
-- '2020-07-25'
+- '2020-07-24'
 meal_types: '3'
 mine: null
 name: The Food Lab - Spicy Thai-Style Flank Steak Salad
-p_recipe_id: 275
+p_recipe_id: 213
 permalink: /recipes/the-food-lab-spicy-thai-style-flank-steak-salad
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
 servings: '4'
 slug: the-food-lab-spicy-thai-style-flank-steak-salad
 source: The Food Lab
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: 78F6B3C4-762D-450B-80A6-55AD199BD8CF-2209-0001D6555BCEA1D1
 ---

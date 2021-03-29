@@ -4,8 +4,8 @@ filename: "pressure-cooker-coq-au-vin"
 categories:
 - Chicken
 cook_time: 'prep: 25 min. cook: 15 min. + releasing'
-created: '2020-09-17 15:30:25'
-created_ts: 1600356625
+created: '2020-09-17 02:30:25'
+created_ts: 1600309825
 description: null
 difficulty: null
 image_url: https://www.tasteofhome.com/wp-content/uploads/2019/08/Pressure-Cooker-Coq-au-Vin-_EXPS_TOHON19_237444_B06_05_1b-696x696.jpg
@@ -39,7 +39,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Pressure-Cooker Coq Au Vin
-p_recipe_id: 362
+p_recipe_id: 206
 permalink: /recipes/pressure-cooker-coq-au-vin
 photo_large: null
 photo_thumb: pressure-cooker-coq-au-vin-thumb.jpg

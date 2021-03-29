@@ -5,8 +5,8 @@ categories:
 - Breakfast
 - Egg
 cook_time: 35min
-created: '2020-02-03 15:59:52'
-created_ts: 1580745592
+created: '2020-02-03 01:59:52'
+created_ts: 1580695192
 description: null
 difficulty: Easy
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/6260C6B1-2A3D-4A92-8173-35263448B18D/Derivates/D4E91688-BD6A-4DFD-825D-269F900BCC69.jpg
@@ -19,7 +19,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Fluffy Baked Omelet
-p_recipe_id: 9
+p_recipe_id: 93
 permalink: /recipes/fluffy-baked-omelet
 photo_large: null
 photo_thumb: fluffy-baked-omelet-thumb.jpg

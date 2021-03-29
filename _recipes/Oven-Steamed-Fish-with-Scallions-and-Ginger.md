@@ -2,13 +2,13 @@
 title: "Oven-Steamed Fish with Scallions and Ginger"
 filename: "oven-steamed-fish-with-scallions-and-ginger"
 categories:
-- Fish
 - White Fish
+- Fish
 cook_time: 1 hour
-created: '2020-02-03 15:25:45'
-created_ts: 1580743545
+created: '2020-02-03 01:25:45'
+created_ts: 1580693145
 description: null
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "GATHER YOUR INGREDIENTS\n8 scallions, trimmed, divided\n1 (3-inch) piece\
   \ ginger, peeled, divided\n3 garlic cloves, sliced thin\n4 (6-ounce) skinless cod\
@@ -18,19 +18,19 @@ ingredients: "GATHER YOUR INGREDIENTS\n8 scallions, trimmed, divided\n1 (3-inch)
   \u2153 cup fresh cilantro leaves and thin stems"
 intrash: 0
 meal_dates:
-- '2020-05-06'
-- '2020-06-29'
-- '2020-07-21'
-- '2020-07-29'
-- '2020-08-15'
-- '2020-11-20'
-- '2020-12-19'
-- '2021-02-02'
-- '2021-03-21'
+- '2021-02-01'
+- '2020-12-18'
+- '2020-11-19'
+- '2020-08-14'
+- '2020-07-28'
+- '2020-07-20'
+- '2020-06-28'
+- '2020-05-05'
+- '2021-03-20'
 meal_types: 3|3|3|3|3|3|3|3|3
 mine: null
 name: Oven-Steamed Fish with Scallions and Ginger
-p_recipe_id: 22
+p_recipe_id: 211
 permalink: /recipes/oven-steamed-fish-with-scallions-and-ginger
 photo_large: oven-steamed-fish-with-scallions-and-ginger-large.jpg
 photo_thumb: oven-steamed-fish-with-scallions-and-ginger-thumb.jpg
@@ -38,13 +38,13 @@ photos_dict:
   '1': oven-steamed-fish-with-scallions-and-ginger-1.jpg
   '2': oven-steamed-fish-with-scallions-and-ginger-2.jpg
   '3': oven-steamed-fish-with-scallions-and-ginger-3.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Serves 4
 slug: oven-steamed-fish-with-scallions-and-ginger
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/11736-oven-steamed-fish-with-scallions-and-ginger
-total_time: ''
+total_time: null
 type: null
 uid: 77B98054-DBCB-470E-83E9-62B8E4A68906-408-00004DC1BC68E0B3
 ---

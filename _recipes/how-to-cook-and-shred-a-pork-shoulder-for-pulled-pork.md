@@ -3,11 +3,11 @@ title: "How to Cook (And Shred) a Pork Shoulder for Pulled Pork"
 filename: "how-to-cook-and-shred-a-pork-shoulder-for-pulled-pork"
 categories:
 - Pork Shoulder
-cook_time: ''
-created: '2020-06-13 15:42:21'
-created_ts: 1592062941
-description: ''
-difficulty: ''
+cook_time: null
+created: '2020-06-13 02:42:21'
+created_ts: 1592016141
+description: null
+difficulty: null
 image_url: https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_1500/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F3%2F2014%2F06%2Fe3a723497e0e8d361632a41e22c7eece86bae233.jpeg
 ingredients: '4 to 6 pounds boneless pork shoulder or butt (or 5 to 7 pounds bone-in)
 
@@ -36,18 +36,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: How to Cook (And Shred) a Pork Shoulder for Pulled Pork
-p_recipe_id: 189
+p_recipe_id: 384
 permalink: /recipes/how-to-cook-and-shred-a-pork-shoulder-for-pulled-pork
 photo_large: null
 photo_thumb: how-to-cook-and-shred-a-pork-shoulder-for-pulled-pork-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Serves 10 to 12, makes approximately 10 cups shredded pork
 slug: how-to-cook-and-shred-a-pork-shoulder-for-pulled-pork
 source: thekitchn.com
 source_url: https://www.thekitchn.com/how-to-cook-and-shred-a-pork-shoulder-for-pulled-pork-79485
-total_time: ''
+total_time: null
 type: null
 uid: D3A1E51B-84E9-44A4-BB85-2CF4A9B93A86-1358-000130109CDA0573
 ---

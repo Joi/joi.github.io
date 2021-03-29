@@ -3,11 +3,11 @@ title: "Salmon and Sorrel Sauce"
 filename: "salmon-and-sorrel-sauce"
 categories:
 - Salmon
-cook_time: ''
-created: '2020-04-18 14:45:08'
-created_ts: 1587221108
-description: ''
-difficulty: ''
+cook_time: null
+created: '2020-04-18 01:45:08'
+created_ts: 1587174308
+description: null
+difficulty: null
 image_url: https://www.signaturedishes.net/recipes/salmon-sorrel-sauce-2.jpg
 ingredients: '2 pounds fresh salmon
 
@@ -36,22 +36,23 @@ ingredients: '2 pounds fresh salmon
   Salt and Cayenne Pepper'
 intrash: 0
 meal_dates:
-- '2020-04-18'
-meal_types: '3'
+- '2020-04-17'
+- '2021-03-30'
+meal_types: 3|3
 mine: null
 name: Salmon and Sorrel Sauce
-p_recipe_id: 109
+p_recipe_id: 296
 permalink: /recipes/salmon-and-sorrel-sauce
 photo_large: null
 photo_thumb: salmon-and-sorrel-sauce-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: salmon-and-sorrel-sauce
 source: signaturedishes.net
 source_url: https://www.signaturedishes.net/recipes/salmon-sorrel-sauce.html
-total_time: ''
+total_time: null
 type: null
 uid: A62FE62C-0F90-4AB7-8B49-B06BD1C85461-2334-00027230C7452159
 ---

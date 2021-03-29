@@ -4,10 +4,10 @@ filename: "boiled-corn-on-the-cob-with-spicy-butter"
 categories:
 - Corn
 cook_time: 25mins
-created: '2020-07-04 18:42:10'
-created_ts: 1593888130
-description: ''
-difficulty: ''
+created: '2020-07-04 05:42:10'
+created_ts: 1593841330
+description: null
+difficulty: null
 image_url: https://img.sndimg.com:443/food/image/upload/c_thumb,q_80,w_562,h_316/v1/img/recipes/11/83/24/pic90MKXk.jpg
 ingredients: '4 large fresh corn on the cob, shucked
 
@@ -22,11 +22,11 @@ ingredients: '4 large fresh corn on the cob, shucked
   1 teaspoon ground cumin'
 intrash: 0
 meal_dates:
-- '2020-07-04'
+- '2020-07-03'
 meal_types: '3'
 mine: null
 name: Boiled Corn on the Cob with Spicy Butter
-p_recipe_id: 228
+p_recipe_id: 97
 permalink: /recipes/boiled-corn-on-the-cob-with-spicy-butter
 photo_large: null
 photo_thumb: boiled-corn-on-the-cob-with-spicy-butter-thumb.jpg
@@ -37,7 +37,7 @@ servings: 'Serves: 4'
 slug: boiled-corn-on-the-cob-with-spicy-butter
 source: food.com
 source_url: https://www.food.com/recipe/boiled-corn-on-the-cob-with-spicy-butter-118324
-total_time: ''
+total_time: null
 type: null
 uid: 353F48D7-7451-4710-AEE2-1A2387D021C8-631-00014E218D327D98
 ---

@@ -4,8 +4,8 @@ filename: "fry-sauce"
 categories:
 - Sauce
 cook_time: null
-created: '2020-10-17 11:21:13'
-created_ts: 1602933673
+created: '2020-10-16 22:21:13'
+created_ts: 1602886873
 description: null
 difficulty: null
 image_url: null
@@ -13,11 +13,11 @@ ingredients: "1/2 cup mayonnaise \n2 tbsp ketchup \n1 tbsp yellow mustard\n1 tbs
   \ kosher dill pickle juice \n1 tsp sugar\npinch of cayenne powder "
 intrash: 0
 meal_dates:
-- '2020-10-17'
+- '2020-10-16'
 meal_types: '3'
 mine: null
 name: Fry Sauce
-p_recipe_id: 388
+p_recipe_id: 372
 permalink: /recipes/fry-sauce
 photo_large: null
 photo_thumb: null

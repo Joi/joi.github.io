@@ -2,11 +2,11 @@
 title: "Thai Coconut Shrimp Curry"
 filename: "thai-coconut-shrimp-curry"
 categories:
-- Shrimp
 - Curry
+- Shrimp
 cook_time: null
-created: '2020-10-14 11:40:56'
-created_ts: 1602675656
+created: '2020-10-13 22:40:56'
+created_ts: 1602628856
 description: null
 difficulty: null
 image_url: https://cdn.statically.io/img/peasandcrayons.com/wp-content/uploads/2019/10/thai-coconut-shrimp-curry-recipe-2-800x1200.jpg?f=auto
@@ -21,7 +21,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Thai Coconut Shrimp Curry
-p_recipe_id: 384
+p_recipe_id: 162
 permalink: /recipes/thai-coconut-shrimp-curry
 photo_large: null
 photo_thumb: thai-coconut-shrimp-curry-thumb.jpg

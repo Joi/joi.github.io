@@ -4,8 +4,8 @@ filename: "chicken-avocado-pupusas"
 categories:
 - Chicken
 cook_time: 1h
-created: '2020-02-03 16:01:52'
-created_ts: 1580745712
+created: '2020-02-03 02:01:52'
+created_ts: 1580695312
 description: null
 difficulty: Medium
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/vimdb/177862.jpg
@@ -22,7 +22,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Chicken Avocado Pupusas
-p_recipe_id: 16
+p_recipe_id: 159
 permalink: /recipes/chicken-avocado-pupusas
 photo_large: null
 photo_thumb: chicken-avocado-pupusas-thumb.jpg

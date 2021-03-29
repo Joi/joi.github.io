@@ -4,10 +4,10 @@ filename: "roast-beef-tenderloin-with-wine-sauce"
 categories:
 - Tenderloin
 cook_time: 1 hour 20 minutes
-created: '2021-02-04 17:04:08'
-created_ts: 1612458248
-description: ''
-difficulty: ''
+created: '2021-02-04 03:04:08'
+created_ts: 1612407848
+description: null
+difficulty: null
 image_url: https://www.onceuponachef.com/images/2016/12/Beef-Tenderloin-with-Red-Wine-Sauce-3-1120x880.jpg
 ingredients: 'FOR THE SAUCE:
 
@@ -45,7 +45,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Roast Beef Tenderloin with Wine Sauce
-p_recipe_id: 470
+p_recipe_id: 265
 permalink: /recipes/roast-beef-tenderloin-with-wine-sauce
 photo_large: null
 photo_thumb: roast-beef-tenderloin-with-wine-sauce-thumb.jpg
@@ -56,7 +56,7 @@ servings: 'Servings: 4-6'
 slug: roast-beef-tenderloin-with-wine-sauce
 source: onceuponachef.com
 source_url: https://www.onceuponachef.com/recipes/roast-beef-tenderloin-wine-sauce.html
-total_time: ''
+total_time: null
 type: null
 uid: 96E6F149-01A4-4FCC-923B-618893D7896E-1700-000082F2E4785C65
 ---

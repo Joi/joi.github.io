@@ -2,13 +2,13 @@
 title: "Four-Spice Salmon"
 filename: "four-spice-salmon"
 categories:
-- Fish
 - Salmon
+- Fish
 cook_time: 20 minutes
-created: '2020-03-20 18:26:12'
-created_ts: 1584728772
-description: ''
-difficulty: ''
+created: '2020-03-20 05:26:12'
+created_ts: 1584681972
+description: null
+difficulty: null
 image_url: null
 ingredients: "4 6-ounce skinned salmon fillets\nSalt and black pepper\n1 tablespoon\
   \ coriander seeds or ground coriander\n\xBC teaspoon whole or ground cloves\n1 \xBD\
@@ -16,24 +16,24 @@ ingredients: "4 6-ounce skinned salmon fillets\nSalt and black pepper\n1 tablesp
   \ peanut oil, grape seed or other neutral oil, or clarified butter"
 intrash: 0
 meal_dates:
-- '2020-05-26'
-- '2020-07-17'
+- '2020-07-16'
+- '2020-05-25'
 meal_types: 3|3
 mine: null
 name: Four-Spice Salmon
-p_recipe_id: 57
+p_recipe_id: 92
 permalink: /recipes/four-spice-salmon
 photo_large: four-spice-salmon-large.jpg
 photo_thumb: four-spice-salmon-thumb.jpg
 photos_dict:
   '1': four-spice-salmon-1.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Yield 4 servings
 slug: four-spice-salmon
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1014578-four-spice-salmon?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=11
-total_time: ''
+total_time: null
 type: null
 uid: 31AA9966-2763-4AC5-A716-BBD238901647-9067-0001860E2C2E307C
 ---

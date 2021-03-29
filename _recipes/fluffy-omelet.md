@@ -5,8 +5,8 @@ categories:
 - Breakfast
 - Egg
 cook_time: null
-created: '2020-02-03 14:50:35'
-created_ts: 1580741435
+created: '2020-02-03 00:50:35'
+created_ts: 1580691035
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/20178_sfs-fluffy-omelets-mushroom-filling-2
@@ -19,7 +19,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Fluffy Omelet
-p_recipe_id: 23
+p_recipe_id: 225
 permalink: /recipes/fluffy-omelet
 photo_large: null
 photo_thumb: fluffy-omelet-thumb.jpg

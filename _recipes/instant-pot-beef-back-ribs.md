@@ -4,10 +4,10 @@ filename: "instant-pot-beef-back-ribs"
 categories:
 - Beef Back Ribs
 cook_time: 25 minutes natural release
-created: '2020-09-02 02:55:00'
-created_ts: 1599015300
-description: ''
-difficulty: ''
+created: '2020-09-01 13:55:00'
+created_ts: 1598968500
+description: null
+difficulty: null
 image_url: null
 ingredients: '1 beef rib rack, membrane removed
 
@@ -32,11 +32,11 @@ ingredients: '1 beef rib rack, membrane removed
   BBQ Sauce, of choice'
 intrash: 0
 meal_dates:
-- '2020-09-03'
+- '2020-09-02'
 meal_types: '3'
 mine: null
 name: Instant Pot Beef Back Ribs
-p_recipe_id: 333
+p_recipe_id: 55
 permalink: /recipes/instant-pot-beef-back-ribs
 photo_large: instant-pot-beef-back-ribs-large.jpg
 photo_thumb: instant-pot-beef-back-ribs-thumb.jpg
@@ -51,7 +51,7 @@ servings: 'Yield: 4 servings'
 slug: instant-pot-beef-back-ribs
 source: mamaneedscake.com
 source_url: https://mamaneedscake.com/instant-pot-beef-back-ribs/
-total_time: ''
+total_time: null
 type: null
 uid: 1A74E878-5E32-4516-990D-B8BCF4897175-13002-0005AFC76486770F
 ---

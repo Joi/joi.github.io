@@ -2,11 +2,11 @@
 title: "Making Mapo Tofu"
 filename: "making-mapo-tofu"
 categories:
-- Chinese
 - Tofu
+- Chinese
 cook_time: null
-created: '2021-03-03 15:04:49'
-created_ts: 1614783889
+created: '2021-03-03 01:04:49'
+created_ts: 1614733489
 description: null
 difficulty: null
 image_url: https://images.squarespace-cdn.com/content/v1/5aad7a181aef1dd83ca17bdb/1522540938936-NCNMAABV8SZNFT9Q0DP5/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/mapo_1?format=2500w
@@ -22,7 +22,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Making Mapo Tofu
-p_recipe_id: 482
+p_recipe_id: 117
 permalink: /recipes/making-mapo-tofu
 photo_large: null
 photo_thumb: making-mapo-tofu-thumb.jpg

@@ -4,8 +4,8 @@ filename: "horseradish-sauce"
 categories:
 - Sauce
 cook_time: 2 minutes
-created: '2020-07-18 17:32:40'
-created_ts: 1595093560
+created: '2020-07-18 04:32:40'
+created_ts: 1595046760
 description: null
 difficulty: Easy
 image_url: https://natashaskitchen.com/wp-content/uploads/2019/02/Horseradish-Sauce-4.jpg
@@ -24,12 +24,12 @@ ingredients: '1/2 cup sour cream
   1 Tbsp chives finely chopped'
 intrash: 0
 meal_dates:
-- '2020-08-17'
-- '2020-09-21'
+- '2020-09-20'
+- '2020-08-16'
 meal_types: 3|3
 mine: null
 name: Horseradish Sauce
-p_recipe_id: 264
+p_recipe_id: 422
 permalink: /recipes/horseradish-sauce
 photo_large: null
 photo_thumb: horseradish-sauce-thumb.jpg

@@ -5,8 +5,8 @@ categories:
 - Clams
 - Pasta
 cook_time: null
-created: '2020-02-03 15:37:19'
-created_ts: 1580744239
+created: '2020-02-03 01:37:19'
+created_ts: 1580693839
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/28098_sfs-garlicky-spaghetti-with-clams-024
@@ -21,7 +21,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Garlicky Spaghetti with Clams
-p_recipe_id: 36
+p_recipe_id: 377
 permalink: /recipes/garlicky-spaghetti-with-clams
 photo_large: null
 photo_thumb: garlicky-spaghetti-with-clams-thumb.jpg

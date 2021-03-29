@@ -4,10 +4,10 @@ filename: "how-to-grill-the-best-burgers"
 categories:
 - Ground Beef
 cook_time: 5 minutes
-created: '2020-06-13 11:21:11'
-created_ts: 1592047271
-description: ''
-difficulty: ''
+created: '2020-06-12 22:21:11'
+created_ts: 1592000471
+description: null
+difficulty: null
 image_url: https://www.simplyrecipes.com/wp-content/uploads/2018/06/HT-Grill-Burger-LEAD-VERTICAL-600x840.jpg
 ingredients: '2 pounds 80/20 ground beef, cold
 
@@ -26,12 +26,12 @@ ingredients: '2 pounds 80/20 ground beef, cold
   Butter for buns'
 intrash: 0
 meal_dates:
-- '2020-06-13'
-- '2020-07-12'
+- '2020-07-11'
+- '2020-06-12'
 meal_types: 3|3
 mine: null
 name: How to Grill the Best Burgers
-p_recipe_id: 185
+p_recipe_id: 358
 permalink: /recipes/how-to-grill-the-best-burgers
 photo_large: null
 photo_thumb: how-to-grill-the-best-burgers-thumb.jpg
@@ -42,7 +42,7 @@ servings: 'Yield: 6 burgers'
 slug: how-to-grill-the-best-burgers
 source: simplyrecipes.com
 source_url: https://www.simplyrecipes.com/recipes/how_to_grill_the_best_burgers/
-total_time: ''
+total_time: null
 type: null
 uid: C790DDE4-4C85-4870-80E6-D2507EC38892-1358-000121CF217FC385
 ---

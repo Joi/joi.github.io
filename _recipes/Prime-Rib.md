@@ -4,13 +4,13 @@ filename: "prime-rib"
 categories:
 - Prime Rib
 cook_time: 5 hours
-created: '2020-08-20 16:02:42'
-created_ts: 1597939362
+created: '2020-08-20 03:02:42'
+created_ts: 1597892562
 description: 'Inspired by Food Lab.
 
 
   Serve with [recipe:Oxtail Jus].'
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: 'Prime Rib
 
@@ -19,16 +19,16 @@ ingredients: 'Prime Rib
   Pepper'
 intrash: 0
 meal_dates:
-- '2020-10-04'
-- '2020-12-06'
-- '2021-01-02'
-- '2021-02-20'
-- '2020-12-20'
-- '2020-08-17'
+- '2020-12-05'
+- '2020-10-03'
+- '2020-12-19'
+- '2021-02-19'
+- '2021-01-01'
+- '2020-08-16'
 meal_types: 3|3|3|3|3|3
 mine: 1
 name: Prime Rib
-p_recipe_id: 317
+p_recipe_id: 61
 permalink: /recipes/prime-rib
 photo_large: prime-rib-large.jpg
 photo_thumb: prime-rib-thumb.jpg
@@ -44,11 +44,11 @@ photos_dict:
   '9': prime-rib-9.jpg
 prep_time: 15 min
 rating: 5
-servings: ''
+servings: null
 slug: prime-rib
 source: null
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: 1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259
 ---

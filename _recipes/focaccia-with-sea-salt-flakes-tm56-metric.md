@@ -4,8 +4,8 @@ filename: "focaccia-with-sea-salt-flakes-tm56-metric"
 categories:
 - Egg
 cook_time: 1h 40min
-created: '2020-02-03 15:57:25'
-created_ts: 1580745445
+created: '2020-02-03 01:57:25'
+created_ts: 1580695045
 description: null
 difficulty: Easy
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/63D3854D-D39C-4999-9DC0-AFF9583DB3F7/Derivates/BF9507B3-F2C0-4262-8346-649A5F980789.jpg
@@ -18,7 +18,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Focaccia with Sea Salt Flakes (TM5/6 Metric)
-p_recipe_id: 10
+p_recipe_id: 103
 permalink: /recipes/focaccia-with-sea-salt-flakes-tm56-metric
 photo_large: null
 photo_thumb: focaccia-with-sea-salt-flakes-tm56-metric-thumb.jpg
@@ -29,7 +29,7 @@ servings: 16 pieces
 slug: focaccia-with-sea-salt-flakes-tm56-metric
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r549314
-total_time: ''
+total_time: null
 type: null
 uid: 36EEF368-2999-4FC2-B88B-4AD61AF24856-408-00004F8001BD0EF3
 ---

@@ -4,8 +4,8 @@ filename: "grilled-tuna-burgers-with-spicy-mayo"
 categories:
 - Tuna
 cook_time: 15 min
-created: '2020-08-06 00:17:40'
-created_ts: 1596673060
+created: '2020-08-05 11:17:40'
+created_ts: 1596626260
 description: null
 difficulty: null
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/1/19/0/GI1108H_grilled-tuna-burgers-with-spicy-mayo_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371603434169.jpeg
@@ -56,11 +56,11 @@ ingredients: '1 tablespoon toasted sesame oil
   Kosher salt and freshly ground black pepper'
 intrash: 0
 meal_dates:
-- '2020-08-08'
+- '2020-08-07'
 meal_types: '3'
 mine: null
 name: Grilled Tuna Burgers with Spicy Mayo
-p_recipe_id: 290
+p_recipe_id: 90
 permalink: /recipes/grilled-tuna-burgers-with-spicy-mayo
 photo_large: null
 photo_thumb: grilled-tuna-burgers-with-spicy-mayo-thumb.jpg

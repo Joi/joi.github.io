@@ -2,13 +2,13 @@
 title: "Beef Bone Broth"
 filename: "beef-bone-broth"
 categories:
-- Soup
 - Bone
+- Soup
 cook_time: 9 to 24 hours
-created: '2020-10-13 20:10:16'
-created_ts: 1602619816
-description: ''
-difficulty: ''
+created: '2020-10-13 07:10:16'
+created_ts: 1602573016
+description: null
+difficulty: null
 image_url: https://assets.epicurious.com/photos/56be3121af205081531c883f/2:1/w_1260%2Ch_630/EP_02112016_bone_broth_hero.jpg
 ingredients: '4 pounds beef bones, preferably a mix of marrow bones and bones with
   a little meat on them, such as oxtail, short ribs, or knuckle bones (cut in half
@@ -35,11 +35,11 @@ ingredients: '4 pounds beef bones, preferably a mix of marrow bones and bones wi
   6-quart (or larger) stockpot or a large slow cooker'
 intrash: 0
 meal_dates:
-- '2020-10-14'
+- '2020-10-13'
 meal_types: '4'
 mine: null
 name: Beef Bone Broth
-p_recipe_id: 382
+p_recipe_id: 53
 permalink: /recipes/beef-bone-broth
 photo_large: null
 photo_thumb: beef-bone-broth-thumb.jpg
@@ -50,7 +50,7 @@ servings: About 8 cups of broth
 slug: beef-bone-broth
 source: epicurious.com
 source_url: https://www.epicurious.com/recipes/food/views/beef-bone-broth-51260700
-total_time: ''
+total_time: null
 type: null
 uid: 193BCEC7-317B-4381-8CA9-223F4306AD0D-38082-0000B63FB3D98158
 ---

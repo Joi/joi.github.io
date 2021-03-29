@@ -5,10 +5,10 @@ categories:
 - Fish
 - Soup
 cook_time: 35 mins
-created: '2021-03-13 12:43:42'
-created_ts: 1615639422
+created: '2021-03-12 22:43:42'
+created_ts: 1615589022
 description: null
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "Private Reserve extra virgin olive oil\n1 large yellow onion, chopped\n\
   2 celery ribs, chopped\nSalt and pepper\n4 large garlic cloves, minced\n\xBD tsp\
@@ -20,11 +20,11 @@ ingredients: "Private Reserve extra virgin olive oil\n1 large yellow onion, chop
   \ bread for serving"
 intrash: 0
 meal_dates:
-- '2021-03-14'
+- '2021-03-13'
 meal_types: '3'
 mine: null
 name: Sicilian-Style Fish Stew
-p_recipe_id: 487
+p_recipe_id: 395
 permalink: /recipes/sicilian-style-fish-stew
 photo_large: sicilian-style-fish-stew-large.jpg
 photo_thumb: sicilian-style-fish-stew-thumb.jpg
@@ -38,7 +38,7 @@ servings: Serves 4-6
 slug: sicilian-style-fish-stew
 source: themediterraneandish.com
 source_url: https://www.themediterraneandish.com/sicilian-fish-stew/
-total_time: ''
+total_time: null
 type: null
 uid: D8EAF2E2-E2B9-44D2-9428-9A591181D829-68280-000013BC5D40734E
 ---

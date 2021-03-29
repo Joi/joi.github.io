@@ -4,8 +4,8 @@ filename: "chicken-cacciatore-with-mushrooms-tomatoes-and-wine"
 categories:
 - Chicken
 cook_time: 1 hour 45 minutes
-created: '2020-03-29 11:54:17'
-created_ts: 1585482857
+created: '2020-03-28 22:54:17'
+created_ts: 1585436057
 description: null
 difficulty: null
 image_url: https://static01.nyt.com/images/2014/04/04/dining/chickencaccitora/chickencaccitora-articleLarge.jpg
@@ -18,11 +18,11 @@ ingredients: "\xBD ounce dried mushrooms, like porcini (1/2 cup)\n2 tablespoons 
   \xBD cup red wine\n1 28-ounce can chopped tomatoes in juice, pulsed in a food processor"
 intrash: 0
 meal_dates:
-- '2020-04-10'
+- '2020-04-09'
 meal_types: '3'
 mine: null
 name: Chicken Cacciatore with Mushrooms, Tomatoes and Wine
-p_recipe_id: 71
+p_recipe_id: 230
 permalink: /recipes/chicken-cacciatore-with-mushrooms-tomatoes-and-wine
 photo_large: null
 photo_thumb: chicken-cacciatore-with-mushrooms-tomatoes-and-wine-thumb.jpg

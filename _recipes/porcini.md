@@ -4,8 +4,8 @@ filename: "porcini"
 categories:
 - Mushroom
 cook_time: null
-created: '2021-01-31 12:33:52'
-created_ts: 1612096432
+created: '2021-01-30 22:33:52'
+created_ts: 1612046032
 description: null
 difficulty: null
 image_url: null
@@ -13,11 +13,11 @@ ingredients: "frozen porcini mushrooms \nwhite wine\nsalt\npepper \nparsley \nol
   \ oil"
 intrash: 0
 meal_dates:
-- '2021-01-31'
+- '2021-01-30'
 meal_types: '2'
 mine: null
 name: Porcini
-p_recipe_id: 464
+p_recipe_id: 41
 permalink: /recipes/porcini
 photo_large: null
 photo_thumb: null

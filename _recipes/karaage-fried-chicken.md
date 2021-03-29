@@ -4,8 +4,8 @@ filename: "karaage-fried-chicken"
 categories:
 - Chicken
 cook_time: null
-created: '2020-05-21 11:53:32'
-created_ts: 1590062012
+created: '2020-05-20 22:53:32'
+created_ts: 1590015212
 description: null
 difficulty: null
 image_url: https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5b2aa37781514ab68f18ae2a1ceb74e6/final3.jpg
@@ -17,7 +17,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Karaage Fried Chicken
-p_recipe_id: 167
+p_recipe_id: 326
 permalink: /recipes/karaage-fried-chicken
 photo_large: null
 photo_thumb: karaage-fried-chicken-thumb.jpg

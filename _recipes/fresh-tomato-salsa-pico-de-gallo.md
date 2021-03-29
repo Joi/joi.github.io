@@ -4,8 +4,8 @@ filename: "fresh-tomato-salsa-pico-de-gallo"
 categories:
 - Sauce
 cook_time: null
-created: '2020-08-16 15:33:38'
-created_ts: 1597592018
+created: '2020-08-16 02:33:38'
+created_ts: 1597545218
 description: null
 difficulty: null
 image_url: https://www.simplyrecipes.com/wp-content/uploads/2019/07/Fresh-Tomato-Salsa-LEAD-1b-600x840.jpg
@@ -16,11 +16,11 @@ ingredients: "2 to 3 medium sized fresh tomatoes (1 to 1 1/2 pounds), stems remo
   \ taste\nPinch ground cumin, more to taste"
 intrash: 0
 meal_dates:
-- '2020-08-19'
+- '2020-08-18'
 meal_types: '3'
 mine: null
 name: Fresh Tomato Salsa (Pico De Gallo)
-p_recipe_id: 306
+p_recipe_id: 229
 permalink: /recipes/fresh-tomato-salsa-pico-de-gallo
 photo_large: null
 photo_thumb: fresh-tomato-salsa-pico-de-gallo-thumb.jpg

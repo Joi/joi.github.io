@@ -4,8 +4,8 @@ filename: "king-oyster-mushroom-with-garlic-sauce"
 categories:
 - Mushroom
 cook_time: 3 minutes
-created: '2020-10-22 21:11:40'
-created_ts: 1603401100
+created: '2020-10-22 08:11:40'
+created_ts: 1603354300
 description: null
 difficulty: ''
 image_url: null
@@ -17,12 +17,12 @@ ingredients: "2 tbsp cooking oil\n6 king oyster mushrooms, about 400g/14oz\n1 tb
   1 tbsp water"
 intrash: 0
 meal_dates:
-- '2020-10-22'
-- '2021-01-24'
-meal_types: 3|2
+- '2021-01-23'
+- '2020-10-21'
+meal_types: 2|3
 mine: null
 name: King Oyster Mushroom with Garlic Sauce
-p_recipe_id: 391
+p_recipe_id: 279
 permalink: /recipes/king-oyster-mushroom-with-garlic-sauce
 photo_large: king-oyster-mushroom-with-garlic-sauce-large.jpg
 photo_thumb: king-oyster-mushroom-with-garlic-sauce-thumb.jpg

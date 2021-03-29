@@ -4,8 +4,8 @@ filename: "healthier-instant-pot-coq-au-vin"
 categories:
 - Chicken
 cook_time: 15 minutes
-created: '2020-09-17 15:23:42'
-created_ts: 1600356222
+created: '2020-09-17 02:23:42'
+created_ts: 1600309422
 description: null
 difficulty: null
 image_url: https://www.halfbakedharvest.com/wp-content/uploads/2018/10/Healthier-Instant-Pot-Coq-au-Vin-1.jpg
@@ -41,7 +41,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Healthier Instant Pot Coq Au Vin
-p_recipe_id: 361
+p_recipe_id: 446
 permalink: /recipes/healthier-instant-pot-coq-au-vin
 photo_large: null
 photo_thumb: healthier-instant-pot-coq-au-vin-thumb.jpg

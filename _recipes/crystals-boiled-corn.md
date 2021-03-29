@@ -2,11 +2,11 @@
 title: "Crystal's Boiled Corn"
 filename: "crystals-boiled-corn"
 categories: null
-cook_time: ''
-created: '2020-07-11 20:43:39'
-created_ts: 1594500219
+cook_time: null
+created: '2020-07-11 07:43:39'
+created_ts: 1594453419
 description: null
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: 'Corn
 
@@ -17,23 +17,23 @@ ingredients: 'Corn
   Black Pepper'
 intrash: 0
 meal_dates:
-- '2020-07-11'
+- '2020-07-10'
 meal_types: '3'
 mine: null
 name: Crystal's Boiled Corn
-p_recipe_id: 244
+p_recipe_id: 217
 permalink: /recipes/crystals-boiled-corn
 photo_large: crystals-boiled-corn-large.jpg
 photo_thumb: crystals-boiled-corn-thumb.jpg
 photos_dict:
   '1': crystals-boiled-corn-1.jpg
-prep_time: ''
+prep_time: null
 rating: 4
-servings: ''
+servings: null
 slug: crystals-boiled-corn
 source: null
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: 7A7AA3A8-B5A5-468B-96D4-90A66037F1B2-29053-00037ACFD08DEBAB
 ---

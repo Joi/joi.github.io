@@ -4,8 +4,8 @@ filename: "garlic-steak-with-horseradish-sauce-by-bobby-flay"
 categories:
 - Sauce
 cook_time: 21mins
-created: '2020-07-18 17:34:03'
-created_ts: 1595093643
+created: '2020-07-18 04:34:03'
+created_ts: 1595046843
 description: null
 difficulty: null
 image_url: https://img.sndimg.com:443/food/image/upload/c_thumb,q_80,w_375,h_211/v1/img/recipes/30/82/06/picLid93O.jpg
@@ -26,11 +26,11 @@ ingredients: '4 (4 ounce) sirloin steaks
   1/2 teaspoon fresh ground black pepper, divided'
 intrash: 0
 meal_dates:
-- '2020-07-18'
+- '2020-07-17'
 meal_types: '3'
 mine: null
 name: Garlic Steak with Horseradish Sauce by Bobby Flay
-p_recipe_id: 263
+p_recipe_id: 274
 permalink: /recipes/garlic-steak-with-horseradish-sauce-by-bobby-flay
 photo_large: null
 photo_thumb: garlic-steak-with-horseradish-sauce-by-bobby-flay-thumb.jpg

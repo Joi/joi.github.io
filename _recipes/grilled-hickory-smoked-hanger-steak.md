@@ -4,8 +4,8 @@ filename: "grilled-hickory-smoked-hanger-steak"
 categories:
 - Hanger steak
 cook_time: 1 hr 40 min
-created: '2020-09-25 22:55:47'
-created_ts: 1601074547
+created: '2020-09-25 09:55:47'
+created_ts: 1601027747
 description: null
 difficulty: null
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fwww.foodandwine.com%2Fimg%2Ficons%2Fmissing-image-4x3.png
@@ -19,7 +19,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Grilled Hickory-Smoked Hanger Steak
-p_recipe_id: 370
+p_recipe_id: 210
 permalink: /recipes/grilled-hickory-smoked-hanger-steak
 photo_large: null
 photo_thumb: grilled-hickory-smoked-hanger-steak-thumb.jpg

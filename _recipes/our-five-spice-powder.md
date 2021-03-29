@@ -4,8 +4,8 @@ filename: "our-five-spice-powder"
 categories:
 - Sauce
 cook_time: 10 minutes
-created: '2020-11-08 21:12:44'
-created_ts: 1604869964
+created: '2020-11-08 07:12:44'
+created_ts: 1604819564
 description: null
 difficulty: null
 image_url: https://thewoksoflife.com/wp-content/uploads/2019/12/five-spice-powder-6-340x493.jpg
@@ -23,11 +23,11 @@ ingredients: '1 tablespoon ground Chinese cassia cinnamon (1 part)
   ginger slices, optional)'
 intrash: 0
 meal_dates:
-- '2020-11-08'
+- '2020-11-07'
 meal_types: '3'
 mine: null
 name: Our Five Spice Powder
-p_recipe_id: 405
+p_recipe_id: 314
 permalink: /recipes/our-five-spice-powder
 photo_large: null
 photo_thumb: our-five-spice-powder-thumb.jpg

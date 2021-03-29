@@ -4,8 +4,8 @@ filename: "jamaican-jerk-rubbed-roast-chicken"
 categories:
 - Chicken
 cook_time: null
-created: '2021-01-21 15:15:37'
-created_ts: 1611242137
+created: '2021-01-21 01:15:37'
+created_ts: 1611191737
 description: "Jerk-style chicken is a specialty of Jamaica, where the chicken gets\
   \ a wonderful smoky-sweet flavor from being slow-cooked over fresh pimento wood\
   \ or laurel wood\u2014 the tree that bay leaves come from. We don\u2019t have access\
@@ -24,11 +24,11 @@ ingredients: "1 teaspoon freshly ground black pepper\r\xBC teaspoon ground nutme
   1 bunch thyme\n6 bay leaves"
 intrash: 0
 meal_dates:
-- '2021-01-21'
+- '2021-01-20'
 meal_types: '3'
 mine: null
 name: Jamaican-Jerk-Rubbed Roast Chicken
-p_recipe_id: 455
+p_recipe_id: 426
 permalink: /recipes/jamaican-jerk-rubbed-roast-chicken
 photo_large: null
 photo_thumb: null

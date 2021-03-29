@@ -4,10 +4,10 @@ filename: "shaved-asparagus-salad"
 categories:
 - Asparagus
 cook_time: 0 minutes
-created: '2020-07-01 14:07:31'
-created_ts: 1593612451
-description: ''
-difficulty: ''
+created: '2020-07-01 01:07:31'
+created_ts: 1593565651
+description: null
+difficulty: null
 image_url: https://www.acouplecooks.com/wp-content/uploads/2019/05/Shaved-Asparagus-Salad-003-735x919.jpg
 ingredients: "16 large asparagus spears (about 1 pound)\n1 tablespoon lemon juice,\
   \ plus lemon zest to serve\n3 tablespoons extra virgin olive oil\n3/4 cup Parmesan\
@@ -18,7 +18,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Shaved Asparagus Salad
-p_recipe_id: 214
+p_recipe_id: 443
 permalink: /recipes/shaved-asparagus-salad
 photo_large: null
 photo_thumb: shaved-asparagus-salad-thumb.jpg
@@ -29,7 +29,7 @@ servings: 'Yield: 3'
 slug: shaved-asparagus-salad
 source: acouplecooks.com
 source_url: https://www.acouplecooks.com/shaved-asparagus-salad-with-parmesan/
-total_time: ''
+total_time: null
 type: null
 uid: FA7BFE3F-3E44-40CF-A9D7-A308631AADE9-631-00005366EFA82EDF
 ---

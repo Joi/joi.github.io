@@ -2,11 +2,11 @@
 title: "Pasta alla Pomarola"
 filename: "pasta-alla-pomarola"
 categories:
-- Pasta
 - Tomato
-cook_time: ''
-created: '2020-07-04 18:27:57'
-created_ts: 1593887277
+- Pasta
+cook_time: null
+created: '2020-07-04 05:27:57'
+created_ts: 1593840477
 description: "Ever since that sauce-making competition at Chez Panisse, I\u2019ve\
   \ learned dozens and dozens of different methods for making basic tomato sauce,\
   \ but the truth of the matter is that all of the variations\u2014using onion or\
@@ -16,7 +16,7 @@ description: "Ever since that sauce-making competition at Chez Panisse, I\u2019v
   \ that, and you\u2019ve got yourself a wonderful blank slate, ready to use in pasta\
   \ and pizza, of course, but also in  dishes as diverse as shakshuka , braised Moroccan\
   \ lamb, Mexican rice, or Proven\xE7al fish stew."
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "Extra-virgin olive oil\r2 medium red or yellow onions, sliced thinly\r\
   Salt\r4 garlic cloves\r4 pounds fresh, ripe tomatoes, stemmed, or two (28-ounce)\
@@ -28,18 +28,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Pasta alla Pomarola
-p_recipe_id: 226
+p_recipe_id: 94
 permalink: /recipes/pasta-alla-pomarola
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Makes about 8 cups sauce; pasta recipe serves 4
 slug: pasta-alla-pomarola
 source: Salt, Fat, Acid, Heat
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: 32733CD5-0A74-4CA3-8DD2-73D71EAE180F-631-00014D5CD603566D
 ---

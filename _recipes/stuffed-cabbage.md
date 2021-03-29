@@ -4,8 +4,8 @@ filename: "stuffed-cabbage"
 categories:
 - Ground Beef
 cook_time: 1 hr
-created: '2020-12-26 14:59:17'
-created_ts: 1608994757
+created: '2020-12-26 00:59:17'
+created_ts: 1608944357
 description: null
 difficulty: Easy
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/26/0/BX0301_stuffed-cabbage_s4x3.jpg.rend.hgtvcom.826.620.suffix/1406932659102.jpeg
@@ -49,7 +49,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Stuffed Cabbage
-p_recipe_id: 438
+p_recipe_id: 50
 permalink: /recipes/stuffed-cabbage
 photo_large: null
 photo_thumb: stuffed-cabbage-thumb.jpg

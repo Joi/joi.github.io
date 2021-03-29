@@ -2,13 +2,13 @@
 title: "Macaroni and Cheese"
 filename: "macaroni-and-cheese"
 categories:
-- Pasta
 - Kio
-cook_time: ''
-created: '2020-05-11 16:51:10'
-created_ts: 1589215870
+- Pasta
+cook_time: null
+created: '2020-05-11 03:51:10'
+created_ts: 1589169070
 description: null
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "1 pound elbows, shells, cavatappi, farfalle, fusilli or other short,\
   \ tube-shaped pasta\nKosher salt\n1 cups whole milk\n\xBC teaspoon finely grated\
@@ -17,24 +17,24 @@ ingredients: "1 pound elbows, shells, cavatappi, farfalle, fusilli or other shor
   \ beaten\n3 tablespoons unsalted butter\nFreshly ground pepper"
 intrash: 0
 meal_dates:
-- '2020-05-11'
-- '2020-08-10'
+- '2020-05-10'
+- '2020-08-09'
 meal_types: 3|3
 mine: null
 name: Macaroni and Cheese
-p_recipe_id: 144
+p_recipe_id: 277
 permalink: /recipes/macaroni-and-cheese
 photo_large: macaroni-and-cheese-large.jpg
 photo_thumb: macaroni-and-cheese-thumb.jpg
 photos_dict:
   '1': macaroni-and-cheese-1.jpg
-prep_time: ''
+prep_time: null
 rating: 4
-servings: ''
+servings: null
 slug: macaroni-and-cheese
 source: Mashup
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: 9B1AB1E8-BE10-4F36-B0F0-9E37B79BF387-4647-00010AE1B323C85C
 ---

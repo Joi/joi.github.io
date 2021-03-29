@@ -4,10 +4,10 @@ filename: "creamy-weeknight-macaroni-and-cheese"
 categories:
 - Kio
 cook_time: 25 minutes
-created: '2020-05-04 17:36:15'
-created_ts: 1588613775
+created: '2020-05-04 04:36:15'
+created_ts: 1588566975
 description: null
-difficulty: ''
+difficulty: null
 image_url: https://static01.nyt.com/applications/cooking/4d60b19/assets/card-placeholder-image.png
 ingredients: '1 pound elbows, shells, cavatappi, farfalle, fusilli or other short,
   tube-shaped pasta
@@ -28,18 +28,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Creamy Weeknight Macaroni and Cheese
-p_recipe_id: 134
+p_recipe_id: 415
 permalink: /recipes/creamy-weeknight-macaroni-and-cheese
 photo_large: null
 photo_thumb: creamy-weeknight-macaroni-and-cheese-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 servings
 slug: creamy-weeknight-macaroni-and-cheese
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019252-creamy-weeknight-macaroni-and-cheese?algo=cooking_doc2vec_weight_1&fellback=false&imp_id=929154508&action=click&module=RecirculationRibbon&pgType=recipedetails&rank=3
-total_time: ''
+total_time: null
 type: null
 uid: E6612B43-6905-4BD3-A9E7-802048B4159A-1406-00007456D6EBBE21
 ---

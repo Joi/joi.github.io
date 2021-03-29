@@ -2,14 +2,14 @@
 title: "Mapo Dofu"
 filename: "mapo-dofu"
 categories:
-- Chinese
-- Ground Pork
 - Tofu
-cook_time: ''
-created: '2021-03-24 15:26:16'
-created_ts: 1616599576
+- Ground Pork
+- Chinese
+cook_time: null
+created: '2021-03-24 02:26:16'
+created_ts: 1616552776
 description: null
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: "1 lb tofu\n2 scallions, chopped\n\xBD lb ground pork\n\n*Sauce*\n\n\
   2 garlic cloves, chopped\n1 Tbsp tianmian sauce (sweet bean sauce)\n1 Tbsp doubanjiang\
@@ -19,12 +19,12 @@ ingredients: "1 lb tofu\n2 scallions, chopped\n\xBD lb ground pork\n\n*Sauce*\n\
   \ oil\n1 Tbsp Chinese wine\n1 Tbsp soy sauce\n"
 intrash: 0
 meal_dates:
-- '2021-03-24'
-- '2021-03-03'
+- '2021-03-23'
+- '2021-03-02'
 meal_types: 3|3
 mine: 1
 name: Mapo Dofu
-p_recipe_id: 492
+p_recipe_id: 457
 permalink: /recipes/mapo-dofu
 photo_large: mapo-dofu-large.jpg
 photo_thumb: mapo-dofu-thumb.jpg
@@ -32,13 +32,13 @@ photos_dict:
   '1': mapo-dofu-1.jpg
   '2': mapo-dofu-2.jpg
   '3': mapo-dofu-3.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: '2'
 slug: mapo-dofu
 source: null
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: F189F7A3-07AA-47B9-80AC-0E6B2879D4C5-651-00000524A207DA6A
 ---

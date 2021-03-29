@@ -4,10 +4,10 @@ filename: "pan-steamed-asparagus-with-lemon-and-parmesan"
 categories:
 - Vegetables
 cook_time: 25 minutes
-created: '2020-02-03 15:27:28'
-created_ts: 1580743648
+created: '2020-02-03 01:27:28'
+created_ts: 1580693248
 description: null
-difficulty: ''
+difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/43579-sfs-sauteed-asparagus-lemon-parmesan-34
 ingredients: "GATHER YOUR INGREDIENTS\n2 pounds asparagus\n1 teaspoon grated lemon\
   \ zest plus 1 tablespoon juice\n\xBC teaspoon pepper\n1 tablespoon unsalted butter\n\
@@ -18,18 +18,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Pan-Steamed Asparagus with Lemon and Parmesan
-p_recipe_id: 40
+p_recipe_id: 401
 permalink: /recipes/pan-steamed-asparagus-with-lemon-and-parmesan
 photo_large: null
 photo_thumb: pan-steamed-asparagus-with-lemon-and-parmesan-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Serves 6
 slug: pan-steamed-asparagus-with-lemon-and-parmesan
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/11408-pan-steamed-asparagus-with-lemon-and-parmesan
-total_time: ''
+total_time: null
 type: null
 uid: DCDDDC95-30FB-46A9-9C77-EF71A5F39C6F-408-00004DDD21AABD57
 ---

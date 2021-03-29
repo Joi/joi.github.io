@@ -2,13 +2,13 @@
 title: "Roasted Whole Duck"
 filename: "roasted-whole-duck"
 categories:
-- Meat
 - Duck
+- Meat
 cook_time: 30 mins
-created: '2020-03-05 11:08:53'
-created_ts: 1583406533
-description: ''
-difficulty: ''
+created: '2020-03-04 21:08:53'
+created_ts: 1583356133
+description: null
+difficulty: null
 image_url: https://www.thespruceeats.com/thmb/iAFkqLGoXxoZ_WF7CfjXSeSDDMc=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/200422407-001-56a1c8bb5f9b58b7d0c2991d.jpg
 ingredients: 'For Simmering:
 
@@ -46,7 +46,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Roasted Whole Duck
-p_recipe_id: 46
+p_recipe_id: 174
 permalink: /recipes/roasted-whole-duck
 photo_large: null
 photo_thumb: roasted-whole-duck-thumb.jpg
@@ -57,7 +57,7 @@ servings: 'Yield: 2 servings'
 slug: roasted-whole-duck
 source: thespruceeats.com
 source_url: https://www.thespruceeats.com/roast-duck-pure-deliciousness-913179
-total_time: ''
+total_time: null
 type: null
 uid: 60AB7A1E-18FD-4C49-953F-55FD0C9A8CFE-40248-00027200CB6AB66D
 ---

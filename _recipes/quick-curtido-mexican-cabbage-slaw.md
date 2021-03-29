@@ -4,10 +4,10 @@ filename: "quick-curtido-mexican-cabbage-slaw"
 categories:
 - Salad
 cook_time: 1 hour 10 minutes
-created: '2020-07-16 18:55:06'
-created_ts: 1594925706
-description: ''
-difficulty: ''
+created: '2020-07-16 05:55:06'
+created_ts: 1594878906
+description: null
+difficulty: null
 image_url: https://www.seriouseats.com/recipes/images/2014/05/20140512-quick-curtido-primary-200x150.jpg
 ingredients: "1/2 small (2-pound) green cabbage, cored and very thinly sliced (about\
   \ 4 cups)\n1/2 medium white onion, peeled and very thinly sliced (about 1/2 cup)\n\
@@ -16,11 +16,11 @@ ingredients: "1/2 small (2-pound) green cabbage, cored and very thinly sliced (a
   1 teaspoon kosher salt"
 intrash: 0
 meal_dates:
-- '2020-07-16'
+- '2020-07-15'
 meal_types: '3'
 mine: null
 name: Quick Curtido (Mexican Cabbage Slaw)
-p_recipe_id: 257
+p_recipe_id: 182
 permalink: /recipes/quick-curtido-mexican-cabbage-slaw
 photo_large: null
 photo_thumb: quick-curtido-mexican-cabbage-slaw-thumb.jpg
@@ -31,7 +31,7 @@ servings: About 5 cups
 slug: quick-curtido-mexican-cabbage-slaw
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2014/05/quick-curtido-mexican-cabbage-slaw-recipe.html
-total_time: ''
+total_time: null
 type: null
 uid: 67FA455B-BC4A-4ED4-A76B-E4B0B6C9691F-29053-0004FDC50F2E56F7
 ---

@@ -2,13 +2,13 @@
 title: "Pan-Seared Hake and Asparagus with Aioli"
 filename: "pan-seared-hake-and-asparagus-with-aioli"
 categories:
-- Fish
 - White Fish
+- Fish
 cook_time: 30 minutes
-created: '2020-04-30 20:06:08'
-created_ts: 1588277168
-description: ''
-difficulty: ''
+created: '2020-04-30 07:06:08'
+created_ts: 1588230368
+description: null
+difficulty: null
 image_url: null
 ingredients: "FOR THE AIOLI:\n1 to 2 garlic cloves, finely grated or mashed to a paste,\
   \ or use 1 tablespoon minced green garlic\n\xBD teaspoon lemon juice, more to taste\n\
@@ -20,27 +20,27 @@ ingredients: "FOR THE AIOLI:\n1 to 2 garlic cloves, finely grated or mashed to a
   \ into 1 1/4-inch pieces\n2 red or regular scallions, thinly sliced"
 intrash: 0
 meal_dates:
-- '2020-04-30'
-- '2020-05-22'
-- '2020-06-16'
-- '2020-10-02'
+- '2020-10-01'
+- '2020-06-15'
+- '2020-05-21'
+- '2020-04-29'
 meal_types: 3|3|3|3
 mine: null
 name: Pan-Seared Hake and Asparagus with Aioli
-p_recipe_id: 131
+p_recipe_id: 227
 permalink: /recipes/pan-seared-hake-and-asparagus-with-aioli
 photo_large: pan-seared-hake-and-asparagus-with-aioli-large.jpg
 photo_thumb: pan-seared-hake-and-asparagus-with-aioli-thumb.jpg
 photos_dict:
   '1': pan-seared-hake-and-asparagus-with-aioli-1.jpg
   '2': pan-seared-hake-and-asparagus-with-aioli-2.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Yield 4 servings
 slug: pan-seared-hake-and-asparagus-with-aioli
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019334-pan-seared-hake-and-asparagus-with-aioli?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-total_time: ''
+total_time: null
 type: null
 uid: 7F78231B-E31F-48EE-BE37-E7A5A9A2A08C-39436-000013D1319F8269
 ---

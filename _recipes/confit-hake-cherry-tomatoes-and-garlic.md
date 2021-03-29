@@ -4,8 +4,8 @@ filename: "confit-hake-cherry-tomatoes-and-garlic"
 categories:
 - Hake
 cook_time: 1 hour 30 minutes
-created: '2020-07-08 17:36:58'
-created_ts: 1594229818
+created: '2020-07-08 04:36:58'
+created_ts: 1594183018
 description: null
 difficulty: null
 image_url: https://images.immediate.co.uk/production/volatile/sites/2/2019/05/OLI_0419_p46-47_GiR2-b455946.jpg?quality=90&crop=19px%2C563px%2C3729px%2C1604px&resize=960%2C408
@@ -35,7 +35,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Confit Hake, Cherry Tomatoes and Garlic
-p_recipe_id: 238
+p_recipe_id: 284
 permalink: /recipes/confit-hake-cherry-tomatoes-and-garlic
 photo_large: null
 photo_thumb: confit-hake-cherry-tomatoes-and-garlic-thumb.jpg

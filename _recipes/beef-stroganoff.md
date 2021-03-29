@@ -4,8 +4,8 @@ filename: "beef-stroganoff"
 categories:
 - Beef
 cook_time: 15 min
-created: '2020-10-29 12:01:08'
-created_ts: 1603972868
+created: '2020-10-28 23:01:08'
+created_ts: 1603926068
 description: This is still a recipe work-in-progress that hasn't been "perfected."
 difficulty: Easy
 image_url: null
@@ -16,12 +16,12 @@ ingredients: "1 lb beef sliced thin\n1 large onion thinly sliced\n1 package of m
   \ for thickening)\n\n**Garnish**\nCream cheese\nChopped arsley\ndemi-glace sauce"
 intrash: 0
 meal_dates:
-- '2021-03-18'
-- '2020-10-29'
+- '2020-10-28'
+- '2021-03-17'
 meal_types: 3|3
 mine: 1
 name: Beef Stroganoff
-p_recipe_id: 397
+p_recipe_id: 80
 permalink: /recipes/beef-stroganoff
 photo_large: beef-stroganoff-large.jpg
 photo_thumb: beef-stroganoff-thumb.jpg
@@ -36,7 +36,7 @@ servings: ''
 slug: beef-stroganoff
 source: null
 source_url: null
-total_time: ''
+total_time: null
 type: null
 uid: 2BFBB0EB-1535-434A-99C6-682B1593F3D1-45654-0003D9CE6707F661
 ---

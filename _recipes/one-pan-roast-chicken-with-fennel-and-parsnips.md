@@ -4,8 +4,8 @@ filename: "one-pan-roast-chicken-with-fennel-and-parsnips"
 categories:
 - Chicken
 cook_time: null
-created: '2020-04-02 17:21:33'
-created_ts: 1585848093
+created: '2020-04-02 04:21:33'
+created_ts: 1585801293
 description: null
 difficulty: null
 image_url: null
@@ -22,7 +22,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: One-Pan Roast Chicken with Fennel and Parsnips
-p_recipe_id: 87
+p_recipe_id: 184
 permalink: /recipes/one-pan-roast-chicken-with-fennel-and-parsnips
 photo_large: null
 photo_thumb: null

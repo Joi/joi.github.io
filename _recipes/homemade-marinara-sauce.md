@@ -2,15 +2,15 @@
 title: "Homemade Marinara Sauce"
 filename: "homemade-marinara-sauce"
 categories:
+- Tomato
+- Sauce
 - Pasta
 - Italian
-- Sauce
-- Tomato
 cook_time: 35 minutes
-created: '2020-12-16 17:55:17'
-created_ts: 1608141317
+created: '2020-12-16 03:55:17'
+created_ts: 1608090917
 description: null
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: '2 (28 oz) cans San Marzano Tomatoes
 
@@ -29,11 +29,11 @@ ingredients: '2 (28 oz) cans San Marzano Tomatoes
   Shredded Parmesan or Romano cheese and chopped basil, for serving'
 intrash: 0
 meal_dates:
-- '2020-12-16'
+- '2020-12-15'
 meal_types: '3'
 mine: null
 name: Homemade Marinara Sauce
-p_recipe_id: 432
+p_recipe_id: 427
 permalink: /recipes/homemade-marinara-sauce
 photo_large: homemade-marinara-sauce-large.jpg
 photo_thumb: homemade-marinara-sauce-thumb.jpg
@@ -45,7 +45,7 @@ servings: 'Servings: 8'
 slug: homemade-marinara-sauce
 source: cookingclassy.com
 source_url: https://www.cookingclassy.com/homemade-marinara-sauce/
-total_time: ''
+total_time: null
 type: null
 uid: EE565425-59C5-4F36-8476-7616358D2823-903-00005D3FB1B03E44
 ---

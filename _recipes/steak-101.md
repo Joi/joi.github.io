@@ -4,10 +4,10 @@ filename: "steak-101"
 categories:
 - Steaks
 cook_time: 00:30
-created: '2021-01-31 12:36:31'
-created_ts: 1612096591
+created: '2021-01-30 22:36:31'
+created_ts: 1612046191
 description: null
-difficulty: ''
+difficulty: null
 image_url: null
 ingredients: '2 NY Strip Steaks, about 1" thick
 
@@ -20,12 +20,12 @@ ingredients: '2 NY Strip Steaks, about 1" thick
   3 sprigs Thyme or rosemary (optional)'
 intrash: 0
 meal_dates:
-- '2021-01-31'
-- '2021-02-07'
+- '2021-01-30'
+- '2021-02-06'
 meal_types: 3|3
 mine: null
 name: Steak 101
-p_recipe_id: 465
+p_recipe_id: 338
 permalink: /recipes/steak-101
 photo_large: steak-101-large.jpg
 photo_thumb: steak-101-thumb.jpg
@@ -37,7 +37,7 @@ servings: '2'
 slug: steak-101
 source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/Iz3IGzhaQS8mKwgKl5KN
-total_time: ''
+total_time: null
 type: null
 uid: BB22AB08-E282-431F-9042-079DA45887B3-49934-0000250A04C5668A
 ---

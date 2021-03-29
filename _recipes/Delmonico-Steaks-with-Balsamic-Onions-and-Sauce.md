@@ -4,8 +4,8 @@ filename: "delmonico-steaks-with-balsamic-onions-and-sauce"
 categories:
 - Steaks
 cook_time: 30 min
-created: '2020-11-11 18:02:00'
-created_ts: 1605117720
+created: '2020-11-11 04:02:00'
+created_ts: 1605067320
 description: null
 difficulty: null
 image_url: https://lh3.googleusercontent.com/u4tnizb0CaEz6QdraZY00oSE97fgIARshJGXCAoA_BCcURUe0AzWUIwai0mKDQI18lK2sVDh8K-rCo0_utnzsxcI2MRbcFpggPn5tFk=w600-rj-l68-e365
@@ -44,11 +44,11 @@ ingredients: 'STEAKS:
   Add Ingredients to Grocery List'
 intrash: 0
 meal_dates:
-- '2020-11-11'
+- '2020-11-10'
 meal_types: '3'
 mine: null
 name: Delmonico Steaks with Balsamic Onions and Sauce
-p_recipe_id: 406
+p_recipe_id: 386
 permalink: /recipes/delmonico-steaks-with-balsamic-onions-and-sauce
 photo_large: null
 photo_thumb: delmonico-steaks-with-balsamic-onions-and-sauce-thumb.jpg

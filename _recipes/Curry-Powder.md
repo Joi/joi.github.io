@@ -2,11 +2,11 @@
 title: "Curry Powder"
 filename: "curry-powder"
 categories:
-- Curry
 - Seasoning
+- Curry
 cook_time: null
-created: '2021-01-15 18:56:25'
-created_ts: 1610736985
+created: '2021-01-15 04:56:25'
+created_ts: 1610686585
 description: null
 difficulty: null
 image_url: null
@@ -18,7 +18,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Curry Powder
-p_recipe_id: 449
+p_recipe_id: 141
 permalink: /recipes/curry-powder
 photo_large: curry-powder-large.jpg
 photo_thumb: curry-powder-thumb.jpg

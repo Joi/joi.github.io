@@ -2,11 +2,11 @@
 title: "The Best Meatball Recipe | 1-Minute Video"
 filename: "the-best-meatball-recipe--1-minute-video"
 categories:
-- Italian
 - Ground Beef
+- Italian
 cook_time: 10 mins
-created: '2020-10-28 11:35:55'
-created_ts: 1603884955
+created: '2020-10-27 22:35:55'
+created_ts: 1603838155
 description: null
 difficulty: null
 image_url: https://www.gimmesomeoven.com/wp-content/uploads/2020/04/Easy-Meatball-Recipe-3-1-320x480.jpg
@@ -42,7 +42,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: The Best Meatball Recipe | 1-Minute Video
-p_recipe_id: 398
+p_recipe_id: 233
 permalink: /recipes/the-best-meatball-recipe--1-minute-video
 photo_large: null
 photo_thumb: the-best-meatball-recipe--1-minute-video-thumb.jpg

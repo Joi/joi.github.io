@@ -3,9 +3,9 @@ title: "How to Revive Stale Bread"
 filename: "how-to-revive-stale-bread"
 categories:
 - Bread and Biscuits
-cook_time: ''
-created: '2020-06-11 16:26:59'
-created_ts: 1591892819
+cook_time: null
+created: '2020-06-11 03:26:59'
+created_ts: 1591846019
 description: "The staling of bread and other starch-based foods is due to a process\
   \ called retrogradation. In the bread-making process, water hydrates the starches\
   \ in the flour and then, as the loaf bakes, the starches gelatinize and soften.\
@@ -21,26 +21,26 @@ description: "The staling of bread and other starch-based foods is due to a proc
   \ it to the boiling point of water (212 degrees). In addition, with drier crusty\
   \ breads like baguettes and boules, you also need to supply water to the exterior\
   \ of the loaf to ensure that all the starches can properly soften."
-difficulty: ''
+difficulty: null
 image_url: null
-ingredients: ''
+ingredients: null
 intrash: 0
 meal_dates: null
 meal_types: null
 mine: null
 name: How to Revive Stale Bread
-p_recipe_id: 183
+p_recipe_id: 14
 permalink: /recipes/how-to-revive-stale-bread
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: how-to-revive-stale-bread
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/how_tos/8226-how-to-revive-stale-bread
-total_time: ''
+total_time: null
 type: null
 uid: 044596A7-CE96-4DDE-87A6-BC1ADE61D510-1358-000095528CA0522F
 ---

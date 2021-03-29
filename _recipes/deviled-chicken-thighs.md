@@ -4,10 +4,10 @@ filename: "deviled-chicken-thighs"
 categories:
 - Chicken
 cook_time: 20 minutes
-created: '2020-03-16 19:06:22'
-created_ts: 1584385582
+created: '2020-03-16 06:06:22'
+created_ts: 1584338782
 description: null
-difficulty: ''
+difficulty: null
 image_url: https://static01.nyt.com/images/2016/02/09/dining/09COOKING_BAKEDCHICKEN2/09COOKING_BAKEDCHICKEN2-articleLarge-v2.jpg
 ingredients: "8 chicken thighs, or a mixture of thighs and drumsticks\nSalt and freshly\
   \ ground black pepper\n\u2153 cup Dijon mustard\n\u2153 cup minced shallots, onion\
@@ -18,18 +18,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Deviled Chicken Thighs
-p_recipe_id: 49
+p_recipe_id: 114
 permalink: /recipes/deviled-chicken-thighs
 photo_large: null
 photo_thumb: deviled-chicken-thighs-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 3
 servings: Yield 4 servings
 slug: deviled-chicken-thighs
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/7237-deviled-chicken-thighs?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-total_time: ''
+total_time: null
 type: null
 uid: 3D759CDC-26D2-4052-B997-70FA0B74A0FC-3480-00000293D31F2FFE
 ---

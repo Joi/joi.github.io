@@ -2,13 +2,13 @@
 title: "Tangy Braised Short Ribs"
 filename: "tangy-braised-short-ribs"
 categories:
-- Beef
 - Short Ribs
+- Beef
 cook_time: 4 hours
-created: '2020-04-08 13:06:16'
-created_ts: 1586351176
-description: ''
-difficulty: ''
+created: '2020-04-08 00:06:16'
+created_ts: 1586304376
+description: null
+difficulty: null
 image_url: https://static01.nyt.com/images/2020/04/01/dining/30Roman8/merlin_170265405_0a959f02-2f74-41cc-aaa8-0308f3619ce9-articleLarge.jpg
 ingredients: "5 pounds bone-in short ribs, at least 1 1/2-inch thick, cut into single\
   \ bone portions (or 3 1/2 to 4 pounds boneless, at least 1 1/2-inch thick)\nKosher\
@@ -23,18 +23,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Tangy Braised Short Ribs
-p_recipe_id: 95
+p_recipe_id: 125
 permalink: /recipes/tangy-braised-short-ribs
 photo_large: null
 photo_thumb: tangy-braised-short-ribs-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 8 to 10 servings
 slug: tangy-braised-short-ribs
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1020960-tangy-braised-short-ribs?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-total_time: ''
+total_time: null
 type: null
 uid: 4723D73D-E07E-4FBB-9693-89BBA7D4E7B4-16595-0003B18702CFF3EE
 ---

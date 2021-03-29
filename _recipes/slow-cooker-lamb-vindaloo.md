@@ -5,8 +5,8 @@ categories:
 - Lamb
 - Meat
 cook_time: 9 to 10 hours on low or 6 to 7 hours on high
-created: '2020-05-14 14:44:33'
-created_ts: 1589467473
+created: '2020-05-14 01:44:33'
+created_ts: 1589420673
 description: 'WHY THIS RECIPE WORKS
 
   We chose a hearty boneless lamb shoulder roast for this recipe, and it remained
@@ -14,7 +14,7 @@ description: 'WHY THIS RECIPE WORKS
   in this dish, but too much produced a chalky texture. To avoid this pitfall, we
   bloomed the spices with the aromatics, allowing us to use a more moderate amount.
   Some sugar and red wine vinegar also enhanced the flavors of the dish.'
-difficulty: ''
+difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_Lamb_Vindaloo_036_okhefu
 ingredients: "GATHER YOUR INGREDIENTS\n3 onions, chopped fine\n3 tablespoons vegetable\
   \ oil\n3 tablespoons paprika\n8 garlic cloves, minced\n2 tablespoons tomato paste\n\
@@ -28,18 +28,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Slow-Cooker Lamb Vindaloo
-p_recipe_id: 151
+p_recipe_id: 25
 permalink: /recipes/slow-cooker-lamb-vindaloo
 photo_large: null
 photo_thumb: slow-cooker-lamb-vindaloo-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Serves 6 to 8
 slug: slow-cooker-lamb-vindaloo
 source: americastestkitchen.com
 source_url: https://www.americastestkitchen.com/recipes/10627-slow-cooker-lamb-vindaloo?incode=MASAD00L0&ref=new_search_experience_6
-total_time: ''
+total_time: null
 type: null
 uid: 09066227-5003-411C-8E32-5498E85CACB5-13891-0000A7D9BF188E66
 ---

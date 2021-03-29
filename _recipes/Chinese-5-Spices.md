@@ -4,8 +4,8 @@ filename: "chinese-5-spices"
 categories:
 - Seasoning
 cook_time: null
-created: '2021-01-15 19:01:31'
-created_ts: 1610737291
+created: '2021-01-15 05:01:31'
+created_ts: 1610686891
 description: null
 difficulty: null
 image_url: null
@@ -17,7 +17,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Chinese 5 Spices
-p_recipe_id: 450
+p_recipe_id: 410
 permalink: /recipes/chinese-5-spices
 photo_large: chinese-5-spices-large.jpg
 photo_thumb: chinese-5-spices-thumb.jpg

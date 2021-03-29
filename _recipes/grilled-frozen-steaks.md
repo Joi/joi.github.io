@@ -2,12 +2,12 @@
 title: "Grilled Frozen Steaks"
 filename: "grilled-frozen-steaks"
 categories:
+- Steaks
 - Grill
 - Beef
-- Steaks
 cook_time: null
-created: '2020-02-03 15:33:09'
-created_ts: 1580743989
+created: '2020-02-03 01:33:09'
+created_ts: 1580693589
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/30290_sfs-spur-of-the-moment-steak-21
@@ -17,7 +17,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Grilled Frozen Steaks
-p_recipe_id: 31
+p_recipe_id: 337
 permalink: /recipes/grilled-frozen-steaks
 photo_large: null
 photo_thumb: grilled-frozen-steaks-thumb.jpg

@@ -2,11 +2,11 @@
 title: "Smoked and Sliced Beef Chuck Roast"
 filename: "smoked-and-sliced-beef-chuck-roast"
 categories:
-- Chuck Roast
 - BBQ
+- Chuck Roast
 cook_time: 5 minutes of prep. approximately 6 hours to smoke
-created: '2020-10-16 23:48:44'
-created_ts: 1602892124
+created: '2020-10-16 10:48:44'
+created_ts: 1602845324
 description: null
 difficulty: null
 image_url: https://amazingribs.com/files/styles/content_body_600px/public/smoked-and-sliced-chuck-roast.jpg?itok=qMvzK8oO
@@ -21,7 +21,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Smoked and Sliced Beef Chuck Roast
-p_recipe_id: 387
+p_recipe_id: 438
 permalink: /recipes/smoked-and-sliced-beef-chuck-roast
 photo_large: null
 photo_thumb: smoked-and-sliced-beef-chuck-roast-thumb.jpg

@@ -4,8 +4,8 @@ filename: "reverse-sear-prime-rib-roast"
 categories:
 - Prime Rib
 cook_time: 3 hrs 36 mins
-created: '2020-08-17 13:32:51'
-created_ts: 1597671171
+created: '2020-08-17 00:32:51'
+created_ts: 1597624371
 description: null
 difficulty: null
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6169675.jpg&w=343&h=343&c=sc&poi=face&q=85
@@ -14,11 +14,11 @@ ingredients: "1 (10 pound) bone-in standing rib roast\n2 tablespoons kosher salt
   \ fresh thyme\n1 pinch ground black pepper to taste"
 intrash: 0
 meal_dates:
-- '2020-08-17'
+- '2020-08-16'
 meal_types: '3'
 mine: null
 name: Reverse-Sear Prime Rib Roast
-p_recipe_id: 310
+p_recipe_id: 172
 permalink: /recipes/reverse-sear-prime-rib-roast
 photo_large: null
 photo_thumb: reverse-sear-prime-rib-roast-thumb.jpg

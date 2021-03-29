@@ -2,9 +2,9 @@
 title: "Cast Iron Pan Pizza"
 filename: "cast-iron-pan-pizza"
 categories: null
-cook_time: ''
-created: '2020-05-14 15:59:38'
-created_ts: 1589471978
+cook_time: null
+created: '2020-05-14 02:59:38'
+created_ts: 1589425178
 description: "WHY THIS RECIPE WORKS\nWe started with a simple stir-together dough\
   \ of bread flour, salt, yeast, and warm water; the warm water jump-started yeast\
   \ activity so that the crumb was open and light. Instead of kneading the dough,\
@@ -19,7 +19,7 @@ description: "WHY THIS RECIPE WORKS\nWe started with a simple stir-together doug
   \ crushed tomatoes) by hand, which allowed some of their juice to drain so the sauce\
   \ would be thick enough to stay put on the pie, and then pureed them in the food\
   \ processor with classic seasonings\u2014no cooking required."
-difficulty: ''
+difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_cast_iron_pan_pizza_056_1_twzoux
 ingredients: "GATHER YOUR INGREDIENTS\nDough\n2 cups (11 ounces) bread flour\n1 teaspoon\
   \ table salt\n1 teaspoon instant or rapid-rise yeast\n1 cup (8 ounces) warm water\
@@ -33,18 +33,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Cast Iron Pan Pizza
-p_recipe_id: 156
+p_recipe_id: 357
 permalink: /recipes/cast-iron-pan-pizza
 photo_large: null
 photo_thumb: cast-iron-pan-pizza-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Serves 4
 slug: cast-iron-pan-pizza
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/12219-cast-iron-pan-pizza
-total_time: ''
+total_time: null
 type: null
 uid: C78B9AC6-396B-4457-A6DD-DB04C91C1E6D-13891-0000ABF1F7B23642
 ---

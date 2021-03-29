@@ -4,10 +4,10 @@ filename: "steak-hache"
 categories:
 - Ground Beef
 cook_time: 45 minutes
-created: '2020-05-04 15:30:08'
-created_ts: 1588606208
-description: ''
-difficulty: ''
+created: '2020-05-04 02:30:08'
+created_ts: 1588559408
+description: null
+difficulty: null
 image_url: https://static01.nyt.com/images/2018/03/18/magazine/18mag-eat1/18mag-eat1-articleLarge.jpg
 ingredients: "1 cup dried porcini mushrooms\n1 pound best ground sirloin or chuck\n\
   5 tablespoons butter, at room temperature\n3 tablespoons finely chopped white onion\n\
@@ -19,18 +19,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: "Steak Hach\xE9"
-p_recipe_id: 132
+p_recipe_id: 214
 permalink: /recipes/steak-hache
 photo_large: null
 photo_thumb: steak-hache-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 servings
 slug: steak-hache
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019231-steak-hache?action=click&module=Local%20Search%20Recipe%20Card&pgType=search&rank=1
-total_time: ''
+total_time: null
 type: null
 uid: 79CCAC1E-63F0-413E-A6F7-E881BD4AF595-39436-00013F116E966879
 ---

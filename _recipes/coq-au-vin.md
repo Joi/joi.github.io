@@ -4,8 +4,8 @@ filename: "coq-au-vin"
 categories:
 - Chicken
 cook_time: null
-created: '2020-04-02 17:18:10'
-created_ts: 1585847890
+created: '2020-04-02 04:18:10'
+created_ts: 1585801090
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/2940_coqauvin-article
@@ -27,7 +27,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Coq Au Vin
-p_recipe_id: 85
+p_recipe_id: 212
 permalink: /recipes/coq-au-vin
 photo_large: null
 photo_thumb: coq-au-vin-thumb.jpg

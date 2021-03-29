@@ -4,8 +4,8 @@ filename: "bbq-chicken"
 categories:
 - Chicken
 cook_time: ''
-created: '2020-09-07 11:35:46'
-created_ts: 1599478546
+created: '2020-09-06 22:35:46'
+created_ts: 1599431746
 description: "Inspired by: [\"The Best Barbecue Chicken Recipe\" by J. Kenji L\xF3\
   pez-Alt](https://www.seriouseats.com/recipes/2012/08/the-best-barbecue-chicken-recipe.html)"
 difficulty: ''
@@ -23,11 +23,11 @@ ingredients: 'Whole chicken
   Skewer'
 intrash: 0
 meal_dates:
-- '2020-09-06'
+- '2020-09-05'
 meal_types: '3'
 mine: 1
 name: BBQ Chicken
-p_recipe_id: 341
+p_recipe_id: 12
 permalink: /recipes/bbq-chicken
 photo_large: bbq-chicken-large.jpg
 photo_thumb: bbq-chicken-thumb.jpg

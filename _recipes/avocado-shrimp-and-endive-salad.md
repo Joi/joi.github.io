@@ -2,14 +2,14 @@
 title: "Avocado, Shrimp, and Endive Salad"
 filename: "avocado-shrimp-and-endive-salad"
 categories:
+- Endive
 - Salad
 - Shrimp
-- Endive
-cook_time: ''
-created: '2020-07-04 18:34:49'
-created_ts: 1593887689
-description: ''
-difficulty: ''
+cook_time: null
+created: '2020-07-04 05:34:49'
+created_ts: 1593840889
+description: null
+difficulty: null
 image_url: https://hips.hearstapps.com/del.h-cdn.co/assets/cm/15/10/54f6625355c87_-_mla102600_0707_salad_sxl-1.jpg?crop=1xw:1.0xh;center,top&resize=480:*
 ingredients: '1/4 c. extra-virgin olive oil
 
@@ -31,18 +31,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Avocado, Shrimp, and Endive Salad
-p_recipe_id: 227
+p_recipe_id: 278
 permalink: /recipes/avocado-shrimp-and-endive-salad
 photo_large: null
 photo_thumb: avocado-shrimp-and-endive-salad-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: '4'
 slug: avocado-shrimp-and-endive-salad
 source: delish.com
 source_url: https://www.delish.com/cooking/recipe-ideas/recipes/a6368/avocado-shrimp-endive-salad-recipe/
-total_time: ''
+total_time: null
 type: null
 uid: 9B74B7CA-62C2-4033-9E59-1F75127E33F9-631-00014DB89A1ACAAB
 ---

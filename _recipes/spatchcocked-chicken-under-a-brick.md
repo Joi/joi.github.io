@@ -4,8 +4,8 @@ filename: "spatchcocked-chicken-under-a-brick"
 categories:
 - Chicken
 cook_time: 35 minutes
-created: '2020-07-23 11:39:26'
-created_ts: 1595504366
+created: '2020-07-22 22:39:26'
+created_ts: 1595457566
 description: null
 difficulty: null
 image_url: https://cnz.to/wp-content/uploads/2015/08/crapaudine.jpg
@@ -24,11 +24,11 @@ ingredients: '1 ready-to-cook organic chicken (or at least farm-raised), about 1
   Olive oil'
 intrash: 0
 meal_dates:
-- '2020-07-23'
+- '2020-07-22'
 meal_types: '3'
 mine: null
 name: "Spatchcocked Chicken \u201CUnder a Brick\u201D"
-p_recipe_id: 271
+p_recipe_id: 10
 permalink: /recipes/spatchcocked-chicken-under-a-brick
 photo_large: null
 photo_thumb: spatchcocked-chicken-under-a-brick-thumb.jpg

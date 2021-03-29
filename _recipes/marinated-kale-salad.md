@@ -2,63 +2,56 @@
 title: "Marinated Kale Salad"
 filename: "marinated-kale-salad"
 categories:
+- Spring Onion
+- Kale
 - Salad
-cook_time: 20 minutes
-created: '2020-08-03 20:51:23'
-created_ts: 1596487883
+cook_time: null
+created: '2020-07-17 06:09:39'
+created_ts: 1594966179
 description: null
-difficulty: ''
-image_url: null
-ingredients: '1 large bunch organic kale (curly or lacinato)
-
-  1 1/2 cups cherry tomatoes
-
-  1/2 small red onion
-
-  1/2 avocado
-
-  1/4 cup sunflower seeds (for topping)
-
-  FOR THE DRESSING:
-
-  3 Tbsp. fresh lemon juice
-
-  2 Tbsp. tamari (or soy sauce)
-
-  1 Tbsp. olive oil (omit for oil-free)'
+difficulty: null
+image_url: https://www.coursesforcooks.com/wp-content/uploads/2014/05/kale-salad.jpg
+ingredients: "marinated kale salad\n4 handfuls kale leaves \u2013 remove any tough\
+  \ stems\n1 little gem lettuce \u2013 torn or sliced\n1 avocado \u2013 cut into chunks\n\
+  4 spears of asparagus \u2013 blanched and cut into chunks\n2 spring onions \u2013\
+  \ finely sliced\n2 tomatoes \u2013 cut into pieces\nDressing\n3 tbsp virgin rapeseed\
+  \ or olive oil\n1 tbsp lime or lemon juice\n1 tsp wholegrain mustard\n1/2 tsp dried\
+  \ mixed herbs\nsalt and pepper"
 intrash: 0
-meal_dates:
-- '2020-08-03'
-meal_types: '3'
+meal_dates: null
+meal_types: null
 mine: null
 name: Marinated Kale Salad
-p_recipe_id: 288
+p_recipe_id: 297
 permalink: /recipes/marinated-kale-salad
-photo_large: marinated-kale-salad-large.jpg
+photo_large: null
 photo_thumb: marinated-kale-salad-thumb.jpg
-photos_dict:
-  '1': marinated-kale-salad-1.jpg
-prep_time: 20 minutes
-rating: 4
-servings: ''
+photos_dict: null
+prep_time: null
+rating: 0
+servings: Serves 4
 slug: marinated-kale-salad
-source: thegardengrazer.com
-source_url: https://www.thegardengrazer.com/2016/02/marinated-kale-salad.html
-total_time: ''
+source: coursesforcooks.com
+source_url: https://www.coursesforcooks.com/macerated-kale-salad/
+total_time: null
 type: null
-uid: 66DB5964-564B-458F-9DB6-E1C7083461BF-5963-00000403D175CF5E
+uid: A6F9496B-8BB4-4174-88AB-D8C80541CBDF-29053-00054D1BEB4B5B49
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 large bunch organic kale (curly or lacinato)</li>
-<li>1 1/2 cups cherry tomatoes</li>
-<li>1/2 small red onion</li>
-<li>1/2 avocado</li>
-<li>1/4 cup sunflower seeds (for topping)</li>
-<li>FOR THE DRESSING:</li>
-<li>3 Tbsp. fresh lemon juice</li>
-<li>2 Tbsp. tamari (or soy sauce)</li>
-<li>1 Tbsp. olive oil (omit for oil-free)</li>
+<li>marinated kale salad</li>
+<li>4 handfuls kale leaves – remove any tough stems</li>
+<li>1 little gem lettuce – torn or sliced</li>
+<li>1 avocado – cut into chunks</li>
+<li>4 spears of asparagus – blanched and cut into chunks</li>
+<li>2 spring onions – finely sliced</li>
+<li>2 tomatoes – cut into pieces</li>
+<li>Dressing</li>
+<li>3 tbsp virgin rapeseed or olive oil</li>
+<li>1 tbsp lime or lemon juice</li>
+<li>1 tsp wholegrain mustard</li>
+<li>1/2 tsp dried mixed herbs</li>
+<li>salt and pepper</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -4,21 +4,21 @@ filename: "steamed-lobster"
 categories:
 - Lobster
 cook_time: ''
-created: '2020-06-29 10:59:10'
-created_ts: 1593428350
+created: '2020-06-28 21:59:10'
+created_ts: 1593381550
 description: null
 difficulty: ''
 image_url: null
 ingredients: Live lobster
 intrash: 0
 meal_dates:
-- '2020-07-04'
-- '2020-07-11'
-- '2020-12-30'
+- '2020-12-29'
+- '2020-07-10'
+- '2020-07-03'
 meal_types: 3|3|3
 mine: 1
 name: Steamed Lobster
-p_recipe_id: 213
+p_recipe_id: 120
 permalink: /recipes/steamed-lobster
 photo_large: steamed-lobster-large.jpg
 photo_thumb: steamed-lobster-thumb.jpg

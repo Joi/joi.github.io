@@ -2,14 +2,14 @@
 title: "Best Ever Guacamole"
 filename: "best-ever-guacamole"
 categories:
-- Sauce
-- Mexican
 - Avocado
+- Mexican
+- Sauce
 cook_time: 10 mins
-created: '2021-01-23 17:26:15'
-created_ts: 1611422775
-description: ''
-difficulty: ''
+created: '2021-01-23 03:26:15'
+created_ts: 1611372375
+description: null
+difficulty: null
 image_url: https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/04/Guacamole-3-2-150x225.jpg
 ingredients: '3 avocados, ripe
 
@@ -28,11 +28,11 @@ ingredients: '3 avocados, ripe
   1/2 teaspoon sea salt'
 intrash: 0
 meal_dates:
-- '2021-01-23'
+- '2021-01-22'
 meal_types: '4'
 mine: null
 name: Best Ever Guacamole
-p_recipe_id: 460
+p_recipe_id: 313
 permalink: /recipes/best-ever-guacamole
 photo_large: null
 photo_thumb: best-ever-guacamole-thumb.jpg
@@ -43,7 +43,7 @@ servings: 'Servings: 4'
 slug: best-ever-guacamole
 source: downshiftology.com
 source_url: https://downshiftology.com/recipes/best-ever-guacamole/
-total_time: ''
+total_time: null
 type: null
 uid: AFD51E5D-4082-4BC2-9342-614387032D80-60918-00006082836BD06F
 ---

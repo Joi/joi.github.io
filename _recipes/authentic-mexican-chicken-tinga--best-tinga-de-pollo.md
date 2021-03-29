@@ -4,8 +4,8 @@ filename: "authentic-mexican-chicken-tinga--best-tinga-de-pollo"
 categories:
 - Chicken
 cook_time: 45 minutes
-created: '2020-11-05 11:55:26'
-created_ts: 1604577326
+created: '2020-11-04 21:55:26'
+created_ts: 1604526926
 description: null
 difficulty: null
 image_url: https://www.thebossykitchen.com/wp-content/uploads/2018/01/Authentic-Mexican-Tinga-de-Pollo-Chicken-in-Chipotle-Tomato-Sauce88-720x720.jpg
@@ -32,11 +32,11 @@ ingredients: '3-4 medium size chicken breast
   1/4 teaspoon black pepper'
 intrash: 0
 meal_dates:
-- '2020-11-05'
+- '2020-11-04'
 meal_types: '3'
 mine: null
 name: Authentic Mexican Chicken Tinga- Best Tinga De Pollo
-p_recipe_id: 402
+p_recipe_id: 247
 permalink: /recipes/authentic-mexican-chicken-tinga--best-tinga-de-pollo
 photo_large: null
 photo_thumb: authentic-mexican-chicken-tinga--best-tinga-de-pollo-thumb.jpg

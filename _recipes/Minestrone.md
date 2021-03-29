@@ -5,8 +5,8 @@ categories:
 - Italian
 - Soup
 cook_time: null
-created: '2020-02-02 15:42:28'
-created_ts: 1580658148
+created: '2020-02-02 01:42:28'
+created_ts: 1580607748
 description: Minestrone is a mellow vegetable soup, and its composition depends on
   the best vegetables available. This minestrone is all vegetables-healthful and inexpensive.
   For a true vegetarian soup, use water instead of chicken stock. While many versions
@@ -50,7 +50,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Minestrone
-p_recipe_id: 37
+p_recipe_id: 385
 permalink: /recipes/minestrone
 photo_large: null
 photo_thumb: null

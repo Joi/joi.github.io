@@ -4,8 +4,8 @@ filename: "braised-chicken-with-lemon-and-olives"
 categories:
 - Chicken
 cook_time: 1 hour 45 minutes
-created: '2020-03-29 12:02:01'
-created_ts: 1585483321
+created: '2020-03-28 23:02:01'
+created_ts: 1585436521
 description: null
 difficulty: null
 image_url: https://static01.nyt.com/images/2015/03/04/dining/04KITCH/04KITCH-articleLarge.jpg
@@ -17,11 +17,11 @@ ingredients: "8 chicken thighs, skin-on and bone-in, about 3 1/2 pounds\nSalt an
   \ parsley"
 intrash: 0
 meal_dates:
-- '2020-03-29'
+- '2020-03-28'
 meal_types: '3'
 mine: null
 name: Braised Chicken with Lemon and Olives
-p_recipe_id: 72
+p_recipe_id: 318
 permalink: /recipes/braised-chicken-with-lemon-and-olives
 photo_large: null
 photo_thumb: braised-chicken-with-lemon-and-olives-thumb.jpg

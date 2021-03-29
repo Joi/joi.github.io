@@ -4,8 +4,8 @@ filename: "seafood-paella"
 categories:
 - Rice
 cook_time: 35 minutes
-created: '2020-08-18 01:41:16'
-created_ts: 1597714876
+created: '2020-08-17 12:41:16'
+created_ts: 1597668076
 description: null
 difficulty: null
 image_url: null
@@ -40,13 +40,13 @@ ingredients: '4 1/2 cups chicken stock
   1/4 cup chopped parsley, for garnish'
 intrash: 0
 meal_dates:
-- '2020-08-18'
-- '2020-11-10'
-- '2020-12-08'
+- '2020-12-07'
+- '2020-11-09'
+- '2020-08-17'
 meal_types: 3|3|3
 mine: null
 name: Seafood Paella
-p_recipe_id: 313
+p_recipe_id: 42
 permalink: /recipes/seafood-paella
 photo_large: seafood-paella-large.jpg
 photo_thumb: seafood-paella-thumb.jpg

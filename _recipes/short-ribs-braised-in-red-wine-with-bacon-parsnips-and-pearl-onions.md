@@ -2,11 +2,11 @@
 title: "Short Ribs Braised in Red Wine with Bacon, Parsnips, and Pearl Onions"
 filename: "short-ribs-braised-in-red-wine-with-bacon-parsnips-and-pearl-onions"
 categories:
-- Beef
 - Short Ribs
+- Beef
 cook_time: null
-created: '2020-04-05 13:05:50'
-created_ts: 1586091950
+created: '2020-04-05 00:05:50'
+created_ts: 1586045150
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/41009-sfs-short-ribs-braised-in-red-wine-with-bacon-parsnips-and-pearl-onions-018
@@ -27,7 +27,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Short Ribs Braised in Red Wine with Bacon, Parsnips, and Pearl Onions
-p_recipe_id: 91
+p_recipe_id: 282
 permalink: /recipes/short-ribs-braised-in-red-wine-with-bacon-parsnips-and-pearl-onions
 photo_large: null
 photo_thumb: short-ribs-braised-in-red-wine-with-bacon-parsnips-and-pearl-onions-thumb.jpg

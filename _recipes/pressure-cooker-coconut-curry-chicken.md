@@ -4,10 +4,10 @@ filename: "pressure-cooker-coconut-curry-chicken"
 categories:
 - Chicken
 cook_time: 1 hour
-created: '2020-04-19 15:32:50'
-created_ts: 1587310370
-description: ''
-difficulty: ''
+created: '2020-04-19 02:32:50'
+created_ts: 1587263570
+description: null
+difficulty: null
 image_url: https://static01.nyt.com/images/2017/09/25/dining/coconutcurrychicken/coconutcurrychicken-articleLarge.jpg
 ingredients: "3 to 4 ripe tomatoes, halved through their equators\n3 tablespoons ghee,\
   \ unsalted butter or safflower oil\n3 tablespoons virgin coconut oil\n2 cups finely\
@@ -25,18 +25,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Pressure Cooker Coconut Curry Chicken
-p_recipe_id: 114
+p_recipe_id: 138
 permalink: /recipes/pressure-cooker-coconut-curry-chicken
 photo_large: null
 photo_thumb: pressure-cooker-coconut-curry-chicken-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 servings
 slug: pressure-cooker-coconut-curry-chicken
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018857-pressure-cooker-coconut-curry-chicken?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-total_time: ''
+total_time: null
 type: null
 uid: 4D2DF901-A786-4573-B7BE-31ACF344E5F3-407-00004BB27243CE58
 ---

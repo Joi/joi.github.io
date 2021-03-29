@@ -4,10 +4,10 @@ filename: "momofukus-bo-ssam"
 categories:
 - Pork Shoulder
 cook_time: 7 hours
-created: '2020-10-08 14:41:56'
-created_ts: 1602168116
-description: ''
-difficulty: ''
+created: '2020-10-08 01:41:56'
+created_ts: 1602121316
+description: null
+difficulty: null
 image_url: https://static01.nyt.com/images/2012/01/15/magazine/15eat1_span/15eat1_span-articleLarge-v4.jpg
 ingredients: "PORK BUTT:\n1 whole bone-in pork butt or picnic ham (8 to 10 pounds)\n\
   1 cup white sugar\n1 cup plus 1 tablespoon kosher salt\n7 tablespoons brown sugar\n\
@@ -26,18 +26,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Momofuku's Bo Ssam
-p_recipe_id: 376
+p_recipe_id: 188
 permalink: /recipes/momofukus-bo-ssam
 photo_large: null
 photo_thumb: momofukus-bo-ssam-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Yield 6 to 10 servings
 slug: momofukus-bo-ssam
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12197-momofukus-bo-ssam?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=42
-total_time: ''
+total_time: null
 type: null
 uid: 6A292E01-87EF-4723-8710-E64BEAF241CA-79931-0001315D0EBC60D3
 ---

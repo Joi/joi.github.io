@@ -3,11 +3,11 @@ title: "Pan-Fried Squid in Butter Soy Sauce"
 filename: "pan-fried-squid-in-butter-soy-sauce"
 categories:
 - Squid
-cook_time: ''
-created: '2020-06-02 15:39:23'
-created_ts: 1591112363
+cook_time: null
+created: '2020-06-02 02:39:23'
+created_ts: 1591065563
 description: null
-difficulty: ''
+difficulty: null
 image_url: https://www.kikkoman.eu/typo3temp/assets/_processed_/9/e/csm_Gebratener-Tintenfisch-mit-Butter-Sojasauce_870x300_01_bd8974c55b.jpg
 ingredients: '4 pieces of frozen squid
 
@@ -28,18 +28,18 @@ ingredients: '4 pieces of frozen squid
   4 slices of baguette'
 intrash: 0
 meal_dates:
-- '2020-06-03'
+- '2020-06-02'
 meal_types: '2'
 mine: null
 name: Pan-Fried Squid in Butter Soy Sauce
-p_recipe_id: 179
+p_recipe_id: 148
 permalink: /recipes/pan-fried-squid-in-butter-soy-sauce
 photo_large: null
 photo_thumb: pan-fried-squid-in-butter-soy-sauce-thumb.jpg
 photos_dict: null
 prep_time: 30 mins
 rating: 0
-servings: ''
+servings: null
 slug: pan-fried-squid-in-butter-soy-sauce
 source: kikkoman.eu
 source_url: https://www.kikkoman.eu/recipes/recipe-detail/r/pan-fried-squid-in-butter-soy-sauce/

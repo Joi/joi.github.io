@@ -4,8 +4,8 @@ filename: "butter-croissants"
 categories:
 - Bread and Biscuits
 cook_time: null
-created: '2020-05-21 00:04:12'
-created_ts: 1590019452
+created: '2020-05-20 11:04:12'
+created_ts: 1589972652
 description: null
 difficulty: null
 image_url: https://d2mkh7ukbp9xav.cloudfront.net/recipeimage/hjp6lgtm-9d870-412635-cfcd2-1y865d2g/24644563-2a1e-4936-a006-f5d83bd7a050/main/butter-croissants.jpg
@@ -24,11 +24,11 @@ ingredients: '30 g fresh yeast
   1 egg, beaten'
 intrash: 0
 meal_dates:
-- '2020-05-23'
+- '2020-05-22'
 meal_types: '4'
 mine: null
 name: Butter Croissants
-p_recipe_id: 166
+p_recipe_id: 160
 permalink: /recipes/butter-croissants
 photo_large: null
 photo_thumb: butter-croissants-thumb.jpg

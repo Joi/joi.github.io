@@ -4,10 +4,10 @@ filename: "bearnaise-sauce"
 categories:
 - Sauce
 cook_time: 20 minutes
-created: '2020-08-17 15:50:48'
-created_ts: 1597679448
-description: ''
-difficulty: ''
+created: '2020-08-17 02:50:48'
+created_ts: 1597632648
+description: null
+difficulty: null
 image_url: https://static01.nyt.com/images/2015/05/10/magazine/10eat/10mag-10eat-t_CA0-articleLarge.jpg
 ingredients: "\xBC cup white-wine vinegar\n1 small shallot, peeled and minced\n\xBD\
   \ teaspoon freshly cracked black pepper\n1 tablespoon plus 1 teaspoon chopped tarragon\
@@ -15,22 +15,22 @@ ingredients: "\xBC cup white-wine vinegar\n1 small shallot, peeled and minced\n\
   Splash of lemon juice, optional"
 intrash: 0
 meal_dates:
-- '2020-08-17'
+- '2020-08-16'
 meal_types: '3'
 mine: null
 name: "B\xE9arnaise Sauce"
-p_recipe_id: 312
+p_recipe_id: 104
 permalink: /recipes/bearnaise-sauce
 photo_large: null
 photo_thumb: bearnaise-sauce-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 servings
 slug: bearnaise-sauce
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017389-bearnaise-sauce
-total_time: ''
+total_time: null
 type: null
 uid: 372FCAD3-4EE2-443B-92A8-59D831B0086F-2241-0000F0DBFFBC4020
 ---

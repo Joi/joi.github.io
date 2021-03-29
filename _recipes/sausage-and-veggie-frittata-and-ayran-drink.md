@@ -5,8 +5,8 @@ categories:
 - Egg
 - Italian
 cook_time: 40min
-created: '2020-02-02 12:33:10'
-created_ts: 1580646790
+created: '2020-02-01 22:33:10'
+created_ts: 1580596390
 description: null
 difficulty: Easy
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/EA1E718F-268F-4032-A55B-6FD5E01C651B/Derivates/ca1df167-4f3e-4381-b953-80cd3c4d582f.jpg
@@ -23,7 +23,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Sausage and Veggie Frittata and Ayran Drink
-p_recipe_id: 2
+p_recipe_id: 22
 permalink: /recipes/sausage-and-veggie-frittata-and-ayran-drink
 photo_large: null
 photo_thumb: sausage-and-veggie-frittata-and-ayran-drink-thumb.jpg

@@ -4,10 +4,10 @@ filename: "chef-johns-creme-fraiche"
 categories:
 - Sauce
 cook_time: 2 days
-created: '2020-06-29 10:55:43'
-created_ts: 1593428143
-description: ''
-difficulty: ''
+created: '2020-06-28 21:55:43'
+created_ts: 1593381343
+description: null
+difficulty: null
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4226774.jpg&w=568&h=380&c=sc&poi=face&q=85
 ingredients: '2 cups heavy cream
 
@@ -17,7 +17,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Chef John's Creme Fraiche
-p_recipe_id: 212
+p_recipe_id: 388
 permalink: /recipes/chef-johns-creme-fraiche
 photo_large: null
 photo_thumb: chef-johns-creme-fraiche-thumb.jpg
@@ -28,7 +28,7 @@ servings: 'Servings: 32'
 slug: chef-johns-creme-fraiche
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/222387/chef-johns-creme-fraiche/
-total_time: ''
+total_time: null
 type: null
 uid: D4862E9C-533D-44A2-9353-E56DA169161C-47978-000609AAA346CD0A
 ---

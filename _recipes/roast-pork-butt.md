@@ -3,10 +3,10 @@ title: "Roast Pork Butt"
 filename: "roast-pork-butt"
 categories: null
 cook_time: 10 h
-created: '2020-09-24 00:49:42'
-created_ts: 1600908582
-description: ''
-difficulty: ''
+created: '2020-09-23 11:49:42'
+created_ts: 1600861782
+description: null
+difficulty: null
 image_url: https://s23991.pcdn.co/wp-content/uploads/2020/08/roast-pork-butt.jpg
 ingredients: '1 tablespoon kosher salt
 
@@ -29,7 +29,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Roast Pork Butt
-p_recipe_id: 369
+p_recipe_id: 40
 permalink: /recipes/roast-pork-butt
 photo_large: null
 photo_thumb: roast-pork-butt-thumb.jpg
@@ -40,7 +40,7 @@ servings: Serves 16 | makes about 6 pounds pulled pork
 slug: roast-pork-butt
 source: leitesculinaria.com
 source_url: https://leitesculinaria.com/100088/recipes-roast-pork-butt.html
-total_time: ''
+total_time: null
 type: null
 uid: 132BA0AE-E5F0-422C-9C17-8D9C0AB0E59D-50715-000C69A572891ED3
 ---

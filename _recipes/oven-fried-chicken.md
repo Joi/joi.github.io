@@ -4,10 +4,10 @@ filename: "oven-fried-chicken"
 categories:
 - Chicken
 cook_time: 00:25
-created: '2021-01-28 16:32:21'
-created_ts: 1611851541
-description: ''
-difficulty: ''
+created: '2021-01-28 02:32:21'
+created_ts: 1611801141
+description: null
+difficulty: null
 image_url: https://res.cloudinary.com/anova-applied-electronics/image/upload/w_517,h_327,c_fit,f_auto,q_auto,dpr_2.0,/v1598475544/mobileProduction/jluudzux7wogaxdlfmc6.jpg
 ingredients: "7 cloves garlic, peeled\nchicken drumsticks and thighs, I used 6 drumsticks\
   \ and 3 thighs\n2.5 Tbsp Cajun seasoning, divided\n\xBD tsp salt\n\xBD tsp black\
@@ -15,11 +15,11 @@ ingredients: "7 cloves garlic, peeled\nchicken drumsticks and thighs, I used 6 d
   \ dried parsley\n1.5 tsp seasoned salt"
 intrash: 0
 meal_dates:
-- '2021-01-27'
+- '2021-01-26'
 meal_types: '3'
 mine: null
 name: Oven Fried Chicken
-p_recipe_id: 463
+p_recipe_id: 51
 permalink: /recipes/oven-fried-chicken
 photo_large: null
 photo_thumb: oven-fried-chicken-thumb.jpg
@@ -30,7 +30,7 @@ servings: '6'
 slug: oven-fried-chicken
 source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/dYW4t4rAXWRm9VkblK6C
-total_time: ''
+total_time: null
 type: null
 uid: 18949441-165D-48BA-93BF-70A9659225B6-11957-0000DEC827DEBA27
 ---

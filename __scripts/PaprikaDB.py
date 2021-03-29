@@ -56,8 +56,10 @@ mdit = (
     .enable('table')
 )
 
-
 # VARS -----------------------------------------
+
+# Debug?
+debug = False
 
 # Date time stamp
 now = datetime.now()
@@ -383,6 +385,8 @@ for result in results:
           #copy the thumbnail over
           shutil.copy2(source_path_recipe_photos + "/" + result['photo_thumb'], dest_path_recipe_photos + new_photo_thumb)
           result['photo_thumb'] = new_photo_thumb
+          if debug:
+            print("\t- Thumb: " + recipe_filename + "")
         except:
           print( "🛑 THUMBNAIL PHOTO Missing for " + recipe_filename + "\n" )
 
@@ -393,6 +397,8 @@ for result in results:
           #copy the large photo over
           shutil.copy2(source_path_recipe_photos + "/" + result['photo_large'], dest_path_recipe_photos + new_photo_large)
           result['photo_large'] = new_photo_large
+          if debug:
+            print("\t- Large: " + recipe_filename + "")
         except:
           print( "🛑 LARGE PHOTO Missing for " + recipe_filename + "\n" )
 
@@ -406,10 +412,8 @@ for result in results:
             shutil.copy2(source_path_recipe_photos + "/" + pd2,dest_path_recipe_photos + new_photo_filename)
             result['photos_filenames_new'].append(new_photo_filename)
             result['photos_dict_new'][photo_name] = new_photo_filename
-
-            # Need Joi to update the Regex in the paprika_markdownish function
-            # before we can swap this and fix the Paths in the Recipe markdown output.
-            #result['photos_dict'] = result['photos_dict_new']
+            if debug:
+              print("\t- Moved: " + new_photo_filename + "")
 
           except Exception as e:
             print( "🛑 Something fubar in photos for " + recipe_filename + "\n" + new_photo_filename + "\n")
@@ -430,6 +434,9 @@ for result in results:
         for meal_date in result['meal_dates']:
           rmeal_dates += "- [[" + meal_date + "|recipenote]]\n"
         rmeal_dates  = mdit.render(rmeal_dates)
+        #if debug:
+            #print("\t- MD'ed Meal Dates: " + rmeal_dates + "")
+        
       except Exception as e:
           print( "🛑 Something fubar in rmeal_dates: " + rmeal_dates + "\n")
           print(e)
@@ -640,12 +647,15 @@ for data_meal in data_meals:
   meal_recipe_filename  = make_filename(data_meal['recipe_name'])
   meal_type_name        = data_meal['meal_type_name']
 
+
+
   # RECIPE by DATE and MEAL ---
   # If the `meal_type_name` key doesn't exist, we need to initialise the list
   try:
     meals_indices['recipe_by_date_and_meal'][meal_date][meal_type_name]
   except:
     meals_indices['recipe_by_date_and_meal'][meal_date][meal_type_name] = []
+  
   # Creating both here and can decide later which one to use.
   # Create the meal dict with name and filename
   append_meal_dict = {
@@ -655,6 +665,9 @@ for data_meal in data_meals:
   }
   # Create the meal id list (we'll need to do lookup in recipe YAML data)
   append_meal_list = meal_recipe_id
+
+
+
   # and append it to the existing date dict, which is "defaultdicts" initialised before the FOR
   meals_indices['recipe_by_date_and_meal'][meal_date][meal_type_name].append(append_meal_list)
 
@@ -663,6 +676,8 @@ for data_meal in data_meals:
 
   # MEAL by DATE and RECIPE ---
   meals_indices['meal_by_date_and_recipe'][meal_date][meal_recipe_id] = meal_type_name
+
+
 
 print ("✅ MEAL RESULTS Looped and Acted upon\n")
 
