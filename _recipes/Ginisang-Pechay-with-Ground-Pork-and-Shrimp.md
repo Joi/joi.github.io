@@ -39,7 +39,9 @@ meal_dates:
 - '2021-02-26'
 - '2021-02-23'
 - '2021-03-20'
-meal_types: 3|3|3
+- '2021-02-26'
+- '2021-01-28'
+meal_types: 3|3|3|3|3
 mine: 1
 name: Ginisang Pechay with Ground Pork and Shrimp
 p_recipe_id: 479
