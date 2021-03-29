@@ -11,6 +11,7 @@
 # pip install Unidecode | https://pypi.org/project/Unidecode/
 # pip install pathvalidate | https://pypi.org/project/pathvalidate/
 # pip install pyyaml
+# pip install python-frontmatter
 
 # REGARDING MARKDOWN
 # We ran with Commonmakr for a while but ran into an issue: it doesn't do tables.
@@ -35,6 +36,7 @@ import yaml
 from markdown_it import MarkdownIt
 from mdit_py_plugins.footnote import footnote_plugin
 #from mdit_py_plugins.front_matter import front_matter_plugin
+import frontmatter
 import pprint
 from pathvalidate import sanitize_filename
 import unidecode
@@ -91,7 +93,7 @@ path_db_working     = path_temp_working + filename_db
 # Output
 path_output_json_data  = path_project + '/_data/'
 path_output_recipe_mkdn_files = path_project + '/_recipes/'
-path_output_meal_mkdn_files   = path_project + '/_meals/'
+path_output_meal_mkdn_files   = path_project + '/_notes/'
 path_output_recipe_phot_files = path_project + '/images/recipes/'
 
 # Paparika Timestamp Offset: 978307200
@@ -636,6 +638,8 @@ meals_indices = defaultdict(dict)
 meals_indices['recipe_by_date_and_meal'] = defaultdict(dict)
 # MEAL by RECIPE and DATE
 meals_indices['meal_by_recipe_and_date'] = defaultdict(dict)
+# MEAL GROUPED NOTES & DATA by RECIPE and DATE
+meals_indices['meal_data_by_recipe_and_date'] = defaultdict(dict)
 # MEAL by DATE and RECIPE
 meals_indices['meal_by_date_and_recipe'] = defaultdict(dict)
 
@@ -676,6 +680,40 @@ for data_meal in data_meals:
 
   # MEAL by DATE and RECIPE ---
   meals_indices['meal_by_date_and_recipe'][meal_date][meal_recipe_id] = meal_type_name
+
+
+
+  # MEAL GROUPED NOTES & DATA by RECIPE and DATE ---
+
+  note_file = path_output_meal_mkdn_files + meal_date + "-" + meal_type_name + ".md"
+  append_nofile_regular = {'date': meal_date, 'type': meal_type_name}
+
+  if os.path.isfile(note_file):
+    parsed_note = frontmatter.load(note_file)
+    try:
+      append_featured = {'date': meal_date, 'type': meal_type_name, 'feature': parsed_note['feature']}
+      #print("featured: " + str(meal_recipe_id).zfill(3) + " : " + json.dumps(append_featured))
+      try:
+        meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['featured']
+      except:
+        meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['featured'] = []
+      meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['featured'].append(append_featured)
+    except:
+      #append_regular = {'date': meal_date, 'type': meal_type_name}
+      #print("regular : " + str(meal_recipe_id).zfill(3) + " : " + json.dumps(append_regular))
+      try:
+        meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['regular']
+      except:
+        meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['regular'] = []
+      meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['regular'].append(append_nofile_regular)
+  else:
+    #append_nofile = {'date': meal_date, 'type': meal_type_name}
+    #print("nofile  : " + str(meal_recipe_id).zfill(3) + " : " + json.dumps(append_nofile))
+    try:
+      meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['nofile']
+    except:
+      meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['nofile'] = []
+    meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['nofile'].append(append_nofile_regular)
 
 
 
