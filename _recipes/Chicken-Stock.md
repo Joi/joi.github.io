@@ -42,7 +42,7 @@ meal_dates:
 - '2021-01-03'
 - '2021-01-31'
 - '2021-03-27'
-meal_types: 3|4|4|4|4|4|4
+meal_types: 3|4|4|4|4|5|5
 mine: 1
 name: Chicken Stock
 p_recipe_id: 330

@@ -17,7 +17,7 @@ intrash: 0
 meal_dates:
 - '2021-01-22'
 - '2021-03-27'
-meal_types: 3|2
+meal_types: 3|5
 mine: 1
 name: Marie Rose Sauce
 p_recipe_id: 458

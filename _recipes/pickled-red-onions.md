@@ -22,7 +22,7 @@ ingredients: '1 red onion
 intrash: 0
 meal_dates:
 - '2021-01-23'
-meal_types: '4'
+meal_types: '5'
 mine: null
 name: Pickled Red Onions
 p_recipe_id: 459

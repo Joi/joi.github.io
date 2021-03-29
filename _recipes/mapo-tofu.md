@@ -19,9 +19,8 @@ ingredients: "\xBD cup oil (divided)\n1-2 fresh Thai bird chili peppers (thinly 
   \ cut into 1 inch cubes)\n1 1/2 teaspoons cornstarch\n1/4 teaspoon sesame oil (optional)\n\
   1/4 teaspoon sugar (optional)\n1 scallion (finely chopped)"
 intrash: 0
-meal_dates:
-- '2021-03-03'
-meal_types: '3'
+meal_dates: null
+meal_types: null
 mine: null
 name: Mapo Tofu
 p_recipe_id: 481

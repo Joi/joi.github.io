@@ -19,7 +19,8 @@ meal_dates:
 - '2020-08-17'
 - '2021-01-22'
 - '2021-03-27'
-meal_types: 2|3|3|2
+- '2021-03-28'
+meal_types: 2|3|3|5|3
 mine: 1
 name: Mayonnaise
 p_recipe_id: 39

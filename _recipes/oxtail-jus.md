@@ -37,7 +37,7 @@ meal_dates:
 - '2021-01-02'
 - '2020-12-06'
 - '2021-02-20'
-meal_types: 3|3|3
+meal_types: 3|3|5
 mine: 1
 name: Oxtail Jus
 p_recipe_id: 488
