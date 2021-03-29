@@ -53,7 +53,7 @@ slug: shrimp-with-mayonnaise-ebimayo
 source: null
 source_url: null
 total_time: ''
-type: stub
+type: null
 uid: 38FA8814-B207-4409-8F03-B8C191D89FA4-52325-00013BDD53836253
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
