@@ -566,8 +566,9 @@ body.note .page-header {
   margin-bottom: 1em;
 }
 body.note .page-header .title {
-  font-size: 1.3rem;
+  font-size: 2.5rem;
   font-weight: 600;
+  line-height: 117%;
 }
 body.note .content h1,
 body.note .content h2,

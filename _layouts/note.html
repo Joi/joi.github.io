@@ -15,10 +15,8 @@ which happen to correspond/define the page.title and page.note vars
 
     <div class="page-header">
       <div class="sup-head">Meal notes</div>
-      <div class="title">{{ page.title }} - {{ page.date | date_to_string: "ordinal", "US" }}</div>
-      {% if page.feature %}
-      <div class="feature-title">{{ page.feature }}</div>
-      {% endif %}
+      <div class="title">{% if page.feature %}{{ page.feature }}{% else %}{{ page.title }}{% endif %}</div>
+      <div class="date">{% if page.feature %}{{ page.title }}, {% endif %}{{ page.date | date_to_string: "ordinal", "US" }}</div>
     </div>
 
   </div>

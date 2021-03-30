@@ -390,7 +390,7 @@ for result in results:
           if debug:
             print("\t- Thumb: " + recipe_filename + "")
         except:
-          print( "🛑 THUMBNAIL PHOTO Missing for " + recipe_filename + "\n" )
+          print( "🛑 THUMBNAIL PHOTO Missing for " + recipe_filename )
 
       if result['photo_large']:
         try:
@@ -402,7 +402,7 @@ for result in results:
           if debug:
             print("\t- Large: " + recipe_filename + "")
         except:
-          print( "🛑 LARGE PHOTO Missing for " + recipe_filename + "\n" )
+          print( "🛑 LARGE PHOTO Missing for " + recipe_filename )
 
       if result['photos_dict']:
         #print("\n" + recipe_filename + ": has photos_dict")
@@ -418,9 +418,9 @@ for result in results:
               print("\t- Moved: " + new_photo_filename + "")
 
           except Exception as e:
-            print( "🛑 Something fubar in photos for " + recipe_filename + "\n" + new_photo_filename + "\n")
-            print(e)
-            print("-------\n")
+            print( "🛑 MISSING PHOTOS for " + recipe_filename + ": " + new_photo_filename )
+            #print(e)
+            print("-------")
         
         result['photos_dict'] = result['photos_dict_new']
 
@@ -639,7 +639,7 @@ meals_indices['recipe_by_date_and_meal'] = defaultdict(dict)
 # MEAL by RECIPE and DATE
 meals_indices['meal_by_recipe_and_date'] = defaultdict(dict)
 # MEAL GROUPED NOTES & DATA by RECIPE and DATE
-meals_indices['meal_data_by_recipe_and_date'] = defaultdict(dict)
+meals_indices['meal_data_by_recipe_and_status'] = defaultdict(dict)
 # MEAL by DATE and RECIPE
 meals_indices['meal_by_date_and_recipe'] = defaultdict(dict)
 
@@ -694,26 +694,26 @@ for data_meal in data_meals:
       append_featured = {'date': meal_date, 'type': meal_type_name, 'feature': parsed_note['feature']}
       #print("featured: " + str(meal_recipe_id).zfill(3) + " : " + json.dumps(append_featured))
       try:
-        meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['featured']
+        meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['featured']
       except:
-        meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['featured'] = []
-      meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['featured'].append(append_featured)
+        meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['featured'] = []
+      meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['featured'].append(append_featured)
     except:
       #append_regular = {'date': meal_date, 'type': meal_type_name}
       #print("regular : " + str(meal_recipe_id).zfill(3) + " : " + json.dumps(append_regular))
       try:
-        meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['regular']
+        meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['regular']
       except:
-        meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['regular'] = []
-      meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['regular'].append(append_nofile_regular)
+        meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['regular'] = []
+      meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['regular'].append(append_nofile_regular)
   else:
     #append_nofile = {'date': meal_date, 'type': meal_type_name}
     #print("nofile  : " + str(meal_recipe_id).zfill(3) + " : " + json.dumps(append_nofile))
     try:
-      meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['nofile']
+      meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['nofile']
     except:
-      meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['nofile'] = []
-    meals_indices['meal_data_by_recipe_and_date'][meal_recipe_id]['nofile'].append(append_nofile_regular)
+      meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['nofile'] = []
+    meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['nofile'].append(append_nofile_regular)
 
 
 

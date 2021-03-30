@@ -91,98 +91,75 @@ Hacky, but it works.
       in to first fish out a list of Meal Dates from our 
       meal_by_RECIPE_and_date Meals index
     {% endcomment %}
+
+
     {% assign pp_recipe_id = page.p_recipe_id | downcase %}
-    {% assign mbrd_dict = site.data.meals_indices.meal_by_recipe_and_date[pp_recipe_id] %}
+    {% assign mdbrd_dict = site.data.meals_indices.meal_data_by_recipe_and_status[pp_recipe_id] %}
 
-    {% if mbrd_dict %}
 
-    <div class="meals" id="">
-      <h5>Featured Notes</h5>
-      <ul>
-      {% for meal in mbrd_dict reversed %}
-        {% comment %}
-          Assemble the theoretical Note's URI Path.
-          We will use this first to see if the Note exists, and then, if it does, to link to it.
-        {% endcomment %}
-        {% assign day = meal[0] | split: "-" %}
-        {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal[1] | downcase }}{% endcapture %}
-        {% capture obs_path %}_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}{% endcapture %}
-
-        {% assign result = site.notes | where_exp: "item", "item.url == note_path" %}
-
-        {% if result[0] and result[0].feature %}
-          <li>
-            <a href="{{ note_path }}" title="{{ result[0].feature }} - {{ meal[1] }} - {{ meal[0] | date_to_string: 'ordinal', 'US' }}">
-              <!--em>{{ meal[1] }}</em-->
-              <strong>{{ result[0].feature }}</strong>
-              <em>{{ meal[0] | date_to_string: "ordinal", "US" }}</em>
-            </a>
-          </li>
+    {% if mdbrd_dict %}
+      {% for note_sit in mdbrd_dict %}
+        {% if note_sit[0] != 'nofile' %}
+          <div class="meals">
+            <h6>
+            {% case note_sit[0] %}
+            {% when 'featured' %}Featured Notes
+            {% when 'regular' %}Meal Notes
+            {% endcase %}
+            </h6>
+            <ul>
+              {% for meal in note_sit[1] reversed %}
+                {% assign date_us_ordinal = meal.date | date_to_string: 'ordinal', 'US' %}
+                {% assign day = meal.date | split: "-" %}
+                {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal['type'] | downcase }}{% endcapture %}
+                <li>
+                  {% case note_sit[0] %}
+                    {% when 'featured' %}
+                      <a href="{{ note_path }}" title="{{ meal.feature }} - {{ meal.type }} - {{ date_us_ordinal }}">
+                        <!--em>{{ meal.type }}</em-->
+                        <strong>{{ meal.feature }}</strong>
+                        <em>{{ date_us_ordinal }}</em>
+                      </a>
+                    {% when 'regular' %}
+                      <a href="{{ note_path }}" title="{{ meal.type }} - {{ date_us_ordinal }}">
+                      <strong>{{ meal.type }}</strong>
+                      <em>{{ date_us_ordinal }}</em>
+                      </a>
+                  {% endcase %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
         {% endif %}
-
       {% endfor %}
-      </ul>
-    </div>
+    {% endif %}
 
-    <div class="meals" id="">
-      <h5>Meal Notes</h5>
-      <ul>
-      {% for meal in mbrd_dict reversed %}
-        {% comment %}
-          Assemble the theoretical Note's URI Path.
-          We will use this first to see if the Note exists, and then, if it does, to link to it.
-        {% endcomment %}
-        {% assign day = meal[0] | split: "-" %}
-        {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal[1] | downcase }}{% endcapture %}
-        {% capture obs_path %}_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}{% endcapture %}
 
-        {% assign result = site.notes | where_exp: "item", "item.url == note_path" %}
-
-        {% if result[0] and result[0].feature == null %}
-          <li>
-            <a href="{{ note_path }}" title="{{ meal[1] }} - {{ meal[0] | date_to_string: 'ordinal', 'US' }}">
-              <em>{{ meal[1] }}</em>
-              <strong>{{ meal[0] | date_to_string: "ordinal", "US" }}</strong>
-            </a>
-          </li>
-        {% endif %}
-
-      {% endfor %}
-      </ul>
-    </div>
 
     {% if jekyll.environment == 'development' %}
-    <div class="meals dev-only" id="">
-      <h5>No Notes yet</h5>
-      <ul>
-      {% for meal in mbrd_dict reversed %}
-        {% assign day = meal[0] | split: "-" %}
-        {% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal[1] | downcase }}{% endcapture %}
-        {% capture obs_path %}_notes%2F{{ meal[0] }}-{{ meal[1] | downcase }}{% endcapture %}
+      {% if mdbrd_dict %}
+        {% for note_sit in mdbrd_dict %}
+          {% if note_sit[0] == 'nofile' %}
+            <div class="meals dev-only">
+              <h6>No Notes Yet</h6>
+              <ul>
+                {% for meal in note_sit[1] reversed %}
+                  {% capture obs_path %}_notes%2F{{ meal['date'] }}-{{ meal['type'] | downcase }}{% endcapture %}
+                  <li>
+                    <a class="no-endpoint-link" title=""
+                      href="obsidian://new?vault=joi.github.io&file={{ obs_path }}">
+                      <em>{{ meal['type'] }}</em>
+                      <strong>{{ meal['date'] | date_to_string: 'ordinal', 'US' }}</strong>
+                    </a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endif %}
 
-        {% assign result = site.notes | where: "url", note_path %}
-        
-        {% if result[0] %}
-          {% comment %}
-          do nothing this time
-          {% endcomment %}
-        {% elsif jekyll.environment == 'development' %}
-          {% comment %}
-          If it does not, we link to Obsidian, giving us a pathway to creating it.
-          {% endcomment %}
-          <li>
-            <a class="no-endpoint-link"
-              href="obsidian://new?vault=joi.github.io&file={{ obs_path }}">
-              <em>{{ meal[1] }}</em>
-              <strong>{{ meal[0] | date_to_string: "ordinal", "US" }}</strong>
-            </a>
-          </li>
-        {% endif %}
-      {% endfor %}
-      </ul>
-    </div>
-    {% endif %}
-    {% endif %}
 
   </div><!-- #photo-sidebar -->
 </div><!-- #row-two -->
