@@ -9,7 +9,7 @@ created: '2021-03-29 12:14:29'
 created_ts: 1617020069
 description: null
 difficulty: null
-image_url: https://thewoksoflife.com/wp-content/uploads/2020/04/chinese-braised-duck-8-340x440.jpg
+image_url: null
 ingredients: '4 duck legs
 
   1/4 cup Shaoxing wine (can substitute clear rice wine or cooking sherry)
@@ -41,11 +41,11 @@ mine: null
 name: Chinese Braised Duck Legs
 p_recipe_id: 498
 permalink: /recipes/chinese-braised-duck-legs
-photo_large: null
+photo_large: 7D79E1DA-0CDD-4CBF-B3E6-02F389AD89DE.jpg
 photo_thumb: chinese-braised-duck-legs-thumb.jpg
-photos_dict: null
+photos_dict: {}
 prep_time: 15 minutes
-rating: 0
+rating: 5
 servings: 'Serves: 4'
 slug: chinese-braised-duck-legs
 source: thewoksoflife.com

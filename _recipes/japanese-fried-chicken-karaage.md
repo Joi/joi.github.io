@@ -63,7 +63,7 @@ uid: AF9FDAAB-9F87-45DF-AC3C-6D85FFF3DF26-408-00004F23542EA29A
 <p>Prepare wire rack for finished chicken and a baking sheet or vat for powdered raw chicken.</p>
 <p>Prepare bowl for putting chicken in cornstarch. I usually scoop bits of the starch into the bowl after each batch of chicken because I find it wasteful to use a whole cup.</p>
 <p>After the chicken is marinated, in batches or one piece at a time, put in starch, shake off excess and put on baking tray.</p>
-<p>Heat oil about 1 inch deep (or more or less if you like - its harder to control temperature fluctuations with less oil) in a high rim pan or a Dutch oven. Heat oil to 325 ºF.</p>
-<p>Add chicken to oil in one layer one piece at a time. Cook at 300 - 325 ºF until golden brown - about 4-5 min. Using chopsticks or a spider skimmer, transfer finished chicken to rack. Try to keep the temperature in range removing finished pieces and adding raw ones. Continue until all of the chicken is done.</p>
+<p>Heat oil about ½ inch deep (or more or less if you like - its harder to control temperature fluctuations with less oil) in a high rim pan or a Dutch oven. Heat oil to 325ºF.</p>
+<p>Add chicken to oil in one layer one piece at a time. Cook at 300 - 325ºF until golden brown - about 4-5 min. Using chopsticks or a spider skimmer, transfer finished chicken to rack. Try to keep the temperature in range removing finished pieces and adding raw ones. Continue until all of the chicken is done.</p>
 <p>For drumsticks or other boned pieces, turn every min or two until temperature inside of the chicken is about 160 ºF. About 10 min for wings and 12 min for thighs, legs and breasts.</p>
 </div>	</div>

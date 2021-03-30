@@ -37,7 +37,8 @@ meal_dates:
 - '2021-01-02'
 - '2020-12-06'
 - '2021-02-20'
-meal_types: 3|3|5
+- '2020-12-07'
+meal_types: 3|3|5|3
 mine: 1
 name: Oxtail Jus
 p_recipe_id: 488
@@ -87,10 +88,18 @@ uid: F604EADB-25AC-44AC-9DC1-75246C0FB483-641-0000509B20DEF473
 <li>4 cups of [[chicken-stock|Chicken Stock]]</li>
 <li>Salt and pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>In Dutch oven, heat old and sear oxtail and remove from pot.</p>
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/oxtail-jus-11.jpg" alt="ingredients" /></p>
+<p><img src="/images/recipes/oxtail-jus-6.jpg" alt="whole oxtail" /></p>
+<p><img src="/images/recipes/oxtail-jus-4.jpg" alt="chopping" /></p>
+<p><img src="/images/recipes/oxtail-jus-10.jpg" alt="sear" /></p>
+<p>In Dutch oven, heat oil and sear oxtail and remove from pot.</p>
+<p><img src="/images/recipes/oxtail-jus-2.jpg" alt="browning veggies" /></p>
 <p>Add celery, onion, carrot and sauté until it starts to turn brown.</p>
+<p><img src="/images/recipes/oxtail-jus-13.jpg" alt="deglaze" /></p>
 <p>Add wine and [[deglaze]].</p>
 <p>Add chicken stock and put oxtails back in pot. Bring to a boil and simmer, cover and cook until the meat is very tender - about 3 - 3 ½ hours.</p>
+<p><img src="/images/recipes/oxtail-jus-3.jpg" alt="cool" /></p>
+<p><img src="/images/recipes/oxtail-jus-14.jpg" alt="break apart" /></p>
 <p>Remove oxtails and allow to cool enough to handle. Remove meat from bones and keep for something else.</p>
 <p>Strain liquid and put in smaller saucepan.</p>
 <p>Remove fat on surface.</p>

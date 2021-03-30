@@ -648,6 +648,10 @@
    "317": "Dinner",
    "488": "Dinner"
   },
+  "2020-12-07": {
+   "317": "Dinner",
+   "488": "Dinner"
+  },
   "2020-12-08": {
    "313": "Dinner"
   },
@@ -1474,6 +1478,7 @@
    "2020-08-17": "Dinner",
    "2020-10-04": "Dinner",
    "2020-12-06": "Dinner",
+   "2020-12-07": "Dinner",
    "2020-12-20": "Dinner",
    "2021-01-02": "Dinner",
    "2021-02-20": "Dinner"
@@ -1818,6 +1823,7 @@
   },
   "488": {
    "2020-12-06": "Dinner",
+   "2020-12-07": "Dinner",
    "2021-01-02": "Dinner",
    "2021-02-20": "Pantry"
   },
@@ -1853,7 +1859,7 @@
    "2020-11-22": "Dinner"
   }
  },
- "meal_data_by_recipe_and_date": {
+ "meal_data_by_recipe_and_status": {
   "4": {
    "nofile": [
     {
@@ -2440,15 +2446,16 @@
    ]
   },
   "144": {
-   "nofile": [
+   "featured": [
     {
-     "date": "2020-05-11",
+     "date": "2020-08-10",
+     "feature": "Mac & Cheese for Kio",
      "type": "Dinner"
     }
    ],
-   "regular": [
+   "nofile": [
     {
-     "date": "2020-08-10",
+     "date": "2020-05-11",
      "type": "Dinner"
     }
    ]
@@ -3293,9 +3300,10 @@
    ]
   },
   "300": {
-   "regular": [
+   "featured": [
     {
      "date": "2020-08-10",
+     "feature": "Mac & Cheese for Kio",
      "type": "Dinner"
     }
    ]
@@ -3418,6 +3426,11 @@
     {
      "date": "2020-10-04",
      "feature": "Timing a bigger Prime Rib",
+     "type": "Dinner"
+    },
+    {
+     "date": "2020-12-07",
+     "feature": "Prime Rib with Oxtail Au Jus",
      "type": "Dinner"
     }
    ],
@@ -4431,6 +4444,13 @@
    ]
   },
   "488": {
+   "featured": [
+    {
+     "date": "2020-12-07",
+     "feature": "Prime Rib with Oxtail Au Jus",
+     "type": "Dinner"
+    }
+   ],
    "nofile": [
     {
      "date": "2020-12-06",
@@ -5597,6 +5617,12 @@
    ]
   },
   "2020-12-06": {
+   "Dinner": [
+    317,
+    488
+   ]
+  },
+  "2020-12-07": {
    "Dinner": [
     317,
     488
