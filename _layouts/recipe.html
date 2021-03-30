@@ -42,11 +42,11 @@ layout: default
 
       <div class="title marker">{{recipe_prefix}}{{ page.title }}</div>
       {% if page.source %}
-        <p class="source">Source: 
+        <p class="source"> 
           {% unless page.source_url %}
-            {{ page.source }}
+            Source: {{ page.source }}
           {% else %}
-            <a href="{{ page.source_url }}" title="{{ page.source }}">{{ page.source }}</a>
+            For the original recipe and instructions, see: <a href="{{ page.source_url }}" title="{{ page.source }}">"{{ page.title }}" at {{ page.source }}</a>
           {% endunless %}
         </p>
       {% endif %}
