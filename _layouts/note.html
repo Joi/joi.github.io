@@ -38,6 +38,7 @@ which happen to correspond/define the page.title and page.note vars
 
 	</div>
 	<div class="medium-3 columns" id="right-margin">
+
 		{%- include backlinks.html -%}
     
     {% assign rbdm_dict = site.data.meals_indices.recipe_by_date_and_meal[key_date][key_meal] %}
@@ -73,8 +74,8 @@ which happen to correspond/define the page.title and page.note vars
 <div class="row dev-only" id="">
   <div class="medium-12 columns" id="stuff">
 
-    <h5>Categories of Recipes in this Meal</h5>
-
+    <h3>Categories of Recipes in this Meal</h3>
+    <p>From _data/categories</p>
     {% if rbdm_dict %}
       <h4>Recipes</h4>
       {% for recipe_id in rbdm_dict %}
@@ -89,6 +90,15 @@ which happen to correspond/define the page.title and page.note vars
       {% endfor %}
     {% endif %}
 
+
+    <h3>Tags</h3>
+    <p>From page's YAML front matter</p>
+    <p>Page.tags: {{ page.tags }}</p>
+    <ul>
+    {% for tag in page.tags %}
+      <li>{{ tag }}</li>
+    {% endfor %}
+    </ul>
 
 <pre>
 CTX: Meal
