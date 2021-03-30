@@ -2,38 +2,40 @@
 title: "Steak"
 filename: "steak"
 categories:
-- Tenderloin
-- Prime Rib
-- Steaks
 - Beef
 - Meat
-cook_time: null
-created: '2021-03-27 02:12:55'
-created_ts: 1616811175
+- Steaks
+- Prime Rib
+- Tenderloin
+cook_time: ''
+created: '2021-03-27 15:12:55'
+created_ts: 1616857975
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: null
 intrash: 0
 meal_dates:
-- '2021-03-26'
-meal_types: '3'
+- '2021-03-27'
+- '2020-08-02'
+- '2020-08-12'
+meal_types: 3|3|3
 mine: 1
 name: Steak
-p_recipe_id: 459
+p_recipe_id: 494
 permalink: /recipes/steak
 photo_large: steak-large.jpg
 photo_thumb: steak-thumb.jpg
 photos_dict:
   '1': steak-1.jpg
   '2': steak-2.jpg
-prep_time: null
+prep_time: ''
 rating: 0
-servings: null
+servings: ''
 slug: steak
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: stub
 uid: 509801DC-97A9-44B1-BD50-C6C34EF65520-52325-0000F025C76A4D12
 ---

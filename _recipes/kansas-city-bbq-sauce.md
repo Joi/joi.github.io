@@ -2,11 +2,11 @@
 title: "Kansas City Bbq Sauce"
 filename: "kansas-city-bbq-sauce"
 categories:
-- BBQ
 - Sauce
+- BBQ
 cook_time: 25 mins
-created: '2020-09-18 08:19:19'
-created_ts: 1600417159
+created: '2020-09-18 21:19:19'
+created_ts: 1600463959
 description: null
 difficulty: null
 image_url: https://heygrillheycdn.sfo2.cdn.digitaloceanspaces.com/2018/01/smoked-5.jpg
@@ -20,7 +20,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Kansas City Bbq Sauce
-p_recipe_id: 412
+p_recipe_id: 365
 permalink: /recipes/kansas-city-bbq-sauce
 photo_large: null
 photo_thumb: kansas-city-bbq-sauce-thumb.jpg

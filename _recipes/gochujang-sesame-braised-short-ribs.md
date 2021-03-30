@@ -4,8 +4,8 @@ filename: "gochujang-sesame-braised-short-ribs"
 categories:
 - Short Ribs
 cook_time: 02:30
-created: '2020-11-13 21:53:10'
-created_ts: 1605304390
+created: '2020-11-14 11:53:10'
+created_ts: 1605354790
 description: null
 difficulty: null
 image_url: null
@@ -17,11 +17,11 @@ ingredients: "1.5 lb Beef Short Ribs on Bone\n3 Tbsp Gochujang\n2 Tbsp Minced Ga
   \ Threads (optional garnish)"
 intrash: 0
 meal_dates:
-- '2020-11-14'
+- '2020-11-15'
 meal_types: '3'
 mine: null
 name: Gochujang Sesame Braised Short Ribs
-p_recipe_id: 381
+p_recipe_id: 414
 permalink: /recipes/gochujang-sesame-braised-short-ribs
 photo_large: gochujang-sesame-braised-short-ribs-large.jpg
 photo_thumb: gochujang-sesame-braised-short-ribs-thumb.jpg

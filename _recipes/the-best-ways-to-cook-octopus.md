@@ -3,8 +3,8 @@ title: "The Best Ways to Cook Octopus"
 filename: "the-best-ways-to-cook-octopus"
 categories: null
 cook_time: null
-created: '2020-10-12 22:46:40'
-created_ts: 1602542800
+created: '2020-10-13 11:46:40'
+created_ts: 1602589600
 description: null
 difficulty: null
 image_url: https://www.seriouseats.com/images/2016/05/20160512-octopus-vicky-wasik-1-1500x1125.jpg
@@ -14,7 +14,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: The Best Ways to Cook Octopus
-p_recipe_id: 396
+p_recipe_id: 380
 permalink: /recipes/the-best-ways-to-cook-octopus
 photo_large: null
 photo_thumb: the-best-ways-to-cook-octopus-thumb.jpg

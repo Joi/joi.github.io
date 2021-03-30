@@ -4,10 +4,10 @@ filename: "bolognese-sauce-recipe-instant-pot"
 categories:
 - Pasta
 cook_time: 55 minutes
-created: '2020-09-02 00:58:40'
-created_ts: 1599008320
+created: '2020-09-02 13:58:40'
+created_ts: 1599055120
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "1 tablespoon olive oil\n1-1/2 cups diced yellow onion\n\xBD cup diced\
   \ carrots\n1/2 cup diced celery\n1 pound ground beef chuck\n1/2 pound ground pork\n\
@@ -18,11 +18,11 @@ ingredients: "1 tablespoon olive oil\n1-1/2 cups diced yellow onion\n\xBD cup di
   \ tagliatelle, pappardelle, or your favorite pasta , for serving"
 intrash: 0
 meal_dates:
-- '2020-09-01'
+- '2020-09-02'
 meal_types: '3'
 mine: null
 name: Bolognese Sauce Recipe (Instant Pot)
-p_recipe_id: 235
+p_recipe_id: 334
 permalink: /recipes/bolognese-sauce-recipe-instant-pot
 photo_large: bolognese-sauce-recipe-instant-pot-large.jpg
 photo_thumb: bolognese-sauce-recipe-instant-pot-thumb.jpg
@@ -33,11 +33,11 @@ photos_dict:
   '04': bolognese-sauce-recipe-instant-pot-04.jpg
 prep_time: 30 minutes
 rating: 5
-servings: null
+servings: ''
 slug: bolognese-sauce-recipe-instant-pot
 source: stripedspatula.com
 source_url: https://stripedspatula.com/bolognese-sauce-recipe-instant-pot/
-total_time: null
+total_time: ''
 type: null
 uid: 8202E24E-9C63-4DBB-A008-AFBA9C08982B-499-0000017FA2C55DFC
 ---

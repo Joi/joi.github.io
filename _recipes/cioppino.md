@@ -5,8 +5,8 @@ categories:
 - Seafood
 - Soup
 cook_time: 55min
-created: '2020-02-03 02:00:55'
-created_ts: 1580695255
+created: '2020-02-03 16:00:55'
+created_ts: 1580745655
 description: null
 difficulty: Medium
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/90FDEF8A-4D38-403E-8C58-5C680632EA5A/Derivates/9AB025AE-6244-4AD0-B542-8CF9011C2EB2.jpg
@@ -26,7 +26,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Cioppino
-p_recipe_id: 369
+p_recipe_id: 34
 permalink: /recipes/cioppino
 photo_large: null
 photo_thumb: cioppino-thumb.jpg

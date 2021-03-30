@@ -2,11 +2,11 @@
 title: "Pan-Seared Marinated Halibut Fillets"
 filename: "pan-seared-marinated-halibut-fillets"
 categories:
-- White Fish
 - Fish
+- White Fish
 cook_time: 20 minutes
-created: '2020-04-05 12:12:58'
-created_ts: 1586088778
+created: '2020-04-06 01:12:58'
+created_ts: 1586135578
 description: null
 difficulty: null
 image_url: https://static01.nyt.com/images/2014/04/02/dining/pan-seared-marinated-halibut/pan-seared-marinated-halibut-articleLarge.jpg
@@ -29,11 +29,11 @@ ingredients: '6 tablespoons olive oil
   Chopped parsley, for garnish, optional'
 intrash: 0
 meal_dates:
-- '2020-04-05'
+- '2020-04-06'
 meal_types: '3'
 mine: null
 name: Pan-Seared Marinated Halibut Fillets
-p_recipe_id: 339
+p_recipe_id: 92
 permalink: /recipes/pan-seared-marinated-halibut-fillets
 photo_large: null
 photo_thumb: pan-seared-marinated-halibut-fillets-thumb.jpg

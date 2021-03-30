@@ -4,8 +4,8 @@ filename: "instant-pot-chicken-tikka-masala"
 categories:
 - Chicken
 cook_time: 20 mins
-created: '2020-09-17 02:20:48'
-created_ts: 1600309248
+created: '2020-09-17 15:20:48'
+created_ts: 1600356048
 description: null
 difficulty: null
 image_url: null
@@ -64,7 +64,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Instant Pot Chicken Tikka Masala
-p_recipe_id: 249
+p_recipe_id: 360
 permalink: /recipes/instant-pot-chicken-tikka-masala
 photo_large: null
 photo_thumb: null

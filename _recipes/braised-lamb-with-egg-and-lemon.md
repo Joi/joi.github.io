@@ -5,10 +5,10 @@ categories:
 - Lamb
 - Meat
 cook_time: 2 1/2 hours
-created: '2020-05-14 01:33:38'
-created_ts: 1589420018
-description: null
-difficulty: null
+created: '2020-05-14 14:33:38'
+created_ts: 1589466818
+description: ''
+difficulty: ''
 image_url: https://static01.nyt.com/images/2016/03/16/dining/16KITCH1/16KITCH1-articleLarge.jpg
 ingredients: "4 pounds boneless lamb shoulder, cut in 3-inch pieces\nSalt and pepper\n\
   Extra-virgin olive oil\n1 large onion, diced\n4 large garlic cloves, chopped\n2\
@@ -23,18 +23,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Braised Lamb with Egg and Lemon
-p_recipe_id: 192
+p_recipe_id: 148
 permalink: /recipes/braised-lamb-with-egg-and-lemon
 photo_large: null
 photo_thumb: braised-lamb-with-egg-and-lemon-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: Yield 4 to 6 servings
 slug: braised-lamb-with-egg-and-lemon
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018017-braised-lamb-with-egg-and-lemon?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=25
-total_time: null
+total_time: ''
 type: null
 uid: 6CC84790-1010-48A2-8720-1766D78708EE-13891-0000A740E9DE8711
 ---

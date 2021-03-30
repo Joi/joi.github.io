@@ -4,10 +4,10 @@ filename: "spatchcock-turkey"
 categories:
 - Turkey
 cook_time: 1 hour
-created: '2020-08-26 12:04:12'
-created_ts: 1598443452
-description: null
-difficulty: null
+created: '2020-08-27 01:04:12'
+created_ts: 1598490252
+description: ''
+difficulty: ''
 image_url: https://www.dinneratthezoo.com/wp-content/uploads/2019/08/spatchcock-turkey-200x300.jpg
 ingredients: '12 pound turkey giblets and neck removed
 
@@ -25,7 +25,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Spatchcock Turkey
-p_recipe_id: 190
+p_recipe_id: 324
 permalink: /recipes/spatchcock-turkey
 photo_large: null
 photo_thumb: spatchcock-turkey-thumb.jpg
@@ -36,7 +36,7 @@ servings: Servings 12
 slug: spatchcock-turkey
 source: dinneratthezoo.com
 source_url: https://www.dinneratthezoo.com/spatchcock-turkey/
-total_time: null
+total_time: ''
 type: null
 uid: 6B206B96-654C-4F42-9A71-7BF292B2A3A7-2241-0003D24152C108E4
 ---

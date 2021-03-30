@@ -4,10 +4,10 @@ filename: "hamachi-kama"
 categories:
 - Yellow Tail
 cook_time: 25 mins
-created: '2020-08-13 13:12:38'
-created_ts: 1597324358
+created: '2020-08-14 02:12:38'
+created_ts: 1597371158
 description: null
-difficulty: null
+difficulty: ''
 image_url: https://v1.nitrocdn.com/KQYMGOLIdXGmoAcyJsPOrQDKktgCbwtG/assets/static/optimized/rev-e80bad3/wp-content/uploads/2012/09/Hamachi-Kama.jpg
 ingredients: "1 Hamachi Kama (available in Japanese market)\n1 tsp neutral-flavored\
   \ oil (vegetable, canola, etc)\nLemon (slice, optional)\n1 Tbsp soy sauce\n\xBD\
@@ -17,7 +17,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Hamachi Kama
-p_recipe_id: 325
+p_recipe_id: 305
 permalink: /recipes/hamachi-kama
 photo_large: null
 photo_thumb: hamachi-kama-thumb.jpg
@@ -28,7 +28,7 @@ servings: 'Servings: 1'
 slug: hamachi-kama
 source: justonecookbook.com
 source_url: https://www.justonecookbook.com/hamachi-kama/
-total_time: null
+total_time: ''
 type: null
 uid: B5BF403A-DF93-4260-9777-614FDE444194-11316-000008212FCB0ED0
 ---

@@ -2,11 +2,11 @@
 title: "Roberta’s Pizza Dough"
 filename: "robertas-pizza-dough"
 categories:
-- Pizza
 - Italian
+- Pizza
 cook_time: 20 minutes
-created: '2021-02-01 10:05:18'
-created_ts: 1612173918
+created: '2021-02-02 00:05:18'
+created_ts: 1612224318
 description: null
 difficulty: null
 image_url: https://static01.nyt.com/images/2018/01/18/dining/pizzadough-2/pizzadough-2-videoHpMedium.jpg
@@ -21,11 +21,11 @@ ingredients: '153 grams 00 flour (1 cup plus 1 tablespoon)
   4 grams extra-virgin olive oil (1 teaspoon)'
 intrash: 0
 meal_dates:
-- '2021-02-02'
+- '2021-02-03'
 meal_types: '2'
 mine: null
 name: "Roberta\u2019s Pizza Dough"
-p_recipe_id: 154
+p_recipe_id: 466
 permalink: /recipes/robertas-pizza-dough
 photo_large: null
 photo_thumb: robertas-pizza-dough-thumb.jpg

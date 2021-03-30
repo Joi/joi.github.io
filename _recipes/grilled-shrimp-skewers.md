@@ -4,10 +4,10 @@ filename: "grilled-shrimp-skewers"
 categories:
 - Shrimp
 cook_time: 10 minutes
-created: '2020-07-11 03:04:14'
-created_ts: 1594436654
+created: '2020-07-11 16:04:14'
+created_ts: 1594483454
 description: null
-difficulty: null
+difficulty: ''
 image_url: https://www.dinneratthezoo.com/wp-content/uploads/2018/05/grilled-shrimp-skewers-3-200x300.jpg
 ingredients: '1 pound large shrimp peeled and deveined (you can either leave tails
   on or remove them)
@@ -29,11 +29,11 @@ ingredients: '1 pound large shrimp peeled and deveined (you can either leave tai
   lemon wedges for serving'
 intrash: 0
 meal_dates:
-- '2020-07-11'
+- '2020-07-12'
 meal_types: '3'
 mine: null
 name: Grilled Shrimp Skewers
-p_recipe_id: 95
+p_recipe_id: 243
 permalink: /recipes/grilled-shrimp-skewers
 photo_large: null
 photo_thumb: grilled-shrimp-skewers-thumb.jpg
@@ -44,7 +44,7 @@ servings: Servings 4
 slug: grilled-shrimp-skewers
 source: dinneratthezoo.com
 source_url: https://www.dinneratthezoo.com/grilled-shrimp-skewers/
-total_time: null
+total_time: ''
 type: null
 uid: 33351D7B-15D1-410E-B962-EB6233737326-3951-0000025E910495AA
 ---

@@ -4,10 +4,10 @@ filename: "coconut-poached-fish-with-bok-choy"
 categories:
 - Fish
 cook_time: 25 minutes
-created: '2020-10-18 12:20:54'
-created_ts: 1603023654
-description: null
-difficulty: null
+created: '2020-10-19 01:20:54'
+created_ts: 1603070454
+description: ''
+difficulty: ''
 image_url: https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-articleLarge.jpg
 ingredients: "4 (6-ounce) cod fillets or other flaky white fish\nKosher salt\n2 tablespoons\
   \ canola or vegetable oil\n1 large shallot, thinly sliced\n2 garlic cloves, thinly\
@@ -19,22 +19,22 @@ ingredients: "4 (6-ounce) cod fillets or other flaky white fish\nKosher salt\n2 
   \ 1 lime), for serving\nFlaky salt (optional)"
 intrash: 0
 meal_dates:
-- '2020-10-22'
+- '2020-10-23'
 meal_types: '3'
 mine: null
 name: Coconut-Poached Fish with Bok Choy
-p_recipe_id: 131
+p_recipe_id: 389
 permalink: /recipes/coconut-poached-fish-with-bok-choy
 photo_large: null
 photo_thumb: coconut-poached-fish-with-bok-choy-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: Yield 4 servings
 slug: coconut-poached-fish-with-bok-choy
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy
-total_time: null
+total_time: ''
 type: null
 uid: 4973017F-D72F-41C6-BC8B-31212FA8878D-7512-00015A6C9A2FD409
 ---

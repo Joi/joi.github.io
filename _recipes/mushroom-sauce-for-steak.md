@@ -2,14 +2,14 @@
 title: "Mushroom Sauce for Steak"
 filename: "mushroom-sauce-for-steak"
 categories:
-- Mushroom
-- Sauce
 - Steaks
+- Sauce
+- Mushroom
 cook_time: 10 minutes
-created: '2021-02-14 22:56:15'
-created_ts: 1613343375
+created: '2021-02-15 12:56:15'
+created_ts: 1613393775
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: '8 ounces baby bella or cremini mushrooms thinly sliced
 
@@ -30,11 +30,11 @@ ingredients: '8 ounces baby bella or cremini mushrooms thinly sliced
   1/4 teaspoon cracked black pepper or to taste'
 intrash: 0
 meal_dates:
-- '2021-02-14'
+- '2021-02-15'
 meal_types: '3'
 mine: null
 name: Mushroom Sauce for Steak
-p_recipe_id: 232
+p_recipe_id: 476
 permalink: /recipes/mushroom-sauce-for-steak
 photo_large: mushroom-sauce-for-steak-large.jpg
 photo_thumb: mushroom-sauce-for-steak-thumb.jpg
@@ -46,7 +46,7 @@ servings: 'Servings: 4'
 slug: mushroom-sauce-for-steak
 source: lecremedelacrumb.com
 source_url: https://www.lecremedelacrumb.com/mushroom-sauce-for-steak/
-total_time: null
+total_time: ''
 type: null
 uid: 818DF6C2-699D-41CE-AA3D-D93EDF22C1BC-26466-000013C57F68168A
 ---

@@ -7,10 +7,10 @@ categories:
 - Seafood
 - Soup
 cook_time: 1 hour
-created: '2020-10-08 11:44:04'
-created_ts: 1602157444
-description: null
-difficulty: null
+created: '2020-10-09 00:44:04'
+created_ts: 1602204244
+description: ''
+difficulty: ''
 image_url: https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-articleLarge.jpg
 ingredients: "Good olive oil, as needed\n4 to 8 thick slices good bread\n1 onion,\
   \ chopped\n4 cloves garlic, chopped\n2 celery stalks, trimmed and chopped\n1 carrot,\
@@ -23,22 +23,22 @@ ingredients: "Good olive oil, as needed\n4 to 8 thick slices good bread\n1 onion
   Rouille, optional"
 intrash: 0
 meal_dates:
-- '2020-10-08'
+- '2020-10-09'
 meal_types: '3'
 mine: null
 name: "Mark Bittman\u2019s Bouillabaisse"
-p_recipe_id: 322
+p_recipe_id: 377
 permalink: /recipes/mark-bittmans-bouillabaisse
 photo_large: null
 photo_thumb: mark-bittmans-bouillabaisse-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 5
 servings: Yield 4 to 6 servings
 slug: mark-bittmans-bouillabaisse
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12637-mark-bittmans-bouillabaisse
-total_time: null
+total_time: ''
 type: null
 uid: B4FA8284-2C9F-449C-9A2B-02F2C012D3E3-79931-00015237983D5DDF
 ---

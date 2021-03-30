@@ -2,13 +2,13 @@
 title: "Pressure Cooker Pot Roast"
 filename: "pressure-cooker-pot-roast"
 categories:
-- Chuck Roast
 - Beef
+- Chuck Roast
 cook_time: 1 3/4 hours
-created: '2020-04-19 02:45:28'
-created_ts: 1587264328
-description: null
-difficulty: null
+created: '2020-04-19 15:45:28'
+created_ts: 1587311128
+description: ''
+difficulty: ''
 image_url: https://static01.nyt.com/images/2020/01/30/dining/sdg-pressure-cooker-pot-roast/merlin_168064572_dc3d6856-89e3-4cf0-bcdc-4db36e030eba-articleLarge.jpg
 ingredients: "FOR THE POT ROAST:\n4 pounds beef chuck roast, cut in half\nKosher salt\
   \ and black pepper\n2 tablespoons vegetable oil\n7 ounces frozen pearl onions (or\
@@ -26,18 +26,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Pressure Cooker Pot Roast
-p_recipe_id: 445
+p_recipe_id: 115
 permalink: /recipes/pressure-cooker-pot-roast
 photo_large: null
 photo_thumb: pressure-cooker-pot-roast-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: Yield 6 servings
 slug: pressure-cooker-pot-roast
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1020846-pressure-cooker-pot-roast?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-total_time: null
+total_time: ''
 type: null
 uid: FB77B4E0-C583-4E0D-B54F-B9A9609CE833-407-00004C642237C3D7
 ---

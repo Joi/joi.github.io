@@ -4,10 +4,10 @@ filename: "swordfish-au-poivre"
 categories:
 - Swordfish
 cook_time: 30 minutes
-created: '2020-07-05 10:28:59'
-created_ts: 1593944939
-description: null
-difficulty: null
+created: '2020-07-05 23:28:59'
+created_ts: 1593991739
+description: ''
+difficulty: ''
 image_url: https://static01.nyt.com/images/2020/06/17/dining/11pairrex/merlin_173165397_d0d4e7ba-789e-4bc7-ae1c-e8b484ded440-articleLarge.jpg
 ingredients: "24 ounces swordfish about 1-inch thick, skin removed, in 4 portions\n\
   Fine sea salt\n1 \xBD tablespoons crushed black peppercorns\n2 tablespoons extra-virgin\
@@ -18,18 +18,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Swordfish Au Poivre
-p_recipe_id: 123
+p_recipe_id: 234
 permalink: /recipes/swordfish-au-poivre
 photo_large: null
 photo_thumb: swordfish-au-poivre-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: Yield 4 servings
 slug: swordfish-au-poivre
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1021120-swordfish-au-poivre?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=13
-total_time: null
+total_time: ''
 type: null
 uid: 466F7A66-B9C7-46E6-B50D-D6FADF202548-631-0001AC5C5F20F7E0
 ---

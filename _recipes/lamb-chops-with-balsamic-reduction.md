@@ -4,8 +4,8 @@ filename: "lamb-chops-with-balsamic-reduction"
 categories:
 - Lamb
 cook_time: 15 mins
-created: '2020-12-24 23:02:18'
-created_ts: 1608850938
+created: '2020-12-25 13:02:18'
+created_ts: 1608901338
 description: null
 difficulty: null
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F31252.jpg&q=85
@@ -18,7 +18,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Lamb Chops with Balsamic Reduction
-p_recipe_id: 371
+p_recipe_id: 435
 permalink: /recipes/lamb-chops-with-balsamic-reduction
 photo_large: null
 photo_thumb: lamb-chops-with-balsamic-reduction-thumb.jpg

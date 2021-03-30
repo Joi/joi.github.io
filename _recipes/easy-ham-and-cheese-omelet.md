@@ -6,8 +6,8 @@ categories:
 - Breakfast
 - Egg
 cook_time: null
-created: '2020-02-03 08:48:31'
-created_ts: 1580719711
+created: '2020-02-03 22:48:31'
+created_ts: 1580770111
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/41120-sfs-ham-cheese-omelet-14
@@ -19,7 +19,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Easy Ham and Cheese Omelet
-p_recipe_id: 266
+p_recipe_id: 27
 permalink: /recipes/easy-ham-and-cheese-omelet
 photo_large: null
 photo_thumb: easy-ham-and-cheese-omelet-thumb.jpg

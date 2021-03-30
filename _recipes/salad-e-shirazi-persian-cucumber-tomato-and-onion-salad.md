@@ -4,10 +4,10 @@ filename: "salad-e-shirazi-persian-cucumber-tomato-and-onion-salad"
 categories:
 - Vegetables
 cook_time: 20 minutes
-created: '2020-06-13 03:09:03'
-created_ts: 1592017743
-description: null
-difficulty: null
+created: '2020-06-13 16:09:03'
+created_ts: 1592064543
+description: ''
+difficulty: ''
 image_url: https://static01.nyt.com/images/2019/05/14/dining/14Iranianrex8/merlin_154113735_00a90a0e-5bb6-4242-89e4-f4fe259545bd-articleLarge.jpg
 ingredients: "3 to 4 Persian cucumbers (about 3/4 pound)\n\xBD red onion, diced into\
   \ 1/4-inch pieces\n2 tablespoons any combination of finely chopped fresh parsley,\
@@ -20,18 +20,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Salad-E Shirazi (Persian Cucumber, Tomato and Onion Salad)
-p_recipe_id: 83
+p_recipe_id: 190
 permalink: /recipes/salad-e-shirazi-persian-cucumber-tomato-and-onion-salad
 photo_large: null
 photo_thumb: salad-e-shirazi-persian-cucumber-tomato-and-onion-salad-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: Yield 6 to 8 servings
 slug: salad-e-shirazi-persian-cucumber-tomato-and-onion-salad
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1020212-salad-e-shirazi-persian-cucumber-tomato-and-onion-salad?module=Recipe+of+The+Day&pgType=homepage&action=click
-total_time: null
+total_time: ''
 type: null
 uid: 2E1ADC94-5666-4B67-A11B-D71BC42DEA96-1358-00013185CA128127
 ---

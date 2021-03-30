@@ -4,8 +4,8 @@ filename: "pan-seared-bison-ny-strip-steaks-with-red-wine-sauce"
 categories:
 - Bison
 cook_time: 45 mins
-created: '2020-03-21 07:57:36'
-created_ts: 1584777456
+created: '2020-03-21 20:57:36'
+created_ts: 1584824256
 description: null
 difficulty: null
 image_url: https://highplainsbison.com/wp-content/uploads/2017/06/HPBPlaceHolder-457x300.png
@@ -17,7 +17,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Pan Seared Bison Ny Strip Steaks with Red Wine Sauce
-p_recipe_id: 241
+p_recipe_id: 60
 permalink: /recipes/pan-seared-bison-ny-strip-steaks-with-red-wine-sauce
 photo_large: null
 photo_thumb: pan-seared-bison-ny-strip-steaks-with-red-wine-sauce-thumb.jpg

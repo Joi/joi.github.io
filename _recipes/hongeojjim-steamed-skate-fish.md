@@ -4,8 +4,8 @@ filename: "hongeojjim-steamed-skate-fish"
 categories:
 - Skate Wings
 cook_time: null
-created: '2021-01-18 22:47:22'
-created_ts: 1611010042
+created: '2021-01-19 12:47:22'
+created_ts: 1611060442
 description: null
 difficulty: null
 image_url: https://www.koreanbapsang.com/wp-content/uploads/2017/02/DSC_1847-e1486346972772-640x428.jpg
@@ -19,11 +19,11 @@ ingredients: "1 skate wing hongeo \uD64D\uC5B4 (about 3/4 to 1-1/4 pounds)\nsalt
   \ and thinly sliced (pachae, \uD30C\uCC44)\nor a handful of spring mix or arugula"
 intrash: 0
 meal_dates:
-- '2021-01-18'
+- '2021-01-19'
 meal_types: '3'
 mine: null
 name: Hongeojjim (Steamed Skate Fish)
-p_recipe_id: 441
+p_recipe_id: 451
 permalink: /recipes/hongeojjim-steamed-skate-fish
 photo_large: null
 photo_thumb: hongeojjim-steamed-skate-fish-thumb.jpg

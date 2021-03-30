@@ -5,8 +5,8 @@ categories:
 - Grill
 - Chicken
 cook_time: 2 hours
-created: '2020-02-03 01:01:29'
-created_ts: 1580691689
+created: '2020-02-03 15:01:29'
+created_ts: 1580742089
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_GrillRoastedWholeChicken_72_cl3poy
@@ -18,7 +18,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Easy Grill-Roasted Whole Chicken
-p_recipe_id: 122
+p_recipe_id: 12
 permalink: /recipes/easy-grill-roasted-whole-chicken
 photo_large: null
 photo_thumb: easy-grill-roasted-whole-chicken-thumb.jpg

@@ -3,11 +3,11 @@ title: "Boiled Corn"
 filename: "boiled-corn"
 categories:
 - Corn
-cook_time: null
-created: '2020-07-15 06:37:22'
-created_ts: 1594795042
+cook_time: ''
+created: '2020-07-15 19:37:22'
+created_ts: 1594841842
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: 'Corn
 
@@ -21,19 +21,19 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Boiled Corn
-p_recipe_id: 68
+p_recipe_id: 254
 permalink: /recipes/boiled-corn
 photo_large: boiled-corn-large.jpg
 photo_thumb: boiled-corn-thumb.jpg
 photos_dict:
   '1': boiled-corn-1.jpg
-prep_time: null
+prep_time: ''
 rating: 5
-servings: null
+servings: ''
 slug: boiled-corn
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: 23FE81EA-D7B3-4C76-BDFE-07336D41F990-29053-0004B181B996F693
 ---

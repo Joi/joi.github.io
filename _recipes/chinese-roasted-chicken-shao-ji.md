@@ -4,8 +4,8 @@ filename: "chinese-roasted-chicken-shao-ji"
 categories:
 - Chicken
 cook_time: 1 hr
-created: '2020-12-28 06:09:05'
-created_ts: 1609135745
+created: '2020-12-28 20:09:05'
+created_ts: 1609186145
 description: null
 difficulty: null
 image_url: https://www.chinasichuanfood.com/wp-content/uploads/2017/03/Chinese-roasted-Chicken-3-copy-300x450.jpg
@@ -34,11 +34,11 @@ ingredients: '1 chicken (around 1 kg )
   1/2 tsp. five spice powder'
 intrash: 0
 meal_dates:
-- '2020-12-31'
+- '2021-01-01'
 meal_types: '3'
 mine: null
 name: "Chinese Roasted Chicken (\u70E7\u9E21)"
-p_recipe_id: 349
+p_recipe_id: 441
 permalink: /recipes/chinese-roasted-chicken-shao-ji
 photo_large: null
 photo_thumb: chinese-roasted-chicken-shao-ji-thumb.jpg

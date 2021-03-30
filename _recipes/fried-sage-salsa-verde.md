@@ -3,11 +3,11 @@ title: "Fried Sage Salsa Verde"
 filename: "fried-sage-salsa-verde"
 categories:
 - Sauce
-cook_time: null
-created: '2020-07-15 03:45:13'
-created_ts: 1594784713
+cook_time: ''
+created: '2020-07-15 16:45:13'
+created_ts: 1594831513
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: 'Basic Salsa Verde
 
@@ -19,18 +19,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Fried Sage Salsa Verde
-p_recipe_id: 309
+p_recipe_id: 252
 permalink: /recipes/fried-sage-salsa-verde
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
-servings: null
+servings: ''
 slug: fried-sage-salsa-verde
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: AEB4BC7F-C507-498F-AD56-F3F1EA6A1CED-14775-000009F4FCAEEA00
 ---

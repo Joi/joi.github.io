@@ -2,13 +2,13 @@
 title: "Lion's Head Meatballs with Chinese Cabbage"
 filename: "lions-head-meatballs-with-chinese-cabbage"
 categories:
-- Napa Cabbage
 - Soup
+- Napa Cabbage
 cook_time: 30 mins
-created: '2020-07-27 06:25:43'
-created_ts: 1595831143
-description: null
-difficulty: null
+created: '2020-07-27 19:25:43'
+created_ts: 1595877943
+description: ''
+difficulty: ''
 image_url: https://www.thespruceeats.com/thmb/3qL0yBdwEvOBvP_iSf1g6xybv_M=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-469503583-e179f0d618994c59810613d114030437.jpg
 ingredients: '1 pound bok choy, Peking cabbage ( Napa cabbage or spinach leaves)
 
@@ -42,7 +42,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Lion's Head Meatballs with Chinese Cabbage
-p_recipe_id: 216
+p_recipe_id: 278
 permalink: /recipes/lions-head-meatballs-with-chinese-cabbage
 photo_large: null
 photo_thumb: lions-head-meatballs-with-chinese-cabbage-thumb.jpg
@@ -53,7 +53,7 @@ servings: 'Yield: 4 meatballs'
 slug: lions-head-meatballs-with-chinese-cabbage
 source: thespruceeats.com
 source_url: https://www.thespruceeats.com/lions-head-meatballs-694835
-total_time: null
+total_time: ''
 type: null
 uid: 7A341D31-7135-4A04-AAAA-95CA531D0BC6-2209-0001E6123B198A97
 ---

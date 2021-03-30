@@ -4,8 +4,8 @@ filename: "jim-laheys-no-knead-whole-wheat-bread"
 categories:
 - Bread and Biscuits
 cook_time: 1 h
-created: '2020-04-21 04:20:15'
-created_ts: 1587442815
+created: '2020-04-21 17:20:15'
+created_ts: 1587489615
 description: null
 difficulty: null
 image_url: https://s23991.pcdn.co/wp-content/uploads/2009/10/jim-lahey-no-knead-whole-wheat-bread.jpg
@@ -15,11 +15,11 @@ ingredients: "2 1/4 cups bread flour, plus more for the work surface\n3/4 cup wh
   \ or additional flour, for dusting"
 intrash: 0
 meal_dates:
-- '2020-04-25'
+- '2020-04-26'
 meal_types: '4'
 mine: null
 name: Jim Lahey's No-Knead Whole-Wheat Bread
-p_recipe_id: 173
+p_recipe_id: 119
 permalink: /recipes/jim-laheys-no-knead-whole-wheat-bread
 photo_large: null
 photo_thumb: jim-laheys-no-knead-whole-wheat-bread-thumb.jpg

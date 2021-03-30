@@ -4,8 +4,8 @@ filename: "classic-minestrone-with-rice-or-pasta"
 categories:
 - Soup
 cook_time: null
-created: '2020-02-02 01:13:01'
-created_ts: 1580605981
+created: '2020-02-02 15:13:01'
+created_ts: 1580656381
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/3283_s098-classic-minestrone-article
@@ -27,7 +27,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Classic Minestrone with Rice or Pasta
-p_recipe_id: 130
+p_recipe_id: 14
 permalink: /recipes/classic-minestrone-with-rice-or-pasta
 photo_large: null
 photo_thumb: classic-minestrone-with-rice-or-pasta-thumb.jpg

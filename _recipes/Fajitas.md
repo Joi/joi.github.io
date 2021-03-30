@@ -4,8 +4,8 @@ filename: "fajitas"
 categories:
 - Flat Iron
 cook_time: null
-created: '2020-08-19 00:14:12'
-created_ts: 1597796052
+created: '2020-08-19 13:14:12'
+created_ts: 1597842852
 description: null
 difficulty: null
 image_url: null
@@ -22,11 +22,11 @@ ingredients: "\xBD cup soy sauce\r\xBD cup lime juice (from 6 to 8 limes)\r\xBD 
   \ cheese, and salsa, for serving, if desired"
 intrash: 0
 meal_dates:
-- '2020-08-18'
+- '2020-08-19'
 meal_types: '3'
 mine: null
 name: Fajitas
-p_recipe_id: 6
+p_recipe_id: 314
 permalink: /recipes/fajitas
 photo_large: fajitas-large.jpg
 photo_thumb: fajitas-thumb.jpg

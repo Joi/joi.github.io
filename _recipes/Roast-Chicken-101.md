@@ -4,8 +4,8 @@ filename: "roast-chicken-101"
 categories:
 - Chicken
 cook_time: 02:10
-created: '2020-12-31 23:17:41'
-created_ts: 1609456661
+created: '2021-01-01 13:17:41'
+created_ts: 1609507061
 description: null
 difficulty: null
 image_url: https://res.cloudinary.com/anova-applied-electronics/image/upload/w_517,h_327,c_fit,f_auto,q_auto,dpr_2.0,/f_auto/v1/production/6t9l6mw68ygk6t5zx5p2xc6quuqs
@@ -20,12 +20,12 @@ ingredients: '1 whole Chicken
   2 Tbsp High smoke point oil, like grapeseed'
 intrash: 0
 meal_dates:
-- '2020-12-31'
-- '2021-03-03'
+- '2021-01-01'
+- '2021-03-04'
 meal_types: 3|3
 mine: null
 name: Roast Chicken 101
-p_recipe_id: 280
+p_recipe_id: 444
 permalink: /recipes/roast-chicken-101
 photo_large: null
 photo_thumb: roast-chicken-101-thumb.jpg

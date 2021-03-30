@@ -2,13 +2,13 @@
 title: "Pan-Seared Bison Tenderloin with Herb Butter"
 filename: "pan-seared-bison-tenderloin-with-herb-butter"
 categories:
-- Bison
 - Duck
-cook_time: null
-created: '2020-03-21 07:33:48'
-created_ts: 1584776028
-description: null
-difficulty: null
+- Bison
+cook_time: ''
+created: '2020-03-21 20:33:48'
+created_ts: 1584822828
+description: ''
+difficulty: ''
 image_url: https://www.saveur.com/resizer/_rKOcmn0iOzf425m8-CIxJtq2u8=/250x250/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/Y56RXRQETVHJG5NA4NEQA3DJ3M.jpg
 ingredients: 'For the Herb Butter:
 
@@ -40,18 +40,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Pan-Seared Bison Tenderloin with Herb Butter
-p_recipe_id: 189
+p_recipe_id: 58
 permalink: /recipes/pan-seared-bison-tenderloin-with-herb-butter
 photo_large: null
 photo_thumb: pan-seared-bison-tenderloin-with-herb-butter-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: Serves 4
 slug: pan-seared-bison-tenderloin-with-herb-butter
 source: saveur.com
 source_url: https://www.saveur.com/article/Recipes/Pan-Seared-Bison-Tenderloin-with-Herb-Butter/
-total_time: null
+total_time: ''
 type: null
 uid: 6A43E36F-3E33-4EA1-AC64-18B3BB15B24A-9067-0001DB950AEE30A7
 ---

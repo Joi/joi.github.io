@@ -4,8 +4,8 @@ filename: "slow-cooker-chinese-pulled-pork"
 categories:
 - Pork Shoulder
 cook_time: 4 hours
-created: '2020-10-23 21:48:20'
-created_ts: 1603489700
+created: '2020-10-24 10:48:20'
+created_ts: 1603536500
 description: null
 difficulty: null
 image_url: https://www.simplyrecipes.com/wp-content/uploads/2016/10/slow-cooker-chinese-pulled-pork-vertical-a-1600-600x900.jpg
@@ -34,7 +34,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Slow Cooker Chinese Pulled Pork
-p_recipe_id: 11
+p_recipe_id: 394
 permalink: /recipes/slow-cooker-chinese-pulled-pork
 photo_large: null
 photo_thumb: slow-cooker-chinese-pulled-pork-thumb.jpg

@@ -2,14 +2,14 @@
 title: "Sorrel Sauce for Fish a Lá Troigros"
 filename: "sorrel-sauce-for-fish-a-la-troigros"
 categories:
-- White Fish
-- Salmon
 - Fish
-cook_time: null
-created: '2020-04-16 01:02:52'
-created_ts: 1586998972
-description: null
-difficulty: null
+- Salmon
+- White Fish
+cook_time: ''
+created: '2020-04-16 14:02:52'
+created_ts: 1587045772
+description: ''
+difficulty: ''
 image_url: null
 ingredients: "1 medium bunch sorrel (around 4-ounces by weight), stems removed gently\
   \ with a knife (pulling the stems as for kale will bruise the sorrel and discolor\
@@ -24,22 +24,22 @@ ingredients: "1 medium bunch sorrel (around 4-ounces by weight), stems removed g
   \ as needed"
 intrash: 0
 meal_dates:
-- '2020-04-15'
+- '2020-04-16'
 meal_types: '3'
 mine: null
 name: "Sorrel Sauce for Fish a L\xE1 Troigros"
-p_recipe_id: 434
+p_recipe_id: 107
 permalink: /recipes/sorrel-sauce-for-fish-a-la-troigros
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 5
 servings: 'Yield: enough for 4 or more'
 slug: sorrel-sauce-for-fish-a-la-troigros
 source: highgroundorganics.com
 source_url: https://www.highgroundorganics.com/recipes/sorrel-sauce-for-fish-a-la-troigros/
-total_time: null
+total_time: ''
 type: null
 uid: F5D3EF55-3CE9-43ED-B3F8-21D291360B88-2334-0001D2B7AB462ECC
 ---

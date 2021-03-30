@@ -3,11 +3,11 @@ title: "Homemade Ponzu Sauce Recipe"
 filename: "homemade-ponzu-sauce-recipe"
 categories:
 - Sauce
-cook_time: null
-created: '2020-06-25 22:11:46'
-created_ts: 1593123106
+cook_time: ''
+created: '2020-06-26 11:11:46'
+created_ts: 1593169906
 description: null
-difficulty: null
+difficulty: ''
 image_url: https://nitrocdn.com/KQYMGOLIdXGmoAcyJsPOrQDKktgCbwtG/assets/static/optimized/rev-48c1fb9/wp-content/uploads/2017/10/Ponzu-Sauce-II-366x550.jpg
 ingredients: "\xBD cup soy sauce\n\xBD cup citrus juice (See Notes: I love the mixture\
   \ of 6 Tbsp lemon juice + 2 Tbsp orange juice)\nlemon zest from one lemon\n2 Tbsp\
@@ -15,11 +15,11 @@ ingredients: "\xBD cup soy sauce\n\xBD cup citrus juice (See Notes: I love the m
   \ flakes) (packed; 6 g)\n1 piece kombu (dried kelp) (2\" x 3\" strip; 6 g)"
 intrash: 0
 meal_dates:
-- '2020-06-25'
+- '2020-06-26'
 meal_types: '4'
 mine: null
 name: Homemade Ponzu Sauce Recipe
-p_recipe_id: 4
+p_recipe_id: 205
 permalink: /recipes/homemade-ponzu-sauce-recipe
 photo_large: null
 photo_thumb: homemade-ponzu-sauce-recipe-thumb.jpg
@@ -30,7 +30,7 @@ servings: 'Servings: 1 cup'
 slug: homemade-ponzu-sauce-recipe
 source: justonecookbook.com
 source_url: https://www.justonecookbook.com/ponzu-sauce/
-total_time: null
+total_time: ''
 type: null
 uid: 01709B11-ED19-453F-851F-0DB48598E545-533-0000001E0CEE2435
 ---

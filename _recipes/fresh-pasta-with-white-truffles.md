@@ -4,8 +4,8 @@ filename: "fresh-pasta-with-white-truffles"
 categories:
 - Truffles
 cook_time: 10 minutes
-created: '2020-11-17 22:53:31'
-created_ts: 1605653611
+created: '2020-11-18 12:53:31'
+created_ts: 1605704011
 description: null
 difficulty: null
 image_url: https://www.italianfoodforever.com/wp-content/uploads/2013/10/whitetrufflepasta2-200x200.jpg
@@ -27,7 +27,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Fresh Pasta with White Truffles
-p_recipe_id: 87
+p_recipe_id: 409
 permalink: /recipes/fresh-pasta-with-white-truffles
 photo_large: null
 photo_thumb: fresh-pasta-with-white-truffles-thumb.jpg

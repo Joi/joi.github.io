@@ -4,10 +4,10 @@ filename: "four-cheese-macaroni-and-cheese"
 categories:
 - Kio
 cook_time: 1 hour
-created: '2020-05-04 05:48:51'
-created_ts: 1588571331
-description: null
-difficulty: null
+created: '2020-05-04 18:48:51'
+created_ts: 1588618131
+description: ''
+difficulty: ''
 image_url: https://static01.nyt.com/images/2013/03/27/dining/27APPE/27APPE-articleLarge.jpg
 ingredients: "Unsalted butter, as needed\nKosher salt, as needed\n1 pound pasta, such\
   \ as farfalle, macaroni or shells\n6 ounces Brie, rind removed and cheese cut into\
@@ -19,18 +19,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Four-Cheese Macaroni and Cheese
-p_recipe_id: 254
+p_recipe_id: 135
 permalink: /recipes/four-cheese-macaroni-and-cheese
 photo_large: null
 photo_thumb: four-cheese-macaroni-and-cheese-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: Yield 6 to 8 servings
 slug: four-cheese-macaroni-and-cheese
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1014635-four-cheese-macaroni-and-cheese?action=click&module=Collection%20Page%20Recipe%20Card&region=Amazing%20Ways%20to%20Do%20Macaroni%20and%20Cheese&pgType=collection&rank=12
-total_time: null
+total_time: ''
 type: null
 uid: 8D936D6B-C75D-4807-8767-3A5464726736-39436-00014015E3513A27
 ---

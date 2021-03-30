@@ -4,8 +4,8 @@ filename: "indian-chicken-curry-ii"
 categories:
 - Chicken
 cook_time: 25 mins
-created: '2020-04-19 07:14:26'
-created_ts: 1587280466
+created: '2020-04-19 20:14:26'
+created_ts: 1587327266
 description: null
 difficulty: null
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F111308.jpg&w=343&h=343&c=sc&poi=face&q=85
@@ -17,12 +17,12 @@ ingredients: "3 tablespoons olive oil\n1 small onion, chopped\n2 cloves garlic, 
   \ juiced\n\xBD teaspoon cayenne pepper"
 intrash: 0
 meal_dates:
-- '2020-06-30'
-- '2020-04-18'
+- '2020-04-19'
+- '2020-07-01'
 meal_types: 3|3
 mine: null
 name: Indian Chicken Curry II
-p_recipe_id: 301
+p_recipe_id: 117
 permalink: /recipes/indian-chicken-curry-ii
 photo_large: null
 photo_thumb: indian-chicken-curry-ii-thumb.jpg

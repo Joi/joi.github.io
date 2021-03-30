@@ -3,9 +3,9 @@ title: "Chicken with Vinegar"
 filename: "chicken-with-vinegar"
 categories:
 - Chicken
-cook_time: null
-created: '2020-12-25 02:05:48'
-created_ts: 1608861948
+cook_time: ''
+created: '2020-12-25 16:05:48'
+created_ts: 1608912348
 description: 'Based on recipe from Salt, Fat, Acid, Heat. Staged cooking of chicken
   parts inspired by [Cook''s Illustrated''s Braised Chicken with Basil and Tomato
   recipe](https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato).
@@ -24,7 +24,7 @@ description: 'Based on recipe from Salt, Fat, Acid, Heat. Staged cooking of chic
 
   Also, the skin slows down the temperature transmission when the skin is down and
   the pot is on the stove.'
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "Whole chicken\nSalt\nBlack pepper\n\xBD cup all-purpose flour\nExtra-virgin\
   \ olive oil\n3 tbsp unsalted butter\n2 medium onions, thinly sliced\n\xBE cup dry\
@@ -32,26 +32,26 @@ ingredients: "Whole chicken\nSalt\nBlack pepper\n\xBD cup all-purpose flour\nExt
   \xBD cup heavy cream"
 intrash: 0
 meal_dates:
-- '2021-01-13'
-- '2020-12-23'
-- '2021-02-23'
+- '2020-12-24'
+- '2021-01-14'
+- '2021-02-24'
 meal_types: 3|3|3
 mine: 1
 name: Chicken with Vinegar
-p_recipe_id: 303
+p_recipe_id: 436
 permalink: /recipes/chicken-with-vinegar
 photo_large: chicken-with-vinegar-large.jpg
 photo_thumb: chicken-with-vinegar-thumb.jpg
 photos_dict:
   '1': chicken-with-vinegar-1.jpg
   '3': chicken-with-vinegar-3.jpg
-prep_time: null
+prep_time: ''
 rating: 5
-servings: null
+servings: ''
 slug: chicken-with-vinegar
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: AB5344FC-BAB3-4231-B60A-1D06DACA40E4-51240-0001496E91E6A8C5
 ---

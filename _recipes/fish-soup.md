@@ -2,13 +2,13 @@
 title: "Fish Soup"
 filename: "fish-soup"
 categories:
-- White Fish
 - Fish
+- White Fish
 cook_time: 1 hour
-created: '2020-04-11 00:29:31'
-created_ts: 1586564971
-description: null
-difficulty: null
+created: '2020-04-11 13:29:31'
+created_ts: 1586611771
+description: ''
+difficulty: ''
 image_url: https://static01.nyt.com/images/2015/04/29/dining/fish-soup/fish-soup-articleLarge.jpg
 ingredients: "\xBD pound shrimp, with shells on\n\xBD pound squid, cleaned\n\xBD pound\
   \ halibut\n1 piece monkfish (about 1/2 pound)\nLemon juice\n2 tablespoons parsley\n\
@@ -23,18 +23,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Fish Soup
-p_recipe_id: 102
+p_recipe_id: 99
 permalink: /recipes/fish-soup
 photo_large: null
 photo_thumb: fish-soup-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 0
 servings: Yield 4 servings
 slug: fish-soup
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/9045-fish-soup?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-total_time: null
+total_time: ''
 type: null
 uid: 36CDB17B-2DC4-42F1-9525-1DA86A3D90D8-53878-00004806E578D2B2
 ---

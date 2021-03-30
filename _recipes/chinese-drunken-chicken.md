@@ -4,8 +4,8 @@ filename: "chinese-drunken-chicken"
 categories:
 - Chicken
 cook_time: 1 hr 25 mins
-created: '2020-09-29 22:31:29'
-created_ts: 1601418689
+created: '2020-09-30 11:31:29'
+created_ts: 1601465489
 description: null
 difficulty: null
 image_url: https://thewoksoflife.com/wp-content/uploads/2015/03/drunken-chicken-1-201x300.jpg
@@ -16,11 +16,11 @@ ingredients: "For Stage 1: Preparing the Chicken & Stock\n2 chicken leg quarters
   \ sea salt\n1 tablespoon dried goji berries/wolfberries"
 intrash: 0
 meal_dates:
-- '2020-09-30'
+- '2020-10-01'
 meal_types: '3'
 mine: null
 name: Chinese Drunken Chicken
-p_recipe_id: 332
+p_recipe_id: 374
 permalink: /recipes/chinese-drunken-chicken
 photo_large: null
 photo_thumb: chinese-drunken-chicken-thumb.jpg

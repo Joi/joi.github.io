@@ -4,10 +4,10 @@ filename: "grilled-salmon-fillets"
 categories:
 - Salmon
 cook_time: 30 minutes
-created: '2020-08-11 01:23:14'
-created_ts: 1597108994
-description: null
-difficulty: null
+created: '2020-08-11 14:23:14'
+created_ts: 1597155794
+description: ''
+difficulty: ''
 image_url: https://www.seriouseats.com/2019/07/20190620-grilled-salmon-vicky-wasik-8-750x563.jpg
 ingredients: '4 center-cut skin-on salmon fillets, about 6 to 8 ounces (170 to 225g)
 
@@ -18,11 +18,11 @@ ingredients: '4 center-cut skin-on salmon fillets, about 6 to 8 ounces (170 to 2
   Freshly ground black pepper (optional; see note)'
 intrash: 0
 meal_dates:
-- '2020-08-10'
+- '2020-08-11'
 meal_types: '3'
 mine: null
 name: Grilled Salmon Fillets
-p_recipe_id: 424
+p_recipe_id: 301
 permalink: /recipes/grilled-salmon-fillets
 photo_large: null
 photo_thumb: grilled-salmon-fillets-thumb.jpg
@@ -33,7 +33,7 @@ servings: Serves 4
 slug: grilled-salmon-fillets
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2019/08/grilled-salmon-fillets.html
-total_time: null
+total_time: ''
 type: null
 uid: ECEB2E21-BAF4-43BE-BA05-7BDB49CE368C-1060-0002A2EAE1473466
 ---

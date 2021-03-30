@@ -4,10 +4,10 @@ filename: "silky-ginger-sweet-potato-soup"
 categories:
 - Sweet Potato
 cook_time: 1 hr
-created: '2020-07-01 11:31:50'
-created_ts: 1593603110
+created: '2020-07-02 00:31:50'
+created_ts: 1593649910
 description: null
-difficulty: null
+difficulty: ''
 image_url: https://www.howsweeteats.com/wp-content/uploads/2018/01/sweet-potato-ginger-soup-I-howsweeteats.com-6-660x857.jpg
 ingredients: '2 tablespoons coconut oil
 
@@ -34,22 +34,22 @@ ingredients: '2 tablespoons coconut oil
   extra coconut milk or cream for drizzling'
 intrash: 0
 meal_dates:
-- '2020-07-01'
+- '2020-07-02'
 meal_types: '3'
 mine: null
 name: Silky Ginger Sweet Potato Soup
-p_recipe_id: 423
+p_recipe_id: 220
 permalink: /recipes/silky-ginger-sweet-potato-soup
 photo_large: null
 photo_thumb: silky-ginger-sweet-potato-soup-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 5
 servings: 'Yield: 4'
 slug: silky-ginger-sweet-potato-soup
 source: howsweeteats.com
 source_url: https://www.howsweeteats.com/2018/01/sweet-potato-soup-ginger/
-total_time: null
+total_time: ''
 type: null
 uid: ECE2D7FE-A2D1-47B2-94F2-69E75CFBD8C2-17048-000007F9F43C38A5
 ---

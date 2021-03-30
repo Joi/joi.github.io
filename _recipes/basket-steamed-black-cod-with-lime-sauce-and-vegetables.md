@@ -4,8 +4,8 @@ filename: "basket-steamed-black-cod-with-lime-sauce-and-vegetables"
 categories:
 - Black Cod
 cook_time: 10 mins
-created: '2020-11-12 23:13:52'
-created_ts: 1605222832
+created: '2020-11-13 13:13:52'
+created_ts: 1605273232
 description: null
 difficulty: Easy
 image_url: https://somethingnewfordinner.com/wp-content/uploads/2012/11/BasketSteamedBlackCod-800x800.jpg
@@ -24,7 +24,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Basket-Steamed Black Cod with Lime Sauce and Vegetables
-p_recipe_id: 44
+p_recipe_id: 408
 permalink: /recipes/basket-steamed-black-cod-with-lime-sauce-and-vegetables
 photo_large: null
 photo_thumb: basket-steamed-black-cod-with-lime-sauce-and-vegetables-thumb.jpg

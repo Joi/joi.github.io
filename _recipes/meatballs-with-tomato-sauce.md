@@ -2,13 +2,13 @@
 title: "Meatballs with Tomato Sauce"
 filename: "meatballs-with-tomato-sauce"
 categories:
-- Ground Beef
 - Beef
 - Italian
 - Meat
+- Ground Beef
 cook_time: 45min
-created: '2020-02-01 22:32:26'
-created_ts: 1580596346
+created: '2020-02-02 12:32:26'
+created_ts: 1580646746
 description: null
 difficulty: Easy
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/97ABE58E-7379-419A-97BA-FB46A6645E4B/Derivates/677299E1-58CB-4D0B-88A9-03169298370B.jpg
@@ -23,7 +23,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Meatballs with Tomato Sauce
-p_recipe_id: 163
+p_recipe_id: 17
 permalink: /recipes/meatballs-with-tomato-sauce
 photo_large: null
 photo_thumb: meatballs-with-tomato-sauce-thumb.jpg

@@ -2,12 +2,12 @@
 title: "Hamburger Stroganoff Skillet"
 filename: "hamburger-stroganoff-skillet"
 categories:
-- Sauce
-- Ground Beef
 - Pasta
+- Ground Beef
+- Sauce
 cook_time: 1 hr
-created: '2020-12-26 00:58:34'
-created_ts: 1608944314
+created: '2020-12-26 14:58:34'
+created_ts: 1608994714
 description: null
 difficulty: null
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/3/30/0/LS-Library_Hamburger-Stroganoff-Skillet_s4x3.jpg.rend.hgtvcom.826.620.suffix/1522443802058.jpeg
@@ -47,7 +47,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Hamburger Stroganoff Skillet
-p_recipe_id: 29
+p_recipe_id: 437
 permalink: /recipes/hamburger-stroganoff-skillet
 photo_large: null
 photo_thumb: hamburger-stroganoff-skillet-thumb.jpg

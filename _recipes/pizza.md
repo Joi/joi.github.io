@@ -4,8 +4,8 @@ filename: "pizza"
 categories:
 - Italian
 cook_time: ''
-created: '2021-02-04 02:00:56'
-created_ts: 1612404056
+created: '2021-02-04 16:00:56'
+created_ts: 1612454456
 description: Dough is based on _24- to 48-Hour Pizza Dough_ from p. 119 of _The Elements
   of Pizza_ by Ken Forkish. Sauce is based on the _FWSY Sauce_ from the same book
   on p. 146.
@@ -19,14 +19,14 @@ ingredients: "**Dough**\n\n350 g water\n17 g kosher salt\n1.5 g Instant dried ye
   Pepperoni (optional)\nDried oregano (optional)"
 intrash: 0
 meal_dates:
-- '2021-01-30'
-- '2021-02-02'
-- '2021-02-10'
-- '2021-03-27'
+- '2021-03-28'
+- '2021-02-11'
+- '2021-02-03'
+- '2021-01-31'
 meal_types: 2|2|2|2
 mine: 1
 name: Pizza
-p_recipe_id: 290
+p_recipe_id: 469
 permalink: /recipes/pizza
 photo_large: pizza-large.jpg
 photo_thumb: pizza-thumb.jpg

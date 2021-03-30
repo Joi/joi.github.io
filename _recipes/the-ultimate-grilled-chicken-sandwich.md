@@ -4,8 +4,8 @@ filename: "the-ultimate-grilled-chicken-sandwich"
 categories:
 - Chicken
 cook_time: 20 mins
-created: '2020-10-02 22:25:36'
-created_ts: 1601677536
+created: '2020-10-03 11:25:36'
+created_ts: 1601724336
 description: null
 difficulty: null
 image_url: https://www.askchefdennis.com/wp-content/uploads/2020/05/ultimate-grilled-chicken-sandwich-10.jpg
@@ -21,11 +21,11 @@ ingredients: "16 ounces boneless skinless chicken breasts 4 ounce each\n1 tables
   \ hamburger buns or your favorite hamburger bun"
 intrash: 0
 meal_dates:
-- '2020-10-02'
+- '2020-10-03'
 meal_types: '3'
 mine: null
 name: The Ultimate Grilled Chicken Sandwich
-p_recipe_id: 164
+p_recipe_id: 375
 permalink: /recipes/the-ultimate-grilled-chicken-sandwich
 photo_large: null
 photo_thumb: the-ultimate-grilled-chicken-sandwich-thumb.jpg

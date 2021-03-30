@@ -3,11 +3,11 @@ title: "Classic Caesar Salad"
 filename: "classic-caesar-salad"
 categories:
 - Salad
-cook_time: null
-created: '2020-08-11 05:05:09'
-created_ts: 1597122309
-description: null
-difficulty: null
+cook_time: ''
+created: '2020-08-11 18:05:09'
+created_ts: 1597169109
+description: ''
+difficulty: ''
 image_url: https://assets.bonappetit.com/photos/57ae12ef53e63daf11a4e1d6/16:9/w_1880,c_limit/BA-best-classic-caeser-salad.jpg
 ingredients: "The Dressing:\n6 anchovy fillets packed in oil, drained\n1 small garlic\
   \ clove\nKosher salt\n2 large egg yolks\n2 tablespoons fresh lemon juice, plus more\n\
@@ -17,23 +17,23 @@ ingredients: "The Dressing:\n6 anchovy fillets packed in oil, drained\n1 small g
   \ Lettuce:\n3 romaine hearts, leaves separated\nThe Cheese:\nParmesan, for serving"
 intrash: 0
 meal_dates:
-- '2021-01-01'
-- '2020-08-10'
+- '2020-08-11'
+- '2021-01-02'
 meal_types: 3|3
 mine: null
 name: Classic Caesar Salad
-p_recipe_id: 293
+p_recipe_id: 302
 permalink: /recipes/classic-caesar-salad
 photo_large: null
 photo_thumb: classic-caesar-salad-thumb.jpg
 photos_dict: null
-prep_time: null
+prep_time: ''
 rating: 5
 servings: 6 servings
 slug: classic-caesar-salad
 source: bonappetit.com
 source_url: https://www.bonappetit.com/recipe/classic-caesar-salad
-total_time: null
+total_time: ''
 type: null
 uid: A4154EF4-77BC-4CC2-AD86-57C0D9DA6EE5-1060-0002AF06087A9657
 ---

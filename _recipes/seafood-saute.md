@@ -4,10 +4,10 @@ filename: "seafood-saute"
 categories:
 - Seafood
 cook_time: 5 mins
-created: '2020-09-12 06:36:47'
-created_ts: 1599892607
-description: null
-difficulty: null
+created: '2020-09-12 19:36:47'
+created_ts: 1599939407
+description: ''
+difficulty: ''
 image_url: https://healthyrecipesblogs.com/wp-content/uploads/2016/03/seafood-saute1-300x200.jpg
 ingredients: '2 lb. frozen mixed seafood*
 
@@ -31,18 +31,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Seafood Saute
-p_recipe_id: 72
+p_recipe_id: 351
 permalink: /recipes/seafood-saute
 photo_large: null
 photo_thumb: seafood-saute-thumb.jpg
 photos_dict: null
 prep_time: 15 mins
 rating: 0
-servings: null
+servings: ''
 slug: seafood-saute
 source: healthyrecipesblogs.com
 source_url: https://healthyrecipesblogs.com/seafood-saute/
-total_time: null
+total_time: ''
 type: null
 uid: 2545CB6B-7EEA-46C3-97F4-485CEBBFBB71-50715-0008F838B37D34F1
 ---

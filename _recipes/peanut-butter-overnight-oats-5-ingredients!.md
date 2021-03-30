@@ -4,10 +4,10 @@ filename: "peanut-butter-overnight-oats-5-ingredients!"
 categories:
 - Oats
 cook_time: 6 hours 5 minutes
-created: '2020-03-21 10:56:28'
-created_ts: 1584788188
+created: '2020-03-21 23:56:28'
+created_ts: 1584834988
 description: null
-difficulty: null
+difficulty: ''
 image_url: https://minimalistbaker.com/wp-content/uploads/2015/07/SIMPLE-AMAZING-Peanut-Butter-Overnight-Oats-Just-5-ingredients-5-minutes-prep-and-SO-delicious-vegan-recipe-glutenfree-meal-breakfast-oats-oatmeal-680x1050.jpg
 ingredients: 'OATS
 
@@ -33,18 +33,18 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Peanut Butter Overnight Oats (5 Ingredients!)
-p_recipe_id: 36
+p_recipe_id: 61
 permalink: /recipes/peanut-butter-overnight-oats-5-ingredients!
 photo_large: null
 photo_thumb: peanut-butter-overnight-oats-5-ingredients!-thumb.jpg
 photos_dict: null
 prep_time: 6 hours 5 minutes
 rating: 0
-servings: null
+servings: ''
 slug: peanut-butter-overnight-oats-5-ingredients!
 source: minimalistbaker.com
 source_url: https://minimalistbaker.com/peanut-butter-overnight-oats/
-total_time: null
+total_time: ''
 type: null
 uid: 119E1982-6FAB-46AD-8A8B-D8945845E767-9255-00001EFB8739A000
 ---

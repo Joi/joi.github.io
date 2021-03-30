@@ -4,8 +4,8 @@ filename: "vinaigarette"
 categories:
 - Salad
 cook_time: null
-created: '2020-07-23 00:02:18'
-created_ts: 1595462538
+created: '2020-07-23 13:02:18'
+created_ts: 1595509338
 description: null
 difficulty: null
 image_url: null
@@ -16,7 +16,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Vinaigarette
-p_recipe_id: 57
+p_recipe_id: 272
 permalink: /recipes/vinaigarette
 photo_large: null
 photo_thumb: null

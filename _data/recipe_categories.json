@@ -253,6 +253,7 @@
   "fish-soup": "Fish Soup",
   "four-spice-salmon": "Four-Spice Salmon",
   "garlic-butter-fish": "Garlic Butter Fish",
+  "grill-smoked-fish": "Grill Smoked Fish",
   "halibut-and-veggie-foil-packet": "Halibut and Veggie Foil Packet",
   "italian-style-fish-stew": "Italian-Style Fish Stew",
   "mark-bittmans-bouillabaisse": "Mark Bittman’s Bouillabaisse",
@@ -841,6 +842,7 @@
   "chicken-with-vinegar": "Chicken with Vinegar",
   "ginisang-pechay-with-ground-pork-and-shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
   "ginisang-pechay-with-tofu": "Ginisang Pechay with Tofu",
+  "grill-smoked-fish": "Grill Smoked Fish",
   "japanese-fried-chicken-karaage": "Japanese fried chicken - karaage",
   "kanitama": "Kanitama",
   "kohlrabi-soup": "Kohlrabi Soup",
@@ -861,6 +863,7 @@
   "tuna-tataki-with-lime-ginger-and-jalapeno": "Tuna Tataki with Lime, Ginger and Jalapeño"
  },
  "_stub": {
+  "grill-smoked-fish": "Grill Smoked Fish",
   "seared-wagyu": "Seared Wagyu",
   "steak": "Steak"
  }

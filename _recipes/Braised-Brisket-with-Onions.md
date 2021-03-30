@@ -2,11 +2,11 @@
 title: "Braised Brisket with Onions"
 filename: "braised-brisket-with-onions"
 categories:
-- Brisket
 - Beef
-cook_time: null
-created: '2020-09-07 01:36:56'
-created_ts: 1599442616
+- Brisket
+cook_time: ''
+created: '2020-09-07 14:36:56'
+created_ts: 1599489416
 description: 'Based mostly on this:
 
 
@@ -17,18 +17,18 @@ description: 'Based mostly on this:
 
 
   https://www.cooksillustrated.com/articles/552-how-to-braise-brisket'
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "Brisket, 5 lb\n\n1. 4 Onions, sliced\n1. 4 tbsp unsalted butter\n1.\
   \ \xBD tsp Kosher salt\n1. 2 tbsp of Olive oil\n1. 2 tbsp Worcestershire sauce\n\
   1. 2 cup broth\nSalt and pepper"
 intrash: 0
 meal_dates:
-- '2020-09-06'
+- '2020-09-07'
 meal_types: '3'
 mine: null
 name: Braised Brisket with Onions
-p_recipe_id: 135
+p_recipe_id: 342
 permalink: /recipes/braised-brisket-with-onions
 photo_large: braised-brisket-with-onions-large.jpg
 photo_thumb: braised-brisket-with-onions-thumb.jpg
@@ -43,13 +43,13 @@ photos_dict:
   08: braised-brisket-with-onions-08.jpg
   09: braised-brisket-with-onions-09.jpg
   '10': braised-brisket-with-onions-10.jpg
-prep_time: null
+prep_time: ''
 rating: 5
-servings: null
+servings: ''
 slug: braised-brisket-with-onions
 source: null
 source_url: null
-total_time: null
+total_time: ''
 type: null
 uid: 4CB07882-5BB7-4D7D-A85F-9C33428D9BBB-50715-00075EFA2FEFB0E5
 ---

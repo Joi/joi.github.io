@@ -2,11 +2,11 @@
 title: "Beef Tostadas"
 filename: "beef-tostadas"
 categories:
-- Mexican
 - Ground Beef
+- Mexican
 cook_time: 10 min
-created: '2020-12-26 01:02:31'
-created_ts: 1608944551
+created: '2020-12-26 15:02:31'
+created_ts: 1608994951
 description: null
 difficulty: Easy
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/3/1/0/FNM_040111-WN-Dinners-003_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371595319118.jpeg
@@ -38,7 +38,7 @@ meal_dates: null
 meal_types: null
 mine: null
 name: Beef Tostadas
-p_recipe_id: 124
+p_recipe_id: 439
 permalink: /recipes/beef-tostadas
 photo_large: null
 photo_thumb: beef-tostadas-thumb.jpg

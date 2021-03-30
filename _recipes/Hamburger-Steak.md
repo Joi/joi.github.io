@@ -4,10 +4,10 @@ filename: "hamburger-steak"
 categories:
 - Ground Beef
 cook_time: 10 minutes
-created: '2020-06-27 05:48:06'
-created_ts: 1593236886
+created: '2020-06-27 18:48:06'
+created_ts: 1593283686
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: '3/4 cup Panko bread crumb
 
@@ -38,11 +38,11 @@ ingredients: '3/4 cup Panko bread crumb
   1-2 Tbsp sake (or wine)'
 intrash: 0
 meal_dates:
-- '2020-06-27'
+- '2020-06-28'
 meal_types: '3'
 mine: null
 name: Hamburger Steak
-p_recipe_id: 99
+p_recipe_id: 207
 permalink: /recipes/hamburger-steak
 photo_large: hamburger-steak-large.jpg
 photo_thumb: hamburger-steak-thumb.jpg
@@ -54,7 +54,7 @@ servings: 'Yield: 8 steaks'
 slug: hamburger-steak
 source: japanesecooking101.com
 source_url: https://www.japanesecooking101.com/hamburger-steak-recipe/
-total_time: null
+total_time: ''
 type: null
 uid: 359750A3-4957-4735-9DAC-935A18605F94-5025-000001ECAB5B5782
 ---

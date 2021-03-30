@@ -4,10 +4,10 @@ filename: "beer-brined-roast-chicken"
 categories:
 - Chicken
 cook_time: 2 hours
-created: '2020-05-16 00:50:06'
-created_ts: 1589590206
+created: '2020-05-16 13:50:06'
+created_ts: 1589637006
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "FOR THE BRINE:\n1 cup kosher salt\n\u2154 cup packed light brown sugar\n\
   4 cloves garlic, lightly crushed\n1 leek (white and light green part), quartered\n\
@@ -21,11 +21,11 @@ ingredients: "FOR THE BRINE:\n1 cup kosher salt\n\u2154 cup packed light brown s
   \ lager-style beer"
 intrash: 0
 meal_dates:
-- '2020-05-16'
+- '2020-05-17'
 meal_types: '3'
 mine: null
 name: Beer-Brined Roast Chicken
-p_recipe_id: 234
+p_recipe_id: 163
 permalink: /recipes/beer-brined-roast-chicken
 photo_large: beer-brined-roast-chicken-large.jpg
 photo_thumb: beer-brined-roast-chicken-thumb.jpg
@@ -37,13 +37,13 @@ photos_dict:
   '5': beer-brined-roast-chicken-5.jpg
   '6': beer-brined-roast-chicken-6.jpg
   '7': beer-brined-roast-chicken-7.jpg
-prep_time: null
+prep_time: ''
 rating: 4
 servings: Yield 4 to 6 servings
 slug: beer-brined-roast-chicken
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018059-beer-brined-roast-chicken?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=14
-total_time: null
+total_time: ''
 type: null
 uid: 81F199C6-8CF4-4867-962F-F6F6C266A0C6-11450-000000E96D4441C2
 ---

@@ -4,10 +4,10 @@ filename: "southern-shrimp-scampi"
 categories:
 - Shrimp
 cook_time: 20 minutes
-created: '2020-06-18 04:46:14'
-created_ts: 1592455574
+created: '2020-06-18 17:46:14'
+created_ts: 1592502374
 description: null
-difficulty: null
+difficulty: ''
 image_url: null
 ingredients: "3 large garlic cloves, finely chopped\n\xBD teaspoon salt\n\xBD teaspoon\
   \ freshly ground black pepper\n1 \xBC pound large shrimp, preferably wild American\
@@ -16,23 +16,23 @@ ingredients: "3 large garlic cloves, finely chopped\n\xBD teaspoon salt\n\xBD te
   \ Italian parsley\n\xBD teaspoon red pepper flakes"
 intrash: 0
 meal_dates:
-- '2020-06-17'
+- '2020-06-18'
 meal_types: '3'
 mine: null
 name: Southern Shrimp Scampi
-p_recipe_id: 49
+p_recipe_id: 195
 permalink: /recipes/southern-shrimp-scampi
 photo_large: southern-shrimp-scampi-large.jpg
 photo_thumb: southern-shrimp-scampi-thumb.jpg
 photos_dict:
   '1': southern-shrimp-scampi-1.jpg
-prep_time: null
+prep_time: ''
 rating: 5
 servings: Yield 4 servings
 slug: southern-shrimp-scampi
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1016723-southern-shrimp-scampi
-total_time: null
+total_time: ''
 type: null
 uid: 16F04BDF-9EBF-45AE-A105-2EFDB4401C30-43629-0000074FA8C919E2
 ---
