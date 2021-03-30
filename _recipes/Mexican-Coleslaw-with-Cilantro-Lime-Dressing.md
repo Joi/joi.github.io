@@ -13,14 +13,14 @@ ingredients: "4 cups shredded cabbage mix, I like a mix with red and green cabba
   \ and shredded carrots (you could also use some broccoli slaw)\n1 red pepper, medium\
   \ sized\nDressing:\n\xBD cup chopped cilantro\n\xBD cup chopped red onion\n\xBD\
   \ cup red wine vinegar or vinegar of choice\n\xBC cup olive oil, or veggie broth\
-  \ for oil free\n2 tablespoons lime juice  about one lime\n1 tablespoon cumin\n1/2\
-  \ teaspoon sea salt\nExtra veggie broth to thin out dressing if needed , I used\
-  \ 1/4 cup"
+  \ for oil free\n2 Tbsp lime juice  about one lime\n1 tablespoon cumin\n1/2 teaspoon\
+  \ sea salt\nExtra veggie broth to thin out dressing if needed , I used 1/4 cup"
 intrash: 0
 meal_dates:
 - '2020-07-16'
 - '2021-02-06'
-meal_types: 3|2
+- '2021-03-30'
+meal_types: 3|2|3
 mine: null
 name: Mexican Coleslaw with Cilantro Lime Dressing
 p_recipe_id: 258
@@ -49,7 +49,7 @@ uid: 77134287-CBD0-4325-84C7-4CF8666CCC2D-29053-0004FDD9DFD38753
 <li>½ cup chopped red onion</li>
 <li>½ cup red wine vinegar or vinegar of choice</li>
 <li>¼ cup olive oil, or veggie broth for oil free</li>
-<li>2 tablespoons lime juice  about one lime</li>
+<li>2 Tbsp lime juice  about one lime</li>
 <li>1 tablespoon cumin</li>
 <li>1/2 teaspoon sea salt</li>
 <li>Extra veggie broth to thin out dressing if needed , I used 1/4 cup</li>
