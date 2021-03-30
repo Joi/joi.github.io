@@ -450,13 +450,37 @@ hr {
   padding-bottom:.5em;
   margin-bottom: .5em;
 }
+.meal-notes {
+  margin-bottom: 2em;
+  padding-bottom:1.6em;
+  border-bottom: 1px solid #ccc;
+}
+.meal-notes ul {
+  margin: 1em 0 0 0;
+}
+.meal-notes ul li {
+  list-style-type: none;
+  line-height: 140%;
+  margin-bottom: 2.4em;
+}
+.meal-notes ul li a {
+  display: block;
+  padding: 1px 2px 2px;
+  line-height: 1.6em;
+  margin-bottom: .4em;
+}
+.meal-notes ul li a em {
+  display: block;
+  font-style: normal;
+  font-size:80%;
+}
 .meals {
   margin-bottom: 2em;
   padding-bottom:1.6em;
   border-bottom: 1px solid #ccc;
 }
 .meals ul {
-  margin: 0;
+  margin: 1em 0 0 0;
 }
 .meals ul li {
   list-style-type: none;

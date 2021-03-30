@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+
+<!-- template: notes_index.html -->
+<div class="row" id="title">
+	<div class="small-12 columns">
+    <div class="page-header">
+      <h1>Meal notes</h1>
+    </div>
+		<div class="content">
+      {%- include content.html -%}
+      <hr>
+    </div>
+  </div>
+</div>
+
+
+<div class="row" id="">
+	<div class="medium-8 columns" id="main">
+    <div class="meal-notes">
+    <h4>Featured Notes</h4>
+    <ul>
+
+      {% assign notes_featured = site.notes | where_exp:"item", "item.feature" %}
+      {% for notef in notes_featured reversed %}
+        <li>
+          <a href="{{notef.url}}" title="{{notef.feature}} - {{notef.title}}, {{notef.date | date_to_string: 'ordinal', 'US' }}">
+          <strong>{{notef.feature}}</strong>
+          <em>{{notef.title}}, {{notef.date | date_to_string: "ordinal", "US" }}</em>
+          </a>
+          <p>
+          {{notef.content | markdownify  | strip_html | truncatewords: 60, " …" }}
+          </p>
+        </li>
+      {% endfor %}
+    </ul>
+    </div>
+
+	</div>
+	<div class="medium-3 columns" id="right-margin">
+
+    <div class="meals">
+    <h4>Regular Notes</h4>
+    <ul>
+
+      {% assign notes_regular = site.notes | where: 'feature', nil %}
+      {% for noter in notes_regular reversed %}
+        <li>
+          <a href="{{noter.url}}" title="{{noter.title}}, {{noter.date | date_to_string: "ordinal", "US" }}">
+          <strong>{{noter.date | date_to_string: "ordinal", "US" }}</strong>
+          <em>{{noter.title}}</em>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+    </div>
+
+	</div>
+</div>
+
+{% if jekyll.environment == 'development' %}
+<hr>
+<div class="row dev-only" id="">
+  <div class="medium-12 columns" id="stuff">
+
+   
+
+  </div>
+</div>
+{% endif %}
+
+<!-- /template: notes_index.html -->
