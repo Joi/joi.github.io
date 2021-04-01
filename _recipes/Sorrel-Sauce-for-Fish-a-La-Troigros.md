@@ -25,7 +25,8 @@ ingredients: "1 medium bunch sorrel (around 4-ounces by weight), stems removed g
 intrash: 0
 meal_dates:
 - '2020-04-16'
-meal_types: '3'
+- '2021-03-31'
+meal_types: 3|3
 mine: null
 name: "Sorrel Sauce for Fish a L\xE1 Troigros"
 p_recipe_id: 107

@@ -269,10 +269,10 @@
   "salmon-and-tomatoes-in-foil": "Salmon and Tomatoes in Foil",
   "salmon-en-papillote-salmon-in-parchment": "Salmon en Papillote (Salmon in Parchment)",
   "salmon-with-sesame-and-herbs": "Salmon with Sesame and Herbs",
+  "salmon-with-sorrel-sauce": "Salmon with Sorrel Sauce",
   "salmon-with-thyme-lemon-butter-and-almonds": "Salmon with Thyme, Lemon Butter and Almonds",
   "sicilian-style-fish-stew": "Sicilian-Style Fish Stew",
   "sorrel-sauce-for-fish-a-la-troigros": "Sorrel Sauce for Fish a Lá Troigros",
-  "sorrel-sauce-with-poached-fish": "Sorrel Sauce with Poached Fish",
   "sous-vide-thick-cut-halibut-fillets-with-lemon-browned-butter": "Sous Vide Thick-Cut Halibut Fillets with Lemon Browned Butter",
   "velvet-fish-with-mushrooms": "Velvet Fish with Mushrooms"
  },
@@ -558,11 +558,11 @@
   "salmon-meuniere": "Salmon Meuniere",
   "salmon-with-garlic-lemon-butter-sauce": "Salmon with Garlic Lemon Butter Sauce",
   "salmon-with-sesame-and-herbs": "Salmon with Sesame and Herbs",
+  "salmon-with-sorrel-sauce": "Salmon with Sorrel Sauce",
   "salmon-with-thyme-lemon-butter-and-almonds": "Salmon with Thyme, Lemon Butter and Almonds",
   "sesame-ginger-grilled-salmon-+-broccoli": "Sesame Ginger Grilled Salmon + Broccoli",
   "shiozake-grilled-salted-salmon": "Shiozake (Grilled Salted Salmon)",
   "sorrel-sauce-for-fish-a-la-troigros": "Sorrel Sauce for Fish a Lá Troigros",
-  "sorrel-sauce-with-poached-fish": "Sorrel Sauce with Poached Fish",
   "sous-vide-salmon": "Sous Vide Salmon",
   "ultra-crisp-skinned-pan-roasted-fish-fillets": "Ultra-Crisp-Skinned Pan-Roasted Fish Fillets"
  },
@@ -671,9 +671,9 @@
   "baked-fillet-of-sole-with-tomato-oregano-and-hot-pepper": "Baked Fillet of Sole with Tomato, Oregano and Hot Pepper",
   "dover-sole-meuniere": "Dover Sole Meuniere",
   "oven-poached-pacific-sole-with-lemon-caper-sauce": "Oven-Poached Pacific Sole with Lemon Caper Sauce",
+  "salmon-with-sorrel-sauce": "Salmon with Sorrel Sauce",
   "sand-dabs-with-shallots-sea-beans-sherry-vinegar": "Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar",
-  "sole-meuniere": "Sole Meunière",
-  "sorrel-sauce-with-poached-fish": "Sorrel Sauce with Poached Fish"
+  "sole-meuniere": "Sole Meunière"
  },
  "Soup": {
   "asparagus-soup-with-parmesan-shortbread-coins": "Asparagus Soup with Parmesan Shortbread Coins",
@@ -817,9 +817,9 @@
   "pollock-or-haddock-with-spinach": "Pollock or Haddock with Spinach",
   "pressure-cooker-halibut-fillets-with-tomatoes-and-olives": "Pressure Cooker Halibut Fillets with Tomatoes and Olives",
   "roast-haddock-fillet-with-scalloped-potatoes": "Roast Haddock Fillet with Scalloped Potatoes",
+  "salmon-with-sorrel-sauce": "Salmon with Sorrel Sauce",
   "simple-broiled-haddock": "Simple Broiled Haddock",
   "sorrel-sauce-for-fish-a-la-troigros": "Sorrel Sauce for Fish a Lá Troigros",
-  "sorrel-sauce-with-poached-fish": "Sorrel Sauce with Poached Fish",
   "sous-vide-thick-cut-halibut-fillets-with-lemon-browned-butter": "Sous Vide Thick-Cut Halibut Fillets with Lemon Browned Butter",
   "velvet-fish-with-mushrooms": "Velvet Fish with Mushrooms"
  },
@@ -855,6 +855,7 @@
   "pizza": "Pizza",
   "prime-rib": "Prime Rib",
   "rouille": "Rouille",
+  "salmon-with-sorrel-sauce": "Salmon with Sorrel Sauce",
   "seared-wagyu": "Seared Wagyu",
   "shrimp-and-endive-salad": "Shrimp and Endive Salad",
   "shrimp-with-mayonnaise-ebimayo": "Shrimp with Mayonnaise - ebimayo",

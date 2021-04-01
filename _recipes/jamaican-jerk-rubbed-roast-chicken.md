@@ -25,7 +25,8 @@ ingredients: "1 teaspoon freshly ground black pepper\r\xBC teaspoon ground nutme
 intrash: 0
 meal_dates:
 - '2021-01-21'
-meal_types: '3'
+- '2021-04-01'
+meal_types: 3|3
 mine: null
 name: Jamaican-Jerk-Rubbed Roast Chicken
 p_recipe_id: 455

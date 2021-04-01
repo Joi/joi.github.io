@@ -25,7 +25,8 @@ meal_dates:
 - '2020-10-08'
 - '2021-03-19'
 - '2020-07-09'
-meal_types: 3|3|3|3|3|3|3
+- '2021-04-01'
+meal_types: 3|3|3|3|3|3|3|3
 mine: 1
 name: Oven Roasted Spatchcocked Chicken
 p_recipe_id: 240
