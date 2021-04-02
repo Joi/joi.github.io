@@ -34,7 +34,8 @@ ingredients: "1 \xBD pounds Salmon filets\nSalt and freshly ground pepper\n1 Tbs
 intrash: 0
 meal_dates:
 - '2021-03-31'
-meal_types: '3'
+- '2020-04-18'
+meal_types: 3|3
 mine: 1
 name: Salmon with Sorrel Sauce
 p_recipe_id: 122

@@ -272,7 +272,6 @@
   "salmon-with-sorrel-sauce": "Salmon with Sorrel Sauce",
   "salmon-with-thyme-lemon-butter-and-almonds": "Salmon with Thyme, Lemon Butter and Almonds",
   "sicilian-style-fish-stew": "Sicilian-Style Fish Stew",
-  "sorrel-sauce-for-fish-a-la-troigros": "Sorrel Sauce for Fish a Lá Troigros",
   "sous-vide-thick-cut-halibut-fillets-with-lemon-browned-butter": "Sous Vide Thick-Cut Halibut Fillets with Lemon Browned Butter",
   "velvet-fish-with-mushrooms": "Velvet Fish with Mushrooms"
  },
@@ -283,12 +282,14 @@
   "baked-flounder-with-panko-and-parmesan": "Baked Flounder with Panko and Parmesan",
   "baked-flounder-with-parmesan-crumbs": "Baked Flounder with Parmesan Crumbs",
   "cream-of-leek-and-fish-soup": "Cream of Leek and Fish Soup",
+  "egg-batter-pan-fried-flounder-with-green-garlic": "Egg Batter Pan-Fried Flounder with Green Garlic",
   "flounder-with-brown-butter-lemon-and-tarragon": "Flounder with Brown Butter, Lemon and Tarragon",
   "garlic-parmesan-flounder": "Garlic Parmesan Flounder",
   "sand-dabs-with-shallots-sea-beans-sherry-vinegar": "Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar"
  },
  "Fluke": {
   "cream-of-leek-and-fish-soup": "Cream of Leek and Fish Soup",
+  "egg-batter-pan-fried-flounder-with-green-garlic": "Egg Batter Pan-Fried Flounder with Green Garlic",
   "garlic-parmesan-flounder": "Garlic Parmesan Flounder",
   "poached-fluke-in-lemon-brodo": "Poached Fluke in Lemon Brodo",
   "sand-dabs-with-shallots-sea-beans-sherry-vinegar": "Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar"
@@ -552,7 +553,6 @@
   "grilled-salmon-i": "Grilled Salmon I",
   "oven-steamed-salmon": "Oven-Steamed Salmon",
   "pan-seared-salmon-fillets-with-crispy-skin": "Pan-Seared Salmon Fillets with Crispy Skin",
-  "salmon-and-sorrel-sauce": "Salmon and Sorrel Sauce",
   "salmon-and-tomatoes-in-foil": "Salmon and Tomatoes in Foil",
   "salmon-en-papillote-salmon-in-parchment": "Salmon en Papillote (Salmon in Parchment)",
   "salmon-meuniere": "Salmon Meuniere",
@@ -562,7 +562,6 @@
   "salmon-with-thyme-lemon-butter-and-almonds": "Salmon with Thyme, Lemon Butter and Almonds",
   "sesame-ginger-grilled-salmon-+-broccoli": "Sesame Ginger Grilled Salmon + Broccoli",
   "shiozake-grilled-salted-salmon": "Shiozake (Grilled Salted Salmon)",
-  "sorrel-sauce-for-fish-a-la-troigros": "Sorrel Sauce for Fish a Lá Troigros",
   "sous-vide-salmon": "Sous Vide Salmon",
   "ultra-crisp-skinned-pan-roasted-fish-fillets": "Ultra-Crisp-Skinned Pan-Roasted Fish Fillets"
  },
@@ -589,6 +588,7 @@
   "homemade-marinara-sauce": "Homemade Marinara Sauce",
   "homemade-ponzu-sauce-recipe": "Homemade Ponzu Sauce Recipe",
   "homemade-spicy-chili-crisp": "Homemade Spicy Chili Crisp",
+  "homemade-tartar-sauce": "Homemade Tartar Sauce",
   "horseradish-sauce": "Horseradish Sauce",
   "kansas-city-bbq-sauce": "Kansas City Bbq Sauce",
   "lemon-butter-sauce": "Lemon Butter Sauce",
@@ -819,7 +819,6 @@
   "roast-haddock-fillet-with-scalloped-potatoes": "Roast Haddock Fillet with Scalloped Potatoes",
   "salmon-with-sorrel-sauce": "Salmon with Sorrel Sauce",
   "simple-broiled-haddock": "Simple Broiled Haddock",
-  "sorrel-sauce-for-fish-a-la-troigros": "Sorrel Sauce for Fish a Lá Troigros",
   "sous-vide-thick-cut-halibut-fillets-with-lemon-browned-butter": "Sous Vide Thick-Cut Halibut Fillets with Lemon Browned Butter",
   "velvet-fish-with-mushrooms": "Velvet Fish with Mushrooms"
  },
