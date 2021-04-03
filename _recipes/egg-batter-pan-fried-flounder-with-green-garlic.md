@@ -16,9 +16,8 @@ ingredients: "1 \xBD pounds boneless flounder or sole fillets, preferably 4 6-ou
   \ butter\n\u2153 cup finely chopped green garlic, both white part and tender green\
   \ stalks\nJuice of 1/2 lemon\n3 tablespoons chopped flat-leaf parsley\nLemon wedges"
 intrash: 0
-meal_dates:
-- '2021-04-02'
-meal_types: '3'
+meal_dates: null
+meal_types: null
 mine: null
 name: Egg Batter Pan-Fried Flounder with Green Garlic
 p_recipe_id: 500

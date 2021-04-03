@@ -29,6 +29,7 @@ photo_large: mexican-coleslaw-with-cilantro-lime-dressing-large.jpg
 photo_thumb: mexican-coleslaw-with-cilantro-lime-dressing-thumb.jpg
 photos_dict:
   '1': mexican-coleslaw-with-cilantro-lime-dressing-1.jpg
+  '2': mexican-coleslaw-with-cilantro-lime-dressing-2.jpg
 prep_time: 10 mins
 rating: 5
 servings: '8'

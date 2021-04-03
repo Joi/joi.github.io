@@ -38,6 +38,9 @@ photos_dict:
   '2': oven-roasted-spatchcocked-chicken-2.jpg
   '3': oven-roasted-spatchcocked-chicken-3.jpg
   '4': oven-roasted-spatchcocked-chicken-4.jpg
+  '5': oven-roasted-spatchcocked-chicken-5.jpg
+  '6': oven-roasted-spatchcocked-chicken-6.jpg
+  '7': oven-roasted-spatchcocked-chicken-7.jpg
 prep_time: ''
 rating: 5
 servings: ''

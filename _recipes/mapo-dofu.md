@@ -21,7 +21,8 @@ intrash: 0
 meal_dates:
 - '2021-03-24'
 - '2021-03-03'
-meal_types: 3|3
+- '2021-04-03'
+meal_types: 3|3|3
 mine: 1
 name: Mapo Dofu
 p_recipe_id: 492
