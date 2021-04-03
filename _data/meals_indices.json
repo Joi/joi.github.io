@@ -4549,13 +4549,16 @@
    ]
   },
   "492": {
+   "featured": [
+    {
+     "date": "2021-04-03",
+     "feature": "Finally with all of the right sauces",
+     "type": "Dinner"
+    }
+   ],
    "nofile": [
     {
      "date": "2021-03-03",
-     "type": "Dinner"
-    },
-    {
-     "date": "2021-04-03",
      "type": "Dinner"
     }
    ],

@@ -33,6 +33,12 @@ photos_dict:
   '1': mapo-dofu-1.jpg
   '2': mapo-dofu-2.jpg
   '3': mapo-dofu-3.jpg
+  '4': mapo-dofu-4.jpg
+  '5': mapo-dofu-5.jpg
+  '6': mapo-dofu-6.jpg
+  '7': mapo-dofu-7.jpg
+  '8': mapo-dofu-8.jpg
+  '9': mapo-dofu-9.jpg
 prep_time: ''
 rating: 5
 servings: '2'
@@ -65,11 +71,12 @@ uid: F189F7A3-07AA-47B9-80AC-0E6B2879D4C5-651-00000524A207DA6A
 <li></li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Cut tofu in 1 inch cubes and if using soft tofu, soak in boiling hot salted water and strain and dry to remove excess water from tofu before frying.</p>
-<p>Combine materials for sauce in a bowl.</p>
+<p>Combine garlic, red pepper, bean pastes and douchi in a bowl.</p>
+<p>Mix starch and water in small bowl.</p>
 <p>Stir-fry pork until brown with oil. Turn off heat and add sauce.</p>
 <p>Stir until combined. Then turn up heat to medium.</p>
 <p>When the oil is clear red, add the soup, bring to simmer and reduce heat.</p>
 <p>Add Chinese wine, soy sauce and some salt. Add scallions.</p>
 <p>Add tofu.</p>
-<p>Season to taste. Reduce to low and thicken with starch and water.</p>
+<p>Season to taste. Reduce heat to low and thicken with starch and water.</p>
 </div>	</div>

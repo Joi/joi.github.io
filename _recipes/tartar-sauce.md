@@ -9,17 +9,9 @@ created_ts: 1617375744
 description: ''
 difficulty: Easy
 image_url: null
-ingredients: '1 cup [mayonnaise](mayonnaise)
-
-  1 cup dill pickles, chopped small
-
-  1 Tbsp fresh dill or parsley, chopped
-
-  1 tsp lemon juice
-
-  1 tsp sugar
-
-  1/4 tsp black pepper'
+ingredients: "1 cup [mayonnaise](mayonnaise)\n1 cup dill pickles, chopped small\n\
+  1 Tbsp fresh dill or parsley, chopped\n1 tsp lemon juice\n1 tsp sugar\n\xBC tsp\
+  \ black pepper"
 intrash: 0
 meal_dates:
 - '2021-04-02'
@@ -52,7 +44,7 @@ uid: 4A1F6CE8-57F3-4270-ADEE-96C2FB5BA09E-52325-0002C7030227B47C
 <li>1 Tbsp fresh dill or parsley, chopped</li>
 <li>1 tsp lemon juice</li>
 <li>1 tsp sugar</li>
-<li>1/4 tsp black pepper</li>
+<li>¼ tsp black pepper</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Combine all ingredients in a bowl and stir to combine.</p>
 <p>Add more lemon juice or pickles if desired.</p>
