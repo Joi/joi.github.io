@@ -9,7 +9,7 @@ created_ts: 1617375744
 description: ''
 difficulty: Easy
 image_url: null
-ingredients: '1 cup [mayonnaise](recipes/mayonnaise)
+ingredients: '1 cup [mayonnaise](mayonnaise)
 
   1 cup dill pickles, chopped small
 
@@ -47,7 +47,7 @@ uid: 4A1F6CE8-57F3-4270-ADEE-96C2FB5BA09E-52325-0002C7030227B47C
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1 cup <a href="recipes/mayonnaise">mayonnaise</a></li>
+<li>1 cup <a href="mayonnaise">mayonnaise</a></li>
 <li>1 cup dill pickles, chopped small</li>
 <li>1 Tbsp fresh dill or parsley, chopped</li>
 <li>1 tsp lemon juice</li>
