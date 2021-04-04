@@ -15,9 +15,11 @@ layout: default
   .recipes-list .recipe-item-box {
     width:33.3%;
   }
+  /*
   #recipes_mine .recipes-list .recipe-item-box {
     width:100%;
   }
+  */
   .recipes-list a.recipe-item {
     display: flex;
     margin-right:20px;
@@ -36,7 +38,13 @@ layout: default
   .recipes-list a.recipe-item .recipe-name {
     font-size: 16px;
     font-weight: 500;
-    height:80px;
+    height:60px;
+    overflow:hidden;
+  }
+  .recipes-list a.recipe-item .recipe-created-date {
+    font-size: 12px;
+    font-weight: 500;
+    margin-top:6px;
   }
   .recipes-list a.recipe-item .recipe-cats {
     font-size: 12px;
@@ -45,6 +53,11 @@ layout: default
   }
   .recipes-list a.recipe-item:hover .recipe-cats {
     color: #666;
+  }
+  .meal-notes {
+    border-bottom:none;
+    margin-bottom:0;
+    padding-bottom:0;
   }
   </style>
 
@@ -62,7 +75,27 @@ layout: default
 
 <div class="row">
 
-  <div class="large-8 columns" id="posts">
+	<div class="large-8 columns" id="">
+    <div class="meal-notes">
+      <h4>Meal Notes</h4>
+      <ul>
+        {% assign meals = site.notes | where_exp:"item", "item.promote contains 'home'" | sort: 'date' | reverse %}
+        {% for meal in meals limit: 3  %}
+          <li>
+            <a href="{{meal.url}}" title="{{meal.feature}} - {{meal.title}}, {{meal.date | date_to_string: 'ordinal', 'US' }}">
+            <strong>{{meal.feature}}</strong>
+            <em>{{meal.title}}, {{meal.date | date_to_string: "ordinal", "US" }}</em>
+            </a>
+            <p>
+            {{meal.content | markdownify  | strip_html | truncatewords: 60, " …" }}
+            </p>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <div class="large-4 columns" id="posts">
 		<h4>Posts</h4>
 		{% for post in site.posts %}
 		<p><strong><a href="{{ post.url }}"
@@ -71,13 +104,18 @@ layout: default
 		{% endfor %}
 	</div>
 
-  <div class="large-4 columns" id="recipes_mine">
+</div>
+
+<hr>
+
+<div class="row"
+  <div class="large-12 columns" id="recipes_mine">
 		<h4 class="marker">My Recipes</h4>
 		<br>
 		<div class="recipes-list">
-			{% for recipe in site.recipes %}
+      {% assign recipes = site.recipes | where_exp:"item", "item.mine" | sort: 'created' | reverse %}
+			{% for recipe in recipes %}
 
-				{% if recipe.mine %}
 				<div class="recipe-item-box">
 				<a class="recipe-item" href="{{ recipe.url }}">
 					{% if recipe.photo_thumb %}
@@ -89,6 +127,7 @@ layout: default
 					<div class="recipe-name"
 									aria-label="Ingredients: {{recipe.ingredients | truncate: 250}}"
 									alt="{{ recipe.title }}">{{ recipe.title }}</div>
+          <div class="recipe-created-date">{{ recipe.created | date_to_string: "ordinal", "US" }}</div>
 					{% if recipe.categories %}
 						<div class="recipe-cats">
 						{% for cat in recipe.categories %}
@@ -101,7 +140,6 @@ layout: default
 					</div>
 				</a>
 				</div>
-				{% endif %}
 
 			{% endfor %}
 		</div>	
@@ -112,33 +150,32 @@ layout: default
 <hr>
 
 {% comment %}
-<div class="row">
+  <div class="row">
 
-  <div class="large-6 columns" id="">
+    <div class="large-6 columns" id="">
 
-	</div>
+    </div>
 
-  <div class="large-6 columns" id="posts_tags">
-		<h4>By Tag</h4>
-		{% for tag in site.tags %}
-			<h5>{{ tag[0] | capitalize }}</h5>
-			<ul>
-				{% for post in tag[1] %}
-					<li><a href="{{ post.url }}" 
-									aria-label="{{post.content | markdownify | strip_html | normalize_whitespace | truncate: 250 | newline_to_br}}"
-									alt="{{ post.title }}">{{ post.title }}</a></li>
-				{% endfor %}
-			</ul>
-		{% endfor %}		
-	</div>
+    <div class="large-6 columns" id="posts_tags">
+      <h4>By Tag</h4>
+      {% for tag in site.tags %}
+        <h5>{{ tag[0] | capitalize }}</h5>
+        <ul>
+          {% for post in tag[1] %}
+            <li><a href="{{ post.url }}" 
+                    aria-label="{{post.content | markdownify | strip_html | normalize_whitespace | truncate: 250 | newline_to_br}}"
+                    alt="{{ post.title }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endfor %}		
+    </div>
 
-</div>
-<hr>
+  </div>
+  <hr>
 {% endcomment %}
 
 <div class="row">
 	<div class="large-12 columns" id="recipes_5star">
-
 		<h4>Inspiring <!--★★★★★-->⭐️⭐️⭐️⭐️⭐️ Recipes</h4>
 		<br>
 		<div class="recipes-list">
@@ -156,6 +193,7 @@ layout: default
 					<div class="recipe-name"
 									aria-label="Ingredients: {{recipe.ingredients | truncate: 250}}"
 									alt="{{ recipe.title }}">{{ recipe.title }}</div>
+          <div class="recipe-created-date">{{ recipe.created | date_to_string: "ordinal", "US" }}</div>
 					{% if recipe.categories %}
 						<div class="recipe-cats">
 						{% for cat in recipe.categories %}

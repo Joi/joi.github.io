@@ -604,6 +604,15 @@ body.note .content h3 {
   color: #900;
   background: #F6E8E8;
 }
+.dev-only.app-ui {
+  color: #639;
+  background: #E3DAEC;
+  padding: 5px;
+}
+.dev-only.app-ui a {
+  color: #8258AC;
+  border-bottom: 1px dotted;
+}
 .dev-only #photo-strip .dev-photos {
   overflow: auto;
   width: 100%
