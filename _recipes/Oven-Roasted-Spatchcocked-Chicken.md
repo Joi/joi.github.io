@@ -26,7 +26,8 @@ meal_dates:
 - '2021-03-19'
 - '2020-07-09'
 - '2021-04-01'
-meal_types: 3|3|3|3|3|3|3|3
+- '2020-12-17'
+meal_types: 3|3|3|3|3|3|3|3|3
 mine: 1
 name: Oven Roasted Spatchcocked Chicken
 p_recipe_id: 240
@@ -36,6 +37,8 @@ photo_thumb: oven-roasted-spatchcocked-chicken-thumb.jpg
 photos_dict:
   '1': oven-roasted-spatchcocked-chicken-1.jpg
   '2': oven-roasted-spatchcocked-chicken-2.jpg
+  '2020121701': oven-roasted-spatchcocked-chicken-2020121701.jpg
+  '2020121702': oven-roasted-spatchcocked-chicken-2020121702.jpg
   '3': oven-roasted-spatchcocked-chicken-3.jpg
   '4': oven-roasted-spatchcocked-chicken-4.jpg
   '5': oven-roasted-spatchcocked-chicken-5.jpg

@@ -680,6 +680,9 @@
    "431": "Dinner",
    "432": "Dinner"
   },
+  "2020-12-17": {
+   "240": "Dinner"
+  },
   "2020-12-19": {
    "22": "Dinner"
   },
@@ -966,6 +969,7 @@
    "492": "Dinner"
   },
   "2021-04-04": {
+   "317": "Dinner",
    "504": "Dinner"
   }
  },
@@ -1326,6 +1330,7 @@
    "2020-07-30": "Dinner",
    "2020-08-06": "Dinner",
    "2020-10-08": "Dinner",
+   "2020-12-17": "Dinner",
    "2021-03-19": "Dinner",
    "2021-04-01": "Dinner"
   },
@@ -1508,7 +1513,8 @@
    "2020-12-07": "Dinner",
    "2020-12-20": "Dinner",
    "2021-01-02": "Dinner",
-   "2021-02-20": "Dinner"
+   "2021-02-20": "Dinner",
+   "2021-04-04": "Dinner"
   },
   "319": {
    "2020-08-21": "Dinner",
@@ -2939,6 +2945,11 @@
      "date": "2020-07-23",
      "feature": "Lots about chicken",
      "type": "Dinner"
+    },
+    {
+     "date": "2020-12-17",
+     "feature": "Spatchcocked chicken in Anova",
+     "type": "Dinner"
     }
    ],
    "nofile": [
@@ -3494,6 +3505,11 @@
      "date": "2020-12-07",
      "feature": "Prime Rib with Oxtail Au Jus",
      "type": "Dinner"
+    },
+    {
+     "date": "2020-12-20",
+     "feature": "Bone-in rib roast with Anova sous vide",
+     "type": "Dinner"
     }
    ],
    "nofile": [
@@ -3504,13 +3520,13 @@
     {
      "date": "2021-01-02",
      "type": "Dinner"
+    },
+    {
+     "date": "2021-04-04",
+     "type": "Dinner"
     }
    ],
    "regular": [
-    {
-     "date": "2020-12-20",
-     "type": "Dinner"
-    },
     {
      "date": "2021-02-20",
      "type": "Dinner"
@@ -4154,9 +4170,10 @@
    ]
   },
   "433": {
-   "regular": [
+   "featured": [
     {
      "date": "2020-12-20",
+     "feature": "Bone-in rib roast with Anova sous vide",
      "type": "Dinner"
     }
    ]
@@ -5787,6 +5804,11 @@
     431
    ]
   },
+  "2020-12-17": {
+   "Dinner": [
+    240
+   ]
+  },
   "2020-12-19": {
    "Dinner": [
     22
@@ -6252,7 +6274,8 @@
   },
   "2021-04-04": {
    "Dinner": [
-    504
+    504,
+    317
    ]
   }
  }
