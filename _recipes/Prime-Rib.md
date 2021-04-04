@@ -27,7 +27,8 @@ meal_dates:
 - '2020-08-17'
 - '2020-12-07'
 - '2021-04-04'
-meal_types: 3|3|3|3|3|3|3|3
+- '2020-12-26'
+meal_types: 3|3|3|3|3|3|3|3|3
 mine: 1
 name: Prime Rib
 p_recipe_id: 317

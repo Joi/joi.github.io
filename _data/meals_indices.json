@@ -622,6 +622,7 @@
    "417": "Dinner"
   },
   "2020-11-25": {
+   "316": "Dinner",
    "413": "Dinner",
    "415": "Dinner",
    "416": "Dinner",
@@ -702,6 +703,9 @@
   "2020-12-25": {
    "253": "Dinner",
    "419": "Dinner"
+  },
+  "2020-12-26": {
+   "317": "Dinner"
   },
   "2020-12-27": {
    "277": "Dinner",
@@ -1504,7 +1508,8 @@
    "2020-08-20": "Dinner"
   },
   "316": {
-   "2020-08-20": "Dinner"
+   "2020-08-20": "Dinner",
+   "2020-11-25": "Dinner"
   },
   "317": {
    "2020-08-17": "Dinner",
@@ -1512,6 +1517,7 @@
    "2020-12-06": "Dinner",
    "2020-12-07": "Dinner",
    "2020-12-20": "Dinner",
+   "2020-12-26": "Dinner",
    "2021-01-02": "Dinner",
    "2021-02-20": "Dinner",
    "2021-04-04": "Dinner"
@@ -3055,15 +3061,13 @@
    ]
   },
   "253": {
-   "nofile": [
-    {
-     "date": "2020-12-25",
-     "type": "Dinner"
-    }
-   ],
    "regular": [
     {
      "date": "2020-07-14",
+     "type": "Dinner"
+    },
+    {
+     "date": "2020-12-25",
      "type": "Dinner"
     }
    ]
@@ -3482,6 +3486,13 @@
    ]
   },
   "316": {
+   "featured": [
+    {
+     "date": "2020-11-25",
+     "feature": "The Thanksgiving Turkey",
+     "type": "Dinner"
+    }
+   ],
    "nofile": [
     {
      "date": "2020-08-20",
@@ -3509,6 +3520,11 @@
     {
      "date": "2020-12-20",
      "feature": "Bone-in rib roast with Anova sous vide",
+     "type": "Dinner"
+    },
+    {
+     "date": "2020-12-26",
+     "feature": "Top round roast - too tough",
      "type": "Dinner"
     }
    ],
@@ -4013,7 +4029,7 @@
    "featured": [
     {
      "date": "2020-11-25",
-     "feature": "The Turkey",
+     "feature": "The Thanksgiving Turkey",
      "type": "Dinner"
     }
    ]
@@ -4030,7 +4046,7 @@
    "featured": [
     {
      "date": "2020-11-25",
-     "feature": "The Turkey",
+     "feature": "The Thanksgiving Turkey",
      "type": "Dinner"
     }
    ]
@@ -4039,7 +4055,7 @@
    "featured": [
     {
      "date": "2020-11-25",
-     "feature": "The Turkey",
+     "feature": "The Thanksgiving Turkey",
      "type": "Dinner"
     }
    ]
@@ -4068,13 +4084,13 @@
    "featured": [
     {
      "date": "2020-11-25",
-     "feature": "The Turkey",
+     "feature": "The Thanksgiving Turkey",
      "type": "Dinner"
     }
    ]
   },
   "419": {
-   "nofile": [
+   "regular": [
     {
      "date": "2020-12-25",
      "type": "Dinner"
@@ -4181,15 +4197,17 @@
   "436": {
    "nofile": [
     {
-     "date": "2020-12-24",
-     "type": "Dinner"
-    },
-    {
      "date": "2021-01-14",
      "type": "Dinner"
     },
     {
      "date": "2021-02-24",
+     "type": "Dinner"
+    }
+   ],
+   "regular": [
+    {
+     "date": "2020-12-24",
      "type": "Dinner"
     }
    ]
@@ -5718,7 +5736,8 @@
     413,
     415,
     416,
-    418
+    418,
+    316
    ]
   },
   "2020-11-28": {
@@ -5839,6 +5858,11 @@
    "Dinner": [
     253,
     419
+   ]
+  },
+  "2020-12-26": {
+   "Dinner": [
+    317
    ]
   },
   "2020-12-27": {

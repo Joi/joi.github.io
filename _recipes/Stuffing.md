@@ -20,7 +20,8 @@ ingredients: "2\xBD pounds (about 2 loaves) high-quality sandwich bread or soft 
 intrash: 0
 meal_dates:
 - '2020-08-20'
-meal_types: '3'
+- '2020-11-25'
+meal_types: 3|3
 mine: null
 name: Stuffing
 p_recipe_id: 316
