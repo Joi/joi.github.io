@@ -38,7 +38,13 @@ layout: default
   .recipes-list a.recipe-item .recipe-name {
     font-size: 16px;
     font-weight: 500;
-    height:80px;
+    height:60px;
+    overflow:hidden;
+  }
+  .recipes-list a.recipe-item .recipe-created-date {
+    font-size: 12px;
+    font-weight: 500;
+    margin-top:6px;
   }
   .recipes-list a.recipe-item .recipe-cats {
     font-size: 12px;
@@ -47,6 +53,11 @@ layout: default
   }
   .recipes-list a.recipe-item:hover .recipe-cats {
     color: #666;
+  }
+  .meal-notes {
+    border-bottom:none;
+    margin-bottom:0;
+    padding-bottom:0;
   }
   </style>
 
@@ -95,14 +106,16 @@ layout: default
 
 </div>
 
+<hr>
+
 <div class="row"
   <div class="large-12 columns" id="recipes_mine">
 		<h4 class="marker">My Recipes</h4>
 		<br>
 		<div class="recipes-list">
-			{% for recipe in site.recipes %}
+      {% assign recipes = site.recipes | where_exp:"item", "item.mine" | sort: 'created' | reverse %}
+			{% for recipe in recipes %}
 
-				{% if recipe.mine %}
 				<div class="recipe-item-box">
 				<a class="recipe-item" href="{{ recipe.url }}">
 					{% if recipe.photo_thumb %}
@@ -114,6 +127,7 @@ layout: default
 					<div class="recipe-name"
 									aria-label="Ingredients: {{recipe.ingredients | truncate: 250}}"
 									alt="{{ recipe.title }}">{{ recipe.title }}</div>
+          <div class="recipe-created-date">{{ recipe.created | date_to_string: "ordinal", "US" }}</div>
 					{% if recipe.categories %}
 						<div class="recipe-cats">
 						{% for cat in recipe.categories %}
@@ -126,7 +140,6 @@ layout: default
 					</div>
 				</a>
 				</div>
-				{% endif %}
 
 			{% endfor %}
 		</div>	
@@ -180,6 +193,7 @@ layout: default
 					<div class="recipe-name"
 									aria-label="Ingredients: {{recipe.ingredients | truncate: 250}}"
 									alt="{{ recipe.title }}">{{ recipe.title }}</div>
+          <div class="recipe-created-date">{{ recipe.created | date_to_string: "ordinal", "US" }}</div>
 					{% if recipe.categories %}
 						<div class="recipe-cats">
 						{% for cat in recipe.categories %}
