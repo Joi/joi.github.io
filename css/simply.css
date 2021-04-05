@@ -474,6 +474,28 @@ hr {
   font-style: normal;
   font-size:80%;
 }
+.meal-notes-feed {}
+.meal-notes-feed .note {
+  margin-bottom: 3em;
+  padding-bottom: 2em;
+  border-bottom: 1px dotted #ccc;
+}
+.meal-notes-feed .note .title {
+  display: block;
+  line-height: 1em;
+  margin-bottom: 1em;
+}
+.meal-notes-feed .note h5 {
+  margin:0;
+  padding: 0;
+}
+.meal-notes-feed .note em {
+  font-style: normal;
+  font-size:80%;
+}
+.meal-notes-feed .note p img {
+  margin-bottom: 1em;
+}
 .meals {
   margin-bottom: 2em;
   padding-bottom:1.6em;
@@ -598,6 +620,17 @@ body.note .content h1,
 body.note .content h2,
 body.note .content h3 {
   font-size: 2rem;
+}
+
+h4 a {
+  color: #000;
+}
+h4 a em {
+  color: #fff;
+  font-style: normal;
+}
+h4 a:hover em {
+  color: #c30;
 }
 
 .dev-only {

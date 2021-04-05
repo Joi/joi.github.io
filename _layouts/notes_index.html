@@ -19,38 +19,40 @@ layout: default
 
 <div class="row" id="">
 	<div class="medium-8 columns" id="main">
-    <div class="meal-notes">
-    <h4>Featured Notes</h4>
-    <ul>
 
-      {% assign notes_featured = site.notes | where_exp:"item", "item.feature" %}
-      {% for notef in notes_featured reversed %}
-        <li>
-          <a href="{{notef.url}}" title="{{notef.feature}} - {{notef.title}}, {{notef.date | date_to_string: 'ordinal', 'US' }}">
-          <strong>{{notef.feature}}</strong>
-          <em>{{notef.title}}, {{notef.date | date_to_string: "ordinal", "US" }}</em>
+    <div class="meal-notes-feed">
+      <h4>Featured Notes</h4>
+      {% assign notes = site.notes | where_exp:"item", "item.feature" %}
+      {% for note in notes reversed %}
+        <div class="note">
+          <a class="title" href="{{note.url}}" title="{{note.feature}} - {{note.title}}, {{note.date | date_to_string: 'ordinal', 'US' }}">
+          <h5>{{note.feature}}</h5>
+          <em>{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}</em>
           </a>
+          {% comment %}
           <p>
-          {{notef.content | markdownify  | strip_html | truncatewords: 60, " …" }}
+          {{ note.content | markdownify  | strip_html | truncatewords: 60, " …" }}
           </p>
-        </li>
+          {% endcomment %}
+          {{ note.excerpt | strip_html }}
+        </div>
       {% endfor %}
-    </ul>
     </div>
 
 	</div>
+
 	<div class="medium-3 columns" id="right-margin">
 
     <div class="meals">
     <h4>Regular Notes</h4>
     <ul>
 
-      {% assign notes_regular = site.notes | where: 'feature', nil %}
-      {% for noter in notes_regular reversed %}
+      {% assign notes = site.notes | where: 'feature', nil %}
+      {% for note in notes reversed %}
         <li>
-          <a href="{{noter.url}}" title="{{noter.title}}, {{noter.date | date_to_string: "ordinal", "US" }}">
-          <strong>{{noter.date | date_to_string: "ordinal", "US" }}</strong>
-          <em>{{noter.title}}</em>
+          <a href="{{note.url}}" title="{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}">
+          <strong>{{note.date | date_to_string: "ordinal", "US" }}</strong>
+          <em>{{note.title}}</em>
           </a>
         </li>
       {% endfor %}

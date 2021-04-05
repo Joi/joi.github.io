@@ -74,28 +74,43 @@ layout: default
 <hr>
 
 <div class="row">
-
 	<div class="large-8 columns" id="">
-    <div class="meal-notes">
-      <h4>Meal Notes</h4>
-      <ul>
-        {% assign meals = site.notes | where_exp:"item", "item.promote contains 'home'" | sort: 'date' | reverse %}
-        {% for meal in meals limit: 3  %}
-          <li>
-            <a href="{{meal.url}}" title="{{meal.feature}} - {{meal.title}}, {{meal.date | date_to_string: 'ordinal', 'US' }}">
-            <strong>{{meal.feature}}</strong>
-            <em>{{meal.title}}, {{meal.date | date_to_string: "ordinal", "US" }}</em>
-            </a>
-            <p>
-            {{meal.content | markdownify  | strip_html | truncatewords: 60, " …" }}
-            </p>
-          </li>
-        {% endfor %}
-      </ul>
+
+    <div class="meal-notes-feed">
+      <h4><a href="/notes/" title="Meal Notes">Meal Notes <em>»</em></a></h4>
+      {% assign meals = site.notes | where_exp:"item", "item.promote contains 'home'" | sort: 'date' | reverse %}
+      {% for meal in meals limit: 2  %}
+        <div class="note">
+          <a class="title" href="{{meal.url}}" title="{{meal.feature}} - {{meal.title}}, {{meal.date | date_to_string: 'ordinal', 'US' }}">
+          <h5>{{meal.feature}}</h5>
+          <em>{{meal.title}}, {{meal.date | date_to_string: "ordinal", "US" }}</em>
+          </a>
+          {% comment %}
+          <p>
+          {{meal.content | markdownify  | strip_html | truncatewords: 60, " …" }}
+          </p>
+          {% endcomment %}
+          {{meal.excerpt | strip_html }}
+        </div>
+      {% endfor %}
+
+      {% comment %}
+      {% for meal in meals offset: 2  %}
+        <div class="note">
+          <a href="{{meal.url}}" title="{{meal.feature}} - {{meal.title}}, {{meal.date | date_to_string: 'ordinal', 'US' }}">
+          <h5>{{meal.feature}}</h5>
+          <em>{{meal.title}}, {{meal.date | date_to_string: "ordinal", "US" }}</em>
+          </a>
+        </div>
+      {% endfor %}
+      {% endcomment %}
+
     </div>
+
   </div>
 
   <div class="large-4 columns" id="posts">
+    <div>
 		<h4>Posts</h4>
 		{% for post in site.posts %}
 		<p><strong><a href="{{ post.url }}"
