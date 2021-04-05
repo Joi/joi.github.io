@@ -24,7 +24,10 @@ layout: default
       <h4>Featured Notes</h4>
       {% assign notes = site.notes | where_exp:"item", "item.feature" %}
       {% for note in notes reversed %}
-        <div class="note">
+      {% if forloop.last %}
+      {% assign lastclass = " last" %}
+      {% endif %}
+        <div class="note{{lastclass}}">
           <a class="title" href="{{note.url}}" title="{{note.feature}} - {{note.title}}, {{note.date | date_to_string: 'ordinal', 'US' }}">
           <h5>{{note.feature}}</h5>
           <em>{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}</em>

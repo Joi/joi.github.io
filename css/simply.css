@@ -541,6 +541,9 @@ hr {
 .marker {
   font-family: 'Permanent Marker';
 }
+.last {
+  border:none !important;
+}
 .bgc-lorange {
   background-color: #FFEEE3;
   padding-left: 0.9em;

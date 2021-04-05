@@ -78,28 +78,31 @@ layout: default
 
     <div class="meal-notes-feed">
       <h4><a href="/notes/" title="Meal Notes">Meal Notes <em>»</em></a></h4>
-      {% assign meals = site.notes | where_exp:"item", "item.promote contains 'home'" | sort: 'date' | reverse %}
-      {% for meal in meals limit: 2  %}
-        <div class="note">
-          <a class="title" href="{{meal.url}}" title="{{meal.feature}} - {{meal.title}}, {{meal.date | date_to_string: 'ordinal', 'US' }}">
-          <h5>{{meal.feature}}</h5>
-          <em>{{meal.title}}, {{meal.date | date_to_string: "ordinal", "US" }}</em>
+      {% assign notes = site.notes | where_exp:"item", "item.promote contains 'home'" | sort: 'date' | reverse %}
+      {% for note in notes limit: 2  %}
+        {% if forloop.last %}
+        {% assign lastclass = " last" %}
+        {% endif %}
+        <div class="note{{lastclass}}">
+          <a class="title" href="{{note.url}}" title="{{note.feature}} - {{note.title}}, {{note.date | date_to_string: 'ordinal', 'US' }}">
+          <h5>{{note.feature}}</h5>
+          <em>{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}</em>
           </a>
           {% comment %}
           <p>
-          {{meal.content | markdownify  | strip_html | truncatewords: 60, " …" }}
+          {{note.content | markdownify  | strip_html | truncatewords: 60, " …" }}
           </p>
           {% endcomment %}
-          {{meal.excerpt | strip_html }}
+          {{note.excerpt | strip_html }}
         </div>
       {% endfor %}
 
       {% comment %}
-      {% for meal in meals offset: 2  %}
+      {% for note in notes offset: 2  %}
         <div class="note">
-          <a href="{{meal.url}}" title="{{meal.feature}} - {{meal.title}}, {{meal.date | date_to_string: 'ordinal', 'US' }}">
-          <h5>{{meal.feature}}</h5>
-          <em>{{meal.title}}, {{meal.date | date_to_string: "ordinal", "US" }}</em>
+          <a href="{{note.url}}" title="{{note.feature}} - {{note.title}}, {{note.date | date_to_string: 'ordinal', 'US' }}">
+          <h5>{{note.feature}}</h5>
+          <em>{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}</em>
           </a>
         </div>
       {% endfor %}
