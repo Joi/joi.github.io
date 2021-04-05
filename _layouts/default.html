@@ -1,36 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="icon" type="image/png" href="https://joi.ito.com/favicon.png">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <link rel="icon" type="image/png" href="https://joi.ito.com/favicon.png">
+  <title>
     Joi's Cooking {{ page.title }}
     {% if page.i_am == "note" %}
       - {{ page.date | date_to_string: "ordinal", "US" }}
     {% endif %}
-</title>
-  
+  </title>
   <!-- link to main stylesheet -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://joi.ito.com/_site/css/foundation.css" type="text/css" />
-	<link rel="stylesheet" href="https://joi.ito.com/_site/css/joi.css" type="text/css" />
-	<link rel="stylesheet" href="/css/simply.css" type="text/css" />
-	<link rel="stylesheet" href="https://joi.ito.com/_site/css/print.css" type="text/css" />
-	<style>		.recipes {
-			list-style-type: none;
-		}
-		.recipes li {
-			margin-bottom: 1em;
-			font-size: 24px;
-			}
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" type="text/css">
+  <link rel="stylesheet" href="https://joi.ito.com/_site/css/foundation.css" type="text/css">
+  <link rel="stylesheet" href="https://joi.ito.com/_site/css/joi.css" type="text/css">
+  <link rel="stylesheet" href="/css/simply.css" type="text/css">
+  <link rel="stylesheet" href="https://joi.ito.com/_site/css/print.css" type="text/css">
+  <style>
+    .recipes {
+      list-style-type: none;
+    }
+    .recipes li {
+      margin-bottom: 1em;
+      font-size: 24px;
+    }
   </style>
   <!-- MathJax Integration -->
   {%- comment -%}
   Picked up here:
   http://csega.github.io/mypost/2017/03/28/how-to-set-up-mathjax-on-jekyll-and-github-properly.html
   
-  Comminting this bit out as it may trigger $ … $ parsing
+  Commenting this bit out as it may trigger $ … $ parsing
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
@@ -46,54 +46,54 @@
 </head>
 <body class="{{ page.i_am }}">
 <nav>
-	<div class="top-bar">
-		<div class="row columns">
-			<div class="top-bar-title">
-				<a id="joilogo" href="/" title="Joi Ito's Cooking" accesskey="1"><img src="/images/joi-ito-cooking-300x135.png" alt="Joi Ito [logo]" width="140" height="63" /></a> 
-				<h1 id="header-name">
-					<a href="/" accesskey="1">Joi Ito's Cooking</a>
-				</h1>
-				<h2 id="header-description">
-					Joi Ito's cookin' on the living web.
-				</h2>
-			</div>
-			<div>
-				<div class="top-bar-left">
-				</div>
-				<div class="top-bar-right">
-					<div id="header-menu">
-						<ul class="menu">
-							<li><a href="https://joi.ito.com/" title="Joi Ito - Weblog">Blog</a></li>
-							<li><a href="https://joi.ito.com/jp/" title="Joi Ito - 日本語 / Japanese Weblog">日本語</a></li>
-							<li><a href="https://joi.ito.com/bio.html" title="Joi Ito's Bio">Bio</a></li>
-							<li><a href="http://diving.ito.com/" title="Joi Ito - Diving Blog">Diving</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+  <div class="top-bar">
+    <div class="row columns">
+      <div class="top-bar-title">
+        <a id="joilogo" href="/" title="Joi Ito's Cooking" accesskey="1"><img src="/images/joi-ito-cooking-300x135.png" alt="Joi Ito [logo]" width="140" height="63" /></a> 
+        <h1 id="header-name">
+          <a href="/" accesskey="1">Joi Ito's Cooking</a>
+        </h1>
+        <h2 id="header-description">
+          Joi Ito's cookin' on the living web.
+        </h2>
+      </div>
+      <div>
+        <div class="top-bar-left">
+        </div>
+        <div class="top-bar-right">
+          <div id="header-menu">
+            <ul class="menu">
+              <li><a href="https://joi.ito.com/" title="Joi Ito - Weblog">Blog</a></li>
+              <li><a href="https://joi.ito.com/jp/" title="Joi Ito - 日本語 / Japanese Weblog">日本語</a></li>
+              <li><a href="https://joi.ito.com/bio.html" title="Joi Ito's Bio">Bio</a></li>
+              <li><a href="http://diving.ito.com/" title="Joi Ito - Diving Blog">Diving</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </nav>
 
 {{ content }} 
 
 <footer>
-	<div class="row columns">
-		<div class="float-right" id="badges">
-			<a id="cc" rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="Creative Commons Attribution 4.0 (BY) - more information"><img alt="Creative Commons License" src="https://joi.ito.com/_site/img/CC-BY-4.0-Badge-360x120.png" /></a> 
-			<div class="is-hidden">
-				<span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">Joi Ito's Weblog</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://joi.ito.com/" property="cc:attributionName" rel="cc:attributionURL">Joi Ito</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
-			</div>
-		</div>
-		<div class="float-left" id="techpro">
-			<a href="https://en.wikipedia.org/wiki/Joi_Ito" title="Joi Ito"><img id="joi-ito-portrait" src="https://joi.ito.com/_site/img/Joi-Ito-Portrait-256px.jpg" width="64" height="64" alt="Joi Ito" border="0" /></a> 
-		</div>
-		<div class="float-left" id="credits">
-			<a id="joi-contact" href="mailto:joi@ito.com?Subject=Note%20from%20Cooking" target="_top">Joi Ito</a><br>
-			<a id="orcid-link" href="https://orcid.org/0000-0002-5136-8978" title="Joichi Ito on ORCiD"><img src="https://joi.ito.com/_site/img/flourish/ORCiD.png" alt="ORCiD"> ORCiD: 0000-0002-5136-8978</a><br>
-			<a id="linkedin-link" href="https://www.linkedin.com/in/joiito"><img width="80" height="15" border="0" alt="View Joichi Ito's profile on LinkedIn" src="https://joi.ito.com/_site/img/services/Linked-in.png" /></a><br>
-		</div>
-	</div>
+  <div class="row columns">
+    <div class="float-right" id="badges">
+      <a id="cc" rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="Creative Commons Attribution 4.0 (BY) - more information"><img alt="Creative Commons License" src="https://joi.ito.com/_site/img/CC-BY-4.0-Badge-360x120.png" /></a> 
+      <div class="is-hidden">
+        <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">Joi Ito's Weblog</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://joi.ito.com/" property="cc:attributionName" rel="cc:attributionURL">Joi Ito</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+      </div>
+    </div>
+    <div class="float-left" id="techpro">
+      <a href="https://en.wikipedia.org/wiki/Joi_Ito" title="Joi Ito"><img id="joi-ito-portrait" src="https://joi.ito.com/_site/img/Joi-Ito-Portrait-256px.jpg" width="64" height="64" alt="Joi Ito" border="0" /></a> 
+    </div>
+    <div class="float-left" id="credits">
+      <a id="joi-contact" href="mailto:joi@ito.com?Subject=Note%20from%20Cooking" target="_top">Joi Ito</a><br>
+      <a id="orcid-link" href="https://orcid.org/0000-0002-5136-8978" title="Joichi Ito on ORCiD"><img src="https://joi.ito.com/_site/img/flourish/ORCiD.png" alt="ORCiD"> ORCiD: 0000-0002-5136-8978</a><br>
+      <a id="linkedin-link" href="https://www.linkedin.com/in/joiito"><img width="80" height="15" border="0" alt="View Joichi Ito's profile on LinkedIn" src="https://joi.ito.com/_site/img/services/Linked-in.png" /></a><br>
+    </div>
+  </div>
 </footer>
 </body>
 </html>
