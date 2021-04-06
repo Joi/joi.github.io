@@ -510,6 +510,10 @@
    "242": "Dinner",
    "328": "Dinner"
   },
+  "2020-09-20": {
+   "246": "Dinner",
+   "505": "Dinner"
+  },
   "2020-09-21": {
    "264": "Dinner"
   },
@@ -974,7 +978,14 @@
   },
   "2021-04-04": {
    "317": "Dinner",
+   "350": "Pantry",
    "504": "Dinner"
+  },
+  "2021-04-05": {
+   "507": "Dinner"
+  },
+  "2021-04-08": {
+   "508": "Breakfast"
   }
  },
  "meal_by_recipe_and_date": {
@@ -1351,7 +1362,8 @@
    "2020-07-11": "Dinner"
   },
   "246": {
-   "2020-09-03": "Dinner"
+   "2020-09-03": "Dinner",
+   "2020-09-20": "Dinner"
   },
   "248": {
    "2020-07-13": "Dinner"
@@ -1582,7 +1594,8 @@
    "2021-02-17": "Dinner",
    "2021-02-25": "Dinner",
    "2021-03-06": "Dinner",
-   "2021-03-17": "Dinner"
+   "2021-03-17": "Dinner",
+   "2021-04-04": "Pantry"
   },
   "352": {
    "2020-09-13": "Dinner",
@@ -1911,6 +1924,15 @@
   },
   "504": {
    "2021-04-04": "Dinner"
+  },
+  "505": {
+   "2020-09-20": "Dinner"
+  },
+  "507": {
+   "2021-04-05": "Dinner"
+  },
+  "508": {
+   "2021-04-08": "Breakfast"
   }
  },
  "meal_data_by_recipe_and_status": {
@@ -3035,6 +3057,10 @@
     {
      "date": "2020-09-03",
      "type": "Dinner"
+    },
+    {
+     "date": "2020-09-20",
+     "type": "Dinner"
     }
    ]
   },
@@ -3526,6 +3552,11 @@
      "date": "2020-12-26",
      "feature": "Top round roast - too tough",
      "type": "Dinner"
+    },
+    {
+     "date": "2021-04-04",
+     "feature": "Slow-roased lamb leg",
+     "type": "Dinner"
     }
    ],
    "nofile": [
@@ -3535,10 +3566,6 @@
     },
     {
      "date": "2021-01-02",
-     "type": "Dinner"
-    },
-    {
-     "date": "2021-04-04",
      "type": "Dinner"
     }
    ],
@@ -3742,6 +3769,10 @@
     {
      "date": "2021-03-17",
      "type": "Dinner"
+    },
+    {
+     "date": "2021-04-04",
+     "type": "Pantry"
     }
    ]
   },
@@ -4613,13 +4644,16 @@
    ]
   },
   "494": {
+   "featured": [
+    {
+     "date": "2020-08-12",
+     "feature": "Reverse sear again",
+     "type": "Dinner"
+    }
+   ],
    "regular": [
     {
      "date": "2020-08-02",
-     "type": "Dinner"
-    },
-    {
-     "date": "2020-08-12",
      "type": "Dinner"
     },
     {
@@ -4702,10 +4736,36 @@
    ]
   },
   "504": {
-   "nofile": [
+   "featured": [
     {
      "date": "2021-04-04",
+     "feature": "Slow-roased lamb leg",
      "type": "Dinner"
+    }
+   ]
+  },
+  "505": {
+   "regular": [
+    {
+     "date": "2020-09-20",
+     "type": "Dinner"
+    }
+   ]
+  },
+  "507": {
+   "featured": [
+    {
+     "date": "2021-04-05",
+     "feature": "Lamb Tagine with left over roast lamb leg",
+     "type": "Dinner"
+    }
+   ]
+  },
+  "508": {
+   "nofile": [
+    {
+     "date": "2021-04-08",
+     "type": "Breakfast"
     }
    ]
   }
@@ -5547,6 +5607,12 @@
     242
    ]
   },
+  "2020-09-20": {
+   "Dinner": [
+    505,
+    246
+   ]
+  },
   "2020-09-21": {
    "Dinner": [
     264
@@ -6300,6 +6366,19 @@
    "Dinner": [
     504,
     317
+   ],
+   "Pantry": [
+    350
+   ]
+  },
+  "2021-04-05": {
+   "Dinner": [
+    507
+   ]
+  },
+  "2021-04-08": {
+   "Breakfast": [
+    508
    ]
   }
  }
