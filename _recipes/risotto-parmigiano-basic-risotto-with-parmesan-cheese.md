@@ -1,7 +1,7 @@
 ---
 title: "Risotto Parmigiano - Basic Risotto with Parmesan Cheese"
 filename: "risotto-parmigiano-basic-risotto-with-parmesan-cheese"
-categories:
+categories: &id001
 - Rice
 cook_time: ''
 created: '2020-06-23 13:15:50'
@@ -40,6 +40,7 @@ servings: 6 as first course
 slug: risotto-parmigiano-basic-risotto-with-parmesan-cheese
 source: Harry's Bar Cookbook
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 925BC2D4-5E40-4CE6-B62B-49042E1643E5-22544-000439DB3B695B3A

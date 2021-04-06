@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Grilled Chicken Sandwich"
 filename: "the-ultimate-grilled-chicken-sandwich"
-categories:
+categories: &id001
 - Chicken
 cook_time: 20 mins
 created: '2020-10-03 11:25:36'
@@ -36,6 +36,7 @@ servings: null
 slug: the-ultimate-grilled-chicken-sandwich
 source: askchefdennis.com
 source_url: https://www.askchefdennis.com/grilled-chicken-sandwich/
+tags: *id001
 total_time: null
 type: null
 uid: 5B6917F2-640D-4C88-9C8A-6191234AF3DF-21766-00000C52AD8F7FBA

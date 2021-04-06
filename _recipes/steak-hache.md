@@ -1,7 +1,7 @@
 ---
 title: "Steak Haché"
 filename: "steak-hache"
-categories:
+categories: &id001
 - Ground Beef
 cook_time: 45 minutes
 created: '2020-05-04 15:30:08'
@@ -30,6 +30,7 @@ servings: Yield 4 servings
 slug: steak-hache
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019231-steak-hache?action=click&module=Local%20Search%20Recipe%20Card&pgType=search&rank=1
+tags: *id001
 total_time: ''
 type: null
 uid: 79CCAC1E-63F0-413E-A6F7-E881BD4AF595-39436-00013F116E966879

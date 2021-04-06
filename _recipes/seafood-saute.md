@@ -1,7 +1,7 @@
 ---
 title: "Seafood Saute"
 filename: "seafood-saute"
-categories:
+categories: &id001
 - Seafood
 cook_time: 5 mins
 created: '2020-09-12 19:36:47'
@@ -42,6 +42,7 @@ servings: ''
 slug: seafood-saute
 source: healthyrecipesblogs.com
 source_url: https://healthyrecipesblogs.com/seafood-saute/
+tags: *id001
 total_time: ''
 type: null
 uid: 2545CB6B-7EEA-46C3-97F4-485CEBBFBB71-50715-0008F838B37D34F1

@@ -1,7 +1,7 @@
 ---
 title: "Sesame Orange Chicken"
 filename: "sesame-orange-chicken"
-categories:
+categories: &id001
 - Chicken
 cook_time: 1h 20min
 created: '2020-02-03 16:08:59'
@@ -31,6 +31,7 @@ servings: 6 portions
 slug: sesame-orange-chicken
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r470647
+tags: *id001
 total_time: null
 type: null
 uid: 3CC9E880-C8F3-4FB6-8FEC-23F66BCB6CFB-408-000050212E4F2D21

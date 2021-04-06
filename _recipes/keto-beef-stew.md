@@ -1,7 +1,7 @@
 ---
 title: "Keto Beef Stew"
 filename: "keto-beef-stew"
-categories:
+categories: &id001
 - Beef
 - Short Ribs
 cook_time: ''
@@ -32,6 +32,7 @@ servings: 'Serving: 1 cup'
 slug: keto-beef-stew
 source: keto-mojo.com
 source_url: https://keto-mojo.com/recipes/keto-beef-stew/?utm_campaign=My%20Mojo%20Morsels%20-%203.27.20%20%28KNZ7xk%29&utm_medium=email&utm_source=%5BMyMojoMorsels%5D%20Engaged%20With%20Food%2FRecipes&_ke=eyJrbF9lbWFpbCI6ICJqb2lAaXRvLmNvbSIsICJrbF9jb21wYW55X2lkIjogIkxwSjhTZSJ9
+tags: *id001
 total_time: ''
 type: null
 uid: 70775420-6676-49E8-9A5C-0059FF5F103D-16595-000012FEE9E67A5A

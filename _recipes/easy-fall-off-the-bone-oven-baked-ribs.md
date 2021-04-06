@@ -1,7 +1,7 @@
 ---
 title: "Easy, Fall-Off-The-Bone Oven Baked Ribs"
 filename: "easy-fall-off-the-bone-oven-baked-ribs"
-categories:
+categories: &id001
 - Pork Spare Ribs
 cook_time: 4hr
 created: '2020-11-01 01:42:46'
@@ -50,6 +50,7 @@ servings: 4 servings
 slug: easy-fall-off-the-bone-oven-baked-ribs
 source: inspiredtaste.net
 source_url: https://www.inspiredtaste.net/7179/sweet-and-spicy-oven-baked-ribs/
+tags: *id001
 total_time: null
 type: null
 uid: 8C1178D3-6F30-4CD3-9582-2561088FC722-7115-00000356970D7E05

@@ -1,7 +1,7 @@
 ---
 title: "Japanese fried chicken - karaage"
 filename: "japanese-fried-chicken-karaage"
-categories:
+categories: &id001
 - Chicken
 cook_time: 30 min
 created: '2020-02-03 15:50:50'
@@ -38,6 +38,7 @@ servings: ''
 slug: japanese-fried-chicken-karaage
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: AF9FDAAB-9F87-45DF-AC3C-6D85FFF3DF26-408-00004F23542EA29A

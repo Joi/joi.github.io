@@ -1,7 +1,7 @@
 ---
 title: "Slow Cooker Pulled Pork"
 filename: "slow-cooker-pulled-pork"
-categories:
+categories: &id001
 - Pork Shoulder
 cook_time: ''
 created: '2020-10-24 01:24:31'
@@ -48,6 +48,7 @@ servings: ''
 slug: slow-cooker-pulled-pork
 source: amindfullmom.com
 source_url: https://amindfullmom.com/pulled-pork-and-homemade-coleslaw/
+tags: *id001
 total_time: ''
 type: null
 uid: EA6FEA54-3211-4BD6-ACBA-885733EB3D60-7512-0002E383427C3CE3

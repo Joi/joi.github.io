@@ -1,7 +1,7 @@
 ---
 title: "Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar"
 filename: "sand-dabs-with-shallots-sea-beans-sherry-vinegar"
-categories:
+categories: &id001
 - Sole
 - Flounder
 - Fluke
@@ -64,6 +64,7 @@ servings: '4'
 slug: sand-dabs-with-shallots-sea-beans-sherry-vinegar
 source: The Zuni Cafe Cookbook
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 82E24D0C-460D-4289-95EE-8D5AF55D365A-13002-0005925FAFB78D5B

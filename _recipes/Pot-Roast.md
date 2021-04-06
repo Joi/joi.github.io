@@ -1,7 +1,7 @@
 ---
 title: "Pot Roast"
 filename: "pot-roast"
-categories:
+categories: &id001
 - Beef
 - Short Ribs
 - Chuck Roast
@@ -42,6 +42,7 @@ servings: Yield 6 to 8 servings
 slug: pot-roast
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018016-pot-roast?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
+tags: *id001
 total_time: ''
 type: null
 uid: 9E51E154-F0B2-46FC-BF16-AF76BFEC11E9-16595-00014AA0B768B050

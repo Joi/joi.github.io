@@ -1,7 +1,7 @@
 ---
 title: "Macaroni and Cheese"
 filename: "macaroni-and-cheese"
-categories:
+categories: &id001
 - Pasta
 - Kio
 cook_time: ''
@@ -34,6 +34,7 @@ servings: ''
 slug: macaroni-and-cheese
 source: Mashup
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 9B1AB1E8-BE10-4F36-B0F0-9E37B79BF387-4647-00010AE1B323C85C

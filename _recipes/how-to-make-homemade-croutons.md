@@ -1,7 +1,7 @@
 ---
 title: "How to Make Homemade Croutons"
 filename: "how-to-make-homemade-croutons"
-categories:
+categories: &id001
 - Garnish
 cook_time: 20 minutes
 created: '2020-08-20 19:19:42'
@@ -36,6 +36,7 @@ servings: 'Yield: 4 -6 cups'
 slug: how-to-make-homemade-croutons
 source: gimmesomeoven.com
 source_url: https://www.gimmesomeoven.com/how-to-make-homemade-croutons/
+tags: *id001
 total_time: null
 type: null
 uid: F0A88DB0-9EEF-4D37-B48D-E92C27F4FA0B-1160-0000008B1EE49A3B

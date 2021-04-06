@@ -1,7 +1,7 @@
 ---
 title: "Super-Crisp Roasted Potatoes"
 filename: "super-crisp-roasted-potatoes"
-categories:
+categories: &id001
 - Potato
 cook_time: ''
 created: '2020-09-12 19:38:19'
@@ -77,6 +77,7 @@ servings: 4-6
 slug: super-crisp-roasted-potatoes
 source: The Food Lab
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: C1015696-C7AF-4733-9057-844DB17B93D1-50715-0008F84FEDDFD354

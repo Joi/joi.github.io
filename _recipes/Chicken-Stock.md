@@ -1,7 +1,7 @@
 ---
 title: "Chicken Stock"
 filename: "chicken-stock"
-categories:
+categories: &id001
 - Chicken
 - Soup
 cook_time: ''
@@ -60,6 +60,7 @@ servings: ''
 slug: chicken-stock
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C

@@ -1,7 +1,7 @@
 ---
 title: "Skate with Green Herb Sauce"
 filename: "skate-with-green-herb-sauce"
-categories:
+categories: &id001
 - Skate Wings
 cook_time: 15 minutes
 created: '2020-06-21 15:20:08'
@@ -46,6 +46,7 @@ servings: 'Serving size: 4'
 slug: skate-with-green-herb-sauce
 source: foodrepublic.com
 source_url: https://www.foodrepublic.com/recipes/skate-with-green-herb-sauce-recipe/?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly
+tags: *id001
 total_time: null
 type: null
 uid: D70BB223-B592-4380-9825-6647483A4115-19099-00000BF685ACFEA9

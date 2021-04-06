@@ -1,7 +1,7 @@
 ---
 title: "Easy Calamari Recipe with Garlic-Lime Sauce"
 filename: "easy-calamari-recipe-with-garlic-lime-sauce"
-categories:
+categories: &id001
 - Squid
 cook_time: 6 mins
 created: '2020-07-01 18:18:44'
@@ -42,6 +42,7 @@ servings: Serves 4
 slug: easy-calamari-recipe-with-garlic-lime-sauce
 source: themediterraneandish.com
 source_url: https://www.themediterraneandish.com/15-minute-calamari-recipe/
+tags: *id001
 total_time: ''
 type: null
 uid: 2831FFFC-E6FD-4540-8340-DABBF6E34558-631-0000611A318FD25C

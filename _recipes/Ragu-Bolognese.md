@@ -1,7 +1,7 @@
 ---
 title: "Ragú Bolognese"
 filename: "ragu-bolognese"
-categories:
+categories: &id001
 - Pasta
 - Veal
 - Italian
@@ -69,6 +69,7 @@ servings: 2 cups
 slug: ragu-bolognese
 source: Harry's Bar Cookbook
 source_url: null
+tags: *id001
 total_time: null
 type: null
 uid: 262E123B-CE5F-49F4-A4BF-6EB433B9D6DA-408-0000264A91039DA4

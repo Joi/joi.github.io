@@ -1,7 +1,7 @@
 ---
 title: "Whatever You Want Soup"
 filename: "whatever-you-want-soup"
-categories:
+categories: &id001
 - Pork
 - Veal
 - Lamb
@@ -43,6 +43,7 @@ servings: Yield 6 to 8 servings
 slug: whatever-you-want-soup
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018526-whatever-you-want-soup?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
+tags: *id001
 total_time: ''
 type: null
 uid: C888788B-88DB-4A36-90E2-6DC9A5F6FC2A-13288-000008518665F880

@@ -1,7 +1,7 @@
 ---
 title: "Guacamole"
 filename: "guacamole"
-categories:
+categories: &id001
 - Spread
 cook_time: 5min
 created: '2020-02-02 12:32:40'
@@ -28,6 +28,7 @@ servings: 1 total recipe
 slug: guacamole
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r91292
+tags: *id001
 total_time: null
 type: null
 uid: 7F615235-DD16-4572-857C-96791368D738-25037-00009F5521558026

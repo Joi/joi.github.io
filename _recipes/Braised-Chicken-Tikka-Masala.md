@@ -1,7 +1,7 @@
 ---
 title: "Braised Chicken Tikka Masala"
 filename: "braised-chicken-tikka-masala"
-categories:
+categories: &id001
 - Chicken
 - Curry
 cook_time: 30 mins
@@ -47,6 +47,7 @@ servings: 'Serves: - 6 people'
 slug: braised-chicken-tikka-masala
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5

@@ -1,7 +1,7 @@
 ---
 title: "Perfect Pan-Seared Pork Chops"
 filename: "perfect-pan-seared-pork-chops"
-categories:
+categories: &id001
 - Pork
 cook_time: 1 day
 created: '2020-12-09 01:08:15'
@@ -42,6 +42,7 @@ servings: Serves 2
 slug: perfect-pan-seared-pork-chops
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2014/03/perfect-pan-seared-pork-chop-recipe.html
+tags: *id001
 total_time: ''
 type: null
 uid: D21590BB-EC09-472F-BD99-DA395EE0C0C1-83053-00018930316CBE48

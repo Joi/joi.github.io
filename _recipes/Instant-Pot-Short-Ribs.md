@@ -1,7 +1,7 @@
 ---
 title: "Instant Pot Short Ribs"
 filename: "instant-pot-short-ribs"
-categories:
+categories: &id001
 - Beef
 - Short Ribs
 cook_time: 1 hour
@@ -44,6 +44,7 @@ servings: ''
 slug: instant-pot-short-ribs
 source: pressurecookrecipes.com
 source_url: https://www.pressurecookrecipes.com/instant-pot-short-ribs/
+tags: *id001
 total_time: ''
 type: null
 uid: C2186635-4946-49D4-AB8C-D7D88DE283A3-64741-0002E2EF431210DA

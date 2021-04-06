@@ -1,7 +1,7 @@
 ---
 title: "Spaghetti with Bottarga"
 filename: "spaghetti-with-bottarga"
-categories:
+categories: &id001
 - Pasta
 cook_time: null
 created: '2020-09-16 11:25:25'
@@ -38,6 +38,7 @@ servings: 4 person(s)
 slug: spaghetti-with-bottarga
 source: cookingwithnonna.com
 source_url: https://www.cookingwithnonna.com/italian-cuisine/spaghetti-with-bottarga.html
+tags: *id001
 total_time: null
 type: null
 uid: 336D1235-3BAF-452B-98DE-AC4EDED76029-13501-0000079F68DBA355

@@ -1,7 +1,7 @@
 ---
 title: "Braised Tongue"
 filename: "braised-tongue"
-categories:
+categories: &id001
 - Tongue
 cook_time: 5 hours
 created: '2021-01-03 16:21:40'
@@ -31,6 +31,7 @@ servings: Serves 6
 slug: braised-tongue
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018843-braised-tongue?smid=ck-recipe-iOS-share
+tags: *id001
 total_time: null
 type: null
 uid: 5D073E7D-19FE-4D54-A7FB-86ADF7580536-84831-0000442199C7FDDD

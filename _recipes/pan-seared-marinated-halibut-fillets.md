@@ -1,7 +1,7 @@
 ---
 title: "Pan-Seared Marinated Halibut Fillets"
 filename: "pan-seared-marinated-halibut-fillets"
-categories:
+categories: &id001
 - Fish
 - White Fish
 cook_time: 20 minutes
@@ -44,6 +44,7 @@ servings: Yield 4 servings
 slug: pan-seared-marinated-halibut-fillets
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1013187-pan-seared-marinated-halibut-fillets?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
+tags: *id001
 total_time: null
 type: null
 uid: BCB6652B-7F95-40E9-AE45-43960309E20A-18848-00000C88B08616D9

@@ -1,7 +1,7 @@
 ---
 title: "Garam Masala"
 filename: "garam-masala"
-categories:
+categories: &id001
 - Curry
 cook_time: '10'
 created: '2021-02-04 14:58:46'
@@ -29,6 +29,7 @@ servings: null
 slug: garam-masala
 source: feastingathome.com
 source_url: https://www.feastingathome.com/garam-masala-recipe/
+tags: *id001
 total_time: null
 type: null
 uid: 091C9703-71CD-4710-9D13-0BA79AAB8724-10686-0000065A926CC623

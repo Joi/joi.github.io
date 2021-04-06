@@ -1,7 +1,7 @@
 ---
 title: "Parmesan Crusted Pollock"
 filename: "parmesan-crusted-pollock"
-categories:
+categories: &id001
 - Fish
 - White Fish
 - Pollack
@@ -52,6 +52,7 @@ servings: '4'
 slug: parmesan-crusted-pollock
 source: seafoodnutrition.org
 source_url: https://www.seafoodnutrition.org/project/parmesan-crusted-pollock/
+tags: *id001
 total_time: ''
 type: null
 uid: 207580F0-344A-4CB4-9B63-C99743340EEE-13891-000102267CE7FBD9

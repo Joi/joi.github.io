@@ -1,7 +1,7 @@
 ---
 title: "Pressure Cooker Pot Roast"
 filename: "pressure-cooker-pot-roast"
-categories:
+categories: &id001
 - Beef
 - Chuck Roast
 cook_time: 1 3/4 hours
@@ -37,6 +37,7 @@ servings: Yield 6 servings
 slug: pressure-cooker-pot-roast
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1020846-pressure-cooker-pot-roast?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
+tags: *id001
 total_time: ''
 type: null
 uid: FB77B4E0-C583-4E0D-B54F-B9A9609CE833-407-00004C642237C3D7

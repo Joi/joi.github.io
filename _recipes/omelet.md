@@ -1,7 +1,7 @@
 ---
 title: "Omelet"
 filename: "omelet"
-categories:
+categories: &id001
 - Egg
 cook_time: 5 minutes
 created: '2020-03-29 01:33:34'
@@ -35,6 +35,7 @@ servings: Yield 1 serving
 slug: omelet
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018367-omelet
+tags: *id001
 total_time: ''
 type: null
 uid: 47310356-938C-466A-B754-5B0DC3B082F9-13364-00000855130C737E

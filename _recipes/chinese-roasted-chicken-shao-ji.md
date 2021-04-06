@@ -1,7 +1,7 @@
 ---
 title: "Chinese Roasted Chicken (烧鸡)"
 filename: "chinese-roasted-chicken-shao-ji"
-categories:
+categories: &id001
 - Chicken
 cook_time: 1 hr
 created: '2020-12-28 20:09:05'
@@ -49,6 +49,7 @@ servings: 'Servings: 3'
 slug: chinese-roasted-chicken-shao-ji
 source: chinasichuanfood.com
 source_url: https://www.chinasichuanfood.com/chinese-roasted-chicken/
+tags: *id001
 total_time: null
 type: null
 uid: C35DC53C-4546-403C-A6E8-E7DA8F8ADBD0-1607-00007D8057C690B4

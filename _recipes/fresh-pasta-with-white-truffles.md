@@ -1,7 +1,7 @@
 ---
 title: "Fresh Pasta with White Truffles"
 filename: "fresh-pasta-with-white-truffles"
-categories:
+categories: &id001
 - Truffles
 cook_time: 10 minutes
 created: '2020-11-18 12:53:31'
@@ -38,6 +38,7 @@ servings: Serves 4 - 6
 slug: fresh-pasta-with-white-truffles
 source: italianfoodforever.com
 source_url: https://www.italianfoodforever.com/2013/10/umbrian-truffle-festival-in-pietralunga-fresh-pasta-with-white-truffles/
+tags: *id001
 total_time: null
 type: null
 uid: 2EFF33F1-A57C-45F1-A682-E5243CE4F1D0-42657-00001ECE2A68D4C0

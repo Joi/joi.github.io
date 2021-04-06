@@ -1,7 +1,7 @@
 ---
 title: "Baked Flounder with Panko and Parmesan"
 filename: "baked-flounder-with-panko-and-parmesan"
-categories:
+categories: &id001
 - Fish
 - White Fish
 - Flounder
@@ -41,6 +41,7 @@ servings: '4'
 slug: baked-flounder-with-panko-and-parmesan
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/231549/baked-flounder-with-panko-and-parmesan/
+tags: *id001
 total_time: ''
 type: null
 uid: 1630FF61-789C-46DC-BACB-1427D27506BB-14694-000078BF91292AA2

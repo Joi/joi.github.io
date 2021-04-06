@@ -1,7 +1,7 @@
 ---
 title: "Roasted Branzino with Caper Butter"
 filename: "roasted-branzino-with-caper-butter"
-categories:
+categories: &id001
 - Branzino
 cook_time: 40 mins
 created: '2020-11-24 10:55:11'
@@ -49,6 +49,7 @@ servings: 'Yield: 8'
 slug: roasted-branzino-with-caper-butter
 source: foodandwine.com
 source_url: https://www.foodandwine.com/recipes/roasted-branzino-caper-butter
+tags: *id001
 total_time: null
 type: null
 uid: B40DF28F-D2C8-4BC1-8E47-5009C4E843E4-68048-0000AAD508735823

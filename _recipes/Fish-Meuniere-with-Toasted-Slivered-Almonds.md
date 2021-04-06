@@ -1,7 +1,7 @@
 ---
 title: "Fish Meuniere with Toasted Slivered Almonds"
 filename: "fish-meuniere-with-toasted-slivered-almonds"
-categories:
+categories: &id001
 - Fish
 - Seafood
 - White Fish
@@ -35,6 +35,7 @@ servings: Serves 4
 slug: fish-meuniere-with-toasted-slivered-almonds
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/1399-fish-meuniere-with-toasted-slivered-almonds?incode=MCSCM00L0&ref=new_search_experience_7
+tags: *id001
 total_time: ''
 type: null
 uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4

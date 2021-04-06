@@ -1,7 +1,7 @@
 ---
 title: "Foolproof Boiled Corn"
 filename: "foolproof-boiled-corn"
-categories:
+categories: &id001
 - Corn
 cook_time: ''
 created: '2020-07-04 13:45:08'
@@ -44,6 +44,7 @@ servings: Serves 4 to 6
 slug: foolproof-boiled-corn
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/9071-foolproof-boiled-corn?t=1593870284
+tags: *id001
 total_time: ''
 type: null
 uid: 6F310E22-E32B-458B-8309-74E56BB2E992-631-00013DE97356728A

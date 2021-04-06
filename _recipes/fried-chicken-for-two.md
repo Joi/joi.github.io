@@ -1,7 +1,7 @@
 ---
 title: "Fried Chicken for Two"
 filename: "fried-chicken-for-two"
-categories:
+categories: &id001
 - Chicken
 cook_time: ''
 created: '2020-05-14 16:25:40'
@@ -40,6 +40,7 @@ servings: Serves 2
 slug: fried-chicken-for-two
 source: cookscountry.com
 source_url: https://www.cookscountry.com/recipes/8084-fried-chicken-for-two?t=1589473512
+tags: *id001
 total_time: ''
 type: null
 uid: 1F8D6A3D-6C64-456C-A878-D10BCCF9DCE2-13891-0000AD5B56F3F782

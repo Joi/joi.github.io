@@ -1,7 +1,7 @@
 ---
 title: "Braised Lamb with Egg and Lemon"
 filename: "braised-lamb-with-egg-and-lemon"
-categories:
+categories: &id001
 - Lamb
 - Meat
 cook_time: 2 1/2 hours
@@ -34,6 +34,7 @@ servings: Yield 4 to 6 servings
 slug: braised-lamb-with-egg-and-lemon
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018017-braised-lamb-with-egg-and-lemon?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=25
+tags: *id001
 total_time: ''
 type: null
 uid: 6CC84790-1010-48A2-8720-1766D78708EE-13891-0000A740E9DE8711

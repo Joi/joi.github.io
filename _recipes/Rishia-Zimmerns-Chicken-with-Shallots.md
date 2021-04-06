@@ -1,7 +1,7 @@
 ---
 title: "Rishia Zimmern’s Chicken with Shallots"
 filename: "rishia-zimmerns-chicken-with-shallots"
-categories:
+categories: &id001
 - Chicken
 - Meat
 cook_time: 1 hour 30 minutes
@@ -49,6 +49,7 @@ servings: Yield 4 to 6 servings
 slug: rishia-zimmerns-chicken-with-shallots
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1016135-rishia-zimmerns-chicken-with-shallots?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
+tags: *id001
 total_time: ''
 type: null
 uid: 57A666F1-E339-4107-80E4-F9F286673626-39996-000020226ACB939A

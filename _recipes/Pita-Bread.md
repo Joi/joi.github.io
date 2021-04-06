@@ -1,7 +1,7 @@
 ---
 title: "Pita Bread"
 filename: "pita-bread"
-categories:
+categories: &id001
 - Bread and Biscuits
 cook_time: 2h
 created: '2020-04-11 14:59:30'
@@ -29,6 +29,7 @@ servings: 8 pieces
 slug: pita-bread
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r91285
+tags: *id001
 total_time: ''
 type: null
 uid: A2C1D3A5-6BAB-47AE-B15E-D7E4F4B559F1-53878-00004CEED8E59BC2

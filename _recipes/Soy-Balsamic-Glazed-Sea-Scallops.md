@@ -1,7 +1,7 @@
 ---
 title: "Soy-Balsamic Glazed Sea Scallops"
 filename: "soy-balsamic-glazed-sea-scallops"
-categories:
+categories: &id001
 - Scallops
 cook_time: 12 min
 created: '2020-07-18 11:43:17'
@@ -47,6 +47,7 @@ servings: Yields 2
 slug: soy-balsamic-glazed-sea-scallops
 source: withsaltandwit.com
 source_url: https://withsaltandwit.com/soy-balsamic-glazed-sea-scallops/
+tags: *id001
 total_time: null
 type: null
 uid: 8882747A-DD2F-4B5F-9AD9-984367393EB2-23547-00000F35FF5BA070

@@ -1,7 +1,7 @@
 ---
 title: "Easy Pickled Cabbage"
 filename: "easy-pickled-cabbage"
-categories:
+categories: &id001
 - Vegetables
 - Pickles
 cook_time: 10 mins
@@ -44,6 +44,7 @@ servings: null
 slug: easy-pickled-cabbage
 source: arbuz.com
 source_url: https://arbuz.com/recipes/easy-pickled-cabbage-recipe/
+tags: *id001
 total_time: null
 type: null
 uid: C4408D8E-DF96-4243-987A-C2B6CCBFEB43-15978-00022DB4A8BED335

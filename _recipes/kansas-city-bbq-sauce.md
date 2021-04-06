@@ -1,7 +1,7 @@
 ---
 title: "Kansas City BBQ Sauce"
 filename: "kansas-city-bbq-sauce"
-categories:
+categories: &id001
 - Sauce
 - BBQ
 cook_time: 25 mins
@@ -30,6 +30,7 @@ servings: 'Servings : 3'
 slug: kansas-city-bbq-sauce
 source: heygrillhey.com
 source_url: https://heygrillhey.com/kansas-city-style-bbq-sauce/
+tags: *id001
 total_time: ''
 type: null
 uid: E3483D3E-62EE-4AE0-BB6C-FA55C3187DFB-1710-00000127511567EB

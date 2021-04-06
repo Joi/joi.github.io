@@ -1,7 +1,7 @@
 ---
 title: "Porchetta Pork Roast"
 filename: "porchetta-pork-roast"
-categories:
+categories: &id001
 - Pork Shoulder
 cook_time: 4 to 5 hours
 created: '2020-06-13 15:22:14'
@@ -31,6 +31,7 @@ servings: Yield 8 to 12 servings
 slug: porchetta-pork-roast
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017068-porchetta-pork-roast?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=10
+tags: *id001
 total_time: ''
 type: null
 uid: 6F983221-8568-4D59-A9B6-B07AE5C641D7-1358-00012EF59374CF81

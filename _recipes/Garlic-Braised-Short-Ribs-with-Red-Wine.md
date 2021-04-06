@@ -1,7 +1,7 @@
 ---
 title: "Garlic Braised Short Ribs with Red Wine"
 filename: "garlic-braised-short-ribs-with-red-wine"
-categories:
+categories: &id001
 - Short Ribs
 cook_time: null
 created: '2020-07-06 23:46:08'
@@ -40,6 +40,7 @@ servings: Yield 6 servings
 slug: garlic-braised-short-ribs-with-red-wine
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019034-garlic-braised-short-ribs-with-red-wine?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=9
+tags: *id001
 total_time: 4 hr 30 min
 type: null
 uid: 5E4F61E2-22CC-4E47-A550-BD0266EF9E1C-11634-00000628B8D8587F

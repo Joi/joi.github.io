@@ -1,7 +1,7 @@
 ---
 title: "Minestrone"
 filename: "minestrone"
-categories:
+categories: &id001
 - Italian
 - Soup
 cook_time: null
@@ -61,6 +61,7 @@ servings: SERVES 6 AS A FIRST COURSE
 slug: minestrone
 source: Harry's Bar Cookbook
 source_url: null
+tags: *id001
 total_time: null
 type: null
 uid: D3E70F76-8A68-4AD8-8725-A359CA2D231A-408-0000001C0E3F872C

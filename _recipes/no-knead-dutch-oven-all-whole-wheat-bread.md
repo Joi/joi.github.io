@@ -1,7 +1,7 @@
 ---
 title: "No Knead Dutch Oven All Whole Wheat Bread"
 filename: "no-knead-dutch-oven-all-whole-wheat-bread"
-categories:
+categories: &id001
 - Bread and Biscuits
 cook_time: 45 mins
 created: '2020-04-21 18:23:04'
@@ -32,6 +32,7 @@ servings: ''
 slug: no-knead-dutch-oven-all-whole-wheat-bread
 source: jocooks.com
 source_url: https://www.jocooks.com/recipes/no-knead-cast-iron-whole-wheat-bread/
+tags: *id001
 total_time: ''
 type: null
 uid: 24F546B1-42B7-4D60-ABE4-CC08689C9C56-89150-0000F22507B4A841

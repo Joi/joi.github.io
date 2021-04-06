@@ -1,7 +1,7 @@
 ---
 title: "Sweet and Sour Pork Ribs"
 filename: "sweet-and-sour-pork-ribs"
-categories:
+categories: &id001
 - Pork
 cook_time: 30min
 created: '2020-02-03 15:58:54'
@@ -28,6 +28,7 @@ servings: 4 portions
 slug: sweet-and-sour-pork-ribs
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r449778
+tags: *id001
 total_time: null
 type: null
 uid: 20B902DA-FBD0-4411-8520-D0C31A1B2EB3-408-00004F927B86A8EA

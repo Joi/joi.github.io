@@ -1,7 +1,7 @@
 ---
 title: "Pan-Seared Steaks"
 filename: "pan-seared-steaks"
-categories:
+categories: &id001
 - Steaks
 cook_time: ''
 created: '2020-03-17 22:02:24'
@@ -26,6 +26,7 @@ servings: Serves 4
 slug: pan-seared-steaks
 source: americastestkitchen.com
 source_url: https://www.americastestkitchen.com/recipes/6001-pan-seared-steaks?extcode=MCSAM10L0
+tags: *id001
 total_time: ''
 type: null
 uid: EC1575F2-8530-4E54-8D3D-AB1FD496EF7E-6466-000004766464E1E1

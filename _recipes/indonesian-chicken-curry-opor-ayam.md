@@ -1,7 +1,7 @@
 ---
 title: "Indonesian Chicken Curry (Opor Ayam)"
 filename: "indonesian-chicken-curry-opor-ayam"
-categories:
+categories: &id001
 - Chicken
 cook_time: 70 minutes
 created: '2020-03-26 15:44:51'
@@ -34,6 +34,7 @@ servings: Yield 6 servings
 slug: indonesian-chicken-curry-opor-ayam
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018204-indonesian-chicken-curry-opor-ayam?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=17
+tags: *id001
 total_time: null
 type: null
 uid: 4DD0191F-C05E-4C84-86AF-DAD91B101A5F-67145-001153F3C917B389

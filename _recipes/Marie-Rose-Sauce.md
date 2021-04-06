@@ -1,7 +1,7 @@
 ---
 title: "Marie Rose Sauce"
 filename: "marie-rose-sauce"
-categories:
+categories: &id001
 - Shrimp
 - Crab
 - Sauce
@@ -33,6 +33,7 @@ servings: ''
 slug: marie-rose-sauce
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: B6713303-47E6-4EC6-B28A-A94F33DE95C9-31488-00001728BCEAC9EC

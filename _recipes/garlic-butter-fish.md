@@ -1,7 +1,7 @@
 ---
 title: "Garlic Butter Fish"
 filename: "garlic-butter-fish"
-categories:
+categories: &id001
 - Fish
 - White Fish
 cook_time: 10 minutes
@@ -50,6 +50,7 @@ servings: 'Yield: 3 people'
 slug: garlic-butter-fish
 source: rasamalaysia.com
 source_url: https://rasamalaysia.com/garlic-butter-fish/?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly
+tags: *id001
 total_time: ''
 type: null
 uid: B07937CB-BFC1-4141-AB33-9EA274BA7FA5-13891-0001025AF4838E50

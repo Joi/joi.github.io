@@ -1,7 +1,7 @@
 ---
 title: "Roast Haddock Fillet with Scalloped Potatoes"
 filename: "roast-haddock-fillet-with-scalloped-potatoes"
-categories:
+categories: &id001
 - Fish
 - White Fish
 cook_time: 45 minutes
@@ -47,6 +47,7 @@ servings: Yield 4 servings
 slug: roast-haddock-fillet-with-scalloped-potatoes
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/7083-roast-haddock-fillet-with-scalloped-potatoes?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
+tags: *id001
 total_time: null
 type: null
 uid: CDA05BA7-DD41-4943-AEE6-111555D36C4D-38252-00015A0DAE34F709

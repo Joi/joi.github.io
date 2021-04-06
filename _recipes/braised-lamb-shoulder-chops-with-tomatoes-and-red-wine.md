@@ -1,7 +1,7 @@
 ---
 title: "Braised Lamb Shoulder Chops with Tomatoes and Red Wine"
 filename: "braised-lamb-shoulder-chops-with-tomatoes-and-red-wine"
-categories:
+categories: &id001
 - Lamb
 - Meat
 cook_time: ''
@@ -31,6 +31,7 @@ servings: Serves 4
 slug: braised-lamb-shoulder-chops-with-tomatoes-and-red-wine
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/1185-braised-lamb-shoulder-chops-with-tomatoes-and-red-wine?incode=MCSCD00L0&ref=new_search_experience_1
+tags: *id001
 total_time: ''
 type: null
 uid: D13408BA-0577-4A97-88CE-71405F9D9E67-13891-0000A77B222915D4

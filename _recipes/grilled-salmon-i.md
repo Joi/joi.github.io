@@ -1,7 +1,7 @@
 ---
 title: "Grilled Salmon I"
 filename: "grilled-salmon-i"
-categories:
+categories: &id001
 - Salmon
 cook_time: 16 mins
 created: '2020-06-16 15:14:26'
@@ -28,6 +28,7 @@ servings: 'Servings: 6'
 slug: grilled-salmon-i
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/12720/grilled-salmon-i/
+tags: *id001
 total_time: ''
 type: null
 uid: E83D1501-A3B9-45C3-B20E-443300F6087A-1358-00021A4603DDCF39

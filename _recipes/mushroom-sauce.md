@@ -1,7 +1,7 @@
 ---
 title: "Mushroom Sauce"
 filename: "mushroom-sauce"
-categories:
+categories: &id001
 - Steaks
 - Sauce
 - Mushroom
@@ -48,6 +48,7 @@ servings: Servings 4
 slug: mushroom-sauce
 source: recipetineats.com
 source_url: https://www.recipetineats.com/mushroom-sauce/
+tags: *id001
 total_time: null
 type: null
 uid: 68E902BC-8596-47D9-9CCE-401E57641CB4-26466-000013C4A9633685

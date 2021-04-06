@@ -1,7 +1,7 @@
 ---
 title: "Steakhouse-Style Grilled Marinated Flank Steak"
 filename: "steakhouse-style-grilled-marinated-flank-steak"
-categories:
+categories: &id001
 - Hanger steak
 cook_time: at least 1 1/2 hours
 created: '2021-03-27 17:19:28'
@@ -47,6 +47,7 @@ servings: Serves 4 to 6
 slug: steakhouse-style-grilled-marinated-flank-steak
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2011/05/steakhouse-style-grilled-marinated-flank-stea.html
+tags: *id001
 total_time: null
 type: null
 uid: D3C390CB-B1AA-48D6-B5C4-76888EF3EE6D

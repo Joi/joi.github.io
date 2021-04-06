@@ -1,7 +1,7 @@
 ---
 title: "Shrimp and Endive Salad"
 filename: "shrimp-and-endive-salad"
-categories:
+categories: &id001
 - Salad
 - Shrimp
 cook_time: ''
@@ -44,6 +44,7 @@ servings: ''
 slug: shrimp-and-endive-salad
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 2E32CCAE-E32E-464E-8933-8BD80801B7C1-641-0001405C698FD612

@@ -1,7 +1,7 @@
 ---
 title: "Delmonico Steaks with Balsamic Onions and Sauce"
 filename: "delmonico-steaks-with-balsamic-onions-and-sauce"
-categories:
+categories: &id001
 - Steaks
 cook_time: 30 min
 created: '2020-11-11 18:02:00'
@@ -59,6 +59,7 @@ servings: 'Serves: 4'
 slug: delmonico-steaks-with-balsamic-onions-and-sauce
 source: justapinch.com
 source_url: https://www.justapinch.com/recipes/main-course/steaks-chops/delmonico-steaks-with-balsamic-onions-and-sauce.html
+tags: *id001
 total_time: null
 type: null
 uid: D4299074-37F6-44AE-8F7F-A71B686EBE77-32901-000013EA8945E420

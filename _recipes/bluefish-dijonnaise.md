@@ -1,7 +1,7 @@
 ---
 title: "Bluefish Dijonnaise"
 filename: "bluefish-dijonnaise"
-categories:
+categories: &id001
 - Blue Fish
 cook_time: 20 minutes
 created: '2020-06-05 15:45:11'
@@ -29,6 +29,7 @@ servings: Serves 4
 slug: bluefish-dijonnaise
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1012738-bluefish-dijonnaise
+tags: *id001
 total_time: ''
 type: null
 uid: C2E19284-E62B-4831-ABEB-78B65D403B2C-29546-0006136271828536

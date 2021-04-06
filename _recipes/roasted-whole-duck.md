@@ -1,7 +1,7 @@
 ---
 title: "Roasted Whole Duck"
 filename: "roasted-whole-duck"
-categories:
+categories: &id001
 - Meat
 - Duck
 cook_time: 30 mins
@@ -57,6 +57,7 @@ servings: 'Yield: 2 servings'
 slug: roasted-whole-duck
 source: thespruceeats.com
 source_url: https://www.thespruceeats.com/roast-duck-pure-deliciousness-913179
+tags: *id001
 total_time: ''
 type: null
 uid: 60AB7A1E-18FD-4C49-953F-55FD0C9A8CFE-40248-00027200CB6AB66D

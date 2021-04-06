@@ -1,7 +1,7 @@
 ---
 title: "BBQ Sauce"
 filename: "bbq-sauce"
-categories:
+categories: &id001
 - Sauce
 - BBQ
 cook_time: ''
@@ -33,6 +33,7 @@ servings: ''
 slug: bbq-sauce
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 6CF0D8FC-A8FE-4D31-A163-38D715503D3D-29053-000401226697C402

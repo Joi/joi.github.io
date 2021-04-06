@@ -1,7 +1,7 @@
 ---
 title: "Hummus (Ilan Hall)"
 filename: "hummus-ilan-hall"
-categories:
+categories: &id001
 - Spread
 cook_time: 9h 5min
 created: '2020-02-02 12:32:12'
@@ -31,6 +31,7 @@ servings: 1 total recipe
 slug: hummus-ilan-hall
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r418424
+tags: *id001
 total_time: ''
 type: null
 uid: 0D50D58F-97BC-420D-8B90-24B68665D672-25037-00009F4D10ECF74A

@@ -1,7 +1,7 @@
 ---
 title: "Indoor-Smoked Salt-And-Pepper Beef Ribs"
 filename: "indoor-smoked-salt-and-pepper-beef-ribs"
-categories:
+categories: &id001
 - Beef
 - Ribs
 cook_time: 7 hours 30 minutes
@@ -30,6 +30,7 @@ servings: Serves 4
 slug: indoor-smoked-salt-and-pepper-beef-ribs
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1014236-indoor-smoked-salt-and-pepper-beef-ribs?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=15
+tags: *id001
 total_time: ''
 type: null
 uid: AF68B12A-0B8D-4B25-8CF9-B95BA29D1D13-16595-00015255043617C2

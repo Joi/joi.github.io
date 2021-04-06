@@ -1,7 +1,7 @@
 ---
 title: "Cal Peternell’s Braised Chicken Legs"
 filename: "cal-peternells-braised-chicken-legs"
-categories:
+categories: &id001
 - Chicken
 cook_time: 1 hour 30 minutes
 created: '2020-04-17 20:23:54'
@@ -33,6 +33,7 @@ servings: Yield 6 servings
 slug: cal-peternells-braised-chicken-legs
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017108-cal-peternells-braised-chicken-legs
+tags: *id001
 total_time: ''
 type: null
 uid: 570E9D2D-CE28-4E47-8EE7-3C314B75EB4A-2334-0002361B59397453

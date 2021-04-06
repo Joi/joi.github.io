@@ -1,7 +1,7 @@
 ---
 title: "Lamb Tagine"
 filename: "lamb-tagine"
-categories:
+categories: &id001
 - Lamb
 - Middle East
 - Soup
@@ -37,6 +37,7 @@ servings: '8'
 slug: lamb-tagine
 source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/m00fZGv5pFNbK4lKpZ5H
+tags: *id001
 total_time: ''
 type: null
 uid: F6C96573-D5B3-4520-A0E0-669290DBDB7C

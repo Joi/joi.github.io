@@ -1,7 +1,7 @@
 ---
 title: "Karaage Fried Chicken"
 filename: "karaage-fried-chicken"
-categories:
+categories: &id001
 - Chicken
 cook_time: null
 created: '2020-05-21 11:53:32'
@@ -28,6 +28,7 @@ servings: 4 servings
 slug: karaage-fried-chicken
 source: tasty.co
 source_url: https://tasty.co/recipe/karaage-fried-chicken
+tags: *id001
 total_time: null
 type: null
 uid: B5CB3D85-5F56-4DEA-8B0E-16F818C57CF9-11450-0000734FA8EB7460

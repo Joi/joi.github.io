@@ -1,7 +1,7 @@
 ---
 title: "Gochujang Sesame Braised Short Ribs"
 filename: "gochujang-sesame-braised-short-ribs"
-categories:
+categories: &id001
 - Short Ribs
 cook_time: 02:30
 created: '2020-11-14 11:53:10'
@@ -33,6 +33,7 @@ servings: '4'
 slug: gochujang-sesame-braised-short-ribs
 source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/QpghbP0JGJ4iT0diQhAc
+tags: *id001
 total_time: null
 type: null
 uid: D2FCDD32-8FA8-46DF-8A8B-7B3CAB1E8747-38973-00001853CA3C44A8

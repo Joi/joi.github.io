@@ -1,7 +1,7 @@
 ---
 title: "Chinese Drunken Chicken"
 filename: "chinese-drunken-chicken"
-categories:
+categories: &id001
 - Chicken
 cook_time: 1 hr 25 mins
 created: '2020-09-30 11:31:29'
@@ -31,6 +31,7 @@ servings: null
 slug: chinese-drunken-chicken
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/drunken-chicken/
+tags: *id001
 total_time: null
 type: null
 uid: B76B7DAF-A787-4560-9648-F78FE157368C-11990-0000076B958BFF4B

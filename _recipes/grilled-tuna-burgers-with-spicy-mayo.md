@@ -1,7 +1,7 @@
 ---
 title: "Grilled Tuna Burgers with Spicy Mayo"
 filename: "grilled-tuna-burgers-with-spicy-mayo"
-categories:
+categories: &id001
 - Tuna
 cook_time: 15 min
 created: '2020-08-06 00:17:40'
@@ -71,6 +71,7 @@ servings: 'Yield: 4 servings'
 slug: grilled-tuna-burgers-with-spicy-mayo
 source: foodnetwork.com
 source_url: https://www.foodnetwork.com/recipes/guy-fieri/grilled-tuna-burgers-with-spicy-mayo-recipe-2119501
+tags: *id001
 total_time: null
 type: null
 uid: 31732CBF-17D5-42F2-8585-C5A7EDB68051-12333-0000078E0FCB4187

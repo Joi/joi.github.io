@@ -1,7 +1,7 @@
 ---
 title: "Braised Beef Ribs with Vegetables"
 filename: "braised-beef-ribs-with-vegetables"
-categories:
+categories: &id001
 - Beef Back Ribs
 cook_time: 3 hours
 created: '2020-09-02 02:49:27'
@@ -56,6 +56,7 @@ servings: Yield 4 servings
 slug: braised-beef-ribs-with-vegetables
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1015512-braised-beef-ribs-with-vegetables
+tags: *id001
 total_time: ''
 type: null
 uid: 023D2ECA-4B68-4A32-A321-5DDF7A97A8AD-13002-0005AF7A394A6362

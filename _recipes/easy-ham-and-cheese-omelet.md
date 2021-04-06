@@ -1,7 +1,7 @@
 ---
 title: "Easy Ham and Cheese Omelet"
 filename: "easy-ham-and-cheese-omelet"
-categories:
+categories: &id001
 - Pork
 - Breakfast
 - Egg
@@ -30,6 +30,7 @@ servings: 1 omelet
 slug: easy-ham-and-cheese-omelet
 source: cookscountry.com
 source_url: https://www.cookscountry.com/recipes/11028-easy-ham-and-cheese-omelet?extcode=MCSKD10L0&ref=new_search_experience_4&t=1580770059
+tags: *id001
 total_time: null
 type: null
 uid: 975D913F-32E8-4ED1-A919-C061D9FCC8BC-408-000065EC77DB4640

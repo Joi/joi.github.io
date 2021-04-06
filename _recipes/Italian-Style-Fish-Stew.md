@@ -1,7 +1,7 @@
 ---
 title: "Italian-Style Fish Stew"
 filename: "italian-style-fish-stew"
-categories:
+categories: &id001
 - Fish
 - White Fish
 cook_time: 1 hour
@@ -37,6 +37,7 @@ servings: Yield 4 to 6 servings
 slug: italian-style-fish-stew
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018346-italian-style-fish-stew?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=3
+tags: *id001
 total_time: ''
 type: null
 uid: 07CCA1F2-E1F3-43E7-9754-D5E1289B797D-53878-00004814D79F4E62

@@ -1,7 +1,7 @@
 ---
 title: "Easy Steamed Dungeness Crab"
 filename: "easy-steamed-dungeness-crab"
-categories:
+categories: &id001
 - Crab
 cook_time: 30 mins
 created: '2020-03-31 19:52:28'
@@ -39,6 +39,7 @@ servings: 1 crab (8 ounces of crabmeat)
 slug: easy-steamed-dungeness-crab
 source: chowhound.com
 source_url: https://www.chowhound.com/recipes/basic-steamed-dungeness-crab-30258
+tags: *id001
 total_time: ''
 type: null
 uid: A947450F-684C-4077-A669-1F1F4B3E244A-16595-000152F449C1E9CB

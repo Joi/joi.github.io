@@ -1,7 +1,7 @@
 ---
 title: "Basket-Steamed Black Cod with Lime Sauce and Vegetables"
 filename: "basket-steamed-black-cod-with-lime-sauce-and-vegetables"
-categories:
+categories: &id001
 - Black Cod
 cook_time: 10 mins
 created: '2020-11-13 13:13:52'
@@ -35,6 +35,7 @@ servings: Yield 4 servings
 slug: basket-steamed-black-cod-with-lime-sauce-and-vegetables
 source: somethingnewfordinner.com
 source_url: https://somethingnewfordinner.com/recipe/basket-steamed-fish-with-cilantrolemon-grass-and-lime-sauce/
+tags: *id001
 total_time: null
 type: null
 uid: 14BC06EE-D1A3-4FED-9AEA-DFC8D9E946CA-32901-000016CE07BC2947

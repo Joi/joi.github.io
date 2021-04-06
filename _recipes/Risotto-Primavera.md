@@ -1,7 +1,7 @@
 ---
 title: "Risotto Primavera"
 filename: "risotto-primavera"
-categories:
+categories: &id001
 - Rice
 - Asparagus
 - Tomato
@@ -41,6 +41,7 @@ servings: 4 people
 slug: risotto-primavera
 source: null
 source_url: https://www.epicurious.com/recipes/member/views/risotto-alla-primavera-harrys-bar-52374811
+tags: *id001
 total_time: ''
 type: null
 uid: 16DAD724-0640-45B2-A7EB-66B408332186-2209-00009B8A4B171F2C

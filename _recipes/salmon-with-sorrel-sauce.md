@@ -1,7 +1,7 @@
 ---
 title: "Salmon with Sorrel Sauce"
 filename: "salmon-with-sorrel-sauce"
-categories:
+categories: &id001
 - Fish
 - Salmon
 - Sole
@@ -67,6 +67,7 @@ servings: '4'
 slug: salmon-with-sorrel-sauce
 source: null
 source_url: null
+tags: *id001
 total_time: 45 min
 type: null
 uid: 7A82E399-1C0A-4A54-B4A6-539CFD569953-89150-0000F342AD89AD55

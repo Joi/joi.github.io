@@ -1,7 +1,7 @@
 ---
 title: "Oven-Steamed Salmon"
 filename: "oven-steamed-salmon"
-categories:
+categories: &id001
 - Fish
 - Salmon
 cook_time: about 30 minutes
@@ -37,6 +37,7 @@ servings: Yield 1 to 8 servings
 slug: oven-steamed-salmon
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018664-oven-steamed-salmon?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=12
+tags: *id001
 total_time: ''
 type: null
 uid: AF00C80B-4ED5-4079-A849-202274602FCD-9067-00018608E13E92CB

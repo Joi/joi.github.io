@@ -1,7 +1,7 @@
 ---
 title: "Beef Taco Salad with Chunky Tomato Dressing"
 filename: "beef-taco-salad-with-chunky-tomato-dressing"
-categories:
+categories: &id001
 - Salad
 - Ground Beef
 - Mexican
@@ -60,6 +60,7 @@ servings: 'Yield: 4 servings'
 slug: beef-taco-salad-with-chunky-tomato-dressing
 source: foodnetwork.com
 source_url: https://www.foodnetwork.com/recipes/ellie-krieger/beef-taco-salad-with-chunky-tomato-dressing-recipe-1957255
+tags: *id001
 total_time: null
 type: null
 uid: 98A94A41-774B-4C50-A74A-B4CDBBABCF3F-1607-0000008481622952

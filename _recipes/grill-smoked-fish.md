@@ -1,7 +1,7 @@
 ---
 title: "Grill Smoked Fish"
 filename: "grill-smoked-fish"
-categories:
+categories: &id001
 - Fish
 cook_time: ''
 created: '2021-03-29 15:50:39'
@@ -30,6 +30,7 @@ servings: ''
 slug: grill-smoked-fish
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: stub
 uid: B1E7933D-F9E2-40B5-A1DE-B31AB1F574A0-52325-00018F5CBB35ECDB

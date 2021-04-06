@@ -1,7 +1,7 @@
 ---
 title: "Making Meat Tender and Succulent"
 filename: "making-meat-tender-and-succulent"
-categories:
+categories: &id001
 - Meat
 cook_time: ''
 created: '2020-04-26 17:37:27'
@@ -26,6 +26,7 @@ servings: ''
 slug: making-meat-tender-and-succulent
 source: thespruceeats.com
 source_url: https://www.thespruceeats.com/how-to-braise-meat-995850
+tags: *id001
 total_time: ''
 type: null
 uid: CF762501-746D-460A-8F21-6BC85020BA92-15978-00023F0FAEC303B4

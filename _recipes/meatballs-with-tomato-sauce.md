@@ -1,7 +1,7 @@
 ---
 title: "Meatballs with Tomato Sauce"
 filename: "meatballs-with-tomato-sauce"
-categories:
+categories: &id001
 - Beef
 - Italian
 - Meat
@@ -34,6 +34,7 @@ servings: 4 portions
 slug: meatballs-with-tomato-sauce
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r91198
+tags: *id001
 total_time: null
 type: null
 uid: 5B4116BF-6F4A-4E56-B458-15BC1D12942F-25037-00009F51FB96AA6B

@@ -1,7 +1,7 @@
 ---
 title: "Shrimp with Lobster Sauce"
 filename: "shrimp-with-lobster-sauce"
-categories:
+categories: &id001
 - Shrimp
 cook_time: 10 mins
 created: '2020-08-23 11:19:19'
@@ -54,6 +54,7 @@ servings: ''
 slug: shrimp-with-lobster-sauce
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/shrimp-lobster-sauce/
+tags: *id001
 total_time: ''
 type: null
 uid: B606531D-7F81-4AD9-B14E-BA7E920951F3-5646-000003098E73CAE3

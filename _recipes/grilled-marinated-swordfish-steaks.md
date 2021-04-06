@@ -1,7 +1,7 @@
 ---
 title: "Grilled Marinated Swordfish Steaks"
 filename: "grilled-marinated-swordfish-steaks"
-categories:
+categories: &id001
 - Swordfish
 cook_time: 30 minutes
 created: '2020-07-05 23:27:15'
@@ -30,6 +30,7 @@ servings: Yield 4 servings
 slug: grilled-marinated-swordfish-steaks
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/10046-grilled-marinated-swordfish-steaks?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
+tags: *id001
 total_time: ''
 type: null
 uid: 6CE85452-0552-432B-9997-0D4BF98E4B75-631-0001AC40FCBE07A8

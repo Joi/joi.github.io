@@ -1,7 +1,7 @@
 ---
 title: "Caesar Dressing"
 filename: "caesar-dressing"
-categories:
+categories: &id001
 - Salad
 cook_time: ''
 created: '2020-07-04 18:23:30'
@@ -43,6 +43,7 @@ servings: ''
 slug: caesar-dressing
 source: Salt, Fat, Acid Heat
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: C1A56159-8227-4071-8D23-0B7E8B0C9DD8-631-00014D1E9E54D0EF

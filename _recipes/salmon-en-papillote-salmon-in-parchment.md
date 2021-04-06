@@ -1,7 +1,7 @@
 ---
 title: "Salmon en Papillote (Salmon in Parchment)"
 filename: "salmon-en-papillote-salmon-in-parchment"
-categories:
+categories: &id001
 - Fish
 - Salmon
 cook_time: 20 minutes
@@ -31,6 +31,7 @@ servings: Yield 4 servings
 slug: salmon-en-papillote-salmon-in-parchment
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019057-salmon-en-papillote-salmon-in-parchment?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=10
+tags: *id001
 total_time: ''
 type: null
 uid: 84B8F85A-0658-45CD-8041-E52CAE26014C-9067-000185E27B281BD5

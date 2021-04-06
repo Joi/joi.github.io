@@ -1,7 +1,7 @@
 ---
 title: "Red Wine-Braised Lamb Shanks"
 filename: "red-wine-braised-lamb-shanks"
-categories:
+categories: &id001
 - Lamb
 cook_time: 2 hrs 40 mins
 created: '2020-12-02 19:18:45'
@@ -49,6 +49,7 @@ servings: 'Yield: 4'
 slug: red-wine-braised-lamb-shanks
 source: foodandwine.com
 source_url: https://www.foodandwine.com/recipes/red-wine-braised-lamb-shanks
+tags: *id001
 total_time: ''
 type: null
 uid: FCB0B0B7-1135-4CC2-B159-BF0FAE529699-12026-0000D92938D29AC8

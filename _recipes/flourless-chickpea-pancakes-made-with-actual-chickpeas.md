@@ -1,7 +1,7 @@
 ---
 title: "Flourless Chickpea Pancakes – Made with Actual Chickpeas"
 filename: "flourless-chickpea-pancakes-made-with-actual-chickpeas"
-categories:
+categories: &id001
 - Chickpeas
 cook_time: 15 minutes
 created: '2021-01-03 16:49:08'
@@ -40,6 +40,7 @@ servings: 'Servings: 10 pancakes'
 slug: flourless-chickpea-pancakes-made-with-actual-chickpeas
 source: thealmondeater.com
 source_url: https://thealmondeater.com/flourless-chickpea-pancakes/
+tags: *id001
 total_time: null
 type: null
 uid: DB727662-16F9-410B-A09F-13AD4713E4A6-84831-000044293FF03435

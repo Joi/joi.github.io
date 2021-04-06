@@ -1,7 +1,7 @@
 ---
 title: "Crown Roast of Lamb - Thermoworks"
 filename: "crown-roast-of-lamb-thermoworks"
-categories:
+categories: &id001
 - Lamb
 cook_time: ''
 created: '2020-07-13 20:49:10'
@@ -29,6 +29,7 @@ servings: ''
 slug: crown-roast-of-lamb-thermoworks
 source: blog.thermoworks.com
 source_url: https://blog.thermoworks.com/blog/crown-roast-of-lamb/?gclid=CjwKCAjwjLD4BRAiEiwAg5NBFpYV0Z_X92bJ1jt70QHkxlKyzQA4cgZ6w8gUOGinMba5osRApA8vlBoCiwMQAvD_BwE
+tags: *id001
 total_time: ''
 type: null
 uid: 6841B537-E74F-4F36-AAA5-1F702A69BCB7-29053-0004183AC71EA44D

@@ -1,7 +1,7 @@
 ---
 title: "Slow Roast Pork Shoulder with Herb Rub"
 filename: "slow-roast-pork-shoulder-with-herb-rub"
-categories:
+categories: &id001
 - Pork Shoulder
 cook_time: 12 hours
 created: '2020-06-13 15:18:19'
@@ -31,6 +31,7 @@ servings: Yield 10 servings
 slug: slow-roast-pork-shoulder-with-herb-rub
 source: Based on NYT
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: E02D444F-C24D-47F0-B290-52D1C0EB21F6-1358-00012EBF4535147A

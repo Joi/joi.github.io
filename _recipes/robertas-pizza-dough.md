@@ -1,7 +1,7 @@
 ---
 title: "Roberta’s Pizza Dough"
 filename: "robertas-pizza-dough"
-categories:
+categories: &id001
 - Italian
 - Pizza
 cook_time: 20 minutes
@@ -36,6 +36,7 @@ servings: Yield two 12-inch pizzas
 slug: robertas-pizza-dough
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1016230-robertas-pizza-dough?smid=ck-recipe-iOS-share
+tags: *id001
 total_time: null
 type: null
 uid: 571C019F-B7B2-4CF9-AD16-2CC3BE6EE9E4-55272-0000273A4BC61E71

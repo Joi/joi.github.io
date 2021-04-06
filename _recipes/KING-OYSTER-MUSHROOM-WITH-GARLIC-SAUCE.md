@@ -1,7 +1,7 @@
 ---
 title: "King Oyster Mushroom with Garlic Sauce"
 filename: "king-oyster-mushroom-with-garlic-sauce"
-categories:
+categories: &id001
 - Mushroom
 cook_time: 3 minutes
 created: '2020-10-22 21:11:40'
@@ -35,6 +35,7 @@ servings: 'Calories: 240kcal'
 slug: king-oyster-mushroom-with-garlic-sauce
 source: redhousespice.com
 source_url: https://redhousespice.com/king-oyster-mushroom-garlic-sauce/
+tags: *id001
 total_time: ''
 type: null
 uid: 9BD58944-2A23-43C2-832C-B57CE5F7F8FF-64845-00002AEE0BF7D9BE

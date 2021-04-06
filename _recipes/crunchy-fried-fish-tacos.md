@@ -1,7 +1,7 @@
 ---
 title: "Crunchy Fried Fish Tacos"
 filename: "crunchy-fried-fish-tacos"
-categories:
+categories: &id001
 - Fish
 - Mexican
 cook_time: 30 minutes
@@ -55,6 +55,7 @@ servings: Serves 2 to 4
 slug: crunchy-fried-fish-tacos
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2013/08/crispy-fried-fish-tacos-recipe.html
+tags: *id001
 total_time: null
 type: null
 uid: D37884E5-D3CB-4E1C-9D20-497B367D520B-84235-00002F4091736C20

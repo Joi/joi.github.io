@@ -1,7 +1,7 @@
 ---
 title: "Chinese Spiced Braised Beef Shank"
 filename: "chinese-spiced-braised-beef-shank"
-categories:
+categories: &id001
 - Chinese
 - Beef Shank
 cook_time: ''
@@ -35,6 +35,7 @@ servings: 'Serves: 6'
 slug: chinese-spiced-braised-beef-shank
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/braised-beef-shank/
+tags: *id001
 total_time: ''
 type: null
 uid: 3E48A1BE-2272-4971-9336-887DEB71E5E6-52325-00036692448DDACC

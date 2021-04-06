@@ -1,7 +1,7 @@
 ---
 title: "Pan-Seared Steak with Red Wine Sauce"
 filename: "pan-seared-steak-with-red-wine-sauce"
-categories:
+categories: &id001
 - Beef
 - Steaks
 cook_time: 35 minutes
@@ -34,6 +34,7 @@ servings: Yield 4 servings
 slug: pan-seared-steak-with-red-wine-sauce
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018530-pan-seared-steak-with-red-wine-sauce?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=8
+tags: *id001
 total_time: ''
 type: null
 uid: E04CA9F8-FA0C-4488-8180-75643AF3F07C-16595-0000F81038E507B6

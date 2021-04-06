@@ -1,7 +1,7 @@
 ---
 title: "Mantou Buns with Soya Milk"
 filename: "mantou-buns-with-soya-milk"
-categories:
+categories: &id001
 - Bread and Biscuits
 cook_time: 1h 35min
 created: '2020-02-02 12:33:50'
@@ -29,6 +29,7 @@ servings: 12 portions
 slug: mantou-buns-with-soya-milk
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r468036
+tags: *id001
 total_time: null
 type: null
 uid: 5C3A9F74-732C-4468-995F-003309E05D82-25037-00009F65C5379494

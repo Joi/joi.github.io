@@ -1,7 +1,7 @@
 ---
 title: "Spaghetti Carbonara"
 filename: "spaghetti-carbonara"
-categories:
+categories: &id001
 - Pasta
 cook_time: 25 minutes
 created: '2020-09-16 11:34:50'
@@ -31,6 +31,7 @@ servings: Yield 4 servings
 slug: spaghetti-carbonara
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12965-spaghetti-carbonara?smid=ck-recipe-iOS-share
+tags: *id001
 total_time: null
 type: null
 uid: 0EA15B08-8D2B-4915-9BD6-2B9715A46DA3-13501-000007A282FB44B2

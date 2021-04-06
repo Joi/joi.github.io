@@ -1,7 +1,7 @@
 ---
 title: "Stovetop-Braised Carrots and Parsnips"
 filename: "stovetop-braised-carrots-and-parsnips"
-categories:
+categories: &id001
 - Vegetables
 cook_time: 1 hr
 created: '2020-03-30 20:07:56'
@@ -36,6 +36,7 @@ servings: Yield 8 servings
 slug: stovetop-braised-carrots-and-parsnips
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1014621-stovetop-braised-carrots-and-parsnips?action=click&module=Collection%20Page%20Recipe%20Card&region=Parsnips%3A%20Not%20Just%20a%20White%20Carrot&pgType=collection&rank=5
+tags: *id001
 total_time: ''
 type: null
 uid: 3FDF0EF7-4FDE-4B9B-9C89-4D2772A34338-16595-00010556CF740A82

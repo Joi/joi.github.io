@@ -1,7 +1,7 @@
 ---
 title: "The Science of Cooking Frozen Steaks"
 filename: "the-science-of-cooking-frozen-steaks"
-categories:
+categories: &id001
 - Meat
 cook_time: ''
 created: '2020-03-04 22:10:06'
@@ -32,6 +32,7 @@ servings: ''
 slug: the-science-of-cooking-frozen-steaks
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/how_tos/8741-the-science-of-cooking-frozen-steaks?t=1583359622
+tags: *id001
 total_time: ''
 type: null
 uid: 75B4FD78-C78A-4289-9E47-CC2FF12B53D3-40248-0002477EA0853A95

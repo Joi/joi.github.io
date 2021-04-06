@@ -1,7 +1,7 @@
 ---
 title: "Crown Roast of Lamb - Food Network"
 filename: "crown-roast-of-lamb-food-network"
-categories:
+categories: &id001
 - Lamb
 cook_time: 30 min
 created: '2020-07-08 17:30:53'
@@ -44,6 +44,7 @@ servings: 'Yield: 6 to 8 servings'
 slug: crown-roast-of-lamb-food-network
 source: foodnetwork.com
 source_url: https://www.foodnetwork.com/recipes/alton-brown/crown-roast-of-lamb-recipe-2082917
+tags: *id001
 total_time: null
 type: null
 uid: 3D6B646D-2D38-47EC-B4DF-43CFA5D61F95-16878-000008A10405BA0C

@@ -1,7 +1,7 @@
 ---
 title: "Egg Batter Pan-Fried Flounder with Green Garlic"
 filename: "egg-batter-pan-fried-flounder-with-green-garlic"
-categories:
+categories: &id001
 - Flounder
 - Fluke
 cook_time: about 20 minutes
@@ -31,6 +31,7 @@ servings: Yield 4 servings
 slug: egg-batter-pan-fried-flounder-with-green-garlic
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12458-egg-batter-pan-fried-flounder-with-green-garlic?smid=ck-recipe-iOS-share
+tags: *id001
 total_time: null
 type: null
 uid: C8E7E3CF-36B6-45D1-93CD-069705353F6C

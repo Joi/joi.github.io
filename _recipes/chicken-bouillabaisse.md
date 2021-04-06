@@ -1,7 +1,7 @@
 ---
 title: "Chicken Bouillabaisse"
 filename: "chicken-bouillabaisse"
-categories:
+categories: &id001
 - Chicken
 - Soup
 cook_time: ''
@@ -63,6 +63,7 @@ servings: ''
 slug: chicken-bouillabaisse
 source: Zuni Cafe Cookbook
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: F1D1640A-A8A7-4AF0-9119-997EA0B459EC-7512-00005767367B53FF

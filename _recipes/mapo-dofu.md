@@ -1,7 +1,7 @@
 ---
 title: "Mapo Dofu"
 filename: "mapo-dofu"
-categories:
+categories: &id001
 - Chinese
 - Ground Pork
 - Tofu
@@ -45,6 +45,7 @@ servings: '2'
 slug: mapo-dofu
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: F189F7A3-07AA-47B9-80AC-0E6B2879D4C5-651-00000524A207DA6A

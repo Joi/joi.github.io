@@ -1,7 +1,7 @@
 ---
 title: "Homemade Ponzu Sauce Recipe"
 filename: "homemade-ponzu-sauce-recipe"
-categories:
+categories: &id001
 - Sauce
 cook_time: ''
 created: '2020-06-26 11:11:46'
@@ -30,6 +30,7 @@ servings: 'Servings: 1 cup'
 slug: homemade-ponzu-sauce-recipe
 source: justonecookbook.com
 source_url: https://www.justonecookbook.com/ponzu-sauce/
+tags: *id001
 total_time: ''
 type: null
 uid: 01709B11-ED19-453F-851F-0DB48598E545-533-0000001E0CEE2435

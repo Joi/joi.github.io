@@ -1,7 +1,7 @@
 ---
 title: "Confit Hake, Cherry Tomatoes and Garlic"
 filename: "confit-hake-cherry-tomatoes-and-garlic"
-categories:
+categories: &id001
 - Hake
 cook_time: 1 hour 30 minutes
 created: '2020-07-08 17:36:58'
@@ -46,6 +46,7 @@ servings: Serves 4 easy
 slug: confit-hake-cherry-tomatoes-and-garlic
 source: olivemagazine.com
 source_url: https://www.olivemagazine.com/recipes/fish-and-seafood/confit-hake-cherry-tomatoes-and-garlic/
+tags: *id001
 total_time: null
 type: null
 uid: 9DF14314-10CE-4B72-B3F1-C9D3C903EF6F-16960-000008A2BD817715

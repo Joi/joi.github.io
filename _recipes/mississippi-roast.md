@@ -1,7 +1,7 @@
 ---
 title: "Mississippi Roast"
 filename: "mississippi-roast"
-categories:
+categories: &id001
 - Beef
 cook_time: 6 1/2 to 8 1/2 hours
 created: '2020-04-19 15:27:14'
@@ -31,6 +31,7 @@ servings: Yield 6 to 8 servings
 slug: mississippi-roast
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017937-mississippi-roast?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
+tags: *id001
 total_time: ''
 type: null
 uid: 04FD9C12-9EED-4A32-9565-080092D3FF63-407-00004B651BB969DF

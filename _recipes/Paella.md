@@ -1,7 +1,7 @@
 ---
 title: "Paella"
 filename: "paella"
-categories:
+categories: &id001
 - Seafood
 - Rice
 cook_time: ''
@@ -40,6 +40,7 @@ servings: ''
 slug: paella
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: D012AD02-2C8B-45D6-B54B-B7C3339CDF60-1119-00000022984CEC03

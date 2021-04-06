@@ -1,7 +1,7 @@
 ---
 title: "Crab Omelet with Avocado and Herbs"
 filename: "crab-omelet-with-avocado-and-herbs"
-categories:
+categories: &id001
 - Egg
 - Crab
 cook_time: 5 mins
@@ -48,6 +48,7 @@ servings: 'Servings : 1'
 slug: crab-omelet-with-avocado-and-herbs
 source: oursaltykitchen.com
 source_url: https://oursaltykitchen.com/crab-omelet/
+tags: *id001
 total_time: ''
 type: null
 uid: 071AD901-0BB2-4E66-9D84-A9E1D6D9BAE4-51240-00028529DDC784F7

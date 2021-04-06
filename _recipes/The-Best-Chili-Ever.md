@@ -1,7 +1,7 @@
 ---
 title: "The Best Chili Ever"
 filename: "the-best-chili-ever"
-categories:
+categories: &id001
 - Soup
 - Short Ribs
 - Mexican
@@ -57,6 +57,7 @@ servings: Serves 6 to 10
 slug: the-best-chili-ever
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2010/01/the-best-chili-recipe.html
+tags: *id001
 total_time: ''
 type: null
 uid: 10BBAF95-58C8-433E-B2F4-1BA5DB1741F3-23012-0000124E0AE6CF20

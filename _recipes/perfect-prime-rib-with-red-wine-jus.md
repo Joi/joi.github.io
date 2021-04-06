@@ -1,7 +1,7 @@
 ---
 title: "Perfect Prime Rib with Red Wine Jus"
 filename: "perfect-prime-rib-with-red-wine-jus"
-categories:
+categories: &id001
 - Prime Rib
 cook_time: 5 1/2 to 6 1/2 hours
 created: '2020-12-06 00:49:20'
@@ -52,6 +52,7 @@ servings: Serves 3 to 12, depending on size of roast
 slug: perfect-prime-rib-with-red-wine-jus
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2012/12/perfect-prime-rib-with-red-wine-jus-recipe.html
+tags: *id001
 total_time: null
 type: null
 uid: E763742A-CCA6-430C-A854-E7AA059BD18B-25227-00001658B3908BF6

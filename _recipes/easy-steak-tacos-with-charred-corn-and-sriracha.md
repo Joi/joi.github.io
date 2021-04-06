@@ -1,7 +1,7 @@
 ---
 title: "Easy Steak Tacos with Charred Corn and Sriracha"
 filename: "easy-steak-tacos-with-charred-corn-and-sriracha"
-categories:
+categories: &id001
 - Hanger steak
 cook_time: 25 minutes
 created: '2020-10-25 11:22:30'
@@ -34,6 +34,7 @@ servings: Serves 4
 slug: easy-steak-tacos-with-charred-corn-and-sriracha
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2013/09/steak-tacos-charred-corn-sriracha-recipe.html
+tags: *id001
 total_time: null
 type: null
 uid: B17B95E2-3E64-4E2C-95B4-9758F73B3B79-83078-00002EF0CCE24076

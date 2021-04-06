@@ -1,7 +1,7 @@
 ---
 title: "NY Times No-Knead Bread"
 filename: "ny-times-no-knead-bread"
-categories:
+categories: &id001
 - Bread and Biscuits
 cook_time: 1 hour 30 minutes
 created: '2020-04-20 07:01:04'
@@ -31,6 +31,7 @@ servings: Yield one 1 1/2-pound loaf
 slug: ny-times-no-knead-bread
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/11376-no-knead-bread?smid=ck-recipe-iOS-share
+tags: *id001
 total_time: ''
 type: null
 uid: 4EDCD740-CD7A-46A6-9754-B21A1869F5CA-32311-0000117B166F0546

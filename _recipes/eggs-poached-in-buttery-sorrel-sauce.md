@@ -1,7 +1,7 @@
 ---
 title: "Eggs Poached in Buttery Sorrel Sauce"
 filename: "eggs-poached-in-buttery-sorrel-sauce"
-categories:
+categories: &id001
 - Egg
 - Sorrel
 cook_time: about 30 minutes
@@ -32,6 +32,7 @@ servings: Yield 2 servings
 slug: eggs-poached-in-buttery-sorrel-sauce
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1013133-eggs-poached-in-buttery-sorrel-sauce
+tags: *id001
 total_time: ''
 type: null
 uid: 11AE3DD1-969F-4478-BA41-B82B258E171A-52325-0003BF96FFF134EE

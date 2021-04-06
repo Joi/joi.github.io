@@ -1,7 +1,7 @@
 ---
 title: "Braised Lamb Shanks"
 filename: "braised-lamb-shanks"
-categories:
+categories: &id001
 - Lamb
 cook_time: 3 hrs
 created: '2020-12-02 19:16:49'
@@ -58,6 +58,7 @@ servings: ''
 slug: braised-lamb-shanks
 source: cafedelites.com
 source_url: https://cafedelites.com/lamb-shanks/
+tags: *id001
 total_time: ''
 type: null
 uid: 4ABFD903-B1A7-4A76-825B-61517E4A7067-12026-0000D90D031A26A7

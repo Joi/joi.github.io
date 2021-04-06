@@ -1,7 +1,7 @@
 ---
 title: "Seared Wagyu"
 filename: "seared-wagyu"
-categories:
+categories: &id001
 - Wagyu
 cook_time: ''
 created: '2021-03-27 15:14:27'
@@ -29,6 +29,7 @@ servings: ''
 slug: seared-wagyu
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: stub
 uid: 262774CC-626C-4F72-8909-FE19C8E95011-52325-0000F03B26F6A966

@@ -1,7 +1,7 @@
 ---
 title: "Garlic Butter Shrimp with Cilantro and Lime"
 filename: "garlic-butter-shrimp-with-cilantro-and-lime"
-categories:
+categories: &id001
 - Shrimp
 cook_time: 5mins
 created: '2020-08-23 11:26:58'
@@ -43,6 +43,7 @@ servings: 1 pound shrimp
 slug: garlic-butter-shrimp-with-cilantro-and-lime
 source: inspiredtaste.net
 source_url: https://www.inspiredtaste.net/36991/garlic-butter-shrimp-recipe/
+tags: *id001
 total_time: ''
 type: null
 uid: 9966B4CF-829A-4D19-860F-F7AC1BFB2ED8-5646-0000030C2287F7BC

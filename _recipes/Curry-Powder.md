@@ -1,7 +1,7 @@
 ---
 title: "Curry Powder"
 filename: "curry-powder"
-categories:
+categories: &id001
 - Curry
 - Seasoning
 cook_time: null
@@ -30,6 +30,7 @@ servings: null
 slug: curry-powder
 source: null
 source_url: null
+tags: *id001
 total_time: null
 type: null
 uid: 4EA3C540-EED9-45D2-BA95-6B4C6A931A26-4181-0001E2348E51AA07

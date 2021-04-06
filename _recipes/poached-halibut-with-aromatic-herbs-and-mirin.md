@@ -1,7 +1,7 @@
 ---
 title: "Poached Halibut with Aromatic Herbs and Mirin"
 filename: "poached-halibut-with-aromatic-herbs-and-mirin"
-categories:
+categories: &id001
 - Halibut
 cook_time: 5 mins
 created: '2020-08-07 11:35:33'
@@ -31,6 +31,7 @@ servings: 'Serves: 4 servings'
 slug: poached-halibut-with-aromatic-herbs-and-mirin
 source: andreabeaman.com
 source_url: https://andreabeaman.com/poached-halibut-aromatic-herbs-mirin/
+tags: *id001
 total_time: null
 type: null
 uid: 2511DA17-AF5B-4D67-88AC-46A05FE82562-2643-000000EB19A79759

@@ -1,7 +1,7 @@
 ---
 title: "Sausage and Veggie Frittata and Ayran Drink"
 filename: "sausage-and-veggie-frittata-and-ayran-drink"
-categories:
+categories: &id001
 - Egg
 - Italian
 cook_time: 40min
@@ -34,6 +34,7 @@ servings: 8 pieces
 slug: sausage-and-veggie-frittata-and-ayran-drink
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r574821
+tags: *id001
 total_time: null
 type: null
 uid: 07576C1F-C47F-4F23-9574-4E8E7CF839D9-25037-00009F5C0C4CEB2E

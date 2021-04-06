@@ -1,7 +1,7 @@
 ---
 title: "Slow-Roasted Turkey"
 filename: "slow-roasted-turkey"
-categories:
+categories: &id001
 - Turkey
 cook_time: 10 hrs
 created: '2020-11-24 10:51:43'
@@ -30,6 +30,7 @@ servings: 'Servings: 12'
 slug: slow-roasted-turkey
 source: nourishedkitchen.com
 source_url: https://nourishedkitchen.com/slow-roast-turkey/
+tags: *id001
 total_time: null
 type: null
 uid: 24C09E07-9701-404F-AC1D-40249B23EF9D-68048-0000AAA68CD4ADF2

@@ -1,7 +1,7 @@
 ---
 title: "Slow Cooker Beef Short Ribs"
 filename: "slow-cooker-beef-short-ribs"
-categories:
+categories: &id001
 - Short Ribs
 cook_time: 10 minutes
 created: '2020-12-13 12:39:25'
@@ -48,6 +48,7 @@ servings: 'Servings: 10'
 slug: slow-cooker-beef-short-ribs
 source: pauladeen.com
 source_url: https://www.pauladeen.com/recipe/slow-cooker-beef-short-ribs/
+tags: *id001
 total_time: ''
 type: null
 uid: 0F6BB6C3-A267-4D8A-80C0-103F1CE9DF36-42209-0000227129F0FA3A

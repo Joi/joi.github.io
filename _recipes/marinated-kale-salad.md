@@ -1,7 +1,7 @@
 ---
 title: "Marinated Kale Salad"
 filename: "marinated-kale-salad"
-categories:
+categories: &id001
 - Salad
 cook_time: 20 minutes
 created: '2020-08-03 20:51:23'
@@ -44,6 +44,7 @@ servings: ''
 slug: marinated-kale-salad
 source: thegardengrazer.com
 source_url: https://www.thegardengrazer.com/2016/02/marinated-kale-salad.html
+tags: *id001
 total_time: ''
 type: null
 uid: 66DB5964-564B-458F-9DB6-E1C7083461BF-5963-00000403D175CF5E

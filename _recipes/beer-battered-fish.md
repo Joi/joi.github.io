@@ -1,7 +1,7 @@
 ---
 title: "Beer-Battered Fish"
 filename: "beer-battered-fish"
-categories:
+categories: &id001
 - Fish
 cook_time: ''
 created: '2021-04-02 18:27:50'
@@ -45,6 +45,7 @@ servings: ''
 slug: beer-battered-fish
 source: Salt, Fat, Acid, Heat
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: DB94AE8A-FA95-4677-8D0C-8AFA94F2D790-52325-0002D2402562F413

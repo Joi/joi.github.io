@@ -1,7 +1,7 @@
 ---
 title: "Our New Favorite Striped Bass"
 filename: "our-new-favorite-striped-bass"
-categories:
+categories: &id001
 - Striped Bass
 cook_time: 35 minutes
 created: '2020-07-20 23:43:32'
@@ -50,6 +50,7 @@ servings: Serves 4
 slug: our-new-favorite-striped-bass
 source: umamigirl.com
 source_url: https://umamigirl.com/favorite-striped-bass-recipe/
+tags: *id001
 total_time: null
 type: null
 uid: B6C8D6E6-0AC3-4C10-80EA-EBE1130CBD0C-31637-000013E2E2498393

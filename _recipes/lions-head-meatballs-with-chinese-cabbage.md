@@ -1,7 +1,7 @@
 ---
 title: "Lion's Head Meatballs with Chinese Cabbage"
 filename: "lions-head-meatballs-with-chinese-cabbage"
-categories:
+categories: &id001
 - Soup
 - Napa Cabbage
 cook_time: 30 mins
@@ -53,6 +53,7 @@ servings: 'Yield: 4 meatballs'
 slug: lions-head-meatballs-with-chinese-cabbage
 source: thespruceeats.com
 source_url: https://www.thespruceeats.com/lions-head-meatballs-694835
+tags: *id001
 total_time: ''
 type: null
 uid: 7A341D31-7135-4A04-AAAA-95CA531D0BC6-2209-0001E6123B198A97

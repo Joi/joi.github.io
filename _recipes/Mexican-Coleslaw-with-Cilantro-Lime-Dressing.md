@@ -1,7 +1,7 @@
 ---
 title: "Mexican Coleslaw with Cilantro Lime Dressing"
 filename: "mexican-coleslaw-with-cilantro-lime-dressing"
-categories:
+categories: &id001
 - Salad
 cook_time: 10 mins
 created: '2020-07-16 18:56:55'
@@ -36,6 +36,7 @@ servings: '8'
 slug: mexican-coleslaw-with-cilantro-lime-dressing
 source: veggiesdontbite.com
 source_url: https://www.veggiesdontbite.com/mexican-cabbage-slaw-with-cumin-lime-dressing/
+tags: *id001
 total_time: ''
 type: null
 uid: 77134287-CBD0-4325-84C7-4CF8666CCC2D-29053-0004FDD9DFD38753

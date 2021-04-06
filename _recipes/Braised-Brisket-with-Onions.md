@@ -1,7 +1,7 @@
 ---
 title: "Braised Brisket with Onions"
 filename: "braised-brisket-with-onions"
-categories:
+categories: &id001
 - Beef
 - Brisket
 cook_time: ''
@@ -49,6 +49,7 @@ servings: ''
 slug: braised-brisket-with-onions
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 4CB07882-5BB7-4D7D-A85F-9C33428D9BBB-50715-00075EFA2FEFB0E5

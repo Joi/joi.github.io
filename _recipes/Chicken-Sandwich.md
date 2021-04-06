@@ -1,7 +1,7 @@
 ---
 title: "Chicken Sandwich"
 filename: "chicken-sandwich"
-categories:
+categories: &id001
 - Sandwich
 - Chicken
 - Italian
@@ -51,6 +51,7 @@ servings: '6'
 slug: chicken-sandwich
 source: Harry's Bar Cookbook
 source_url: null
+tags: *id001
 total_time: null
 type: null
 uid: FF152B59-4FDC-41E6-9C93-6A95ED09083E-25037-0000A041D3575177

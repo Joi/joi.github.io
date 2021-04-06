@@ -1,7 +1,7 @@
 ---
 title: "French Chicken in a Pot"
 filename: "french-chicken-in-a-pot"
-categories:
+categories: &id001
 - Chicken
 cook_time: ''
 created: '2020-05-27 06:08:02'
@@ -33,6 +33,7 @@ servings: Serves 4
 slug: french-chicken-in-a-pot
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/4022-french-chicken-in-a-pot?incode=MCSCM00L0&ref=new_search_experience_1
+tags: *id001
 total_time: ''
 type: null
 uid: 40C2E60A-8F0B-4AF9-9A1E-07E1334645D9-20587-0000089478BD8670

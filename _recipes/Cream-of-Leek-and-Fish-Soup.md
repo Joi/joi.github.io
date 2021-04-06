@@ -1,7 +1,7 @@
 ---
 title: "Cream of Leek and Fish Soup"
 filename: "cream-of-leek-and-fish-soup"
-categories:
+categories: &id001
 - Seafood
 - Soup
 - Flounder
@@ -46,6 +46,7 @@ servings: 4 serving(s)
 slug: cream-of-leek-and-fish-soup
 source: ricardocuisine.com
 source_url: https://www.ricardocuisine.com/en/recipes/6993-cream-of-leek-and-fish-soup
+tags: *id001
 total_time: ''
 type: null
 uid: 7C0675AB-90B1-4664-8D5D-4CCFD60BE942-17729-00000957E00C53DF

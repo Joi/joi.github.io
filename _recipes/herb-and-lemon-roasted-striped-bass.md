@@ -1,7 +1,7 @@
 ---
 title: "Herb and Lemon Roasted Striped Bass"
 filename: "herb-and-lemon-roasted-striped-bass"
-categories:
+categories: &id001
 - Striped Bass
 cook_time: 25 mins
 created: '2020-07-20 23:30:58'
@@ -38,6 +38,7 @@ servings: Yield 4 servings
 slug: herb-and-lemon-roasted-striped-bass
 source: myrecipes.com
 source_url: https://www.myrecipes.com/recipe/herb-lemon-roasted-striped-bass
+tags: *id001
 total_time: null
 type: null
 uid: 59E1E9FF-24C4-4DE7-B748-2883DC367149-31407-000013DEAD39F4E1

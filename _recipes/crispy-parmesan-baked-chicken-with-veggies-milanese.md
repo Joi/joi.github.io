@@ -1,7 +1,7 @@
 ---
 title: "Crispy Parmesan Baked Chicken with Veggies (Milanese)"
 filename: "crispy-parmesan-baked-chicken-with-veggies-milanese"
-categories:
+categories: &id001
 - Chicken
 cook_time: 25 mins
 created: '2020-11-16 21:09:56'
@@ -55,6 +55,7 @@ servings: null
 slug: crispy-parmesan-baked-chicken-with-veggies-milanese
 source: cafedelites.com
 source_url: https://cafedelites.com/sheet-pan-lemon-parmesan-garlic-chicken-veggies-milanese/
+tags: *id001
 total_time: null
 type: null
 uid: 996F2C5E-96F3-49F0-8BA7-FA11B61A8D71-42657-00001C297F8BDF66

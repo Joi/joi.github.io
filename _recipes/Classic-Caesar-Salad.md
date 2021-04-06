@@ -1,7 +1,7 @@
 ---
 title: "Classic Caesar Salad"
 filename: "classic-caesar-salad"
-categories:
+categories: &id001
 - Salad
 cook_time: ''
 created: '2020-08-11 18:05:09'
@@ -33,6 +33,7 @@ servings: 6 servings
 slug: classic-caesar-salad
 source: bonappetit.com
 source_url: https://www.bonappetit.com/recipe/classic-caesar-salad
+tags: *id001
 total_time: ''
 type: null
 uid: A4154EF4-77BC-4CC2-AD86-57C0D9DA6EE5-1060-0002AF06087A9657

@@ -1,7 +1,7 @@
 ---
 title: "Spatchcock Turkey"
 filename: "spatchcock-turkey"
-categories:
+categories: &id001
 - Turkey
 cook_time: 1 hour
 created: '2020-08-27 01:04:12'
@@ -36,6 +36,7 @@ servings: Servings 12
 slug: spatchcock-turkey
 source: dinneratthezoo.com
 source_url: https://www.dinneratthezoo.com/spatchcock-turkey/
+tags: *id001
 total_time: ''
 type: null
 uid: 6B206B96-654C-4F42-9A71-7BF292B2A3A7-2241-0003D24152C108E4

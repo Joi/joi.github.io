@@ -1,7 +1,7 @@
 ---
 title: "Crispy Scallion Ginger Salmon"
 filename: "crispy-scallion-ginger-salmon"
-categories:
+categories: &id001
 - Salmon
 cook_time: ''
 created: '2020-10-20 18:43:43'
@@ -31,6 +31,7 @@ servings: 'Serves: 4'
 slug: crispy-scallion-ginger-salmon
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/scallion-ginger-salmon/
+tags: *id001
 total_time: ''
 type: null
 uid: FB351175-E30A-46F7-828B-2061D4F07D63-7512-0001E1E6CCA51ED2

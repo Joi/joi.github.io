@@ -1,7 +1,7 @@
 ---
 title: "Best Ever Guacamole"
 filename: "best-ever-guacamole"
-categories:
+categories: &id001
 - Sauce
 - Mexican
 - Avocado
@@ -43,6 +43,7 @@ servings: 'Servings: 4'
 slug: best-ever-guacamole
 source: downshiftology.com
 source_url: https://downshiftology.com/recipes/best-ever-guacamole/
+tags: *id001
 total_time: ''
 type: null
 uid: AFD51E5D-4082-4BC2-9342-614387032D80-60918-00006082836BD06F

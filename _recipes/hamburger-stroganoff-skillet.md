@@ -1,7 +1,7 @@
 ---
 title: "Hamburger Stroganoff Skillet"
 filename: "hamburger-stroganoff-skillet"
-categories:
+categories: &id001
 - Pasta
 - Ground Beef
 - Sauce
@@ -58,6 +58,7 @@ servings: 'Yield: 4'
 slug: hamburger-stroganoff-skillet
 source: foodnetwork.com
 source_url: https://www.foodnetwork.com/recipes/food-network-kitchen/hamburger-stroganoff-skillet-5478672
+tags: *id001
 total_time: null
 type: null
 uid: 0AB6A58A-FAA7-4F82-B415-BF9E7A5336A3-1607-00000068D3208916

@@ -1,7 +1,7 @@
 ---
 title: "Butter-Basted, Pan-Seared Thick-Cut Steaks"
 filename: "butter-basted-pan-seared-thick-cut-steaks"
-categories:
+categories: &id001
 - Beef
 - Bison
 - Steaks
@@ -40,6 +40,7 @@ servings: Serves 2 to 3
 slug: butter-basted-pan-seared-thick-cut-steaks
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2012/12/butter-basted-pan-seared-steaks-recipe.html
+tags: *id001
 total_time: ''
 type: null
 uid: 1274CF3F-4DDF-41CF-8CA0-B90D39F94A99-89150-0000F2DC0488DFB5

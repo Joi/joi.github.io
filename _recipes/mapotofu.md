@@ -1,7 +1,7 @@
 ---
 title: "Mapotofu"
 filename: "mapotofu"
-categories:
+categories: &id001
 - Chinese
 - Ground Pork
 - Tofu
@@ -38,6 +38,7 @@ servings: ''
 slug: mapotofu
 source: kyounoryouri.jp
 source_url: https://www.kyounoryouri.jp/recipe/3771_%E3%83%9E%E3%83%BC%E3%83%9C%E3%83%BC%E8%B1%86%E8%85%90.html
+tags: *id001
 total_time: 20 min
 type: null
 uid: 85A8D61A-8BBC-4544-AC35-B1A2ACB9F45C-651-000004AC8C2DBD66

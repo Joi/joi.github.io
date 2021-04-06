@@ -1,7 +1,7 @@
 ---
 title: "Steamed Mussels with Garlic and Parsley"
 filename: "steamed-mussels-with-garlic-and-parsley"
-categories:
+categories: &id001
 - Mussels
 cook_time: 30 minutes
 created: '2020-05-25 20:42:34'
@@ -33,6 +33,7 @@ servings: Yield 4 servings
 slug: steamed-mussels-with-garlic-and-parsley
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017709-steamed-mussels-with-garlic-and-parsley?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=16
+tags: *id001
 total_time: ''
 type: null
 uid: 2FCD1B65-0D67-4B15-B081-C691590DEBE3-29546-0002C343712D52F3

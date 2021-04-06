@@ -1,7 +1,7 @@
 ---
 title: "Chinese 5 Spices"
 filename: "chinese-5-spices"
-categories:
+categories: &id001
 - Seasoning
 cook_time: null
 created: '2021-01-15 19:01:31'
@@ -29,6 +29,7 @@ servings: null
 slug: chinese-5-spices
 source: null
 source_url: null
+tags: *id001
 total_time: null
 type: null
 uid: E2D3A29F-1034-4BD7-9633-0EF992A95660-4181-0001E27BEC161880

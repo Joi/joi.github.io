@@ -1,7 +1,7 @@
 ---
 title: "Tuna Confit"
 filename: "tuna-confit"
-categories:
+categories: &id001
 - Tuna
 cook_time: ''
 created: '2020-08-06 07:42:38'
@@ -56,6 +56,7 @@ servings: '4'
 slug: tuna-confit
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 2EAA4463-01CB-4867-B49F-3B45423BBD9A-1060-0001042DD69580EF

@@ -1,7 +1,7 @@
 ---
 title: "Fajitas"
 filename: "fajitas"
-categories:
+categories: &id001
 - Flat Iron
 cook_time: null
 created: '2020-08-19 13:14:12'
@@ -40,6 +40,7 @@ servings: 4 - 6
 slug: fajitas
 source: The Food Lab
 source_url: null
+tags: *id001
 total_time: null
 type: null
 uid: 0219F138-40D0-4824-A931-1EFA48339B46-1866-00001C3CB0B4767A

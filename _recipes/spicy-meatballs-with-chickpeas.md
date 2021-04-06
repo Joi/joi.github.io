@@ -1,7 +1,7 @@
 ---
 title: "Spicy Meatballs with Chickpeas"
 filename: "spicy-meatballs-with-chickpeas"
-categories:
+categories: &id001
 - Pork
 - Chicken
 - Meat
@@ -39,6 +39,7 @@ servings: Yield 4 to 6 servings
 slug: spicy-meatballs-with-chickpeas
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1020975-spicy-meatballs-with-chickpeas?campaign_id=58&em_pos=medium&emc=edit_ck_20200411&instance_id=17545&nl=cooking&nl_art=4&ref=headline&regi_id=66130213&segment_id=24805&te=1&user_id=395abe2366af6455c19c9a60f1d308e8
+tags: *id001
 total_time: ''
 type: null
 uid: 4838DF55-3CCF-4F7C-A10A-E8AC57455ABB-53878-00004D78F774CAD8

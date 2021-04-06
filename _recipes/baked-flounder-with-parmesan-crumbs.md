@@ -1,7 +1,7 @@
 ---
 title: "Baked Flounder with Parmesan Crumbs"
 filename: "baked-flounder-with-parmesan-crumbs"
-categories:
+categories: &id001
 - Fish
 - White Fish
 - Flounder
@@ -39,6 +39,7 @@ servings: 'Serves : 4'
 slug: baked-flounder-with-parmesan-crumbs
 source: foodandwine.com
 source_url: https://www.foodandwine.com/recipes/baked-flounder-parmesan-crumbs
+tags: *id001
 total_time: ''
 type: null
 uid: E5306C77-DC0B-42C9-9123-E0A5AA64D245-14694-0000789EC2F2A2E0

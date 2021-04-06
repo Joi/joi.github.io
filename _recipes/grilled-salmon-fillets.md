@@ -1,7 +1,7 @@
 ---
 title: "Grilled Salmon Fillets"
 filename: "grilled-salmon-fillets"
-categories:
+categories: &id001
 - Salmon
 cook_time: 30 minutes
 created: '2020-08-11 14:23:14'
@@ -33,6 +33,7 @@ servings: Serves 4
 slug: grilled-salmon-fillets
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2019/08/grilled-salmon-fillets.html
+tags: *id001
 total_time: ''
 type: null
 uid: ECEB2E21-BAF4-43BE-BA05-7BDB49CE368C-1060-0002A2EAE1473466

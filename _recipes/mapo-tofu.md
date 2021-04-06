@@ -1,7 +1,7 @@
 ---
 title: "Mapo Tofu"
 filename: "mapo-tofu"
-categories:
+categories: &id001
 - Chinese
 - Ground Pork
 cook_time: 35 minutes
@@ -35,6 +35,7 @@ servings: 'Serves: 6 servings'
 slug: mapo-tofu
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/ma-po-tofu-real-deal/
+tags: *id001
 total_time: ''
 type: null
 uid: 1A7FABAC-7AD9-4851-B9CD-1F64461C7DAB

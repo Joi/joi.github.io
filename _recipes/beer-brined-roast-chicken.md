@@ -1,7 +1,7 @@
 ---
 title: "Beer-Brined Roast Chicken"
 filename: "beer-brined-roast-chicken"
-categories:
+categories: &id001
 - Chicken
 cook_time: 2 hours
 created: '2020-05-16 13:50:06'
@@ -43,6 +43,7 @@ servings: Yield 4 to 6 servings
 slug: beer-brined-roast-chicken
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018059-beer-brined-roast-chicken?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=14
+tags: *id001
 total_time: ''
 type: null
 uid: 81F199C6-8CF4-4867-962F-F6F6C266A0C6-11450-000000E96D4441C2

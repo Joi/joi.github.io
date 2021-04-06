@@ -1,7 +1,7 @@
 ---
 title: "Tartar Sauce"
 filename: "tartar-sauce"
-categories:
+categories: &id001
 - Sauce
 cook_time: ''
 created: '2021-04-02 15:02:24'
@@ -32,6 +32,7 @@ servings: ''
 slug: tartar-sauce
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 4A1F6CE8-57F3-4270-ADEE-96C2FB5BA09E-52325-0002C7030227B47C

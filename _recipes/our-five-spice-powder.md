@@ -1,7 +1,7 @@
 ---
 title: "Our Five Spice Powder"
 filename: "our-five-spice-powder"
-categories:
+categories: &id001
 - Sauce
 cook_time: 10 minutes
 created: '2020-11-08 21:12:44'
@@ -38,6 +38,7 @@ servings: null
 slug: our-five-spice-powder
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/how-to-make-five-spice-powder/
+tags: *id001
 total_time: null
 type: null
 uid: AFD92A2D-ECFE-41D3-A488-1BE7BB32FB33-26972-00000F5610EE8C3E

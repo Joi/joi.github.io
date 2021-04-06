@@ -1,7 +1,7 @@
 ---
 title: "Instant Pot Beef Back Ribs"
 filename: "instant-pot-beef-back-ribs"
-categories:
+categories: &id001
 - Beef Back Ribs
 cook_time: 25 minutes natural release
 created: '2020-09-02 02:55:00'
@@ -51,6 +51,7 @@ servings: 'Yield: 4 servings'
 slug: instant-pot-beef-back-ribs
 source: mamaneedscake.com
 source_url: https://mamaneedscake.com/instant-pot-beef-back-ribs/
+tags: *id001
 total_time: ''
 type: null
 uid: 1A74E878-5E32-4516-990D-B8BCF4897175-13002-0005AFC76486770F

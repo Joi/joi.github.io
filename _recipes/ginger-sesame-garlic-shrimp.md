@@ -1,7 +1,7 @@
 ---
 title: "Ginger Sesame Garlic Shrimp"
 filename: "ginger-sesame-garlic-shrimp"
-categories:
+categories: &id001
 - Shrimp
 cook_time: 10 minutes
 created: '2020-08-01 15:27:30'
@@ -51,6 +51,7 @@ servings: Serves 2 to 3
 slug: ginger-sesame-garlic-shrimp
 source: simplyrecipes.com
 source_url: https://www.simplyrecipes.com/recipes/ginger_sesame_garlic_shrimp/
+tags: *id001
 total_time: ''
 type: null
 uid: CE5FA6A7-C9CA-4754-A273-4A972D908B91-96025-000361F98DBB2F68

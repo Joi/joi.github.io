@@ -1,7 +1,7 @@
 ---
 title: "BBQ Chicken"
 filename: "bbq-chicken"
-categories:
+categories: &id001
 - Chicken
 cook_time: ''
 created: '2020-09-07 11:35:46'
@@ -40,6 +40,7 @@ servings: ''
 slug: bbq-chicken
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 0406E117-8344-4062-A62F-FBAC97655E1C-13411-00000961DB0A0BC1

@@ -1,7 +1,7 @@
 ---
 title: "Ultra-Crisp-Skinned Pan-Roasted Fish Fillets"
 filename: "ultra-crisp-skinned-pan-roasted-fish-fillets"
-categories:
+categories: &id001
 - Salmon
 - Halibut
 cook_time: ''
@@ -29,6 +29,7 @@ servings: '4'
 slug: ultra-crisp-skinned-pan-roasted-fish-fillets
 source: Food Lab
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 64FEAA52-EFFC-4743-9B48-B166957247B3-631-00024AE4C1521CED

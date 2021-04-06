@@ -1,7 +1,7 @@
 ---
 title: "Kohlrabi Soup"
 filename: "kohlrabi-soup"
-categories:
+categories: &id001
 - Soup
 cook_time: ''
 created: '2021-03-08 21:28:58'
@@ -36,6 +36,7 @@ servings: ''
 slug: kohlrabi-soup
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 02CCE5A9-6684-4E28-8B94-84459DE31F12

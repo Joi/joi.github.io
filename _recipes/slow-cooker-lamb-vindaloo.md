@@ -1,7 +1,7 @@
 ---
 title: "Slow-Cooker Lamb Vindaloo"
 filename: "slow-cooker-lamb-vindaloo"
-categories:
+categories: &id001
 - Lamb
 - Meat
 cook_time: 9 to 10 hours on low or 6 to 7 hours on high
@@ -39,6 +39,7 @@ servings: Serves 6 to 8
 slug: slow-cooker-lamb-vindaloo
 source: americastestkitchen.com
 source_url: https://www.americastestkitchen.com/recipes/10627-slow-cooker-lamb-vindaloo?incode=MASAD00L0&ref=new_search_experience_6
+tags: *id001
 total_time: ''
 type: null
 uid: 09066227-5003-411C-8E32-5498E85CACB5-13891-0000A7D9BF188E66

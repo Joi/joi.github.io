@@ -1,7 +1,7 @@
 ---
 title: "Cheesy Garlic Roasted Asparagus"
 filename: "cheesy-garlic-roasted-asparagus"
-categories:
+categories: &id001
 - Asparagus
 cook_time: 15 mins
 created: '2020-07-01 14:09:34'
@@ -36,6 +36,7 @@ servings: 'Serves: - 6 people'
 slug: cheesy-garlic-roasted-asparagus
 source: cafedelites.com
 source_url: https://cafedelites.com/cheesy-garlic-roasted-asparagus/
+tags: *id001
 total_time: ''
 type: null
 uid: 2E749584-4AE4-41F8-8804-29123F35C8F4-631-00005385575AFFE6

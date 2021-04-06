@@ -1,7 +1,7 @@
 ---
 title: "Easy Thai Shrimp Curry"
 filename: "easy-thai-shrimp-curry"
-categories:
+categories: &id001
 - Shrimp
 - Curry
 cook_time: 15 minutes
@@ -54,6 +54,7 @@ servings: Servings 4
 slug: easy-thai-shrimp-curry
 source: saltandlavender.com
 source_url: https://www.saltandlavender.com/easy-thai-shrimp-curry/
+tags: *id001
 total_time: null
 type: null
 uid: DFBF3C0D-A1D9-468E-8D95-E196BF35CDDD-31316-00001E008C87A2B5

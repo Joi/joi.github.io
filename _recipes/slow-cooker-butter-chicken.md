@@ -1,7 +1,7 @@
 ---
 title: "Slow-Cooker Butter Chicken"
 filename: "slow-cooker-butter-chicken"
-categories:
+categories: &id001
 - Chicken
 cook_time: about 5 hours
 created: '2020-04-19 15:25:30'
@@ -33,6 +33,7 @@ servings: Yield 4 to 6 servings
 slug: slow-cooker-butter-chicken
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018803-slow-cooker-butter-chicken?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
+tags: *id001
 total_time: ''
 type: null
 uid: AD9AE9FD-055E-4CB3-9F75-C9A884CA619A-407-00004B4D6A521E4B

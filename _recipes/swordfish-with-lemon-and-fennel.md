@@ -1,7 +1,7 @@
 ---
 title: "Swordfish with Lemon and Fennel"
 filename: "swordfish-with-lemon-and-fennel"
-categories:
+categories: &id001
 - Swordfish
 cook_time: 15 minutes
 created: '2020-07-05 23:28:22'
@@ -30,6 +30,7 @@ servings: Yield 4 servings
 slug: swordfish-with-lemon-and-fennel
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1015721-swordfish-with-lemon-and-fennel?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=8
+tags: *id001
 total_time: ''
 type: null
 uid: B4B02125-97BD-4F86-84B8-94CB4F5FC435-631-0001AC5341C84507

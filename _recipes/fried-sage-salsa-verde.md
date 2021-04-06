@@ -1,7 +1,7 @@
 ---
 title: "Fried Sage Salsa Verde"
 filename: "fried-sage-salsa-verde"
-categories:
+categories: &id001
 - Sauce
 cook_time: ''
 created: '2020-07-15 16:45:13'
@@ -30,6 +30,7 @@ servings: ''
 slug: fried-sage-salsa-verde
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: AEB4BC7F-C507-498F-AD56-F3F1EA6A1CED-14775-000009F4FCAEEA00

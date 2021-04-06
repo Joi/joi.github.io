@@ -1,7 +1,7 @@
 ---
 title: "Oxtail Jus"
 filename: "oxtail-jus"
-categories:
+categories: &id001
 - Sauce
 - Oxtail
 cook_time: ''
@@ -67,6 +67,7 @@ servings: ''
 slug: oxtail-jus
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: F604EADB-25AC-44AC-9DC1-75246C0FB483-641-0000509B20DEF473

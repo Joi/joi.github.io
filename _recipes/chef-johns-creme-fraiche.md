@@ -1,7 +1,7 @@
 ---
 title: "Chef John's Creme Fraiche"
 filename: "chef-johns-creme-fraiche"
-categories:
+categories: &id001
 - Sauce
 cook_time: 2 days
 created: '2020-06-29 10:55:43'
@@ -28,6 +28,7 @@ servings: 'Servings: 32'
 slug: chef-johns-creme-fraiche
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/222387/chef-johns-creme-fraiche/
+tags: *id001
 total_time: ''
 type: null
 uid: D4862E9C-533D-44A2-9353-E56DA169161C-47978-000609AAA346CD0A

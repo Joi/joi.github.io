@@ -1,7 +1,7 @@
 ---
 title: "Air-Fryer Buffalo Chicken Drumsticks"
 filename: "air-fryer-buffalo-chicken-drumsticks"
-categories:
+categories: &id001
 - Chicken
 cook_time: 45 minutes
 created: '2020-04-02 17:12:50'
@@ -30,6 +30,7 @@ servings: Serves 2
 slug: air-fryer-buffalo-chicken-drumsticks
 source: americastestkitchen.com
 source_url: https://www.americastestkitchen.com/recipes/12426-air-fryer-buffalo-chicken-drumsticks?incode=MCSBM00L0&ref=new_search_experience_2
+tags: *id001
 total_time: null
 type: null
 uid: 11556843-B6B2-45BA-88A6-04F783705E70-9482-0000064CD8D6239D

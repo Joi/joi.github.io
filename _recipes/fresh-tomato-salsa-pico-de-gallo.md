@@ -1,7 +1,7 @@
 ---
 title: "Fresh Tomato Salsa (Pico De Gallo)"
 filename: "fresh-tomato-salsa-pico-de-gallo"
-categories:
+categories: &id001
 - Sauce
 cook_time: null
 created: '2020-08-16 15:33:38'
@@ -31,6 +31,7 @@ servings: 3 to 4 cups of salsa
 slug: fresh-tomato-salsa-pico-de-gallo
 source: simplyrecipes.com
 source_url: https://www.simplyrecipes.com/recipes/fresh_tomato_salsa/
+tags: *id001
 total_time: 6 min
 type: null
 uid: 7FEA67B8-DD5F-4E6A-AB99-C8035D5143B0-13578-00000484D2AC46BA

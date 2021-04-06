@@ -1,7 +1,7 @@
 ---
 title: "Lamb Chops with Balsamic Reduction"
 filename: "lamb-chops-with-balsamic-reduction"
-categories:
+categories: &id001
 - Lamb
 cook_time: 15 mins
 created: '2020-12-25 13:02:18'
@@ -29,6 +29,7 @@ servings: 'Servings: 4'
 slug: lamb-chops-with-balsamic-reduction
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/74037/lamb-chops-with-balsamic-reduction/
+tags: *id001
 total_time: null
 type: null
 uid: CF13A615-D8DB-4892-8DB0-899A104CEC15-66769-00003583266CAEEC

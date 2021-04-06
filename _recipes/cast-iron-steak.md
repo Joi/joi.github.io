@@ -1,7 +1,7 @@
 ---
 title: "Cast-Iron Steak"
 filename: "cast-iron-steak"
-categories:
+categories: &id001
 - Beef
 - Bison
 - Steaks
@@ -33,6 +33,7 @@ servings: Yield 4 to 6 servings
 slug: cast-iron-steak
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1016334-cast-iron-steak?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=9
+tags: *id001
 total_time: ''
 type: null
 uid: C6593649-6166-46C7-A182-20F3E9EBB67B-16595-0000F776F60F2224

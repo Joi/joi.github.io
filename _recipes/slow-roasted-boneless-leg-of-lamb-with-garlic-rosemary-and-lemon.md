@@ -1,7 +1,7 @@
 ---
 title: "Slow-Roasted Boneless Leg of Lamb with Garlic, Rosemary, and Lemon"
 filename: "slow-roasted-boneless-leg-of-lamb-with-garlic-rosemary-and-lemon"
-categories:
+categories: &id001
 - Lamb
 cook_time: 5 hours
 created: '2021-04-03 15:09:58'
@@ -51,6 +51,7 @@ servings: Serves 12 to 14
 slug: slow-roasted-boneless-leg-of-lamb-with-garlic-rosemary-and-lemon
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2013/12/slow-roasted-lamb-garlic-anchovy-lemon-rosemary-food-lab-recipe.html
+tags: *id001
 total_time: ''
 type: null
 uid: 038766EB-B7EA-4DB3-99DC-545B72024A81

@@ -1,7 +1,7 @@
 ---
 title: "Monkfish Curry"
 filename: "monkfish-curry"
-categories:
+categories: &id001
 - Monkfish
 cook_time: 10 to 30 mins
 created: '2020-11-06 00:23:48'
@@ -42,6 +42,7 @@ servings: Serves 2
 slug: monkfish-curry
 source: bbc.co.uk
 source_url: https://www.bbc.co.uk/food/recipes/monkfish_curry_96937/amp
+tags: *id001
 total_time: null
 type: null
 uid: 6216ABAB-DD61-45CE-ADA0-7EA4DE38E67E-17488-00000B17C5D816AF

@@ -1,7 +1,7 @@
 ---
 title: "Steak"
 filename: "steak"
-categories:
+categories: &id001
 - Beef
 - Meat
 - Steaks
@@ -35,6 +35,7 @@ servings: ''
 slug: steak
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: stub
 uid: 509801DC-97A9-44B1-BD50-C6C34EF65520-52325-0000F025C76A4D12

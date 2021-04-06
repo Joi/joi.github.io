@@ -1,7 +1,7 @@
 ---
 title: "Pizza"
 filename: "pizza"
-categories:
+categories: &id001
 - Italian
 cook_time: ''
 created: '2021-02-04 16:00:56'
@@ -54,6 +54,7 @@ servings: ''
 slug: pizza
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: A1E99D4A-2290-4DB8-A6FE-7D304CBE7E39-1700-00007F835E4D8814

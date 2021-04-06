@@ -1,7 +1,7 @@
 ---
 title: "Kanitama"
 filename: "kanitama"
-categories:
+categories: &id001
 - Egg
 - Crab
 - Chinese
@@ -43,6 +43,7 @@ servings: '4'
 slug: kanitama
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681

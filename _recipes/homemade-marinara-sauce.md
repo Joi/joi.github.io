@@ -1,7 +1,7 @@
 ---
 title: "Homemade Marinara Sauce"
 filename: "homemade-marinara-sauce"
-categories:
+categories: &id001
 - Pasta
 - Italian
 - Sauce
@@ -45,6 +45,7 @@ servings: 'Servings: 8'
 slug: homemade-marinara-sauce
 source: cookingclassy.com
 source_url: https://www.cookingclassy.com/homemade-marinara-sauce/
+tags: *id001
 total_time: ''
 type: null
 uid: EE565425-59C5-4F36-8476-7616358D2823-903-00005D3FB1B03E44

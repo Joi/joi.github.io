@@ -1,7 +1,7 @@
 ---
 title: "Simple Broiled Haddock"
 filename: "simple-broiled-haddock"
-categories:
+categories: &id001
 - White Fish
 cook_time: 10 m
 created: '2020-04-23 18:59:42'
@@ -45,6 +45,7 @@ servings: '4'
 slug: simple-broiled-haddock
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/232906/simple-broiled-haddock/
+tags: *id001
 total_time: ''
 type: null
 uid: C56A2832-A5D3-4F23-BF55-81FE17B00B7E-89150-0001914BEAF20AFE

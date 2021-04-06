@@ -1,7 +1,7 @@
 ---
 title: "Steak 101"
 filename: "steak-101"
-categories:
+categories: &id001
 - Steaks
 cook_time: 00:30
 created: '2021-01-31 12:36:31'
@@ -37,6 +37,7 @@ servings: '2'
 slug: steak-101
 source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/Iz3IGzhaQS8mKwgKl5KN
+tags: *id001
 total_time: ''
 type: null
 uid: BB22AB08-E282-431F-9042-079DA45887B3-49934-0000250A04C5668A

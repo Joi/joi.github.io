@@ -1,7 +1,7 @@
 ---
 title: "Pan-Seared Bison Tenderloin with Herb Butter"
 filename: "pan-seared-bison-tenderloin-with-herb-butter"
-categories:
+categories: &id001
 - Duck
 - Bison
 cook_time: ''
@@ -51,6 +51,7 @@ servings: Serves 4
 slug: pan-seared-bison-tenderloin-with-herb-butter
 source: saveur.com
 source_url: https://www.saveur.com/article/Recipes/Pan-Seared-Bison-Tenderloin-with-Herb-Butter/
+tags: *id001
 total_time: ''
 type: null
 uid: 6A43E36F-3E33-4EA1-AC64-18B3BB15B24A-9067-0001DB950AEE30A7

@@ -1,7 +1,7 @@
 ---
 title: "Pasta with White Truffles"
 filename: "pasta-with-white-truffles"
-categories:
+categories: &id001
 - Truffles
 cook_time: 20 minutes
 created: '2020-11-25 21:09:52'
@@ -30,6 +30,7 @@ servings: Yield 8 servings
 slug: pasta-with-white-truffles
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1106-pasta-with-white-truffles?ds_c=71700000052595478&gclid=CjwKCAiAnvj9BRA4EiwAuUMDf2EDyei4s-c9dQro-qc11KGYQa70KJa2BhnF9yYNv3yUgnss0WyVXBoCUz0QAvD_BwE&gclsrc=aw.ds
+tags: *id001
 total_time: null
 type: null
 uid: C3AD4197-9530-4692-AD10-00AAAB5AD132-68048-0001193223818FE6

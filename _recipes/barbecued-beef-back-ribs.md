@@ -1,7 +1,7 @@
 ---
 title: "Barbecued Beef Back Ribs"
 filename: "barbecued-beef-back-ribs"
-categories:
+categories: &id001
 - Beef Back Ribs
 cook_time: 4 h, 35 m
 created: '2020-09-26 14:30:18'
@@ -34,6 +34,7 @@ servings: Serves 4
 slug: barbecued-beef-back-ribs
 source: leitesculinaria.com
 source_url: https://leitesculinaria.com/44707/recipes-barbecued-beef-back-ribs.html
+tags: *id001
 total_time: ''
 type: null
 uid: 002B5A2A-3091-46DA-9AE1-6B2BE769239B-50715-000D33962EDD8009

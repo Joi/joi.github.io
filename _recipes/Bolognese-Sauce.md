@@ -1,7 +1,7 @@
 ---
 title: "Bolognese Sauce"
 filename: "bolognese-sauce"
-categories:
+categories: &id001
 - Pasta
 - Beef
 - Sauce
@@ -61,6 +61,7 @@ servings: ''
 slug: bolognese-sauce
 source: null
 source_url: null
+tags: *id001
 total_time: ''
 type: null
 uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1

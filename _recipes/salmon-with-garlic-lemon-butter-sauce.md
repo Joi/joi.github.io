@@ -1,7 +1,7 @@
 ---
 title: "Salmon with Garlic Lemon Butter Sauce"
 filename: "salmon-with-garlic-lemon-butter-sauce"
-categories:
+categories: &id001
 - Salmon
 cook_time: 10 minutes
 created: '2020-08-21 20:55:05'
@@ -47,6 +47,7 @@ servings: 'Servings: 4 servings'
 slug: salmon-with-garlic-lemon-butter-sauce
 source: cookingclassy.com
 source_url: https://www.cookingclassy.com/skillet-seared-salmon-with-garlic-lemon-butter-sauce/
+tags: *id001
 total_time: ''
 type: null
 uid: 4C57E632-D300-4A3D-9314-48D2B086C607-2236-0000011E793EE7EE

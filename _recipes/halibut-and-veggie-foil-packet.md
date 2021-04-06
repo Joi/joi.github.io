@@ -1,7 +1,7 @@
 ---
 title: "Halibut and Veggie Foil Packet"
 filename: "halibut-and-veggie-foil-packet"
-categories:
+categories: &id001
 - Fish
 - White Fish
 - Halibut
@@ -33,6 +33,7 @@ servings: 4 foil packets
 slug: halibut-and-veggie-foil-packet
 source: everydaydishes.com
 source_url: https://everydaydishes.com/simple-food-recipes/halibut-and-veggie-foil-packet-recipe/
+tags: *id001
 total_time: ''
 type: null
 uid: 6263EFB6-0713-4AF0-A003-C6E5DF839147-29546-0004CF93A912ECE7

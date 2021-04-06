@@ -1,7 +1,7 @@
 ---
 title: "Meatball"
 filename: "meatball"
-categories:
+categories: &id001
 - Pasta
 - Italian
 - Ground Beef
@@ -55,6 +55,7 @@ servings: 'Servings: 10'
 slug: meatball
 source: cookingclassy.com
 source_url: https://www.cookingclassy.com/meatball-recipe/
+tags: *id001
 total_time: ''
 type: null
 uid: 160D4E1B-F5A0-4CD8-A2B4-BF08E77F5534-903-00005D489A62BD11

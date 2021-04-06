@@ -1,7 +1,7 @@
 ---
 title: "Cottage Pie"
 filename: "cottage-pie"
-categories:
+categories: &id001
 - Beef
 - Egg
 - Ground Beef
@@ -34,6 +34,7 @@ servings: 10 portions
 slug: cottage-pie
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r312949
+tags: *id001
 total_time: null
 type: null
 uid: D456D7F1-F235-49BA-8D43-4688CA578FEA-408-00004FA89F09169C

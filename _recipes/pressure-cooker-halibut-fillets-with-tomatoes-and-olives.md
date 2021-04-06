@@ -1,7 +1,7 @@
 ---
 title: "Pressure Cooker Halibut Fillets with Tomatoes and Olives"
 filename: "pressure-cooker-halibut-fillets-with-tomatoes-and-olives"
-categories:
+categories: &id001
 - White Fish
 - Halibut
 - Pressure Cooker
@@ -48,6 +48,7 @@ servings: 'Yield : 4-6 serving'
 slug: pressure-cooker-halibut-fillets-with-tomatoes-and-olives
 source: magicskillet.com
 source_url: https://magicskillet.com/recipe/pressure-cooker-halibut-fillets-tomatoes-olives/
+tags: *id001
 total_time: ''
 type: null
 uid: DD90592C-D8D9-4491-B2DF-FDF7CD761B7E-13891-0000A3E8ACE2155D

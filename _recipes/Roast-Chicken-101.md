@@ -1,7 +1,7 @@
 ---
 title: "Roast Chicken 101"
 filename: "roast-chicken-101"
-categories:
+categories: &id001
 - Chicken
 cook_time: 02:10
 created: '2021-01-01 13:17:41'
@@ -36,6 +36,7 @@ servings: '4'
 slug: roast-chicken-101
 source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/wttK3xUw6HH3zPw5XOzL
+tags: *id001
 total_time: null
 type: null
 uid: 9CA8E908-CB87-4646-B9E4-EA9617ADEFFF-79834-000040B32B39656B

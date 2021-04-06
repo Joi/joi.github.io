@@ -1,7 +1,7 @@
 ---
 title: "Pan-Fried Soft-Shell Crabs"
 filename: "pan-fried-soft-shell-crabs"
-categories:
+categories: &id001
 - Soft-Shell Crabs
 cook_time: ''
 created: '2020-07-13 18:59:08'
@@ -42,6 +42,7 @@ servings: 'Servings: 6'
 slug: pan-fried-soft-shell-crabs
 source: marthastewart.com
 source_url: https://www.marthastewart.com/1158406/pan-fried-soft-shell-crabs
+tags: *id001
 total_time: ''
 type: null
 uid: AFF11F1F-5F06-4C85-9632-540CE2204830-29053-0004123BC220E7DC

@@ -1,7 +1,7 @@
 ---
 title: "Sous Vide Salmon"
 filename: "sous-vide-salmon"
-categories:
+categories: &id001
 - Salmon
 cook_time: about 1 hour 15 minutes or up to overnight
 created: '2020-06-19 15:05:00'
@@ -36,6 +36,7 @@ servings: 'Serves 4 active time:'
 slug: sous-vide-salmon
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2016/08/sous-vide-salmon-recipe.html
+tags: *id001
 total_time: ''
 type: null
 uid: 3546BE2C-7934-45C5-BA0C-91881B9975D4-22544-0003057EAFAC95C7
