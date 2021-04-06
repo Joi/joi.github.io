@@ -2,7 +2,7 @@
 layout: post
 title: Sharpening, Honing, Stropping
 tags: sharpening
-categories: sharpening razors knives
+category: sharpening razors knives
 ---
 Sharpening is making a dull knife sharp. Honing is maintaining a sharp knife. Most razor people call what they do honing - experts are called honemasters or honemeisters.
 
