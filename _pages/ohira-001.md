@@ -1,6 +1,6 @@
 ---
 title: Ohira Asagi
-tag: jnat
+tags: jnat
 ---
 ![Ohira Asagi](/images/ohira-001.jpeg)
 

@@ -1,6 +1,6 @@
 ---
 title: "Common Ingredients by Volume and Mass"
-tag: charts
+tags: charts
 ---
 
 From _The Food Lab_

@@ -1,6 +1,6 @@
 ---
 title: Hideriyama Renga Suita
-tag: jnat
+tags: jnat
 ---
 ![Hideriyama Renga Suita](/images/hideriyama-001.jpeg)
 

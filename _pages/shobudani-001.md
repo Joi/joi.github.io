@@ -1,6 +1,6 @@
 ---
 title: Shobudani Awasedo
-tag: jnat
+tags: jnat
 ---
 
 ![Shobudani Awasedo](/images/shobudani-001.jpeg)

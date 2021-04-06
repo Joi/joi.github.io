@@ -1,6 +1,6 @@
 ---
 title: Binsui
-tag: jnat
+tags: jnat
 ---
 ![Binsui](/images/binsui-001.jpeg)
 

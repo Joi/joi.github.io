@@ -1,6 +1,6 @@
 ---
 title: Grilling
-tag: grilling
+tags: grilling
 ---
 I've been doing a lot of grilling these days and the more I learn, the more I realize I don't know.
 

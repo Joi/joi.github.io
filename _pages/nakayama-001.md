@@ -1,6 +1,6 @@
 ---
 title: Nakayama Mizu Tomae
-tag: jnat
+tags: jnat
 ---
 ![Nakayama Mizu Tomae](/images/nakayama-001.jpeg)
 

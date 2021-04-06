@@ -1,6 +1,6 @@
 ---
 title: Ozuku Hard Asagi
-tag: jnat
+tags: jnat
 ---
 ![Ozuku Hard Asagi](/images/ozuku-001.jpeg)
 

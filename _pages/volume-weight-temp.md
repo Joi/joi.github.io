@@ -1,6 +1,6 @@
 ---
 title: Volume, Weight and Temperature Conversions
-tag: charts
+tags: charts
 ---
 
 * * *
