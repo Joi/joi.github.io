@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "20002bb7b2be5704",
+        "id": "3719bcb9f4d045af",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2020-11-25-dinner.md",
+            "file": "_notes/2021-04-05-dinner.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2020-11-25-dinner.md",
+                "file": "_notes/2021-04-05-dinner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,15 +93,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "_notes/2021-04-05-dinner.md",
+    "_notes/2021-04-03-dinner.md",
+    "_notes/2021-03-16-dinner.md",
+    "_notes/2021-04-04-dinner.md",
+    "recipes/slow-roasted-boneless-leg-of-lamb-with-garlic-rosemary-and-lemon.md",
+    "_notes/2021-04-03-lunch.md",
+    "_notes/2020-08-12-dinner.md",
     "_notes/2020-11-25-dinner.md",
     "_notes/Untitled.md",
-    "_notes/2020-12-25-dinner.md",
-    "_notes/2020-12-24-dinner.md",
-    "_notes/2020-12-17-dinner.md",
-    "_notes/2020-12-20-dinner.md",
-    "_notes/2020-12-07-dinner.md",
-    "_notes/2021-01-20-dinner.md",
-    "_notes/2021-04-03-dinner.md",
-    "_notes/2021-04-02-dinner.md"
+    "_notes/2020-12-25-dinner.md"
   ]
 }

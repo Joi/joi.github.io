@@ -64,6 +64,6 @@ uid: 2E32CCAE-E32E-464E-8933-8BD80801B7C1-641-0001405C698FD612
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Make a lemon vinegarette.</p>
 <p>Slice endives into ¼ inch strips.</p>
-<p>Sous Vide shrimp.</p>
+<p>[[sous-vide-shrimp|Sous Vide Shrimp]].</p>
 <p>Toss together and top with croutons and parsley.</p>
 </div>	</div>
