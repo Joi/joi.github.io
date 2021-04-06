@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Coffee Information"
 tags: charts
 ---

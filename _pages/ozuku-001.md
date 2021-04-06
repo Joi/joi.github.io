@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Ozuku Hard Asagi
 tag: jnat
 ---

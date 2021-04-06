@@ -1,5 +1,4 @@
 ---
-layout: page
 title: My Stuff
 tags: tools
 ---

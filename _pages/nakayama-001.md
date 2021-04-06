@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Nakayama Mizu Tomae
 tag: jnat
 ---

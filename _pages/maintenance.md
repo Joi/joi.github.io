@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Maintenance
 tag: maintenance tools
 ---

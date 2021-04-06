@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Hideriyama Renga Suita
 tag: jnat
 ---

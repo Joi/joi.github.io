@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Smoking
 tags: smoking grilling
 ---

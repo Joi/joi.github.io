@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Reverse Sear
 tags: grilling science roasting bbq
 ---

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mikawa Nagura
 tags: sharpening razor jnat
 ---

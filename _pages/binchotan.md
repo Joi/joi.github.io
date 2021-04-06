@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Binchotan
 tags: grilling bbq
 ---

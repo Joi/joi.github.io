@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Shobudani Awasedo
 tag: jnat
 ---

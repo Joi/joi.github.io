@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Ozuku Very Hard Mizu Tomae
 tag: jnat
 ---

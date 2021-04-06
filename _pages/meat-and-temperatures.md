@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Meat and Temperatures
 tags: temperature meat
 ---

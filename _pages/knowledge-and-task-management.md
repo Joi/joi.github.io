@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Knowledge and Task Management
 tag: maintenance knowledge-management
 ---

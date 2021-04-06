@@ -1,5 +1,4 @@
 ---
-layout: page
 title: My Whetstones
 tags: sharpening jnat synthetic-stones tools
 ---

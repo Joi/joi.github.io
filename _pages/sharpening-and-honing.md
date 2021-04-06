@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Sharpening and Honing
 tags: sharpening knives razors tools maintenance
 ---

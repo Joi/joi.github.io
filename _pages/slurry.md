@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Slurry
 tags: sharpening jnat
 ---

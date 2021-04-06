@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Evaporation Effect
 tags: grilling science braising roasting bbq
 ---

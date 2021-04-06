@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Whetstones
 tags: sharpening jnat tools
 ---

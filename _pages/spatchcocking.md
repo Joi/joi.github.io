@@ -1,5 +1,4 @@
 ---
-layout: page
 title: spatchcocking
 tags: spatchcocking chicken bbq grilling roasting
 ---

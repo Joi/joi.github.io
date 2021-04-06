@@ -1,5 +1,4 @@
 ---
-layout: page
 title: My Thermometers
 tags: gear
 ---
