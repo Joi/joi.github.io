@@ -98,6 +98,12 @@ a[aria-label]:hover:after,
 }
 
 /* Related Backlinks */
+#backlinks h4 {
+  font-size:17pt;
+}
+.box-backlinks {
+  padding-bottom: 1em;
+}
 .related-group a .related-title {
   font-weight: 500;
   margin-bottom: 1px;
@@ -422,6 +428,11 @@ hr {
   border-top: 1px solid #ccc;
 }
 
+
+.columns#ingredients {
+  background: #F7F5E0;
+  border-radius: 10px;
+}
 .box-ingredients h1,
 .box-ingredients h2,
 .box-ingredients h3,
@@ -430,12 +441,6 @@ hr {
 .box-directions h3 {
 	font-size: 1rem;
 	font-weight: bold;
-}
-#ingredients {
-  background: #F7F5E0;
-  border-radius: 10px;
-}
-#ingredients h4 {
 }
 .box-ingredients ul {
   margin-left: 0;
@@ -450,6 +455,7 @@ hr {
   padding-bottom:.5em;
   margin-bottom: .5em;
 }
+
 .meal-notes {
   margin-bottom: 2em;
   padding-bottom:1.6em;
