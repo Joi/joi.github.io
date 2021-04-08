@@ -91,13 +91,29 @@ path_temp_working   = path_db_bu_sub + "tmp/" # put tmp in backup
 path_db_working     = path_temp_working + filename_db
 
 # Output
-path_output_json_data  = path_project + '/_data/'
-path_output_recipe_mkdn_files = path_project + '/_recipes/'
-path_output_meal_mkdn_files   = path_project + '/_notes/'
-path_output_recipe_phot_files = path_project + '/images/recipes/'
+path_json_data       = path_project + '/_data/'
+path_recp_mkdn_files = path_project + '/_recipes/'
+path_meal_mkdn_files = path_project + '/_notes/'
+path_tags_mkdn_files = path_project + '/_tag/'
+path_pags_mkdn_files = path_project + '/_pages/'
+path_post_mkdn_files = path_project + '/_posts/'
+path_recp_phot_files = path_project + '/images/recipes/'
+
+# Paths to dirs of markdown data/content which Jekyll knows about but this script doesn't yet
+paths_jekyll_mkdn_dirs = [
+  path_pags_mkdn_files,
+  path_post_mkdn_files
+  ]
 
 # Paparika Timestamp Offset: 978307200
 ts_offset = 978307200
+
+
+# Tag Case edge cases
+tag_edgecases = {
+  'bbq': 'BBQ'
+}
+
 
 print ("✅ IMPORTs completed and VARs initiated\n")
 
@@ -143,10 +159,26 @@ def db_connect(db_file):
         conn = sqlite3.connect(db_file)
         # row_factory does some magic for us
         # see: https://stackoverflow.com/questions/3300464/how-can-i-get-dict-from-sqlite-query
+        # https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
         conn.row_factory = sqlite3.Row
     except Error as e:
         print(e)
     return conn
+
+def db_query_magic(db_cursor):
+  # --------------------------------------------------------------------------------------
+  # For the next bit with columns and results and dict and zip, see:
+  #    https://stackoverflow.com/questions/16519385/output-pyodbc-cursor-results-as-python-dictionary/16523148#16523148
+  #
+  # This grabs the key (cur.description) for us
+  columns = [column[0] for column in db_cursor.description]
+  rows = db_cursor.fetchall()
+
+  results = []
+  for row in rows:
+      # and here we glue the key to the value
+      results.append(dict(zip(columns, row)))
+  return results
 
 
 # Parse Paprika Markdown-ish into Markdown
@@ -168,6 +200,9 @@ def write_file(path,content):
     f.write(str(content))
     f.close()
 
+def write_json_file(data,path):
+  write_file(path,json.dumps(data, ensure_ascii=False, sort_keys=True, indent=1))
+
 
 print ("✅ FUNCTIONS defined\n")
 
@@ -180,9 +215,9 @@ if not os.path.exists(path_db_bu_sub):
 
 # These ones we want to recreate every time
 # Recipe Markdown Stubs Directory
-pheonix_output_directories(path_output_recipe_mkdn_files)
+pheonix_output_directories(path_recp_mkdn_files)
 # Recipe Renamed Photos Directory
-pheonix_output_directories(path_output_recipe_phot_files)
+pheonix_output_directories(path_recp_phot_files)
 
 print ("✅ DIRECTORIES created\n")
 
@@ -208,114 +243,109 @@ print ("✅ DATABASE Backed up\n")
 # DATABASE OPERATIONS ------------------------------
 
 # First Database Operation: WAL Checkpoint
+# This writes the log and flushes the cache
 conn = db_connect(path_db_working)
 cur = conn.cursor()
 cur.execute("PRAGMA wal_checkpoint;")
 conn.close()
+
 # Second Database Operation: Get our recipe Data
 conn = db_connect(path_db_working)
 with conn:
     cur = conn.cursor()
     cur.execute(f"""
-SELECT 
-    GROUP_CONCAT(C.ZNAME,"|") as `categories`,
-    R.ZCOOKTIME        as `cook_time`,
-    R.ZINTRASH         as `intrash`,
-    datetime(R.ZCREATED + {ts_offset},'unixepoch') as `created`,
-    R.ZCREATED + {ts_offset}                       as `created_ts`,
-    R.ZDESCRIPTIONTEXT as `description`,
-    R.ZDIFFICULTY      as `difficulty`,
-    R.ZDIRECTIONS      as `directions`,
-    R.ZINGREDIENTS     as `ingredients`,
-    R.ZIMAGEURL        as `image_url`,
-    R.ZNAME            as `name`,
-    R.ZNOTES           as `notes`,
-    R.ZNUTRITIONALINFO as `nutritional_info`,
-    R.ZPHOTO           as `photo_thumb`,
-    R.ZPHOTOLARGE      as `photo_large`,
-    R.ZPREPTIME        as `prep_time`,
-    R.ZRATING          as `rating`,
-    R.ZSERVINGS        as `servings`,
-    R.ZSOURCE          as `source`,
-    R.ZSOURCEURL       as `source_url`,
-    R.ZTOTALTIME       as `total_time`,
-    R.ZUID             as `uid`,
-    R.Z_PK             as `p_recipe_id`,
-    -- We need to do these SELECTS because
-    -- otherwise the Category concat
-    -- replicates itself the number of times
-    -- there are images. No idea why.
-    (
-        SELECT
+      SELECT 
+        GROUP_CONCAT(C.ZNAME,"|") as `categories`,
+        R.ZCOOKTIME    as `cook_time`,
+        R.ZINTRASH     as `intrash`,
+        datetime(R.ZCREATED + {ts_offset},'unixepoch') as `created`,
+        R.ZCREATED + {ts_offset}             as `created_ts`,
+        R.ZDESCRIPTIONTEXT as `description`,
+        R.ZDIFFICULTY    as `difficulty`,
+        R.ZDIRECTIONS    as `directions`,
+        R.ZINGREDIENTS   as `ingredients`,
+        R.ZIMAGEURL    as `image_url`,
+        R.ZNAME      as `name`,
+        R.ZNOTES       as `notes`,
+        R.ZNUTRITIONALINFO as `nutritional_info`,
+        R.ZPHOTO       as `photo_thumb`,
+        R.ZPHOTOLARGE    as `photo_large`,
+        R.ZPREPTIME    as `prep_time`,
+        R.ZRATING      as `rating`,
+        R.ZSERVINGS    as `servings`,
+        R.ZSOURCE      as `source`,
+        R.ZSOURCEURL     as `source_url`,
+        R.ZTOTALTIME     as `total_time`,
+        R.ZUID       as `uid`,
+        R.Z_PK       as `p_recipe_id`,
+        -- We need to do these SELECTS because
+        -- otherwise the Category concat
+        -- replicates itself the number of times
+        -- there are images. No idea why.
+        (
+          SELECT
             GROUP_CONCAT(RP.ZFILENAME,"|") as filename
-        FROM
+          FROM
             ZRECIPEPHOTO as RP
-        WHERE
+          WHERE
             RP.ZRECIPE = R.Z_PK
-    ) as photos_filenames,
-    (
-        SELECT
+        ) as photos_filenames,
+        (
+          SELECT
             GROUP_CONCAT(RP.ZNAME,"|") as name
-        FROM
+          FROM
             ZRECIPEPHOTO as RP
-        WHERE
+          WHERE
             RP.ZRECIPE = R.Z_PK
-    ) as photos_names,
-    (
-        SELECT
+        ) as photos_names,
+        (
+          SELECT
             GROUP_CONCAT(date(M.ZDATE + {ts_offset},'unixepoch'),"|") as dates
-        FROM
+          FROM
             ZMEAL AS M
-        WHERE
+          WHERE
             M.ZRECIPE = R.Z_PK
-    ) as meal_dates,
-    (
-        SELECT
+        ) as meal_dates,
+        (
+          SELECT
             GROUP_CONCAT(M.ZTYPE,"|") as types
-        FROM
+          FROM
             ZMEAL AS M
-        WHERE
+          WHERE
             M.ZRECIPE = R.Z_PK
-    ) as meal_types
+        ) as meal_types
 
-FROM
-    ZRECIPE as R
+      FROM
+        ZRECIPE as R
 
-LEFT JOIN    Z_12CATEGORIES AS RC
-    ON    RC.Z_12RECIPES = R.Z_PK
-LEFT JOIN    ZRECIPECATEGORY AS C
-    ON    RC.Z_13CATEGORIES = C.Z_PK
+      LEFT JOIN  Z_12CATEGORIES AS RC
+        ON  RC.Z_12RECIPES = R.Z_PK
+      LEFT JOIN  ZRECIPECATEGORY AS C
+        ON  RC.Z_13CATEGORIES = C.Z_PK
 
-WHERE
-  R.ZINTRASH IS 0
+      WHERE
+        R.ZINTRASH IS 0
 
-GROUP BY    R.Z_PK;
-"""
+      GROUP BY  R.Z_PK;
+      """
     )
 #  AND ( R.ZRATING = 5 OR C.ZNAME LIKE '%mine%')
-    
-# --------------------------------------------------------------------------------------
-# For the next bit with columns and results and dict and zip, see:
-#    https://stackoverflow.com/questions/16519385/output-pyodbc-cursor-results-as-python-dictionary/16523148#16523148
-#
 
-# This grabs the key (cur.description) for us
-columns = [column[0] for column in cur.description]
-rows = cur.fetchall()
-
-results = []
-for row in rows:
-    # and here we glue the key to the value
-    results.append(dict(zip(columns, row)))
+results = db_query_magic(cur)
 
 print ("✅ DATABASE Queried For Recipes\n")
 
+# CLOSE DB ------------------------------------------------------------------------
+conn.close()
+print ("✅ DATABASE Closed\n")
 
 
 # --------------------------------------------------------------------------------------
-# Create a dict to hold the cats -> recipes dictionary
-cats = {}
-photos = defaultdict(dict)
+# Create dicts to hold 
+cats    = defaultdict(dict) # the cats -> recipes dictionary
+tags    = defaultdict(dict) # the tags -> docs dictionary
+
+
 # --------------------------------------------------------------------------------------
 # Loop through Results
 for result in results:
@@ -331,10 +361,8 @@ for result in results:
     result['permalink'] = '/recipes/'+recipe_filename
 
 
-
     # --------------------------------------------------------------------------------------
     # Start of RESULT Items FOR loop {
-
 
 
     # ---------------------------------------------------
@@ -385,7 +413,7 @@ for result in results:
     # First, if this recipe result has any photos
     if result['photo_thumb'] or result['photos_dict']:
       source_path_recipe_photos = path_photos + result['uid'] + "/"
-      dest_path_recipe_photos = path_output_recipe_phot_files + "/"
+      dest_path_recipe_photos = path_recp_phot_files + "/"
 
       if result['photo_thumb']:
         try:
@@ -501,7 +529,7 @@ for result in results:
     # Split concatened categories into a list
     if result['categories']:
         try:
-            result['categories'] = result['categories'].split('|')
+            result['categories'] = result['categories'].lower().split('|') # Forcing Cats to lowercase
             for cl in result['categories']:
               
               # Using the categories as a toggle hack ("recipe by Joi or not", etc…)
@@ -579,7 +607,7 @@ for result in results:
 
 
     # Create/Open a text file for each recipe and write the above Markdown string into it
-    mdFilePath = path_output_recipe_mkdn_files + recipe_filename + ".md"
+    mdFilePath = path_recp_mkdn_files + recipe_filename + ".md"
     write_file(mdFilePath,output2)
 
     del result,result2,output2,content
@@ -595,48 +623,41 @@ print ("✅ RECIPE RESULTS Looped and Acted upon\n")
 # Second Database Operation: Get our recipe Data
 conn = db_connect(path_db_working)
 with conn:
-    cur = conn.cursor()
-    cur.execute(f"""
-SELECT 
-    M.ZRECIPE as recipe_id,
-    M.ZNAME as recipe_name,
-    M.ZDATE + {ts_offset}                       as `meal_date_ts`,
-    DATE(M.ZDATE, 'unixepoch', '+31 year', 'localtime') as `meal_date`,
-    M.ZTYPE as meal_type_code,
-    MT.ZNAME as meal_type_name
+    cur2 = conn.cursor()
+    cur2.execute(f"""
+      SELECT 
+        M.ZRECIPE as recipe_id,
+        M.ZNAME as recipe_name,
+        M.ZDATE + {ts_offset} as `meal_date_ts`,
+        DATE(M.ZDATE, 'unixepoch', '+31 year', 'localtime') as `meal_date`,
+        M.ZTYPE as meal_type_code,
+        MT.ZNAME as meal_type_name
 
-FROM
-    ZMEAL as M
+      FROM
+        ZMEAL as M
 
-LEFT JOIN    ZMEALTYPE AS MT
-    ON    MT.Z_PK = M.ZTYPE
+      LEFT JOIN ZMEALTYPE AS MT
+        ON MT.Z_PK = M.ZTYPE
 
-WHERE
-  M.ZRECIPE is not NULL
+      WHERE
+      M.ZRECIPE is not NULL
 
-GROUP BY    M.Z_PK
-ORDER BY
-    meal_date_ts ASC
-;
-"""
+      GROUP BY
+        M.Z_PK
+      ORDER BY
+        meal_date_ts ASC
+      ;
+      """
     )
 
-    
-# --------------------------------------------------------------------------------------
-# For the next bit with columns and results and dict and zip, see:
-#    https://stackoverflow.com/questions/16519385/output-pyodbc-cursor-results-as-python-dictionary/16523148#16523148
-#
-
-# This grabs the key (cur.description) for us
-columns = [column[0] for column in cur.description]
-rows = cur.fetchall()
-
-data_meals = []
-for row in rows:
-    # and here we glue the key to the value
-    data_meals.append(dict(zip(columns, row)))
+data_meals = db_query_magic(cur2)
 
 print ("✅ DATABASE Queried For Meals\n")
+
+# CLOSE DB ------------------------------------------------------------------------
+conn.close()
+print ("✅ DATABASE Closed\n")
+
 
 # Initialise MEALS Indices dict
 meals_indices = defaultdict(dict)
@@ -691,7 +712,7 @@ for data_meal in data_meals:
 
   # MEAL GROUPED NOTES & DATA by RECIPE and DATE ---
 
-  note_file = path_output_meal_mkdn_files + meal_date + "-" + meal_type_name + ".md"
+  note_file = path_meal_mkdn_files + meal_date + "-" + meal_type_name + ".md"
   append_nofile_regular = {'date': meal_date, 'type': meal_type_name}
 
   if os.path.isfile(note_file):
@@ -725,10 +746,6 @@ for data_meal in data_meals:
 
 print ("✅ MEAL RESULTS Looped and Acted upon\n")
 
-# CLOSE DB ------------------------------------------------------------------------
-conn.close()
-
-print ("✅ DATABASE Closed\n")
 
 
 
@@ -740,16 +757,17 @@ print ("✅ DATABASE Closed\n")
 # Convert the data structs to JSON and dump to individual files
 
 # Category Indices
-json_cats_dump = json.dumps(cats, ensure_ascii=False, sort_keys=True, indent=1)
-jsonDataPath = path_output_json_data + "recipe_categories.json"
-write_file(jsonDataPath,json_cats_dump)
+write_json_file(cats,path_json_data + "recipe_categories.json")
 print ("✅ CATEGORY JSON Indices Dumped\n")
 
 # Meals Indices
-json_meals_indices_dump = json.dumps(meals_indices, ensure_ascii=False, sort_keys=True, indent=1)
-json_meals_indices_path = path_output_json_data + "meals_indices.json"
-write_file(json_meals_indices_path,json_meals_indices_path)
+write_json_file(meals_indices,path_json_data + "meals_indices.json")
 print ("✅ MEALS JSON Indices Dumped\n")
+
+
+# Tag Edge Cases Data Dump
+write_json_file(tag_edgecases,path_json_data + "tag_edgecases.json")
+print ("✅ TAG EDGECASES JSON Indices Dumped\n")
 
 
 
