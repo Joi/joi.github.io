@@ -162,7 +162,14 @@ def paprika_markdownish(content,photos_dict):
     else:
         raise ValueError("content null")
 
-print ("✅ FUNCTIONS instantiated\n")
+# Simple naïve wrapper around opening, writing to and closing a file.
+def write_file(path,content):
+    f = open(path, 'w')
+    f.write(str(content))
+    f.close()
+
+
+print ("✅ FUNCTIONS defined\n")
 
 
 # OUTPUT DESTINATION DIRECTORIES ---------------------
@@ -573,9 +580,7 @@ for result in results:
 
     # Create/Open a text file for each recipe and write the above Markdown string into it
     mdFilePath = path_output_recipe_mkdn_files + recipe_filename + ".md"
-    f2 = open(mdFilePath, 'w')
-    f2.write(output2)
-    f2.close()
+    write_file(mdFilePath,output2)
 
     del result,result2,output2,content
 
@@ -737,55 +742,24 @@ print ("✅ DATABASE Closed\n")
 # Category Indices
 json_cats_dump = json.dumps(cats, ensure_ascii=False, sort_keys=True, indent=1)
 jsonDataPath = path_output_json_data + "recipe_categories.json"
-f = open(jsonDataPath, 'w')
-f.write(json_cats_dump)
-f.close()
-print ("✅ CATGEORY JSON Data Dumped\n")
+write_file(jsonDataPath,json_cats_dump)
+print ("✅ CATEGORY JSON Indices Dumped\n")
 
 # Meals Indices
-""" json_data_meals_dump = json.dumps(data_meals, ensure_ascii=False, sort_keys=True, indent=1)
-json_data_meals_path = path_output_json_data + "data_meals.json"
-f = open(json_data_meals_path, 'w')
-f.write(json_data_meals_dump)
-f.close()
-print ("✅ MEALS JSON Data Dumped\n") """
-
 json_meals_indices_dump = json.dumps(meals_indices, ensure_ascii=False, sort_keys=True, indent=1)
 json_meals_indices_path = path_output_json_data + "meals_indices.json"
-f = open(json_meals_indices_path, 'w')
-f.write(json_meals_indices_dump)
-f.close()
+write_file(json_meals_indices_path,json_meals_indices_path)
 print ("✅ MEALS JSON Indices Dumped\n")
 
-#pp = pprint.PrettyPrinter(indent=1)
-#pp.pprint(cats)
-#print(cats)
-#pp.pprint(data_meals)
-#print(json_meals_indices_dump)
-#pp.pprint(photos)
 
-""" json_photos_indices_dump = json.dumps(photos, ensure_ascii=False, sort_keys=True, indent=1)
-json_photos_indices_path = path_output_json_data + "photos_indices.json"
-f = open(json_photos_indices_path, 'w')
-f.write(json_photos_indices_dump)
-f.close()
-print ("✅ PHOTOS JSON Indices Dumped\n") """
+
 
 
 # CLEANUP --------------------------------------------
 # Delete the temp working direcotry
 shutil.rmtree(path_temp_working, ignore_errors=True) # "ignore errors" nukes it
+print ("\n✅ CLEANUP Complete\n")
 
-
-# IMAGES ----------------------------------------------
-# Move the images out of the unzipped My Recipes dir to somehwere Jekyll can pick them up.
-#if os.path.exists(path_output_recipe_phot_files):
-#    shutil.rmtree(path_output_recipe_phot_files, ignore_errors=True)
-    #print(" - Nuked Recipe / Images Directory\n")
-#moveReturn = shutil.copytree(path_photos, path_output_recipe_phot_files)
-#print(" - Successfully copied to destination path:", moveReturn)
-
-print ("\n✅ CLEANUP Done\n")
 exectime = round((time.time() - start_time),3)
 print("------------------------------\n⏱  %s seconds \n------------------------------\n" % exectime)
-print ("😎 🤙🏼 We're done here.\n")
+print ("😎🤙🏼 We're done here.\n")
