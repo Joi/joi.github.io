@@ -54,6 +54,9 @@ collections:
     output: true
     sort_by: date
     permalink: /:year/:month/:day/notes/:slug
+  tags:
+    output: true
+    permalink: /tag/:slug
 
 defaults:
   - scope:
@@ -83,6 +86,13 @@ defaults:
     values:
       layout: "note"
       i_am  : "note" # to review - see note.html layout
+
+  - scope:
+      path: "_tags" # Source path!
+      type: "tags"
+    values:
+      layout: "tag"
+      i_am  : "tag" # to review - see note.html layout
 
 # Exclude from processing.
 # The following items will not be processed, by default.
