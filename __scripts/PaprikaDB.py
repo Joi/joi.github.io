@@ -12,6 +12,7 @@
 # pip install pathvalidate | https://pypi.org/project/pathvalidate/
 # pip install pyyaml
 # pip install python-frontmatter
+# pip install titlecase - 2021-04-11
 
 # REGARDING MARKDOWN
 # We ran with Commonmakr for a while but ran into an issue: it doesn't do tables.
@@ -30,6 +31,7 @@ import re
 import shutil
 import datetime
 from datetime import datetime
+from operator import itemgetter
 import zipfile
 import json
 import yaml
@@ -45,6 +47,7 @@ from sqlite3 import Error
 from pathlib import Path
 from shutil import copyfile
 from collections import defaultdict
+from titlecase import titlecase
 import config # This imports our local config file, "config.py". Access vars like so: config.var
 
 
@@ -94,13 +97,14 @@ path_db_working     = path_temp_working + filename_db
 path_json_data       = path_project + '/_data/'
 path_recp_mkdn_files = path_project + '/_recipes/'
 path_meal_mkdn_files = path_project + '/_notes/'
-path_tags_mkdn_files = path_project + '/_tag/'
+path_tags_mkdn_files = path_project + '/_tags/'
 path_pags_mkdn_files = path_project + '/_pages/'
 path_post_mkdn_files = path_project + '/_posts/'
 path_recp_phot_files = path_project + '/images/recipes/'
 
 # Paths to dirs of markdown data/content which Jekyll knows about but this script doesn't yet
 paths_jekyll_mkdn_dirs = [
+  path_meal_mkdn_files,
   path_pags_mkdn_files,
   path_post_mkdn_files
   ]
@@ -113,7 +117,10 @@ ts_offset = 978307200
 tag_edgecases = {
   'bbq': 'BBQ'
 }
-
+# The above rendered as a list:
+tag_edgecases_list = []
+for tel,teu in tag_edgecases.items():
+  tag_edgecases_list.append(teu)
 
 print ("✅ IMPORTs completed and VARs initiated\n")
 
@@ -130,7 +137,7 @@ def make_filename(string):
     #string = created[0:10] + "-" + string
     #string=str(bytes(string, 'utf-8').decode('utf-8','ignore').encode("utf-8",'ignore'))
     #string=string.replace("b'","").replace("'","")
-    invalid = r'<>:"/\|?* ,()“”‘’\''
+    invalid = r'.<>:"/\|?* ,()“”‘’\''
     for char in invalid:
         string = string.replace(char, '')
     string = sanitize_filename(string).lower().rstrip('-').replace('---','-')
@@ -203,6 +210,9 @@ def write_file(path,content):
 def write_json_file(data,path):
   write_file(path,json.dumps(data, ensure_ascii=False, sort_keys=True, indent=1))
 
+def abbreviations(word, **kwargs):
+  if word.upper() in ('TCP', 'UDP'):
+    return word.upper()
 
 print ("✅ FUNCTIONS defined\n")
 
@@ -216,6 +226,8 @@ if not os.path.exists(path_db_bu_sub):
 # These ones we want to recreate every time
 # Recipe Markdown Stubs Directory
 pheonix_output_directories(path_recp_mkdn_files)
+# Tag Markdown Stubs Directory
+pheonix_output_directories(path_tags_mkdn_files)
 # Recipe Renamed Photos Directory
 pheonix_output_directories(path_recp_phot_files)
 
@@ -528,36 +540,56 @@ for result in results:
     # Categories
     # Split concatened categories into a list
     if result['categories']:
-        try:
-            result['categories'] = result['categories'].lower().split('|') # Forcing Cats to lowercase
-            for cl in result['categories']:
-              
-              # Using the categories as a toggle hack ("recipe by Joi or not", etc…)
-              if cl == "_mine":
-                result['mine'] = 1
-              if cl == "_stub":
-                result['type'] = 'stub'
+      remove_cats_hacks = ['_mine','_stub']
+      try:
+        result['categories'] = result['categories'].lower().split('|') # Forcing Cats to lowercase
+        for cl in result['categories']:
+          
+          # Using the categories as a toggle hack ("recipe by Joi or not", etc…)
+          if cl == "_mine":
+            result['mine'] = 1
+          if cl == "_stub":
+            result['type'] = 'stub'
 
-              if cl not in cats.keys():
-                cats[cl] = {}
+          if cl not in cats.keys():
+            cats[cl] = {}
+          
+          # Here we create the Tags array and insert the Recipe data.
+          # This will only contain tags that are used as Categories in Paprika Recipes.
+          # We still need to go and iterate over all the Markdown files and extract the tags from them.
+          # Any tags that are not already created by recipes will need to be then, and etc…
+          if cl not in tags.keys():
+            #tags[cl] = {'recipes':[],'notes':{'feature':[],'rough':[]},'pages':[]}
+            tags[cl] = {'recipes':[],'rel_tags':[]}
+          append_to_recipes = {'title':result['name'],'permalink':result['permalink'],'photo_thumb':result['photo_thumb'], 'mine':result['mine'], 'rating':result['rating']}
+          tags[cl]['recipes'].append(append_to_recipes)
+          # hawt lambda sorting magik https://www.geeksforgeeks.org/ways-sort-list-dictionaries-values-python-using-lambda-function/
+          #tags[cl]['recipes'] = sorted(tags[cl]['recipes'], key = lambda i: i['title'])
+          # Same, using itemgetter (more efficient) https://www.geeksforgeeks.org/ways-sort-list-dictionaries-values-python-using-itemgetter/
+          # requires `from operator import itemgetter` though
+          tags[cl]['recipes'] = sorted(tags[cl]['recipes'], key=itemgetter('title'))
 
-              if recipe_filename not in cats[cl].keys():
-                cats[cl][recipe_filename] = str(result['name'])
+          if recipe_filename not in cats[cl].keys():
+            cats[cl][recipe_filename] = str(result['name'])
 
-        except Exception as e:
-          print( "🛑 Something fubar in categories for " + recipe_filename + "\n")
-          print(e)
-          print("-------\n")
-        remove_cats_hacks = ['_mine','_stub']
-        result['categories'] = [i for i in result['categories'] if i not in remove_cats_hacks]
-        result['tags'] = result['categories']
+          # Add the "categories", modulo the current one and the hacks, to the relative_tags list
+          remove_for_rel = remove_cats_hacks + [cl]
+          tags[cl]['rel_tags'] += [i for i in result['categories'] if i not in remove_for_rel]
+
+
+      except Exception as e:
+        print( "🛑 Something fubar in categories for " + recipe_filename + "\n")
+        print(e)
+        print("-------\n")
+      result['categories'] = [i for i in result['categories'] if i not in remove_cats_hacks]
+      result['tags'] = result['categories']
 
     # ---------------------------------------------------
     # Sources
     if result["source"] == "":
-        result["source"] = None 
+      result["source"] = None 
     if result["source_url"] == "":
-        result["source_url"] = None 
+      result["source_url"] = None 
 
     # Clean out a bit of stuff
     result.pop('photos_dict_new')
@@ -670,6 +702,8 @@ meals_indices['meal_data_by_recipe_and_status'] = defaultdict(dict)
 # MEAL by DATE and RECIPE
 meals_indices['meal_by_date_and_recipe'] = defaultdict(dict)
 
+write_json_file(data_meals,path_json_data + "debug.json")
+
 # Loop the data into the new struct
 for data_meal in data_meals:
   meal_date             = data_meal['meal_date']
@@ -717,6 +751,7 @@ for data_meal in data_meals:
 
   if os.path.isfile(note_file):
     parsed_note = frontmatter.load(note_file)
+
     try:
       append_featured = {'date': meal_date, 'type': meal_type_name, 'feature': parsed_note['feature']}
       #print("featured: " + str(meal_recipe_id).zfill(3) + " : " + json.dumps(append_featured))
@@ -743,10 +778,119 @@ for data_meal in data_meals:
     meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['nofile'].append(append_nofile_regular)
 
 
-
 print ("✅ MEAL RESULTS Looped and Acted upon\n")
 
 
+# Peek into the Markdown files ------------------------------------------
+
+# Get the _Notes dir's files' tags lists & add to tags[]
+for meal_mkdn_file in sorted(os.listdir(path_meal_mkdn_files)):
+
+  meal_mkdf_filename_pat = "^(\d\d\d\d)-(0?[1-9]|1[0-2])-(0?[1-9]|[12][0-9]|3[01])-(\w+).md$"
+  meal_mkdf_filename_mat = re.match(meal_mkdf_filename_pat, meal_mkdn_file)
+  #if meal_mkdn_file != ".DS_Store":
+  if meal_mkdf_filename_mat:
+
+    # We get the date and meal type out of the filename regex match check above.
+    meal_year = meal_mkdf_filename_mat.group(1)
+    meal_mnth = meal_mkdf_filename_mat.group(2)
+    meal_day  = meal_mkdf_filename_mat.group(3)
+    meal_type = meal_mkdf_filename_mat.group(4)
+    meal_date = meal_year + "-" + meal_mnth + "-" + meal_day 
+    meal_mkdn_file_path = path_meal_mkdn_files + meal_mkdn_file
+    # ! ! ! Weak link: Replicating the Note Permalink from Jekyll's _config.yml 
+    meal_uri_path = "/"+ meal_year +"/"+ meal_mnth +"/"+ meal_day +"/notes/" + meal_type + ".html"
+
+    # Now, we need to open each file …
+    if os.path.isfile(meal_mkdn_file_path):
+      parsed_note = frontmatter.load(meal_mkdn_file_path) # See note "Parsed Note" at foot
+      # and pull out the value of "feature" key.
+      feature = parsed_note.get('feature')
+      # If there is one, it is a "featured" meal note,
+      if (feature):
+        note_type = "feature"
+        append_to_note = {'date':meal_date,'type':meal_type,'feature':feature,'uri_path':meal_uri_path}
+      # If there isn't, it's a "rough" meal note
+      else:
+        note_type = "rough"
+        append_to_note = {'date':meal_date,'type':meal_type,'uri_path':meal_uri_path}
+
+      parsed_note_tags = parsed_note.get('tags')
+      if parsed_note_tags != None:
+        # We need to stick strings into a list sometimes
+        if type(parsed_note_tags) is str:
+          parsed_note_tags = [parsed_note_tags]
+        if type(parsed_note_tags) is list:
+          parsed_note_tags = [x.lower() for x in parsed_note_tags]
+          for tag in parsed_note_tags:
+            try:
+              tags[tag]['notes']
+            except:
+              tags[tag]['notes'] = {'feature':[],'rough':[]}
+            tags[tag]['notes'][note_type].append(append_to_note)
+            # Related Tags list
+            #if the rel_tags list dunt exist yet, create it
+            try:
+              tags[tag]['rel_tags']
+            except:
+              tags[tag]['rel_tags'] = []
+            # add the note tags, modulo the current tag
+            tags[tag]['rel_tags'] += [i for i in parsed_note_tags if i not in [tag]]
+            #print(tag + ": " + json.dumps(tags[tag], indent=1) + "\n")
+
+
+# Get the _Pages dir's files' tags lists & add to tags[]
+for page_mkdn_file in sorted(os.listdir(path_pags_mkdn_files)):
+
+  page_mkdf_filename_pat = "^(.*).md$"
+  page_mkdf_filename_mat = re.match(page_mkdf_filename_pat, page_mkdn_file)
+
+  if page_mkdf_filename_mat:
+    page_mkdn_file_path = path_pags_mkdn_files + page_mkdn_file
+    if os.path.isfile(page_mkdn_file_path):
+      parsed_page = frontmatter.load(page_mkdn_file_path) # See note "Parsed Note" at foot
+      parsed_page_tags = parsed_page.get('tags')
+      parsed_page_title = parsed_page.get('title')
+      if parsed_page_tags != None:
+
+        # We need to stick strings into a list sometimes
+        if type(parsed_page_tags) is str:
+          
+          # In cases where Tags have been entered on a signle line 
+          #   with a single white space &/or comman between them:
+          # Test string (put in tags as one line on a Page)
+          #   "test1,test2, test3 test4"
+          space = " "
+          comma = ","
+          if comma in parsed_page_tags:
+            parsed_page_tags = parsed_page_tags.replace(","," ")
+          if space + space in parsed_page_tags:
+            parsed_page_tags = parsed_page_tags.replace("  "," ")
+          if space in parsed_page_tags:
+            parsed_page_tags = parsed_page_tags.split(" ")
+          else:
+            parsed_page_tags = [parsed_page_tags]
+
+        # Either Frontmatter has already parsed the YAML for us,
+        # or the above ugly hack has made a list for us…
+        #   and we can proceed
+        if type(parsed_page_tags) is list:
+          parsed_page_tags = [x.lower() for x in parsed_page_tags]
+          for tag in parsed_page_tags:
+            try:
+              tags[tag]['pages']
+            except:
+              tags[tag]['pages'] = []
+            tags[tag]['pages'].append(parsed_page_title)
+            # Related Tags list
+            #if the rel_tags list dunt exist yet, create it
+            try:
+              tags[tag]['rel_tags']
+            except:
+              tags[tag]['rel_tags'] = []
+            # add the note tags, modulo the current tag
+            tags[tag]['rel_tags'] += [i for i in parsed_page_tags if i not in [tag]]
+            #print(tag + ": " + json.dumps(tags[tag], indent=1) + "\n")
 
 
 
@@ -764,13 +908,37 @@ print ("✅ CATEGORY JSON Indices Dumped\n")
 write_json_file(meals_indices,path_json_data + "meals_indices.json")
 print ("✅ MEALS JSON Indices Dumped\n")
 
-
 # Tag Edge Cases Data Dump
 write_json_file(tag_edgecases,path_json_data + "tag_edgecases.json")
 print ("✅ TAG EDGECASES JSON Indices Dumped\n")
 
+# Tag Indices - for debug
+write_json_file(tags,path_json_data + "tags.json")
+print ("✅ TAGS JSON Indices Dumped\n")
 
 
+# This needs to be at the bottom after we add everything
+# count and group related tags and add the filename slug
+#res = {make_filename(idx) : [tags[cl]['rel_tags'].count(idx),idx]
+#  for idx in set(tags[cl]['rel_tags'])}
+#tags[cl]['rel_tags_count'] = res
+
+# Loop to generate:
+# 1. Consolidated Tag counts
+# 2. Tag Page Markdown Slugs
+for tag, tagd in tags.items():
+  # Take the list of accumulated tags and generate a count+filenamed dict for each unique tag
+  res = {make_filename(idx) : [tagd['rel_tags'].count(idx),idx]
+    for idx in set(tagd['rel_tags'])}
+  tagd['rel_tags_count'] = res
+  tagd.pop('rel_tags') # discard the list
+  # Make those slugs
+  tag_filename = make_filename(tag)
+  tag_title = titlecase(tag)
+  tag_key = tag_filename
+  tag_yaml = yaml.dump(tagd)
+  tag_content = "---\ntitle: " + tag_title + "\ntag_key: " + tag_key + "\n" + tag_yaml + "\n---\n"
+  write_file(path_tags_mkdn_files + tag_filename + ".md",tag_content)
 
 
 # CLEANUP --------------------------------------------
@@ -781,3 +949,13 @@ print ("\n✅ CLEANUP Complete\n")
 exectime = round((time.time() - start_time),3)
 print("------------------------------\n⏱  %s seconds \n------------------------------\n" % exectime)
 print ("😎🤙🏼 We're done here.\n")
+
+"""
+NOTES ----------------------------------
+
+"Parsed Notes"
+There's a missed opportunity here, to be leveraged later, to add the contents of the 
+Markdown files to the script's"knowledge". 
+This would require building an overall "memory", perhaps Object?
+
+"""

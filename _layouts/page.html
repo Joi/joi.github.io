@@ -2,19 +2,37 @@
 layout: default
 ---
 <!-- template: page.html -->
+
+<div class="row" id="title">
+	<div class="small-12 columns">
+    <div class="page-header">
+      <div class="sup-head">Page</div>
+      <div class="title">{{ page.title }}</div>
+      <div class="sub-title">
+        {% if page.tags %}
+          <span class="tags">Tags:
+          {% for tag in page.tags %}
+            {% if forloop.last %}
+              {% assign comma = "" %}
+            {% else %}
+              {% assign comma = ", " %}
+            {% endif %}
+            <a href="/tag/{{ tag | slugify }}" title="Tagged as {{ tag | downcase }}">{{ tag | downcase }}</a>{{comma}}
+          {% endfor %}
+          </span>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="row" id="">
-	{%- comment -%}
-	<div class="medium-2 columns" id="left-margin">
-		&nbsp;
-	</div>
-	{%- endcomment -%}
+
 	<div class="medium-9 columns" id="main">
 
-		<h3>{{ page.title }}</h3>
+		<h3></h3>
     <div class="content">
-      <div class="content">
-        {%- include content.html -%}
-      </div>
+      {%- include content.html -%}
     </div>
 	</div>
 	<div class="medium-3 columns" id="right-margin">

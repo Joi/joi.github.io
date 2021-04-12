@@ -609,18 +609,19 @@ body.post {}
 body.recipe .page-header .title {
   font-size: 2.5rem;
   line-height: 110%;
-  margin: 0.2rem 0 0.5rem;
+  margin: 0.2rem 0 0.2rem;
 }
 body.recipe .page-header .source {
   font-size: 14px;
   color: #666;
+  margin-bottom: 0.2rem;
 }
 
 /* Note pages */
-body.note .page-header {
+.page-header {
   margin-bottom: 1em;
 }
-body.note .page-header .title {
+.page-header .title {
   font-size: 2.5rem;
   font-weight: 600;
   line-height: 117%;
@@ -629,6 +630,21 @@ body.note .content h1,
 body.note .content h2,
 body.note .content h3 {
   font-size: 2rem;
+}
+.sub-title .tags {
+  font-size:14px;
+}
+/* Related Tags */
+.related-tags {
+  list-style-type: none;
+  margin-left: 0;
+}
+.related-tags em {
+  font-style: normal;
+  font-size: 8pt;
+  font-weight: 500;
+  vertical-align: 1px;
+  color:#999;
 }
 
 h4 a {

@@ -50,6 +50,22 @@ layout: default
           {% endunless %}
         </p>
       {% endif %}
+
+      {% if page.tags %}
+        <div class="sub-title">
+          <span class="tags">Tags: 
+          {% for tag in page.categories %}
+            {% if forloop.last %}
+              {% assign comma = "" %}
+            {% else %}
+              {% assign comma = ", " %}
+            {% endif %}
+            <a href="/tag/{{ tag | slugify }}" title="Tagged as {{ tag | downcase }}">{{ tag | downcase }}</a>{{comma}}
+          {% endfor %}
+          </span>
+        </div>
+      {% endif %}
+
     </div>
 
   </div>
