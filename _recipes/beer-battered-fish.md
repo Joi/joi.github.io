@@ -2,7 +2,7 @@
 title: "Beer-Battered Fish"
 filename: "beer-battered-fish"
 categories: &id001
-- Fish
+- fish
 cook_time: ''
 created: '2021-04-02 18:27:50'
 created_ts: 1617388070

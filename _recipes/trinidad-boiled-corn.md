@@ -2,7 +2,7 @@
 title: "Trinidad Boiled Corn"
 filename: "trinidad-boiled-corn"
 categories: &id001
-- Corn
+- corn
 cook_time: 20 m
 created: '2020-07-04 13:29:45'
 created_ts: 1593869385

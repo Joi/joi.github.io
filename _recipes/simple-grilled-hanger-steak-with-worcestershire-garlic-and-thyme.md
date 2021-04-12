@@ -2,7 +2,7 @@
 title: "Simple Grilled Hanger Steak with Worcestershire, Garlic, and Thyme"
 filename: "simple-grilled-hanger-steak-with-worcestershire-garlic-and-thyme"
 categories: &id001
-- Beef
+- beef
 cook_time: 6 minutes
 created: '2020-06-15 00:11:15'
 created_ts: 1592179875

@@ -2,7 +2,7 @@
 title: "Pressure Cooker Coconut Curry Chicken"
 filename: "pressure-cooker-coconut-curry-chicken"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 1 hour
 created: '2020-04-19 15:32:50'
 created_ts: 1587310370

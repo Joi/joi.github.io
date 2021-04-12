@@ -2,7 +2,7 @@
 title: "Reverse-Sear Prime Rib Roast"
 filename: "reverse-sear-prime-rib-roast"
 categories: &id001
-- Prime Rib
+- prime rib
 cook_time: 3 hrs 36 mins
 created: '2020-08-17 13:32:51'
 created_ts: 1597671171

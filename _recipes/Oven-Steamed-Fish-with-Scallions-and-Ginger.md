@@ -2,8 +2,8 @@
 title: "Oven-Steamed Fish with Scallions and Ginger"
 filename: "oven-steamed-fish-with-scallions-and-ginger"
 categories: &id001
-- Fish
-- White Fish
+- fish
+- white fish
 cook_time: 1 hour
 created: '2020-02-03 15:25:45'
 created_ts: 1580743545

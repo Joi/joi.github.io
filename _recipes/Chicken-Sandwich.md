@@ -2,10 +2,10 @@
 title: "Chicken Sandwich"
 filename: "chicken-sandwich"
 categories: &id001
-- Sandwich
-- Chicken
-- Italian
-- Meat
+- sandwich
+- chicken
+- italian
+- meat
 cook_time: null
 created: '2020-02-02 20:49:33'
 created_ts: 1580676573

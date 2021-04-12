@@ -2,8 +2,8 @@
 title: "The Best Meatball Recipe | 1-Minute Video"
 filename: "the-best-meatball-recipe--1-minute-video"
 categories: &id001
-- Italian
-- Ground Beef
+- italian
+- ground beef
 cook_time: 10 mins
 created: '2020-10-28 11:35:55'
 created_ts: 1603884955

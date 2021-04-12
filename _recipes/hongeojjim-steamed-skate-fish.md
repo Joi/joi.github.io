@@ -2,7 +2,7 @@
 title: "Hongeojjim (Steamed Skate Fish)"
 filename: "hongeojjim-steamed-skate-fish"
 categories: &id001
-- Skate Wings
+- skate wings
 cook_time: null
 created: '2021-01-19 12:47:22'
 created_ts: 1611060442

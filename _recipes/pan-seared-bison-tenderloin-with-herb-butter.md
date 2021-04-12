@@ -2,8 +2,8 @@
 title: "Pan-Seared Bison Tenderloin with Herb Butter"
 filename: "pan-seared-bison-tenderloin-with-herb-butter"
 categories: &id001
-- Duck
-- Bison
+- duck
+- bison
 cook_time: ''
 created: '2020-03-21 20:33:48'
 created_ts: 1584822828

@@ -2,7 +2,7 @@
 title: "Crown Roast of Lamb - Food Network"
 filename: "crown-roast-of-lamb-food-network"
 categories: &id001
-- Lamb
+- lamb
 cook_time: 30 min
 created: '2020-07-08 17:30:53'
 created_ts: 1594229453

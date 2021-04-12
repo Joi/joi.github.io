@@ -2,8 +2,8 @@
 title: "Salmon en Papillote (Salmon in Parchment)"
 filename: "salmon-en-papillote-salmon-in-parchment"
 categories: &id001
-- Fish
-- Salmon
+- fish
+- salmon
 cook_time: 20 minutes
 created: '2020-03-20 18:23:15'
 created_ts: 1584728595

@@ -2,7 +2,7 @@
 title: "Fresh Pasta with White Truffles"
 filename: "fresh-pasta-with-white-truffles"
 categories: &id001
-- Truffles
+- truffles
 cook_time: 10 minutes
 created: '2020-11-18 12:53:31'
 created_ts: 1605704011

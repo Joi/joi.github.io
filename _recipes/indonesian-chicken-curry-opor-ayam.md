@@ -2,7 +2,7 @@
 title: "Indonesian Chicken Curry (Opor Ayam)"
 filename: "indonesian-chicken-curry-opor-ayam"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 70 minutes
 created: '2020-03-26 15:44:51'
 created_ts: 1585237491

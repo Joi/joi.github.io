@@ -2,7 +2,7 @@
 title: "How to Make Homemade Croutons"
 filename: "how-to-make-homemade-croutons"
 categories: &id001
-- Garnish
+- garnish
 cook_time: 20 minutes
 created: '2020-08-20 19:19:42'
 created_ts: 1597951182

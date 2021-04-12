@@ -2,8 +2,8 @@
 title: "Chicken Bouillabaisse"
 filename: "chicken-bouillabaisse"
 categories: &id001
-- Chicken
-- Soup
+- chicken
+- soup
 cook_time: ''
 created: '2020-10-15 18:13:56'
 created_ts: 1602785636

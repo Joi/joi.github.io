@@ -2,9 +2,9 @@
 title: "Lamb Tagine"
 filename: "lamb-tagine"
 categories: &id001
-- Lamb
-- Middle East
-- Soup
+- lamb
+- middle east
+- soup
 cook_time: 04:30
 created: '2021-04-05 11:33:14'
 created_ts: 1617622394
@@ -31,6 +31,7 @@ photos_dict:
   '1': lamb-tagine-1.jpg
   '2': lamb-tagine-2.jpg
   '3': lamb-tagine-3.jpg
+  '4': lamb-tagine-4.jpg
 prep_time: 00:20
 rating: 5
 servings: '8'

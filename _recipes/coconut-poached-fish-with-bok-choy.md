@@ -2,7 +2,7 @@
 title: "Coconut-Poached Fish with Bok Choy"
 filename: "coconut-poached-fish-with-bok-choy"
 categories: &id001
-- Fish
+- fish
 cook_time: 25 minutes
 created: '2020-10-19 01:20:54'
 created_ts: 1603070454

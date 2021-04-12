@@ -2,7 +2,7 @@
 title: "Slow Roast Pork Shoulder with Herb Rub"
 filename: "slow-roast-pork-shoulder-with-herb-rub"
 categories: &id001
-- Pork Shoulder
+- pork shoulder
 cook_time: 12 hours
 created: '2020-06-13 15:18:19'
 created_ts: 1592061499

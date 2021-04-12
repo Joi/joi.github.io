@@ -2,7 +2,7 @@
 title: "Pan-Seared Steaks"
 filename: "pan-seared-steaks"
 categories: &id001
-- Steaks
+- steaks
 cook_time: ''
 created: '2020-03-17 22:02:24'
 created_ts: 1584482544

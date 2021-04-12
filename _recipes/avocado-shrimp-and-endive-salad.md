@@ -2,9 +2,9 @@
 title: "Avocado, Shrimp, and Endive Salad"
 filename: "avocado-shrimp-and-endive-salad"
 categories: &id001
-- Salad
-- Shrimp
-- Endive
+- salad
+- shrimp
+- endive
 cook_time: ''
 created: '2020-07-04 18:34:49'
 created_ts: 1593887689

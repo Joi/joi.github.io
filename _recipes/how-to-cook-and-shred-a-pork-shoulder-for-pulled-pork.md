@@ -2,7 +2,7 @@
 title: "How to Cook (And Shred) a Pork Shoulder for Pulled Pork"
 filename: "how-to-cook-and-shred-a-pork-shoulder-for-pulled-pork"
 categories: &id001
-- Pork Shoulder
+- pork shoulder
 cook_time: ''
 created: '2020-06-13 15:42:21'
 created_ts: 1592062941

@@ -2,9 +2,9 @@
 title: "The Best Chili Ever"
 filename: "the-best-chili-ever"
 categories: &id001
-- Soup
-- Short Ribs
-- Mexican
+- soup
+- short ribs
+- mexican
 cook_time: 6 hours, plus overnight to soak beans
 created: '2021-02-14 14:56:21'
 created_ts: 1613314581

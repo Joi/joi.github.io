@@ -2,7 +2,7 @@
 title: "Braised Beef Ribs with Vegetables"
 filename: "braised-beef-ribs-with-vegetables"
 categories: &id001
-- Beef Back Ribs
+- beef back ribs
 cook_time: 3 hours
 created: '2020-09-02 02:49:27'
 created_ts: 1599014967

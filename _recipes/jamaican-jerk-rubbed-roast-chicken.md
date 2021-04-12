@@ -2,7 +2,7 @@
 title: "Jamaican-Jerk-Rubbed Roast Chicken"
 filename: "jamaican-jerk-rubbed-roast-chicken"
 categories: &id001
-- Chicken
+- chicken
 cook_time: null
 created: '2021-01-21 15:15:37'
 created_ts: 1611242137

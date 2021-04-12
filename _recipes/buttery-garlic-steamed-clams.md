@@ -2,7 +2,7 @@
 title: "Buttery Garlic Steamed Clams"
 filename: "buttery-garlic-steamed-clams"
 categories: &id001
-- Clams
+- clams
 cook_time: 12 mins
 created: '2020-12-30 20:59:00'
 created_ts: 1609361940

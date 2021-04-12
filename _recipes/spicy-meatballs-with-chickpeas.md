@@ -2,11 +2,11 @@
 title: "Spicy Meatballs with Chickpeas"
 filename: "spicy-meatballs-with-chickpeas"
 categories: &id001
-- Pork
-- Chicken
-- Meat
-- Ground Beef
-- Turkey
+- pork
+- chicken
+- meat
+- ground beef
+- turkey
 cook_time: 1 hour
 created: '2020-04-11 15:09:18'
 created_ts: 1586617758

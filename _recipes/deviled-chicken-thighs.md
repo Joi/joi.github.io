@@ -2,7 +2,7 @@
 title: "Deviled Chicken Thighs"
 filename: "deviled-chicken-thighs"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 20 minutes
 created: '2020-03-16 19:06:22'
 created_ts: 1584385582

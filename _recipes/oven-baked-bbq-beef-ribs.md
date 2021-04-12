@@ -2,7 +2,7 @@
 title: "Oven Baked BBQ Beef Ribs"
 filename: "oven-baked-bbq-beef-ribs"
 categories: &id001
-- Beef Back Ribs
+- beef back ribs
 cook_time: 4 hours
 created: '2020-09-02 02:44:30'
 created_ts: 1599014670

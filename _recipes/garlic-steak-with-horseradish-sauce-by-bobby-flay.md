@@ -2,7 +2,7 @@
 title: "Garlic Steak with Horseradish Sauce by Bobby Flay"
 filename: "garlic-steak-with-horseradish-sauce-by-bobby-flay"
 categories: &id001
-- Sauce
+- sauce
 cook_time: 21mins
 created: '2020-07-18 17:34:03'
 created_ts: 1595093643

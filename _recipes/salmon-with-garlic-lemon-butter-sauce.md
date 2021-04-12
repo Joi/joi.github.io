@@ -2,7 +2,7 @@
 title: "Salmon with Garlic Lemon Butter Sauce"
 filename: "salmon-with-garlic-lemon-butter-sauce"
 categories: &id001
-- Salmon
+- salmon
 cook_time: 10 minutes
 created: '2020-08-21 20:55:05'
 created_ts: 1598043305

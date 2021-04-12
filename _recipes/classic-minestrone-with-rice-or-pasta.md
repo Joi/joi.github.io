@@ -2,7 +2,7 @@
 title: "Classic Minestrone with Rice or Pasta"
 filename: "classic-minestrone-with-rice-or-pasta"
 categories: &id001
-- Soup
+- soup
 cook_time: null
 created: '2020-02-02 15:13:01'
 created_ts: 1580656381

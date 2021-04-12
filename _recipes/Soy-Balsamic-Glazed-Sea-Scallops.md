@@ -2,7 +2,7 @@
 title: "Soy-Balsamic Glazed Sea Scallops"
 filename: "soy-balsamic-glazed-sea-scallops"
 categories: &id001
-- Scallops
+- scallops
 cook_time: 12 min
 created: '2020-07-18 11:43:17'
 created_ts: 1595072597

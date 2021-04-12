@@ -2,7 +2,7 @@
 title: "Seafood Saute"
 filename: "seafood-saute"
 categories: &id001
-- Seafood
+- seafood
 cook_time: 5 mins
 created: '2020-09-12 19:36:47'
 created_ts: 1599939407

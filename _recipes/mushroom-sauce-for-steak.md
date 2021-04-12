@@ -2,9 +2,9 @@
 title: "Mushroom Sauce for Steak"
 filename: "mushroom-sauce-for-steak"
 categories: &id001
-- Steaks
-- Sauce
-- Mushroom
+- steaks
+- sauce
+- mushroom
 cook_time: 10 minutes
 created: '2021-02-15 12:56:15'
 created_ts: 1613393775

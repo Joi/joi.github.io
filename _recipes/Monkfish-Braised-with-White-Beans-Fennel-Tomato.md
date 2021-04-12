@@ -2,7 +2,7 @@
 title: "Monkfish Braised with White Beans, Fennel, & Tomato"
 filename: "monkfish-braised-with-white-beans-fennel-tomato"
 categories: &id001
-- Monkfish
+- monkfish
 cook_time: ''
 created: '2020-09-01 17:52:04'
 created_ts: 1598982724

@@ -2,7 +2,7 @@
 title: "Lamb Chops with Balsamic Reduction"
 filename: "lamb-chops-with-balsamic-reduction"
 categories: &id001
-- Lamb
+- lamb
 cook_time: 15 mins
 created: '2020-12-25 13:02:18'
 created_ts: 1608901338

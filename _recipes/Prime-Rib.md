@@ -2,7 +2,7 @@
 title: "Prime Rib"
 filename: "prime-rib"
 categories: &id001
-- Prime Rib
+- prime rib
 cook_time: 5 hours
 created: '2020-08-20 16:02:42'
 created_ts: 1597939362

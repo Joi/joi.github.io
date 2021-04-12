@@ -2,7 +2,7 @@
 title: "Baked Bluefish"
 filename: "baked-bluefish"
 categories: &id001
-- Blue Fish
+- blue fish
 cook_time: 20 minutes
 created: '2020-06-05 14:53:36'
 created_ts: 1591368816

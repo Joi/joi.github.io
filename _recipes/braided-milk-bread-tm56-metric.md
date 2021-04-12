@@ -2,7 +2,7 @@
 title: "Braided Milk Bread (TM5/6 Metric)"
 filename: "braided-milk-bread-tm56-metric"
 categories: &id001
-- Bread and Biscuits
+- bread and biscuits
 cook_time: 2h 20min
 created: '2020-02-03 15:59:19'
 created_ts: 1580745559

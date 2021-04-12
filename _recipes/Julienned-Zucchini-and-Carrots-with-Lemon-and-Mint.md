@@ -2,7 +2,7 @@
 title: "Julienned Zucchini and Carrots with Lemon and Mint"
 filename: "julienned-zucchini-and-carrots-with-lemon-and-mint"
 categories: &id001
-- Zucchini
+- zucchini
 cook_time: ''
 created: '2020-07-30 18:04:11'
 created_ts: 1596132251

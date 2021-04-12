@@ -2,7 +2,7 @@
 title: "Pan-Fried Soft-Shell Crabs"
 filename: "pan-fried-soft-shell-crabs"
 categories: &id001
-- Soft-Shell Crabs
+- soft-shell crabs
 cook_time: ''
 created: '2020-07-13 18:59:08'
 created_ts: 1594666748

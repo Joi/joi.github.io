@@ -2,7 +2,7 @@
 title: "Roasted Branzino with Caper Butter"
 filename: "roasted-branzino-with-caper-butter"
 categories: &id001
-- Branzino
+- branzino
 cook_time: 40 mins
 created: '2020-11-24 10:55:11'
 created_ts: 1606215311

@@ -2,7 +2,7 @@
 title: "Chicken with Vinegar"
 filename: "chicken-with-vinegar"
 categories: &id001
-- Chicken
+- chicken
 cook_time: ''
 created: '2020-12-25 16:05:48'
 created_ts: 1608912348

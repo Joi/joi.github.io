@@ -2,7 +2,7 @@
 title: "Skate with Green Herb Sauce"
 filename: "skate-with-green-herb-sauce"
 categories: &id001
-- Skate Wings
+- skate wings
 cook_time: 15 minutes
 created: '2020-06-21 15:20:08'
 created_ts: 1592752808

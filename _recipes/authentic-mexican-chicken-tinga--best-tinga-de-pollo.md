@@ -2,7 +2,7 @@
 title: "Authentic Mexican Chicken Tinga- Best Tinga De Pollo"
 filename: "authentic-mexican-chicken-tinga--best-tinga-de-pollo"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 45 minutes
 created: '2020-11-05 11:55:26'
 created_ts: 1604577326

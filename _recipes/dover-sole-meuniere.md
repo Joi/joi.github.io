@@ -2,7 +2,7 @@
 title: "Dover Sole Meuniere"
 filename: "dover-sole-meuniere"
 categories: &id001
-- Sole
+- sole
 cook_time: 30 min
 created: '2020-07-31 20:34:09'
 created_ts: 1596227649

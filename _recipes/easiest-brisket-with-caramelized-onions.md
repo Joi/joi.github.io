@@ -2,7 +2,7 @@
 title: "Easiest Brisket with Caramelized Onions"
 filename: "easiest-brisket-with-caramelized-onions"
 categories: &id001
-- Brisket
+- brisket
 cook_time: 3 hours
 created: '2020-09-07 00:30:29'
 created_ts: 1599438629

@@ -2,7 +2,7 @@
 title: "Nobu's Miso-Marinated Black Cod"
 filename: "nobus-miso-marinated-black-cod"
 categories: &id001
-- White Fish
+- white fish
 cook_time: ''
 created: '2020-04-19 16:55:20'
 created_ts: 1587315320

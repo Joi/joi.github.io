@@ -2,10 +2,10 @@
 title: "Mark Bittman’s Bouillabaisse"
 filename: "mark-bittmans-bouillabaisse"
 categories: &id001
-- Clams
-- Fish
-- Seafood
-- Soup
+- clams
+- fish
+- seafood
+- soup
 cook_time: 1 hour
 created: '2020-10-09 00:44:04'
 created_ts: 1602204244

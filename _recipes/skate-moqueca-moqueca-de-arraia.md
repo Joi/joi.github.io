@@ -2,7 +2,7 @@
 title: "Skate Moqueca (Moqueca De Arraia)"
 filename: "skate-moqueca-moqueca-de-arraia"
 categories: &id001
-- Skate Wings
+- skate wings
 cook_time: ''
 created: '2020-06-23 01:13:53'
 created_ts: 1592874833

@@ -2,8 +2,8 @@
 title: "Keto Beef Stew"
 filename: "keto-beef-stew"
 categories: &id001
-- Beef
-- Short Ribs
+- beef
+- short ribs
 cook_time: ''
 created: '2020-03-27 18:07:00'
 created_ts: 1585332420

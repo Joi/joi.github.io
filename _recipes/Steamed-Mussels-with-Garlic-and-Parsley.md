@@ -2,7 +2,7 @@
 title: "Steamed Mussels with Garlic and Parsley"
 filename: "steamed-mussels-with-garlic-and-parsley"
 categories: &id001
-- Mussels
+- mussels
 cook_time: 30 minutes
 created: '2020-05-25 20:42:34'
 created_ts: 1590439354

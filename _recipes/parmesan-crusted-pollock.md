@@ -2,9 +2,9 @@
 title: "Parmesan Crusted Pollock"
 filename: "parmesan-crusted-pollock"
 categories: &id001
-- Fish
-- White Fish
-- Pollack
+- fish
+- white fish
+- pollack
 cook_time: 20 mins
 created: '2020-05-15 18:19:32'
 created_ts: 1589566772

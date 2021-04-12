@@ -2,9 +2,9 @@
 title: "Kanitama"
 filename: "kanitama"
 categories: &id001
-- Egg
-- Crab
-- Chinese
+- egg
+- crab
+- chinese
 cook_time: ''
 created: '2021-01-21 12:18:08'
 created_ts: 1611231488

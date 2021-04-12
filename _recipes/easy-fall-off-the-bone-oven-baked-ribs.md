@@ -2,7 +2,7 @@
 title: "Easy, Fall-Off-The-Bone Oven Baked Ribs"
 filename: "easy-fall-off-the-bone-oven-baked-ribs"
 categories: &id001
-- Pork Spare Ribs
+- pork spare ribs
 cook_time: 4hr
 created: '2020-11-01 01:42:46'
 created_ts: 1604194966

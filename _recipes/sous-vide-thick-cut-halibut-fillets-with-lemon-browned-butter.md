@@ -2,8 +2,8 @@
 title: "Sous Vide Thick-Cut Halibut Fillets with Lemon Browned Butter"
 filename: "sous-vide-thick-cut-halibut-fillets-with-lemon-browned-butter"
 categories: &id001
-- Fish
-- White Fish
+- fish
+- white fish
 cook_time: 'sous vide: 30 to 45 minutes'
 created: '2020-04-06 01:16:28'
 created_ts: 1586135788

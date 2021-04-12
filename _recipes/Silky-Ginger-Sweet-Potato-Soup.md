@@ -2,7 +2,7 @@
 title: "Silky Ginger Sweet Potato Soup"
 filename: "silky-ginger-sweet-potato-soup"
 categories: &id001
-- Sweet Potato
+- sweet potato
 cook_time: 1 hr
 created: '2020-07-02 00:31:50'
 created_ts: 1593649910

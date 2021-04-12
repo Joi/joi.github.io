@@ -2,8 +2,8 @@
 title: "Braised Lamb Shoulder Chops with Tomatoes and Red Wine"
 filename: "braised-lamb-shoulder-chops-with-tomatoes-and-red-wine"
 categories: &id001
-- Lamb
-- Meat
+- lamb
+- meat
 cook_time: ''
 created: '2020-05-14 14:37:55'
 created_ts: 1589467075

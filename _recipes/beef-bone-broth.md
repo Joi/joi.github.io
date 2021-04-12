@@ -2,8 +2,8 @@
 title: "Beef Bone Broth"
 filename: "beef-bone-broth"
 categories: &id001
-- Soup
-- Bone
+- soup
+- bone
 cook_time: 9 to 24 hours
 created: '2020-10-13 20:10:16'
 created_ts: 1602619816

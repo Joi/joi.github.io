@@ -2,8 +2,8 @@
 title: "Braised Brisket with Onions"
 filename: "braised-brisket-with-onions"
 categories: &id001
-- Beef
-- Brisket
+- beef
+- brisket
 cook_time: ''
 created: '2020-09-07 14:36:56'
 created_ts: 1599489416

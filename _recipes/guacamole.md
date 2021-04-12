@@ -2,7 +2,7 @@
 title: "Guacamole"
 filename: "guacamole"
 categories: &id001
-- Spread
+- spread
 cook_time: 5min
 created: '2020-02-02 12:32:40'
 created_ts: 1580646760

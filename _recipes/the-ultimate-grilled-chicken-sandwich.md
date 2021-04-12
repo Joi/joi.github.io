@@ -2,7 +2,7 @@
 title: "The Ultimate Grilled Chicken Sandwich"
 filename: "the-ultimate-grilled-chicken-sandwich"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 20 mins
 created: '2020-10-03 11:25:36'
 created_ts: 1601724336

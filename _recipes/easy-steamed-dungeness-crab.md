@@ -2,7 +2,7 @@
 title: "Easy Steamed Dungeness Crab"
 filename: "easy-steamed-dungeness-crab"
 categories: &id001
-- Crab
+- crab
 cook_time: 30 mins
 created: '2020-03-31 19:52:28'
 created_ts: 1585684348

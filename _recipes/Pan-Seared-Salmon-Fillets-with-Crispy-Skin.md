@@ -2,7 +2,7 @@
 title: "Pan-Seared Salmon Fillets with Crispy Skin"
 filename: "pan-seared-salmon-fillets-with-crispy-skin"
 categories: &id001
-- Salmon
+- salmon
 cook_time: ''
 created: '2020-08-14 01:52:08'
 created_ts: 1597369928

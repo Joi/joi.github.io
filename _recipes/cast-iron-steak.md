@@ -2,9 +2,9 @@
 title: "Cast-Iron Steak"
 filename: "cast-iron-steak"
 categories: &id001
-- Beef
-- Bison
-- Steaks
+- beef
+- bison
+- steaks
 cook_time: about 1 hour
 created: '2020-03-30 16:00:00'
 created_ts: 1585584000

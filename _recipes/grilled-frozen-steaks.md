@@ -2,9 +2,9 @@
 title: "Grilled Frozen Steaks"
 filename: "grilled-frozen-steaks"
 categories: &id001
-- Grill
-- Beef
-- Steaks
+- grill
+- beef
+- steaks
 cook_time: null
 created: '2020-02-03 15:33:09'
 created_ts: 1580743989

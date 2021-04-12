@@ -2,9 +2,9 @@
 title: "Cheesy Stuffed Meatloaf with Broccolini and Eggplant"
 filename: "cheesy-stuffed-meatloaf-with-broccolini-and-eggplant"
 categories: &id001
-- Beef
-- Meat
-- Ground Beef
+- beef
+- meat
+- ground beef
 cook_time: 1h 5min
 created: '2020-04-12 20:26:45'
 created_ts: 1586723205

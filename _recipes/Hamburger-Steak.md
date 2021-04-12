@@ -2,7 +2,7 @@
 title: "Hamburger Steak"
 filename: "hamburger-steak"
 categories: &id001
-- Ground Beef
+- ground beef
 cook_time: 10 minutes
 created: '2020-06-27 18:48:06'
 created_ts: 1593283686

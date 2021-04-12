@@ -2,8 +2,8 @@
 title: "Asparagus Soup with Parmesan Shortbread Coins"
 filename: "asparagus-soup-with-parmesan-shortbread-coins"
 categories: &id001
-- Soup
-- Asparagus
+- soup
+- asparagus
 cook_time: 1 hr 30 min
 created: '2020-07-01 14:13:08'
 created_ts: 1593612788

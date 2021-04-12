@@ -2,7 +2,7 @@
 title: "Pan Seared Garlic Butter Steak & Mushroom Cream Sauce"
 filename: "pan-seared-garlic-butter-steak-mushroom-cream-sauce"
 categories: &id001
-- Steaks
+- steaks
 cook_time: 20 mins
 created: '2020-05-25 13:37:07'
 created_ts: 1590413827

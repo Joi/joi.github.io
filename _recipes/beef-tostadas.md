@@ -2,8 +2,8 @@
 title: "Beef Tostadas"
 filename: "beef-tostadas"
 categories: &id001
-- Ground Beef
-- Mexican
+- ground beef
+- mexican
 cook_time: 10 min
 created: '2020-12-26 15:02:31'
 created_ts: 1608994951

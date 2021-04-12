@@ -2,12 +2,12 @@
 title: "Whatever You Want Soup"
 filename: "whatever-you-want-soup"
 categories: &id001
-- Pork
-- Veal
-- Lamb
-- Meat
-- Short Ribs
-- Turkey
+- pork
+- veal
+- lamb
+- meat
+- short ribs
+- turkey
 cook_time: about 45 minutes
 created: '2020-03-29 01:23:08'
 created_ts: 1585444988

@@ -2,8 +2,8 @@
 title: "Moroccan Steamed Lamb Shoulder"
 filename: "moroccan-steamed-lamb-shoulder"
 categories: &id001
-- Lamb
-- Meat
+- lamb
+- meat
 cook_time: 4 hours
 created: '2020-05-14 14:30:03'
 created_ts: 1589466603

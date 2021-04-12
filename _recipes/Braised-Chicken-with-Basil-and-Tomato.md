@@ -2,7 +2,7 @@
 title: "Braised Chicken with Basil and Tomato"
 filename: "braised-chicken-with-basil-and-tomato"
 categories: &id001
-- Chicken
+- chicken
 cook_time: ''
 created: '2020-04-02 17:19:17'
 created_ts: 1585847957

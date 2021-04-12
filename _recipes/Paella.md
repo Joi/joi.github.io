@@ -2,8 +2,8 @@
 title: "Paella"
 filename: "paella"
 categories: &id001
-- Seafood
-- Rice
+- seafood
+- rice
 cook_time: ''
 created: '2020-09-12 14:56:58'
 created_ts: 1599922618

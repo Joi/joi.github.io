@@ -2,7 +2,7 @@
 title: "Fattoush Salad"
 filename: "fattoush-salad"
 categories: &id001
-- Salad
+- salad
 cook_time: 20 mins
 created: '2020-08-07 11:19:42'
 created_ts: 1596799182

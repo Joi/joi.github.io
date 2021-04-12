@@ -2,8 +2,8 @@
 title: "Instant Pot Short Ribs"
 filename: "instant-pot-short-ribs"
 categories: &id001
-- Beef
-- Short Ribs
+- beef
+- short ribs
 cook_time: 1 hour
 created: '2020-04-05 12:43:35'
 created_ts: 1586090615

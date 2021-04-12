@@ -2,7 +2,7 @@
 title: "Perfect Pan-Seared Pork Chops"
 filename: "perfect-pan-seared-pork-chops"
 categories: &id001
-- Pork
+- pork
 cook_time: 1 day
 created: '2020-12-09 01:08:15'
 created_ts: 1607476095

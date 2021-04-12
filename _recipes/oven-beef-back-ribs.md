@@ -2,7 +2,7 @@
 title: "Oven Beef Back Ribs"
 filename: "oven-beef-back-ribs"
 categories: &id001
-- Ribs
+- ribs
 cook_time: 5 hrs
 created: '2020-07-13 18:04:20'
 created_ts: 1594663460

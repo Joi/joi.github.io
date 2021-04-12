@@ -2,9 +2,9 @@
 title: "Easy Ham and Cheese Omelet"
 filename: "easy-ham-and-cheese-omelet"
 categories: &id001
-- Pork
-- Breakfast
-- Egg
+- pork
+- breakfast
+- egg
 cook_time: null
 created: '2020-02-03 22:48:31'
 created_ts: 1580770111

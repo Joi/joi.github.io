@@ -2,8 +2,8 @@
 title: "Cantonese-Style Lobster with Ginger and Scallions"
 filename: "cantonese-style-lobster-with-ginger-and-scallions"
 categories: &id001
-- Lobster
-- Chinese
+- lobster
+- chinese
 cook_time: 30 minutes
 created: '2021-03-09 15:51:23'
 created_ts: 1615305083

@@ -2,8 +2,8 @@
 title: "Baked Haddock with Garlic Green Beans"
 filename: "baked-haddock-with-garlic-green-beans"
 categories: &id001
-- Fish
-- White Fish
+- fish
+- white fish
 cook_time: null
 created: '2020-03-28 14:23:44'
 created_ts: 1585405424

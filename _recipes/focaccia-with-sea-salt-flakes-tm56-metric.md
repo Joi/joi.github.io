@@ -2,7 +2,7 @@
 title: "Focaccia with Sea Salt Flakes (TM5/6 Metric)"
 filename: "focaccia-with-sea-salt-flakes-tm56-metric"
 categories: &id001
-- Egg
+- egg
 cook_time: 1h 40min
 created: '2020-02-03 15:57:25'
 created_ts: 1580745445

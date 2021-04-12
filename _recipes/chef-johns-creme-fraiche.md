@@ -2,7 +2,7 @@
 title: "Chef John's Creme Fraiche"
 filename: "chef-johns-creme-fraiche"
 categories: &id001
-- Sauce
+- sauce
 cook_time: 2 days
 created: '2020-06-29 10:55:43'
 created_ts: 1593428143

@@ -2,8 +2,8 @@
 title: "Italian-Style Fish Stew"
 filename: "italian-style-fish-stew"
 categories: &id001
-- Fish
-- White Fish
+- fish
+- white fish
 cook_time: 1 hour
 created: '2020-04-11 13:30:28'
 created_ts: 1586611828

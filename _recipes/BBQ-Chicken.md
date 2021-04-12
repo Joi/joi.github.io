@@ -2,7 +2,7 @@
 title: "BBQ Chicken"
 filename: "bbq-chicken"
 categories: &id001
-- Chicken
+- chicken
 cook_time: ''
 created: '2020-09-07 11:35:46'
 created_ts: 1599478546

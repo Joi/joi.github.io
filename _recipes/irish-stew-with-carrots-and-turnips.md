@@ -2,8 +2,8 @@
 title: "Irish Stew with Carrots and Turnips"
 filename: "irish-stew-with-carrots-and-turnips"
 categories: &id001
-- Lamb
-- Meat
+- lamb
+- meat
 cook_time: ''
 created: '2020-05-14 15:03:10'
 created_ts: 1589468590

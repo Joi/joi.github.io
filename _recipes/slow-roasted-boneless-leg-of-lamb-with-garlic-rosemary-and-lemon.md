@@ -2,7 +2,7 @@
 title: "Slow-Roasted Boneless Leg of Lamb with Garlic, Rosemary, and Lemon"
 filename: "slow-roasted-boneless-leg-of-lamb-with-garlic-rosemary-and-lemon"
 categories: &id001
-- Lamb
+- lamb
 cook_time: 5 hours
 created: '2021-04-03 15:09:58'
 created_ts: 1617462598

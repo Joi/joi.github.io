@@ -2,7 +2,7 @@
 title: "Porchetta Pork Roast"
 filename: "porchetta-pork-roast"
 categories: &id001
-- Pork Shoulder
+- pork shoulder
 cook_time: 4 to 5 hours
 created: '2020-06-13 15:22:14'
 created_ts: 1592061734

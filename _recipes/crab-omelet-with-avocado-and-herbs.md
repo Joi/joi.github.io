@@ -2,8 +2,8 @@
 title: "Crab Omelet with Avocado and Herbs"
 filename: "crab-omelet-with-avocado-and-herbs"
 categories: &id001
-- Egg
-- Crab
+- egg
+- crab
 cook_time: 5 mins
 created: '2020-12-29 16:32:14'
 created_ts: 1609259534

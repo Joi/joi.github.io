@@ -2,8 +2,8 @@
 title: "Oven-Steamed Salmon"
 filename: "oven-steamed-salmon"
 categories: &id001
-- Fish
-- Salmon
+- fish
+- salmon
 cook_time: about 30 minutes
 created: '2020-03-20 18:25:48'
 created_ts: 1584728748

@@ -2,7 +2,7 @@
 title: "Oven Fried Chicken"
 filename: "oven-fried-chicken"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 00:25
 created: '2021-01-28 16:32:21'
 created_ts: 1611851541

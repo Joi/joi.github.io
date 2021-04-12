@@ -2,8 +2,8 @@
 title: "Garlic Parmesan Flounder"
 filename: "garlic-parmesan-flounder"
 categories: &id001
-- Flounder
-- Fluke
+- flounder
+- fluke
 cook_time: 0 hours
 created: '2020-08-31 22:32:46'
 created_ts: 1598913166

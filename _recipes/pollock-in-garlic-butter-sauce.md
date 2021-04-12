@@ -2,9 +2,9 @@
 title: "Pollock in Garlic-Butter Sauce"
 filename: "pollock-in-garlic-butter-sauce"
 categories: &id001
-- Fish
-- White Fish
-- Pollack
+- fish
+- white fish
+- pollack
 cook_time: '15'
 created: '2020-05-15 18:20:51'
 created_ts: 1589566851

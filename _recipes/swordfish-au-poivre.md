@@ -2,7 +2,7 @@
 title: "Swordfish Au Poivre"
 filename: "swordfish-au-poivre"
 categories: &id001
-- Swordfish
+- swordfish
 cook_time: 30 minutes
 created: '2020-07-05 23:28:59'
 created_ts: 1593991739

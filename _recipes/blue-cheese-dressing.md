@@ -2,7 +2,7 @@
 title: "Blue Cheese Dressing"
 filename: "blue-cheese-dressing"
 categories: &id001
-- Sauce
+- sauce
 cook_time: ''
 created: '2020-08-02 20:25:29'
 created_ts: 1596399929

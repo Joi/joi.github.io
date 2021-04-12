@@ -2,7 +2,7 @@
 title: "Fresh Tuna Burgers with Ginger & Cilantro"
 filename: "fresh-tuna-burgers-with-ginger-cilantro"
 categories: &id001
-- Tuna
+- tuna
 cook_time: null
 created: '2020-08-06 00:16:15'
 created_ts: 1596672975

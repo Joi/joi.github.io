@@ -2,7 +2,7 @@
 title: "Mexican Coleslaw with Cilantro Lime Dressing"
 filename: "mexican-coleslaw-with-cilantro-lime-dressing"
 categories: &id001
-- Salad
+- salad
 cook_time: 10 mins
 created: '2020-07-16 18:56:55'
 created_ts: 1594925815

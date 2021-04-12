@@ -2,7 +2,7 @@
 title: "Skate with Wild Mushrooms in Pearl Sauce"
 filename: "skate-with-wild-mushrooms-in-pearl-sauce"
 categories: &id001
-- Skate Wings
+- skate wings
 cook_time: 1 1/4 hr
 created: '2020-06-21 15:19:42'
 created_ts: 1592752782

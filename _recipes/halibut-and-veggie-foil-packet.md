@@ -2,9 +2,9 @@
 title: "Halibut and Veggie Foil Packet"
 filename: "halibut-and-veggie-foil-packet"
 categories: &id001
-- Fish
-- White Fish
-- Halibut
+- fish
+- white fish
+- halibut
 cook_time: 14 minutes
 created: '2020-06-01 12:51:11'
 created_ts: 1591015871

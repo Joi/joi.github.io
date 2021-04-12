@@ -2,9 +2,9 @@
 title: "Risotto Primavera"
 filename: "risotto-primavera"
 categories: &id001
-- Rice
-- Asparagus
-- Tomato
+- rice
+- asparagus
+- tomato
 cook_time: 45 - 50 min
 created: '2020-07-23 14:28:03'
 created_ts: 1595514483

@@ -2,8 +2,8 @@
 title: "Thai Shrimp Curry"
 filename: "thai-shrimp-curry"
 categories: &id001
-- Shrimp
-- Curry
+- shrimp
+- curry
 cook_time: 15 minutes
 created: '2020-10-14 11:38:49'
 created_ts: 1602675529

@@ -2,7 +2,7 @@
 title: "Fajitas"
 filename: "fajitas"
 categories: &id001
-- Flat Iron
+- flat iron
 cook_time: null
 created: '2020-08-19 13:14:12'
 created_ts: 1597842852

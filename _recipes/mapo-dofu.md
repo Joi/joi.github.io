@@ -2,9 +2,9 @@
 title: "Mapo Dofu"
 filename: "mapo-dofu"
 categories: &id001
-- Chinese
-- Ground Pork
-- Tofu
+- chinese
+- ground pork
+- tofu
 cook_time: ''
 created: '2021-03-24 15:26:16'
 created_ts: 1616599576
@@ -15,14 +15,15 @@ ingredients: "1 lb tofu\n2 scallions, chopped\n\xBD lb ground pork\n\n*Sauce*\n\
   2 garlic cloves, chopped\n1 Tbsp tianmian sauce (sweet bean sauce)\n1 Tbsp doubanjiang\
   \ (hot and savoury Chinese bean paste)\n1 tsp douchi sauce (Chinese fermented black\
   \ soybeans)\n1 tsp powered red pepper\n\n\xBD cup Chinese chicken soup\n2 Tbsp starch\
-  \ dissolved in 2 Tbsp water\nSichuan peppercorns, crushed\nSalt and pepper\nLight\
-  \ oil\n1 Tbsp Chinese wine\n1 Tbsp soy sauce\n"
+  \ dissolved in 2 Tbsp water\nSichuan peppercorns, crushed\nSalt and pepper\n4 Tbsp\
+  \ light oil\n1 Tbsp Chinese wine\n1 Tbsp soy sauce\n"
 intrash: 0
 meal_dates:
 - '2021-03-24'
 - '2021-03-03'
 - '2021-04-03'
-meal_types: 3|3|3
+- '2021-04-10'
+meal_types: 3|3|3|3
 mine: 1
 name: Mapo Dofu
 p_recipe_id: 492
@@ -31,6 +32,7 @@ photo_large: mapo-dofu-large.jpg
 photo_thumb: mapo-dofu-thumb.jpg
 photos_dict:
   '1': mapo-dofu-1.jpg
+  '10': mapo-dofu-10.jpg
   '2': mapo-dofu-2.jpg
   '3': mapo-dofu-3.jpg
   '4': mapo-dofu-4.jpg
@@ -66,12 +68,12 @@ uid: F189F7A3-07AA-47B9-80AC-0E6B2879D4C5-651-00000524A207DA6A
 <li>2 Tbsp starch dissolved in 2 Tbsp water</li>
 <li>Sichuan peppercorns, crushed</li>
 <li>Salt and pepper</li>
-<li>Light oil</li>
+<li>4 Tbsp light oil</li>
 <li>1 Tbsp Chinese wine</li>
 <li>1 Tbsp soy sauce</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Cut tofu in 1 inch cubes and if using soft tofu, soak in boiling hot salted water and strain and dry to remove excess water from tofu before frying.</p>
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Cut tofu in 1 inch cubes (You can also crumble the tofu with your hands if it's harder tofu.) and if using soft tofu, soak in boiling hot salted water and strain and dry to remove excess water from tofu before frying.</p>
 <p>Combine garlic, red pepper, bean pastes and douchi in a bowl.</p>
 <p>Mix starch and water in small bowl.</p>
 <p>Stir-fry pork until brown with oil. Turn off heat and add sauce.</p>

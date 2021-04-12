@@ -2,8 +2,8 @@
 title: "Samin Nosrat Chicken Stock"
 filename: "samin-nosrat-chicken-stock"
 categories: &id001
-- Chicken
-- Soup
+- chicken
+- soup
 cook_time: ''
 created: '2020-07-22 20:27:34'
 created_ts: 1595449654

@@ -2,7 +2,7 @@
 title: "Peanut Butter Overnight Oats (5 Ingredients!)"
 filename: "peanut-butter-overnight-oats-5-ingredients!"
 categories: &id001
-- Oats
+- oats
 cook_time: 6 hours 5 minutes
 created: '2020-03-21 23:56:28'
 created_ts: 1584834988

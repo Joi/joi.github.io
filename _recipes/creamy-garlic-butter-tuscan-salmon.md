@@ -2,7 +2,7 @@
 title: "Creamy Garlic Butter Tuscan Salmon"
 filename: "creamy-garlic-butter-tuscan-salmon"
 categories: &id001
-- Salmon
+- salmon
 cook_time: 20 mins
 created: '2020-12-12 14:47:25'
 created_ts: 1607784445

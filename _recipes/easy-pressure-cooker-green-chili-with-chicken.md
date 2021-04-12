@@ -2,8 +2,8 @@
 title: "Easy Pressure Cooker Green Chili with Chicken"
 filename: "easy-pressure-cooker-green-chili-with-chicken"
 categories: &id001
-- Chicken
-- Mexican
+- chicken
+- mexican
 cook_time: 30 minutes
 created: '2021-01-24 12:53:02'
 created_ts: 1611492782

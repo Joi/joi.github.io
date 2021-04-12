@@ -2,7 +2,7 @@
 title: "Mantou Buns with Soya Milk"
 filename: "mantou-buns-with-soya-milk"
 categories: &id001
-- Bread and Biscuits
+- bread and biscuits
 cook_time: 1h 35min
 created: '2020-02-02 12:33:50'
 created_ts: 1580646830

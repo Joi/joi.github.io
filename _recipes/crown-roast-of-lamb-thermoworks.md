@@ -2,7 +2,7 @@
 title: "Crown Roast of Lamb - Thermoworks"
 filename: "crown-roast-of-lamb-thermoworks"
 categories: &id001
-- Lamb
+- lamb
 cook_time: ''
 created: '2020-07-13 20:49:10'
 created_ts: 1594673350

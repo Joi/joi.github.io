@@ -2,7 +2,7 @@
 title: "Foolproof Chuck Steak with Smoky Chimichurri"
 filename: "foolproof-chuck-steak-with-smoky-chimichurri"
 categories: &id001
-- Chick Steak
+- chick steak
 cook_time: 60 mins
 created: '2020-08-23 13:35:15'
 created_ts: 1598189715

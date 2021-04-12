@@ -2,7 +2,7 @@
 title: "Basket-Steamed Black Cod with Lime Sauce and Vegetables"
 filename: "basket-steamed-black-cod-with-lime-sauce-and-vegetables"
 categories: &id001
-- Black Cod
+- black cod
 cook_time: 10 mins
 created: '2020-11-13 13:13:52'
 created_ts: 1605273232

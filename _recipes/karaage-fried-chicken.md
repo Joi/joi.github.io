@@ -2,7 +2,7 @@
 title: "Karaage Fried Chicken"
 filename: "karaage-fried-chicken"
 categories: &id001
-- Chicken
+- chicken
 cook_time: null
 created: '2020-05-21 11:53:32'
 created_ts: 1590062012

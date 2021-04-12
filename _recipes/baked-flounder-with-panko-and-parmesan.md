@@ -2,9 +2,9 @@
 title: "Baked Flounder with Panko and Parmesan"
 filename: "baked-flounder-with-panko-and-parmesan"
 categories: &id001
-- Fish
-- White Fish
-- Flounder
+- fish
+- white fish
+- flounder
 cook_time: 15 m
 created: '2020-05-08 02:19:45'
 created_ts: 1588904385

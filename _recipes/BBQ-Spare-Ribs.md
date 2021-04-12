@@ -2,7 +2,7 @@
 title: "BBQ Spare Ribs"
 filename: "bbq-spare-ribs"
 categories: &id001
-- Pork Spare Ribs
+- pork spare ribs
 cook_time: ''
 created: '2020-09-10 02:22:50'
 created_ts: 1599704570

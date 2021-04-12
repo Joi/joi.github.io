@@ -2,7 +2,7 @@
 title: "Steak Haché"
 filename: "steak-hache"
 categories: &id001
-- Ground Beef
+- ground beef
 cook_time: 45 minutes
 created: '2020-05-04 15:30:08'
 created_ts: 1588606208

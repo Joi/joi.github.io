@@ -2,7 +2,7 @@
 title: "Braised Tongue"
 filename: "braised-tongue"
 categories: &id001
-- Tongue
+- tongue
 cook_time: 5 hours
 created: '2021-01-03 16:21:40'
 created_ts: 1609690900

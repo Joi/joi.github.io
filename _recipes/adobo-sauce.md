@@ -2,7 +2,7 @@
 title: "Adobo Sauce"
 filename: "adobo-sauce"
 categories: &id001
-- Sauce
+- sauce
 cook_time: 15 mins
 created: '2020-08-16 15:40:29'
 created_ts: 1597592429

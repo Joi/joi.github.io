@@ -2,7 +2,7 @@
 title: "Omelet"
 filename: "omelet"
 categories: &id001
-- Egg
+- egg
 cook_time: 5 minutes
 created: '2020-03-29 01:33:34'
 created_ts: 1585445614

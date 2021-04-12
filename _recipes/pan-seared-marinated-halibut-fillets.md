@@ -2,8 +2,8 @@
 title: "Pan-Seared Marinated Halibut Fillets"
 filename: "pan-seared-marinated-halibut-fillets"
 categories: &id001
-- Fish
-- White Fish
+- fish
+- white fish
 cook_time: 20 minutes
 created: '2020-04-06 01:12:58'
 created_ts: 1586135578

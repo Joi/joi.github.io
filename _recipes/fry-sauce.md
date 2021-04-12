@@ -2,7 +2,7 @@
 title: "Fry Sauce"
 filename: "fry-sauce"
 categories: &id001
-- Sauce
+- sauce
 cook_time: null
 created: '2020-10-17 11:21:13'
 created_ts: 1602933673

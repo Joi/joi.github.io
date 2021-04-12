@@ -2,9 +2,9 @@
 title: "Marie Rose Sauce"
 filename: "marie-rose-sauce"
 categories: &id001
-- Shrimp
-- Crab
-- Sauce
+- shrimp
+- crab
+- sauce
 cook_time: ''
 created: '2021-01-22 21:36:16'
 created_ts: 1611351376

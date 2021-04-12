@@ -2,7 +2,7 @@
 title: "Flourless Chickpea Pancakes – Made with Actual Chickpeas"
 filename: "flourless-chickpea-pancakes-made-with-actual-chickpeas"
 categories: &id001
-- Chickpeas
+- chickpeas
 cook_time: 15 minutes
 created: '2021-01-03 16:49:08'
 created_ts: 1609692548

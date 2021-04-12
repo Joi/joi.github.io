@@ -2,9 +2,9 @@
 title: "Mapotofu"
 filename: "mapotofu"
 categories: &id001
-- Chinese
-- Ground Pork
-- Tofu
+- chinese
+- ground pork
+- tofu
 cook_time: ''
 created: '2021-03-24 15:18:40'
 created_ts: 1616599120

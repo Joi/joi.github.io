@@ -2,7 +2,7 @@
 title: "Traditional Toum (Lebanese Garlic Sauce)"
 filename: "traditional-toum-lebanese-garlic-sauce"
 categories: &id001
-- Sauce
+- sauce
 cook_time: 20 minutes
 created: '2020-08-27 14:43:07'
 created_ts: 1598539387

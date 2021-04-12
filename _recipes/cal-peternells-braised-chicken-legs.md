@@ -2,7 +2,7 @@
 title: "Cal Peternell’s Braised Chicken Legs"
 filename: "cal-peternells-braised-chicken-legs"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 1 hour 30 minutes
 created: '2020-04-17 20:23:54'
 created_ts: 1587155034

@@ -2,8 +2,8 @@
 title: "Chicken Seasoning (For Roasted or Rotisserie Chicken)"
 filename: "chicken-seasoning-for-roasted-or-rotisserie-chicken"
 categories: &id001
-- Chicken
-- Sauce
+- chicken
+- sauce
 cook_time: 5 minutes
 created: '2020-11-12 12:00:22'
 created_ts: 1605182422

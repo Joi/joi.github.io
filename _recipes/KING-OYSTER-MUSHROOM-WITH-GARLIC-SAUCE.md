@@ -2,7 +2,7 @@
 title: "King Oyster Mushroom with Garlic Sauce"
 filename: "king-oyster-mushroom-with-garlic-sauce"
 categories: &id001
-- Mushroom
+- mushroom
 cook_time: 3 minutes
 created: '2020-10-22 21:11:40'
 created_ts: 1603401100

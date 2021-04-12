@@ -2,8 +2,8 @@
 title: "Oven-Poached Pacific Sole with Lemon Caper Sauce"
 filename: "oven-poached-pacific-sole-with-lemon-caper-sauce"
 categories: &id001
-- Fish
-- Sole
+- fish
+- sole
 cook_time: 40 minutes
 created: '2020-03-18 16:01:07'
 created_ts: 1584547267

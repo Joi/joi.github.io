@@ -2,8 +2,8 @@
 title: "Roasted Cauliflower"
 filename: "roasted-cauliflower"
 categories: &id001
-- Vegetables
-- Cauliflower
+- vegetables
+- cauliflower
 cook_time: 30 minutes
 created: '2021-02-13 15:24:29'
 created_ts: 1613229869

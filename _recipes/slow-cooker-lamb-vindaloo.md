@@ -2,8 +2,8 @@
 title: "Slow-Cooker Lamb Vindaloo"
 filename: "slow-cooker-lamb-vindaloo"
 categories: &id001
-- Lamb
-- Meat
+- lamb
+- meat
 cook_time: 9 to 10 hours on low or 6 to 7 hours on high
 created: '2020-05-14 14:44:33'
 created_ts: 1589467473

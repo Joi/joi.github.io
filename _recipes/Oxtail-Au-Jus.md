@@ -2,8 +2,8 @@
 title: "Oxtail Au Jus"
 filename: "oxtail-au-jus"
 categories: &id001
-- Sauce
-- Oxtail
+- sauce
+- oxtail
 cook_time: ''
 created: '2021-02-21 14:45:50'
 created_ts: 1613918750

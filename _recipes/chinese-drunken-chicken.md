@@ -2,7 +2,7 @@
 title: "Chinese Drunken Chicken"
 filename: "chinese-drunken-chicken"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 1 hr 25 mins
 created: '2020-09-30 11:31:29'
 created_ts: 1601465489

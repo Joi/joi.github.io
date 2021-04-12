@@ -2,8 +2,8 @@
 title: "Pickled Red Onions"
 filename: "pickled-red-onions"
 categories: &id001
-- Pickles
-- Red Onions
+- pickles
+- red onions
 cook_time: 5 minutes
 created: '2021-01-23 17:18:33'
 created_ts: 1611422313

@@ -2,7 +2,7 @@
 title: "Easy Grilled Salmon"
 filename: "easy-grilled-salmon"
 categories: &id001
-- Salmon
+- salmon
 cook_time: 10 minutes
 created: '2020-06-16 17:22:06'
 created_ts: 1592328126

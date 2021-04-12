@@ -2,7 +2,7 @@
 title: "Tartar Sauce"
 filename: "tartar-sauce"
 categories: &id001
-- Sauce
+- sauce
 cook_time: ''
 created: '2021-04-02 15:02:24'
 created_ts: 1617375744

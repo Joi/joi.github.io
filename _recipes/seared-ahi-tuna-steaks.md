@@ -2,7 +2,7 @@
 title: "Seared Ahi Tuna Steaks"
 filename: "seared-ahi-tuna-steaks"
 categories: &id001
-- Tuna
+- tuna
 cook_time: 12 mins
 created: '2020-06-25 00:09:37'
 created_ts: 1593043777

@@ -2,7 +2,7 @@
 title: "Grilled Salmon Fillets"
 filename: "grilled-salmon-fillets"
 categories: &id001
-- Salmon
+- salmon
 cook_time: 30 minutes
 created: '2020-08-11 14:23:14'
 created_ts: 1597155794

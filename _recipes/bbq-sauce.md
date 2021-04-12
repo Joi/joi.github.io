@@ -2,8 +2,8 @@
 title: "BBQ Sauce"
 filename: "bbq-sauce"
 categories: &id001
-- Sauce
-- BBQ
+- sauce
+- bbq
 cook_time: ''
 created: '2020-07-13 13:45:22'
 created_ts: 1594647922

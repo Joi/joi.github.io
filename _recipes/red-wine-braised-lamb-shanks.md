@@ -2,7 +2,7 @@
 title: "Red Wine-Braised Lamb Shanks"
 filename: "red-wine-braised-lamb-shanks"
 categories: &id001
-- Lamb
+- lamb
 cook_time: 2 hrs 40 mins
 created: '2020-12-02 19:18:45'
 created_ts: 1606936725

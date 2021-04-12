@@ -2,7 +2,7 @@
 title: "Skillet-Roasted Brussels Sprouts with Lemon and Pecorino Romano"
 filename: "skillet-roasted-brussels-sprouts-with-lemon-and-pecorino-romano"
 categories: &id001
-- Vegetables
+- vegetables
 cook_time: ''
 created: '2020-02-03 15:29:57'
 created_ts: 1580743797

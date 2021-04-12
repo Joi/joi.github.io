@@ -2,10 +2,10 @@
 title: "Ragú Bolognese"
 filename: "ragu-bolognese"
 categories: &id001
-- Pasta
-- Veal
-- Italian
-- Meat
+- pasta
+- veal
+- italian
+- meat
 cook_time: null
 created: '2020-02-03 03:22:10'
 created_ts: 1580700130

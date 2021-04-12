@@ -2,7 +2,7 @@
 title: "Foolproof Boiled Corn"
 filename: "foolproof-boiled-corn"
 categories: &id001
-- Corn
+- corn
 cook_time: ''
 created: '2020-07-04 13:45:08'
 created_ts: 1593870308

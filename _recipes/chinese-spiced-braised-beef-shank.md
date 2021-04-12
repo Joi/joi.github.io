@@ -2,8 +2,8 @@
 title: "Chinese Spiced Braised Beef Shank"
 filename: "chinese-spiced-braised-beef-shank"
 categories: &id001
-- Chinese
-- Beef Shank
+- chinese
+- beef shank
 cook_time: ''
 created: '2021-04-04 15:46:20'
 created_ts: 1617551180

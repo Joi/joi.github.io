@@ -2,8 +2,8 @@
 title: "Pan-Seared Hake and Asparagus with Aioli"
 filename: "pan-seared-hake-and-asparagus-with-aioli"
 categories: &id001
-- Fish
-- White Fish
+- fish
+- white fish
 cook_time: 30 minutes
 created: '2020-04-30 20:06:08'
 created_ts: 1588277168

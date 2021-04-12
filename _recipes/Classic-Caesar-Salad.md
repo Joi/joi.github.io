@@ -2,7 +2,7 @@
 title: "Classic Caesar Salad"
 filename: "classic-caesar-salad"
 categories: &id001
-- Salad
+- salad
 cook_time: ''
 created: '2020-08-11 18:05:09'
 created_ts: 1597169109

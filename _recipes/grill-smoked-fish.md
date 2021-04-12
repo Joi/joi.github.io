@@ -2,7 +2,7 @@
 title: "Grill Smoked Fish"
 filename: "grill-smoked-fish"
 categories: &id001
-- Fish
+- fish
 cook_time: ''
 created: '2021-03-29 15:50:39'
 created_ts: 1617033039

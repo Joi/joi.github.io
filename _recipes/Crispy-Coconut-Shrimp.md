@@ -2,7 +2,7 @@
 title: "Crispy Coconut Shrimp"
 filename: "crispy-coconut-shrimp"
 categories: &id001
-- Shrimp
+- shrimp
 cook_time: 20min
 created: '2020-02-03 15:53:00'
 created_ts: 1580745180

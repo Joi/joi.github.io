@@ -2,8 +2,8 @@
 title: "Fluffy Omelet"
 filename: "fluffy-omelet"
 categories: &id001
-- Breakfast
-- Egg
+- breakfast
+- egg
 cook_time: null
 created: '2020-02-03 14:50:35'
 created_ts: 1580741435

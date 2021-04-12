@@ -2,7 +2,7 @@
 title: "Crown Roast of Lamb with Rosemary and Oregano - Epicurious"
 filename: "crown-roast-of-lamb-with-rosemary-and-oregano-epicurious"
 categories: &id001
-- Lamb
+- lamb
 cook_time: ''
 created: '2020-07-14 14:31:46'
 created_ts: 1594737106

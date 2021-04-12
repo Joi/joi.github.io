@@ -2,7 +2,7 @@
 title: "No Knead Dutch Oven All Whole Wheat Bread"
 filename: "no-knead-dutch-oven-all-whole-wheat-bread"
 categories: &id001
-- Bread and Biscuits
+- bread and biscuits
 cook_time: 45 mins
 created: '2020-04-21 18:23:04'
 created_ts: 1587493384

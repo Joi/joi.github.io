@@ -2,7 +2,7 @@
 title: "Tim McNulty's Skate Wings Piccata"
 filename: "tim-mcnultys-skate-wings-piccata"
 categories: &id001
-- Skate Wings
+- skate wings
 cook_time: 30 minutes
 created: '2020-05-27 12:44:39'
 created_ts: 1590583479

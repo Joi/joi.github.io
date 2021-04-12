@@ -2,8 +2,8 @@
 title: "Ultra-Crisp-Skinned Pan-Roasted Fish Fillets"
 filename: "ultra-crisp-skinned-pan-roasted-fish-fillets"
 categories: &id001
-- Salmon
-- Halibut
+- salmon
+- halibut
 cook_time: ''
 created: '2020-07-07 23:54:06'
 created_ts: 1594166046

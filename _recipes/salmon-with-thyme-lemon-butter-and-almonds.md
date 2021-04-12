@@ -2,8 +2,8 @@
 title: "Salmon with Thyme, Lemon Butter and Almonds"
 filename: "salmon-with-thyme-lemon-butter-and-almonds"
 categories: &id001
-- Fish
-- Salmon
+- fish
+- salmon
 cook_time: 40 minutes
 created: '2020-04-08 13:22:24'
 created_ts: 1586352144

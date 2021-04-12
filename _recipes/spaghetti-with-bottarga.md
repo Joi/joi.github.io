@@ -2,7 +2,7 @@
 title: "Spaghetti with Bottarga"
 filename: "spaghetti-with-bottarga"
 categories: &id001
-- Pasta
+- pasta
 cook_time: null
 created: '2020-09-16 11:25:25'
 created_ts: 1600255525

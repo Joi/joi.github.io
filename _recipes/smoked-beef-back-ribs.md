@@ -2,7 +2,7 @@
 title: "Smoked Beef Back Ribs"
 filename: "smoked-beef-back-ribs"
 categories: &id001
-- Beef Back Ribs
+- beef back ribs
 cook_time: 5 hours
 created: '2020-11-28 13:04:40'
 created_ts: 1606568680

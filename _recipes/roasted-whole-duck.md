@@ -2,8 +2,8 @@
 title: "Roasted Whole Duck"
 filename: "roasted-whole-duck"
 categories: &id001
-- Meat
-- Duck
+- meat
+- duck
 cook_time: 30 mins
 created: '2020-03-05 11:08:53'
 created_ts: 1583406533

@@ -2,7 +2,7 @@
 title: "Crown Roast of Lamb"
 filename: "crown-roast-of-lamb"
 categories: &id001
-- Lamb
+- lamb
 cook_time: ''
 created: '2020-07-15 18:38:30'
 created_ts: 1594838310

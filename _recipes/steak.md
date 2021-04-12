@@ -2,11 +2,11 @@
 title: "Steak"
 filename: "steak"
 categories: &id001
-- Beef
-- Meat
-- Steaks
-- Prime Rib
-- Tenderloin
+- beef
+- meat
+- steaks
+- prime rib
+- tenderloin
 cook_time: ''
 created: '2021-03-27 15:12:55'
 created_ts: 1616857975

@@ -2,7 +2,7 @@
 title: "Pan-Roasted Halibut with Clamshell Mushrooms and Lemon Butter Sauce"
 filename: "pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce"
 categories: &id001
-- Halibut
+- halibut
 cook_time: 15 mins
 created: '2020-06-14 14:27:59'
 created_ts: 1592144879

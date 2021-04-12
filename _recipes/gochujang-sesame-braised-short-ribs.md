@@ -2,7 +2,7 @@
 title: "Gochujang Sesame Braised Short Ribs"
 filename: "gochujang-sesame-braised-short-ribs"
 categories: &id001
-- Short Ribs
+- short ribs
 cook_time: 02:30
 created: '2020-11-14 11:53:10'
 created_ts: 1605354790

@@ -2,7 +2,7 @@
 title: "Bolognese Sauce Recipe (Instant Pot)"
 filename: "bolognese-sauce-recipe-instant-pot"
 categories: &id001
-- Pasta
+- pasta
 cook_time: 55 minutes
 created: '2020-09-02 13:58:40'
 created_ts: 1599055120

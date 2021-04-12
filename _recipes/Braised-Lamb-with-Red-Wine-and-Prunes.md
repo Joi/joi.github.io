@@ -2,7 +2,7 @@
 title: "Braised Lamb with Red Wine and Prunes"
 filename: "braised-lamb-with-red-wine-and-prunes"
 categories: &id001
-- Lamb
+- lamb
 cook_time: 2 hours 30 minutes
 created: '2020-05-14 14:33:18'
 created_ts: 1589466798

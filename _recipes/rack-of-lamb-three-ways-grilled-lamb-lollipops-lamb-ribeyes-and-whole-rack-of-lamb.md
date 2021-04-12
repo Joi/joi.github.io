@@ -2,7 +2,7 @@
 title: "Rack of Lamb Three Ways: Grilled Lamb Lollipops, Lamb Ribeyes, and Whole Rack of Lamb"
 filename: "rack-of-lamb-three-ways-grilled-lamb-lollipops-lamb-ribeyes-and-whole-rack-of-lamb"
 categories: &id001
-- Lamb
+- lamb
 cook_time: 30 minutes to cook
 created: '2020-08-07 15:17:34'
 created_ts: 1596813454

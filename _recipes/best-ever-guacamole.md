@@ -2,9 +2,9 @@
 title: "Best Ever Guacamole"
 filename: "best-ever-guacamole"
 categories: &id001
-- Sauce
-- Mexican
-- Avocado
+- sauce
+- mexican
+- avocado
 cook_time: 10 mins
 created: '2021-01-23 17:26:15'
 created_ts: 1611422775

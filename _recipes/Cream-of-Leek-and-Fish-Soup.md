@@ -2,10 +2,10 @@
 title: "Cream of Leek and Fish Soup"
 filename: "cream-of-leek-and-fish-soup"
 categories: &id001
-- Seafood
-- Soup
-- Flounder
-- Fluke
+- seafood
+- soup
+- flounder
+- fluke
 cook_time: 30 min
 created: '2020-09-23 20:27:06'
 created_ts: 1600892826

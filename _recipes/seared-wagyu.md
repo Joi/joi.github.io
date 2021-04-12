@@ -2,7 +2,7 @@
 title: "Seared Wagyu"
 filename: "seared-wagyu"
 categories: &id001
-- Wagyu
+- wagyu
 cook_time: ''
 created: '2021-03-27 15:14:27'
 created_ts: 1616858067

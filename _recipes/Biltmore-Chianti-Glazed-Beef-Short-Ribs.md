@@ -2,8 +2,8 @@
 title: "Biltmore Chianti Glazed Beef Short Ribs"
 filename: "biltmore-chianti-glazed-beef-short-ribs"
 categories: &id001
-- Beef
-- Short Ribs
+- beef
+- short ribs
 cook_time: 4h
 created: '2020-02-03 15:56:27'
 created_ts: 1580745387

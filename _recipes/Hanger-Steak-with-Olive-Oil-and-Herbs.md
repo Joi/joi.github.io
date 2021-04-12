@@ -2,7 +2,7 @@
 title: "Hanger Steak with Olive Oil and Herbs"
 filename: "hanger-steak-with-olive-oil-and-herbs"
 categories: &id001
-- Steaks
+- steaks
 cook_time: 20 minutes
 created: '2020-05-05 00:48:28'
 created_ts: 1588639708

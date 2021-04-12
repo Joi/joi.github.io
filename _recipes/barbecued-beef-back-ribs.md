@@ -2,7 +2,7 @@
 title: "Barbecued Beef Back Ribs"
 filename: "barbecued-beef-back-ribs"
 categories: &id001
-- Beef Back Ribs
+- beef back ribs
 cook_time: 4 h, 35 m
 created: '2020-09-26 14:30:18'
 created_ts: 1601130618

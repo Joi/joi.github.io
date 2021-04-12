@@ -2,7 +2,7 @@
 title: "Sautéed Lion's Mane Mushrooms with Garlic"
 filename: "sauteed-lions-mane-mushrooms-with-garlic"
 categories: &id001
-- Mushroom
+- mushroom
 cook_time: 15 minutes
 created: '2021-01-21 15:54:25'
 created_ts: 1611244465

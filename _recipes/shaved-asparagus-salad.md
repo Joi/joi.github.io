@@ -2,7 +2,7 @@
 title: "Shaved Asparagus Salad"
 filename: "shaved-asparagus-salad"
 categories: &id001
-- Asparagus
+- asparagus
 cook_time: 0 minutes
 created: '2020-07-01 14:07:31'
 created_ts: 1593612451

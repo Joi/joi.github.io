@@ -2,8 +2,8 @@
 title: "Roberta’s Pizza Dough"
 filename: "robertas-pizza-dough"
 categories: &id001
-- Italian
-- Pizza
+- italian
+- pizza
 cook_time: 20 minutes
 created: '2021-02-02 00:05:18'
 created_ts: 1612224318

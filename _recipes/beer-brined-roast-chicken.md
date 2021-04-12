@@ -2,7 +2,7 @@
 title: "Beer-Brined Roast Chicken"
 filename: "beer-brined-roast-chicken"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 2 hours
 created: '2020-05-16 13:50:06'
 created_ts: 1589637006

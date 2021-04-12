@@ -2,7 +2,7 @@
 title: "Coq Au Vin"
 filename: "coq-au-vin"
 categories: &id001
-- Chicken
+- chicken
 cook_time: null
 created: '2020-04-02 17:18:10'
 created_ts: 1585847890

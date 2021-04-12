@@ -2,7 +2,7 @@
 title: "Bluefish Dijonnaise"
 filename: "bluefish-dijonnaise"
 categories: &id001
-- Blue Fish
+- blue fish
 cook_time: 20 minutes
 created: '2020-06-05 15:45:11'
 created_ts: 1591371911

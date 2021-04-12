@@ -2,8 +2,8 @@
 title: "Sauteed Celery Root with Swiss Chard"
 filename: "sauteed-celery-root-with-swiss-chard"
 categories: &id001
-- Swiss Chard
-- Celery Root
+- swiss chard
+- celery root
 cook_time: ''
 created: '2020-08-10 18:27:30'
 created_ts: 1597084050

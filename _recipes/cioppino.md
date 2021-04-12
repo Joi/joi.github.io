@@ -2,8 +2,8 @@
 title: "Cioppino"
 filename: "cioppino"
 categories: &id001
-- Seafood
-- Soup
+- seafood
+- soup
 cook_time: 55min
 created: '2020-02-03 16:00:55'
 created_ts: 1580745655

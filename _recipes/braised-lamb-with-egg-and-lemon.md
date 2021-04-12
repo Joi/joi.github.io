@@ -2,8 +2,8 @@
 title: "Braised Lamb with Egg and Lemon"
 filename: "braised-lamb-with-egg-and-lemon"
 categories: &id001
-- Lamb
-- Meat
+- lamb
+- meat
 cook_time: 2 1/2 hours
 created: '2020-05-14 14:33:38'
 created_ts: 1589466818

@@ -2,10 +2,10 @@
 title: "Meatballs with Tomato Sauce"
 filename: "meatballs-with-tomato-sauce"
 categories: &id001
-- Beef
-- Italian
-- Meat
-- Ground Beef
+- beef
+- italian
+- meat
+- ground beef
 cook_time: 45min
 created: '2020-02-02 12:32:26'
 created_ts: 1580646746

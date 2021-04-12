@@ -2,7 +2,7 @@
 title: "Garlic Braised Short Ribs with Red Wine"
 filename: "garlic-braised-short-ribs-with-red-wine"
 categories: &id001
-- Short Ribs
+- short ribs
 cook_time: null
 created: '2020-07-06 23:46:08'
 created_ts: 1594079168

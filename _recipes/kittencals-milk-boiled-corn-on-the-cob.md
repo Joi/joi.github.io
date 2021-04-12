@@ -2,7 +2,7 @@
 title: "Kittencal's Milk Boiled Corn on the Cob"
 filename: "kittencals-milk-boiled-corn-on-the-cob"
 categories: &id001
-- Corn
+- corn
 cook_time: 15mins
 created: '2020-07-04 13:30:06'
 created_ts: 1593869406

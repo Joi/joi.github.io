@@ -2,9 +2,9 @@
 title: "How to Cook the Perfect, Tender, Grass Fed Steak"
 filename: "how-to-cook-the-perfect-tender-grass-fed-steak"
 categories: &id001
-- Beef
-- Bison
-- Steaks
+- beef
+- bison
+- steaks
 cook_time: null
 created: '2020-04-04 17:04:32'
 created_ts: 1586019872

@@ -2,7 +2,7 @@
 title: "Shiozake (Grilled Salted Salmon)"
 filename: "shiozake-grilled-salted-salmon"
 categories: &id001
-- Salmon
+- salmon
 cook_time: ''
 created: '2020-06-13 13:33:22'
 created_ts: 1592055202

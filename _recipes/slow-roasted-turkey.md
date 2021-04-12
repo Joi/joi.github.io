@@ -2,7 +2,7 @@
 title: "Slow-Roasted Turkey"
 filename: "slow-roasted-turkey"
 categories: &id001
-- Turkey
+- turkey
 cook_time: 10 hrs
 created: '2020-11-24 10:51:43'
 created_ts: 1606215103

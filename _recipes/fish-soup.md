@@ -2,8 +2,8 @@
 title: "Fish Soup"
 filename: "fish-soup"
 categories: &id001
-- Fish
-- White Fish
+- fish
+- white fish
 cook_time: 1 hour
 created: '2020-04-11 13:29:31'
 created_ts: 1586611771

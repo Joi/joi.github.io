@@ -2,7 +2,7 @@
 title: "Spaghetti Carbonara"
 filename: "spaghetti-carbonara"
 categories: &id001
-- Pasta
+- pasta
 cook_time: 25 minutes
 created: '2020-09-16 11:34:50'
 created_ts: 1600256090

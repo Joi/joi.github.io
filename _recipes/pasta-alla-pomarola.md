@@ -2,8 +2,8 @@
 title: "Pasta alla Pomarola"
 filename: "pasta-alla-pomarola"
 categories: &id001
-- Pasta
-- Tomato
+- pasta
+- tomato
 cook_time: ''
 created: '2020-07-04 18:27:57'
 created_ts: 1593887277

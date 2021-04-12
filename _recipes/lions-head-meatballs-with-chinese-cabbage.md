@@ -2,8 +2,8 @@
 title: "Lion's Head Meatballs with Chinese Cabbage"
 filename: "lions-head-meatballs-with-chinese-cabbage"
 categories: &id001
-- Soup
-- Napa Cabbage
+- soup
+- napa cabbage
 cook_time: 30 mins
 created: '2020-07-27 19:25:43'
 created_ts: 1595877943

@@ -2,8 +2,8 @@
 title: "Mapo Tofu"
 filename: "mapo-tofu"
 categories: &id001
-- Chinese
-- Ground Pork
+- chinese
+- ground pork
 cook_time: 35 minutes
 created: '2021-02-28 16:21:05'
 created_ts: 1614529265

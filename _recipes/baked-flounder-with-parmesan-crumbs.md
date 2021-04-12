@@ -2,9 +2,9 @@
 title: "Baked Flounder with Parmesan Crumbs"
 filename: "baked-flounder-with-parmesan-crumbs"
 categories: &id001
-- Fish
-- White Fish
-- Flounder
+- fish
+- white fish
+- flounder
 cook_time: 30 min
 created: '2020-05-08 02:17:52'
 created_ts: 1588904272

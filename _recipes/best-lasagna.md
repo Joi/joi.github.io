@@ -2,7 +2,7 @@
 title: "Best Lasagna"
 filename: "best-lasagna"
 categories: &id001
-- Pasta
+- pasta
 cook_time: 1 hr 45 mins
 created: '2020-09-03 23:19:14'
 created_ts: 1599175154

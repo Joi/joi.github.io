@@ -2,8 +2,8 @@
 title: "Harry's Bar Chicken Stock"
 filename: "harrys-bar-chicken-stock"
 categories: &id001
-- Chicken
-- Soup
+- chicken
+- soup
 cook_time: ''
 created: '2020-02-02 12:55:27'
 created_ts: 1580648127

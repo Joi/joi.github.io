@@ -2,7 +2,7 @@
 title: "Roasted Yellow Squash with Mint, Walnuts and Pecorino"
 filename: "roasted-yellow-squash-with-mint-walnuts-and-pecorino"
 categories: &id001
-- Yellow Squash
+- yellow squash
 cook_time: 20 min
 created: '2020-07-01 20:23:08'
 created_ts: 1593634988

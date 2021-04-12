@@ -2,7 +2,7 @@
 title: "Perfect Prime Rib with Red Wine Jus"
 filename: "perfect-prime-rib-with-red-wine-jus"
 categories: &id001
-- Prime Rib
+- prime rib
 cook_time: 5 1/2 to 6 1/2 hours
 created: '2020-12-06 00:49:20'
 created_ts: 1607215760

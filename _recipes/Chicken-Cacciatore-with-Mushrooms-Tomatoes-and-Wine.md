@@ -2,7 +2,7 @@
 title: "Chicken Cacciatore with Mushrooms, Tomatoes and Wine"
 filename: "chicken-cacciatore-with-mushrooms-tomatoes-and-wine"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 1 hour 45 minutes
 created: '2020-03-29 11:54:17'
 created_ts: 1585482857

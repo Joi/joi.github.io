@@ -2,7 +2,7 @@
 title: "Homemade Spicy Chili Crisp"
 filename: "homemade-spicy-chili-crisp"
 categories: &id001
-- Sauce
+- sauce
 cook_time: 1 1/2 hours
 created: '2020-08-03 13:50:34'
 created_ts: 1596462634

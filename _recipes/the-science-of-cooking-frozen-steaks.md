@@ -2,7 +2,7 @@
 title: "The Science of Cooking Frozen Steaks"
 filename: "the-science-of-cooking-frozen-steaks"
 categories: &id001
-- Meat
+- meat
 cook_time: ''
 created: '2020-03-04 22:10:06'
 created_ts: 1583359806

@@ -2,8 +2,8 @@
 title: "Crunchy Fried Fish Tacos"
 filename: "crunchy-fried-fish-tacos"
 categories: &id001
-- Fish
-- Mexican
+- fish
+- mexican
 cook_time: 30 minutes
 created: '2020-10-25 15:50:06'
 created_ts: 1603641006

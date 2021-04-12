@@ -2,7 +2,7 @@
 title: "Ginger Garlic Pan Roasted Swordfish- A Restaurant Classic"
 filename: "ginger-garlic-pan-roasted-swordfish--a-restaurant-classic"
 categories: &id001
-- Swordfish
+- swordfish
 cook_time: 20 mins
 created: '2021-04-06 11:28:09'
 created_ts: 1617708489

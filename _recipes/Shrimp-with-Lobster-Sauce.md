@@ -2,7 +2,7 @@
 title: "Shrimp with Lobster Sauce"
 filename: "shrimp-with-lobster-sauce"
 categories: &id001
-- Shrimp
+- shrimp
 cook_time: 10 mins
 created: '2020-08-23 11:19:19'
 created_ts: 1598181559

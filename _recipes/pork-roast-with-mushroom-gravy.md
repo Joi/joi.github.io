@@ -2,7 +2,7 @@
 title: "Pork Roast with Mushroom Gravy"
 filename: "pork-roast-with-mushroom-gravy"
 categories: &id001
-- Pork Shoulder
+- pork shoulder
 cook_time: 7 hours
 created: '2020-07-24 13:55:10'
 created_ts: 1595598910

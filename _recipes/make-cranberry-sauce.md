@@ -2,7 +2,7 @@
 title: "Make Cranberry Sauce"
 filename: "make-cranberry-sauce"
 categories: &id001
-- Sauce
+- sauce
 cook_time: 10 minutes
 created: '2020-11-26 14:14:13'
 created_ts: 1606400053

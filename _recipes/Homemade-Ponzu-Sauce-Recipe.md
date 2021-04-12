@@ -2,7 +2,7 @@
 title: "Homemade Ponzu Sauce Recipe"
 filename: "homemade-ponzu-sauce-recipe"
 categories: &id001
-- Sauce
+- sauce
 cook_time: ''
 created: '2020-06-26 11:11:46'
 created_ts: 1593169906

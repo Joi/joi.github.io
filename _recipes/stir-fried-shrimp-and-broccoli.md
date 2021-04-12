@@ -2,7 +2,7 @@
 title: "Stir-Fried Shrimp and Broccoli"
 filename: "stir-fried-shrimp-and-broccoli"
 categories: &id001
-- Shrimp
+- shrimp
 cook_time: null
 created: '2020-02-03 15:15:37'
 created_ts: 1580742937

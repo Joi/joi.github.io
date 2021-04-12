@@ -2,7 +2,7 @@
 title: "Simple Tender Pork Chops"
 filename: "simple-tender-pork-chops"
 categories: &id001
-- Pork
+- pork
 cook_time: 01:05
 created: '2020-12-10 01:35:04'
 created_ts: 1607564104

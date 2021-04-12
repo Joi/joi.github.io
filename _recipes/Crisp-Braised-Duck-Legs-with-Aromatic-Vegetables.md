@@ -2,7 +2,7 @@
 title: "Crisp-Braised Duck Legs with Aromatic Vegetables"
 filename: "crisp-braised-duck-legs-with-aromatic-vegetables"
 categories: &id001
-- Duck
+- duck
 cook_time: about 2 hours
 created: '2020-04-07 12:31:28'
 created_ts: 1586262688

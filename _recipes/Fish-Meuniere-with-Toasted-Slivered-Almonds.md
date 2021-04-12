@@ -2,9 +2,9 @@
 title: "Fish Meuniere with Toasted Slivered Almonds"
 filename: "fish-meuniere-with-toasted-slivered-almonds"
 categories: &id001
-- Fish
-- Seafood
-- White Fish
+- fish
+- seafood
+- white fish
 cook_time: ''
 created: '2020-03-07 15:44:48'
 created_ts: 1583595888

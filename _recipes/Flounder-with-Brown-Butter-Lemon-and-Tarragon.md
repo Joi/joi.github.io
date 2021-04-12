@@ -2,7 +2,7 @@
 title: "Flounder with Brown Butter, Lemon and Tarragon"
 filename: "flounder-with-brown-butter-lemon-and-tarragon"
 categories: &id001
-- Flounder
+- flounder
 cook_time: 20 minutes
 created: '2020-05-29 18:24:59'
 created_ts: 1590776699

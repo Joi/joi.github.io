@@ -2,8 +2,8 @@
 title: "Short Ribs Braised in Red Wine with Bacon, Parsnips, and Pearl Onions"
 filename: "short-ribs-braised-in-red-wine-with-bacon-parsnips-and-pearl-onions"
 categories: &id001
-- Beef
-- Short Ribs
+- beef
+- short ribs
 cook_time: null
 created: '2020-04-05 13:05:50'
 created_ts: 1586091950

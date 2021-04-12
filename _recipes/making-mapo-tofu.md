@@ -2,8 +2,8 @@
 title: "Making Mapo Tofu"
 filename: "making-mapo-tofu"
 categories: &id001
-- Chinese
-- Tofu
+- chinese
+- tofu
 cook_time: null
 created: '2021-03-03 15:04:49'
 created_ts: 1614783889

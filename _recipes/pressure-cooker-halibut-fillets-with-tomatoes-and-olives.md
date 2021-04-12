@@ -2,9 +2,9 @@
 title: "Pressure Cooker Halibut Fillets with Tomatoes and Olives"
 filename: "pressure-cooker-halibut-fillets-with-tomatoes-and-olives"
 categories: &id001
-- White Fish
-- Halibut
-- Pressure Cooker
+- white fish
+- halibut
+- pressure cooker
 cook_time: 7m
 created: '2020-05-14 13:32:41'
 created_ts: 1589463161

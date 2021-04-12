@@ -2,7 +2,7 @@
 title: "Pan-Seared Sablefish (Black Cod) with Lemon Pepper Aioli"
 filename: "pan-seared-sablefish-black-cod-with-lemon-pepper-aioli"
 categories: &id001
-- Black Cod
+- black cod
 cook_time: 10 min
 created: '2020-12-05 17:10:53'
 created_ts: 1607188253

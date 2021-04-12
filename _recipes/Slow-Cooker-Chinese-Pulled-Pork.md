@@ -2,7 +2,7 @@
 title: "Slow Cooker Chinese Pulled Pork"
 filename: "slow-cooker-chinese-pulled-pork"
 categories: &id001
-- Pork Shoulder
+- pork shoulder
 cook_time: 4 hours
 created: '2020-10-24 10:48:20'
 created_ts: 1603536500

@@ -2,7 +2,7 @@
 title: "Roast Beef Tenderloin with Wine Sauce"
 filename: "roast-beef-tenderloin-with-wine-sauce"
 categories: &id001
-- Tenderloin
+- tenderloin
 cook_time: 1 hour 20 minutes
 created: '2021-02-04 17:04:08'
 created_ts: 1612458248

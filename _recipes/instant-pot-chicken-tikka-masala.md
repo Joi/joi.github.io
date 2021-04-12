@@ -2,7 +2,7 @@
 title: "Instant Pot Chicken Tikka Masala"
 filename: "instant-pot-chicken-tikka-masala"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 20 mins
 created: '2020-09-17 15:20:48'
 created_ts: 1600356048

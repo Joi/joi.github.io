@@ -2,7 +2,7 @@
 title: "Chicken Livers and Onions, Venetian Style"
 filename: "chicken-livers-and-onions-venetian-style"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 45 minutes
 created: '2020-09-28 17:56:49'
 created_ts: 1601315809

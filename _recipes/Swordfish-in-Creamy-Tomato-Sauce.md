@@ -2,7 +2,7 @@
 title: "Swordfish in Creamy Tomato Sauce"
 filename: "swordfish-in-creamy-tomato-sauce"
 categories: &id001
-- Swordfish
+- swordfish
 cook_time: '30'
 created: '2020-09-09 14:39:11'
 created_ts: 1599662351

@@ -2,7 +2,7 @@
 title: "Fast Vietnamese Caramel Bluefish"
 filename: "fast-vietnamese-caramel-bluefish"
 categories: &id001
-- Blue Fish
+- blue fish
 cook_time: 20 minutes
 created: '2020-05-31 23:58:19'
 created_ts: 1590969499

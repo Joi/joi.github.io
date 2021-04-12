@@ -2,8 +2,8 @@
 title: "Chinese Braised Duck Legs"
 filename: "chinese-braised-duck-legs"
 categories: &id001
-- Duck
-- Chinese
+- duck
+- chinese
 cook_time: 1 hour 45 minutes
 created: '2021-03-29 12:14:29'
 created_ts: 1617020069

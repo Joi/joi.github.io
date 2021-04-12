@@ -2,7 +2,7 @@
 title: "Slow-Cooker Butter Chicken"
 filename: "slow-cooker-butter-chicken"
 categories: &id001
-- Chicken
+- chicken
 cook_time: about 5 hours
 created: '2020-04-19 15:25:30'
 created_ts: 1587309930

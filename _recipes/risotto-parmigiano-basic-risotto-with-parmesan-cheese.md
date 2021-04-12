@@ -2,7 +2,7 @@
 title: "Risotto Parmigiano - Basic Risotto with Parmesan Cheese"
 filename: "risotto-parmigiano-basic-risotto-with-parmesan-cheese"
 categories: &id001
-- Rice
+- rice
 cook_time: ''
 created: '2020-06-23 13:15:50'
 created_ts: 1592918150

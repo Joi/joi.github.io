@@ -2,7 +2,7 @@
 title: "Delmonico Steaks with Balsamic Onions and Sauce"
 filename: "delmonico-steaks-with-balsamic-onions-and-sauce"
 categories: &id001
-- Steaks
+- steaks
 cook_time: 30 min
 created: '2020-11-11 18:02:00'
 created_ts: 1605117720

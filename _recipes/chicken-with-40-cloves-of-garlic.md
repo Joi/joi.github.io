@@ -2,7 +2,7 @@
 title: "Chicken with 40 Cloves of Garlic"
 filename: "chicken-with-40-cloves-of-garlic"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 1 hour 40 minutes
 created: '2020-04-02 17:07:19'
 created_ts: 1585847239

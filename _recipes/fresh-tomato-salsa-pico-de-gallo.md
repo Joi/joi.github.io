@@ -2,7 +2,7 @@
 title: "Fresh Tomato Salsa (Pico De Gallo)"
 filename: "fresh-tomato-salsa-pico-de-gallo"
 categories: &id001
-- Sauce
+- sauce
 cook_time: null
 created: '2020-08-16 15:33:38'
 created_ts: 1597592018

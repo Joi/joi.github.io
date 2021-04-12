@@ -2,8 +2,8 @@
 title: "Slow-Cooker Braised Brisket and Onions"
 filename: "slow-cooker-braised-brisket-and-onions"
 categories: &id001
-- Beef
-- Brisket
+- beef
+- brisket
 cook_time: 9 to 10 hours on low or 6 to 7 hours on high
 created: '2020-03-31 16:54:32'
 created_ts: 1585673672

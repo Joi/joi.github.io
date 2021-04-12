@@ -2,7 +2,7 @@
 title: "Jim Lahey's No-Knead Whole-Wheat Bread"
 filename: "jim-laheys-no-knead-whole-wheat-bread"
 categories: &id001
-- Bread and Biscuits
+- bread and biscuits
 cook_time: 1 h
 created: '2020-04-21 17:20:15'
 created_ts: 1587489615

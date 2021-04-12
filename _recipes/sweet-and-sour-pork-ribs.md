@@ -2,7 +2,7 @@
 title: "Sweet and Sour Pork Ribs"
 filename: "sweet-and-sour-pork-ribs"
 categories: &id001
-- Pork
+- pork
 cook_time: 30min
 created: '2020-02-03 15:58:54'
 created_ts: 1580745534

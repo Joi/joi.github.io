@@ -2,7 +2,7 @@
 title: "Turkey Meatloaf with Ketchup-Brown Sugar Glaze"
 filename: "turkey-meatloaf-with-ketchup-brown-sugar-glaze"
 categories: &id001
-- Turkey
+- turkey
 cook_time: 2 hours
 created: '2020-05-14 15:57:26'
 created_ts: 1589471846

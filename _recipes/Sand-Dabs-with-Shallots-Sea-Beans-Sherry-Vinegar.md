@@ -2,9 +2,9 @@
 title: "Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar"
 filename: "sand-dabs-with-shallots-sea-beans-sherry-vinegar"
 categories: &id001
-- Sole
-- Flounder
-- Fluke
+- sole
+- flounder
+- fluke
 cook_time: ''
 created: '2020-09-01 17:56:00'
 created_ts: 1598982960

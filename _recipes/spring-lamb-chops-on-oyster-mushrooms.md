@@ -2,8 +2,8 @@
 title: "Spring Lamb Chops on Oyster Mushrooms"
 filename: "spring-lamb-chops-on-oyster-mushrooms"
 categories: &id001
-- Lamb
-- Mushroom
+- lamb
+- mushroom
 cook_time: ''
 created: '2021-03-07 12:22:58'
 created_ts: 1615119778

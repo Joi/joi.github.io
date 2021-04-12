@@ -2,7 +2,7 @@
 title: "French Chicken in a Pot"
 filename: "french-chicken-in-a-pot"
 categories: &id001
-- Chicken
+- chicken
 cook_time: ''
 created: '2020-05-27 06:08:02'
 created_ts: 1590559682

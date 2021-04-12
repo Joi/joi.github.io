@@ -2,7 +2,7 @@
 title: "NY Times No-Knead Bread"
 filename: "ny-times-no-knead-bread"
 categories: &id001
-- Bread and Biscuits
+- bread and biscuits
 cook_time: 1 hour 30 minutes
 created: '2020-04-20 07:01:04'
 created_ts: 1587366064

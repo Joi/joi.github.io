@@ -2,7 +2,7 @@
 title: "Air-Fryer Buffalo Chicken Drumsticks"
 filename: "air-fryer-buffalo-chicken-drumsticks"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 45 minutes
 created: '2020-04-02 17:12:50'
 created_ts: 1585847570

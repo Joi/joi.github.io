@@ -2,7 +2,7 @@
 title: "Kohlrabi Soup"
 filename: "kohlrabi-soup"
 categories: &id001
-- Soup
+- soup
 cook_time: ''
 created: '2021-03-08 21:28:58'
 created_ts: 1615238938

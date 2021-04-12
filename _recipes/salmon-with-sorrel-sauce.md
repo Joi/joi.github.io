@@ -2,10 +2,10 @@
 title: "Salmon with Sorrel Sauce"
 filename: "salmon-with-sorrel-sauce"
 categories: &id001
-- Fish
-- Salmon
-- Sole
-- White Fish
+- fish
+- salmon
+- sole
+- white fish
 cook_time: 20 min
 created: '2020-04-21 18:43:20'
 created_ts: 1587494600

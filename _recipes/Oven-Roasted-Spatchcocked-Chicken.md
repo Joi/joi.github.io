@@ -2,7 +2,7 @@
 title: "Oven Roasted Spatchcocked Chicken"
 filename: "oven-roasted-spatchcocked-chicken"
 categories: &id001
-- Chicken
+- chicken
 cook_time: ''
 created: '2020-07-09 14:31:38'
 created_ts: 1594305098

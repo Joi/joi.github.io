@@ -2,7 +2,7 @@
 title: "Mayonnaise"
 filename: "mayonnaise"
 categories: &id001
-- Spread
+- spread
 cook_time: ''
 created: '2020-02-02 13:00:49'
 created_ts: 1580648449

@@ -2,8 +2,8 @@
 title: "Baked Fillet of Sole with Tomato, Oregano and Hot Pepper"
 filename: "baked-fillet-of-sole-with-tomato-oregano-and-hot-pepper"
 categories: &id001
-- Fish
-- Sole
+- fish
+- sole
 cook_time: 45 minutes
 created: '2020-03-19 15:42:52'
 created_ts: 1584632572

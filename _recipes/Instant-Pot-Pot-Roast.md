@@ -2,7 +2,7 @@
 title: "Instant Pot Pot Roast"
 filename: "instant-pot-pot-roast"
 categories: &id001
-- Beef
+- beef
 cook_time: 2 hours
 created: '2020-04-24 19:01:08'
 created_ts: 1587754868

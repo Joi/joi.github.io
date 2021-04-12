@@ -2,7 +2,7 @@
 title: "Apple Cider Vinegar Shot"
 filename: "apple-cider-vinegar-shot"
 categories: &id001
-- Healthy
+- healthy
 cook_time: 5 mins
 created: '2020-05-04 22:44:06'
 created_ts: 1588632246

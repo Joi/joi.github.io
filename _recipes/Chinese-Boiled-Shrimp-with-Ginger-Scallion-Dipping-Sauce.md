@@ -2,7 +2,7 @@
 title: "Chinese Boiled Shrimp with Ginger Scallion Dipping Sauce"
 filename: "chinese-boiled-shrimp-with-ginger-scallion-dipping-sauce"
 categories: &id001
-- Shrimp
+- shrimp
 cook_time: 10 mins
 created: '2020-10-31 21:50:46'
 created_ts: 1604181046

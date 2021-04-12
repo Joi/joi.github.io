@@ -2,7 +2,7 @@
 title: "Japanese fried chicken - karaage"
 filename: "japanese-fried-chicken-karaage"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 30 min
 created: '2020-02-03 15:50:50'
 created_ts: 1580745050

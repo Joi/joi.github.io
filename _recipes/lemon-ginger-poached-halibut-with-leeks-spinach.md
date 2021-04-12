@@ -2,7 +2,7 @@
 title: "Lemon-Ginger Poached Halibut with Leeks & Spinach"
 filename: "lemon-ginger-poached-halibut-with-leeks-spinach"
 categories: &id001
-- Halibut
+- halibut
 cook_time: ''
 created: '2020-08-06 00:26:39'
 created_ts: 1596673599

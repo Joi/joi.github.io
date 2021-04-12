@@ -2,7 +2,7 @@
 title: "Steak 101"
 filename: "steak-101"
 categories: &id001
-- Steaks
+- steaks
 cook_time: 00:30
 created: '2021-01-31 12:36:31'
 created_ts: 1612096591

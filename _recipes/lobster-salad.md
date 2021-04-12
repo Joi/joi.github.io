@@ -2,8 +2,8 @@
 title: "Lobster Salad"
 filename: "lobster-salad"
 categories: &id001
-- Lobster
-- Avocado
+- lobster
+- avocado
 cook_time: '0'
 created: '2021-03-27 15:12:04'
 created_ts: 1616857924

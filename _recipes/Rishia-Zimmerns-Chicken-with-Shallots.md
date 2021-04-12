@@ -2,8 +2,8 @@
 title: "Rishia Zimmern’s Chicken with Shallots"
 filename: "rishia-zimmerns-chicken-with-shallots"
 categories: &id001
-- Chicken
-- Meat
+- chicken
+- meat
 cook_time: 1 hour 30 minutes
 created: '2020-02-02 14:51:28'
 created_ts: 1580655088

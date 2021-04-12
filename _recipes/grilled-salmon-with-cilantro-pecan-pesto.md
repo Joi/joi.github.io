@@ -2,7 +2,7 @@
 title: "Grilled Salmon with Cilantro-Pecan Pesto"
 filename: "grilled-salmon-with-cilantro-pecan-pesto"
 categories: &id001
-- Sauce
+- sauce
 cook_time: 30 min
 created: '2020-08-04 18:56:29'
 created_ts: 1596567389

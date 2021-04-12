@@ -2,7 +2,7 @@
 title: "Lemon Butter Sauce"
 filename: "lemon-butter-sauce"
 categories: &id001
-- Sauce
+- sauce
 cook_time: 15 mins
 created: '2020-11-03 13:07:17'
 created_ts: 1604408837

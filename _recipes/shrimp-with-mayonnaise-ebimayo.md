@@ -2,8 +2,8 @@
 title: "Shrimp with Mayonnaise - ebimayo"
 filename: "shrimp-with-mayonnaise-ebimayo"
 categories: &id001
-- Shrimp
-- Chinese
+- shrimp
+- chinese
 cook_time: ''
 created: '2021-03-28 14:20:29'
 created_ts: 1616941229

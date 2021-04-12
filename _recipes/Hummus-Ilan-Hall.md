@@ -2,7 +2,7 @@
 title: "Hummus (Ilan Hall)"
 filename: "hummus-ilan-hall"
 categories: &id001
-- Spread
+- spread
 cook_time: 9h 5min
 created: '2020-02-02 12:32:12'
 created_ts: 1580646732

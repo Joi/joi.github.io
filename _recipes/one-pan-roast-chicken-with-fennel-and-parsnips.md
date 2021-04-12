@@ -2,7 +2,7 @@
 title: "One-Pan Roast Chicken with Fennel and Parsnips"
 filename: "one-pan-roast-chicken-with-fennel-and-parsnips"
 categories: &id001
-- Chicken
+- chicken
 cook_time: null
 created: '2020-04-02 17:21:33'
 created_ts: 1585848093

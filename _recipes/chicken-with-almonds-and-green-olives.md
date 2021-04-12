@@ -2,7 +2,7 @@
 title: "Chicken with Almonds and Green Olives"
 filename: "chicken-with-almonds-and-green-olives"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 1 hour 20 minutes
 created: '2020-04-02 17:11:21'
 created_ts: 1585847481

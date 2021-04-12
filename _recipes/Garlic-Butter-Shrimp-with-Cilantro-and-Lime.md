@@ -2,7 +2,7 @@
 title: "Garlic Butter Shrimp with Cilantro and Lime"
 filename: "garlic-butter-shrimp-with-cilantro-and-lime"
 categories: &id001
-- Shrimp
+- shrimp
 cook_time: 5mins
 created: '2020-08-23 11:26:58'
 created_ts: 1598182018

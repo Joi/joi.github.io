@@ -2,9 +2,9 @@
 title: "Mushroom Sauce"
 filename: "mushroom-sauce"
 categories: &id001
-- Steaks
-- Sauce
-- Mushroom
+- steaks
+- sauce
+- mushroom
 cook_time: null
 created: '2021-02-15 12:54:08'
 created_ts: 1613393648

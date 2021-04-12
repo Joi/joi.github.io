@@ -2,7 +2,7 @@
 title: "Slow Cooker Beef Short Ribs"
 filename: "slow-cooker-beef-short-ribs"
 categories: &id001
-- Short Ribs
+- short ribs
 cook_time: 10 minutes
 created: '2020-12-13 12:39:25'
 created_ts: 1607863165

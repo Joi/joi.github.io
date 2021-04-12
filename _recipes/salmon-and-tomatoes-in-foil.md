@@ -2,8 +2,8 @@
 title: "Salmon and Tomatoes in Foil"
 filename: "salmon-and-tomatoes-in-foil"
 categories: &id001
-- Fish
-- Salmon
+- fish
+- salmon
 cook_time: 30 minutes
 created: '2020-03-16 19:01:31'
 created_ts: 1584385291

@@ -2,10 +2,10 @@
 title: "Meatball"
 filename: "meatball"
 categories: &id001
-- Pasta
-- Italian
-- Ground Beef
-- Sauce
+- pasta
+- italian
+- ground beef
+- sauce
 cook_time: 20 minutes
 created: '2020-12-16 17:56:06'
 created_ts: 1608141366

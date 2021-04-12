@@ -2,7 +2,7 @@
 title: "Beef meatballs with lemon and celery root"
 filename: "beef-meatballs-with-lemon-and-celery-root"
 categories: &id001
-- Ground Beef
+- ground beef
 cook_time: ''
 created: '2020-05-10 14:20:52'
 created_ts: 1589120452

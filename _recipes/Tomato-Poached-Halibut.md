@@ -2,7 +2,7 @@
 title: "Tomato-Poached Halibut"
 filename: "tomato-poached-halibut"
 categories: &id001
-- Halibut
+- halibut
 cook_time: 'prep/total time: 30 min.'
 created: '2020-08-07 11:33:42'
 created_ts: 1596800022

@@ -2,7 +2,7 @@
 title: "Tuna Confit"
 filename: "tuna-confit"
 categories: &id001
-- Tuna
+- tuna
 cook_time: ''
 created: '2020-08-06 07:42:38'
 created_ts: 1596699758
@@ -42,7 +42,8 @@ ingredients: '1. 2 lb. top-quality fresh tuna (yellowfin or ahi), cut into 1-inc
 intrash: 0
 meal_dates:
 - '2020-08-05'
-meal_types: '3'
+- '2021-04-10'
+meal_types: 3|5
 mine: null
 name: Tuna Confit
 p_recipe_id: 293

@@ -2,7 +2,7 @@
 title: "Grilled Shrimp Skewers"
 filename: "grilled-shrimp-skewers"
 categories: &id001
-- Shrimp
+- shrimp
 cook_time: 10 minutes
 created: '2020-07-11 16:04:14'
 created_ts: 1594483454

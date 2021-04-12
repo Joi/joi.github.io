@@ -2,7 +2,7 @@
 title: "Tuna Tataki Recipe"
 filename: "tuna-tataki-recipe"
 categories: &id001
-- Tuna
+- tuna
 cook_time: 5 mins
 created: '2020-06-26 10:42:57'
 created_ts: 1593168177

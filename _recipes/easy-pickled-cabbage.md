@@ -2,8 +2,8 @@
 title: "Easy Pickled Cabbage"
 filename: "easy-pickled-cabbage"
 categories: &id001
-- Vegetables
-- Pickles
+- vegetables
+- pickles
 cook_time: 10 mins
 created: '2020-04-25 20:37:24'
 created_ts: 1587847044

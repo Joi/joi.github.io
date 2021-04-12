@@ -2,7 +2,7 @@
 title: "Instant Pot Beef Back Ribs"
 filename: "instant-pot-beef-back-ribs"
 categories: &id001
-- Beef Back Ribs
+- beef back ribs
 cook_time: 25 minutes natural release
 created: '2020-09-02 02:55:00'
 created_ts: 1599015300

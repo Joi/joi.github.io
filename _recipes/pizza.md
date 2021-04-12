@@ -2,7 +2,7 @@
 title: "Pizza"
 filename: "pizza"
 categories: &id001
-- Italian
+- italian
 cook_time: ''
 created: '2021-02-04 16:00:56'
 created_ts: 1612454456

@@ -2,8 +2,8 @@
 title: "Garlic Butter Fish"
 filename: "garlic-butter-fish"
 categories: &id001
-- Fish
-- White Fish
+- fish
+- white fish
 cook_time: 10 minutes
 created: '2020-05-15 18:23:40'
 created_ts: 1589567020

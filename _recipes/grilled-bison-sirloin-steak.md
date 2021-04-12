@@ -2,7 +2,7 @@
 title: "Grilled Bison Sirloin Steak"
 filename: "grilled-bison-sirloin-steak"
 categories: &id001
-- Bison
+- bison
 cook_time: 10 min
 created: '2020-03-21 20:37:24'
 created_ts: 1584823044

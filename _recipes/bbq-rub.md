@@ -2,8 +2,8 @@
 title: "BBQ Rub"
 filename: "bbq-rub"
 categories: &id001
-- Sauce
-- BBQ
+- sauce
+- bbq
 cook_time: ''
 created: '2021-04-04 14:34:22'
 created_ts: 1617546862

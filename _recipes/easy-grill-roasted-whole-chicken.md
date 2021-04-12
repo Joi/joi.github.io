@@ -2,8 +2,8 @@
 title: "Easy Grill-Roasted Whole Chicken"
 filename: "easy-grill-roasted-whole-chicken"
 categories: &id001
-- Grill
-- Chicken
+- grill
+- chicken
 cook_time: 2 hours
 created: '2020-02-03 15:01:29'
 created_ts: 1580742089

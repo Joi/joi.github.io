@@ -2,7 +2,7 @@
 title: "Braised Chicken with Lemon and Olives"
 filename: "braised-chicken-with-lemon-and-olives"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 1 hour 45 minutes
 created: '2020-03-29 12:02:01'
 created_ts: 1585483321

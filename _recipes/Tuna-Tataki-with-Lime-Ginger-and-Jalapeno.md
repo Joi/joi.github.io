@@ -2,7 +2,7 @@
 title: "Tuna Tataki with Lime, Ginger and Jalapeño"
 filename: "tuna-tataki-with-lime-ginger-and-jalapeno"
 categories: &id001
-- Tuna
+- tuna
 cook_time: ''
 created: '2020-09-15 11:10:10'
 created_ts: 1600168210
@@ -22,7 +22,8 @@ meal_dates:
 - '2021-01-08'
 - '2021-01-22'
 - '2021-03-02'
-meal_types: 3|3|3|3|3|3|3
+- '2021-04-09'
+meal_types: 3|3|3|3|3|3|3|3
 mine: 1
 name: "Tuna Tataki with Lime, Ginger and Jalape\xF1o"
 p_recipe_id: 354

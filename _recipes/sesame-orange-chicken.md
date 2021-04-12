@@ -2,7 +2,7 @@
 title: "Sesame Orange Chicken"
 filename: "sesame-orange-chicken"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 1h 20min
 created: '2020-02-03 16:08:59'
 created_ts: 1580746139

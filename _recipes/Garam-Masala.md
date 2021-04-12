@@ -2,7 +2,7 @@
 title: "Garam Masala"
 filename: "garam-masala"
 categories: &id001
-- Curry
+- curry
 cook_time: '10'
 created: '2021-02-04 14:58:46'
 created_ts: 1612450726

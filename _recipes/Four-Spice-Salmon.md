@@ -2,8 +2,8 @@
 title: "Four-Spice Salmon"
 filename: "four-spice-salmon"
 categories: &id001
-- Fish
-- Salmon
+- fish
+- salmon
 cook_time: 20 minutes
 created: '2020-03-20 18:26:12'
 created_ts: 1584728772

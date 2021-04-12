@@ -2,7 +2,7 @@
 title: "Pita Chips"
 filename: "pita-chips"
 categories: &id001
-- Bread and Biscuits
+- bread and biscuits
 cook_time: 7 mins
 created: '2020-06-25 16:36:57'
 created_ts: 1593103017

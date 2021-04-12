@@ -2,8 +2,8 @@
 title: "Fluffy Baked Omelet"
 filename: "fluffy-baked-omelet"
 categories: &id001
-- Breakfast
-- Egg
+- breakfast
+- egg
 cook_time: 35min
 created: '2020-02-03 15:59:52'
 created_ts: 1580745592

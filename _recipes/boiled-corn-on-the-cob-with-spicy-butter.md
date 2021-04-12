@@ -2,7 +2,7 @@
 title: "Boiled Corn on the Cob with Spicy Butter"
 filename: "boiled-corn-on-the-cob-with-spicy-butter"
 categories: &id001
-- Corn
+- corn
 cook_time: 25mins
 created: '2020-07-04 18:42:10'
 created_ts: 1593888130

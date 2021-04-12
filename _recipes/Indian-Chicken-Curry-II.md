@@ -2,7 +2,7 @@
 title: "Indian Chicken Curry II"
 filename: "indian-chicken-curry-ii"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 25 mins
 created: '2020-04-19 20:14:26'
 created_ts: 1587327266

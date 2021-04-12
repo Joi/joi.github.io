@@ -2,7 +2,7 @@
 title: "Crispy Scallion Ginger Salmon"
 filename: "crispy-scallion-ginger-salmon"
 categories: &id001
-- Salmon
+- salmon
 cook_time: ''
 created: '2020-10-20 18:43:43'
 created_ts: 1603219423

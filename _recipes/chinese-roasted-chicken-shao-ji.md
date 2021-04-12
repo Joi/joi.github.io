@@ -2,7 +2,7 @@
 title: "Chinese Roasted Chicken (烧鸡)"
 filename: "chinese-roasted-chicken-shao-ji"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 1 hr
 created: '2020-12-28 20:09:05'
 created_ts: 1609186145

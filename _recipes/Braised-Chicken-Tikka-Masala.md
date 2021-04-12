@@ -2,8 +2,8 @@
 title: "Braised Chicken Tikka Masala"
 filename: "braised-chicken-tikka-masala"
 categories: &id001
-- Chicken
-- Curry
+- chicken
+- curry
 cook_time: 30 mins
 created: '2021-01-15 18:55:42'
 created_ts: 1610736942

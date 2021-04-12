@@ -2,8 +2,8 @@
 title: "Velvet Fish with Mushrooms"
 filename: "velvet-fish-with-mushrooms"
 categories: &id001
-- Fish
-- White Fish
+- fish
+- white fish
 cook_time: 1 1/2 hours
 created: '2020-04-11 13:31:52'
 created_ts: 1586611912

@@ -2,7 +2,7 @@
 title: "Asian Salad Dressing"
 filename: "asian-salad-dressing"
 categories: &id001
-- Salad
+- salad
 cook_time: null
 created: '2020-10-22 21:27:55'
 created_ts: 1603402075

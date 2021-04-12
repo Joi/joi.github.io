@@ -2,7 +2,7 @@
 title: "Pan-Fried Squid in Butter Soy Sauce"
 filename: "pan-fried-squid-in-butter-soy-sauce"
 categories: &id001
-- Squid
+- squid
 cook_time: ''
 created: '2020-06-02 15:39:23'
 created_ts: 1591112363

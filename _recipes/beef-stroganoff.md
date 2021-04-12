@@ -2,7 +2,7 @@
 title: "Beef Stroganoff"
 filename: "beef-stroganoff"
 categories: &id001
-- Beef
+- beef
 cook_time: 15 min
 created: '2020-10-29 12:01:08'
 created_ts: 1603972868

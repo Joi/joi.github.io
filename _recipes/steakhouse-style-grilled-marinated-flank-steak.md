@@ -2,7 +2,7 @@
 title: "Steakhouse-Style Grilled Marinated Flank Steak"
 filename: "steakhouse-style-grilled-marinated-flank-steak"
 categories: &id001
-- Hanger steak
+- hanger steak
 cook_time: at least 1 1/2 hours
 created: '2021-03-27 17:19:28'
 created_ts: 1616865568

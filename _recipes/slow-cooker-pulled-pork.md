@@ -2,7 +2,7 @@
 title: "Slow Cooker Pulled Pork"
 filename: "slow-cooker-pulled-pork"
 categories: &id001
-- Pork Shoulder
+- pork shoulder
 cook_time: ''
 created: '2020-10-24 01:24:31'
 created_ts: 1603502671

@@ -2,7 +2,7 @@
 title: "Confit Hake, Cherry Tomatoes and Garlic"
 filename: "confit-hake-cherry-tomatoes-and-garlic"
 categories: &id001
-- Hake
+- hake
 cook_time: 1 hour 30 minutes
 created: '2020-07-08 17:36:58'
 created_ts: 1594229818

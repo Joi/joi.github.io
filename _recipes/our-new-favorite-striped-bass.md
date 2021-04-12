@@ -2,7 +2,7 @@
 title: "Our New Favorite Striped Bass"
 filename: "our-new-favorite-striped-bass"
 categories: &id001
-- Striped Bass
+- striped bass
 cook_time: 35 minutes
 created: '2020-07-20 23:43:32'
 created_ts: 1595288612

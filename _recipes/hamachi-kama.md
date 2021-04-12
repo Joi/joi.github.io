@@ -2,7 +2,7 @@
 title: "Hamachi Kama"
 filename: "hamachi-kama"
 categories: &id001
-- Yellow Tail
+- yellow tail
 cook_time: 25 mins
 created: '2020-08-14 02:12:38'
 created_ts: 1597371158

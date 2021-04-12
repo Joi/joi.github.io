@@ -2,7 +2,7 @@
 title: "Easy Overnight Oats"
 filename: "easy-overnight-oats"
 categories: &id001
-- Oats
+- oats
 cook_time: ''
 created: '2020-03-22 14:21:04'
 created_ts: 1584886864

@@ -2,7 +2,7 @@
 title: "Crispy Parmesan Baked Chicken with Veggies (Milanese)"
 filename: "crispy-parmesan-baked-chicken-with-veggies-milanese"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 25 mins
 created: '2020-11-16 21:09:56'
 created_ts: 1605560996

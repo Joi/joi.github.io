@@ -2,7 +2,7 @@
 title: "Braised Lamb Shanks"
 filename: "braised-lamb-shanks"
 categories: &id001
-- Lamb
+- lamb
 cook_time: 3 hrs
 created: '2020-12-02 19:16:49'
 created_ts: 1606936609

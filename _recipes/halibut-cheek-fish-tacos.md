@@ -2,7 +2,7 @@
 title: "Halibut Cheek Fish Tacos"
 filename: "halibut-cheek-fish-tacos"
 categories: &id001
-- Halibut
+- halibut
 cook_time: null
 created: '2020-08-16 15:30:50'
 created_ts: 1597591850

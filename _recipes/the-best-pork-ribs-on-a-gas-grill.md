@@ -2,7 +2,7 @@
 title: "The Best Pork Ribs on a Gas Grill"
 filename: "the-best-pork-ribs-on-a-gas-grill"
 categories: &id001
-- Pork Spare Ribs
+- pork spare ribs
 cook_time: null
 created: '2020-09-08 22:35:04'
 created_ts: 1599604504

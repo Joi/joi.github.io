@@ -2,8 +2,8 @@
 title: "Mark Bittman's Basic Pizza Dough"
 filename: "mark-bittmans-basic-pizza-dough"
 categories: &id001
-- Italian
-- Pizza
+- italian
+- pizza
 cook_time: 2 to 3 hours mostly unattended
 created: '2021-02-03 20:08:38'
 created_ts: 1612382918

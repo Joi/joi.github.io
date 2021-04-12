@@ -2,8 +2,8 @@
 title: "Tangy Braised Short Ribs"
 filename: "tangy-braised-short-ribs"
 categories: &id001
-- Beef
-- Short Ribs
+- beef
+- short ribs
 cook_time: 4 hours
 created: '2020-04-08 13:06:16'
 created_ts: 1586351176

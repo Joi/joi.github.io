@@ -2,7 +2,7 @@
 title: "Chicken Confit"
 filename: "chicken-confit"
 categories: &id001
-- Chicken
+- chicken
 cook_time: ''
 created: '2020-08-01 18:44:05'
 created_ts: 1596307445

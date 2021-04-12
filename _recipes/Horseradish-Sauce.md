@@ -2,7 +2,7 @@
 title: "Horseradish Sauce"
 filename: "horseradish-sauce"
 categories: &id001
-- Sauce
+- sauce
 cook_time: 2 minutes
 created: '2020-07-18 17:32:40'
 created_ts: 1595093560

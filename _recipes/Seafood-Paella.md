@@ -2,7 +2,7 @@
 title: "Seafood Paella"
 filename: "seafood-paella"
 categories: &id001
-- Rice
+- rice
 cook_time: 35 minutes
 created: '2020-08-18 01:41:16'
 created_ts: 1597714876

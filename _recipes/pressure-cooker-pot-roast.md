@@ -2,8 +2,8 @@
 title: "Pressure Cooker Pot Roast"
 filename: "pressure-cooker-pot-roast"
 categories: &id001
-- Beef
-- Chuck Roast
+- beef
+- chuck roast
 cook_time: 1 3/4 hours
 created: '2020-04-19 15:45:28'
 created_ts: 1587311128

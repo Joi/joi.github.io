@@ -2,7 +2,7 @@
 title: "The Food Lab - Spicy Thai-Style Flank Steak Salad"
 filename: "the-food-lab-spicy-thai-style-flank-steak-salad"
 categories: &id001
-- Beef
+- beef
 cook_time: ''
 created: '2020-07-27 14:36:53'
 created_ts: 1595860613

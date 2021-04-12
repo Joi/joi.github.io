@@ -2,9 +2,9 @@
 title: "Butter-Basted, Pan-Seared Thick-Cut Steaks"
 filename: "butter-basted-pan-seared-thick-cut-steaks"
 categories: &id001
-- Beef
-- Bison
-- Steaks
+- beef
+- bison
+- steaks
 cook_time: 25 minutes (or 1 hour 10 minutes to 3 days, if resting)
 created: '2020-04-21 18:36:16'
 created_ts: 1587494176

@@ -2,7 +2,7 @@
 title: "Shakshuka with Feta"
 filename: "shakshuka-with-feta"
 categories: &id001
-- Egg
+- egg
 cook_time: 50 minutes
 created: '2020-08-13 22:37:31'
 created_ts: 1597358251

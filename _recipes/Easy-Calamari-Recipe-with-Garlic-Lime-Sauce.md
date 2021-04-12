@@ -2,7 +2,7 @@
 title: "Easy Calamari Recipe with Garlic-Lime Sauce"
 filename: "easy-calamari-recipe-with-garlic-lime-sauce"
 categories: &id001
-- Squid
+- squid
 cook_time: 6 mins
 created: '2020-07-01 18:18:44'
 created_ts: 1593627524

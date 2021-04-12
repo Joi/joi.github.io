@@ -2,7 +2,7 @@
 title: "Poached Skate Wings with Tomatoes and Olive Oil"
 filename: "poached-skate-wings-with-tomatoes-and-olive-oil"
 categories: &id001
-- Skate Wings
+- skate wings
 cook_time: 20 minutes
 created: '2020-05-27 12:45:51'
 created_ts: 1590583551

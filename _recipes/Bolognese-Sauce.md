@@ -2,9 +2,9 @@
 title: "Bolognese Sauce"
 filename: "bolognese-sauce"
 categories: &id001
-- Pasta
-- Beef
-- Sauce
+- pasta
+- beef
+- sauce
 cook_time: ''
 created: '2020-09-11 21:58:08'
 created_ts: 1599861488

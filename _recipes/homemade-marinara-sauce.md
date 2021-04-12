@@ -2,10 +2,10 @@
 title: "Homemade Marinara Sauce"
 filename: "homemade-marinara-sauce"
 categories: &id001
-- Pasta
-- Italian
-- Sauce
-- Tomato
+- pasta
+- italian
+- sauce
+- tomato
 cook_time: 35 minutes
 created: '2020-12-16 17:55:17'
 created_ts: 1608141317

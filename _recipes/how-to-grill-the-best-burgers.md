@@ -2,7 +2,7 @@
 title: "How to Grill the Best Burgers"
 filename: "how-to-grill-the-best-burgers"
 categories: &id001
-- Ground Beef
+- ground beef
 cook_time: 5 minutes
 created: '2020-06-13 11:21:11'
 created_ts: 1592047271

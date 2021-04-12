@@ -2,7 +2,7 @@
 title: "Slow Cooked Lamb Shoulder"
 filename: "slow-cooked-lamb-shoulder"
 categories: &id001
-- Lamb
+- lamb
 cook_time: null
 created: '2020-05-16 13:58:42'
 created_ts: 1589637522

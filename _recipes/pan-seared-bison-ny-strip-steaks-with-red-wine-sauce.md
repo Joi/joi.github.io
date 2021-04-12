@@ -2,7 +2,7 @@
 title: "Pan Seared Bison Ny Strip Steaks with Red Wine Sauce"
 filename: "pan-seared-bison-ny-strip-steaks-with-red-wine-sauce"
 categories: &id001
-- Bison
+- bison
 cook_time: 45 mins
 created: '2020-03-21 20:57:36'
 created_ts: 1584824256

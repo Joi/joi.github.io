@@ -2,7 +2,7 @@
 title: "Mediterranean Lemon Poached Halibut"
 filename: "mediterranean-lemon-poached-halibut"
 categories: &id001
-- Halibut
+- halibut
 cook_time: 15 mins
 created: '2020-08-07 11:17:34'
 created_ts: 1596799054

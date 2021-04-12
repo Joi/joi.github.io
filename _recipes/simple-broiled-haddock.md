@@ -2,7 +2,7 @@
 title: "Simple Broiled Haddock"
 filename: "simple-broiled-haddock"
 categories: &id001
-- White Fish
+- white fish
 cook_time: 10 m
 created: '2020-04-23 18:59:42'
 created_ts: 1587668382

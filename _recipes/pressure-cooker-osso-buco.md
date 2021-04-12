@@ -2,7 +2,7 @@
 title: "Pressure Cooker Osso Buco"
 filename: "pressure-cooker-osso-buco"
 categories: &id001
-- Veal
+- veal
 cook_time: 2 hours 30 minutes
 created: '2020-04-19 15:31:16'
 created_ts: 1587310276

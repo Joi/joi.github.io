@@ -2,7 +2,7 @@
 title: "Vinaigarette"
 filename: "vinaigarette"
 categories: &id001
-- Salad
+- salad
 cook_time: null
 created: '2020-07-23 13:02:18'
 created_ts: 1595509338

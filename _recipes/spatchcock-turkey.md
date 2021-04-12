@@ -2,7 +2,7 @@
 title: "Spatchcock Turkey"
 filename: "spatchcock-turkey"
 categories: &id001
-- Turkey
+- turkey
 cook_time: 1 hour
 created: '2020-08-27 01:04:12'
 created_ts: 1598490252

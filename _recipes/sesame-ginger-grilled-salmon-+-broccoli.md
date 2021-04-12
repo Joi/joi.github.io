@@ -2,7 +2,7 @@
 title: "Sesame Ginger Grilled Salmon + Broccoli"
 filename: "sesame-ginger-grilled-salmon-+-broccoli"
 categories: &id001
-- Salmon
+- salmon
 cook_time: ''
 created: '2020-08-28 20:37:57'
 created_ts: 1598647077

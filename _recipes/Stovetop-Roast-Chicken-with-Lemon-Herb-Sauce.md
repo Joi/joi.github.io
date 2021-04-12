@@ -2,7 +2,7 @@
 title: "Stovetop Roast Chicken with Lemon-Herb Sauce"
 filename: "stovetop-roast-chicken-with-lemon-herb-sauce"
 categories: &id001
-- Chicken
+- chicken
 cook_time: ''
 created: '2020-04-02 17:15:00'
 created_ts: 1585847700

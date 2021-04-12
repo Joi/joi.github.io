@@ -2,8 +2,8 @@
 title: "Shrimp Bisque"
 filename: "shrimp-bisque"
 categories: &id001
-- Shrimp
-- Soup
+- shrimp
+- soup
 cook_time: ''
 created: '2020-07-28 19:16:06'
 created_ts: 1595963766

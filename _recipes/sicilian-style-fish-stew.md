@@ -2,8 +2,8 @@
 title: "Sicilian-Style Fish Stew"
 filename: "sicilian-style-fish-stew"
 categories: &id001
-- Fish
-- Soup
+- fish
+- soup
 cook_time: 35 mins
 created: '2021-03-13 12:43:42'
 created_ts: 1615639422

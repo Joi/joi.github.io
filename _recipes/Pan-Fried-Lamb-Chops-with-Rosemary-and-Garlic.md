@@ -2,7 +2,7 @@
 title: "Pan-Fried Lamb Chops with Rosemary and Garlic"
 filename: "pan-fried-lamb-chops-with-rosemary-and-garlic"
 categories: &id001
-- Lamb
+- lamb
 cook_time: ''
 created: '2020-04-16 12:39:24'
 created_ts: 1587040764

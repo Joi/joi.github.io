@@ -2,7 +2,7 @@
 title: "Shredded Chicken and Vegetable Lettuce Cups"
 filename: "shredded-chicken-and-vegetable-lettuce-cups"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 1h 15min
 created: '2020-02-03 16:07:31'
 created_ts: 1580746051

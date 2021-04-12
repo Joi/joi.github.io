@@ -2,7 +2,7 @@
 title: "Ultracreamy Hummus"
 filename: "ultracreamy-hummus"
 categories: &id001
-- Spread
+- spread
 cook_time: null
 created: '2020-02-03 15:19:07'
 created_ts: 1580743147

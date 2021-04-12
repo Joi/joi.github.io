@@ -2,8 +2,8 @@
 title: "Kansas City BBQ Sauce"
 filename: "kansas-city-bbq-sauce"
 categories: &id001
-- Sauce
-- BBQ
+- sauce
+- bbq
 cook_time: 25 mins
 created: '2020-09-18 21:19:19'
 created_ts: 1600463959

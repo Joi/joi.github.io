@@ -2,8 +2,8 @@
 title: "Egg Batter Pan-Fried Flounder with Green Garlic"
 filename: "egg-batter-pan-fried-flounder-with-green-garlic"
 categories: &id001
-- Flounder
-- Fluke
+- flounder
+- fluke
 cook_time: about 20 minutes
 created: '2021-04-01 23:11:43'
 created_ts: 1617318703

@@ -2,7 +2,7 @@
 title: "Beef Tongue Stew"
 filename: "beef-tongue-stew"
 categories: &id001
-- Tongue
+- tongue
 cook_time: ''
 created: '2021-01-21 20:05:32'
 created_ts: 1611259532

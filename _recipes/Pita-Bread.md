@@ -2,7 +2,7 @@
 title: "Pita Bread"
 filename: "pita-bread"
 categories: &id001
-- Bread and Biscuits
+- bread and biscuits
 cook_time: 2h
 created: '2020-04-11 14:59:30'
 created_ts: 1586617170

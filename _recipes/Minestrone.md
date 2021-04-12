@@ -2,8 +2,8 @@
 title: "Minestrone"
 filename: "minestrone"
 categories: &id001
-- Italian
-- Soup
+- italian
+- soup
 cook_time: null
 created: '2020-02-02 15:42:28'
 created_ts: 1580658148

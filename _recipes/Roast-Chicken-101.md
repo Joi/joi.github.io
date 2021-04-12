@@ -2,7 +2,7 @@
 title: "Roast Chicken 101"
 filename: "roast-chicken-101"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 02:10
 created: '2021-01-01 13:17:41'
 created_ts: 1609507061

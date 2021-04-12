@@ -2,8 +2,8 @@
 title: "Shrimp and Endive Salad"
 filename: "shrimp-and-endive-salad"
 categories: &id001
-- Salad
-- Shrimp
+- salad
+- shrimp
 cook_time: ''
 created: '2021-03-22 15:49:08'
 created_ts: 1616428148

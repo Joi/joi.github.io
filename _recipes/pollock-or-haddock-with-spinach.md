@@ -2,8 +2,8 @@
 title: "Pollock or Haddock with Spinach"
 filename: "pollock-or-haddock-with-spinach"
 categories: &id001
-- Fish
-- White Fish
+- fish
+- white fish
 cook_time: about 1 hour
 created: '2020-03-28 14:16:39'
 created_ts: 1585404999

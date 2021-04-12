@@ -2,8 +2,8 @@
 title: "Thai Coconut Shrimp Curry"
 filename: "thai-coconut-shrimp-curry"
 categories: &id001
-- Shrimp
-- Curry
+- shrimp
+- curry
 cook_time: null
 created: '2020-10-14 11:40:56'
 created_ts: 1602675656

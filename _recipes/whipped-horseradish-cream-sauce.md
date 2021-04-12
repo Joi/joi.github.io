@@ -2,7 +2,7 @@
 title: "Whipped Horseradish Cream Sauce"
 filename: "whipped-horseradish-cream-sauce"
 categories: &id001
-- Sauce
+- sauce
 cook_time: 10 mins
 created: '2020-12-20 15:34:48'
 created_ts: 1608478488

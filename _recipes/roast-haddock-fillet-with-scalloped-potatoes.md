@@ -2,8 +2,8 @@
 title: "Roast Haddock Fillet with Scalloped Potatoes"
 filename: "roast-haddock-fillet-with-scalloped-potatoes"
 categories: &id001
-- Fish
-- White Fish
+- fish
+- white fish
 cook_time: 45 minutes
 created: '2020-03-28 14:17:05'
 created_ts: 1585405025

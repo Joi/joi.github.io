@@ -2,8 +2,8 @@
 title: "Salmon with Sesame and Herbs"
 filename: "salmon-with-sesame-and-herbs"
 categories: &id001
-- Fish
-- Salmon
+- fish
+- salmon
 cook_time: 20 minutes
 created: '2020-04-08 13:16:19'
 created_ts: 1586351779

@@ -2,9 +2,9 @@
 title: "Hamburger Stroganoff Skillet"
 filename: "hamburger-stroganoff-skillet"
 categories: &id001
-- Pasta
-- Ground Beef
-- Sauce
+- pasta
+- ground beef
+- sauce
 cook_time: 1 hr
 created: '2020-12-26 14:58:34'
 created_ts: 1608994714

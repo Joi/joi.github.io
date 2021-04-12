@@ -2,9 +2,9 @@
 title: "Pot Roast"
 filename: "pot-roast"
 categories: &id001
-- Beef
-- Short Ribs
-- Chuck Roast
+- beef
+- short ribs
+- chuck roast
 cook_time: 3 hours
 created: '2020-03-31 17:17:45'
 created_ts: 1585675065

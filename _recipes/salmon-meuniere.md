@@ -2,7 +2,7 @@
 title: "Salmon Meuniere"
 filename: "salmon-meuniere"
 categories: &id001
-- Salmon
+- salmon
 cook_time: 10 mins
 created: '2020-07-23 11:15:23'
 created_ts: 1595502923

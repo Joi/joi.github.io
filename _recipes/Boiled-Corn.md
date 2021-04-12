@@ -2,7 +2,7 @@
 title: "Boiled Corn"
 filename: "boiled-corn"
 categories: &id001
-- Corn
+- corn
 cook_time: ''
 created: '2020-07-15 19:37:22'
 created_ts: 1594841842

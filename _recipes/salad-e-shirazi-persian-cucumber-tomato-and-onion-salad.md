@@ -2,7 +2,7 @@
 title: "Salad-E Shirazi (Persian Cucumber, Tomato and Onion Salad)"
 filename: "salad-e-shirazi-persian-cucumber-tomato-and-onion-salad"
 categories: &id001
-- Vegetables
+- vegetables
 cook_time: 20 minutes
 created: '2020-06-13 16:09:03'
 created_ts: 1592064543

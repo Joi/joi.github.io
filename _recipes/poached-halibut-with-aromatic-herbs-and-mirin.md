@@ -2,7 +2,7 @@
 title: "Poached Halibut with Aromatic Herbs and Mirin"
 filename: "poached-halibut-with-aromatic-herbs-and-mirin"
 categories: &id001
-- Halibut
+- halibut
 cook_time: 5 mins
 created: '2020-08-07 11:35:33'
 created_ts: 1596800133

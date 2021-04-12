@@ -2,7 +2,7 @@
 title: "Cilantro Lime Dressing {Mexican Salad Dressing}"
 filename: "cilantro-lime-dressing-{mexican-salad-dressing}"
 categories: &id001
-- Salad
+- salad
 cook_time: ''
 created: '2020-07-16 01:49:37'
 created_ts: 1594864177

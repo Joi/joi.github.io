@@ -2,7 +2,7 @@
 title: "Grilled Hickory-Smoked Hanger Steak"
 filename: "grilled-hickory-smoked-hanger-steak"
 categories: &id001
-- Hanger steak
+- hanger steak
 cook_time: 1 hr 40 min
 created: '2020-09-25 22:55:47'
 created_ts: 1601074547

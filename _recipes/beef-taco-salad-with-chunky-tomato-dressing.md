@@ -2,9 +2,9 @@
 title: "Beef Taco Salad with Chunky Tomato Dressing"
 filename: "beef-taco-salad-with-chunky-tomato-dressing"
 categories: &id001
-- Salad
-- Ground Beef
-- Mexican
+- salad
+- ground beef
+- mexican
 cook_time: 12 min
 created: '2020-12-26 15:00:36'
 created_ts: 1608994836

@@ -2,7 +2,7 @@
 title: "Aioli Sauce"
 filename: "aioli-sauce"
 categories: &id001
-- Sauce
+- sauce
 cook_time: ''
 created: '2020-07-10 21:07:05'
 created_ts: 1594415225

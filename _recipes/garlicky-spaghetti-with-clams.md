@@ -2,8 +2,8 @@
 title: "Garlicky Spaghetti with Clams"
 filename: "garlicky-spaghetti-with-clams"
 categories: &id001
-- Clams
-- Pasta
+- clams
+- pasta
 cook_time: null
 created: '2020-02-03 15:37:19'
 created_ts: 1580744239

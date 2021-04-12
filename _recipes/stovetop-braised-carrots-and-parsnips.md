@@ -2,7 +2,7 @@
 title: "Stovetop-Braised Carrots and Parsnips"
 filename: "stovetop-braised-carrots-and-parsnips"
 categories: &id001
-- Vegetables
+- vegetables
 cook_time: 1 hr
 created: '2020-03-30 20:07:56'
 created_ts: 1585598876

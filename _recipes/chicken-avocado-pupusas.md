@@ -2,7 +2,7 @@
 title: "Chicken Avocado Pupusas"
 filename: "chicken-avocado-pupusas"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 1h
 created: '2020-02-03 16:01:52'
 created_ts: 1580745712

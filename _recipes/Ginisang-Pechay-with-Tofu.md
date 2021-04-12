@@ -2,7 +2,7 @@
 title: "Ginisang Pechay with Tofu"
 filename: "ginisang-pechay-with-tofu"
 categories: &id001
-- Tofu
+- tofu
 cook_time: ''
 created: '2021-02-24 12:37:05'
 created_ts: 1614170225

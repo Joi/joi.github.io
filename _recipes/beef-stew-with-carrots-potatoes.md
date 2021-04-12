@@ -2,7 +2,7 @@
 title: "Beef Stew with Carrots & Potatoes"
 filename: "beef-stew-with-carrots-potatoes"
 categories: &id001
-- Chuck Roast
+- chuck roast
 cook_time: 3 hours 30 minutes
 created: '2020-10-13 20:02:18'
 created_ts: 1602619338

@@ -2,7 +2,7 @@
 title: "Caesar Salad"
 filename: "caesar-salad"
 categories: &id001
-- Salad
+- salad
 cook_time: 30min
 created: '2020-02-03 16:02:47'
 created_ts: 1580745767

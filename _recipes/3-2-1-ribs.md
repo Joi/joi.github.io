@@ -2,8 +2,8 @@
 title: "3 2 1 Ribs"
 filename: "3-2-1-ribs"
 categories: &id001
-- Pork Spare Ribs
-- BBQ
+- pork spare ribs
+- bbq
 cook_time: 6 hrs
 created: '2020-09-18 21:21:11'
 created_ts: 1600464071

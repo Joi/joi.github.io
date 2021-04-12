@@ -2,7 +2,7 @@
 title: "Quick Curtido (Mexican Cabbage Slaw)"
 filename: "quick-curtido-mexican-cabbage-slaw"
 categories: &id001
-- Salad
+- salad
 cook_time: 1 hour 10 minutes
 created: '2020-07-16 18:55:06'
 created_ts: 1594925706

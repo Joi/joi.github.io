@@ -2,7 +2,7 @@
 title: "Swordfish with Lemon and Fennel"
 filename: "swordfish-with-lemon-and-fennel"
 categories: &id001
-- Swordfish
+- swordfish
 cook_time: 15 minutes
 created: '2020-07-05 23:28:22'
 created_ts: 1593991702

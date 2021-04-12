@@ -2,7 +2,7 @@
 title: "Lasagna"
 filename: "lasagna"
 categories: &id001
-- Pasta
+- pasta
 cook_time: ''
 created: '2020-09-05 15:26:06'
 created_ts: 1599319566

@@ -2,8 +2,8 @@
 title: "Chicken Stock"
 filename: "chicken-stock"
 categories: &id001
-- Chicken
-- Soup
+- chicken
+- soup
 cook_time: ''
 created: '2020-09-01 18:05:51'
 created_ts: 1598983551

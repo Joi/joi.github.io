@@ -2,7 +2,7 @@
 title: "Bottarga Spaghetti with Lemon Zests and Bread Crumbles"
 filename: "bottarga-spaghetti-with-lemon-zests-and-bread-crumbles"
 categories: &id001
-- Pasta
+- pasta
 cook_time: 10 minutes
 created: '2020-09-16 11:24:14'
 created_ts: 1600255454

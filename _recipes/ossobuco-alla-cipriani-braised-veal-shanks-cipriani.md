@@ -2,7 +2,7 @@
 title: "Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani"
 filename: "ossobuco-alla-cipriani-braised-veal-shanks-cipriani"
 categories: &id001
-- Veal
+- veal
 cook_time: ''
 created: '2020-06-21 17:28:12'
 created_ts: 1592760492

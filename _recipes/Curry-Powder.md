@@ -2,8 +2,8 @@
 title: "Curry Powder"
 filename: "curry-powder"
 categories: &id001
-- Curry
-- Seasoning
+- curry
+- seasoning
 cook_time: null
 created: '2021-01-15 18:56:25'
 created_ts: 1610736985

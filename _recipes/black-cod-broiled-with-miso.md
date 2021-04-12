@@ -2,7 +2,7 @@
 title: "Black Cod Broiled with Miso"
 filename: "black-cod-broiled-with-miso"
 categories: &id001
-- Black Cod
+- black cod
 cook_time: 20 minutes
 created: '2020-11-13 01:54:31'
 created_ts: 1605232471

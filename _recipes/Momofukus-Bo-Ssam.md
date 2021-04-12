@@ -2,7 +2,7 @@
 title: "Momofuku's Bo Ssam"
 filename: "momofukus-bo-ssam"
 categories: &id001
-- Pork Shoulder
+- pork shoulder
 cook_time: 7 hours
 created: '2020-10-08 14:41:56'
 created_ts: 1602168116

@@ -2,7 +2,7 @@
 title: "Salmoriglio Sicilian Oregano Sauce"
 filename: "salmoriglio-sicilian-oregano-sauce"
 categories: &id001
-- Sauce
+- sauce
 cook_time: ''
 created: '2020-07-30 18:42:04'
 created_ts: 1596134524

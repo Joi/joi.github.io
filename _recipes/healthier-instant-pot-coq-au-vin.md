@@ -2,7 +2,7 @@
 title: "Healthier Instant Pot Coq Au Vin"
 filename: "healthier-instant-pot-coq-au-vin"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 15 minutes
 created: '2020-09-17 15:23:42'
 created_ts: 1600356222

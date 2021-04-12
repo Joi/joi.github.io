@@ -2,7 +2,7 @@
 title: "Butter Poached Fish"
 filename: "butter-poached-fish"
 categories: &id001
-- Halibut
+- halibut
 cook_time: 20 mins
 created: '2020-08-07 11:32:21'
 created_ts: 1596799941

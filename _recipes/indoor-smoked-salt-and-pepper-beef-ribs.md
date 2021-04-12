@@ -2,8 +2,8 @@
 title: "Indoor-Smoked Salt-And-Pepper Beef Ribs"
 filename: "indoor-smoked-salt-and-pepper-beef-ribs"
 categories: &id001
-- Beef
-- Ribs
+- beef
+- ribs
 cook_time: 7 hours 30 minutes
 created: '2020-03-31 19:38:55'
 created_ts: 1585683535

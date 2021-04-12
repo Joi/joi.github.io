@@ -2,7 +2,7 @@
 title: "Sous Vide Shrimp"
 filename: "sous-vide-shrimp"
 categories: &id001
-- Shrimp
+- shrimp
 cook_time: ''
 created: '2020-07-05 11:38:20'
 created_ts: 1593949100

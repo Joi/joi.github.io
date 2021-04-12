@@ -2,8 +2,8 @@
 title: "Sausage and Veggie Frittata and Ayran Drink"
 filename: "sausage-and-veggie-frittata-and-ayran-drink"
 categories: &id001
-- Egg
-- Italian
+- egg
+- italian
 cook_time: 40min
 created: '2020-02-02 12:33:10'
 created_ts: 1580646790

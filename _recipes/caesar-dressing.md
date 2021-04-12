@@ -2,7 +2,7 @@
 title: "Caesar Dressing"
 filename: "caesar-dressing"
 categories: &id001
-- Salad
+- salad
 cook_time: ''
 created: '2020-07-04 18:23:30'
 created_ts: 1593887010

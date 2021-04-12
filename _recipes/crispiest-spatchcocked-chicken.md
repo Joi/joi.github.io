@@ -2,7 +2,7 @@
 title: "Crispiest Spatchcocked Chicken"
 filename: "crispiest-spatchcocked-chicken"
 categories: &id001
-- Chicken
+- chicken
 cook_time: ''
 created: '2020-07-05 17:11:14'
 created_ts: 1593969074

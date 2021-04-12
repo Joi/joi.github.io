@@ -2,8 +2,8 @@
 title: "Pan-Seared Steak with Red Wine Sauce"
 filename: "pan-seared-steak-with-red-wine-sauce"
 categories: &id001
-- Beef
-- Steaks
+- beef
+- steaks
 cook_time: 35 minutes
 created: '2020-03-30 16:04:41'
 created_ts: 1585584281

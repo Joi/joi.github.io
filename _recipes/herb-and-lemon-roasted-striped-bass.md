@@ -2,7 +2,7 @@
 title: "Herb and Lemon Roasted Striped Bass"
 filename: "herb-and-lemon-roasted-striped-bass"
 categories: &id001
-- Striped Bass
+- striped bass
 cook_time: 25 mins
 created: '2020-07-20 23:30:58'
 created_ts: 1595287858

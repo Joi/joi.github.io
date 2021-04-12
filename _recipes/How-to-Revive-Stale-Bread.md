@@ -2,7 +2,7 @@
 title: "How to Revive Stale Bread"
 filename: "how-to-revive-stale-bread"
 categories: &id001
-- Bread and Biscuits
+- bread and biscuits
 cook_time: ''
 created: '2020-06-11 16:26:59'
 created_ts: 1591892819

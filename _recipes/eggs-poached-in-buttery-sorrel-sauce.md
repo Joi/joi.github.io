@@ -2,14 +2,14 @@
 title: "Eggs Poached in Buttery Sorrel Sauce"
 filename: "eggs-poached-in-buttery-sorrel-sauce"
 categories: &id001
-- Egg
-- Sorrel
+- egg
+- sorrel
 cook_time: about 30 minutes
 created: '2021-04-05 18:57:35'
 created_ts: 1617649055
 description: ''
 difficulty: ''
-image_url: https://static01.nyt.com/images/2013/12/12/dining/recipes-eggssorrel/recipes-eggssorrel-articleLarge.jpg
+image_url: null
 ingredients: "2 fat scallions, trimmed\n2 tablespoons unsalted butter\n1 large bunch\
   \ sorrel (about 4 ounces), stems trimmed\n\xBC teaspoon kosher salt, more to taste\n\
   Ground black pepper\n\xBC cup heavy cream\n4 large eggs\nChile flakes, like Aleppo,\
@@ -17,15 +17,17 @@ ingredients: "2 fat scallions, trimmed\n2 tablespoons unsalted butter\n1 large b
   \ toast, for serving"
 intrash: 0
 meal_dates:
-- '2021-04-08'
-meal_types: '1'
+- '2021-04-11'
+meal_types: '2'
 mine: null
 name: Eggs Poached in Buttery Sorrel Sauce
 p_recipe_id: 508
 permalink: /recipes/eggs-poached-in-buttery-sorrel-sauce
-photo_large: null
+photo_large: eggs-poached-in-buttery-sorrel-sauce-large.jpg
 photo_thumb: eggs-poached-in-buttery-sorrel-sauce-thumb.jpg
-photos_dict: null
+photos_dict:
+  '1': eggs-poached-in-buttery-sorrel-sauce-1.jpg
+  '2': eggs-poached-in-buttery-sorrel-sauce-2.jpg
 prep_time: ''
 rating: 0
 servings: Yield 2 servings

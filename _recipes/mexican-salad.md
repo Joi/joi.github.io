@@ -2,7 +2,7 @@
 title: "Mexican Salad"
 filename: "mexican-salad"
 categories: &id001
-- Salad
+- salad
 cook_time: 20 mins
 created: '2020-07-16 01:51:33'
 created_ts: 1594864293

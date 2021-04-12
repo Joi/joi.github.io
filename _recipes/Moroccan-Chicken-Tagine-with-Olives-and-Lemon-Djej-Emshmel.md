@@ -2,7 +2,7 @@
 title: "Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)"
 filename: "moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel"
 categories: &id001
-- Chicken
+- chicken
 cook_time: null
 created: '2020-04-02 17:34:53'
 created_ts: 1585848893

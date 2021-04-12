@@ -2,7 +2,7 @@
 title: "Our Five Spice Powder"
 filename: "our-five-spice-powder"
 categories: &id001
-- Sauce
+- sauce
 cook_time: 10 minutes
 created: '2020-11-08 21:12:44'
 created_ts: 1604869964
@@ -24,7 +24,8 @@ ingredients: '1 tablespoon ground Chinese cassia cinnamon (1 part)
 intrash: 0
 meal_dates:
 - '2020-11-08'
-meal_types: '3'
+- '2021-04-07'
+meal_types: 3|5
 mine: null
 name: Our Five Spice Powder
 p_recipe_id: 405

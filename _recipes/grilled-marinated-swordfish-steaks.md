@@ -2,7 +2,7 @@
 title: "Grilled Marinated Swordfish Steaks"
 filename: "grilled-marinated-swordfish-steaks"
 categories: &id001
-- Swordfish
+- swordfish
 cook_time: 30 minutes
 created: '2020-07-05 23:27:15'
 created_ts: 1593991635

@@ -2,7 +2,7 @@
 title: "Grilled Tuna Burgers with Spicy Mayo"
 filename: "grilled-tuna-burgers-with-spicy-mayo"
 categories: &id001
-- Tuna
+- tuna
 cook_time: 15 min
 created: '2020-08-06 00:17:40'
 created_ts: 1596673060

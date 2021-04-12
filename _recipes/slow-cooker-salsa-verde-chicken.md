@@ -2,7 +2,7 @@
 title: "Slow Cooker Salsa Verde Chicken"
 filename: "slow-cooker-salsa-verde-chicken"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 5 to 6 hours
 created: '2020-04-19 15:21:48'
 created_ts: 1587309708

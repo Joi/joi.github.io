@@ -2,7 +2,7 @@
 title: "Chinese 5 Spices"
 filename: "chinese-5-spices"
 categories: &id001
-- Seasoning
+- seasoning
 cook_time: null
 created: '2021-01-15 19:01:31'
 created_ts: 1610737291

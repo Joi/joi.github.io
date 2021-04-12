@@ -2,7 +2,7 @@
 title: "Simple Carbonara"
 filename: "simple-carbonara"
 categories: &id001
-- Pasta
+- pasta
 cook_time: ''
 created: '2020-09-16 13:27:18'
 created_ts: 1600262838

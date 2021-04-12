@@ -2,7 +2,7 @@
 title: "Pressure-Cooker Coq Au Vin"
 filename: "pressure-cooker-coq-au-vin"
 categories: &id001
-- Chicken
+- chicken
 cook_time: 'prep: 25 min. cook: 15 min. + releasing'
 created: '2020-09-17 15:30:25'
 created_ts: 1600356625

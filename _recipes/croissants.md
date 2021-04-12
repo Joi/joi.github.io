@@ -2,7 +2,7 @@
 title: "Croissants"
 filename: "croissants"
 categories: &id001
-- Bread and Biscuits
+- bread and biscuits
 cook_time: ''
 created: '2020-02-03 14:59:35'
 created_ts: 1580741975

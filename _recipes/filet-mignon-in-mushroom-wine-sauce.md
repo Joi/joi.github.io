@@ -2,7 +2,7 @@
 title: "Filet Mignon in Mushroom Wine Sauce"
 filename: "filet-mignon-in-mushroom-wine-sauce"
 categories: &id001
-- Tenderloin
+- tenderloin
 cook_time: 30 minutes
 created: '2021-02-04 17:09:16'
 created_ts: 1612458556

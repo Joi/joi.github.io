@@ -2,7 +2,7 @@
 title: "Southern Shrimp Scampi"
 filename: "southern-shrimp-scampi"
 categories: &id001
-- Shrimp
+- shrimp
 cook_time: 20 minutes
 created: '2020-06-18 17:46:14'
 created_ts: 1592502374

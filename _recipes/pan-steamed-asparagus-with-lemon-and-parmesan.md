@@ -2,7 +2,7 @@
 title: "Pan-Steamed Asparagus with Lemon and Parmesan"
 filename: "pan-steamed-asparagus-with-lemon-and-parmesan"
 categories: &id001
-- Vegetables
+- vegetables
 cook_time: 25 minutes
 created: '2020-02-03 15:27:28'
 created_ts: 1580743648

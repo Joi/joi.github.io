@@ -2,8 +2,8 @@
 title: "Whole Roasted Cauliflower"
 filename: "whole-roasted-cauliflower"
 categories: &id001
-- Vegetables
-- Cauliflower
+- vegetables
+- cauliflower
 cook_time: 00:35
 created: '2021-02-13 19:12:49'
 created_ts: 1613243569

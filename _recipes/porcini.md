@@ -2,7 +2,7 @@
 title: "Porcini"
 filename: "porcini"
 categories: &id001
-- Mushroom
+- mushroom
 cook_time: null
 created: '2021-01-31 12:33:52'
 created_ts: 1612096432

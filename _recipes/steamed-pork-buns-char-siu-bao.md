@@ -2,7 +2,7 @@
 title: "Steamed Pork Buns (Char Siu Bao)"
 filename: "steamed-pork-buns-char-siu-bao"
 categories: &id001
-- Pork Shoulder
+- pork shoulder
 cook_time: null
 created: '2020-11-08 21:09:20'
 created_ts: 1604869760

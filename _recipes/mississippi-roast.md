@@ -2,7 +2,7 @@
 title: "Mississippi Roast"
 filename: "mississippi-roast"
 categories: &id001
-- Beef
+- beef
 cook_time: 6 1/2 to 8 1/2 hours
 created: '2020-04-19 15:27:14'
 created_ts: 1587310034

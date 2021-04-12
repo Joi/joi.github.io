@@ -2,7 +2,7 @@
 title: "Spicy Coconut Braised Black Cod with Colorful Vegetables"
 filename: "spicy-coconut-braised-black-cod-with-colorful-vegetables"
 categories: &id001
-- Black Cod
+- black cod
 cook_time: 20 min
 created: '2020-11-13 13:14:49'
 created_ts: 1605273289

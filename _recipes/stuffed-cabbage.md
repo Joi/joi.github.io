@@ -2,7 +2,7 @@
 title: "Stuffed Cabbage"
 filename: "stuffed-cabbage"
 categories: &id001
-- Ground Beef
+- ground beef
 cook_time: 1 hr
 created: '2020-12-26 14:59:17'
 created_ts: 1608994757

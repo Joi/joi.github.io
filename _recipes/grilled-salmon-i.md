@@ -2,7 +2,7 @@
 title: "Grilled Salmon I"
 filename: "grilled-salmon-i"
 categories: &id001
-- Salmon
+- salmon
 cook_time: 16 mins
 created: '2020-06-16 15:14:26'
 created_ts: 1592320466

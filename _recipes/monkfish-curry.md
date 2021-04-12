@@ -2,7 +2,7 @@
 title: "Monkfish Curry"
 filename: "monkfish-curry"
 categories: &id001
-- Monkfish
+- monkfish
 cook_time: 10 to 30 mins
 created: '2020-11-06 00:23:48'
 created_ts: 1604622228

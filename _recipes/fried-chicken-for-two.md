@@ -2,7 +2,7 @@
 title: "Fried Chicken for Two"
 filename: "fried-chicken-for-two"
 categories: &id001
-- Chicken
+- chicken
 cook_time: ''
 created: '2020-05-14 16:25:40'
 created_ts: 1589473540
