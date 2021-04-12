@@ -131,37 +131,30 @@ print ("✅ IMPORTs completed and VARs initiated\n")
 # Clobber a string into a filename -------------
 def make_filename(string):
     string = unidecode.unidecode(string)
-    # Need to strip out amperstands. See content.html liquid too.
-    string = string.replace(" &","")
+    string = string.replace(" &","") # Need to strip out amperstands. See content.html liquid too.
     string = string.replace(" ","-")
-    #string = created[0:10] + "-" + string
-    #string=str(bytes(string, 'utf-8').decode('utf-8','ignore').encode("utf-8",'ignore'))
-    #string=string.replace("b'","").replace("'","")
     invalid = r'.<>:"/\|?* ,()“”‘’\''
     for char in invalid:
         string = string.replace(char, '')
     string = sanitize_filename(string).lower().rstrip('-').replace('---','-')
     string = string.lower()
-    
     return string
 
 # Delete and Create Output Directories
 def pheonix_output_directories(path):
-  if os.path.exists(path):
-    # if path exists, burn it down
-    shutil.rmtree(path, ignore_errors=True)
-  # and now raise it anew
-  os.mkdir(path)
+  if os.path.exists(path):                  # If path exists,
+    shutil.rmtree(path, ignore_errors=True) # burn it down.
+  os.mkdir(path)                            # Then raise it anew
 
- # Turn a multiline text block into a Markdown List
-def make_list(text):
+# Turn a multiline text block into a Markdown List
+def make_markdown_list(text):
     return "* " + text.replace("\n", "\n* ") 
+
 
 # Database Functions ---------------------------
 
 # Connect to Database
 def db_connect(db_file):
-    #conn = None
     try:
         conn = sqlite3.connect(db_file)
         # row_factory does some magic for us
@@ -173,18 +166,15 @@ def db_connect(db_file):
     return conn
 
 def db_query_magic(db_cursor):
-  # --------------------------------------------------------------------------------------
   # For the next bit with columns and results and dict and zip, see:
-  #    https://stackoverflow.com/questions/16519385/output-pyodbc-cursor-results-as-python-dictionary/16523148#16523148
+  # https://stackoverflow.com/questions/16519385/output-pyodbc-cursor-results-as-python-dictionary/16523148#16523148
   #
   # This grabs the key (cur.description) for us
   columns = [column[0] for column in db_cursor.description]
   rows = db_cursor.fetchall()
-
   results = []
   for row in rows:
-      # and here we glue the key to the value
-      results.append(dict(zip(columns, row)))
+      results.append(dict(zip(columns, row))) # glue the key to the value
   return results
 
 
@@ -210,20 +200,35 @@ def write_file(path,content):
 def write_json_file(data,path):
   write_file(path,json.dumps(data, ensure_ascii=False, sort_keys=True, indent=1))
 
-def abbreviations(word, **kwargs):
-  if word.upper() in ('TCP', 'UDP'):
-    return word.upper()
+
+def parse_tag_string(tag_str):
+  # In cases where Tags have been entered on a signle line 
+  #   with a single white space &/or comman between them:
+  # Test string (put in tags as one line on a Page)
+  #   "test1,test2, test3 test4"
+  space = " "
+  comma = ","
+  if comma in tag_str:
+    tag_str = tag_str.replace(","," ")
+  if space + space in tag_str:
+    tag_str = tag_str.replace("  "," ")
+  if space in tag_str:
+    tag_str = tag_str.split(" ")
+  else:
+    tag_str = [tag_str]
+  return tag_str
+
 
 print ("✅ FUNCTIONS defined\n")
 
 
 # OUTPUT DESTINATION DIRECTORIES ---------------------
 
-# If Output Paths don't exist, create them
+# If these Output Paths don't exist, create them
 if not os.path.exists(path_db_bu_sub):
     os.mkdir(path_db_bu_sub)
 
-# These ones we want to recreate every time
+# These ones we want to recreate every time ----------
 # Recipe Markdown Stubs Directory
 pheonix_output_directories(path_recp_mkdn_files)
 # Tag Markdown Stubs Directory
@@ -245,8 +250,7 @@ zipfile.ZipFile(path_db_bu, mode='w').write(path_db_full, arcname=file_db_bu, co
 # First, check if the temp folder already exists and if so delete it
 if os.path.exists(path_temp_working):
     shutil.rmtree(path_temp_working, ignore_errors=True) #nuke the temp working dir.
-
-copy_DB_Return = shutil.copytree(path_db_med, path_temp_working) # create a var here just to capture the useless out put of the copyfile() function
+shutil.copytree(path_db_med, path_temp_working) # and copy it over
 
 print ("✅ DATABASE Backed up\n")
 
@@ -511,7 +515,7 @@ for result in results:
       list_ing_lines   = paprika_markdownish(result['ingredients'],result['photos_dict'])
       list_ing_lines   = re.sub('\\\\x{0D}','\n',list_ing_lines)
       list_ing_lines   = re.sub('\n\n','\n',list_ing_lines)
-      list_ing_lines   = make_list(list_ing_lines)
+      list_ing_lines   = make_markdown_list(list_ing_lines)
       ringredients = mdit.render(list_ing_lines)
     else:
       ringredients = None
@@ -751,26 +755,20 @@ for data_meal in data_meals:
 
   if os.path.isfile(note_file):
     parsed_note = frontmatter.load(note_file)
-
     try:
       append_featured = {'date': meal_date, 'type': meal_type_name, 'feature': parsed_note['feature']}
-      #print("featured: " + str(meal_recipe_id).zfill(3) + " : " + json.dumps(append_featured))
       try:
         meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['featured']
       except:
         meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['featured'] = []
       meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['featured'].append(append_featured)
     except:
-      #append_regular = {'date': meal_date, 'type': meal_type_name}
-      #print("regular : " + str(meal_recipe_id).zfill(3) + " : " + json.dumps(append_regular))
       try:
         meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['regular']
       except:
         meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['regular'] = []
       meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['regular'].append(append_nofile_regular)
   else:
-    #append_nofile = {'date': meal_date, 'type': meal_type_name}
-    #print("nofile  : " + str(meal_recipe_id).zfill(3) + " : " + json.dumps(append_nofile))
     try:
       meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['nofile']
     except:
@@ -817,9 +815,8 @@ for meal_mkdn_file in sorted(os.listdir(path_meal_mkdn_files)):
 
       parsed_note_tags = parsed_note.get('tags')
       if parsed_note_tags != None:
-        # We need to stick strings into a list sometimes
         if type(parsed_note_tags) is str:
-          parsed_note_tags = [parsed_note_tags]
+          parsed_note_tags = parse_tag_string(parsed_note_tags)
         if type(parsed_note_tags) is list:
           parsed_note_tags = [x.lower() for x in parsed_note_tags]
           for tag in parsed_note_tags:
@@ -828,8 +825,6 @@ for meal_mkdn_file in sorted(os.listdir(path_meal_mkdn_files)):
             except:
               tags[tag]['notes'] = {'feature':[],'rough':[]}
             tags[tag]['notes'][note_type].append(append_to_note)
-            # Related Tags list
-            #if the rel_tags list dunt exist yet, create it
             try:
               tags[tag]['rel_tags']
             except:
@@ -847,33 +842,15 @@ for page_mkdn_file in sorted(os.listdir(path_pags_mkdn_files)):
 
   if page_mkdf_filename_mat:
     page_mkdn_file_path = path_pags_mkdn_files + page_mkdn_file
+
     if os.path.isfile(page_mkdn_file_path):
       parsed_page = frontmatter.load(page_mkdn_file_path) # See note "Parsed Note" at foot
       parsed_page_tags = parsed_page.get('tags')
       parsed_page_title = parsed_page.get('title')
       if parsed_page_tags != None:
 
-        # We need to stick strings into a list sometimes
         if type(parsed_page_tags) is str:
-          
-          # In cases where Tags have been entered on a signle line 
-          #   with a single white space &/or comman between them:
-          # Test string (put in tags as one line on a Page)
-          #   "test1,test2, test3 test4"
-          space = " "
-          comma = ","
-          if comma in parsed_page_tags:
-            parsed_page_tags = parsed_page_tags.replace(","," ")
-          if space + space in parsed_page_tags:
-            parsed_page_tags = parsed_page_tags.replace("  "," ")
-          if space in parsed_page_tags:
-            parsed_page_tags = parsed_page_tags.split(" ")
-          else:
-            parsed_page_tags = [parsed_page_tags]
-
-        # Either Frontmatter has already parsed the YAML for us,
-        # or the above ugly hack has made a list for us…
-        #   and we can proceed
+          parsed_page_tags = parse_tag_string(parsed_page_tags)
         if type(parsed_page_tags) is list:
           parsed_page_tags = [x.lower() for x in parsed_page_tags]
           for tag in parsed_page_tags:
@@ -882,13 +859,11 @@ for page_mkdn_file in sorted(os.listdir(path_pags_mkdn_files)):
             except:
               tags[tag]['pages'] = []
             tags[tag]['pages'].append(parsed_page_title)
-            # Related Tags list
-            #if the rel_tags list dunt exist yet, create it
             try:
               tags[tag]['rel_tags']
             except:
               tags[tag]['rel_tags'] = []
-            # add the note tags, modulo the current tag
+            # add the page tags, modulo the current tag
             tags[tag]['rel_tags'] += [i for i in parsed_page_tags if i not in [tag]]
             #print(tag + ": " + json.dumps(tags[tag], indent=1) + "\n")
 
@@ -909,19 +884,13 @@ write_json_file(meals_indices,path_json_data + "meals_indices.json")
 print ("✅ MEALS JSON Indices Dumped\n")
 
 # Tag Edge Cases Data Dump
-write_json_file(tag_edgecases,path_json_data + "tag_edgecases.json")
-print ("✅ TAG EDGECASES JSON Indices Dumped\n")
+#write_json_file(tag_edgecases,path_json_data + "tag_edgecases.json")
+#print ("✅ TAG EDGECASES JSON Indices Dumped\n")
 
 # Tag Indices - for debug
-write_json_file(tags,path_json_data + "tags.json")
-print ("✅ TAGS JSON Indices Dumped\n")
+#write_json_file(tags,path_json_data + "tags.json")
+#print ("✅ TAGS JSON Indices Dumped\n")
 
-
-# This needs to be at the bottom after we add everything
-# count and group related tags and add the filename slug
-#res = {make_filename(idx) : [tags[cl]['rel_tags'].count(idx),idx]
-#  for idx in set(tags[cl]['rel_tags'])}
-#tags[cl]['rel_tags_count'] = res
 
 # Loop to generate:
 # 1. Consolidated Tag counts
