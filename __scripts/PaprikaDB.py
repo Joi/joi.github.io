@@ -882,26 +882,7 @@ sorted(tags_alpha_grouped)
 
 # File writing and Miscellaneous cleanup ------------------------------------------
 
-# Convert the data structs to JSON and dump to individual files
-
-# Category Indices
-write_json_file(cats,path_json_data + "recipe_categories.json")
-print ("✅ CATEGORY JSON Indices Dumped\n")
-
-# Meals Indices
-write_json_file(meals_indices,path_json_data + "meals_indices.json")
-print ("✅ MEALS JSON Indices Dumped\n")
-
-# Tag Edge Cases Data Dump
-#write_json_file(tag_edgecases,path_json_data + "tag_edgecases.json")
-#print ("✅ TAG EDGECASES JSON Indices Dumped\n")
-
-# Tag Indices Data Dump
-write_json_file(tags,path_json_data + "tags.json")
-write_json_file(tags_alpha_grouped,path_json_data + "tags_alpha_grouped.json")
-print ("✅ TAGS JSON Indices Dumped\n")
-
-
+# Tag Page Markodwn Stubs
 # Loop to generate:
 # 1. Consolidated Tag counts
 # 2. Tag Page Markdown Slugs
@@ -918,6 +899,27 @@ for tag, tagd in tags.items():
   tag_yaml = yaml.dump(tagd)
   tag_content = "---\ntitle: " + tag_title + "\ntag_key: " + tag_key + "\n" + tag_yaml + "\n---\n"
   write_file(path_tags_mkdn_files + tag_filename + ".md",tag_content)
+
+
+# Convert the data structs to JSON and dump to individual files
+
+# Tag Edge Cases Data Dump
+#write_json_file(tag_edgecases,path_json_data + "tag_edgecases.json")
+#print ("✅ TAG EDGECASES JSON Indices Dumped\n")
+
+# Tag Indices Data Dump
+write_json_file(tags,path_json_data + "tags.json")
+write_json_file(tags_alpha_grouped,path_json_data + "tags_alpha_grouped.json")
+print ("✅ TAGS JSON Indices Dumped\n")
+
+# Category Indices
+write_json_file(cats,path_json_data + "recipe_categories.json")
+print ("✅ CATEGORY JSON Indices Dumped\n")
+
+# Meals Indices
+write_json_file(meals_indices,path_json_data + "meals_indices.json")
+print ("✅ MEALS JSON Indices Dumped\n")
+
 
 
 # CLEANUP --------------------------------------------

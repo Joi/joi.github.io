@@ -29,12 +29,16 @@ dt {
 dt.first {
   margin-top: 0;
 }
+.rawtags {
+  list-style-type: '- ';
+  margin-left: 1em;
+}
 </style>
 
 {% assign rawtags = "" %}
 {% for doc in site.documents %}
   {% assign ttags = doc.tags | join:'|' | append:'|' %}
-  {% assign ttags = ttags | downcase %}
+  {% assign ttags = ttags %}
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 
@@ -52,7 +56,7 @@ dt.first {
     {% endunless %}
   {% endif %}
 {% endfor %}
-
+{% assign tags = tags | sort_natural %}
 
 <div class="row" id="title">
 	<div class="small-12 columns">
@@ -65,9 +69,10 @@ dt.first {
 
 
 <div class="row" id="thing">
-	<div class="medium-3 columns" id="main">
+	<div class="medium-3 columns" id="" style="background:#f1f1f1;border-radius:0 20px;border-top:3px double #000;border-right:3px double #000;">
 
     <div class="taglist">
+      <p><strong>Cleaned by Python</strong></p>
       <dl>
       {% assign tags_alpha = site.data.tags_alpha_grouped %}
       {% for alpha in tags_alpha %}
@@ -90,32 +95,44 @@ dt.first {
 
   </div>
 
-	<div class="medium-9 columns" id="main">
-    {% comment %}
-    <p>
-      {% for tag in tags %}
-        <a href="#{{ tag | slugify }}" class="codinfox-tag-mark"> {{ tag }} </a> &nbsp;&nbsp;
-      {% endfor %}
-    </p>
+	<div class="medium-3 columns" id="">
 
-    <hr>
-    {% endcomment %}
+    <p><strong>Liquid, from files</strong></p>
+    <ul class="rawtags">
+      {% for tag in tags %}
+        <li><a href="#{{ tag | slugify }}" class="codinfox-tag-mark"> {{ tag }} </a></li>
+      {% endfor %}
+    </ul>
+
+  </div>
+
+	<div class="medium-6 columns" id="main">
 
     <h3>Note:</h3>
     <ul>
       <li>Tags on <span class="recipe">Recipes</span> are the recipe's "categories" from Paprika.</li>
-      <li>Tags on <span class="note">Notes</span> are manually entered in the Front Matter, <em>NOT the related recipe's "categories" from Paprika</em>.</li>
+      <li>Tags on <span class="note">Notes</span> are manually entered in the Front Matter,<br><em>NOT the related recipe's "categories" from Paprika</em>.</li>
       <li>Tags on <span class="post">Posts</span> and <span class="ppage">Pages</span> are manually entered in the Front Matter.</li>
     </ul>
-
-    <hr>
 
     <table>
     {% for tag in tags %}
       <tr><th colspan="5"><br><h4 id="{{ tag | slugify }}">{{ tag }}</h4></th></tr>
-      {% for doc in site.documents %}
+      {% assign docs = site.documents | where_exp:"item", "item.tags contains tag" %}
+      {% for doc in docs %}
         <tr>
-          {% if doc.tags contains tag %}
+          {% assign go = 0 %}
+          {% if doc.i_am == "recipe" and doc.rating >= 5 or doc.mine %}
+            {% assign go = 1 %}
+          {% elsif doc.i_am == "page" %}
+            {% assign go = 1 %}
+          {% elsif doc.i_am == "note" %}
+            {% assign go = 1 %}
+          {% elsif doc.i_am == "post" %}
+            {% assign go = 1 %}
+          {% endif %}
+          
+          {% if go %}
             <td valign="top" class="{{ doc.i_am }}">{{ doc.i_am | capitalize }}</td>
             <td valign="top"><a href="{{ doc.url }}"><strong>{{ doc.title }}</strong></a></td>
             {% comment %}<td valign="top"><small>{{ doc.date | date_to_string }}</small></td>{% endcomment %}
