@@ -21,11 +21,20 @@ table tr td {
 td.page, .ppage {
   background: #ECDAFF;
 }
+div.taglist {
+}
+dt {
+  margin: 1em 0 0 2em;
+}
+dt.first {
+  margin-top: 0;
+}
 </style>
 
 {% assign rawtags = "" %}
 {% for doc in site.documents %}
   {% assign ttags = doc.tags | join:'|' | append:'|' %}
+  {% assign ttags = ttags | downcase %}
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 
@@ -44,50 +53,86 @@ td.page, .ppage {
   {% endif %}
 {% endfor %}
 
-<h1 class="page-title">
-  {{ page.title }}
-</h1>
-<br/>
 
-<div class="posts">
-<p>
-  {% for tag in tags %}
-    <a href="#{{ tag | slugify }}" class="codinfox-tag-mark"> {{ tag }} </a> &nbsp;&nbsp;
-  {% endfor %}
-</p>
+<div class="row" id="title">
+	<div class="small-12 columns">
+    <div class="page-header">
+      <h1>{{ page.title }}</h1>
+    </div>
+    </div>
+  </div>
+</div>
 
-<hr>
 
-<h3>Note:</h3>
-<ul>
-  <li>Tags on <span class="recipe">Recipes</span> are the recipe's "categories" from Paprika.</li>
-  <li>Tags on <span class="note">Notes</span> are manually entered in the Front Matter, <em>NOT the related recipe's "categories" from Paprika</em>.</li>
-  <li>Tags on <span class="post">Posts</span> and <span class="ppage">Pages</span> are manually entered in the Front Matter.</li>
-</ul>
+<div class="row" id="thing">
+	<div class="medium-3 columns" id="main">
 
-<hr>
-
-<table>
-{% for tag in tags %}
-  <tr><th colspan="5"><br><h4 id="{{ tag | slugify }}">{{ tag }}</h4></th></tr>
-  {% for doc in site.documents %}
-    <tr>
-      {% if doc.tags contains tag %}
-        <td valign="top" class="{{ doc.i_am }}">{{ doc.i_am | capitalize }}</td>
-        <td valign="top"><a href="{{ doc.url }}"><strong>{{ doc.title }}</strong></a></td>
-        {% comment %}<td valign="top"><small>{{ doc.date | date_to_string }}</small></td>{% endcomment %}
-        <td valign="top">Other&nbsp;tags:</td>
-        <td valign="top">
-          {% for ttag in doc.tags %}
-          {% if ttag != tag %}
-            <a class="codinfox-tag-mark" href="#{{ ttag | slugify }}">{{ ttag }}</a>{% unless forloop.last %}, {% endunless %}
-          {% endif %}
+    <div class="taglist">
+      <dl>
+      {% assign tags_alpha = site.data.tags_alpha_grouped %}
+      {% for alpha in tags_alpha %}
+        {% assign firstclass = "" %}
+        {% if forloop.first %}
+        {% assign firstclass = " first" %}
+        {% endif %}
+        <dt class="{{firstclass}}">{{ alpha[0] | upcase }}</dt>
+          {% assign alpha_1_sort = alpha[1] | sort %}
+          {% for atag in alpha_1_sort %}
+            <dd>
+              <a href="/tag/{{atag | slugify }}" title="{{atag}} page">䷀</a> 
+              <a href="#{{atag | slugify }}" title="{{atag}} debug">#</a> 
+              {{atag}}
+            </dd>
           {% endfor %}
-        </td>
-      {% endif %}
-    </tr>
-  {% endfor %}
-{% endfor %}
-</table>
+      {% endfor %}
+      </dl>
+    </div>
+
+  </div>
+
+	<div class="medium-9 columns" id="main">
+    {% comment %}
+    <p>
+      {% for tag in tags %}
+        <a href="#{{ tag | slugify }}" class="codinfox-tag-mark"> {{ tag }} </a> &nbsp;&nbsp;
+      {% endfor %}
+    </p>
+
+    <hr>
+    {% endcomment %}
+
+    <h3>Note:</h3>
+    <ul>
+      <li>Tags on <span class="recipe">Recipes</span> are the recipe's "categories" from Paprika.</li>
+      <li>Tags on <span class="note">Notes</span> are manually entered in the Front Matter, <em>NOT the related recipe's "categories" from Paprika</em>.</li>
+      <li>Tags on <span class="post">Posts</span> and <span class="ppage">Pages</span> are manually entered in the Front Matter.</li>
+    </ul>
+
+    <hr>
+
+    <table>
+    {% for tag in tags %}
+      <tr><th colspan="5"><br><h4 id="{{ tag | slugify }}">{{ tag }}</h4></th></tr>
+      {% for doc in site.documents %}
+        <tr>
+          {% if doc.tags contains tag %}
+            <td valign="top" class="{{ doc.i_am }}">{{ doc.i_am | capitalize }}</td>
+            <td valign="top"><a href="{{ doc.url }}"><strong>{{ doc.title }}</strong></a></td>
+            {% comment %}<td valign="top"><small>{{ doc.date | date_to_string }}</small></td>{% endcomment %}
+            <td valign="top">Other&nbsp;tags:</td>
+            <td valign="top">
+              {% for ttag in doc.tags %}
+              {% if ttag != tag %}
+                <a class="codinfox-tag-mark" href="#{{ ttag | slugify }}">{{ ttag }}</a>{% unless forloop.last %}, {% endunless %}
+              {% endif %}
+              {% endfor %}
+            </td>
+          {% endif %}
+        </tr>
+      {% endfor %}
+    {% endfor %}
+    </table>
+
+  </div>
 
 </div>

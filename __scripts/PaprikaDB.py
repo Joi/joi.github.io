@@ -250,6 +250,7 @@ zipfile.ZipFile(path_db_bu, mode='w').write(path_db_full, arcname=file_db_bu, co
 # First, check if the temp folder already exists and if so delete it
 if os.path.exists(path_temp_working):
     shutil.rmtree(path_temp_working, ignore_errors=True) #nuke the temp working dir.
+# create a var here just to capture the useless out put of the copyfile() function
 shutil.copytree(path_db_med, path_temp_working) # and copy it over
 
 print ("✅ DATABASE Backed up\n")
@@ -867,7 +868,15 @@ for page_mkdn_file in sorted(os.listdir(path_pags_mkdn_files)):
             tags[tag]['rel_tags'] += [i for i in parsed_page_tags if i not in [tag]]
             #print(tag + ": " + json.dumps(tags[tag], indent=1) + "\n")
 
-
+# Alphabetically Grouped and Sorted Tags
+# Probably a better way to do this with comprehension or lambda/map…
+tags_alpha_grouped={}
+for tagag in tags:
+    tags_alpha_grouped.setdefault(tagag[0],[]).append(tagag)
+tags_alpha_grouped.pop('_')
+for k,v in tags_alpha_grouped.items():
+  tags_alpha_grouped[k] = sorted(v)
+sorted(tags_alpha_grouped)
 
 
 
@@ -887,9 +896,10 @@ print ("✅ MEALS JSON Indices Dumped\n")
 #write_json_file(tag_edgecases,path_json_data + "tag_edgecases.json")
 #print ("✅ TAG EDGECASES JSON Indices Dumped\n")
 
-# Tag Indices - for debug
-#write_json_file(tags,path_json_data + "tags.json")
-#print ("✅ TAGS JSON Indices Dumped\n")
+# Tag Indices Data Dump
+write_json_file(tags,path_json_data + "tags.json")
+write_json_file(tags_alpha_grouped,path_json_data + "tags_alpha_grouped.json")
+print ("✅ TAGS JSON Indices Dumped\n")
 
 
 # Loop to generate:
