@@ -1000,8 +1000,8 @@
    "513": "Dinner"
   },
   "2021-04-11": {
+   "39": "Pantry",
    "508": "Lunch",
-   "511": "Pantry",
    "512": "Lunch",
    "514": "Dinner"
   },
@@ -1048,7 +1048,8 @@
    "2020-06-11": "Lunch",
    "2020-08-17": "Dinner",
    "2021-01-22": "Dinner",
-   "2021-03-27": "Pantry"
+   "2021-03-27": "Pantry",
+   "2021-04-11": "Pantry"
   },
   "43": {
    "2020-04-13": "Dinner"
@@ -1965,9 +1966,6 @@
   "510": {
    "2021-04-07": "Dinner"
   },
-  "511": {
-   "2021-04-11": "Pantry"
-  },
   "512": {
    "2021-04-11": "Lunch"
   },
@@ -2109,6 +2107,10 @@
     },
     {
      "date": "2021-03-27",
+     "type": "Pantry"
+    },
+    {
+     "date": "2021-04-11",
      "type": "Pantry"
     }
    ]
@@ -4774,7 +4776,7 @@
    "featured": [
     {
      "date": "2021-04-02",
-     "feature": "My first Beer Battered Fish",
+     "feature": "My First Beer Battered Fish",
      "type": "Dinner"
     }
    ]
@@ -4783,7 +4785,7 @@
    "featured": [
     {
      "date": "2021-04-02",
-     "feature": "My first Beer Battered Fish",
+     "feature": "My First Beer Battered Fish",
      "type": "Dinner"
     }
    ]
@@ -4792,7 +4794,7 @@
    "featured": [
     {
      "date": "2021-04-02",
-     "feature": "My first Beer Battered Fish",
+     "feature": "My First Beer Battered Fish",
      "type": "Dinner"
     }
    ]
@@ -4844,14 +4846,6 @@
     {
      "date": "2021-04-07",
      "type": "Dinner"
-    }
-   ]
-  },
-  "511": {
-   "nofile": [
-    {
-     "date": "2021-04-11",
-     "type": "Pantry"
     }
    ]
   },
@@ -6530,7 +6524,7 @@
     512
    ],
    "Pantry": [
-    511
+    39
    ]
   },
   "2021-04-12": {
