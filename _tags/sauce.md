@@ -78,8 +78,8 @@ recipes:
   title: Fried Sage Salsa Verde
 - mine: null
   permalink: /recipes/fry-sauce
-  photo_thumb: null
-  rating: 0
+  photo_thumb: fry-sauce-thumb.jpg
+  rating: 5
   title: Fry Sauce
 - mine: null
   permalink: /recipes/garlic-steak-with-horseradish-sauce-by-bobby-flay
@@ -239,6 +239,9 @@ rel_tags_count:
   spatchcocking:
   - 1
   - spatchcocking
+  spread:
+  - 1
+  - spread
   steaks:
   - 2
   - steaks

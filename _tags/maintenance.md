@@ -11,7 +11,7 @@ rel_tags_count:
   - knives
   knowledge-management:
   - 1
-  - knowledge-management
+  - knowledge management
   razors:
   - 1
   - razors

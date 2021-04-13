@@ -1,0 +1,185 @@
+{
+ "a": [
+  "anova oven",
+  "asparagus",
+  "avocado"
+ ],
+ "b": [
+  "bbq",
+  "beef",
+  "beef back ribs",
+  "beef shank",
+  "beets",
+  "billows",
+  "bison",
+  "black cod",
+  "blue fish",
+  "bone",
+  "braising",
+  "branzino",
+  "bread and biscuits",
+  "breakfast",
+  "brisket"
+ ],
+ "c": [
+  "cauliflower",
+  "celery root",
+  "charts",
+  "chick steak",
+  "chicken",
+  "chickpeas",
+  "chinese",
+  "chuck roast",
+  "clams",
+  "confit",
+  "corn",
+  "crab",
+  "curry"
+ ],
+ "d": [
+  "duck"
+ ],
+ "e": [
+  "egg",
+  "endive"
+ ],
+ "f": [
+  "fish",
+  "flat iron",
+  "flounder",
+  "fluke",
+  "french"
+ ],
+ "g": [
+  "garnish",
+  "gear",
+  "grill",
+  "grilling",
+  "ground beef",
+  "ground pork"
+ ],
+ "h": [
+  "hake",
+  "halibut",
+  "hanger steak",
+  "healthy",
+  "heating"
+ ],
+ "i": [
+  "italian"
+ ],
+ "j": [
+  "jnat"
+ ],
+ "k": [
+  "kale",
+  "kio",
+  "knives",
+  "knowledge management"
+ ],
+ "l": [
+  "lamb",
+  "lobster"
+ ],
+ "m": [
+  "maintenance",
+  "meat",
+  "mexican",
+  "middle east",
+  "monkfish",
+  "mushroom",
+  "mussels"
+ ],
+ "n": [
+  "napa cabbage"
+ ],
+ "o": [
+  "oats",
+  "oxtail"
+ ],
+ "p": [
+  "pasta",
+  "pickles",
+  "pizza",
+  "pollack",
+  "pork",
+  "pork chops",
+  "pork shoulder",
+  "pork spare ribs",
+  "potato",
+  "pressure cooker",
+  "prime rib"
+ ],
+ "r": [
+  "razor",
+  "razors",
+  "recipe",
+  "red onions",
+  "reverse sear",
+  "ribs",
+  "rice",
+  "roast",
+  "roasting"
+ ],
+ "s": [
+  "salad",
+  "salmon",
+  "salsa",
+  "sandwich",
+  "sauce",
+  "sausage",
+  "scallops",
+  "science",
+  "seafood",
+  "seasoning",
+  "sharpening",
+  "short ribs",
+  "shrimp",
+  "skate wings",
+  "smoking",
+  "soft-shell crabs",
+  "sole",
+  "sorrel",
+  "soup",
+  "spatchcocking",
+  "spread",
+  "spring onion",
+  "squid",
+  "steak",
+  "steaks",
+  "stew",
+  "striped bass",
+  "sweet potato",
+  "swiss chard",
+  "swordfish",
+  "synthetic-stones"
+ ],
+ "t": [
+  "temperature",
+  "tenderloin",
+  "thai",
+  "tofu",
+  "tomato",
+  "tongue",
+  "tools",
+  "top round roast",
+  "truffles",
+  "tuna",
+  "turkey"
+ ],
+ "v": [
+  "veal",
+  "vegetables"
+ ],
+ "w": [
+  "wagyu",
+  "white fish"
+ ],
+ "y": [
+  "yellow squash",
+  "yellow tail"
+ ],
+ "z": [
+  "zucchini"
+ ]
+}

@@ -3,6 +3,11 @@ title: Spread
 tag_key: spread
 recipes:
 - mine: null
+  permalink: /recipes/fry-sauce
+  photo_thumb: fry-sauce-thumb.jpg
+  rating: 5
+  title: Fry Sauce
+- mine: null
   permalink: /recipes/guacamole
   photo_thumb: guacamole-thumb.jpg
   rating: 3
@@ -22,6 +27,9 @@ recipes:
   photo_thumb: ultracreamy-hummus-thumb.jpg
   rating: 0
   title: Ultracreamy Hummus
-rel_tags_count: {}
+rel_tags_count:
+  sauce:
+  - 1
+  - sauce
 
 ---

@@ -53,6 +53,11 @@ recipes:
   rating: 5
   title: Chicken with Vinegar
 - mine: 1
+  permalink: /recipes/fry-sauce
+  photo_thumb: fry-sauce-thumb.jpg
+  rating: 5
+  title: Fry Sauce
+- mine: 1
   permalink: /recipes/ginisang-pechay-with-ground-pork-and-shrimp
   photo_thumb: ginisang-pechay-with-ground-pork-and-shrimp-thumb.jpg
   rating: 5
@@ -226,7 +231,7 @@ rel_tags_count:
   - 1
   - salmon
   sauce:
-  - 7
+  - 8
   - sauce
   seafood:
   - 1
@@ -241,7 +246,7 @@ rel_tags_count:
   - 2
   - soup
   spread:
-  - 1
+  - 2
   - spread
   steaks:
   - 1

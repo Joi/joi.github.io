@@ -1,6 +1,9 @@
 ---
 title: Meat and Temperatures
-tags: temperature meat
+tags:
+  - temperature
+  - meat
+  - chemistry
 ---
 As I've started dialing in and experimenting with cooking meats, I've settled roughly on the following pattern:
 

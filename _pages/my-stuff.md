@@ -1,6 +1,7 @@
 ---
 title: My Stuff
-tags: tools
+tags:
+  - gear
 ---
 - [[My Whetstones]] - My whetstone collection
 - [[my-thermometers|My Thermometers]]

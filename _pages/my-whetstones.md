@@ -1,6 +1,9 @@
 ---
 title: My Whetstones
-tags: sharpening jnat synthetic-stones tools
+tags:
+  - sharpening
+  - jnat
+  - gear
 ---
 ---
 ![Awasedo](/images/awasedo-001.jpeg)

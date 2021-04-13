@@ -1,6 +1,8 @@
 ---
 title: Whetstones
-tags: sharpening jnat tools
+tags:
+  - jnat
+  - sharpening
 ---
 
 Whetstones are stones used in the [[Sharpening and Honing]] of knives, tools and razors.

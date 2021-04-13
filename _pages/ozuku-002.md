@@ -1,6 +1,8 @@
 ---
 title: Ozuku Very Hard Mizu Tomae
-tags: jnat
+tags:
+  - jnat
+  - sharpening
 ---
 ![Ozuku Very Hard Mizu Tomae](/images/ozuku-002.jpeg)
 

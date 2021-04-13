@@ -1,5 +1,5 @@
 ---
-title: Knowledge-Management
+title: Knowledge Management
 tag_key: knowledge-management
 pages:
 - Knowledge and Task Management

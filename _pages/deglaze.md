@@ -1,5 +1,6 @@
 ---
 title: Deglazing
+tags: chemistry
 ---
 Adding wine or other liquid to a pan after searing or browning meat or vegetables to help dissolve and remove the brown bits stuck to the pan. These brown bits are very tasty but can burn and become not-tasty.
 

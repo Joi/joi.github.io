@@ -1,6 +1,8 @@
 ---
 title: Thermometers
-tags: tools
+tags:
+  - gear
+  - temperature
 ---
 ![Thermometer](/images/spatchcocked-thermometer.jpeg)
 

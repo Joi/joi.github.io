@@ -1,6 +1,8 @@
 ---
 title: Shobudani Awasedo
-tags: jnat
+tags:
+  - jnat
+  - sharpening
 ---
 
 ![Shobudani Awasedo](/images/shobudani-001.jpeg)

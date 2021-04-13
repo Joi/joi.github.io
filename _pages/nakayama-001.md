@@ -1,6 +1,8 @@
 ---
 title: Nakayama Mizu Tomae
-tags: jnat
+tags:
+  - jnat
+  - sharpening
 ---
 ![Nakayama Mizu Tomae](/images/nakayama-001.jpeg)
 

@@ -1,6 +1,10 @@
 ---
 title: Reverse Sear
-tags: grilling science roasting bbq
+tags:
+  - grilling
+  - chemistry
+  - roasting
+  - BBQ
 ---
 Inspired by sous vide many people have started to slow cook meat before searing it. Unlike sous vide which controls the temperature by immersing a vacuum sealed bag or jar in warm water where the temperature is controlled, reverse sear is done in an oven on low heat or on the cool side of a grill.
 

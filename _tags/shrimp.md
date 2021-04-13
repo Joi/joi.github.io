@@ -108,6 +108,11 @@ recipes:
   photo_thumb: thai-shrimp-curry-thumb.jpg
   rating: 0
   title: Thai Shrimp Curry
+- mine: null
+  permalink: /recipes/vietnamese-caramelized-shrimp-tom-rim
+  photo_thumb: vietnamese-caramelized-shrimp-tom-rim-thumb.jpg
+  rating: 0
+  title: Vietnamese Caramelized Shrimp (Tom Rim)
 rel_tags_count:
   bbq:
   - 1

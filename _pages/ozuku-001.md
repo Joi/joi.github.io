@@ -1,6 +1,8 @@
 ---
 title: Ozuku Hard Asagi
-tags: jnat
+tags:
+  - jnat
+  - sharpening
 ---
 ![Ozuku Hard Asagi](/images/ozuku-001.jpeg)
 

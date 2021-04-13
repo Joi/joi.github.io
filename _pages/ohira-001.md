@@ -1,6 +1,8 @@
 ---
 title: Ohira Asagi
-tags: jnat
+tags:
+  - jnat
+  - sharpening
 ---
 ![Ohira Asagi](/images/ohira-001.jpeg)
 

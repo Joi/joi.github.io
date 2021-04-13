@@ -1,6 +1,8 @@
 ---
 title: Hideriyama Renga Suita
-tags: jnat
+tags:
+  - jnat
+  - sharpening
 ---
 ![Hideriyama Renga Suita](/images/hideriyama-001.jpeg)
 

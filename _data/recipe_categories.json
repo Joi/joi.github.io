@@ -10,6 +10,7 @@
   "burger": "Burger",
   "chicken-stock": "Chicken Stock",
   "chicken-with-vinegar": "Chicken with Vinegar",
+  "fry-sauce": "Fry Sauce",
   "ginisang-pechay-with-ground-pork-and-shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
   "ginisang-pechay-with-tofu": "Ginisang Pechay with Tofu",
   "grill-smoked-fish": "Grill Smoked Fish",
@@ -714,7 +715,8 @@
   "southern-shrimp-scampi": "Southern Shrimp Scampi",
   "stir-fried-shrimp-and-broccoli": "Stir-Fried Shrimp and Broccoli",
   "thai-coconut-shrimp-curry": "Thai Coconut Shrimp Curry",
-  "thai-shrimp-curry": "Thai Shrimp Curry"
+  "thai-shrimp-curry": "Thai Shrimp Curry",
+  "vietnamese-caramelized-shrimp-tom-rim": "Vietnamese Caramelized Shrimp (Tom Rim)"
  },
  "skate wings": {
   "hongeojjim-steamed-skate-fish": "Hongeojjim (Steamed Skate Fish)",
@@ -758,6 +760,7 @@
   "the-best-chili-ever": "The Best Chili Ever"
  },
  "spread": {
+  "fry-sauce": "Fry Sauce",
   "guacamole": "Guacamole",
   "hummus-ilan-hall": "Hummus (Ilan Hall)",
   "mayonnaise": "Mayonnaise",

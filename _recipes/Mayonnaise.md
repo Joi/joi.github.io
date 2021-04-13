@@ -40,7 +40,7 @@ type: null
 uid: D5E799CA-BA36-4A30-B385-9CD111E6F9A5-25037-0000A0DF30640117
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
-<div class="box box-notes"><p>Interesting immersion blender version from Kenji Lopez https://youtu.be/9TnIeYc2CWU</p>
+<div class="box box-notes"><p><a href="https://youtu.be/9TnIeYc2CWU">Interesting immersion blender version from Kenji Lopez</a></p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>

@@ -1,6 +1,9 @@
 ---
 title: Doneness
-tags: grilling bbq
+tags:
+  - grilling
+  - BBQ
+  - chemistry
 ---
 There are many ways to check for doneness and your mileage may vary, but becoming proficient at doneness is a key to cooking success. Timing helps, but with all of the variability of cooking systems, you must rely on your own tests of doneness.
 
