@@ -4,7 +4,7 @@ tag_key: beef
 notes:
   feature:
   - date: '2020-08-12'
-    feature: Reverse sear again
+    feature: Reverse Sear Again
     type: dinner
     uri_path: /2020/08/12/notes/dinner.html
   - date: '2020-08-17'
@@ -12,7 +12,7 @@ notes:
     type: dinner
     uri_path: /2020/08/17/notes/dinner.html
   - date: '2020-10-04'
-    feature: Timing a bigger Prime Rib
+    feature: Timing a Bigger Prime Rib
     type: dinner
     uri_path: /2020/10/04/notes/dinner.html
   - date: '2020-10-18'
@@ -23,6 +23,9 @@ notes:
   - date: '2020-07-25'
     type: dinner
     uri_path: /2020/07/25/notes/dinner.html
+  - date: '2020-09-03'
+    type: dinner
+    uri_path: /2020/09/03/notes/dinner.html
   - date: '2020-10-29'
     type: dinner
     uri_path: /2020/10/29/notes/dinner.html
@@ -168,6 +171,9 @@ rel_tags_count:
   bison:
   - 3
   - bison
+  braise:
+  - 1
+  - braise
   brisket:
   - 2
   - brisket
@@ -192,11 +198,14 @@ rel_tags_count:
   pasta:
   - 1
   - pasta
+  pressure-cooker:
+  - 1
+  - pressure cooker
   prime-rib:
   - 3
   - prime rib
   recipe:
-  - 2
+  - 1
   - recipe
   reverse-sear:
   - 2

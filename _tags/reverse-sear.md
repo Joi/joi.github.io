@@ -4,11 +4,11 @@ tag_key: reverse-sear
 notes:
   feature:
   - date: '2020-08-12'
-    feature: Reverse sear again
+    feature: Reverse Sear Again
     type: dinner
     uri_path: /2020/08/12/notes/dinner.html
   - date: '2020-10-04'
-    feature: Timing a bigger Prime Rib
+    feature: Timing a Bigger Prime Rib
     type: dinner
     uri_path: /2020/10/04/notes/dinner.html
   rough:

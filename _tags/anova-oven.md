@@ -8,7 +8,7 @@ notes:
     type: dinner
     uri_path: /2020/12/07/notes/dinner.html
   - date: '2020-12-20'
-    feature: Bone-in rib roast with Anova sous vide
+    feature: Bone-in Rib Roast with Anova Sous Vide
     type: dinner
     uri_path: /2020/12/20/notes/dinner.html
   rough: []

@@ -4,7 +4,7 @@ tag_key: top-round-roast
 notes:
   feature:
   - date: '2020-12-26'
-    feature: Top round roast - too tough
+    feature: Top Round Roast - Too Tough
     type: dinner
     uri_path: /2020/12/26/notes/dinner.html
   rough: []

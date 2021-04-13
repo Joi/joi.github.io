@@ -8,7 +8,7 @@ notes:
     type: dinner
     uri_path: /2020/10/18/notes/dinner.html
   - date: '2020-10-21'
-    feature: Trying billows again with smoked fish
+    feature: Trying Billows Again with Smoked Fish
     type: dinner
     uri_path: /2020/10/21/notes/dinner.html
   - date: '2020-11-22'

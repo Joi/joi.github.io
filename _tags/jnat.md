@@ -14,17 +14,14 @@ pages:
 - Slurry
 - Whetstones
 rel_tags_count:
+  gear:
+  - 1
+  - gear
   razor:
   - 1
   - razor
   sharpening:
-  - 4
+  - 10
   - sharpening
-  synthetic-stones:
-  - 1
-  - synthetic-stones
-  tools:
-  - 2
-  - tools
 
 ---

@@ -93,6 +93,9 @@ rel_tags_count:
   beef:
   - 3
   - beef
+  chemistry:
+  - 1
+  - chemistry
   chicken:
   - 3
   - chicken

@@ -2,14 +2,23 @@
 title: Sharpening
 tag_key: sharpening
 pages:
+- Hideriyama Renga Suita
 - Mikawa Nagura
 - My Whetstones
+- Nakayama Mizu Tomae
+- Ohira Asagi
+- Ozuku Hard Asagi
+- Ozuku Very Hard Mizu Tomae
 - Sharpening and Honing
+- Shobudani Awasedo
 - Slurry
 - Whetstones
 rel_tags_count:
+  gear:
+  - 2
+  - gear
   jnat:
-  - 4
+  - 10
   - jnat
   knives:
   - 1
@@ -23,11 +32,5 @@ rel_tags_count:
   razors:
   - 1
   - razors
-  synthetic-stones:
-  - 1
-  - synthetic-stones
-  tools:
-  - 3
-  - tools
 
 ---

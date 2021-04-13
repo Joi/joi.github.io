@@ -4,7 +4,7 @@ tag_key: pizza
 notes:
   feature:
   - date: '2021-04-03'
-    feature: White pizza with rosemary
+    feature: White Pizza with Rosemary
     type: lunch
     uri_path: /2021/04/03/notes/lunch.html
   rough: []

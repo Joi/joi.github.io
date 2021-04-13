@@ -6,6 +6,9 @@ pages:
 - Maintenance
 - Sharpening and Honing
 rel_tags_count:
+  gear:
+  - 1
+  - gear
   knives:
   - 1
   - knives
@@ -19,7 +22,7 @@ rel_tags_count:
   - 1
   - sharpening
   tools:
-  - 2
+  - 1
   - tools
 
 ---

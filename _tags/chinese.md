@@ -4,7 +4,7 @@ tag_key: chinese
 notes:
   feature:
   - date: '2021-04-03'
-    feature: Finally with all of the right sauces
+    feature: Finally with All of the Right Sauces
     type: dinner
     uri_path: /2021/04/03/notes/dinner.html
   rough:

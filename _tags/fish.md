@@ -4,7 +4,7 @@ tag_key: fish
 notes:
   feature:
   - date: '2021-04-02'
-    feature: My first beer battered fish
+    feature: My first Beer Battered Fish
     type: dinner
     uri_path: /2021/04/02/notes/dinner.html
   rough: []

@@ -4,6 +4,9 @@ tag_key: heating
 pages:
 - Leidenfrost effect
 rel_tags_count:
+  chemistry:
+  - 1
+  - chemistry
   temperature:
   - 1
   - temperature

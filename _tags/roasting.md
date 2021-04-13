@@ -19,15 +19,15 @@ rel_tags_count:
   braising:
   - 1
   - braising
+  chemistry:
+  - 2
+  - chemistry
   chicken:
   - 1
   - chicken
   grilling:
   - 3
   - grilling
-  science:
-  - 2
-  - science
   spatchcocking:
   - 1
   - spatchcocking

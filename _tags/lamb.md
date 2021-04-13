@@ -4,11 +4,11 @@ tag_key: lamb
 notes:
   feature:
   - date: '2021-04-04'
-    feature: Slow-roased lamb leg
+    feature: Slow-roased Lamb Leg
     type: dinner
     uri_path: /2021/04/04/notes/dinner.html
   - date: '2021-04-05'
-    feature: Lamb Tagine with left over roast lamb leg
+    feature: Lamb Tagine with Left-Over Roast Lamb Leg
     type: dinner
     uri_path: /2021/04/05/notes/dinner.html
   rough:

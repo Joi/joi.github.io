@@ -1,6 +1,6 @@
 ---
-title: Stew
-tag_key: stew
+title: Braise
+tag_key: braise
 notes:
   feature: []
   rough:
@@ -11,8 +11,8 @@ rel_tags_count:
   beef:
   - 1
   - beef
-  braise:
+  stew:
   - 1
-  - braise
+  - stew
 
 ---

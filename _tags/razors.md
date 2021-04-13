@@ -4,6 +4,9 @@ tag_key: razors
 pages:
 - Sharpening and Honing
 rel_tags_count:
+  gear:
+  - 1
+  - gear
   knives:
   - 1
   - knives
@@ -13,8 +16,5 @@ rel_tags_count:
   sharpening:
   - 1
   - sharpening
-  tools:
-  - 1
-  - tools
 
 ---

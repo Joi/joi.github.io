@@ -16,15 +16,15 @@ rel_tags_count:
   braising:
   - 1
   - braising
+  chemistry:
+  - 4
+  - chemistry
   chicken:
   - 1
   - chicken
   roasting:
   - 3
   - roasting
-  science:
-  - 2
-  - science
   smoking:
   - 1
   - smoking

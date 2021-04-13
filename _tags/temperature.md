@@ -4,7 +4,7 @@ tag_key: temperature
 notes:
   feature:
   - date: '2020-10-21'
-    feature: Trying billows again with smoked fish
+    feature: Trying Billows Again with Smoked Fish
     type: dinner
     uri_path: /2020/10/21/notes/dinner.html
   - date: '2020-11-22'
@@ -15,6 +15,7 @@ notes:
 pages:
 - Leidenfrost effect
 - Meat and Temperatures
+- Thermometers
 rel_tags_count:
   bbq:
   - 2
@@ -22,6 +23,12 @@ rel_tags_count:
   billows:
   - 2
   - billows
+  chemistry:
+  - 2
+  - chemistry
+  gear:
+  - 1
+  - gear
   heating:
   - 1
   - heating

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2020-09-23-zettlekasten-choose-adventure.md",
+            "file": "_posts/2020-07-27-kamisori-razors.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-09-23-zettlekasten-choose-adventure.md",
+                "file": "_posts/2020-07-27-kamisori-razors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "3719bcb9f4d045af",
   "lastOpenFiles": [
-    "_posts/2020-09-23-zettlekasten-choose-adventure.md",
-    "_posts/2020-09-14-bees-wax-and-cutting-boards.md",
-    "_posts/2020-07-29-sharpening-honing-stropping.md",
     "_posts/2020-07-27-kamisori-razors.md",
-    "_posts/2020-07-24-getting-back-into-sharpening-honing.md",
-    "_posts/2020-07-10-health.md",
-    "_pages/whetstones.md",
-    "_pages/volume-weight-temp.md",
-    "_pages/thermometers.md",
-    "_pages/spatchcocking.md"
+    "_notes/2021-04-05-dinner.md",
+    "_notes/2021-04-04-dinner.md",
+    "_notes/2021-04-03-lunch.md",
+    "_notes/2021-04-03-dinner.md",
+    "_notes/2021-04-02-dinner.md",
+    "_notes/2021-03-27-dinner.md",
+    "_notes/2021-03-24-dinner.md",
+    "_notes/2021-03-20-dinner.md",
+    "_notes/2021-03-18-dinner.md"
   ]
 }

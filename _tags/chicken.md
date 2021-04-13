@@ -4,11 +4,11 @@ tag_key: chicken
 notes:
   feature:
   - date: '2020-07-23'
-    feature: Lots about chicken
+    feature: Lots about Chicken
     type: dinner
     uri_path: /2020/07/23/notes/dinner.html
   - date: '2020-12-17'
-    feature: Spatchcocked chicken in Anova
+    feature: Spatchcocked Chicken in Anova
     type: dinner
     uri_path: /2020/12/17/notes/dinner.html
   rough:

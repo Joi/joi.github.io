@@ -4,7 +4,7 @@ title: Japanese Kamisori Razors
 tags:
   - jnat
   - sharpening
-  = razors
+  - razors
 ---
 As I tumble down the rat hole of [[sharpening-and-honing]], I stumbled into the rat hole that is Japanese kamisori razors. They are similar to the straight single edged razors in the West, but they only have one side beveled - similar to Japanese swords. Apparently the were introduced into Japan when monks brought razors to shave their heads. Shaving men's faces came with the Western influence of the Meiji Restoration. The Japanese *kamisori* or razor is made like a Japanese knife or sword. When low cost sharp razors came onto the market, *kamisori* mostly disappeared. Sharpening them takes a long time and a lot of expertise and they are expensive to make.
 

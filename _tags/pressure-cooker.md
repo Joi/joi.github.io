@@ -17,6 +17,9 @@ recipes:
   rating: 4
   title: Pressure Cooker Halibut Fillets with Tomatoes and Olives
 rel_tags_count:
+  beef:
+  - 1
+  - beef
   chicken:
   - 1
   - chicken

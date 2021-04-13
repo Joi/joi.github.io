@@ -13,6 +13,9 @@ rel_tags_count:
   bbq:
   - 1
   - bbq
+  chemistry:
+  - 1
+  - chemistry
   chicken:
   - 1
   - chicken
@@ -22,8 +25,5 @@ rel_tags_count:
   roasting:
   - 1
   - roasting
-  science:
-  - 1
-  - science
 
 ---

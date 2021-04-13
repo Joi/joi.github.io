@@ -448,7 +448,7 @@
     },
     {
      "date": "2020-12-20",
-     "feature": "Bone-in rib roast with Anova sous vide",
+     "feature": "Bone-in Rib Roast with Anova Sous Vide",
      "type": "dinner",
      "uri_path": "/2020/12/20/notes/dinner.html"
     }
@@ -568,7 +568,7 @@
     },
     {
      "date": "2020-10-21",
-     "feature": "Trying billows again with smoked fish",
+     "feature": "Trying Billows Again with Smoked Fish",
      "type": "dinner",
      "uri_path": "/2020/10/21/notes/dinner.html"
     },
@@ -656,6 +656,10 @@
     1,
     "braising"
    ],
+   "chemistry": [
+    3,
+    "chemistry"
+   ],
    "chicken": [
     1,
     "chicken"
@@ -683,10 +687,6 @@
    "sauce": [
     3,
     "sauce"
-   ],
-   "science": [
-    2,
-    "science"
    ],
    "seafood": [
     1,
@@ -719,7 +719,7 @@
    "feature": [
     {
      "date": "2020-08-12",
-     "feature": "Reverse sear again",
+     "feature": "Reverse Sear Again",
      "type": "dinner",
      "uri_path": "/2020/08/12/notes/dinner.html"
     },
@@ -731,7 +731,7 @@
     },
     {
      "date": "2020-10-04",
-     "feature": "Timing a bigger Prime Rib",
+     "feature": "Timing a Bigger Prime Rib",
      "type": "dinner",
      "uri_path": "/2020/10/04/notes/dinner.html"
     },
@@ -747,6 +747,11 @@
      "date": "2020-07-25",
      "type": "dinner",
      "uri_path": "/2020/07/25/notes/dinner.html"
+    },
+    {
+     "date": "2020-09-03",
+     "type": "dinner",
+     "uri_path": "/2020/09/03/notes/dinner.html"
     },
     {
      "date": "2020-10-29",
@@ -955,6 +960,10 @@
     3,
     "bison"
    ],
+   "braise": [
+    1,
+    "braise"
+   ],
    "brisket": [
     2,
     "brisket"
@@ -987,12 +996,16 @@
     1,
     "pasta"
    ],
+   "pressure-cooker": [
+    1,
+    "pressure cooker"
+   ],
    "prime-rib": [
     3,
     "prime rib"
    ],
    "recipe": [
-    2,
+    1,
     "recipe"
    ],
    "reverse-sear": [
@@ -1121,7 +1134,7 @@
     },
     {
      "date": "2020-10-21",
-     "feature": "Trying billows again with smoked fish",
+     "feature": "Trying Billows Again with Smoked Fish",
      "type": "dinner",
      "uri_path": "/2020/10/21/notes/dinner.html"
     },
@@ -1310,6 +1323,28 @@
    ]
   }
  },
+ "braise": {
+  "notes": {
+   "feature": [],
+   "rough": [
+    {
+     "date": "2021-01-10",
+     "type": "dinner",
+     "uri_path": "/2021/01/10/notes/dinner.html"
+    }
+   ]
+  },
+  "rel_tags_count": {
+   "beef": [
+    1,
+    "beef"
+   ],
+   "stew": [
+    1,
+    "stew"
+   ]
+  }
+ },
  "braising": {
   "notes": {
    "feature": [],
@@ -1329,6 +1364,10 @@
     1,
     "bbq"
    ],
+   "chemistry": [
+    1,
+    "chemistry"
+   ],
    "chicken": [
     1,
     "chicken"
@@ -1340,10 +1379,6 @@
    "roasting": [
     1,
     "roasting"
-   ],
-   "science": [
-    1,
-    "science"
    ]
   }
  },
@@ -1584,6 +1619,47 @@
   ],
   "rel_tags_count": {}
  },
+ "chemistry": {
+  "pages": [
+   "Deglazing",
+   "Doneness",
+   "Evaporation Effect",
+   "Grilling",
+   "Leidenfrost effect",
+   "Meat and Temperatures",
+   "Reverse Sear"
+  ],
+  "rel_tags_count": {
+   "bbq": [
+    3,
+    "bbq"
+   ],
+   "braising": [
+    1,
+    "braising"
+   ],
+   "grilling": [
+    4,
+    "grilling"
+   ],
+   "heating": [
+    1,
+    "heating"
+   ],
+   "meat": [
+    1,
+    "meat"
+   ],
+   "roasting": [
+    2,
+    "roasting"
+   ],
+   "temperature": [
+    2,
+    "temperature"
+   ]
+  }
+ },
  "chick steak": {
   "recipes": [
    {
@@ -1601,13 +1677,13 @@
    "feature": [
     {
      "date": "2020-07-23",
-     "feature": "Lots about chicken",
+     "feature": "Lots about Chicken",
      "type": "dinner",
      "uri_path": "/2020/07/23/notes/dinner.html"
     },
     {
      "date": "2020-12-17",
-     "feature": "Spatchcocked chicken in Anova",
+     "feature": "Spatchcocked Chicken in Anova",
      "type": "dinner",
      "uri_path": "/2020/12/17/notes/dinner.html"
     }
@@ -2128,7 +2204,7 @@
    "feature": [
     {
      "date": "2021-04-03",
-     "feature": "Finally with all of the right sauces",
+     "feature": "Finally with All of the Right Sauces",
      "type": "dinner",
      "uri_path": "/2021/04/03/notes/dinner.html"
     }
@@ -2358,11 +2434,6 @@
    "feature": [],
    "rough": [
     {
-     "date": "2020-07-03",
-     "type": "dinner",
-     "uri_path": "/2020/07/03/notes/dinner.html"
-    },
-    {
      "date": "2020-08-06",
      "type": "dinner",
      "uri_path": "/2020/08/06/notes/dinner.html"
@@ -2370,9 +2441,9 @@
    ]
   },
   "rel_tags_count": {
-   "tuna": [
-    2,
-    "tuna"
+   "cuna": [
+    1,
+    "cuna"
    ]
   }
  },
@@ -2484,6 +2555,24 @@
    "shrimp": [
     1,
     "shrimp"
+   ]
+  }
+ },
+ "cuna": {
+  "notes": {
+   "feature": [],
+   "rough": [
+    {
+     "date": "2020-08-06",
+     "type": "dinner",
+     "uri_path": "/2020/08/06/notes/dinner.html"
+    }
+   ]
+  },
+  "rel_tags_count": {
+   "confit": [
+    1,
+    "confit"
    ]
   }
  },
@@ -2741,7 +2830,7 @@
    "feature": [
     {
      "date": "2021-04-02",
-     "feature": "My first beer battered fish",
+     "feature": "My first Beer Battered Fish",
      "type": "dinner",
      "uri_path": "/2021/04/02/notes/dinner.html"
     }
@@ -3202,9 +3291,38 @@
  "gear": {
   "pages": [
    "Gear",
-   "My Thermometers"
+   "My Stuff",
+   "My Thermometers",
+   "My Whetstones",
+   "Sharpening and Honing",
+   "Thermometers"
   ],
-  "rel_tags_count": {}
+  "rel_tags_count": {
+   "jnat": [
+    1,
+    "jnat"
+   ],
+   "knives": [
+    1,
+    "knives"
+   ],
+   "maintenance": [
+    1,
+    "maintenance"
+   ],
+   "razors": [
+    1,
+    "razors"
+   ],
+   "sharpening": [
+    2,
+    "sharpening"
+   ],
+   "temperature": [
+    1,
+    "temperature"
+   ]
+  }
  },
  "grill": {
   "recipes": [
@@ -3257,6 +3375,10 @@
     1,
     "braising"
    ],
+   "chemistry": [
+    4,
+    "chemistry"
+   ],
    "chicken": [
     1,
     "chicken"
@@ -3264,10 +3386,6 @@
    "roasting": [
     3,
     "roasting"
-   ],
-   "science": [
-    2,
-    "science"
    ],
    "smoking": [
     1,
@@ -3627,6 +3745,10 @@
    "Leidenfrost effect"
   ],
   "rel_tags_count": {
+   "chemistry": [
+    1,
+    "chemistry"
+   ],
    "temperature": [
     1,
     "temperature"
@@ -3789,21 +3911,17 @@
    "Whetstones"
   ],
   "rel_tags_count": {
+   "gear": [
+    1,
+    "gear"
+   ],
    "razor": [
     1,
     "razor"
    ],
    "sharpening": [
-    4,
+    10,
     "sharpening"
-   ],
-   "synthetic-stones": [
-    1,
-    "synthetic-stones"
-   ],
-   "tools": [
-    2,
-    "tools"
    ]
   }
  },
@@ -3875,6 +3993,10 @@
    "Sharpening and Honing"
   ],
   "rel_tags_count": {
+   "gear": [
+    1,
+    "gear"
+   ],
    "maintenance": [
     1,
     "maintenance"
@@ -3886,10 +4008,6 @@
    "sharpening": [
     1,
     "sharpening"
-   ],
-   "tools": [
-    1,
-    "tools"
    ]
   }
  },
@@ -3909,13 +4027,13 @@
    "feature": [
     {
      "date": "2021-04-04",
-     "feature": "Slow-roased lamb leg",
+     "feature": "Slow-roased Lamb Leg",
      "type": "dinner",
      "uri_path": "/2021/04/04/notes/dinner.html"
     },
     {
      "date": "2021-04-05",
-     "feature": "Lamb Tagine with left over roast lamb leg",
+     "feature": "Lamb Tagine with Left-Over Roast Lamb Leg",
      "type": "dinner",
      "uri_path": "/2021/04/05/notes/dinner.html"
     }
@@ -4177,6 +4295,10 @@
    "Sharpening and Honing"
   ],
   "rel_tags_count": {
+   "gear": [
+    1,
+    "gear"
+   ],
    "knives": [
     1,
     "knives"
@@ -4194,7 +4316,7 @@
     "sharpening"
    ],
    "tools": [
-    2,
+    1,
     "tools"
    ]
   }
@@ -4328,6 +4450,10 @@
    "beef": [
     3,
     "beef"
+   ],
+   "chemistry": [
+    1,
+    "chemistry"
    ],
    "chicken": [
     3,
@@ -4593,6 +4719,19 @@
     "steaks"
    ]
   }
+ },
+ "mushrooms": {
+  "notes": {
+   "feature": [],
+   "rough": [
+    {
+     "date": "2021-03-16",
+     "type": "dinner",
+     "uri_path": "/2021/03/16/notes/dinner.html"
+    }
+   ]
+  },
+  "rel_tags_count": {}
  },
  "mussels": {
   "recipes": [
@@ -4864,7 +5003,7 @@
    "feature": [
     {
      "date": "2021-04-03",
-     "feature": "White pizza with rosemary",
+     "feature": "White Pizza with Rosemary",
      "type": "lunch",
      "uri_path": "/2021/04/03/notes/lunch.html"
     }
@@ -5202,6 +5341,10 @@
    }
   ],
   "rel_tags_count": {
+   "beef": [
+    1,
+    "beef"
+   ],
    "chicken": [
     1,
     "chicken"
@@ -5231,7 +5374,7 @@
     },
     {
      "date": "2020-10-04",
-     "feature": "Timing a bigger Prime Rib",
+     "feature": "Timing a Bigger Prime Rib",
      "type": "dinner",
      "uri_path": "/2020/10/04/notes/dinner.html"
     },
@@ -5243,7 +5386,7 @@
     },
     {
      "date": "2020-12-20",
-     "feature": "Bone-in rib roast with Anova sous vide",
+     "feature": "Bone-in Rib Roast with Anova Sous Vide",
      "type": "dinner",
      "uri_path": "/2020/12/20/notes/dinner.html"
     }
@@ -5344,6 +5487,10 @@
    "Sharpening and Honing"
   ],
   "rel_tags_count": {
+   "gear": [
+    1,
+    "gear"
+   ],
    "knives": [
     1,
     "knives"
@@ -5355,10 +5502,6 @@
    "sharpening": [
     1,
     "sharpening"
-   ],
-   "tools": [
-    1,
-    "tools"
    ]
   }
  },
@@ -5370,17 +5513,12 @@
      "date": "2020-10-29",
      "type": "dinner",
      "uri_path": "/2020/10/29/notes/dinner.html"
-    },
-    {
-     "date": "2021-03-18",
-     "type": "dinner",
-     "uri_path": "/2021/03/18/notes/dinner.html"
     }
    ]
   },
   "rel_tags_count": {
    "beef": [
-    2,
+    1,
     "beef"
    ]
   }
@@ -5407,13 +5545,13 @@
    "feature": [
     {
      "date": "2020-08-12",
-     "feature": "Reverse sear again",
+     "feature": "Reverse Sear Again",
      "type": "dinner",
      "uri_path": "/2020/08/12/notes/dinner.html"
     },
     {
      "date": "2020-10-04",
-     "feature": "Timing a bigger Prime Rib",
+     "feature": "Timing a Bigger Prime Rib",
      "type": "dinner",
      "uri_path": "/2020/10/04/notes/dinner.html"
     }
@@ -5529,7 +5667,7 @@
     },
     {
      "date": "2020-10-04",
-     "feature": "Timing a bigger Prime Rib",
+     "feature": "Timing a Bigger Prime Rib",
      "type": "dinner",
      "uri_path": "/2020/10/04/notes/dinner.html"
     },
@@ -5541,25 +5679,25 @@
     },
     {
      "date": "2020-12-17",
-     "feature": "Spatchcocked chicken in Anova",
+     "feature": "Spatchcocked Chicken in Anova",
      "type": "dinner",
      "uri_path": "/2020/12/17/notes/dinner.html"
     },
     {
      "date": "2020-12-20",
-     "feature": "Bone-in rib roast with Anova sous vide",
+     "feature": "Bone-in Rib Roast with Anova Sous Vide",
      "type": "dinner",
      "uri_path": "/2020/12/20/notes/dinner.html"
     },
     {
      "date": "2020-12-26",
-     "feature": "Top round roast - too tough",
+     "feature": "Top Round Roast - Too Tough",
      "type": "dinner",
      "uri_path": "/2020/12/26/notes/dinner.html"
     },
     {
      "date": "2021-04-04",
-     "feature": "Slow-roased lamb leg",
+     "feature": "Slow-roased Lamb Leg",
      "type": "dinner",
      "uri_path": "/2021/04/04/notes/dinner.html"
     }
@@ -5634,6 +5772,10 @@
     1,
     "braising"
    ],
+   "chemistry": [
+    2,
+    "chemistry"
+   ],
    "chicken": [
     1,
     "chicken"
@@ -5641,10 +5783,6 @@
    "grilling": [
     3,
     "grilling"
-   ],
-   "science": [
-    2,
-    "science"
    ],
    "spatchcocking": [
     1,
@@ -6422,30 +6560,6 @@
   ],
   "rel_tags_count": {}
  },
- "science": {
-  "pages": [
-   "Evaporation Effect",
-   "Reverse Sear"
-  ],
-  "rel_tags_count": {
-   "bbq": [
-    2,
-    "bbq"
-   ],
-   "braising": [
-    1,
-    "braising"
-   ],
-   "grilling": [
-    2,
-    "grilling"
-   ],
-   "roasting": [
-    2,
-    "roasting"
-   ]
-  }
- },
  "seafood": {
   "notes": {
    "feature": [
@@ -6586,15 +6700,25 @@
  },
  "sharpening": {
   "pages": [
+   "Hideriyama Renga Suita",
    "Mikawa Nagura",
    "My Whetstones",
+   "Nakayama Mizu Tomae",
+   "Ohira Asagi",
+   "Ozuku Hard Asagi",
+   "Ozuku Very Hard Mizu Tomae",
    "Sharpening and Honing",
+   "Shobudani Awasedo",
    "Slurry",
    "Whetstones"
   ],
   "rel_tags_count": {
+   "gear": [
+    2,
+    "gear"
+   ],
    "jnat": [
-    4,
+    10,
     "jnat"
    ],
    "knives": [
@@ -6612,14 +6736,6 @@
    "razors": [
     1,
     "razors"
-   ],
-   "synthetic-stones": [
-    1,
-    "synthetic-stones"
-   ],
-   "tools": [
-    3,
-    "tools"
    ]
   }
  },
@@ -7475,7 +7591,7 @@
    "feature": [
     {
      "date": "2020-08-12",
-     "feature": "Reverse sear again",
+     "feature": "Reverse Sear Again",
      "type": "dinner",
      "uri_path": "/2020/08/12/notes/dinner.html"
     }
@@ -7643,6 +7759,10 @@
    "beef": [
     1,
     "beef"
+   ],
+   "braise": [
+    1,
+    "braise"
    ]
   }
  },
@@ -7741,31 +7861,12 @@
   ],
   "rel_tags_count": {}
  },
- "synthetic-stones": {
-  "pages": [
-   "My Whetstones"
-  ],
-  "rel_tags_count": {
-   "jnat": [
-    1,
-    "jnat"
-   ],
-   "sharpening": [
-    1,
-    "sharpening"
-   ],
-   "tools": [
-    1,
-    "tools"
-   ]
-  }
- },
  "temperature": {
   "notes": {
    "feature": [
     {
      "date": "2020-10-21",
-     "feature": "Trying billows again with smoked fish",
+     "feature": "Trying Billows Again with Smoked Fish",
      "type": "dinner",
      "uri_path": "/2020/10/21/notes/dinner.html"
     },
@@ -7780,7 +7881,8 @@
   },
   "pages": [
    "Leidenfrost effect",
-   "Meat and Temperatures"
+   "Meat and Temperatures",
+   "Thermometers"
   ],
   "rel_tags_count": {
    "bbq": [
@@ -7790,6 +7892,14 @@
    "billows": [
     2,
     "billows"
+   ],
+   "chemistry": [
+    2,
+    "chemistry"
+   ],
+   "gear": [
+    1,
+    "gear"
    ],
    "heating": [
     1,
@@ -7994,37 +8104,12 @@
  },
  "tools": {
   "pages": [
-   "Maintenance",
-   "My Stuff",
-   "My Whetstones",
-   "Sharpening and Honing",
-   "Thermometers",
-   "Whetstones"
+   "Maintenance"
   ],
   "rel_tags_count": {
-   "jnat": [
-    2,
-    "jnat"
-   ],
-   "knives": [
-    1,
-    "knives"
-   ],
    "maintenance": [
-    2,
+    1,
     "maintenance"
-   ],
-   "razors": [
-    1,
-    "razors"
-   ],
-   "sharpening": [
-    3,
-    "sharpening"
-   ],
-   "synthetic-stones": [
-    1,
-    "synthetic-stones"
    ]
   }
  },
@@ -8033,7 +8118,7 @@
    "feature": [
     {
      "date": "2020-12-26",
-     "feature": "Top round roast - too tough",
+     "feature": "Top Round Roast - Too Tough",
      "type": "dinner",
      "uri_path": "/2020/12/26/notes/dinner.html"
     }
@@ -8067,21 +8152,6 @@
   "rel_tags_count": {}
  },
  "tuna": {
-  "notes": {
-   "feature": [],
-   "rough": [
-    {
-     "date": "2020-07-03",
-     "type": "dinner",
-     "uri_path": "/2020/07/03/notes/dinner.html"
-    },
-    {
-     "date": "2020-08-06",
-     "type": "dinner",
-     "uri_path": "/2020/08/06/notes/dinner.html"
-    }
-   ]
-  },
   "recipes": [
    {
     "mine": null,
@@ -8140,12 +8210,20 @@
     "title": "Tuna Yukke"
    }
   ],
-  "rel_tags_count": {
-   "confit": [
-    2,
-    "confit"
+  "rel_tags_count": {}
+ },
+ "tuna confit": {
+  "notes": {
+   "feature": [],
+   "rough": [
+    {
+     "date": "2020-07-03",
+     "type": "dinner",
+     "uri_path": "/2020/07/03/notes/dinner.html"
+    }
    ]
-  }
+  },
+  "rel_tags_count": {}
  },
  "turkey": {
   "notes": {

@@ -1,6 +1,6 @@
 ---
-title: Confit
-tag_key: confit
+title: Cuna
+tag_key: cuna
 notes:
   feature: []
   rough:
@@ -8,8 +8,8 @@ notes:
     type: dinner
     uri_path: /2020/08/06/notes/dinner.html
 rel_tags_count:
-  cuna:
+  confit:
   - 1
-  - cuna
+  - confit
 
 ---

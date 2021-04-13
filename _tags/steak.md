@@ -4,7 +4,7 @@ tag_key: steak
 notes:
   feature:
   - date: '2020-08-12'
-    feature: Reverse sear again
+    feature: Reverse Sear Again
     type: dinner
     uri_path: /2020/08/12/notes/dinner.html
   rough:

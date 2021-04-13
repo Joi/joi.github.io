@@ -1,15 +1,6 @@
 ---
 title: Tuna
 tag_key: tuna
-notes:
-  feature: []
-  rough:
-  - date: '2020-07-03'
-    type: dinner
-    uri_path: /2020/07/03/notes/dinner.html
-  - date: '2020-08-06'
-    type: dinner
-    uri_path: /2020/08/06/notes/dinner.html
 recipes:
 - mine: null
   permalink: /recipes/dinner-tonight-tuna-melt
@@ -51,9 +42,6 @@ recipes:
   photo_thumb: tuna-yukke-thumb.jpg
   rating: 0
   title: Tuna Yukke
-rel_tags_count:
-  confit:
-  - 2
-  - confit
+rel_tags_count: {}
 
 ---

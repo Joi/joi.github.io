@@ -8,7 +8,7 @@ notes:
     type: dinner
     uri_path: /2020/08/17/notes/dinner.html
   - date: '2020-10-04'
-    feature: Timing a bigger Prime Rib
+    feature: Timing a Bigger Prime Rib
     type: dinner
     uri_path: /2020/10/04/notes/dinner.html
   - date: '2020-12-07'
@@ -16,19 +16,19 @@ notes:
     type: dinner
     uri_path: /2020/12/07/notes/dinner.html
   - date: '2020-12-17'
-    feature: Spatchcocked chicken in Anova
+    feature: Spatchcocked Chicken in Anova
     type: dinner
     uri_path: /2020/12/17/notes/dinner.html
   - date: '2020-12-20'
-    feature: Bone-in rib roast with Anova sous vide
+    feature: Bone-in Rib Roast with Anova Sous Vide
     type: dinner
     uri_path: /2020/12/20/notes/dinner.html
   - date: '2020-12-26'
-    feature: Top round roast - too tough
+    feature: Top Round Roast - Too Tough
     type: dinner
     uri_path: /2020/12/26/notes/dinner.html
   - date: '2021-04-04'
-    feature: Slow-roased lamb leg
+    feature: Slow-roased Lamb Leg
     type: dinner
     uri_path: /2021/04/04/notes/dinner.html
   rough:
