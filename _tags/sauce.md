@@ -202,7 +202,7 @@ rel_tags_count:
   - avocado
   bbq:
   - 3
-  - bbq
+  - BBQ
   beef:
   - 1
   - beef
@@ -217,10 +217,10 @@ rel_tags_count:
   - ground beef
   italian:
   - 3
-  - italian
+  - Italian
   mexican:
   - 2
-  - mexican
+  - Mexican
   mushroom:
   - 2
   - mushroom

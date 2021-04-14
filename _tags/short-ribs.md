@@ -72,7 +72,7 @@ rel_tags_count:
   - meat
   mexican:
   - 1
-  - mexican
+  - Mexican
   pork:
   - 1
   - pork

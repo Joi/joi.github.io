@@ -99,7 +99,7 @@ rel_tags_count:
   - kale
   mexican:
   - 2
-  - mexican
+  - Mexican
   shrimp:
   - 3
   - shrimp

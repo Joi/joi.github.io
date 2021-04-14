@@ -71,7 +71,7 @@ rel_tags_count:
   - breakfast
   chinese:
   - 2
-  - chinese
+  - Chinese
   crab:
   - 3
   - crab
@@ -80,7 +80,7 @@ rel_tags_count:
   - ground beef
   italian:
   - 1
-  - italian
+  - Italian
   pork:
   - 1
   - pork

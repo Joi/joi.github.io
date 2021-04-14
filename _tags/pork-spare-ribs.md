@@ -47,7 +47,7 @@ recipes:
 rel_tags_count:
   bbq:
   - 3
-  - bbq
+  - BBQ
   smoking:
   - 1
   - smoking

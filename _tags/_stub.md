@@ -46,6 +46,6 @@ rel_tags_count:
   - tenderloin
   wagyu:
   - 1
-  - wagyu
+  - Wagyu
 
 ---

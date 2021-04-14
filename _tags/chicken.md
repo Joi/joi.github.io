@@ -123,6 +123,11 @@ recipes:
   rating: 4
   title: Chicken with Almonds and Green Olives
 - mine: null
+  permalink: /recipes/chicken-with-sorrel
+  photo_thumb: chicken-with-sorrel-thumb.jpg
+  rating: 0
+  title: Chicken with Sorrel
+- mine: null
   permalink: /recipes/chicken-with-vinegar
   photo_thumb: chicken-with-vinegar-thumb.jpg
   rating: 5
@@ -310,7 +315,7 @@ recipes:
 rel_tags_count:
   bbq:
   - 1
-  - bbq
+  - BBQ
   braising:
   - 1
   - braising
@@ -319,7 +324,7 @@ rel_tags_count:
   - curry
   french:
   - 1
-  - french
+  - French
   grill:
   - 1
   - grill
@@ -331,13 +336,13 @@ rel_tags_count:
   - ground beef
   italian:
   - 1
-  - italian
+  - Italian
   meat:
   - 3
   - meat
   mexican:
   - 1
-  - mexican
+  - Mexican
   pork:
   - 1
   - pork
@@ -356,6 +361,9 @@ rel_tags_count:
   sauce:
   - 1
   - sauce
+  sorrel:
+  - 1
+  - sorrel
   soup:
   - 5
   - soup

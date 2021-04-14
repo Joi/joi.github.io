@@ -23,7 +23,7 @@ rel_tags_count:
   - asparagus
   italian:
   - 1
-  - italian
+  - Italian
   pasta:
   - 2
   - pasta

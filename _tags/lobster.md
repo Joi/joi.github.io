@@ -29,7 +29,7 @@ rel_tags_count:
   - avocado
   chinese:
   - 1
-  - chinese
+  - Chinese
   seafood:
   - 1
   - seafood

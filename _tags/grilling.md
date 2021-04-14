@@ -12,7 +12,7 @@ pages:
 rel_tags_count:
   bbq:
   - 5
-  - bbq
+  - BBQ
   braising:
   - 1
   - braising

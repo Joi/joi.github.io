@@ -25,7 +25,7 @@ recipes:
 rel_tags_count:
   chinese:
   - 3
-  - chinese
+  - Chinese
   shrimp:
   - 1
   - shrimp

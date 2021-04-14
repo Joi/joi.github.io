@@ -131,7 +131,7 @@ rel_tags_count:
   - meat
   middle-east:
   - 1
-  - middle east
+  - Middle East
   mushroom:
   - 1
   - mushroom

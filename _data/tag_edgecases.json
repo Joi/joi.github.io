@@ -1,3 +1,16 @@
 {
- "bbq": "BBQ"
+ "bbq": "BBQ",
+ "chinese": "Chinese",
+ "french": "French",
+ "indian": "Indian",
+ "indonesian": "indonesian",
+ "italian": "Italian",
+ "japanese": "Japanese",
+ "jnat": "JNAT",
+ "kio": "Kio",
+ "mexican": "Mexican",
+ "middle east": "Middle East",
+ "thai": "Thai",
+ "vietnamese": "Vietnamese",
+ "wagyu": "Wagyu"
 }

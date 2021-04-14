@@ -11,7 +11,7 @@ difficulty: ''
 image_url: null
 ingredients: "2 large egg yolks or 1 large egg and 1 large egg yolk, at room temperature\n\
   2 tsp white or red vinegar\n\xBC tsp dry mustard or 2 tsp dijon mustard\n\xBE tsp\
-  \ Salt\nFreshly ground white pepper\n1 \xBD - 2 cups olive oil\n\xBC lemon juiced\
+  \ salt\nFreshly ground white pepper\n1 \xBD - 2 cups olive oil\n\xBC lemon juiced\
   \ or 2 Tbsp of lemon juice if not using vinegar\n[Chicken broth](chicken-stock)\
   \ or water as needed to thin sauce"
 intrash: 0
@@ -49,7 +49,7 @@ uid: D5E799CA-BA36-4A30-B385-9CD111E6F9A5-25037-0000A0DF30640117
 <li>2 large egg yolks or 1 large egg and 1 large egg yolk, at room temperature</li>
 <li>2 tsp white or red vinegar</li>
 <li>¼ tsp dry mustard or 2 tsp dijon mustard</li>
-<li>¾ tsp Salt</li>
+<li>¾ tsp salt</li>
 <li>Freshly ground white pepper</li>
 <li>1 ½ - 2 cups olive oil</li>
 <li>¼ lemon juiced or 2 Tbsp of lemon juice if not using vinegar</li>

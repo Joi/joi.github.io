@@ -164,7 +164,7 @@ recipes:
 rel_tags_count:
   bbq:
   - 2
-  - bbq
+  - BBQ
   billows:
   - 1
   - billows
@@ -191,7 +191,7 @@ rel_tags_count:
   - ground beef
   italian:
   - 1
-  - italian
+  - Italian
   meat:
   - 3
   - meat
@@ -239,6 +239,6 @@ rel_tags_count:
   - tenderloin
   thai:
   - 1
-  - thai
+  - Thai
 
 ---

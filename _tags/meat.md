@@ -107,7 +107,7 @@ rel_tags_count:
   - ground beef
   italian:
   - 3
-  - italian
+  - Italian
   lamb:
   - 6
   - lamb

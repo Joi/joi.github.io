@@ -122,16 +122,16 @@ rel_tags_count:
   - fluke
   italian:
   - 1
-  - italian
+  - Italian
   lamb:
   - 1
   - lamb
   mexican:
   - 1
-  - mexican
+  - Mexican
   middle-east:
   - 1
-  - middle east
+  - Middle East
   napa-cabbage:
   - 1
   - napa cabbage

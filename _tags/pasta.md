@@ -96,10 +96,10 @@ rel_tags_count:
   - ground beef
   italian:
   - 3
-  - italian
+  - Italian
   kio:
   - 2
-  - kio
+  - Kio
   meat:
   - 1
   - meat

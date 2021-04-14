@@ -19,7 +19,7 @@ notes:
 rel_tags_count:
   bbq:
   - 3
-  - bbq
+  - BBQ
   beef:
   - 1
   - beef

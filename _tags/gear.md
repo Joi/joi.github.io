@@ -11,7 +11,7 @@ pages:
 rel_tags_count:
   jnat:
   - 1
-  - jnat
+  - JNAT
   knives:
   - 1
   - knives

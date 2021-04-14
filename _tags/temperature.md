@@ -19,7 +19,7 @@ pages:
 rel_tags_count:
   bbq:
   - 2
-  - bbq
+  - BBQ
   billows:
   - 2
   - billows

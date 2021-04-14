@@ -25,7 +25,7 @@ recipes:
 rel_tags_count:
   chinese:
   - 3
-  - chinese
+  - Chinese
   ground-pork:
   - 2
   - ground pork

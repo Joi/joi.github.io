@@ -25,7 +25,7 @@ rel_tags_count:
   - chicken
   french:
   - 1
-  - french
+  - French
   halibut:
   - 1
   - halibut

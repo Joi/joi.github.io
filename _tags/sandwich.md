@@ -13,7 +13,7 @@ rel_tags_count:
   - chicken
   italian:
   - 1
-  - italian
+  - Italian
   meat:
   - 1
   - meat

@@ -115,7 +115,7 @@ recipes:
 rel_tags_count:
   bbq:
   - 1
-  - bbq
+  - BBQ
   billows:
   - 1
   - billows

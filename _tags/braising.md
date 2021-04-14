@@ -12,7 +12,7 @@ pages:
 rel_tags_count:
   bbq:
   - 1
-  - bbq
+  - BBQ
   chemistry:
   - 1
   - chemistry

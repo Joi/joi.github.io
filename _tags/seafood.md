@@ -48,7 +48,7 @@ recipes:
 rel_tags_count:
   bbq:
   - 1
-  - bbq
+  - BBQ
   clams:
   - 1
   - clams

@@ -25,7 +25,7 @@ recipes:
 rel_tags_count:
   italian:
   - 1
-  - italian
+  - Italian
   lamb:
   - 1
   - lamb

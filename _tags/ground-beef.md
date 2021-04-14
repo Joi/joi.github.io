@@ -89,13 +89,13 @@ rel_tags_count:
   - egg
   italian:
   - 3
-  - italian
+  - Italian
   meat:
   - 3
   - meat
   mexican:
   - 2
-  - mexican
+  - Mexican
   pasta:
   - 2
   - pasta

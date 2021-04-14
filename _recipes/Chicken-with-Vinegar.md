@@ -35,7 +35,8 @@ meal_dates:
 - '2020-12-24'
 - '2021-01-14'
 - '2021-02-24'
-meal_types: 3|3|3
+- '2021-04-14'
+meal_types: 3|3|3|3
 mine: 1
 name: Chicken with Vinegar
 p_recipe_id: 436

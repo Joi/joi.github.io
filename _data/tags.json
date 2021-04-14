@@ -243,7 +243,7 @@
   "rel_tags_count": {
    "bbq": [
     2,
-    "bbq"
+    "BBQ"
    ],
    "beef": [
     3,
@@ -255,7 +255,7 @@
    ],
    "chinese": [
     3,
-    "chinese"
+    "Chinese"
    ],
    "crab": [
     2,
@@ -283,7 +283,7 @@
    ],
    "italian": [
     1,
-    "italian"
+    "Italian"
    ],
    "lobster": [
     1,
@@ -363,7 +363,7 @@
    ],
    "wagyu": [
     1,
-    "wagyu"
+    "Wagyu"
    ],
    "white-fish": [
     1,
@@ -433,7 +433,7 @@
    ],
    "wagyu": [
     1,
-    "wagyu"
+    "Wagyu"
    ]
   }
  },
@@ -543,7 +543,7 @@
    ],
    "mexican": [
     1,
-    "mexican"
+    "Mexican"
    ],
    "sauce": [
     1,
@@ -710,7 +710,7 @@
    ],
    "thai": [
     1,
-    "thai"
+    "Thai"
    ]
   }
  },
@@ -950,7 +950,7 @@
   "rel_tags_count": {
    "bbq": [
     2,
-    "bbq"
+    "BBQ"
    ],
    "billows": [
     1,
@@ -986,7 +986,7 @@
    ],
    "italian": [
     1,
-    "italian"
+    "Italian"
    ],
    "meat": [
     3,
@@ -1050,7 +1050,7 @@
    ],
    "thai": [
     1,
-    "thai"
+    "Thai"
    ]
   }
  },
@@ -1107,7 +1107,7 @@
   "rel_tags_count": {
    "chinese": [
     1,
-    "chinese"
+    "Chinese"
    ]
   }
  },
@@ -1150,7 +1150,7 @@
   "rel_tags_count": {
    "bbq": [
     3,
-    "bbq"
+    "BBQ"
    ],
    "beef": [
     1,
@@ -1362,7 +1362,7 @@
   "rel_tags_count": {
    "bbq": [
     1,
-    "bbq"
+    "BBQ"
    ],
    "chemistry": [
     1,
@@ -1632,7 +1632,7 @@
   "rel_tags_count": {
    "bbq": [
     3,
-    "bbq"
+    "BBQ"
    ],
    "braising": [
     1,
@@ -1847,6 +1847,13 @@
     "photo_thumb": "chicken-with-almonds-and-green-olives-thumb.jpg",
     "rating": 4,
     "title": "Chicken with Almonds and Green Olives"
+   },
+   {
+    "mine": null,
+    "permalink": "/recipes/chicken-with-sorrel",
+    "photo_thumb": "chicken-with-sorrel-thumb.jpg",
+    "rating": 0,
+    "title": "Chicken with Sorrel"
    },
    {
     "mine": null,
@@ -2111,7 +2118,7 @@
   "rel_tags_count": {
    "bbq": [
     1,
-    "bbq"
+    "BBQ"
    ],
    "braising": [
     1,
@@ -2123,7 +2130,7 @@
    ],
    "french": [
     1,
-    "french"
+    "French"
    ],
    "grill": [
     1,
@@ -2139,7 +2146,7 @@
    ],
    "italian": [
     1,
-    "italian"
+    "Italian"
    ],
    "meat": [
     3,
@@ -2147,7 +2154,7 @@
    ],
    "mexican": [
     1,
-    "mexican"
+    "Mexican"
    ],
    "pork": [
     1,
@@ -2172,6 +2179,10 @@
    "sauce": [
     1,
     "sauce"
+   ],
+   "sorrel": [
+    1,
+    "sorrel"
    ],
    "soup": [
     5,
@@ -2374,7 +2385,7 @@
   "rel_tags_count": {
    "bbq": [
     1,
-    "bbq"
+    "BBQ"
    ],
    "beef": [
     2,
@@ -2538,7 +2549,7 @@
   "rel_tags_count": {
    "chinese": [
     2,
-    "chinese"
+    "Chinese"
    ],
    "egg": [
     3,
@@ -2674,7 +2685,7 @@
    ],
    "chinese": [
     1,
-    "chinese"
+    "Chinese"
    ],
    "meat": [
     1,
@@ -2780,7 +2791,7 @@
    ],
    "chinese": [
     2,
-    "chinese"
+    "Chinese"
    ],
    "crab": [
     3,
@@ -2792,7 +2803,7 @@
    ],
    "italian": [
     1,
-    "italian"
+    "Italian"
    ],
    "pork": [
     1,
@@ -3078,7 +3089,7 @@
    ],
    "mexican": [
     1,
-    "mexican"
+    "Mexican"
    ],
    "pollack": [
     2,
@@ -3300,7 +3311,7 @@
   "rel_tags_count": {
    "jnat": [
     1,
-    "jnat"
+    "JNAT"
    ],
    "knives": [
     1,
@@ -3369,7 +3380,7 @@
   "rel_tags_count": {
    "bbq": [
     5,
-    "bbq"
+    "BBQ"
    ],
    "braising": [
     1,
@@ -3520,7 +3531,7 @@
    ],
    "italian": [
     3,
-    "italian"
+    "Italian"
    ],
    "meat": [
     3,
@@ -3528,7 +3539,7 @@
    ],
    "mexican": [
     2,
-    "mexican"
+    "Mexican"
    ],
    "pasta": [
     2,
@@ -3586,7 +3597,7 @@
   "rel_tags_count": {
    "chinese": [
     3,
-    "chinese"
+    "Chinese"
    ],
    "shrimp": [
     1,
@@ -4207,7 +4218,7 @@
    ],
    "middle-east": [
     1,
-    "middle east"
+    "Middle East"
    ],
    "mushroom": [
     1,
@@ -4280,7 +4291,7 @@
    ],
    "chinese": [
     1,
-    "chinese"
+    "Chinese"
    ],
    "seafood": [
     1,
@@ -4469,7 +4480,7 @@
    ],
    "italian": [
     3,
-    "italian"
+    "Italian"
    ],
    "lamb": [
     6,
@@ -4946,11 +4957,11 @@
    ],
    "italian": [
     3,
-    "italian"
+    "Italian"
    ],
    "kio": [
     2,
-    "kio"
+    "Kio"
    ],
    "meat": [
     1,
@@ -5029,7 +5040,7 @@
   "rel_tags_count": {
    "italian": [
     2,
-    "italian"
+    "Italian"
    ]
   }
  },
@@ -5165,7 +5176,7 @@
   "rel_tags_count": {
    "chinese": [
     1,
-    "chinese"
+    "Chinese"
    ]
   }
  },
@@ -5295,7 +5306,7 @@
   "rel_tags_count": {
    "bbq": [
     3,
-    "bbq"
+    "BBQ"
    ],
    "smoking": [
     1,
@@ -5351,7 +5362,7 @@
    ],
    "french": [
     1,
-    "french"
+    "French"
    ],
    "halibut": [
     1,
@@ -5474,7 +5485,7 @@
   "rel_tags_count": {
    "jnat": [
     1,
-    "jnat"
+    "JNAT"
    ],
    "sharpening": [
     1,
@@ -5766,7 +5777,7 @@
   "rel_tags_count": {
    "bbq": [
     3,
-    "bbq"
+    "BBQ"
    ],
    "braising": [
     1,
@@ -5934,7 +5945,7 @@
    ],
    "mexican": [
     2,
-    "mexican"
+    "Mexican"
    ],
    "shrimp": [
     3,
@@ -6109,7 +6120,7 @@
   "rel_tags_count": {
    "bbq": [
     1,
-    "bbq"
+    "BBQ"
    ],
    "billows": [
     1,
@@ -6151,7 +6162,7 @@
   "rel_tags_count": {
    "mexican": [
     1,
-    "mexican"
+    "Mexican"
    ],
    "sauce": [
     1,
@@ -6180,7 +6191,7 @@
    ],
    "italian": [
     1,
-    "italian"
+    "Italian"
    ],
    "meat": [
     1,
@@ -6472,7 +6483,7 @@
    ],
    "bbq": [
     3,
-    "bbq"
+    "BBQ"
    ],
    "beef": [
     1,
@@ -6492,11 +6503,11 @@
    ],
    "italian": [
     3,
-    "italian"
+    "Italian"
    ],
    "mexican": [
     2,
-    "mexican"
+    "Mexican"
    ],
    "mushroom": [
     2,
@@ -6630,7 +6641,7 @@
   "rel_tags_count": {
    "bbq": [
     1,
-    "bbq"
+    "BBQ"
    ],
    "clams": [
     1,
@@ -6719,7 +6730,7 @@
    ],
    "jnat": [
     10,
-    "jnat"
+    "JNAT"
    ],
    "knives": [
     1,
@@ -6838,7 +6849,7 @@
    ],
    "mexican": [
     1,
-    "mexican"
+    "Mexican"
    ],
    "pork": [
     1,
@@ -7021,11 +7032,11 @@
   "rel_tags_count": {
    "bbq": [
     1,
-    "bbq"
+    "BBQ"
    ],
    "chinese": [
     1,
-    "chinese"
+    "Chinese"
    ],
    "crab": [
     1,
@@ -7132,7 +7143,7 @@
   "rel_tags_count": {
    "bbq": [
     2,
-    "bbq"
+    "BBQ"
    ],
    "beef": [
     1,
@@ -7236,6 +7247,13 @@
   "recipes": [
    {
     "mine": null,
+    "permalink": "/recipes/chicken-with-sorrel",
+    "photo_thumb": "chicken-with-sorrel-thumb.jpg",
+    "rating": 0,
+    "title": "Chicken with Sorrel"
+   },
+   {
+    "mine": null,
     "permalink": "/recipes/eggs-poached-in-buttery-sorrel-sauce",
     "photo_thumb": "eggs-poached-in-buttery-sorrel-sauce-thumb.jpg",
     "rating": 0,
@@ -7243,6 +7261,10 @@
    }
   ],
   "rel_tags_count": {
+   "chicken": [
+    1,
+    "chicken"
+   ],
    "egg": [
     1,
     "egg"
@@ -7419,7 +7441,7 @@
    ],
    "italian": [
     1,
-    "italian"
+    "Italian"
    ],
    "lamb": [
     1,
@@ -7427,11 +7449,11 @@
    ],
    "mexican": [
     1,
-    "mexican"
+    "Mexican"
    ],
    "middle-east": [
     1,
-    "middle east"
+    "Middle East"
    ],
    "napa-cabbage": [
     1,
@@ -7473,7 +7495,7 @@
   "rel_tags_count": {
    "bbq": [
     1,
-    "bbq"
+    "BBQ"
    ],
    "chicken": [
     2,
@@ -7485,7 +7507,7 @@
    ],
    "mexican": [
     1,
-    "mexican"
+    "Mexican"
    ],
    "roasting": [
     1,
@@ -7887,7 +7909,7 @@
   "rel_tags_count": {
    "bbq": [
     2,
-    "bbq"
+    "BBQ"
    ],
    "billows": [
     2,
@@ -7979,7 +8001,7 @@
   "rel_tags_count": {
    "bbq": [
     1,
-    "bbq"
+    "BBQ"
    ],
    "beef": [
     1,
@@ -8021,7 +8043,7 @@
   "rel_tags_count": {
    "chinese": [
     3,
-    "chinese"
+    "Chinese"
    ],
    "ground-pork": [
     2,
@@ -8060,7 +8082,7 @@
    ],
    "italian": [
     1,
-    "italian"
+    "Italian"
    ],
    "pasta": [
     2,
@@ -8371,7 +8393,7 @@
   "rel_tags_count": {
    "italian": [
     1,
-    "italian"
+    "Italian"
    ],
    "lamb": [
     1,

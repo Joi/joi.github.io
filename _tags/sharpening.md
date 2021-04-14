@@ -19,7 +19,7 @@ rel_tags_count:
   - gear
   jnat:
   - 10
-  - jnat
+  - JNAT
   knives:
   - 1
   - knives

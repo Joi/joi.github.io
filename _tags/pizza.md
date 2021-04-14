@@ -22,6 +22,6 @@ recipes:
 rel_tags_count:
   italian:
   - 2
-  - italian
+  - Italian
 
 ---

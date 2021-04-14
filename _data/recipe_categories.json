@@ -182,6 +182,7 @@
   "chicken-stock": "Chicken Stock",
   "chicken-with-40-cloves-of-garlic": "Chicken with 40 Cloves of Garlic",
   "chicken-with-almonds-and-green-olives": "Chicken with Almonds and Green Olives",
+  "chicken-with-sorrel": "Chicken with Sorrel",
   "chicken-with-vinegar": "Chicken with Vinegar",
   "chinese-drunken-chicken": "Chinese Drunken Chicken",
   "chinese-roasted-chicken-shao-ji": "Chinese Roasted Chicken (烧鸡)",
@@ -738,6 +739,7 @@
   "sole-meuniere": "Sole Meunière"
  },
  "sorrel": {
+  "chicken-with-sorrel": "Chicken with Sorrel",
   "eggs-poached-in-buttery-sorrel-sauce": "Eggs Poached in Buttery Sorrel Sauce"
  },
  "soup": {

@@ -10,6 +10,6 @@ recipes:
 rel_tags_count:
   chinese:
   - 1
-  - chinese
+  - Chinese
 
 ---

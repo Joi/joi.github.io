@@ -18,7 +18,7 @@ rel_tags_count:
   - lobster
   mexican:
   - 1
-  - mexican
+  - Mexican
   sauce:
   - 1
   - sauce

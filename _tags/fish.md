@@ -181,7 +181,7 @@ rel_tags_count:
   - halibut
   mexican:
   - 1
-  - mexican
+  - Mexican
   pollack:
   - 2
   - pollack

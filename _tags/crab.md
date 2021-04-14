@@ -36,7 +36,7 @@ recipes:
 rel_tags_count:
   chinese:
   - 2
-  - chinese
+  - Chinese
   egg:
   - 3
   - egg

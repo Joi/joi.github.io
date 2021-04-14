@@ -116,10 +116,10 @@ recipes:
 rel_tags_count:
   bbq:
   - 1
-  - bbq
+  - BBQ
   chinese:
   - 1
-  - chinese
+  - Chinese
   crab:
   - 1
   - crab

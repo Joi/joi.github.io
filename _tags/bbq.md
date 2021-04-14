@@ -114,6 +114,6 @@ rel_tags_count:
   - temperature
   thai:
   - 1
-  - thai
+  - Thai
 
 ---

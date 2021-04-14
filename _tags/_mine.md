@@ -175,7 +175,7 @@ recipes:
 rel_tags_count:
   bbq:
   - 2
-  - bbq
+  - BBQ
   beef:
   - 3
   - beef
@@ -184,7 +184,7 @@ rel_tags_count:
   - chicken
   chinese:
   - 3
-  - chinese
+  - Chinese
   crab:
   - 2
   - crab
@@ -205,7 +205,7 @@ rel_tags_count:
   - ground pork
   italian:
   - 1
-  - italian
+  - Italian
   lobster:
   - 1
   - lobster
@@ -265,7 +265,7 @@ rel_tags_count:
   - tuna
   wagyu:
   - 1
-  - wagyu
+  - Wagyu
   white-fish:
   - 1
   - white fish

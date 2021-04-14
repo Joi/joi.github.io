@@ -28,7 +28,7 @@ rel_tags_count:
   - bison
   chinese:
   - 1
-  - chinese
+  - Chinese
   meat:
   - 1
   - meat

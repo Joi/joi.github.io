@@ -15,7 +15,7 @@ pages:
 rel_tags_count:
   bbq:
   - 1
-  - bbq
+  - BBQ
   chicken:
   - 2
   - chicken
@@ -24,7 +24,7 @@ rel_tags_count:
   - grilling
   mexican:
   - 1
-  - mexican
+  - Mexican
   roasting:
   - 1
   - roasting

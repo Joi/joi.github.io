@@ -1,188 +1,608 @@
 {
- "a": [
-  "anova oven",
-  "asparagus",
-  "avocado"
- ],
- "b": [
-  "bbq",
-  "beef",
-  "beef back ribs",
-  "beef shank",
-  "beets",
-  "billows",
-  "bison",
-  "black cod",
-  "blue fish",
-  "bone",
-  "braise",
-  "braising",
-  "branzino",
-  "bread and biscuits",
-  "breakfast",
-  "brisket"
- ],
- "c": [
-  "cauliflower",
-  "celery root",
-  "charts",
-  "chemistry",
-  "chick steak",
-  "chicken",
-  "chickpeas",
-  "chinese",
-  "chuck roast",
-  "clams",
-  "confit",
-  "corn",
-  "crab",
-  "cuna",
-  "curry"
- ],
- "d": [
-  "duck"
- ],
- "e": [
-  "egg",
-  "endive"
- ],
- "f": [
-  "fish",
-  "flat iron",
-  "flounder",
-  "fluke",
-  "french"
- ],
- "g": [
-  "garnish",
-  "gear",
-  "grill",
-  "grilling",
-  "ground beef",
-  "ground pork"
- ],
- "h": [
-  "hake",
-  "halibut",
-  "hanger steak",
-  "healthy",
-  "heating"
- ],
- "i": [
-  "italian"
- ],
- "j": [
-  "jnat"
- ],
- "k": [
-  "kale",
-  "kio",
-  "knives",
-  "knowledge management"
- ],
- "l": [
-  "lamb",
-  "lobster"
- ],
- "m": [
-  "maintenance",
-  "meat",
-  "mexican",
-  "middle east",
-  "monkfish",
-  "mushroom",
-  "mushrooms",
-  "mussels"
- ],
- "n": [
-  "napa cabbage"
- ],
- "o": [
-  "oats",
-  "oxtail"
- ],
- "p": [
-  "pasta",
-  "pickles",
-  "pizza",
-  "pollack",
-  "pork",
-  "pork chops",
-  "pork shoulder",
-  "pork spare ribs",
-  "potato",
-  "pressure cooker",
-  "prime rib"
- ],
- "r": [
-  "razor",
-  "razors",
-  "recipe",
-  "red onions",
-  "reverse sear",
-  "ribs",
-  "rice",
-  "roast",
-  "roasting"
- ],
- "s": [
-  "salad",
-  "salmon",
-  "salsa",
-  "sandwich",
-  "sauce",
-  "sausage",
-  "scallops",
-  "seafood",
-  "seasoning",
-  "sharpening",
-  "short ribs",
-  "shrimp",
-  "skate wings",
-  "smoking",
-  "soft-shell crabs",
-  "sole",
-  "sorrel",
-  "soup",
-  "spatchcocking",
-  "spread",
-  "spring onion",
-  "squid",
-  "steak",
-  "steaks",
-  "stew",
-  "striped bass",
-  "sweet potato",
-  "swiss chard",
-  "swordfish"
- ],
- "t": [
-  "temperature",
-  "tenderloin",
-  "thai",
-  "tofu",
-  "tomato",
-  "tongue",
-  "tools",
-  "top round roast",
-  "truffles",
-  "tuna",
-  "tuna confit",
-  "turkey"
- ],
- "v": [
-  "veal",
-  "vegetables"
- ],
- "w": [
-  "wagyu",
-  "white fish"
- ],
- "y": [
-  "yellow squash",
-  "yellow tail"
- ],
- "z": [
-  "zucchini"
- ]
+ "a": {
+  "anova oven": {
+   "filename": "anova-oven",
+   "titlecase": "Anova Oven"
+  },
+  "asparagus": {
+   "filename": "asparagus",
+   "titlecase": "Asparagus"
+  },
+  "avocado": {
+   "filename": "avocado",
+   "titlecase": "Avocado"
+  }
+ },
+ "b": {
+  "BBQ": {
+   "filename": "bbq",
+   "titlecase": "BBQ"
+  },
+  "beef": {
+   "filename": "beef",
+   "titlecase": "Beef"
+  },
+  "beef back ribs": {
+   "filename": "beef-back-ribs",
+   "titlecase": "Beef Back Ribs"
+  },
+  "beef shank": {
+   "filename": "beef-shank",
+   "titlecase": "Beef Shank"
+  },
+  "beets": {
+   "filename": "beets",
+   "titlecase": "Beets"
+  },
+  "billows": {
+   "filename": "billows",
+   "titlecase": "Billows"
+  },
+  "bison": {
+   "filename": "bison",
+   "titlecase": "Bison"
+  },
+  "black cod": {
+   "filename": "black-cod",
+   "titlecase": "Black Cod"
+  },
+  "blue fish": {
+   "filename": "blue-fish",
+   "titlecase": "Blue Fish"
+  },
+  "bone": {
+   "filename": "bone",
+   "titlecase": "Bone"
+  },
+  "braise": {
+   "filename": "braise",
+   "titlecase": "Braise"
+  },
+  "braising": {
+   "filename": "braising",
+   "titlecase": "Braising"
+  },
+  "branzino": {
+   "filename": "branzino",
+   "titlecase": "Branzino"
+  },
+  "bread and biscuits": {
+   "filename": "bread-and-biscuits",
+   "titlecase": "Bread and Biscuits"
+  },
+  "breakfast": {
+   "filename": "breakfast",
+   "titlecase": "Breakfast"
+  },
+  "brisket": {
+   "filename": "brisket",
+   "titlecase": "Brisket"
+  }
+ },
+ "c": {
+  "Chinese": {
+   "filename": "chinese",
+   "titlecase": "Chinese"
+  },
+  "cauliflower": {
+   "filename": "cauliflower",
+   "titlecase": "Cauliflower"
+  },
+  "celery root": {
+   "filename": "celery-root",
+   "titlecase": "Celery Root"
+  },
+  "charts": {
+   "filename": "charts",
+   "titlecase": "Charts"
+  },
+  "chemistry": {
+   "filename": "chemistry",
+   "titlecase": "Chemistry"
+  },
+  "chick steak": {
+   "filename": "chick-steak",
+   "titlecase": "Chick Steak"
+  },
+  "chicken": {
+   "filename": "chicken",
+   "titlecase": "Chicken"
+  },
+  "chickpeas": {
+   "filename": "chickpeas",
+   "titlecase": "Chickpeas"
+  },
+  "chuck roast": {
+   "filename": "chuck-roast",
+   "titlecase": "Chuck Roast"
+  },
+  "clams": {
+   "filename": "clams",
+   "titlecase": "Clams"
+  },
+  "confit": {
+   "filename": "confit",
+   "titlecase": "Confit"
+  },
+  "corn": {
+   "filename": "corn",
+   "titlecase": "Corn"
+  },
+  "crab": {
+   "filename": "crab",
+   "titlecase": "Crab"
+  },
+  "cuna": {
+   "filename": "cuna",
+   "titlecase": "Cuna"
+  },
+  "curry": {
+   "filename": "curry",
+   "titlecase": "Curry"
+  }
+ },
+ "d": {
+  "duck": {
+   "filename": "duck",
+   "titlecase": "Duck"
+  }
+ },
+ "e": {
+  "egg": {
+   "filename": "egg",
+   "titlecase": "Egg"
+  },
+  "endive": {
+   "filename": "endive",
+   "titlecase": "Endive"
+  }
+ },
+ "f": {
+  "French": {
+   "filename": "french",
+   "titlecase": "French"
+  },
+  "fish": {
+   "filename": "fish",
+   "titlecase": "Fish"
+  },
+  "flat iron": {
+   "filename": "flat-iron",
+   "titlecase": "Flat Iron"
+  },
+  "flounder": {
+   "filename": "flounder",
+   "titlecase": "Flounder"
+  },
+  "fluke": {
+   "filename": "fluke",
+   "titlecase": "Fluke"
+  }
+ },
+ "g": {
+  "garnish": {
+   "filename": "garnish",
+   "titlecase": "Garnish"
+  },
+  "gear": {
+   "filename": "gear",
+   "titlecase": "Gear"
+  },
+  "grill": {
+   "filename": "grill",
+   "titlecase": "Grill"
+  },
+  "grilling": {
+   "filename": "grilling",
+   "titlecase": "Grilling"
+  },
+  "ground beef": {
+   "filename": "ground-beef",
+   "titlecase": "Ground Beef"
+  },
+  "ground pork": {
+   "filename": "ground-pork",
+   "titlecase": "Ground Pork"
+  }
+ },
+ "h": {
+  "hake": {
+   "filename": "hake",
+   "titlecase": "Hake"
+  },
+  "halibut": {
+   "filename": "halibut",
+   "titlecase": "Halibut"
+  },
+  "hanger steak": {
+   "filename": "hanger-steak",
+   "titlecase": "Hanger Steak"
+  },
+  "healthy": {
+   "filename": "healthy",
+   "titlecase": "Healthy"
+  },
+  "heating": {
+   "filename": "heating",
+   "titlecase": "Heating"
+  }
+ },
+ "i": {
+  "Italian": {
+   "filename": "italian",
+   "titlecase": "Italian"
+  }
+ },
+ "j": {
+  "JNAT": {
+   "filename": "jnat",
+   "titlecase": "JNAT"
+  }
+ },
+ "k": {
+  "Kio": {
+   "filename": "kio",
+   "titlecase": "Kio"
+  },
+  "kale": {
+   "filename": "kale",
+   "titlecase": "Kale"
+  },
+  "knives": {
+   "filename": "knives",
+   "titlecase": "Knives"
+  },
+  "knowledge management": {
+   "filename": "knowledge-management",
+   "titlecase": "Knowledge Management"
+  }
+ },
+ "l": {
+  "lamb": {
+   "filename": "lamb",
+   "titlecase": "Lamb"
+  },
+  "lobster": {
+   "filename": "lobster",
+   "titlecase": "Lobster"
+  }
+ },
+ "m": {
+  "Mexican": {
+   "filename": "mexican",
+   "titlecase": "Mexican"
+  },
+  "Middle East": {
+   "filename": "middle-east",
+   "titlecase": "Middle East"
+  },
+  "maintenance": {
+   "filename": "maintenance",
+   "titlecase": "Maintenance"
+  },
+  "meat": {
+   "filename": "meat",
+   "titlecase": "Meat"
+  },
+  "monkfish": {
+   "filename": "monkfish",
+   "titlecase": "Monkfish"
+  },
+  "mushroom": {
+   "filename": "mushroom",
+   "titlecase": "Mushroom"
+  },
+  "mushrooms": {
+   "filename": "mushrooms",
+   "titlecase": "Mushrooms"
+  },
+  "mussels": {
+   "filename": "mussels",
+   "titlecase": "Mussels"
+  }
+ },
+ "n": {
+  "napa cabbage": {
+   "filename": "napa-cabbage",
+   "titlecase": "Napa Cabbage"
+  }
+ },
+ "o": {
+  "oats": {
+   "filename": "oats",
+   "titlecase": "Oats"
+  },
+  "oxtail": {
+   "filename": "oxtail",
+   "titlecase": "Oxtail"
+  }
+ },
+ "p": {
+  "pasta": {
+   "filename": "pasta",
+   "titlecase": "Pasta"
+  },
+  "pickles": {
+   "filename": "pickles",
+   "titlecase": "Pickles"
+  },
+  "pizza": {
+   "filename": "pizza",
+   "titlecase": "Pizza"
+  },
+  "pollack": {
+   "filename": "pollack",
+   "titlecase": "Pollack"
+  },
+  "pork": {
+   "filename": "pork",
+   "titlecase": "Pork"
+  },
+  "pork chops": {
+   "filename": "pork-chops",
+   "titlecase": "Pork Chops"
+  },
+  "pork shoulder": {
+   "filename": "pork-shoulder",
+   "titlecase": "Pork Shoulder"
+  },
+  "pork spare ribs": {
+   "filename": "pork-spare-ribs",
+   "titlecase": "Pork Spare Ribs"
+  },
+  "potato": {
+   "filename": "potato",
+   "titlecase": "Potato"
+  },
+  "pressure cooker": {
+   "filename": "pressure-cooker",
+   "titlecase": "Pressure Cooker"
+  },
+  "prime rib": {
+   "filename": "prime-rib",
+   "titlecase": "Prime Rib"
+  }
+ },
+ "r": {
+  "razor": {
+   "filename": "razor",
+   "titlecase": "Razor"
+  },
+  "razors": {
+   "filename": "razors",
+   "titlecase": "Razors"
+  },
+  "recipe": {
+   "filename": "recipe",
+   "titlecase": "Recipe"
+  },
+  "red onions": {
+   "filename": "red-onions",
+   "titlecase": "Red Onions"
+  },
+  "reverse sear": {
+   "filename": "reverse-sear",
+   "titlecase": "Reverse Sear"
+  },
+  "ribs": {
+   "filename": "ribs",
+   "titlecase": "Ribs"
+  },
+  "rice": {
+   "filename": "rice",
+   "titlecase": "Rice"
+  },
+  "roast": {
+   "filename": "roast",
+   "titlecase": "Roast"
+  },
+  "roasting": {
+   "filename": "roasting",
+   "titlecase": "Roasting"
+  }
+ },
+ "s": {
+  "salad": {
+   "filename": "salad",
+   "titlecase": "Salad"
+  },
+  "salmon": {
+   "filename": "salmon",
+   "titlecase": "Salmon"
+  },
+  "salsa": {
+   "filename": "salsa",
+   "titlecase": "Salsa"
+  },
+  "sandwich": {
+   "filename": "sandwich",
+   "titlecase": "Sandwich"
+  },
+  "sauce": {
+   "filename": "sauce",
+   "titlecase": "Sauce"
+  },
+  "sausage": {
+   "filename": "sausage",
+   "titlecase": "Sausage"
+  },
+  "scallops": {
+   "filename": "scallops",
+   "titlecase": "Scallops"
+  },
+  "seafood": {
+   "filename": "seafood",
+   "titlecase": "Seafood"
+  },
+  "seasoning": {
+   "filename": "seasoning",
+   "titlecase": "Seasoning"
+  },
+  "sharpening": {
+   "filename": "sharpening",
+   "titlecase": "Sharpening"
+  },
+  "short ribs": {
+   "filename": "short-ribs",
+   "titlecase": "Short Ribs"
+  },
+  "shrimp": {
+   "filename": "shrimp",
+   "titlecase": "Shrimp"
+  },
+  "skate wings": {
+   "filename": "skate-wings",
+   "titlecase": "Skate Wings"
+  },
+  "smoking": {
+   "filename": "smoking",
+   "titlecase": "Smoking"
+  },
+  "soft-shell crabs": {
+   "filename": "soft-shell-crabs",
+   "titlecase": "Soft-Shell Crabs"
+  },
+  "sole": {
+   "filename": "sole",
+   "titlecase": "Sole"
+  },
+  "sorrel": {
+   "filename": "sorrel",
+   "titlecase": "Sorrel"
+  },
+  "soup": {
+   "filename": "soup",
+   "titlecase": "Soup"
+  },
+  "spatchcocking": {
+   "filename": "spatchcocking",
+   "titlecase": "Spatchcocking"
+  },
+  "spread": {
+   "filename": "spread",
+   "titlecase": "Spread"
+  },
+  "spring onion": {
+   "filename": "spring-onion",
+   "titlecase": "Spring Onion"
+  },
+  "squid": {
+   "filename": "squid",
+   "titlecase": "Squid"
+  },
+  "steak": {
+   "filename": "steak",
+   "titlecase": "Steak"
+  },
+  "steaks": {
+   "filename": "steaks",
+   "titlecase": "Steaks"
+  },
+  "stew": {
+   "filename": "stew",
+   "titlecase": "Stew"
+  },
+  "striped bass": {
+   "filename": "striped-bass",
+   "titlecase": "Striped Bass"
+  },
+  "sweet potato": {
+   "filename": "sweet-potato",
+   "titlecase": "Sweet Potato"
+  },
+  "swiss chard": {
+   "filename": "swiss-chard",
+   "titlecase": "Swiss Chard"
+  },
+  "swordfish": {
+   "filename": "swordfish",
+   "titlecase": "Swordfish"
+  }
+ },
+ "t": {
+  "Thai": {
+   "filename": "thai",
+   "titlecase": "Thai"
+  },
+  "temperature": {
+   "filename": "temperature",
+   "titlecase": "Temperature"
+  },
+  "tenderloin": {
+   "filename": "tenderloin",
+   "titlecase": "Tenderloin"
+  },
+  "tofu": {
+   "filename": "tofu",
+   "titlecase": "Tofu"
+  },
+  "tomato": {
+   "filename": "tomato",
+   "titlecase": "Tomato"
+  },
+  "tongue": {
+   "filename": "tongue",
+   "titlecase": "Tongue"
+  },
+  "tools": {
+   "filename": "tools",
+   "titlecase": "Tools"
+  },
+  "top round roast": {
+   "filename": "top-round-roast",
+   "titlecase": "Top Round Roast"
+  },
+  "truffles": {
+   "filename": "truffles",
+   "titlecase": "Truffles"
+  },
+  "tuna": {
+   "filename": "tuna",
+   "titlecase": "Tuna"
+  },
+  "tuna confit": {
+   "filename": "tuna-confit",
+   "titlecase": "Tuna Confit"
+  },
+  "turkey": {
+   "filename": "turkey",
+   "titlecase": "Turkey"
+  }
+ },
+ "v": {
+  "veal": {
+   "filename": "veal",
+   "titlecase": "Veal"
+  },
+  "vegetables": {
+   "filename": "vegetables",
+   "titlecase": "Vegetables"
+  }
+ },
+ "w": {
+  "Wagyu": {
+   "filename": "wagyu",
+   "titlecase": "Wagyu"
+  },
+  "white fish": {
+   "filename": "white-fish",
+   "titlecase": "White Fish"
+  }
+ },
+ "y": {
+  "yellow squash": {
+   "filename": "yellow-squash",
+   "titlecase": "Yellow Squash"
+  },
+  "yellow tail": {
+   "filename": "yellow-tail",
+   "titlecase": "Yellow Tail"
+  }
+ },
+ "z": {
+  "zucchini": {
+   "filename": "zucchini",
+   "titlecase": "Zucchini"
+  }
+ }
 }
