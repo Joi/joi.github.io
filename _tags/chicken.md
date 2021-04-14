@@ -138,10 +138,10 @@ recipes:
   rating: 0
   title: Chinese Drunken Chicken
 - mine: null
-  permalink: /recipes/chinese-roasted-chicken-shao-ji
-  photo_thumb: chinese-roasted-chicken-shao-ji-thumb.jpg
+  permalink: /recipes/chinese-roasted-chicken
+  photo_thumb: chinese-roasted-chicken-thumb.jpg
   rating: 5
-  title: "Chinese Roasted Chicken (\u70E7\u9E21)"
+  title: Chinese Roasted Chicken
 - mine: null
   permalink: /recipes/coq-au-vin
   photo_thumb: coq-au-vin-thumb.jpg

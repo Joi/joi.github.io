@@ -1,13 +1,13 @@
 ---
-title: "Chinese Roasted Chicken (烧鸡)"
-filename: "chinese-roasted-chicken-shao-ji"
+title: "Chinese Roasted Chicken"
+filename: "chinese-roasted-chicken"
 categories: &id001
 - chicken
 cook_time: 1 hr
 created: '2020-12-28 20:09:05'
 created_ts: 1609186145
 description: null
-difficulty: null
+difficulty: ''
 image_url: https://www.chinasichuanfood.com/wp-content/uploads/2017/03/Chinese-roasted-Chicken-3-copy-300x450.jpg
 ingredients: '1 chicken (around 1 kg )
 
@@ -37,20 +37,20 @@ meal_dates:
 - '2021-01-01'
 meal_types: '3'
 mine: null
-name: "Chinese Roasted Chicken (\u70E7\u9E21)"
+name: Chinese Roasted Chicken
 p_recipe_id: 441
-permalink: /recipes/chinese-roasted-chicken-shao-ji
+permalink: /recipes/chinese-roasted-chicken
 photo_large: null
-photo_thumb: chinese-roasted-chicken-shao-ji-thumb.jpg
+photo_thumb: chinese-roasted-chicken-thumb.jpg
 photos_dict: null
 prep_time: 2 d
 rating: 5
 servings: 'Servings: 3'
-slug: chinese-roasted-chicken-shao-ji
+slug: chinese-roasted-chicken
 source: chinasichuanfood.com
 source_url: https://www.chinasichuanfood.com/chinese-roasted-chicken/
 tags: *id001
-total_time: null
+total_time: ''
 type: null
 uid: C35DC53C-4546-403C-A6E8-E7DA8F8ADBD0-1607-00007D8057C690B4
 ---

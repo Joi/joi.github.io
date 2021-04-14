@@ -1,6 +1,6 @@
 ---
-title: Chick Steak
-tag_key: chick-steak
+title: Chuck Steak
+tag_key: chuck-steak
 recipes:
 - mine: null
   permalink: /recipes/foolproof-chuck-steak-with-smoky-chimichurri

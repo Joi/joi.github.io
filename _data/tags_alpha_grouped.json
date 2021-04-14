@@ -100,10 +100,6 @@
    "filename": "chemistry",
    "titlecase": "Chemistry"
   },
-  "chick steak": {
-   "filename": "chick-steak",
-   "titlecase": "Chick Steak"
-  },
   "chicken": {
    "filename": "chicken",
    "titlecase": "Chicken"
@@ -115,6 +111,10 @@
   "chuck roast": {
    "filename": "chuck-roast",
    "titlecase": "Chuck Roast"
+  },
+  "chuck steak": {
+   "filename": "chuck-steak",
+   "titlecase": "Chuck Steak"
   },
   "clams": {
    "filename": "clams",

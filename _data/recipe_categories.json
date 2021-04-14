@@ -158,9 +158,6 @@
  "celery root": {
   "sauteed-celery-root-with-swiss-chard": "Sauteed Celery Root with Swiss Chard"
  },
- "chick steak": {
-  "foolproof-chuck-steak-with-smoky-chimichurri": "Foolproof Chuck Steak with Smoky Chimichurri"
- },
  "chicken": {
   "air-fryer-buffalo-chicken-drumsticks": "Air-Fryer Buffalo Chicken Drumsticks",
   "authentic-mexican-chicken-tinga--best-tinga-de-pollo": "Authentic Mexican Chicken Tinga- Best Tinga De Pollo",
@@ -184,7 +181,7 @@
   "chicken-with-sorrel": "Chicken with Sorrel",
   "chicken-with-vinegar": "Chicken with Vinegar",
   "chinese-drunken-chicken": "Chinese Drunken Chicken",
-  "chinese-roasted-chicken-shao-ji": "Chinese Roasted Chicken (烧鸡)",
+  "chinese-roasted-chicken": "Chinese Roasted Chicken",
   "coq-au-vin": "Coq Au Vin",
   "crispiest-spatchcocked-chicken": "Crispiest Spatchcocked Chicken",
   "crispy-parmesan-baked-chicken-with-veggies-milanese": "Crispy Parmesan Baked Chicken with Veggies (Milanese)",
@@ -240,6 +237,9 @@
   "pot-roast": "Pot Roast",
   "pressure-cooker-pot-roast": "Pressure Cooker Pot Roast",
   "smoked-and-sliced-beef-chuck-roast": "Smoked and Sliced Beef Chuck Roast"
+ },
+ "chuck steak": {
+  "foolproof-chuck-steak-with-smoky-chimichurri": "Foolproof Chuck Steak with Smoky Chimichurri"
  },
  "clams": {
   "buttery-garlic-steamed-clams": "Buttery Garlic Steamed Clams",

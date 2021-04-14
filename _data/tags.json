@@ -1653,18 +1653,6 @@
    ]
   }
  },
- "chick steak": {
-  "recipes": [
-   {
-    "mine": null,
-    "permalink": "/recipes/foolproof-chuck-steak-with-smoky-chimichurri",
-    "photo_thumb": "foolproof-chuck-steak-with-smoky-chimichurri-thumb.jpg",
-    "rating": 5,
-    "title": "Foolproof Chuck Steak with Smoky Chimichurri"
-   }
-  ],
-  "rel_tags_count": {}
- },
  "chicken": {
   "notes": {
    "feature": [
@@ -1864,10 +1852,10 @@
    },
    {
     "mine": null,
-    "permalink": "/recipes/chinese-roasted-chicken-shao-ji",
-    "photo_thumb": "chinese-roasted-chicken-shao-ji-thumb.jpg",
+    "permalink": "/recipes/chinese-roasted-chicken",
+    "photo_thumb": "chinese-roasted-chicken-thumb.jpg",
     "rating": 5,
-    "title": "Chinese Roasted Chicken (烧鸡)"
+    "title": "Chinese Roasted Chicken"
    },
    {
     "mine": null,
@@ -2389,6 +2377,18 @@
     "short ribs"
    ]
   }
+ },
+ "chuck steak": {
+  "recipes": [
+   {
+    "mine": null,
+    "permalink": "/recipes/foolproof-chuck-steak-with-smoky-chimichurri",
+    "photo_thumb": "foolproof-chuck-steak-with-smoky-chimichurri-thumb.jpg",
+    "rating": 5,
+    "title": "Foolproof Chuck Steak with Smoky Chimichurri"
+   }
+  ],
+  "rel_tags_count": {}
  },
  "clams": {
   "recipes": [

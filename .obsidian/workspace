@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2021-04-02-dinner.md",
+            "file": "_pages/-index.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-04-02-dinner.md",
+                "file": "_pages/-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,7 @@
   },
   "active": "3719bcb9f4d045af",
   "lastOpenFiles": [
+    "_pages/-index.md",
     "_notes/2021-04-02-dinner.md",
     "_notes/2021-04-03-dinner.md",
     "_notes/2021-04-03-lunch.md",
@@ -103,7 +104,6 @@
     "_posts/2020-07-27-kamisori-razors.md",
     "_notes/2021-03-27-dinner.md",
     "_notes/2021-03-24-dinner.md",
-    "_notes/2021-03-20-dinner.md",
-    "_notes/2021-03-18-dinner.md"
+    "_notes/2021-03-20-dinner.md"
   ]
 }
