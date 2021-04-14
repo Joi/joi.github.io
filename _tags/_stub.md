@@ -3,11 +3,6 @@ title: _Stub
 tag_key: _stub
 recipes:
 - mine: 1
-  permalink: /recipes/burger
-  photo_thumb: burger-thumb.jpg
-  rating: 1
-  title: Burger
-- mine: 1
   permalink: /recipes/grill-smoked-fish
   photo_thumb: grill-smoked-fish-thumb.jpg
   rating: 0
@@ -29,9 +24,6 @@ rel_tags_count:
   fish:
   - 1
   - fish
-  ground-beef:
-  - 1
-  - ground beef
   meat:
   - 1
   - meat

@@ -8,6 +8,11 @@ recipes:
   rating: 5
   title: Biltmore Chianti Glazed Beef Short Ribs
 - mine: null
+  permalink: /recipes/burger
+  photo_thumb: burger-thumb.jpg
+  rating: 5
+  title: Burger
+- mine: null
   permalink: /recipes/garlic-braised-short-ribs-with-red-wine
   photo_thumb: garlic-braised-short-ribs-with-red-wine-thumb.jpg
   rating: 5
@@ -64,6 +69,9 @@ rel_tags_count:
   chuck-roast:
   - 1
   - chuck roast
+  ground-beef:
+  - 1
+  - ground beef
   lamb:
   - 1
   - lamb

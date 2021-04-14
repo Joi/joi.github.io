@@ -20,7 +20,7 @@ recipes:
 - mine: null
   permalink: /recipes/burger
   photo_thumb: burger-thumb.jpg
-  rating: 1
+  rating: 5
   title: Burger
 - mine: null
   permalink: /recipes/cheesy-stuffed-meatloaf-with-broccolini-and-eggplant
@@ -108,6 +108,9 @@ rel_tags_count:
   sauce:
   - 2
   - sauce
+  short-ribs:
+  - 1
+  - short ribs
   turkey:
   - 1
   - turkey

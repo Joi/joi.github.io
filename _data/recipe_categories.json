@@ -36,7 +36,6 @@
   "tuna-tataki-with-lime-ginger-and-jalapeno": "Tuna Tataki with Lime, Ginger and Jalapeño"
  },
  "_stub": {
-  "burger": "Burger",
   "grill-smoked-fish": "Grill Smoked Fish",
   "seared-wagyu": "Seared Wagyu",
   "steak": "Steak"
@@ -687,6 +686,7 @@
  },
  "short ribs": {
   "biltmore-chianti-glazed-beef-short-ribs": "Biltmore Chianti Glazed Beef Short Ribs",
+  "burger": "Burger",
   "garlic-braised-short-ribs-with-red-wine": "Garlic Braised Short Ribs with Red Wine",
   "gochujang-sesame-braised-short-ribs": "Gochujang Sesame Braised Short Ribs",
   "instant-pot-short-ribs": "Instant Pot Short Ribs",

@@ -40,7 +40,7 @@ recipes:
 - mine: 1
   permalink: /recipes/burger
   photo_thumb: burger-thumb.jpg
-  rating: 1
+  rating: 5
   title: Burger
 - mine: 1
   permalink: /recipes/chicken-stock
@@ -236,6 +236,9 @@ rel_tags_count:
   seafood:
   - 1
   - seafood
+  short-ribs:
+  - 1
+  - short ribs
   shrimp:
   - 4
   - shrimp
