@@ -1,0 +1,28 @@
+{% assign tags_array = include.tags_array  %}
+{% assign tag_label = include.tag_label %}
+<span class="tags">{{tag_label}}
+  {% for tag in tags_array %}
+
+    {% assign tag_dc = tag | downcase %}
+
+    <!--pre>{{ site.data.tag_edgecases[tag_dc] }}</pre-->
+
+    {% if site.data.tag_edgecases[tag_dc] %}
+      {% assign tag_dc = site.data.tag_edgecases[tag_dc] %}
+    {% else %}
+      {% assign tag_dc = tag_dc %}
+    {% endif %}
+
+    {% if forloop.last %}
+      {% assign comma = "" %}
+    {% else %}
+      {% assign comma = ", " %}
+    {% endif %}
+
+    <a href="/tag/{{ tag_dc | slugify }}" title="Tagged as {{ tag_dc }}">{{ tag_dc }}</a>{{comma}}
+  {% endfor %}
+</span>
+
+<!--pre>
+Tag Edgecases: {{ site.data.tag_edgecases }}
+</pre-->

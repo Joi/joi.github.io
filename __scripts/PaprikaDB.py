@@ -115,7 +115,20 @@ ts_offset = 978307200
 
 # Tag Case edge cases
 tag_edgecases = {
-  'bbq': 'BBQ'
+  'bbq': 'BBQ',
+  'jnat': 'JNAT',
+  'kio': 'Kio',
+  'wagyu': 'Wagyu',
+  'chinese': 'Chinese',
+  'french': 'French',
+  'indian': 'Indian',
+  'indonesian': 'indonesian',
+  'italian': 'Italian',
+  'japanese': 'Japanese',
+  'mexican': 'Mexican',
+  'middle east': 'Middle East',
+  'thai': 'Thai',
+  'vietnamese': 'Vietnamese',
 }
 # The above rendered as a list:
 tag_edgecases_list = []
@@ -217,6 +230,20 @@ def parse_tag_string(tag_str):
   else:
     tag_str = [tag_str]
   return tag_str
+
+# Check if tag is an exception
+# If so, return that
+# If not, return untouched
+# and If titlecasing (non-exceptions), do that
+def display_tag(tag,mode = None):
+  try:
+    tag = tag_edgecases[tag]# + " EDGECASE"
+  except:
+    if mode == "titlecase":
+      tag = titlecase(tag)# + " Titled"
+    else:
+      tag = tag# + " untouched"
+  return tag
 
 
 print ("✅ FUNCTIONS defined\n")
@@ -868,17 +895,22 @@ for page_mkdn_file in sorted(os.listdir(path_pags_mkdn_files)):
             tags[tag]['rel_tags'] += [i for i in parsed_page_tags if i not in [tag]]
             #print(tag + ": " + json.dumps(tags[tag], indent=1) + "\n")
 
-# Alphabetically Grouped and Sorted Tags
-# Probably a better way to do this with comprehension or lambda/map…
+# Alphabetically Grouped and Sorted Tags with title case and filename slugs
+# Really inefficient…
+# must be a better way to do this with comprehension or lambda/map…
 tags_alpha_grouped={}
-for tagag in tags:
-    tags_alpha_grouped.setdefault(tagag[0],[]).append(tagag)
+for tag_key in tags:
+    tags_alpha_grouped.setdefault(tag_key[0],[]).append(tag_key)
 tags_alpha_grouped.pop('_')
 for k,v in tags_alpha_grouped.items():
   tags_alpha_grouped[k] = sorted(v)
 sorted(tags_alpha_grouped)
 
-
+tags_alpha_grouped_2 = {}
+for letter,tagos in tags_alpha_grouped.items():
+  tags_alpha_grouped_2[letter] = {display_tag(tago):{'titlecase':display_tag(tago,'titlecase'),'filename':make_filename(tago)} for (tago) in tagos}
+tags_alpha_grouped = tags_alpha_grouped_2
+del tags_alpha_grouped_2
 
 # File writing and Miscellaneous cleanup ------------------------------------------
 
@@ -888,13 +920,12 @@ sorted(tags_alpha_grouped)
 # 2. Tag Page Markdown Slugs
 for tag, tagd in tags.items():
   # Take the list of accumulated tags and generate a count+filenamed dict for each unique tag
-  res = {make_filename(idx) : [tagd['rel_tags'].count(idx),idx]
-    for idx in set(tagd['rel_tags'])}
-  tagd['rel_tags_count'] = res
+  tagd['rel_tags_count'] = {make_filename(raw_tag_label) : [tagd['rel_tags'].count(raw_tag_label),display_tag(raw_tag_label)]
+    for raw_tag_label in set(tagd['rel_tags'])}
   tagd.pop('rel_tags') # discard the list
   # Make those slugs
   tag_filename = make_filename(tag)
-  tag_title = titlecase(tag)
+  tag_title = display_tag(tag,'titlecase')
   tag_key = tag_filename
   tag_yaml = yaml.dump(tagd)
   tag_content = "---\ntitle: " + tag_title + "\ntag_key: " + tag_key + "\n" + tag_yaml + "\n---\n"
@@ -904,8 +935,8 @@ for tag, tagd in tags.items():
 # Convert the data structs to JSON and dump to individual files
 
 # Tag Edge Cases Data Dump
-#write_json_file(tag_edgecases,path_json_data + "tag_edgecases.json")
-#print ("✅ TAG EDGECASES JSON Indices Dumped\n")
+write_json_file(tag_edgecases,path_json_data + "tag_edgecases.json")
+print ("✅ TAG EDGECASES JSON Indices Dumped\n")
 
 # Tag Indices Data Dump
 write_json_file(tags,path_json_data + "tags.json")

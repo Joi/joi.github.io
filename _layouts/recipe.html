@@ -51,8 +51,11 @@ layout: default
         </p>
       {% endif %}
 
-      {% if page.tags %}
-        <div class="sub-title">
+      <div class="sub-title">
+        {% if page.tags %}
+
+          {% include object_tag_lists.html tags_array=page.categories tag_label="Tags: " %}
+{% comment %}
           <span class="tags">Tags: 
           {% for tag in page.categories %}
             {% if forloop.last %}
@@ -63,8 +66,9 @@ layout: default
             <a href="/tag/{{ tag | slugify }}" title="Tagged as {{ tag | downcase }}">{{ tag | downcase }}</a>{{comma}}
           {% endfor %}
           </span>
-        </div>
-      {% endif %}
+{% endcomment %}
+        {% endif %}
+      </div>
 
     </div>
 

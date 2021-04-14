@@ -84,9 +84,9 @@ dt.first {
           {% assign alpha_1_sort = alpha[1] | sort %}
           {% for atag in alpha_1_sort %}
             <dd>
-              <a href="/tag/{{atag | slugify }}" title="{{atag}} page">䷀</a> 
-              <a href="#{{atag | slugify }}" title="{{atag}} debug">#</a> 
-              {{atag}}
+              <a href="/tag/{{atag[1]['filename'] }}" title="{{atag[0]}} page">䷀</a> 
+              <a href="#{{atag[1]['filename'] }}" title="{{atag[0]}} debug">#</a> 
+              {{atag[0]}}
             </dd>
           {% endfor %}
       {% endfor %}
