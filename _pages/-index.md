@@ -2,6 +2,7 @@
 layout: home
 title: Joi's Cooking and Related Tangents
 type: index
+i_am: home
 permalink: /index.html
 ---
 

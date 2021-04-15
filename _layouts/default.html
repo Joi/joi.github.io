@@ -4,10 +4,14 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <link rel="icon" type="image/png" href="https://joi.ito.com/favicon.png">
   <title>
+  {% if page.i_am == "home" %}
+    {{ page.title }}
+  {% else %}
     Joi's Cooking {{ page.title }}
     {% if page.i_am == "note" %}
       - {{ page.date | date_to_string: "ordinal", "US" }}
     {% endif %}
+  {% endif %}
   </title>
   <!-- link to main stylesheet -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
