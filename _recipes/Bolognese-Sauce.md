@@ -4,6 +4,7 @@ filename: "bolognese-sauce"
 categories: &id001
 - pasta
 - beef
+- italian
 - sauce
 cook_time: ''
 created: '2020-09-11 21:58:08'
@@ -31,7 +32,8 @@ meal_dates:
 - '2021-03-06'
 - '2021-03-17'
 - '2021-04-04'
-meal_types: 3|3|3|3|3|3|3|3|3|3|3|5
+- '2021-04-15'
+meal_types: 3|3|3|3|3|3|3|3|3|3|3|5|2
 mine: 1
 name: Bolognese Sauce
 p_recipe_id: 350

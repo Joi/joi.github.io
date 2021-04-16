@@ -85,7 +85,7 @@ uid: AB5344FC-BAB3-4231-B60A-1D06DACA40E4-51240-0001496E91E6A8C5
 <p>In a Dutch oven, add a bit of olive oil and sear chicken. 4 min per side, 2 batches.</p>
 <p>Add the butter and sauté the onions slowly until they are brown and tender - about 25 min.</p>
 <p>Add wine and vinegar and turn up heat and deglaze if there are brown bits.</p>
-<p>Lower heat and add ½ of the tarragon (or other chopped spice like Marjoram.)</p>
+<p>Lower heat and add ½ of the tarragon (or other chopped herbs like Marjoram.)</p>
 <p>Put thighs and drumsticks in skin side up and bring to simmer. Cover and cook for 8 minutes. Add broad big pieces skin side down. Cover and cook until big breast pieces have an internal temperature of 105ºF to 115ºF degrees, 3 to 5 minutes.</p>
 <p>Turn big breast pieces skin side up. Add smaller tapered breast pieces, skin side up. Transfer covered pot to oven or simmer and cook until breast pieces have an internal temperature of 150ºF and dark meat is 160ºF, 15 to 30 minutes.</p>
 <p>After chicken is done, remove and plate. Return pot to stove and add cream and simmer. Adjust seasoning with salt, pepper and vinegar. Add remaining tarragon and put sauce on chicken and serve.</p>

@@ -190,7 +190,7 @@ rel_tags_count:
   - 3
   - ground beef
   italian:
-  - 1
+  - 2
   - Italian
   meat:
   - 3

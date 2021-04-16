@@ -2,10 +2,10 @@
 title: Sorrel
 tag_key: sorrel
 recipes:
-- mine: null
+- mine: 1
   permalink: /recipes/chicken-with-sorrel
   photo_thumb: chicken-with-sorrel-thumb.jpg
-  rating: 0
+  rating: 5
   title: Chicken with Sorrel
 - mine: null
   permalink: /recipes/eggs-poached-in-buttery-sorrel-sauce

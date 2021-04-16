@@ -9,6 +9,11 @@ notes:
     uri_path: /2020/07/10/notes/dinner.html
 recipes:
 - mine: null
+  permalink: /recipes/bolognese-sauce
+  photo_thumb: bolognese-sauce-thumb.jpg
+  rating: 5
+  title: Bolognese Sauce
+- mine: null
   permalink: /recipes/chicken-sandwich
   photo_thumb: null
   rating: 5
@@ -65,7 +70,7 @@ recipes:
   title: The Best Meatball Recipe | 1-Minute Video
 rel_tags_count:
   beef:
-  - 1
+  - 2
   - beef
   chicken:
   - 1
@@ -80,7 +85,7 @@ rel_tags_count:
   - 3
   - meat
   pasta:
-  - 3
+  - 4
   - pasta
   pizza:
   - 2
@@ -89,7 +94,7 @@ rel_tags_count:
   - 1
   - sandwich
   sauce:
-  - 3
+  - 4
   - sauce
   soup:
   - 1

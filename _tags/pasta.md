@@ -95,7 +95,7 @@ rel_tags_count:
   - 2
   - ground beef
   italian:
-  - 3
+  - 4
   - Italian
   kio:
   - 2

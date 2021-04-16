@@ -21,7 +21,8 @@ ingredients: "**Fish**\n\xBD cup unbleached all-purpose flour\n4 sole fillets or
 intrash: 0
 meal_dates:
 - '2021-01-15'
-meal_types: '3'
+- '2021-04-16'
+meal_types: 3|3
 mine: null
 name: Fish Meuniere with Toasted Slivered Almonds
 p_recipe_id: 47

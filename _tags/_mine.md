@@ -48,6 +48,11 @@ recipes:
   rating: 5
   title: Chicken Stock
 - mine: 1
+  permalink: /recipes/chicken-with-sorrel
+  photo_thumb: chicken-with-sorrel-thumb.jpg
+  rating: 5
+  title: Chicken with Sorrel
+- mine: 1
   permalink: /recipes/chicken-with-vinegar
   photo_thumb: chicken-with-vinegar-thumb.jpg
   rating: 5
@@ -180,7 +185,7 @@ rel_tags_count:
   - 3
   - beef
   chicken:
-  - 6
+  - 7
   - chicken
   chinese:
   - 3
@@ -204,7 +209,7 @@ rel_tags_count:
   - 2
   - ground pork
   italian:
-  - 1
+  - 2
   - Italian
   lobster:
   - 1
@@ -245,6 +250,9 @@ rel_tags_count:
   sole:
   - 1
   - sole
+  sorrel:
+  - 1
+  - sorrel
   soup:
   - 2
   - soup

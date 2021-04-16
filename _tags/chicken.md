@@ -24,6 +24,9 @@ notes:
   - date: '2020-10-15'
     type: dinner
     uri_path: /2020/10/15/notes/dinner.html
+  - date: '2021-04-14'
+    type: dinner
+    uri_path: /2021/04/14/notes/dinner.html
 pages:
 - spatchcocking
 recipes:
@@ -125,7 +128,7 @@ recipes:
 - mine: null
   permalink: /recipes/chicken-with-sorrel
   photo_thumb: chicken-with-sorrel-thumb.jpg
-  rating: 0
+  rating: 5
   title: Chicken with Sorrel
 - mine: null
   permalink: /recipes/chicken-with-vinegar
