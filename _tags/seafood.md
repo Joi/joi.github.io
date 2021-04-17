@@ -26,10 +26,10 @@ recipes:
   rating: 5
   title: Cream of Leek and Fish Soup
 - mine: null
-  permalink: /recipes/fish-meuniere-with-toasted-slivered-almonds
-  photo_thumb: fish-meuniere-with-toasted-slivered-almonds-thumb.jpg
+  permalink: /recipes/fish-meuniere
+  photo_thumb: fish-meuniere-thumb.jpg
   rating: 5
-  title: Fish Meuniere with Toasted Slivered Almonds
+  title: Fish Meuniere
 - mine: null
   permalink: /recipes/mark-bittmans-bouillabaisse
   photo_thumb: mark-bittmans-bouillabaisse-thumb.jpg
@@ -59,7 +59,7 @@ rel_tags_count:
   - 2
   - fish
   flounder:
-  - 1
+  - 2
   - flounder
   fluke:
   - 1
@@ -70,9 +70,15 @@ rel_tags_count:
   rice:
   - 1
   - rice
+  salmon:
+  - 1
+  - salmon
   shrimp:
   - 1
   - shrimp
+  sole:
+  - 1
+  - sole
   soup:
   - 3
   - soup

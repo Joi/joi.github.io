@@ -18,10 +18,10 @@ recipes:
   rating: 4
   title: Baked Haddock with Garlic Green Beans
 - mine: null
-  permalink: /recipes/fish-meuniere-with-toasted-slivered-almonds
-  photo_thumb: fish-meuniere-with-toasted-slivered-almonds-thumb.jpg
+  permalink: /recipes/fish-meuniere
+  photo_thumb: fish-meuniere-thumb.jpg
   rating: 5
-  title: Fish Meuniere with Toasted Slivered Almonds
+  title: Fish Meuniere
 - mine: null
   permalink: /recipes/fish-soup
   photo_thumb: fish-soup-thumb.jpg
@@ -112,7 +112,7 @@ rel_tags_count:
   - 18
   - fish
   flounder:
-  - 2
+  - 3
   - flounder
   halibut:
   - 2
@@ -124,13 +124,13 @@ rel_tags_count:
   - 1
   - pressure cooker
   salmon:
-  - 1
+  - 2
   - salmon
   seafood:
   - 1
   - seafood
   sole:
-  - 1
+  - 2
   - sole
 
 ---

@@ -13,6 +13,11 @@ recipes:
   rating: 0
   title: Dover Sole Meuniere
 - mine: null
+  permalink: /recipes/fish-meuniere
+  photo_thumb: fish-meuniere-thumb.jpg
+  rating: 5
+  title: Fish Meuniere
+- mine: null
   permalink: /recipes/oven-poached-pacific-sole-with-lemon-caper-sauce
   photo_thumb: oven-poached-pacific-sole-with-lemon-caper-sauce-thumb.jpg
   rating: 5
@@ -34,19 +39,22 @@ recipes:
   title: "Sole Meuni\xE8re"
 rel_tags_count:
   fish:
-  - 3
+  - 4
   - fish
   flounder:
-  - 1
+  - 2
   - flounder
   fluke:
   - 1
   - fluke
   salmon:
-  - 1
+  - 2
   - salmon
-  white-fish:
+  seafood:
   - 1
+  - seafood
+  white-fish:
+  - 2
   - white fish
 
 ---

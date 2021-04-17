@@ -80,6 +80,13 @@
    },
    {
     "mine": 1,
+    "permalink": "/recipes/fish-meuniere",
+    "photo_thumb": "fish-meuniere-thumb.jpg",
+    "rating": 5,
+    "title": "Fish Meuniere"
+   },
+   {
+    "mine": 1,
     "permalink": "/recipes/fry-sauce",
     "photo_thumb": "fry-sauce-thumb.jpg",
     "rating": 5,
@@ -277,8 +284,12 @@
     "egg"
    ],
    "fish": [
-    2,
+    3,
     "fish"
+   ],
+   "flounder": [
+    1,
+    "flounder"
    ],
    "ground-beef": [
     1,
@@ -321,7 +332,7 @@
     "salad"
    ],
    "salmon": [
-    1,
+    2,
     "salmon"
    ],
    "sauce": [
@@ -329,7 +340,7 @@
     "sauce"
    ],
    "seafood": [
-    1,
+    2,
     "seafood"
    ],
    "short-ribs": [
@@ -341,7 +352,7 @@
     "shrimp"
    ],
    "sole": [
-    1,
+    2,
     "sole"
    ],
    "sorrel": [
@@ -381,7 +392,7 @@
     "Wagyu"
    ],
    "white-fish": [
-    1,
+    2,
     "white fish"
    ]
   }
@@ -1100,6 +1111,13 @@
  },
  "beef shank": {
   "recipes": [
+   {
+    "mine": null,
+    "permalink": "/recipes/beef-osso-buco",
+    "photo_thumb": "beef-osso-buco-thumb.jpg",
+    "rating": 0,
+    "title": "Beef Osso Buco"
+   },
    {
     "mine": null,
     "permalink": "/recipes/chinese-spiced-braised-beef-shank",
@@ -2909,10 +2927,10 @@
    },
    {
     "mine": null,
-    "permalink": "/recipes/fish-meuniere-with-toasted-slivered-almonds",
-    "photo_thumb": "fish-meuniere-with-toasted-slivered-almonds-thumb.jpg",
+    "permalink": "/recipes/fish-meuniere",
+    "photo_thumb": "fish-meuniere-thumb.jpg",
     "rating": 5,
-    "title": "Fish Meuniere with Toasted Slivered Almonds"
+    "title": "Fish Meuniere"
    },
    {
     "mine": null,
@@ -3089,7 +3107,7 @@
     "clams"
    ],
    "flounder": [
-    2,
+    3,
     "flounder"
    ],
    "halibut": [
@@ -3105,7 +3123,7 @@
     "pollack"
    ],
    "salmon": [
-    7,
+    8,
     "salmon"
    ],
    "seafood": [
@@ -3113,7 +3131,7 @@
     "seafood"
    ],
    "sole": [
-    3,
+    4,
     "sole"
    ],
    "soup": [
@@ -3139,6 +3157,17 @@
   "rel_tags_count": {}
  },
  "flounder": {
+  "notes": {
+   "feature": [
+    {
+     "date": "2021-04-16",
+     "feature": "Yellowtail Flounder Meuniere",
+     "type": "dinner",
+     "uri_path": "/2021/04/16/notes/dinner.html"
+    }
+   ],
+   "rough": []
+  },
   "recipes": [
    {
     "mine": null,
@@ -3170,6 +3199,13 @@
    },
    {
     "mine": null,
+    "permalink": "/recipes/fish-meuniere",
+    "photo_thumb": "fish-meuniere-thumb.jpg",
+    "rating": 5,
+    "title": "Fish Meuniere"
+   },
+   {
+    "mine": null,
     "permalink": "/recipes/flounder-with-brown-butter-lemon-and-tarragon",
     "photo_thumb": "flounder-with-brown-butter-lemon-and-tarragon-thumb.jpg",
     "rating": 5,
@@ -3192,19 +3228,27 @@
   ],
   "rel_tags_count": {
    "fish": [
-    2,
+    3,
     "fish"
    ],
    "fluke": [
     4,
     "fluke"
    ],
-   "seafood": [
+   "french": [
     1,
+    "French"
+   ],
+   "salmon": [
+    1,
+    "salmon"
+   ],
+   "seafood": [
+    2,
     "seafood"
    ],
    "sole": [
-    1,
+    2,
     "sole"
    ],
    "soup": [
@@ -3212,7 +3256,7 @@
     "soup"
    ],
    "white-fish": [
-    2,
+    3,
     "white fish"
    ]
   }
@@ -3276,7 +3320,14 @@
  },
  "french": {
   "notes": {
-   "feature": [],
+   "feature": [
+    {
+     "date": "2021-04-16",
+     "feature": "Yellowtail Flounder Meuniere",
+     "type": "dinner",
+     "uri_path": "/2021/04/16/notes/dinner.html"
+    }
+   ],
    "rough": [
     {
      "date": "2020-09-17",
@@ -3289,6 +3340,10 @@
    "chicken": [
     1,
     "chicken"
+   ],
+   "flounder": [
+    1,
+    "flounder"
    ],
    "pressure-cooker": [
     1,
@@ -6026,6 +6081,13 @@
    },
    {
     "mine": null,
+    "permalink": "/recipes/fish-meuniere",
+    "photo_thumb": "fish-meuniere-thumb.jpg",
+    "rating": 5,
+    "title": "Fish Meuniere"
+   },
+   {
+    "mine": null,
     "permalink": "/recipes/four-spice-salmon",
     "photo_thumb": "four-spice-salmon-thumb.jpg",
     "rating": 5,
@@ -6147,15 +6209,23 @@
     "billows"
    ],
    "fish": [
-    7,
+    8,
     "fish"
+   ],
+   "flounder": [
+    1,
+    "flounder"
    ],
    "halibut": [
     1,
     "halibut"
    ],
-   "sole": [
+   "seafood": [
     1,
+    "seafood"
+   ],
+   "sole": [
+    2,
     "sole"
    ],
    "temperature": [
@@ -6163,7 +6233,7 @@
     "temperature"
    ],
    "white-fish": [
-    1,
+    2,
     "white fish"
    ]
   }
@@ -6631,10 +6701,10 @@
    },
    {
     "mine": null,
-    "permalink": "/recipes/fish-meuniere-with-toasted-slivered-almonds",
-    "photo_thumb": "fish-meuniere-with-toasted-slivered-almonds-thumb.jpg",
+    "permalink": "/recipes/fish-meuniere",
+    "photo_thumb": "fish-meuniere-thumb.jpg",
     "rating": 5,
-    "title": "Fish Meuniere with Toasted Slivered Almonds"
+    "title": "Fish Meuniere"
    },
    {
     "mine": null,
@@ -6676,7 +6746,7 @@
     "fish"
    ],
    "flounder": [
-    1,
+    2,
     "flounder"
    ],
    "fluke": [
@@ -6691,9 +6761,17 @@
     1,
     "rice"
    ],
+   "salmon": [
+    1,
+    "salmon"
+   ],
    "shrimp": [
     1,
     "shrimp"
+   ],
+   "sole": [
+    1,
+    "sole"
    ],
    "soup": [
     3,
@@ -7224,6 +7302,13 @@
    },
    {
     "mine": null,
+    "permalink": "/recipes/fish-meuniere",
+    "photo_thumb": "fish-meuniere-thumb.jpg",
+    "rating": 5,
+    "title": "Fish Meuniere"
+   },
+   {
+    "mine": null,
     "permalink": "/recipes/oven-poached-pacific-sole-with-lemon-caper-sauce",
     "photo_thumb": "oven-poached-pacific-sole-with-lemon-caper-sauce-thumb.jpg",
     "rating": 5,
@@ -7253,11 +7338,11 @@
   ],
   "rel_tags_count": {
    "fish": [
-    3,
+    4,
     "fish"
    ],
    "flounder": [
-    1,
+    2,
     "flounder"
    ],
    "fluke": [
@@ -7265,11 +7350,15 @@
     "fluke"
    ],
    "salmon": [
-    1,
+    2,
     "salmon"
    ],
-   "white-fish": [
+   "seafood": [
     1,
+    "seafood"
+   ],
+   "white-fish": [
+    2,
     "white fish"
    ]
   }
@@ -7851,7 +7940,7 @@
     "mine": null,
     "permalink": "/recipes/smashed-sunchokes-with-thyme-butter",
     "photo_thumb": "smashed-sunchokes-with-thyme-butter-thumb.jpg",
-    "rating": 0,
+    "rating": 5,
     "title": "Smashed Sunchokes with Thyme-Butter"
    }
   ],
@@ -8564,10 +8653,10 @@
    },
    {
     "mine": null,
-    "permalink": "/recipes/fish-meuniere-with-toasted-slivered-almonds",
-    "photo_thumb": "fish-meuniere-with-toasted-slivered-almonds-thumb.jpg",
+    "permalink": "/recipes/fish-meuniere",
+    "photo_thumb": "fish-meuniere-thumb.jpg",
     "rating": 5,
-    "title": "Fish Meuniere with Toasted Slivered Almonds"
+    "title": "Fish Meuniere"
    },
    {
     "mine": null,
@@ -8695,7 +8784,7 @@
     "fish"
    ],
    "flounder": [
-    2,
+    3,
     "flounder"
    ],
    "halibut": [
@@ -8711,7 +8800,7 @@
     "pressure cooker"
    ],
    "salmon": [
-    1,
+    2,
     "salmon"
    ],
    "seafood": [
@@ -8719,7 +8808,7 @@
     "seafood"
    ],
    "sole": [
-    1,
+    2,
     "sole"
    ]
   }

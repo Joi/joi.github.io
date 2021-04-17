@@ -58,6 +58,11 @@ recipes:
   rating: 5
   title: Chicken with Vinegar
 - mine: 1
+  permalink: /recipes/fish-meuniere
+  photo_thumb: fish-meuniere-thumb.jpg
+  rating: 5
+  title: Fish Meuniere
+- mine: 1
   permalink: /recipes/fry-sauce
   photo_thumb: fry-sauce-thumb.jpg
   rating: 5
@@ -200,8 +205,11 @@ rel_tags_count:
   - 1
   - egg
   fish:
-  - 2
+  - 3
   - fish
+  flounder:
+  - 1
+  - flounder
   ground-beef:
   - 1
   - ground beef
@@ -233,13 +241,13 @@ rel_tags_count:
   - 1
   - salad
   salmon:
-  - 1
+  - 2
   - salmon
   sauce:
   - 8
   - sauce
   seafood:
-  - 1
+  - 2
   - seafood
   short-ribs:
   - 1
@@ -248,7 +256,7 @@ rel_tags_count:
   - 4
   - shrimp
   sole:
-  - 1
+  - 2
   - sole
   sorrel:
   - 1
@@ -278,7 +286,7 @@ rel_tags_count:
   - 1
   - Wagyu
   white-fish:
-  - 1
+  - 2
   - white fish
 
 ---

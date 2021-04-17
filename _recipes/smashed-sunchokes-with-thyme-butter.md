@@ -32,7 +32,7 @@ photo_large: null
 photo_thumb: smashed-sunchokes-with-thyme-butter-thumb.jpg
 photos_dict: null
 prep_time: 10 minutes
-rating: 0
+rating: 5
 servings: Serves 4 as a side dish
 slug: smashed-sunchokes-with-thyme-butter
 source: seriouseats.com

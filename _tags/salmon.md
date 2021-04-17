@@ -33,6 +33,11 @@ recipes:
   rating: 5
   title: Easy Grilled Salmon
 - mine: null
+  permalink: /recipes/fish-meuniere
+  photo_thumb: fish-meuniere-thumb.jpg
+  rating: 5
+  title: Fish Meuniere
+- mine: null
   permalink: /recipes/four-spice-salmon
   photo_thumb: four-spice-salmon-thumb.jpg
   rating: 5
@@ -120,19 +125,25 @@ rel_tags_count:
   - 1
   - billows
   fish:
-  - 7
+  - 8
   - fish
+  flounder:
+  - 1
+  - flounder
   halibut:
   - 1
   - halibut
-  sole:
+  seafood:
   - 1
+  - seafood
+  sole:
+  - 2
   - sole
   temperature:
   - 1
   - temperature
   white-fish:
-  - 1
+  - 2
   - white fish
 
 ---

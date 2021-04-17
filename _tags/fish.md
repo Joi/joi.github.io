@@ -45,10 +45,10 @@ recipes:
   rating: 0
   title: Crunchy Fried Fish Tacos
 - mine: null
-  permalink: /recipes/fish-meuniere-with-toasted-slivered-almonds
-  photo_thumb: fish-meuniere-with-toasted-slivered-almonds-thumb.jpg
+  permalink: /recipes/fish-meuniere
+  photo_thumb: fish-meuniere-thumb.jpg
   rating: 5
-  title: Fish Meuniere with Toasted Slivered Almonds
+  title: Fish Meuniere
 - mine: null
   permalink: /recipes/fish-soup
   photo_thumb: fish-soup-thumb.jpg
@@ -174,7 +174,7 @@ rel_tags_count:
   - 1
   - clams
   flounder:
-  - 2
+  - 3
   - flounder
   halibut:
   - 1
@@ -186,13 +186,13 @@ rel_tags_count:
   - 2
   - pollack
   salmon:
-  - 7
+  - 8
   - salmon
   seafood:
   - 2
   - seafood
   sole:
-  - 3
+  - 4
   - sole
   soup:
   - 2

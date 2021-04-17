@@ -1,6 +1,13 @@
 ---
 title: Flounder
 tag_key: flounder
+notes:
+  feature:
+  - date: '2021-04-16'
+    feature: Yellowtail Flounder Meuniere
+    type: dinner
+    uri_path: /2021/04/16/notes/dinner.html
+  rough: []
 recipes:
 - mine: null
   permalink: /recipes/baked-flounder-with-panko-and-parmesan
@@ -23,6 +30,11 @@ recipes:
   rating: 0
   title: Egg Batter Pan-Fried Flounder with Green Garlic
 - mine: null
+  permalink: /recipes/fish-meuniere
+  photo_thumb: fish-meuniere-thumb.jpg
+  rating: 5
+  title: Fish Meuniere
+- mine: null
   permalink: /recipes/flounder-with-brown-butter-lemon-and-tarragon
   photo_thumb: flounder-with-brown-butter-lemon-and-tarragon-thumb.jpg
   rating: 5
@@ -39,22 +51,28 @@ recipes:
   title: Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar
 rel_tags_count:
   fish:
-  - 2
+  - 3
   - fish
   fluke:
   - 4
   - fluke
-  seafood:
+  french:
   - 1
+  - French
+  salmon:
+  - 1
+  - salmon
+  seafood:
+  - 2
   - seafood
   sole:
-  - 1
+  - 2
   - sole
   soup:
   - 1
   - soup
   white-fish:
-  - 2
+  - 3
   - white fish
 
 ---

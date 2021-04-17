@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2021-04-14-dinner.md",
+            "file": "_notes/2021-04-16-dinner.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-04-14-dinner.md",
+                "file": "_notes/2021-04-16-dinner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "3719bcb9f4d045af",
   "lastOpenFiles": [
+    "_notes/2021-04-16-dinner.md",
+    "_notes/2020-08-10-dinner.md",
+    "_notes/2020-07-15-dinner.md",
+    "_notes/2020-07-10-dinner.md",
+    "_notes/2020-07-03-dinner.md",
     "_notes/2021-04-14-dinner.md",
     "images/recipes/sorrels-and-chicken-1.jpg.md",
     "_pages/-index.md",
     "_notes/2021-04-02-dinner.md",
-    "_notes/2021-04-03-dinner.md",
-    "_notes/2021-04-03-lunch.md",
-    "_notes/2021-04-04-dinner.md",
-    "_notes/2021-04-05-dinner.md",
-    "_posts/2020-07-27-kamisori-razors.md",
-    "_notes/2021-03-27-dinner.md"
+    "_notes/2021-04-03-dinner.md"
   ]
 }

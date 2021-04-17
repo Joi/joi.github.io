@@ -1023,7 +1023,8 @@
    "479": "Lunch"
   },
   "2021-04-18": {
-   "199": "Dinner"
+   "199": "Dinner",
+   "518": "Dinner"
   }
  },
  "meal_by_recipe_and_date": {
@@ -2005,6 +2006,9 @@
   },
   "517": {
    "2021-04-15": "Dinner"
+  },
+  "518": {
+   "2021-04-18": "Dinner"
   }
  },
  "meal_data_by_recipe_and_status": {
@@ -2160,13 +2164,16 @@
    ]
   },
   "47": {
+   "featured": [
+    {
+     "date": "2021-04-16",
+     "feature": "Yellowtail Flounder Meuniere",
+     "type": "Dinner"
+    }
+   ],
    "nofile": [
     {
      "date": "2021-01-15",
-     "type": "Dinner"
-    },
-    {
-     "date": "2021-04-16",
      "type": "Dinner"
     }
    ]
@@ -4944,6 +4951,14 @@
      "type": "Dinner"
     }
    ]
+  },
+  "518": {
+   "nofile": [
+    {
+     "date": "2021-04-18",
+     "type": "Dinner"
+    }
+   ]
   }
  },
  "recipe_by_date_and_meal": {
@@ -6622,7 +6637,8 @@
   },
   "2021-04-18": {
    "Dinner": [
-    199
+    199,
+    518
    ]
   }
  }
