@@ -1,9 +1,30 @@
 ---
 layout: default
 ---
+<style>
+.directory-list {
+  columns: 3 250px;
+  column-gap: 4em;
+  column-rule: 1px dotted #ddd;
+}
+.alpha-group {
+  margin-bottom: 2em;
+  break-inside: avoid;
+}
+.alpha {
+  float: left;
+  width: 40px;
+  font-weight:bold;
+}
+.alpha-page-group {
+  margin-left: 40px;
+}
+.page {
+  margin-bottom: .25em;
+}
+</style>
 
-
-<!-- template: notes_index.html -->
+<!-- template: pages_index.html -->
 <div class="row" id="title">
 	<div class="small-12 columns">
     <div class="page-header">
@@ -11,54 +32,74 @@ layout: default
     </div>
 		<div class="content">
       {%- include content.html -%}
-      <hr>
     </div>
   </div>
 </div>
 
 
 <div class="row" id="">
-	<div class="medium-8 columns" id="main">
 
+	<div class="medium-12 columns">
+
+    <div class="pages-directory">
+      <h4>Directory</h4><br>
+      <div class="directory-list">
+        {% assign pages_alpha = site.data.pages_alpha_grouped %}
+        {% for alpha in pages_alpha %}
+          {% assign firstclass = "" %}
+          {% if forloop.first %}
+          {% assign firstclass = " first" %}
+          {% endif %}
+          <div class="alpha-group">
+            <div class="alpha{{firstclass}}">{{ alpha[0] | upcase }}</div>
+            <div class="alpha-page-group">
+              {% assign alpha_1_sort = alpha[1] | sort %}
+              {% for atag in alpha_1_sort %}
+                <div class="page">
+                  {% assign site_page_Info = site.pages | where: "title", atag %}
+                  <a href="{{site_page_Info[0].url}}" title="{{site_page_Info[0].title}}">
+                  {{atag}}
+                  </a>
+                </div>
+              {% endfor %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+    </div>
+
+	</div>
+</div>
+
+{% comment %}
+<div class="row" id="">
+	<div class="medium-8 columns">
     <div class="meal-notes-feed">
-      {% assign pages = site.pages | where_exp:"item", "item.type != 'index'" %}
+      {% assign pages = site.pages | where_exp:"item", "item.type != 'index'" | sort: 'title' %}
       {% for page in pages %}
       {% if forloop.last %}
       {% assign lastclass = " last" %}
       {% endif %}
         <div class="page{{lastclass}}">
-          <a class="title" href="{{page.url}}" title="{{page.title}}, {{page.date | date_to_string: 'ordinal', 'US' }}">
+          <a class="title" href="{{page.url}}" title="{{page.title}}">
           <h5>{{page.title}}</h5>
           </a>
-          {% comment %}
           <em>{{page.date | date_to_string: "ordinal", "US" }}</em>
           <p>
           {{ page.content | markdownify  | strip_html | truncatewords: 60, " …" }}
           </p>
           {{ page.excerpt | strip_html }}
-          {% endcomment %}
         </div>
       {% endfor %}
     </div>
-
-	</div>
-
-	<div class="medium-3 columns" id="right-margin">
-
-
-
 	</div>
 </div>
+{% endcomment %}
 
 {% if jekyll.environment == 'development' %}
-<hr>
-<div class="row dev-only" id="">
-  <div class="medium-12 columns" id="stuff">
-
-   
-
-  </div>
-</div>
+<!--hr>
+<div class="row dev-only" id=""><div class="medium-12 columns" id="stuff"></div></div-->
 {% endif %}
 
-<!-- /template: notes_index.html -->
+<!-- /template: pages_index.html -->
