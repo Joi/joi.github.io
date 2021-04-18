@@ -245,6 +245,20 @@ def display_tag(tag,mode = None):
       tag = tag# + " untouched"
   return tag
 
+# Given a List
+# Return an alphabetically grouped and sorted List of lists
+def make_alpha_grouped_list(the_list, pops=None):
+  list_alpha_grouped={}
+  for list_items in the_list:
+      list_alpha_grouped.setdefault(list_items[0].lower(),[]).append(list_items)
+  if pops:
+    for pop in pops:
+      list_alpha_grouped.pop(pop)
+  for k,v in list_alpha_grouped.items():
+    list_alpha_grouped[k] = sorted(v)
+  sorted(list_alpha_grouped)
+  return list_alpha_grouped
+
 
 print ("✅ FUNCTIONS defined\n")
 
@@ -878,8 +892,8 @@ for page_mkdn_file in sorted(os.listdir(path_pags_mkdn_files)):
       parsed_page = frontmatter.load(page_mkdn_file_path) # See note "Parsed Note" at foot
       parsed_page_tags = parsed_page.get('tags')
       parsed_page_title = parsed_page.get('title')
+      # Process Tags
       if parsed_page_tags != None:
-
         if type(parsed_page_tags) is str:
           parsed_page_tags = parse_tag_string(parsed_page_tags)
         if type(parsed_page_tags) is list:
@@ -898,22 +912,32 @@ for page_mkdn_file in sorted(os.listdir(path_pags_mkdn_files)):
             tags[tag]['rel_tags'] += [i for i in parsed_page_tags if i not in [tag]]
             #print(tag + ": " + json.dumps(tags[tag], indent=1) + "\n")
 
+      # Process Titles
+      if parsed_page_title != None:
+        try:
+          pages
+        except:
+          pages = []
+        # add the title to the list
+        #pages += [parsed_page_title] # both these methods work :)
+        pages.append(parsed_page_title)
+
+
 # Alphabetically Grouped and Sorted Tags with title case and filename slugs
 # Really inefficient…
 # must be a better way to do this with comprehension or lambda/map…
-tags_alpha_grouped={}
-for tag_key in tags:
-    tags_alpha_grouped.setdefault(tag_key[0],[]).append(tag_key)
-tags_alpha_grouped.pop('_')
-for k,v in tags_alpha_grouped.items():
-  tags_alpha_grouped[k] = sorted(v)
-sorted(tags_alpha_grouped)
+tags_alpha_grouped = make_alpha_grouped_list(tags,['_'])
+#print(json.dumps(tags_alpha_grouped,indent=1))
 
 tags_alpha_grouped_2 = {}
 for letter,tagos in tags_alpha_grouped.items():
   tags_alpha_grouped_2[letter] = {display_tag(tago):{'titlecase':display_tag(tago,'titlecase'),'filename':make_filename(tago)} for (tago) in tagos}
 tags_alpha_grouped = tags_alpha_grouped_2
 del tags_alpha_grouped_2
+
+# Alphabetically Grouped and Sorted Pages
+pages_alpha_grouped = make_alpha_grouped_list(pages)
+#print(json.dumps(pages_alpha_grouped,indent=1))
 
 # File writing and Miscellaneous cleanup ------------------------------------------
 
@@ -954,6 +978,9 @@ print ("✅ CATEGORY JSON Indices Dumped\n")
 write_json_file(meals_indices,path_json_data + "meals_indices.json")
 print ("✅ MEALS JSON Indices Dumped\n")
 
+# Pages Indices Data Dump
+write_json_file(pages_alpha_grouped,path_json_data + "pages_alpha_grouped.json")
+print ("✅ TAGS JSON Indices Dumped\n")
 
 
 # CLEANUP --------------------------------------------
