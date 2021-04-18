@@ -55,7 +55,8 @@ collections:
   notes:
     output: true
     sort_by: date
-    permalink: /:year/:month/:day/notes/:slug
+    #permalink: /:year/:month/:day/notes/:slug
+    permalink: /meal-notes/:year-:month-:day-:slug
   tags:
     output: true
     permalink: /tag/:slug
