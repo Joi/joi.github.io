@@ -670,8 +670,8 @@ for result in results:
     if result2['mine']:
       if content['html']['description']:
         output2 += '\t\t<div id="description"><h4>Description</h4>\n<div class="box box-description content">'+ content['html']['description'] + '</div></div>'
-      if content['html']['notes']:
-        output2 += '\t\t<div id="notes"><h4>Notes</h4>\n<div class="box box-notes">' + content['html']['notes'] + '</div></div>'
+    if content['html']['notes']:
+      output2 += '\t\t<div id="notes"><h4>Notes</h4>\n<div class="box box-notes">' + content['html']['notes'] + '</div></div>'
     output2 += '\t</div><!-- #writeup -->\n'
     output2 += '</div><!-- #row-one -->\n'
 
