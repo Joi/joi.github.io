@@ -1,5 +1,5 @@
 ---
-title: spatchcocking
+title: Spatchcocking
 tags:
   - spatchcocking
   - chicken
