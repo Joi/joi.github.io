@@ -14,7 +14,7 @@ which happen to correspond/define the page.title and page.note vars
 	<div class="small-12 columns">
 
     <div class="page-header">
-      <div class="sup-head"><a href="/meal-notes/" title="Meal Notes">Meal Notes</a></div>
+      <div class="sup-head"><a href="/notes/" title="Meal Notes">Meal Notes</a></div>
       <div class="title">{% if page.feature %}{{ page.feature }}{% else %}{{ page.title }}{% endif %}</div>
       <div class="sub-title">
         <span class="date">{% if page.feature %}{{ page.title }}, {% endif %}{{ page.date | date_to_string: "ordinal", "US" }}</span>

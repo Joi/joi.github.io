@@ -828,7 +828,7 @@ for meal_mkdn_file in sorted(os.listdir(path_meal_mkdn_files)):
     meal_date = meal_year + "-" + meal_mnth + "-" + meal_day 
     meal_mkdn_file_path = path_meal_mkdn_files + meal_mkdn_file
     # ! ! ! Weak link: Replicating the Note Permalink from Jekyll's _config.yml 
-    meal_uri_path = "/"+ meal_year +"/"+ meal_mnth +"/"+ meal_day +"/notes/" + meal_type + ".html"
+    meal_uri_path = "/notes/"+ meal_year +"-"+ meal_mnth +"-"+ meal_day +"-" + meal_type + ".html"
 
     # Now, we need to open each file …
     if os.path.isfile(meal_mkdn_file_path):

@@ -132,7 +132,7 @@ Hacky, but it works.
                 {% assign date_us_ordinal = meal.date | date_to_string: 'ordinal', 'US' %}
                 {% assign day = meal.date | split: "-" %}
                 {% comment %}{% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal['type'] | downcase }}{% endcapture %}{% endcomment %}
-                {% capture note_path %}/meal-notes/{{ day[0] }}-{{ day[1] }}-{{ day[2] }}-{{ meal['type'] | downcase }}{% endcapture %}
+                {% capture note_path %}/notes/{{ day[0] }}-{{ day[1] }}-{{ day[2] }}-{{ meal['type'] | downcase }}{% endcapture %}
                 <li>
                   {% case note_sit[0] %}
                     {% when 'featured' %}
