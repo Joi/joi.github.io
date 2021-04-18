@@ -8,6 +8,7 @@ created: '2020-08-02 20:25:29'
 created_ts: 1596399929
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "5 ounces creamy blue cheese, such as Roquefort, Bleu d\u2019Auvergne,\
   \ or Maytag Blue, crumbled\r1 /2 cup cr\xE8me fra\xEEche (page 113 ), sour cream,\

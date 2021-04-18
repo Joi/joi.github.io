@@ -8,6 +8,7 @@ created: '2020-07-01 14:07:31'
 created_ts: 1593612451
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.acouplecooks.com/wp-content/uploads/2019/05/Shaved-Asparagus-Salad-003-735x919.jpg
 ingredients: "16 large asparagus spears (about 1 pound)\n1 tablespoon lemon juice,\
   \ plus lemon zest to serve\n3 tablespoons extra virgin olive oil\n3/4 cup Parmesan\

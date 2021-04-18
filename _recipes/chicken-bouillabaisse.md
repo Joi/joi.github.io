@@ -16,6 +16,7 @@ description: "this is an easy, crowd-pleasing dish I owe to Madeleine Serraille,
   \ I went to college.\n\nA\xEFoli gives this dish richness along with a jolt of garlic;\
   \ a lighter alternative is to rub the hot toasted bread with raw garlic.\n"
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '4 chicken legs (about 8 ounces each) or one 3-pound chicken, back removed
   and quartered

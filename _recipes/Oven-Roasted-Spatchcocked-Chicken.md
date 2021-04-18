@@ -8,6 +8,7 @@ created: '2020-07-09 14:31:38'
 created_ts: 1594305098
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'Whole Chicken
 

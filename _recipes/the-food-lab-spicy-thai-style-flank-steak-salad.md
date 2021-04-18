@@ -13,6 +13,7 @@ description: "This is probably my favorite beef marinade of all time. Sweet, spi
   \ skillet\u2014split the steak crosswise in half so you can fit it in the pan. Flank\
   \ steak can be replaced with hanger, skirt, or flap meat."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "**For the Marinade**\n\n\xBD cup packed brown sugar\n\xBC cup water\n\
   3 tablespoons Asian fish sauce\n2 tablespoons soy sauce\n\u2153 cup lime juice (from\

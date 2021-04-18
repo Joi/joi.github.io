@@ -10,6 +10,7 @@ created: '2021-01-22 21:36:16'
 created_ts: 1611351376
 description: Same as Thousand Island sauce
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "\u2154 cup of fresh [recipe:Mayonnaise]\n1 Tbsp ketchup\n1 tsp Worcestershire\
   \ sauce\n1 tsp freshly grated horseradish or wasabi\nTabasco sauce\nPinch of paprika"

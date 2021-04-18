@@ -8,6 +8,7 @@ created: '2020-02-02 12:33:50'
 created_ts: 1580646830
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/17886068-1254-4182-b416-cb91f119acc8/Derivates/60ff7248-2fe1-48e2-bcaa-0ae1b8409805.jpg
 ingredients: "7 oz soybeans\nwarm water, to soak\nMantou Buns\n1 \xBD tsp active dry\
   \ yeast\n1 \xBD oz brown sugar\n8 \xBD oz water\n18 oz all-purpose flour, plus extra\

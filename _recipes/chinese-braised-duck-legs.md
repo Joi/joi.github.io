@@ -9,6 +9,7 @@ created: '2021-03-29 12:14:29'
 created_ts: 1617020069
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '4 duck legs
 

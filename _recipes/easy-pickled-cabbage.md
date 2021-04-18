@@ -9,6 +9,7 @@ created: '2020-04-25 20:37:24'
 created_ts: 1587847044
 description: null
 difficulty: null
+favorite: 0
 image_url: https://arbuz.com/wp-content/uploads/2015/07/Easy-Pickled-Cabbage-1.jpg
 ingredients: '1 medium green cabbage
 

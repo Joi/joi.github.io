@@ -8,6 +8,7 @@ created: '2020-06-18 17:46:14'
 created_ts: 1592502374
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "3 large garlic cloves, finely chopped\n\xBD teaspoon salt\n\xBD teaspoon\
   \ freshly ground black pepper\n1 \xBC pound large shrimp, preferably wild American\

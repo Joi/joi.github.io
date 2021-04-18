@@ -9,6 +9,7 @@ created: '2021-03-07 12:22:58'
 created_ts: 1615119778
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "2 (8-ounce) lamb rib chops, trimmed (about 2 inches thick)\n\xBD teaspoon\
   \ kosher salt, divided\n\xBD teaspoon freshly ground black pepper, divided\n2 tablespoons\

@@ -28,6 +28,7 @@ description: "Perhaps your family is small. Perhaps your friends all bailed on y
   \ dreams are made of.\n\nNOTE: For the juiciest results and crispest skin, dry-brine\
   \ the bird and air-dry it overnight as described here."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1 whole bone-in, skin-on turkey breast, 4 to 5 pounds,\rpatted dry\r\
   1 recipe Classic Sage and Sausage Stuffing (here)\r3 tablespoons unsalted butter,\

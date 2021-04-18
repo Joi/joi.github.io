@@ -16,6 +16,7 @@ description: 'Based on [this recipe](https://dancyu.jp/recipe/2019_00001803.html
 
   I swapped out the parsley for cilantro.'
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "**Sauce**\n\n2 Tbsp heavy cream\n2 Tbsp condensed milk\n\u2153 tsp gin\n\
   1 tsp ketchup\n100g [mayonnaise](/recipes/mayonnaise)\n\n10 shrimp, shelled\nPinch\

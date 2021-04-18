@@ -6,11 +6,11 @@ notes:
   - date: '2020-10-18'
     feature: Billows on a Chuck Roast
     type: dinner
-    uri_path: /2020/10/18/notes/dinner.html
+    uri_path: /notes/2020-10-18-dinner.html
   rough:
   - date: '2020-09-20'
     type: dinner
-    uri_path: /2020/09/20/notes/dinner.html
+    uri_path: /notes/2020-09-20-dinner.html
 pages:
 - Smoking
 rel_tags_count:

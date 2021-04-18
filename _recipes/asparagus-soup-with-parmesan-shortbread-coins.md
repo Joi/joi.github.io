@@ -9,6 +9,7 @@ created: '2020-07-01 14:13:08'
 created_ts: 1593612788
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F201103-xl-asparagus-soup.jpg%3Fitok%3D7PNQcGEi&w=700&c=sc&poi=face&q=85
 ingredients: 'SHORTBREAD
 
@@ -68,7 +69,10 @@ total_time: ''
 type: null
 uid: B6F886D7-7460-4A26-B8FD-D9967B8D756A-631-000053B5D5899A56
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Thermomix puree:</p>
+<p>purée 20-30 sec/speed 4-8, increasing speed gradually from speed 4 to speed 8</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>SHORTBREAD</li>

@@ -8,6 +8,7 @@ created: '2020-02-03 16:02:47'
 created_ts: 1580745767
 description: null
 difficulty: Medium
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/vimdb/166356.jpg
 ingredients: "Salad\n18 oz water\n4 large eggs\n7 oz bread, cubed (\xBD in.)\n3 tbsp\
   \ extra virgin olive oil\n20 oz romaine lettuce, cut into strips\nDressing\n8 \xBD\

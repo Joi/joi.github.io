@@ -8,6 +8,7 @@ created: '2020-11-01 01:42:46'
 created_ts: 1604194966
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.inspiredtaste.net/wp-content/uploads/2016/06/Oven-Baked-Ribs-Recipe-2-1200.jpg
 ingredients: 'RIBS
 

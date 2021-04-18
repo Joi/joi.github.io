@@ -8,6 +8,7 @@ created: '2020-02-03 15:29:57'
 created_ts: 1580743797
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/37780_sfs-skillet-roasted-brussels-sprouts-lemon-pecorino-romano-31
 ingredients: "GATHER YOUR INGREDIENTS\n1 pound small (1 to 1 1/2 inches in diameter)\
   \ Brussels sprouts, trimmed and halved\n5 tablespoons extra-virgin olive oil\n1\

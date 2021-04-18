@@ -10,6 +10,7 @@ created: '2021-01-23 17:26:15'
 created_ts: 1611422775
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/04/Guacamole-3-2-150x225.jpg
 ingredients: '3 avocados, ripe
 

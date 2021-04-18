@@ -8,6 +8,7 @@ created: '2020-10-03 11:25:36'
 created_ts: 1601724336
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.askchefdennis.com/wp-content/uploads/2020/05/ultimate-grilled-chicken-sandwich-10.jpg
 ingredients: "16 ounces boneless skinless chicken breasts 4 ounce each\n1 tablespoon\
   \ olive oil\n1/2 teaspoon sea salt\n1/4 teaspoon black pepper\n1/2 teaspoon smoked\

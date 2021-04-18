@@ -9,6 +9,7 @@ created: '2020-04-30 20:06:08'
 created_ts: 1588277168
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "FOR THE AIOLI:\n1 to 2 garlic cloves, finely grated or mashed to a paste,\
   \ or use 1 tablespoon minced green garlic\n\xBD teaspoon lemon juice, more to taste\n\

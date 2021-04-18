@@ -8,6 +8,7 @@ created: '2020-04-02 17:11:21'
 created_ts: 1585847481
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/b21c196/assets/NYTCookingLogo.png
 ingredients: "6 tablespoons olive oil\n\xBD cup blanched almonds (preferably Marcona)\n\
   \xBD cup country bread, torn into small pieces\n4 cloves garlic, chopped\nSmall\

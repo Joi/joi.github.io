@@ -13,6 +13,7 @@ description: 'Based on [a NYT recipe](https://cooking.nytimes.com/recipes/6815-c
 
   '
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1 Tbsp light oil\n2 Tbsp butter\n1 2 \xBD - to 3-pound chicken, cut\
   \ into serving pieces\nSalt and freshly ground black pepper\n1 large or 2 medium\

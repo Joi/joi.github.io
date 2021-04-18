@@ -8,6 +8,7 @@ created: '2020-09-15 11:10:10'
 created_ts: 1600168210
 description: Based on [this recipe from Food Network](https://www.foodnetwork.com/recipes/tyler-florence/pan-seared-tuna-with-avocado-soy-ginger-and-lime-recipe-1914316)
 difficulty: Easy
+favorite: 0
 image_url: null
 ingredients: "Lots of chopped cilantro\n\xBD jalapeno, sliced\n1 tsp grated fresh\
   \ ginger\n1 garlic clove, grated\n2 limes, juiced\n2 Tbsp soy sauce\nPinch of sugar\n\

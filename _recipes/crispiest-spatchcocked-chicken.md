@@ -22,6 +22,7 @@ description: "Two tricks make this simple recipe the most extraordinary way I kn
   \ skin dry out overnight, season it as early as possible, then pat it dry with a\
   \ paper towel before you begin to cook it. It\u2019ll help achieve a similar effect."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "4-pound whole chicken\rSalt\rExtra-virgin olive oil"
 intrash: 0

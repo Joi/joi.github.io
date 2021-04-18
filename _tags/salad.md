@@ -6,11 +6,11 @@ notes:
   - date: '2020-07-05'
     feature: Shrimp and Endive Salad
     type: dinner
-    uri_path: /2020/07/05/notes/dinner.html
+    uri_path: /notes/2020-07-05-dinner.html
   rough:
   - date: '2020-07-16'
     type: dinner
-    uri_path: /2020/07/16/notes/dinner.html
+    uri_path: /notes/2020-07-16-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/asian-salad-dressing
@@ -98,7 +98,7 @@ rel_tags_count:
   - 1
   - kale
   mexican:
-  - 2
+  - 3
   - Mexican
   shrimp:
   - 3

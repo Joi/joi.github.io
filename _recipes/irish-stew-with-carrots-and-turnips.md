@@ -15,6 +15,7 @@ description: 'WHY THIS RECIPE WORKS
   lamb stew recipe with a rich-tasting broth and the velvety texture that only marrow-rich
   bones can contribute.'
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/34368_sfs-irish-stew-with-carrots-and-turnips-464bw
 ingredients: "GATHER YOUR INGREDIENTS\n4 \xBD pounds lamb shoulder chops, each 1 to\
   \ 1 1/2 inches thick (see illustrations below and note in instructions)\n3 tablespoons\

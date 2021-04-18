@@ -8,6 +8,7 @@ created: '2020-04-02 17:07:19'
 created_ts: 1585847239
 description: null
 difficulty: null
+favorite: 0
 image_url: https://static01.nyt.com/images/2014/05/27/dining/Chicken-With-40-Cloves-of-Garlic/Chicken-With-40-Cloves-of-Garlic-articleLarge.jpg
 ingredients: "\u2154 cup olive oil\n8 chicken drumsticks\n8 chicken thighs\n4 celery\
   \ ribs, cut into 4 inch-long strips\n2 cups chopped onion\n6 parsley sprigs\n1 teaspoon\

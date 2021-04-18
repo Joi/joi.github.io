@@ -8,6 +8,7 @@ created: '2021-04-03 15:09:58'
 created_ts: 1617462598
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '2 tablespoons extra-virgin olive oil
 

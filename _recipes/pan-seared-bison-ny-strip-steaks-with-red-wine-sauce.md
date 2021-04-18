@@ -8,6 +8,7 @@ created: '2020-03-21 20:57:36'
 created_ts: 1584824256
 description: null
 difficulty: null
+favorite: 0
 image_url: https://highplainsbison.com/wp-content/uploads/2017/06/HPBPlaceHolder-457x300.png
 ingredients: "4 (10oz.) bison NY strip steaks, thawed\n1 \xBD tbsp vegetable oil\n\
   1 tsp sea salt\n1 \xBD tbsp black, green, and pink freshly ground peppercorns\n\

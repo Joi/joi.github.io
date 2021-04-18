@@ -10,6 +10,7 @@ created: '2020-12-26 15:00:36'
 created_ts: 1608994836
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/4/13/0/mmm_beef-taco-salad_s4x3.jpg.rend.hgtvcom.826.620.suffix/1432983291636.jpeg
 ingredients: 'For the Meat:
 

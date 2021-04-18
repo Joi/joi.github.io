@@ -8,6 +8,7 @@ created: '2020-10-19 01:20:54'
 created_ts: 1603070454
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-articleLarge.jpg
 ingredients: "4 (6-ounce) cod fillets or other flaky white fish\nKosher salt\n2 tablespoons\
   \ canola or vegetable oil\n1 large shallot, thinly sliced\n2 garlic cloves, thinly\

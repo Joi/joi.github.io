@@ -8,6 +8,7 @@ created: '2020-11-13 01:54:31'
 created_ts: 1605232471
 description: null
 difficulty: null
+favorite: 0
 image_url: https://static01.nyt.com/images/2017/04/25/dining/25COOKING-FISHWITHSAUCE2/25COOKING-FISHWITHSAUCE2-articleLarge.jpg
 ingredients: "\xBD cup sugar\n1 cup miso, preferably dark\n\xBD cup mirin, sake or\
   \ white wine\n1 \xBD to 2 pounds black cod fillets (skin may be on or off)"

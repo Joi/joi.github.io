@@ -8,6 +8,7 @@ created: '2021-03-08 21:28:58'
 created_ts: 1615238938
 description: Based on a recipe by Ana Sortun via Siena Farms.
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "4 cups of peeled and cubed kohlrabi, turnip, white daikon, or cauliflower\
   \ \n1 small bulb fennel, outer leaves and core removed, and roughly chopped\n1 small\

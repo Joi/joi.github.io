@@ -13,6 +13,7 @@ description: Th is is the simplest _risotto_ - there is nothing extra to hide a 
   have some boiling water on the stove, in case you run out of stock before the risotto
   is finished.
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "5 to 6 cups of chicken stock, preferably homemade (1,250 to 1,500 ml)\n\
   1 tablespoon olive oil\n1 small onion, minced\n1 \xBD cups short-grain Italian rice,\

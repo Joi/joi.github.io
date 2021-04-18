@@ -10,6 +10,7 @@ created: '2021-03-24 15:26:16'
 created_ts: 1616599576
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1 lb tofu\n2 scallions, chopped\n\xBD lb ground pork\n\n*Sauce*\n\n\
   2 garlic cloves, chopped\n1 Tbsp tianmian sauce (sweet bean sauce)\n1 Tbsp doubanjiang\

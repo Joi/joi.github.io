@@ -8,6 +8,7 @@ created: '2020-10-25 11:22:30'
 created_ts: 1603624950
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.seriouseats.com/recipes/images/2016/06/20160525-corn-steak-taco-vicky-wasik-1-200x150.jpg
 ingredients: "1 1/2 teaspoons ground cumin\n1 1/2 teaspoons ground coriander\n1 tablespoon\
   \ chili powder\n1 1/2 teaspoons dried oregano\nKosher salt and freshly ground black\

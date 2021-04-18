@@ -8,6 +8,7 @@ created: '2020-11-05 11:55:26'
 created_ts: 1604577326
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.thebossykitchen.com/wp-content/uploads/2018/01/Authentic-Mexican-Tinga-de-Pollo-Chicken-in-Chipotle-Tomato-Sauce88-720x720.jpg
 ingredients: '3-4 medium size chicken breast
 

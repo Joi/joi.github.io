@@ -9,6 +9,7 @@ created: '2021-03-13 12:43:42'
 created_ts: 1615639422
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "Private Reserve extra virgin olive oil\n1 large yellow onion, chopped\n\
   2 celery ribs, chopped\nSalt and pepper\n4 large garlic cloves, minced\n\xBD tsp\

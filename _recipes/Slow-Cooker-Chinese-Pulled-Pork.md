@@ -8,6 +8,7 @@ created: '2020-10-24 10:48:20'
 created_ts: 1603536500
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.simplyrecipes.com/wp-content/uploads/2016/10/slow-cooker-chinese-pulled-pork-vertical-a-1600-600x900.jpg
 ingredients: '3 to 3 1/2 pounds pork shoulder, cut into very large chunks (3 to 4
   inches)

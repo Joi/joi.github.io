@@ -3538,8 +3538,8 @@
  {
   "meal_date": "2021-04-17",
   "meal_date_ts": 1618632000,
-  "meal_type_code": 2,
-  "meal_type_name": "Lunch",
+  "meal_type_code": 3,
+  "meal_type_name": "Dinner",
   "recipe_id": 479,
   "recipe_name": "Ginisang Pechay with Ground Pork and Shrimp"
  },

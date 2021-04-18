@@ -13,6 +13,7 @@ description: Minestrone is a mellow vegetable soup, and its composition depends 
   of minestrone are thick, this one is light and thin. The composite taste is a blend
   of all the elements, but each vegetable also keeps its separate identity.
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: '2 tablespoons of olive oil
 

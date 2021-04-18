@@ -6,10 +6,12 @@ notes:
   rough:
   - date: '2020-07-15'
     type: dinner
-    uri_path: /2020/07/15/notes/dinner.html
+    uri_path: /notes/2020-07-15-dinner.html
   - date: '2020-07-16'
     type: dinner
-    uri_path: /2020/07/16/notes/dinner.html
+    uri_path: /notes/2020-07-16-dinner.html
+pages:
+- Molcajete
 recipes:
 - mine: null
   permalink: /recipes/beef-taco-salad-with-chunky-tomato-dressing
@@ -37,6 +39,11 @@ recipes:
   rating: 0
   title: Easy Pressure Cooker Green Chili with Chicken
 - mine: null
+  permalink: /recipes/mexican-coleslaw-with-cilantro-lime-dressing
+  photo_thumb: mexican-coleslaw-with-cilantro-lime-dressing-thumb.jpg
+  rating: 5
+  title: Mexican Coleslaw with Cilantro Lime Dressing
+- mine: null
   permalink: /recipes/the-best-chili-ever
   photo_thumb: the-best-chili-ever-thumb.jpg
   rating: 5
@@ -51,11 +58,14 @@ rel_tags_count:
   fish:
   - 1
   - fish
+  gear:
+  - 1
+  - gear
   ground-beef:
   - 2
   - ground beef
   salad:
-  - 2
+  - 3
   - salad
   salsa:
   - 1

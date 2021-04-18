@@ -8,6 +8,7 @@ created: '2020-08-04 18:56:29'
 created_ts: 1596567389
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F200910-xl-grilled-salmon-with-cilantro-pecan-pesto.jpg%3Fitok%3D7GN8JWmp&w=700&c=sc&poi=face&q=85
 ingredients: '1/3 cup pecans, chopped
 

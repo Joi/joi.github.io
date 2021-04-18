@@ -8,6 +8,7 @@ created: '2020-07-31 11:14:42'
 created_ts: 1596194082
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2017/01/13/dining/13COOKING-SOLE-MEUNIERE2/13COOKING-SOLE-MEUNIERE2-videoHpMedium.jpg
 ingredients: "\xBD cup all-purpose flour\n6 4-ounce skinless, boneless sole or other\
   \ thin fish fillets, patted dry\nKosher salt, to taste\nFreshly ground white or\

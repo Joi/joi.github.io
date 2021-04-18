@@ -10,6 +10,7 @@ created: '2020-04-12 20:26:45'
 created_ts: 1586723205
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/7366919A-58EF-4F86-ADF3-191AC48EEBE8/Derivates/f080b7fd-109c-4847-bd0d-774cb12107d4.jpg
 ingredients: "Cheesy Stuffed Meatloaf\n2 oz Parmesan cheese\n3 garlic cloves\n1 tbsp\
   \ avocado oil\n6 oz green pepper, quartered\n5 oz red onions, quartered\n\xBD tsp\

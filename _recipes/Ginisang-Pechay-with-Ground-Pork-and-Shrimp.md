@@ -14,6 +14,7 @@ description: "Traditional home cooking from the Philippines. Easy to make and ve
   Instead of bok choy, you can use other strong leafy greens such as Chinese cabbage.\n\
   \n[Inspired by this recipe.](https://panlasangpinoy.com/ginisang-pechay-with-ground-pork-and-shrimp-bok-choy/)"
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '1 lb bok choy cleaned and chopped
 
@@ -41,7 +42,7 @@ meal_dates:
 - '2021-03-20'
 - '2021-01-28'
 - '2021-04-17'
-meal_types: 3|3|3|3|2
+meal_types: 3|3|3|3|3
 mine: 1
 name: Ginisang Pechay with Ground Pork and Shrimp
 p_recipe_id: 479

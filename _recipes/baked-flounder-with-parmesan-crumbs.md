@@ -10,6 +10,7 @@ created: '2020-05-08 02:17:52'
 created_ts: 1588904272
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2F200209-xl-baked-flounder-with-parmesan-crumbs.jpg%3Fitok%3DjZKF7Jc0
 ingredients: '4 flounder fillets (2 pounds total)
 
@@ -44,7 +45,11 @@ total_time: ''
 type: null
 uid: E5306C77-DC0B-42C9-9123-E0A5AA64D245-14694-0000789EC2F2A2E0
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Watch this video to learn how to fillet a fish quickly and easily.</p>
+<p>Serve With</p>
+<p>For a green vegetable, browse our best broccoli recipes, favorite spinach recipes and expert ways to cook asparagus. Buttery baked flounder is also delicious with simple steamed vegetables.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 flounder fillets (2 pounds total)</li>

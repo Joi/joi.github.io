@@ -8,6 +8,7 @@ created: '2020-07-01 14:09:34'
 created_ts: 1593612574
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://cafedelites.com/wp-content/uploads/2018/03/Cheesy-Garlic-Roasted-Asparagus-IMAGE-10-1365x2048.jpg
 ingredients: '1 pound (500 g) asparagus spears, woody ends removed
 

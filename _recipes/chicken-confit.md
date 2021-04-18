@@ -22,6 +22,7 @@ description: "Take a page out of the French farmwife\u2019s handbook and keep co
   \ with a pile of arugula or chicories dressed in a bright, Honey-Mustard Vinaigrette\
   \ (page 240 ) and spoonfuls of Herb Salsa for a welcome acidic contrast."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "4 chicken legs, with thighs attached\rSalt\rFreshly ground black pepper\r\
   4 sprigs fresh thyme\r4 cloves\r2 bay leaves\r3 garlic cloves, halved\rAbout 4 cups\

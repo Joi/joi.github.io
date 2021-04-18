@@ -8,6 +8,7 @@ created: '2020-06-13 11:21:11'
 created_ts: 1592047271
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.simplyrecipes.com/wp-content/uploads/2018/06/HT-Grill-Burger-LEAD-VERTICAL-600x840.jpg
 ingredients: '2 pounds 80/20 ground beef, cold
 

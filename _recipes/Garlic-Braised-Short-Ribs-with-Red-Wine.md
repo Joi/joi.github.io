@@ -8,6 +8,7 @@ created: '2020-07-06 23:46:08'
 created_ts: 1594079168
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: "2 tablespoons vegetable oil\n5 pounds bone-in short ribs, at least 1\
   \ 1/2 inches thick\nKosher salt and freshly ground pepper\n2 large heads garlic,\

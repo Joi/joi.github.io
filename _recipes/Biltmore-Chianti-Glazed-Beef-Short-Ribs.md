@@ -9,6 +9,7 @@ created: '2020-02-03 15:56:27'
 created_ts: 1580745387
 description: null
 difficulty: Easy
+favorite: 0
 image_url: null
 ingredients: "64 oz beef short ribs, bone in\n1 \xBD tsp salt, divided, plus extra\
   \ to season, to taste\n1 tsp ground black pepper, plus extra to season, to taste\n\

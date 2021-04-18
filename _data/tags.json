@@ -459,13 +459,13 @@
      "date": "2020-12-07",
      "feature": "Prime Rib with Oxtail Au Jus",
      "type": "dinner",
-     "uri_path": "/2020/12/07/notes/dinner.html"
+     "uri_path": "/notes/2020-12-07-dinner.html"
     },
     {
      "date": "2020-12-20",
      "feature": "Bone-in Rib Roast with Anova Sous Vide",
      "type": "dinner",
-     "uri_path": "/2020/12/20/notes/dinner.html"
+     "uri_path": "/notes/2020-12-20-dinner.html"
     }
    ],
    "rough": []
@@ -573,37 +573,37 @@
      "date": "2020-07-12",
      "feature": "BBQ Day",
      "type": "dinner",
-     "uri_path": "/2020/07/12/notes/dinner.html"
+     "uri_path": "/notes/2020-07-12-dinner.html"
     },
     {
      "date": "2020-10-18",
      "feature": "Billows on a Chuck Roast",
      "type": "dinner",
-     "uri_path": "/2020/10/18/notes/dinner.html"
+     "uri_path": "/notes/2020-10-18-dinner.html"
     },
     {
      "date": "2020-10-21",
      "feature": "Trying Billows Again with Smoked Fish",
      "type": "dinner",
-     "uri_path": "/2020/10/21/notes/dinner.html"
+     "uri_path": "/notes/2020-10-21-dinner.html"
     },
     {
      "date": "2020-11-22",
      "feature": "Billows and Brined Salmon",
      "type": "dinner",
-     "uri_path": "/2020/11/22/notes/dinner.html"
+     "uri_path": "/notes/2020-11-22-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2020-07-25",
      "type": "dinner",
-     "uri_path": "/2020/07/25/notes/dinner.html"
+     "uri_path": "/notes/2020-07-25-dinner.html"
     },
     {
      "date": "2020-09-20",
      "type": "dinner",
-     "uri_path": "/2020/09/20/notes/dinner.html"
+     "uri_path": "/notes/2020-09-20-dinner.html"
     }
    ]
   },
@@ -612,7 +612,7 @@
    "Doneness",
    "Evaporation Effect",
    "Reverse Sear",
-   "spatchcocking"
+   "Spatchcocking"
   ],
   "recipes": [
    {
@@ -736,52 +736,52 @@
      "date": "2020-08-12",
      "feature": "Reverse Sear Again",
      "type": "dinner",
-     "uri_path": "/2020/08/12/notes/dinner.html"
+     "uri_path": "/notes/2020-08-12-dinner.html"
     },
     {
      "date": "2020-08-17",
      "feature": "Prime Rib and Sauces",
      "type": "dinner",
-     "uri_path": "/2020/08/17/notes/dinner.html"
+     "uri_path": "/notes/2020-08-17-dinner.html"
     },
     {
      "date": "2020-10-04",
      "feature": "Timing a Bigger Prime Rib",
      "type": "dinner",
-     "uri_path": "/2020/10/04/notes/dinner.html"
+     "uri_path": "/notes/2020-10-04-dinner.html"
     },
     {
      "date": "2020-10-18",
      "feature": "Billows on a Chuck Roast",
      "type": "dinner",
-     "uri_path": "/2020/10/18/notes/dinner.html"
+     "uri_path": "/notes/2020-10-18-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2020-07-25",
      "type": "dinner",
-     "uri_path": "/2020/07/25/notes/dinner.html"
+     "uri_path": "/notes/2020-07-25-dinner.html"
     },
     {
      "date": "2020-09-03",
      "type": "dinner",
-     "uri_path": "/2020/09/03/notes/dinner.html"
+     "uri_path": "/notes/2020-09-03-dinner.html"
     },
     {
      "date": "2020-10-29",
      "type": "dinner",
-     "uri_path": "/2020/10/29/notes/dinner.html"
+     "uri_path": "/notes/2020-10-29-dinner.html"
     },
     {
      "date": "2021-01-10",
      "type": "dinner",
-     "uri_path": "/2021/01/10/notes/dinner.html"
+     "uri_path": "/notes/2021-01-10-dinner.html"
     },
     {
      "date": "2021-03-18",
      "type": "dinner",
-     "uri_path": "/2021/03/18/notes/dinner.html"
+     "uri_path": "/notes/2021-03-18-dinner.html"
     }
    ]
   },
@@ -1152,19 +1152,19 @@
      "date": "2020-10-18",
      "feature": "Billows on a Chuck Roast",
      "type": "dinner",
-     "uri_path": "/2020/10/18/notes/dinner.html"
+     "uri_path": "/notes/2020-10-18-dinner.html"
     },
     {
      "date": "2020-10-21",
      "feature": "Trying Billows Again with Smoked Fish",
      "type": "dinner",
-     "uri_path": "/2020/10/21/notes/dinner.html"
+     "uri_path": "/notes/2020-10-21-dinner.html"
     },
     {
      "date": "2020-11-22",
      "feature": "Billows and Brined Salmon",
      "type": "dinner",
-     "uri_path": "/2020/11/22/notes/dinner.html"
+     "uri_path": "/notes/2020-11-22-dinner.html"
     }
    ],
    "rough": []
@@ -1199,7 +1199,7 @@
     {
      "date": "2021-03-27",
      "type": "dinner",
-     "uri_path": "/2021/03/27/notes/dinner.html"
+     "uri_path": "/notes/2021-03-27-dinner.html"
     }
    ]
   },
@@ -1352,7 +1352,7 @@
     {
      "date": "2021-01-10",
      "type": "dinner",
-     "uri_path": "/2021/01/10/notes/dinner.html"
+     "uri_path": "/notes/2021-01-10-dinner.html"
     }
    ]
   },
@@ -1374,7 +1374,7 @@
     {
      "date": "2020-09-10",
      "type": "dinner",
-     "uri_path": "/2020/09/10/notes/dinner.html"
+     "uri_path": "/notes/2020-09-10-dinner.html"
     }
    ]
   },
@@ -1647,7 +1647,7 @@
    "Doneness",
    "Evaporation Effect",
    "Grilling",
-   "Leidenfrost effect",
+   "Leidenfrost Effect",
    "Meat and Temperatures",
    "Reverse Sear"
   ],
@@ -1689,45 +1689,45 @@
      "date": "2020-07-23",
      "feature": "Lots about Chicken",
      "type": "dinner",
-     "uri_path": "/2020/07/23/notes/dinner.html"
+     "uri_path": "/notes/2020-07-23-dinner.html"
     },
     {
      "date": "2020-12-17",
      "feature": "Spatchcocked Chicken in Anova",
      "type": "dinner",
-     "uri_path": "/2020/12/17/notes/dinner.html"
+     "uri_path": "/notes/2020-12-17-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2020-07-09",
      "type": "dinner",
-     "uri_path": "/2020/07/09/notes/dinner.html"
+     "uri_path": "/notes/2020-07-09-dinner.html"
     },
     {
      "date": "2020-09-10",
      "type": "dinner",
-     "uri_path": "/2020/09/10/notes/dinner.html"
+     "uri_path": "/notes/2020-09-10-dinner.html"
     },
     {
      "date": "2020-09-17",
      "type": "dinner",
-     "uri_path": "/2020/09/17/notes/dinner.html"
+     "uri_path": "/notes/2020-09-17-dinner.html"
     },
     {
      "date": "2020-10-15",
      "type": "dinner",
-     "uri_path": "/2020/10/15/notes/dinner.html"
+     "uri_path": "/notes/2020-10-15-dinner.html"
     },
     {
      "date": "2021-04-14",
      "type": "dinner",
-     "uri_path": "/2021/04/14/notes/dinner.html"
+     "uri_path": "/notes/2021-04-14-dinner.html"
     }
    ]
   },
   "pages": [
-   "spatchcocking"
+   "Spatchcocking"
   ],
   "recipes": [
    {
@@ -2232,19 +2232,19 @@
      "date": "2021-04-03",
      "feature": "Finally with All of the Right Sauces",
      "type": "dinner",
-     "uri_path": "/2021/04/03/notes/dinner.html"
+     "uri_path": "/notes/2021-04-03-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2021-01-20",
      "type": "dinner",
-     "uri_path": "/2021/01/20/notes/dinner.html"
+     "uri_path": "/notes/2021-01-20-dinner.html"
     },
     {
      "date": "2021-03-24",
      "type": "dinner",
-     "uri_path": "/2021/03/24/notes/dinner.html"
+     "uri_path": "/notes/2021-03-24-dinner.html"
     }
    ]
   },
@@ -2474,7 +2474,7 @@
     {
      "date": "2020-08-06",
      "type": "dinner",
-     "uri_path": "/2020/08/06/notes/dinner.html"
+     "uri_path": "/notes/2020-08-06-dinner.html"
     }
    ]
   },
@@ -2532,7 +2532,7 @@
     {
      "date": "2020-07-13",
      "type": "dinner",
-     "uri_path": "/2020/07/13/notes/dinner.html"
+     "uri_path": "/notes/2020-07-13-dinner.html"
     }
    ]
   },
@@ -2603,7 +2603,7 @@
     {
      "date": "2020-08-06",
      "type": "dinner",
-     "uri_path": "/2020/08/06/notes/dinner.html"
+     "uri_path": "/notes/2020-08-06-dinner.html"
     }
    ]
   },
@@ -2870,7 +2870,7 @@
      "date": "2021-04-02",
      "feature": "My First Beer Battered Fish",
      "type": "dinner",
-     "uri_path": "/2021/04/02/notes/dinner.html"
+     "uri_path": "/notes/2021-04-02-dinner.html"
     }
    ],
    "rough": []
@@ -3163,7 +3163,7 @@
      "date": "2021-04-16",
      "feature": "Yellowtail Flounder Meuniere",
      "type": "dinner",
-     "uri_path": "/2021/04/16/notes/dinner.html"
+     "uri_path": "/notes/2021-04-16-dinner.html"
     }
    ],
    "rough": []
@@ -3325,14 +3325,14 @@
      "date": "2021-04-16",
      "feature": "Yellowtail Flounder Meuniere",
      "type": "dinner",
-     "uri_path": "/2021/04/16/notes/dinner.html"
+     "uri_path": "/notes/2021-04-16-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2020-09-17",
      "type": "dinner",
-     "uri_path": "/2020/09/17/notes/dinner.html"
+     "uri_path": "/notes/2020-09-17-dinner.html"
     }
    ]
   },
@@ -3366,6 +3366,7 @@
  "gear": {
   "pages": [
    "Gear",
+   "Molcajete",
    "My Stuff",
    "My Thermometers",
    "My Whetstones",
@@ -3384,6 +3385,10 @@
    "maintenance": [
     1,
     "maintenance"
+   ],
+   "mexican": [
+    1,
+    "Mexican"
    ],
    "razors": [
     1,
@@ -3439,7 +3444,7 @@
    "Grilling",
    "Reverse Sear",
    "Smoking",
-   "spatchcocking"
+   "Spatchcocking"
   ],
   "rel_tags_count": {
    "bbq": [
@@ -3821,7 +3826,7 @@
  },
  "heating": {
   "pages": [
-   "Leidenfrost effect"
+   "Leidenfrost Effect"
   ],
   "rel_tags_count": {
    "chemistry": [
@@ -3841,7 +3846,7 @@
     {
      "date": "2020-07-10",
      "type": "dinner",
-     "uri_path": "/2020/07/10/notes/dinner.html"
+     "uri_path": "/notes/2020-07-10-dinner.html"
     }
    ]
   },
@@ -4039,7 +4044,7 @@
      "date": "2020-08-10",
      "feature": "Mac & Cheese for Kio",
      "type": "dinner",
-     "uri_path": "/2020/08/10/notes/dinner.html"
+     "uri_path": "/notes/2020-08-10-dinner.html"
     }
    ],
    "rough": []
@@ -4115,25 +4120,25 @@
      "date": "2021-04-04",
      "feature": "Slow-roased Lamb Leg",
      "type": "dinner",
-     "uri_path": "/2021/04/04/notes/dinner.html"
+     "uri_path": "/notes/2021-04-04-dinner.html"
     },
     {
      "date": "2021-04-05",
      "feature": "Lamb Tagine with Left-Over Roast Lamb Leg",
      "type": "dinner",
-     "uri_path": "/2021/04/05/notes/dinner.html"
+     "uri_path": "/notes/2021-04-05-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2020-07-14",
      "type": "dinner",
-     "uri_path": "/2020/07/14/notes/dinner.html"
+     "uri_path": "/notes/2020-07-14-dinner.html"
     },
     {
      "date": "2020-12-25",
      "type": "dinner",
-     "uri_path": "/2020/12/25/notes/dinner.html"
+     "uri_path": "/notes/2020-12-25-dinner.html"
     }
    ]
   },
@@ -4332,7 +4337,7 @@
     {
      "date": "2020-07-11",
      "type": "dinner",
-     "uri_path": "/2020/07/11/notes/dinner.html"
+     "uri_path": "/notes/2020-07-11-dinner.html"
     }
    ]
   },
@@ -4610,15 +4615,18 @@
     {
      "date": "2020-07-15",
      "type": "dinner",
-     "uri_path": "/2020/07/15/notes/dinner.html"
+     "uri_path": "/notes/2020-07-15-dinner.html"
     },
     {
      "date": "2020-07-16",
      "type": "dinner",
-     "uri_path": "/2020/07/16/notes/dinner.html"
+     "uri_path": "/notes/2020-07-16-dinner.html"
     }
    ]
   },
+  "pages": [
+   "Molcajete"
+  ],
   "recipes": [
    {
     "mine": null,
@@ -4657,6 +4665,13 @@
    },
    {
     "mine": null,
+    "permalink": "/recipes/mexican-coleslaw-with-cilantro-lime-dressing",
+    "photo_thumb": "mexican-coleslaw-with-cilantro-lime-dressing-thumb.jpg",
+    "rating": 5,
+    "title": "Mexican Coleslaw with Cilantro Lime Dressing"
+   },
+   {
+    "mine": null,
     "permalink": "/recipes/the-best-chili-ever",
     "photo_thumb": "the-best-chili-ever-thumb.jpg",
     "rating": 5,
@@ -4676,12 +4691,16 @@
     1,
     "fish"
    ],
+   "gear": [
+    1,
+    "gear"
+   ],
    "ground-beef": [
     2,
     "ground beef"
    ],
    "salad": [
-    2,
+    3,
     "salad"
    ],
    "salsa": [
@@ -4813,7 +4832,7 @@
     {
      "date": "2021-03-16",
      "type": "dinner",
-     "uri_path": "/2021/03/16/notes/dinner.html"
+     "uri_path": "/notes/2021-03-16-dinner.html"
     }
    ]
   },
@@ -4905,7 +4924,7 @@
      "date": "2020-08-10",
      "feature": "Mac & Cheese for Kio",
      "type": "dinner",
-     "uri_path": "/2020/08/10/notes/dinner.html"
+     "uri_path": "/notes/2020-08-10-dinner.html"
     }
    ],
    "rough": []
@@ -5091,7 +5110,7 @@
      "date": "2021-04-03",
      "feature": "White Pizza with Rosemary",
      "type": "lunch",
-     "uri_path": "/2021/04/03/notes/lunch.html"
+     "uri_path": "/notes/2021-04-03-lunch.html"
     }
    ],
    "rough": []
@@ -5323,7 +5342,7 @@
     {
      "date": "2020-09-20",
      "type": "dinner",
-     "uri_path": "/2020/09/20/notes/dinner.html"
+     "uri_path": "/notes/2020-09-20-dinner.html"
     }
    ]
   },
@@ -5408,12 +5427,12 @@
     {
      "date": "2020-09-03",
      "type": "dinner",
-     "uri_path": "/2020/09/03/notes/dinner.html"
+     "uri_path": "/notes/2020-09-03-dinner.html"
     },
     {
      "date": "2020-09-17",
      "type": "dinner",
-     "uri_path": "/2020/09/17/notes/dinner.html"
+     "uri_path": "/notes/2020-09-17-dinner.html"
     }
    ]
   },
@@ -5456,32 +5475,32 @@
      "date": "2020-08-17",
      "feature": "Prime Rib and Sauces",
      "type": "dinner",
-     "uri_path": "/2020/08/17/notes/dinner.html"
+     "uri_path": "/notes/2020-08-17-dinner.html"
     },
     {
      "date": "2020-10-04",
      "feature": "Timing a Bigger Prime Rib",
      "type": "dinner",
-     "uri_path": "/2020/10/04/notes/dinner.html"
+     "uri_path": "/notes/2020-10-04-dinner.html"
     },
     {
      "date": "2020-12-07",
      "feature": "Prime Rib with Oxtail Au Jus",
      "type": "dinner",
-     "uri_path": "/2020/12/07/notes/dinner.html"
+     "uri_path": "/notes/2020-12-07-dinner.html"
     },
     {
      "date": "2020-12-20",
      "feature": "Bone-in Rib Roast with Anova Sous Vide",
      "type": "dinner",
-     "uri_path": "/2020/12/20/notes/dinner.html"
+     "uri_path": "/notes/2020-12-20-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2021-02-20",
      "type": "dinner",
-     "uri_path": "/2021/02/20/notes/dinner.html"
+     "uri_path": "/notes/2021-02-20-dinner.html"
     }
    ]
   },
@@ -5598,7 +5617,7 @@
     {
      "date": "2020-10-29",
      "type": "dinner",
-     "uri_path": "/2020/10/29/notes/dinner.html"
+     "uri_path": "/notes/2020-10-29-dinner.html"
     }
    ]
   },
@@ -5633,20 +5652,20 @@
      "date": "2020-08-12",
      "feature": "Reverse Sear Again",
      "type": "dinner",
-     "uri_path": "/2020/08/12/notes/dinner.html"
+     "uri_path": "/notes/2020-08-12-dinner.html"
     },
     {
      "date": "2020-10-04",
      "feature": "Timing a Bigger Prime Rib",
      "type": "dinner",
-     "uri_path": "/2020/10/04/notes/dinner.html"
+     "uri_path": "/notes/2020-10-04-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2020-08-02",
      "type": "dinner",
-     "uri_path": "/2020/08/02/notes/dinner.html"
+     "uri_path": "/notes/2020-08-02-dinner.html"
     }
    ]
   },
@@ -5749,55 +5768,55 @@
      "date": "2020-08-17",
      "feature": "Prime Rib and Sauces",
      "type": "dinner",
-     "uri_path": "/2020/08/17/notes/dinner.html"
+     "uri_path": "/notes/2020-08-17-dinner.html"
     },
     {
      "date": "2020-10-04",
      "feature": "Timing a Bigger Prime Rib",
      "type": "dinner",
-     "uri_path": "/2020/10/04/notes/dinner.html"
+     "uri_path": "/notes/2020-10-04-dinner.html"
     },
     {
      "date": "2020-12-07",
      "feature": "Prime Rib with Oxtail Au Jus",
      "type": "dinner",
-     "uri_path": "/2020/12/07/notes/dinner.html"
+     "uri_path": "/notes/2020-12-07-dinner.html"
     },
     {
      "date": "2020-12-17",
      "feature": "Spatchcocked Chicken in Anova",
      "type": "dinner",
-     "uri_path": "/2020/12/17/notes/dinner.html"
+     "uri_path": "/notes/2020-12-17-dinner.html"
     },
     {
      "date": "2020-12-20",
      "feature": "Bone-in Rib Roast with Anova Sous Vide",
      "type": "dinner",
-     "uri_path": "/2020/12/20/notes/dinner.html"
+     "uri_path": "/notes/2020-12-20-dinner.html"
     },
     {
      "date": "2020-12-26",
      "feature": "Top Round Roast - Too Tough",
      "type": "dinner",
-     "uri_path": "/2020/12/26/notes/dinner.html"
+     "uri_path": "/notes/2020-12-26-dinner.html"
     },
     {
      "date": "2021-04-04",
      "feature": "Slow-roased Lamb Leg",
      "type": "dinner",
-     "uri_path": "/2021/04/04/notes/dinner.html"
+     "uri_path": "/notes/2021-04-04-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2020-07-14",
      "type": "dinner",
-     "uri_path": "/2020/07/14/notes/dinner.html"
+     "uri_path": "/notes/2020-07-14-dinner.html"
     },
     {
      "date": "2020-12-25",
      "type": "dinner",
-     "uri_path": "/2020/12/25/notes/dinner.html"
+     "uri_path": "/notes/2020-12-25-dinner.html"
     }
    ]
   },
@@ -5839,7 +5858,7 @@
      "date": "2020-11-25",
      "feature": "The Thanksgiving Turkey",
      "type": "dinner",
-     "uri_path": "/2020/11/25/notes/dinner.html"
+     "uri_path": "/notes/2020-11-25-dinner.html"
     }
    ],
    "rough": []
@@ -5847,7 +5866,7 @@
   "pages": [
    "Evaporation Effect",
    "Reverse Sear",
-   "spatchcocking"
+   "Spatchcocking"
   ],
   "rel_tags_count": {
    "bbq": [
@@ -5887,14 +5906,14 @@
      "date": "2020-07-05",
      "feature": "Shrimp and Endive Salad",
      "type": "dinner",
-     "uri_path": "/2020/07/05/notes/dinner.html"
+     "uri_path": "/notes/2020-07-05-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2020-07-16",
      "type": "dinner",
-     "uri_path": "/2020/07/16/notes/dinner.html"
+     "uri_path": "/notes/2020-07-16-dinner.html"
     }
    ]
   },
@@ -6019,7 +6038,7 @@
     "kale"
    ],
    "mexican": [
-    2,
+    3,
     "Mexican"
    ],
    "shrimp": [
@@ -6039,14 +6058,14 @@
      "date": "2020-11-22",
      "feature": "Billows and Brined Salmon",
      "type": "dinner",
-     "uri_path": "/2020/11/22/notes/dinner.html"
+     "uri_path": "/notes/2020-11-22-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2020-08-11",
      "type": "dinner",
-     "uri_path": "/2020/08/11/notes/dinner.html"
+     "uri_path": "/notes/2020-08-11-dinner.html"
     }
    ]
   },
@@ -6245,7 +6264,7 @@
     {
      "date": "2020-07-15",
      "type": "dinner",
-     "uri_path": "/2020/07/15/notes/dinner.html"
+     "uri_path": "/notes/2020-07-15-dinner.html"
     }
    ]
   },
@@ -6296,12 +6315,12 @@
     {
      "date": "2020-07-10",
      "type": "dinner",
-     "uri_path": "/2020/07/10/notes/dinner.html"
+     "uri_path": "/notes/2020-07-10-dinner.html"
     },
     {
      "date": "2020-07-15",
      "type": "dinner",
-     "uri_path": "/2020/07/15/notes/dinner.html"
+     "uri_path": "/notes/2020-07-15-dinner.html"
     }
    ]
   },
@@ -6668,19 +6687,19 @@
      "date": "2020-07-12",
      "feature": "BBQ Day",
      "type": "dinner",
-     "uri_path": "/2020/07/12/notes/dinner.html"
+     "uri_path": "/notes/2020-07-12-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2020-07-11",
      "type": "dinner",
-     "uri_path": "/2020/07/11/notes/dinner.html"
+     "uri_path": "/notes/2020-07-11-dinner.html"
     },
     {
      "date": "2020-07-13",
      "type": "dinner",
-     "uri_path": "/2020/07/13/notes/dinner.html"
+     "uri_path": "/notes/2020-07-13-dinner.html"
     }
    ]
   },
@@ -6985,13 +7004,13 @@
      "date": "2020-07-05",
      "feature": "Shrimp and Endive Salad",
      "type": "dinner",
-     "uri_path": "/2020/07/05/notes/dinner.html"
+     "uri_path": "/notes/2020-07-05-dinner.html"
     },
     {
      "date": "2020-07-12",
      "feature": "BBQ Day",
      "type": "dinner",
-     "uri_path": "/2020/07/12/notes/dinner.html"
+     "uri_path": "/notes/2020-07-12-dinner.html"
     }
    ],
    "rough": []
@@ -7235,14 +7254,14 @@
      "date": "2020-10-18",
      "feature": "Billows on a Chuck Roast",
      "type": "dinner",
-     "uri_path": "/2020/10/18/notes/dinner.html"
+     "uri_path": "/notes/2020-10-18-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2020-09-20",
      "type": "dinner",
-     "uri_path": "/2020/09/20/notes/dinner.html"
+     "uri_path": "/notes/2020-09-20-dinner.html"
     }
    ]
   },
@@ -7398,7 +7417,7 @@
     {
      "date": "2020-10-15",
      "type": "dinner",
-     "uri_path": "/2020/10/15/notes/dinner.html"
+     "uri_path": "/notes/2020-10-15-dinner.html"
     }
    ]
   },
@@ -7600,17 +7619,17 @@
     {
      "date": "2020-07-09",
      "type": "dinner",
-     "uri_path": "/2020/07/09/notes/dinner.html"
+     "uri_path": "/notes/2020-07-09-dinner.html"
     },
     {
      "date": "2020-07-15",
      "type": "dinner",
-     "uri_path": "/2020/07/15/notes/dinner.html"
+     "uri_path": "/notes/2020-07-15-dinner.html"
     }
    ]
   },
   "pages": [
-   "spatchcocking"
+   "Spatchcocking"
   ],
   "rel_tags_count": {
    "bbq": [
@@ -7735,14 +7754,14 @@
      "date": "2020-08-12",
      "feature": "Reverse Sear Again",
      "type": "dinner",
-     "uri_path": "/2020/08/12/notes/dinner.html"
+     "uri_path": "/notes/2020-08-12-dinner.html"
     }
    ],
    "rough": [
     {
      "date": "2020-08-02",
      "type": "dinner",
-     "uri_path": "/2020/08/02/notes/dinner.html"
+     "uri_path": "/notes/2020-08-02-dinner.html"
     }
    ]
   },
@@ -7893,7 +7912,7 @@
     {
      "date": "2021-01-10",
      "type": "dinner",
-     "uri_path": "/2021/01/10/notes/dinner.html"
+     "uri_path": "/notes/2021-01-10-dinner.html"
     }
    ]
   },
@@ -8022,19 +8041,19 @@
      "date": "2020-10-21",
      "feature": "Trying Billows Again with Smoked Fish",
      "type": "dinner",
-     "uri_path": "/2020/10/21/notes/dinner.html"
+     "uri_path": "/notes/2020-10-21-dinner.html"
     },
     {
      "date": "2020-11-22",
      "feature": "Billows and Brined Salmon",
      "type": "dinner",
-     "uri_path": "/2020/11/22/notes/dinner.html"
+     "uri_path": "/notes/2020-11-22-dinner.html"
     }
    ],
    "rough": []
   },
   "pages": [
-   "Leidenfrost effect",
+   "Leidenfrost Effect",
    "Meat and Temperatures",
    "Thermometers"
   ],
@@ -8126,7 +8145,7 @@
     {
      "date": "2020-07-25",
      "type": "dinner",
-     "uri_path": "/2020/07/25/notes/dinner.html"
+     "uri_path": "/notes/2020-07-25-dinner.html"
     }
    ]
   },
@@ -8274,7 +8293,7 @@
      "date": "2020-12-26",
      "feature": "Top Round Roast - Too Tough",
      "type": "dinner",
-     "uri_path": "/2020/12/26/notes/dinner.html"
+     "uri_path": "/notes/2020-12-26-dinner.html"
     }
    ],
    "rough": []
@@ -8373,7 +8392,7 @@
     {
      "date": "2020-07-03",
      "type": "dinner",
-     "uri_path": "/2020/07/03/notes/dinner.html"
+     "uri_path": "/notes/2020-07-03-dinner.html"
     }
    ]
   },
@@ -8386,7 +8405,7 @@
      "date": "2020-11-25",
      "feature": "The Thanksgiving Turkey",
      "type": "dinner",
-     "uri_path": "/2020/11/25/notes/dinner.html"
+     "uri_path": "/notes/2020-11-25-dinner.html"
     }
    ],
    "rough": []

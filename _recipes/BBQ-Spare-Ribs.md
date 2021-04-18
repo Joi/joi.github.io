@@ -8,6 +8,7 @@ created: '2020-09-10 02:22:50'
 created_ts: 1599704570
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "Pork Spare Ribs\n**Homemade Pork Seasoning Rub**\n \xBD cup brown sugar\n\
   \xBC cup smoked paprika\n1 tbsp coarse ground black pepper\n1 tbsp kosher salt\n\

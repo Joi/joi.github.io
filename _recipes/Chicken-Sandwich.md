@@ -13,6 +13,7 @@ description: "To make a really good chicken sandwich you must use freshly cooked
   \ If you want to use leftover chicken, you will need about 3 cups (750 ml) for 6\
   \ sandwiches.\rMAKES 6 SANDWICHES"
 difficulty: Easy
+favorite: 0
 image_url: null
 ingredients: '6 cups chicken stock
 

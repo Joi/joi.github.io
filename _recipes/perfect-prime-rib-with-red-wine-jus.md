@@ -8,6 +8,7 @@ created: '2020-12-06 00:49:20'
 created_ts: 1607215760
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.seriouseats.com/recipes/images/2015/12/20151202-prime-rib-red-wine-jus-step-by-step-kenji-28-200x150.jpg
 ingredients: '1 tablespoon (15ml) vegetable oil
 

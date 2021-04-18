@@ -8,6 +8,7 @@ created: '2020-10-22 21:11:40'
 created_ts: 1603401100
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "2 tbsp cooking oil\n6 king oyster mushrooms, about 400g/14oz\n1 tbsp\
   \ minced garlic\n50 g pre-soaked wood ear mushroom, about \u2153 cup\n3 fresh chillies,\

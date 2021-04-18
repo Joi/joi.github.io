@@ -10,6 +10,7 @@ created: '2020-12-26 14:58:34'
 created_ts: 1608994714
 description: null
 difficulty: null
+favorite: 0
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/3/30/0/LS-Library_Hamburger-Stroganoff-Skillet_s4x3.jpg.rend.hgtvcom.826.620.suffix/1522443802058.jpeg
 ingredients: '1 pound ground beef
 

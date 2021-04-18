@@ -9,6 +9,7 @@ created: '2021-04-10 19:21:49'
 created_ts: 1618082509
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'Ground beef
 

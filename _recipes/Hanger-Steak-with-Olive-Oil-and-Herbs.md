@@ -8,6 +8,7 @@ created: '2020-05-05 00:48:28'
 created_ts: 1588639708
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "2 tablespoons Worcestershire sauce\n2 tablespoons soy sauce\n2 tablespoons\
   \ Thai fish sauce\n2 tablespoons maple syrup\n1 1-pound hanger steak, trimmed and\

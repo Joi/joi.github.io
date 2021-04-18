@@ -8,6 +8,7 @@ created: '2020-07-13 18:04:20'
 created_ts: 1594663460
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://healthyrecipesblogs.com/wp-content/uploads/2016/01/oven-beef-ribs-1-300x201.jpg
 ingredients: '1/2 cup apple cider vinegar
 
@@ -47,7 +48,9 @@ total_time: ''
 type: null
 uid: E8F3081A-B668-4CA7-B29A-87BDB467CD7F-29053-00040F43EB49D4B4
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>If your beef back ribs come already separated into individual ribs, bake them just four hours.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/2 cup apple cider vinegar</li>

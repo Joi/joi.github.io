@@ -3,11 +3,13 @@ title: "Mexican Coleslaw with Cilantro Lime Dressing"
 filename: "mexican-coleslaw-with-cilantro-lime-dressing"
 categories: &id001
 - salad
+- mexican
 cook_time: 10 mins
 created: '2020-07-16 18:56:55'
 created_ts: 1594925815
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "4 cups shredded cabbage mix, I like a mix with red and green cabbage\
   \ and shredded carrots (you could also use some broccoli slaw)\n1 red pepper, medium\
@@ -41,7 +43,10 @@ total_time: ''
 type: null
 uid: 77134287-CBD0-4325-84C7-4CF8666CCC2D-29053-0004FDD9DFD38753
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>I put the red onion in the jar with the dressing to allow it to “marinate” a bit and it cuts the bite of it a little. This doesn’t have to be done but it gives it a nice flavor.</p>
+<p>I have used apple cider vinegar here too and although it gives it a slightly different taste, it works well.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 cups shredded cabbage mix, I like a mix with red and green cabbage and shredded carrots (you could also use some broccoli slaw)</li>

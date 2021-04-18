@@ -8,6 +8,7 @@ created: '2020-06-27 18:48:06'
 created_ts: 1593283686
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '3/4 cup Panko bread crumb
 
@@ -59,7 +60,9 @@ total_time: ''
 type: null
 uid: 359750A3-4957-4735-9DAC-935A18605F94-5025-000001ECAB5B5782
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Could add mushrooms and other things. Is very well done even on the low end of this cooking range.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3/4 cup Panko bread crumb</li>

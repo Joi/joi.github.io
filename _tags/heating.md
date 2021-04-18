@@ -2,7 +2,7 @@
 title: Heating
 tag_key: heating
 pages:
-- Leidenfrost effect
+- Leidenfrost Effect
 rel_tags_count:
   chemistry:
   - 1

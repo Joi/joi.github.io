@@ -8,6 +8,7 @@ created: '2020-04-11 14:59:30'
 created_ts: 1586617170
 description: ''
 difficulty: Medium
+favorite: 1
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/942C8336-8F3F-41CA-85D7-1A3CF42E0547/Derivates/D25184C1-D5A1-4D44-8637-7AEF21018166.jpg
 ingredients: "1 tsp dried instant yeast\nor \xBD oz fresh yeast\n10 oz water\n1 tsp\
   \ sugar\n1 tsp olive oil\n18 oz bread flour\n1 tsp salt"

@@ -9,6 +9,7 @@ created: '2020-02-03 14:50:35'
 created_ts: 1580741435
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/20178_sfs-fluffy-omelets-mushroom-filling-2
 ingredients: "GATHER YOUR INGREDIENTS\n4 large eggs, separated\n1 tablespoon unsalted\
   \ butter, melted, plus 1 tablespoon unsalted butter\n\xBC teaspoon salt\n\xBC teaspoon\

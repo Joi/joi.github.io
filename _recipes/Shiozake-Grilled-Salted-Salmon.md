@@ -8,6 +8,7 @@ created: '2020-06-13 13:33:22'
 created_ts: 1592055202
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'salmon, cut into 1" thick fillets
 

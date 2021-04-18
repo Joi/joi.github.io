@@ -9,6 +9,7 @@ created: '2020-10-14 11:38:49'
 created_ts: 1602675529
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.onceuponachef.com/images/2015/02/Thai-Shrimp-Curry1-1700x1240.jpg
 ingredients: '1 tablespoon vegetable oil
 
@@ -55,7 +56,9 @@ total_time: null
 type: null
 uid: DF37DDA7-9C19-4602-9C05-299FDCA7A79F-31316-00001DFF1CD6377B
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Note: For the shrimp, I recommend buying frozen shrimp labeled “shell split and deveined.” Most shrimp are cleaned and flash frozen shortly after being caught, so the “fresh” shrimp you see in the seafood case at the supermarket is typically thawed frozen shrimp. Who knows how long it’s been sitting there, so you’re better off buying frozen and defrosting it yourself. Come dinnertime, all you have to do is run it under warm water to defrost, then peel.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon vegetable oil</li>

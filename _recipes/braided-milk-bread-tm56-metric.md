@@ -8,6 +8,7 @@ created: '2020-02-03 15:59:19'
 created_ts: 1580745559
 description: null
 difficulty: Medium
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/61D48079-4A9F-4BB3-B908-8A9E9268F366/Derivates/9DAF570A-149A-4CF3-AE35-1F864F3541F4.jpg
 ingredients: "50 g unsalted butter, in pieces, plus extra to grease\n300 g milk\n\
   2 tsp dried instant yeast\n20 - 60 g sugar, to taste\n550 g bread flour\n1 \xBD\

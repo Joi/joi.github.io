@@ -8,6 +8,7 @@ created: '2020-06-25 00:09:37'
 created_ts: 1593043777
 description: null
 difficulty: null
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F762704.jpg&w=343&h=229&c=sc&poi=face&q=85
 ingredients: "2 (5 ounce) ahi tuna steaks\n1 teaspoon kosher salt\n\xBC teaspoon cayenne\
   \ pepper\n\xBD tablespoon butter\n2 tablespoons olive oil\n1 teaspoon whole peppercorns"

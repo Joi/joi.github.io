@@ -14,6 +14,7 @@ description: 'Inspired by [this recipe in Food and Wine.](https://www.foodandwin
 
   Goes well with bread.'
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1. 2 tbsp Unsalted butter\n1. 4 Crushed garlic cloves\n1. 1 Poblano\
   \ pepper cut into \xBC-inch dice\n1. Salt and pepper\n1. 16 oz of tomatoes, chopped\

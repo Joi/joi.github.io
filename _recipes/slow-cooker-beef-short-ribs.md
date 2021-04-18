@@ -8,6 +8,7 @@ created: '2020-12-13 12:39:25'
 created_ts: 1607863165
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '3 lbs beef short ribs
 

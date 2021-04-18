@@ -8,6 +8,7 @@ created: '2020-07-23 11:15:23'
 created_ts: 1595502923
 description: 'Based on: https://www.wellplated.com/salmon-meuniere/'
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "\xBC cup all-purpose flour\n1 \xBC teaspoons kosher salt - divided\n\
   \xBD teaspoon black pepper\n2 6-ounce salmon fillets, skins removed\n2 tablespoons\

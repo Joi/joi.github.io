@@ -7,6 +7,7 @@ created: '2020-07-18 11:31:49'
 created_ts: 1595071909
 description: null
 difficulty: null
+favorite: 0
 image_url: https://rms.condenast.it/rms/public/5d3/f05/cf3/thumb_1746_1200_670_0_0_auto.jpg
 ingredients: 'LIST OF INGREDIENTS
 

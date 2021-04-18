@@ -25,6 +25,7 @@ description: "Stock With stock on hand, dinner is always within reach. A tasty, 
   \ the butcher shop to buy a few pounds of chicken heads and feet, or some wingtips.\
   \ The gelatin the raw bones contain will add a ton of body and richness to the stock."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '7 pounds chicken bones (at least half should be raw) 7 quarts water
 
@@ -56,7 +57,9 @@ total_time: ''
 type: null
 uid: C601E9C0-C4D5-46AE-A477-AA39294FDA0D-2209-00006094A0ADA430
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Kenji in The Food Lab says that simmering maxes out at 4 hrs...</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>7 pounds chicken bones (at least half should be raw) 7 quarts water</li>

@@ -3,6 +3,7 @@ title: Gear
 tag_key: gear
 pages:
 - Gear
+- Molcajete
 - My Stuff
 - My Thermometers
 - My Whetstones
@@ -18,6 +19,9 @@ rel_tags_count:
   maintenance:
   - 1
   - maintenance
+  mexican:
+  - 1
+  - Mexican
   razors:
   - 1
   - razors

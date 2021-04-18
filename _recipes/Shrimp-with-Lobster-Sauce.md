@@ -8,6 +8,7 @@ created: '2020-08-23 11:19:19'
 created_ts: 1598181559
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '8 oz. shrimp (21 size, or about 10 shrimp)
 
@@ -59,7 +60,9 @@ total_time: ''
 type: null
 uid: B606531D-7F81-4AD9-B14E-BA7E920951F3-5646-000003098E73CAE3
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Added lobster roe. MMM!</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>8 oz. shrimp (21 size, or about 10 shrimp)</li>

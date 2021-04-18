@@ -10,6 +10,7 @@ created: '2021-02-15 12:54:08'
 created_ts: 1613393648
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.recipetineats.com/wp-content/uploads/2018/09/Creamy-Mushroom-Sauce_3.jpg?resize=650,910
 ingredients: '2 tbsp unsalted butter
 

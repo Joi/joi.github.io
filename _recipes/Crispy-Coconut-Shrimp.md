@@ -8,6 +8,7 @@ created: '2020-02-03 15:53:00'
 created_ts: 1580745180
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/DE9329BD-FEE1-4DE7-B8B3-1208CE710B36/Derivates/f1d1f1e5-6e6b-4b61-92d9-c9f3280acdb3.jpg
 ingredients: "Sriracha Dipping Sauce\n1 garlic clove\n4 oz mayonnaise, sugar-free\n\
   1 lime, zested and juiced\n2 - 3 tbsp sambal oelek\n\xBC tsp salt (optional)\nCoconut\

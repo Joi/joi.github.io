@@ -9,6 +9,7 @@ created: '2020-03-28 14:23:44'
 created_ts: 1585405424
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/10271_sfs-baked-haddock-with-garlic-green-beans-05
 ingredients: "GATHER YOUR INGREDIENTS\n4 (6- to 8-ounce) skinless haddock filets,\
   \ 1 inch thick\nSalt and pepper\n20 Ritz crackers, crushed to coarse crumbs (1 cup)\n\

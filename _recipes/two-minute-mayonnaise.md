@@ -8,6 +8,7 @@ created: '2021-04-10 19:15:50'
 created_ts: 1618082150
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '1 whole egg
 

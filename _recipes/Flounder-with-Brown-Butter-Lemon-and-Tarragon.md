@@ -8,6 +8,7 @@ created: '2020-05-29 18:24:59'
 created_ts: 1590776699
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2018/10/03/dining/03Kitchen6/merlin_143113239_d14b7e5d-2294-4874-8159-76627dc777c2-articleLarge.jpg
 ingredients: '1 cup all-purpose flour
 

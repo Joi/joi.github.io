@@ -12,6 +12,7 @@ created: '2020-04-11 15:09:18'
 created_ts: 1586617758
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2020/04/08/dining/03Tanisrex-meatballs/merlin_171108054_b5f9159b-9d08-4188-88bc-d28d2dcc3ea1-articleLarge.jpg
 ingredients: "FOR THE MEATBALLS:\n1 \xBD pounds ground lamb (or substitute ground\
   \ beef, pork or turkey)\n\xBD cup raw arborio rice or any white rice, rinsed and\

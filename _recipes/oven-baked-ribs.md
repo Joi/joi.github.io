@@ -7,6 +7,7 @@ created: '2020-09-09 00:40:14'
 created_ts: 1599612014
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://cookthestory.com/wp-content/uploads/2020/01/Oven-Baked-Ribs-Pinterest.jpg
 ingredients: "1 Tbsp brown sugar (optional)\n2 tsp salt\n1 tsp garlic powder\n1/2\
   \ tsp crushed red pepper flakes (optional)\n1/2 tsp. black pepper\n2\u20133lb racks\

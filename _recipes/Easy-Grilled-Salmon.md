@@ -8,6 +8,7 @@ created: '2020-06-16 17:22:06'
 created_ts: 1592328126
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.simplyrecipes.com/wp-content/uploads/2015/05/easy-grilled-salmon-vertical-b-1600-600x837.jpg
 ingredients: '1 1/2 to 3 pounds salmon fillets, skin-on (about 1/3 to 1/2 pound per
   person)

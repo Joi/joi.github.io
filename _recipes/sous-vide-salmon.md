@@ -8,6 +8,7 @@ created: '2020-06-19 15:05:00'
 created_ts: 1592579100
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.seriouseats.com/recipes/images/2016/08/20160826-sous-vide-salmon-46-750x563.jpg
 ingredients: '4 salmon fillets (5 to 6 ounces; 140 to 170g each)
 

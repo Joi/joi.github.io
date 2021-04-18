@@ -8,6 +8,7 @@ created: '2020-03-16 19:06:22'
 created_ts: 1584385582
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2016/02/09/dining/09COOKING_BAKEDCHICKEN2/09COOKING_BAKEDCHICKEN2-articleLarge-v2.jpg
 ingredients: "8 chicken thighs, or a mixture of thighs and drumsticks\nSalt and freshly\
   \ ground black pepper\n\u2153 cup Dijon mustard\n\u2153 cup minced shallots, onion\

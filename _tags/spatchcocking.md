@@ -6,12 +6,12 @@ notes:
   rough:
   - date: '2020-07-09'
     type: dinner
-    uri_path: /2020/07/09/notes/dinner.html
+    uri_path: /notes/2020-07-09-dinner.html
   - date: '2020-07-15'
     type: dinner
-    uri_path: /2020/07/15/notes/dinner.html
+    uri_path: /notes/2020-07-15-dinner.html
 pages:
-- spatchcocking
+- Spatchcocking
 rel_tags_count:
   bbq:
   - 1

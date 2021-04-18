@@ -6,12 +6,12 @@ notes:
   - date: '2020-11-25'
     feature: The Thanksgiving Turkey
     type: dinner
-    uri_path: /2020/11/25/notes/dinner.html
+    uri_path: /notes/2020-11-25-dinner.html
   rough: []
 pages:
 - Evaporation Effect
 - Reverse Sear
-- spatchcocking
+- Spatchcocking
 rel_tags_count:
   bbq:
   - 3

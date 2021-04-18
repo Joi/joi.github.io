@@ -6,7 +6,7 @@ notes:
   rough:
   - date: '2020-09-20'
     type: dinner
-    uri_path: /2020/09/20/notes/dinner.html
+    uri_path: /notes/2020-09-20-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/3-2-1-ribs

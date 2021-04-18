@@ -8,6 +8,7 @@ created: '2020-07-20 23:43:32'
 created_ts: 1595288612
 description: null
 difficulty: null
+favorite: 0
 image_url: https://umamigirl.com/wp-content/uploads/2018/11/Our-New-Favorite-Striped-Bass-Recipe-780-Umami-Girl-2-735x1110.jpg
 ingredients: '2 shallots, minced
 

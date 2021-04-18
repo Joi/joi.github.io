@@ -8,6 +8,7 @@ created: '2020-06-13 15:42:21'
 created_ts: 1592062941
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_1500/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F3%2F2014%2F06%2Fe3a723497e0e8d361632a41e22c7eece86bae233.jpeg
 ingredients: '4 to 6 pounds boneless pork shoulder or butt (or 5 to 7 pounds bone-in)
 
@@ -52,7 +53,10 @@ total_time: ''
 type: null
 uid: D3A1E51B-84E9-44A4-BB85-2CF4A9B93A86-1358-000130109CDA0573
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Slow-cooker variation: In a 5-quart or larger slow cooker, combine the meat, any vegetables, and liquid. Cover and cook on HIGH for 5 to 6 hours or LOW for 8 to 10 hours.</p>
+<p>Storage: Pulled pork will keep for 1 week in the refrigerator or for up to 3 months in the freezer.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 to 6 pounds boneless pork shoulder or butt (or 5 to 7 pounds bone-in)</li>

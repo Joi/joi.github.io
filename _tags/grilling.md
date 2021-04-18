@@ -8,7 +8,7 @@ pages:
 - Grilling
 - Reverse Sear
 - Smoking
-- spatchcocking
+- Spatchcocking
 rel_tags_count:
   bbq:
   - 5

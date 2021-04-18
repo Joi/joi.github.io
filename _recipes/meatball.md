@@ -11,6 +11,7 @@ created: '2020-12-16 17:56:06'
 created_ts: 1608141366
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '2 cups (5.2 oz) fresh bread crumbs*
 
@@ -60,7 +61,12 @@ total_time: ''
 type: null
 uid: 160D4E1B-F5A0-4CD8-A2B4-BF08E77F5534-903-00005D489A62BD11
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>*To make fresh bread crumbs tear slices of stale hearty bread into pieces and place in a food processor, pulse mixture to fine crumbs.</p>
+<p>**You can also use 2/3 lb ground veal, 2/3 lb ground beef, 2/3 lb ground pork.</p>
+<p>***Be sure to chop yellow onion to a fine mince, about the size of the minced garlic otherwise it won't be tender by the time meatballs are done cooking.</p>
+<p>****Standard light aluminum baking sheets will work too meatballs just won't brown as much.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 cups (5.2 oz) fresh bread crumbs*</li>

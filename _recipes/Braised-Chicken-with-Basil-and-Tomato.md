@@ -8,6 +8,7 @@ created: '2020-04-02 17:19:17'
 created_ts: 1585847957
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "\xBD cup table salt, for brining\n1 \xBD - 2 pounds bone-in split chicken\
   \ breasts, trimmed and each cut crosswise into 2 pieces of equal mass\n1 \xBD -\
@@ -43,7 +44,9 @@ total_time: ''
 type: null
 uid: FF6B358D-8D29-4986-84E0-27C7EBD83014-9482-0000064F04336AC0
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>September 11, 2020 - 11:21:23 - Cooked it yesterday. Was nice and not sure what I'd do to improve the recipe. One substitution I made was that I use fresh oregano instead of dry.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ cup table salt, for brining</li>

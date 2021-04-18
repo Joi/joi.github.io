@@ -8,6 +8,7 @@ created: '2020-04-19 15:31:16'
 created_ts: 1587310276
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2017/09/25/dining/pressurecookerossobuco/pressurecookerossobuco-articleLarge.jpg
 ingredients: "FOR THE OSSO BUCO:\nAll-purpose flour, for dredging\n4 sprigs fresh\
   \ thyme\n2 sprigs fresh rosemary\n1 bay leaf\n2 \xBD to 3 pounds (4 pieces) osso\

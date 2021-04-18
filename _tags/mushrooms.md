@@ -6,7 +6,7 @@ notes:
   rough:
   - date: '2021-03-16'
     type: dinner
-    uri_path: /2021/03/16/notes/dinner.html
+    uri_path: /notes/2021-03-16-dinner.html
 rel_tags_count: {}
 
 ---

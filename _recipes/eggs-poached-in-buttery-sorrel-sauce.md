@@ -9,6 +9,7 @@ created: '2021-04-05 18:57:35'
 created_ts: 1617649055
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "2 fat scallions, trimmed\n2 tablespoons unsalted butter\n1 large bunch\
   \ sorrel (about 4 ounces), stems trimmed\n\xBC teaspoon kosher salt, more to taste\n\

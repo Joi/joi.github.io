@@ -6,23 +6,23 @@ notes:
   - date: '2020-08-17'
     feature: Prime Rib and Sauces
     type: dinner
-    uri_path: /2020/08/17/notes/dinner.html
+    uri_path: /notes/2020-08-17-dinner.html
   - date: '2020-10-04'
     feature: Timing a Bigger Prime Rib
     type: dinner
-    uri_path: /2020/10/04/notes/dinner.html
+    uri_path: /notes/2020-10-04-dinner.html
   - date: '2020-12-07'
     feature: Prime Rib with Oxtail Au Jus
     type: dinner
-    uri_path: /2020/12/07/notes/dinner.html
+    uri_path: /notes/2020-12-07-dinner.html
   - date: '2020-12-20'
     feature: Bone-in Rib Roast with Anova Sous Vide
     type: dinner
-    uri_path: /2020/12/20/notes/dinner.html
+    uri_path: /notes/2020-12-20-dinner.html
   rough:
   - date: '2021-02-20'
     type: dinner
-    uri_path: /2021/02/20/notes/dinner.html
+    uri_path: /notes/2021-02-20-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/perfect-prime-rib-with-red-wine-jus

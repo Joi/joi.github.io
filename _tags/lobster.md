@@ -6,7 +6,7 @@ notes:
   rough:
   - date: '2020-07-11'
     type: dinner
-    uri_path: /2020/07/11/notes/dinner.html
+    uri_path: /notes/2020-07-11-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/cantonese-style-lobster-with-ginger-and-scallions

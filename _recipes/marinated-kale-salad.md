@@ -8,6 +8,7 @@ created: '2020-08-03 20:51:23'
 created_ts: 1596487883
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '1 large bunch organic kale (curly or lacinato)
 
@@ -49,7 +50,10 @@ total_time: ''
 type: null
 uid: 66DB5964-564B-458F-9DB6-E1C7083461BF-5963-00000403D175CF5E
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>I often just use a drizzle of red wine vinegar in place of the lemon juice and tamari – either works great!</p>
+<p>Made gluten-free with tamari.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 large bunch organic kale (curly or lacinato)</li>

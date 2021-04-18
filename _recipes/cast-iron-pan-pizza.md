@@ -20,6 +20,7 @@ description: "WHY THIS RECIPE WORKS\nWe started with a simple stir-together doug
   \ would be thick enough to stay put on the pie, and then pureed them in the food\
   \ processor with classic seasonings\u2014no cooking required."
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_cast_iron_pan_pizza_056_1_twzoux
 ingredients: "GATHER YOUR INGREDIENTS\nDough\n2 cups (11 ounces) bread flour\n1 teaspoon\
   \ table salt\n1 teaspoon instant or rapid-rise yeast\n1 cup (8 ounces) warm water\

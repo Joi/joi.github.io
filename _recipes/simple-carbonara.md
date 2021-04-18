@@ -8,6 +8,7 @@ created: '2020-09-16 13:27:18'
 created_ts: 1600262838
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://assets.bonappetit.com/photos/5a6f48f94f860a026c60fd71/3:2/w_1880,c_limit/pasta-carbonara.jpg
 ingredients: '3 Tbsp. kosher salt, plus more
 

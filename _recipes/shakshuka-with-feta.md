@@ -8,6 +8,7 @@ created: '2020-08-13 22:37:31'
 created_ts: 1597358251
 description: null
 difficulty: null
+favorite: 0
 image_url: https://static01.nyt.com/images/2020/02/10/dining/mc-shakshuka/mc-shakshuka-articleLarge.jpg
 ingredients: "3 tablespoons extra-virgin olive oil\n1 large onion, halved and thinly\
   \ sliced\n1 large red bell pepper, seeded and thinly sliced\n3 garlic cloves, thinly\

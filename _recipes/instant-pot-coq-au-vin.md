@@ -8,6 +8,7 @@ created: '2020-09-17 15:26:27'
 created_ts: 1600356387
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.saltandlavender.com/wp-content/uploads/2019/03/instant-pot-coq-au-vin-recipe-2.jpg
 ingredients: '6 strips bacon chopped into small pieces
 
@@ -53,7 +54,9 @@ total_time: null
 type: null
 uid: EA3F9380-CD76-4171-85AF-AAD6C1D07C2D-15576-00000958A7284C6F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>I used about a pound of chicken thighs in this recipe. Anything around that mark (or even up to 1.5 lbs. or so) would work. I discuss more on why I chose this cut of chicken within the blog post.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6 strips bacon chopped into small pieces</li>

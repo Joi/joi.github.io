@@ -10,6 +10,7 @@ created: '2020-02-03 22:48:31'
 created_ts: 1580770111
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/41120-sfs-ham-cheese-omelet-14
 ingredients: "GATHER YOUR INGREDIENTS\n3 large eggs\n\u215B teaspoon pepper\nPinch\
   \ salt\n\xBD tablespoon unsalted butter\n2 ounces ham steak, rind removed, cut into\

@@ -8,6 +8,7 @@ created: '2021-01-03 16:21:40'
 created_ts: 1609690900
 description: null
 difficulty: null
+favorite: 0
 image_url: https://static01.nyt.com/images/2017/07/16/magazine/16eat1/16mag-16eat.t_CA0-articleLarge.jpg
 ingredients: "3 tablespoons neutral oil, like grapeseed or vegetable\n2 Spanish onions,\
   \ roughly chopped\n2 ribs celery, roughly chopped\n1 large carrot, peeled and roughly\

@@ -8,6 +8,7 @@ created: '2020-03-21 20:37:24'
 created_ts: 1584823044
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://howtocookmeat.com/wp-content/uploads/2018/05/grilledbisonsirloin.jpg
 ingredients: '2 bison sirloin steaks
 

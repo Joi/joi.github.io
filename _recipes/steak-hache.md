@@ -8,6 +8,7 @@ created: '2020-05-04 15:30:08'
 created_ts: 1588606208
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2018/03/18/magazine/18mag-eat1/18mag-eat1-articleLarge.jpg
 ingredients: "1 cup dried porcini mushrooms\n1 pound best ground sirloin or chuck\n\
   5 tablespoons butter, at room temperature\n3 tablespoons finely chopped white onion\n\

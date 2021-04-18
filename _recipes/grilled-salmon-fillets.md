@@ -8,6 +8,7 @@ created: '2020-08-11 14:23:14'
 created_ts: 1597155794
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.seriouseats.com/2019/07/20190620-grilled-salmon-vicky-wasik-8-750x563.jpg
 ingredients: '4 center-cut skin-on salmon fillets, about 6 to 8 ounces (170 to 225g)
 

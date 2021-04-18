@@ -20,6 +20,7 @@ description: "WHY THIS RECIPE WORKS\nFor our Moroccan chicken tagine recipe, we 
   \ and spices imitated the low, deep notes of preserved lemons, and stirring in grated\
   \ lemon zest and lemon juice at the end brought a welcome brightness. "
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/8112_sfs-chicken-tangine-with-olives-and-lemon-article
 ingredients: "GATHER YOUR INGREDIENTS\n5 medium garlic cloves, minced or pressed through\
   \ a garlic press (about 5 teaspoons)\n1 \xBC teaspoons sweet paprika\n\xBD teaspoon\

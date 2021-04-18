@@ -8,6 +8,7 @@ created: '2021-04-12 18:30:31'
 created_ts: 1618252231
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '2 lbs shrimp (size 51-60 headless with peel-on and tail-on)
 

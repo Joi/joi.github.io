@@ -10,6 +10,7 @@ created: '2020-04-04 17:04:32'
 created_ts: 1586019872
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.chelseagreen.com/wp-content/uploads/CGP-grasshopper-370_cmyk-1027x600.png
 ingredients: "(The amount of seasoning you will use will vary based on the size of\
   \ your steak. If it is close to one pound, use less. If it is closer to 2 pounds,\

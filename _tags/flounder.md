@@ -6,7 +6,7 @@ notes:
   - date: '2021-04-16'
     feature: Yellowtail Flounder Meuniere
     type: dinner
-    uri_path: /2021/04/16/notes/dinner.html
+    uri_path: /notes/2021-04-16-dinner.html
   rough: []
 recipes:
 - mine: null

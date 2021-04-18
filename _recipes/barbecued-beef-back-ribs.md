@@ -8,6 +8,7 @@ created: '2020-09-26 14:30:18'
 created_ts: 1601130618
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://s23991.pcdn.co/wp-content/uploads/2020/06/barbecued-beef-back-ribs.jpg
 ingredients: "3/4 cup raw or turbinado sugar, such as Sugar In The Raw\n1/4 cup salt,\
   \ or more, depending on your tolerance for the stuff (up to 1/2 cup)\n1/4 cup paprika\n\

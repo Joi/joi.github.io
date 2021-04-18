@@ -8,6 +8,7 @@ created: '2020-07-30 18:42:04'
 created_ts: 1596134524
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "\xBC cup very finely chopped parsley\r2 tablespoons very finely chopped\
   \ fresh oregano or marjoram or 1 tablespoon dried oregano\r1 garlic clove, finely\

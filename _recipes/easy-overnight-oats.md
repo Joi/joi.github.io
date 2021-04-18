@@ -8,6 +8,7 @@ created: '2020-03-22 14:21:04'
 created_ts: 1584886864
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://feelgoodfoodie.net/wp-content/uploads/2018/12/Easy-Overnight-Oats-12-360x540.jpg
 ingredients: "Base\n\xBD cup rolled old fashioned oats\n\xBD cup milk of choice\n\xBC\
   \ cup non-fat Greek yogurt\n1 tablespoon chia seeds\n1 tablespoon sweetener of choice\
@@ -39,7 +40,10 @@ total_time: ''
 type: null
 uid: F6337E97-25EE-4F1A-87DD-D5F7AE9AA2F2-9067-000215CFEFC65460
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Storage: Overnight oats can be stored in the fridge for up to 5 days. This makes it an ideal breakfast meal prep to make on Sunday night for the week.</p>
+<p>Substitutes: For best results, follow the recipe as is. However here are some common substitutes that would work well in this recipe.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Base</li>

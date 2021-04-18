@@ -8,6 +8,7 @@ created: '2020-07-27 16:14:32'
 created_ts: 1595866472
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://healthyrecipesblogs.com/wp-content/uploads/2014/06/chicken-hearts-recipe-1-300x201.jpg
 ingredients: '1 lb. chicken hearts
 

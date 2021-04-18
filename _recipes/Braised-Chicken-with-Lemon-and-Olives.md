@@ -8,6 +8,7 @@ created: '2020-03-29 12:02:01'
 created_ts: 1585483321
 description: null
 difficulty: null
+favorite: 1
 image_url: https://static01.nyt.com/images/2015/03/04/dining/04KITCH/04KITCH-articleLarge.jpg
 ingredients: "8 chicken thighs, skin-on and bone-in, about 3 1/2 pounds\nSalt and\
   \ pepper\n\xBD teaspoon red pepper flakes\n6 garlic cloves, minced\n\xBD teaspoon\

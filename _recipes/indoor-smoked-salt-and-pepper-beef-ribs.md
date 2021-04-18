@@ -9,6 +9,7 @@ created: '2020-03-31 19:38:55'
 created_ts: 1585683535
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2014/04/07/dining/Beef-Ribs/Beef-Ribs-mediumThreeByTwo440.jpg
 ingredients: "2 racks beef ribs, 5 to 7 pounds total (see Note 1)\n3 tablespoons kosher\
   \ salt\n2 tablespoons freshly cracked black pepper\n2 tablespoons brown sugar\n\

@@ -9,6 +9,7 @@ created: '2020-04-06 01:16:28'
 created_ts: 1586135788
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/41833-sfs-thick-cut-halibut-fillets-lemon-brown-butter-22
 ingredients: "GATHER YOUR INGREDIENTS\nFish\n2 teaspoons salt\n2 teaspoons sugar\n\
   4 6- to 8-ounce skinless halibut fillets, 1 to 1\xBD inches thick\n1 tablespoon\

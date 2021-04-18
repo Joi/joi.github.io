@@ -9,6 +9,7 @@ created: '2020-10-17 11:21:13'
 created_ts: 1602933673
 description: Great sauce for fries and burgers. From The Food Lab.
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1/2 cup [mayonnaise](/recipes/mayonnaise)\n2 Tbsp ketchup \n1 Tbsp yellow\
   \ mustard\n1 Tbsp kosher dill pickle juice \n1 tsp sugar\nPinch of cayenne powder "

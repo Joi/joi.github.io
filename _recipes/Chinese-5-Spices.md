@@ -8,6 +8,7 @@ created: '2021-01-15 19:01:31'
 created_ts: 1610737291
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: "6  star anise pods\n1 \xBD teaspoons whole cloves (or 1 1/4 teaspoon\
   \ ground) \n1 cinnamon stick (3 inches long ) or two tablespoons ground\n2 tablespoons\

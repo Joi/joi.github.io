@@ -8,6 +8,7 @@ created: '2020-07-04 13:30:06'
 created_ts: 1593869406
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://img.sndimg.com:443/food/image/upload/c_thumb,q_80,w_616,h_347/v1/img/recipes/12/18/97/picQm6KFZ.jpg
 ingredients: '6 -8 ears corn, husks and silk removed
 

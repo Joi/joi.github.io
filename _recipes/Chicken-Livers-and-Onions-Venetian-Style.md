@@ -8,6 +8,7 @@ created: '2020-09-28 17:56:49'
 created_ts: 1601315809
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "2 tablespoons raisins\n2 tablespoons Balsamic vinegar\n1 \u2153 pounds\
   \ chicken livers\n4 tablespoons extra-virgin olive oil\n3 cups thinly sliced onions\n\

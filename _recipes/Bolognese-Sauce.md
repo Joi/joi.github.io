@@ -11,6 +11,7 @@ created: '2020-09-11 21:58:08'
 created_ts: 1599861488
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1 Tbsp olive oil\n1 \xBD cups diced yellow onion\n\xBD cup diced carrots\n\
   \xBD cup diced celery\n1 lb ground beef chuck\n\xBD lb ground pork\n4 oz diced bacon\n\

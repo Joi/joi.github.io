@@ -9,6 +9,7 @@ created_ts: 1583359806
 description: Conventional wisdom holds that frozen steaks should be thawed before
   cooking, but we wondered if steaks could be cooked straight from the freezer.
 difficulty: ''
+favorite: 0
 image_url: https://image.zype.com/5b0820fbdc4390132f0001ca/5b400b104b32992a31061223/custom_thumbnail/240.jpeg?1532618163
 ingredients: 'Frozen Steaks
 
@@ -37,7 +38,9 @@ total_time: ''
 type: null
 uid: 75B4FD78-C78A-4289-9E47-CC2FF12B53D3-40248-0002477EA0853A95
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Tried once with bison and once with grass-fed beef. Was tough.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Frozen Steaks</li>

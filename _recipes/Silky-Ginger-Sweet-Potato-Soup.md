@@ -8,6 +8,7 @@ created: '2020-07-02 00:31:50'
 created_ts: 1593649910
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://www.howsweeteats.com/wp-content/uploads/2018/01/sweet-potato-ginger-soup-I-howsweeteats.com-6-660x857.jpg
 ingredients: '2 tablespoons coconut oil
 

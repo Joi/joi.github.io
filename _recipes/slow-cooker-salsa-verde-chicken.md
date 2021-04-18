@@ -8,6 +8,7 @@ created: '2020-04-19 15:21:48'
 created_ts: 1587309708
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2019/11/25/dining/sd-slow-cooker-salsa-verde-chicken/sd-slow-cooker-salsa-verde-chicken-articleLarge.jpg
 ingredients: "1 \xBD pounds boneless, skinless chicken thighs\n1 \xBD cups jarred\
   \ salsa verde\n1 (4-ounce) can chopped mild green chiles\n8 garlic cloves, finely\

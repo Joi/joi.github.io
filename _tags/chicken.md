@@ -6,29 +6,29 @@ notes:
   - date: '2020-07-23'
     feature: Lots about Chicken
     type: dinner
-    uri_path: /2020/07/23/notes/dinner.html
+    uri_path: /notes/2020-07-23-dinner.html
   - date: '2020-12-17'
     feature: Spatchcocked Chicken in Anova
     type: dinner
-    uri_path: /2020/12/17/notes/dinner.html
+    uri_path: /notes/2020-12-17-dinner.html
   rough:
   - date: '2020-07-09'
     type: dinner
-    uri_path: /2020/07/09/notes/dinner.html
+    uri_path: /notes/2020-07-09-dinner.html
   - date: '2020-09-10'
     type: dinner
-    uri_path: /2020/09/10/notes/dinner.html
+    uri_path: /notes/2020-09-10-dinner.html
   - date: '2020-09-17'
     type: dinner
-    uri_path: /2020/09/17/notes/dinner.html
+    uri_path: /notes/2020-09-17-dinner.html
   - date: '2020-10-15'
     type: dinner
-    uri_path: /2020/10/15/notes/dinner.html
+    uri_path: /notes/2020-10-15-dinner.html
   - date: '2021-04-14'
     type: dinner
-    uri_path: /2021/04/14/notes/dinner.html
+    uri_path: /notes/2021-04-14-dinner.html
 pages:
-- spatchcocking
+- Spatchcocking
 recipes:
 - mine: null
   permalink: /recipes/air-fryer-buffalo-chicken-drumsticks

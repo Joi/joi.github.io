@@ -6,7 +6,7 @@ notes:
   rough:
   - date: '2020-07-13'
     type: dinner
-    uri_path: /2020/07/13/notes/dinner.html
+    uri_path: /notes/2020-07-13-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/chinese-stir-fry-eggs-with-flaked-crab-meat-recipe

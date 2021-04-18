@@ -8,6 +8,7 @@ created: '2020-04-02 17:21:33'
 created_ts: 1585848093
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: "GATHER YOUR INGREDIENTS\n1 fennel bulb, stalks discarded, bulb halved,\
   \ cored, and sliced into 1/2-inch wedges\n\xBE pound red potatoes, cut into 1-inch\

@@ -8,6 +8,7 @@ created: '2020-11-13 13:13:52'
 created_ts: 1605273232
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://somethingnewfordinner.com/wp-content/uploads/2012/11/BasketSteamedBlackCod-800x800.jpg
 ingredients: "Cloves from 1/2 head garlic, peeled and trimmed\n1 lower stalk lemon\
   \ grass, outer leaf removed and cut into 1/2\" slices.\n1 cup cilantro, including\

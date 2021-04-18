@@ -8,6 +8,7 @@ created: '2020-05-16 14:37:21'
 created_ts: 1589639841
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "200 g Bread Flour\n50 g Cake Flour\n25 g Granulated Sugar\n5 g Guerand's\
   \ Salt (fine particles) \n10 g dry milk\n4 g Instant dry yeast \n120 g Water\n60\

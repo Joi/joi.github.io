@@ -9,6 +9,7 @@ created: '2020-04-08 13:06:16'
 created_ts: 1586351176
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2020/04/01/dining/30Roman8/merlin_170265405_0a959f02-2f74-41cc-aaa8-0308f3619ce9-articleLarge.jpg
 ingredients: "5 pounds bone-in short ribs, at least 1 1/2-inch thick, cut into single\
   \ bone portions (or 3 1/2 to 4 pounds boneless, at least 1 1/2-inch thick)\nKosher\

@@ -8,6 +8,7 @@ created: '2020-09-17 15:30:25'
 created_ts: 1600356625
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.tasteofhome.com/wp-content/uploads/2019/08/Pressure-Cooker-Coq-au-Vin-_EXPS_TOHON19_237444_B06_05_1b-696x696.jpg
 ingredients: '3 thick-sliced bacon strips, chopped
 

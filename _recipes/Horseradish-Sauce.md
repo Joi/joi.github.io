@@ -8,6 +8,7 @@ created: '2020-07-18 17:32:40'
 created_ts: 1595093560
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://natashaskitchen.com/wp-content/uploads/2019/02/Horseradish-Sauce-4.jpg
 ingredients: '1/2 cup sour cream
 
@@ -45,7 +46,13 @@ total_time: null
 type: null
 uid: EC595FE1-4031-41AB-8691-CD7CA7131526-24647-00000FABE7C420F3
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>If you enjoy a stronger horseradish sauce, add more prepared horseradish to taste.</p>
+<p>Another recipe:</p>
+<p>2 cups crème fraîche
+¼ cup white horseradish
+Grated zest of half an orange</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/2 cup sour cream</li>

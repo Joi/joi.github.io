@@ -9,6 +9,7 @@ created: '2021-04-07 11:24:49'
 created_ts: 1617794689
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: '1/4 cup soy sauce (60 ml)
 

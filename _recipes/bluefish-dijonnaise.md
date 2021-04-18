@@ -8,6 +8,7 @@ created: '2020-06-05 15:45:11'
 created_ts: 1591371911
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/f75a29f/assets/NYTCookingLogo.png
 ingredients: "\xBC cup mayonnaise\n3 tablespoons Dijon mustard\n\xBD teaspoon dried\
   \ thyme\n4 6-ounce bluefish fillets, skin and bones removed\nKosher salt\nfreshly\

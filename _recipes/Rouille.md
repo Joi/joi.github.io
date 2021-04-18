@@ -8,6 +8,7 @@ created: '2020-10-09 00:47:47'
 created_ts: 1602204467
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1 pinch saffron threads\n2 Tbsp fsh stock\n4 cloves garlic, peeled and\
   \ minced\n1 cup mayonnaise\n\xBD tsp. sweet paprika\n1 pinch cayenne\nSalt"

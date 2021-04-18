@@ -8,6 +8,7 @@ created: '2020-05-16 13:50:06'
 created_ts: 1589637006
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "FOR THE BRINE:\n1 cup kosher salt\n\u2154 cup packed light brown sugar\n\
   4 cloves garlic, lightly crushed\n1 leek (white and light green part), quartered\n\
@@ -48,7 +49,12 @@ total_time: ''
 type: null
 uid: 81F199C6-8CF4-4867-962F-F6F6C266A0C6-11450-000000E96D4441C2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Preheat oven to 350 degrees F (175 degrees C).
+Roast whole (thawed) chickens for 20 minutes per pound, plus an additional 15 minutes.
+It was salty - maybe I left some brine inside of the bird.
+Also, the vegetables burned when I put it on the bottom of the oven as suggested so should be on the lower rack, not bottom of oven.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>FOR THE BRINE:</li>

@@ -8,6 +8,7 @@ created: '2020-11-03 13:07:17'
 created_ts: 1604408837
 description: null
 difficulty: null
+favorite: 0
 image_url: https://dashofsanity.com/wp-content/uploads/2018/01/COPYCAT-CARRABBAS-LEMON-BUTTER-SAUCE.png
 ingredients: '12 tablespoons cold unsalted butter, sliced into 1/2 inch pieces, divided
 

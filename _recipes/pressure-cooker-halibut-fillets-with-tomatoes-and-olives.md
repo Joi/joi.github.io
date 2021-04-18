@@ -10,6 +10,7 @@ created: '2020-05-14 13:32:41'
 created_ts: 1589463161
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '2 tablespoons olive oil
 
@@ -53,7 +54,9 @@ total_time: ''
 type: null
 uid: DD90592C-D8D9-4491-B2DF-FDF7CD761B7E-13891-0000A3E8ACE2155D
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Was a bit firm. It might be because the instant pressure cooker doesn't let you change the temperature. I am going to try to just release and turn off heat after pressure up and count the minutes since it's a small number of minutes.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons olive oil</li>

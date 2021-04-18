@@ -8,6 +8,7 @@ created: '2020-12-30 20:59:00'
 created_ts: 1609361940
 description: null
 difficulty: null
+favorite: 0
 image_url: https://theblondcook.com/wp-content/uploads/2016/11/buttery-garlic-steamed-clams-3-204x300.jpg
 ingredients: '5 tablespoons Finlandia Unsalted Butter, divided
 

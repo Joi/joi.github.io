@@ -9,6 +9,7 @@ created: '2020-08-10 18:27:30'
 created_ts: 1597084050
 description: ''
 difficulty: ''
+favorite: 0
 image_url: http://nashsorganicproduce.com/recipes/wp-content/uploads/2017/07/chard-rainbow-sq.jpg
 ingredients: '3 tablespoons olive oil
 

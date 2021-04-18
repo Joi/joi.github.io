@@ -8,6 +8,7 @@ created: '2020-05-21 00:04:12'
 created_ts: 1590019452
 description: null
 difficulty: null
+favorite: 0
 image_url: https://d2mkh7ukbp9xav.cloudfront.net/recipeimage/hjp6lgtm-9d870-412635-cfcd2-1y865d2g/24644563-2a1e-4936-a006-f5d83bd7a050/main/butter-croissants.jpg
 ingredients: '30 g fresh yeast
 
@@ -44,7 +45,9 @@ total_time: null
 type: null
 uid: 5B1024F0-41A9-4354-9863-C540ADC2E917-11450-0000705FA22AA2AD
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>This recipe is from Thermomix Food Lovers Calendar 2012.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>30 g fresh yeast</li>

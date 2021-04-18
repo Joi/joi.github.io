@@ -8,6 +8,7 @@ created: '2020-02-02 12:32:40'
 created_ts: 1580646760
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/5DDE0DA5-4A36-4968-9574-03E3CFEAA54F/Derivates/CE92A32D-F6CF-489C-A413-7DB877C802E7.jpg
 ingredients: "3 \xBD oz onions, halved\n1 serrano chili, deseeded\n\xBD - 1 oz lime\
   \ juice\n\xBD - 1 tsp salt, to taste\n2 - 3 sprigs fresh cilantro, leaves only\n\

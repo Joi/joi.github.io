@@ -8,6 +8,7 @@ created: '2021-04-02 15:02:24'
 created_ts: 1617375744
 description: ''
 difficulty: Easy
+favorite: 0
 image_url: null
 ingredients: "1 cup [mayonnaise](mayonnaise)\n1 cup dill pickles, chopped small\n\
   1 Tbsp fresh dill or parsley, chopped\n1 tsp lemon juice\n1 tsp sugar\n\xBC tsp\

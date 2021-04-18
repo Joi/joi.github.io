@@ -13,6 +13,7 @@ description: 'Based on Harry''s Bar Recipe and :
 
   https://www.cookscountry.com/recipes/5819-pork-roast-with-mushroom-gravy?extcode=MCSKD10L0&ref=new_search_experience_14'
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "For the rice:\n5 to 6 cups chicken broth\n1 tbsp olive oil\n1 small\
   \ minced onion\n1 \xBD cups arborio rice\n3 tbsp butter at room temp\n\u2154 cup\

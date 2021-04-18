@@ -8,6 +8,7 @@ created: '2020-06-21 15:20:08'
 created_ts: 1592752808
 description: null
 difficulty: null
+favorite: 0
 image_url: https://i2.wp.com/www.foodrepublic.com/wp-content/uploads/2012/02/skate_greenherbsauce.jpg?resize=1000%2C%20667&ssl=1
 ingredients: '2 tablespoons basil leaves, finely chopped
 

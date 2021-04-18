@@ -8,6 +8,7 @@ created: '2020-02-03 16:07:31'
 created_ts: 1580746051
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/vimdb/212107.jpg
 ingredients: "1 garlic clove\n1 piece fresh ginger (approx. 1 in. x \xBE in.)\n2 oz\
   \ carrot, cut into 2 in. pieces\n2 oz celery, cut into 2 in. pieces\n16 - 18 oz\

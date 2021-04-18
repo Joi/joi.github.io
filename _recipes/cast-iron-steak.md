@@ -10,6 +10,7 @@ created: '2020-03-30 16:00:00'
 created_ts: 1585584000
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2014/05/12/multimedia/recipelab-steak/recipelab-steak-verticalTwoByThree735-v2.jpg
 ingredients: "Coarse salt, such as kosher salt or Maldon sea salt\n1 or 2 boneless\
   \ beef steaks, 1 inch thick (about 2 pounds total), such as strip, rib-eye, flat\

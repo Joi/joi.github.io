@@ -9,6 +9,7 @@ created: '2020-02-02 14:51:28'
 created_ts: 1580655088
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '8 bone-in chicken thighs
 

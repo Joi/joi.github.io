@@ -8,6 +8,7 @@ created: '2020-08-17 15:50:48'
 created_ts: 1597679448
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2015/05/10/magazine/10eat/10mag-10eat-t_CA0-articleLarge.jpg
 ingredients: "\xBC cup white-wine vinegar\n1 small shallot, peeled and minced\n\xBD\
   \ teaspoon freshly cracked black pepper\n1 tablespoon plus 1 teaspoon chopped tarragon\

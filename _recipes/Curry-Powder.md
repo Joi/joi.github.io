@@ -9,6 +9,7 @@ created: '2021-01-15 18:56:25'
 created_ts: 1610736985
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: "1 tablespoon cardamom\n1 tablespoon ground coriander\n2 teaspoons cumin\n\
   1 teaspoon dry mustard\n1 teaspoon turmeric\n\xBD teaspoon ground ginger\n\xBD teaspoon\

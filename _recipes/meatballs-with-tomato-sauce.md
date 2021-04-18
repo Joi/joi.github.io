@@ -11,6 +11,7 @@ created: '2020-02-02 12:32:26'
 created_ts: 1580646746
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/97ABE58E-7379-419A-97BA-FB46A6645E4B/Derivates/677299E1-58CB-4D0B-88A9-03169298370B.jpg
 ingredients: "Meatballs\n2 oz bread, fresh or stale, cubed\n3 oz whole milk\n6 - 12\
   \ sprigs fresh flat-leaf parsley, leaves only\n1 garlic clove (optional)\n16 oz\

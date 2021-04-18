@@ -8,6 +8,7 @@ created: '2020-07-10 21:07:05'
 created_ts: 1594415225
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '2 cloves of garlic or 1 tablespoon of green garlic
 

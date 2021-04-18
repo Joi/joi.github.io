@@ -8,6 +8,7 @@ created: '2020-06-07 15:03:27'
 created_ts: 1591542207
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '2 small lemons
 
@@ -53,7 +54,9 @@ total_time: ''
 type: null
 uid: 25E7695C-45CC-443A-9E8B-0956C890816B-38601-0000AC1F428C81E0
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Lemon was too strong. Will try with less next time.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 small lemons</li>

@@ -6,10 +6,10 @@ notes:
   rough:
   - date: '2020-09-03'
     type: dinner
-    uri_path: /2020/09/03/notes/dinner.html
+    uri_path: /notes/2020-09-03-dinner.html
   - date: '2020-09-17'
     type: dinner
-    uri_path: /2020/09/17/notes/dinner.html
+    uri_path: /notes/2020-09-17-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/pressure-cooker-halibut-fillets-with-tomatoes-and-olives

@@ -27,6 +27,7 @@ description: "A RICHLY FLAVORED PANFRY THAT HAS A PUNGENT, DELICIOUS AROMA. \u20
   \ things, you should opt for the larger fish~it will be easier to manage 4 sizzling,\
   \ slippery objects than 8. Serve with new potatoes, boiled or steamed in their skins."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '8 small or 4 large pan-ready sand dabs, about 3 or 7 ounces, respectively,
   and 1/2 inch thick, or 4 pan-ready flatfish, such as sole or flounder, about 7 to

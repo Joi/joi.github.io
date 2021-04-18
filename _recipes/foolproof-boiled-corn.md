@@ -19,6 +19,7 @@ description: "To produce perfectly crisp, juicy corn every time, we figured out 
   \ between six and eight ears of different sizes, and the corn can sit in the water\
   \ for as long as 30 minutes without overcooking."
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/31790_sfs-boiled-corn-19
 ingredients: 'GATHER YOUR INGREDIENTS
 

@@ -22,6 +22,7 @@ description: "The staling of bread and other starch-based foods is due to a proc
   \ breads like baguettes and boules, you also need to supply water to the exterior\
   \ of the loaf to ensure that all the starches can properly soften."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: ''
 intrash: 0

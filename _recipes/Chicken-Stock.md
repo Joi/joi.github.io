@@ -13,6 +13,7 @@ description: "Keep chicken parts and veggies like leeks, celery greens and parsl
   \ with big ice maker mold. Use stock for everything.\n\nInspired by Nosrat's recipe\
   \ in _Salt, Fat, Acid, Heat_."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '7 lb chicken parts
 

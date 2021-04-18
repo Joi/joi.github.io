@@ -9,6 +9,7 @@ created: '2020-02-03 15:25:45'
 created_ts: 1580743545
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "GATHER YOUR INGREDIENTS\n8 scallions, trimmed, divided\n1 (3-inch) piece\
   \ ginger, peeled, divided\n3 garlic cloves, sliced thin\n4 (6-ounce) skinless cod\
@@ -49,7 +50,9 @@ total_time: ''
 type: null
 uid: 77B98054-DBCB-470E-83E9-62B8E4A68906-408-00004DC1BC68E0B3
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Used Dutch oven instead of baking pan. Also used a remote thermometer. Worked well.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>

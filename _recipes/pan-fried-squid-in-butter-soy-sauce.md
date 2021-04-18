@@ -8,6 +8,7 @@ created: '2020-06-02 15:39:23'
 created_ts: 1591112363
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://www.kikkoman.eu/typo3temp/assets/_processed_/9/e/csm_Gebratener-Tintenfisch-mit-Butter-Sojasauce_870x300_01_bd8974c55b.jpg
 ingredients: '4 pieces of frozen squid
 

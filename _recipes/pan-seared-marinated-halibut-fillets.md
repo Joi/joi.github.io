@@ -9,6 +9,7 @@ created: '2020-04-06 01:12:58'
 created_ts: 1586135578
 description: null
 difficulty: null
+favorite: 0
 image_url: https://static01.nyt.com/images/2014/04/02/dining/pan-seared-marinated-halibut/pan-seared-marinated-halibut-articleLarge.jpg
 ingredients: '6 tablespoons olive oil
 

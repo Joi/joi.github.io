@@ -7,6 +7,7 @@ created: '2020-06-29 00:34:29'
 created_ts: 1593390869
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/1695_sfs-best-rost-tendrln-0011-article
 ingredients: 'GATHER YOUR INGREDIENTS
 

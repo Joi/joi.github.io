@@ -8,6 +8,7 @@ created: '2020-08-06 00:16:15'
 created_ts: 1596672975
 description: null
 difficulty: null
+favorite: 0
 image_url: https://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18235715/051094046-01-tuna-burger-recipe-main.jpg
 ingredients: '1 lb. fresh sushi-grade tuna fillet
 

@@ -8,6 +8,7 @@ created: '2020-11-25 21:09:52'
 created_ts: 1606338592
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: "1 \xBD pounds fresh pasta (capellini or fettuccine)\n\xBD cup unsalted\
   \ butter\n1 \xBD cups freshly grated Parmesan cheese\n1 cup heavy cream\nCoarse\

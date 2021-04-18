@@ -8,6 +8,7 @@ created: '2020-08-19 16:36:35'
 created_ts: 1597854995
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "2\xBD pounds (about 2 loaves) high-quality sandwich bread or soft Italian\
   \ or French bread, cut into \xBE-inch dice (about 5 quarts)\r8 tablespoons (1 stick)\

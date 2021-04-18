@@ -9,6 +9,7 @@ created: '2020-03-28 14:17:05'
 created_ts: 1585405025
 description: null
 difficulty: null
+favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/b2fa694/assets/NYTCookingLogo.png
 ingredients: '4 haddock fillets, weighing about 7 ounces each, skin on
 

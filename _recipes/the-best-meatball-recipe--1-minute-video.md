@@ -9,6 +9,7 @@ created: '2020-10-28 11:35:55'
 created_ts: 1603884955
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.gimmesomeoven.com/wp-content/uploads/2020/04/Easy-Meatball-Recipe-3-1-320x480.jpg
 ingredients: '1 cup Panko breadcrumbs
 

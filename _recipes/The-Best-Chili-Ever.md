@@ -8,8 +8,9 @@ categories: &id001
 cook_time: 6 hours, plus overnight to soak beans
 created: '2021-02-14 14:56:21'
 created_ts: 1613314581
-description: null
+description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1 pound (450g) dried dark red kidney beans\nKosher salt\n4 quarts (3.8L)\
   \ water\n3 whole ancho, pasilla, or mulato chilies, seeded and torn into rough 1-inch\
@@ -62,7 +63,15 @@ total_time: ''
 type: null
 uid: 10BBAF95-58C8-433E-B2F4-1BA5DB1741F3-23012-0000124E0AE6CF20
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>This is my first chili recipe, but we like it so much I've stuck to this recipe each time I've made chili since. I make it with short ribs. It's a fair amount of work but it produces quite a bit of chili which I freeze in 1 qt bags. It freezes well and tastes good when slowly warmed back up.</p>
+<p>The <a href="https://www.seriouseats.com/recipes/2010/01/the-best-chili-recipe.html">full recipe is on the Serious Eats site.</a></p>
+<p><img src="/images/recipes/the-best-chili-ever-2.jpg" alt="short ribs" /></p>
+<p><img src="/images/recipes/the-best-chili-ever-8.jpg" alt="short ribs" /></p>
+<p>It's a fair amount of work to sear, debone and cut up the short rib, but it's worth it.</p>
+<p><img src="/images/recipes/the-best-chili-ever-3.jpg" alt="short ribs" /></p>
+<p><em>Before it goes in for the slow cook in the oven.</em></p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 pound (450g) dried dark red kidney beans</li>

@@ -8,6 +8,7 @@ created: '2020-08-27 01:04:12'
 created_ts: 1598490252
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.dinneratthezoo.com/wp-content/uploads/2019/08/spatchcock-turkey-200x300.jpg
 ingredients: '12 pound turkey giblets and neck removed
 

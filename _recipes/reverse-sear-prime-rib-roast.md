@@ -8,6 +8,7 @@ created: '2020-08-17 13:32:51'
 created_ts: 1597671171
 description: null
 difficulty: null
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F6169675.jpg&w=343&h=343&c=sc&poi=face&q=85
 ingredients: "1 (10 pound) bone-in standing rib roast\n2 tablespoons kosher salt\n\
   \xBD cup butter, softened\n3 tablespoons chopped fresh rosemary\n2 tablespoons chopped\

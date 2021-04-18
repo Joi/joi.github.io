@@ -9,6 +9,7 @@ created: '2020-05-15 18:23:40'
 created_ts: 1589567020
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://rasamalaysia.com/wp-content/uploads/2019/02/garlic-butter-fish5-364x546.jpg
 ingredients: '12 oz. firm white fish fillet (halibut, cod or pollock fillet)
 
@@ -55,7 +56,10 @@ total_time: ''
 type: null
 uid: B07937CB-BFC1-4141-AB33-9EA274BA7FA5-13891-0001025AF4838E50
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>I used halibut in this recipe. Make sure to use firm white fish.</p>
+<p>JI 5/16/20 made worh Pollack and fish fell apart.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>12 oz. firm white fish fillet (halibut, cod or pollock fillet)</li>

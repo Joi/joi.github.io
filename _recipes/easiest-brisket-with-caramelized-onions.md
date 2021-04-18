@@ -8,6 +8,7 @@ created: '2020-09-07 00:30:29'
 created_ts: 1599438629
 description: null
 difficulty: null
+favorite: 0
 image_url: https://dinnerthendessert.com/wp-content/uploads/2018/01/Beef-Brisket-with-Caramelized-Onions-FB.jpg
 ingredients: '4 tablespoons unsalted butter
 

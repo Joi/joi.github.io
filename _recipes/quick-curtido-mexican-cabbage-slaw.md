@@ -8,6 +8,7 @@ created: '2020-07-16 18:55:06'
 created_ts: 1594925706
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.seriouseats.com/recipes/images/2014/05/20140512-quick-curtido-primary-200x150.jpg
 ingredients: "1/2 small (2-pound) green cabbage, cored and very thinly sliced (about\
   \ 4 cups)\n1/2 medium white onion, peeled and very thinly sliced (about 1/2 cup)\n\

@@ -8,6 +8,7 @@ created: '2020-05-25 13:37:07'
 created_ts: 1590413827
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://cafedelites.com/wp-content/uploads/2017/11/Garlic-Steak-Creamy-Mushroom-Sauce-IMAGE-200x200.jpg
 ingredients: 'For Steaks:
 

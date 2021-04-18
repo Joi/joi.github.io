@@ -8,6 +8,7 @@ created: '2020-09-02 02:49:27'
 created_ts: 1599014967
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/36e6500/assets/13.png?1
 ingredients: '3 tablespoons olive oil
 

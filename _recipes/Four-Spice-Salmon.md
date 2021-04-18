@@ -9,6 +9,7 @@ created: '2020-03-20 18:26:12'
 created_ts: 1584728772
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "4 6-ounce skinned salmon fillets\nSalt and black pepper\n1 tablespoon\
   \ coriander seeds or ground coriander\n\xBC teaspoon whole or ground cloves\n1 \xBD\

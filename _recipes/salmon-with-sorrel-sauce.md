@@ -16,6 +16,7 @@ description: "There aren't that many recipes for the spring-only sorrel on the I
   \ and [Salmon and Sorrel Sauce](https://www.signaturedishes.net/recipes/salmon-sorrel-sauce.html)\
   \ are a few examples."
 difficulty: Hard
+favorite: 0
 image_url: null
 ingredients: "1 \xBD pounds Salmon filets\nSalt and freshly ground pepper\n1 Tbsp\
   \ extra-virgin olive oil\n3 Tbsp finely chopped shallot\n1 cup dry white wine (you\

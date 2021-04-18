@@ -8,6 +8,7 @@ created: '2020-10-31 21:50:46'
 created_ts: 1604181046
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "For the sauce:\n1 tablespoon ginger (minced)\n1 tablespoon scallion\
   \ (minced)\n1 tablespoon oil\n2 tablespoons light soy sauce\n1 tablespoon water\n\

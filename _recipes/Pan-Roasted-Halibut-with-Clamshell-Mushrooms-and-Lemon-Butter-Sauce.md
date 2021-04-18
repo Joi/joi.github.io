@@ -8,6 +8,7 @@ created: '2020-06-14 14:27:59'
 created_ts: 1592144879
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1 tablespoon olive oil\n1 tablespoon butter\n\xBC cup clamshell mushrooms,\
   \ or more to taste\nsalt and freshly ground black pepper to taste\n2 (7 ounce) halibut\
@@ -37,7 +38,9 @@ total_time: ''
 type: null
 uid: CBA252D8-4074-4C16-B731-B4B6E7EF42B3-1358-00017A9499BA0EF1
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>https://www.youtube.com/watch?v=ypYRfbMSyRo&amp;t=1s</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon olive oil</li>

@@ -8,6 +8,7 @@ created: '2020-12-25 13:02:18'
 created_ts: 1608901338
 description: null
 difficulty: null
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F31252.jpg&q=85
 ingredients: "\xBE teaspoon dried rosemary\n\xBC teaspoon dried basil\n\xBD teaspoon\
   \ dried thyme\nsalt and pepper to taste\n4 lamb chops (3/4 inch thick)\n1 tablespoon\

@@ -10,6 +10,7 @@ created: '2020-06-01 12:51:11'
 created_ts: 1591015871
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "heavy-duty aluminum foil\n4 -4 oz halibut fillets\nsalt and pepper\n\
   2 small zucchini, sliced \u215B\" thick\n1/2 red onion, thinly sliced\n1 bell pepper,\
@@ -38,7 +39,9 @@ total_time: ''
 type: null
 uid: 6263EFB6-0713-4AF0-A003-C6E5DF839147-29546-0004CF93A912ECE7
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Need to figure out better way to test if it's done. Was overcooked a bit.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>heavy-duty aluminum foil</li>

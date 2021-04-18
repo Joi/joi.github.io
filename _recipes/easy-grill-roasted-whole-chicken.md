@@ -9,6 +9,7 @@ created: '2020-02-03 15:01:29'
 created_ts: 1580742089
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_GrillRoastedWholeChicken_72_cl3poy
 ingredients: "GATHER YOUR INGREDIENTS\n1 tablespoon kosher salt\n\xBD teaspoon pepper\n\
   1 (3\xBD- to 4\xBD-pound) whole chicken, giblets discarded\n1 tablespoon vegetable\

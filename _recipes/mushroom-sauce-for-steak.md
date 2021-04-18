@@ -10,6 +10,7 @@ created: '2021-02-15 12:56:15'
 created_ts: 1613393775
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '8 ounces baby bella or cremini mushrooms thinly sliced
 
@@ -51,7 +52,9 @@ total_time: ''
 type: null
 uid: 818DF6C2-699D-41CE-AA3D-D93EDF22C1BC-26466-000013C57F68168A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Cheese it up: to take this sauce to the next level, stir in a couple tablespoons of freshly grated parmesan cheese OR sprinkle some parmesan cheese on top after spooning over steak!</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>8 ounces baby bella or cremini mushrooms thinly sliced</li>

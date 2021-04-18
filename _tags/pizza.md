@@ -6,7 +6,7 @@ notes:
   - date: '2021-04-03'
     feature: White Pizza with Rosemary
     type: lunch
-    uri_path: /2021/04/03/notes/lunch.html
+    uri_path: /notes/2021-04-03-lunch.html
   rough: []
 recipes:
 - mine: null

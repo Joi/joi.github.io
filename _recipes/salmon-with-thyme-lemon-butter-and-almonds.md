@@ -9,6 +9,7 @@ created: '2020-04-08 13:22:24'
 created_ts: 1586352144
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2014/04/10/dining/salmonthyme/salmonthyme-articleLarge.jpg
 ingredients: "1 tablespoon vegetable oil\n1 4-pound salmon, cleaned and scaled, head\
   \ and tail removed\n2 scallions, trimmed\n1 small bunch (about 1/2 cup) fresh thyme\n\

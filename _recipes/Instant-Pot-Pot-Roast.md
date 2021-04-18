@@ -8,6 +8,7 @@ created: '2020-04-24 19:01:08'
 created_ts: 1587754868
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.pressurecookrecipes.com/wp-content/uploads/2016/06/instant-pot-pot-roast-2-293x195.jpg
 ingredients: "1 - 3 pounds (1176g) USDA choice grade chuck roast/Canada AAA grade\
   \ blade roast (2 inches or 5cm thick)\n4 cloves garlic , minced\n2 small onions\

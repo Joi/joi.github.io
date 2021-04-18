@@ -8,6 +8,7 @@ created: '2020-03-17 22:02:24'
 created_ts: 1584482544
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/28334_sfs-pan-seared-steaks-22
 ingredients: null
 intrash: 0

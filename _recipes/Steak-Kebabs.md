@@ -7,6 +7,7 @@ created: '2020-07-22 17:36:47'
 created_ts: 1595439407
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.cookingclassy.com/wp-content/uploads/2017/04/steak-kebabs-17-427x640.jpg
 ingredients: 'Marinade
 

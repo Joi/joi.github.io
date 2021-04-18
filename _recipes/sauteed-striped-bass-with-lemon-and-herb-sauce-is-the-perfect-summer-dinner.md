@@ -8,6 +8,7 @@ created: '2020-07-20 23:29:04'
 created_ts: 1595287744
 description: null
 difficulty: null
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimg1.cookinglight.timeinc.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F1526940931%2Fsauteed-striped-bass-with-lemon-and-herb-sauce-1807-p59.jpg%3Fitok%3DwNncF5Ya&w=400&c=sc&poi=face&q=85
 ingredients: '4 (5-oz.) skin-on striped bass fillets (either hybrid striped bass or
   wild), patted dry

@@ -10,6 +10,7 @@ created: '2020-05-15 18:19:32'
 created_ts: 1589566772
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.seafoodnutrition.org/wp-content/uploads/2018/03/Parmesan-Crusted-Pollock-810x540.jpg
 ingredients: '1 lb. pollock fillets or other white fish
 

@@ -9,6 +9,7 @@ created: '2021-02-13 15:24:29'
 created_ts: 1613229869
 description: null
 difficulty: null
+favorite: 0
 image_url: https://static01.nyt.com/images/2015/10/15/dining/15COOKING-CAULIFLOWER1/15COOKING-CAULIFLOWER-articleLarge.jpg
 ingredients: '1 pound cauliflower, about 1 medium-large head, trimmed and cut into
   1/4-inch-thick slices

@@ -9,6 +9,7 @@ created: '2020-08-31 22:32:46'
 created_ts: 1598913166
 description: null
 difficulty: null
+favorite: 0
 image_url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/garlic-parmesan-flounder-horizontal-1-1551477251.png?crop=0.668xw:1.00xh;0.162xw,0&resize=480:*
 ingredients: '1/4 c. extra-virgin olive oil
 

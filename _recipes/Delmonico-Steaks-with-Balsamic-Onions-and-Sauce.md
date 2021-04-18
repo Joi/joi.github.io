@@ -8,6 +8,7 @@ created: '2020-11-11 18:02:00'
 created_ts: 1605117720
 description: null
 difficulty: null
+favorite: 0
 image_url: https://lh3.googleusercontent.com/u4tnizb0CaEz6QdraZY00oSE97fgIARshJGXCAoA_BCcURUe0AzWUIwai0mKDQI18lK2sVDh8K-rCo0_utnzsxcI2MRbcFpggPn5tFk=w600-rj-l68-e365
 ingredients: 'STEAKS:
 

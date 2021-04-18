@@ -8,6 +8,7 @@ created: '2020-06-25 16:36:57'
 created_ts: 1593103017
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5270122.jpg&w=568&h=380&c=sc&poi=face&q=85
 ingredients: "12 pita bread pockets\n\xBD cup olive oil\n\xBD teaspoon ground black\
   \ pepper\n1 teaspoon garlic salt\n\xBD teaspoon dried basil\n1 teaspoon dried chervil"

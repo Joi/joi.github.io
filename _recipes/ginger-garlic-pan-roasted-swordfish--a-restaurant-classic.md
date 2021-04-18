@@ -8,6 +8,7 @@ created: '2021-04-06 11:28:09'
 created_ts: 1617708489
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.askchefdennis.com/wp-content/uploads/2014/08/Pan-Roasted-Swordfish-610x745.jpg
 ingredients: '2 tablespoons butter room temperature
 

@@ -11,6 +11,7 @@ created: '2020-12-16 17:55:17'
 created_ts: 1608141317
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '2 (28 oz) cans San Marzano Tomatoes
 
@@ -50,7 +51,9 @@ total_time: ''
 type: null
 uid: EE565425-59C5-4F36-8476-7616358D2823-903-00005D3FB1B03E44
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Homemade marinara sauce freezes incredibly well. I prefer freezing it in smaller jars so I can thaw exactly what I need in the future. To thaw marinara sauce, simply place it in your fridge overnight.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 (28 oz) cans San Marzano Tomatoes</li>

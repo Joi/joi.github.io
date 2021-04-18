@@ -8,6 +8,7 @@ created: '2020-09-02 02:55:00'
 created_ts: 1599015300
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '1 beef rib rack, membrane removed
 

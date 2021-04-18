@@ -8,6 +8,7 @@ created: '2020-11-14 11:53:10'
 created_ts: 1605354790
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: "1.5 lb Beef Short Ribs on Bone\n3 Tbsp Gochujang\n2 Tbsp Minced Garlic\n\
   1 Tbsp Fresh Ginger\n2 tsp Sesame Oil\n1 cup Beef Broth\n\xBD cup Soy Sauce (Gluten-Free)\n\

@@ -8,6 +8,7 @@ created: '2020-06-13 15:22:14'
 created_ts: 1592061734
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2014/12/09/multimedia/clark-porchetta/clark-porchetta-articleLarge.jpg
 ingredients: "1 (7- to 8-pound) bone-in, skin-on pork shoulder roast, or a 6- to 7-pound\
   \ boneless roast, fat trimmed to 1/4-inch thickness\n\xBC cup chopped fennel fronds\n\

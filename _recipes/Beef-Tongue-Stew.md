@@ -9,6 +9,7 @@ created_ts: 1611259532
 description: Recipe is work in progress. I went very slow and low, but I think that
   going a little hotter might be better.
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'Beef tongue
 

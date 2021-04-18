@@ -9,6 +9,7 @@ created: '2020-12-29 16:32:14'
 created_ts: 1609259534
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://nitrocdn.com/VQKODMbqaZMLjwrwUHfTezrhgHregWNT/assets/static/optimized/rev-fea8353/wp-content/uploads/2018/05/crab-avocado-omelet-1-200x300.jpg
 ingredients: '3 eggs
 

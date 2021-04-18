@@ -8,6 +8,7 @@ created: '2020-09-02 02:44:30'
 created_ts: 1599014670
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://divascancook.com/wp-content/uploads/2014/09/IMG_8279-185x104.jpg
 ingredients: "3 lbs meaty beef ribs (grass-fed)\nLiquid smoke optional\n2-4 tablespoons\
   \ olive oil\n1 tablespoon garlic powder\n1 tablespoon onion powder\n1 tablespoon\

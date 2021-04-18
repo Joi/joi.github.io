@@ -8,6 +8,7 @@ created: '2021-01-31 12:36:31'
 created_ts: 1612096591
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '2 NY Strip Steaks, about 1" thick
 

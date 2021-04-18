@@ -8,6 +8,7 @@ created: '2020-04-19 15:25:30'
 created_ts: 1587309930
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2017/07/12/multimedia/12crowdrex-copy/12crowdrex-articleLarge.jpg
 ingredients: "3 tablespoons vegetable oil\n1 medium yellow onion, diced\n3 cloves\
   \ garlic, finely chopped\n3 tablespoons grated ginger\n1 tablespoon garam masala\n\

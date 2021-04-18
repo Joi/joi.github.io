@@ -7,6 +7,7 @@ created: '2020-09-24 00:49:42'
 created_ts: 1600908582
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://s23991.pcdn.co/wp-content/uploads/2020/08/roast-pork-butt.jpg
 ingredients: '1 tablespoon kosher salt
 

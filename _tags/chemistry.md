@@ -6,7 +6,7 @@ pages:
 - Doneness
 - Evaporation Effect
 - Grilling
-- Leidenfrost effect
+- Leidenfrost Effect
 - Meat and Temperatures
 - Reverse Sear
 rel_tags_count:

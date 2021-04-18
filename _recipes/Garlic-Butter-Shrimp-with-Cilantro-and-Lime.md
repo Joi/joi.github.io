@@ -8,6 +8,7 @@ created: '2020-08-23 11:26:58'
 created_ts: 1598182018
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'YOU WILL NEED
 

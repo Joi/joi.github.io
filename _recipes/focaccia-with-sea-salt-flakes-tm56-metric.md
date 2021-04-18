@@ -8,6 +8,7 @@ created: '2020-02-03 15:57:25'
 created_ts: 1580745445
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/63D3854D-D39C-4999-9DC0-AFF9583DB3F7/Derivates/BF9507B3-F2C0-4262-8346-649A5F980789.jpg
 ingredients: "Dough\n385 g water\n625 g bread flour\n5 tsp dried instant yeast\n30\
   \ g extra virgin olive oil\n1 pinch sugar\n1 tsp salt\nTopping\n85 g extra virgin\

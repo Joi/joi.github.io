@@ -8,6 +8,7 @@ created: '2020-07-16 01:49:37'
 created_ts: 1594864177
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://cdn.jwplayer.com/v2/media/MJpuOTRB/poster.jpg?width=720
 ingredients: '1/2 cup finely minced fresh cilantro leaves
 
@@ -48,7 +49,9 @@ total_time: ''
 type: null
 uid: F9B2D1B0-BF79-4EFE-8703-78B7F1A63319-29053-0004C5CE4375F09A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>If you don't have Mexican oregano on hand, you may substitute regular (Mediterranean) oregano.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/2 cup finely minced fresh cilantro leaves</li>

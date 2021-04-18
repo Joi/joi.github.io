@@ -15,6 +15,7 @@ description: "Meuni\xE8re is an old time favorite of mine. Salmon meuni\xE8re wa
   \ my favorite when I was a kid. This recipe is based on [a nice Cook's Illustrated\
   \ recipe.](https://www.cooksillustrated.com/recipes/1399-fish-meuniere-with-toasted-slivered-almonds?incode=MCSCM00L0&ref=new_search_experience_7)"
 difficulty: ''
+favorite: 1
 image_url: null
 ingredients: "\xBD cup all-purpose flour\n4 fillets - I like sole, flounder, salmon.\
   \ You can use anything that fillets well and doesn't fall apart when fried\n2 Tbsp\
@@ -68,7 +69,7 @@ uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4
 <p>Heat frying oil in skillet (non-stick helps) over high heat. (I shoot for about 350ºF but you might fry smaller fish a bit higher. People tend to suggest 350ºF - 375ºF)</p>
 <p>Add 1 Tbsp of butter and swirl and wait for foaming to subside. Put fish in. (Bone-side down for bigger fillets.) Reduce heat to medium and cook until golden brown and meat is opaque. If thick fish, measure with a probe and target 130 - 140ºF. This shouldn't take long. Maybe 2-3 min per side. Faster for smaller fish.</p>
 <p>Transfer the fillets to heated plates and stick in oven at 200ºF if you have oven on.</p>
-<p>Heat the 4 Tbsp of butter in a skillet over medium high heat until it melts. Should be about a minute. Add nuts and swirl until the butter is brown sells nutty. - another minute or so.</p>
+<p>Heat the 4 Tbsp of butter in a skillet over medium high heat until it melts. Should be about a minute. Add nuts and swirl until the butter is brown smells nutty - another minute or so.</p>
 <p>Top the fish with parsley.</p>
 <p>Ad lemon juice to butter and season with salt. Cover fish with brown butter sauce and serve with lemon wedges.</p>
 </div>	</div>

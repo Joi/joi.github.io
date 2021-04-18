@@ -8,6 +8,7 @@ created: '2020-02-02 15:13:01'
 created_ts: 1580656381
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/3283_s098-classic-minestrone-article
 ingredients: "GATHER YOUR INGREDIENTS\n2 small leeks (or 1 large), white and light\
   \ green parts sliced thin crosswise (about 3/4 cup) and washed thoroughly\n2 medium\

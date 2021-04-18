@@ -8,6 +8,7 @@ created: '2020-08-14 01:52:08'
 created_ts: 1597369928
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.seriouseats.com/images/2017/01/20170109-pan-seared-salmon-01-200x150.jpg
 ingredients: More Breadcrumbs
 intrash: 0

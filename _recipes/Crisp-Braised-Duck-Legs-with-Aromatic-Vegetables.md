@@ -8,6 +8,7 @@ created: '2020-04-07 12:31:28'
 created_ts: 1586262688
 description: null
 difficulty: null
+favorite: 1
 image_url: null
 ingredients: '2 duck legs, trimmed of excess fat
 

@@ -9,6 +9,7 @@ created: '2021-02-13 19:12:49'
 created_ts: 1613243569
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/anova-applied-electronics/image/upload/w_517,h_327,c_fit,f_auto,q_auto,dpr_2.0,/v1591814279/mobileProduction/t2bhj1fsohi5vxgjivmq.jpg
 ingredients: '1 whole Cauliflower
 

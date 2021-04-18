@@ -8,6 +8,7 @@ created: '2020-12-12 14:47:25'
 created_ts: 1607784445
 description: null
 difficulty: null
+favorite: 0
 image_url: https://video.sekindo.com/uploads/cn13/video/users/converted/18727/video_5adee65636639812903820/vid5adf01d32274b699701599.jpg?cbuster=1524564437
 ingredients: '4 salmon fillets, skin off (or Trout or any white fish)
 

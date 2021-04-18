@@ -8,6 +8,7 @@ created: '2020-02-02 12:32:12'
 created_ts: 1580646732
 description: null
 difficulty: Easy
+favorite: 1
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/DCFC4B1D-9B96-4B2D-9210-6795004579BB/Derivates/37085D6C-8D54-4F04-80ED-76400F519D0A.jpg
 ingredients: "**Hummus**\n8 oz dried garbanzo beans\n23 oz water, divided, plus extra\
   \ to soak beans\n3 oz extra virgin olive oil\n5 oz tahini\n1 garlic clove\n1 oz\

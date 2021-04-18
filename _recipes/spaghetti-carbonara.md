@@ -8,6 +8,7 @@ created: '2020-09-16 11:34:50'
 created_ts: 1600256090
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: "Salt\n2 large eggs and 2 large yolks, room temperature\n1 ounce (about\
   \ 1/3 packed cup) grated pecorino Romano, plus additional for serving\n1 ounce (about\

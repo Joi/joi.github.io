@@ -8,6 +8,7 @@ created: '2020-05-04 18:48:51'
 created_ts: 1588618131
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2013/03/27/dining/27APPE/27APPE-articleLarge.jpg
 ingredients: "Unsalted butter, as needed\nKosher salt, as needed\n1 pound pasta, such\
   \ as farfalle, macaroni or shells\n6 ounces Brie, rind removed and cheese cut into\

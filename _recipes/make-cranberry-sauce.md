@@ -8,6 +8,7 @@ created: '2020-11-26 14:14:13'
 created_ts: 1606400053
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "\xBE cup orange juice\n\xBE cup sugar\nzest from one orange\n12 oz cranberries"
 intrash: 0

@@ -10,6 +10,7 @@ created: '2020-03-31 17:17:45'
 created_ts: 1585675065
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "3 pound boneless beef chuck roast\nKosher salt and ground black pepper\n\
   3 tablespoons canola oil\n4 tablespoons butter\n2 medium red onions, cut into quarters\n\

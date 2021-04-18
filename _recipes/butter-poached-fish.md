@@ -8,6 +8,7 @@ created: '2020-08-07 11:32:21'
 created_ts: 1596799941
 description: null
 difficulty: null
+favorite: 0
 image_url: https://honest-food.net/wp-content/uploads/2016/06/butter-poached-halibut.jpg
 ingredients: '1 to 2 pounds of skinless boneless fish or shrimp
 

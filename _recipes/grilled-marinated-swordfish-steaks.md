@@ -8,6 +8,7 @@ created: '2020-07-05 23:27:15'
 created_ts: 1593991635
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2017/06/05/dining/05COOKING-SWORDFISH-STEAKS2/05COOKING-SWORDFISH-STEAKS2-articleLarge.jpg
 ingredients: "4 center-cut swordfish steaks, about 6 ounces each, one-inch thick\n\
   Salt and freshly ground pepper to taste\n3 tablespoons olive oil\n2 teaspoons soy\

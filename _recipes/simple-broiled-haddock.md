@@ -8,6 +8,7 @@ created: '2020-04-23 18:59:42'
 created_ts: 1587668382
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://images.media-allrecipes.com/userphotos/560x315/4535513.jpg
 ingredients: 'cooking spray
 

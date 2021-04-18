@@ -8,6 +8,7 @@ created: '2020-08-14 02:12:38'
 created_ts: 1597371158
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://v1.nitrocdn.com/KQYMGOLIdXGmoAcyJsPOrQDKktgCbwtG/assets/static/optimized/rev-e80bad3/wp-content/uploads/2012/09/Hamachi-Kama.jpg
 ingredients: "1 Hamachi Kama (available in Japanese market)\n1 tsp neutral-flavored\
   \ oil (vegetable, canola, etc)\nLemon (slice, optional)\n1 Tbsp soy sauce\n\xBD\

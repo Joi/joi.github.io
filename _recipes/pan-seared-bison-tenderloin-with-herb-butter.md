@@ -9,6 +9,7 @@ created: '2020-03-21 20:33:48'
 created_ts: 1584822828
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.saveur.com/resizer/_rKOcmn0iOzf425m8-CIxJtq2u8=/250x250/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/Y56RXRQETVHJG5NA4NEQA3DJ3M.jpg
 ingredients: 'For the Herb Butter:
 

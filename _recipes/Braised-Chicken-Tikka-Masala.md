@@ -12,6 +12,7 @@ description: Based on [this recipe from Cafe Delites](https://cafedelites.com/ch
   Cook's Illustrated [Braised Chicken with Basil and Tomato](https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato)
   which I find braises chicken and gets it done just right.
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "**For the chicken marinade:**\nWhole chicken\n1 cup plain yogurt\n1\
   \ \xBD Tbsp minced garlic\n1 Tbsp ginger\n2 tsp [recipe:Garam Masala]\n1 tsp turmeric\n\

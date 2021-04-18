@@ -13,6 +13,7 @@ description: "This recipe, which can be made up to 5 days ahead, will produce a 
   \ Serve it with toasted crusty bread and crunchy sea salt.\n\nMAKES ABOUT 2 CUPS\
   \ JUS AND ENOUGH PULLED OXTAIL MEAT TO SERVE 8 AS AN HORS D\u2019OEUVRE\n"
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1 tablespoon vegetable oil\n3 pounds oxtails\n1 large carrot, peeled\
   \ and roughly chopped (about 1\xBD\ncups)\n2 stalks celery, roughly chopped (about\

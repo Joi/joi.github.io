@@ -8,6 +8,7 @@ created: '2020-08-07 15:17:34'
 created_ts: 1596813454
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://amazingribs.com/files/styles/content_body_600px/public/articles/hero/lamb-recipes/lamb-lollipops.jpg?itok=L6u2KGKu
 ingredients: "1 (8 bone) rack or lamb\n4 medium cloves of garlic, skinned, stemmed,\
   \ pressed, crushed, or minced\n3 tablespoons finely chopped fresh rosemary or 2\

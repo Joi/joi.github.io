@@ -7,6 +7,7 @@ created: '2020-07-18 11:33:20'
 created_ts: 1595072000
 description: null
 difficulty: null
+favorite: 0
 image_url: https://mdyo8n9ckd3g81vs1qipy6bt-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/grilled-swordfish-basil-butter-900x600.jpg
 ingredients: '1-inch section of ginger, peeled and finely chopped
 

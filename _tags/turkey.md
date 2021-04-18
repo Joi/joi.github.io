@@ -6,7 +6,7 @@ notes:
   - date: '2020-11-25'
     feature: The Thanksgiving Turkey
     type: dinner
-    uri_path: /2020/11/25/notes/dinner.html
+    uri_path: /notes/2020-11-25-dinner.html
   rough: []
 recipes:
 - mine: null

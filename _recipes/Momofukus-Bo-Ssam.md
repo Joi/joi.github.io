@@ -8,6 +8,7 @@ created: '2020-10-08 14:41:56'
 created_ts: 1602168116
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2012/01/15/magazine/15eat1_span/15eat1_span-articleLarge-v4.jpg
 ingredients: "PORK BUTT:\n1 whole bone-in pork butt or picnic ham (8 to 10 pounds)\n\
   1 cup white sugar\n1 cup plus 1 tablespoon kosher salt\n7 tablespoons brown sugar\n\

@@ -9,6 +9,7 @@ created: '2020-03-28 14:16:39'
 created_ts: 1585404999
 description: null
 difficulty: null
+favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/b2fa694/assets/NYTCookingLogo.png
 ingredients: "5 tablespoons butter\n2 tablespoons chopped onion\n4 cups fresh spinach,\
   \ washed and well-drained\n3 tablespoons flour\n1 \xBD cups milk\n1 tablespoon minced\

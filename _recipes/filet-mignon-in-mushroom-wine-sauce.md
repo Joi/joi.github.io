@@ -8,6 +8,7 @@ created: '2021-02-04 17:09:16'
 created_ts: 1612458556
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '4 Tbsp unsalted butter divided
 
@@ -62,7 +63,9 @@ total_time: ''
 type: null
 uid: 2178D961-6FD7-4D18-86D5-D96953BACD23-1700-00008335CC63C5B9
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Thinner steaks will cook faster and thicker steaks can take longer.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 Tbsp unsalted butter divided</li>

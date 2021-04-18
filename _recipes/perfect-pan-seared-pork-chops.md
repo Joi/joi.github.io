@@ -8,6 +8,7 @@ created: '2020-12-09 01:08:15'
 created_ts: 1607476095
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.seriouseats.com/recipes/images/2014/03/20140130-pork-chop-food-lab-28-200x150.jpg
 ingredients: '2 bone-in pork rib chops, preferably blade-end, 1 1/2 inches thick (12
   to 16 ounces each)

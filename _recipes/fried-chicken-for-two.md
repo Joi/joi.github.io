@@ -18,6 +18,7 @@ description: "WHY THIS RECIPE WORKS\nWhen you\u2019re frying chicken for a crowd
   \ brief buttermilk soak. Mixing some buttermilk into the flour blend creates shaggy\
   \ shards of coating that fry into an extra-crunchy crust."
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/21989_sfs-cookingfortwo-fried-chicken-31
 ingredients: "GATHER YOUR INGREDIENTS\n4 (5- to 7-ounce) bone-in chicken thighs, trimmed,\
   \ or 2 (10- to 12-ounce) bone-in split chicken breasts, trimmed and halved crosswise\n\

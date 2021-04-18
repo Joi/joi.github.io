@@ -34,6 +34,7 @@ description: "_Ossobuco_  - one of Italy's most delicious dishes is made with sh
   \ the rice. Guests can then enjoy the marrow at the center of their veal shanks\
   \ and also its subtle flavor in the risotto."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1/2 cup olive oil or more as needed (125 mL)\r2 veal shanks, cut into\
   \ 1 1/2 to 2-inch ( 4 to 5 cm) slices\nSalt\nFreshly ground pepper\nFlour for dredging\n\

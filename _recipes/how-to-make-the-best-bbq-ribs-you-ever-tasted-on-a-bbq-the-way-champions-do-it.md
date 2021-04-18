@@ -8,6 +8,7 @@ created: '2020-10-10 19:46:51'
 created_ts: 1602359211
 description: null
 difficulty: null
+favorite: 0
 image_url: https://amazingribs.com/files/styles/content_body_600px/public/heroimage/ribs-with-flame_0.jpg?itok=02iXmTgt
 ingredients: "1 slab baby back ribs or St. Louis cut ribs or spareribs\n4 tablespoons\
   \ of Meathead's Memphis Dust\n1 teaspoon Morton\u2019s kosher salt (1/4 teaspoon\

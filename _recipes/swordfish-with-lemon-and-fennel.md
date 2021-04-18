@@ -8,6 +8,7 @@ created: '2020-07-05 23:28:22'
 created_ts: 1593991702
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2014/04/03/dining/Swordfish-With-Lemon-and-Fennel/Swordfish-With-Lemon-and-Fennel-articleLarge.jpg
 ingredients: "1 \xBD pounds swordfish steaks, about 1-inch thick\nKosher salt and\
   \ freshly ground black pepper\n\xBD teaspoon fennel seeds\n1 \xBD tablespoons olive\

@@ -25,6 +25,7 @@ description: 'Based on recipe from Salt, Fat, Acid, Heat. Staged cooking of chic
   Also, the skin slows down the temperature transmission when the skin is down and
   the pot is on the stove.'
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "Whole chicken\nSalt\nBlack pepper\n\xBD cup all-purpose flour\nExtra-virgin\
   \ olive oil\n3 tbsp unsalted butter\n2 medium onions, thinly sliced\n\xBE cup dry\

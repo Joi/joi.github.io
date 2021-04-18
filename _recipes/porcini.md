@@ -8,6 +8,7 @@ created: '2021-01-31 12:33:52'
 created_ts: 1612096432
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: "frozen porcini mushrooms \nwhite wine\nsalt\npepper \nparsley \nolive\
   \ oil"

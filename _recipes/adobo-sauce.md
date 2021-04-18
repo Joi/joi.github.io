@@ -8,6 +8,7 @@ created: '2020-08-16 15:40:29'
 created_ts: 1597592429
 description: null
 difficulty: null
+favorite: 0
 image_url: https://i2.wp.com/chilipeppermadness.com/wp-content/uploads/2020/01/Adobo-Sauce-Recipe1.jpg
 ingredients: "4 guajillo peppers\n4 ancho peppers\n3 cups hot water or enough to cover\
   \ the dried peppers + \xBD cup\n1 tablespoon olive oil\n1/2 small onion chopped\n\
@@ -36,7 +37,9 @@ total_time: null
 type: null
 uid: 932CA1E1-92C6-4C12-9BA4-663188CAAD30-15501-00000B8C94D2DCD5
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Makes about 2 cups. Store in the refrigerator in an airtight container.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 guajillo peppers</li>

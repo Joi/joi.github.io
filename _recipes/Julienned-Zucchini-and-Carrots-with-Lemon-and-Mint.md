@@ -8,6 +8,7 @@ created: '2020-07-30 18:04:11'
 created_ts: 1596132251
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1 Tbs. olive oil\n2 cups julienned carrot\n4 cups julienned green zucchini\n\
   4 scallions, thinly sliced on the diagonal\nFreshly ground black pepper\n2 Tbs.\

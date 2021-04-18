@@ -8,6 +8,7 @@ created: '2020-07-04 18:23:30'
 created_ts: 1593887010
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '4 salt-packed anchovies (or 8 filets), soaked and fileted 3 /4 cup stiff
   Basic Mayonnaise

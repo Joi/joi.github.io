@@ -8,6 +8,7 @@ created: '2020-07-18 17:34:03'
 created_ts: 1595093643
 description: null
 difficulty: null
+favorite: 0
 image_url: https://img.sndimg.com:443/food/image/upload/c_thumb,q_80,w_375,h_211/v1/img/recipes/30/82/06/picLid93O.jpg
 ingredients: '4 (4 ounce) sirloin steaks
 

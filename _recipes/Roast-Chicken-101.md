@@ -8,6 +8,7 @@ created: '2021-01-01 13:17:41'
 created_ts: 1609507061
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/anova-applied-electronics/image/upload/w_517,h_327,c_fit,f_auto,q_auto,dpr_2.0,/f_auto/v1/production/6t9l6mw68ygk6t5zx5p2xc6quuqs
 ingredients: '1 whole Chicken
 

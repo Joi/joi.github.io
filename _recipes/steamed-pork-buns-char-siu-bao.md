@@ -8,6 +8,7 @@ created: '2020-11-08 21:09:20'
 created_ts: 1604869760
 description: null
 difficulty: null
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2008%2F04%2F22%2Fpork-buns-ck-1734314-4x3-1-2000.jpg&q=85
 ingredients: "Filling:\n\xBD teaspoon five-spice powder\n1 pound pork tenderloin,\
   \ trimmed\nCooking spray\n1 cup thinly sliced green onions\n3 tablespoons hoisin\
@@ -38,7 +39,9 @@ total_time: null
 type: null
 uid: 2E941E51-A6DE-4FCF-AC16-1474BD78911B-26972-00000F54FB799798
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Kick up the spice level with some red chili peppers, cilantro, or jalapeños. Tiny cubed cucumbers make a fresh, crunchy addition to this Asian favorite. Hint: The beauty of this recipe is that you don't have to stick with pork. Make it a veggie, bean or even seafood bun.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Filling:</li>

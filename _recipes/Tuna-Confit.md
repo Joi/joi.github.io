@@ -8,6 +8,7 @@ created: '2020-08-06 07:42:38'
 created_ts: 1596699758
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '1. 2 lb. top-quality fresh tuna (yellowfin or ahi), cut into 1-inch-thick
   steaks

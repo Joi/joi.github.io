@@ -13,6 +13,7 @@ description: 'Based on [this Simply Recipes recipe](https://www.simplyrecipes.co
   Original recipe calls for doing this on a grill, but can easily be done in an oven.
   Also, proteins can be replaced but should be one layer on the rice.'
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "4 \xBD cups chicken stock\n\xBD tsp saffron threads, crumbled and then\
   \ loosely measured\n\xBC tsp salt\n3 Tbsp olive oil\n\xBD yellow onion, finely chopped\n\

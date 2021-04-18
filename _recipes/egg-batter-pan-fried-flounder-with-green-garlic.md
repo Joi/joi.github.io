@@ -9,6 +9,7 @@ created: '2021-04-01 23:11:43'
 created_ts: 1617318703
 description: null
 difficulty: null
+favorite: 0
 image_url: https://static01.nyt.com/images/2014/03/11/dining/11flounder/11flounder-articleLarge.jpg
 ingredients: "1 \xBD pounds boneless flounder or sole fillets, preferably 4 6-ounce\
   \ pieces\nSalt and pepper\n2 large eggs\n\xBD cup milk\n\xBD cup all-purpose flour\

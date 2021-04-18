@@ -8,6 +8,7 @@ created: '2020-03-22 14:23:03'
 created_ts: 1584886983
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.skinnytaste.com/wp-content/uploads/2012/06/Skinny-Overnight-Oats-in-a-Jar-550x732.jpg
 ingredients: '1/4 cup quick oats, I prefer organic
 

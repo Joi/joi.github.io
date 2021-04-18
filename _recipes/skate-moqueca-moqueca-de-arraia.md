@@ -26,6 +26,7 @@ description: "One of the most popular ways to serve arraia (ray or skate in Engl
   \ likely have dend\xEA in stock, and in cities with an African immigrant population\
   \ you can often find dend\xEA in African markets, labeled simply palm oil."
 difficulty: ''
+favorite: 0
 image_url: https://lh5.ggpht.com/HlvYDn0uSzOoSXJmWfEzjM5ze68FapjKdzBu-yzCncp_iE02r2zyEXOi2dJRhMBCWYSFTMU3R5e98--eEeJE=s640-c-rj-v1-e365
 ingredients: "2 lbs (1 kg) skate wings\n1 clove garlic, finely chopped\njuice of one\
   \ lime\n1 medium onion, sliced\n2 medium tomatoes, peeled, seeded and sliced\n2/3\

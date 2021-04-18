@@ -8,6 +8,7 @@ created: '2020-09-25 22:55:47'
 created_ts: 1601074547
 description: null
 difficulty: null
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fwww.foodandwine.com%2Fimg%2Ficons%2Fmissing-image-4x3.png
 ingredients: '2 cups hickory chips
 

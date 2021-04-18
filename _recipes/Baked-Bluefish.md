@@ -8,6 +8,7 @@ created: '2020-06-05 14:53:36'
 created_ts: 1591368816
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'One bluefish fillet (1/2 pound to 1 pound)
 

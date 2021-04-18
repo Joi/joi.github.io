@@ -8,6 +8,7 @@ created: '2020-12-05 17:10:53'
 created_ts: 1607188253
 description: null
 difficulty: null
+favorite: 0
 image_url: https://cdn.shopify.com/s/files/1/0305/5921/articles/pan-seared-black-cod_1800x.jpg?v=1455225618
 ingredients: "For the Aioli:\n1 egg yolk\n2 tablespoons Dijon mustard (we love Edmond\
   \ Fallot)\n2 tablespoons lemon juice\n\xBD teaspoon grated lemon zest\n1 large garlic\

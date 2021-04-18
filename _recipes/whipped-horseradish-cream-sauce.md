@@ -8,6 +8,7 @@ created: '2020-12-20 15:34:48'
 created_ts: 1608478488
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.savoryexperiments.com/wp-content/uploads/2013/12/Whipped-Horseradish-Cream-Sauce-FB-100x100.jpg
 ingredients: '1/2 pint heavy cream
 

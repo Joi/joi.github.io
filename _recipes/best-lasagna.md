@@ -8,6 +8,7 @@ created: '2020-09-03 23:19:14'
 created_ts: 1599175154
 description: null
 difficulty: null
+favorite: 0
 image_url: https://cafedelites.com/wp-content/uploads/2018/01/Mamas-Best-Lasagna-IMAGE-13-1365x2048.jpg
 ingredients: "Meat Sauce:\n0.5 tablespoon olive oil\n0.5 onion, finely chopped\n0.5\
   \ carrot, finely diced\n2 cloves garlic cloves, minced\n12 ounces (700 grams) ground\

@@ -8,6 +8,7 @@ created: '2020-07-05 11:38:20'
 created_ts: 1593949100
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://images.anovaculinary.com/sous-vide-shrimp/header/sous-vide-shrimp-header-og.jpg
 ingredients: '1 1/2 pounds large peeled shrimp (about 700g)
 
@@ -40,7 +41,9 @@ total_time: 30 min
 type: null
 uid: 4EBE9505-B809-4762-AA85-43CCD70D004C-6789-0000041D8DE23F73
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>7/2/2020 Used oil from Tuna Confit</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 1/2 pounds large peeled shrimp (about 700g)</li>

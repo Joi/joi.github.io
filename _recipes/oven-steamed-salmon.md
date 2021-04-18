@@ -9,6 +9,7 @@ created: '2020-03-20 18:25:48'
 created_ts: 1584728748
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2018/11/15/dining/oven-steamed-salmon/merlin_145792986_3ea4c3b9-784d-4bdf-9c0e-40d5ddf6ce0a-articleLarge.jpg
 ingredients: 'Center-cut salmon fillets, preferably wild-caught Alaskan king or sockeye,
   1-inch thick and of any size from 5 ounces to 2 1/2 pounds

@@ -9,6 +9,7 @@ created: '2021-02-28 16:21:05'
 created_ts: 1614529265
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "\xBD cup oil (divided)\n1-2 fresh Thai bird chili peppers (thinly sliced)\n\
   6-8 dried red chilies (roughly chopped)\n1 1/2 tablespoons Sichuan peppercorns (powdered\

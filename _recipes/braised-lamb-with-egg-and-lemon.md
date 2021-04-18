@@ -9,6 +9,7 @@ created: '2020-05-14 14:33:38'
 created_ts: 1589466818
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2016/03/16/dining/16KITCH1/16KITCH1-articleLarge.jpg
 ingredients: "4 pounds boneless lamb shoulder, cut in 3-inch pieces\nSalt and pepper\n\
   Extra-virgin olive oil\n1 large onion, diced\n4 large garlic cloves, chopped\n2\

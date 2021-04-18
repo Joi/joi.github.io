@@ -8,6 +8,7 @@ created: '2021-01-28 16:32:21'
 created_ts: 1611851541
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/anova-applied-electronics/image/upload/w_517,h_327,c_fit,f_auto,q_auto,dpr_2.0,/v1598475544/mobileProduction/jluudzux7wogaxdlfmc6.jpg
 ingredients: "7 cloves garlic, peeled\nchicken drumsticks and thighs, I used 6 drumsticks\
   \ and 3 thighs\n2.5 Tbsp Cajun seasoning, divided\n\xBD tsp salt\n\xBD tsp black\

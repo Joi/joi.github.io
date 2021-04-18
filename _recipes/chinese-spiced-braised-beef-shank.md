@@ -9,6 +9,7 @@ created: '2021-04-04 15:46:20'
 created_ts: 1617551180
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://thewoksoflife.com/wp-content/uploads/2017/02/chinese-braised-beef-8.jpg
 ingredients: "2 cinnamon sticks\n1 black cardamom pod\n\xBD tablespoon Sichuan peppercorns\n\
   2 star anise\n8 cloves\n1 piece dried tangerine peel\n2 bay leaves\n1 teaspoon white\

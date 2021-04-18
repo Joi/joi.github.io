@@ -18,6 +18,7 @@ description: "I clearly remember the first time I battered and fried fish; the w
   \ the scales even further in favor of lightness. As a result, the crust is even\
   \ more unbelievably tender. Some might call it, you know, a miracle."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "2 \xBD cups all-purpose flour\n1 teaspoon baking powder\n\xBD teaspoon\
   \ ground cayenne pepper\nSalt\n1 \xBD pounds flaky white fish, such as halibut,\

@@ -10,6 +10,7 @@ created: '2020-05-08 02:19:45'
 created_ts: 1588904385
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://images.media-allrecipes.com/userphotos/560x315/3733038.jpg
 ingredients: '4 (4 ounce) flounder fillets
 

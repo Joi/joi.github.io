@@ -18,6 +18,7 @@ description: 'Based mostly on this:
 
   https://www.cooksillustrated.com/articles/552-how-to-braise-brisket'
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "Brisket, 5 lb\n\n1. 4 Onions, sliced\n1. 4 tbsp unsalted butter\n1.\
   \ \xBD tsp Kosher salt\n1. 2 tbsp of Olive oil\n1. 2 tbsp Worcestershire sauce\n\

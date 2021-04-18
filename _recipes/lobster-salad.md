@@ -9,6 +9,7 @@ created: '2021-03-27 15:12:04'
 created_ts: 1616857924
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '1/4 c. mayonnaise
 

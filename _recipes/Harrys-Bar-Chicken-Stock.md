@@ -12,6 +12,7 @@ description: Chicken stock is an essential ingredient in any kitchen. At Harry's
   our soups, risotto, and sauces. If you like a more intensely flavored stock, use
   more chicken or less water.
 difficulty: Medium
+favorite: 1
 image_url: null
 ingredients: '1 3-4 pound chicken (1.350 to 1.800 g)
 

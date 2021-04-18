@@ -8,6 +8,7 @@ created: '2020-05-27 12:45:51'
 created_ts: 1590583551
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/4dd3952/assets/NYTCookingLogo.png
 ingredients: "1 \xBD cups dry white wine\n1 small onion, sliced\n1 bay leaf\n3 tablespoons\
   \ white-wine vinegar\n2 large skate wings, 8 to 10 ounces each\nSalt and freshly\

@@ -8,6 +8,7 @@ created: '2020-07-08 17:30:53'
 created_ts: 1594229453
 description: null
 difficulty: null
+favorite: 0
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/3/13/0/EA1118_Rack-of-Lamb.jpg.rend.hgtvcom.826.620.suffix/1371585626723.jpeg
 ingredients: '2 racks lamb, 6 to 8 ribs each, approximately 1 1/2 to 2-pounds each
 

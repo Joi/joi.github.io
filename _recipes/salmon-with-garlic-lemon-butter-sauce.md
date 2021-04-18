@@ -8,6 +8,7 @@ created: '2020-08-21 20:55:05'
 created_ts: 1598043305
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '4 (6 oz) skinless salmon fillets (about 1-inch thick)
 
@@ -52,7 +53,9 @@ total_time: ''
 type: null
 uid: 4C57E632-D300-4A3D-9314-48D2B086C607-2236-0000011E793EE7EE
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>If you want an even richer sauce, you can add an extra tablespoon or two of butter here but I like to keep it on the healthier side so I kept it at a minimal 3 tablespoons (plus the teaspoon to sauté the garlic) and it's just enough.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 (6 oz) skinless salmon fillets (about 1-inch thick)</li>

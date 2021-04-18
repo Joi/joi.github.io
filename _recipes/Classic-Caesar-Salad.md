@@ -8,6 +8,7 @@ created: '2020-08-11 18:05:09'
 created_ts: 1597169109
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://assets.bonappetit.com/photos/57ae12ef53e63daf11a4e1d6/16:9/w_1880,c_limit/BA-best-classic-caeser-salad.jpg
 ingredients: "The Dressing:\n6 anchovy fillets packed in oil, drained\n1 small garlic\
   \ clove\nKosher salt\n2 large egg yolks\n2 tablespoons fresh lemon juice, plus more\n\

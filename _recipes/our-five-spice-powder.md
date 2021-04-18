@@ -8,6 +8,7 @@ created: '2020-11-08 21:12:44'
 created_ts: 1604869964
 description: null
 difficulty: null
+favorite: 0
 image_url: https://thewoksoflife.com/wp-content/uploads/2019/12/five-spice-powder-6-340x493.jpg
 ingredients: '1 tablespoon ground Chinese cassia cinnamon (1 part)
 

@@ -8,6 +8,7 @@ created: '2020-03-26 15:44:51'
 created_ts: 1585237491
 description: null
 difficulty: null
+favorite: 0
 image_url: https://static01.nyt.com/images/2016/07/06/dining/06EIDjp4/06EIDjp4-articleLarge.jpg
 ingredients: "\xBC cup coriander seeds\n3 tablespoons coconut oil\n10 small shallots,\
   \ sliced\nKosher salt, to taste\n15 garlic cloves\n5 candlenuts (or 5 to 10 macadamia\

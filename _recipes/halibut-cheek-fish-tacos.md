@@ -8,6 +8,7 @@ created: '2020-08-16 15:30:50'
 created_ts: 1597591850
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.thislifeintrips.com/wp-content/uploads/2013/09/IMG_4610-200x150.jpg
 ingredients: "1 teaspoon garlic powder\n1 teaspoon ground cumin\n1 teaspoon chili\
   \ powder\n1/2 teaspoon dried oregano\n1/2 teaspoon cayenne pepper\nCourse Salt and\

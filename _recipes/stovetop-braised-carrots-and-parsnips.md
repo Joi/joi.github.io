@@ -8,6 +8,7 @@ created: '2020-03-30 20:07:56'
 created_ts: 1585598876
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2015/03/18/dining/braised-carrots/braised-carrots-articleLarge.jpg
 ingredients: '2 pounds carrots, peeled, trimmed and halved if more than 1/2-inch thick
 

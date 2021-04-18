@@ -8,6 +8,7 @@ created: '2021-04-15 11:36:41'
 created_ts: 1618486601
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.seriouseats.com/2019/06/20190529-smashed-sunchokes-vicky-wasik-10-200x150.jpg
 ingredients: '1 pound (450g) sunchokes, rinsed and trimmed of any dark spots
 

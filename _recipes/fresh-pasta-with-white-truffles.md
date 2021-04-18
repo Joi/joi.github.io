@@ -8,6 +8,7 @@ created: '2020-11-18 12:53:31'
 created_ts: 1605704011
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.italianfoodforever.com/wp-content/uploads/2013/10/whitetrufflepasta2-200x200.jpg
 ingredients: '1 Large Garlic Clove, Halved
 

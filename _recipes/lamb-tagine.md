@@ -10,6 +10,7 @@ created: '2021-04-05 11:33:14'
 created_ts: 1617622394
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "3 lb Boneless Leg Of Lamb\n1 Yellow Onion Chopped\n1 Tbsp Fresh Grated\
   \ Ginger\n2 Tbsp Tomato Paste\n2 tsp Ground Cinnamon\n2 tsp Ground Cumin\n2 tsp\

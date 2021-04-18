@@ -8,6 +8,7 @@ created: '2020-09-17 15:20:48'
 created_ts: 1600356048
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: 'Chicken Tikka
 
@@ -80,7 +81,13 @@ total_time: null
 type: null
 uid: 8B5C2EF0-0083-44A2-8EF0-481AB89C4B2C-15576-00000956C4D5C2D1
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>What is an Instant Pot: An Instant Pot is a multi-cooker, it’s like seven different appliances all in one! It does the job of a slow cooker, pressure cooker, rice cooker, steamer, yogurt maker, etc. I strongly recommend reading the manufacturer’s guide for instructions on how to use your Instant Pot before attempting this recipe.</p>
+<p>Note: The Instant Pot will default to 30 minutes when set on Poultry, use the down arrow to change to 5 minutes.</p>
+<p>Half and half can be found near the milk and cream in the dairy section of your local grocery store. Half and half is a blend of equal parts whole milk and light cream. It averages 10 to 12% of fat.</p>
+<p>Chicken: I used both skinless boneless chicken thighs and breasts, so both can be used with the same cooking time.</p>
+<p>Storage: You can store this chicken tikka masala recipe in the fridge for up to 4 days in an airtight container. It freezes well as well, for up to 3 months. Be sure to thaw it completely before reheating on the stove.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Chicken Tikka</li>

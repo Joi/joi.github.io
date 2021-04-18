@@ -15,6 +15,7 @@ description: 'WHY THIS RECIPE WORKS
   bloomed the spices with the aromatics, allowing us to use a more moderate amount.
   Some sugar and red wine vinegar also enhanced the flavors of the dish.'
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_Lamb_Vindaloo_036_okhefu
 ingredients: "GATHER YOUR INGREDIENTS\n3 onions, chopped fine\n3 tablespoons vegetable\
   \ oil\n3 tablespoons paprika\n8 garlic cloves, minced\n2 tablespoons tomato paste\n\

@@ -11,6 +11,7 @@ created: '2020-10-09 00:44:04'
 created_ts: 1602204244
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-articleLarge.jpg
 ingredients: "Good olive oil, as needed\n4 to 8 thick slices good bread\n1 onion,\
   \ chopped\n4 cloves garlic, chopped\n2 celery stalks, trimmed and chopped\n1 carrot,\

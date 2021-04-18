@@ -8,6 +8,7 @@ created: '2020-02-03 16:08:59'
 created_ts: 1580746139
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/909AE6A5-9B9F-4734-8A05-390A191D281F/Derivates/1ad03371-73f1-4969-908b-8e36e1049ba2.jpg
 ingredients: "Marinade\n3 oz orange juice\n2 oz sesame oil\n2 oz soy sauce\n2 tbsp\
   \ corn starch\n32 oz boneless, skinless chicken thighs, cut into pieces (1-1\xBD\

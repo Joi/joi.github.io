@@ -7,6 +7,7 @@ created: '2020-07-11 20:43:39'
 created_ts: 1594500219
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'Corn
 

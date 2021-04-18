@@ -8,6 +8,7 @@ created: '2020-03-31 19:52:28'
 created_ts: 1585684348
 description: ''
 difficulty: Easy
+favorite: 0
 image_url: https://chowhound1.cbsistatic.com/thumbnail/1200/0/chowhound1.cbsistatic.com/assets/recipe_photos/30258_RecipeImage_dungeness_crab2.jpg
 ingredients: 'For the crab:
 

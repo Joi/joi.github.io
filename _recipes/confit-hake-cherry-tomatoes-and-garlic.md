@@ -8,6 +8,7 @@ created: '2020-07-08 17:36:58'
 created_ts: 1594229818
 description: null
 difficulty: null
+favorite: 0
 image_url: https://images.immediate.co.uk/production/volatile/sites/2/2019/05/OLI_0419_p46-47_GiR2-b455946.jpg?quality=90&crop=19px%2C563px%2C3729px%2C1604px&resize=960%2C408
 ingredients: 'cherry tomatoes on the vine 2 bunches (about 225g)
 

@@ -8,6 +8,7 @@ created: '2020-08-07 11:35:33'
 created_ts: 1596800133
 description: null
 difficulty: null
+favorite: 0
 image_url: https://andreabeaman.com/wp-content/uploads/2017/02/poached-halibut-300x200.jpg
 ingredients: "2 tbsp. mirin rice wine (or white wine)\n1 cup water or veggie stock\n\
   1 shallot, peeled and sliced thin\n1 bay leaf\n2-3 sprigs of thyme, or 1 tbsp. thyme\

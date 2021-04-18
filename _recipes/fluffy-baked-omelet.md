@@ -9,6 +9,7 @@ created: '2020-02-03 15:59:52'
 created_ts: 1580745592
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/6260C6B1-2A3D-4A92-8173-35263448B18D/Derivates/D4E91688-BD6A-4DFD-825D-269F900BCC69.jpg
 ingredients: "Mushroom-Onion Filling\n4 oz yellow onions, in half moons (\xBC in.)\n\
   1 oz extra virgin olive oil, plus extra to grease\n4 oz fresh mushrooms (e.g. baby\

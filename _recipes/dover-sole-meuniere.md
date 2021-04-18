@@ -8,6 +8,7 @@ created: '2020-07-31 20:34:09'
 created_ts: 1596227649
 description: ''
 difficulty: Easy
+favorite: 0
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2015/11/20/5/QFSP02_Geoffreys-Dover-Sole-Meuniere_s4x3.jpg.rend.hgtvcom.826.620.suffix/1449102906778.jpeg
 ingredients: '1 to 2 cups quick-mixing flour, such as Wondra
 
@@ -45,7 +46,11 @@ total_time: ''
 type: null
 uid: 7270F200-1ACF-436B-B042-C40410A9A6A0-96025-000324221A61F300
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Ask your butcher to clean the fish for you. It is important to not season the sauce too much before adding the capers because of their high salt content.</p>
+<p>My Private Notes</p>
+<p>Add a Note</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 to 2 cups quick-mixing flour, such as Wondra</li>

@@ -8,6 +8,7 @@ created: '2020-04-16 12:39:24'
 created_ts: 1587040764
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://assets.epicurious.com/photos/5499995c6529d92b2c0026bd/2:1/w_1260%2Ch_630/EP_20140828_masters-7_9x4-lpr.jpg
 ingredients: '2 tablespoons minced garlic
 

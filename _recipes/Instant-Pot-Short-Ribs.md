@@ -13,6 +13,7 @@ description: "These Red Wine Braised Instant Pot Short Ribs are the perfect choi
   \ beefy melt-in-your-mouth heaven-on-earth.\n\nPlus, you can save time by cooking\
   \ potatoes at the same time right in the same pot. How awesome is that?!"
 difficulty: ''
+favorite: 1
 image_url: https://www.pressurecookrecipes.com/wp-content/uploads/2018/08/instant-pot-short-ribs-645x437.jpg
 ingredients: "6 - 10 pieces (1116g) bone-in short ribs (1.5 - 2 inches thick)\n6 cloves\
   \ garlic , crushed and chopped\n2 (300g) small onions , sliced\n2 (170g) medium\

@@ -8,6 +8,7 @@ created: '2020-05-27 12:44:39'
 created_ts: 1590583479
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/4dd3952/assets/NYTCookingLogo.png
 ingredients: "3 tablespoons olive oil\n3 tablespoons unsalted butter, melted\n6 skate\
   \ wings, each 6 to 8 inches across\nKosher salt and freshly ground black pepper\
@@ -36,7 +37,9 @@ total_time: ''
 type: null
 uid: DBFAB744-4396-4E8D-92AE-115C6E16D77A-29546-00034653B911D352
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Breadcrumbs were whole wheat... but for some reason the crumbs absorbed all of the butter/oil and were rather dry and cooling slowly on the pan. Had to cook longer and stuck thicker pieces in oven to finish cooking.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 tablespoons olive oil</li>

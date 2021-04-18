@@ -9,6 +9,7 @@ created_ts: 1599478546
 description: "Inspired by: [\"The Best Barbecue Chicken Recipe\" by J. Kenji L\xF3\
   pez-Alt](https://www.seriouseats.com/recipes/2012/08/the-best-barbecue-chicken-recipe.html)"
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'Whole chicken
 

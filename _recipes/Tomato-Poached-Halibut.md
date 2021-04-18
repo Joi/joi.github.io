@@ -8,6 +8,7 @@ created: '2020-08-07 11:33:42'
 created_ts: 1596800022
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://www.tasteofhome.com/wp-content/uploads/2018/01/exps149139_TH153345B07_21_11b-696x696.jpg
 ingredients: '1 tablespoon olive oil
 

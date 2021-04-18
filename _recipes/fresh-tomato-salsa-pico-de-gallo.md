@@ -8,6 +8,7 @@ created: '2020-08-16 15:33:38'
 created_ts: 1597592018
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.simplyrecipes.com/wp-content/uploads/2019/07/Fresh-Tomato-Salsa-LEAD-1b-600x840.jpg
 ingredients: "2 to 3 medium sized fresh tomatoes (1 to 1 1/2 pounds), stems removed\n\
   1/2 red onion\n2 serrano chiles or 1 jalape\xF1o chile (stems, ribs, seeds removed),\

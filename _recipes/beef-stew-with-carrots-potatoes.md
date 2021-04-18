@@ -8,6 +8,7 @@ created: '2020-10-13 20:02:18'
 created_ts: 1602619338
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.onceuponachef.com/images/2011/02/beef-stew-with-carrots-potatoes.jpg
 ingredients: '3 pounds boneless beef chuck (well-marbled), cut into 1-1/2-inch pieces
 

@@ -8,6 +8,7 @@ created: '2020-09-02 13:58:40'
 created_ts: 1599055120
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1 tablespoon olive oil\n1-1/2 cups diced yellow onion\n\xBD cup diced\
   \ carrots\n1/2 cup diced celery\n1 pound ground beef chuck\n1/2 pound ground pork\n\
@@ -42,7 +43,10 @@ total_time: ''
 type: null
 uid: 8202E24E-9C63-4DBB-A008-AFBA9C08982B-499-0000017FA2C55DFC
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>For the best flavor and texture of this sauce, crushed San Marzano tomatoes are key. Other crushed tomato varieties, or those packed in a more watery juice instead of purée, will yield a thinner, less flavorful sauce.</p>
+<p>Make ahead: Bolognese sauce can be stored in airtight containers for 3-4 days in the refrigerator, or 3-4 months in the freezer.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon olive oil</li>

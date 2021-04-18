@@ -8,6 +8,7 @@ created: '2020-03-29 01:33:34'
 created_ts: 1585445614
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2017/01/15/dining/DINING-CLASSICOMELET-2/DINING-CLASSICOMELET-2-videoHpMedium-v2.jpg
 ingredients: '3 large eggs
 

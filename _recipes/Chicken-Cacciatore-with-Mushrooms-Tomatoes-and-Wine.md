@@ -8,6 +8,7 @@ created: '2020-03-29 11:54:17'
 created_ts: 1585482857
 description: null
 difficulty: null
+favorite: 1
 image_url: https://static01.nyt.com/images/2014/04/04/dining/chickencaccitora/chickencaccitora-articleLarge.jpg
 ingredients: "\xBD ounce dried mushrooms, like porcini (1/2 cup)\n2 tablespoons olive\
   \ oil\nSalt and freshly ground pepper\n6 to 8 skinless chicken legs and/or thighs\

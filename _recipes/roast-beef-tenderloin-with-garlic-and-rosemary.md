@@ -8,6 +8,7 @@ created: '2020-09-20 19:57:31'
 created_ts: 1600631851
 description: null
 difficulty: null
+favorite: 0
 image_url: https://assets.bonappetit.com/photos/5824ee29dcf576bb502c625c/16:9/w_1880,c_limit/roast-beef-tenderloin-with-garlic-and-rosemary.jpg
 ingredients: "2 garlic cloves\n2 tablespoons rosemary leaves, plus sprigs\n1 4-pound\
   \ trimmed center-cut beef tenderloin\nKosher salt, freshly ground pepper\n1 tablespoon\

@@ -8,6 +8,7 @@ created: '2020-04-26 22:14:09'
 created_ts: 1587939249
 description: Joi's recent version 4/26/2020
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'Chuck Eye Steak
 
@@ -64,7 +65,10 @@ total_time: ''
 type: null
 uid: CB5616BE-378B-4E49-BD72-A9B439D968A7-89150-000287A752BD566F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>The chuck eye steak was a bit dry - try 30 min instead of 45 next time.</p>
+<p>Was a mashup between the Instant Pot Pot Roast and Making Meat Tender and Succulent recipes.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Chuck Eye Steak</li>

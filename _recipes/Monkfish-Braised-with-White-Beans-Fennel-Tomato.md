@@ -19,6 +19,7 @@ description: 'THIS DISH REAPPEARS IN A NUMBER OF FORMS AT ZUNI, SOMETIMES WITH T
   (The fumet will take less than an hour to make.) You can cook the beans a day or
   two in advance.'
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '4 chunks monkfish fillet, about 6 ounces each, skin and translucent
   membrane removed

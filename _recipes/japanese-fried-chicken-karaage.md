@@ -8,6 +8,7 @@ created: '2020-02-03 15:50:50'
 created_ts: 1580745050
 description: Based on [this Cook's Illustrated Recipe](https://www.cooksillustrated.com/recipes/11892-japanese-fried-chicken-thighs-karaage).
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "3 Tbsp soy sauce\n2 Tbsp sake\n1 Tbsp grated fresh ginger\n2 garlic\
   \ cloves, minced\n\xBE tsp sugar\n\u215B tsp table salt\n1 - 2 lb boneless chicken\

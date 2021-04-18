@@ -9,6 +9,7 @@ created: '2020-07-27 19:25:43'
 created_ts: 1595877943
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.thespruceeats.com/thmb/3qL0yBdwEvOBvP_iSf1g6xybv_M=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-469503583-e179f0d618994c59810613d114030437.jpg
 ingredients: '1 pound bok choy, Peking cabbage ( Napa cabbage or spinach leaves)
 

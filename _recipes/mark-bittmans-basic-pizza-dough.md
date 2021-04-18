@@ -9,6 +9,7 @@ created: '2021-02-03 20:08:38'
 created_ts: 1612382918
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2014/05/01/dining/Basic-Pizza-Dough/Basic-Pizza-Dough-articleLarge.jpg
 ingredients: '3 cups all-purpose or bread flour, or more as needed, plus more for
   kneading

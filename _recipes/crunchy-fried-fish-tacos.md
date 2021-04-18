@@ -9,6 +9,7 @@ created: '2020-10-25 15:50:06'
 created_ts: 1603641006
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.seriouseats.com/recipes/images/2013/07/20130717-fish-tacos-1-200x150.jpg
 ingredients: '1 1/2 cups cake flour
 

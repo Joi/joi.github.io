@@ -13,6 +13,7 @@ description: 'Instead of bok choy, you can use other strong leafy greens such as
   If you want to go full vegan, replace fish sauce with a tbsp of tomato paste or
   vegan fish sauce alternative. Replace chicken broth with vegetable broth.'
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1 lb bok choy cleaned and chopped\n1 lb tofu cut into \xBD in x \xBD\
   \ in x 1 in rectangles\n1 medium tomato diced\n1 medium yellow onion diced\n3 cloves\

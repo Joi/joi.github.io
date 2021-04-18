@@ -9,6 +9,7 @@ created: '2020-03-19 15:42:52'
 created_ts: 1584632572
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/94fb326/assets/NYTCookingLogo.png
 ingredients: "\u2154 cup onion, very thinly sliced\n3 tablespoons extra-virgin olive\
   \ oil\n\xBD teaspoon finely chopped garlic\n1 cup canned Italian plum tomatoes,\

@@ -8,6 +8,7 @@ created: '2020-06-29 10:59:10'
 created_ts: 1593428350
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: Live lobster
 intrash: 0

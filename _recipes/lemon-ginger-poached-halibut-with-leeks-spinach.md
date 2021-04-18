@@ -8,6 +8,7 @@ created: '2020-08-06 00:26:39'
 created_ts: 1596673599
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18204806/051095094-05-poached-halibut-leeks-spinach-main.jpg
 ingredients: '2 tsp. finely grated fresh ginger
 

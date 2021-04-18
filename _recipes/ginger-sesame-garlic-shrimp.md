@@ -8,6 +8,7 @@ created: '2020-08-01 15:27:30'
 created_ts: 1596295650
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.simplyrecipes.com/wp-content/uploads/2015/09/ginger-sesame-garlic-shrimp-vertical-a-12001-600x843.jpg
 ingredients: 'Marinade:
 

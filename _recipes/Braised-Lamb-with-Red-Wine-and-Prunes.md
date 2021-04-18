@@ -8,6 +8,7 @@ created: '2020-05-14 14:33:18'
 created_ts: 1589466798
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "2 pounds lamb shoulder\n1 cup pitted prunes\n1 tablespoon minced garlic\n\
   Salt and pepper\n1 chopped onion\n2 teaspoons minced ginger\n\xBC teaspoon cinnamon\n\

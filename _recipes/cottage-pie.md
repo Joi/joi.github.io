@@ -10,6 +10,7 @@ created: '2020-02-03 16:00:21'
 created_ts: 1580745621
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/vimdb/250368.jpg
 ingredients: "3 garlic cloves\n8 oz yellow onions, cut into pieces\n6 oz carrots,\
   \ peeled, cut into pieces\n5 oz celery, cut into pieces\n6 oz tomatoes, quartered\n\

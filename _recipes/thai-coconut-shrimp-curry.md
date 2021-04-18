@@ -9,6 +9,7 @@ created: '2020-10-14 11:40:56'
 created_ts: 1602675656
 description: null
 difficulty: null
+favorite: 0
 image_url: https://cdn.statically.io/img/peasandcrayons.com/wp-content/uploads/2019/10/thai-coconut-shrimp-curry-recipe-2-800x1200.jpg?f=auto
 ingredients: "1 pound raw shrimp, cleaned and prepped (thaw if frozen)\n1-2 TBSP avocado\
   \ oil or olive oil\n1 white onion\n1 red bell pepper\n1-2 large jalape\xF1o\n3 TBSP\

@@ -16,6 +16,7 @@ description: "A no-fuss recipe that is revolutionizing home baking trades flavor
   \ yeastiness. We bake the bread in a covered pot to create steam, producing a springy\
   \ interior, and then finish baking it uncovered for a beautifully browned crust."
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/22085_sfs-easy-rustic-bread-7-1
 ingredients: "GATHER YOUR INGREDIENTS\n3 cups (15 ounces) all-purpose flour\n1 \xBD\
   \ teaspoons salt\n\xBC teaspoon instant or rapid-rise yeast\n\xBE cup plus 2 tablespoons\

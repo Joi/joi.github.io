@@ -11,6 +11,7 @@ description: 'Inspired by Food Lab.
 
   Serve with [recipe:Oxtail Jus].'
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'Prime Rib
 

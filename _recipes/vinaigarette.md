@@ -8,6 +8,7 @@ created: '2020-07-23 13:02:18'
 created_ts: 1595509338
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: "3 tbsp red wine vinegar\n\xBC tsp dry mustard\nsalt & pepper\n\xBE cup\
   \ light olive oil\n\xBC cup extra virgin olive oil "

@@ -8,6 +8,7 @@ created: '2020-08-27 14:43:07'
 created_ts: 1598539387
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.seriouseats.com/recipes/images/2017/10/20170919-toum-garlic-sauce-vicky-wasik-6.jpg
 ingredients: '1 cup cloves garlic (4 1/2 ounces; 130g)
 

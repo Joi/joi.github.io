@@ -9,6 +9,7 @@ created: '2020-03-18 16:01:07'
 created_ts: 1584547267
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2014/03/11/dining/11sole/11sole-articleLarge.jpg
 ingredients: "1 \xBD pounds Pacific sole or flounder fillets\nSalt and freshly ground\
   \ pepper\n1 tablespoon extra-virgin olive oil\n3 tablespoons finely chopped shallot\n\

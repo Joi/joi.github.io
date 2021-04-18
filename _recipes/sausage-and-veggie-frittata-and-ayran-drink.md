@@ -9,6 +9,7 @@ created: '2020-02-02 12:33:10'
 created_ts: 1580646790
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/EA1E718F-268F-4032-A55B-6FD5E01C651B/Derivates/ca1df167-4f3e-4381-b953-80cd3c4d582f.jpg
 ingredients: "Ayran Drink\n9 oz plain Greek yogurt, whole fat\n9 oz cold water, filtered\n\
   \xBC tsp salt\nFrittata\n1 oz fresh dill, leaves only\n1 oz fresh parsley, leaves\

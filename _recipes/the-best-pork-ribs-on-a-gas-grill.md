@@ -8,6 +8,7 @@ created: '2020-09-08 22:35:04'
 created_ts: 1599604504
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.thecountrycook.net/wp-content/uploads/2018/06/7583901920_IMG_8812.jpg
 ingredients: 'pork ribs
 

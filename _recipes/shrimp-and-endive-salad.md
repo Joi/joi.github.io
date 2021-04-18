@@ -9,6 +9,7 @@ created: '2021-03-22 15:49:08'
 created_ts: 1616428148
 description: 'Inspired by a salad that I used to eat at [_Il Fornaio_](https://www.ilfornaio.com/). '
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'Endive
 

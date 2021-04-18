@@ -10,6 +10,7 @@ description: Dough is based on _24- to 48-Hour Pizza Dough_ from p. 119 of _The 
   of Pizza_ by Ken Forkish. Sauce is based on the _FWSY Sauce_ from the same book
   on p. 146.
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "**Dough**\n\n350 g water\n17 g kosher salt\n1.5 g Instant dried yeast\n\
   500 g 00 flour\nSalt\n\n**Sauce**\n\n20 g extra virgin olive oil\n1 clove of garlic,\

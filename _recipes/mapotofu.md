@@ -10,6 +10,7 @@ created: '2021-03-24 15:18:40'
 created_ts: 1616599120
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.kyounoryouri.jp/upfile/r/l_1179995078_438.jpg?bustcache=1356573811
 ingredients: "\u6728\u7DBF\u8C46\u8150  1\u4E01\uFF08400g\uFF09\n\u306D\u304E  1/3\u672C\
   \n\u8C5A\u3072\u304D\u8089  100g\n\u306B\u3093\u306B\u304F  \u5C0F\u3055\u30581\n\

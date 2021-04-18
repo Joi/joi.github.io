@@ -9,6 +9,7 @@ created: '2020-03-31 16:54:32'
 created_ts: 1585673672
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_Brisket_lg_tla4lk
 ingredients: "GATHER YOUR INGREDIENTS\n1 tablespoon paprika\n2 teaspoons onion powder\n\
   Salt and pepper\n1 teaspoon garlic powder\n\u215B teaspoon cayenne pepper\n1 (5-pound)\

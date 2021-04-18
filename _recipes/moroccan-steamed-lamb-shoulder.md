@@ -9,6 +9,7 @@ created: '2020-05-14 14:30:03'
 created_ts: 1589466603
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2015/09/30/dining/30KITCHEN/30KITCHEN-articleLarge.jpg
 ingredients: "FOR THE LAMB:\n1 tied boneless lamb shoulder roast, about 4 pounds\n\
   1 tablespoon kosher salt\n1 teaspoon ground cumin\n1 teaspoon ground coriander\n\

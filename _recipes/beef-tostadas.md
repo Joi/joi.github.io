@@ -9,6 +9,7 @@ created: '2020-12-26 15:02:31'
 created_ts: 1608994951
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/3/1/0/FNM_040111-WN-Dinners-003_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371595319118.jpeg
 ingredients: '2 tablespoons vegetable oil
 

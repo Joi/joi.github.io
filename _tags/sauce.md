@@ -6,10 +6,10 @@ notes:
   rough:
   - date: '2020-07-10'
     type: dinner
-    uri_path: /2020/07/10/notes/dinner.html
+    uri_path: /notes/2020-07-10-dinner.html
   - date: '2020-07-15'
     type: dinner
-    uri_path: /2020/07/15/notes/dinner.html
+    uri_path: /notes/2020-07-15-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/adobo-sauce

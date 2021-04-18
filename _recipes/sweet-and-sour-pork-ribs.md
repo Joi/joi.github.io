@@ -8,6 +8,7 @@ created: '2020-02-03 15:58:54'
 created_ts: 1580745534
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/F772BA2A-2A16-4BAC-987F-29DCE887942E/Derivates/887DE0F0-8570-4E9C-8FD8-238A90CF4593.jpg
 ingredients: "\xBD oz vegetable oil\n\xBD oz fresh ginger, thinly sliced\n18 oz pork\
   \ spare ribs, cut into pieces (2 in.)\n2 oz crumb rock sugar\n1 oz Chinese rice\

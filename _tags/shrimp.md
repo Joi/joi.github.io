@@ -6,11 +6,11 @@ notes:
   - date: '2020-07-05'
     feature: Shrimp and Endive Salad
     type: dinner
-    uri_path: /2020/07/05/notes/dinner.html
+    uri_path: /notes/2020-07-05-dinner.html
   - date: '2020-07-12'
     feature: BBQ Day
     type: dinner
-    uri_path: /2020/07/12/notes/dinner.html
+    uri_path: /notes/2020-07-12-dinner.html
   rough: []
 recipes:
 - mine: null

@@ -6,7 +6,7 @@ notes:
   rough:
   - date: '2021-03-27'
     type: dinner
-    uri_path: /2021/03/27/notes/dinner.html
+    uri_path: /notes/2021-03-27-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/butter-basted-pan-seared-thick-cut-steaks

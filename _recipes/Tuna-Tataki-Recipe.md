@@ -8,6 +8,7 @@ created: '2020-06-26 10:42:57'
 created_ts: 1593168177
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "\xBD lb sashimi grade yellowfin/ahi tuna\n2 Tbsp neutral-flavored oil\
   \ (vegetable, canola, etc)\nTataki Sauce:\n1 green onion/scallion (1 onion = about\
@@ -38,7 +39,9 @@ total_time: ''
 type: null
 uid: 39091A3A-A890-436A-A9C2-58FA599B57F5-533-00000014701D437B
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Ponzu: Homemade recipe, click here.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ lb sashimi grade yellowfin/ahi tuna</li>

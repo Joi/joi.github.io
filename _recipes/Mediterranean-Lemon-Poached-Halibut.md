@@ -8,6 +8,7 @@ created: '2020-08-07 11:17:34'
 created_ts: 1596799054
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: 'For Spice Rub:
 
@@ -67,7 +68,11 @@ total_time: null
 type: null
 uid: 7F9B1014-78E5-4DA8-B030-A3DBAD3D82D6-2643-000000E50A6D15D1
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Recipe notes: Use a shallow skillet or pan, and select the size carefully. If there is too much or too little space left around the fish, there may be too much or too little liquid, and the fish could over- or under-cook. And when you cover the fish to cook, you only need to cover it loosely to trap just enough of the steam to cook the unexposed parts, but not so much that the cooking speed rises. Feel free to strain the poaching broth if you like before serving.</p>
+<p>Recommended for this Recipe: from our all-natural and organic spice collection, coriander and paprika. And from our Greek olive oils: Private Reserve extra virgin olive oil (from organically grown and processed Koroneiki olives).</p>
+<p>SAVE! Try our Ultimate Mediterranean Spice Bundle; or Create Your Own 3-pack or 6-pack of spices! Try our Greek olive oil bundle!</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For Spice Rub:</li>

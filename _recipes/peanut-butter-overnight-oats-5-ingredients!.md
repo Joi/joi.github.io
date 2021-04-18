@@ -8,6 +8,7 @@ created: '2020-03-21 23:56:28'
 created_ts: 1584834988
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://minimalistbaker.com/wp-content/uploads/2015/07/SIMPLE-AMAZING-Peanut-Butter-Overnight-Oats-Just-5-ingredients-5-minutes-prep-and-SO-delicious-vegan-recipe-glutenfree-meal-breakfast-oats-oatmeal-680x1050.jpg
 ingredients: 'OATS
 

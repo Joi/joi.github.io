@@ -8,6 +8,7 @@ created: '2020-09-17 15:23:42'
 created_ts: 1600356222
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.halfbakedharvest.com/wp-content/uploads/2018/10/Healthier-Instant-Pot-Coq-au-Vin-1.jpg
 ingredients: '2-3 slices thick cut bacon, chopped
 

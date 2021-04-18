@@ -9,6 +9,7 @@ created: '2020-04-11 13:31:52'
 created_ts: 1586611912
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-articleLarge.jpg
 ingredients: "2 tablespoons egg white, lightly beaten\n2 tablespoons plus 1 teaspoon\
   \ cornstarch\n2 tablespoons plus 1 teaspoon Chinese rice wine or sake\n\xBD teaspoon\

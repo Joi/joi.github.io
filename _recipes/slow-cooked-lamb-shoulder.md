@@ -8,6 +8,7 @@ created: '2020-05-16 13:58:42'
 created_ts: 1589637522
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.recipetineats.com/wp-content/uploads/2015/02/Slow-Cooked-lamb-Shoulder_1.jpg?resize=650,910
 ingredients: '1.8kg / 3.5 lb lamb shoulder (bone in) (Note 1)
 

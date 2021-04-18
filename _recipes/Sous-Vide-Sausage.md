@@ -8,6 +8,7 @@ created: '2020-07-04 18:43:55'
 created_ts: 1593888235
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://images.anovaculinary.com/sous-vide-sausage/header/sous-vide-sausage-header-og.jpg
 ingredients: '3 lb / 1.36 kg Raw natural casing sausages such as Bratwurst or Italian
 

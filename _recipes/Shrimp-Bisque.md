@@ -9,6 +9,7 @@ created: '2020-07-28 19:16:06'
 created_ts: 1595963766
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'GATHER YOUR INGREDIENTS
 

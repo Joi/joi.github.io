@@ -9,6 +9,7 @@ created: '2020-04-19 15:45:28'
 created_ts: 1587311128
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2020/01/30/dining/sdg-pressure-cooker-pot-roast/merlin_168064572_dc3d6856-89e3-4cf0-bcdc-4db36e030eba-articleLarge.jpg
 ingredients: "FOR THE POT ROAST:\n4 pounds beef chuck roast, cut in half\nKosher salt\
   \ and black pepper\n2 tablespoons vegetable oil\n7 ounces frozen pearl onions (or\

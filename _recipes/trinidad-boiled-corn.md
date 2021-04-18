@@ -8,6 +8,7 @@ created: '2020-07-04 13:29:45'
 created_ts: 1593869385
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://3.bp.blogspot.com/-xtMk0Bo0d7M/VHY2TvrdFjI/AAAAAAAABzg/ODN5VSOyfIw/s1600/Boiled_Corn4.jpg
 ingredients: '8 corn cobs (Full Length)
 

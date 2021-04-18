@@ -8,6 +8,7 @@ created: '2020-04-19 15:32:50'
 created_ts: 1587310370
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2017/09/25/dining/coconutcurrychicken/coconutcurrychicken-articleLarge.jpg
 ingredients: "3 to 4 ripe tomatoes, halved through their equators\n3 tablespoons ghee,\
   \ unsalted butter or safflower oil\n3 tablespoons virgin coconut oil\n2 cups finely\

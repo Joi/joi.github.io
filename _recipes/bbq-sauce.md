@@ -9,6 +9,7 @@ created: '2020-07-13 13:45:22'
 created_ts: 1594647922
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1\u2009\xBD cups brown sugar\n1\u2009\xBD cups ketchup\n\xBD cup red\
   \ wine vinegar\n\xBD cup water\n1 Tbsp Worcestershire sauce\n2\u2009\xBD Tbsp dry\

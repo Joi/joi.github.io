@@ -8,6 +8,7 @@ created: '2020-07-14 14:31:46'
 created_ts: 1594737106
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.epicurious.com/static/img/misc/epicurious-social-logo.png
 ingredients: '1/4 cup chopped fresh rosemary
 

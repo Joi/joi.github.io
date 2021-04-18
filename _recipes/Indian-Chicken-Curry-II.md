@@ -8,6 +8,7 @@ created: '2020-04-19 20:14:26'
 created_ts: 1587327266
 description: null
 difficulty: null
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F111308.jpg&w=343&h=343&c=sc&poi=face&q=85
 ingredients: "3 tablespoons olive oil\n1 small onion, chopped\n2 cloves garlic, minced\n\
   3 tablespoons curry powder\n1 teaspoon ground cinnamon\n1 teaspoon paprika\n1 bay\
@@ -38,7 +39,9 @@ total_time: null
 type: null
 uid: AAAD7A1C-0B46-4AC0-AA7A-101B2EBE2DF4-30964-000010B6103D68BD
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Use coconut oil, usr mirin instead of sugar, 2 bay leaves and saute spices first</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 tablespoons olive oil</li>

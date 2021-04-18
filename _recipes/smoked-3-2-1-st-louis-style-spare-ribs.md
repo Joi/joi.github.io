@@ -9,6 +9,7 @@ created: '2020-09-18 21:47:06'
 created_ts: 1600465626
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: "2 (or more) racks of spare ribs\nYellow mustard\nJeff's original rub\
   \ recipe (Purchase formula here | Purchase bottled rub)\n2 (or more) racks of spare\

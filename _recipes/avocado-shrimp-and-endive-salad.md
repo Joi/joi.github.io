@@ -10,6 +10,7 @@ created: '2020-07-04 18:34:49'
 created_ts: 1593887689
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://hips.hearstapps.com/del.h-cdn.co/assets/cm/15/10/54f6625355c87_-_mla102600_0707_salad_sxl-1.jpg?crop=1xw:1.0xh;center,top&resize=480:*
 ingredients: '1/4 c. extra-virgin olive oil
 

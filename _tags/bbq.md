@@ -6,32 +6,32 @@ notes:
   - date: '2020-07-12'
     feature: BBQ Day
     type: dinner
-    uri_path: /2020/07/12/notes/dinner.html
+    uri_path: /notes/2020-07-12-dinner.html
   - date: '2020-10-18'
     feature: Billows on a Chuck Roast
     type: dinner
-    uri_path: /2020/10/18/notes/dinner.html
+    uri_path: /notes/2020-10-18-dinner.html
   - date: '2020-10-21'
     feature: Trying Billows Again with Smoked Fish
     type: dinner
-    uri_path: /2020/10/21/notes/dinner.html
+    uri_path: /notes/2020-10-21-dinner.html
   - date: '2020-11-22'
     feature: Billows and Brined Salmon
     type: dinner
-    uri_path: /2020/11/22/notes/dinner.html
+    uri_path: /notes/2020-11-22-dinner.html
   rough:
   - date: '2020-07-25'
     type: dinner
-    uri_path: /2020/07/25/notes/dinner.html
+    uri_path: /notes/2020-07-25-dinner.html
   - date: '2020-09-20'
     type: dinner
-    uri_path: /2020/09/20/notes/dinner.html
+    uri_path: /notes/2020-09-20-dinner.html
 pages:
 - Binchotan
 - Doneness
 - Evaporation Effect
 - Reverse Sear
-- spatchcocking
+- Spatchcocking
 recipes:
 - mine: null
   permalink: /recipes/3-2-1-ribs

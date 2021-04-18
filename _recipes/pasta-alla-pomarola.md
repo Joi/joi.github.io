@@ -17,6 +17,7 @@ description: "Ever since that sauce-making competition at Chez Panisse, I\u2019v
   \ and pizza, of course, but also in  dishes as diverse as shakshuka , braised Moroccan\
   \ lamb, Mexican rice, or Proven\xE7al fish stew."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "Extra-virgin olive oil\r2 medium red or yellow onions, sliced thinly\r\
   Salt\r4 garlic cloves\r4 pounds fresh, ripe tomatoes, stemmed, or two (28-ounce)\

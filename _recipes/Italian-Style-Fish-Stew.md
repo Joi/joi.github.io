@@ -9,6 +9,7 @@ created: '2020-04-11 13:30:28'
 created_ts: 1586611828
 description: ''
 difficulty: ''
+favorite: 1
 image_url: null
 ingredients: "2 pounds white-fleshed fish fillets, such as hake, snapper or sea bass,\
   \ skin removed\nSalt and pepper\n2 teaspoons chopped thyme or marjoram\nExtra-virgin\

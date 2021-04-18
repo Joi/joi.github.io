@@ -8,6 +8,7 @@ created: '2020-05-09 14:54:52'
 created_ts: 1589036092
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.jocooks.com/wp-content/uploads/2012/11/no-knead-crusty-bread-2-125x125.jpg
 ingredients: '3 cups all-purpose flour
 
@@ -37,7 +38,15 @@ total_time: ''
 type: null
 uid: ECFCF252-A706-4E3A-907B-AF70061A4931-4647-0000675F57194F11
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>I used a small 3.5 qt Dutch oven. A small Dutch oven is better here so that the bread rises upwards, whereas if you were to use a big Dutch oven the bread would spread out over the entire surface of the pot.</p>
+<p>If the dough mixture is too dry, add a bit more water, the dough should be sticky, as seen in the video.</p>
+<p>To add other ingredients to the bread such as dried fruit, seeds, herbs or cheeses, add them in step 1 when mixing everything together.</p>
+<p>Why is my bread chewy: Usually your bread will be chewy when there isn’t enough gluten formation or you’re using a low-protein flour. Make sure you let your bread dough rest for at least 12 hours to give it enough time for gluten formation.</p>
+<p>Why is my bread dense: Usually bread will be too dense when there is too much flour. Keep in mind this dough will be pretty sticky, do not add more flour than specified. Other factors that come into play are humidity and age of flour. Little yeast, long rise, sticky dough are keys to a good, light loaf.</p>
+<p>I don’t have a Dutch oven, what can I use instead: If you don’t have a Dutch Oven, a covered metal pot would work as well, just make sure it can stand up to 450 F heat. A 4 quart Calphalon soup pot with lid would work as well. If your pot doesn’t have a lid, you can cover the pot with heavy-duty aluminum foil, just make sure you seal the pot well.</p>
+<p>How do I know when my bread is done baking: Tap the bottom! Take the bread out of the Dutch oven, turn it upside down and give the bottom a firm thump with your thumb, or a knock and if it sounds hollow it’s done. If using an instant thermometer, the internal temperature should be around 200 F degrees.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 cups all-purpose flour</li>

@@ -52,6 +52,7 @@ description: "How often do you get roasted potatoes that look like they\u2019re 
   \ potatoes will release themselves from the pan when they\u2019re good and ready.\
   \ Don\u2019t force them."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "1. 3 pounds russet (baking) potatoes, scrubbed and cut into 1- to 2-inch\
   \ cubes\n1. Kosher salt\n1. \xBC cup duck fat, bacon fat, or olive oil\n1. Freshly\

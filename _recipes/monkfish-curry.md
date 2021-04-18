@@ -8,6 +8,7 @@ created: '2020-11-06 00:23:48'
 created_ts: 1604622228
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: "For the marinade:\n2 tsp mild red chilli powder\n1 tsp ground turmeric\n\
   \xBD tbsp ginger and garlic paste\n1 tbsp Kasundi mustard sauce or wholegrain mustard\n\

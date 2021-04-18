@@ -8,6 +8,7 @@ created: '2020-02-03 15:19:07'
 created_ts: 1580743147
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_ultra_creamy_hummus_060_1_er9ulh
 ingredients: "GATHER YOUR INGREDIENTS\n2 (15-ounce) cans chickpeas, rinsed\n\xBD teaspoon\
   \ baking soda\n4 garlic cloves, peeled\n\u2153 cup lemon juice (2 lemons), plus\

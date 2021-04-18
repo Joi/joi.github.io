@@ -20,6 +20,7 @@ description: "A rag\xFA is a meat sauce that is usually made with beef or veal, 
   \ make the sauce the day we serve it.\n\nRag\xFA - sometimes called Bolognese sauce\
   \ - is good with any pasta, but I think fusilli are best."
 difficulty: Medium
+favorite: 1
 image_url: null
 ingredients: '1 carrot, peeled
 

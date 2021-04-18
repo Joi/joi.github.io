@@ -11,6 +11,7 @@ created: '2020-09-23 20:27:06'
 created_ts: 1600892826
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://images.ricardocuisine.com/services/videos/636x360_fish-654.jpg
 ingredients: '8 cups (2 litres) chicken broth
 

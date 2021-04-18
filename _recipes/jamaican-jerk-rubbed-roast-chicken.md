@@ -14,6 +14,7 @@ description: "Jerk-style chicken is a specialty of Jamaica, where the chicken ge
   \ I do the next best thing: roast it surrounded on all sides by thyme and bay leaves.\
   \ Using the butterflied method gets you gorgeously crisp, charred skin."
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: "1 teaspoon freshly ground black pepper\r\xBC teaspoon ground nutmeg\r\
   \xBC teaspoon ground cinnamon\r1 medium clove garlic, minced or grated on a microplane\r\
@@ -45,7 +46,9 @@ total_time: null
 type: null
 uid: ED2ACF1D-B1A7-475B-A1AC-4DF75FB23618-4181-0003ADA39FDF111B
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>NOTES: For the juiciest results and best skin, dry-brine the bird and air-dry it overnight as described here. Be extremely careful working with Scotch bonnets or habaneros: they are very hot and their oil can cause skin and eye irritations. Use a separate cutting board, wear latex gloves if you have them, and wash all surfaces and knives immediately after slicing them.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 teaspoon freshly ground black pepper

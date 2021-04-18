@@ -8,6 +8,7 @@ created: '2020-08-18 01:41:16'
 created_ts: 1597714876
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: '4 1/2 cups chicken stock
 

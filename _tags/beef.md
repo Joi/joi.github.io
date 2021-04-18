@@ -6,35 +6,35 @@ notes:
   - date: '2020-08-12'
     feature: Reverse Sear Again
     type: dinner
-    uri_path: /2020/08/12/notes/dinner.html
+    uri_path: /notes/2020-08-12-dinner.html
   - date: '2020-08-17'
     feature: Prime Rib and Sauces
     type: dinner
-    uri_path: /2020/08/17/notes/dinner.html
+    uri_path: /notes/2020-08-17-dinner.html
   - date: '2020-10-04'
     feature: Timing a Bigger Prime Rib
     type: dinner
-    uri_path: /2020/10/04/notes/dinner.html
+    uri_path: /notes/2020-10-04-dinner.html
   - date: '2020-10-18'
     feature: Billows on a Chuck Roast
     type: dinner
-    uri_path: /2020/10/18/notes/dinner.html
+    uri_path: /notes/2020-10-18-dinner.html
   rough:
   - date: '2020-07-25'
     type: dinner
-    uri_path: /2020/07/25/notes/dinner.html
+    uri_path: /notes/2020-07-25-dinner.html
   - date: '2020-09-03'
     type: dinner
-    uri_path: /2020/09/03/notes/dinner.html
+    uri_path: /notes/2020-09-03-dinner.html
   - date: '2020-10-29'
     type: dinner
-    uri_path: /2020/10/29/notes/dinner.html
+    uri_path: /notes/2020-10-29-dinner.html
   - date: '2021-01-10'
     type: dinner
-    uri_path: /2021/01/10/notes/dinner.html
+    uri_path: /notes/2021-01-10-dinner.html
   - date: '2021-03-18'
     type: dinner
-    uri_path: /2021/03/18/notes/dinner.html
+    uri_path: /notes/2021-03-18-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/beef-stroganoff

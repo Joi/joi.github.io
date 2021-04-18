@@ -15,6 +15,7 @@ description: 'Based on :
 
   - Thermoworks - Crown Roast of Lamb'
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "Rub\n\n2 tbsp of fresh rosemary - chopped\n6 garlic cloves - minced\n\
   1 tsp of oregano\n1 tsp of fresh thyme\n2 tbsp of chopped parsley\n1 tsp of lemon\

@@ -8,6 +8,7 @@ created: '2021-02-04 17:04:08'
 created_ts: 1612458248
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.onceuponachef.com/images/2016/12/Beef-Tenderloin-with-Red-Wine-Sauce-3-1120x880.jpg
 ingredients: 'FOR THE SAUCE:
 

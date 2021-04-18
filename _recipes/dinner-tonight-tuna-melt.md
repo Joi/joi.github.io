@@ -8,6 +8,7 @@ created: '2021-04-10 19:16:39'
 created_ts: 1618082199
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '1 6-ounce can of oil-packed tuna, drained
 

@@ -8,6 +8,7 @@ created: '2020-08-23 13:35:15'
 created_ts: 1598189715
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: 'STEAK
 

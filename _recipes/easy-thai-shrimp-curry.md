@@ -9,6 +9,7 @@ created: '2020-10-14 11:42:57'
 created_ts: 1602675777
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.saltandlavender.com/wp-content/uploads/2019/04/thai-shrimp-curry-recipe-1.jpg
 ingredients: '1 pound medium shrimp thawed, peeled, can remove tails if desired
 
@@ -59,7 +60,10 @@ total_time: null
 type: null
 uid: DFBF3C0D-A1D9-468E-8D95-E196BF35CDDD-31316-00001E008C87A2B5
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>I used Thai Kitchen brand red curry paste.</p>
+<p>Anything from 3/4 pound to 1 pound of shrimp will work.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 pound medium shrimp thawed, peeled, can remove tails if desired</li>

@@ -9,6 +9,7 @@ created: '2020-03-27 18:07:00'
 created_ts: 1585332420
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://cdn.keto-mojo.com/wp-content/uploads/2019/12/Keto-Beef-Stew-1024x613.jpg
 ingredients: "Ingredients List\n1\xBD lbs beef chuck roast or chuck shoulder, cut\
   \ into 1-inch pieces\n~ sea salt and freshly ground pepper\n3 Tbsp olive oil\n1\
@@ -37,7 +38,10 @@ total_time: ''
 type: null
 uid: 70775420-6676-49E8-9A5C-0059FF5F103D-16595-000012FEE9E67A5A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>For easy, microwavable lunches or dinners, freeze single servings of stew in microwavable containers. Then you can grab a meal anytime you need one!</p>
+<p>Want to bulk this stew up a bit? Toss some cauliflower rice into your soup bowl before adding the soup, and remember to update your macros!</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Ingredients List</li>

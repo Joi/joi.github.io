@@ -8,6 +8,7 @@ created: '2020-06-16 15:14:26'
 created_ts: 1592320466
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F800839.jpg&w=568&h=380&c=sc&poi=face&q=85
 ingredients: "1\u2009\xBD pounds salmon fillets\n\xBD teaspoon lemon pepper to taste\n\
   \xBC teaspoon garlic powder to taste\n\xBD teaspoon salt to taste\n\u2153 cup soy\

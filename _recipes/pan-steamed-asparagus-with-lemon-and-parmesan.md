@@ -8,6 +8,7 @@ created: '2020-02-03 15:27:28'
 created_ts: 1580743648
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/43579-sfs-sauteed-asparagus-lemon-parmesan-34
 ingredients: "GATHER YOUR INGREDIENTS\n2 pounds asparagus\n1 teaspoon grated lemon\
   \ zest plus 1 tablespoon juice\n\xBC teaspoon pepper\n1 tablespoon unsalted butter\n\

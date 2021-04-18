@@ -8,6 +8,7 @@ created: '2020-02-03 15:15:37'
 created_ts: 1580742937
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/34906_sfs-shrimp-stir-fry-broccoli-6
 ingredients: "GATHER YOUR INGREDIENTS\n1 pound extra-large (21-25) shrimp, peeled,\
   \ deveined, and tails removed\n1 teaspoon sugar\n\xBD teaspoon salt\n\u2153 cup\

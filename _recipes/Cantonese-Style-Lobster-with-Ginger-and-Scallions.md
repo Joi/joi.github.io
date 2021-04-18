@@ -9,6 +9,7 @@ created: '2021-03-09 15:51:23'
 created_ts: 1615305083
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '1/4 cup Shaoxing wine or dry sherry
 

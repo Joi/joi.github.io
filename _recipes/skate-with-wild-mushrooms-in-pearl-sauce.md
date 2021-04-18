@@ -8,6 +8,7 @@ created: '2020-06-21 15:19:42'
 created_ts: 1592752782
 description: null
 difficulty: null
+favorite: 0
 image_url: https://assets.epicurious.com/photos/560de5b4f3a00aeb2f1d54ec/1:1/w_600%2Ch_600/232615.jpg
 ingredients: "For mushroom sauce:\n1 small leek (white and pale green parts only),\
   \ chopped\n1 tablespoon olive oil\n1 medium carrot, chopped\n1/2 medium onion, chopped\n\
@@ -42,7 +43,9 @@ total_time: null
 type: null
 uid: 9D39BED7-AD2F-4037-8244-914EAAAD5587-19099-00000BD49E4ACC48
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Broth (without tapioca) can be made 2 days ahead and cooled completely, uncovered, then chilled, covered.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For mushroom sauce:</li>

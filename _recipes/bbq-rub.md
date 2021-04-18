@@ -9,6 +9,7 @@ created: '2021-04-04 14:34:22'
 created_ts: 1617546862
 description: This BBQ Sauce is based on the basic BBQ rub [from Raichlen.](https://www.stevenraichlen.com/programs/project-smoke/)
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "\xBC cup salt\n\xBC cup brown sugar\n\xBC cup sweet paprika (optionally\
   \ mix with smoked paprika)\n2-5 Tbsp black pepper\n1 Tbsp garlic powder\n\xBD tsp\

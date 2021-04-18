@@ -8,6 +8,7 @@ created: '2020-08-20 19:19:42'
 created_ts: 1597951182
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.gimmesomeoven.com/wp-content/uploads/2011/05/How-To-Make-Homemade-Croutons-Recipe-1-320x480.jpg
 ingredients: '1 loaf of bread (about 12 ounces), cut into 3/4-inch cubes
 

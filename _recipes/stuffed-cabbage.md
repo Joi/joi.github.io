@@ -8,6 +8,7 @@ created: '2020-12-26 14:59:17'
 created_ts: 1608994757
 description: null
 difficulty: Easy
+favorite: 0
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/26/0/BX0301_stuffed-cabbage_s4x3.jpg.rend.hgtvcom.826.620.suffix/1406932659102.jpeg
 ingredients: '3 tablespoons good olive oil
 

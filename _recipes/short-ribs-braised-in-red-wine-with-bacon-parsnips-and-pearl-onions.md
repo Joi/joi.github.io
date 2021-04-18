@@ -9,6 +9,7 @@ created: '2020-04-05 13:05:50'
 created_ts: 1586091950
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/41009-sfs-short-ribs-braised-in-red-wine-with-bacon-parsnips-and-pearl-onions-018
 ingredients: "6 pounds bone-in short ribs, trimmed of excess fat and silver skin (see\
   \ illustration below), or bone-in flanken-style short ribs\n3 cups dry red wine\

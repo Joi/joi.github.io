@@ -6,14 +6,14 @@ notes:
   - date: '2021-04-03'
     feature: Finally with All of the Right Sauces
     type: dinner
-    uri_path: /2021/04/03/notes/dinner.html
+    uri_path: /notes/2021-04-03-dinner.html
   rough:
   - date: '2021-01-20'
     type: dinner
-    uri_path: /2021/01/20/notes/dinner.html
+    uri_path: /notes/2021-01-20-dinner.html
   - date: '2021-03-24'
     type: dinner
-    uri_path: /2021/03/24/notes/dinner.html
+    uri_path: /notes/2021-03-24-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/asian-pork-chops

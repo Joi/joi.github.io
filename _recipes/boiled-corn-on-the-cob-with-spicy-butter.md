@@ -8,6 +8,7 @@ created: '2020-07-04 18:42:10'
 created_ts: 1593888130
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://img.sndimg.com:443/food/image/upload/c_thumb,q_80,w_562,h_316/v1/img/recipes/11/83/24/pic90MKXk.jpg
 ingredients: '4 large fresh corn on the cob, shucked
 

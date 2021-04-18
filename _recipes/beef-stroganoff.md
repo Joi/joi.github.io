@@ -8,6 +8,7 @@ created: '2020-10-29 12:01:08'
 created_ts: 1603972868
 description: This is still a recipe work-in-progress that hasn't been "perfected."
 difficulty: Easy
+favorite: 0
 image_url: null
 ingredients: "1 lb beef sliced thin\n1 large onion thinly sliced\n1 package of mushrooms\n\
   1 Tbsp butter\n2 cloves garlic\n\xBC cup white wine\nWhite rice\nSalt and white\

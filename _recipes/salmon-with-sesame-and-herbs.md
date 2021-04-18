@@ -9,6 +9,7 @@ created: '2020-04-08 13:16:19'
 created_ts: 1586351779
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2018/08/02/dining/salmon-sesame-herbs/salmon-sesame-herbs-articleLarge.jpg
 ingredients: '3 tablespoons low-sodium soy sauce
 

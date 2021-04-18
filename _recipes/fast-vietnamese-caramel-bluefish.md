@@ -8,6 +8,7 @@ created: '2020-05-31 23:58:19'
 created_ts: 1590969499
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "4 (6-ounce) skin-on bluefish fillets (or substitute mackerel, trout\
   \ or thin salmon fillets)\n1 tablespoon peanut, grapeseed or safflower oil\n1 stalk\

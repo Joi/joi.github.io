@@ -8,6 +8,7 @@ created: '2020-04-17 20:23:54'
 created_ts: 1587155034
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2015/01/07/dining/07COOKBOOKTWELVERECIPES2/07COOKBOOKTWELVERECIPES2-articleLarge.jpg
 ingredients: "6 chicken legs, thigh and drumstick together\nKosher salt and black\
   \ pepper to taste\nAll-purpose flour, for dredging\n4 to 5 tablespoons neutral oil,\

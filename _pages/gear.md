@@ -4,3 +4,4 @@ tags: gear
 ---
 - [[Thermometers]]
 - [[Whetstones]]
+- [[Molcajete]]

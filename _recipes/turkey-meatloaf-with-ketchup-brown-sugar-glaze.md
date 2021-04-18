@@ -22,6 +22,7 @@ description: "WHY THIS RECIPE WORKS\nStore-bought ground turkey is fine and past
   \ the loaf cook evenly, we baked it on an aluminum foil\u2013lined wire rack set\
   \ in a rimmed baking sheet."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "GATHER YOUR INGREDIENTS\nMeatloaf\n3 tablespoons unsalted butter\nPinch\
   \ baking soda\n\xBD onion, chopped fine\nSalt and pepper\n1 garlic clove, minced\n\

@@ -8,6 +8,7 @@ created: '2020-07-24 13:55:10'
 created_ts: 1595598910
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/8368_sfs-roastedporkloin-16-276461
 ingredients: "GATHER YOUR INGREDIENTS\n1 (4- to 5-pound) boneless pork shoulder roast,\
   \ fat trimmed to 1/8 inch thick (see note)\n1 \xBD teaspoons dried thyme\n1 \xBD\

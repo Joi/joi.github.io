@@ -8,6 +8,7 @@ created: '2020-11-24 10:51:43'
 created_ts: 1606215103
 description: null
 difficulty: null
+favorite: 0
 image_url: https://nourishedkitchen.com/wp-content/uploads/2020/10/slow-roasted-turkey-post-768x960.jpg
 ingredients: "\xBD cup butter (softened)\n\xBC cup chopped fresh thyme\n\xBC cup chopped\
   \ fresh sage\n2 teaspoons finely ground real salt\n14 pound turkey (giblets removed)\n\

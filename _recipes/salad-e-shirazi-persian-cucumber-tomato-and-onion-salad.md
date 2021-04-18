@@ -8,6 +8,7 @@ created: '2020-06-13 16:09:03'
 created_ts: 1592064543
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2019/05/14/dining/14Iranianrex8/merlin_154113735_00a90a0e-5bb6-4242-89e4-f4fe259545bd-articleLarge.jpg
 ingredients: "3 to 4 Persian cucumbers (about 3/4 pound)\n\xBD red onion, diced into\
   \ 1/4-inch pieces\n2 tablespoons any combination of finely chopped fresh parsley,\

@@ -8,6 +8,7 @@ created: '2021-03-29 15:50:39'
 created_ts: 1617033039
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: null
 intrash: 0

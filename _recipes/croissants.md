@@ -8,6 +8,7 @@ created: '2020-02-03 14:59:35'
 created_ts: 1580741975
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "GATHER YOUR INGREDIENTS\n3 tablespoons unsalted butter, very cold\n\
   24 tablespoons European-style butter, very cold (3 sticks)\n1 \xBE cups whole milk\n\

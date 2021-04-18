@@ -8,6 +8,7 @@ created: '2020-11-24 10:52:57'
 created_ts: 1606215177
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.seriouseats.com/recipes/images/2014/11/20141113-baking-steel-turkey-recipe-8-200x150.jpg
 ingredients: '1 whole turkey, neck and giblets reserved, about 10 to 12 pounds (4.5
   to 5kg) (see note)

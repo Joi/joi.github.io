@@ -6,11 +6,11 @@ notes:
   - date: '2020-11-22'
     feature: Billows and Brined Salmon
     type: dinner
-    uri_path: /2020/11/22/notes/dinner.html
+    uri_path: /notes/2020-11-22-dinner.html
   rough:
   - date: '2020-08-11'
     type: dinner
-    uri_path: /2020/08/11/notes/dinner.html
+    uri_path: /notes/2020-08-11-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/creamy-garlic-butter-tuscan-salmon

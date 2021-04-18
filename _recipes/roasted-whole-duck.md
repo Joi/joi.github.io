@@ -9,6 +9,7 @@ created: '2020-03-05 11:08:53'
 created_ts: 1583406533
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.thespruceeats.com/thmb/iAFkqLGoXxoZ_WF7CfjXSeSDDMc=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/200422407-001-56a1c8bb5f9b58b7d0c2991d.jpg
 ingredients: 'For Simmering:
 
@@ -62,7 +63,9 @@ total_time: ''
 type: null
 uid: 60AB7A1E-18FD-4C49-953F-55FD0C9A8CFE-40248-00027200CB6AB66D
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Instead of gravy, sauce your duck with cranberry coulis. The tartness of the berries cuts through the rich, fatty meat of the duck.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For Simmering:</li>

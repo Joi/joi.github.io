@@ -13,6 +13,7 @@ created: '2020-03-29 01:23:08'
 created_ts: 1585444988
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2017/01/11/dining/11SOUPS21/11SOUPS21-articleLarge.jpg
 ingredients: '4 tablespoons butter, olive oil or neutral-tasting oil
 

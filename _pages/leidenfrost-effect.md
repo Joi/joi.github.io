@@ -1,5 +1,5 @@
 ---
-title: Leidenfrost effect
+title: Leidenfrost Effect
 tags:
   - temperature
   - heating

@@ -8,6 +8,7 @@ created: '2020-04-19 15:27:14'
 created_ts: 1587310034
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2016/01/27/dining/27ROAST1/27ROAST1-articleLarge.jpg
 ingredients: "1 boneless chuck roast or top or bottom round roast, 3 to 4 pounds\n\
   2 teaspoons kosher salt, plus more to taste\n1 \xBD teaspoons freshly ground black\

@@ -9,6 +9,7 @@ created: '2020-03-30 16:04:41'
 created_ts: 1585584281
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2017/01/13/dining/13STEAK-1/13STEAK-1-articleLarge.jpg
 ingredients: "Kosher salt, as needed\nFreshly ground black pepper, as needed\n1 \xBD\
   \ pounds boneless steak, or 1 3/4 pounds bone-in steak (1 1/2 inches thick)\n2 shallots\n\

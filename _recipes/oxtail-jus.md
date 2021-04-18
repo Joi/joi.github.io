@@ -10,6 +10,7 @@ created_ts: 1616164526
 description: Inspired by Oxtail Jus for Prime Rib from The Food Lab. Make a bunch
   of this for Prime Rib and keep it frozen for other things.
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '1 Tbsp light oil
 

@@ -8,6 +8,7 @@ created: '2020-07-18 11:43:17'
 created_ts: 1595072597
 description: null
 difficulty: null
+favorite: 0
 image_url: https://withsaltandwit.com/wp-content/uploads/2014/11/28.jpg
 ingredients: '2 Tbsp balsamic vinegar
 

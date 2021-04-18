@@ -10,6 +10,7 @@ created: '2020-04-21 18:36:16'
 created_ts: 1587494176
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.seriouseats.com/2018/09/20180822-butter-basting-steak-fish-liz-clayman-9.jpg
 ingredients: '1 large bone-in T-bone or ribeye steak (see note)
 

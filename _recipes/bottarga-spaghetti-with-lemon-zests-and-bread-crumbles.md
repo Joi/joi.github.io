@@ -8,6 +8,7 @@ created: '2020-09-16 11:24:14'
 created_ts: 1600255454
 description: null
 difficulty: null
+favorite: 0
 image_url: https://i2.wp.com/philosokitchen.com/wp-content/uploads/2016/12/spaghetti-bottarga-final-1-683x1024.jpg
 ingredients: 'click on the links and find out my favorites!
 

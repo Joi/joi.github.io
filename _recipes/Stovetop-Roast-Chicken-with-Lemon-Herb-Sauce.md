@@ -8,6 +8,7 @@ created: '2020-04-02 17:15:00'
 created_ts: 1585847700
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/1651_1000547-cvr-eas-sear-chk-lmn-0011-article
 ingredients: "GATHER YOUR INGREDIENTS\nChicken\n3 \xBD pounds bone-in, skin-on chicken\
   \ parts (breasts, thighs, and drumsticks, or a mix, with breasts cut in half), trimmed\

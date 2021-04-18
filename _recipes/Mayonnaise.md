@@ -8,6 +8,7 @@ created: '2020-02-02 13:00:49'
 created_ts: 1580648449
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "2 large egg yolks or 1 large egg and 1 large egg yolk, at room temperature\n\
   2 tsp white or red vinegar\n\xBC tsp dry mustard or 2 tsp dijon mustard\n\xBE tsp\

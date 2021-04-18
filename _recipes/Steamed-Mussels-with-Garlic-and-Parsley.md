@@ -8,6 +8,7 @@ created: '2020-05-25 20:42:34'
 created_ts: 1590439354
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2015/09/23/dining/23KITCH1/23KITCH1-articleLarge.jpg
 ingredients: "2 tablespoons extra-virgin olive oil, plus more for toasts\n2 garlic\
   \ cloves, minced, plus 1 or 2 whole garlic cloves for rubbing toasts\nPinch of crushed\

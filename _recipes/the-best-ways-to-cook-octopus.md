@@ -7,6 +7,7 @@ created: '2020-10-13 11:46:40'
 created_ts: 1602589600
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.seriouseats.com/images/2016/05/20160512-octopus-vicky-wasik-1-1500x1125.jpg
 ingredients: More Breadcrumbs
 intrash: 0

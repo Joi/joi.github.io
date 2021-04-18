@@ -12,6 +12,7 @@ created: '2021-03-27 15:12:55'
 created_ts: 1616857975
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: null
 intrash: 0

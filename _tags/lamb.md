@@ -6,18 +6,18 @@ notes:
   - date: '2021-04-04'
     feature: Slow-roased Lamb Leg
     type: dinner
-    uri_path: /2021/04/04/notes/dinner.html
+    uri_path: /notes/2021-04-04-dinner.html
   - date: '2021-04-05'
     feature: Lamb Tagine with Left-Over Roast Lamb Leg
     type: dinner
-    uri_path: /2021/04/05/notes/dinner.html
+    uri_path: /notes/2021-04-05-dinner.html
   rough:
   - date: '2020-07-14'
     type: dinner
-    uri_path: /2020/07/14/notes/dinner.html
+    uri_path: /notes/2020-07-14-dinner.html
   - date: '2020-12-25'
     type: dinner
-    uri_path: /2020/12/25/notes/dinner.html
+    uri_path: /notes/2020-12-25-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/braised-lamb-shanks

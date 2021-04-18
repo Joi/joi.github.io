@@ -8,6 +8,7 @@ created: '2021-01-21 15:54:25'
 created_ts: 1611244465
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.emmafrisch.com/wp-content/uploads/2020/10/5.jpg
 ingredients: "olive oil or butter\nminced garlic\nlion\u2019s mane mushrooms, sliced\
   \ \xBD-inch thick"
@@ -33,7 +34,13 @@ total_time: null
 type: null
 uid: B53EB02F-AB1A-4565-B876-F153978C6816-4181-0003AFB8BFA58266
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>optional add-ins</p>
+<p>chopped cilantro or parsley</p>
+<p>toss with a batch of nutty, gorgonzola</p>
+<p>toss with quinoa dressed with olive oil and sea salt</p>
+<p>toss in a salad of: shredded beets, carrots, and celery with toasted sunflower seeds and Umeboshi Plum Sauce thinned with olive oil</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>olive oil or butter</li>

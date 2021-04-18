@@ -9,6 +9,7 @@ created: '2020-10-13 20:10:16'
 created_ts: 1602619816
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://assets.epicurious.com/photos/56be3121af205081531c883f/2:1/w_1260%2Ch_630/EP_02112016_bone_broth_hero.jpg
 ingredients: '4 pounds beef bones, preferably a mix of marrow bones and bones with
   a little meat on them, such as oxtail, short ribs, or knuckle bones (cut in half
@@ -55,7 +56,12 @@ total_time: ''
 type: null
 uid: 193BCEC7-317B-4381-8CA9-223F4306AD0D-38082-0000B63FB3D98158
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>1:1 or 3:2 pounds of water per pounds of bone.
+2 pounds per quart of water.
+7 pounds of bones = 10.5 pounds of water
+10.5 lb = 5 quarts</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 pounds beef bones, preferably a mix of marrow bones and bones with a little meat on them, such as oxtail, short ribs, or knuckle bones (cut in half by a butcher)</li>

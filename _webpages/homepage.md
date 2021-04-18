@@ -10,17 +10,28 @@ During the COVID-19 lockdown, I have started cooking a lot more - almost every d
 
 Boris Anthony who has worked with me on my website since the beginning is now helping me with this.
 
-As I've continued to cook and read books like [Salt Fat Acid Heat by Samin Nosrat](https://www.saltfatacidheat.com/), [The Food Lab by J. Kenji López-Alt](http://www.kenjilopezalt.com/), and [Modernist Cuisine at Home by Nathan Myhrvold and Francisco Migoya](https://modernistcuisine.com/books/modernist-cuisine-at-home/), I realized that it wasn't so much about recipes and that the underlying theory and the practical experience were super important. I've added [Project Smoke by Steven Raichlen](https://www.stevenraichlen.com/programs/project-smoke/), [Ad Hoc at Home by Thomas Keller](https://www.thomaskeller.com/ad-hoc-home),  [The Zuni Cafe Cookbook by Judy Rodgers](https://wwnorton.com/books/The-Zuni-Cafe-Cookbook/) and [The Flavor Equation by Nik Sharma](https://www.amazon.com/gp/product/1452182698/) to my kitchen. I also read many blogs and recipe site.
+There are recipes on this site. My recipes have the full instructions. The recipes from books and other sites have the ingredients and a link to the full recipe when available.
 
-I have pages for recipes that I like on other sites. I list the ingredients and provide a link to the original recipes where you can see the complete instructions. I also have the full instructions on recipes that I have created or rewritten and customized.
+I have a "pages" section of topics organized a bit like a wiki. I "posts" which are organized by date and are a bit like blog posts. Lastly, I have "meal notes" which are notes from preparing meals. These notes are linked to recipes. There are tags on all of these pages and recipes that provide a way to browse the site.
 
-I've also started to create some basic guides as references for my cooking.
+Here are a few of the pages:
 
 * [[Maintenance]]
 * [[Heating]]
 * [[Knowledge and Task Management]]
 * [[Gear]]
 * [[References and Charts]]
+
+### Favorite Cookbooks
+
+- [The Harry's Bar Cookbook](https://www.amazon.com/Harrys-Bar-Cookbook-Reminiscences-World-Famous/dp/0553070304/)
+- [Salt Fat Acid Heat by Samin Nosrat](https://www.saltfatacidheat.com/)
+- [The Food Lab by J. Kenji López-Alt](http://www.kenjilopezalt.com/)
+- [Modernist Cuisine at Home by Nathan Myhrvold and Francisco Migoya](https://modernistcuisine.com/books/modernist-cuisine-at-home/)
+- [Project Smoke by Steven Raichlen](https://www.stevenraichlen.com/programs/project-smoke/)
+- [The Zuni Cafe Cookbook by Judy Rodgers](https://wwnorton.com/books/The-Zuni-Cafe-Cookbook/)
+- [The Flavor Equation by Nik Sharma](https://www.amazon.com/gp/product/1452182698/)
+- [The Elements of Pizza: Unlocking the Secrets to World-Class Pies at Home by Ken Forkish](https://www.amazon.com/Elements-Pizza-Unlocking-Secrets-World-Class/dp/160774838X/)
 
 All of the five star recipes below are recipes that I've tried and like.
 

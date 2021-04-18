@@ -8,6 +8,7 @@ created: '2020-06-26 11:11:46'
 created_ts: 1593169906
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://nitrocdn.com/KQYMGOLIdXGmoAcyJsPOrQDKktgCbwtG/assets/static/optimized/rev-48c1fb9/wp-content/uploads/2017/10/Ponzu-Sauce-II-366x550.jpg
 ingredients: "\xBD cup soy sauce\n\xBD cup citrus juice (See Notes: I love the mixture\
   \ of 6 Tbsp lemon juice + 2 Tbsp orange juice)\nlemon zest from one lemon\n2 Tbsp\
@@ -35,7 +36,9 @@ total_time: ''
 type: null
 uid: 01709B11-ED19-453F-851F-0DB48598E545-533-0000001E0CEE2435
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Citrus Juice: You can use lemon, or mixture of juice from lemon, orange, or grapefruit.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ cup soy sauce</li>

@@ -6,7 +6,7 @@ notes:
   - date: '2020-08-10'
     feature: Mac & Cheese for Kio
     type: dinner
-    uri_path: /2020/08/10/notes/dinner.html
+    uri_path: /notes/2020-08-10-dinner.html
   rough: []
 recipes:
 - mine: null

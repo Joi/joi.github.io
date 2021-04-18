@@ -9,6 +9,7 @@ created: '2020-07-07 23:54:06'
 created_ts: 1594166046
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "4 skin-on fish fillets (about 6 ounces each)\rKosher salt and freshly\
   \ ground black pepper\r2 tablespoons vegetable or canola oil"
@@ -34,7 +35,9 @@ total_time: ''
 type: null
 uid: 64FEAA52-EFFC-4743-9B48-B166957247B3-631-00024AE4C1521CED
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>NOTE: This recipe will work with any skin-on firm-fleshed fish fillets, such as salmon, snapper, grouper, or bass. I prefer salmon rare to medium-rare; white-fleshed fish should be cooked at least to medium.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 skin-on fish fillets (about 6 ounces each)

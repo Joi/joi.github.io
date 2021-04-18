@@ -6,7 +6,7 @@ notes:
   - date: '2020-12-26'
     feature: Top Round Roast - Too Tough
     type: dinner
-    uri_path: /2020/12/26/notes/dinner.html
+    uri_path: /notes/2020-12-26-dinner.html
   rough: []
 rel_tags_count:
   roast:

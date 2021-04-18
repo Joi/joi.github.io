@@ -9,6 +9,7 @@ created: '2020-05-14 14:37:55'
 created_ts: 1589467075
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/40718_sfs-braised-lamb-shoulder-chops-10
 ingredients: "GATHER YOUR INGREDIENTS\n4 lamb shoulder chops, about 3/4 inch thick,\
   \ trimmed of external fat\nSalt and ground black pepper\n2 tablespoons olive oil\n\

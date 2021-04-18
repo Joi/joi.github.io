@@ -8,6 +8,7 @@ created: '2020-08-28 20:37:57'
 created_ts: 1598647077
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://lh3.googleusercontent.com/l1wPhS4iMJkKiG6Qakd_ZjqPgrE_3kqlle89FFMMOeARl_OsMwdXlqVHVygnrtG299Uzu40LJZ97ORAVsKWiQrU=s640-c-rj-v1-e365
 ingredients: "1 pound salmon fillet\n1 pound broccoli (cut lengthwise into \xBD-inch\
   \ pieces)\n3 teaspoons olive oil (divided)\n2 lemons\n1/4 teaspoon sea salt\n1/4\

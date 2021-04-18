@@ -8,6 +8,7 @@ created: '2020-09-16 11:25:25'
 created_ts: 1600255525
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.cookingwithnonna.com/images/stories/rapidrecipe/th/cropped-1939-spaghetti%20with%20bottarga%20-%201000.jpg
 ingredients: 'For the Pasta:
 

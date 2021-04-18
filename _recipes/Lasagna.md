@@ -9,6 +9,7 @@ created_ts: 1599319566
 description: "Using b\xE9chamel instead of ricotta cheese. If your guests like ricotta\
   \ cheese, replace b\xE9chamel with ricotta cheese and put parmesan as a layer."
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "## Meat Sauce\n\u200B\n- 1 tbsp olive oil\n- \xBD onion, finely chopped\n\
   - \xBD carrot, finely diced\n- 2 cloves garlic cloves, minced\n- 16 oz ground beef\n\

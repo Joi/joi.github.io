@@ -8,6 +8,7 @@ created: '2020-05-21 11:53:32'
 created_ts: 1590062012
 description: null
 difficulty: null
+favorite: 0
 image_url: https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5b2aa37781514ab68f18ae2a1ceb74e6/final3.jpg
 ingredients: "1 lb skin-on chicken thigh, cubed\n1 tablespoon sake\n1 teaspoon sugar\n\
   2 tablespoons soy sauce\n1 tablespoon ginger, grated\n1 clove garlic, minced\n\xBD\

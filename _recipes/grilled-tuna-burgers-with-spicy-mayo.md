@@ -8,6 +8,7 @@ created: '2020-08-06 00:17:40'
 created_ts: 1596673060
 description: null
 difficulty: null
+favorite: 0
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/1/19/0/GI1108H_grilled-tuna-burgers-with-spicy-mayo_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371603434169.jpeg
 ingredients: '1 tablespoon toasted sesame oil
 
@@ -76,7 +77,9 @@ total_time: null
 type: null
 uid: 31732CBF-17D5-42F2-8585-C5A7EDB68051-12333-0000078E0FCB4187
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>When grilling the bread, you can grill 3 to 4 scallions at the same time for use in the Spicy Sriracha Mayo.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon toasted sesame oil</li>

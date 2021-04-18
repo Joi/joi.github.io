@@ -8,6 +8,7 @@ created: '2020-04-02 17:12:50'
 created_ts: 1585847570
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_BuffaloChickenDrumsticks_37_xmgjnt
 ingredients: "GATHER YOUR INGREDIENTS\n1\xBD teaspoons paprika\n\xBD teaspoon cayenne\
   \ pepper\n\xBC teaspoon salt\n\xBC teaspoon pepper\n4 (5-ounce) chicken drumsticks,\

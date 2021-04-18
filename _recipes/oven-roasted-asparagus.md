@@ -8,6 +8,7 @@ created: '2020-07-01 14:08:36'
 created_ts: 1593612516
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F1001600.jpg&w=568&h=568&c=sc&poi=face&q=85
 ingredients: "1 bunch thin asparagus spears, trimmed\n3 tablespoons olive oil\n1\u2009\
   \xBD tablespoons grated Parmesan cheese\n1 clove garlic, minced\n1 teaspoon sea\
@@ -33,7 +34,11 @@ total_time: ''
 type: null
 uid: 7C1488CD-F7E2-4D05-A497-F94B432DC770-631-00005377E8F6DAA0
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>To remove woody ends, grab stalk of asparagus at either end and bend until it snaps. It will naturally snap where it starts to get tough.</p>
+<p>Partner Tip</p>
+<p>Reynolds® Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 bunch thin asparagus spears, trimmed</li>

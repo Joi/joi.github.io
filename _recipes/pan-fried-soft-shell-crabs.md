@@ -8,6 +8,7 @@ created: '2020-07-13 18:59:08'
 created_ts: 1594666748
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '1 1/2 cups all-purpose flour
 

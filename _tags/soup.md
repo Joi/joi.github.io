@@ -6,7 +6,7 @@ notes:
   rough:
   - date: '2020-10-15'
     type: dinner
-    uri_path: /2020/10/15/notes/dinner.html
+    uri_path: /notes/2020-10-15-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/asparagus-soup-with-parmesan-shortbread-coins

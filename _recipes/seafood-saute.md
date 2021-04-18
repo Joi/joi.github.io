@@ -8,6 +8,7 @@ created: '2020-09-12 19:36:47'
 created_ts: 1599939407
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://healthyrecipesblogs.com/wp-content/uploads/2016/03/seafood-saute1-300x200.jpg
 ingredients: '2 lb. frozen mixed seafood*
 
@@ -47,7 +48,9 @@ total_time: ''
 type: null
 uid: 2545CB6B-7EEA-46C3-97F4-485CEBBFBB71-50715-0008F838B37D34F1
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>*My seafood mix has shrimp, calamari rings, and bay scallops.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 lb. frozen mixed seafood*</li>

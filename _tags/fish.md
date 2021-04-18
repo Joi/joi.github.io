@@ -6,7 +6,7 @@ notes:
   - date: '2021-04-02'
     feature: My First Beer Battered Fish
     type: dinner
-    uri_path: /2021/04/02/notes/dinner.html
+    uri_path: /notes/2021-04-02-dinner.html
   rough: []
 recipes:
 - mine: null

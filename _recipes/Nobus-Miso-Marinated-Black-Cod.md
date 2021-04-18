@@ -8,6 +8,7 @@ created: '2020-04-19 16:55:20'
 created_ts: 1587315320
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.realgoodfish.com/thumbs/600x400/files/zc/51744e8474c5b601a70000b5_w540_sfit__27740.jpg
 ingredients: '1/4 cup sake
 
@@ -43,7 +44,9 @@ total_time: ''
 type: null
 uid: 87679938-6C84-4854-B875-67086B25742C-407-00005033619C36F7
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Instead of cooking the fish on the stovetop, you can cook it on an outdoor grill or under the broiler in your oven.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/4 cup sake</li>

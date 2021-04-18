@@ -8,6 +8,7 @@ created: '2020-07-05 23:28:59'
 created_ts: 1593991739
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2020/06/17/dining/11pairrex/merlin_173165397_d0d4e7ba-789e-4bc7-ae1c-e8b484ded440-articleLarge.jpg
 ingredients: "24 ounces swordfish about 1-inch thick, skin removed, in 4 portions\n\
   Fine sea salt\n1 \xBD tablespoons crushed black peppercorns\n2 tablespoons extra-virgin\

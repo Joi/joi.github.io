@@ -8,6 +8,7 @@ created: '2020-10-20 18:43:43'
 created_ts: 1603219423
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://thewoksoflife.com/wp-content/uploads/2017/03/scallion-ginger-salmon-7-340x511.jpg
 ingredients: "4 tablespoons oil\n2 eight oz. salmon fillets (450g total, sprinkled\
   \ lightly and evenly with salt)\n\xBD cup water\n3 tablespoons soy sauce\n1 teaspoon\

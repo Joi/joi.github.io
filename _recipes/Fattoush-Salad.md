@@ -8,6 +8,7 @@ created: '2020-08-07 11:19:42'
 created_ts: 1596799182
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '2 loaves pita bread
 
@@ -68,7 +69,11 @@ total_time: ''
 type: null
 uid: 4FEBFB5B-BED2-46AA-AAB2-6695964DDD04-2643-000000E5CE888C1F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Feel free to add more herbs or crushed garlic, if you like! Some like to add about 1 tsp or so pomegranate molasses to the dressing.</p>
+<p>Recommended for This Recipe: Early Harvest Extra Virgin Olive Oil; all-natural sumac spice; all-natural allspice.</p>
+<p>SAVE! Try our Ultimate Mediterranean Spice Bundle! Or create your own 3-pack or 6-pack of premium all-natural and organic spices!</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 loaves pita bread</li>

@@ -10,6 +10,7 @@ created: '2021-01-20 14:55:41'
 created_ts: 1611154541
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '1 large fresh crab, or 2 small fresh crabs
 

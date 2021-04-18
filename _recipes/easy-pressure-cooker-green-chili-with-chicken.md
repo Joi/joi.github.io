@@ -9,6 +9,7 @@ created: '2021-01-24 12:53:02'
 created_ts: 1611492782
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.seriouseats.com/recipes/images/2015/04/20150420-chicken-chile-verde-pressure-cooker-easy-10-200x150.jpg
 ingredients: "3 pounds bone-in skin-on chicken thighs and drumsticks\n3/4 pound tomatillos,\
   \ quartered, husks discarded (about 4 tomatillos)\n1 pound poblano peppers, roughly\

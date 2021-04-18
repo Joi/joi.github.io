@@ -18,6 +18,7 @@ description: "WHY THIS RECIPE WORKS\nWe wanted to combine the ease of cream bisc
   \ in the oven, producing biscuits that were appropriately rich and tender but not\
   \ greasy."
 difficulty: ''
+favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/43110-sfs-biscuits-8052
 ingredients: "GATHER YOUR INGREDIENTS\n3 cups (15 ounces) all-purpose flour\n4 teaspoons\
   \ sugar\n1 tablespoon baking powder\n\xBC teaspoon baking soda\n1 \xBC teaspoons\

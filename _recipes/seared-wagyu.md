@@ -8,6 +8,7 @@ created: '2021-03-27 15:14:27'
 created_ts: 1616858067
 description: null
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: Wagyu
 intrash: 0

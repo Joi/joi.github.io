@@ -8,6 +8,7 @@ created: '2021-03-27 17:19:28'
 created_ts: 1616865568
 description: null
 difficulty: null
+favorite: 0
 image_url: https://www.seriouseats.com/recipes/images/20110502-texas-beef-council-marinated-grilled-flank-steak-5-200x150.jpg
 ingredients: '1/2 cup Worcestershire sauce
 

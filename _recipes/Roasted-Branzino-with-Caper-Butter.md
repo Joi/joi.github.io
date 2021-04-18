@@ -8,6 +8,7 @@ created: '2020-11-24 10:55:11'
 created_ts: 1606215311
 description: null
 difficulty: null
+favorite: 0
 image_url: null
 ingredients: '1 stick unsalted butter, softened
 

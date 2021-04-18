@@ -9,6 +9,7 @@ created: '2020-10-16 23:48:44'
 created_ts: 1602892124
 description: null
 difficulty: null
+favorite: 0
 image_url: https://amazingribs.com/files/styles/content_body_600px/public/smoked-and-sliced-chuck-roast.jpg?itok=qMvzK8oO
 ingredients: '1 beef chuck roast with or without bone (approximately 3 pounds)
 

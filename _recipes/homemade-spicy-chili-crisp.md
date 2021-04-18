@@ -8,6 +8,7 @@ created: '2020-08-03 13:50:34'
 created_ts: 1596462634
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://www.seriouseats.com/2018/03/20180322-chili-crisp-vicky-wasik-23.jpg
 ingredients: "27g (1 cup) dried \xE1rbol chilies, stems removed (see note)\n20g (3/4\
   \ cup) dried chiles japones, stems removed (see note)\n25g (3/4 cup) dried Kashmiri\

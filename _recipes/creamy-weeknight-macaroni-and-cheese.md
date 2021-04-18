@@ -8,6 +8,7 @@ created: '2020-05-04 17:36:15'
 created_ts: 1588613775
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/4d60b19/assets/card-placeholder-image.png
 ingredients: '1 pound elbows, shells, cavatappi, farfalle, fusilli or other short,
   tube-shaped pasta

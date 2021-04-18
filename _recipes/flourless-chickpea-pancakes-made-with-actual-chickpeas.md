@@ -8,6 +8,7 @@ created: '2021-01-03 16:49:08'
 created_ts: 1609692548
 description: null
 difficulty: null
+favorite: 0
 image_url: https://thealmondeater.com/wp-content/uploads/2019/03/Flourless-Chickpea-Pancakes-1-5-683x1024-1.jpg
 ingredients: '15 oz. chickpeas drained and rinsed
 
@@ -45,7 +46,9 @@ total_time: null
 type: null
 uid: DB727662-16F9-410B-A09F-13AD4713E4A6-84831-000044293FF03435
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>1 ½ Flour / 1 ¼ milk 602g of cpf</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>15 oz. chickpeas drained and rinsed</li>

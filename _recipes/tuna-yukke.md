@@ -8,6 +8,7 @@ created: '2021-04-10 19:18:58'
 created_ts: 1618082338
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "\u307E\u3050\u308D\u306E\u89D2\u5207\u308A(\u523A\u8EAB\u7528) \uFF11\
   \uFF18\uFF10\uFF47\n\u3057\u3087\u3046\u3086\u3001\u30B3\u30C1\u30E5\u30B8\u30E3\

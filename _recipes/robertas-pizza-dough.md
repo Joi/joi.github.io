@@ -9,6 +9,7 @@ created: '2021-02-02 00:05:18'
 created_ts: 1612224318
 description: null
 difficulty: null
+favorite: 0
 image_url: https://static01.nyt.com/images/2018/01/18/dining/pizzadough-2/pizzadough-2-videoHpMedium.jpg
 ingredients: '153 grams 00 flour (1 cup plus 1 tablespoon)
 

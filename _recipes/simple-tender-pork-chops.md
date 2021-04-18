@@ -8,6 +8,7 @@ created: '2020-12-10 01:35:04'
 created_ts: 1607564104
 description: null
 difficulty: null
+favorite: 0
 image_url: https://res.cloudinary.com/anova-applied-electronics/image/upload/w_517,h_327,c_fit,f_auto,q_auto,dpr_2.0,/v1598878747/mobileProduction/zdyrgxjkn6qvkqus1v3m.jpg
 ingredients: "2 Thick pork chops (bone in or boneless is fine)\n\xBD Tbsp Kosher salt\n\
   Black pepper\n1 Tbsp Butter\n1 tsp Olive oil\nOptional aromatic herbs"

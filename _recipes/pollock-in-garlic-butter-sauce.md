@@ -10,6 +10,7 @@ created: '2020-05-15 18:20:51'
 created_ts: 1589566851
 description: ''
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: '4 (6oz) Pollock or Cod fillets, 1/2" thick
 

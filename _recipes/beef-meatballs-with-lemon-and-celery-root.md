@@ -14,6 +14,7 @@ description: I often say that my favorite food is the sort that can, at once, co
   bit of Greek-style yogurt on the side. The dish can be made a day in advance and
   kept in the fridge. Reheat before serving.
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "14 oz/400g ground beef\rI medium onion, finely chopped (scant 1 cup/\
   \ 140g)\r3 cups/ 120g fresh white breadcrumbs (from about 4 slices, crusts removed)\r\

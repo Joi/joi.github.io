@@ -9,6 +9,7 @@ created: '2020-09-18 21:21:11'
 created_ts: 1600464071
 description: null
 difficulty: null
+favorite: 0
 image_url: https://heygrillheycdn.sfo2.cdn.digitaloceanspaces.com/2019/06/Copy-of-how-to-make_-1-683x1024.jpg
 ingredients: '1 rack baby back ribs
 

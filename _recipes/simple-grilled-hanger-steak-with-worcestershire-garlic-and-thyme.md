@@ -8,6 +8,7 @@ created: '2020-06-15 00:11:15'
 created_ts: 1592179875
 description: null
 difficulty: null
+favorite: 0
 image_url: https://alexandracooks.com/wp-content/uploads/2017/09/grilledsteakvertical680.jpg
 ingredients: '4 cloves garlic
 

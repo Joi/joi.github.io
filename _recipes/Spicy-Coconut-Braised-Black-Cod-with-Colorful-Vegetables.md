@@ -8,6 +8,7 @@ created: '2020-11-13 13:14:49'
 created_ts: 1605273289
 description: null
 difficulty: null
+favorite: 0
 image_url: https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/recipes/2199/286/400/2199._TTH_._UX818_._AC_.jpg
 ingredients: '2 tablespoons chopped fresh mint
 

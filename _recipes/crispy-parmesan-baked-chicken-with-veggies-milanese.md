@@ -8,6 +8,7 @@ created: '2020-11-16 21:09:56'
 created_ts: 1605560996
 description: null
 difficulty: null
+favorite: 0
 image_url: https://cafedelites.com/wp-content/uploads/2016/10/Lemon-Parmesan-Chicken-Schnitzel-Veggies-Sheetpan-Dinner-3000.jpg
 ingredients: 'For The Chicken:
 

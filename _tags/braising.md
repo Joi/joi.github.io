@@ -6,7 +6,7 @@ notes:
   rough:
   - date: '2020-09-10'
     type: dinner
-    uri_path: /2020/09/10/notes/dinner.html
+    uri_path: /notes/2020-09-10-dinner.html
 pages:
 - Evaporation Effect
 rel_tags_count:

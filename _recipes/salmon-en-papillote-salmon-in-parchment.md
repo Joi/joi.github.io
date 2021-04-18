@@ -9,6 +9,7 @@ created: '2020-03-20 18:23:15'
 created_ts: 1584728595
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2015/12/29/dining/29salmon-19/29salmon-19-articleLarge.jpg
 ingredients: '4 (6- to 8-ounce) skin-on salmon fillets
 

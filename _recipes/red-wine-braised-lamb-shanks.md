@@ -8,6 +8,7 @@ created: '2020-12-02 19:18:45'
 created_ts: 1606936725
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2015%2F01%2FACF36.jpg&q=85
 ingredients: '2 tablespoons extra-virgin olive oil
 

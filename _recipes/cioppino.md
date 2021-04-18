@@ -9,6 +9,7 @@ created: '2020-02-03 16:00:55'
 created_ts: 1580745655
 description: null
 difficulty: Medium
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/ras/Assets/90FDEF8A-4D38-403E-8C58-5C680632EA5A/Derivates/9AB025AE-6244-4AD0-B542-8CF9011C2EB2.jpg
 ingredients: "32 oz shellfish, e.g. littleneck clams, black mussels\n16 oz fresh raw\
   \ small shrimp, peeled and deveined, (thawed if frozen)\n2 oz squid tubes (calamari),\

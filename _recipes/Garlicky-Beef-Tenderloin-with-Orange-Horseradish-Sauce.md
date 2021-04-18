@@ -7,6 +7,7 @@ created: '2020-06-29 00:33:22'
 created_ts: 1593390802
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2014/04/22/dining/beeftenderloin/beeftenderloin-articleLarge.jpg
 ingredients: "(4-pound) beef tenderloin, trimmed and tied\n1 tablespoon kosher salt,\
   \ more to taste\n1 teaspoon black pepper, more to taste\n1 teaspoon chopped fresh\

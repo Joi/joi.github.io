@@ -8,6 +8,7 @@ created: '2020-02-03 16:01:52'
 created_ts: 1580745712
 description: null
 difficulty: Medium
+favorite: 0
 image_url: https://assets.tmecosys.com/image/upload/t_web575x575/img/recipe/vimdb/177862.jpg
 ingredients: "Dough\n7 oz masa harina\n1 oz all-purpose flour\n1 tsp baking powder\n\
   1 oz canola oil\n9 oz water\n\xBD tsp salt, to taste\nFilling\n35 oz water\n1 carrot,\

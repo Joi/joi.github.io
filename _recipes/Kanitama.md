@@ -11,6 +11,7 @@ created_ts: 1611231488
 description: "Based on the [\u304B\u306B\u305F\u307E recipe from NHK's \u307F\u3093\
   \u306A\u306E\u304D\u3087\u3046\u306E\u6599\u7406](https://www.kyounoryouri.jp/recipe/3406_%E3%81%8B%E3%81%AB%E3%81%9F%E3%81%BE.html)"
 difficulty: ''
+favorite: 0
 image_url: null
 ingredients: "5 eggs\n\xBD pound of crab - shredded\n1 cup of shiitake mushrooms -\
   \ sliced thin\n\xBD pound of boiled bamboo shoots - cut into thin sticks\n1 knob\

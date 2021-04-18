@@ -9,6 +9,7 @@ created: '2020-04-11 13:29:31'
 created_ts: 1586611771
 description: ''
 difficulty: ''
+favorite: 0
 image_url: https://static01.nyt.com/images/2015/04/29/dining/fish-soup/fish-soup-articleLarge.jpg
 ingredients: "\xBD pound shrimp, with shells on\n\xBD pound squid, cleaned\n\xBD pound\
   \ halibut\n1 piece monkfish (about 1/2 pound)\nLemon juice\n2 tablespoons parsley\n\

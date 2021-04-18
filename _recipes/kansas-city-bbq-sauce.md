@@ -9,6 +9,7 @@ created: '2020-09-18 21:19:19'
 created_ts: 1600463959
 description: null
 difficulty: ''
+favorite: 0
 image_url: https://heygrillheycdn.sfo2.cdn.digitaloceanspaces.com/2018/01/smoked-5.jpg
 ingredients: "14 oz can crushed tomatoes\n1 cup ketchup\n\xBE cup brown sugar\n\xBD\
   \ cup apple cider vinegar\n\xBD cup molasses\n1 Tbsp smoked paprika\n1 Tbsp salt\n\
