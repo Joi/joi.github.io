@@ -41,6 +41,8 @@ commonmark: #"SMART",
 
 
 collections:
+  webpages:
+    output: true
   posts:
     output: true
     sort_by: date
@@ -60,39 +62,44 @@ collections:
 
 defaults:
   - scope:
+      path: "_webpages" # Homepage, various indexes, eventual "About" etc…
+      type: "webpages"
+    values:
+      layout: 
+  - scope:
       path: "_posts" # Source path!
       type: "posts"
     values:
       layout: "post"
-      i_am  : "post" # to review - see post.html layout
+      i_am  : "post" # see post.html layout
 
   - scope:
       path: "_pages" # Source path!
       type: "pages"
     values:
       layout: "page"
-      i_am  : "page" # to review - see post.html layout
+      i_am  : "page" # see post.html layout
 
   - scope:
-      path: "_recipes"
-      type: "recipes" # Refers to the collections key name
+      path: "_recipes" # Source path!
+      type: "recipes"
     values:
       layout: "recipe"
-      i_am  : "recipe" # to review - see post.html layout
+      i_am  : "recipe" # see post.html layout
 
   - scope:
       path: "_notes" # Source path!
       type: "notes"
     values:
       layout: "note"
-      i_am  : "note" # to review - see note.html layout
+      i_am  : "note" # see note.html layout
 
   - scope:
       path: "_tags" # Source path!
       type: "tags"
     values:
       layout: "tag"
-      i_am  : "tag" # to review - see note.html layout
+      i_am  : "tag" # see note.html layout
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -113,4 +120,10 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+  - __project_design
+  - __scripts
+  - .git
+  - .gitignore
+  - .obsidian
+  - .vscode
   - debug.md
