@@ -2,7 +2,11 @@
 title: Italian
 tag_key: italian
 notes:
-  feature: []
+  feature:
+  - date: '2021-04-18'
+    feature: Beef Osso Buco
+    type: dinner
+    uri_path: /notes/2021-04-18-dinner.html
   rough:
   - date: '2020-07-10'
     type: dinner
@@ -72,6 +76,9 @@ rel_tags_count:
   beef:
   - 2
   - beef
+  beef-shank:
+  - 1
+  - beef shank
   chicken:
   - 1
   - chicken

@@ -37,11 +37,6 @@ recipes:
   rating: 5
   title: Basic Salsa Verde
 - mine: null
-  permalink: /recipes/best-ever-guacamole
-  photo_thumb: best-ever-guacamole-thumb.jpg
-  rating: 0
-  title: Best Ever Guacamole
-- mine: null
   permalink: /recipes/blue-cheese-dressing
   photo_thumb: null
   rating: 0
@@ -91,6 +86,11 @@ recipes:
   photo_thumb: grilled-salmon-with-cilantro-pecan-pesto-thumb.jpg
   rating: 0
   title: Grilled Salmon with Cilantro-Pecan Pesto
+- mine: null
+  permalink: /recipes/guacamole
+  photo_thumb: guacamole-thumb.jpg
+  rating: 5
+  title: Guacamole
 - mine: null
   permalink: /recipes/hamburger-stroganoff-skillet
   photo_thumb: hamburger-stroganoff-skillet-thumb.jpg
@@ -240,7 +240,7 @@ rel_tags_count:
   - 1
   - spatchcocking
   spread:
-  - 1
+  - 2
   - spread
   steaks:
   - 2

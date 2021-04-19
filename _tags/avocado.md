@@ -2,11 +2,11 @@
 title: Avocado
 tag_key: avocado
 recipes:
-- mine: null
-  permalink: /recipes/best-ever-guacamole
-  photo_thumb: best-ever-guacamole-thumb.jpg
-  rating: 0
-  title: Best Ever Guacamole
+- mine: 1
+  permalink: /recipes/guacamole
+  photo_thumb: guacamole-thumb.jpg
+  rating: 5
+  title: Guacamole
 - mine: null
   permalink: /recipes/lobster-salad
   photo_thumb: lobster-salad-thumb.jpg
@@ -22,5 +22,8 @@ rel_tags_count:
   sauce:
   - 1
   - sauce
+  spread:
+  - 1
+  - spread
 
 ---

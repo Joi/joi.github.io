@@ -58,6 +58,14 @@ photo_large: ossobuco-alla-cipriani-braised-veal-shanks-cipriani-large.jpg
 photo_thumb: ossobuco-alla-cipriani-braised-veal-shanks-cipriani-thumb.jpg
 photos_dict:
   '1': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-1.jpg
+  '2': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-2.jpg
+  '3': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-3.jpg
+  '4': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-4.jpg
+  '5': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-5.jpg
+  '6': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-6.jpg
+  '7': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-7.jpg
+  '8': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-8.jpg
+  '9': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-9.jpg
 prep_time: ''
 rating: 5
 servings: '6'
@@ -69,7 +77,12 @@ total_time: ''
 type: null
 uid: E180BD94-AC3C-451E-9238-78D97C67B764-22544-0003AA78C45EC856
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Unfortunately, this recipe is note online, but only in the book. The rough directions are to sear the shanks, remove them from the Dutch oven. Then sauté the vegetables. Add wine and deglaze. Then add the tomato and stock. Then put the Dutch oven in the oven at 300ºF for 3 hours.</p>
+<p>Once the meat is fork tender, plate onto heated plates and put the Dutch oven on the stove. Boil down if too think. Add the gremolada and stir for about a minute and spoon sauce over meat.</p>
+<p><img src="/images/recipes/ossobuco-alla-cipriani-braised-veal-shanks-cipriani-3.jpg" alt="beef oso buco" /></p>
+<p>I tried it with beef osso buco and it came out great.</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/2 cup olive oil or more as needed (125 mL)

@@ -115,6 +115,20 @@
    },
    {
     "mine": 1,
+    "permalink": "/recipes/grilled-octopus",
+    "photo_thumb": "grilled-octopus-thumb.jpg",
+    "rating": 5,
+    "title": "Grilled Octopus"
+   },
+   {
+    "mine": 1,
+    "permalink": "/recipes/guacamole",
+    "photo_thumb": "guacamole-thumb.jpg",
+    "rating": 5,
+    "title": "Guacamole"
+   },
+   {
+    "mine": 1,
     "permalink": "/recipes/japanese-fried-chicken-karaage",
     "photo_thumb": "japanese-fried-chicken-karaage-thumb.jpg",
     "rating": 5,
@@ -255,6 +269,10 @@
    }
   ],
   "rel_tags_count": {
+   "avocado": [
+    1,
+    "avocado"
+   ],
    "bbq": [
     2,
     "BBQ"
@@ -311,6 +329,14 @@
     1,
     "meat"
    ],
+   "mexican": [
+    1,
+    "Mexican"
+   ],
+   "octopus": [
+    1,
+    "octopus"
+   ],
    "oxtail": [
     1,
     "oxtail"
@@ -336,7 +362,7 @@
     "salmon"
    ],
    "sauce": [
-    8,
+    9,
     "sauce"
    ],
    "seafood": [
@@ -364,7 +390,7 @@
     "soup"
    ],
    "spread": [
-    2,
+    3,
     "spread"
    ],
    "steaks": [
@@ -408,6 +434,13 @@
    },
    {
     "mine": 1,
+    "permalink": "/recipes/grilled-octopus",
+    "photo_thumb": "grilled-octopus-thumb.jpg",
+    "rating": 5,
+    "title": "Grilled Octopus"
+   },
+   {
+    "mine": 1,
     "permalink": "/recipes/seared-wagyu",
     "photo_thumb": "seared-wagyu-thumb.jpg",
     "rating": 0,
@@ -433,6 +466,10 @@
    "meat": [
     1,
     "meat"
+   ],
+   "octopus": [
+    1,
+    "octopus"
    ],
    "prime-rib": [
     1,
@@ -537,11 +574,11 @@
  "avocado": {
   "recipes": [
    {
-    "mine": null,
-    "permalink": "/recipes/best-ever-guacamole",
-    "photo_thumb": "best-ever-guacamole-thumb.jpg",
-    "rating": 0,
-    "title": "Best Ever Guacamole"
+    "mine": 1,
+    "permalink": "/recipes/guacamole",
+    "photo_thumb": "guacamole-thumb.jpg",
+    "rating": 5,
+    "title": "Guacamole"
    },
    {
     "mine": null,
@@ -563,6 +600,10 @@
    "sauce": [
     1,
     "sauce"
+   ],
+   "spread": [
+    1,
+    "spread"
    ]
   }
  },
@@ -1110,6 +1151,17 @@
   "rel_tags_count": {}
  },
  "beef shank": {
+  "notes": {
+   "feature": [
+    {
+     "date": "2021-04-18",
+     "feature": "Beef Osso Buco",
+     "type": "dinner",
+     "uri_path": "/notes/2021-04-18-dinner.html"
+    }
+   ],
+   "rough": []
+  },
   "recipes": [
    {
     "mine": null,
@@ -1130,6 +1182,10 @@
    "chinese": [
     1,
     "Chinese"
+   ],
+   "italian": [
+    1,
+    "Italian"
    ]
   }
  },
@@ -3841,7 +3897,14 @@
  },
  "italian": {
   "notes": {
-   "feature": [],
+   "feature": [
+    {
+     "date": "2021-04-18",
+     "feature": "Beef Osso Buco",
+     "type": "dinner",
+     "uri_path": "/notes/2021-04-18-dinner.html"
+    }
+   ],
    "rough": [
     {
      "date": "2020-07-10",
@@ -3940,6 +4003,10 @@
    "beef": [
     2,
     "beef"
+   ],
+   "beef-shank": [
+    1,
+    "beef shank"
    ],
    "chicken": [
     1,
@@ -4110,6 +4177,24 @@
    "maintenance": [
     1,
     "maintenance"
+   ]
+  }
+ },
+ "korean": {
+  "notes": {
+   "feature": [],
+   "rough": [
+    {
+     "date": "2020-11-15",
+     "type": "dinner",
+     "uri_path": "/notes/2020-11-15-dinner.html"
+    }
+   ]
+  },
+  "rel_tags_count": {
+   "short-ribs": [
+    1,
+    "short ribs"
    ]
   }
  },
@@ -4644,13 +4729,6 @@
    },
    {
     "mine": null,
-    "permalink": "/recipes/best-ever-guacamole",
-    "photo_thumb": "best-ever-guacamole-thumb.jpg",
-    "rating": 0,
-    "title": "Best Ever Guacamole"
-   },
-   {
-    "mine": null,
     "permalink": "/recipes/crunchy-fried-fish-tacos",
     "photo_thumb": "crunchy-fried-fish-tacos-thumb.jpg",
     "rating": 0,
@@ -4662,6 +4740,13 @@
     "photo_thumb": "easy-pressure-cooker-green-chili-with-chicken-thumb.jpg",
     "rating": 0,
     "title": "Easy Pressure Cooker Green Chili with Chicken"
+   },
+   {
+    "mine": null,
+    "permalink": "/recipes/guacamole",
+    "photo_thumb": "guacamole-thumb.jpg",
+    "rating": 5,
+    "title": "Guacamole"
    },
    {
     "mine": null,
@@ -4722,6 +4807,10 @@
    "spatchcocking": [
     1,
     "spatchcocking"
+   ],
+   "spread": [
+    1,
+    "spread"
    ]
   }
  },
@@ -4889,6 +4978,18 @@
     "photo_thumb": "peanut-butter-overnight-oats-5-ingredients!-thumb.jpg",
     "rating": 0,
     "title": "Peanut Butter Overnight Oats (5 Ingredients!)"
+   }
+  ],
+  "rel_tags_count": {}
+ },
+ "octopus": {
+  "recipes": [
+   {
+    "mine": 1,
+    "permalink": "/recipes/grilled-octopus",
+    "photo_thumb": "grilled-octopus-thumb.jpg",
+    "rating": 5,
+    "title": "Grilled Octopus"
    }
   ],
   "rel_tags_count": {}
@@ -5174,13 +5275,6 @@
     "photo_thumb": "easy-ham-and-cheese-omelet-thumb.jpg",
     "rating": 0,
     "title": "Easy Ham and Cheese Omelet"
-   },
-   {
-    "mine": null,
-    "permalink": "/recipes/momofukus-bo-ssam",
-    "photo_thumb": "momofukus-bo-ssam-thumb.jpg",
-    "rating": 0,
-    "title": "Momofuku's Bo Ssam"
    },
    {
     "mine": null,
@@ -6362,13 +6456,6 @@
    },
    {
     "mine": null,
-    "permalink": "/recipes/best-ever-guacamole",
-    "photo_thumb": "best-ever-guacamole-thumb.jpg",
-    "rating": 0,
-    "title": "Best Ever Guacamole"
-   },
-   {
-    "mine": null,
     "permalink": "/recipes/blue-cheese-dressing",
     "photo_thumb": null,
     "rating": 0,
@@ -6436,6 +6523,13 @@
     "photo_thumb": "grilled-salmon-with-cilantro-pecan-pesto-thumb.jpg",
     "rating": 0,
     "title": "Grilled Salmon with Cilantro-Pecan Pesto"
+   },
+   {
+    "mine": null,
+    "permalink": "/recipes/guacamole",
+    "photo_thumb": "guacamole-thumb.jpg",
+    "rating": 5,
+    "title": "Guacamole"
    },
    {
     "mine": null,
@@ -6643,7 +6737,7 @@
     "spatchcocking"
    ],
    "spread": [
-    1,
+    2,
     "spread"
    ],
    "steaks": [
@@ -6868,6 +6962,16 @@
   }
  },
  "short ribs": {
+  "notes": {
+   "feature": [],
+   "rough": [
+    {
+     "date": "2020-11-15",
+     "type": "dinner",
+     "uri_path": "/notes/2020-11-15-dinner.html"
+    }
+   ]
+  },
   "recipes": [
    {
     "mine": null,
@@ -6966,6 +7070,10 @@
    "ground-beef": [
     1,
     "ground beef"
+   ],
+   "korean": [
+    1,
+    "korean"
    ],
    "lamb": [
     1,
@@ -7680,6 +7788,13 @@
    },
    {
     "mine": null,
+    "permalink": "/recipes/guacamole",
+    "photo_thumb": "guacamole-thumb.jpg",
+    "rating": 5,
+    "title": "Guacamole"
+   },
+   {
+    "mine": null,
     "permalink": "/recipes/hummus-ilan-hall",
     "photo_thumb": "hummus-ilan-hall-thumb.jpg",
     "rating": 5,
@@ -7701,8 +7816,16 @@
    }
   ],
   "rel_tags_count": {
-   "sauce": [
+   "avocado": [
     1,
+    "avocado"
+   ],
+   "mexican": [
+    1,
+    "Mexican"
+   ],
+   "sauce": [
+    2,
     "sauce"
    ]
   }

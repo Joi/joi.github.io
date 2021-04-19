@@ -1,6 +1,12 @@
 ---
 title: Short Ribs
 tag_key: short-ribs
+notes:
+  feature: []
+  rough:
+  - date: '2020-11-15'
+    type: dinner
+    uri_path: /notes/2020-11-15-dinner.html
 recipes:
 - mine: null
   permalink: /recipes/biltmore-chianti-glazed-beef-short-ribs
@@ -72,6 +78,9 @@ rel_tags_count:
   ground-beef:
   - 1
   - ground beef
+  korean:
+  - 1
+  - korean
   lamb:
   - 1
   - lamb

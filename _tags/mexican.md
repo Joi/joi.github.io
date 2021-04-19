@@ -24,11 +24,6 @@ recipes:
   rating: 0
   title: Beef Tostadas
 - mine: null
-  permalink: /recipes/best-ever-guacamole
-  photo_thumb: best-ever-guacamole-thumb.jpg
-  rating: 0
-  title: Best Ever Guacamole
-- mine: null
   permalink: /recipes/crunchy-fried-fish-tacos
   photo_thumb: crunchy-fried-fish-tacos-thumb.jpg
   rating: 0
@@ -38,6 +33,11 @@ recipes:
   photo_thumb: easy-pressure-cooker-green-chili-with-chicken-thumb.jpg
   rating: 0
   title: Easy Pressure Cooker Green Chili with Chicken
+- mine: null
+  permalink: /recipes/guacamole
+  photo_thumb: guacamole-thumb.jpg
+  rating: 5
+  title: Guacamole
 - mine: null
   permalink: /recipes/mexican-coleslaw-with-cilantro-lime-dressing
   photo_thumb: mexican-coleslaw-with-cilantro-lime-dressing-thumb.jpg
@@ -82,5 +82,8 @@ rel_tags_count:
   spatchcocking:
   - 1
   - spatchcocking
+  spread:
+  - 1
+  - spread
 
 ---

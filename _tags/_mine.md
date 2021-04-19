@@ -83,6 +83,16 @@ recipes:
   rating: 0
   title: Grill Smoked Fish
 - mine: 1
+  permalink: /recipes/grilled-octopus
+  photo_thumb: grilled-octopus-thumb.jpg
+  rating: 5
+  title: Grilled Octopus
+- mine: 1
+  permalink: /recipes/guacamole
+  photo_thumb: guacamole-thumb.jpg
+  rating: 5
+  title: Guacamole
+- mine: 1
   permalink: /recipes/japanese-fried-chicken-karaage
   photo_thumb: japanese-fried-chicken-karaage-thumb.jpg
   rating: 5
@@ -183,6 +193,9 @@ recipes:
   rating: 5
   title: "Tuna Tataki with Lime, Ginger and Jalape\xF1o"
 rel_tags_count:
+  avocado:
+  - 1
+  - avocado
   bbq:
   - 2
   - BBQ
@@ -225,6 +238,12 @@ rel_tags_count:
   meat:
   - 1
   - meat
+  mexican:
+  - 1
+  - Mexican
+  octopus:
+  - 1
+  - octopus
   oxtail:
   - 1
   - oxtail
@@ -244,7 +263,7 @@ rel_tags_count:
   - 2
   - salmon
   sauce:
-  - 8
+  - 9
   - sauce
   seafood:
   - 2
@@ -265,7 +284,7 @@ rel_tags_count:
   - 2
   - soup
   spread:
-  - 2
+  - 3
   - spread
   steaks:
   - 1

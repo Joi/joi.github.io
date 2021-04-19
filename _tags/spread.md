@@ -13,6 +13,11 @@ recipes:
   rating: 3
   title: Guacamole
 - mine: null
+  permalink: /recipes/guacamole
+  photo_thumb: guacamole-thumb.jpg
+  rating: 5
+  title: Guacamole
+- mine: null
   permalink: /recipes/hummus-ilan-hall
   photo_thumb: hummus-ilan-hall-thumb.jpg
   rating: 5
@@ -28,8 +33,14 @@ recipes:
   rating: 0
   title: Ultracreamy Hummus
 rel_tags_count:
-  sauce:
+  avocado:
   - 1
+  - avocado
+  mexican:
+  - 1
+  - Mexican
+  sauce:
+  - 2
   - sauce
 
 ---

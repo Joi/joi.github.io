@@ -1,6 +1,13 @@
 ---
 title: Beef Shank
 tag_key: beef-shank
+notes:
+  feature:
+  - date: '2021-04-18'
+    feature: Beef Osso Buco
+    type: dinner
+    uri_path: /notes/2021-04-18-dinner.html
+  rough: []
 recipes:
 - mine: null
   permalink: /recipes/beef-osso-buco
@@ -16,5 +23,8 @@ rel_tags_count:
   chinese:
   - 1
   - Chinese
+  italian:
+  - 1
+  - Italian
 
 ---

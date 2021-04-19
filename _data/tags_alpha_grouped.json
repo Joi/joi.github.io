@@ -255,6 +255,10 @@
   "knowledge management": {
    "filename": "knowledge-management",
    "titlecase": "Knowledge Management"
+  },
+  "korean": {
+   "filename": "korean",
+   "titlecase": "Korean"
   }
  },
  "l": {
@@ -311,6 +315,10 @@
   "oats": {
    "filename": "oats",
    "titlecase": "Oats"
+  },
+  "octopus": {
+   "filename": "octopus",
+   "titlecase": "Octopus"
   },
   "oxtail": {
    "filename": "oxtail",

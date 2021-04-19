@@ -31,7 +31,8 @@ meal_dates:
 - '2020-04-24'
 - '2020-07-08'
 - '2020-08-26'
-meal_types: 3|3|3|3
+- '2020-12-13'
+meal_types: 3|3|3|3|3
 mine: null
 name: Instant Pot Short Ribs
 p_recipe_id: 90

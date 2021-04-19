@@ -8,6 +8,11 @@ recipes:
   rating: 0
   title: Grill Smoked Fish
 - mine: 1
+  permalink: /recipes/grilled-octopus
+  photo_thumb: grilled-octopus-thumb.jpg
+  rating: 5
+  title: Grilled Octopus
+- mine: 1
   permalink: /recipes/seared-wagyu
   photo_thumb: seared-wagyu-thumb.jpg
   rating: 0
@@ -27,6 +32,9 @@ rel_tags_count:
   meat:
   - 1
   - meat
+  octopus:
+  - 1
+  - octopus
   prime-rib:
   - 1
   - prime rib

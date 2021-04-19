@@ -8,11 +8,6 @@ recipes:
   rating: 0
   title: Easy Ham and Cheese Omelet
 - mine: null
-  permalink: /recipes/momofukus-bo-ssam
-  photo_thumb: momofukus-bo-ssam-thumb.jpg
-  rating: 0
-  title: Momofuku's Bo Ssam
-- mine: null
   permalink: /recipes/perfect-pan-seared-pork-chops
   photo_thumb: perfect-pan-seared-pork-chops-thumb.jpg
   rating: 0

@@ -98,4 +98,5 @@ uid: D1802362-2744-4AED-A6DC-2AB29EC1D022-26383-0001720E4DC5724D
 <p>Add shrimp and bok choy and stir-fry for 3 - 5 min until the bok choy is tender, but not soft. If you want, you can separate the leafy part from the thick stems and add them a min or two after the thick parts.</p>
 <p>Add chicken broth (or water if you don't have any) and bring to boil. Cover and simmer for 2 - 3 min.</p>
 <p>Add fish sauce and ground black pepper.</p>
+<p>Chinese chicken soup broth usually has a lot of salt in it so you may not need salt. If you use stock or broth without salt, you may need to add some. Season to taste at end.</p>
 </div>	</div>

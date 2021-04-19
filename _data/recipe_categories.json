@@ -16,6 +16,8 @@
   "ginisang-pechay-with-ground-pork-and-shrimp": "Ginisang Pechay with Ground Pork and Shrimp",
   "ginisang-pechay-with-tofu": "Ginisang Pechay with Tofu",
   "grill-smoked-fish": "Grill Smoked Fish",
+  "grilled-octopus": "Grilled Octopus",
+  "guacamole": "Guacamole",
   "japanese-fried-chicken-karaage": "Japanese fried chicken - karaage",
   "kanitama": "Kanitama",
   "kohlrabi-soup": "Kohlrabi Soup",
@@ -39,6 +41,7 @@
  },
  "_stub": {
   "grill-smoked-fish": "Grill Smoked Fish",
+  "grilled-octopus": "Grilled Octopus",
   "seared-wagyu": "Seared Wagyu",
   "steak": "Steak"
  },
@@ -50,7 +53,7 @@
   "shaved-asparagus-salad": "Shaved Asparagus Salad"
  },
  "avocado": {
-  "best-ever-guacamole": "Best Ever Guacamole",
+  "guacamole": "Guacamole",
   "lobster-salad": "Lobster Salad"
  },
  "bbq": {
@@ -472,9 +475,9 @@
  "mexican": {
   "beef-taco-salad-with-chunky-tomato-dressing": "Beef Taco Salad with Chunky Tomato Dressing",
   "beef-tostadas": "Beef Tostadas",
-  "best-ever-guacamole": "Best Ever Guacamole",
   "crunchy-fried-fish-tacos": "Crunchy Fried Fish Tacos",
   "easy-pressure-cooker-green-chili-with-chicken": "Easy Pressure Cooker Green Chili with Chicken",
+  "guacamole": "Guacamole",
   "mexican-coleslaw-with-cilantro-lime-dressing": "Mexican Coleslaw with Cilantro Lime Dressing",
   "the-best-chili-ever": "The Best Chili Ever"
  },
@@ -503,6 +506,9 @@
   "easy-overnight-oats": "Easy Overnight Oats",
   "overnight-oats": "Overnight Oats",
   "peanut-butter-overnight-oats-5-ingredients!": "Peanut Butter Overnight Oats (5 Ingredients!)"
+ },
+ "octopus": {
+  "grilled-octopus": "Grilled Octopus"
  },
  "oxtail": {
   "oxtail-au-jus": "Oxtail Au Jus",
@@ -539,7 +545,6 @@
  },
  "pork": {
   "easy-ham-and-cheese-omelet": "Easy Ham and Cheese Omelet",
-  "momofukus-bo-ssam": "Momofuku's Bo Ssam",
   "perfect-pan-seared-pork-chops": "Perfect Pan-Seared Pork Chops",
   "simple-tender-pork-chops": "Simple Tender Pork Chops",
   "spicy-meatballs-with-chickpeas": "Spicy Meatballs with Chickpeas",
@@ -641,7 +646,6 @@
   "bbq-rub": "BBQ Rub",
   "bbq-sauce": "BBQ Sauce",
   "bearnaise-sauce": "Béarnaise Sauce",
-  "best-ever-guacamole": "Best Ever Guacamole",
   "blue-cheese-dressing": "Blue Cheese Dressing",
   "bolognese-sauce": "Bolognese Sauce",
   "chef-johns-creme-fraiche": "Chef John's Creme Fraiche",
@@ -651,6 +655,7 @@
   "fry-sauce": "Fry Sauce",
   "garlic-steak-with-horseradish-sauce-by-bobby-flay": "Garlic Steak with Horseradish Sauce by Bobby Flay",
   "grilled-salmon-with-cilantro-pecan-pesto": "Grilled Salmon with Cilantro-Pecan Pesto",
+  "guacamole": "Guacamole",
   "hamburger-stroganoff-skillet": "Hamburger Stroganoff Skillet",
   "homemade-marinara-sauce": "Homemade Marinara Sauce",
   "homemade-ponzu-sauce-recipe": "Homemade Ponzu Sauce Recipe",
