@@ -48,6 +48,11 @@ recipes:
   rating: 5
   title: Minestrone
 - mine: null
+  permalink: /recipes/ossobuco-alla-cipriani-braised-veal-shanks-cipriani
+  photo_thumb: ossobuco-alla-cipriani-braised-veal-shanks-cipriani-thumb.jpg
+  rating: 5
+  title: Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani
+- mine: null
   permalink: /recipes/pizza
   photo_thumb: pizza-thumb.jpg
   rating: 5
@@ -77,7 +82,7 @@ rel_tags_count:
   - 2
   - beef
   beef-shank:
-  - 1
+  - 2
   - beef shank
   chicken:
   - 1
@@ -110,7 +115,7 @@ rel_tags_count:
   - 1
   - tomato
   veal:
-  - 1
+  - 2
   - veal
 
 ---

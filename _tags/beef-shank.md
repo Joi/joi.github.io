@@ -19,12 +19,20 @@ recipes:
   photo_thumb: chinese-spiced-braised-beef-shank-thumb.jpg
   rating: 0
   title: Chinese Spiced Braised Beef Shank
+- mine: null
+  permalink: /recipes/ossobuco-alla-cipriani-braised-veal-shanks-cipriani
+  photo_thumb: ossobuco-alla-cipriani-braised-veal-shanks-cipriani-thumb.jpg
+  rating: 5
+  title: Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani
 rel_tags_count:
   chinese:
   - 1
   - Chinese
   italian:
-  - 1
+  - 2
   - Italian
+  veal:
+  - 1
+  - veal
 
 ---

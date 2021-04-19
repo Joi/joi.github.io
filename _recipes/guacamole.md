@@ -56,7 +56,7 @@ uid: AFD51E5D-4082-4BC2-9342-614387032D80-60918-00006082836BD06F
 <li>½ teaspoon sea salt</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Chop ingredients.</p>
-<p>Then mash onions, garlic, jalapeño cilantro in molcajete and grind.</p>
+<p>Then mash onions, garlic, jalapeño cilantro in [[molcajete]] and grind.</p>
 <p>Put in avocado and tomato and do more mashing and grinding.</p>
-<p>Any of the ingredients except the avocado are optional. If using tomatos, cut and drain for a few min in a sieve to keep the guacamole from getting too runny.</p>
+<p>Any of the ingredients except the avocado are optional. If using tomatoes, cut and drain for a few min in a sieve to keep the guacamole from getting too runny.</p>
 </div>	</div>

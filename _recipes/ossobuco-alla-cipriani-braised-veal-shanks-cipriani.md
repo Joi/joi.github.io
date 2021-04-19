@@ -3,6 +3,8 @@ title: "Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani"
 filename: "ossobuco-alla-cipriani-braised-veal-shanks-cipriani"
 categories: &id001
 - veal
+- italian
+- beef shank
 cook_time: ''
 created: '2020-06-21 17:28:12'
 created_ts: 1592760492
@@ -36,7 +38,7 @@ description: "_Ossobuco_  - one of Italy's most delicious dishes is made with sh
 difficulty: ''
 favorite: 0
 image_url: null
-ingredients: "1/2 cup olive oil or more as needed (125 mL)\r2 veal shanks, cut into\
+ingredients: "\xBD cup olive oil or more as needed (125 mL)\r2 veal shanks, cut into\
   \ 1 1/2 to 2-inch ( 4 to 5 cm) slices\nSalt\nFreshly ground pepper\nFlour for dredging\n\
   3 celery ribs, finely chopped\n2 small carrots, trimmed and finely chopped\n1 large\
   \ onion finely chopped\n1/4 cup shiitake mushrooms, finely chopped (110 g)\n1/2\
@@ -78,14 +80,14 @@ type: null
 uid: E180BD94-AC3C-451E-9238-78D97C67B764-22544-0003AA78C45EC856
 ---
 <div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
-<div class="box box-notes"><p>Unfortunately, this recipe is note online, but only in the book. The rough directions are to sear the shanks, remove them from the Dutch oven. Then sauté the vegetables. Add wine and deglaze. Then add the tomato and stock. Then put the Dutch oven in the oven at 300ºF for 3 hours.</p>
-<p>Once the meat is fork tender, plate onto heated plates and put the Dutch oven on the stove. Boil down if too think. Add the gremolada and stir for about a minute and spoon sauce over meat.</p>
+<div class="box box-notes"><p>Unfortunately, this recipe is not online, but only in <a href="https://www.amazon.com/Harrys-Bar-Cookbook-Reminiscences-World-Famous/dp/0553070304/">the book</a>. The rough directions are to sear the shanks in oil and remove them from the Dutch oven and drain the oil. Then sauté the vegetables. Add wine and deglaze. Then add the tomato and stock. Make sure the meat is mostly covered with the braising liquid.Then put the Dutch oven in the oven at 300ºF for 3 hours. (In an Anova oven, set to 50% steam and leave the lid off.)</p>
+<p>Once the meat is fork tender, plate onto heated plates and put the Dutch oven on the stove. Boil down if too thick. Add the gremolada and stir for about a minute and spoon sauce over meat.</p>
 <p><img src="/images/recipes/ossobuco-alla-cipriani-braised-veal-shanks-cipriani-3.jpg" alt="beef oso buco" /></p>
 <p>I tried it with beef osso buco and it came out great.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>1/2 cup olive oil or more as needed (125 mL)
+<li>½ cup olive oil or more as needed (125 mL)
 2 veal shanks, cut into 1 1/2 to 2-inch ( 4 to 5 cm) slices</li>
 <li>Salt</li>
 <li>Freshly ground pepper</li>

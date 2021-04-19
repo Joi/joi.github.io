@@ -23,8 +23,11 @@ recipes:
   rating: 0
   title: Whatever You Want Soup
 rel_tags_count:
-  italian:
+  beef-shank:
   - 1
+  - beef shank
+  italian:
+  - 2
   - Italian
   lamb:
   - 1
