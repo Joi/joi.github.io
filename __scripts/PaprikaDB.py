@@ -114,7 +114,7 @@ ts_offset = 978307200
 
 
 # Tag Case edge cases
-tag_edgecases = {
+tag_special_cases = {
   'bbq': 'BBQ',
   'jnat': 'Jnat',
   'kio': 'Kio',
@@ -131,9 +131,9 @@ tag_edgecases = {
   'vietnamese': 'Vietnamese',
 }
 # The above rendered as a list:
-tag_edgecases_list = []
-for tel,teu in tag_edgecases.items():
-  tag_edgecases_list.append(teu)
+tag_special_cases_list = []
+for tel,teu in tag_special_cases.items():
+  tag_special_cases_list.append(teu)
 
 print ("✅ IMPORTs completed and VARs initiated\n")
 
@@ -237,7 +237,7 @@ def parse_tag_string(tag_str):
 # and If titlecasing (non-exceptions), do that
 def display_tag(tag,mode = None):
   try:
-    tag = tag_edgecases[tag]# + " EDGECASE"
+    tag = tag_special_cases[tag]# + " EDGECASE"
   except:
     if mode == "titlecase":
       tag = titlecase(tag)# + " Titled"
@@ -954,7 +954,7 @@ for tag, tagd in tags.items():
   tag_filename = make_filename(tag)
   tag_title = display_tag(tag,'titlecase')
   try:
-    te = tag_edgecases[tag_filename]
+    te = tag_special_cases[tag_filename]
     tag_key = te
     #print(tag_key + "YES edgecase")
   except:
@@ -968,7 +968,7 @@ for tag, tagd in tags.items():
 # Convert the data structs to JSON and dump to individual files
 
 # Tag Edge Cases Data Dump
-write_json_file(tag_edgecases,path_json_data + "tag_edgecases.json")
+write_json_file(tag_special_cases,path_json_data + "tag_special_cases.json")
 print ("✅ TAG EDGECASES JSON Indices Dumped\n")
 
 # Tag Indices Data Dump

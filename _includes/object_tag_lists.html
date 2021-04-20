@@ -5,10 +5,10 @@
 
     {% assign tag_dc = tag | downcase %}
 
-    <!--pre>{{ site.data.tag_edgecases[tag_dc] }}</pre-->
+    <!--pre>{{ site.data.tag_special_cases[tag_dc] }}</pre-->
 
-    {% if site.data.tag_edgecases[tag_dc] %}
-      {% assign tag_dc = site.data.tag_edgecases[tag_dc] %}
+    {% if site.data.tag_special_cases[tag_dc] %}
+      {% assign tag_dc = site.data.tag_special_cases[tag_dc] %}
     {% else %}
       {% assign tag_dc = tag_dc %}
     {% endif %}
@@ -24,5 +24,5 @@
 </span>
 
 <!--pre>
-Tag Edgecases: {{ site.data.tag_edgecases }}
+Tag Edgecases: {{ site.data.tag_special_cases }}
 </pre-->
