@@ -59,7 +59,7 @@ collections:
     permalink: /notes/:year-:month-:day-:slug
   tags:
     output: true
-    permalink: /tag/:slug
+    permalink: /tags/:slug
 
 defaults:
   - scope:
