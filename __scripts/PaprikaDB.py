@@ -116,7 +116,7 @@ ts_offset = 978307200
 # Tag Case edge cases
 tag_edgecases = {
   'bbq': 'BBQ',
-  'jnat': 'JNAT',
+  'jnat': 'Jnat',
   'kio': 'Kio',
   'wagyu': 'Wagyu',
   'chinese': 'Chinese',
@@ -953,7 +953,13 @@ for tag, tagd in tags.items():
   # Make those slugs
   tag_filename = make_filename(tag)
   tag_title = display_tag(tag,'titlecase')
-  tag_key = tag_filename
+  try:
+    te = tag_edgecases[tag_filename]
+    tag_key = te
+    #print(tag_key + "YES edgecase")
+  except:
+    tag_key = tag_filename
+    #print(tag_key + "NO edgecase")
   tag_yaml = yaml.dump(tagd)
   tag_content = "---\ntitle: " + tag_title + "\ntag_key: " + tag_key + "\n" + tag_yaml + "\n---\n"
   write_file(path_tags_mkdn_files + tag_filename + ".md",tag_content)
