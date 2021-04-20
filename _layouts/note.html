@@ -19,20 +19,7 @@ which happen to correspond/define the page.title and page.note vars
       <div class="sub-title">
         <span class="date">{% if page.feature %}{{ page.title }}, {% endif %}{{ page.date | date_to_string: "ordinal", "US" }}</span>
         {% if page.tags %}
-
           {% include object_tag_lists.html tags_array=page.tags tag_label=" &nbsp; / &nbsp; " %}
-{% comment %}
-          <span class="tags"> &nbsp; / &nbsp;
-          {% for tag in page.tags %}
-            {% if forloop.last %}
-              {% assign comma = "" %}
-            {% else %}
-              {% assign comma = ", " %}
-            {% endif %}
-            <a href="/tag/{{ tag | slugify }}" title="Tagged as {{ tag | downcase }}">{{ tag | downcase }}</a>{{comma}}
-          {% endfor %}
-          </span>
-{% endcomment %}
         {% endif %}
       </div>
     </div>

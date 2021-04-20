@@ -632,6 +632,7 @@ for result in results:
         print("-------\n")
       result['categories'] = [i for i in result['categories'] if i not in remove_cats_hacks]
       result['tags'] = result['categories']
+    result.pop('categories')
 
     # ---------------------------------------------------
     # Sources
