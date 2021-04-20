@@ -237,7 +237,7 @@ def parse_tag_string(tag_str):
 # and If titlecasing (non-exceptions), do that
 def display_tag(tag,mode = None):
   try:
-    tag = tag_special_cases[tag]# + " EDGECASE"
+    tag = tag_special_cases[tag]# + " SPECIAL CASE"
   except:
     if mode == "titlecase":
       tag = titlecase(tag)# + " Titled"
@@ -953,14 +953,16 @@ for tag, tagd in tags.items():
   tagd.pop('rel_tags') # discard the list
   # Make those slugs
   tag_filename = make_filename(tag)
+  tag_lowercase = tag.lower()
   tag_title = display_tag(tag,'titlecase')
-  try:
-    te = tag_special_cases[tag_filename]
-    tag_key = te
+  #try:
+  #  tag_special_case = tag_special_cases[tag_lowercase]
+  #  tag_key = tag_special_case
     #print(tag_key + "YES edgecase")
-  except:
-    tag_key = tag_filename
+  #except:
+  #  tag_key = tag_lowercase
     #print(tag_key + "NO edgecase")
+  tag_key = tag_lowercase
   tag_yaml = yaml.dump(tagd)
   tag_content = "---\ntitle: " + tag_title + "\ntag_key: " + tag_key + "\n" + tag_yaml + "\n---\n"
   write_file(path_tags_mkdn_files + tag_filename + ".md",tag_content)

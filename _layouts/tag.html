@@ -6,7 +6,7 @@ layout: default
 <div class="row" id="title">
 	<div class="small-12 columns">
     <div class="page-header">
-      <div class="sup-head">Tagged as</div>
+      <div class="sup-head"><a href="/tags" title="Tags"></a>Tags</div>
       <div class="title">{{page.title}}</div>
     </div>
 		{% comment %}
@@ -61,7 +61,7 @@ layout: default
 
         {% if page.notes %}
           <div class="meal-notes-feed">
-            {% if page.notes.feature %}
+            {% if page.notes.feature and page.notes.feature != empty %}
 
               <h4>Featured Notes</h4>
               {% for note in page.notes.feature %}
@@ -109,12 +109,16 @@ layout: default
         This works because the page.title we have in the Tag page slug is generated from the Page's Markdown file.
         We need to downcase it though.
         {% endcomment %}
-        {% assign tag_key = page.title | downcase %}
-        {% assign docs = site.pages | where_exp:"item", "item.tags contains tag_key" %}
+
+        {% assign tag_key = page.tag_key %}
+        {% assign tags_pages_titles = site.data.tags[tag_key].pages %}
+
         <div>
           <h4>Pages</h4><br>
-          {% for doc in docs %}
-          {% if doc.i_am == "page" %}
+          {% for tags_page_title in tags_pages_titles %}
+            {% assign docs = site.pages | where_exp:"item", "item.title == tags_page_title" %}
+            {% assign doc = docs[0] %}
+            {% comment %}{% for doc in docs %}<h1>{{doc.title}}</h1>{% endfor %}{% endcomment %}
             {% if forloop.last %}
               {% assign lastclass = " last" %}
             {% endif %}
@@ -122,11 +126,11 @@ layout: default
               <h5><a class="title" href="{{doc.url}}" title="{{doc.title}}">
               {{doc.title}}
               </a></h5>
-              {{ doc.excerpt | strip_html }}
+              {% comment %}{{ doc.excerpt | strip_html }}{% endcomment %}
             </div><br>
-          {% endif %}
           {% endfor %}
         </div>
+ 
         {% endif %}
       </div>
 
