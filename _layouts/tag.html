@@ -50,7 +50,7 @@ layout: default
           <h4>Related Tags</h4>
           <ul class="related-tags">
             {% for rel_tags in page.rel_tags_count %}
-              <li><a href="/tag/{{ rel_tags[0] }}">{{ rel_tags[1][1] }}</a> <em>{{ rel_tags[1][0] }}</em></li>
+              <li><a href="/tags/{{ rel_tags[0] }}">{{ rel_tags[1][1] }}</a> <em>{{ rel_tags[1][0] }}</em></li>
             {% endfor %}
           </ul>
         </div>
