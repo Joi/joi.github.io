@@ -19,7 +19,7 @@
       {% assign comma = ", " %}
     {% endif %}
 
-    <a href="/tag/{{ tag_dc | slugify }}" title="Tagged as {{ tag_dc }}">{{ tag_dc }}</a>{{comma}}
+    <a href="/tags/{{ tag_dc | slugify }}" title="Tagged as {{ tag_dc }}">{{ tag_dc }}</a>{{comma}}
   {% endfor %}
 </span>
 
