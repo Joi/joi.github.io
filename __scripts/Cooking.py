@@ -19,10 +19,21 @@
 # A quick fix was to switch to "Markdown-It" https://github.com/executablebooks/markdown-it-py
 
 
-print("\n\n\n---------------------------------------\nEXECUTING PaprikaDB EXPORT\n---------------------------------------\n")
 
-# IMPORTS -------------------------------------
-# speedracergogogo
+# ##############################################################################
+# S E T U P
+# ##############################################################################
+
+hr_char = '-'
+hr_length = 40
+print('\n\n' + hr_char * hr_length)
+print( "EXECUTING COOKING.PY")
+print(" - Paprika DB and Markdown Processing") # ++++++++++++++++++++++++++++++
+print (hr_char * hr_length + '\n')
+
+
+# IMPORTS ---------------------------------------------------------------------
+
 import time
 start_time = time.time()
 
@@ -51,7 +62,7 @@ from titlecase import titlecase
 import config # This imports our local config file, "config.py". Access vars like so: config.var
 
 
-# INITIALIZE CLASSES ------------------------------
+# INITIALIZE CLASSES ----------------------------------------------------------
 # Markdown-It
 mdit = (
     MarkdownIt()
@@ -61,7 +72,8 @@ mdit = (
     .enable('table')
 )
 
-# VARS -----------------------------------------
+
+# VARS ------------------------------------------------------------------------
 
 # Debug?
 debug = False
@@ -135,38 +147,18 @@ tag_special_cases_list = []
 for tel,teu in tag_special_cases.items():
   tag_special_cases_list.append(teu)
 
-print ("✅ IMPORTs completed and VARs initiated\n")
-
-# - FUNCTIONS ----------------------------------
-
-# Utility Functions ----------------------------
-
-# Clobber a string into a filename -------------
-def make_filename(string):
-    string = unidecode.unidecode(string)
-    string = string.replace(" &","") # Need to strip out amperstands. See content.html liquid too.
-    string = string.replace(" ","-")
-    invalid = r'.<>:"/\|?* ,()“”‘’\''
-    for char in invalid:
-        string = string.replace(char, '')
-    string = sanitize_filename(string).lower().rstrip('-').replace('---','-')
-    string = string.lower()
-    return string
-
-# Delete and Create Output Directories
-def pheonix_output_directories(path):
-  if os.path.exists(path):                  # If path exists,
-    shutil.rmtree(path, ignore_errors=True) # burn it down.
-  os.mkdir(path)                            # Then raise it anew
-
-# Turn a multiline text block into a Markdown List
-def make_markdown_list(text):
-    return "* " + text.replace("\n", "\n* ") 
+print ("✅ IMPORTs completed and VARs initiated\n") # ++++++++++++++++++++++++++
 
 
-# Database Functions ---------------------------
+# ##############################################################################
+# F U N C T I O N S 
+# ##############################################################################
 
-# Connect to Database
+
+# DATABASE FUNCTIONS ===========================================================
+
+
+# Connect to Database ----------------------------------------------------------
 def db_connect(db_file):
     try:
         conn = sqlite3.connect(db_file)
@@ -178,10 +170,13 @@ def db_connect(db_file):
         print(e)
     return conn
 
-def db_query_magic(db_cursor):
+
+# Return the Cursor Results Object as a Python Dictionary ---------------------
+# We do this because we are more comfortable adding to and processing Dicts & Lists
+#   than Objects…
+def db_query_obj_to_dict(db_cursor):
   # For the next bit with columns and results and dict and zip, see:
   # https://stackoverflow.com/questions/16519385/output-pyodbc-cursor-results-as-python-dictionary/16523148#16523148
-  #
   # This grabs the key (cur.description) for us
   columns = [column[0] for column in db_cursor.description]
   rows = db_cursor.fetchall()
@@ -191,7 +186,56 @@ def db_query_magic(db_cursor):
   return results
 
 
-# Parse Paprika Markdown-ish into Markdown
+
+
+# FILESYSTEM FUNCTIONS ========================================================
+
+
+# Simple File Writer ----------------------------------------------------------
+# Nïve wrapper around opening, writing to and closing a file.
+def write_file(path,content):
+    f = open(path, 'w')
+    f.write(str(content))
+    f.close()
+
+
+# Simple JSON Dump to File ----------------------------------------------------
+def write_json_file(data,path):
+  write_file(path,json.dumps(data, ensure_ascii=False, sort_keys=True, indent=1))
+
+
+
+
+# UTLILITY FUNCTIONS ==========================================================
+
+
+# Clobber a string into a filename --------------------------------------------
+def make_filename(string):
+    string = unidecode.unidecode(string)
+    string = string.replace(" &","") # Need to strip out amperstands. See content.html liquid too.
+    string = string.replace(" ","-")
+    invalid = r'.<>:"/\|?* ,()“”‘’\''
+    for char in invalid:
+        string = string.replace(char, '')
+    string = sanitize_filename(string).lower().rstrip('-').replace('---','-')
+    string = string.lower()
+    return string
+
+
+# Delete and Create Output Directories ----------------------------------------
+def phoenix_output_directories(path):
+  if os.path.exists(path):                  # If path exists,
+    shutil.rmtree(path, ignore_errors=True) # burn it down.
+  os.mkdir(path)                            # Then raise it anew
+
+
+# Turn a multiline text block into a Markdown List ----------------------------
+def make_markdown_list(text):
+    return "* " + text.replace("\n", "\n* ") 
+
+
+
+# Parse Paprika Markdown-ish into Markdown ------------------------------------
     # if 0 == recipe -> pass 1 to make_filename()
     # if 0 == photo -> take 1 as key into {photos_dict} and get filename
 def paprika_markdownish(content,photos_dict):
@@ -204,16 +248,9 @@ def paprika_markdownish(content,photos_dict):
     else:
         raise ValueError("content null")
 
-# Simple naïve wrapper around opening, writing to and closing a file.
-def write_file(path,content):
-    f = open(path, 'w')
-    f.write(str(content))
-    f.close()
-
-def write_json_file(data,path):
-  write_file(path,json.dumps(data, ensure_ascii=False, sort_keys=True, indent=1))
 
 
+# Parse a string of tags into a List ------------------------------------------
 def parse_tag_string(tag_str):
   # In cases where Tags have been entered on a signle line 
   #   with a single white space &/or comman between them:
@@ -231,6 +268,9 @@ def parse_tag_string(tag_str):
     tag_str = [tag_str]
   return tag_str
 
+
+
+# Special Case Tags -----------------------------------------------------------
 # Check if tag is an exception
 # If so, return that
 # If not, return untouched
@@ -245,6 +285,9 @@ def display_tag(tag,mode = None):
       tag = tag# + " untouched"
   return tag
 
+
+
+# Create Alphabetized Grouped List --------------------------------------------
 # Given a List
 # Return an alphabetically grouped and sorted List of lists
 def make_alpha_grouped_list(the_list, pops=None):
@@ -259,55 +302,80 @@ def make_alpha_grouped_list(the_list, pops=None):
   sorted(list_alpha_grouped)
   return list_alpha_grouped
 
-
-print ("✅ FUNCTIONS defined\n")
-
-
-# OUTPUT DESTINATION DIRECTORIES ---------------------
-
-# If these Output Paths don't exist, create them
-if not os.path.exists(path_db_bu_sub):
-    os.mkdir(path_db_bu_sub)
-
-# These ones we want to recreate every time ----------
-# Recipe Markdown Stubs Directory
-pheonix_output_directories(path_recp_mkdn_files)
-# Tag Markdown Stubs Directory
-pheonix_output_directories(path_tags_mkdn_files)
-# Recipe Renamed Photos Directory
-pheonix_output_directories(path_recp_phot_files)
-
-print ("✅ DIRECTORIES created\n")
-
-
-# DATABASE BACKUPS -----------------------------------
-
-# Make a zipped backup of the DB
-zipfile.ZipFile(path_db_bu, mode='w').write(path_db_full, arcname=file_db_bu, compress_type=zipfile.ZIP_DEFLATED, compresslevel=9)
-
-
-# Make a temp copy of the DB to work with. We delete it later.
-#
-# First, check if the temp folder already exists and if so delete it
-if os.path.exists(path_temp_working):
-    shutil.rmtree(path_temp_working, ignore_errors=True) #nuke the temp working dir.
-# create a var here just to capture the useless out put of the copyfile() function
-shutil.copytree(path_db_med, path_temp_working) # and copy it over
-
-print ("✅ DATABASE Backed up\n")
+print ("✅ FUNCTIONS defined\n") # ++++++++++++++++++++++++++++++++++++++++++++
 
 
 
-# DATABASE OPERATIONS ------------------------------
 
-# First Database Operation: WAL Checkpoint
+# #############################################################################
+# OUTPUT DESTINATION DIRECTORIES
+# #############################################################################
+
+
+# Create only if non-existent -------------------------------------------------
+create_once = [path_db_bu_sub]
+for path_create_once in create_once:
+  if not os.path.exists(path_create_once):
+      os.mkdir(path_create_once)
+
+# Destroy and Recreate (Phoenix) Directories ----------------------------------
+# (We want to recreate these every time)
+phoenix_paths = [
+  path_recp_mkdn_files,# Recipe Markdown Stubs Directory
+  path_tags_mkdn_files,# Tag Markdown Stubs Directory
+  path_recp_phot_files # Recipe Renamed Photos Directory
+]
+for phoenix_path in phoenix_paths:
+  phoenix_output_directories(phoenix_path)
+
+
+print ("✅ DIRECTORIES created\n") # ++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+# #############################################################################
+# DATABASE BACKUPS 
+# #############################################################################
+
+
+# Make a zipped backup of the DB ----------------------------------------------
+zipfile.ZipFile(
+  path_db_bu, 
+  mode='w'
+  ).write(
+    path_db_full,
+    arcname=file_db_bu,
+    compress_type=zipfile.ZIP_DEFLATED, 
+    compresslevel=9
+    )
+
+
+# Create a Working Copy of DB -------------------------------------------------
+# We delete it later.
+if os.path.exists(path_temp_working):  # If the temp folder already exists…
+    shutil.rmtree(path_temp_working, ignore_errors=True)  # … delete it…
+shutil.copytree(path_db_med, path_temp_working) # and copy the DB source dir over.
+
+print ("✅ DATABASE Backed up\n") # +++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+# #############################################################################
+# RECIPES DATABASE OPERATIONS
+# #############################################################################
+
+
+# WAL Checkpoint --------------------------------------------------------------
 # This writes the log and flushes the cache
 conn = db_connect(path_db_working)
 cur = conn.cursor()
 cur.execute("PRAGMA wal_checkpoint;")
 conn.close()
 
-# Second Database Operation: Get our recipe Data
+
+# Get Recipe Data -------------------------------------------------------------
 conn = db_connect(path_db_working)
 with conn:
     cur = conn.cursor()
@@ -392,22 +460,30 @@ with conn:
     )
 #  AND ( R.ZRATING = 5 OR C.ZNAME LIKE '%mine%')
 
-results = db_query_magic(cur)
+results = db_query_obj_to_dict(cur)
 
-print ("✅ DATABASE Queried For Recipes\n")
+print ("✅ DATABASE Queried For Recipes\n") # ++++++++++++++++++++++++++++++++++
 
-# CLOSE DB ------------------------------------------------------------------------
+
+# Close Database --------------------------------------------------------------
 conn.close()
-print ("✅ DATABASE Closed\n")
+
+print ("✅ DATABASE Closed\n") # +++++++++++++++++++++++++++++++++++++++++++++++
 
 
-# --------------------------------------------------------------------------------------
-# Create dicts to hold 
-cats    = defaultdict(dict) # the cats -> recipes dictionary
-tags    = defaultdict(dict) # the tags -> docs dictionary
+
+# #############################################################################
+# RECIPES LOOP
+# #############################################################################
 
 
-# --------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
+# Create some Default Dictionaries to hold …
+cats    = defaultdict(dict) # … the cats -> recipes dictionary
+tags    = defaultdict(dict) # … the tags -> docs dictionary
+
+
+# -----------------------------------------------------------------------------
 # Loop through Results
 for result in results:
     result['photos_dict'] = {}
@@ -610,7 +686,7 @@ for result in results:
           if cl not in tags.keys():
             #tags[cl] = {'recipes':[],'notes':{'feature':[],'rough':[]},'pages':[]}
             tags[cl] = {'recipes':[],'rel_tags':[]}
-          append_to_recipes = {'title':result['name'],'permalink':result['permalink'],'photo_thumb':result['photo_thumb'], 'mine':result['mine'], 'rating':result['rating']}
+          append_to_recipes = {'title':result['name'],'permalink':result['permalink'],'photo_thumb':result['photo_thumb'], 'mine':result['mine'], 'rating':result['rating'], 'p_recipe_id':result['p_recipe_id']}
           tags[cl]['recipes'].append(append_to_recipes)
           # hawt lambda sorting magik https://www.geeksforgeeks.org/ways-sort-list-dictionaries-values-python-using-lambda-function/
           #tags[cl]['recipes'] = sorted(tags[cl]['recipes'], key = lambda i: i['title'])
@@ -656,7 +732,7 @@ for result in results:
     result2 = result
     content = {}
     content["html"] = result2['html']
-    del result2['html'], result2['directions'], result2['notes'], result2['nutritional_info']
+    del(result2['html'], result2['directions'], result2['notes'], result2['nutritional_info'])
     # We keep "result2['ingredients']" because content.html needs it for link previews.
 
     output2  = "---\n"
@@ -692,17 +768,24 @@ for result in results:
     mdFilePath = path_recp_mkdn_files + recipe_filename + ".md"
     write_file(mdFilePath,output2)
 
-    del result,result2,output2,content
-
-print ("✅ RECIPE RESULTS Looped and Acted upon\n")
-# END RECIPES ---------------------------------------------------------------------
+    del(result,result2,output2,content)
 
 
+print ("✅ RECIPE RESULTS Looped and Acted upon\n") # ++++++++++++++++++++++++++
+
+# END RECIPES  -----------------------------------------------------------------
 
 
-# START MEALS ---------------------------------------------------------------------
 
-# Second Database Operation: Get our recipe Data
+
+
+
+# #############################################################################
+# MEALS DATABASE OPERATIONS
+# #############################################################################
+
+
+# Get our Meals Data ----------------------------------------------------------
 conn = db_connect(path_db_working)
 with conn:
     cur2 = conn.cursor()
@@ -732,29 +815,37 @@ with conn:
       """
     )
 
-data_meals = db_query_magic(cur2)
+data_meals = db_query_obj_to_dict(cur2)
 
-print ("✅ DATABASE Queried For Meals\n")
+print ("✅ DATABASE Queried For Meals\n") # ++++++++++++++++++++++++++++++++++++
 
-# CLOSE DB ------------------------------------------------------------------------
+
+# Close Database ---------------------------------------------------------------
 conn.close()
-print ("✅ DATABASE Closed\n")
+
+print ("✅ DATABASE Closed\n") # +++++++++++++++++++++++++++++++++++++++++++++++
 
 
-# Initialise MEALS Indices dict
-meals_indices = defaultdict(dict)
-# RECIPE by DATE and MEAL
-meals_indices['recipe_by_date_and_meal'] = defaultdict(dict)
-# MEAL by RECIPE and DATE
-meals_indices['meal_by_recipe_and_date'] = defaultdict(dict)
-# MEAL GROUPED NOTES & DATA by RECIPE and DATE
-meals_indices['meal_data_by_recipe_and_status'] = defaultdict(dict)
-# MEAL by DATE and RECIPE
-meals_indices['meal_by_date_and_recipe'] = defaultdict(dict)
 
-write_json_file(data_meals,path_json_data + "debug.json")
 
-# Loop the data into the new struct
+
+# #############################################################################
+# MEALS LOOP
+# #############################################################################
+
+
+# -----------------------------------------------------------------------------
+# Create some Default Dictionaries to hold …
+meals_indices = defaultdict(dict) # … MEALS Indices
+meals_indices['recipe_by_date_and_meal'] = defaultdict(dict) # … RECIPE by DATE and MEAL
+meals_indices['meal_by_recipe_and_date'] = defaultdict(dict) # … MEAL by RECIPE and DATE
+meals_indices['meal_data_by_recipe_and_status'] = defaultdict(dict) # … MEAL GROUPED NOTES & DATA by RECIPE and DATE
+meals_indices['meal_by_date_and_recipe'] = defaultdict(dict) # … MEAL by DATE and RECIPE
+
+
+
+# -----------------------------------------------------------------------------
+# Loop through Results
 for data_meal in data_meals:
   meal_date             = data_meal['meal_date']
   meal_recipe_id        = data_meal['recipe_id']
@@ -822,10 +913,24 @@ for data_meal in data_meals:
     meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['nofile'].append(append_nofile_regular)
 
 
-print ("✅ MEAL RESULTS Looped and Acted upon\n")
+print ("✅ MEAL RESULTS Looped and Acted upon\n") # ++++++++++++++++++++++++++++
+
+# END MEALS  ------------------------------------------------------------------
 
 
-# Peek into the Markdown files ------------------------------------------
+
+
+
+
+
+
+# #############################################################################
+# PRCOESS MARKDOWN FILES
+# #############################################################################
+
+
+
+# MEAL NOTES ------------------------------------------------------------------
 
 # Get the _Notes dir's files' tags lists & add to tags[]
 for meal_mkdn_file in sorted(os.listdir(path_meal_mkdn_files)):
@@ -880,6 +985,9 @@ for meal_mkdn_file in sorted(os.listdir(path_meal_mkdn_files)):
             #print(tag + ": " + json.dumps(tags[tag], indent=1) + "\n")
 
 
+
+# PAGES -----------------------------------------------------------------------
+
 # Get the _Pages dir's files' tags lists & add to tags[]
 for page_mkdn_file in sorted(os.listdir(path_pags_mkdn_files)):
 
@@ -924,8 +1032,16 @@ for page_mkdn_file in sorted(os.listdir(path_pags_mkdn_files)):
         pages.append(parsed_page_title)
 
 
+
+
+# #############################################################################
+# ALPHABETIZED & GROUPED INDICES
+# #############################################################################
+
+
+# TAGS ------------------------------------------------------------------------
+
 # Alphabetically Grouped and Sorted Tags with title case and filename slugs
-# Really inefficient…
 # must be a better way to do this with comprehension or lambda/map…
 tags_alpha_grouped = make_alpha_grouped_list(tags,['_'])
 #print(json.dumps(tags_alpha_grouped,indent=1))
@@ -936,13 +1052,25 @@ for letter,tagos in tags_alpha_grouped.items():
 tags_alpha_grouped = tags_alpha_grouped_2
 del tags_alpha_grouped_2
 
+
+
+# PAGES -----------------------------------------------------------------------
+
 # Alphabetically Grouped and Sorted Pages
 pages_alpha_grouped = make_alpha_grouped_list(pages)
 #print(json.dumps(pages_alpha_grouped,indent=1))
 
-# File writing and Miscellaneous cleanup ------------------------------------------
 
-# Tag Page Markodwn Stubs
+
+
+
+# #############################################################################
+# FILE WRITING 
+# #############################################################################
+
+
+
+# Tag Page Markodwn Stubs -----------------------------------------------------
 # Loop to generate:
 # 1. Consolidated Tag counts
 # 2. Tag Page Markdown Slugs
@@ -955,51 +1083,66 @@ for tag, tagd in tags.items():
   tag_filename = make_filename(tag)
   tag_lowercase = tag.lower()
   tag_title = display_tag(tag,'titlecase')
-  #try:
-  #  tag_special_case = tag_special_cases[tag_lowercase]
-  #  tag_key = tag_special_case
-    #print(tag_key + "YES edgecase")
-  #except:
-  #  tag_key = tag_lowercase
-    #print(tag_key + "NO edgecase")
   tag_key = tag_lowercase
   tag_yaml = yaml.dump(tagd)
   tag_content = "---\ntitle: " + tag_title + "\ntag_key: " + tag_key + "\n" + tag_yaml + "\n---\n"
   write_file(path_tags_mkdn_files + tag_filename + ".md",tag_content)
 
 
-# Convert the data structs to JSON and dump to individual files
+
+# Convert the data to JSON and dump to individual files -----------------------
 
 # Tag Edge Cases Data Dump
 write_json_file(tag_special_cases,path_json_data + "tag_special_cases.json")
-print ("✅ TAG EDGECASES JSON Indices Dumped\n")
+print ("✅ TAG EDGECASES JSON Indices Dumped\n") # +++++++++++++++++++++++++++++
 
 # Tag Indices Data Dump
 write_json_file(tags,path_json_data + "tags.json")
 write_json_file(tags_alpha_grouped,path_json_data + "tags_alpha_grouped.json")
-print ("✅ TAGS JSON Indices Dumped\n")
+print ("✅ TAGS JSON Indices Dumped\n") # ++++++++++++++++++++++++++++++++++++++
 
 # Category Indices
 write_json_file(cats,path_json_data + "recipe_categories.json")
-print ("✅ CATEGORY JSON Indices Dumped\n")
+print ("✅ CATEGORY JSON Indices Dumped\n") # ++++++++++++++++++++++++++++++++++
 
 # Meals Indices
 write_json_file(meals_indices,path_json_data + "meals_indices.json")
-print ("✅ MEALS JSON Indices Dumped\n")
+print ("✅ MEALS JSON Indices Dumped\n") # +++++++++++++++++++++++++++++++++++++
 
 # Pages Indices Data Dump
 write_json_file(pages_alpha_grouped,path_json_data + "pages_alpha_grouped.json")
-print ("✅ TAGS JSON Indices Dumped\n")
+print ("✅ TAGS JSON Indices Dumped\n") # ++++++++++++++++++++++++++++++++++++++
 
 
-# CLEANUP --------------------------------------------
-# Delete the temp working direcotry
+
+
+
+# #############################################################################
+# CLEANUP
+# #############################################################################
+
+
+# Delete the temp working directory -------------------------------------------
 shutil.rmtree(path_temp_working, ignore_errors=True) # "ignore errors" nukes it
-print ("\n✅ CLEANUP Complete\n")
+print ("\n✅ CLEANUP Complete\n") # ++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+# #############################################################################
+# WRAP-UP
+# #############################################################################
+
 
 exectime = round((time.time() - start_time),3)
-print("------------------------------\n⏱  %s seconds \n------------------------------\n" % exectime)
-print ("😎🤙🏼 We're done here.\n")
+print ('\n' + hr_char * hr_length)
+print("⏱  %s seconds" % exectime)
+print (hr_char * hr_length)
+print ("😎🤙🏼 We're done here.") # ++++++++++++++++++++++++++++++++++++++++++++
+print (hr_char * hr_length + '\n')
+
+
 
 """
 NOTES ----------------------------------
@@ -1009,4 +1152,19 @@ There's a missed opportunity here, to be leveraged later, to add the contents of
 Markdown files to the script's"knowledge". 
 This would require building an overall "memory", perhaps Object?
 
+"""
+"""
+SELECT 
+	Z_PK as cat_id, ZPARENT as cat_parent_id,ZNAME as cat_label,
+	(
+		SELECT 
+			GROUP_CONCAT(RC.Z_12RECIPES,"|")
+		FROM
+			Z_12CATEGORIES as RC
+		WHERE
+			RC.Z_13CATEGORIES = cat.Z_PK
+	) as `recipes`
+FROM
+	ZRECIPECATEGORY as cat
+ORDER BY cat_parent_id,cat_label ASC;
 """
