@@ -167,7 +167,7 @@ print ("✅ IMPORTs completed and VARs initiated\n") # +++++++++++++++++++++++++
 
 
 # Connect to Database ----------------------------------------------------------
-def db_connect(db_file):
+def _db_connect(db_file):
     try:
         conn = sqlite3.connect(db_file)
         # row_factory does some magic for us
@@ -182,7 +182,7 @@ def db_connect(db_file):
 # Return the Cursor Results Object as a Python Dictionary ---------------------
 # We do this because we are more comfortable adding to and processing Dicts & Lists
 #   than Objects…
-def db_query_obj_to_dict(db_cursor):
+def _db_query_obj_to_dict(db_cursor):
   # For the next bit with columns and results and dict and zip, see:
   # https://stackoverflow.com/questions/16519385/output-pyodbc-cursor-results-as-python-dictionary/16523148#16523148
   # This grabs the key (cur.description) for us
@@ -194,17 +194,25 @@ def db_query_obj_to_dict(db_cursor):
   return results
 
 
-
+# DB Functions wrapper
+def db_wrapper(db_path,sql):
+  with _db_connect(db_path) as con:
+    cur = con.cursor()
+    cur.execute(sql)
+  r = _db_query_obj_to_dict(cur)
+  con.close()
+  del(con)
+  return r
 
 # FILESYSTEM FUNCTIONS ========================================================
 
 
 # Simple File Writer ----------------------------------------------------------
-# Nïve wrapper around opening, writing to and closing a file.
+# Wrapper around opening, writing to and closing a file.
+# Using WITH takes care of exceptions and resource closing
 def write_file(path,content):
-    f = open(path, 'w')
+  with open(path, 'w') as f:
     f.write(str(content))
-    f.close()
 
 
 # Simple JSON Dump to File ----------------------------------------------------
@@ -343,7 +351,7 @@ print ("✅ DIRECTORIES created\n") # ++++++++++++++++++++++++++++++++++++++++++
 
 
 # #############################################################################
-# DATABASE BACKUPS 
+# DATABASE BACKUP and WAL CHECKPOINT
 # #############################################################################
 
 
@@ -365,7 +373,16 @@ if os.path.exists(path_temp_working):  # If the temp folder already exists…
     shutil.rmtree(path_temp_working, ignore_errors=True)  # … delete it…
 shutil.copytree(path_db_med, path_temp_working) # and copy the DB source dir over.
 
-print ("✅ DATABASE Backed up\n") # +++++++++++++++++++++++++++++++++++++++++++
+
+
+# WAL Checkpoint --------------------------------------------------------------
+# This writes the log and flushes the cache
+# We do this on the working copy of course.
+checkpoint_sql = "PRAGMA wal_checkpoint;"
+checkpoint = db_wrapper(path_db_working,checkpoint_sql)
+#print(checkpoint)
+
+print ("✅ DATABASE Backed up & Checkpointed\n") # +++++++++++++++++++++++++++++++++++++++++++
 
 
 
@@ -407,19 +424,9 @@ print ("✅ DATABASE Backed up\n") # +++++++++++++++++++++++++++++++++++++++++++
 # #############################################################################
 
 
-# WAL Checkpoint --------------------------------------------------------------
-# This writes the log and flushes the cache
-conn = db_connect(path_db_working)
-cur = conn.cursor()
-cur.execute("PRAGMA wal_checkpoint;")
-conn.close()
-
-
 # Get Recipe Data -------------------------------------------------------------
-conn = db_connect(path_db_working)
-with conn:
-    cur = conn.cursor()
-    cur.execute(f"""
+
+recipes_sql = f"""
       SELECT 
         GROUP_CONCAT(C.ZNAME,"|") as `categories`,
         R.ZCOOKTIME         as `cook_time`,
@@ -497,18 +504,13 @@ with conn:
 
       GROUP BY  R.Z_PK;
       """
-    )
-#  AND ( R.ZRATING = 5 OR C.ZNAME LIKE '%mine%')
+      #  AND ( R.ZRATING = 5 OR C.ZNAME LIKE '%mine%')
+recipes_results = db_wrapper(path_db_working,recipes_sql)
 
-results = db_query_obj_to_dict(cur)
 
 print ("✅ DATABASE Queried For Recipes\n") # ++++++++++++++++++++++++++++++++++
 
 
-# Close Database --------------------------------------------------------------
-conn.close()
-
-print ("✅ DATABASE Closed\n") # +++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
@@ -525,7 +527,7 @@ tags    = defaultdict(dict) # … the tags -> docs dictionary
 
 # -----------------------------------------------------------------------------
 # Loop through Results
-for result in results:
+for result in recipes_results:
     result['photos_dict'] = {}
     result['html'] = {}
     result['type'] = None
@@ -834,10 +836,7 @@ print ("✅ RECIPE RESULTS Looped and Acted upon\n") # +++++++++++++++++++++++++
 
 
 # Get our Meals Data ----------------------------------------------------------
-conn = db_connect(path_db_working)
-with conn:
-    cur2 = conn.cursor()
-    cur2.execute(f"""
+meals_sql = f"""
       SELECT 
         M.ZRECIPE as recipe_id,
         M.ZNAME as recipe_name,
@@ -845,33 +844,20 @@ with conn:
         DATE(M.ZDATE, 'unixepoch', '+31 year', 'localtime') as `meal_date`,
         M.ZTYPE as meal_type_code,
         MT.ZNAME as meal_type_name
-
       FROM
         ZMEAL as M
-
       LEFT JOIN ZMEALTYPE AS MT
         ON MT.Z_PK = M.ZTYPE
-
       WHERE
       M.ZRECIPE is not NULL
-
       GROUP BY
         M.Z_PK
       ORDER BY
         meal_date_ts ASC
-      ;
-      """
-    )
-
-data_meals = db_query_obj_to_dict(cur2)
+      ;"""
+meals_results = db_wrapper(path_db_working,meals_sql)
 
 print ("✅ DATABASE Queried For Meals\n") # ++++++++++++++++++++++++++++++++++++
-
-
-# Close Database ---------------------------------------------------------------
-conn.close()
-
-print ("✅ DATABASE Closed\n") # +++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
@@ -894,7 +880,7 @@ meals_indices['meal_by_date_and_recipe'] = defaultdict(dict) # … MEAL by DATE 
 
 # -----------------------------------------------------------------------------
 # Loop through Results
-for data_meal in data_meals:
+for data_meal in meals_results:
   meal_date             = data_meal['meal_date']
   meal_recipe_id        = data_meal['recipe_id']
   meal_recipe_name      = data_meal['recipe_name']
