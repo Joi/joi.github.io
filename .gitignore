@@ -7,6 +7,9 @@
 vendor
 .htaccess
 
+#
+__project_files
+
 # __scripts stuff
 __pycache__
 .ipynb_checkpoints/

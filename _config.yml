@@ -121,7 +121,7 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-  - __project_design
+  - __project_files
   - __scripts
   - .git
   - .gitignore
