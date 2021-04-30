@@ -224,6 +224,13 @@ def write_json_file(data,path):
 
 # UTLILITY FUNCTIONS ==========================================================
 
+# Strip First Character if it is "-" ------------------------------------------
+def strip_leading_hyphen(s):
+  if (s[0] == "-"):
+    return s[1:]
+  else: 
+    return(s)
+
 
 # Clobber a string into a filename --------------------------------------------
 def make_filename(string):
@@ -402,12 +409,120 @@ print ("✅ DATABASE Backed up & Checkpointed\n") # ++++++++++++++++++++++++++++
 # We do this from the start so that we have our taxonomies and toggles on hand
 
 # Query Databasse for Paprika Categories
+categories_sql = f"""
+  SELECT 
+    C.Z_PK as cat_id, 
+    C.ZPARENT as cat_parent_id,
+    C.ZNAME as cat_label,
+    GROUP_CONCAT(RC.Z_12RECIPES,"|") as `recipes`,
+    GROUP_CONCAT(substr(replace(lower(R.ZNAME)," ",""),0,5),"|") as `recipes_names`
+      
+  FROM
+    ZRECIPECATEGORY as C
+
+  LEFT JOIN Z_12CATEGORIES AS RC
+    ON RC.Z_13CATEGORIES = C.Z_PK
+  LEFT JOIN ZRECIPE as R
+    ON RC.Z_12RECIPES = R.Z_PK
+
+  WHERE
+    R.ZINTRASH IS 0 AND R.ZRATING >= 4 OR cat_parent_id IS NULL
+  GROUP BY C.Z_PK
+  ORDER BY cat_label ASC;"""
+categories_results = db_wrapper(path_db_working,categories_sql)
+#print(categories_results)
 
 # Generate array of Flags, Toggles and Dimensions
+cats_hack = {}
+'''
+cats_hack = {'dimensions':[],'flags':[],'remove':[]}
+for cat_res in categories_results:
+  if cat_res['cat_label'].startswith('-'):
+    cats_hack['dimensions'].append({cat_res['cat_label_slug']:cat_res['cat_label']})
+    cats_hack['remove'].append(cat_res['cat_label'].lower())
+  if cat_res['cat_label'].startswith('_'):
+    cats_hack['flags'].append({cat_res['cat_label_slug']:cat_res['cat_label']})
+    cats_hack['remove'].append(cat_res['cat_label'].lower())
+'''
+
+# Practicing Dictionary/List Comprehensions here. :)
+'''
+cats_hack['flags']      = [
+  {cat_res['cat_label']:cat_res} 
+  for cat_res in categories_results 
+  if cat_res['cat_label'].startswith('_')
+  ]
+cats_hack['dimensions'] = {
+  strip_leading_hyphen(cat_res['cat_label']):[cat_res]
+  for cat_res in categories_results 
+  if cat_res['cat_label'].startswith('-')
+  }
+cats_hack['dim_keys'] = [
+  cat_res['cat_id']
+  for cat_res in categories_results 
+  if cat_res['cat_label'].startswith('-')
+  ]
+'''
+cats_hack['remove'] = [
+    cat_res['cat_label'].lower()
+    for cat_res in categories_results 
+    if cat_res['cat_label'].startswith('_')
+      or cat_res['cat_label'].startswith('-')
+  ]
+'''categories_dimensions = categories_results[:]
+for cr in list(categories_dimensions):
+  if not cr['cat_label'].startswith('-') and cr['cat_parent_id'] == None:
+    print("delete this: " + cr['cat_label'])
+    categories_dimensions.remove(cr)'''
+
+categories_dimensions = [
+  cat_res
+  for cat_res in categories_results
+  if cat_res['cat_parent_id'] != None 
+    or cat_res['cat_label'].startswith('-')]
+#cats_hack['dims'] = categories_dimensions
+
 
 # Generate hiearchical struct
+children = {}
+parents = set()
+root_id = None
+for child in categories_dimensions:
+  id, mid = child['cat_id'], child['cat_parent_id']
+  children[id] = {**child, 'children': []}# create a copy of child, and add a "children" list
+  parents.add(mid)
+  if id == mid:# the root of the tree references itself as the parent
+    root_id = id
 
+# add empty parent entries for missing parent IDs, children of root ID.
+for id in parents - children.keys():
+  children[id] = {
+    'cat_id': id, 'cat_parent_id': root_id, 'children': [],
+    'recipes': None, 'cat_label': None
+  }
 
+for id, child in children.items():
+  parent = children[child.pop('cat_parent_id')]
+  if id != root_id:  # don't add the root to anything
+    try:
+      child['recipes'] = child['recipes'].split('|')
+      child['recipes_names'] = child['recipes_names'].split('|')
+      child['recipes_ids'] = dict(zip(child['recipes'],child['recipes_names']))
+      child['recipes_nam'] = dict(sorted(zip(child['recipes_names'],child['recipes'])))
+    except:
+      pass
+    try:
+      del child['recipes']
+    except:
+      pass
+    try:
+      del child['recipes_names']
+    except:
+      pass
+    
+    parent['children'].append(child)
+
+cats_hack['dimensions_tree'] = children[root_id]['children']
 
 
 
@@ -707,7 +822,6 @@ for result in recipes_results:
     # Categories
     # Split concatened categories into a list
     if result['categories']:
-      remove_cats_hacks = ['_mine','_stub']
       try:
         result['categories'] = result['categories'].lower().split('|') # Forcing Cats to lowercase
         for cl in result['categories']:
@@ -740,7 +854,7 @@ for result in recipes_results:
             cats[cl][recipe_filename] = str(result['name'])
 
           # Add the "categories", modulo the current one and the hacks, to the relative_tags list
-          remove_for_rel = remove_cats_hacks + [cl]
+          remove_for_rel = cats_hack['remove'] + [cl]
           tags[cl]['rel_tags'] += [i for i in result['categories'] if i not in remove_for_rel]
 
 
@@ -748,7 +862,7 @@ for result in recipes_results:
         print( "🛑 Something fubar in categories for " + recipe_filename + "\n")
         print(e)
         print("-------\n")
-      result['categories'] = [i for i in result['categories'] if i not in remove_cats_hacks]
+      result['categories'] = [i for i in result['categories'] if i not in cats_hack['remove']]
       result['tags'] = result['categories']
     result.pop('categories')
 
@@ -1153,6 +1267,10 @@ print ("✅ TAGS JSON Indices Dumped\n") # +++++++++++++++++++++++++++++++++++++
 
 # Category Indices
 write_json_file(cats,path_json_data + "recipe_categories.json")
+
+write_json_file(cats_hack,path_json_data + "cats_hack.json")
+write_json_file(categories_results,path_json_data + "categories_results.json")
+
 print ("✅ CATEGORY JSON Indices Dumped\n") # ++++++++++++++++++++++++++++++++++
 
 # Meals Indices
@@ -1161,7 +1279,7 @@ print ("✅ MEALS JSON Indices Dumped\n") # ++++++++++++++++++++++++++++++++++++
 
 # Pages Indices Data Dump
 write_json_file(pages_alpha_grouped,path_json_data + "pages_alpha_grouped.json")
-print ("✅ TAGS JSON Indices Dumped\n") # ++++++++++++++++++++++++++++++++++++++
+print ("✅ PAGES JSON Indices Dumped\n") # ++++++++++++++++++++++++++++++++++++++
 
 
 
