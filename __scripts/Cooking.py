@@ -132,6 +132,8 @@ paths_jekyll_mkdn_dirs = [
 # Paparika Timestamp Offset: 978307200
 ts_offset = 978307200
 
+# Recipe Display Rating Limit
+recipe_display_rating_limit_num = 4
 
 # Tag Case edge cases
 tag_special_cases = {
@@ -414,19 +416,17 @@ categories_sql = f"""
     C.Z_PK as cat_id, 
     C.ZPARENT as cat_parent_id,
     C.ZNAME as cat_label,
-    GROUP_CONCAT(RC.Z_12RECIPES,"|") as `recipes`,
+    GROUP_CONCAT(R.Z_PK,"|") as `recipes`,
     GROUP_CONCAT(substr(replace(lower(R.ZNAME)," ",""),0,5),"|") as `recipes_names`
-      
   FROM
     ZRECIPECATEGORY as C
 
   LEFT JOIN Z_12CATEGORIES AS RC
     ON RC.Z_13CATEGORIES = C.Z_PK
   LEFT JOIN ZRECIPE as R
-    ON RC.Z_12RECIPES = R.Z_PK
-
-  WHERE
-    R.ZINTRASH IS 0 AND R.ZRATING >= 4 OR cat_parent_id IS NULL
+    ON RC.Z_12RECIPES = R.Z_PK AND R.ZINTRASH IS 0 AND 
+      R.ZRATING >= """ + str(recipe_display_rating_limit_num) + """
+  
   GROUP BY C.Z_PK
   ORDER BY cat_label ASC;"""
 categories_results = db_wrapper(path_db_working,categories_sql)
@@ -434,18 +434,9 @@ categories_results = db_wrapper(path_db_working,categories_sql)
 
 # Generate array of Flags, Toggles and Dimensions
 cats_hack = {}
-'''
-cats_hack = {'dimensions':[],'flags':[],'remove':[]}
-for cat_res in categories_results:
-  if cat_res['cat_label'].startswith('-'):
-    cats_hack['dimensions'].append({cat_res['cat_label_slug']:cat_res['cat_label']})
-    cats_hack['remove'].append(cat_res['cat_label'].lower())
-  if cat_res['cat_label'].startswith('_'):
-    cats_hack['flags'].append({cat_res['cat_label_slug']:cat_res['cat_label']})
-    cats_hack['remove'].append(cat_res['cat_label'].lower())
-'''
 
 # Practicing Dictionary/List Comprehensions here. :)
+# We don't currently need any of these
 '''
 cats_hack['flags']      = [
   {cat_res['cat_label']:cat_res} 
@@ -469,21 +460,49 @@ cats_hack['remove'] = [
     if cat_res['cat_label'].startswith('_')
       or cat_res['cat_label'].startswith('-')
   ]
-'''categories_dimensions = categories_results[:]
-for cr in list(categories_dimensions):
-  if not cr['cat_label'].startswith('-') and cr['cat_parent_id'] == None:
-    print("delete this: " + cr['cat_label'])
-    categories_dimensions.remove(cr)'''
 
+# Flat list of Dimensions, Categories and Recipes -----------------------------
 categories_dimensions = [
   cat_res
   for cat_res in categories_results
-  if cat_res['cat_parent_id'] != None 
-    or cat_res['cat_label'].startswith('-')]
-#cats_hack['dims'] = categories_dimensions
+  if 
+    cat_res['cat_parent_id'] != None or cat_res['cat_label'].startswith('-')
+  ]
+
+# Remove "empty" and childless Categories -------------------------------------
+# There are Categories with Children but without Recipes of their own.
+# We want to keep those.
+# There are Categories without Children and without Recipes.
+# Testing if they have children is a PITA because cat_parent_id
+cats_remove_list = []
+for e, category in enumerate(categories_dimensions):
+  # If this Category has no Recipes, it is suspect.
+  if not category['recipes']:
+    # Test if some other Catgeory has this one as a Parent
+    # We do that by creating a list of this Category's children
+    cat_has_child = list(item for item in categories_dimensions if item['cat_parent_id'] == category['cat_id'])
+ 
+    # Test if this category has in fact children.
+    if cat_has_child: # A populated list [x,y,z] is truthy so it passes.
+      pass
+    else: # An empty list [] is falsy so fails the if
+      cats_remove_list.append(categories_dimensions[e]['cat_id'])
+
+# Now we have a list of category IDs to remove frm the list of dicts.
+# To remove them we need to turn the list of dicts into a dict of dicts, because Python
+categories_dimensions_dict = {entry['cat_id']:entry for entry in categories_dimensions}
+# And now we can easily pop off dict items that bear the ID we want removed
+for cat_id_to_remove in cats_remove_list:
+  categories_dimensions_dict.pop(cat_id_to_remove)
+# Now we need to turn that dict back into a list
+# (because it's what the following code expects)
+# and replace the original
+categories_dimensions = list(categories_dimensions_dict.values())
+# and just clean up
+del(categories_dimensions_dict)
 
 
-# Generate hiearchical struct
+# Generate Hiearchical Dict of Dimensions, Categories and Recipes -------------------
 children = {}
 parents = set()
 root_id = None
@@ -522,6 +541,7 @@ for id, child in children.items():
     
     parent['children'].append(child)
 
+# Add to cats_hack ------------------------------------------------------------
 cats_hack['dimensions_tree'] = children[root_id]['children']
 
 
@@ -619,7 +639,7 @@ recipes_sql = f"""
 
       GROUP BY  R.Z_PK;
       """
-      #  AND ( R.ZRATING = 5 OR C.ZNAME LIKE '%mine%')
+      #  AND ( R.ZRATING >= 4 OR C.ZNAME LIKE '%mine%')
 recipes_results = db_wrapper(path_db_working,recipes_sql)
 
 
@@ -951,24 +971,24 @@ print ("✅ RECIPE RESULTS Looped and Acted upon\n") # +++++++++++++++++++++++++
 
 # Get our Meals Data ----------------------------------------------------------
 meals_sql = f"""
-      SELECT 
-        M.ZRECIPE as recipe_id,
-        M.ZNAME as recipe_name,
-        M.ZDATE + {ts_offset} as `meal_date_ts`,
-        DATE(M.ZDATE, 'unixepoch', '+31 year', 'localtime') as `meal_date`,
-        M.ZTYPE as meal_type_code,
-        MT.ZNAME as meal_type_name
-      FROM
-        ZMEAL as M
-      LEFT JOIN ZMEALTYPE AS MT
-        ON MT.Z_PK = M.ZTYPE
-      WHERE
-      M.ZRECIPE is not NULL
-      GROUP BY
-        M.Z_PK
-      ORDER BY
-        meal_date_ts ASC
-      ;"""
+  SELECT 
+    M.ZRECIPE as recipe_id,
+    M.ZNAME as recipe_name,
+    M.ZDATE + {ts_offset} as `meal_date_ts`,
+    DATE(M.ZDATE, 'unixepoch', '+31 year', 'localtime') as `meal_date`,
+    M.ZTYPE as meal_type_code,
+    MT.ZNAME as meal_type_name
+  FROM
+    ZMEAL as M
+  LEFT JOIN ZMEALTYPE AS MT
+    ON MT.Z_PK = M.ZTYPE
+  WHERE
+  M.ZRECIPE is not NULL
+  GROUP BY
+    M.Z_PK
+  ORDER BY
+    meal_date_ts ASC
+  ;"""
 meals_results = db_wrapper(path_db_working,meals_sql)
 
 print ("✅ DATABASE Queried For Meals\n") # ++++++++++++++++++++++++++++++++++++
@@ -1270,6 +1290,7 @@ write_json_file(cats,path_json_data + "recipe_categories.json")
 
 write_json_file(cats_hack,path_json_data + "cats_hack.json")
 write_json_file(categories_results,path_json_data + "categories_results.json")
+write_json_file(categories_dimensions,path_json_data + "categories_dimensions.json")
 
 print ("✅ CATEGORY JSON Indices Dumped\n") # ++++++++++++++++++++++++++++++++++
 

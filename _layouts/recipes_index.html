@@ -1,20 +1,28 @@
 ---
 layout: default
 ---
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Parisienne&display=swap" rel="stylesheet"> 
 <style>
 .recipes-directory h3 {
   margin-bottom: 1em;
+  border-bottom: 1px solid #333;
 }
-.recipes-directory h3 em {
+h1 em,
+h3 em {
   font-size: 90%;
   font-family: serif;
-  padding-right: 4pt;
+}
+h1 em:after,
+h3 em:after {
+  content: " ";
+  letter-spacing: 2pt;
 }
 .directory-list {
   columns: 3 250px;
   column-gap: 4em;
   column-rule: 1px dotted #ddd;
-  border-bottom: 1px solid #ccc;
+  /* border-bottom: 1px solid #ccc; */
   margin-bottom:3em;
   padding-bottom: 3em;
 }
@@ -22,27 +30,34 @@ layout: default
   margin-bottom: 2em;
   break-inside: avoid;
 }
-ul {
+.recipes-list ul {
   margin-left: 0;
   list-style-type:none;
 }
-ul li {
+.recipes-list ul li {
   font-size: 90%;
   margin-bottom: .5em;
   text-indent: -1em;
   margin-left: 1em;
   line-height: 120%;
   }
-.alpha {
-  float: left;
-  width: 40px;
-  font-weight:bold;
+.jois {
+  color:#fff;
+  background:#09c;
+  font-weight:600;
+  font-size:.5rem;
+  padding:0 3px;
+  position:relative;
+  top:-2px;
 }
-.alpha-page-group {
-  margin-left: 40px;
-}
-.page {
-  margin-bottom: .25em;
+.not-jois {
+  color:#FFDEC9;
+  background:#FFDEC9;
+  font-weight:600;
+  font-size:.5rem;
+  padding:0 3px;
+  position:relative;
+  top:-2px;
 }
 #by-ingredients {
 /*  padding-left:2em;
@@ -53,18 +68,19 @@ ul li {
 }
 </style>
 
+{% assign rating_limit = 4 %}
+
 <!-- template: pages_index.html -->
 <div class="row" id="title">
 	<div class="small-12 columns">
     <div class="page-header">
-      <h1>Recipes</h1>
+      <h1>Index <em>of</em> Recipes</h1>
     </div>
 		<div class="content">
       {%- include content.html -%}
     </div>
   </div>
 </div>
-
 
 <div class="row" id="">
 	<div class="medium-6 columns">
@@ -82,12 +98,12 @@ ul li {
                 <ul>
                 {% for recipe in cat.recipes_nam %}
                   {% assign recipe_data = site.recipes | where:"p_recipe_id", recipe[1]%}
-                  {% if recipe_data[0].mine or recipe_data[0].rating >= 4 %}
+                  {% if recipe_data[0].mine or recipe_data[0].rating >= rating_limit %}
                   <li>
                     {% if recipe_data[0].mine == 1 %}
-                      <span style="color:#fff;background:#09c;font-weight:600;font-size:.5rem;padding:0 3px;position:relative;top:-2px;">J</span>
+                      <span class="jois">J</span>
                     {% else %}
-                      <span style="color:#FFC299;background:#FFC299;font-weight:600;font-size:.5rem;padding:0 3px;position:relative;top:-2px;">J</span>
+                      <span class="not-jois">J</span>
                     {% endif %}
                     <a href="{{recipe_data[0].permalink}}" title="{{recipe}}">{{recipe_data[0].title}}</a>
                   </li>
@@ -117,12 +133,12 @@ ul li {
               <ul>
               {% for recipe in cat.recipes_nam %}
                 {% assign recipe_data = site.recipes | where:"p_recipe_id", recipe[1]%}
-                {% if recipe_data[0].mine or recipe_data[0].rating ==5 %}
+                {% if recipe_data[0].mine or recipe_data[0].rating >= rating_limit %}
                 <li>
                   {% if recipe_data[0].mine == 1 %}
-                    <span style="color:#fff;background:#09c;font-weight:600;font-size:.5rem;padding:0 3px;position:relative;top:-2px;">J</span>
+                    <span class="jois">J</span>
                   {% else %}
-                    <span style="color:#FFC299;background:#FFC299;font-weight:600;font-size:.5rem;padding:0 3px;position:relative;top:-2px;">J</span>
+                    <span class="not-jois">J</span>
                   {% endif %}
                   <a href="{{recipe_data[0].permalink}}" title="{{recipe}}">{{recipe_data[0].title}}</a>
                 </li>
@@ -137,12 +153,12 @@ ul li {
                   <ul>
                     {% for step_recipe in step_children.recipes_nam %}
                       {% assign step_recipe_data = site.recipes | where:"p_recipe_id", step_recipe[1]%}
-                      {% if step_recipe_data[0].mine or step_recipe_data[0].rating == 5 %}
+                      {% if step_recipe_data[0].mine or step_recipe_data[0].rating >= rating_limit %}
                       <li>
                         {% if step_recipe_data[0].mine == 1 %}
-                          <span style="color:#fff;background:#09c;font-weight:600;font-size:.5rem;padding:0 3px;position:relative;top:-2px;">J</span>
+                          <span class="jois">J</span>
                         {% else %}
-                          <span style="color:#FFC299;background:#FFC299;font-weight:600;font-size:.5rem;padding:0 3px;position:relative;top:-2px;">J</span>
+                          <span class="not-jois">J</span>
                         {% endif %}
                         <a href="{{step_recipe_data[0].permalink}}" title="{{recipe}}">{{step_recipe_data[0].title}}</a>
                       </li>
@@ -157,13 +173,13 @@ ul li {
                         <ul>
                           {% for step_step_recipe in step_step_children.recipes_nam %}
                             {% assign step_step_recipe_data = site.recipes | where:"p_recipe_id", step_step_recipe[1]%}
-                            {% if step_step_recipe_data[0].mine or step_step_recipe_data[0].rating == 5 %}
+                            {% if step_step_recipe_data[0].mine or step_step_recipe_data[0].rating >= rating_limit %}
                             <li>
 
                               {% if step_step_recipe_data[0].mine == 1 %}
-                                <span style="color:#fff;background:#09c;font-weight:600;font-size:.5rem;padding:0 3px;position:relative;top:-2px;">J</span>
+                                <span class="jois">J</span>
                               {% else %}
-                                <span style="color:#FFC299;background:#FFC299;font-weight:600;font-size:.5rem;padding:0 3px;position:relative;top:-2px;">J</span>
+                                <span class="not-jois">J</span>
                               {% endif %}
                               <a href="{{step_step_recipe_data[0].permalink}}" title="{{recipe}}">{{step_step_recipe_data[0].title}}</a>
                             {% endif %}
