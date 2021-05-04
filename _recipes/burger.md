@@ -1,9 +1,6 @@
 ---
 title: "Burger"
 filename: "burger"
-categories: &id001
-- short ribs
-- ground beef
 cook_time: ''
 created: '2021-04-10 19:21:49'
 created_ts: 1618082509
@@ -32,7 +29,9 @@ servings: ''
 slug: burger
 source: null
 source_url: null
-tags: *id001
+tags:
+- short ribs
+- ground beef
 total_time: ''
 type: null
 uid: 269BFC46-98A2-4B80-B595-F728CCC2D8E0-88379-000549D16BA59A30

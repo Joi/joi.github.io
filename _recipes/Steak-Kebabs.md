@@ -1,7 +1,6 @@
 ---
 title: "Steak Kebabs"
 filename: "steak-kebabs"
-categories: null
 cook_time: 10 minutes
 created: '2020-07-22 17:36:47'
 created_ts: 1595439407
@@ -62,6 +61,12 @@ servings: 'Servings: 5'
 slug: steak-kebabs
 source: cookingclassy.com
 source_url: https://www.cookingclassy.com/steak-kebabs/
+tags:
+- grill
+- beef
+- meat
+- steaks
+- sirloin
 total_time: null
 type: null
 uid: 5DBE772B-969E-4E3B-A941-D1A67C2DD712-37140-0000172C5FF86FD8

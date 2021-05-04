@@ -1,8 +1,6 @@
 ---
 title: "Pork Roast with Mushroom Gravy"
 filename: "pork-roast-with-mushroom-gravy"
-categories: &id001
-- pork shoulder
 cook_time: 7 hours
 created: '2020-07-24 13:55:10'
 created_ts: 1595598910
@@ -32,7 +30,8 @@ servings: Serves 6 to 8
 slug: pork-roast-with-mushroom-gravy
 source: cookscountry.com
 source_url: https://www.cookscountry.com/recipes/5819-pork-roast-with-mushroom-gravy?extcode=MCSKD10L0&ref=new_search_experience_14
-tags: *id001
+tags:
+- pork shoulder
 total_time: ''
 type: null
 uid: 855A167C-4D37-4CE6-9E38-7A9576B432F6-2209-0000E84723164F1E

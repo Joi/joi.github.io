@@ -1,8 +1,6 @@
 ---
 title: "Coq Au Vin"
 filename: "coq-au-vin"
-categories: &id001
-- chicken
 cook_time: null
 created: '2020-04-02 17:18:10'
 created_ts: 1585847890
@@ -39,7 +37,8 @@ servings: Serves 4
 slug: coq-au-vin
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/564-coq-au-vin?incode=MCSCM00L0&ref=new_search_experience_17
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: 78B55C34-0876-4E1D-81B2-F04FF1D99E99-9482-0000064E9E95FCEA

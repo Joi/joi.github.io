@@ -1,10 +1,6 @@
 ---
 title: "How to Cook the Perfect, Tender, Grass Fed Steak"
 filename: "how-to-cook-the-perfect-tender-grass-fed-steak"
-categories: &id001
-- beef
-- bison
-- steaks
 cook_time: null
 created: '2020-04-04 17:04:32'
 created_ts: 1586019872
@@ -41,7 +37,10 @@ servings: null
 slug: how-to-cook-the-perfect-tender-grass-fed-steak
 source: chelseagreen.com
 source_url: https://www.chelseagreen.com/2018/how-to-cook-the-perfect-tender-grassfed-steak/
-tags: *id001
+tags:
+- beef
+- bison
+- steaks
 total_time: null
 type: null
 uid: 84A294DD-8DCE-4C44-9FAD-DDFE22A5A76B-14543-00000A0A40C84C6A

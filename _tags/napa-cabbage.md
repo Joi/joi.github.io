@@ -1,8 +1,9 @@
 ---
 title: Napa Cabbage
-tag_key: napa-cabbage
+tag_key: napa cabbage
 recipes:
 - mine: null
+  p_recipe_id: 278
   permalink: /recipes/lions-head-meatballs-with-chinese-cabbage
   photo_thumb: lions-head-meatballs-with-chinese-cabbage-thumb.jpg
   rating: 0

@@ -1,9 +1,6 @@
 ---
 title: "Irish Stew with Carrots and Turnips"
 filename: "irish-stew-with-carrots-and-turnips"
-categories: &id001
-- lamb
-- meat
 cook_time: ''
 created: '2020-05-14 15:03:10'
 created_ts: 1589468590
@@ -39,7 +36,9 @@ servings: Serves 6
 slug: irish-stew-with-carrots-and-turnips
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/4122-irish-stew-with-carrots-and-turnips?incode=MCSCD00L0&ref=new_search_experience_16
-tags: *id001
+tags:
+- lamb
+- meat
 total_time: ''
 type: null
 uid: A03A7DA8-F631-4EEF-8685-3C16E0158760-13891-0000A8DB02E7AC8F

@@ -1,8 +1,6 @@
 ---
 title: "Balsamic Roasted Beets"
 filename: "balsamic-roasted-beets"
-categories: &id001
-- beets
 cook_time: 40 mins
 created: '2021-03-21 20:36:56'
 created_ts: 1616359016
@@ -28,7 +26,8 @@ servings: 6 servings (about 1/3 cup each)
 slug: balsamic-roasted-beets
 source: joyfoodsunshine.com
 source_url: https://joyfoodsunshine.com/roasted-beets/
-tags: *id001
+tags:
+- beets
 total_time: null
 type: null
 uid: 623A72CD-785C-460C-ABA2-E0D130B7FAFC

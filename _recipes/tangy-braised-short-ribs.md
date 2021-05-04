@@ -1,9 +1,6 @@
 ---
 title: "Tangy Braised Short Ribs"
 filename: "tangy-braised-short-ribs"
-categories: &id001
-- beef
-- short ribs
 cook_time: 4 hours
 created: '2020-04-08 13:06:16'
 created_ts: 1586351176
@@ -35,7 +32,9 @@ servings: Yield 8 to 10 servings
 slug: tangy-braised-short-ribs
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1020960-tangy-braised-short-ribs?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-tags: *id001
+tags:
+- beef
+- short ribs
 total_time: ''
 type: null
 uid: 4723D73D-E07E-4FBB-9693-89BBA7D4E7B4-16595-0003B18702CFF3EE

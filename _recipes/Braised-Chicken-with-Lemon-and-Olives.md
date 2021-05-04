@@ -1,8 +1,6 @@
 ---
 title: "Braised Chicken with Lemon and Olives"
 filename: "braised-chicken-with-lemon-and-olives"
-categories: &id001
-- chicken
 cook_time: 1 hour 45 minutes
 created: '2020-03-29 12:02:01'
 created_ts: 1585483321
@@ -33,7 +31,8 @@ servings: Yield 4 to 6 servings
 slug: braised-chicken-with-lemon-and-olives
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017258-braised-chicken-with-lemon-and-olives
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: B2B43BA7-22D4-4BD8-83DC-D14E3B6E8D92-14274-0000091878C6BB9A

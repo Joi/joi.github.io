@@ -1,8 +1,6 @@
 ---
 title: "Chicken Hearts"
 filename: "chicken-hearts"
-categories: &id001
-- chicken
 cook_time: 10 mins
 created: '2020-07-27 16:14:32'
 created_ts: 1595866472
@@ -41,7 +39,8 @@ servings: ''
 slug: chicken-hearts
 source: healthyrecipesblogs.com
 source_url: https://healthyrecipesblogs.com/chicken-hearts-recipe/
-tags: *id001
+tags:
+- chicken
 total_time: ''
 type: null
 uid: AAC09848-659F-47C4-B6A5-F2F4E409B1CD-2209-0001DBA6EF98B659

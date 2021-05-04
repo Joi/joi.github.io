@@ -1,9 +1,6 @@
 ---
 title: "Cioppino"
 filename: "cioppino"
-categories: &id001
-- seafood
-- soup
 cook_time: 55min
 created: '2020-02-03 16:00:55'
 created_ts: 1580745655
@@ -38,7 +35,9 @@ servings: 6 portions
 slug: cioppino
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r157491
-tags: *id001
+tags:
+- seafood
+- soup
 total_time: null
 type: null
 uid: CECA8C5F-9273-42B0-B35C-F8FBCFBA66B6-408-00004FAF3D009AB0

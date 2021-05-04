@@ -1,8 +1,6 @@
 ---
 title: "Almost No-Knead Bread - Cook's County"
 filename: "almost-no-knead-bread-cooks-county"
-categories: &id001
-- bread and biscuits
 cook_time: ''
 created: '2020-06-11 16:32:19'
 created_ts: 1591893139
@@ -38,7 +36,8 @@ servings: 1 large round loaf
 slug: almost-no-knead-bread-cooks-county
 source: cookscountry.com
 source_url: https://www.cookscountry.com/recipes/8101-almost-no-knead-bread?extcode=MCSKD10L0&ref=new_search_experience_1
-tags: *id001
+tags:
+- bread and biscuits
 total_time: ''
 type: null
 uid: 9CE3F443-91C4-4058-AC65-C00221720A95-1358-000095A17DE99D5E

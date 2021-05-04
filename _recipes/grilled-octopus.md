@@ -1,8 +1,6 @@
 ---
 title: "Grilled Octopus"
 filename: "grilled-octopus"
-categories: &id001
-- octopus
 cook_time: ''
 created: '2021-04-18 14:46:35'
 created_ts: 1618757195
@@ -29,7 +27,8 @@ servings: ''
 slug: grilled-octopus
 source: null
 source_url: null
-tags: *id001
+tags:
+- octopus
 total_time: ''
 type: stub
 uid: 0676773E-3BBC-4753-8B94-6675BBE35A94-26811-0001E316906B3E11

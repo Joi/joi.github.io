@@ -1,8 +1,6 @@
 ---
 title: "Croissants"
 filename: "croissants"
-categories: &id001
-- bread and biscuits
 cook_time: ''
 created: '2020-02-03 14:59:35'
 created_ts: 1580741975
@@ -36,7 +34,8 @@ servings: 22 croissants
 slug: croissants
 source: americastestkitchen.com
 source_url: https://www.americastestkitchen.com/recipes/6770-croissants?incode=MASAD00L0&ref=new_search_experience_1
-tags: *id001
+tags:
+- bread and biscuits
 total_time: ''
 type: null
 uid: BE5EEE4D-1ABA-4AA5-8C91-EC260B903F88-408-00004C55FF1A633E

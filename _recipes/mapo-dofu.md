@@ -1,15 +1,11 @@
 ---
 title: "Mapo Dofu"
 filename: "mapo-dofu"
-categories: &id001
-- chinese
-- ground pork
-- tofu
 cook_time: ''
 created: '2021-03-24 15:26:16'
 created_ts: 1616599576
 description: null
-difficulty: ''
+difficulty: Easy
 favorite: 0
 image_url: null
 ingredients: "1 lb tofu\n2 scallions, chopped\n\xBD lb ground pork\n\n*Sauce*\n\n\
@@ -24,7 +20,8 @@ meal_dates:
 - '2021-03-03'
 - '2021-04-03'
 - '2021-04-10'
-meal_types: 3|3|3|3
+- '2021-04-26'
+meal_types: 3|3|3|3|3
 mine: 1
 name: Mapo Dofu
 p_recipe_id: 492
@@ -34,6 +31,7 @@ photo_thumb: mapo-dofu-thumb.jpg
 photos_dict:
   '1': mapo-dofu-1.jpg
   '10': mapo-dofu-10.jpg
+  '11': mapo-dofu-11.jpg
   '2': mapo-dofu-2.jpg
   '3': mapo-dofu-3.jpg
   '4': mapo-dofu-4.jpg
@@ -48,12 +46,17 @@ servings: '2'
 slug: mapo-dofu
 source: null
 source_url: null
-tags: *id001
+tags:
+- chinese
+- ground pork
+- tofu
 total_time: ''
 type: null
 uid: F189F7A3-07AA-47B9-80AC-0E6B2879D4C5-651-00000524A207DA6A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>Try ¼ tsp rice spices</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 lb tofu</li>

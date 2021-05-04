@@ -1,8 +1,6 @@
 ---
 title: "Ginisang Pechay with Tofu"
 filename: "ginisang-pechay-with-tofu"
-categories: &id001
-- tofu
 cook_time: ''
 created: '2021-02-24 12:37:05'
 created_ts: 1614170225
@@ -47,7 +45,8 @@ servings: ''
 slug: ginisang-pechay-with-tofu
 source: null
 source_url: null
-tags: *id001
+tags:
+- tofu
 total_time: ''
 type: null
 uid: 4F3E45E3-005E-45BB-B979-C01932CE279A-15291-00020AB486C3609F

@@ -1,8 +1,6 @@
 ---
 title: "Instant Pot Coq Au Vin"
 filename: "instant-pot-coq-au-vin"
-categories: &id001
-- chicken
 cook_time: 45 minutes
 created: '2020-09-17 15:26:27'
 created_ts: 1600356387
@@ -49,7 +47,8 @@ servings: Servings 4
 slug: instant-pot-coq-au-vin
 source: saltandlavender.com
 source_url: https://www.saltandlavender.com/instant-pot-coq-au-vin/
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: EA3F9380-CD76-4171-85AF-AAD6C1D07C2D-15576-00000958A7284C6F

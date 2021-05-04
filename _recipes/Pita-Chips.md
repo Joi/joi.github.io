@@ -1,8 +1,6 @@
 ---
 title: "Pita Chips"
 filename: "pita-chips"
-categories: &id001
-- bread and biscuits
 cook_time: 7 mins
 created: '2020-06-25 16:36:57'
 created_ts: 1593103017
@@ -29,7 +27,8 @@ servings: 'Servings: 24'
 slug: pita-chips
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/14827/pita-chips/
-tags: *id001
+tags:
+- bread and biscuits
 total_time: ''
 type: null
 uid: D06BD415-2D41-4CB1-A8D1-7135509AC066-22544-0004E1F97748FAF9

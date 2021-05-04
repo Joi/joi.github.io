@@ -1,8 +1,6 @@
 ---
 title: "Pan-Steamed Asparagus with Lemon and Parmesan"
 filename: "pan-steamed-asparagus-with-lemon-and-parmesan"
-categories: &id001
-- vegetables
 cook_time: 25 minutes
 created: '2020-02-03 15:27:28'
 created_ts: 1580743648
@@ -30,7 +28,8 @@ servings: Serves 6
 slug: pan-steamed-asparagus-with-lemon-and-parmesan
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/11408-pan-steamed-asparagus-with-lemon-and-parmesan
-tags: *id001
+tags:
+- vegetables
 total_time: ''
 type: null
 uid: DCDDDC95-30FB-46A9-9C77-EF71A5F39C6F-408-00004DDD21AABD57

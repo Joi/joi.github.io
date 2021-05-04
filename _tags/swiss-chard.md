@@ -1,8 +1,9 @@
 ---
 title: Swiss Chard
-tag_key: swiss-chard
+tag_key: swiss chard
 recipes:
 - mine: null
+  p_recipe_id: 300
   permalink: /recipes/sauteed-celery-root-with-swiss-chard
   photo_thumb: sauteed-celery-root-with-swiss-chard-thumb.jpg
   rating: 4

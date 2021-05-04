@@ -1,10 +1,6 @@
 ---
 title: "Risotto Primavera"
 filename: "risotto-primavera"
-categories: &id001
-- rice
-- asparagus
-- tomato
 cook_time: 45 - 50 min
 created: '2020-07-23 14:28:03'
 created_ts: 1595514483
@@ -42,7 +38,10 @@ servings: 4 people
 slug: risotto-primavera
 source: null
 source_url: https://www.epicurious.com/recipes/member/views/risotto-alla-primavera-harrys-bar-52374811
-tags: *id001
+tags:
+- rice
+- asparagus
+- tomato
 total_time: ''
 type: null
 uid: 16DAD724-0640-45B2-A7EB-66B408332186-2209-00009B8A4B171F2C

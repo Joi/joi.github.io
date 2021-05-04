@@ -1,8 +1,6 @@
 ---
 title: "Easy Overnight Oats"
 filename: "easy-overnight-oats"
-categories: &id001
-- oats
 cook_time: ''
 created: '2020-03-22 14:21:04'
 created_ts: 1584886864
@@ -35,7 +33,8 @@ servings: 1 serving
 slug: easy-overnight-oats
 source: feelgoodfoodie.net
 source_url: https://feelgoodfoodie.net/recipe/overnight-oats/
-tags: *id001
+tags:
+- oats
 total_time: ''
 type: null
 uid: F6337E97-25EE-4F1A-87DD-D5F7AE9AA2F2-9067-000215CFEFC65460

@@ -1,8 +1,6 @@
 ---
 title: "Slow Cooker Salsa Verde Chicken"
 filename: "slow-cooker-salsa-verde-chicken"
-categories: &id001
-- chicken
 cook_time: 5 to 6 hours
 created: '2020-04-19 15:21:48'
 created_ts: 1587309708
@@ -34,7 +32,8 @@ servings: Yield 4 servings
 slug: slow-cooker-salsa-verde-chicken
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1020669-slow-cooker-salsa-verde-chicken?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-tags: *id001
+tags:
+- chicken
 total_time: ''
 type: null
 uid: 22A573CB-290E-48B6-95B4-8902C6D0388E-407-00004B19D7C22E2D

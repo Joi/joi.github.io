@@ -1,9 +1,6 @@
 ---
 title: "Curry Powder"
 filename: "curry-powder"
-categories: &id001
-- curry
-- seasoning
 cook_time: null
 created: '2021-01-15 18:56:25'
 created_ts: 1610736985
@@ -31,7 +28,9 @@ servings: null
 slug: curry-powder
 source: null
 source_url: null
-tags: *id001
+tags:
+- curry
+- seasoning
 total_time: null
 type: null
 uid: 4EA3C540-EED9-45D2-BA95-6B4C6A931A26-4181-0001E2348E51AA07

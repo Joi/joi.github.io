@@ -3,21 +3,25 @@ title: _Stub
 tag_key: _stub
 recipes:
 - mine: 1
+  p_recipe_id: 499
   permalink: /recipes/grill-smoked-fish
   photo_thumb: grill-smoked-fish-thumb.jpg
   rating: 0
   title: Grill Smoked Fish
 - mine: 1
+  p_recipe_id: 519
   permalink: /recipes/grilled-octopus
   photo_thumb: grilled-octopus-thumb.jpg
   rating: 5
   title: Grilled Octopus
 - mine: 1
+  p_recipe_id: 495
   permalink: /recipes/seared-wagyu
   photo_thumb: seared-wagyu-thumb.jpg
   rating: 0
   title: Seared Wagyu
 - mine: 1
+  p_recipe_id: 494
   permalink: /recipes/steak
   photo_thumb: steak-thumb.jpg
   rating: 0

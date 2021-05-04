@@ -1,8 +1,6 @@
 ---
 title: "How to Revive Stale Bread"
 filename: "how-to-revive-stale-bread"
-categories: &id001
-- bread and biscuits
 cook_time: ''
 created: '2020-06-11 16:26:59'
 created_ts: 1591892819
@@ -41,7 +39,8 @@ servings: ''
 slug: how-to-revive-stale-bread
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/how_tos/8226-how-to-revive-stale-bread
-tags: *id001
+tags:
+- bread and biscuits
 total_time: ''
 type: null
 uid: 044596A7-CE96-4DDE-87A6-BC1ADE61D510-1358-000095528CA0522F

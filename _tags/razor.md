@@ -6,7 +6,7 @@ pages:
 rel_tags_count:
   jnat:
   - 1
-  - JNAT
+  - Jnat
   sharpening:
   - 1
   - sharpening

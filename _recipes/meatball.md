@@ -1,11 +1,6 @@
 ---
 title: "Meatball"
 filename: "meatball"
-categories: &id001
-- pasta
-- italian
-- ground beef
-- sauce
 cook_time: 20 minutes
 created: '2020-12-16 17:56:06'
 created_ts: 1608141366
@@ -56,7 +51,11 @@ servings: 'Servings: 10'
 slug: meatball
 source: cookingclassy.com
 source_url: https://www.cookingclassy.com/meatball-recipe/
-tags: *id001
+tags:
+- pasta
+- italian
+- ground beef
+- sauce
 total_time: ''
 type: null
 uid: 160D4E1B-F5A0-4CD8-A2B4-BF08E77F5534-903-00005D489A62BD11

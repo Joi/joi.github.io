@@ -1,10 +1,6 @@
 ---
 title: "Parmesan Crusted Pollock"
 filename: "parmesan-crusted-pollock"
-categories: &id001
-- fish
-- white fish
-- pollack
 cook_time: 20 mins
 created: '2020-05-15 18:19:32'
 created_ts: 1589566772
@@ -53,7 +49,10 @@ servings: '4'
 slug: parmesan-crusted-pollock
 source: seafoodnutrition.org
 source_url: https://www.seafoodnutrition.org/project/parmesan-crusted-pollock/
-tags: *id001
+tags:
+- fish
+- white fish
+- pollack
 total_time: ''
 type: null
 uid: 207580F0-344A-4CB4-9B63-C99743340EEE-13891-000102267CE7FBD9

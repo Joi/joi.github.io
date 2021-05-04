@@ -1,9 +1,6 @@
 ---
 title: "Easy Thai Shrimp Curry"
 filename: "easy-thai-shrimp-curry"
-categories: &id001
-- shrimp
-- curry
 cook_time: 15 minutes
 created: '2020-10-14 11:42:57'
 created_ts: 1602675777
@@ -55,7 +52,9 @@ servings: Servings 4
 slug: easy-thai-shrimp-curry
 source: saltandlavender.com
 source_url: https://www.saltandlavender.com/easy-thai-shrimp-curry/
-tags: *id001
+tags:
+- shrimp
+- curry
 total_time: null
 type: null
 uid: DFBF3C0D-A1D9-468E-8D95-E196BF35CDDD-31316-00001E008C87A2B5

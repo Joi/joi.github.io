@@ -1,8 +1,6 @@
 ---
 title: "Mexican Salad"
 filename: "mexican-salad"
-categories: &id001
-- salad
 cook_time: 20 mins
 created: '2020-07-16 01:51:33'
 created_ts: 1594864293
@@ -41,7 +39,8 @@ servings: 'Servings: 6 servings'
 slug: mexican-salad
 source: wellplated.com
 source_url: https://www.wellplated.com/mexican-salad/
-tags: *id001
+tags:
+- salad
 total_time: ''
 type: null
 uid: 16B66633-422E-491A-8A4B-E5CC9024B61F-29053-0004C5EAEB5520A2

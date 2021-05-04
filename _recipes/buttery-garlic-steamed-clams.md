@@ -1,8 +1,6 @@
 ---
 title: "Buttery Garlic Steamed Clams"
 filename: "buttery-garlic-steamed-clams"
-categories: &id001
-- clams
 cook_time: 12 mins
 created: '2020-12-30 20:59:00'
 created_ts: 1609361940
@@ -40,7 +38,8 @@ servings: 'Yield: 4 appetizer servings'
 slug: buttery-garlic-steamed-clams
 source: theblondcook.com
 source_url: https://theblondcook.com/buttery-garlic-steamed-clams/
-tags: *id001
+tags:
+- clams
 total_time: null
 type: null
 uid: 9A6EAC2A-6CB6-46B7-864F-AFC4286C7F67-1607-00011D64756ECA14

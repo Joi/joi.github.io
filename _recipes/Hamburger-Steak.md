@@ -1,8 +1,6 @@
 ---
 title: "Hamburger Steak"
 filename: "hamburger-steak"
-categories: &id001
-- ground beef
 cook_time: 10 minutes
 created: '2020-06-27 18:48:06'
 created_ts: 1593283686
@@ -55,7 +53,8 @@ servings: 'Yield: 8 steaks'
 slug: hamburger-steak
 source: japanesecooking101.com
 source_url: https://www.japanesecooking101.com/hamburger-steak-recipe/
-tags: *id001
+tags:
+- ground beef
 total_time: ''
 type: null
 uid: 359750A3-4957-4735-9DAC-935A18605F94-5025-000001ECAB5B5782

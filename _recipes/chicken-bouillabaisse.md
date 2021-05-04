@@ -1,9 +1,6 @@
 ---
 title: "Chicken Bouillabaisse"
 filename: "chicken-bouillabaisse"
-categories: &id001
-- chicken
-- soup
 cook_time: ''
 created: '2020-10-15 18:13:56'
 created_ts: 1602785636
@@ -64,7 +61,9 @@ servings: ''
 slug: chicken-bouillabaisse
 source: Zuni Cafe Cookbook
 source_url: null
-tags: *id001
+tags:
+- chicken
+- soup
 total_time: ''
 type: null
 uid: F1D1640A-A8A7-4AF0-9119-997EA0B459EC-7512-00005767367B53FF

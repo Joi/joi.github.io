@@ -1,13 +1,11 @@
 ---
 title: "BBQ Chicken"
 filename: "bbq-chicken"
-categories: &id001
-- chicken
 cook_time: ''
 created: '2020-09-07 11:35:46'
 created_ts: 1599478546
 description: "Inspired by: [\"The Best Barbecue Chicken Recipe\" by J. Kenji L\xF3\
-  pez-Alt](https://www.seriouseats.com/recipes/2012/08/the-best-barbecue-chicken-recipe.html)"
+  pez-Alt](https://www.seriouseats.com/recipes/2012/08/the-best-barbecue-chicken-recipe.html)\n"
 difficulty: ''
 favorite: 0
 image_url: null
@@ -41,7 +39,10 @@ servings: ''
 slug: bbq-chicken
 source: null
 source_url: null
-tags: *id001
+tags:
+- grill
+- chicken
+- bbq
 total_time: ''
 type: null
 uid: 0406E117-8344-4062-A62F-FBAC97655E1C-13411-00000961DB0A0BC1

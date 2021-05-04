@@ -1,9 +1,6 @@
 ---
 title: "Four-Spice Salmon"
 filename: "four-spice-salmon"
-categories: &id001
-- fish
-- salmon
 cook_time: 20 minutes
 created: '2020-03-20 18:26:12'
 created_ts: 1584728772
@@ -34,7 +31,9 @@ servings: Yield 4 servings
 slug: four-spice-salmon
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1014578-four-spice-salmon?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=11
-tags: *id001
+tags:
+- fish
+- salmon
 total_time: ''
 type: null
 uid: 31AA9966-2763-4AC5-A716-BBD238901647-9067-0001860E2C2E307C

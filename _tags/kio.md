@@ -10,16 +10,19 @@ notes:
   rough: []
 recipes:
 - mine: null
+  p_recipe_id: 134
   permalink: /recipes/creamy-weeknight-macaroni-and-cheese
   photo_thumb: creamy-weeknight-macaroni-and-cheese-thumb.jpg
   rating: 0
   title: Creamy Weeknight Macaroni and Cheese
 - mine: null
+  p_recipe_id: 135
   permalink: /recipes/four-cheese-macaroni-and-cheese
   photo_thumb: four-cheese-macaroni-and-cheese-thumb.jpg
   rating: 0
   title: Four-Cheese Macaroni and Cheese
 - mine: null
+  p_recipe_id: 144
   permalink: /recipes/macaroni-and-cheese
   photo_thumb: macaroni-and-cheese-thumb.jpg
   rating: 4

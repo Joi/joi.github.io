@@ -1,8 +1,6 @@
 ---
 title: "Caesar Salad"
 filename: "caesar-salad"
-categories: &id001
-- salad
 cook_time: 30min
 created: '2020-02-03 16:02:47'
 created_ts: 1580745767
@@ -32,7 +30,8 @@ servings: 6 portions
 slug: caesar-salad
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r105492
-tags: *id001
+tags:
+- salad
 total_time: null
 type: null
 uid: 13D6B2E0-FA3D-4E38-9F9A-833F6FE34BD5-408-00004FC8C97124C6

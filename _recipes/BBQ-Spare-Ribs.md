@@ -1,8 +1,6 @@
 ---
 title: "BBQ Spare Ribs"
 filename: "bbq-spare-ribs"
-categories: &id001
-- pork spare ribs
 cook_time: ''
 created: '2020-09-10 02:22:50'
 created_ts: 1599704570
@@ -32,7 +30,8 @@ servings: ''
 slug: bbq-spare-ribs
 source: null
 source_url: null
-tags: *id001
+tags:
+- pork spare ribs
 total_time: ''
 type: null
 uid: F6F34E62-D960-486A-9A20-B976D1309E32-50715-00080BBC09D1E91C

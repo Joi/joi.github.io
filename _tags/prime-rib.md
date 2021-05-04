@@ -1,6 +1,6 @@
 ---
 title: Prime Rib
-tag_key: prime-rib
+tag_key: prime rib
 notes:
   feature:
   - date: '2020-08-17'
@@ -25,26 +25,31 @@ notes:
     uri_path: /notes/2021-02-20-dinner.html
 recipes:
 - mine: null
+  p_recipe_id: 309
   permalink: /recipes/perfect-prime-rib-with-red-wine-jus
   photo_thumb: perfect-prime-rib-with-red-wine-jus-thumb.jpg
   rating: 0
   title: Perfect Prime Rib with Red Wine Jus
 - mine: null
+  p_recipe_id: 426
   permalink: /recipes/perfect-prime-rib-with-red-wine-jus
   photo_thumb: perfect-prime-rib-with-red-wine-jus-thumb.jpg
   rating: 0
   title: Perfect Prime Rib with Red Wine Jus
 - mine: null
+  p_recipe_id: 317
   permalink: /recipes/prime-rib
   photo_thumb: prime-rib-thumb.jpg
   rating: 5
   title: Prime Rib
 - mine: null
+  p_recipe_id: 310
   permalink: /recipes/reverse-sear-prime-rib-roast
   photo_thumb: reverse-sear-prime-rib-roast-thumb.jpg
   rating: 0
   title: Reverse-Sear Prime Rib Roast
 - mine: null
+  p_recipe_id: 494
   permalink: /recipes/steak
   photo_thumb: steak-thumb.jpg
   rating: 0

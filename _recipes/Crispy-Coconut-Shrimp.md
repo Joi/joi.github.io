@@ -1,8 +1,6 @@
 ---
 title: "Crispy Coconut Shrimp"
 filename: "crispy-coconut-shrimp"
-categories: &id001
-- shrimp
 cook_time: 20min
 created: '2020-02-03 15:53:00'
 created_ts: 1580745180
@@ -32,7 +30,8 @@ servings: 4 portions
 slug: crispy-coconut-shrimp
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r574872
-tags: *id001
+tags:
+- shrimp
 total_time: ''
 type: null
 uid: FF85292E-75D5-4D26-8037-CF4463A11520-408-00004F40BFE23A06

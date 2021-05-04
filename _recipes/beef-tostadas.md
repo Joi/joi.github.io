@@ -1,9 +1,6 @@
 ---
 title: "Beef Tostadas"
 filename: "beef-tostadas"
-categories: &id001
-- ground beef
-- mexican
 cook_time: 10 min
 created: '2020-12-26 15:02:31'
 created_ts: 1608994951
@@ -50,7 +47,9 @@ servings: 'Yield: 4 servings'
 slug: beef-tostadas
 source: foodnetwork.com
 source_url: https://www.foodnetwork.com/recipes/food-network-kitchen/beef-tostadas-recipe-1973149
-tags: *id001
+tags:
+- ground beef
+- mexican
 total_time: null
 type: null
 uid: 46AC7BCC-2345-4357-B05D-563A3C357E12-1607-000000A1272FF1ED

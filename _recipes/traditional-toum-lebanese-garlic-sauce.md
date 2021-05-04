@@ -1,8 +1,6 @@
 ---
 title: "Traditional Toum (Lebanese Garlic Sauce)"
 filename: "traditional-toum-lebanese-garlic-sauce"
-categories: &id001
-- sauce
 cook_time: 20 minutes
 created: '2020-08-27 14:43:07'
 created_ts: 1598539387
@@ -36,7 +34,8 @@ servings: 1 quart
 slug: traditional-toum-lebanese-garlic-sauce
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2018/01/toum.html
-tags: *id001
+tags:
+- sauce
 total_time: ''
 type: null
 uid: 99182DEB-C6F1-48F2-8054-F9D8404C55D8-2241-0003FEF1ED6DF81A

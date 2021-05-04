@@ -3,51 +3,61 @@ title: Halibut
 tag_key: halibut
 recipes:
 - mine: null
+  p_recipe_id: 298
   permalink: /recipes/butter-poached-fish
   photo_thumb: butter-poached-fish-thumb.jpg
   rating: 0
   title: Butter Poached Fish
 - mine: null
+  p_recipe_id: 307
   permalink: /recipes/halibut-cheek-fish-tacos
   photo_thumb: halibut-cheek-fish-tacos-thumb.jpg
   rating: 0
   title: Halibut Cheek Fish Tacos
 - mine: null
+  p_recipe_id: 178
   permalink: /recipes/halibut-and-veggie-foil-packet
   photo_thumb: null
   rating: 4
   title: Halibut and Veggie Foil Packet
 - mine: null
+  p_recipe_id: 292
   permalink: /recipes/lemon-ginger-poached-halibut-with-leeks-spinach
   photo_thumb: lemon-ginger-poached-halibut-with-leeks-spinach-thumb.jpg
   rating: 0
   title: Lemon-Ginger Poached Halibut with Leeks & Spinach
 - mine: null
+  p_recipe_id: 295
   permalink: /recipes/mediterranean-lemon-poached-halibut
   photo_thumb: mediterranean-lemon-poached-halibut-thumb.jpg
   rating: 5
   title: Mediterranean Lemon Poached Halibut
 - mine: null
+  p_recipe_id: 191
   permalink: /recipes/pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce
   photo_thumb: pan-roasted-halibut-with-clamshell-mushrooms-and-lemon-butter-sauce-thumb.jpg
   rating: 5
   title: Pan-Roasted Halibut with Clamshell Mushrooms and Lemon Butter Sauce
 - mine: null
+  p_recipe_id: 296
   permalink: /recipes/poached-halibut-with-aromatic-herbs-and-mirin
   photo_thumb: poached-halibut-with-aromatic-herbs-and-mirin-thumb.jpg
   rating: 0
   title: Poached Halibut with Aromatic Herbs and Mirin
 - mine: null
+  p_recipe_id: 145
   permalink: /recipes/pressure-cooker-halibut-fillets-with-tomatoes-and-olives
   photo_thumb: pressure-cooker-halibut-fillets-with-tomatoes-and-olives-thumb.jpg
   rating: 4
   title: Pressure Cooker Halibut Fillets with Tomatoes and Olives
 - mine: null
+  p_recipe_id: 297
   permalink: /recipes/tomato-poached-halibut
   photo_thumb: tomato-poached-halibut-thumb.jpg
   rating: 5
   title: Tomato-Poached Halibut
 - mine: null
+  p_recipe_id: 236
   permalink: /recipes/ultra-crisp-skinned-pan-roasted-fish-fillets
   photo_thumb: null
   rating: 5

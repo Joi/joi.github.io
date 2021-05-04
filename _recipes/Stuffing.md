@@ -1,8 +1,6 @@
 ---
 title: "Stuffing"
 filename: "stuffing"
-categories: &id001
-- turkey
 cook_time: ''
 created: '2020-08-19 16:36:35'
 created_ts: 1597854995
@@ -40,7 +38,8 @@ servings: 10-12
 slug: stuffing
 source: Food Lab
 source_url: null
-tags: *id001
+tags:
+- turkey
 total_time: ''
 type: null
 uid: 361C126A-71BA-4EF3-89A9-AEC190712B26-2241-0001908744F256EF

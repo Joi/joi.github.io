@@ -1,9 +1,6 @@
 ---
 title: "Mark Bittman's Basic Pizza Dough"
 filename: "mark-bittmans-basic-pizza-dough"
-categories: &id001
-- italian
-- pizza
 cook_time: 2 to 3 hours mostly unattended
 created: '2021-02-03 20:08:38'
 created_ts: 1612382918
@@ -37,7 +34,9 @@ servings: Yield 2 pies
 slug: mark-bittmans-basic-pizza-dough
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12399-mark-bittmans-basic-pizza-dough
-tags: *id001
+tags:
+- italian
+- pizza
 total_time: ''
 type: null
 uid: 09BA992D-E3EF-4F25-AE69-7DC75FBF3ABC-1700-00003E7028F06EF5

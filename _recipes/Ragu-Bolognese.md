@@ -1,11 +1,6 @@
 ---
 title: "Ragú Bolognese"
 filename: "ragu-bolognese"
-categories: &id001
-- pasta
-- veal
-- italian
-- meat
 cook_time: null
 created: '2020-02-03 03:22:10'
 created_ts: 1580700130
@@ -70,7 +65,11 @@ servings: 2 cups
 slug: ragu-bolognese
 source: Harry's Bar Cookbook
 source_url: null
-tags: *id001
+tags:
+- pasta
+- veal
+- italian
+- meat
 total_time: null
 type: null
 uid: 262E123B-CE5F-49F4-A4BF-6EB433B9D6DA-408-0000264A91039DA4

@@ -1,8 +1,6 @@
 ---
 title: "Salad-E Shirazi (Persian Cucumber, Tomato and Onion Salad)"
 filename: "salad-e-shirazi-persian-cucumber-tomato-and-onion-salad"
-categories: &id001
-- vegetables
 cook_time: 20 minutes
 created: '2020-06-13 16:09:03'
 created_ts: 1592064543
@@ -32,7 +30,8 @@ servings: Yield 6 to 8 servings
 slug: salad-e-shirazi-persian-cucumber-tomato-and-onion-salad
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1020212-salad-e-shirazi-persian-cucumber-tomato-and-onion-salad?module=Recipe+of+The+Day&pgType=homepage&action=click
-tags: *id001
+tags:
+- vegetables
 total_time: ''
 type: null
 uid: 2E1ADC94-5666-4B67-A11B-D71BC42DEA96-1358-00013185CA128127

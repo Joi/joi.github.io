@@ -1,10 +1,6 @@
 ---
 title: "Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani"
 filename: "ossobuco-alla-cipriani-braised-veal-shanks-cipriani"
-categories: &id001
-- veal
-- italian
-- beef shank
 cook_time: ''
 created: '2020-06-21 17:28:12'
 created_ts: 1592760492
@@ -74,7 +70,10 @@ servings: '6'
 slug: ossobuco-alla-cipriani-braised-veal-shanks-cipriani
 source: Harry's Bar Cookbook
 source_url: null
-tags: *id001
+tags:
+- veal
+- italian
+- beef shank
 total_time: ''
 type: null
 uid: E180BD94-AC3C-451E-9238-78D97C67B764-22544-0003AA78C45EC856

@@ -1,8 +1,6 @@
 ---
 title: "Jim Lahey's No-Knead Whole-Wheat Bread"
 filename: "jim-laheys-no-knead-whole-wheat-bread"
-categories: &id001
-- bread and biscuits
 cook_time: 1 h
 created: '2020-04-21 17:20:15'
 created_ts: 1587489615
@@ -32,7 +30,8 @@ servings: One 10-inch round loaf
 slug: jim-laheys-no-knead-whole-wheat-bread
 source: leitesculinaria.com
 source_url: https://leitesculinaria.com/21678/recipes-no-knead-whole-wheat-bread.html#recipe
-tags: *id001
+tags:
+- bread and biscuits
 total_time: null
 type: null
 uid: 5F3E3671-76A6-4945-9815-8862865AC3CA-41786-0000140C36B417D2

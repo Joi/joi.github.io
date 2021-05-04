@@ -1,11 +1,6 @@
 ---
 title: "Chicken Sandwich"
 filename: "chicken-sandwich"
-categories: &id001
-- sandwich
-- chicken
-- italian
-- meat
 cook_time: null
 created: '2020-02-02 20:49:33'
 created_ts: 1580676573
@@ -52,7 +47,11 @@ servings: '6'
 slug: chicken-sandwich
 source: Harry's Bar Cookbook
 source_url: null
-tags: *id001
+tags:
+- sandwich
+- chicken
+- italian
+- meat
 total_time: null
 type: null
 uid: FF152B59-4FDC-41E6-9C93-6A95ED09083E-25037-0000A041D3575177

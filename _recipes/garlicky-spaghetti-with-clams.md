@@ -1,9 +1,6 @@
 ---
 title: "Garlicky Spaghetti with Clams"
 filename: "garlicky-spaghetti-with-clams"
-categories: &id001
-- clams
-- pasta
 cook_time: null
 created: '2020-02-03 15:37:19'
 created_ts: 1580744239
@@ -33,7 +30,9 @@ servings: Serves 4
 slug: garlicky-spaghetti-with-clams
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/8742-garlicky-spaghetti-with-clams
-tags: *id001
+tags:
+- clams
+- pasta
 total_time: null
 type: null
 uid: D07C7EDA-66CF-40A3-9EB4-C415CCB6AC12-408-00004E63C6179E14

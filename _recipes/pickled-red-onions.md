@@ -1,9 +1,6 @@
 ---
 title: "Pickled Red Onions"
 filename: "pickled-red-onions"
-categories: &id001
-- pickles
-- red onions
 cook_time: 5 minutes
 created: '2021-01-23 17:18:33'
 created_ts: 1611422313
@@ -37,7 +34,9 @@ servings: ''
 slug: pickled-red-onions
 source: foodfidelity.com
 source_url: https://www.foodfidelity.com/pickled-red-onions/
-tags: *id001
+tags:
+- pickles
+- red onions
 total_time: ''
 type: null
 uid: 93B60554-B31A-43A5-8C10-2459B825CD13-60918-00006011EB1DCCDB

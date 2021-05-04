@@ -1,8 +1,6 @@
 ---
 title: "Fattoush Salad"
 filename: "fattoush-salad"
-categories: &id001
-- salad
 cook_time: 20 mins
 created: '2020-08-07 11:19:42'
 created_ts: 1596799182
@@ -64,7 +62,8 @@ servings: Serves 6
 slug: fattoush-salad
 source: themediterraneandish.com
 source_url: https://www.themediterraneandish.com/fattoush-salad/
-tags: *id001
+tags:
+- salad
 total_time: ''
 type: null
 uid: 4FEBFB5B-BED2-46AA-AAB2-6695964DDD04-2643-000000E5CE888C1F

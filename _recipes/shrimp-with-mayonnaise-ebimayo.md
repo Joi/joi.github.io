@@ -1,9 +1,6 @@
 ---
 title: "Shrimp with Mayonnaise - ebimayo"
 filename: "shrimp-with-mayonnaise-ebimayo"
-categories: &id001
-- shrimp
-- chinese
 cook_time: ''
 created: '2021-03-28 14:20:29'
 created_ts: 1616941229
@@ -53,7 +50,9 @@ servings: ''
 slug: shrimp-with-mayonnaise-ebimayo
 source: null
 source_url: null
-tags: *id001
+tags:
+- shrimp
+- chinese
 total_time: ''
 type: null
 uid: 38FA8814-B207-4409-8F03-B8C191D89FA4-52325-00013BDD53836253

@@ -1,8 +1,9 @@
 ---
 title: Yellow Squash
-tag_key: yellow-squash
+tag_key: yellow squash
 recipes:
 - mine: null
+  p_recipe_id: 219
   permalink: /recipes/roasted-yellow-squash-with-mint-walnuts-and-pecorino
   photo_thumb: roasted-yellow-squash-with-mint-walnuts-and-pecorino-thumb.jpg
   rating: 5

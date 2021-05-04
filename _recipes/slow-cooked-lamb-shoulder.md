@@ -1,8 +1,6 @@
 ---
 title: "Slow Cooked Lamb Shoulder"
 filename: "slow-cooked-lamb-shoulder"
-categories: &id001
-- lamb
 cook_time: null
 created: '2020-05-16 13:58:42'
 created_ts: 1589637522
@@ -51,7 +49,8 @@ servings: Servings 4
 slug: slow-cooked-lamb-shoulder
 source: recipetineats.com
 source_url: https://www.recipetineats.com/slow-roasted-rosemary-garlic-lamb-shoulder/
-tags: *id001
+tags:
+- lamb
 total_time: null
 type: null
 uid: FFBB7F40-1388-4BCD-B2C2-57CE9F8128EC-11450-000001594EE35341

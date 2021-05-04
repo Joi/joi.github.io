@@ -1,9 +1,6 @@
 ---
 title: "Garlic Parmesan Flounder"
 filename: "garlic-parmesan-flounder"
-categories: &id001
-- flounder
-- fluke
 cook_time: 0 hours
 created: '2020-08-31 22:32:46'
 created_ts: 1598913166
@@ -42,7 +39,9 @@ servings: 'Yields: 4'
 slug: garlic-parmesan-flounder
 source: delish.com
 source_url: https://www.delish.com/cooking/recipe-ideas/a26595710/garlic-parmesan-baked-flounder-recipe/
-tags: *id001
+tags:
+- flounder
+- fluke
 total_time: null
 type: null
 uid: 6CCAFA5B-B3BE-4D32-B4C9-F7B99B21A037-24828-00000E1DB79758D1

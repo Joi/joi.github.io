@@ -1,9 +1,6 @@
 ---
 title: "Chicken with Sorrel"
 filename: "chicken-with-sorrel"
-categories: &id001
-- chicken
-- sorrel
 cook_time: ''
 created: '2021-04-14 11:10:53'
 created_ts: 1618398653
@@ -39,7 +36,9 @@ servings: ''
 slug: chicken-with-sorrel
 source: null
 source_url: null
-tags: *id001
+tags:
+- chicken
+- sorrel
 total_time: ''
 type: null
 uid: 9E0A43DB-249C-4E4F-A5AC-328C0E31AC22

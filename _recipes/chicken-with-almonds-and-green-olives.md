@@ -1,8 +1,6 @@
 ---
 title: "Chicken with Almonds and Green Olives"
 filename: "chicken-with-almonds-and-green-olives"
-categories: &id001
-- chicken
 cook_time: 1 hour 20 minutes
 created: '2020-04-02 17:11:21'
 created_ts: 1585847481
@@ -31,7 +29,8 @@ servings: Serves 4
 slug: chicken-with-almonds-and-green-olives
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/8113-chicken-with-almonds-and-green-olives?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=26
-tags: *id001
+tags:
+- chicken
 total_time: ''
 type: null
 uid: 946A1415-F2AA-4840-B4C2-BF0974488278-9482-0000064C5993610E

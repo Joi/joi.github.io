@@ -1,9 +1,6 @@
 ---
 title: "Shrimp and Endive Salad"
 filename: "shrimp-and-endive-salad"
-categories: &id001
-- salad
-- shrimp
 cook_time: ''
 created: '2021-03-22 15:49:08'
 created_ts: 1616428148
@@ -45,7 +42,9 @@ servings: ''
 slug: shrimp-and-endive-salad
 source: null
 source_url: null
-tags: *id001
+tags:
+- salad
+- shrimp
 total_time: ''
 type: null
 uid: 2E32CCAE-E32E-464E-8933-8BD80801B7C1-641-0001405C698FD612

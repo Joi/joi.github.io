@@ -1,8 +1,6 @@
 ---
 title: "How to Grill the Best Burgers"
 filename: "how-to-grill-the-best-burgers"
-categories: &id001
-- ground beef
 cook_time: 5 minutes
 created: '2020-06-13 11:21:11'
 created_ts: 1592047271
@@ -43,7 +41,8 @@ servings: 'Yield: 6 burgers'
 slug: how-to-grill-the-best-burgers
 source: simplyrecipes.com
 source_url: https://www.simplyrecipes.com/recipes/how_to_grill_the_best_burgers/
-tags: *id001
+tags:
+- ground beef
 total_time: ''
 type: null
 uid: C790DDE4-4C85-4870-80E6-D2507EC38892-1358-000121CF217FC385

@@ -1,9 +1,6 @@
 ---
 title: "Shrimp Bisque"
 filename: "shrimp-bisque"
-categories: &id001
-- shrimp
-- soup
 cook_time: ''
 created: '2020-07-28 19:16:06'
 created_ts: 1595963766
@@ -56,7 +53,9 @@ servings: Serves 8 to 10
 slug: shrimp-bisque
 source: cookscountry.com
 source_url: https://www.cookscountry.com/recipes/4006-shrimp-bisque?extcode=MCSKD10L0&ref=new_search_experience_4
-tags: *id001
+tags:
+- shrimp
+- soup
 total_time: ''
 type: null
 uid: 07B00EC3-D72D-4F99-9495-7378F03075FA-2209-0002342328EFFF9D

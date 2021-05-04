@@ -1,9 +1,6 @@
 ---
 title: "BBQ Rub"
 filename: "bbq-rub"
-categories: &id001
-- sauce
-- bbq
 cook_time: ''
 created: '2021-04-04 14:34:22'
 created_ts: 1617546862
@@ -32,7 +29,9 @@ servings: ''
 slug: bbq-rub
 source: null
 source_url: null
-tags: *id001
+tags:
+- sauce
+- bbq
 total_time: ''
 type: null
 uid: D5AD42AF-0CB6-4163-8819-953982E230A2-52325-000362AA97E0FBF1

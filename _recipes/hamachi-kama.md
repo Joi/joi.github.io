@@ -1,8 +1,6 @@
 ---
 title: "Hamachi Kama"
 filename: "hamachi-kama"
-categories: &id001
-- yellow tail
 cook_time: 25 mins
 created: '2020-08-14 02:12:38'
 created_ts: 1597371158
@@ -29,7 +27,8 @@ servings: 'Servings: 1'
 slug: hamachi-kama
 source: justonecookbook.com
 source_url: https://www.justonecookbook.com/hamachi-kama/
-tags: *id001
+tags:
+- yellow tail
 total_time: ''
 type: null
 uid: B5BF403A-DF93-4260-9777-614FDE444194-11316-000008212FCB0ED0

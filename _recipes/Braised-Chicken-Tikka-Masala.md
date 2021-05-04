@@ -1,9 +1,6 @@
 ---
 title: "Braised Chicken Tikka Masala"
 filename: "braised-chicken-tikka-masala"
-categories: &id001
-- chicken
-- curry
 cook_time: 30 mins
 created: '2021-01-15 18:55:42'
 created_ts: 1610736942
@@ -28,7 +25,8 @@ ingredients: "**For the chicken marinade:**\nWhole chicken\n1 cup plain yogurt\n
 intrash: 0
 meal_dates:
 - '2021-02-04'
-meal_types: '3'
+- '2021-04-22'
+meal_types: 3|3
 mine: 1
 name: Braised Chicken Tikka Masala
 p_recipe_id: 448
@@ -37,18 +35,25 @@ photo_large: braised-chicken-tikka-masala-large.jpg
 photo_thumb: braised-chicken-tikka-masala-thumb.jpg
 photos_dict:
   '1': braised-chicken-tikka-masala-1.jpg
+  '10': braised-chicken-tikka-masala-10.jpg
+  '11': braised-chicken-tikka-masala-11.jpg
   '2': braised-chicken-tikka-masala-2.jpg
   '3': braised-chicken-tikka-masala-3.jpg
   '4': braised-chicken-tikka-masala-4.jpg
   '5': braised-chicken-tikka-masala-5.jpg
   '6': braised-chicken-tikka-masala-6.jpg
+  '7': braised-chicken-tikka-masala-7.jpg
+  '8': braised-chicken-tikka-masala-8.jpg
+  '9': braised-chicken-tikka-masala-9.jpg
 prep_time: 15 mins
 rating: 5
 servings: 'Serves: - 6 people'
 slug: braised-chicken-tikka-masala
 source: null
 source_url: null
-tags: *id001
+tags:
+- chicken
+- curry
 total_time: ''
 type: null
 uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5

@@ -1,6 +1,6 @@
 ---
 title: Anova Oven
-tag_key: anova-oven
+tag_key: anova oven
 notes:
   feature:
   - date: '2020-12-07'

@@ -1,9 +1,6 @@
 ---
 title: "Fluffy Baked Omelet"
 filename: "fluffy-baked-omelet"
-categories: &id001
-- breakfast
-- egg
 cook_time: 35min
 created: '2020-02-03 15:59:52'
 created_ts: 1580745592
@@ -31,7 +28,9 @@ servings: 2 portions
 slug: fluffy-baked-omelet
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r492473
-tags: *id001
+tags:
+- breakfast
+- egg
 total_time: null
 type: null
 uid: 31DFD892-9DBB-4E66-B5CB-C86E0BD8CCBC-408-00004FA1359979E2

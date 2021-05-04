@@ -1,8 +1,6 @@
 ---
 title: "Four-Cheese Macaroni and Cheese"
 filename: "four-cheese-macaroni-and-cheese"
-categories: &id001
-- kio
 cook_time: 1 hour
 created: '2020-05-04 18:48:51'
 created_ts: 1588618131
@@ -31,7 +29,8 @@ servings: Yield 6 to 8 servings
 slug: four-cheese-macaroni-and-cheese
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1014635-four-cheese-macaroni-and-cheese?action=click&module=Collection%20Page%20Recipe%20Card&region=Amazing%20Ways%20to%20Do%20Macaroni%20and%20Cheese&pgType=collection&rank=12
-tags: *id001
+tags:
+- kio
 total_time: ''
 type: null
 uid: 8D936D6B-C75D-4807-8767-3A5464726736-39436-00014015E3513A27

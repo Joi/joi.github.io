@@ -1,8 +1,6 @@
 ---
 title: "Bolognese Sauce Recipe (Instant Pot)"
 filename: "bolognese-sauce-recipe-instant-pot"
-categories: &id001
-- pasta
 cook_time: 55 minutes
 created: '2020-09-02 13:58:40'
 created_ts: 1599055120
@@ -38,7 +36,8 @@ servings: ''
 slug: bolognese-sauce-recipe-instant-pot
 source: stripedspatula.com
 source_url: https://stripedspatula.com/bolognese-sauce-recipe-instant-pot/
-tags: *id001
+tags:
+- pasta
 total_time: ''
 type: null
 uid: 8202E24E-9C63-4DBB-A008-AFBA9C08982B-499-0000017FA2C55DFC

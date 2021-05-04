@@ -3,11 +3,13 @@ title: Pollack
 tag_key: pollack
 recipes:
 - mine: null
+  p_recipe_id: 158
   permalink: /recipes/parmesan-crusted-pollock
   photo_thumb: parmesan-crusted-pollock-thumb.jpg
   rating: 0
   title: Parmesan Crusted Pollock
 - mine: null
+  p_recipe_id: 159
   permalink: /recipes/pollock-in-garlic-butter-sauce
   photo_thumb: pollock-in-garlic-butter-sauce-thumb.jpg
   rating: 4

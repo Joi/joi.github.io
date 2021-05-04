@@ -1,8 +1,6 @@
 ---
 title: "The Best Simple Roast Turkey with Gravy"
 filename: "the-best-simple-roast-turkey-with-gravy"
-categories: &id001
-- turkey
 cook_time: 5 hours
 created: '2020-11-24 10:52:57'
 created_ts: 1606215177
@@ -49,7 +47,8 @@ servings: Serves 10 to 12
 slug: the-best-simple-roast-turkey-with-gravy
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2014/11/the-best-simple-roast-turkey-gravy-recipe.html
-tags: *id001
+tags:
+- turkey
 total_time: null
 type: null
 uid: 992A0DBD-C253-4DDF-A5E6-496C7A0646F5-68048-0000AAB8A8898B2F

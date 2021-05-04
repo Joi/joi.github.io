@@ -1,7 +1,6 @@
 ---
 title: "Garlicky Beef Tenderloin with Orange Horseradish Sauce"
 filename: "garlicky-beef-tenderloin-with-orange-horseradish-sauce"
-categories: null
 cook_time: 40 minutes
 created: '2020-06-29 00:33:22'
 created_ts: 1593390802
@@ -31,6 +30,9 @@ servings: Yield 8 to 10 servings
 slug: garlicky-beef-tenderloin-with-orange-horseradish-sauce
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12214-garlicky-beef-tenderloin-with-orange-horseradish-sauce
+tags:
+- beef
+- tenderloin
 total_time: ''
 type: null
 uid: EEED405B-FB6D-4F73-A3FF-BD1E5D7B6D25-8626-0000038D01E586DD

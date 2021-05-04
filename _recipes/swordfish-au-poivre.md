@@ -1,8 +1,6 @@
 ---
 title: "Swordfish Au Poivre"
 filename: "swordfish-au-poivre"
-categories: &id001
-- swordfish
 cook_time: 30 minutes
 created: '2020-07-05 23:28:59'
 created_ts: 1593991739
@@ -30,7 +28,8 @@ servings: Yield 4 servings
 slug: swordfish-au-poivre
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1021120-swordfish-au-poivre?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=13
-tags: *id001
+tags:
+- swordfish
 total_time: ''
 type: null
 uid: 466F7A66-B9C7-46E6-B50D-D6FADF202548-631-0001AC5C5F20F7E0

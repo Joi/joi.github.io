@@ -1,8 +1,6 @@
 ---
 title: "Salmoriglio Sicilian Oregano Sauce"
 filename: "salmoriglio-sicilian-oregano-sauce"
-categories: &id001
-- sauce
 cook_time: ''
 created: '2020-07-30 18:42:04'
 created_ts: 1596134524
@@ -31,7 +29,8 @@ servings: "\xBD cup"
 slug: salmoriglio-sicilian-oregano-sauce
 source: Salt, Fat, Acid, Heat
 source_url: null
-tags: *id001
+tags:
+- sauce
 total_time: ''
 type: null
 uid: 8CBA434A-8D16-4B6E-BEC2-2364ECF2E5C3-96025-0002CF722DAFF147

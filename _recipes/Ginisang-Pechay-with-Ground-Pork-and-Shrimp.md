@@ -1,9 +1,6 @@
 ---
 title: "Ginisang Pechay with Ground Pork and Shrimp"
 filename: "ginisang-pechay-with-ground-pork-and-shrimp"
-categories: &id001
-- shrimp
-- ground pork
 cook_time: ''
 created: '2021-02-22 13:59:40'
 created_ts: 1614002380
@@ -62,7 +59,9 @@ servings: ''
 slug: ginisang-pechay-with-ground-pork-and-shrimp
 source: null
 source_url: null
-tags: *id001
+tags:
+- shrimp
+- ground pork
 total_time: ''
 type: null
 uid: D1802362-2744-4AED-A6DC-2AB29EC1D022-26383-0001720E4DC5724D

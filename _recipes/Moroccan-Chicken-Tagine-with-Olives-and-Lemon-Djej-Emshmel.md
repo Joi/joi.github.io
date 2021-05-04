@@ -1,8 +1,6 @@
 ---
 title: "Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)"
 filename: "moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel"
-categories: &id001
-- chicken
 cook_time: null
 created: '2020-04-02 17:34:53'
 created_ts: 1585848893
@@ -51,7 +49,8 @@ servings: Serves 4
 slug: moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel
 source: americastestkitchen.com
 source_url: https://www.americastestkitchen.com/recipes/5189-moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel?incode=MCSBM00L0&ref=new_search_experience_52
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: 224BC50D-D2EB-48F1-A2DE-9CA4A061D04C-9482-000006543D2F7DDD

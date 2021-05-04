@@ -1,8 +1,6 @@
 ---
 title: "Two-Minute Mayonnaise"
 filename: "two-minute-mayonnaise"
-categories: &id001
-- sauce
 cook_time: 2 minutes
 created: '2021-04-10 19:15:50'
 created_ts: 1618082150
@@ -39,7 +37,8 @@ servings: About 1 cup
 slug: two-minute-mayonnaise
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2011/10/two-minute-mayonnaise.html
-tags: *id001
+tags:
+- sauce
 total_time: ''
 type: null
 uid: 566E43B9-166A-4496-AD7E-9F2F2E518310-88379-0005497C421BDFBE

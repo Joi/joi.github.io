@@ -1,8 +1,6 @@
 ---
 title: "Vinaigarette"
 filename: "vinaigarette"
-categories: &id001
-- salad
 cook_time: null
 created: '2020-07-23 13:02:18'
 created_ts: 1595509338
@@ -28,7 +26,8 @@ servings: null
 slug: vinaigarette
 source: null
 source_url: null
-tags: *id001
+tags:
+- salad
 total_time: null
 type: null
 uid: 1AB2C2D7-C98A-4F88-92AD-D5EDDA17A0C0-1118-00000134914F69CC

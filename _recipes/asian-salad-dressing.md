@@ -1,8 +1,6 @@
 ---
 title: "Asian Salad Dressing"
 filename: "asian-salad-dressing"
-categories: &id001
-- salad
 cook_time: null
 created: '2020-10-22 21:27:55'
 created_ts: 1603402075
@@ -56,7 +54,8 @@ servings: null
 slug: asian-salad-dressing
 source: culinaryhill.com
 source_url: https://www.culinaryhill.com/asian-salad-dressing/
-tags: *id001
+tags:
+- salad
 total_time: 5 min
 type: null
 uid: 71585C7D-6E80-4F86-9DF8-55F643F5B4B7-64845-00002AF38EA0302B

@@ -1,8 +1,6 @@
 ---
 title: "Shaved Asparagus Salad"
 filename: "shaved-asparagus-salad"
-categories: &id001
-- asparagus
 cook_time: 0 minutes
 created: '2020-07-01 14:07:31'
 created_ts: 1593612451
@@ -30,7 +28,8 @@ servings: 'Yield: 3'
 slug: shaved-asparagus-salad
 source: acouplecooks.com
 source_url: https://www.acouplecooks.com/shaved-asparagus-salad-with-parmesan/
-tags: *id001
+tags:
+- asparagus
 total_time: ''
 type: null
 uid: FA7BFE3F-3E44-40CF-A9D7-A308631AADE9-631-00005366EFA82EDF

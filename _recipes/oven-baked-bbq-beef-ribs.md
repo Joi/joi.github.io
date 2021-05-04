@@ -1,8 +1,6 @@
 ---
 title: "Oven Baked BBQ Beef Ribs"
 filename: "oven-baked-bbq-beef-ribs"
-categories: &id001
-- beef back ribs
 cook_time: 4 hours
 created: '2020-09-02 02:44:30'
 created_ts: 1599014670
@@ -32,7 +30,8 @@ servings: Servings 4
 slug: oven-baked-bbq-beef-ribs
 source: divascancook.com
 source_url: https://divascancook.com/easy-oven-baked-beef-ribs-recipe-bbq/
-tags: *id001
+tags:
+- beef back ribs
 total_time: ''
 type: null
 uid: A6075926-ED93-40D1-A486-38577B7E54DB-13002-0005AF322D952984

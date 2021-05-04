@@ -1,23 +1,27 @@
 ---
 title: Chuck Roast
-tag_key: chuck-roast
+tag_key: chuck roast
 recipes:
 - mine: null
+  p_recipe_id: 381
   permalink: /recipes/beef-stew-with-carrots-potatoes
   photo_thumb: beef-stew-with-carrots-potatoes-thumb.jpg
   rating: 0
   title: Beef Stew with Carrots & Potatoes
 - mine: null
+  p_recipe_id: 77
   permalink: /recipes/pot-roast
   photo_thumb: pot-roast-thumb.jpg
   rating: 5
   title: Pot Roast
 - mine: null
+  p_recipe_id: 115
   permalink: /recipes/pressure-cooker-pot-roast
   photo_thumb: pressure-cooker-pot-roast-thumb.jpg
   rating: 0
   title: Pressure Cooker Pot Roast
 - mine: null
+  p_recipe_id: 387
   permalink: /recipes/smoked-and-sliced-beef-chuck-roast
   photo_thumb: smoked-and-sliced-beef-chuck-roast-thumb.jpg
   rating: 0

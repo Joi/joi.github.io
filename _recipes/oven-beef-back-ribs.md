@@ -1,8 +1,6 @@
 ---
 title: "Oven Beef Back Ribs"
 filename: "oven-beef-back-ribs"
-categories: &id001
-- ribs
 cook_time: 5 hrs
 created: '2020-07-13 18:04:20'
 created_ts: 1594663460
@@ -43,7 +41,8 @@ servings: ''
 slug: oven-beef-back-ribs
 source: healthyrecipesblogs.com
 source_url: https://healthyrecipesblogs.com/oven-beef-back-ribs/
-tags: *id001
+tags:
+- ribs
 total_time: ''
 type: null
 uid: E8F3081A-B668-4CA7-B29A-87BDB467CD7F-29053-00040F43EB49D4B4

@@ -1,8 +1,6 @@
 ---
 title: "Oven Roasted Spatchcocked Chicken"
 filename: "oven-roasted-spatchcocked-chicken"
-categories: &id001
-- chicken
 cook_time: ''
 created: '2020-07-09 14:31:38'
 created_ts: 1594305098
@@ -53,7 +51,8 @@ servings: ''
 slug: oven-roasted-spatchcocked-chicken
 source: Joi
 source_url: null
-tags: *id001
+tags:
+- chicken
 total_time: ''
 type: null
 uid: 36A76453-1BC6-44FF-A21C-1BC30580CED0-631-0002C95B214A28BC

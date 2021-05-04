@@ -1,8 +1,6 @@
 ---
 title: "Hongeojjim (Steamed Skate Fish)"
 filename: "hongeojjim-steamed-skate-fish"
-categories: &id001
-- skate wings
 cook_time: null
 created: '2021-01-19 12:47:22'
 created_ts: 1611060442
@@ -35,7 +33,8 @@ servings: 'Servings: 2'
 slug: hongeojjim-steamed-skate-fish
 source: koreanbapsang.com
 source_url: https://www.koreanbapsang.com/hongeojjim-steamed-skate-fish/
-tags: *id001
+tags:
+- skate wings
 total_time: null
 type: null
 uid: F9B9AC8D-9A56-4FCF-B8AD-DBC5883FEECD-23424-0000117A9AA52104

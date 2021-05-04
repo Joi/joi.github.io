@@ -1,8 +1,6 @@
 ---
 title: "Skate Moqueca (Moqueca De Arraia)"
 filename: "skate-moqueca-moqueca-de-arraia"
-categories: &id001
-- skate wings
 cook_time: ''
 created: '2020-06-23 01:13:53'
 created_ts: 1592874833
@@ -49,7 +47,8 @@ servings: Servings:4
 slug: skate-moqueca-moqueca-de-arraia
 source: Flavors of Brazil
 source_url: http://flavorsofbrazil.blogspot.com/2012/04/recipe-skate-moqueca-moqueca-de-arraia.html
-tags: *id001
+tags:
+- skate wings
 total_time: 1 hr 10 min
 type: null
 uid: D81F7CB5-3C38-48A6-A04A-57D9DB0997BD-22544-000412688449837C

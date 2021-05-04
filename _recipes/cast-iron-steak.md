@@ -1,10 +1,6 @@
 ---
 title: "Cast-Iron Steak"
 filename: "cast-iron-steak"
-categories: &id001
-- beef
-- bison
-- steaks
 cook_time: about 1 hour
 created: '2020-03-30 16:00:00'
 created_ts: 1585584000
@@ -34,7 +30,10 @@ servings: Yield 4 to 6 servings
 slug: cast-iron-steak
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1016334-cast-iron-steak?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=9
-tags: *id001
+tags:
+- beef
+- bison
+- steaks
 total_time: ''
 type: null
 uid: C6593649-6166-46C7-A182-20F3E9EBB67B-16595-0000F776F60F2224

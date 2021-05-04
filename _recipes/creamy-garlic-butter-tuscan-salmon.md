@@ -1,8 +1,6 @@
 ---
 title: "Creamy Garlic Butter Tuscan Salmon"
 filename: "creamy-garlic-butter-tuscan-salmon"
-categories: &id001
-- salmon
 cook_time: 20 mins
 created: '2020-12-12 14:47:25'
 created_ts: 1607784445
@@ -55,7 +53,8 @@ servings: null
 slug: creamy-garlic-butter-tuscan-salmon
 source: cafedelites.com
 source_url: https://cafedelites.com/creamy-garlic-butter-tuscan-salmon/
-tags: *id001
+tags:
+- salmon
 total_time: null
 type: null
 uid: D50B1680-9217-4AFB-8ADE-AE2DB0AA2B5C-39194-00002108E5B96BEC

@@ -1,8 +1,6 @@
 ---
 title: "Trinidad Boiled Corn"
 filename: "trinidad-boiled-corn"
-categories: &id001
-- corn
 cook_time: 20 m
 created: '2020-07-04 13:29:45'
 created_ts: 1593869385
@@ -39,7 +37,8 @@ servings: Yield:16
 slug: trinidad-boiled-corn
 source: homemadezagat.com
 source_url: https://www.homemadezagat.com/2014/11/trinidad-boiled-corn.html
-tags: *id001
+tags:
+- corn
 total_time: ''
 type: null
 uid: 56D5B5C6-09D5-4522-A797-2CCB234E6FB5-631-00013CFF7518B2AD

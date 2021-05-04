@@ -1,9 +1,6 @@
 ---
 title: "Smoked 3-2-1 St. Louis Style Spare Ribs"
 filename: "smoked-3-2-1-st-louis-style-spare-ribs"
-categories: &id001
-- pork spare ribs
-- bbq
 cook_time: 6 hours
 created: '2020-09-18 21:47:06'
 created_ts: 1600465626
@@ -30,7 +27,9 @@ servings: null
 slug: smoked-3-2-1-st-louis-style-spare-ribs
 source: smoking-meat.com
 source_url: https://www.smoking-meat.com/april-23-2015-smoked-3-2-1-st-louis-style-spare-ribs
-tags: *id001
+tags:
+- pork spare ribs
+- bbq
 total_time: null
 type: null
 uid: 3179CA05-3048-4C58-A798-B62AF92FA3A9-1710-0000012FA261F246

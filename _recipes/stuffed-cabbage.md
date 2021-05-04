@@ -1,8 +1,6 @@
 ---
 title: "Stuffed Cabbage"
 filename: "stuffed-cabbage"
-categories: &id001
-- ground beef
 cook_time: 1 hr
 created: '2020-12-26 14:59:17'
 created_ts: 1608994757
@@ -61,7 +59,8 @@ servings: 'Yield: 6 servings'
 slug: stuffed-cabbage
 source: foodnetwork.com
 source_url: https://www.foodnetwork.com/recipes/ina-garten/stuffed-cabbage-recipe-1920701
-tags: *id001
+tags:
+- ground beef
 total_time: null
 type: null
 uid: 1737A50E-3E47-4C94-89BC-6CE060E71748-1607-000000744934ACAF

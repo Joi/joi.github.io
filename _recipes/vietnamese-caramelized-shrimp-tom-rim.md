@@ -1,8 +1,6 @@
 ---
 title: "Vietnamese Caramelized Shrimp (Tom Rim)"
 filename: "vietnamese-caramelized-shrimp-tom-rim"
-categories: &id001
-- shrimp
 cook_time: ''
 created: '2021-04-12 18:30:31'
 created_ts: 1618252231
@@ -50,7 +48,8 @@ servings: Serves 4-6
 slug: vietnamese-caramelized-shrimp-tom-rim
 source: vickypham.com
 source_url: https://www.vickypham.com/blog/vietnamese-caramelized-shrimp-tom-rim
-tags: *id001
+tags:
+- shrimp
 total_time: ''
 type: null
 uid: F2EDF068-F593-4D62-954D-2D9C68AA856D-654-000017927117125D

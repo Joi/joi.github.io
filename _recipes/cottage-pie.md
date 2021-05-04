@@ -1,10 +1,6 @@
 ---
 title: "Cottage Pie"
 filename: "cottage-pie"
-categories: &id001
-- beef
-- egg
-- ground beef
 cook_time: 2h 15min
 created: '2020-02-03 16:00:21'
 created_ts: 1580745621
@@ -35,7 +31,10 @@ servings: 10 portions
 slug: cottage-pie
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r312949
-tags: *id001
+tags:
+- beef
+- egg
+- ground beef
 total_time: null
 type: null
 uid: D456D7F1-F235-49BA-8D43-4688CA578FEA-408-00004FA89F09169C

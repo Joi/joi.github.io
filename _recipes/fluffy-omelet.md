@@ -1,9 +1,6 @@
 ---
 title: "Fluffy Omelet"
 filename: "fluffy-omelet"
-categories: &id001
-- breakfast
-- egg
 cook_time: null
 created: '2020-02-03 14:50:35'
 created_ts: 1580741435
@@ -31,7 +28,9 @@ servings: Serves 2
 slug: fluffy-omelet
 source: americastestkitchen.com
 source_url: https://www.americastestkitchen.com/recipes/7327-fluffy-omelet
-tags: *id001
+tags:
+- breakfast
+- egg
 total_time: null
 type: null
 uid: 7F1689F8-3BD8-40D9-AB99-1204CE2115DC-408-00004BD68AFD291D

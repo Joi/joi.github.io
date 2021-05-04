@@ -1,9 +1,6 @@
 ---
 title: "Pasta alla Pomarola"
 filename: "pasta-alla-pomarola"
-categories: &id001
-- pasta
-- tomato
 cook_time: ''
 created: '2020-07-04 18:27:57'
 created_ts: 1593887277
@@ -40,7 +37,9 @@ servings: Makes about 8 cups sauce; pasta recipe serves 4
 slug: pasta-alla-pomarola
 source: Salt, Fat, Acid, Heat
 source_url: null
-tags: *id001
+tags:
+- pasta
+- tomato
 total_time: ''
 type: null
 uid: 32733CD5-0A74-4CA3-8DD2-73D71EAE180F-631-00014D5CD603566D

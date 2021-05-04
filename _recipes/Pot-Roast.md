@@ -1,10 +1,6 @@
 ---
 title: "Pot Roast"
 filename: "pot-roast"
-categories: &id001
-- beef
-- short ribs
-- chuck roast
 cook_time: 3 hours
 created: '2020-03-31 17:17:45'
 created_ts: 1585675065
@@ -43,7 +39,10 @@ servings: Yield 6 to 8 servings
 slug: pot-roast
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018016-pot-roast?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
-tags: *id001
+tags:
+- beef
+- short ribs
+- chuck roast
 total_time: ''
 type: null
 uid: 9E51E154-F0B2-46FC-BF16-AF76BFEC11E9-16595-00014AA0B768B050

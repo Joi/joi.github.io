@@ -1,8 +1,6 @@
 ---
 title: "Simple Carbonara"
 filename: "simple-carbonara"
-categories: &id001
-- pasta
 cook_time: ''
 created: '2020-09-16 13:27:18'
 created_ts: 1600262838
@@ -41,7 +39,8 @@ servings: 4 servings
 slug: simple-carbonara
 source: bonappetit.com
 source_url: https://www.bonappetit.com/recipe/simple-carbonara
-tags: *id001
+tags:
+- pasta
 total_time: ''
 type: null
 uid: 2C518E96-85B6-4C10-8991-75E0472E2FFA-50715-000A1E5ECEDB8277

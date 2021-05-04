@@ -1,8 +1,6 @@
 ---
 title: "Instapot Chuck Eye Stew"
 filename: "instapot-chuck-eye-stew"
-categories: &id001
-- meat
 cook_time: ''
 created: '2020-04-26 22:14:09'
 created_ts: 1587939249
@@ -60,7 +58,8 @@ servings: '2'
 slug: instapot-chuck-eye-stew
 source: null
 source_url: null
-tags: *id001
+tags:
+- meat
 total_time: ''
 type: null
 uid: CB5616BE-378B-4E49-BD72-A9B439D968A7-89150-000287A752BD566F

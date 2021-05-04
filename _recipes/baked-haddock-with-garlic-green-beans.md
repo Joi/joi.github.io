@@ -1,9 +1,6 @@
 ---
 title: "Baked Haddock with Garlic Green Beans"
 filename: "baked-haddock-with-garlic-green-beans"
-categories: &id001
-- fish
-- white fish
 cook_time: null
 created: '2020-03-28 14:23:44'
 created_ts: 1585405424
@@ -34,7 +31,9 @@ servings: Serves 4
 slug: baked-haddock-with-garlic-green-beans
 source: cookscountry.com
 source_url: https://www.cookscountry.com/recipes/7201-baked-haddock-with-garlic-green-beans?extcode=MCSKM10L0&ref=new_search_experience_2
-tags: *id001
+tags:
+- fish
+- white fish
 total_time: null
 type: null
 uid: 13192CCB-2867-4B1E-B410-8C395AD675BB-11348-0000079E3EE15275

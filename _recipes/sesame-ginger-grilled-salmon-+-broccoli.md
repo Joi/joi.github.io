@@ -1,8 +1,6 @@
 ---
 title: "Sesame Ginger Grilled Salmon + Broccoli"
 filename: "sesame-ginger-grilled-salmon-+-broccoli"
-categories: &id001
-- salmon
 cook_time: ''
 created: '2020-08-28 20:37:57'
 created_ts: 1598647077
@@ -32,7 +30,8 @@ servings: Servings:4
 slug: sesame-ginger-grilled-salmon-+-broccoli
 source: yummly.com
 source_url: https://www.yummly.com/recipe/Sesame-Ginger-Grilled-Salmon-_-Broccoli-2531722
-tags: *id001
+tags:
+- salmon
 total_time: 25 min
 type: null
 uid: 5CC9E5EB-F420-4315-A52C-AC86F69DFAD5-2241-000460E422691DD3

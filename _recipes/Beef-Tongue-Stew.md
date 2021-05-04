@@ -1,8 +1,6 @@
 ---
 title: "Beef Tongue Stew"
 filename: "beef-tongue-stew"
-categories: &id001
-- tongue
 cook_time: ''
 created: '2021-01-21 20:05:32'
 created_ts: 1611259532
@@ -89,12 +87,13 @@ photos_dict:
   '8': beef-tongue-stew-8.jpg
   '9': beef-tongue-stew-9.jpg
 prep_time: ''
-rating: 4
+rating: 5
 servings: ''
 slug: beef-tongue-stew
 source: null
 source_url: null
-tags: *id001
+tags:
+- tongue
 total_time: ''
 type: null
 uid: 38671B20-78DF-4FD9-AFFB-C105A172BBDB-2310-0000EC521E0EC0EE

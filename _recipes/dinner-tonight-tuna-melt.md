@@ -1,8 +1,6 @@
 ---
 title: "Dinner Tonight: Tuna Melt"
 filename: "dinner-tonight-tuna-melt"
-categories: &id001
-- tuna
 cook_time: ''
 created: '2021-04-10 19:16:39'
 created_ts: 1618082199
@@ -46,7 +44,8 @@ servings: '2'
 slug: dinner-tonight-tuna-melt
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2009/07/dinner-tonight-tuna-melt-recipe.html
-tags: *id001
+tags:
+- tuna
 total_time: ''
 type: null
 uid: 79FB1554-05DD-4616-8CCD-565BF99F61FC-88379-00054987806B3388

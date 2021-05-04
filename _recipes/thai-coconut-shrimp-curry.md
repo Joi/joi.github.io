@@ -1,9 +1,6 @@
 ---
 title: "Thai Coconut Shrimp Curry"
 filename: "thai-coconut-shrimp-curry"
-categories: &id001
-- shrimp
-- curry
 cook_time: null
 created: '2020-10-14 11:40:56'
 created_ts: 1602675656
@@ -33,7 +30,9 @@ servings: null
 slug: thai-coconut-shrimp-curry
 source: peasandcrayons.com
 source_url: https://peasandcrayons.com/2019/10/thai-coconut-shrimp-curry.html
-tags: *id001
+tags:
+- shrimp
+- curry
 total_time: null
 type: null
 uid: 5B35D45F-9FF9-4147-BAE7-5FA3B09E4004-31316-00001DFFE246B2B2

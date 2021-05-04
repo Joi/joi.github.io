@@ -1,8 +1,6 @@
 ---
 title: "Chicken Avocado Pupusas"
 filename: "chicken-avocado-pupusas"
-categories: &id001
-- chicken
 cook_time: 1h
 created: '2020-02-03 16:01:52'
 created_ts: 1580745712
@@ -34,7 +32,8 @@ servings: 4 portions
 slug: chicken-avocado-pupusas
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r238843
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: 5A12745F-9F56-42F3-A558-FA8B3190FBF5-408-00004FBB9DF425D5

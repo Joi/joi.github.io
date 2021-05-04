@@ -3,6 +3,7 @@ title: Sausage
 tag_key: sausage
 recipes:
 - mine: null
+  p_recipe_id: 229
   permalink: /recipes/sous-vide-sausage
   photo_thumb: sous-vide-sausage-thumb.jpg
   rating: 5

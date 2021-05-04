@@ -1,10 +1,6 @@
 ---
 title: "Marie Rose Sauce"
 filename: "marie-rose-sauce"
-categories: &id001
-- shrimp
-- crab
-- sauce
 cook_time: ''
 created: '2021-01-22 21:36:16'
 created_ts: 1611351376
@@ -34,7 +30,10 @@ servings: ''
 slug: marie-rose-sauce
 source: null
 source_url: null
-tags: *id001
+tags:
+- shrimp
+- crab
+- sauce
 total_time: ''
 type: null
 uid: B6713303-47E6-4EC6-B28A-A94F33DE95C9-31488-00001728BCEAC9EC

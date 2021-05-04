@@ -1,13 +1,6 @@
 ---
 title: "Fish Meuniere"
 filename: "fish-meuniere"
-categories: &id001
-- fish
-- seafood
-- salmon
-- sole
-- white fish
-- flounder
 cook_time: ''
 created: '2020-03-07 15:44:48'
 created_ts: 1583595888
@@ -26,7 +19,8 @@ intrash: 0
 meal_dates:
 - '2021-01-15'
 - '2021-04-16'
-meal_types: 3|3
+- '2021-04-27'
+meal_types: 3|3|3
 mine: 1
 name: Fish Meuniere
 p_recipe_id: 47
@@ -35,13 +29,20 @@ photo_large: fish-meuniere-large.jpg
 photo_thumb: fish-meuniere-thumb.jpg
 photos_dict:
   '1': fish-meuniere-1.jpg
+  '2': fish-meuniere-2.jpg
 prep_time: ''
 rating: 5
 servings: ''
 slug: fish-meuniere
 source: null
 source_url: null
-tags: *id001
+tags:
+- fish
+- seafood
+- salmon
+- sole
+- white fish
+- flounder
 total_time: ''
 type: null
 uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4
@@ -71,5 +72,5 @@ uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4
 <p>Transfer the fillets to heated plates and stick in oven at 200ºF if you have oven on.</p>
 <p>Heat the 4 Tbsp of butter in a skillet over medium high heat until it melts. Should be about a minute. Add nuts and swirl until the butter is brown smells nutty - another minute or so.</p>
 <p>Top the fish with parsley.</p>
-<p>Ad lemon juice to butter and season with salt. Cover fish with brown butter sauce and serve with lemon wedges.</p>
+<p>Add lemon juice to butter and season with salt. Cover fish with brown butter sauce and serve with lemon wedges.</p>
 </div>	</div>

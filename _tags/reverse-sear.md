@@ -1,6 +1,6 @@
 ---
 title: Reverse Sear
-tag_key: reverse-sear
+tag_key: reverse sear
 notes:
   feature:
   - date: '2020-08-12'

@@ -1,8 +1,6 @@
 ---
 title: "Tim McNulty's Skate Wings Piccata"
 filename: "tim-mcnultys-skate-wings-piccata"
-categories: &id001
-- skate wings
 cook_time: 30 minutes
 created: '2020-05-27 12:44:39'
 created_ts: 1590583479
@@ -32,7 +30,8 @@ servings: Yield 6 servings
 slug: tim-mcnultys-skate-wings-piccata
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/8583-tim-mcnultys-skate-wings-piccata?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=3
-tags: *id001
+tags:
+- skate wings
 total_time: ''
 type: null
 uid: DBFAB744-4396-4E8D-92AE-115C6E16D77A-29546-00034653B911D352

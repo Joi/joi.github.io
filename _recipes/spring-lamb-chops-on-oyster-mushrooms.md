@@ -1,9 +1,6 @@
 ---
 title: "Spring Lamb Chops on Oyster Mushrooms"
 filename: "spring-lamb-chops-on-oyster-mushrooms"
-categories: &id001
-- lamb
-- mushroom
 cook_time: ''
 created: '2021-03-07 12:22:58'
 created_ts: 1615119778
@@ -42,7 +39,9 @@ servings: 2 servings
 slug: spring-lamb-chops-on-oyster-mushrooms
 source: myrecipes.com
 source_url: https://www.myrecipes.com/recipe/spring-lamb-chops-on-oyster-mushrooms
-tags: *id001
+tags:
+- lamb
+- mushroom
 total_time: ''
 type: null
 uid: 9F594289-F2B5-4895-9E02-10B0154A5BDA

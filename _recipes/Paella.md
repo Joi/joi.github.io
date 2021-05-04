@@ -1,9 +1,6 @@
 ---
 title: "Paella"
 filename: "paella"
-categories: &id001
-- seafood
-- rice
 cook_time: ''
 created: '2020-09-12 14:56:58'
 created_ts: 1599922618
@@ -41,7 +38,9 @@ servings: ''
 slug: paella
 source: null
 source_url: null
-tags: *id001
+tags:
+- seafood
+- rice
 total_time: ''
 type: null
 uid: D012AD02-2C8B-45D6-B54B-B7C3339CDF60-1119-00000022984CEC03

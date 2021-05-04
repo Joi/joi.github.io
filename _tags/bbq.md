@@ -34,31 +34,43 @@ pages:
 - Spatchcocking
 recipes:
 - mine: null
+  p_recipe_id: 364
   permalink: /recipes/3-2-1-ribs
   photo_thumb: 3-2-1-ribs-thumb.jpg
   rating: 0
   title: 3 2 1 Ribs
 - mine: null
+  p_recipe_id: 341
+  permalink: /recipes/bbq-chicken
+  photo_thumb: bbq-chicken-thumb.jpg
+  rating: 5
+  title: BBQ Chicken
+- mine: null
+  p_recipe_id: 505
   permalink: /recipes/bbq-rub
   photo_thumb: bbq-rub-thumb.jpg
   rating: 5
   title: BBQ Rub
 - mine: null
+  p_recipe_id: 246
   permalink: /recipes/bbq-sauce
   photo_thumb: bbq-sauce-thumb.jpg
   rating: 5
   title: BBQ Sauce
 - mine: null
+  p_recipe_id: 365
   permalink: /recipes/kansas-city-bbq-sauce
   photo_thumb: kansas-city-bbq-sauce-thumb.jpg
   rating: 0
   title: Kansas City BBQ Sauce
 - mine: null
+  p_recipe_id: 366
   permalink: /recipes/smoked-3-2-1-st-louis-style-spare-ribs
   photo_thumb: null
   rating: 0
   title: Smoked 3-2-1 St. Louis Style Spare Ribs
 - mine: null
+  p_recipe_id: 387
   permalink: /recipes/smoked-and-sliced-beef-chuck-roast
   photo_thumb: smoked-and-sliced-beef-chuck-roast-thumb.jpg
   rating: 0
@@ -77,11 +89,14 @@ rel_tags_count:
   - 3
   - chemistry
   chicken:
-  - 1
+  - 2
   - chicken
   chuck-roast:
   - 1
   - chuck roast
+  grill:
+  - 1
+  - grill
   grilling:
   - 5
   - grilling

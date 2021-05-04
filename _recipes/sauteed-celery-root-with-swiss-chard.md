@@ -1,9 +1,6 @@
 ---
 title: "Sauteed Celery Root with Swiss Chard"
 filename: "sauteed-celery-root-with-swiss-chard"
-categories: &id001
-- swiss chard
-- celery root
 cook_time: ''
 created: '2020-08-10 18:27:30'
 created_ts: 1597084050
@@ -39,7 +36,9 @@ servings: ''
 slug: sauteed-celery-root-with-swiss-chard
 source: nashsorganicproduce.com
 source_url: http://nashsorganicproduce.com/recipes/sauteed-celery-root-with-swiss-chard/
-tags: *id001
+tags:
+- swiss chard
+- celery root
 total_time: ''
 type: null
 uid: B502C26C-369B-4679-9CDA-699DA5AB2BA8-1060-000261A7AA093FFB

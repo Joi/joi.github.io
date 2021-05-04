@@ -1,9 +1,6 @@
 ---
 title: "Asparagus Soup with Parmesan Shortbread Coins"
 filename: "asparagus-soup-with-parmesan-shortbread-coins"
-categories: &id001
-- soup
-- asparagus
 cook_time: 1 hr 30 min
 created: '2020-07-01 14:13:08'
 created_ts: 1593612788
@@ -64,7 +61,9 @@ servings: 'Serves : 6'
 slug: asparagus-soup-with-parmesan-shortbread-coins
 source: foodandwine.com
 source_url: https://www.foodandwine.com/recipes/asparagus-soup-parmesan-shortbread-coins
-tags: *id001
+tags:
+- soup
+- asparagus
 total_time: ''
 type: null
 uid: B6F886D7-7460-4A26-B8FD-D9967B8D756A-631-000053B5D5899A56

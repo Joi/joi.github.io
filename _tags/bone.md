@@ -3,6 +3,7 @@ title: Bone
 tag_key: bone
 recipes:
 - mine: null
+  p_recipe_id: 382
   permalink: /recipes/beef-bone-broth
   photo_thumb: beef-bone-broth-thumb.jpg
   rating: 0

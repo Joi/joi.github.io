@@ -1,10 +1,6 @@
 ---
 title: "Pollock in Garlic-Butter Sauce"
 filename: "pollock-in-garlic-butter-sauce"
-categories: &id001
-- fish
-- white fish
-- pollack
 cook_time: '15'
 created: '2020-05-15 18:20:51'
 created_ts: 1589566851
@@ -41,7 +37,10 @@ servings: Yield 4
 slug: pollock-in-garlic-butter-sauce
 source: epicurious.com
 source_url: https://www.epicurious.com/recipes/member/views/pollock-in-garlic-butter-sauce-51938241
-tags: *id001
+tags:
+- fish
+- white fish
+- pollack
 total_time: ''
 type: null
 uid: B45C4CDB-0EB2-4099-9B31-DCF1D9982EF6-13891-00010239B8BA03CE

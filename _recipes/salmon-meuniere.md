@@ -1,8 +1,6 @@
 ---
 title: "Salmon Meuniere"
 filename: "salmon-meuniere"
-categories: &id001
-- salmon
 cook_time: 10 mins
 created: '2020-07-23 11:15:23'
 created_ts: 1595502923
@@ -34,7 +32,8 @@ servings: 'Servings: 2 servings'
 slug: salmon-meuniere
 source: wellplated.com
 source_url: https://www.wellplated.com/salmon-meuniere/
-tags: *id001
+tags:
+- salmon
 total_time: ''
 type: null
 uid: 281C0C73-405E-432E-A50B-7BF799868111-1118-00000110C5CB2AD2

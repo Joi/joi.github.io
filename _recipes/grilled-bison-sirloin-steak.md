@@ -1,8 +1,6 @@
 ---
 title: "Grilled Bison Sirloin Steak"
 filename: "grilled-bison-sirloin-steak"
-categories: &id001
-- bison
 cook_time: 10 min
 created: '2020-03-21 20:37:24'
 created_ts: 1584823044
@@ -33,7 +31,8 @@ servings: ''
 slug: grilled-bison-sirloin-steak
 source: howtocookmeat.com
 source_url: https://howtocookmeat.com/recipes/grilled-bison-sirloin-steak/
-tags: *id001
+tags:
+- bison
 total_time: ''
 type: null
 uid: D8148370-5CE9-402D-AE3E-48A3EC6EF6FD-9067-0001DBBAF05A061C

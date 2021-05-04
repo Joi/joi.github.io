@@ -1,9 +1,6 @@
 ---
 title: "Roasted Cauliflower"
 filename: "roasted-cauliflower"
-categories: &id001
-- vegetables
-- cauliflower
 cook_time: 30 minutes
 created: '2021-02-13 15:24:29'
 created_ts: 1613229869
@@ -36,7 +33,9 @@ servings: Yield 4 servings
 slug: roasted-cauliflower
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/7588-roasted-cauliflower?smid=ck-recipe-iOS-share
-tags: *id001
+tags:
+- vegetables
+- cauliflower
 total_time: null
 type: null
 uid: AB5DBA59-73DE-4C9D-83F7-6B6B83A5D8DB-21557-000010B258A392DD

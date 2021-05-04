@@ -1,8 +1,6 @@
 ---
 title: "Tuna Yukke"
 filename: "tuna-yukke"
-categories: &id001
-- tuna
 cook_time: 10 min
 created: '2021-04-10 19:18:58'
 created_ts: 1618082338
@@ -35,7 +33,8 @@ servings: "3\u4EBA\u5206"
 slug: tuna-yukke
 source: oceans-nadia.com
 source_url: https://oceans-nadia.com/user/24730/recipe/376026
-tags: *id001
+tags:
+- tuna
 total_time: 10 min
 type: null
 uid: 37886CE3-E80A-4074-BEC1-A7FEB25A418F-88379-000549A6F5DF0BBD

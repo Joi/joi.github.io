@@ -1,5 +1,9 @@
 {
  "a": {
+  "abalone": {
+   "filename": "abalone",
+   "titlecase": "Abalone"
+  },
   "anova oven": {
    "filename": "anova-oven",
    "titlecase": "Anova Oven"
@@ -142,6 +146,10 @@
   }
  },
  "d": {
+  "delmonico": {
+   "filename": "delmonico",
+   "titlecase": "Delmonico"
+  },
   "duck": {
    "filename": "duck",
    "titlecase": "Duck"
@@ -234,9 +242,13 @@
   }
  },
  "j": {
-  "JNAT": {
+  "Japanese": {
+   "filename": "japanese",
+   "titlecase": "Japanese"
+  },
+  "Jnat": {
    "filename": "jnat",
-   "titlecase": "JNAT"
+   "titlecase": "Jnat"
   }
  },
  "k": {
@@ -265,6 +277,10 @@
   "lamb": {
    "filename": "lamb",
    "titlecase": "Lamb"
+  },
+  "lamb leg": {
+   "filename": "lamb-leg",
+   "titlecase": "Lamb Leg"
   },
   "lobster": {
    "filename": "lobster",
@@ -309,6 +325,10 @@
   "napa cabbage": {
    "filename": "napa-cabbage",
    "titlecase": "Napa Cabbage"
+  },
+  "north african": {
+   "filename": "north-african",
+   "titlecase": "North African"
   }
  },
  "o": {
@@ -457,6 +477,10 @@
   "shrimp": {
    "filename": "shrimp",
    "titlecase": "Shrimp"
+  },
+  "sirloin": {
+   "filename": "sirloin",
+   "titlecase": "Sirloin"
   },
   "skate wings": {
    "filename": "skate-wings",

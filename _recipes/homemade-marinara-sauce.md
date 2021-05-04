@@ -1,11 +1,6 @@
 ---
 title: "Homemade Marinara Sauce"
 filename: "homemade-marinara-sauce"
-categories: &id001
-- pasta
-- italian
-- sauce
-- tomato
 cook_time: 35 minutes
 created: '2020-12-16 17:55:17'
 created_ts: 1608141317
@@ -46,7 +41,11 @@ servings: 'Servings: 8'
 slug: homemade-marinara-sauce
 source: cookingclassy.com
 source_url: https://www.cookingclassy.com/homemade-marinara-sauce/
-tags: *id001
+tags:
+- pasta
+- italian
+- sauce
+- tomato
 total_time: ''
 type: null
 uid: EE565425-59C5-4F36-8476-7616358D2823-903-00005D3FB1B03E44

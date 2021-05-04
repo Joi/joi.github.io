@@ -1,8 +1,6 @@
 ---
 title: "Turkey Meatloaf with Ketchup-Brown Sugar Glaze"
 filename: "turkey-meatloaf-with-ketchup-brown-sugar-glaze"
-categories: &id001
-- turkey
 cook_time: 2 hours
 created: '2020-05-14 15:57:26'
 created_ts: 1589471846
@@ -50,7 +48,8 @@ servings: Serves 4 to 6
 slug: turkey-meatloaf-with-ketchup-brown-sugar-glaze
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/9712-turkey-meatloaf-with-ketchup-brown-sugar-glaze
-tags: *id001
+tags:
+- turkey
 total_time: ''
 type: null
 uid: 1BC1B184-7B69-45A5-B9D9-C93CB14781CC-13891-0000ABD2789F5290

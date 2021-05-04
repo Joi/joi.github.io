@@ -1,9 +1,6 @@
 ---
 title: "Moroccan Steamed Lamb Shoulder"
 filename: "moroccan-steamed-lamb-shoulder"
-categories: &id001
-- lamb
-- meat
 cook_time: 4 hours
 created: '2020-05-14 14:30:03'
 created_ts: 1589466603
@@ -36,7 +33,9 @@ servings: Yield 4 to 6 servings
 slug: moroccan-steamed-lamb-shoulder
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017718-moroccan-steamed-lamb-shoulder?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
-tags: *id001
+tags:
+- lamb
+- meat
 total_time: ''
 type: null
 uid: 07360EAC-7A31-4378-8FE7-9338446ECA6F-13891-0000A70DEA85C9EB

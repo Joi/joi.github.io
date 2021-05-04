@@ -1,9 +1,6 @@
 ---
 title: "Chicken Stock"
 filename: "chicken-stock"
-categories: &id001
-- chicken
-- soup
 cook_time: ''
 created: '2020-09-01 18:05:51'
 created_ts: 1598983551
@@ -61,7 +58,9 @@ servings: ''
 slug: chicken-stock
 source: null
 source_url: null
-tags: *id001
+tags:
+- chicken
+- soup
 total_time: ''
 type: null
 uid: F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C

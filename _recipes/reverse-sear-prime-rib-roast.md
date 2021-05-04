@@ -1,8 +1,6 @@
 ---
 title: "Reverse-Sear Prime Rib Roast"
 filename: "reverse-sear-prime-rib-roast"
-categories: &id001
-- prime rib
 cook_time: 3 hrs 36 mins
 created: '2020-08-17 13:32:51'
 created_ts: 1597671171
@@ -30,7 +28,8 @@ servings: 'Servings: 20'
 slug: reverse-sear-prime-rib-roast
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/245638/reverse-sear-prime-rib-roast/
-tags: *id001
+tags:
+- prime rib
 total_time: null
 type: null
 uid: 5EE80B5F-AD7C-45F8-82FB-6BAB98ABE0C6-17635-00000CA22423AE75

@@ -1,8 +1,6 @@
 ---
 title: "Prime Rib"
 filename: "prime-rib"
-categories: &id001
-- prime rib
 cook_time: 5 hours
 created: '2020-08-20 16:02:42'
 created_ts: 1597939362
@@ -60,7 +58,8 @@ servings: ''
 slug: prime-rib
 source: null
 source_url: null
-tags: *id001
+tags:
+- prime rib
 total_time: ''
 type: null
 uid: 1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259

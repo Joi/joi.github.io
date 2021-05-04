@@ -1,9 +1,6 @@
 ---
 title: "Beef Bone Broth"
 filename: "beef-bone-broth"
-categories: &id001
-- soup
-- bone
 cook_time: 9 to 24 hours
 created: '2020-10-13 20:10:16'
 created_ts: 1602619816
@@ -51,7 +48,9 @@ servings: About 8 cups of broth
 slug: beef-bone-broth
 source: epicurious.com
 source_url: https://www.epicurious.com/recipes/food/views/beef-bone-broth-51260700
-tags: *id001
+tags:
+- soup
+- bone
 total_time: ''
 type: null
 uid: 193BCEC7-317B-4381-8CA9-223F4306AD0D-38082-0000B63FB3D98158

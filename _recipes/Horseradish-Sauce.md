@@ -1,8 +1,6 @@
 ---
 title: "Horseradish Sauce"
 filename: "horseradish-sauce"
-categories: &id001
-- sauce
 cook_time: 2 minutes
 created: '2020-07-18 17:32:40'
 created_ts: 1595093560
@@ -41,7 +39,8 @@ servings: 'Servings: 12'
 slug: horseradish-sauce
 source: natashaskitchen.com
 source_url: https://natashaskitchen.com/horseradish-sauce-recipe/
-tags: *id001
+tags:
+- sauce
 total_time: null
 type: null
 uid: EC595FE1-4031-41AB-8691-CD7CA7131526-24647-00000FABE7C420F3

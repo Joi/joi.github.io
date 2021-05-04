@@ -1,8 +1,6 @@
 ---
 title: "Braided Milk Bread (TM5/6 Metric)"
 filename: "braided-milk-bread-tm56-metric"
-categories: &id001
-- bread and biscuits
 cook_time: 2h 20min
 created: '2020-02-03 15:59:19'
 created_ts: 1580745559
@@ -29,7 +27,8 @@ servings: 30 slices
 slug: braided-milk-bread-tm56-metric
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r549313
-tags: *id001
+tags:
+- bread and biscuits
 total_time: null
 type: null
 uid: 91CD9162-7835-4CC9-B522-DB0E44D8E2FA-408-00004F9A26F3CDCD

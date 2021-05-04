@@ -1,7 +1,6 @@
 ---
 title: "Roast Pork Butt"
 filename: "roast-pork-butt"
-categories: null
 cook_time: 10 h
 created: '2020-09-24 00:49:42'
 created_ts: 1600908582

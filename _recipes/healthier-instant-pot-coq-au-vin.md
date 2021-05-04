@@ -1,8 +1,6 @@
 ---
 title: "Healthier Instant Pot Coq Au Vin"
 filename: "healthier-instant-pot-coq-au-vin"
-categories: &id001
-- chicken
 cook_time: 15 minutes
 created: '2020-09-17 15:23:42'
 created_ts: 1600356222
@@ -53,7 +51,8 @@ servings: null
 slug: healthier-instant-pot-coq-au-vin
 source: halfbakedharvest.com
 source_url: https://www.halfbakedharvest.com/healthier-instant-pot-coq-au-vin/
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: FC2E6004-A0DF-4072-942F-2CD0ABC8870F-15576-00000957B542A641

@@ -1,6 +1,6 @@
 ---
 title: Pressure Cooker
-tag_key: pressure-cooker
+tag_key: pressure cooker
 notes:
   feature: []
   rough:
@@ -12,6 +12,7 @@ notes:
     uri_path: /notes/2020-09-17-dinner.html
 recipes:
 - mine: null
+  p_recipe_id: 145
   permalink: /recipes/pressure-cooker-halibut-fillets-with-tomatoes-and-olives
   photo_thumb: pressure-cooker-halibut-fillets-with-tomatoes-and-olives-thumb.jpg
   rating: 4

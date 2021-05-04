@@ -1,8 +1,6 @@
 ---
 title: "The Best Pork Ribs on a Gas Grill"
 filename: "the-best-pork-ribs-on-a-gas-grill"
-categories: &id001
-- pork spare ribs
 cook_time: null
 created: '2020-09-08 22:35:04'
 created_ts: 1599604504
@@ -74,7 +72,8 @@ servings: null
 slug: the-best-pork-ribs-on-a-gas-grill
 source: thecountrycook.net
 source_url: https://www.thecountrycook.net/how-to-gas-grill-the-best-pork-ribs-easy-method/
-tags: *id001
+tags:
+- pork spare ribs
 total_time: null
 type: null
 uid: 28B92DE2-549F-4D03-8E53-BB9E31990D0F-18544-00000BABF8C1D785

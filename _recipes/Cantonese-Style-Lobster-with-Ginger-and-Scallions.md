@@ -1,9 +1,6 @@
 ---
 title: "Cantonese-Style Lobster with Ginger and Scallions"
 filename: "cantonese-style-lobster-with-ginger-and-scallions"
-categories: &id001
-- lobster
-- chinese
 cook_time: 30 minutes
 created: '2021-03-09 15:51:23'
 created_ts: 1615305083
@@ -54,7 +51,9 @@ servings: Serves 3 to 4
 slug: cantonese-style-lobster-with-ginger-and-scallions
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2013/05/cantonese-lobster-chinese-ginger-scallion-recipe.html
-tags: *id001
+tags:
+- lobster
+- chinese
 total_time: ''
 type: null
 uid: BEAF973D-2E93-4FCD-A6D7-A538E8A6EB9F-39232-0002EBFB5135FE41

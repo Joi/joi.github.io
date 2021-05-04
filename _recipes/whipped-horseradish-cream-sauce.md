@@ -1,8 +1,6 @@
 ---
 title: "Whipped Horseradish Cream Sauce"
 filename: "whipped-horseradish-cream-sauce"
-categories: &id001
-- sauce
 cook_time: 10 mins
 created: '2020-12-20 15:34:48'
 created_ts: 1608478488
@@ -36,7 +34,8 @@ servings: ''
 slug: whipped-horseradish-cream-sauce
 source: savoryexperiments.com
 source_url: https://www.savoryexperiments.com/horseradish-cream-sauce/
-tags: *id001
+tags:
+- sauce
 total_time: ''
 type: null
 uid: 7B5FB550-94DE-49BD-B637-98DDFDE388AF-27386-00004BB5714C9581

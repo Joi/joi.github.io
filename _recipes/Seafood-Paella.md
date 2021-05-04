@@ -1,8 +1,6 @@
 ---
 title: "Seafood Paella"
 filename: "seafood-paella"
-categories: &id001
-- rice
 cook_time: 35 minutes
 created: '2020-08-18 01:41:16'
 created_ts: 1597714876
@@ -59,7 +57,8 @@ servings: 'Yield: 6 servings'
 slug: seafood-paella
 source: simplyrecipes.com
 source_url: https://www.simplyrecipes.com/recipes/seafood_paella_on_the_grill/
-tags: *id001
+tags:
+- rice
 total_time: null
 type: null
 uid: 13A4D9ED-C451-44B4-8513-416C41C2F368-19898-00000D61AE4288EB

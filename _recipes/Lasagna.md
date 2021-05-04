@@ -1,8 +1,6 @@
 ---
 title: "Lasagna"
 filename: "lasagna"
-categories: &id001
-- pasta
 cook_time: ''
 created: '2020-09-05 15:26:06'
 created_ts: 1599319566
@@ -38,7 +36,8 @@ servings: '6'
 slug: lasagna
 source: null
 source_url: null
-tags: *id001
+tags:
+- pasta
 total_time: ''
 type: null
 uid: 6F6C35A4-9968-4D48-BB77-EB7ACB3DB08B-50715-0006C481622BC914

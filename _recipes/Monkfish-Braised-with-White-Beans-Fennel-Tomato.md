@@ -1,8 +1,6 @@
 ---
 title: "Monkfish Braised with White Beans, Fennel, & Tomato"
 filename: "monkfish-braised-with-white-beans-fennel-tomato"
-categories: &id001
-- monkfish
 cook_time: ''
 created: '2020-09-01 17:52:04'
 created_ts: 1598982724
@@ -57,7 +55,8 @@ meal_dates:
 - '2020-09-19'
 - '2020-10-13'
 - '2021-03-26'
-meal_types: 3|3|3|3|3
+- '2021-04-30'
+meal_types: 3|3|3|3|3|3
 mine: null
 name: Monkfish Braised with White Beans, Fennel, & Tomato
 p_recipe_id: 328
@@ -85,7 +84,8 @@ servings: '4'
 slug: monkfish-braised-with-white-beans-fennel-tomato
 source: The Zuni Cafe Cookbook
 source_url: null
-tags: *id001
+tags:
+- monkfish
 total_time: ''
 type: null
 uid: 4BEE23AC-2D81-4286-95B1-C03143055FB4-13002-00059228C79F4EF4

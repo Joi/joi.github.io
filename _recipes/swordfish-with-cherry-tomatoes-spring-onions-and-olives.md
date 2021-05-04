@@ -1,7 +1,6 @@
 ---
 title: "Swordfish with Cherry Tomatoes, Spring Onions and Olives"
 filename: "swordfish-with-cherry-tomatoes-spring-onions-and-olives"
-categories: null
 cook_time: null
 created: '2020-07-18 11:31:49'
 created_ts: 1595071909

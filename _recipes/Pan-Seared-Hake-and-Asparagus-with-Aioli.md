@@ -1,9 +1,6 @@
 ---
 title: "Pan-Seared Hake and Asparagus with Aioli"
 filename: "pan-seared-hake-and-asparagus-with-aioli"
-categories: &id001
-- fish
-- white fish
 cook_time: 30 minutes
 created: '2020-04-30 20:06:08'
 created_ts: 1588277168
@@ -41,7 +38,9 @@ servings: Yield 4 servings
 slug: pan-seared-hake-and-asparagus-with-aioli
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019334-pan-seared-hake-and-asparagus-with-aioli?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-tags: *id001
+tags:
+- fish
+- white fish
 total_time: ''
 type: null
 uid: 7F78231B-E31F-48EE-BE37-E7A5A9A2A08C-39436-000013D1319F8269

@@ -1,8 +1,6 @@
 ---
 title: "Pressure-Cooker Coq Au Vin"
 filename: "pressure-cooker-coq-au-vin"
-categories: &id001
-- chicken
 cook_time: 'prep: 25 min. cook: 15 min. + releasing'
 created: '2020-09-17 15:30:25'
 created_ts: 1600356625
@@ -51,7 +49,8 @@ servings: 6 servings
 slug: pressure-cooker-coq-au-vin
 source: tasteofhome.com
 source_url: https://www.tasteofhome.com/recipes/pressure-cooker-coq-au-vin/
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: 73E5BCE3-92E4-4ECB-B5FF-825894F9C231-15576-00000959F8EA5EE2

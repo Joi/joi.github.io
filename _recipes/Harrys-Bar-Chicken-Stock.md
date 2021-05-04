@@ -1,9 +1,6 @@
 ---
 title: "Harry's Bar Chicken Stock"
 filename: "harrys-bar-chicken-stock"
-categories: &id001
-- chicken
-- soup
 cook_time: ''
 created: '2020-02-02 12:55:27'
 created_ts: 1580648127
@@ -67,7 +64,9 @@ servings: MAKES ABOUT 10 CUPS (2.500 ML)
 slug: harrys-bar-chicken-stock
 source: Harry's Bar Cookbook
 source_url: null
-tags: *id001
+tags:
+- chicken
+- soup
 total_time: ''
 type: null
 uid: 47365C63-5584-4742-8622-94EF89CC996B-25037-0000A09454C82C98

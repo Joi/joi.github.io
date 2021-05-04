@@ -1,9 +1,6 @@
 ---
 title: "Easy Grill-Roasted Whole Chicken"
 filename: "easy-grill-roasted-whole-chicken"
-categories: &id001
-- grill
-- chicken
 cook_time: 2 hours
 created: '2020-02-03 15:01:29'
 created_ts: 1580742089
@@ -30,7 +27,9 @@ servings: Serves 4
 slug: easy-grill-roasted-whole-chicken
 source: americastestkitchen.com
 source_url: https://www.americastestkitchen.com/recipes/11725-easy-grill-roasted-whole-chicken
-tags: *id001
+tags:
+- grill
+- chicken
 total_time: null
 type: null
 uid: 44BACEF1-5158-4EC0-8D55-E581AFD91332-408-00004C6EEF615E64

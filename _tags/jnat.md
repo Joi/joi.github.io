@@ -1,5 +1,5 @@
 ---
-title: JNAT
+title: Jnat
 tag_key: jnat
 pages:
 - Binsui

@@ -1,10 +1,6 @@
 ---
 title: "Easy Ham and Cheese Omelet"
 filename: "easy-ham-and-cheese-omelet"
-categories: &id001
-- pork
-- breakfast
-- egg
 cook_time: null
 created: '2020-02-03 22:48:31'
 created_ts: 1580770111
@@ -31,7 +27,10 @@ servings: 1 omelet
 slug: easy-ham-and-cheese-omelet
 source: cookscountry.com
 source_url: https://www.cookscountry.com/recipes/11028-easy-ham-and-cheese-omelet?extcode=MCSKD10L0&ref=new_search_experience_4&t=1580770059
-tags: *id001
+tags:
+- pork
+- breakfast
+- egg
 total_time: null
 type: null
 uid: 975D913F-32E8-4ED1-A919-C061D9FCC8BC-408-000065EC77DB4640

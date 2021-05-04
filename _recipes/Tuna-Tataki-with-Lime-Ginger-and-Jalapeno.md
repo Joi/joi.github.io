@@ -1,8 +1,6 @@
 ---
 title: "Tuna Tataki with Lime, Ginger and Jalapeño"
 filename: "tuna-tataki-with-lime-ginger-and-jalapeno"
-categories: &id001
-- tuna
 cook_time: ''
 created: '2020-09-15 11:10:10'
 created_ts: 1600168210
@@ -42,7 +40,8 @@ servings: 'Yield: 1 serving'
 slug: tuna-tataki-with-lime-ginger-and-jalapeno
 source: null
 source_url: null
-tags: *id001
+tags:
+- tuna
 total_time: ''
 type: null
 uid: 0299C616-3BC7-414C-8AD7-24EA7B7FCB03-9638-000005EE30E369B7

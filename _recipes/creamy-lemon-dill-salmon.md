@@ -1,8 +1,6 @@
 ---
 title: "Creamy Lemon Dill Salmon"
 filename: "creamy-lemon-dill-salmon"
-categories: &id001
-- salmon
 cook_time: 30 minutes
 created: '2020-12-01 18:26:08'
 created_ts: 1606847168
@@ -51,7 +49,8 @@ servings: Yield 4
 slug: creamy-lemon-dill-salmon
 source: theviewfromgreatisland.com
 source_url: https://theviewfromgreatisland.com/creamy-lemon-dill-salmon/
-tags: *id001
+tags:
+- salmon
 total_time: null
 type: null
 uid: 52466DC4-48B0-443F-97F0-0D65E1EEA7CB-20866-00000F653EAA918A

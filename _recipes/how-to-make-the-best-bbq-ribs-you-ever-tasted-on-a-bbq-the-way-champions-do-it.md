@@ -1,8 +1,6 @@
 ---
 title: "How to Make the Best BBQ Ribs You Ever Tasted - On a BBQ the Way Champions Do It"
 filename: "how-to-make-the-best-bbq-ribs-you-ever-tasted-on-a-bbq-the-way-champions-do-it"
-categories: &id001
-- pork spare ribs
 cook_time: 4 to 7 hours depending on the cut you choose
 created: '2020-10-10 19:46:51'
 created_ts: 1602359211
@@ -30,7 +28,8 @@ servings: null
 slug: how-to-make-the-best-bbq-ribs-you-ever-tasted-on-a-bbq-the-way-champions-do-it
 source: amazingribs.com
 source_url: https://amazingribs.com/best-barbecue-ribs-recipe
-tags: *id001
+tags:
+- pork spare ribs
 total_time: null
 type: null
 uid: 443AA4DF-83BF-4015-B7D3-4E1D3F116F9A-90978-00015781BFD6E773

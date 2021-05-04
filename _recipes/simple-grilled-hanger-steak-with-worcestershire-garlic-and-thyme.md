@@ -1,8 +1,6 @@
 ---
 title: "Simple Grilled Hanger Steak with Worcestershire, Garlic, and Thyme"
 filename: "simple-grilled-hanger-steak-with-worcestershire-garlic-and-thyme"
-categories: &id001
-- beef
 cook_time: 6 minutes
 created: '2020-06-15 00:11:15'
 created_ts: 1592179875
@@ -37,7 +35,8 @@ servings: Serves 4
 slug: simple-grilled-hanger-steak-with-worcestershire-garlic-and-thyme
 source: alexandracooks.com
 source_url: https://alexandracooks.com/2017/09/08/simple-grilled-hanger-steak-worcestershire-garlic-thyme/
-tags: *id001
+tags:
+- beef
 total_time: null
 type: null
 uid: 120A4367-40B6-438F-A0A8-C1F1F18303E4-5239-000000D574A55B5A

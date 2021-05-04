@@ -3,6 +3,7 @@ title: Scallops
 tag_key: scallops
 recipes:
 - mine: null
+  p_recipe_id: 262
   permalink: /recipes/soy-balsamic-glazed-sea-scallops
   photo_thumb: soy-balsamic-glazed-sea-scallops-thumb.jpg
   rating: 5

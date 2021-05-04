@@ -1,8 +1,6 @@
 ---
 title: "Blue Cheese Dressing"
 filename: "blue-cheese-dressing"
-categories: &id001
-- sauce
 cook_time: ''
 created: '2020-08-02 20:25:29'
 created_ts: 1596399929
@@ -30,7 +28,8 @@ servings: ''
 slug: blue-cheese-dressing
 source: Salt, Fat, Acid, Heat
 source_url: null
-tags: *id001
+tags:
+- sauce
 total_time: ''
 type: null
 uid: CDF030C6-1C2A-4BF6-95CA-72A7FEBC9DFA-96025-0003C0D2A47CF20F

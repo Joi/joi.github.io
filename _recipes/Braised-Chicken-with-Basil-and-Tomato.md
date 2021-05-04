@@ -1,8 +1,6 @@
 ---
 title: "Braised Chicken with Basil and Tomato"
 filename: "braised-chicken-with-basil-and-tomato"
-categories: &id001
-- chicken
 cook_time: ''
 created: '2020-04-02 17:19:17'
 created_ts: 1585847957
@@ -39,7 +37,8 @@ servings: Serves 4 to 6
 slug: braised-chicken-with-basil-and-tomato
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato?incode=MCSCM00L0&ref=new_search_experience_19
-tags: *id001
+tags:
+- chicken
 total_time: ''
 type: null
 uid: FF6B358D-8D29-4986-84E0-27C7EBD83014-9482-0000064F04336AC0

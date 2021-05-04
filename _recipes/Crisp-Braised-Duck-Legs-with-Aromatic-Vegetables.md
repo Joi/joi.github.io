@@ -1,8 +1,6 @@
 ---
 title: "Crisp-Braised Duck Legs with Aromatic Vegetables"
 filename: "crisp-braised-duck-legs-with-aromatic-vegetables"
-categories: &id001
-- duck
 cook_time: about 2 hours
 created: '2020-04-07 12:31:28'
 created_ts: 1586262688
@@ -38,7 +36,8 @@ servings: Yield 4 servings
 slug: crisp-braised-duck-legs-with-aromatic-vegetables
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017472-crisp-braised-duck-legs-with-aromatic-vegetables?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-tags: *id001
+tags:
+- duck
 total_time: null
 type: null
 uid: 59C94A12-982E-4BD9-8826-A29B0DA9019C-24114-00000F463DF5064E

@@ -1,12 +1,23 @@
 ---
 title: Branzino
 tag_key: branzino
+notes:
+  feature:
+  - date: '2021-05-02'
+    feature: Branzino, ramps and fiddleheads
+    type: lunch
+    uri_path: /notes/2021-05-02-lunch.html
+  rough: []
 recipes:
 - mine: null
+  p_recipe_id: 417
   permalink: /recipes/roasted-branzino-with-caper-butter
   photo_thumb: roasted-branzino-with-caper-butter-thumb.jpg
   rating: 5
   title: Roasted Branzino with Caper Butter
-rel_tags_count: {}
+rel_tags_count:
+  italian:
+  - 1
+  - Italian
 
 ---

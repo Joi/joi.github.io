@@ -1,8 +1,6 @@
 ---
 title: "Shredded Chicken and Vegetable Lettuce Cups"
 filename: "shredded-chicken-and-vegetable-lettuce-cups"
-categories: &id001
-- chicken
 cook_time: 1h 15min
 created: '2020-02-03 16:07:31'
 created_ts: 1580746051
@@ -38,7 +36,8 @@ servings: 4 portions
 slug: shredded-chicken-and-vegetable-lettuce-cups
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r168065
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: 6CA83613-DD0D-4B20-B4F5-68475B593410-408-0000500CAF3CB83D

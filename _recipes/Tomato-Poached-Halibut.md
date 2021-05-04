@@ -1,8 +1,6 @@
 ---
 title: "Tomato-Poached Halibut"
 filename: "tomato-poached-halibut"
-categories: &id001
-- halibut
 cook_time: 'prep/total time: 30 min.'
 created: '2020-08-07 11:33:42'
 created_ts: 1596800022
@@ -51,7 +49,8 @@ servings: 4 servings
 slug: tomato-poached-halibut
 source: tasteofhome.com
 source_url: https://www.tasteofhome.com/recipes/tomato-poached-halibut/
-tags: *id001
+tags:
+- halibut
 total_time: ''
 type: null
 uid: 8CD26E14-3D18-4D2C-8D22-0C790E629F2B-2643-000000EA7A75D928

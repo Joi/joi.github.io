@@ -1,8 +1,6 @@
 ---
 title: "Beef Osso Buco"
 filename: "beef-osso-buco"
-categories: &id001
-- beef shank
 cook_time: 03:00
 created: '2021-04-17 13:57:00'
 created_ts: 1618667820
@@ -31,7 +29,8 @@ servings: '4'
 slug: beef-osso-buco
 source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/TAUhPl8yYWTrZPPMQ6fh
-tags: *id001
+tags:
+- beef shank
 total_time: ''
 type: null
 uid: A510DD45-44E6-46DA-8B79-9BCA60A623D3-654-000191CA7F8D71ED

@@ -1,9 +1,6 @@
 ---
 title: "Macaroni and Cheese"
 filename: "macaroni-and-cheese"
-categories: &id001
-- pasta
-- kio
 cook_time: ''
 created: '2020-05-11 16:51:10'
 created_ts: 1589215870
@@ -35,7 +32,9 @@ servings: ''
 slug: macaroni-and-cheese
 source: Mashup
 source_url: null
-tags: *id001
+tags:
+- pasta
+- kio
 total_time: ''
 type: null
 uid: 9B1AB1E8-BE10-4F36-B0F0-9E37B79BF387-4647-00010AE1B323C85C

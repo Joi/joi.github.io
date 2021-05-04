@@ -1,8 +1,6 @@
 ---
 title: "Basic Salsa Verde"
 filename: "basic-salsa-verde"
-categories: &id001
-- sauce
 cook_time: ''
 created: '2020-07-15 16:39:15'
 created_ts: 1594831155
@@ -34,7 +32,8 @@ servings: ''
 slug: basic-salsa-verde
 source: null
 source_url: null
-tags: *id001
+tags:
+- sauce
 total_time: ''
 type: null
 uid: B8A1AF50-039E-416A-967A-19D14C8A70A2-14775-000009F2FBE6BC44

@@ -7,11 +7,25 @@ notes:
     feature: Yellowtail Flounder Meuniere
     type: dinner
     uri_path: /notes/2021-04-16-dinner.html
+  - date: '2021-04-27'
+    feature: Abalone Meuniere
+    type: dinner
+    uri_path: /notes/2021-04-27-dinner.html
   rough:
   - date: '2020-09-17'
     type: dinner
     uri_path: /notes/2020-09-17-dinner.html
+recipes:
+- mine: null
+  p_recipe_id: 520
+  permalink: /recipes/monterey-bay-abalone-meuniere-style
+  photo_thumb: monterey-bay-abalone-meuniere-style-thumb.jpg
+  rating: 0
+  title: "Monterey Bay Abalone, Meuni\xE8re-Style"
 rel_tags_count:
+  abalone:
+  - 2
+  - abalone
   chicken:
   - 1
   - chicken

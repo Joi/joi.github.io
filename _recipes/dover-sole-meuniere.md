@@ -1,8 +1,6 @@
 ---
 title: "Dover Sole Meuniere"
 filename: "dover-sole-meuniere"
-categories: &id001
-- sole
 cook_time: 30 min
 created: '2020-07-31 20:34:09'
 created_ts: 1596227649
@@ -41,7 +39,8 @@ servings: 'Yield: 4 servings'
 slug: dover-sole-meuniere
 source: foodnetwork.com
 source_url: https://www.foodnetwork.com/recipes/geoffrey-zakarian/dover-sole-meuniere-3185347
-tags: *id001
+tags:
+- sole
 total_time: ''
 type: null
 uid: 7270F200-1ACF-436B-B042-C40410A9A6A0-96025-000324221A61F300

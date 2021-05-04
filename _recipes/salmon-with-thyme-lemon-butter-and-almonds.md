@@ -1,9 +1,6 @@
 ---
 title: "Salmon with Thyme, Lemon Butter and Almonds"
 filename: "salmon-with-thyme-lemon-butter-and-almonds"
-categories: &id001
-- fish
-- salmon
 cook_time: 40 minutes
 created: '2020-04-08 13:22:24'
 created_ts: 1586352144
@@ -31,7 +28,9 @@ servings: Yield 6 servings
 slug: salmon-with-thyme-lemon-butter-and-almonds
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/11687-salmon-with-thyme-lemon-butter-and-almonds?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-tags: *id001
+tags:
+- fish
+- salmon
 total_time: ''
 type: null
 uid: F83ADFD7-F747-496E-9F78-8014F6D9B01C-16595-0003B2685E3340A3

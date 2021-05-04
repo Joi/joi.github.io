@@ -1,8 +1,6 @@
 ---
 title: "Steamed Pork Buns (Char Siu Bao)"
 filename: "steamed-pork-buns-char-siu-bao"
-categories: &id001
-- pork shoulder
 cook_time: null
 created: '2020-11-08 21:09:20'
 created_ts: 1604869760
@@ -34,7 +32,8 @@ servings: 'Yield: 10 servings'
 slug: steamed-pork-buns-char-siu-bao
 source: myrecipes.com
 source_url: https://www.myrecipes.com/recipe/steamed-pork-buns-char-siu-bao
-tags: *id001
+tags:
+- pork shoulder
 total_time: null
 type: null
 uid: 2E941E51-A6DE-4FCF-AC16-1474BD78911B-26972-00000F54FB799798

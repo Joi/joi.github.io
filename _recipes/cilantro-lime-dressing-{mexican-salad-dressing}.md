@@ -1,8 +1,6 @@
 ---
 title: "Cilantro Lime Dressing {Mexican Salad Dressing}"
 filename: "cilantro-lime-dressing-{mexican-salad-dressing}"
-categories: &id001
-- salad
 cook_time: ''
 created: '2020-07-16 01:49:37'
 created_ts: 1594864177
@@ -44,7 +42,8 @@ servings: ''
 slug: cilantro-lime-dressing-{mexican-salad-dressing}
 source: fivehearthome.com
 source_url: https://www.fivehearthome.com/cilantro-lime-vinaigrette-zesty-mexican-salad-dressing-recipe/
-tags: *id001
+tags:
+- salad
 total_time: ''
 type: null
 uid: F9B2D1B0-BF79-4EFE-8703-78B7F1A63319-29053-0004C5CE4375F09A

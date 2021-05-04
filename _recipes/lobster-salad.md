@@ -1,9 +1,6 @@
 ---
 title: "Lobster Salad"
 filename: "lobster-salad"
-categories: &id001
-- lobster
-- avocado
 cook_time: '0'
 created: '2021-03-27 15:12:04'
 created_ts: 1616857924
@@ -46,7 +43,9 @@ servings: 4 servings
 slug: lobster-salad
 source: delish.com
 source_url: https://www.delish.com/cooking/recipe-ideas/a27792396/easy-lobster-salad-recipe/
-tags: *id001
+tags:
+- lobster
+- avocado
 total_time: ''
 type: null
 uid: A8AF9557-0826-4A6A-81FA-1B4D81824C58-52325-0000F014DDA1DE26

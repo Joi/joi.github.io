@@ -1,8 +1,6 @@
 ---
 title: "Sole Meunière"
 filename: "sole-meuniere"
-categories: &id001
-- sole
 cook_time: 20 minutes
 created: '2020-07-31 11:14:42'
 created_ts: 1596194082
@@ -33,7 +31,8 @@ servings: Yield 6 servings
 slug: sole-meuniere
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018509-sole-meuniere
-tags: *id001
+tags:
+- sole
 total_time: ''
 type: null
 uid: 8BD3439A-B5C7-4F08-AB16-6B7FAC37FF17-22830-00001001DED2BBE9

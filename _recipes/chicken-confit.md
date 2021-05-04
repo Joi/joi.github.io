@@ -1,8 +1,6 @@
 ---
 title: "Chicken Confit"
 filename: "chicken-confit"
-categories: &id001
-- chicken
 cook_time: ''
 created: '2020-08-01 18:44:05'
 created_ts: 1596307445
@@ -44,7 +42,8 @@ servings: ''
 slug: chicken-confit
 source: Salt, Fat, Acid, Heat
 source_url: null
-tags: *id001
+tags:
+- chicken
 total_time: ''
 type: null
 uid: 05E0C925-6555-4B10-BAC5-7DAA697D8153-96025-00036CB64643958C

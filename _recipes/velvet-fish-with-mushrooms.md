@@ -1,9 +1,6 @@
 ---
 title: "Velvet Fish with Mushrooms"
 filename: "velvet-fish-with-mushrooms"
-categories: &id001
-- fish
-- white fish
 cook_time: 1 1/2 hours
 created: '2020-04-11 13:31:52'
 created_ts: 1586611912
@@ -35,7 +32,9 @@ servings: Yield 4 servings
 slug: velvet-fish-with-mushrooms
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019542-velvet-fish-with-mushrooms?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=10
-tags: *id001
+tags:
+- fish
+- white fish
 total_time: ''
 type: null
 uid: DFE23758-66D7-4E75-97F2-33521EB84FDE-53878-0000482877DB5AEA

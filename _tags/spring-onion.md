@@ -1,8 +1,9 @@
 ---
 title: Spring Onion
-tag_key: spring-onion
+tag_key: spring onion
 recipes:
 - mine: null
+  p_recipe_id: 259
   permalink: /recipes/marinated-kale-salad
   photo_thumb: marinated-kale-salad-thumb.jpg
   rating: 0

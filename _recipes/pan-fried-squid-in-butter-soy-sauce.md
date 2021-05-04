@@ -1,8 +1,6 @@
 ---
 title: "Pan-Fried Squid in Butter Soy Sauce"
 filename: "pan-fried-squid-in-butter-soy-sauce"
-categories: &id001
-- squid
 cook_time: ''
 created: '2020-06-02 15:39:23'
 created_ts: 1591112363
@@ -44,7 +42,8 @@ servings: ''
 slug: pan-fried-squid-in-butter-soy-sauce
 source: kikkoman.eu
 source_url: https://www.kikkoman.eu/recipes/recipe-detail/r/pan-fried-squid-in-butter-soy-sauce/
-tags: *id001
+tags:
+- squid
 total_time: 30 min
 type: null
 uid: 50C14B08-33CC-4A90-920B-BCF796391832-68036-00015F6C620CA6EC

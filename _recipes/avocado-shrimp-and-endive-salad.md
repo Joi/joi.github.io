@@ -1,10 +1,6 @@
 ---
 title: "Avocado, Shrimp, and Endive Salad"
 filename: "avocado-shrimp-and-endive-salad"
-categories: &id001
-- salad
-- shrimp
-- endive
 cook_time: ''
 created: '2020-07-04 18:34:49'
 created_ts: 1593887689
@@ -43,7 +39,10 @@ servings: '4'
 slug: avocado-shrimp-and-endive-salad
 source: delish.com
 source_url: https://www.delish.com/cooking/recipe-ideas/recipes/a6368/avocado-shrimp-endive-salad-recipe/
-tags: *id001
+tags:
+- salad
+- shrimp
+- endive
 total_time: ''
 type: null
 uid: 9B74B7CA-62C2-4033-9E59-1F75127E33F9-631-00014DB89A1ACAAB

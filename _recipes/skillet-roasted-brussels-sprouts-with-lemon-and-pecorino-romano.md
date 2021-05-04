@@ -1,8 +1,6 @@
 ---
 title: "Skillet-Roasted Brussels Sprouts with Lemon and Pecorino Romano"
 filename: "skillet-roasted-brussels-sprouts-with-lemon-and-pecorino-romano"
-categories: &id001
-- vegetables
 cook_time: ''
 created: '2020-02-03 15:29:57'
 created_ts: 1580743797
@@ -29,7 +27,8 @@ servings: Serves 4
 slug: skillet-roasted-brussels-sprouts-with-lemon-and-pecorino-romano
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/10260-skillet-roasted-brussels-sprouts-with-lemon-and-pecorino-romano
-tags: *id001
+tags:
+- vegetables
 total_time: ''
 type: null
 uid: C11FE1B7-550A-4A36-AA13-59A2DB4C677F-408-00004E00BB64C1CC

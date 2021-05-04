@@ -1,8 +1,6 @@
 ---
 title: "Chicken Cacciatore with Mushrooms, Tomatoes and Wine"
 filename: "chicken-cacciatore-with-mushrooms-tomatoes-and-wine"
-categories: &id001
-- chicken
 cook_time: 1 hour 45 minutes
 created: '2020-03-29 11:54:17'
 created_ts: 1585482857
@@ -34,7 +32,8 @@ servings: Yield 4 to 5 servings
 slug: chicken-cacciatore-with-mushrooms-tomatoes-and-wine
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1015416-chicken-cacciatore-with-mushrooms-tomatoes-and-wine?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: 802393D9-138D-4502-9F6E-BD0359A4CC55-14274-00000915E85CF295

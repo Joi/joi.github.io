@@ -1,8 +1,6 @@
 ---
 title: "Tuna Tataki Recipe"
 filename: "tuna-tataki-recipe"
-categories: &id001
-- tuna
 cook_time: 5 mins
 created: '2020-06-26 10:42:57'
 created_ts: 1593168177
@@ -34,7 +32,8 @@ servings: 'Servings: 2'
 slug: tuna-tataki-recipe
 source: justonecookbook.com
 source_url: https://www.justonecookbook.com/tuna-tataki/#wprm-recipe-container-58590
-tags: *id001
+tags:
+- tuna
 total_time: ''
 type: null
 uid: 39091A3A-A890-436A-A9C2-58FA599B57F5-533-00000014701D437B

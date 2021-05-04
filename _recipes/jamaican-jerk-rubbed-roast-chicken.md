@@ -1,8 +1,6 @@
 ---
 title: "Jamaican-Jerk-Rubbed Roast Chicken"
 filename: "jamaican-jerk-rubbed-roast-chicken"
-categories: &id001
-- chicken
 cook_time: null
 created: '2021-01-21 15:15:37'
 created_ts: 1611242137
@@ -41,7 +39,8 @@ servings: null
 slug: jamaican-jerk-rubbed-roast-chicken
 source: The Food Lab
 source_url: null
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: ED2ACF1D-B1A7-475B-A1AC-4DF75FB23618-4181-0003ADA39FDF111B

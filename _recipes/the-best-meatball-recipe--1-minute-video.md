@@ -1,9 +1,6 @@
 ---
 title: "The Best Meatball Recipe | 1-Minute Video"
 filename: "the-best-meatball-recipe--1-minute-video"
-categories: &id001
-- italian
-- ground beef
 cook_time: 10 mins
 created: '2020-10-28 11:35:55'
 created_ts: 1603884955
@@ -54,7 +51,9 @@ servings: 'Yield: 24-30 meatballs'
 slug: the-best-meatball-recipe--1-minute-video
 source: gimmesomeoven.com
 source_url: https://www.gimmesomeoven.com/meatball-recipe/
-tags: *id001
+tags:
+- italian
+- ground beef
 total_time: null
 type: null
 uid: 81BAACED-D790-4CD6-8E8B-B7A976D4B615-91238-0000339D03421337

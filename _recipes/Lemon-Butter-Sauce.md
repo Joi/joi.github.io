@@ -1,8 +1,6 @@
 ---
 title: "Lemon Butter Sauce"
 filename: "lemon-butter-sauce"
-categories: &id001
-- sauce
 cook_time: 15 mins
 created: '2020-11-03 13:07:17'
 created_ts: 1604408837
@@ -38,7 +36,8 @@ servings: null
 slug: lemon-butter-sauce
 source: dashofsanity.com
 source_url: https://dashofsanity.com/copycat-carrabbas-lemon-butter-sauce/
-tags: *id001
+tags:
+- sauce
 total_time: null
 type: null
 uid: E2E90BC0-9E53-4ABE-9A74-07AC0D2B286F-10626-0000074C49E472D7

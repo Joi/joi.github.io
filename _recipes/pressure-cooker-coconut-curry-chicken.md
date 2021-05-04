@@ -1,8 +1,6 @@
 ---
 title: "Pressure Cooker Coconut Curry Chicken"
 filename: "pressure-cooker-coconut-curry-chicken"
-categories: &id001
-- chicken
 cook_time: 1 hour
 created: '2020-04-19 15:32:50'
 created_ts: 1587310370
@@ -37,7 +35,8 @@ servings: Yield 4 servings
 slug: pressure-cooker-coconut-curry-chicken
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018857-pressure-cooker-coconut-curry-chicken?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-tags: *id001
+tags:
+- chicken
 total_time: ''
 type: null
 uid: 4D2DF901-A786-4573-B7BE-31ACF344E5F3-407-00004BB27243CE58

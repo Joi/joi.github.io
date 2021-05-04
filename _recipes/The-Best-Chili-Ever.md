@@ -1,10 +1,6 @@
 ---
 title: "The Best Chili Ever"
 filename: "the-best-chili-ever"
-categories: &id001
-- soup
-- short ribs
-- mexican
 cook_time: 6 hours, plus overnight to soak beans
 created: '2021-02-14 14:56:21'
 created_ts: 1613314581
@@ -58,7 +54,10 @@ servings: Serves 6 to 10
 slug: the-best-chili-ever
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2010/01/the-best-chili-recipe.html
-tags: *id001
+tags:
+- soup
+- short ribs
+- mexican
 total_time: ''
 type: null
 uid: 10BBAF95-58C8-433E-B2F4-1BA5DB1741F3-23012-0000124E0AE6CF20

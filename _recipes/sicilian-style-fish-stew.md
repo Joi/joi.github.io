@@ -1,9 +1,6 @@
 ---
 title: "Sicilian-Style Fish Stew"
 filename: "sicilian-style-fish-stew"
-categories: &id001
-- fish
-- soup
 cook_time: 35 mins
 created: '2021-03-13 12:43:42'
 created_ts: 1615639422
@@ -39,7 +36,9 @@ servings: Serves 4-6
 slug: sicilian-style-fish-stew
 source: themediterraneandish.com
 source_url: https://www.themediterraneandish.com/sicilian-fish-stew/
-tags: *id001
+tags:
+- fish
+- soup
 total_time: ''
 type: null
 uid: D8EAF2E2-E2B9-44D2-9428-9A591181D829-68280-000013BC5D40734E

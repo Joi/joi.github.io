@@ -1,11 +1,6 @@
 ---
 title: "Meatballs with Tomato Sauce"
 filename: "meatballs-with-tomato-sauce"
-categories: &id001
-- beef
-- italian
-- meat
-- ground beef
 cook_time: 45min
 created: '2020-02-02 12:32:26'
 created_ts: 1580646746
@@ -35,7 +30,11 @@ servings: 4 portions
 slug: meatballs-with-tomato-sauce
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r91198
-tags: *id001
+tags:
+- beef
+- italian
+- meat
+- ground beef
 total_time: null
 type: null
 uid: 5B4116BF-6F4A-4E56-B458-15BC1D12942F-25037-00009F51FB96AA6B

@@ -1,7 +1,6 @@
 ---
 title: "Crystal's Boiled Corn"
 filename: "crystals-boiled-corn"
-categories: null
 cook_time: ''
 created: '2020-07-11 20:43:39'
 created_ts: 1594500219
@@ -34,6 +33,8 @@ servings: ''
 slug: crystals-boiled-corn
 source: null
 source_url: null
+tags:
+- corn
 total_time: ''
 type: null
 uid: 7A7AA3A8-B5A5-468B-96D4-90A66037F1B2-29053-00037ACFD08DEBAB

@@ -1,8 +1,6 @@
 ---
 title: "Crown Roast of Lamb"
 filename: "crown-roast-of-lamb"
-categories: &id001
-- lamb
 cook_time: ''
 created: '2020-07-15 18:38:30'
 created_ts: 1594838310
@@ -42,7 +40,8 @@ servings: '6'
 slug: crown-roast-of-lamb
 source: null
 source_url: null
-tags: *id001
+tags:
+- lamb
 total_time: ''
 type: null
 uid: FD54C700-8CFA-4582-86E5-1BB6A9398CBA-29053-0004AE4B3DE321B5

@@ -1,8 +1,6 @@
 ---
 title: "Beef Stew with Carrots & Potatoes"
 filename: "beef-stew-with-carrots-potatoes"
-categories: &id001
-- chuck roast
 cook_time: 3 hours 30 minutes
 created: '2020-10-13 20:02:18'
 created_ts: 1602619338
@@ -62,7 +60,8 @@ servings: 'Servings: 6'
 slug: beef-stew-with-carrots-potatoes
 source: onceuponachef.com
 source_url: https://www.onceuponachef.com/recipes/beef-stew-with-carrots-potatoes.html
-tags: *id001
+tags:
+- chuck roast
 total_time: ''
 type: null
 uid: F9C94DDA-D67E-44EA-97A1-FAC3FBD30001-38082-0000B5D45C73F184

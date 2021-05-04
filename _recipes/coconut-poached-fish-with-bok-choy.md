@@ -1,8 +1,6 @@
 ---
 title: "Coconut-Poached Fish with Bok Choy"
 filename: "coconut-poached-fish-with-bok-choy"
-categories: &id001
-- fish
 cook_time: 25 minutes
 created: '2020-10-19 01:20:54'
 created_ts: 1603070454
@@ -35,7 +33,8 @@ servings: Yield 4 servings
 slug: coconut-poached-fish-with-bok-choy
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy
-tags: *id001
+tags:
+- fish
 total_time: ''
 type: null
 uid: 4973017F-D72F-41C6-BC8B-31212FA8878D-7512-00015A6C9A2FD409

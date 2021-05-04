@@ -1,9 +1,6 @@
 ---
 title: "Samin Nosrat Chicken Stock"
 filename: "samin-nosrat-chicken-stock"
-categories: &id001
-- chicken
-- soup
 cook_time: ''
 created: '2020-07-22 20:27:34'
 created_ts: 1595449654
@@ -52,7 +49,9 @@ servings: ''
 slug: samin-nosrat-chicken-stock
 source: Salt, Fat, Acid, Heat
 source_url: null
-tags: *id001
+tags:
+- chicken
+- soup
 total_time: ''
 type: null
 uid: C601E9C0-C4D5-46AE-A477-AA39294FDA0D-2209-00006094A0ADA430

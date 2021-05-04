@@ -1,9 +1,6 @@
 ---
 title: "Fry Sauce"
 filename: "fry-sauce"
-categories: &id001
-- spread
-- sauce
 cook_time: ''
 created: '2020-10-17 11:21:13'
 created_ts: 1602933673
@@ -31,7 +28,9 @@ servings: ''
 slug: fry-sauce
 source: null
 source_url: null
-tags: *id001
+tags:
+- spread
+- sauce
 total_time: ''
 type: null
 uid: CF3E0B06-2885-4DD7-9889-80C731343EAF-61297-00002282C976AC1A

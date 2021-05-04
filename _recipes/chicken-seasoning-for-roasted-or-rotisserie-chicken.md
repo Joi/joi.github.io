@@ -1,9 +1,6 @@
 ---
 title: "Chicken Seasoning (For Roasted or Rotisserie Chicken)"
 filename: "chicken-seasoning-for-roasted-or-rotisserie-chicken"
-categories: &id001
-- chicken
-- sauce
 cook_time: 5 minutes
 created: '2020-11-12 12:00:22'
 created_ts: 1605182422
@@ -40,7 +37,9 @@ servings: Servings 4
 slug: chicken-seasoning-for-roasted-or-rotisserie-chicken
 source: flavormosaic.com
 source_url: https://flavormosaic.com/chicken-seasoning-for-roasted-or-rotisserie-chicken/
-tags: *id001
+tags:
+- chicken
+- sauce
 total_time: null
 type: null
 uid: 5BB8299C-2E77-4DA1-90F1-797668204F22-1273-000025E537D4FF62

@@ -1,11 +1,6 @@
 ---
 title: "Cream of Leek and Fish Soup"
 filename: "cream-of-leek-and-fish-soup"
-categories: &id001
-- seafood
-- soup
-- flounder
-- fluke
 cook_time: 30 min
 created: '2020-09-23 20:27:06'
 created_ts: 1600892826
@@ -47,7 +42,11 @@ servings: 4 serving(s)
 slug: cream-of-leek-and-fish-soup
 source: ricardocuisine.com
 source_url: https://www.ricardocuisine.com/en/recipes/6993-cream-of-leek-and-fish-soup
-tags: *id001
+tags:
+- seafood
+- soup
+- flounder
+- fluke
 total_time: ''
 type: null
 uid: 7C0675AB-90B1-4664-8D5D-4CCFD60BE942-17729-00000957E00C53DF

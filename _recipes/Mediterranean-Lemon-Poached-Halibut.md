@@ -1,8 +1,6 @@
 ---
 title: "Mediterranean Lemon Poached Halibut"
 filename: "mediterranean-lemon-poached-halibut"
-categories: &id001
-- halibut
 cook_time: 15 mins
 created: '2020-08-07 11:17:34'
 created_ts: 1596799054
@@ -63,7 +61,8 @@ servings: 'Yield: 6'
 slug: mediterranean-lemon-poached-halibut
 source: themediterraneandish.com
 source_url: https://www.themediterraneandish.com/mediterranean-wine-lemon-poached-halibut/
-tags: *id001
+tags:
+- halibut
 total_time: null
 type: null
 uid: 7F9B1014-78E5-4DA8-B030-A3DBAD3D82D6-2643-000000E50A6D15D1

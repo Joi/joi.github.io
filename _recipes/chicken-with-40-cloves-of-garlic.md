@@ -1,8 +1,6 @@
 ---
 title: "Chicken with 40 Cloves of Garlic"
 filename: "chicken-with-40-cloves-of-garlic"
-categories: &id001
-- chicken
 cook_time: 1 hour 40 minutes
 created: '2020-04-02 17:07:19'
 created_ts: 1585847239
@@ -31,7 +29,8 @@ servings: Yield 6 to 8 servings
 slug: chicken-with-40-cloves-of-garlic
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/3764-chicken-with-40-cloves-of-garlic?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=9
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: F43CD390-7D27-42D5-9D0F-6E751C37CC6D-9482-0000064AFFBD74F0

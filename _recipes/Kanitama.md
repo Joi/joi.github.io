@@ -1,10 +1,6 @@
 ---
 title: "Kanitama"
 filename: "kanitama"
-categories: &id001
-- egg
-- crab
-- chinese
 cook_time: ''
 created: '2021-01-21 12:18:08'
 created_ts: 1611231488
@@ -44,7 +40,10 @@ servings: '4'
 slug: kanitama
 source: null
 source_url: null
-tags: *id001
+tags:
+- egg
+- crab
+- chinese
 total_time: ''
 type: null
 uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681

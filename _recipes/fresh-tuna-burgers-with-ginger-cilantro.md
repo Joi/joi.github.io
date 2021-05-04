@@ -1,8 +1,6 @@
 ---
 title: "Fresh Tuna Burgers with Ginger & Cilantro"
 filename: "fresh-tuna-burgers-with-ginger-cilantro"
-categories: &id001
-- tuna
 cook_time: null
 created: '2020-08-06 00:16:15'
 created_ts: 1596672975
@@ -44,7 +42,8 @@ servings: 'Servings: four'
 slug: fresh-tuna-burgers-with-ginger-cilantro
 source: finecooking.com
 source_url: https://www.finecooking.com/recipe/fresh-tuna-burgers-with-ginger-cilantro
-tags: *id001
+tags:
+- tuna
 total_time: null
 type: null
 uid: EEE6844C-AEDE-4DCC-A651-8BCA2A1A9FA5-12333-0000078D980EFA16

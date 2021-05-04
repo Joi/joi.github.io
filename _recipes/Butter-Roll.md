@@ -1,8 +1,6 @@
 ---
 title: "Butter Roll"
 filename: "butter-roll"
-categories: &id001
-- bread and biscuits
 cook_time: ''
 created: '2020-05-16 14:37:21'
 created_ts: 1589639841
@@ -31,7 +29,8 @@ servings: ''
 slug: butter-roll
 source: tomiz.com
 source_url: https://tomiz.com/recipe/pro/detail/9521
-tags: *id001
+tags:
+- bread and biscuits
 total_time: ''
 type: null
 uid: 8EF38009-BB8A-474B-832A-573AA5F4DC59-11450-000003056F5299A6

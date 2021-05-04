@@ -1,12 +1,6 @@
 ---
 title: "Steak"
 filename: "steak"
-categories: &id001
-- beef
-- meat
-- steaks
-- prime rib
-- tenderloin
 cook_time: ''
 created: '2021-03-27 15:12:55'
 created_ts: 1616857975
@@ -36,7 +30,12 @@ servings: ''
 slug: steak
 source: null
 source_url: null
-tags: *id001
+tags:
+- beef
+- meat
+- steaks
+- prime rib
+- tenderloin
 total_time: ''
 type: stub
 uid: 509801DC-97A9-44B1-BD50-C6C34EF65520-52325-0000F025C76A4D12

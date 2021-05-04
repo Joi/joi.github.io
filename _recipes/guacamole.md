@@ -1,11 +1,6 @@
 ---
 title: "Guacamole"
 filename: "guacamole"
-categories: &id001
-- spread
-- sauce
-- mexican
-- avocado
 cook_time: ''
 created: '2021-01-23 17:26:15'
 created_ts: 1611422775
@@ -13,14 +8,15 @@ description: ''
 difficulty: ''
 favorite: 0
 image_url: null
-ingredients: "3 avocados, ripe\n\xBD small onion, finely diced\n2 tomatoes, diced\n\
+ingredients: "2 avocados, ripe\n\xBD small onion, finely diced\n1 tomatoes, diced\n\
   3 Tbsp finely chopped fresh cilantro\n\xBD jalape\xF1o pepper, seeds removed and\
-  \ finely diced\n2 garlic cloves, minced\n1 lime, juiced\n\xBD teaspoon sea salt"
+  \ finely diced\n1 garlic cloves, minced\n\xBD lime, juiced\n\xBD teaspoon sea salt"
 intrash: 0
 meal_dates:
 - '2021-01-23'
 - '2021-04-18'
-meal_types: 4|3
+- '2021-05-03'
+meal_types: 4|3|3
 mine: 1
 name: Guacamole
 p_recipe_id: 460
@@ -36,7 +32,11 @@ servings: ''
 slug: guacamole
 source: null
 source_url: null
-tags: *id001
+tags:
+- spread
+- sauce
+- mexican
+- avocado
 total_time: ''
 type: null
 uid: AFD51E5D-4082-4BC2-9342-614387032D80-60918-00006082836BD06F
@@ -46,13 +46,13 @@ uid: AFD51E5D-4082-4BC2-9342-614387032D80-60918-00006082836BD06F
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>3 avocados, ripe</li>
+<li>2 avocados, ripe</li>
 <li>½ small onion, finely diced</li>
-<li>2 tomatoes, diced</li>
+<li>1 tomatoes, diced</li>
 <li>3 Tbsp finely chopped fresh cilantro</li>
 <li>½ jalapeño pepper, seeds removed and finely diced</li>
-<li>2 garlic cloves, minced</li>
-<li>1 lime, juiced</li>
+<li>1 garlic cloves, minced</li>
+<li>½ lime, juiced</li>
 <li>½ teaspoon sea salt</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Chop ingredients.</p>

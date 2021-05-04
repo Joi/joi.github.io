@@ -1,8 +1,6 @@
 ---
 title: "Beef Stroganoff"
 filename: "beef-stroganoff"
-categories: &id001
-- beef
 cook_time: 15 min
 created: '2020-10-29 12:01:08'
 created_ts: 1603972868
@@ -37,7 +35,8 @@ servings: ''
 slug: beef-stroganoff
 source: null
 source_url: null
-tags: *id001
+tags:
+- beef
 total_time: ''
 type: null
 uid: 2BFBB0EB-1535-434A-99C6-682B1593F3D1-45654-0003D9CE6707F661

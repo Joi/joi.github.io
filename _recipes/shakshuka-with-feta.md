@@ -1,8 +1,6 @@
 ---
 title: "Shakshuka with Feta"
 filename: "shakshuka-with-feta"
-categories: &id001
-- egg
 cook_time: 50 minutes
 created: '2020-08-13 22:37:31'
 created_ts: 1597358251
@@ -33,7 +31,8 @@ servings: Yield 4 to 6 servings
 slug: shakshuka-with-feta
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta
-tags: *id001
+tags:
+- egg
 total_time: null
 type: null
 uid: 6D155906-FBC9-49FC-AB13-3D66039BF1D9-10322-000007EADA7D05FE

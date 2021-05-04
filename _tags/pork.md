@@ -3,31 +3,37 @@ title: Pork
 tag_key: pork
 recipes:
 - mine: null
+  p_recipe_id: 27
   permalink: /recipes/easy-ham-and-cheese-omelet
   photo_thumb: easy-ham-and-cheese-omelet-thumb.jpg
   rating: 0
   title: Easy Ham and Cheese Omelet
 - mine: null
+  p_recipe_id: 427
   permalink: /recipes/perfect-pan-seared-pork-chops
   photo_thumb: perfect-pan-seared-pork-chops-thumb.jpg
   rating: 0
   title: Perfect Pan-Seared Pork Chops
 - mine: null
+  p_recipe_id: 428
   permalink: /recipes/simple-tender-pork-chops
   photo_thumb: simple-tender-pork-chops-thumb.jpg
   rating: 0
   title: Simple Tender Pork Chops
 - mine: null
+  p_recipe_id: 104
   permalink: /recipes/spicy-meatballs-with-chickpeas
   photo_thumb: spicy-meatballs-with-chickpeas-thumb.jpg
   rating: 0
   title: Spicy Meatballs with Chickpeas
 - mine: null
+  p_recipe_id: 7
   permalink: /recipes/sweet-and-sour-pork-ribs
   photo_thumb: sweet-and-sour-pork-ribs-thumb.jpg
   rating: 0
   title: Sweet and Sour Pork Ribs
 - mine: null
+  p_recipe_id: 69
   permalink: /recipes/whatever-you-want-soup
   photo_thumb: whatever-you-want-soup-thumb.jpg
   rating: 0

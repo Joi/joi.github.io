@@ -1,8 +1,6 @@
 ---
 title: "Grilled Salmon with Cilantro-Pecan Pesto"
 filename: "grilled-salmon-with-cilantro-pecan-pesto"
-categories: &id001
-- sauce
 cook_time: 30 min
 created: '2020-08-04 18:56:29'
 created_ts: 1596567389
@@ -43,7 +41,8 @@ servings: 'Serves : 4'
 slug: grilled-salmon-with-cilantro-pecan-pesto
 source: foodandwine.com
 source_url: https://www.foodandwine.com/recipes/grilled-salmon-cilantro-pecan-pesto
-tags: *id001
+tags:
+- sauce
 total_time: ''
 type: null
 uid: DB7590E4-EBA3-4131-A16D-C681B9A471E7-1060-00008BC9986CDAF3

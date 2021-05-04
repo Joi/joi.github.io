@@ -1,8 +1,9 @@
 ---
 title: Sweet Potato
-tag_key: sweet-potato
+tag_key: sweet potato
 recipes:
 - mine: null
+  p_recipe_id: 220
   permalink: /recipes/silky-ginger-sweet-potato-soup
   photo_thumb: silky-ginger-sweet-potato-soup-thumb.jpg
   rating: 5

@@ -1,8 +1,6 @@
 ---
 title: "Kittencal's Milk Boiled Corn on the Cob"
 filename: "kittencals-milk-boiled-corn-on-the-cob"
-categories: &id001
-- corn
 cook_time: 15mins
 created: '2020-07-04 13:30:06'
 created_ts: 1593869406
@@ -37,7 +35,8 @@ servings: 'Serves: 6-8'
 slug: kittencals-milk-boiled-corn-on-the-cob
 source: food.com
 source_url: https://www.food.com/recipe/kittencals-milk-boiled-corn-on-the-cob-121897
-tags: *id001
+tags:
+- corn
 total_time: ''
 type: null
 uid: 4D1DAA35-A990-4F80-A9E1-05BBBEB30304-631-00013D19ED1A58B7

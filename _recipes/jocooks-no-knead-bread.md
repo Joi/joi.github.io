@@ -1,8 +1,6 @@
 ---
 title: "Jocooks No Knead Bread"
 filename: "jocooks-no-knead-bread"
-categories: &id001
-- bread and biscuits
 cook_time: 45 mins
 created: '2020-05-09 14:54:52'
 created_ts: 1589036092
@@ -33,7 +31,8 @@ servings: ''
 slug: jocooks-no-knead-bread
 source: jocooks.com
 source_url: https://www.jocooks.com/recipes/no-knead-bread/
-tags: *id001
+tags:
+- bread and biscuits
 total_time: ''
 type: null
 uid: ECFCF252-A706-4E3A-907B-AF70061A4931-4647-0000675F57194F11

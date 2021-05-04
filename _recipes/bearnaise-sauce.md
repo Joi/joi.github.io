@@ -1,8 +1,6 @@
 ---
 title: "Béarnaise Sauce"
 filename: "bearnaise-sauce"
-categories: &id001
-- sauce
 cook_time: 20 minutes
 created: '2020-08-17 15:50:48'
 created_ts: 1597679448
@@ -31,7 +29,8 @@ servings: Yield 4 servings
 slug: bearnaise-sauce
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017389-bearnaise-sauce
-tags: *id001
+tags:
+- sauce
 total_time: ''
 type: null
 uid: 372FCAD3-4EE2-443B-92A8-59D831B0086F-2241-0000F0DBFFBC4020

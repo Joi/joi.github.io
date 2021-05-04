@@ -1,9 +1,6 @@
 ---
 title: "Oven-Steamed Fish with Scallions and Ginger"
 filename: "oven-steamed-fish-with-scallions-and-ginger"
-categories: &id001
-- fish
-- white fish
 cook_time: 1 hour
 created: '2020-02-03 15:25:45'
 created_ts: 1580743545
@@ -45,7 +42,9 @@ servings: Serves 4
 slug: oven-steamed-fish-with-scallions-and-ginger
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/11736-oven-steamed-fish-with-scallions-and-ginger
-tags: *id001
+tags:
+- fish
+- white fish
 total_time: ''
 type: null
 uid: 77B98054-DBCB-470E-83E9-62B8E4A68906-408-00004DC1BC68E0B3

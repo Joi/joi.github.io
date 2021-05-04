@@ -1,10 +1,6 @@
 ---
 title: "Halibut and Veggie Foil Packet"
 filename: "halibut-and-veggie-foil-packet"
-categories: &id001
-- fish
-- white fish
-- halibut
 cook_time: 14 minutes
 created: '2020-06-01 12:51:11'
 created_ts: 1591015871
@@ -34,7 +30,10 @@ servings: 4 foil packets
 slug: halibut-and-veggie-foil-packet
 source: everydaydishes.com
 source_url: https://everydaydishes.com/simple-food-recipes/halibut-and-veggie-foil-packet-recipe/
-tags: *id001
+tags:
+- fish
+- white fish
+- halibut
 total_time: ''
 type: null
 uid: 6263EFB6-0713-4AF0-A003-C6E5DF839147-29546-0004CF93A912ECE7

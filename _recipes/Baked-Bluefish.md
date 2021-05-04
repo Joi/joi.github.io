@@ -1,8 +1,6 @@
 ---
 title: "Baked Bluefish"
 filename: "baked-bluefish"
-categories: &id001
-- blue fish
 cook_time: 20 minutes
 created: '2020-06-05 14:53:36'
 created_ts: 1591368816
@@ -44,7 +42,8 @@ servings: Serves 2 to 4
 slug: baked-bluefish
 source: simplyrecipes.com
 source_url: https://www.simplyrecipes.com/recipes/baked_bluefish/print/
-tags: *id001
+tags:
+- blue fish
 total_time: ''
 type: null
 uid: CB6C7A4A-2F73-44D5-AC51-E12EB842AD85-29546-00061091B920E83D

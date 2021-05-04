@@ -1,9 +1,6 @@
 ---
 title: "BBQ Sauce"
 filename: "bbq-sauce"
-categories: &id001
-- sauce
-- bbq
 cook_time: ''
 created: '2020-07-13 13:45:22'
 created_ts: 1594647922
@@ -34,7 +31,9 @@ servings: ''
 slug: bbq-sauce
 source: null
 source_url: null
-tags: *id001
+tags:
+- sauce
+- bbq
 total_time: ''
 type: null
 uid: 6CF0D8FC-A8FE-4D31-A163-38D715503D3D-29053-000401226697C402

@@ -1,8 +1,6 @@
 ---
 title: "Sautéed Lion's Mane Mushrooms with Garlic"
 filename: "sauteed-lions-mane-mushrooms-with-garlic"
-categories: &id001
-- mushroom
 cook_time: 15 minutes
 created: '2021-01-21 15:54:25'
 created_ts: 1611244465
@@ -29,7 +27,8 @@ servings: null
 slug: sauteed-lions-mane-mushrooms-with-garlic
 source: emmafrisch.com
 source_url: https://www.emmafrisch.com/2020/10/sauteed-lions-mane-mushrooms-with-garlic.html
-tags: *id001
+tags:
+- mushroom
 total_time: null
 type: null
 uid: B53EB02F-AB1A-4565-B876-F153978C6816-4181-0003AFB8BFA58266

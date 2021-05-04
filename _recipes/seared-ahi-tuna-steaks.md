@@ -1,8 +1,6 @@
 ---
 title: "Seared Ahi Tuna Steaks"
 filename: "seared-ahi-tuna-steaks"
-categories: &id001
-- tuna
 cook_time: 12 mins
 created: '2020-06-25 00:09:37'
 created_ts: 1593043777
@@ -29,7 +27,8 @@ servings: 'Servings: 2'
 slug: seared-ahi-tuna-steaks
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/160099/seared-ahi-tuna-steaks/
-tags: *id001
+tags:
+- tuna
 total_time: null
 type: null
 uid: 4E9D59E9-1176-440A-9C7F-CB0D07C33749-10806-000004EADD4BF7AF

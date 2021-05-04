@@ -1,8 +1,6 @@
 ---
 title: "Mayonnaise"
 filename: "mayonnaise"
-categories: &id001
-- spread
 cook_time: ''
 created: '2020-02-02 13:00:49'
 created_ts: 1580648449
@@ -39,7 +37,8 @@ servings: ''
 slug: mayonnaise
 source: null
 source_url: null
-tags: *id001
+tags:
+- spread
 total_time: ''
 type: null
 uid: D5E799CA-BA36-4A30-B385-9CD111E6F9A5-25037-0000A0DF30640117

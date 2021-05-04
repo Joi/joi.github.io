@@ -1,8 +1,6 @@
 ---
 title: "One-Pan Roast Chicken with Fennel and Parsnips"
 filename: "one-pan-roast-chicken-with-fennel-and-parsnips"
-categories: &id001
-- chicken
 cook_time: null
 created: '2020-04-02 17:21:33'
 created_ts: 1585848093
@@ -34,7 +32,8 @@ servings: Serves 4
 slug: one-pan-roast-chicken-with-fennel-and-parsnips
 source: cookscountry.com
 source_url: https://www.cookscountry.com/recipes/6975-one-pan-roast-chicken-with-fennel-and-parsnips?extcode=MCSKM10L0&ref=new_search_experience_32
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: 68A618DF-DD01-40BF-9DB9-64DAD75954D1-9482-0000064FC5BA5715

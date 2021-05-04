@@ -1,10 +1,6 @@
 ---
 title: "Chinese Stir Fry Eggs with Flaked Crab Meat Recipe"
 filename: "chinese-stir-fry-eggs-with-flaked-crab-meat-recipe"
-categories: &id001
-- egg
-- crab
-- chinese
 cook_time: 10 min
 created: '2021-01-20 14:55:41'
 created_ts: 1611154541
@@ -41,7 +37,10 @@ servings: ''
 slug: chinese-stir-fry-eggs-with-flaked-crab-meat-recipe
 source: thehongkongcookery.com
 source_url: https://www.thehongkongcookery.com/2017/05/chinese-stir-fry-eggs-with-flaked-crab.html
-tags: *id001
+tags:
+- egg
+- crab
+- chinese
 total_time: ''
 type: null
 uid: 79FF11D8-6142-45D8-BBD2-3A717CC6A0C6-4181-00035DF8972F51CD

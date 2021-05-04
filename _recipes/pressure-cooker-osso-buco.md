@@ -1,8 +1,6 @@
 ---
 title: "Pressure Cooker Osso Buco"
 filename: "pressure-cooker-osso-buco"
-categories: &id001
-- veal
 cook_time: 2 hours 30 minutes
 created: '2020-04-19 15:31:16'
 created_ts: 1587310276
@@ -36,7 +34,8 @@ servings: Yield 4 to 6 servings
 slug: pressure-cooker-osso-buco
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018854-pressure-cooker-osso-buco?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-tags: *id001
+tags:
+- veal
 total_time: ''
 type: null
 uid: 875B7AB2-9EF9-42D1-8F64-32A20488CB8F-407-00004B9D9A9E2EC5

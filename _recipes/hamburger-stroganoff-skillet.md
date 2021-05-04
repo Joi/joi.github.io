@@ -1,10 +1,6 @@
 ---
 title: "Hamburger Stroganoff Skillet"
 filename: "hamburger-stroganoff-skillet"
-categories: &id001
-- pasta
-- ground beef
-- sauce
 cook_time: 1 hr
 created: '2020-12-26 14:58:34'
 created_ts: 1608994714
@@ -59,7 +55,10 @@ servings: 'Yield: 4'
 slug: hamburger-stroganoff-skillet
 source: foodnetwork.com
 source_url: https://www.foodnetwork.com/recipes/food-network-kitchen/hamburger-stroganoff-skillet-5478672
-tags: *id001
+tags:
+- pasta
+- ground beef
+- sauce
 total_time: null
 type: null
 uid: 0AB6A58A-FAA7-4F82-B415-BF9E7A5336A3-1607-00000068D3208916

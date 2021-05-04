@@ -1,9 +1,6 @@
 ---
 title: "Whole Roasted Cauliflower"
 filename: "whole-roasted-cauliflower"
-categories: &id001
-- vegetables
-- cauliflower
 cook_time: 00:35
 created: '2021-02-13 19:12:49'
 created_ts: 1613243569
@@ -36,7 +33,9 @@ servings: '4'
 slug: whole-roasted-cauliflower
 source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/nZQwM7TS8eaaly4s2p7q
-tags: *id001
+tags:
+- vegetables
+- cauliflower
 total_time: null
 type: null
 uid: 5B12F877-23CA-448F-A44E-D4A37EB9AD40-21557-000010E1E6F3CFA8

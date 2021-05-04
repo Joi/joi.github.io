@@ -1,9 +1,6 @@
 ---
 title: "Mapo Tofu"
 filename: "mapo-tofu"
-categories: &id001
-- chinese
-- ground pork
 cook_time: 35 minutes
 created: '2021-02-28 16:21:05'
 created_ts: 1614529265
@@ -36,7 +33,9 @@ servings: 'Serves: 6 servings'
 slug: mapo-tofu
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/ma-po-tofu-real-deal/
-tags: *id001
+tags:
+- chinese
+- ground pork
 total_time: ''
 type: null
 uid: 1A7FABAC-7AD9-4851-B9CD-1F64461C7DAB

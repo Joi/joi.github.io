@@ -1,8 +1,6 @@
 ---
 title: "Easiest Brisket with Caramelized Onions"
 filename: "easiest-brisket-with-caramelized-onions"
-categories: &id001
-- brisket
 cook_time: 3 hours
 created: '2020-09-07 00:30:29'
 created_ts: 1599438629
@@ -43,7 +41,8 @@ servings: 'Yield: 10 servings'
 slug: easiest-brisket-with-caramelized-onions
 source: dinnerthendessert.com
 source_url: https://dinnerthendessert.com/easy-beef-brisket-recipe/
-tags: *id001
+tags:
+- brisket
 total_time: null
 type: null
 uid: 62972A11-5BAE-4903-A834-0FCF6E682EFC-12400-0000089417118992

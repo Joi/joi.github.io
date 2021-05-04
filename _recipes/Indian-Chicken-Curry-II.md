@@ -1,8 +1,6 @@
 ---
 title: "Indian Chicken Curry II"
 filename: "indian-chicken-curry-ii"
-categories: &id001
-- chicken
 cook_time: 25 mins
 created: '2020-04-19 20:14:26'
 created_ts: 1587327266
@@ -34,7 +32,8 @@ servings: 'Servings: 4'
 slug: indian-chicken-curry-ii
 source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/46822/indian-chicken-curry-ii/
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: AAAD7A1C-0B46-4AC0-AA7A-101B2EBE2DF4-30964-000010B6103D68BD

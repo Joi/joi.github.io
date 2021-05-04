@@ -1,8 +1,6 @@
 ---
 title: "Easiest-Ever Biscuits"
 filename: "easiest-ever-biscuits"
-categories: &id001
-- bread and biscuits
 cook_time: 40 minutes
 created: '2020-05-14 15:48:03'
 created_ts: 1589471283
@@ -39,7 +37,8 @@ servings: Serves 10
 slug: easiest-ever-biscuits
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/11334-easiest-ever-biscuits
-tags: *id001
+tags:
+- bread and biscuits
 total_time: ''
 type: null
 uid: 431ADBED-028D-478F-AB6F-B244FF9F2F7C-13891-0000AB4BD8289C52

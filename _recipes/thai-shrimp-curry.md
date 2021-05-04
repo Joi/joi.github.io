@@ -1,9 +1,6 @@
 ---
 title: "Thai Shrimp Curry"
 filename: "thai-shrimp-curry"
-categories: &id001
-- shrimp
-- curry
 cook_time: 15 minutes
 created: '2020-10-14 11:38:49'
 created_ts: 1602675529
@@ -51,7 +48,9 @@ servings: 'Servings: 4 - 6'
 slug: thai-shrimp-curry
 source: onceuponachef.com
 source_url: https://www.onceuponachef.com/recipes/thai-shrimp-curry.html
-tags: *id001
+tags:
+- shrimp
+- curry
 total_time: null
 type: null
 uid: DF37DDA7-9C19-4602-9C05-299FDCA7A79F-31316-00001DFF1CD6377B

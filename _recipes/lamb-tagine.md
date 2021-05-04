@@ -1,10 +1,6 @@
 ---
 title: "Lamb Tagine"
 filename: "lamb-tagine"
-categories: &id001
-- lamb
-- middle east
-- soup
 cook_time: 04:30
 created: '2021-04-05 11:33:14'
 created_ts: 1617622394
@@ -21,7 +17,8 @@ ingredients: "3 lb Boneless Leg Of Lamb\n1 Yellow Onion Chopped\n1 Tbsp Fresh Gr
 intrash: 0
 meal_dates:
 - '2021-04-05'
-meal_types: '3'
+- '2021-05-03'
+meal_types: 3|3
 mine: null
 name: Lamb Tagine
 p_recipe_id: 507
@@ -39,7 +36,10 @@ servings: '8'
 slug: lamb-tagine
 source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/m00fZGv5pFNbK4lKpZ5H
-tags: *id001
+tags:
+- lamb
+- middle east
+- soup
 total_time: ''
 type: null
 uid: F6C96573-D5B3-4520-A0E0-669290DBDB7C

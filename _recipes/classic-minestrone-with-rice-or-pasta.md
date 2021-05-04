@@ -1,8 +1,6 @@
 ---
 title: "Classic Minestrone with Rice or Pasta"
 filename: "classic-minestrone-with-rice-or-pasta"
-categories: &id001
-- soup
 cook_time: null
 created: '2020-02-02 15:13:01'
 created_ts: 1580656381
@@ -39,7 +37,8 @@ servings: Serves 6 to 8
 slug: classic-minestrone-with-rice-or-pasta
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/920-classic-minestrone-with-rice-or-pasta?incode=MCSCM00L0&ref=new_search_experience_2
-tags: *id001
+tags:
+- soup
 total_time: null
 type: null
 uid: 48DB1B13-A0D8-41BE-B52A-E6DBB235B608-39996-000020288761ACAE

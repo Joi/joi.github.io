@@ -1,10 +1,6 @@
 ---
 title: "Mushroom Sauce"
 filename: "mushroom-sauce"
-categories: &id001
-- steaks
-- sauce
-- mushroom
 cook_time: null
 created: '2021-02-15 12:54:08'
 created_ts: 1613393648
@@ -49,7 +45,10 @@ servings: Servings 4
 slug: mushroom-sauce
 source: recipetineats.com
 source_url: https://www.recipetineats.com/mushroom-sauce/
-tags: *id001
+tags:
+- steaks
+- sauce
+- mushroom
 total_time: null
 type: null
 uid: 68E902BC-8596-47D9-9CCE-401E57641CB4-26466-000013C4A9633685

@@ -3,6 +3,7 @@ title: Endive
 tag_key: endive
 recipes:
 - mine: null
+  p_recipe_id: 227
   permalink: /recipes/avocado-shrimp-and-endive-salad
   photo_thumb: avocado-shrimp-and-endive-salad-thumb.jpg
   rating: 0

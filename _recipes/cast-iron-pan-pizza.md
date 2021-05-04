@@ -1,7 +1,6 @@
 ---
 title: "Cast Iron Pan Pizza"
 filename: "cast-iron-pan-pizza"
-categories: null
 cook_time: ''
 created: '2020-05-14 15:59:38'
 created_ts: 1589471978
@@ -45,6 +44,8 @@ servings: Serves 4
 slug: cast-iron-pan-pizza
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/12219-cast-iron-pan-pizza
+tags:
+- pizza
 total_time: ''
 type: null
 uid: C78B9AC6-396B-4457-A6DD-DB04C91C1E6D-13891-0000ABF1F7B23642

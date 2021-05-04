@@ -1,8 +1,6 @@
 ---
 title: "Lemon-Ginger Poached Halibut with Leeks & Spinach"
 filename: "lemon-ginger-poached-halibut-with-leeks-spinach"
-categories: &id001
-- halibut
 cook_time: ''
 created: '2020-08-06 00:26:39'
 created_ts: 1596673599
@@ -50,7 +48,8 @@ servings: 'Servings: four'
 slug: lemon-ginger-poached-halibut-with-leeks-spinach
 source: finecooking.com
 source_url: https://www.finecooking.com/recipe/lemon-ginger-poached-halibut-with-leeks-spinach
-tags: *id001
+tags:
+- halibut
 total_time: ''
 type: null
 uid: B9BBFB62-1035-4EE4-B6FA-6C262F8E5467-1060-0000EC60B50364C6

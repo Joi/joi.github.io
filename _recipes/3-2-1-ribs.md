@@ -1,9 +1,6 @@
 ---
 title: "3 2 1 Ribs"
 filename: "3-2-1-ribs"
-categories: &id001
-- pork spare ribs
-- bbq
 cook_time: 6 hrs
 created: '2020-09-18 21:21:11'
 created_ts: 1600464071
@@ -38,7 +35,9 @@ servings: null
 slug: 3-2-1-ribs
 source: heygrillhey.com
 source_url: https://heygrillhey.com/3-2-1-ribs-perfect-fall-off-the-bone-ribs/
-tags: *id001
+tags:
+- pork spare ribs
+- bbq
 total_time: null
 type: null
 uid: 8465AC45-FF66-40FB-B9DF-708043BDB498-1710-00000127FE86DE3D

@@ -12,7 +12,7 @@ Boris Anthony who has worked with me on my website since the beginning is now he
 
 There are recipes on this site. My recipes have the full instructions. The recipes from books and other sites have the ingredients and a link to the full recipe when available.
 
-I have a "pages" section of topics organized a bit like a wiki. I "posts" which are organized by date and are a bit like blog posts. Lastly, I have "meal notes" which are notes from preparing meals. These notes are linked to recipes. There are tags on all of these pages and recipes that provide a way to browse the site.
+I have a "pages" section of topics organized a bit like a wiki. I have "posts" which are organized by date and are a bit like blog posts. Lastly, I have "meal notes" which are notes from preparing meals. These notes are linked to recipes. There are tags on all of these pages and recipes that provide a way to browse the site.
 
 Here are a few of the pages:
 

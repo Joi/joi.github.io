@@ -1,9 +1,6 @@
 ---
 title: "Crab Omelet with Avocado and Herbs"
 filename: "crab-omelet-with-avocado-and-herbs"
-categories: &id001
-- egg
-- crab
 cook_time: 5 mins
 created: '2020-12-29 16:32:14'
 created_ts: 1609259534
@@ -49,7 +46,9 @@ servings: 'Servings : 1'
 slug: crab-omelet-with-avocado-and-herbs
 source: oursaltykitchen.com
 source_url: https://oursaltykitchen.com/crab-omelet/
-tags: *id001
+tags:
+- egg
+- crab
 total_time: ''
 type: null
 uid: 071AD901-0BB2-4E66-9D84-A9E1D6D9BAE4-51240-00028529DDC784F7

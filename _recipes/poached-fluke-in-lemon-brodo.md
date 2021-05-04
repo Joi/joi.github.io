@@ -1,8 +1,6 @@
 ---
 title: "Poached Fluke in Lemon Brodo"
 filename: "poached-fluke-in-lemon-brodo"
-categories: &id001
-- fluke
 cook_time: ''
 created: '2020-06-07 15:03:27'
 created_ts: 1591542207
@@ -49,7 +47,8 @@ servings: 'Servings: 4'
 slug: poached-fluke-in-lemon-brodo
 source: finecooking.com
 source_url: https://www.finecooking.com/recipe/poached-fluke-lemon-brodo
-tags: *id001
+tags:
+- fluke
 total_time: ''
 type: null
 uid: 25E7695C-45CC-443A-9E8B-0956C890816B-38601-0000AC1F428C81E0

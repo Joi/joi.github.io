@@ -1,8 +1,6 @@
 ---
 title: "Instant Pot Chicken Tikka Masala"
 filename: "instant-pot-chicken-tikka-masala"
-categories: &id001
-- chicken
 cook_time: 20 mins
 created: '2020-09-17 15:20:48'
 created_ts: 1600356048
@@ -76,7 +74,8 @@ servings: null
 slug: instant-pot-chicken-tikka-masala
 source: jocooks.com
 source_url: https://www.jocooks.com/recipes/instant-pot-chicken-tikka-masala/
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: 8B5C2EF0-0083-44A2-8EF0-481AB89C4B2C-15576-00000956C4D5C2D1

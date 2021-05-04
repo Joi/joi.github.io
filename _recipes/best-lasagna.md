@@ -1,8 +1,6 @@
 ---
 title: "Best Lasagna"
 filename: "best-lasagna"
-categories: &id001
-- pasta
 cook_time: 1 hr 45 mins
 created: '2020-09-03 23:19:14'
 created_ts: 1599175154
@@ -36,7 +34,8 @@ servings: null
 slug: best-lasagna
 source: cafedelites.com
 source_url: https://cafedelites.com/best-lasagna/
-tags: *id001
+tags:
+- pasta
 total_time: null
 type: null
 uid: C8932AE3-0033-4475-BFF5-62B3DA9732F9-5486-000003B89CA6636D

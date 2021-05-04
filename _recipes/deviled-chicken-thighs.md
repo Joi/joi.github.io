@@ -1,8 +1,6 @@
 ---
 title: "Deviled Chicken Thighs"
 filename: "deviled-chicken-thighs"
-categories: &id001
-- chicken
 cook_time: 20 minutes
 created: '2020-03-16 19:06:22'
 created_ts: 1584385582
@@ -30,7 +28,8 @@ servings: Yield 4 servings
 slug: deviled-chicken-thighs
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/7237-deviled-chicken-thighs?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-tags: *id001
+tags:
+- chicken
 total_time: ''
 type: null
 uid: 3D759CDC-26D2-4052-B997-70FA0B74A0FC-3480-00000293D31F2FFE

@@ -1,8 +1,6 @@
 ---
 title: "Boiled Corn"
 filename: "boiled-corn"
-categories: &id001
-- corn
 cook_time: ''
 created: '2020-07-15 19:37:22'
 created_ts: 1594841842
@@ -34,7 +32,8 @@ servings: ''
 slug: boiled-corn
 source: null
 source_url: null
-tags: *id001
+tags:
+- corn
 total_time: ''
 type: null
 uid: 23FE81EA-D7B3-4C76-BDFE-07336D41F990-29053-0004B181B996F693

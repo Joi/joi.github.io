@@ -1,11 +1,6 @@
 ---
 title: "Bolognese Sauce"
 filename: "bolognese-sauce"
-categories: &id001
-- pasta
-- beef
-- italian
-- sauce
 cook_time: ''
 created: '2020-09-11 21:58:08'
 created_ts: 1599861488
@@ -34,7 +29,8 @@ meal_dates:
 - '2021-03-17'
 - '2021-04-04'
 - '2021-04-15'
-meal_types: 3|3|3|3|3|3|3|3|3|3|3|5|2
+- '2021-04-25'
+meal_types: 3|3|3|3|3|3|3|3|3|3|3|5|2|3
 mine: 1
 name: Bolognese Sauce
 p_recipe_id: 350
@@ -64,7 +60,11 @@ servings: ''
 slug: bolognese-sauce
 source: null
 source_url: null
-tags: *id001
+tags:
+- pasta
+- beef
+- italian
+- sauce
 total_time: ''
 type: null
 uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1

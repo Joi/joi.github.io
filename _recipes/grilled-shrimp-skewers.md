@@ -1,8 +1,6 @@
 ---
 title: "Grilled Shrimp Skewers"
 filename: "grilled-shrimp-skewers"
-categories: &id001
-- shrimp
 cook_time: 10 minutes
 created: '2020-07-11 16:04:14'
 created_ts: 1594483454
@@ -45,7 +43,8 @@ servings: Servings 4
 slug: grilled-shrimp-skewers
 source: dinneratthezoo.com
 source_url: https://www.dinneratthezoo.com/grilled-shrimp-skewers/
-tags: *id001
+tags:
+- shrimp
 total_time: ''
 type: null
 uid: 33351D7B-15D1-410E-B962-EB6233737326-3951-0000025E910495AA

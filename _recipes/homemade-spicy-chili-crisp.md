@@ -1,8 +1,6 @@
 ---
 title: "Homemade Spicy Chili Crisp"
 filename: "homemade-spicy-chili-crisp"
-categories: &id001
-- sauce
 cook_time: 1 1/2 hours
 created: '2020-08-03 13:50:34'
 created_ts: 1596462634
@@ -39,7 +37,8 @@ servings: 1 quart (900ml)
 slug: homemade-spicy-chili-crisp
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2018/04/homemade-spicy-chili-crisp.html
-tags: *id001
+tags:
+- sauce
 total_time: ''
 type: null
 uid: A5C7986F-8D32-4873-9DD1-8C35C00E925A-1060-00002C840901C185

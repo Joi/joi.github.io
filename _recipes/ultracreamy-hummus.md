@@ -1,8 +1,6 @@
 ---
 title: "Ultracreamy Hummus"
 filename: "ultracreamy-hummus"
-categories: &id001
-- spread
 cook_time: null
 created: '2020-02-03 15:19:07'
 created_ts: 1580743147
@@ -31,7 +29,8 @@ servings: Serves 8 to 10
 slug: ultracreamy-hummus
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/12228-ultracreamy-hummus
-tags: *id001
+tags:
+- spread
 total_time: null
 type: null
 uid: 0A8407AD-85A4-4F01-90F5-8C208097006B-408-00004D67876A2BBF

@@ -1,8 +1,6 @@
 ---
 title: "Filet Mignon in Mushroom Wine Sauce"
 filename: "filet-mignon-in-mushroom-wine-sauce"
-categories: &id001
-- tenderloin
 cook_time: 30 minutes
 created: '2021-02-04 17:09:16'
 created_ts: 1612458556
@@ -58,7 +56,8 @@ servings: 'Servings: 4'
 slug: filet-mignon-in-mushroom-wine-sauce
 source: natashaskitchen.com
 source_url: https://natashaskitchen.com/filet-mignon-in-mushroom-wine-sauce/
-tags: *id001
+tags:
+- tenderloin
 total_time: ''
 type: null
 uid: 2178D961-6FD7-4D18-86D5-D96953BACD23-1700-00008335CC63C5B9

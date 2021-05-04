@@ -1,8 +1,6 @@
 ---
 title: "Mushroom Filling"
 filename: "mushroom-filling"
-categories: &id001
-- breakfast
 cook_time: null
 created: '2020-02-03 14:51:13'
 created_ts: 1580741473
@@ -29,7 +27,8 @@ servings: Serves 2
 slug: mushroom-filling
 source: americastestkitchen.com
 source_url: https://www.americastestkitchen.com/recipes/7329-mushroom-filling
-tags: *id001
+tags:
+- breakfast
 total_time: null
 type: null
 uid: CF93236E-FE54-478F-809A-110AEC744D7C-408-00004BE0ADFF8367

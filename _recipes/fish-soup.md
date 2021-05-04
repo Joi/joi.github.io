@@ -1,9 +1,6 @@
 ---
 title: "Fish Soup"
 filename: "fish-soup"
-categories: &id001
-- fish
-- white fish
 cook_time: 1 hour
 created: '2020-04-11 13:29:31'
 created_ts: 1586611771
@@ -35,7 +32,9 @@ servings: Yield 4 servings
 slug: fish-soup
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/9045-fish-soup?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-tags: *id001
+tags:
+- fish
+- white fish
 total_time: ''
 type: null
 uid: 36CDB17B-2DC4-42F1-9525-1DA86A3D90D8-53878-00004806E578D2B2

@@ -1,8 +1,6 @@
 ---
 title: "How to Cook (And Shred) a Pork Shoulder for Pulled Pork"
 filename: "how-to-cook-and-shred-a-pork-shoulder-for-pulled-pork"
-categories: &id001
-- pork shoulder
 cook_time: ''
 created: '2020-06-13 15:42:21'
 created_ts: 1592062941
@@ -48,7 +46,8 @@ servings: Serves 10 to 12, makes approximately 10 cups shredded pork
 slug: how-to-cook-and-shred-a-pork-shoulder-for-pulled-pork
 source: thekitchn.com
 source_url: https://www.thekitchn.com/how-to-cook-and-shred-a-pork-shoulder-for-pulled-pork-79485
-tags: *id001
+tags:
+- pork shoulder
 total_time: ''
 type: null
 uid: D3A1E51B-84E9-44A4-BB85-2CF4A9B93A86-1358-000130109CDA0573

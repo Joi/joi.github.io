@@ -1,8 +1,6 @@
 ---
 title: "Roast Beef Tenderloin with Garlic and Rosemary"
 filename: "roast-beef-tenderloin-with-garlic-and-rosemary"
-categories: &id001
-- tenderloin
 cook_time: null
 created: '2020-09-20 19:57:31'
 created_ts: 1600631851
@@ -31,7 +29,8 @@ servings: 8 servings
 slug: roast-beef-tenderloin-with-garlic-and-rosemary
 source: bonappetit.com
 source_url: https://www.bonappetit.com/recipe/roast-beef-tenderloin-with-garlic-and-rosemary
-tags: *id001
+tags:
+- tenderloin
 total_time: null
 type: null
 uid: 6D69C84F-C8D1-488C-9C76-16B77BC134E4-6729-000004489323E645

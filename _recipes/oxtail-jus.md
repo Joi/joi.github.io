@@ -1,9 +1,6 @@
 ---
 title: "Oxtail Jus"
 filename: "oxtail-jus"
-categories: &id001
-- sauce
-- oxtail
 cook_time: ''
 created: '2021-03-19 14:35:26'
 created_ts: 1616164526
@@ -68,7 +65,9 @@ servings: ''
 slug: oxtail-jus
 source: null
 source_url: null
-tags: *id001
+tags:
+- sauce
+- oxtail
 total_time: ''
 type: null
 uid: F604EADB-25AC-44AC-9DC1-75246C0FB483-641-0000509B20DEF473

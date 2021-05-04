@@ -14,36 +14,43 @@ pages:
 - Molcajete
 recipes:
 - mine: null
+  p_recipe_id: 440
   permalink: /recipes/beef-taco-salad-with-chunky-tomato-dressing
   photo_thumb: beef-taco-salad-with-chunky-tomato-dressing-thumb.jpg
   rating: 0
   title: Beef Taco Salad with Chunky Tomato Dressing
 - mine: null
+  p_recipe_id: 439
   permalink: /recipes/beef-tostadas
   photo_thumb: beef-tostadas-thumb.jpg
   rating: 0
   title: Beef Tostadas
 - mine: null
+  p_recipe_id: 396
   permalink: /recipes/crunchy-fried-fish-tacos
   photo_thumb: crunchy-fried-fish-tacos-thumb.jpg
   rating: 0
   title: Crunchy Fried Fish Tacos
 - mine: null
+  p_recipe_id: 461
   permalink: /recipes/easy-pressure-cooker-green-chili-with-chicken
   photo_thumb: easy-pressure-cooker-green-chili-with-chicken-thumb.jpg
   rating: 0
   title: Easy Pressure Cooker Green Chili with Chicken
 - mine: null
+  p_recipe_id: 460
   permalink: /recipes/guacamole
   photo_thumb: guacamole-thumb.jpg
   rating: 5
   title: Guacamole
 - mine: null
+  p_recipe_id: 258
   permalink: /recipes/mexican-coleslaw-with-cilantro-lime-dressing
   photo_thumb: mexican-coleslaw-with-cilantro-lime-dressing-thumb.jpg
   rating: 5
   title: Mexican Coleslaw with Cilantro Lime Dressing
 - mine: null
+  p_recipe_id: 473
   permalink: /recipes/the-best-chili-ever
   photo_thumb: the-best-chili-ever-thumb.jpg
   rating: 5

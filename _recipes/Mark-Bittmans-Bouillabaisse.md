@@ -1,11 +1,6 @@
 ---
 title: "Mark Bittman’s Bouillabaisse"
 filename: "mark-bittmans-bouillabaisse"
-categories: &id001
-- clams
-- fish
-- seafood
-- soup
 cook_time: 1 hour
 created: '2020-10-09 00:44:04'
 created_ts: 1602204244
@@ -39,7 +34,11 @@ servings: Yield 4 to 6 servings
 slug: mark-bittmans-bouillabaisse
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12637-mark-bittmans-bouillabaisse
-tags: *id001
+tags:
+- clams
+- fish
+- seafood
+- soup
 total_time: ''
 type: null
 uid: B4FA8284-2C9F-449C-9A2B-02F2C012D3E3-79931-00015237983D5DDF

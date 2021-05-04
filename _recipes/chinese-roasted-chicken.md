@@ -1,15 +1,13 @@
 ---
 title: "Chinese Roasted Chicken"
 filename: "chinese-roasted-chicken"
-categories: &id001
-- chicken
 cook_time: 1 hr
 created: '2020-12-28 20:09:05'
 created_ts: 1609186145
 description: null
 difficulty: ''
 favorite: 0
-image_url: https://www.chinasichuanfood.com/wp-content/uploads/2017/03/Chinese-roasted-Chicken-3-copy-300x450.jpg
+image_url: null
 ingredients: '1 chicken (around 1 kg )
 
   Marinade
@@ -36,21 +34,25 @@ ingredients: '1 chicken (around 1 kg )
 intrash: 0
 meal_dates:
 - '2021-01-01'
-meal_types: '3'
+- '2021-04-29'
+meal_types: 3|3
 mine: null
 name: Chinese Roasted Chicken
 p_recipe_id: 441
 permalink: /recipes/chinese-roasted-chicken
-photo_large: null
+photo_large: chinese-roasted-chicken-large.jpg
 photo_thumb: chinese-roasted-chicken-thumb.jpg
-photos_dict: null
+photos_dict:
+  '1': chinese-roasted-chicken-1.jpg
+  '2': chinese-roasted-chicken-2.jpg
 prep_time: 2 d
 rating: 5
 servings: 'Servings: 3'
 slug: chinese-roasted-chicken
 source: chinasichuanfood.com
 source_url: https://www.chinasichuanfood.com/chinese-roasted-chicken/
-tags: *id001
+tags:
+- chicken
 total_time: ''
 type: null
 uid: C35DC53C-4546-403C-A6E8-E7DA8F8ADBD0-1607-00007D8057C690B4

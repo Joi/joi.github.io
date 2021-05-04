@@ -1,9 +1,6 @@
 ---
 title: "Making Mapo Tofu"
 filename: "making-mapo-tofu"
-categories: &id001
-- chinese
-- tofu
 cook_time: null
 created: '2021-03-03 15:04:49'
 created_ts: 1614783889
@@ -34,7 +31,9 @@ servings: null
 slug: making-mapo-tofu
 source: magicmorels.com
 source_url: https://magicmorels.com/recipes/2018/3/31/making-mapo-tofu
-tags: *id001
+tags:
+- chinese
+- tofu
 total_time: null
 type: null
 uid: 41709C97-3F05-4953-ABDF-D8044E83AD3A-7877-000001585E79C187

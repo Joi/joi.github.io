@@ -1,9 +1,6 @@
 ---
 title: "Salmon and Tomatoes in Foil"
 filename: "salmon-and-tomatoes-in-foil"
-categories: &id001
-- fish
-- salmon
 cook_time: 30 minutes
 created: '2020-03-16 19:01:31'
 created_ts: 1584385291
@@ -36,7 +33,9 @@ servings: Yield 4 servings
 slug: salmon-and-tomatoes-in-foil
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1016252-salmon-and-tomatoes-in-foil?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=3
-tags: *id001
+tags:
+- fish
+- salmon
 total_time: ''
 type: null
 uid: 478343E5-7749-4378-BE94-DDBF5303D157-3480-00000292A2FF3684

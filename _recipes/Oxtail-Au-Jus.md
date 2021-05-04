@@ -1,9 +1,6 @@
 ---
 title: "Oxtail Au Jus"
 filename: "oxtail-au-jus"
-categories: &id001
-- sauce
-- oxtail
 cook_time: ''
 created: '2021-02-21 14:45:50'
 created_ts: 1613918750
@@ -51,7 +48,9 @@ servings: ''
 slug: oxtail-au-jus
 source: The Food Lab
 source_url: null
-tags: *id001
+tags:
+- sauce
+- oxtail
 total_time: ''
 type: null
 uid: C7AD59DF-7961-4287-8189-C483C746C56E-26383-000125FF55081DA0

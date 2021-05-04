@@ -1,8 +1,6 @@
 ---
 title: "Porcini"
 filename: "porcini"
-categories: &id001
-- mushroom
 cook_time: null
 created: '2021-01-31 12:33:52'
 created_ts: 1612096432
@@ -29,7 +27,8 @@ servings: null
 slug: porcini
 source: null
 source_url: null
-tags: *id001
+tags:
+- mushroom
 total_time: null
 type: null
 uid: 13476F9D-7A43-4D7A-AADA-B1E987D20773-49934-00002509433332EE

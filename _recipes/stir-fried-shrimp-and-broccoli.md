@@ -1,8 +1,6 @@
 ---
 title: "Stir-Fried Shrimp and Broccoli"
 filename: "stir-fried-shrimp-and-broccoli"
-categories: &id001
-- shrimp
 cook_time: null
 created: '2020-02-03 15:15:37'
 created_ts: 1580742937
@@ -33,7 +31,8 @@ servings: Serves 4
 slug: stir-fried-shrimp-and-broccoli
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/9638-stir-fried-shrimp-and-broccoli?t=1580742726
-tags: *id001
+tags:
+- shrimp
 total_time: null
 type: null
 uid: A98C94BE-66CB-4A40-A6C7-E0C5E061A6BF-408-00004D3327E46671

@@ -1,9 +1,6 @@
 ---
 title: "Salmon with Sesame and Herbs"
 filename: "salmon-with-sesame-and-herbs"
-categories: &id001
-- fish
-- salmon
 cook_time: 20 minutes
 created: '2020-04-08 13:16:19'
 created_ts: 1586351779
@@ -44,7 +41,9 @@ servings: Yield 4 servings
 slug: salmon-with-sesame-and-herbs
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018897-salmon-with-sesame-and-herbs?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-tags: *id001
+tags:
+- fish
+- salmon
 total_time: ''
 type: null
 uid: C52B3054-5188-4546-8100-1DD155BB9B83-16595-0003B21240219FAE

@@ -1,7 +1,6 @@
 ---
 title: "The Best Ways to Cook Octopus"
 filename: "the-best-ways-to-cook-octopus"
-categories: null
 cook_time: null
 created: '2020-10-13 11:46:40'
 created_ts: 1602589600

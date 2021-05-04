@@ -1,8 +1,6 @@
 ---
 title: "Ginger Garlic Pan Roasted Swordfish- A Restaurant Classic"
 filename: "ginger-garlic-pan-roasted-swordfish--a-restaurant-classic"
-categories: &id001
-- swordfish
 cook_time: 20 mins
 created: '2021-04-06 11:28:09'
 created_ts: 1617708489
@@ -42,7 +40,8 @@ servings: null
 slug: ginger-garlic-pan-roasted-swordfish--a-restaurant-classic
 source: askchefdennis.com
 source_url: https://www.askchefdennis.com/ginger-garlic-pan-roasted-swordfish-around-kitchen-table/
-tags: *id001
+tags:
+- swordfish
 total_time: null
 type: null
 uid: 52777A99-EBE4-4B58-8771-7806D739EDED

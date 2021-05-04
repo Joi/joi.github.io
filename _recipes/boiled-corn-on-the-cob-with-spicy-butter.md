@@ -1,8 +1,6 @@
 ---
 title: "Boiled Corn on the Cob with Spicy Butter"
 filename: "boiled-corn-on-the-cob-with-spicy-butter"
-categories: &id001
-- corn
 cook_time: 25mins
 created: '2020-07-04 18:42:10'
 created_ts: 1593888130
@@ -38,7 +36,8 @@ servings: 'Serves: 4'
 slug: boiled-corn-on-the-cob-with-spicy-butter
 source: food.com
 source_url: https://www.food.com/recipe/boiled-corn-on-the-cob-with-spicy-butter-118324
-tags: *id001
+tags:
+- corn
 total_time: ''
 type: null
 uid: 353F48D7-7451-4710-AEE2-1A2387D021C8-631-00014E218D327D98

@@ -1,7 +1,6 @@
 ---
 title: "Oven-Baked Ribs"
 filename: "oven-baked-ribs"
-categories: null
 cook_time: 2 hours 30 minutes
 created: '2020-09-09 00:40:14'
 created_ts: 1599612014

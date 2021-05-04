@@ -1,10 +1,6 @@
 ---
 title: "Cheesy Stuffed Meatloaf with Broccolini and Eggplant"
 filename: "cheesy-stuffed-meatloaf-with-broccolini-and-eggplant"
-categories: &id001
-- beef
-- meat
-- ground beef
 cook_time: 1h 5min
 created: '2020-04-12 20:26:45'
 created_ts: 1586723205
@@ -37,7 +33,10 @@ servings: 6 portions
 slug: cheesy-stuffed-meatloaf-with-broccolini-and-eggplant
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r574857
-tags: *id001
+tags:
+- beef
+- meat
+- ground beef
 total_time: null
 type: null
 uid: 7F049C90-1FC2-4926-9F47-5988A54D4153-8852-000004D492600599

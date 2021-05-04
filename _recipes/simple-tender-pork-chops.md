@@ -1,8 +1,6 @@
 ---
 title: "Simple Tender Pork Chops"
 filename: "simple-tender-pork-chops"
-categories: &id001
-- pork
 cook_time: 01:05
 created: '2020-12-10 01:35:04'
 created_ts: 1607564104
@@ -29,7 +27,8 @@ servings: '2'
 slug: simple-tender-pork-chops
 source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/rJD7C5I0BbqDQSwt99Fs
-tags: *id001
+tags:
+- pork
 total_time: null
 type: null
 uid: 4FE598EB-8913-4028-80AA-CAA948B201B4-37023-00001CD758D8EA79

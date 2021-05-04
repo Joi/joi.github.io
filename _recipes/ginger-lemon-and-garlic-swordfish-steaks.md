@@ -1,7 +1,6 @@
 ---
 title: "Ginger, Lemon and Garlic Swordfish Steaks"
 filename: "ginger-lemon-and-garlic-swordfish-steaks"
-categories: null
 cook_time: 5-6 minutes
 created: '2020-07-18 11:33:20'
 created_ts: 1595072000
@@ -39,6 +38,8 @@ servings: 'Serves: 4 servings'
 slug: ginger-lemon-and-garlic-swordfish-steaks
 source: oliversmarket.com
 source_url: https://www.oliversmarket.com/recipe/ginger-lemon-and-garlic-swordfish-steaks/
+tags:
+- swordfish
 total_time: null
 type: null
 uid: B613650A-FD95-4CC8-9FA7-5D471391D9A2-23547-00000F3378FBE633

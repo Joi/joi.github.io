@@ -1,8 +1,6 @@
 ---
 title: "Fast Vietnamese Caramel Bluefish"
 filename: "fast-vietnamese-caramel-bluefish"
-categories: &id001
-- blue fish
 cook_time: 20 minutes
 created: '2020-05-31 23:58:19'
 created_ts: 1590969499
@@ -34,7 +32,8 @@ servings: Yield 4 servings
 slug: fast-vietnamese-caramel-bluefish
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017451-fast-vietnamese-caramel-bluefish
-tags: *id001
+tags:
+- blue fish
 total_time: ''
 type: null
 uid: E557AA97-6162-49E3-A7E6-7D32CC383B53-11450-00014F58E1107A53

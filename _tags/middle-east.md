@@ -1,8 +1,9 @@
 ---
 title: Middle East
-tag_key: middle-east
+tag_key: middle east
 recipes:
 - mine: null
+  p_recipe_id: 507
   permalink: /recipes/lamb-tagine
   photo_thumb: lamb-tagine-thumb.jpg
   rating: 5

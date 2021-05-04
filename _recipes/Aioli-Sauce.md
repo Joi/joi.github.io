@@ -1,8 +1,6 @@
 ---
 title: "Aioli Sauce"
 filename: "aioli-sauce"
-categories: &id001
-- sauce
 cook_time: ''
 created: '2020-07-10 21:07:05'
 created_ts: 1594415225
@@ -58,7 +56,8 @@ servings: ''
 slug: aioli-sauce
 source: null
 source_url: null
-tags: *id001
+tags:
+- sauce
 total_time: ''
 type: null
 uid: 383352B7-6E3A-4CB7-A36E-EA826E3E00AB-631-0003169816AA6155

@@ -1,10 +1,6 @@
 ---
 title: "Mushroom Sauce for Steak"
 filename: "mushroom-sauce-for-steak"
-categories: &id001
-- steaks
-- sauce
-- mushroom
 cook_time: 10 minutes
 created: '2021-02-15 12:56:15'
 created_ts: 1613393775
@@ -47,7 +43,10 @@ servings: 'Servings: 4'
 slug: mushroom-sauce-for-steak
 source: lecremedelacrumb.com
 source_url: https://www.lecremedelacrumb.com/mushroom-sauce-for-steak/
-tags: *id001
+tags:
+- steaks
+- sauce
+- mushroom
 total_time: ''
 type: null
 uid: 818DF6C2-699D-41CE-AA3D-D93EDF22C1BC-26466-000013C57F68168A

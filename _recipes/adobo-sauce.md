@@ -1,8 +1,6 @@
 ---
 title: "Adobo Sauce"
 filename: "adobo-sauce"
-categories: &id001
-- sauce
 cook_time: 15 mins
 created: '2020-08-16 15:40:29'
 created_ts: 1597592429
@@ -32,7 +30,8 @@ servings: About 2 cups of adobo sauce
 slug: adobo-sauce
 source: chilipeppermadness.com
 source_url: https://www.chilipeppermadness.com/recipes/adobo-sauce/
-tags: *id001
+tags:
+- sauce
 total_time: null
 type: null
 uid: 932CA1E1-92C6-4C12-9BA4-663188CAAD30-15501-00000B8C94D2DCD5

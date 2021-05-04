@@ -1,8 +1,6 @@
 ---
 title: "Instant Pot Pot Roast"
 filename: "instant-pot-pot-roast"
-categories: &id001
-- beef
 cook_time: 2 hours
 created: '2020-04-24 19:01:08'
 created_ts: 1587754868
@@ -35,7 +33,8 @@ servings: 'Servings: 4'
 slug: instant-pot-pot-roast
 source: pressurecookrecipes.com
 source_url: https://www.pressurecookrecipes.com/instant-pot-pot-roast/
-tags: *id001
+tags:
+- beef
 total_time: ''
 type: null
 uid: 898D38DA-42A6-439A-827B-3937E5B5F7F8-89150-0001DFF5064B7E67

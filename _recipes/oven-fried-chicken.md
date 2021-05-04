@@ -1,8 +1,6 @@
 ---
 title: "Oven Fried Chicken"
 filename: "oven-fried-chicken"
-categories: &id001
-- chicken
 cook_time: 00:25
 created: '2021-01-28 16:32:21'
 created_ts: 1611851541
@@ -31,7 +29,8 @@ servings: '6'
 slug: oven-fried-chicken
 source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/dYW4t4rAXWRm9VkblK6C
-tags: *id001
+tags:
+- chicken
 total_time: ''
 type: null
 uid: 18949441-165D-48BA-93BF-70A9659225B6-11957-0000DEC827DEBA27

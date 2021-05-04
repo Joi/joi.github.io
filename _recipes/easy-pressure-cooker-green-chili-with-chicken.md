@@ -1,9 +1,6 @@
 ---
 title: "Easy Pressure Cooker Green Chili with Chicken"
 filename: "easy-pressure-cooker-green-chili-with-chicken"
-categories: &id001
-- chicken
-- mexican
 cook_time: 30 minutes
 created: '2021-01-24 12:53:02'
 created_ts: 1611492782
@@ -36,7 +33,9 @@ servings: Serves 4 to 6
 slug: easy-pressure-cooker-green-chili-with-chicken
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2015/04/pressure-cooker-fast-and-easy-chicken-chile-verde-recipe.html
-tags: *id001
+tags:
+- chicken
+- mexican
 total_time: null
 type: null
 uid: 4FA42CC1-075F-47CB-B3C2-393C64D599ED-35869-00001A079663128A

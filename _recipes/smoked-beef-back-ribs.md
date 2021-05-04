@@ -1,8 +1,6 @@
 ---
 title: "Smoked Beef Back Ribs"
 filename: "smoked-beef-back-ribs"
-categories: &id001
-- beef back ribs
 cook_time: 5 hours
 created: '2020-11-28 13:04:40'
 created_ts: 1606568680
@@ -29,7 +27,8 @@ servings: '[''5'', ''5 -6'']'
 slug: smoked-beef-back-ribs
 source: smoking-meat.com
 source_url: https://www.smoking-meat.com/october-16-2014-smoked-beef-back-ribs
-tags: *id001
+tags:
+- beef back ribs
 total_time: null
 type: null
 uid: 9A862598-2E40-4F71-B1DC-0F6166DF70C0-12345-00000A847F496E14

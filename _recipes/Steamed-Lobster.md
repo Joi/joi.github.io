@@ -1,8 +1,6 @@
 ---
 title: "Steamed Lobster"
 filename: "steamed-lobster"
-categories: &id001
-- lobster
 cook_time: ''
 created: '2020-06-29 10:59:10'
 created_ts: 1593428350
@@ -32,7 +30,8 @@ servings: ''
 slug: steamed-lobster
 source: null
 source_url: https://lobsteranywhere.com/cooking-lobster/
-tags: *id001
+tags:
+- lobster
 total_time: ''
 type: null
 uid: 44A1BA78-B7C0-4AB8-B9A9-D3E3C584B5EE-47978-000609DDB4D1CC3B

@@ -1,8 +1,6 @@
 ---
 title: "Quick Curtido (Mexican Cabbage Slaw)"
 filename: "quick-curtido-mexican-cabbage-slaw"
-categories: &id001
-- salad
 cook_time: 1 hour 10 minutes
 created: '2020-07-16 18:55:06'
 created_ts: 1594925706
@@ -32,7 +30,8 @@ servings: About 5 cups
 slug: quick-curtido-mexican-cabbage-slaw
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2014/05/quick-curtido-mexican-cabbage-slaw-recipe.html
-tags: *id001
+tags:
+- salad
 total_time: ''
 type: null
 uid: 67FA455B-BC4A-4ED4-A76B-E4B0B6C9691F-29053-0004FDC50F2E56F7

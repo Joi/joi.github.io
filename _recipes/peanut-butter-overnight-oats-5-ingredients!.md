@@ -1,8 +1,6 @@
 ---
 title: "Peanut Butter Overnight Oats (5 Ingredients!)"
 filename: "peanut-butter-overnight-oats-5-ingredients!"
-categories: &id001
-- oats
 cook_time: 6 hours 5 minutes
 created: '2020-03-21 23:56:28'
 created_ts: 1584834988
@@ -45,7 +43,8 @@ servings: ''
 slug: peanut-butter-overnight-oats-5-ingredients!
 source: minimalistbaker.com
 source_url: https://minimalistbaker.com/peanut-butter-overnight-oats/
-tags: *id001
+tags:
+- oats
 total_time: ''
 type: null
 uid: 119E1982-6FAB-46AD-8A8B-D8945845E767-9255-00001EFB8739A000

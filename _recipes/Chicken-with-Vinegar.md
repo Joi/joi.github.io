@@ -1,8 +1,6 @@
 ---
 title: "Chicken with Vinegar"
 filename: "chicken-with-vinegar"
-categories: &id001
-- chicken
 cook_time: ''
 created: '2020-12-25 16:05:48'
 created_ts: 1608912348
@@ -53,7 +51,8 @@ servings: ''
 slug: chicken-with-vinegar
 source: null
 source_url: null
-tags: *id001
+tags:
+- chicken
 total_time: ''
 type: null
 uid: AB5344FC-BAB3-4231-B60A-1D06DACA40E4-51240-0001496E91E6A8C5

@@ -1,8 +1,6 @@
 ---
 title: "Halibut Cheek Fish Tacos"
 filename: "halibut-cheek-fish-tacos"
-categories: &id001
-- halibut
 cook_time: null
 created: '2020-08-16 15:30:50'
 created_ts: 1597591850
@@ -31,7 +29,8 @@ servings: 10-12 tacos
 slug: halibut-cheek-fish-tacos
 source: thislifeintrips.com
 source_url: https://www.thislifeintrips.com/halibut-cheek-fish-tacos/
-tags: *id001
+tags:
+- halibut
 total_time: null
 type: null
 uid: DF5C4F27-8A7E-41E0-8A48-E86DB99A2F5A-13578-0000045FE4C034C8

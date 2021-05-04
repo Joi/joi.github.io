@@ -1,8 +1,6 @@
 ---
 title: "Pan Seared Garlic Butter Steak & Mushroom Cream Sauce"
 filename: "pan-seared-garlic-butter-steak-mushroom-cream-sauce"
-categories: &id001
-- steaks
 cook_time: 20 mins
 created: '2020-05-25 13:37:07'
 created_ts: 1590413827
@@ -55,7 +53,8 @@ servings: ''
 slug: pan-seared-garlic-butter-steak-mushroom-cream-sauce
 source: cafedelites.com
 source_url: https://cafedelites.com/wprm_print/52605
-tags: *id001
+tags:
+- steaks
 total_time: ''
 type: null
 uid: 04CBAF39-7861-485D-B195-D741D37810E8-14842-0000068686800663

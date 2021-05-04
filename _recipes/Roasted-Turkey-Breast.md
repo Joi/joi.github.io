@@ -1,8 +1,6 @@
 ---
 title: "Roasted Turkey Breast"
 filename: "roasted-turkey-breast"
-categories: &id001
-- turkey
 cook_time: ''
 created: '2020-08-19 16:31:11'
 created_ts: 1597854671
@@ -58,7 +56,8 @@ servings: 6-8
 slug: roasted-turkey-breast
 source: Food Lab
 source_url: null
-tags: *id001
+tags:
+- turkey
 total_time: ''
 type: null
 uid: 2C9AD955-920A-42CE-BF3C-E764CC456104-2241-0001903C0249FBF5

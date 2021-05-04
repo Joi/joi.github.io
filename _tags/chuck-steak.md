@@ -1,8 +1,9 @@
 ---
 title: Chuck Steak
-tag_key: chuck-steak
+tag_key: chuck steak
 recipes:
 - mine: null
+  p_recipe_id: 322
   permalink: /recipes/foolproof-chuck-steak-with-smoky-chimichurri
   photo_thumb: foolproof-chuck-steak-with-smoky-chimichurri-thumb.jpg
   rating: 5

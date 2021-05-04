@@ -1,6 +1,6 @@
 ---
 title: Tuna Confit
-tag_key: tuna-confit
+tag_key: tuna confit
 notes:
   feature: []
   rough:

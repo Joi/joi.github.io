@@ -1,8 +1,6 @@
 ---
 title: "Crispiest Spatchcocked Chicken"
 filename: "crispiest-spatchcocked-chicken"
-categories: &id001
-- chicken
 cook_time: ''
 created: '2020-07-05 17:11:14'
 created_ts: 1593969074
@@ -43,7 +41,8 @@ servings: ''
 slug: crispiest-spatchcocked-chicken
 source: Salt, Fat, Acid, Heat
 source_url: null
-tags: *id001
+tags:
+- chicken
 total_time: ''
 type: null
 uid: 0207668D-90FE-420C-8343-595CBE5D0033-631-000197C12A00D55C

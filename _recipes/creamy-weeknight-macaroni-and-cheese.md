@@ -1,8 +1,6 @@
 ---
 title: "Creamy Weeknight Macaroni and Cheese"
 filename: "creamy-weeknight-macaroni-and-cheese"
-categories: &id001
-- kio
 cook_time: 25 minutes
 created: '2020-05-04 17:36:15'
 created_ts: 1588613775
@@ -40,7 +38,8 @@ servings: Yield 4 servings
 slug: creamy-weeknight-macaroni-and-cheese
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019252-creamy-weeknight-macaroni-and-cheese?algo=cooking_doc2vec_weight_1&fellback=false&imp_id=929154508&action=click&module=RecirculationRibbon&pgType=recipedetails&rank=3
-tags: *id001
+tags:
+- kio
 total_time: ''
 type: null
 uid: E6612B43-6905-4BD3-A9E7-802048B4159A-1406-00007456D6EBBE21

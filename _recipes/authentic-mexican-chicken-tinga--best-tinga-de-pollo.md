@@ -1,8 +1,6 @@
 ---
 title: "Authentic Mexican Chicken Tinga- Best Tinga De Pollo"
 filename: "authentic-mexican-chicken-tinga--best-tinga-de-pollo"
-categories: &id001
-- chicken
 cook_time: 45 minutes
 created: '2020-11-05 11:55:26'
 created_ts: 1604577326
@@ -48,7 +46,8 @@ servings: 'Yield: 4-6 servings'
 slug: authentic-mexican-chicken-tinga--best-tinga-de-pollo
 source: thebossykitchen.com
 source_url: https://www.thebossykitchen.com/authentic-mexican-tinga-de-pollo-chicken-chipotle-tomato-sauce/
-tags: *id001
+tags:
+- chicken
 total_time: null
 type: null
 uid: 89F28F55-C43D-4C94-A770-8606CD67D6C8-17488-00000A79A2CB03D3
