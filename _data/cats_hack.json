@@ -218,9 +218,11 @@
       "486": "cant",
       "492": "mapo",
       "497": "shri",
-      "498": "chin"
+      "498": "chin",
+      "521": "brai"
      },
      "recipes_nam": {
+      "brai": "521",
       "cant": "486",
       "chin": "498",
       "kani": "454",
@@ -794,6 +796,17 @@
      "cat_id": 6,
      "cat_label": "Seafood",
      "children": [
+      {
+       "cat_id": 120,
+       "cat_label": "Abalone",
+       "children": [],
+       "recipes_ids": {
+        "521": "brai"
+       },
+       "recipes_nam": {
+        "brai": "521"
+       }
+      },
       {
        "cat_id": 3,
        "cat_label": "Clams",

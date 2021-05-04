@@ -1,11 +1,11 @@
 ---
-title: "BRAISED ABALONE WITH MUSHROOMS (红烧鲍菇)"
-filename: "braised-abalone-with-mushrooms-hong-shao-bao-gu"
+title: "Braised Abalone with Mushrooms"
+filename: "braised-abalone-with-mushrooms"
 cook_time: 5 hours 10 minutes
 created: '2021-04-23 11:10:13'
 created_ts: 1619176213
 description: null
-difficulty: null
+difficulty: ''
 favorite: 0
 image_url: https://i0.wp.com/www.wokandkin.com/wp-content/uploads/2020/10/Braised-Abalone-with-Mushrooms-saved-for-web.png?resize=200%2C300&ssl=1
 ingredients: '1 kg abalone
@@ -34,22 +34,22 @@ meal_dates:
 - '2021-04-23'
 meal_types: '3'
 mine: null
-name: "BRAISED ABALONE WITH MUSHROOMS (\u7EA2\u70E7\u9C8D\u83C7)"
+name: Braised Abalone with Mushrooms
 p_recipe_id: 521
-permalink: /recipes/braised-abalone-with-mushrooms-hong-shao-bao-gu
+permalink: /recipes/braised-abalone-with-mushrooms
 photo_large: null
-photo_thumb: braised-abalone-with-mushrooms-hong-shao-bao-gu-thumb.jpg
+photo_thumb: braised-abalone-with-mushrooms-thumb.jpg
 photos_dict: null
 prep_time: 20 minutes
-rating: 0
+rating: 5
 servings: 'Servings: 6'
-slug: braised-abalone-with-mushrooms-hong-shao-bao-gu
+slug: braised-abalone-with-mushrooms
 source: wokandkin.com
 source_url: https://www.wokandkin.com/braised-abalone-with-mushrooms/
 tags:
 - chinese
 - abalone
-total_time: null
+total_time: ''
 type: null
 uid: 2C7D1A95-70E2-4E76-A31B-F3C9352589CC
 ---

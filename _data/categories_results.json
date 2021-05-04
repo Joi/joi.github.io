@@ -31,8 +31,8 @@
   "cat_id": 120,
   "cat_label": "Abalone",
   "cat_parent_id": 6,
-  "recipes": null,
-  "recipes_names": null
+  "recipes": "521",
+  "recipes_names": "brai"
  },
  {
   "cat_id": 54,
@@ -178,8 +178,8 @@
   "cat_id": 99,
   "cat_label": "Chinese",
   "cat_parent_id": 127,
-  "recipes": "453|454|486|492|497|498",
-  "recipes_names": "chin|kani|cant|mapo|shri|chin"
+  "recipes": "453|454|486|492|497|498|521",
+  "recipes_names": "chin|kani|cant|mapo|shri|chin|brai"
  },
  {
   "cat_id": 37,

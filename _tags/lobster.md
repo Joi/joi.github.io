@@ -2,7 +2,11 @@
 title: Lobster
 tag_key: lobster
 notes:
-  feature: []
+  feature:
+  - date: '2021-04-20'
+    feature: Lobster in Lobster Sauce
+    type: dinner
+    uri_path: /notes/2021-04-20-dinner.html
   rough:
   - date: '2020-07-11'
     type: dinner
@@ -31,7 +35,7 @@ rel_tags_count:
   - 1
   - avocado
   chinese:
-  - 1
+  - 2
   - Chinese
   seafood:
   - 1

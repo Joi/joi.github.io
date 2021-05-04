@@ -7,6 +7,14 @@ notes:
     feature: Finally with All of the Right Sauces
     type: dinner
     uri_path: /notes/2021-04-03-dinner.html
+  - date: '2021-04-20'
+    feature: Lobster in Lobster Sauce
+    type: dinner
+    uri_path: /notes/2021-04-20-dinner.html
+  - date: '2021-04-23'
+    feature: Braised Abalone with Mushrooms
+    type: dinner
+    uri_path: /notes/2021-04-23-dinner.html
   - date: '2021-04-29'
     feature: Chinese Roasted Chicken
     type: dinner
@@ -27,10 +35,10 @@ recipes:
   title: Asian Pork Chops
 - mine: null
   p_recipe_id: 521
-  permalink: /recipes/braised-abalone-with-mushrooms-hong-shao-bao-gu
-  photo_thumb: braised-abalone-with-mushrooms-hong-shao-bao-gu-thumb.jpg
-  rating: 0
-  title: "BRAISED ABALONE WITH MUSHROOMS (\u7EA2\u70E7\u9C8D\u83C7)"
+  permalink: /recipes/braised-abalone-with-mushrooms
+  photo_thumb: braised-abalone-with-mushrooms-thumb.jpg
+  rating: 5
+  title: Braised Abalone with Mushrooms
 - mine: null
   p_recipe_id: 486
   permalink: /recipes/cantonese-style-lobster-with-ginger-and-scallions
@@ -99,7 +107,7 @@ recipes:
   title: Steamed Abalone with Garlic
 rel_tags_count:
   abalone:
-  - 2
+  - 3
   - abalone
   beef-shank:
   - 1
@@ -120,7 +128,7 @@ rel_tags_count:
   - 3
   - ground pork
   lobster:
-  - 1
+  - 2
   - lobster
   pork-chops:
   - 1

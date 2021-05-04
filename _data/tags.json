@@ -543,6 +543,12 @@
   "notes": {
    "feature": [
     {
+     "date": "2021-04-23",
+     "feature": "Braised Abalone with Mushrooms",
+     "type": "dinner",
+     "uri_path": "/notes/2021-04-23-dinner.html"
+    },
+    {
      "date": "2021-04-27",
      "feature": "Abalone Meuniere",
      "type": "dinner",
@@ -563,10 +569,10 @@
    {
     "mine": null,
     "p_recipe_id": 521,
-    "permalink": "/recipes/braised-abalone-with-mushrooms-hong-shao-bao-gu",
-    "photo_thumb": "braised-abalone-with-mushrooms-hong-shao-bao-gu-thumb.jpg",
-    "rating": 0,
-    "title": "BRAISED ABALONE WITH MUSHROOMS (红烧鲍菇)"
+    "permalink": "/recipes/braised-abalone-with-mushrooms",
+    "photo_thumb": "braised-abalone-with-mushrooms-thumb.jpg",
+    "rating": 5,
+    "title": "Braised Abalone with Mushrooms"
    },
    {
     "mine": null,
@@ -587,7 +593,7 @@
   ],
   "rel_tags_count": {
    "chinese": [
-    2,
+    3,
     "Chinese"
    ],
    "french": [
@@ -2636,6 +2642,18 @@
      "uri_path": "/notes/2021-04-03-dinner.html"
     },
     {
+     "date": "2021-04-20",
+     "feature": "Lobster in Lobster Sauce",
+     "type": "dinner",
+     "uri_path": "/notes/2021-04-20-dinner.html"
+    },
+    {
+     "date": "2021-04-23",
+     "feature": "Braised Abalone with Mushrooms",
+     "type": "dinner",
+     "uri_path": "/notes/2021-04-23-dinner.html"
+    },
+    {
      "date": "2021-04-29",
      "feature": "Chinese Roasted Chicken",
      "type": "dinner",
@@ -2667,10 +2685,10 @@
    {
     "mine": null,
     "p_recipe_id": 521,
-    "permalink": "/recipes/braised-abalone-with-mushrooms-hong-shao-bao-gu",
-    "photo_thumb": "braised-abalone-with-mushrooms-hong-shao-bao-gu-thumb.jpg",
-    "rating": 0,
-    "title": "BRAISED ABALONE WITH MUSHROOMS (红烧鲍菇)"
+    "permalink": "/recipes/braised-abalone-with-mushrooms",
+    "photo_thumb": "braised-abalone-with-mushrooms-thumb.jpg",
+    "rating": 5,
+    "title": "Braised Abalone with Mushrooms"
    },
    {
     "mine": null,
@@ -2763,7 +2781,7 @@
   ],
   "rel_tags_count": {
    "abalone": [
-    2,
+    3,
     "abalone"
    ],
    "beef-shank": [
@@ -2791,7 +2809,7 @@
     "ground pork"
    ],
    "lobster": [
-    1,
+    2,
     "lobster"
    ],
    "pork-chops": [
@@ -5097,7 +5115,14 @@
  },
  "lobster": {
   "notes": {
-   "feature": [],
+   "feature": [
+    {
+     "date": "2021-04-20",
+     "feature": "Lobster in Lobster Sauce",
+     "type": "dinner",
+     "uri_path": "/notes/2021-04-20-dinner.html"
+    }
+   ],
    "rough": [
     {
      "date": "2020-07-11",
@@ -5138,7 +5163,7 @@
     "avocado"
    ],
    "chinese": [
-    1,
+    2,
     "Chinese"
    ],
    "seafood": [

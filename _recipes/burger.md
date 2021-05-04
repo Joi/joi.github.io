@@ -14,7 +14,8 @@ ingredients: 'Ground beef
 intrash: 0
 meal_dates:
 - '2021-04-11'
-meal_types: '3'
+- '2021-05-04'
+meal_types: 3|3
 mine: 1
 name: Burger
 p_recipe_id: 514
