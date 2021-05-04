@@ -251,6 +251,14 @@
    },
    {
     "mine": 1,
+    "p_recipe_id": 524,
+    "permalink": "/recipes/scrambled-eggs-with-sorrel",
+    "photo_thumb": "scrambled-eggs-with-sorrel-thumb.jpg",
+    "rating": 5,
+    "title": "Scrambled Eggs with Sorrel"
+   },
+   {
+    "mine": 1,
     "p_recipe_id": 495,
     "permalink": "/recipes/seared-wagyu",
     "photo_thumb": "seared-wagyu-thumb.jpg",
@@ -319,6 +327,14 @@
     3,
     "beef"
    ],
+   "breakfast": [
+    1,
+    "breakfast"
+   ],
+   "burger": [
+    1,
+    "burger"
+   ],
    "chicken": [
     7,
     "chicken"
@@ -336,7 +352,7 @@
     "curry"
    ],
    "egg": [
-    1,
+    2,
     "egg"
    ],
    "fish": [
@@ -428,7 +444,7 @@
     "sole"
    ],
    "sorrel": [
-    1,
+    2,
     "sorrel"
    ],
    "soup": [
@@ -938,6 +954,12 @@
      "feature": "Billows on a Chuck Roast",
      "type": "dinner",
      "uri_path": "/notes/2020-10-18-dinner.html"
+    },
+    {
+     "date": "2021-05-04",
+     "feature": "Wagyu Burger",
+     "type": "dinner",
+     "uri_path": "/notes/2021-05-04-dinner.html"
     }
    ],
    "rough": [
@@ -1223,6 +1245,10 @@
     2,
     "brisket"
    ],
+   "burger": [
+    1,
+    "burger"
+   ],
    "chuck-roast": [
     2,
     "chuck roast"
@@ -1314,6 +1340,10 @@
    "thai": [
     1,
     "Thai"
+   ],
+   "wagyu": [
+    1,
+    "Wagyu"
    ]
   }
  },
@@ -1881,16 +1911,28 @@
     "photo_thumb": "mushroom-filling-thumb.jpg",
     "rating": 0,
     "title": "Mushroom Filling"
+   },
+   {
+    "mine": null,
+    "p_recipe_id": 524,
+    "permalink": "/recipes/scrambled-eggs-with-sorrel",
+    "photo_thumb": "scrambled-eggs-with-sorrel-thumb.jpg",
+    "rating": 5,
+    "title": "Scrambled Eggs with Sorrel"
    }
   ],
   "rel_tags_count": {
    "egg": [
-    3,
+    4,
     "egg"
    ],
    "pork": [
     1,
     "pork"
+   ],
+   "sorrel": [
+    1,
+    "sorrel"
    ]
   }
  },
@@ -1925,6 +1967,47 @@
    "beef": [
     2,
     "beef"
+   ]
+  }
+ },
+ "burger": {
+  "notes": {
+   "feature": [
+    {
+     "date": "2021-05-04",
+     "feature": "Wagyu Burger",
+     "type": "dinner",
+     "uri_path": "/notes/2021-05-04-dinner.html"
+    }
+   ],
+   "rough": []
+  },
+  "recipes": [
+   {
+    "mine": 1,
+    "p_recipe_id": 514,
+    "permalink": "/recipes/burger",
+    "photo_thumb": "burger-thumb.jpg",
+    "rating": 5,
+    "title": "Burger"
+   }
+  ],
+  "rel_tags_count": {
+   "beef": [
+    1,
+    "beef"
+   ],
+   "ground-beef": [
+    1,
+    "ground beef"
+   ],
+   "short-ribs": [
+    1,
+    "short ribs"
+   ],
+   "wagyu": [
+    1,
+    "Wagyu"
    ]
   }
  },
@@ -3330,6 +3413,14 @@
    },
    {
     "mine": null,
+    "p_recipe_id": 524,
+    "permalink": "/recipes/scrambled-eggs-with-sorrel",
+    "photo_thumb": "scrambled-eggs-with-sorrel-thumb.jpg",
+    "rating": 5,
+    "title": "Scrambled Eggs with Sorrel"
+   },
+   {
+    "mine": null,
     "p_recipe_id": 303,
     "permalink": "/recipes/shakshuka-with-feta",
     "photo_thumb": "shakshuka-with-feta-thumb.jpg",
@@ -3343,7 +3434,7 @@
     "beef"
    ],
    "breakfast": [
-    3,
+    4,
     "breakfast"
    ],
    "chinese": [
@@ -3367,7 +3458,7 @@
     "pork"
    ],
    "sorrel": [
-    1,
+    2,
     "sorrel"
    ]
   }
@@ -4232,6 +4323,10 @@
    "beef": [
     3,
     "beef"
+   ],
+   "burger": [
+    1,
+    "burger"
    ],
    "chicken": [
     1,
@@ -8032,6 +8127,10 @@
     6,
     "beef"
    ],
+   "burger": [
+    1,
+    "burger"
+   ],
    "chuck-roast": [
     1,
     "chuck roast"
@@ -8540,15 +8639,27 @@
     "photo_thumb": "eggs-poached-in-buttery-sorrel-sauce-thumb.jpg",
     "rating": 0,
     "title": "Eggs Poached in Buttery Sorrel Sauce"
+   },
+   {
+    "mine": 1,
+    "p_recipe_id": 524,
+    "permalink": "/recipes/scrambled-eggs-with-sorrel",
+    "photo_thumb": "scrambled-eggs-with-sorrel-thumb.jpg",
+    "rating": 5,
+    "title": "Scrambled Eggs with Sorrel"
    }
   ],
   "rel_tags_count": {
+   "breakfast": [
+    1,
+    "breakfast"
+   ],
    "chicken": [
     1,
     "chicken"
    ],
    "egg": [
-    1,
+    2,
     "egg"
    ]
   }
@@ -9949,6 +10060,17 @@
   }
  },
  "wagyu": {
+  "notes": {
+   "feature": [
+    {
+     "date": "2021-05-04",
+     "feature": "Wagyu Burger",
+     "type": "dinner",
+     "uri_path": "/notes/2021-05-04-dinner.html"
+    }
+   ],
+   "rough": []
+  },
   "recipes": [
    {
     "mine": 1,
@@ -9959,7 +10081,16 @@
     "title": "Seared Wagyu"
    }
   ],
-  "rel_tags_count": {}
+  "rel_tags_count": {
+   "beef": [
+    1,
+    "beef"
+   ],
+   "burger": [
+    1,
+    "burger"
+   ]
+  }
  },
  "white fish": {
   "recipes": [

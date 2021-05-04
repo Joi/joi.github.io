@@ -1048,7 +1048,8 @@
    "521": "Dinner"
   },
   "2021-04-25": {
-   "350": "Dinner"
+   "350": "Dinner",
+   "524": "Lunch"
   },
   "2021-04-26": {
    "492": "Dinner"
@@ -2093,6 +2094,9 @@
   },
   "521": {
    "2021-04-23": "Dinner"
+  },
+  "524": {
+   "2021-04-25": "Lunch"
   }
  },
  "meal_data_by_recipe_and_status": {
@@ -5098,13 +5102,16 @@
    ]
   },
   "514": {
+   "featured": [
+    {
+     "date": "2021-05-04",
+     "feature": "Wagyu Burger",
+     "type": "Dinner"
+    }
+   ],
    "nofile": [
     {
      "date": "2021-04-11",
-     "type": "Dinner"
-    },
-    {
-     "date": "2021-05-04",
      "type": "Dinner"
     }
    ]
@@ -5172,6 +5179,14 @@
      "date": "2021-04-23",
      "feature": "Braised Abalone with Mushrooms",
      "type": "Dinner"
+    }
+   ]
+  },
+  "524": {
+   "nofile": [
+    {
+     "date": "2021-04-25",
+     "type": "Lunch"
     }
    ]
   }
@@ -6894,6 +6909,9 @@
   "2021-04-25": {
    "Dinner": [
     350
+   ],
+   "Lunch": [
+    524
    ]
   },
   "2021-04-26": {

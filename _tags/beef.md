@@ -19,6 +19,10 @@ notes:
     feature: Billows on a Chuck Roast
     type: dinner
     uri_path: /notes/2020-10-18-dinner.html
+  - date: '2021-05-04'
+    feature: Wagyu Burger
+    type: dinner
+    uri_path: /notes/2021-05-04-dinner.html
   rough:
   - date: '2020-07-25'
     type: dinner
@@ -226,6 +230,9 @@ rel_tags_count:
   brisket:
   - 2
   - brisket
+  burger:
+  - 1
+  - burger
   chuck-roast:
   - 2
   - chuck roast
@@ -295,5 +302,8 @@ rel_tags_count:
   thai:
   - 1
   - Thai
+  wagyu:
+  - 1
+  - Wagyu
 
 ---

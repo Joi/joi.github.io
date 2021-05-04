@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2021-04-20-dinner.md",
+            "file": "_notes/2021-05-04-dinner.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-04-20-dinner.md",
+                "file": "_notes/2021-05-04-dinner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "3719bcb9f4d045af",
   "lastOpenFiles": [
+    "_notes/2021-05-04-dinner.md",
+    "_notes/2021-05-03-dinner.md",
+    "_notes/2021-05-04-dinner 1.md",
     "_notes/2021-04-20-dinner.md",
     "_notes/2021-04-23-dinner.md",
     "_notes/Untitled.md",
     "_notes/2021-04-18-dinner.md",
     "_notes/2021-04-27-dinner.md",
     "_notes/2021-04-29-dinner.md",
-    "_notes/2021-04-30-dinner.md",
-    "_notes/2021-05-03-dinner.md",
-    "_webpages/homepage.md",
-    "_notes/2020-08-12-dinner.md"
+    "_notes/2021-04-30-dinner.md"
   ]
 }

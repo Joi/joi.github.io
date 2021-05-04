@@ -26,12 +26,21 @@ recipes:
   photo_thumb: mushroom-filling-thumb.jpg
   rating: 0
   title: Mushroom Filling
+- mine: null
+  p_recipe_id: 524
+  permalink: /recipes/scrambled-eggs-with-sorrel
+  photo_thumb: scrambled-eggs-with-sorrel-thumb.jpg
+  rating: 5
+  title: Scrambled Eggs with Sorrel
 rel_tags_count:
   egg:
-  - 3
+  - 4
   - egg
   pork:
   - 1
   - pork
+  sorrel:
+  - 1
+  - sorrel
 
 ---

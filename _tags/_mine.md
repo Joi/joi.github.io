@@ -189,6 +189,12 @@ recipes:
   rating: 5
   title: Salmon with Sorrel Sauce
 - mine: 1
+  p_recipe_id: 524
+  permalink: /recipes/scrambled-eggs-with-sorrel
+  photo_thumb: scrambled-eggs-with-sorrel-thumb.jpg
+  rating: 5
+  title: Scrambled Eggs with Sorrel
+- mine: 1
   p_recipe_id: 495
   permalink: /recipes/seared-wagyu
   photo_thumb: seared-wagyu-thumb.jpg
@@ -240,6 +246,12 @@ rel_tags_count:
   beef:
   - 3
   - beef
+  breakfast:
+  - 1
+  - breakfast
+  burger:
+  - 1
+  - burger
   chicken:
   - 7
   - chicken
@@ -253,7 +265,7 @@ rel_tags_count:
   - 1
   - curry
   egg:
-  - 1
+  - 2
   - egg
   fish:
   - 3
@@ -322,7 +334,7 @@ rel_tags_count:
   - 2
   - sole
   sorrel:
-  - 1
+  - 2
   - sorrel
   soup:
   - 2

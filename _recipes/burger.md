@@ -24,6 +24,14 @@ photo_large: burger-large.jpg
 photo_thumb: burger-thumb.jpg
 photos_dict:
   '1': burger-1.jpg
+  '2': burger-2.jpg
+  '3': burger-3.jpg
+  '4': burger-4.jpg
+  '5': burger-5.jpg
+  '6': burger-6.jpg
+  '7': burger-7.jpg
+  '8': burger-8.jpg
+  '9': burger-9.jpg
 prep_time: ''
 rating: 5
 servings: ''
@@ -33,6 +41,7 @@ source_url: null
 tags:
 - short ribs
 - ground beef
+- burger
 total_time: ''
 type: null
 uid: 269BFC46-98A2-4B80-B595-F728CCC2D8E0-88379-000549D16BA59A30

@@ -96,6 +96,9 @@ rel_tags_count:
   beef:
   - 3
   - beef
+  burger:
+  - 1
+  - burger
   chicken:
   - 1
   - chicken

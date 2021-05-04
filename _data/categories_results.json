@@ -136,8 +136,8 @@
   "cat_id": 8,
   "cat_label": "Breakfast",
   "cat_parent_id": 126,
-  "recipes": null,
-  "recipes_names": null
+  "recipes": "524",
+  "recipes_names": "scra"
  },
  {
   "cat_id": 30,
@@ -241,8 +241,8 @@
   "cat_id": 16,
   "cat_label": "Egg",
   "cat_parent_id": 125,
-  "recipes": "2|453|454",
-  "recipes_names": "saus|chin|kani"
+  "recipes": "2|453|454|524",
+  "recipes_names": "saus|chin|kani|scra"
  },
  {
   "cat_id": 60,
@@ -654,8 +654,8 @@
   "cat_id": 116,
   "cat_label": "Sorrel",
   "cat_parent_id": 36,
-  "recipes": "516",
-  "recipes_names": "chic"
+  "recipes": "516|524",
+  "recipes_names": "chic|scra"
  },
  {
   "cat_id": 20,
@@ -836,8 +836,8 @@
   "cat_id": 95,
   "cat_label": "_mine",
   "cat_parent_id": null,
-  "recipes": "30|39|47|122|213|240|246|317|330|341|350|353|354|378|388|436|448|454|457|458|460|469|479|480|485|488|490|492|497|502|505|514|516|519",
-  "recipes_names": "japa|mayo|fish|salm|stea|oven|bbqs|prim|chic|bbqc|bolo|pael|tuna|roui|frys|chic|brai|kani|beef|mari|guac|pizz|gini|gini|kohl|oxta|shri|mapo|shri|tart|bbqr|burg|chic|gril"
+  "recipes": "30|39|47|122|213|240|246|317|330|341|350|353|354|378|388|436|448|454|457|458|460|469|479|480|485|488|490|492|497|502|505|514|516|519|524",
+  "recipes_names": "japa|mayo|fish|salm|stea|oven|bbqs|prim|chic|bbqc|bolo|pael|tuna|roui|frys|chic|brai|kani|beef|mari|guac|pizz|gini|gini|kohl|oxta|shri|mapo|shri|tart|bbqr|burg|chic|gril|scra"
  },
  {
   "cat_id": 113,
@@ -845,5 +845,12 @@
   "cat_parent_id": null,
   "recipes": "519",
   "recipes_names": "gril"
+ },
+ {
+  "cat_id": 129,
+  "cat_label": "burger",
+  "cat_parent_id": null,
+  "recipes": "514",
+  "recipes_names": "burg"
  }
 ]

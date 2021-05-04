@@ -31,6 +31,7 @@
   "prime-rib": "Prime Rib",
   "rouille": "Rouille",
   "salmon-with-sorrel-sauce": "Salmon with Sorrel Sauce",
+  "scrambled-eggs-with-sorrel": "Scrambled Eggs with Sorrel",
   "seared-wagyu": "Seared Wagyu",
   "shrimp-and-endive-salad": "Shrimp and Endive Salad",
   "shrimp-with-mayonnaise-ebimayo": "Shrimp with Mayonnaise - ebimayo",
@@ -162,12 +163,16 @@
   "easy-ham-and-cheese-omelet": "Easy Ham and Cheese Omelet",
   "fluffy-baked-omelet": "Fluffy Baked Omelet",
   "fluffy-omelet": "Fluffy Omelet",
-  "mushroom-filling": "Mushroom Filling"
+  "mushroom-filling": "Mushroom Filling",
+  "scrambled-eggs-with-sorrel": "Scrambled Eggs with Sorrel"
  },
  "brisket": {
   "braised-brisket-with-onions": "Braised Brisket with Onions",
   "easiest-brisket-with-caramelized-onions": "Easiest Brisket with Caramelized Onions",
   "slow-cooker-braised-brisket-and-onions": "Slow-Cooker Braised Brisket and Onions"
+ },
+ "burger": {
+  "burger": "Burger"
  },
  "cauliflower": {
   "roasted-cauliflower": "Roasted Cauliflower",
@@ -310,6 +315,7 @@
   "kanitama": "Kanitama",
   "omelet": "Omelet",
   "sausage-and-veggie-frittata-and-ayran-drink": "Sausage and Veggie Frittata and Ayran Drink",
+  "scrambled-eggs-with-sorrel": "Scrambled Eggs with Sorrel",
   "shakshuka-with-feta": "Shakshuka with Feta"
  },
  "endive": {
@@ -786,7 +792,8 @@
  },
  "sorrel": {
   "chicken-with-sorrel": "Chicken with Sorrel",
-  "eggs-poached-in-buttery-sorrel-sauce": "Eggs Poached in Buttery Sorrel Sauce"
+  "eggs-poached-in-buttery-sorrel-sauce": "Eggs Poached in Buttery Sorrel Sauce",
+  "scrambled-eggs-with-sorrel": "Scrambled Eggs with Sorrel"
  },
  "soup": {
   "asparagus-soup-with-parmesan-shortbread-coins": "Asparagus Soup with Parmesan Shortbread Coins",

@@ -112,6 +112,13 @@
   "recipes_names": "mant|croi|pita|nyti|jiml|butt|butt|howt|pita"
  },
  {
+  "cat_id": 8,
+  "cat_label": "Breakfast",
+  "cat_parent_id": 126,
+  "recipes": "524",
+  "recipes_names": "scra"
+ },
+ {
   "cat_id": 30,
   "cat_label": "Brisket",
   "cat_parent_id": 13,
@@ -199,8 +206,8 @@
   "cat_id": 16,
   "cat_label": "Egg",
   "cat_parent_id": 125,
-  "recipes": "2|453|454",
-  "recipes_names": "saus|chin|kani"
+  "recipes": "2|453|454|524",
+  "recipes_names": "saus|chin|kani|scra"
  },
  {
   "cat_id": 4,
@@ -507,8 +514,8 @@
   "cat_id": 116,
   "cat_label": "Sorrel",
   "cat_parent_id": 36,
-  "recipes": "516",
-  "recipes_names": "chic"
+  "recipes": "516|524",
+  "recipes_names": "chic|scra"
  },
  {
   "cat_id": 20,

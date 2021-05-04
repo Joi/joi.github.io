@@ -81,6 +81,10 @@
   "brisket": {
    "filename": "brisket",
    "titlecase": "Brisket"
+  },
+  "burger": {
+   "filename": "burger",
+   "titlecase": "Burger"
   }
  },
  "c": {

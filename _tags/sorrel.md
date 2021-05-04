@@ -14,12 +14,21 @@ recipes:
   photo_thumb: eggs-poached-in-buttery-sorrel-sauce-thumb.jpg
   rating: 0
   title: Eggs Poached in Buttery Sorrel Sauce
+- mine: 1
+  p_recipe_id: 524
+  permalink: /recipes/scrambled-eggs-with-sorrel
+  photo_thumb: scrambled-eggs-with-sorrel-thumb.jpg
+  rating: 5
+  title: Scrambled Eggs with Sorrel
 rel_tags_count:
+  breakfast:
+  - 1
+  - breakfast
   chicken:
   - 1
   - chicken
   egg:
-  - 1
+  - 2
   - egg
 
 ---

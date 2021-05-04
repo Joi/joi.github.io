@@ -84,6 +84,9 @@ rel_tags_count:
   beef:
   - 6
   - beef
+  burger:
+  - 1
+  - burger
   chuck-roast:
   - 1
   - chuck roast

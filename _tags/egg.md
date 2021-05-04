@@ -69,6 +69,12 @@ recipes:
   rating: 4
   title: Sausage and Veggie Frittata and Ayran Drink
 - mine: null
+  p_recipe_id: 524
+  permalink: /recipes/scrambled-eggs-with-sorrel
+  photo_thumb: scrambled-eggs-with-sorrel-thumb.jpg
+  rating: 5
+  title: Scrambled Eggs with Sorrel
+- mine: null
   p_recipe_id: 303
   permalink: /recipes/shakshuka-with-feta
   photo_thumb: shakshuka-with-feta-thumb.jpg
@@ -79,7 +85,7 @@ rel_tags_count:
   - 1
   - beef
   breakfast:
-  - 3
+  - 4
   - breakfast
   chinese:
   - 2
@@ -97,7 +103,7 @@ rel_tags_count:
   - 1
   - pork
   sorrel:
-  - 1
+  - 2
   - sorrel
 
 ---
