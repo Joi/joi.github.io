@@ -12,7 +12,7 @@ notes:
     type: dinner
     uri_path: /notes/2021-04-27-dinner.html
   - date: '2021-05-09'
-    feature: Fresh abalone
+    feature: Fresh Abalone
     type: dinner
     uri_path: /notes/2021-05-09-dinner.html
   rough: []
