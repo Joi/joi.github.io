@@ -23,7 +23,8 @@ meal_dates:
 - '2021-02-03'
 - '2021-01-31'
 - '2021-04-03'
-meal_types: 2|2|2|2|2
+- '2021-05-11'
+meal_types: 2|2|2|2|2|2
 mine: 1
 name: Pizza
 p_recipe_id: 469

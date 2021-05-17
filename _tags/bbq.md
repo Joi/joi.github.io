@@ -19,6 +19,10 @@ notes:
     feature: Billows and Brined Salmon
     type: dinner
     uri_path: /notes/2020-11-22-dinner.html
+  - date: '2021-05-16'
+    feature: BBQ Pork Spare Ribs
+    type: dinner
+    uri_path: /notes/2021-05-16-dinner.html
   rough:
   - date: '2020-07-25'
     type: dinner
@@ -64,6 +68,12 @@ recipes:
   rating: 0
   title: Kansas City BBQ Sauce
 - mine: null
+  p_recipe_id: 530
+  permalink: /recipes/ribs-101
+  photo_thumb: ribs-101-thumb.jpg
+  rating: 5
+  title: Ribs 101
+- mine: null
   p_recipe_id: 366
   permalink: /recipes/smoked-3-2-1-st-louis-style-spare-ribs
   photo_thumb: null
@@ -100,9 +110,15 @@ rel_tags_count:
   grilling:
   - 5
   - grilling
+  pork:
+  - 1
+  - pork
   pork-spare-ribs:
-  - 3
+  - 4
   - pork spare ribs
+  ribs:
+  - 1
+  - ribs
   roasting:
   - 3
   - roasting

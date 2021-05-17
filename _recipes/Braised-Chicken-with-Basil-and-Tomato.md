@@ -8,20 +8,20 @@ description: null
 difficulty: ''
 favorite: 0
 image_url: null
-ingredients: "\xBD cup table salt, for brining\n1 \xBD - 2 pounds bone-in split chicken\
+ingredients: "\xBD cup table salt, for brining\n1 \xBD - 2 lb bone-in split chicken\
   \ breasts, trimmed and each cut crosswise into 2 pieces of equal mass\n1 \xBD -\
-  \ 2 pounds chicken leg quarters, separated into drumsticks and thighs, trimmed\n\
-  1 tablespoon vegetable oil\n1 onion, chopped fine\n2 tablespoons tomato paste\n\
-  4 garlic cloves, minced\n1 teaspoon dried oregano\n\xBC teaspoon red pepper flakes\n\
-  1 tablespoon all-purpose flour\n\u2153 cup dry white wine\n\xBC cup chopped fresh\
-  \ basil, divided\n2 teaspoon red wine vinegar"
+  \ 2 lb chicken leg quarters, separated into drumsticks and thighs, trimmed\n1 Tbsp\
+  \ vegetable oil\n1 onion, chopped fine\n2 Tbsp tomato paste\n4 garlic cloves, minced\n\
+  1 tsp dried oregano\n\xBC tsp red pepper flakes\n1 Tbsp all-purpose flour\n\u2153\
+  \ cup dry white wine\n\xBC cup chopped fresh basil, divided\n2 tsp red wine vinegar"
 intrash: 0
 meal_dates:
 - '2020-05-13'
 - '2020-06-03'
 - '2020-09-10'
 - '2020-12-09'
-meal_types: 3|3|3|3
+- '2021-05-06'
+meal_types: 3|3|3|3|3
 mine: null
 name: Braised Chicken with Basil and Tomato
 p_recipe_id: 86
@@ -49,17 +49,17 @@ uid: FF6B358D-8D29-4986-84E0-27C7EBD83014-9482-0000064F04336AC0
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ cup table salt, for brining</li>
-<li>1 ½ - 2 pounds bone-in split chicken breasts, trimmed and each cut crosswise into 2 pieces of equal mass</li>
-<li>1 ½ - 2 pounds chicken leg quarters, separated into drumsticks and thighs, trimmed</li>
-<li>1 tablespoon vegetable oil</li>
+<li>1 ½ - 2 lb bone-in split chicken breasts, trimmed and each cut crosswise into 2 pieces of equal mass</li>
+<li>1 ½ - 2 lb chicken leg quarters, separated into drumsticks and thighs, trimmed</li>
+<li>1 Tbsp vegetable oil</li>
 <li>1 onion, chopped fine</li>
-<li>2 tablespoons tomato paste</li>
+<li>2 Tbsp tomato paste</li>
 <li>4 garlic cloves, minced</li>
-<li>1 teaspoon dried oregano</li>
-<li>¼ teaspoon red pepper flakes</li>
-<li>1 tablespoon all-purpose flour</li>
+<li>1 tsp dried oregano</li>
+<li>¼ tsp red pepper flakes</li>
+<li>1 Tbsp all-purpose flour</li>
 <li>⅓ cup dry white wine</li>
 <li>¼ cup chopped fresh basil, divided</li>
-<li>2 teaspoon red wine vinegar</li>
+<li>2 tsp red wine vinegar</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

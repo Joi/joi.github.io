@@ -1,6 +1,13 @@
 ---
 title: Pork
 tag_key: pork
+notes:
+  feature:
+  - date: '2021-05-16'
+    feature: BBQ Pork Spare Ribs
+    type: dinner
+    uri_path: /notes/2021-05-16-dinner.html
+  rough: []
 recipes:
 - mine: null
   p_recipe_id: 27
@@ -39,6 +46,9 @@ recipes:
   rating: 0
   title: Whatever You Want Soup
 rel_tags_count:
+  bbq:
+  - 1
+  - BBQ
   breakfast:
   - 1
   - breakfast
@@ -57,6 +67,9 @@ rel_tags_count:
   meat:
   - 2
   - meat
+  ribs:
+  - 1
+  - ribs
   short-ribs:
   - 1
   - short ribs

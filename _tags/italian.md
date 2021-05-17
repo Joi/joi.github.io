@@ -17,6 +17,12 @@ notes:
     uri_path: /notes/2020-07-10-dinner.html
 recipes:
 - mine: null
+  p_recipe_id: 529
+  permalink: /recipes/baked-bluefish-with-potatoes
+  photo_thumb: baked-bluefish-with-potatoes-thumb.jpg
+  rating: 4
+  title: Baked Bluefish with Potatoes
+- mine: null
   p_recipe_id: 350
   permalink: /recipes/bolognese-sauce
   photo_thumb: bolognese-sauce-thumb.jpg
@@ -101,6 +107,9 @@ rel_tags_count:
   beef-shank:
   - 2
   - beef shank
+  blue-fish:
+  - 1
+  - blue fish
   branzino:
   - 1
   - branzino

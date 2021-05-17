@@ -1,6 +1,13 @@
 ---
 title: Ribs
 tag_key: ribs
+notes:
+  feature:
+  - date: '2021-05-16'
+    feature: BBQ Pork Spare Ribs
+    type: dinner
+    uri_path: /notes/2021-05-16-dinner.html
+  rough: []
 recipes:
 - mine: null
   p_recipe_id: 79
@@ -15,8 +22,14 @@ recipes:
   rating: 0
   title: Oven Beef Back Ribs
 rel_tags_count:
+  bbq:
+  - 1
+  - BBQ
   beef:
   - 1
   - beef
+  pork:
+  - 1
+  - pork
 
 ---

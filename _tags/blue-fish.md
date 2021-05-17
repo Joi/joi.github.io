@@ -9,6 +9,12 @@ recipes:
   rating: 5
   title: Baked Bluefish
 - mine: null
+  p_recipe_id: 529
+  permalink: /recipes/baked-bluefish-with-potatoes
+  photo_thumb: baked-bluefish-with-potatoes-thumb.jpg
+  rating: 4
+  title: Baked Bluefish with Potatoes
+- mine: null
   p_recipe_id: 181
   permalink: /recipes/bluefish-dijonnaise
   photo_thumb: bluefish-dijonnaise-thumb.jpg
@@ -20,6 +26,9 @@ recipes:
   photo_thumb: fast-vietnamese-caramel-bluefish-thumb.jpg
   rating: 4
   title: Fast Vietnamese Caramel Bluefish
-rel_tags_count: {}
+rel_tags_count:
+  italian:
+  - 1
+  - Italian
 
 ---

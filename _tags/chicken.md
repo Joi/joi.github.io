@@ -47,6 +47,13 @@ recipes:
   rating: 0
   title: Authentic Mexican Chicken Tinga- Best Tinga De Pollo
 - mine: null
+  p_recipe_id: 527
+  permalink: /recipes/authentic-thai-green-curry-recipe-aekngekhiiywhwaan-best-taste!
+  photo_thumb: authentic-thai-green-curry-recipe-aekngekhiiywhwaan-best-taste!-thumb.jpg
+  rating: 0
+  title: "Authentic Thai Green Curry Recipe (\u0E41\u0E01\u0E07\u0E40\u0E02\u0E35\u0E22\
+    \u0E27\u0E2B\u0E27\u0E32\u0E19) - Best Taste!"
+- mine: null
   p_recipe_id: 341
   permalink: /recipes/bbq-chicken
   photo_thumb: bbq-chicken-thumb.jpg
@@ -281,6 +288,12 @@ recipes:
   rating: 0
   title: Karaage Fried Chicken
 - mine: null
+  p_recipe_id: 526
+  permalink: /recipes/marination-for-chicken-korma
+  photo_thumb: marination-for-chicken-korma-thumb.jpg
+  rating: 0
+  title: Marination for Chicken Korma
+- mine: null
   p_recipe_id: 88
   permalink: /recipes/moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel
   photo_thumb: moroccan-chicken-tagine-with-olives-and-lemon-djej-emshmel-thumb.jpg
@@ -371,6 +384,12 @@ recipes:
   rating: 5
   title: Stovetop Roast Chicken with Lemon-Herb Sauce
 - mine: null
+  p_recipe_id: 528
+  permalink: /recipes/thai-green-curry
+  photo_thumb: thai-green-curry-thumb.jpg
+  rating: 0
+  title: Thai Green Curry
+- mine: null
   p_recipe_id: 375
   permalink: /recipes/the-ultimate-grilled-chicken-sandwich
   photo_thumb: the-ultimate-grilled-chicken-sandwich-thumb.jpg
@@ -387,7 +406,7 @@ rel_tags_count:
   - 1
   - Chinese
   curry:
-  - 1
+  - 4
   - curry
   french:
   - 1
@@ -437,6 +456,9 @@ rel_tags_count:
   spatchcocking:
   - 2
   - spatchcocking
+  thai:
+  - 2
+  - Thai
   turkey:
   - 1
   - turkey

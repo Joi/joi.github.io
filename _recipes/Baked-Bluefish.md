@@ -27,7 +27,8 @@ ingredients: 'One bluefish fillet (1/2 pound to 1 pound)
 intrash: 0
 meal_dates:
 - '2020-06-05'
-meal_types: '3'
+- '2021-05-14'
+meal_types: 3|3
 mine: null
 name: Baked Bluefish
 p_recipe_id: 180
@@ -36,6 +37,7 @@ photo_large: baked-bluefish-large.jpg
 photo_thumb: baked-bluefish-thumb.jpg
 photos_dict:
   '1': baked-bluefish-1.jpg
+  '2': baked-bluefish-2.jpg
 prep_time: 10 minutes
 rating: 5
 servings: Serves 2 to 4

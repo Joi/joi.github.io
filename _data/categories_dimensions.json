@@ -31,8 +31,8 @@
   "cat_id": 120,
   "cat_label": "Abalone",
   "cat_parent_id": 6,
-  "recipes": "521",
-  "recipes_names": "brai"
+  "recipes": "520|521",
+  "recipes_names": "mont|brai"
  },
  {
   "cat_id": 54,
@@ -52,8 +52,8 @@
   "cat_id": 84,
   "cat_label": "BBQ",
   "cat_parent_id": 124,
-  "recipes": "246|341|505",
-  "recipes_names": "bbqs|bbqc|bbqr"
+  "recipes": "246|341|505|530",
+  "recipes_names": "bbqs|bbqc|bbqr|ribs"
  },
  {
   "cat_id": 13,
@@ -94,8 +94,8 @@
   "cat_id": 47,
   "cat_label": "Blue Fish",
   "cat_parent_id": 33,
-  "recipes": "176|180",
-  "recipes_names": "fast|bake"
+  "recipes": "176|180|529",
+  "recipes_names": "fast|bake|bake"
  },
  {
   "cat_id": 94,
@@ -238,6 +238,13 @@
   "recipes_names": "poac|sand|crea"
  },
  {
+  "cat_id": 121,
+  "cat_label": "French",
+  "cat_parent_id": 127,
+  "recipes": "520",
+  "recipes_names": "mont"
+ },
+ {
   "cat_id": 7,
   "cat_label": "Grill",
   "cat_parent_id": 124,
@@ -276,8 +283,8 @@
   "cat_id": 17,
   "cat_label": "Italian",
   "cat_parent_id": 127,
-  "recipes": "2|8|17|37|42|199|350|469",
-  "recipes_names": "saus|ragú|meat|mine|chic|osso|bolo|pizz"
+  "recipes": "2|8|17|37|42|199|350|469|529",
+  "recipes_names": "saus|ragú|meat|mine|chic|osso|bolo|pizz|bake"
  },
  {
   "cat_id": 12,
@@ -388,8 +395,8 @@
   "cat_id": 82,
   "cat_label": "Pork Spare Ribs",
   "cat_parent_id": 2,
-  "recipes": "349",
-  "recipes_names": "bbqs"
+  "recipes": "349|530",
+  "recipes_names": "bbqs|ribs"
  },
  {
   "cat_id": 43,

@@ -9,13 +9,13 @@ difficulty: ''
 favorite: 0
 image_url: null
 ingredients: "Pork Spare Ribs\n**Homemade Pork Seasoning Rub**\n \xBD cup brown sugar\n\
-  \xBC cup smoked paprika\n1 tbsp coarse ground black pepper\n1 tbsp kosher salt\n\
-  1 tbsp chili powder\n1 tbsp garlic powder\n1 tbsp onion powder\n1 tsp cayenne\n\
-  BBQ Sauce"
+  2 tsp smoked paprika\n1 Tbsp coarse ground black pepper\n1 tbsp kosher salt\n1 dash\
+  \ cayenne powder\n2 Tbsp garlic powder\n2 Tbsp onion powder\n[BBQ Sauce](/recipes/bbq-sauce)"
 intrash: 0
 meal_dates:
 - '2021-01-17'
-meal_types: '3'
+- '2021-05-16'
+meal_types: 3|3
 mine: null
 name: BBQ Spare Ribs
 p_recipe_id: 349
@@ -24,6 +24,9 @@ photo_large: bbq-spare-ribs-large.jpg
 photo_thumb: bbq-spare-ribs-thumb.jpg
 photos_dict:
   '1': bbq-spare-ribs-1.jpg
+  '2': bbq-spare-ribs-2.jpg
+  '3': bbq-spare-ribs-3.jpg
+  '4': bbq-spare-ribs-4.jpg
 prep_time: ''
 rating: 5
 servings: ''
@@ -42,13 +45,12 @@ uid: F6F34E62-D960-486A-9A20-B976D1309E32-50715-00080BBC09D1E91C
 <li>Pork Spare Ribs</li>
 <li><strong>Homemade Pork Seasoning Rub</strong></li>
 <li>½ cup brown sugar</li>
-<li>¼ cup smoked paprika</li>
-<li>1 tbsp coarse ground black pepper</li>
+<li>2 tsp smoked paprika</li>
+<li>1 Tbsp coarse ground black pepper</li>
 <li>1 tbsp kosher salt</li>
-<li>1 tbsp chili powder</li>
-<li>1 tbsp garlic powder</li>
-<li>1 tbsp onion powder</li>
-<li>1 tsp cayenne</li>
-<li>BBQ Sauce</li>
+<li>1 dash cayenne powder</li>
+<li>2 Tbsp garlic powder</li>
+<li>2 Tbsp onion powder</li>
+<li><a href="/recipes/bbq-sauce">BBQ Sauce</a></li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

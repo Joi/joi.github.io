@@ -11,6 +11,10 @@ notes:
     feature: Abalone Meuniere
     type: dinner
     uri_path: /notes/2021-04-27-dinner.html
+  - date: '2021-05-09'
+    feature: Fresh abalone
+    type: dinner
+    uri_path: /notes/2021-05-09-dinner.html
   rough: []
 recipes:
 - mine: null
@@ -29,8 +33,8 @@ recipes:
   p_recipe_id: 520
   permalink: /recipes/monterey-bay-abalone-meuniere-style
   photo_thumb: monterey-bay-abalone-meuniere-style-thumb.jpg
-  rating: 0
-  title: "Monterey Bay Abalone, Meuni\xE8re-Style"
+  rating: 5
+  title: Monterey Bay Abalone, Meuniere-Style
 - mine: null
   p_recipe_id: 522
   permalink: /recipes/steamed-abalone-with-garlic

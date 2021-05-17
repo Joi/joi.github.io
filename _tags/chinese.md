@@ -63,6 +63,12 @@ recipes:
   photo_thumb: chinese-stir-fry-eggs-with-flaked-crab-meat-recipe-thumb.jpg
   rating: 5
   title: Chinese Stir Fry Eggs with Flaked Crab Meat Recipe
+- mine: null
+  p_recipe_id: 525
+  permalink: /recipes/general-tsos-tofu
+  photo_thumb: general-tsos-tofu-thumb.jpg
+  rating: 0
+  title: "General Tso\u2019s Tofu"
 - mine: 1
   p_recipe_id: 454
   permalink: /recipes/kanitama
@@ -137,7 +143,7 @@ rel_tags_count:
   - 1
   - shrimp
   tofu:
-  - 3
+  - 4
   - tofu
 
 ---

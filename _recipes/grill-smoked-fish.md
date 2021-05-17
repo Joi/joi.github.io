@@ -13,7 +13,8 @@ intrash: 0
 meal_dates:
 - '2020-10-21'
 - '2020-11-22'
-meal_types: 3|3
+- '2021-05-11'
+meal_types: 3|3|3
 mine: 1
 name: Grill Smoked Fish
 p_recipe_id: 499

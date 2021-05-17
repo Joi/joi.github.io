@@ -2,6 +2,12 @@
 title: Tofu
 tag_key: tofu
 recipes:
+- mine: null
+  p_recipe_id: 525
+  permalink: /recipes/general-tsos-tofu
+  photo_thumb: general-tsos-tofu-thumb.jpg
+  rating: 0
+  title: "General Tso\u2019s Tofu"
 - mine: 1
   p_recipe_id: 480
   permalink: /recipes/ginisang-pechay-with-tofu
@@ -28,7 +34,7 @@ recipes:
   title: Mapotofu
 rel_tags_count:
   chinese:
-  - 3
+  - 4
   - Chinese
   ground-pork:
   - 2

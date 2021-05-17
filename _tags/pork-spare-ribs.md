@@ -40,6 +40,12 @@ recipes:
   title: How to Make the Best BBQ Ribs You Ever Tasted - On a BBQ the Way Champions
     Do It
 - mine: null
+  p_recipe_id: 530
+  permalink: /recipes/ribs-101
+  photo_thumb: ribs-101-thumb.jpg
+  rating: 5
+  title: Ribs 101
+- mine: null
   p_recipe_id: 366
   permalink: /recipes/smoked-3-2-1-st-louis-style-spare-ribs
   photo_thumb: null
@@ -53,7 +59,7 @@ recipes:
   title: The Best Pork Ribs on a Gas Grill
 rel_tags_count:
   bbq:
-  - 3
+  - 4
   - BBQ
   smoking:
   - 1

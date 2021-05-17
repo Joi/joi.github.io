@@ -40,7 +40,8 @@ meal_dates:
 - '2021-01-03'
 - '2021-01-31'
 - '2021-03-27'
-meal_types: 3|4|4|4|4|5|5
+- '2021-05-15'
+meal_types: 3|4|4|4|4|5|5|5
 mine: 1
 name: Chicken Stock
 p_recipe_id: 330
@@ -84,7 +85,7 @@ uid: F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C
 <li>5 parsley sprigs or 10 stems</li>
 <li>1 tsp white wine vinegar</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Put chicken parts, veggies and spices in big stock pot - I use a lobster pot. Remember - <strong>NO SALT</strong>. Save the salt for whatever cooking you will use the stock in.</p>
+</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Put chicken parts, veggies and spices in big stock pot - I use a lobster pot. Some people put half or all vegetables in 1 hour before you finish to get a fresher taste from the vegetables. Remember - <strong>NO SALT</strong>. Save the salt for whatever cooking you will use the stock in.</p>
 <p>Put spices in a bouquet garni bag to if you want to keep things tidy.</p>
 <p>Add water and bring to a boil over high heat and then turn down to a simmer. Skim the foam and add the vinegar.</p>
 <p>Simmer uncovered for 6 to 8 hours. Never boil or allow to &quot;roll&quot; if you want to stock to stay clear.</p>
