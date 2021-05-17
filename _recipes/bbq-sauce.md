@@ -18,7 +18,7 @@ meal_dates:
 - '2020-09-03'
 - '2020-09-20'
 - '2021-05-16'
-meal_types: 3|3|3
+meal_types: 3|3|5
 mine: 1
 name: BBQ Sauce
 p_recipe_id: 246
