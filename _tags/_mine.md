@@ -216,7 +216,7 @@ recipes:
   p_recipe_id: 494
   permalink: /recipes/steak
   photo_thumb: steak-thumb.jpg
-  rating: 0
+  rating: 5
   title: Steak
 - mine: 1
   p_recipe_id: 213

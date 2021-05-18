@@ -24,7 +24,7 @@ recipes:
   p_recipe_id: 494
   permalink: /recipes/steak
   photo_thumb: steak-thumb.jpg
-  rating: 0
+  rating: 5
   title: Steak
 rel_tags_count:
   beef:

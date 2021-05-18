@@ -14,7 +14,8 @@ meal_dates:
 - '2021-03-27'
 - '2020-08-02'
 - '2020-08-12'
-meal_types: 3|3|3
+- '2021-05-17'
+meal_types: 3|3|3|3
 mine: 1
 name: Steak
 p_recipe_id: 494
@@ -24,8 +25,9 @@ photo_thumb: steak-thumb.jpg
 photos_dict:
   '1': steak-1.jpg
   '2': steak-2.jpg
+  '3': steak-3.jpg
 prep_time: ''
-rating: 0
+rating: 5
 servings: ''
 slug: steak
 source: null
@@ -42,4 +44,9 @@ uid: 509801DC-97A9-44B1-BD50-C6C34EF65520-52325-0000F025C76A4D12
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients">	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients">	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Good steak is a combination of a good sear and a slow cook. You can do a [reverse sear] where you heat the steak to 5-10 degrees below the target temperature and sear it at the end. You can also sear first.</p>
+<p>Indoors, I use an Anova Precision Oven and heat the steak slowly and sear it on the grill or a skillet at the end.</p>
+<p>I've noticed that dry aged beef can smell funky heating slowly at low temperatures. I think it's the <a href="/pages/meat-and-temperatures">lactobacillus issue</a>.</p>
+<p>Outdoors, you can slow heat it on the cool side of the grill and sear, or sear and then heat the rest slowly on the cool side. I've also tried going back and forth between the cool side and the hot side to avoid too much of the flames from the dripping oil hitting the steak.</p>
+<p>If you sear at the end, make sure you let it rest a bit.</p>
+</div>	</div>

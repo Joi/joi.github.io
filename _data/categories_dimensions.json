@@ -59,8 +59,8 @@
   "cat_id": 13,
   "cat_label": "Beef",
   "cat_parent_id": 18,
-  "recipes": "17|29|31|73|74|77|90|121|125|211|268|275|342|350|406",
-  "recipes_names": "meat|bilt|gril|cast|pan-|potr|inst|butt|inst|garl|stea|thef|brai|bolo|delm"
+  "recipes": "17|29|31|73|74|77|90|121|125|211|268|275|342|350|406|494",
+  "recipes_names": "meat|bilt|gril|cast|pan-|potr|inst|butt|inst|garl|stea|thef|brai|bolo|delm|stea"
  },
  {
   "cat_id": 81,
@@ -304,8 +304,8 @@
   "cat_id": 18,
   "cat_label": "Meat",
   "cat_parent_id": 125,
-  "recipes": "8|15|17|42|45|46|129|130|268",
-  "recipes_names": "ragú|rish|meat|chic|thes|roas|maki|inst|stea"
+  "recipes": "8|15|17|42|45|46|129|130|268|494",
+  "recipes_names": "ragú|rish|meat|chic|thes|roas|maki|inst|stea|stea"
  },
  {
   "cat_id": 91,
@@ -409,8 +409,8 @@
   "cat_id": 76,
   "cat_label": "Prime Rib",
   "cat_parent_id": 13,
-  "recipes": "317",
-  "recipes_names": "prim"
+  "recipes": "317|494",
+  "recipes_names": "prim|stea"
  },
  {
   "cat_id": 51,
@@ -549,8 +549,8 @@
   "cat_id": 27,
   "cat_label": "Steaks",
   "cat_parent_id": 13,
-  "recipes": "31|50|73|74|121|137|168|268|406|476",
-  "recipes_names": "gril|pan-|cast|pan-|butt|hang|pans|stea|delm|mush"
+  "recipes": "31|50|73|74|121|137|168|268|406|476|494",
+  "recipes_names": "gril|pan-|cast|pan-|butt|hang|pans|stea|delm|mush|stea"
  },
  {
   "cat_id": 118,
@@ -584,8 +584,8 @@
   "cat_id": 85,
   "cat_label": "Tenderloin",
   "cat_parent_id": 13,
-  "recipes": "211|471",
-  "recipes_names": "garl|file"
+  "recipes": "211|471|494",
+  "recipes_names": "garl|file|stea"
  },
  {
   "cat_id": 110,

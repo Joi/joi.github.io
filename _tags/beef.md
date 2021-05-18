@@ -23,6 +23,10 @@ notes:
     feature: Wagyu Burger
     type: dinner
     uri_path: /notes/2021-05-04-dinner.html
+  - date: '2021-05-17'
+    feature: Rib Eye with Blue Cheese
+    type: dinner
+    uri_path: /notes/2021-05-17-dinner.html
   rough:
   - date: '2020-07-25'
     type: dinner
@@ -194,7 +198,7 @@ recipes:
   p_recipe_id: 494
   permalink: /recipes/steak
   photo_thumb: steak-thumb.jpg
-  rating: 0
+  rating: 5
   title: Steak
 - mine: null
   p_recipe_id: 268
@@ -243,7 +247,7 @@ rel_tags_count:
   - 1
   - egg
   grill:
-  - 2
+  - 3
   - grill
   ground-beef:
   - 3
@@ -285,10 +289,10 @@ rel_tags_count:
   - 1
   - sirloin
   smoking:
-  - 1
+  - 2
   - smoking
   steak:
-  - 1
+  - 2
   - steak
   steaks:
   - 8

@@ -1,6 +1,13 @@
 ---
 title: Grill
 tag_key: grill
+notes:
+  feature:
+  - date: '2021-05-17'
+    feature: Rib Eye with Blue Cheese
+    type: dinner
+    uri_path: /notes/2021-05-17-dinner.html
+  rough: []
 recipes:
 - mine: null
   p_recipe_id: 341
@@ -31,7 +38,7 @@ rel_tags_count:
   - 1
   - BBQ
   beef:
-  - 2
+  - 3
   - beef
   chicken:
   - 2
@@ -42,6 +49,12 @@ rel_tags_count:
   sirloin:
   - 1
   - sirloin
+  smoking:
+  - 1
+  - smoking
+  steak:
+  - 1
+  - steak
   steaks:
   - 2
   - steaks

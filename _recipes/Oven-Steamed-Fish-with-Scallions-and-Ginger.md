@@ -25,7 +25,8 @@ meal_dates:
 - '2020-12-19'
 - '2021-02-02'
 - '2021-03-21'
-meal_types: 3|3|3|3|3|3|3|3|3
+- '2021-05-18'
+meal_types: 3|3|3|3|3|3|3|3|3|3
 mine: null
 name: Oven-Steamed Fish with Scallions and Ginger
 p_recipe_id: 22

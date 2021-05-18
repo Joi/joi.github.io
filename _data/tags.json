@@ -286,7 +286,7 @@
     "p_recipe_id": 494,
     "permalink": "/recipes/steak",
     "photo_thumb": "steak-thumb.jpg",
-    "rating": 0,
+    "rating": 5,
     "title": "Steak"
    },
    {
@@ -516,7 +516,7 @@
     "p_recipe_id": 494,
     "permalink": "/recipes/steak",
     "photo_thumb": "steak-thumb.jpg",
-    "rating": 0,
+    "rating": 5,
     "title": "Steak"
    }
   ],
@@ -988,6 +988,12 @@
      "feature": "Wagyu Burger",
      "type": "dinner",
      "uri_path": "/notes/2021-05-04-dinner.html"
+    },
+    {
+     "date": "2021-05-17",
+     "feature": "Rib Eye with Blue Cheese",
+     "type": "dinner",
+     "uri_path": "/notes/2021-05-17-dinner.html"
     }
    ],
    "rough": [
@@ -1224,7 +1230,7 @@
     "p_recipe_id": 494,
     "permalink": "/recipes/steak",
     "photo_thumb": "steak-thumb.jpg",
-    "rating": 0,
+    "rating": 5,
     "title": "Steak"
    },
    {
@@ -1290,7 +1296,7 @@
     "egg"
    ],
    "grill": [
-    2,
+    3,
     "grill"
    ],
    "ground-beef": [
@@ -1346,11 +1352,11 @@
     "sirloin"
    ],
    "smoking": [
-    1,
+    2,
     "smoking"
    ],
    "steak": [
-    1,
+    2,
     "steak"
    ],
    "steaks": [
@@ -4199,6 +4205,17 @@
   }
  },
  "grill": {
+  "notes": {
+   "feature": [
+    {
+     "date": "2021-05-17",
+     "feature": "Rib Eye with Blue Cheese",
+     "type": "dinner",
+     "uri_path": "/notes/2021-05-17-dinner.html"
+    }
+   ],
+   "rough": []
+  },
   "recipes": [
    {
     "mine": null,
@@ -4239,7 +4256,7 @@
     "BBQ"
    ],
    "beef": [
-    2,
+    3,
     "beef"
    ],
    "chicken": [
@@ -4253,6 +4270,14 @@
    "sirloin": [
     1,
     "sirloin"
+   ],
+   "smoking": [
+    1,
+    "smoking"
+   ],
+   "steak": [
+    1,
+    "steak"
    ],
    "steaks": [
     2,
@@ -5539,7 +5564,7 @@
     "p_recipe_id": 494,
     "permalink": "/recipes/steak",
     "photo_thumb": "steak-thumb.jpg",
-    "rating": 0,
+    "rating": 5,
     "title": "Steak"
    },
    {
@@ -6736,7 +6761,7 @@
     "p_recipe_id": 494,
     "permalink": "/recipes/steak",
     "photo_thumb": "steak-thumb.jpg",
-    "rating": 0,
+    "rating": 5,
     "title": "Steak"
    }
   ],
@@ -8650,6 +8675,12 @@
      "feature": "Billows on a Chuck Roast",
      "type": "dinner",
      "uri_path": "/notes/2020-10-18-dinner.html"
+    },
+    {
+     "date": "2021-05-17",
+     "feature": "Rib Eye with Blue Cheese",
+     "type": "dinner",
+     "uri_path": "/notes/2021-05-17-dinner.html"
     }
    ],
    "rough": [
@@ -8669,12 +8700,16 @@
     "BBQ"
    ],
    "beef": [
-    1,
+    2,
     "beef"
    ],
    "billows": [
     1,
     "billows"
+   ],
+   "grill": [
+    1,
+    "grill"
    ],
    "grilling": [
     1,
@@ -8683,6 +8718,10 @@
    "pork-spare-ribs": [
     1,
     "pork spare ribs"
+   ],
+   "steak": [
+    1,
+    "steak"
    ]
   }
  },
@@ -9214,6 +9253,12 @@
      "feature": "Reverse Sear Again",
      "type": "dinner",
      "uri_path": "/notes/2020-08-12-dinner.html"
+    },
+    {
+     "date": "2021-05-17",
+     "feature": "Rib Eye with Blue Cheese",
+     "type": "dinner",
+     "uri_path": "/notes/2021-05-17-dinner.html"
     }
    ],
    "rough": [
@@ -9226,12 +9271,20 @@
   },
   "rel_tags_count": {
    "beef": [
-    1,
+    2,
     "beef"
+   ],
+   "grill": [
+    1,
+    "grill"
    ],
    "reverse-sear": [
     2,
     "reverse sear"
+   ],
+   "smoking": [
+    1,
+    "smoking"
    ]
   }
  },
@@ -9330,7 +9383,7 @@
     "p_recipe_id": 494,
     "permalink": "/recipes/steak",
     "photo_thumb": "steak-thumb.jpg",
-    "rating": 0,
+    "rating": 5,
     "title": "Steak"
    },
    {
@@ -9658,7 +9711,7 @@
     "p_recipe_id": 494,
     "permalink": "/recipes/steak",
     "photo_thumb": "steak-thumb.jpg",
-    "rating": 0,
+    "rating": 5,
     "title": "Steak"
    }
   ],
