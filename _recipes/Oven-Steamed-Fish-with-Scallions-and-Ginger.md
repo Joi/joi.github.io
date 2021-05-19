@@ -37,6 +37,9 @@ photos_dict:
   '1': oven-steamed-fish-with-scallions-and-ginger-1.jpg
   '2': oven-steamed-fish-with-scallions-and-ginger-2.jpg
   '3': oven-steamed-fish-with-scallions-and-ginger-3.jpg
+  '4': oven-steamed-fish-with-scallions-and-ginger-4.jpg
+  '5': oven-steamed-fish-with-scallions-and-ginger-5.jpg
+  '6': oven-steamed-fish-with-scallions-and-ginger-6.jpg
 prep_time: ''
 rating: 5
 servings: Serves 4
