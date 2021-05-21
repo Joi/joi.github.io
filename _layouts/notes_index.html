@@ -20,27 +20,8 @@ layout: default
 <div class="row" id="">
 	<div class="medium-8 columns" id="main">
 
-    <div class="meal-notes-feed">
-      <h4>Featured Notes</h4>
-      {% assign notes = site.notes | where_exp:"item", "item.feature" %}
-      {% for note in notes reversed %}
-      {% if forloop.last %}
-      {% assign lastclass = " last" %}
-      {% endif %}
-        <div class="note{{lastclass}}">
-          <a class="title" href="{{note.url}}" title="{{note.feature}} - {{note.title}}, {{note.date | date_to_string: 'ordinal', 'US' }}">
-          <h5>{{note.feature}}</h5>
-          <em>{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}</em>
-          </a>
-          {% comment %}
-          <p>
-          {{ note.content | markdownify  | strip_html | truncatewords: 60, " …" }}
-          </p>
-          {% endcomment %}
-          {{ note.excerpt | strip_html }}
-        </div>
-      {% endfor %}
-    </div>
+    {% assign notes = site.notes | where_exp:"item", "item.feature" | reverse %}
+    {% include featured_meal_notes.html limit=nil %}
 
 	</div>
 

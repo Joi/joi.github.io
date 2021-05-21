@@ -1,59 +1,9 @@
 ---
 layout: default
 ---
-<!-- template: post.html -->
+<!-- template: home.html -->
 <style>
-  .recipes-list {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    align-content: flex-start;
-  }
-  
-  .recipes-list .recipe-item-box {
-    width:33.3%;
-  }
-  /*
-  #recipes_mine .recipes-list .recipe-item-box {
-    width:100%;
-  }
-  */
-  .recipes-list a.recipe-item {
-    display: flex;
-    margin-right:20px;
-    padding-top:20px;
-    border-top: 1px solid #999;
-  }
-  .recipes-list a.recipe-item img {
-    margin: 0 10px 20px 0;
-    width:100px;
-    height:100px;
-  }
-  .recipes-list a.recipe-item .recipe-deets {
-    width: 50%;
-    line-height: 1.2em;
-  }
-  .recipes-list a.recipe-item .recipe-name {
-    font-size: 16px;
-    font-weight: 500;
-    height:60px;
-    overflow:hidden;
-  }
-  .recipes-list a.recipe-item .recipe-created-date {
-    font-size: 12px;
-    font-weight: 500;
-    margin-top:6px;
-  }
-  .recipes-list a.recipe-item .recipe-cats {
-    font-size: 12px;
-    font-weight: 400;
-    color: #000;
-  }
-  .recipes-list a.recipe-item:hover .recipe-cats {
-    color: #666;
-  }
+
   .meal-notes {
     border-bottom:none;
     margin-bottom:0;
@@ -62,172 +12,53 @@ layout: default
   </style>
 
 <div class="row" id="">
-	<div class="large-12 columns" id="">
-
-		<h3>{{ page.title }}</h3>
+  <div class="large-12 columns" id="">
+    {% comment %}
+    <h3>{{ page.title }}</h3>
+    {% endcomment %}
     <div class="content">
-		  {%- include content.html -%}
+      {%- include content.html -%}
     </div>
-	</div>
+
+  </div>
 </div>
 
 <hr>
 
 <div class="row">
-	<div class="large-8 columns" id="">
+  <div class="large-8 columns" id="">
 
-    <div class="meal-notes-feed">
+    {% assign notes = site.notes | where_exp:"item", "item.promote contains 'home'" | sort: 'date' | reverse %}
+    {% capture notes_title_block %}
       <h4><a href="/notes/" title="Meal Notes">Meal Notes <em>»</em></a></h4>
-      {% assign notes = site.notes | where_exp:"item", "item.promote contains 'home'" | sort: 'date' | reverse %}
-      {% for note in notes limit: 2  %}
-        {% if forloop.last %}
-        {% assign lastclass = " last" %}
-        {% endif %}
-        <div class="note{{lastclass}}">
-          <a class="title" href="{{note.url}}" title="{{note.feature}} - {{note.title}}, {{note.date | date_to_string: 'ordinal', 'US' }}">
-          <h5>{{note.feature}}</h5>
-          <em>{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}</em>
-          </a>
-          {% comment %}
-          <p>
-          {{note.content | markdownify  | strip_html | truncatewords: 60, " …" }}
-          </p>
-          {% endcomment %}
-          {{note.excerpt | strip_html }}
-        </div>
-      {% endfor %}
-
-      {% comment %}
-      {% for note in notes offset: 2  %}
-        <div class="note">
-          <a href="{{note.url}}" title="{{note.feature}} - {{note.title}}, {{note.date | date_to_string: 'ordinal', 'US' }}">
-          <h5>{{note.feature}}</h5>
-          <em>{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}</em>
-          </a>
-        </div>
-      {% endfor %}
-      {% endcomment %}
-
-    </div>
+    {% endcapture %}
+    {% include featured_meal_notes.html limit=3 notes_title=notes_title_block %}
+    {% comment %}
+    {% for note in notes offset: 2  %}
+      <div class="note">
+        <a href="{{note.url}}" title="{{note.feature}} - {{note.title}}, {{note.date | date_to_string: 'ordinal', 'US' }}">
+        <h5>{{note.feature}}</h5>
+        <em>{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}</em>
+        </a>
+      </div>
+    {% endfor %}
+    {% endcomment %}
 
   </div>
 
   <div class="large-4 columns" id="posts">
     <div>
-		<h4>Posts</h4>
-		{% for post in site.posts %}
-		<p><strong><a href="{{ post.url }}"
-									aria-label="{{post.content | markdownify | strip_html | normalize_whitespace | truncate: 250 | newline_to_br}}"
-									alt="{{ post.title }}">{{ post.title }}</a></strong><br>{{post.date | date: '%B %d, %Y' }}</p>
-		{% endfor %}
-	</div>
-
-</div>
-
-<hr>
-
-<div class="row"
-  <div class="large-12 columns" id="recipes_mine">
-		<h4 class="marker">My Recipes</h4>
-		<br>
-		<div class="recipes-list">
-      {% assign recipes = site.recipes | where_exp:"item", "item.mine" | sort: 'created' | reverse %}
-			{% for recipe in recipes %}
-
-				<div class="recipe-item-box">
-				<a class="recipe-item" href="{{ recipe.url }}">
-					{% if recipe.photo_thumb %}
-					<img src="/images/recipes/{{recipe.photo_thumb}}" />
-					{% else %}
-					<img src='/images/200x200.gif' />
-					{% endif %}
-					<div class="recipe-deets">
-					<div class="recipe-name"
-									aria-label="Ingredients: {{recipe.ingredients | truncate: 250}}"
-									alt="{{ recipe.title }}">{{ recipe.title }}</div>
-          <div class="recipe-created-date">{{ recipe.created | date_to_string: "ordinal", "US" }}</div>
-					{% if recipe.categories %}
-						<div class="recipe-cats">
-						{% for cat in recipe.categories %}
-              {% if cat != "_mine" %}
-                {{cat}}
-              {% endif %}
-						{% endfor %}
-						</div>
-					{% endif %}
-					</div>
-				</a>
-				</div>
-
-			{% endfor %}
-		</div>	
-	</div>
-
-</div>
-
-<hr>
-
-{% comment %}
-  <div class="row">
-
-    <div class="large-6 columns" id="">
-
-    </div>
-
-    <div class="large-6 columns" id="posts_tags">
-      <h4>By Tag</h4>
-      {% for tag in site.tags %}
-        <h5>{{ tag[0] | capitalize }}</h5>
-        <ul>
-          {% for post in tag[1] %}
-            <li><a href="{{ post.url }}" 
+      <h4>Posts</h4>
+      {% for post in site.posts %}
+      <p><strong><a href="{{ post.url }}"
                     aria-label="{{post.content | markdownify | strip_html | normalize_whitespace | truncate: 250 | newline_to_br}}"
-                    alt="{{ post.title }}">{{ post.title }}</a></li>
-          {% endfor %}
-        </ul>
-      {% endfor %}		
+                    alt="{{ post.title }}">{{ post.title }}</a></strong><br>{{post.date | date: '%B %d, %Y' }}</p>
+      {% endfor %}
     </div>
-
   </div>
-  <hr>
-{% endcomment %}
 
-<div class="row">
-	<div class="large-12 columns" id="recipes_5star">
-		<h4>Inspiring <!--★★★★★-->⭐️⭐️⭐️⭐️⭐️ Recipes</h4>
-		<br>
-		<div class="recipes-list">
-			{% for recipe in site.recipes %}
-
-				{% if recipe.rating == 5 and recipe.type != "_mine" %}
-				<div class="recipe-item-box">
-				<a class="recipe-item" href="{{ recipe.url }}">
-					{% if recipe.photo_thumb %}
-					<img src="/images/recipes/{{recipe.photo_thumb}}" />
-					{% else %}
-					<img src='/images/200x200.gif' />
-					{% endif %}
-					<div class="recipe-deets">
-					<div class="recipe-name"
-									aria-label="Ingredients: {{recipe.ingredients | truncate: 250}}"
-									alt="{{ recipe.title }}">{{ recipe.title }}</div>
-          <div class="recipe-created-date">{{ recipe.created | date_to_string: "ordinal", "US" }}</div>
-					{% if recipe.categories %}
-						<div class="recipe-cats">
-						{% for cat in recipe.categories %}
-							{{cat}}
-						{% endfor %}
-						</div>
-					{% endif %}
-					</div>
-				</a>
-				</div>
-				{% endif %}
-
-			{% endfor %}
-		</div>
-
-
-	</div>
 </div>
-<!-- /template: post.html -->
+
+<hr>
+
+<!-- /template: home.html -->

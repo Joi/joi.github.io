@@ -1,0 +1,60 @@
+<style>
+.meal_title_block {
+  margin:0;
+  padding: 10px 4em 0 0;
+}
+.has_photo {
+  height:300px;
+  position:relative;
+}
+.has_photo .meal_title_block {
+  background: rgba(255,255,255,1);
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 55%, rgba(255,255,255,0.1) 100%);
+  border-radius: 0 0 0 0;
+  bottom: 0;
+  position:absolute;
+  width: 100%;
+}
+.has_photo h5,
+.has_photo em {
+}
+</style>
+
+<div class="meal-notes-feed">
+  {% if include.notes_title %}
+  {{include.notes_title}}
+  {% else %}
+  <h4>Featured Notes</h4>
+  {% endif %}
+
+  {% for note in notes limit: {{include.limit}} %}
+    {% if forloop.last %}
+      {% assign lastclass = " last" %}
+    {% endif %}
+    {% if note.photo %}
+      {% assign class_has_photo = " has_photo" %}
+      {% assign class_has_photo_bg = 'style="background:50% 50% / cover no-repeat url(' | append: note.photo | append: ')"' %}
+    {% else %}
+      {% assign class_has_photo = "" %}
+      {% assign class_has_photo_bg = "" %}
+    {% endif %}
+    <div class="note{{lastclass}}">
+      <a
+        class="title{{ class_has_photo }}"
+        href="{{note.url}}"
+        title="{{note.feature}} - {{note.title}}, {{note.date | date_to_string: 'ordinal', 'US' }}"
+        {{ class_has_photo_bg }}>
+        <div class="meal_title_block">
+          <h5>{{note.feature}}</h5>
+          <em>{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}</em>
+        </div>
+      </a>
+      {% comment %}
+      <p>
+      {{ note.content | markdownify  | strip_html | truncatewords: 60, " …" }}
+      </p>
+      {% endcomment %}
+      {{ note.excerpt | strip_html }}
+    </div>
+  {% endfor %}
+</div>
