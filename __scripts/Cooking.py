@@ -1007,8 +1007,9 @@ print ("✅ DATABASE Queried For Meals\n") # +++++++++++++++++++++++++++++++++++
 meals_indices = defaultdict(dict) # … MEALS Indices
 meals_indices['recipe_by_date_and_meal'] = defaultdict(dict) # … RECIPE by DATE and MEAL
 meals_indices['meal_by_recipe_and_date'] = defaultdict(dict) # … MEAL by RECIPE and DATE
-meals_indices['meal_data_by_recipe_and_status'] = defaultdict(dict) # … MEAL GROUPED NOTES & DATA by RECIPE and DATE
 meals_indices['meal_by_date_and_recipe'] = defaultdict(dict) # … MEAL by DATE and RECIPE
+meals_indices['meal_data_by_recipe_and_status'] = defaultdict(dict) # … MEAL GROUPED NOTES & DATA by RECIPE and STATUS
+meals_indices['meal_data_by_status_and_date']   = defaultdict(dict) # … MEAL GROUPED NOTES & DATA by STATUS and DATE
 
 
 
@@ -1023,7 +1024,7 @@ for data_meal in meals_results:
 
 
 
-  # RECIPE by DATE and MEAL ---
+  # RECIPE by DATE and MEAL ---------------------------------------------------
   # If the `meal_type_name` key doesn't exist, we need to initialise the list
   try:
     meals_indices['recipe_by_date_and_meal'][meal_date][meal_type_name]
@@ -1040,8 +1041,6 @@ for data_meal in meals_results:
   # Create the meal id list (we'll need to do lookup in recipe YAML data)
   append_meal_list = meal_recipe_id
 
-
-
   # and append it to the existing date dict, which is "defaultdicts" initialised before the FOR
   meals_indices['recipe_by_date_and_meal'][meal_date][meal_type_name].append(append_meal_list)
 
@@ -1053,12 +1052,13 @@ for data_meal in meals_results:
 
 
 
-  # MEAL GROUPED NOTES & DATA by RECIPE and DATE ---
+  # MEAL GROUPED NOTES & DATA by RECIPE and STATUS ------------------------------
 
   note_file = path_meal_mkdn_files + meal_date + "-" + meal_type_name + ".md"
   append_nofile_regular = {'date': meal_date, 'type': meal_type_name}
 
   if os.path.isfile(note_file):
+    note_has_file = True
     parsed_note = frontmatter.load(note_file)
     try:
       append_featured = {'date': meal_date, 'type': meal_type_name, 'feature': parsed_note['feature']}
@@ -1074,11 +1074,56 @@ for data_meal in meals_results:
         meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['regular'] = []
       meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['regular'].append(append_nofile_regular)
   else:
+    note_has_file = False
     try:
       meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['nofile']
     except:
       meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['nofile'] = []
     meals_indices['meal_data_by_recipe_and_status'][meal_recipe_id]['nofile'].append(append_nofile_regular)
+
+
+
+  # MEAL GROUPED NOTES & DATA by STATUS and DATE ------------------------------
+  # We reuse the above parsed note_file, parsed_note
+  append_data = { 'recipe': meal_recipe_id }
+  if note_has_file:
+
+    try:
+      append_featured_data = {'recipe' : meal_recipe_id, 'feature': parsed_note['feature'] }
+      try:
+        meals_indices['meal_data_by_status_and_date']['featured'][meal_date]
+      except:
+        meals_indices['meal_data_by_status_and_date']['featured'][meal_date] = {}
+      try:
+        meals_indices['meal_data_by_status_and_date']['featured'][meal_date][meal_type_name]
+      except:
+        meals_indices['meal_data_by_status_and_date']['featured'][meal_date][meal_type_name] = []
+      meals_indices['meal_data_by_status_and_date']['featured'][meal_date][meal_type_name].append(append_featured_data)
+
+    except:
+      try:
+        meals_indices['meal_data_by_status_and_date']['regular'][meal_date]
+      except:
+        meals_indices['meal_data_by_status_and_date']['regular'][meal_date] = {}
+      try:
+        meals_indices['meal_data_by_status_and_date']['regular'][meal_date][meal_type_name]
+      except:
+        meals_indices['meal_data_by_status_and_date']['regular'][meal_date][meal_type_name] = []
+      meals_indices['meal_data_by_status_and_date']['regular'][meal_date][meal_type_name].append(append_data)
+ 
+  else: # if note has no file
+    try:
+      meals_indices['meal_data_by_status_and_date']['nofile'][meal_date]
+    except:
+      meals_indices['meal_data_by_status_and_date']['nofile'][meal_date] = {}
+    try:
+      meals_indices['meal_data_by_status_and_date']['nofile'][meal_date][meal_type_name]
+    except:
+      meals_indices['meal_data_by_status_and_date']['nofile'][meal_date][meal_type_name] = []
+    meals_indices['meal_data_by_status_and_date']['nofile'][meal_date][meal_type_name].append(append_data)
+
+
+
 
 
 print ("✅ MEAL RESULTS Looped and Acted upon\n") # ++++++++++++++++++++++++++++
