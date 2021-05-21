@@ -47,12 +47,14 @@
      "recipes_ids": {
       "448": "brai",
       "449": "curr",
-      "468": "gara"
+      "468": "gara",
+      "528": "thai"
      },
      "recipes_nam": {
       "brai": "448",
       "curr": "449",
-      "gara": "468"
+      "gara": "468",
+      "thai": "528"
      }
     },
     {
@@ -303,6 +305,17 @@
      },
      "recipes_nam": {
       "lamb": "507"
+     }
+    },
+    {
+     "cat_id": 130,
+     "cat_label": "Thai",
+     "children": [],
+     "recipes_ids": {
+      "528": "thai"
+     },
+     "recipes_nam": {
+      "thai": "528"
      }
     }
    ]
@@ -625,6 +638,7 @@
         "444": "roas",
         "448": "brai",
         "516": "chic",
+        "528": "thai",
         "71": "chic",
         "72": "brai",
         "82": "chic",
@@ -647,7 +661,8 @@
         "oven": "240",
         "rish": "15",
         "roas": "444",
-        "stov": "84"
+        "stov": "84",
+        "thai": "528"
        }
       },
       {

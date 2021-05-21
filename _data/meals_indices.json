@@ -1119,6 +1119,16 @@
   },
   "2021-05-18": {
    "22": "Dinner"
+  },
+  "2021-05-19": {
+   "492": "Dinner"
+  },
+  "2021-05-20": {
+   "341": "Dinner"
+  },
+  "2021-05-21": {
+   "527": "Dinner",
+   "528": "Dinner"
   }
  },
  "meal_by_recipe_and_date": {
@@ -1720,7 +1730,8 @@
    "2020-09-05": "Dinner"
   },
   "341": {
-   "2020-09-06": "Dinner"
+   "2020-09-06": "Dinner",
+   "2021-05-20": "Dinner"
   },
   "342": {
    "2020-09-07": "Dinner"
@@ -2057,7 +2068,8 @@
    "2021-03-24": "Dinner",
    "2021-04-03": "Dinner",
    "2021-04-10": "Dinner",
-   "2021-04-26": "Dinner"
+   "2021-04-26": "Dinner",
+   "2021-05-19": "Dinner"
   },
   "493": {
    "2021-03-27": "Lunch"
@@ -2151,10 +2163,12 @@
    "2021-04-25": "Lunch"
   },
   "527": {
-   "2021-05-13": "Dinner"
+   "2021-05-13": "Dinner",
+   "2021-05-21": "Dinner"
   },
   "528": {
-   "2021-05-13": "Dinner"
+   "2021-05-13": "Dinner",
+   "2021-05-21": "Dinner"
   },
   "529": {
    "2021-05-14": "Dinner"
@@ -4000,6 +4014,10 @@
     {
      "date": "2020-09-06",
      "type": "Dinner"
+    },
+    {
+     "date": "2021-05-20",
+     "type": "Dinner"
     }
    ]
   },
@@ -5026,6 +5044,10 @@
     {
      "date": "2021-04-26",
      "type": "Dinner"
+    },
+    {
+     "date": "2021-05-19",
+     "type": "Dinner"
     }
    ],
    "regular": [
@@ -5320,6 +5342,10 @@
     {
      "date": "2021-05-13",
      "type": "Dinner"
+    },
+    {
+     "date": "2021-05-21",
+     "type": "Dinner"
     }
    ]
   },
@@ -5327,6 +5353,10 @@
    "nofile": [
     {
      "date": "2021-05-13",
+     "type": "Dinner"
+    },
+    {
+     "date": "2021-05-21",
      "type": "Dinner"
     }
    ]
@@ -5347,6 +5377,2911 @@
      "type": "Dinner"
     }
    ]
+  }
+ },
+ "meal_data_by_status_and_date": {
+  "featured": {
+   "2020-07-05": {
+    "Dinner": [
+     {
+      "feature": "Shrimp and Endive Salad",
+      "recipe": 230
+     },
+     {
+      "feature": "Shrimp and Endive Salad",
+      "recipe": 490
+     }
+    ]
+   },
+   "2020-07-12": {
+    "Dinner": [
+     {
+      "feature": "BBQ Day",
+      "recipe": 185
+     },
+     {
+      "feature": "BBQ Day",
+      "recipe": 243
+     }
+    ]
+   },
+   "2020-07-23": {
+    "Dinner": [
+     {
+      "feature": "Lots about Chicken",
+      "recipe": 240
+     },
+     {
+      "feature": "Lots about Chicken",
+      "recipe": 201
+     },
+     {
+      "feature": "Lots about Chicken",
+      "recipe": 271
+     }
+    ]
+   },
+   "2020-08-10": {
+    "Dinner": [
+     {
+      "feature": "Mac & Cheese for Kio",
+      "recipe": 300
+     },
+     {
+      "feature": "Mac & Cheese for Kio",
+      "recipe": 144
+     }
+    ]
+   },
+   "2020-08-12": {
+    "Dinner": [
+     {
+      "feature": "Reverse Sear Again",
+      "recipe": 494
+     }
+    ]
+   },
+   "2020-08-17": {
+    "Dinner": [
+     {
+      "feature": "Prime Rib and Sauces",
+      "recipe": 310
+     },
+     {
+      "feature": "Prime Rib and Sauces",
+      "recipe": 264
+     },
+     {
+      "feature": "Prime Rib and Sauces",
+      "recipe": 312
+     },
+     {
+      "feature": "Prime Rib and Sauces",
+      "recipe": 39
+     },
+     {
+      "feature": "Prime Rib and Sauces",
+      "recipe": 317
+     }
+    ]
+   },
+   "2020-10-04": {
+    "Dinner": [
+     {
+      "feature": "Timing a Bigger Prime Rib",
+      "recipe": 317
+     }
+    ]
+   },
+   "2020-10-21": {
+    "Dinner": [
+     {
+      "feature": "Trying Billows Again with Smoked Fish",
+      "recipe": 499
+     }
+    ]
+   },
+   "2020-11-22": {
+    "Dinner": [
+     {
+      "feature": "Billows and Brined Salmon",
+      "recipe": 499
+     }
+    ]
+   },
+   "2020-11-25": {
+    "Dinner": [
+     {
+      "feature": "The Thanksgiving Turkey",
+      "recipe": 413
+     },
+     {
+      "feature": "The Thanksgiving Turkey",
+      "recipe": 415
+     },
+     {
+      "feature": "The Thanksgiving Turkey",
+      "recipe": 416
+     },
+     {
+      "feature": "The Thanksgiving Turkey",
+      "recipe": 418
+     },
+     {
+      "feature": "The Thanksgiving Turkey",
+      "recipe": 316
+     }
+    ]
+   },
+   "2020-12-07": {
+    "Dinner": [
+     {
+      "feature": "Prime Rib with Oxtail Au Jus",
+      "recipe": 317
+     },
+     {
+      "feature": "Prime Rib with Oxtail Au Jus",
+      "recipe": 488
+     }
+    ]
+   },
+   "2020-12-17": {
+    "Dinner": [
+     {
+      "feature": "Spatchcocked Chicken in Anova",
+      "recipe": 240
+     }
+    ]
+   },
+   "2020-12-20": {
+    "Dinner": [
+     {
+      "feature": "Bone-in Rib Roast with Anova Sous Vide",
+      "recipe": 433
+     },
+     {
+      "feature": "Bone-in Rib Roast with Anova Sous Vide",
+      "recipe": 317
+     }
+    ]
+   },
+   "2020-12-26": {
+    "Dinner": [
+     {
+      "feature": "Top Round Roast - Too Tough",
+      "recipe": 317
+     }
+    ]
+   },
+   "2021-04-02": {
+    "Dinner": [
+     {
+      "feature": "My First Beer Battered Fish",
+      "recipe": 501
+     },
+     {
+      "feature": "My First Beer Battered Fish",
+      "recipe": 502
+     },
+     {
+      "feature": "My First Beer Battered Fish",
+      "recipe": 503
+     }
+    ]
+   },
+   "2021-04-03": {
+    "Dinner": [
+     {
+      "feature": "Finally with All of the Right Sauces",
+      "recipe": 492
+     }
+    ],
+    "Lunch": [
+     {
+      "feature": "White Pizza with Rosemary",
+      "recipe": 469
+     }
+    ]
+   },
+   "2021-04-04": {
+    "Dinner": [
+     {
+      "feature": "Slow-roased Lamb Leg",
+      "recipe": 504
+     },
+     {
+      "feature": "Slow-roased Lamb Leg",
+      "recipe": 317
+     }
+    ]
+   },
+   "2021-04-05": {
+    "Dinner": [
+     {
+      "feature": "Lamb Tagine with Left-Over Roast Lamb Leg",
+      "recipe": 507
+     }
+    ]
+   },
+   "2021-04-16": {
+    "Dinner": [
+     {
+      "feature": "Yellowtail Flounder Meuniere",
+      "recipe": 47
+     }
+    ]
+   },
+   "2021-04-18": {
+    "Dinner": [
+     {
+      "feature": "Beef Osso Buco",
+      "recipe": 199
+     },
+     {
+      "feature": "Beef Osso Buco",
+      "recipe": 518
+     },
+     {
+      "feature": "Beef Osso Buco",
+      "recipe": 460
+     }
+    ]
+   },
+   "2021-04-20": {
+    "Dinner": [
+     {
+      "feature": "Lobster in Lobster Sauce",
+      "recipe": 320
+     }
+    ]
+   },
+   "2021-04-23": {
+    "Dinner": [
+     {
+      "feature": "Braised Abalone with Mushrooms",
+      "recipe": 521
+     }
+    ]
+   },
+   "2021-04-27": {
+    "Dinner": [
+     {
+      "feature": "Abalone Meuniere",
+      "recipe": 47
+     },
+     {
+      "feature": "Abalone Meuniere",
+      "recipe": 520
+     }
+    ]
+   },
+   "2021-04-29": {
+    "Dinner": [
+     {
+      "feature": "Chinese Roasted Chicken",
+      "recipe": 441
+     }
+    ]
+   },
+   "2021-04-30": {
+    "Dinner": [
+     {
+      "feature": "Braised Monkfish with Smashed Sunchokes",
+      "recipe": 328
+     },
+     {
+      "feature": "Braised Monkfish with Smashed Sunchokes",
+      "recipe": 517
+     }
+    ]
+   },
+   "2021-05-02": {
+    "Lunch": [
+     {
+      "feature": "Branzino, ramps and fiddleheads",
+      "recipe": 417
+     }
+    ]
+   },
+   "2021-05-03": {
+    "Dinner": [
+     {
+      "feature": "Left over Lamb Tagine and Guacamole",
+      "recipe": 507
+     },
+     {
+      "feature": "Left over Lamb Tagine and Guacamole",
+      "recipe": 460
+     }
+    ]
+   },
+   "2021-05-04": {
+    "Dinner": [
+     {
+      "feature": "Wagyu Burger",
+      "recipe": 514
+     }
+    ]
+   },
+   "2021-05-09": {
+    "Dinner": [
+     {
+      "feature": "Fresh Abalone",
+      "recipe": 520
+     }
+    ]
+   },
+   "2021-05-16": {
+    "Dinner": [
+     {
+      "feature": "BBQ Pork Spare Ribs",
+      "recipe": 349
+     },
+     {
+      "feature": "BBQ Pork Spare Ribs",
+      "recipe": 530
+     }
+    ]
+   },
+   "2021-05-17": {
+    "Dinner": [
+     {
+      "feature": "Rib Eye with Blue Cheese",
+      "recipe": 494
+     }
+    ]
+   }
+  },
+  "nofile": {
+   "2020-03-28": {
+    "Dinner": [
+     {
+      "recipe": 68
+     }
+    ]
+   },
+   "2020-03-29": {
+    "Dinner": [
+     {
+      "recipe": 72
+     }
+    ]
+   },
+   "2020-03-30": {
+    "Dinner": [
+     {
+      "recipe": 73
+     },
+     {
+      "recipe": 74
+     }
+    ]
+   },
+   "2020-03-31": {
+    "Dinner": [
+     {
+      "recipe": 80
+     }
+    ]
+   },
+   "2020-04-02": {
+    "Dinner": [
+     {
+      "recipe": 15
+     }
+    ]
+   },
+   "2020-04-03": {
+    "Dinner": [
+     {
+      "recipe": 45
+     }
+    ]
+   },
+   "2020-04-04": {
+    "Dinner": [
+     {
+      "recipe": 48
+     }
+    ]
+   },
+   "2020-04-05": {
+    "Dinner": [
+     {
+      "recipe": 90
+     }
+    ]
+   },
+   "2020-04-06": {
+    "Dinner": [
+     {
+      "recipe": 92
+     }
+    ]
+   },
+   "2020-04-07": {
+    "Dinner": [
+     {
+      "recipe": 94
+     }
+    ]
+   },
+   "2020-04-08": {
+    "Dinner": [
+     {
+      "recipe": 48
+     }
+    ]
+   },
+   "2020-04-09": {
+    "Dinner": [
+     {
+      "recipe": 73
+     }
+    ]
+   },
+   "2020-04-10": {
+    "Dinner": [
+     {
+      "recipe": 71
+     }
+    ]
+   },
+   "2020-04-11": {
+    "Dinner": [
+     {
+      "recipe": 100
+     }
+    ]
+   },
+   "2020-04-13": {
+    "Dinner": [
+     {
+      "recipe": 43
+     }
+    ]
+   },
+   "2020-04-16": {
+    "Dinner": [
+     {
+      "recipe": 107
+     },
+     {
+      "recipe": 51
+     }
+    ]
+   },
+   "2020-04-17": {
+    "Dinner": [
+     {
+      "recipe": 84
+     }
+    ]
+   },
+   "2020-04-18": {
+    "Dinner": [
+     {
+      "recipe": 122
+     }
+    ]
+   },
+   "2020-04-19": {
+    "Dinner": [
+     {
+      "recipe": 117
+     }
+    ]
+   },
+   "2020-04-20": {
+    "Dinner": [
+     {
+      "recipe": 116
+     }
+    ]
+   },
+   "2020-04-21": {
+    "Dinner": [
+     {
+      "recipe": 74
+     },
+     {
+      "recipe": 121
+     }
+    ]
+   },
+   "2020-04-22": {
+    "Lunch": [
+     {
+      "recipe": 116
+     }
+    ]
+   },
+   "2020-04-23": {
+    "Dinner": [
+     {
+      "recipe": 124
+     }
+    ]
+   },
+   "2020-04-24": {
+    "Dinner": [
+     {
+      "recipe": 90
+     }
+    ]
+   },
+   "2020-04-26": {
+    "Dinner": [
+     {
+      "recipe": 130
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 119
+     }
+    ]
+   },
+   "2020-04-27": {
+    "Dinner": [
+     {
+      "recipe": 88
+     }
+    ]
+   },
+   "2020-04-29": {
+    "Dinner": [
+     {
+      "recipe": 106
+     }
+    ]
+   },
+   "2020-04-30": {
+    "Dinner": [
+     {
+      "recipe": 131
+     }
+    ]
+   },
+   "2020-05-01": {
+    "Dinner": [
+     {
+      "recipe": 77
+     }
+    ]
+   },
+   "2020-05-03": {
+    "Lunch": [
+     {
+      "recipe": 68
+     }
+    ]
+   },
+   "2020-05-04": {
+    "Dinner": [
+     {
+      "recipe": 97
+     }
+    ]
+   },
+   "2020-05-05": {
+    "Dinner": [
+     {
+      "recipe": 137
+     }
+    ]
+   },
+   "2020-05-06": {
+    "Dinner": [
+     {
+      "recipe": 22
+     }
+    ]
+   },
+   "2020-05-07": {
+    "Dinner": [
+     {
+      "recipe": 108
+     }
+    ]
+   },
+   "2020-05-08": {
+    "Dinner": [
+     {
+      "recipe": 138
+     },
+     {
+      "recipe": 139
+     }
+    ]
+   },
+   "2020-05-09": {
+    "Dinner": [
+     {
+      "recipe": 141
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 103
+     }
+    ]
+   },
+   "2020-05-10": {
+    "Dinner": [
+     {
+      "recipe": 143
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 126
+     }
+    ]
+   },
+   "2020-05-11": {
+    "Dinner": [
+     {
+      "recipe": 144
+     },
+     {
+      "recipe": 106
+     }
+    ]
+   },
+   "2020-05-12": {
+    "Dinner": [
+     {
+      "recipe": 48
+     }
+    ]
+   },
+   "2020-05-13": {
+    "Dinner": [
+     {
+      "recipe": 86
+     }
+    ]
+   },
+   "2020-05-14": {
+    "Dinner": [
+     {
+      "recipe": 145
+     }
+    ]
+   },
+   "2020-05-15": {
+    "Dinner": [
+     {
+      "recipe": 161
+     }
+    ]
+   },
+   "2020-05-16": {
+    "Dinner": [
+     {
+      "recipe": 147
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 164
+     }
+    ]
+   },
+   "2020-05-17": {
+    "Dinner": [
+     {
+      "recipe": 163
+     }
+    ]
+   },
+   "2020-05-18": {
+    "Dinner": [
+     {
+      "recipe": 48
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 118
+     }
+    ]
+   },
+   "2020-05-20": {
+    "Dinner": [
+     {
+      "recipe": 121
+     }
+    ]
+   },
+   "2020-05-21": {
+    "Dinner": [
+     {
+      "recipe": 30
+     }
+    ]
+   },
+   "2020-05-22": {
+    "Dinner": [
+     {
+      "recipe": 131
+     }
+    ]
+   },
+   "2020-05-23": {
+    "Dinner": [
+     {
+      "recipe": 155
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 166
+     }
+    ]
+   },
+   "2020-05-24": {
+    "Dinner": [
+     {
+      "recipe": 29
+     }
+    ]
+   },
+   "2020-05-25": {
+    "Dinner": [
+     {
+      "recipe": 168
+     }
+    ]
+   },
+   "2020-05-26": {
+    "Dinner": [
+     {
+      "recipe": 170
+     },
+     {
+      "recipe": 57
+     }
+    ]
+   },
+   "2020-05-27": {
+    "Dinner": [
+     {
+      "recipe": 171
+     }
+    ]
+   },
+   "2020-05-28": {
+    "Dinner": [
+     {
+      "recipe": 106
+     }
+    ]
+   },
+   "2020-05-29": {
+    "Dinner": [
+     {
+      "recipe": 159
+     }
+    ]
+   },
+   "2020-05-30": {
+    "Dinner": [
+     {
+      "recipe": 172
+     },
+     {
+      "recipe": 170
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 175
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 118
+     },
+     {
+      "recipe": 103
+     }
+    ]
+   },
+   "2020-05-31": {
+    "Dinner": [
+     {
+      "recipe": 77
+     }
+    ]
+   },
+   "2020-06-01": {
+    "Dinner": [
+     {
+      "recipe": 178
+     },
+     {
+      "recipe": 48
+     }
+    ]
+   },
+   "2020-06-02": {
+    "Dinner": [
+     {
+      "recipe": 176
+     }
+    ]
+   },
+   "2020-06-03": {
+    "Dinner": [
+     {
+      "recipe": 86
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 179
+     }
+    ]
+   },
+   "2020-06-05": {
+    "Dinner": [
+     {
+      "recipe": 180
+     },
+     {
+      "recipe": 181
+     }
+    ]
+   },
+   "2020-06-06": {
+    "Dinner": [
+     {
+      "recipe": 8
+     }
+    ]
+   },
+   "2020-06-08": {
+    "Dinner": [
+     {
+      "recipe": 168
+     }
+    ]
+   },
+   "2020-06-09": {
+    "Dinner": [
+     {
+      "recipe": 182
+     }
+    ]
+   },
+   "2020-06-11": {
+    "Dinner": [
+     {
+      "recipe": 15
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 13
+     },
+     {
+      "recipe": 39
+     }
+    ]
+   },
+   "2020-06-12": {
+    "Dinner": [
+     {
+      "recipe": 186
+     }
+    ]
+   },
+   "2020-06-13": {
+    "Dinner": [
+     {
+      "recipe": 185
+     }
+    ]
+   },
+   "2020-06-14": {
+    "Dinner": [
+     {
+      "recipe": 191
+     }
+    ]
+   },
+   "2020-06-16": {
+    "Dinner": [
+     {
+      "recipe": 131
+     }
+    ]
+   },
+   "2020-06-18": {
+    "Dinner": [
+     {
+      "recipe": 195
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 187
+     }
+    ]
+   },
+   "2020-06-19": {
+    "Dinner": [
+     {
+      "recipe": 196
+     },
+     {
+      "recipe": 194
+     }
+    ]
+   },
+   "2020-06-21": {
+    "Dinner": [
+     {
+      "recipe": 199
+     }
+    ]
+   },
+   "2020-06-22": {
+    "Dinner": [
+     {
+      "recipe": 116
+     }
+    ]
+   },
+   "2020-06-23": {
+    "Dinner": [
+     {
+      "recipe": 200
+     },
+     {
+      "recipe": 170
+     }
+    ]
+   },
+   "2020-06-24": {
+    "Snacks": [
+     {
+      "recipe": 13
+     }
+    ]
+   },
+   "2020-06-25": {
+    "Dinner": [
+     {
+      "recipe": 100
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 4
+     },
+     {
+      "recipe": 203
+     }
+    ]
+   },
+   "2020-06-26": {
+    "Dinner": [
+     {
+      "recipe": 202
+     },
+     {
+      "recipe": 204
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 205
+     }
+    ]
+   },
+   "2020-06-27": {
+    "Dinner": [
+     {
+      "recipe": 201
+     }
+    ]
+   },
+   "2020-06-28": {
+    "Dinner": [
+     {
+      "recipe": 207
+     }
+    ]
+   },
+   "2020-06-29": {
+    "Dinner": [
+     {
+      "recipe": 22
+     }
+    ]
+   },
+   "2020-07-01": {
+    "Dinner": [
+     {
+      "recipe": 219
+     },
+     {
+      "recipe": 117
+     }
+    ]
+   },
+   "2020-07-02": {
+    "Dinner": [
+     {
+      "recipe": 211
+     },
+     {
+      "recipe": 220
+     }
+    ]
+   },
+   "2020-07-04": {
+    "Dinner": [
+     {
+      "recipe": 213
+     },
+     {
+      "recipe": 224
+     },
+     {
+      "recipe": 228
+     },
+     {
+      "recipe": 229
+     }
+    ]
+   },
+   "2020-07-07": {
+    "Dinner": [
+     {
+      "recipe": 236
+     }
+    ]
+   },
+   "2020-07-08": {
+    "Dinner": [
+     {
+      "recipe": 90
+     },
+     {
+      "recipe": 235
+     }
+    ]
+   },
+   "2020-07-17": {
+    "Dinner": [
+     {
+      "recipe": 57
+     }
+    ]
+   },
+   "2020-07-18": {
+    "Dinner": [
+     {
+      "recipe": 261
+     },
+     {
+      "recipe": 263
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 262
+     }
+    ]
+   },
+   "2020-07-21": {
+    "Dinner": [
+     {
+      "recipe": 22
+     }
+    ]
+   },
+   "2020-07-22": {
+    "Snacks": [
+     {
+      "recipe": 269
+     }
+    ]
+   },
+   "2020-07-24": {
+    "Dinner": [
+     {
+      "recipe": 201
+     }
+    ]
+   },
+   "2020-07-26": {
+    "Dinner": [
+     {
+      "recipe": 274
+     }
+    ]
+   },
+   "2020-07-27": {
+    "Dinner": [
+     {
+      "recipe": 277
+     }
+    ]
+   },
+   "2020-07-28": {
+    "Dinner": [
+     {
+      "recipe": 279
+     }
+    ]
+   },
+   "2020-07-29": {
+    "Dinner": [
+     {
+      "recipe": 22
+     }
+    ]
+   },
+   "2020-07-30": {
+    "Dinner": [
+     {
+      "recipe": 280
+     },
+     {
+      "recipe": 240
+     },
+     {
+      "recipe": 281
+     }
+    ]
+   },
+   "2020-07-31": {
+    "Dinner": [
+     {
+      "recipe": 282
+     }
+    ]
+   },
+   "2020-08-01": {
+    "Dinner": [
+     {
+      "recipe": 284
+     }
+    ]
+   },
+   "2020-08-02": {
+    "Snacks": [
+     {
+      "recipe": 285
+     }
+    ]
+   },
+   "2020-08-03": {
+    "Dinner": [
+     {
+      "recipe": 288
+     }
+    ]
+   },
+   "2020-08-05": {
+    "Dinner": [
+     {
+      "recipe": 293
+     }
+    ]
+   },
+   "2020-08-07": {
+    "Dinner": [
+     {
+      "recipe": 292
+     }
+    ]
+   },
+   "2020-08-08": {
+    "Dinner": [
+     {
+      "recipe": 290
+     },
+     {
+      "recipe": 291
+     },
+     {
+      "recipe": 299
+     }
+    ]
+   },
+   "2020-08-15": {
+    "Dinner": [
+     {
+      "recipe": 22
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 287
+     }
+    ]
+   },
+   "2020-08-18": {
+    "Dinner": [
+     {
+      "recipe": 313
+     }
+    ]
+   },
+   "2020-08-19": {
+    "Dinner": [
+     {
+      "recipe": 307
+     },
+     {
+      "recipe": 306
+     },
+     {
+      "recipe": 314
+     }
+    ]
+   },
+   "2020-08-20": {
+    "Dinner": [
+     {
+      "recipe": 316
+     },
+     {
+      "recipe": 315
+     }
+    ]
+   },
+   "2020-08-21": {
+    "Dinner": [
+     {
+      "recipe": 304
+     },
+     {
+      "recipe": 319
+     }
+    ]
+   },
+   "2020-08-22": {
+    "Dinner": [
+     {
+      "recipe": 328
+     }
+    ]
+   },
+   "2020-08-24": {
+    "Dinner": [
+     {
+      "recipe": 294
+     }
+    ]
+   },
+   "2020-08-25": {
+    "Dinner": [
+     {
+      "recipe": 296
+     },
+     {
+      "recipe": 295
+     },
+     {
+      "recipe": 292
+     }
+    ]
+   },
+   "2020-08-26": {
+    "Dinner": [
+     {
+      "recipe": 90
+     }
+    ]
+   },
+   "2020-08-27": {
+    "Dinner": [
+     {
+      "recipe": 325
+     }
+    ]
+   },
+   "2020-08-28": {
+    "Dinner": [
+     {
+      "recipe": 326
+     }
+    ]
+   },
+   "2020-08-29": {
+    "Dinner": [
+     {
+      "recipe": 320
+     }
+    ]
+   },
+   "2020-08-31": {
+    "Dinner": [
+     {
+      "recipe": 273
+     }
+    ]
+   },
+   "2020-09-01": {
+    "Dinner": [
+     {
+      "recipe": 328
+     }
+    ]
+   },
+   "2020-09-02": {
+    "Dinner": [
+     {
+      "recipe": 334
+     }
+    ]
+   },
+   "2020-09-04": {
+    "Dinner": [
+     {
+      "recipe": 289
+     }
+    ]
+   },
+   "2020-09-05": {
+    "Dinner": [
+     {
+      "recipe": 338
+     }
+    ]
+   },
+   "2020-09-06": {
+    "Dinner": [
+     {
+      "recipe": 341
+     }
+    ]
+   },
+   "2020-09-07": {
+    "Dinner": [
+     {
+      "recipe": 342
+     }
+    ]
+   },
+   "2020-09-09": {
+    "Dinner": [
+     {
+      "recipe": 345
+     }
+    ]
+   },
+   "2020-09-11": {
+    "Dinner": [
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2020-09-12": {
+    "Dinner": [
+     {
+      "recipe": 353
+     }
+    ]
+   },
+   "2020-09-13": {
+    "Dinner": [
+     {
+      "recipe": 352
+     }
+    ]
+   },
+   "2020-09-15": {
+    "Dinner": [
+     {
+      "recipe": 354
+     }
+    ]
+   },
+   "2020-09-16": {
+    "Dinner": [
+     {
+      "recipe": 356
+     },
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2020-09-18": {
+    "Dinner": [
+     {
+      "recipe": 294
+     }
+    ]
+   },
+   "2020-09-19": {
+    "Dinner": [
+     {
+      "recipe": 328
+     },
+     {
+      "recipe": 242
+     }
+    ]
+   },
+   "2020-09-21": {
+    "Dinner": [
+     {
+      "recipe": 264
+     }
+    ]
+   },
+   "2020-09-23": {
+    "Dinner": [
+     {
+      "recipe": 368
+     }
+    ]
+   },
+   "2020-09-26": {
+    "Dinner": [
+     {
+      "recipe": 330
+     },
+     {
+      "recipe": 137
+     },
+     {
+      "recipe": 372
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 330
+     }
+    ]
+   },
+   "2020-09-28": {
+    "Dinner": [
+     {
+      "recipe": 352
+     },
+     {
+      "recipe": 373
+     }
+    ]
+   },
+   "2020-09-29": {
+    "Dinner": [
+     {
+      "recipe": 270
+     }
+    ]
+   },
+   "2020-10-01": {
+    "Dinner": [
+     {
+      "recipe": 374
+     }
+    ]
+   },
+   "2020-10-02": {
+    "Dinner": [
+     {
+      "recipe": 131
+     }
+    ]
+   },
+   "2020-10-03": {
+    "Dinner": [
+     {
+      "recipe": 375
+     }
+    ]
+   },
+   "2020-10-08": {
+    "Dinner": [
+     {
+      "recipe": 240
+     },
+     {
+      "recipe": 251
+     },
+     {
+      "recipe": 378
+     }
+    ]
+   },
+   "2020-10-09": {
+    "Dinner": [
+     {
+      "recipe": 377
+     },
+     {
+      "recipe": 378
+     }
+    ]
+   },
+   "2020-10-11": {
+    "Dinner": [
+     {
+      "recipe": 376
+     }
+    ]
+   },
+   "2020-10-13": {
+    "Dinner": [
+     {
+      "recipe": 328
+     },
+     {
+      "recipe": 242
+     }
+    ]
+   },
+   "2020-10-14": {
+    "Dinner": [
+     {
+      "recipe": 352
+     },
+     {
+      "recipe": 385
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 382
+     }
+    ]
+   },
+   "2020-10-16": {
+    "Dinner": [
+     {
+      "recipe": 354
+     }
+    ]
+   },
+   "2020-10-17": {
+    "Dinner": [
+     {
+      "recipe": 381
+     },
+     {
+      "recipe": 388
+     }
+    ]
+   },
+   "2020-10-20": {
+    "Dinner": [
+     {
+      "recipe": 390
+     }
+    ]
+   },
+   "2020-10-22": {
+    "Dinner": [
+     {
+      "recipe": 391
+     },
+     {
+      "recipe": 392
+     }
+    ]
+   },
+   "2020-10-23": {
+    "Dinner": [
+     {
+      "recipe": 389
+     }
+    ]
+   },
+   "2020-11-05": {
+    "Dinner": [
+     {
+      "recipe": 402
+     },
+     {
+      "recipe": 240
+     }
+    ]
+   },
+   "2020-11-08": {
+    "Dinner": [
+     {
+      "recipe": 405
+     }
+    ]
+   },
+   "2020-11-10": {
+    "Dinner": [
+     {
+      "recipe": 313
+     }
+    ]
+   },
+   "2020-11-11": {
+    "Dinner": [
+     {
+      "recipe": 406
+     }
+    ]
+   },
+   "2020-11-12": {
+    "Dinner": [
+     {
+      "recipe": 240
+     }
+    ]
+   },
+   "2020-11-13": {
+    "Dinner": [
+     {
+      "recipe": 410
+     }
+    ]
+   },
+   "2020-11-14": {
+    "Dinner": [
+     {
+      "recipe": 270
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 330
+     }
+    ]
+   },
+   "2020-11-16": {
+    "Dinner": [
+     {
+      "recipe": 412
+     }
+    ]
+   },
+   "2020-11-17": {
+    "Dinner": [
+     {
+      "recipe": 354
+     }
+    ]
+   },
+   "2020-11-19": {
+    "Dinner": [
+     {
+      "recipe": 519
+     }
+    ]
+   },
+   "2020-11-20": {
+    "Dinner": [
+     {
+      "recipe": 22
+     }
+    ]
+   },
+   "2020-11-24": {
+    "Dinner": [
+     {
+      "recipe": 417
+     }
+    ]
+   },
+   "2020-11-28": {
+    "Dinner": [
+     {
+      "recipe": 372
+     }
+    ]
+   },
+   "2020-12-01": {
+    "Dinner": [
+     {
+      "recipe": 422
+     }
+    ]
+   },
+   "2020-12-03": {
+    "Dinner": [
+     {
+      "recipe": 423
+     },
+     {
+      "recipe": 424
+     }
+    ]
+   },
+   "2020-12-04": {
+    "Dinner": [
+     {
+      "recipe": 410
+     }
+    ]
+   },
+   "2020-12-05": {
+    "Dinner": [
+     {
+      "recipe": 425
+     },
+     {
+      "recipe": 242
+     }
+    ]
+   },
+   "2020-12-06": {
+    "Dinner": [
+     {
+      "recipe": 317
+     },
+     {
+      "recipe": 488
+     }
+    ]
+   },
+   "2020-12-08": {
+    "Dinner": [
+     {
+      "recipe": 313
+     }
+    ]
+   },
+   "2020-12-09": {
+    "Dinner": [
+     {
+      "recipe": 86
+     }
+    ]
+   },
+   "2020-12-10": {
+    "Dinner": [
+     {
+      "recipe": 427
+     },
+     {
+      "recipe": 428
+     }
+    ]
+   },
+   "2020-12-11": {
+    "Dinner": [
+     {
+      "recipe": 354
+     },
+     {
+      "recipe": 170
+     }
+    ]
+   },
+   "2020-12-12": {
+    "Dinner": [
+     {
+      "recipe": 429
+     },
+     {
+      "recipe": 422
+     }
+    ]
+   },
+   "2020-12-13": {
+    "Dinner": [
+     {
+      "recipe": 90
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 330
+     }
+    ]
+   },
+   "2020-12-14": {
+    "Dinner": [
+     {
+      "recipe": 430
+     }
+    ]
+   },
+   "2020-12-16": {
+    "Dinner": [
+     {
+      "recipe": 432
+     },
+     {
+      "recipe": 431
+     }
+    ]
+   },
+   "2020-12-19": {
+    "Dinner": [
+     {
+      "recipe": 22
+     }
+    ]
+   },
+   "2020-12-21": {
+    "Dinner": [
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2020-12-23": {
+    "Dinner": [
+     {
+      "recipe": 417
+     }
+    ]
+   },
+   "2020-12-27": {
+    "Dinner": [
+     {
+      "recipe": 277
+     },
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2020-12-29": {
+    "Lunch": [
+     {
+      "recipe": 442
+     }
+    ]
+   },
+   "2020-12-30": {
+    "Dinner": [
+     {
+      "recipe": 213
+     },
+     {
+      "recipe": 443
+     }
+    ]
+   },
+   "2021-01-01": {
+    "Dinner": [
+     {
+      "recipe": 444
+     },
+     {
+      "recipe": 441
+     }
+    ]
+   },
+   "2021-01-02": {
+    "Dinner": [
+     {
+      "recipe": 302
+     },
+     {
+      "recipe": 488
+     },
+     {
+      "recipe": 317
+     }
+    ]
+   },
+   "2021-01-03": {
+    "Snacks": [
+     {
+      "recipe": 330
+     }
+    ]
+   },
+   "2021-01-04": {
+    "Dinner": [
+     {
+      "recipe": 273
+     },
+     {
+      "recipe": 201
+     }
+    ]
+   },
+   "2021-01-08": {
+    "Dinner": [
+     {
+      "recipe": 354
+     }
+    ]
+   },
+   "2021-01-09": {
+    "Dinner": [
+     {
+      "recipe": 445
+     }
+    ]
+   },
+   "2021-01-13": {
+    "Dinner": [
+     {
+      "recipe": 417
+     }
+    ]
+   },
+   "2021-01-14": {
+    "Dinner": [
+     {
+      "recipe": 436
+     }
+    ]
+   },
+   "2021-01-15": {
+    "Dinner": [
+     {
+      "recipe": 47
+     },
+     {
+      "recipe": 282
+     }
+    ]
+   },
+   "2021-01-17": {
+    "Dinner": [
+     {
+      "recipe": 349
+     }
+    ]
+   },
+   "2021-01-18": {
+    "Dinner": [
+     {
+      "recipe": 350
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 373
+     }
+    ]
+   },
+   "2021-01-19": {
+    "Dinner": [
+     {
+      "recipe": 451
+     }
+    ]
+   },
+   "2021-01-21": {
+    "Dinner": [
+     {
+      "recipe": 455
+     },
+     {
+      "recipe": 456
+     }
+    ]
+   },
+   "2021-01-22": {
+    "Dinner": [
+     {
+      "recipe": 354
+     },
+     {
+      "recipe": 39
+     },
+     {
+      "recipe": 458
+     }
+    ]
+   },
+   "2021-01-23": {
+    "Pantry": [
+     {
+      "recipe": 459
+     }
+    ],
+    "Snacks": [
+     {
+      "recipe": 460
+     }
+    ]
+   },
+   "2021-01-24": {
+    "Dinner": [
+     {
+      "recipe": 235
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 391
+     }
+    ]
+   },
+   "2021-01-25": {
+    "Dinner": [
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2021-01-26": {
+    "Dinner": [
+     {
+      "recipe": 401
+     },
+     {
+      "recipe": 319
+     }
+    ]
+   },
+   "2021-01-27": {
+    "Dinner": [
+     {
+      "recipe": 463
+     }
+    ]
+   },
+   "2021-01-28": {
+    "Dinner": [
+     {
+      "recipe": 479
+     }
+    ]
+   },
+   "2021-01-29": {
+    "Dinner": [
+     {
+      "recipe": 116
+     }
+    ]
+   },
+   "2021-01-31": {
+    "Dinner": [
+     {
+      "recipe": 465
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 464
+     },
+     {
+      "recipe": 469
+     }
+    ],
+    "Pantry": [
+     {
+      "recipe": 330
+     }
+    ]
+   },
+   "2021-02-02": {
+    "Dinner": [
+     {
+      "recipe": 22
+     }
+    ]
+   },
+   "2021-02-03": {
+    "Lunch": [
+     {
+      "recipe": 466
+     },
+     {
+      "recipe": 469
+     }
+    ]
+   },
+   "2021-02-04": {
+    "Dinner": [
+     {
+      "recipe": 448
+     }
+    ]
+   },
+   "2021-02-05": {
+    "Dinner": [
+     {
+      "recipe": 56
+     },
+     {
+      "recipe": 48
+     }
+    ]
+   },
+   "2021-02-06": {
+    "Lunch": [
+     {
+      "recipe": 258
+     }
+    ]
+   },
+   "2021-02-07": {
+    "Dinner": [
+     {
+      "recipe": 471
+     },
+     {
+      "recipe": 465
+     },
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2021-02-11": {
+    "Lunch": [
+     {
+      "recipe": 469
+     }
+    ]
+   },
+   "2021-02-13": {
+    "Dinner": [
+     {
+      "recipe": 474
+     },
+     {
+      "recipe": 417
+     },
+     {
+      "recipe": 477
+     }
+    ]
+   },
+   "2021-02-15": {
+    "Dinner": [
+     {
+      "recipe": 475
+     },
+     {
+      "recipe": 476
+     }
+    ]
+   },
+   "2021-02-16": {
+    "Dinner": [
+     {
+      "recipe": 454
+     }
+    ]
+   },
+   "2021-02-17": {
+    "Dinner": [
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2021-02-19": {
+    "Dinner": [
+     {
+      "recipe": 462
+     }
+    ]
+   },
+   "2021-02-20": {
+    "Pantry": [
+     {
+      "recipe": 488
+     }
+    ]
+   },
+   "2021-02-21": {
+    "Dinner": [
+     {
+      "recipe": 473
+     }
+    ]
+   },
+   "2021-02-23": {
+    "Dinner": [
+     {
+      "recipe": 479
+     },
+     {
+      "recipe": 480
+     }
+    ]
+   },
+   "2021-02-24": {
+    "Dinner": [
+     {
+      "recipe": 436
+     }
+    ]
+   },
+   "2021-02-25": {
+    "Dinner": [
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2021-02-26": {
+    "Dinner": [
+     {
+      "recipe": 479
+     }
+    ]
+   },
+   "2021-02-27": {
+    "Dinner": [
+     {
+      "recipe": 304
+     },
+     {
+      "recipe": 429
+     },
+     {
+      "recipe": 475
+     }
+    ]
+   },
+   "2021-03-01": {
+    "Dinner": [
+     {
+      "recipe": 352
+     }
+    ]
+   },
+   "2021-03-02": {
+    "Dinner": [
+     {
+      "recipe": 354
+     }
+    ]
+   },
+   "2021-03-03": {
+    "Dinner": [
+     {
+      "recipe": 492
+     }
+    ]
+   },
+   "2021-03-04": {
+    "Dinner": [
+     {
+      "recipe": 444
+     },
+     {
+      "recipe": 496
+     }
+    ]
+   },
+   "2021-03-06": {
+    "Dinner": [
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2021-03-07": {
+    "Dinner": [
+     {
+      "recipe": 484
+     }
+    ]
+   },
+   "2021-03-08": {
+    "Dinner": [
+     {
+      "recipe": 485
+     }
+    ]
+   },
+   "2021-03-09": {
+    "Dinner": [
+     {
+      "recipe": 486
+     }
+    ]
+   },
+   "2021-03-11": {
+    "Dinner": [
+     {
+      "recipe": 15
+     },
+     {
+      "recipe": 30
+     }
+    ]
+   },
+   "2021-03-14": {
+    "Dinner": [
+     {
+      "recipe": 487
+     }
+    ]
+   },
+   "2021-03-17": {
+    "Dinner": [
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2021-03-19": {
+    "Dinner": [
+     {
+      "recipe": 240
+     }
+    ]
+   },
+   "2021-03-21": {
+    "Dinner": [
+     {
+      "recipe": 474
+     },
+     {
+      "recipe": 22
+     }
+    ]
+   },
+   "2021-03-25": {
+    "Dinner": [
+     {
+      "recipe": 30
+     }
+    ]
+   },
+   "2021-03-26": {
+    "Dinner": [
+     {
+      "recipe": 328
+     }
+    ]
+   },
+   "2021-03-27": {
+    "Lunch": [
+     {
+      "recipe": 493
+     }
+    ],
+    "Pantry": [
+     {
+      "recipe": 330
+     },
+     {
+      "recipe": 458
+     },
+     {
+      "recipe": 39
+     }
+    ]
+   },
+   "2021-03-28": {
+    "Dinner": [
+     {
+      "recipe": 497
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 373
+     },
+     {
+      "recipe": 469
+     }
+    ]
+   },
+   "2021-03-29": {
+    "Dinner": [
+     {
+      "recipe": 498
+     }
+    ]
+   },
+   "2021-03-30": {
+    "Dinner": [
+     {
+      "recipe": 258
+     }
+    ]
+   },
+   "2021-03-31": {
+    "Dinner": [
+     {
+      "recipe": 109
+     },
+     {
+      "recipe": 107
+     },
+     {
+      "recipe": 122
+     }
+    ]
+   },
+   "2021-04-01": {
+    "Dinner": [
+     {
+      "recipe": 240
+     },
+     {
+      "recipe": 455
+     }
+    ]
+   },
+   "2021-04-04": {
+    "Pantry": [
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2021-04-06": {
+    "Dinner": [
+     {
+      "recipe": 509
+     }
+    ]
+   },
+   "2021-04-07": {
+    "Dinner": [
+     {
+      "recipe": 510
+     }
+    ],
+    "Pantry": [
+     {
+      "recipe": 405
+     }
+    ]
+   },
+   "2021-04-09": {
+    "Dinner": [
+     {
+      "recipe": 354
+     }
+    ]
+   },
+   "2021-04-10": {
+    "Dinner": [
+     {
+      "recipe": 513
+     },
+     {
+      "recipe": 492
+     }
+    ],
+    "Pantry": [
+     {
+      "recipe": 293
+     }
+    ]
+   },
+   "2021-04-11": {
+    "Dinner": [
+     {
+      "recipe": 514
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 508
+     },
+     {
+      "recipe": 512
+     }
+    ],
+    "Pantry": [
+     {
+      "recipe": 39
+     }
+    ]
+   },
+   "2021-04-12": {
+    "Dinner": [
+     {
+      "recipe": 515
+     }
+    ]
+   },
+   "2021-04-15": {
+    "Dinner": [
+     {
+      "recipe": 517
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2021-04-17": {
+    "Dinner": [
+     {
+      "recipe": 479
+     }
+    ]
+   },
+   "2021-04-22": {
+    "Dinner": [
+     {
+      "recipe": 448
+     }
+    ]
+   },
+   "2021-04-25": {
+    "Dinner": [
+     {
+      "recipe": 350
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 524
+     }
+    ]
+   },
+   "2021-04-26": {
+    "Dinner": [
+     {
+      "recipe": 492
+     }
+    ]
+   },
+   "2021-04-28": {
+    "Dinner": [
+     {
+      "recipe": 510
+     }
+    ]
+   },
+   "2021-05-01": {
+    "Lunch": [
+     {
+      "recipe": 373
+     }
+    ]
+   },
+   "2021-05-06": {
+    "Dinner": [
+     {
+      "recipe": 86
+     }
+    ]
+   },
+   "2021-05-07": {
+    "Dinner": [
+     {
+      "recipe": 350
+     }
+    ]
+   },
+   "2021-05-10": {
+    "Dinner": [
+     {
+      "recipe": 479
+     }
+    ]
+   },
+   "2021-05-11": {
+    "Dinner": [
+     {
+      "recipe": 499
+     }
+    ],
+    "Lunch": [
+     {
+      "recipe": 469
+     }
+    ]
+   },
+   "2021-05-13": {
+    "Dinner": [
+     {
+      "recipe": 527
+     },
+     {
+      "recipe": 528
+     }
+    ]
+   },
+   "2021-05-14": {
+    "Dinner": [
+     {
+      "recipe": 180
+     },
+     {
+      "recipe": 529
+     }
+    ]
+   },
+   "2021-05-15": {
+    "Dinner": [
+     {
+      "recipe": 350
+     }
+    ],
+    "Pantry": [
+     {
+      "recipe": 330
+     }
+    ]
+   },
+   "2021-05-16": {
+    "Pantry": [
+     {
+      "recipe": 246
+     }
+    ]
+   },
+   "2021-05-18": {
+    "Dinner": [
+     {
+      "recipe": 22
+     }
+    ]
+   },
+   "2021-05-19": {
+    "Dinner": [
+     {
+      "recipe": 492
+     }
+    ]
+   },
+   "2021-05-20": {
+    "Dinner": [
+     {
+      "recipe": 341
+     }
+    ]
+   },
+   "2021-05-21": {
+    "Dinner": [
+     {
+      "recipe": 527
+     },
+     {
+      "recipe": 528
+     }
+    ]
+   }
+  },
+  "regular": {
+   "2020-07-09": {
+    "Dinner": [
+     {
+      "recipe": 231
+     },
+     {
+      "recipe": 240
+     }
+    ]
+   },
+   "2020-07-10": {
+    "Dinner": [
+     {
+      "recipe": 242
+     }
+    ]
+   },
+   "2020-07-11": {
+    "Dinner": [
+     {
+      "recipe": 244
+     },
+     {
+      "recipe": 213
+     }
+    ]
+   },
+   "2020-07-13": {
+    "Dinner": [
+     {
+      "recipe": 248
+     }
+    ]
+   },
+   "2020-07-14": {
+    "Dinner": [
+     {
+      "recipe": 253
+     }
+    ]
+   },
+   "2020-07-15": {
+    "Dinner": [
+     {
+      "recipe": 240
+     },
+     {
+      "recipe": 251
+     }
+    ]
+   },
+   "2020-07-16": {
+    "Dinner": [
+     {
+      "recipe": 255
+     },
+     {
+      "recipe": 256
+     },
+     {
+      "recipe": 258
+     },
+     {
+      "recipe": 257
+     }
+    ]
+   },
+   "2020-07-25": {
+    "Dinner": [
+     {
+      "recipe": 275
+     }
+    ]
+   },
+   "2020-08-02": {
+    "Dinner": [
+     {
+      "recipe": 494
+     }
+    ]
+   },
+   "2020-08-06": {
+    "Dinner": [
+     {
+      "recipe": 240
+     }
+    ]
+   },
+   "2020-08-11": {
+    "Dinner": [
+     {
+      "recipe": 289
+     },
+     {
+      "recipe": 194
+     },
+     {
+      "recipe": 301
+     },
+     {
+      "recipe": 302
+     }
+    ]
+   },
+   "2020-09-03": {
+    "Dinner": [
+     {
+      "recipe": 246
+     },
+     {
+      "recipe": 333
+     }
+    ]
+   },
+   "2020-09-10": {
+    "Dinner": [
+     {
+      "recipe": 86
+     }
+    ]
+   },
+   "2020-09-20": {
+    "Dinner": [
+     {
+      "recipe": 505
+     },
+     {
+      "recipe": 246
+     }
+    ]
+   },
+   "2020-10-15": {
+    "Dinner": [
+     {
+      "recipe": 386
+     }
+    ]
+   },
+   "2020-10-29": {
+    "Dinner": [
+     {
+      "recipe": 397
+     }
+    ]
+   },
+   "2020-11-15": {
+    "Dinner": [
+     {
+      "recipe": 414
+     }
+    ]
+   },
+   "2020-12-24": {
+    "Dinner": [
+     {
+      "recipe": 436
+     }
+    ]
+   },
+   "2020-12-25": {
+    "Dinner": [
+     {
+      "recipe": 253
+     },
+     {
+      "recipe": 419
+     }
+    ]
+   },
+   "2021-01-10": {
+    "Dinner": [
+     {
+      "recipe": 457
+     }
+    ]
+   },
+   "2021-01-20": {
+    "Dinner": [
+     {
+      "recipe": 453
+     },
+     {
+      "recipe": 452
+     },
+     {
+      "recipe": 454
+     }
+    ]
+   },
+   "2021-02-20": {
+    "Dinner": [
+     {
+      "recipe": 317
+     }
+    ]
+   },
+   "2021-03-16": {
+    "Dinner": [
+     {
+      "recipe": 454
+     }
+    ]
+   },
+   "2021-03-18": {
+    "Dinner": [
+     {
+      "recipe": 397
+     }
+    ]
+   },
+   "2021-03-20": {
+    "Dinner": [
+     {
+      "recipe": 479
+     }
+    ]
+   },
+   "2021-03-24": {
+    "Dinner": [
+     {
+      "recipe": 492
+     }
+    ]
+   },
+   "2021-03-27": {
+    "Dinner": [
+     {
+      "recipe": 494
+     },
+     {
+      "recipe": 495
+     }
+    ]
+   },
+   "2021-04-14": {
+    "Dinner": [
+     {
+      "recipe": 436
+     },
+     {
+      "recipe": 516
+     }
+    ]
+   }
   }
  },
  "recipe_by_date_and_meal": {
@@ -7185,6 +10120,22 @@
   "2021-05-18": {
    "Dinner": [
     22
+   ]
+  },
+  "2021-05-19": {
+   "Dinner": [
+    492
+   ]
+  },
+  "2021-05-20": {
+   "Dinner": [
+    341
+   ]
+  },
+  "2021-05-21": {
+   "Dinner": [
+    527,
+    528
    ]
   }
  }

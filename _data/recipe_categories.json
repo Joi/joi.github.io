@@ -1,4 +1,7 @@
 {
+ "_featured": {
+  "bbq-chicken": "BBQ Chicken"
+ },
  "_mine": {
   "bbq-chicken": "BBQ Chicken",
   "bbq-rub": "BBQ Rub",
@@ -186,7 +189,7 @@
  "chicken": {
   "air-fryer-buffalo-chicken-drumsticks": "Air-Fryer Buffalo Chicken Drumsticks",
   "authentic-mexican-chicken-tinga--best-tinga-de-pollo": "Authentic Mexican Chicken Tinga- Best Tinga De Pollo",
-  "authentic-thai-green-curry-recipe-aekngekhiiywhwaan-best-taste!": "Authentic Thai Green Curry Recipe (แกงเขียวหวาน) - Best Taste!",
+  "authentic-thai-green-curry-recipe": "Authentic Thai Green Curry Recipe",
   "bbq-chicken": "BBQ Chicken",
   "beer-brined-roast-chicken": "Beer-Brined Roast Chicken",
   "braised-chicken-tikka-masala": "Braised Chicken Tikka Masala",
@@ -293,7 +296,7 @@
   "marie-rose-sauce": "Marie Rose Sauce"
  },
  "curry": {
-  "authentic-thai-green-curry-recipe-aekngekhiiywhwaan-best-taste!": "Authentic Thai Green Curry Recipe (แกงเขียวหวาน) - Best Taste!",
+  "authentic-thai-green-curry-recipe": "Authentic Thai Green Curry Recipe",
   "braised-chicken-tikka-masala": "Braised Chicken Tikka Masala",
   "curry-powder": "Curry Powder",
   "easy-thai-shrimp-curry": "Easy Thai Shrimp Curry",
@@ -886,7 +889,7 @@
   "steak": "Steak"
  },
  "thai": {
-  "authentic-thai-green-curry-recipe-aekngekhiiywhwaan-best-taste!": "Authentic Thai Green Curry Recipe (แกงเขียวหวาน) - Best Taste!",
+  "authentic-thai-green-curry-recipe": "Authentic Thai Green Curry Recipe",
   "thai-green-curry": "Thai Green Curry"
  },
  "tofu": {

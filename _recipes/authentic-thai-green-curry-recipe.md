@@ -1,6 +1,6 @@
 ---
-title: "Authentic Thai Green Curry Recipe (แกงเขียวหวาน) - Best Taste!"
-filename: "authentic-thai-green-curry-recipe-aekngekhiiywhwaan-best-taste!"
+title: "Authentic Thai Green Curry Recipe"
+filename: "authentic-thai-green-curry-recipe"
 cook_time: "2 \u2013 3 hours"
 created: '2021-05-13 13:58:55'
 created_ts: 1620914335
@@ -30,19 +30,19 @@ ingredients: "Green curry\n1 whole chicken (\u0E44\u0E01\u0E48\u0E1A\u0E49\u0E32
 intrash: 0
 meal_dates:
 - '2021-05-13'
-meal_types: '3'
+- '2021-05-21'
+meal_types: 3|3
 mine: null
-name: "Authentic Thai Green Curry Recipe (\u0E41\u0E01\u0E07\u0E40\u0E02\u0E35\u0E22\
-  \u0E27\u0E2B\u0E27\u0E32\u0E19) - Best Taste!"
+name: Authentic Thai Green Curry Recipe
 p_recipe_id: 527
-permalink: /recipes/authentic-thai-green-curry-recipe-aekngekhiiywhwaan-best-taste!
+permalink: /recipes/authentic-thai-green-curry-recipe
 photo_large: null
-photo_thumb: authentic-thai-green-curry-recipe-aekngekhiiywhwaan-best-taste!-thumb.jpg
+photo_thumb: authentic-thai-green-curry-recipe-thumb.jpg
 photos_dict: null
 prep_time: 2 hours
 rating: 0
 servings: 'Serves: 1 pot'
-slug: authentic-thai-green-curry-recipe-aekngekhiiywhwaan-best-taste!
+slug: authentic-thai-green-curry-recipe
 source: eatingthaifood.com
 source_url: https://www.eatingthaifood.com/thai-green-curry-recipe/
 tags:

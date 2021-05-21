@@ -4,11 +4,10 @@ tag_key: curry
 recipes:
 - mine: null
   p_recipe_id: 527
-  permalink: /recipes/authentic-thai-green-curry-recipe-aekngekhiiywhwaan-best-taste!
-  photo_thumb: authentic-thai-green-curry-recipe-aekngekhiiywhwaan-best-taste!-thumb.jpg
+  permalink: /recipes/authentic-thai-green-curry-recipe
+  photo_thumb: authentic-thai-green-curry-recipe-thumb.jpg
   rating: 0
-  title: "Authentic Thai Green Curry Recipe (\u0E41\u0E01\u0E07\u0E40\u0E02\u0E35\u0E22\
-    \u0E27\u0E2B\u0E27\u0E32\u0E19) - Best Taste!"
+  title: Authentic Thai Green Curry Recipe
 - mine: null
   p_recipe_id: 448
   permalink: /recipes/braised-chicken-tikka-masala
@@ -49,7 +48,7 @@ recipes:
   p_recipe_id: 528
   permalink: /recipes/thai-green-curry
   photo_thumb: thai-green-curry-thumb.jpg
-  rating: 0
+  rating: 5
   title: Thai Green Curry
 - mine: null
   p_recipe_id: 383

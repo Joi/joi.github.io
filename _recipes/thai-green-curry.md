@@ -7,7 +7,7 @@ created_ts: 1620914381
 description: ''
 difficulty: ''
 favorite: 0
-image_url: https://www.recipetineats.com/wp-content/uploads/2019/02/Thai-Green-Curry_5.jpg?resize=650,910
+image_url: null
 ingredients: 'CURRY - USE ONE:
 
   4 - 6 tbsp Thai Green Curry Paste (Maesri best) OR (Note 1)
@@ -58,16 +58,22 @@ ingredients: 'CURRY - USE ONE:
 intrash: 0
 meal_dates:
 - '2021-05-13'
-meal_types: '3'
+- '2021-05-21'
+meal_types: 3|3
 mine: null
 name: Thai Green Curry
 p_recipe_id: 528
 permalink: /recipes/thai-green-curry
-photo_large: null
+photo_large: thai-green-curry-large.jpg
 photo_thumb: thai-green-curry-thumb.jpg
-photos_dict: null
+photos_dict:
+  '1': thai-green-curry-1.jpg
+  '2': thai-green-curry-2.jpg
+  '3': thai-green-curry-3.jpg
+  '4': thai-green-curry-4.jpg
+  '5': thai-green-curry-5.jpg
 prep_time: ''
-rating: 0
+rating: 5
 servings: Servings 4
 slug: thai-green-curry
 source: recipetineats.com

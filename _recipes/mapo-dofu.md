@@ -21,7 +21,8 @@ meal_dates:
 - '2021-04-03'
 - '2021-04-10'
 - '2021-04-26'
-meal_types: 3|3|3|3|3
+- '2021-05-19'
+meal_types: 3|3|3|3|3|3
 mine: 1
 name: Mapo Dofu
 p_recipe_id: 492
