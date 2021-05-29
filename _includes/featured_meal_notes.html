@@ -28,6 +28,10 @@
   {% endif %}
 
   {% for note in notes limit: {{include.limit}} %}
+    {% assign key_date = note.date | date: "%Y-%m-%d" %}
+    {% assign key_meal = note.title %}
+    {% assign rbdm_dict = site.data.meals_indices.recipe_by_date_and_meal[key_date][key_meal] %}
+
     {% if forloop.last %}
       {% assign lastclass = " last" %}
     {% endif %}
@@ -46,7 +50,25 @@
         {{ class_has_photo_bg }}>
         <div class="meal_title_block">
           <h5>{{note.feature}}</h5>
-          <em>{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}</em>
+          
+          <strong>{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}</strong>
+  
+          {% if rbdm_dict %}
+            <br> 
+            <em>Recipes:
+            {% for recipe_id in rbdm_dict %}
+              {% if forloop.last %}{% assign sep = "" %}{%else%}{% assign sep = ", " %}{% endif %}
+              {% assign result = site.recipes | where: "p_recipe_id", recipe_id %}
+              {% if result[0] %}
+                {% for recip in result %}
+                {{recip.title}}{{sep}}
+                {% endfor %}
+              {% endif %}
+            {% endfor %}
+            </em>
+          {% endif %}
+          
+
         </div>
       </a>
       {% comment %}

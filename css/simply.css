@@ -495,9 +495,16 @@ hr {
   margin:0;
   padding: 0;
 }
+.meal-notes-feed .note strong {
+  font-style: normal;
+  font-weight: normal;
+  font-size:80%;
+}
 .meal-notes-feed .note em {
   font-style: normal;
   font-size:80%;
+  color:#666;
+  line-height: 18pt;
 }
 .meal-notes-feed .note p img {
   margin-bottom: 1em;
@@ -513,16 +520,20 @@ hr {
 .meals ul li {
   list-style-type: none;
   font-size: 80%;
-  line-height: 140%;
-  margin-bottom: 1em;
+  line-height: 180%;
+  margin-bottom: 2em;
 }
 .meals ul li a {
   display: block;
   padding: 1px 2px 2px;
 }
-.meals ul li a em {
-  display: block;
-  font-style: normal;
+.meals ul li a strong {
+  color:#333;
+  font-weight: 400;
+  font-size: 1rem;
+}
+.meals ul li a:hover strong {
+  color:#c30;
 }
 #copyright {
   background: #f1f1f1;
