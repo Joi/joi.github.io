@@ -20,6 +20,10 @@ layout: default
 <div class="row">
   <div class="large-12 columns" id="recipes_mine">
 
+    {% comment %}
+    Create Context for Recipes Stamps Grid Include
+    {% endcomment %}
+
     {% assign recipes = site.recipes | where_exp:"item", "item.mine" | sort: 'title' %}
     {% assign recipe_stamps_grid_title = "My Recipes" %}
 
@@ -32,6 +36,10 @@ layout: default
 
 <div class="row">
   <div class="large-12 columns" id="recipes_5star">
+
+    {% comment %}
+    Create Context for Recipes Stamps Grid Include
+    {% endcomment %}
 
     {% assign recipes = site.recipes | where_exp:"item", "item.mine != 1" | where_exp: "item", "item.rating >= 5" | where_exp: "item", "item.photo_thumb" | sort: 'title' %}
     {% assign recipe_stamps_grid_title = '5⭐️ Recipes' %}
