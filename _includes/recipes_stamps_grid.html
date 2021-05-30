@@ -1,0 +1,106 @@
+{% comment %} 
+MODULE:
+  Recipes Stamps Grid
+CONTEXT:
+  "recipes" - Jeyll collection of pages
+PARAMETERS
+  "recipe_stamps_grid_title" - Text or HTML - STRING
+  "limit" - limit of entries to show - INT
+  "include_css" - wheteher or not to display - BOOL
+
+USED IN:
+  - Home              (        home.html )
+  - Meal Notes Index  ( notes_index.html )
+{% endcomment %}
+
+{% if include.include_css %}
+<style>
+  .recipes-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+  }
+  
+  .recipes-list .recipe-item-box {
+    width:33.3%;
+  }
+  /*
+  #recipes_mine .recipes-list .recipe-item-box {
+    width:100%;
+  }
+  */
+  .recipes-list a.recipe-item {
+    display: flex;
+    margin-right:20px;
+    padding-top:20px;
+    border-top: 1px solid #999;
+  }
+  .recipes-list a.recipe-item img {
+    margin: 0 10px 20px 0;
+    width:100px;
+    height:100px;
+  }
+  .recipes-list a.recipe-item .recipe-deets {
+    width: 50%;
+    line-height: 1.2em;
+  }
+  .recipes-list a.recipe-item .recipe-name {
+    font-size: 20px;
+    font-weight: 400;
+    height: 100px;
+    overflow: hidden;
+    line-height: 25px;
+  }
+  .recipes-list a.recipe-item .recipe-created-date {
+    font-size: 12px;
+    font-weight: 500;
+    margin-top:6px;
+  }
+  .recipes-list a.recipe-item .recipe-cats {
+    font-size: 12px;
+    font-weight: 400;
+    color: #000;
+  }
+  .recipes-list a.recipe-item:hover .recipe-cats {
+    color: #666;
+  }
+</style>
+{% endif %}
+
+{% if include.recipe_stamps_grid_title %}
+<h4>{{ include.recipe_stamps_grid_title }}</h4>
+{% else %}
+<h4>Recipes</h4>
+{% endif %}
+<br>
+
+<div class="recipes-list">
+  {% for recipe in include.recipes limit: {{include.limit}} %}
+    <div class="recipe-item-box">
+    <a class="recipe-item" href="{{ recipe.url }}" title="{{ recipe.title }}">
+      {% if recipe.photo_thumb %}
+      <img src="/images/recipes/{{recipe.photo_thumb}}" />
+      {% else %}
+      <img src='/images/200x200.gif' />
+      {% endif %}
+      <div class="recipe-deets">
+      <div class="recipe-name"
+              {% comment %}aria-label="Ingredients: {{recipe.ingredients | truncate: 250 }}"{% endcomment %}
+              >{{ recipe.title }}</div>
+      {% comment %}<div class="recipe-created-date">{{ recipe.created | date_to_string: "ordinal", "US" }}</div>{% endcomment %}
+      {% if recipe.categories %}
+        <div class="recipe-cats">
+        {% for cat in recipe.categories %}
+          {{cat}}
+        {% endfor %}
+        </div>
+      {% endif %}
+      </div>
+    </a>
+    </div>
+
+  {% endfor %}
+</div>

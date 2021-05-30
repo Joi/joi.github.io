@@ -1,59 +1,6 @@
 ---
 layout: default
 ---
-<style>
-  .recipes-list {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    align-content: flex-start;
-  }
-  
-  .recipes-list .recipe-item-box {
-    width:33.3%;
-  }
-  /*
-  #recipes_mine .recipes-list .recipe-item-box {
-    width:100%;
-  }
-  */
-  .recipes-list a.recipe-item {
-    display: flex;
-    margin-right:20px;
-    padding-top:20px;
-    border-top: 1px solid #999;
-  }
-  .recipes-list a.recipe-item img {
-    margin: 0 10px 20px 0;
-    width:100px;
-    height:100px;
-  }
-  .recipes-list a.recipe-item .recipe-deets {
-    width: 50%;
-    line-height: 1.2em;
-  }
-  .recipes-list a.recipe-item .recipe-name {
-    font-size: 16px;
-    font-weight: 500;
-    height:60px;
-    overflow:hidden;
-  }
-  .recipes-list a.recipe-item .recipe-created-date {
-    font-size: 12px;
-    font-weight: 500;
-    margin-top:6px;
-  }
-  .recipes-list a.recipe-item .recipe-cats {
-    font-size: 12px;
-    font-weight: 400;
-    color: #000;
-  }
-  .recipes-list a.recipe-item:hover .recipe-cats {
-    color: #666;
-  }
-</style>
 
 {% assign rating_limit = 4 %}
 
@@ -70,82 +17,26 @@ layout: default
 </div>
 
 
-<div class="row"
+<div class="row">
   <div class="large-12 columns" id="recipes_mine">
-    <h4 class="marker">My Recipes</h4>
-    <br>
-    <div class="recipes-list">
-      {% assign recipes = site.recipes | where_exp:"item", "item.mine" | sort: 'created' | reverse %}
-      {% for recipe in recipes %}
 
-        <div class="recipe-item-box">
-        <a class="recipe-item" href="{{ recipe.url }}">
-          {% if recipe.photo_thumb %}
-          <img src="/images/recipes/{{recipe.photo_thumb}}" />
-          {% else %}
-          <img src='/images/200x200.gif' />
-          {% endif %}
-          <div class="recipe-deets">
-          <div class="recipe-name"
-                  aria-label="Ingredients: {{recipe.ingredients | truncate: 250}}"
-                  alt="{{ recipe.title }}">{{ recipe.title }}</div>
-          <div class="recipe-created-date">{{ recipe.created | date_to_string: "ordinal", "US" }}</div>
-          {% if recipe.categories %}
-            <div class="recipe-cats">
-            {% for cat in recipe.categories %}
-              {% if cat != "_mine" %}
-                {{cat}}
-              {% endif %}
-            {% endfor %}
-            </div>
-          {% endif %}
-          </div>
-        </a>
-        </div>
+    {% assign recipes = site.recipes | where_exp:"item", "item.mine" | sort: 'title' %}
+    {% assign recipe_stamps_grid_title = "My Recipes" %}
 
-      {% endfor %}
-    </div>  
+    {% include recipes_stamps_grid.html recipes=recipes recipe_stamps_grid_title=recipe_stamps_grid_title include_css=true limit=nil %} 
+
   </div>
-
 </div>
 
 <hr>
 
 <div class="row">
   <div class="large-12 columns" id="recipes_5star">
-    <h4>Inspiring <!--★★★★★-->⭐️⭐️⭐️⭐️⭐️ Recipes</h4>
-    <br>
-    <div class="recipes-list">
-      {% for recipe in site.recipes %}
 
-        {% if recipe.rating >= rating_limit and recipe.type != "_mine" %}
-        <div class="recipe-item-box">
-        <a class="recipe-item" href="{{ recipe.url }}">
-          {% if recipe.photo_thumb %}
-          <img src="/images/recipes/{{recipe.photo_thumb}}" />
-          {% else %}
-          <img src='/images/200x200.gif' />
-          {% endif %}
-          <div class="recipe-deets">
-          <div class="recipe-name"
-                  aria-label="Ingredients: {{recipe.ingredients | truncate: 250}}"
-                  alt="{{ recipe.title }}">{{ recipe.title }}</div>
-          <div class="recipe-created-date">{{ recipe.created | date_to_string: "ordinal", "US" }}</div>
-          {% if recipe.categories %}
-            <div class="recipe-cats">
-            {% for cat in recipe.categories %}
-              {{cat}}
-            {% endfor %}
-            </div>
-          {% endif %}
-          </div>
-        </a>
-        </div>
-        {% endif %}
+    {% assign recipes = site.recipes | where_exp:"item", "item.mine != 1" | where_exp: "item", "item.rating >= 5" | where_exp: "item", "item.photo_thumb" | sort: 'title' %}
+    {% assign recipe_stamps_grid_title = '5⭐️ Recipes' %}
 
-      {% endfor %}
-    </div>
-
+    {% include recipes_stamps_grid.html recipes=recipes recipe_stamps_grid_title=recipe_stamps_grid_title limit=nil %} 
 
   </div>
 </div>
