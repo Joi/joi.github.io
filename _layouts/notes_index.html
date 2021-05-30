@@ -20,8 +20,11 @@ layout: default
 <div class="row" id="">
 	<div class="medium-8 columns" id="main">
 
+    {% comment %}
+    Create Context for Featured Meal Notes Include
+    {% endcomment %}
     {% assign notes = site.notes | where_exp:"item", "item.feature" | reverse %}
-    {% include featured_meal_notes.html limit=nil %}
+    {% include meal_notes_feed_featured.html notes=notes limit=nil excerpt=false %}
 
 	</div>
 
@@ -30,7 +33,6 @@ layout: default
     <div class="meals">
     <h4>Rough Notes</h4>
     <ul>
-
       {% assign notes = site.notes | where: 'feature', nil %}
       {% for note in notes reversed %}
         {% assign key_date = note.date | date: "%Y-%m-%d" %}

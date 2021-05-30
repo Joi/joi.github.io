@@ -1,3 +1,13 @@
+{% comment %} 
+MODULE:
+  Fetaured Meal Notes
+CONTEXT:
+  "notes" - Jeyll collection of pages
+USED IN:
+  - Home              (        home.html )
+  - Meal Notes Index  ( notes_index.html )
+{% endcomment %}
+
 <style>
 .meal_title_block {
   margin:0;
@@ -27,7 +37,7 @@
   <h4>Featured Notes</h4>
   {% endif %}
 
-  {% for note in notes limit: {{include.limit}} %}
+  {% for note in include.notes limit: {{include.limit}} %}
     {% assign key_date = note.date | date: "%Y-%m-%d" %}
     {% assign key_meal = note.title %}
     {% assign rbdm_dict = site.data.meals_indices.recipe_by_date_and_meal[key_date][key_meal] %}
@@ -76,7 +86,9 @@
       {{ note.content | markdownify  | strip_html | truncatewords: 60, " …" }}
       </p>
       {% endcomment %}
+      {% if include.excerpt %}
       {{ note.excerpt | strip_html }}
+      {% endif %}
     </div>
   {% endfor %}
 </div>

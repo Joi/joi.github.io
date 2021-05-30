@@ -28,21 +28,14 @@ layout: default
 <div class="row">
   <div class="large-8 columns" id="">
 
+    {% comment %}
+    Create Context for Featured Meal Notes Include
+    {% endcomment %}
     {% assign notes = site.notes | where_exp:"item", "item.promote contains 'home'" | sort: 'date' | reverse %}
     {% capture notes_title_block %}
       <h4><a href="/notes/" title="Meal Notes">Meal Notes <em>»</em></a></h4>
     {% endcapture %}
-    {% include featured_meal_notes.html limit=3 notes_title=notes_title_block %}
-    {% comment %}
-    {% for note in notes offset: 2  %}
-      <div class="note">
-        <a href="{{note.url}}" title="{{note.feature}} - {{note.title}}, {{note.date | date_to_string: 'ordinal', 'US' }}">
-        <h5>{{note.feature}}</h5>
-        <em>{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}</em>
-        </a>
-      </div>
-    {% endfor %}
-    {% endcomment %}
+    {% include meal_notes_feed_featured.html notes=notes limit=3 notes_title=notes_title_block excerpt=true %}
 
   </div>
 
