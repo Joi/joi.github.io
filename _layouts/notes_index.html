@@ -21,7 +21,7 @@ layout: default
 	<div class="medium-8 columns" id="main">
 
     {% comment %}
-    Create Context for Featured Meal Notes Include
+    Create Context for Meal Notes Feed Include
     {% endcomment %}
     {% assign notes = site.notes | where_exp:"item", "item.feature" | reverse %}
     {% include meal_notes_feed.html notes=notes limit=nil excerpt=false %}
@@ -30,35 +30,11 @@ layout: default
 
 	<div class="medium-3 columns" id="right-margin">
 
-    <div class="meals">
-    <h4>Rough Notes</h4>
-    <ul>
-      {% assign notes = site.notes | where: 'feature', nil %}
-      {% for note in notes reversed %}
-        {% assign key_date = note.date | date: "%Y-%m-%d" %}
-        {% assign key_meal = note.title %}
-        {% assign rbdm_dict = site.data.meals_indices.recipe_by_date_and_meal[key_date][key_meal] %}
-        <li>
-          <a href="{{note.url}}" title="{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}">
-          {{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}
-          {% if rbdm_dict %}
-            <br><strong>
-            {% for recipe_id in rbdm_dict %}
-              {% if forloop.last %}{% assign sep = "" %}{%else%}{% assign sep = ", " %}{% endif %}
-              {% assign result = site.recipes | where: "p_recipe_id", recipe_id %}
-              {% if result[0] %}
-                {% for recip in result %}
-                {{recip.title}}{{sep}}<br>
-                {% endfor %}
-              {% endif %}
-            {% endfor %}
-            </strong>
-          {% endif %}
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
-    </div>
+    {% comment %}
+    Create Context for Meal Notes Sidebar Include
+    {% endcomment %}
+    {% assign notes = site.notes | where: 'feature', nil %}
+    {% include meal_notes_sidebar.html notes=notes limit=nil %}
 
 	</div>
 </div>

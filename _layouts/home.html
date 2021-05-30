@@ -29,7 +29,7 @@ layout: default
   <div class="large-8 columns" id="">
 
     {% comment %}
-    Create Context for Featured Meal Notes Include
+    Create Context for Meal Notes Feed Include
     {% endcomment %}
     {% assign notes = site.notes | where_exp:"item", "item.promote contains 'home'" | sort: 'date' | reverse %}
     {% capture notes_title_block %}
