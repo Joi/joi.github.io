@@ -24,7 +24,7 @@ layout: default
     Create Context for Featured Meal Notes Include
     {% endcomment %}
     {% assign notes = site.notes | where_exp:"item", "item.feature" | reverse %}
-    {% include meal_notes_feed_featured.html notes=notes limit=nil excerpt=false %}
+    {% include meal_notes_feed.html notes=notes limit=nil excerpt=false %}
 
 	</div>
 
