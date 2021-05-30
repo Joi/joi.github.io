@@ -591,10 +591,12 @@ a.recip-figure {
   display: block;
   height: 100px;
   width: 100%;
+  margin-bottom: 4px;
+
 }
 .recip-caption {
-  font-weight: 600;
-  font-size: 80%
+  font-weight: 400;
+  line-height: 140%;
 }
 /* DEBUG */
 
