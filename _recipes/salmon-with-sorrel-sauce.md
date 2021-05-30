@@ -21,8 +21,8 @@ ingredients: "1 \xBD pounds Salmon filets\nSalt and freshly ground pepper\n1 Tbs
   \ khaki and taste like hay\n2 medium shallots, minced\n6 Tbsp (3 ounces) dry white\
   \ wine, preferably un-oaked sauvignon blanc\n3 Tbsp (1\xBD ounces) white Noilly\
   \ Prat (or other high quality) white vermouth[^vermouth]\n1 qt vegetable stock,\
-  \ fish stock if you\u2019ve got it\n1 3 in x 3 in square dashi-kombu, wiped with\
-  \ a damp paper towel and the edges pinked with kitchen scissors[^kombu]\n1\xBD cups\
+  \ fish stock if you\u2019ve got it\n1 3x3 inch square dashi-kombu, wiped with a\
+  \ damp paper towel and the edges pinked with kitchen scissors[^kombu]\n1\xBD cups\
   \ cr\xE8me fraiche if you have it, or use heavy cream\n2 Tbsp unsalted butter, cut\
   \ into pea-sized bits and kept cold\nSalt and pepper (white pepper preferred for\
   \ color as well as flavor, but not a deal breaker) [^whitepepper]\nJuice of half\
@@ -94,7 +94,7 @@ uid: 7A82E399-1C0A-4A54-B4A6-539CFD569953-89150-0000F342AD89AD55
 <li>6 Tbsp (3 ounces) dry white wine, preferably un-oaked sauvignon blanc</li>
 <li>3 Tbsp (1½ ounces) white Noilly Prat (or other high quality) white vermouth<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></li>
 <li>1 qt vegetable stock, fish stock if you’ve got it</li>
-<li>1 3 in x 3 in square dashi-kombu, wiped with a damp paper towel and the edges pinked with kitchen scissors<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup></li>
+<li>1 3x3 inch square dashi-kombu, wiped with a damp paper towel and the edges pinked with kitchen scissors<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup></li>
 <li>1½ cups crème fraiche if you have it, or use heavy cream</li>
 <li>2 Tbsp unsalted butter, cut into pea-sized bits and kept cold</li>
 <li>Salt and pepper (white pepper preferred for color as well as flavor, but not a deal breaker) <sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup></li>

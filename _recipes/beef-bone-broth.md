@@ -26,11 +26,7 @@ ingredients: '4 pounds beef bones, preferably a mix of marrow bones and bones wi
 
   2 tablespoons black peppercorns
 
-  1 tablespoon cider vinegar
-
-  Special equipment:
-
-  6-quart (or larger) stockpot or a large slow cooker'
+  1 tablespoon cider vinegar'
 intrash: 0
 meal_dates:
 - '2020-10-14'
@@ -72,7 +68,5 @@ uid: 193BCEC7-317B-4381-8CA9-223F4306AD0D-38082-0000B63FB3D98158
 <li>2 bay leaves</li>
 <li>2 tablespoons black peppercorns</li>
 <li>1 tablespoon cider vinegar</li>
-<li>Special equipment:</li>
-<li>6-quart (or larger) stockpot or a large slow cooker</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

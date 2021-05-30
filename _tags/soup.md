@@ -116,6 +116,12 @@ recipes:
   photo_thumb: the-best-chili-ever-thumb.jpg
   rating: 5
   title: The Best Chili Ever
+- mine: null
+  p_recipe_id: 532
+  permalink: /recipes/tom-yum-soup-thai-soup
+  photo_thumb: tom-yum-soup-thai-soup-thumb.jpg
+  rating: 0
+  title: Tom Yum Soup (Thai Soup)
 rel_tags_count:
   asparagus:
   - 1
@@ -160,7 +166,10 @@ rel_tags_count:
   - 1
   - short ribs
   shrimp:
-  - 2
+  - 3
   - shrimp
+  thai:
+  - 1
+  - Thai
 
 ---

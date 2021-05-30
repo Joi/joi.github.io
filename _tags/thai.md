@@ -20,6 +20,12 @@ recipes:
   photo_thumb: thai-green-curry-thumb.jpg
   rating: 5
   title: Thai Green Curry
+- mine: null
+  p_recipe_id: 532
+  permalink: /recipes/tom-yum-soup-thai-soup
+  photo_thumb: tom-yum-soup-thai-soup-thumb.jpg
+  rating: 0
+  title: Tom Yum Soup (Thai Soup)
 rel_tags_count:
   bbq:
   - 1
@@ -33,5 +39,11 @@ rel_tags_count:
   curry:
   - 2
   - curry
+  shrimp:
+  - 1
+  - shrimp
+  soup:
+  - 1
+  - soup
 
 ---

@@ -10,11 +10,13 @@ favorite: 0
 image_url: https://img-global.cpcdn.com/recipes/6392064259391488/751x532cq70/beef-tongue-stew-recipe-main-photo.jpg
 ingredients: '1 Beef tongue
 
-  1 an adequate amount Aromatic vegetables
+  Aromatic vegetables
 
-  1 can each Canned tomatoes, tinned demi-glace sauce
+  1 can Canned tomatoes
 
-  1 to make a roux Flour and butter
+  1 can demi-glace sauce
+
+  *Flour and butter to make a roux*
 
   400 ml Red wine'
 intrash: 0
@@ -43,9 +45,10 @@ uid: A2496B0D-E569-4BC8-9573-D707E226C9E0-2569-000001B683E8DBD3
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 Beef tongue</li>
-<li>1 an adequate amount Aromatic vegetables</li>
-<li>1 can each Canned tomatoes, tinned demi-glace sauce</li>
-<li>1 to make a roux Flour and butter</li>
+<li>Aromatic vegetables</li>
+<li>1 can Canned tomatoes</li>
+<li>1 can demi-glace sauce</li>
+<li><em>Flour and butter to make a roux</em></li>
 <li>400 ml Red wine</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

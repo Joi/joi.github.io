@@ -106,6 +106,12 @@ recipes:
   rating: 5
   title: Shrimp with Mayonnaise - ebimayo
 - mine: null
+  p_recipe_id: 531
+  permalink: /recipes/slow-cooker-chinese-pulled-pork
+  photo_thumb: slow-cooker-chinese-pulled-pork-thumb.jpg
+  rating: 0
+  title: Slow Cooker Chinese Pulled Pork
+- mine: null
   p_recipe_id: 522
   permalink: /recipes/steamed-abalone-with-garlic
   photo_thumb: steamed-abalone-with-garlic-thumb.jpg
@@ -139,6 +145,9 @@ rel_tags_count:
   pork-chops:
   - 1
   - pork chops
+  pork-shoulder:
+  - 1
+  - pork shoulder
   shrimp:
   - 1
   - shrimp

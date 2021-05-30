@@ -8,8 +8,8 @@ description: Based on recipe from American Barbecue Sauces by Steven Raichlen.
 difficulty: ''
 favorite: 0
 image_url: null
-ingredients: "6 Tbsp cups brown sugar\n\xBD cup cider vinegar\n\xBC cup molasses\n\
-  \xBC honey\n\xBC cup Worcestershire sauce\n2 Tbsp dark rum\n2 Tbsp yellow mustard\n\
+ingredients: "6 Tbsp brown sugar\n\xBD cup cider vinegar\n\xBC cup molasses\n\xBC\
+  \ honey\n\xBC cup Worcestershire sauce\n2 Tbsp dark rum\n2 Tbsp yellow mustard\n\
   1 Tbsp liquid smoke\n2 dashes cayenne pepper\n2 tsp black pepper\n2 tsp garlic powder\n\
   1 tsp found allspice\n\xBC tsp ground cloves\n1\u2009\xBD tsp black pepper\n4 cups\
   \ ketchup"
@@ -47,7 +47,7 @@ uid: 6CF0D8FC-A8FE-4D31-A163-38D715503D3D-29053-000401226697C402
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>6 Tbsp cups brown sugar</li>
+<li>6 Tbsp brown sugar</li>
 <li>½ cup cider vinegar</li>
 <li>¼ cup molasses</li>
 <li>¼ honey</li>

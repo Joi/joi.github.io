@@ -8,27 +8,23 @@ description: null
 difficulty: null
 favorite: 0
 image_url: https://images.immediate.co.uk/production/volatile/sites/2/2019/05/OLI_0419_p46-47_GiR2-b455946.jpg?quality=90&crop=19px%2C563px%2C3729px%2C1604px&resize=960%2C408
-ingredients: 'cherry tomatoes on the vine 2 bunches (about 225g)
+ingredients: '2 bunches cherry tomatoes on the vine (about 225g)
 
   fennel a small bulb, thinly sliced
 
-  red peppers 2, cut into quarters
+  2 red peppers, cut into quarters
 
-  garlic 1 bulb, top cut off
+  1 bulb garlic, top cut off
 
-  black peppercorns 1 tsp
+  1 tsp black peppercorns
 
-  coriander seeds 2 tsp
+  2 tsp coriander seeds
 
-  sage a handful of leaves
+  handful of sage leaves
 
-  olive oil about 1.5 litres
+  about 1.5 litres olive oil
 
-  hake 4 fillets
-
-  green salad dressed with sherry vinegar, to serve
-
-  crusty bread to serve'
+  4 hake fillets'
 intrash: 0
 meal_dates: null
 meal_types: null
@@ -51,19 +47,20 @@ total_time: null
 type: null
 uid: 9DF14314-10CE-4B72-B3F1-C9D3C903EF6F-16960-000008A2BD817715
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><p>green salad dressed with sherry vinegar, to serve
+crusty bread to serve</p>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>cherry tomatoes on the vine 2 bunches (about 225g)</li>
+<li>2 bunches cherry tomatoes on the vine (about 225g)</li>
 <li>fennel a small bulb, thinly sliced</li>
-<li>red peppers 2, cut into quarters</li>
-<li>garlic 1 bulb, top cut off</li>
-<li>black peppercorns 1 tsp</li>
-<li>coriander seeds 2 tsp</li>
-<li>sage a handful of leaves</li>
-<li>olive oil about 1.5 litres</li>
-<li>hake 4 fillets</li>
-<li>green salad dressed with sherry vinegar, to serve</li>
-<li>crusty bread to serve</li>
+<li>2 red peppers, cut into quarters</li>
+<li>1 bulb garlic, top cut off</li>
+<li>1 tsp black peppercorns</li>
+<li>2 tsp coriander seeds</li>
+<li>handful of sage leaves</li>
+<li>about 1.5 litres olive oil</li>
+<li>4 hake fillets</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

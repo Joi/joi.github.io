@@ -10,7 +10,7 @@ favorite: 0
 image_url: null
 ingredients: "Private Reserve extra virgin olive oil\n1 large yellow onion, chopped\n\
   2 celery ribs, chopped\nSalt and pepper\n4 large garlic cloves, minced\n\xBD tsp\
-  \ dried thyme\nPinch red pepper flakes\n\xBE cup dry white wine\n1 28-oz can whole\
+  \ dried thyme\nPinch red pepper flakes\n\xBE cup dry white wine\n28 oz can whole\
   \ peeled plum tomatoes, juice separated and reserved\n3 cups low-sodium vegetable\
   \ broth\n\xBC cup golden raisins\n2 tbsp capers, rinsed\n2 lb skinless sea bass\
   \ fillet, about 1 \xBD-inch thick, cut into large cubes\n\xBD cup chopped fresh\
@@ -54,7 +54,7 @@ uid: D8EAF2E2-E2B9-44D2-9428-9A591181D829-68280-000013BC5D40734E
 <li>½ tsp dried thyme</li>
 <li>Pinch red pepper flakes</li>
 <li>¾ cup dry white wine</li>
-<li>1 28-oz can whole peeled plum tomatoes, juice separated and reserved</li>
+<li>28 oz can whole peeled plum tomatoes, juice separated and reserved</li>
 <li>3 cups low-sodium vegetable broth</li>
 <li>¼ cup golden raisins</li>
 <li>2 tbsp capers, rinsed</li>

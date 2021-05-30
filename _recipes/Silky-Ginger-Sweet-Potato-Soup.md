@@ -24,7 +24,7 @@ ingredients: '2 tablespoons coconut oil
 
   2 cups low-sodium vegetable stock
 
-  1 14-ounce can coconut milk (I like full-fat, but light is fine!)
+  1 14 ounce can coconut milk (I like full-fat, but light is fine!)
 
   2 green onions thinly sliced for topping
 
@@ -65,7 +65,7 @@ uid: ECE2D7FE-A2D1-47B2-94F2-69E75CFBD8C2-17048-000007F9F43C38A5
 <li>1/2 teaspoon freshly cracked pepper</li>
 <li>4 cups peeled sweet potato cubes this was 2 medium sized potatoes for me</li>
 <li>2 cups low-sodium vegetable stock</li>
-<li>1 14-ounce can coconut milk (I like full-fat, but light is fine!)</li>
+<li>1 14 ounce can coconut milk (I like full-fat, but light is fine!)</li>
 <li>2 green onions thinly sliced for topping</li>
 <li>2 tablespoons hemp hearts for topping</li>
 <li>extra coconut milk or cream for drizzling</li>

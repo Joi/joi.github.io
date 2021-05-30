@@ -28,7 +28,7 @@ ingredients: '1 kg abalone
 
   1 tbsp chicken bouillon powder
 
-  1 L / 4 1/4 US cup water (or to preference)'
+  1 L / 4 1/4 cup water (or to preference)'
 intrash: 0
 meal_dates:
 - '2021-04-23'
@@ -72,6 +72,6 @@ uid: 2C7D1A95-70E2-4E76-A31B-F3C9352589CC
 <li>2 tsp salt (or to taste)</li>
 <li>1 1/2 tbsp sugar (or to taste)</li>
 <li>1 tbsp chicken bouillon powder</li>
-<li>1 L / 4 1/4 US cup water (or to preference)</li>
+<li>1 L / 4 1/4 cup water (or to preference)</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

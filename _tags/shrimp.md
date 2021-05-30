@@ -128,6 +128,12 @@ recipes:
   rating: 0
   title: Thai Shrimp Curry
 - mine: null
+  p_recipe_id: 532
+  permalink: /recipes/tom-yum-soup-thai-soup
+  photo_thumb: tom-yum-soup-thai-soup-thumb.jpg
+  rating: 0
+  title: Tom Yum Soup (Thai Soup)
+- mine: null
   p_recipe_id: 515
   permalink: /recipes/vietnamese-caramelized-shrimp-tom-rim
   photo_thumb: vietnamese-caramelized-shrimp-tom-rim-thumb.jpg
@@ -162,7 +168,10 @@ rel_tags_count:
   - 1
   - seafood
   soup:
-  - 2
+  - 3
   - soup
+  thai:
+  - 1
+  - Thai
 
 ---

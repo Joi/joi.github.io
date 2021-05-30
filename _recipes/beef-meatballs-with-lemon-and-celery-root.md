@@ -14,14 +14,14 @@ description: I often say that my favorite food is the sort that can, at once, co
 difficulty: ''
 favorite: 0
 image_url: null
-ingredients: "14 oz/400g ground beef\rI medium onion, finely chopped (scant 1 cup/\
+ingredients: "14 oz/400g ground beef\r1 medium onion, finely chopped (scant 1 cup/\
   \ 140g)\r3 cups/ 120g fresh white breadcrumbs (from about 4 slices, crusts removed)\r\
-  1 cup/20g parsley, chopped, plus extra to garnish\rI large egg, beaten\r3/4 tsp\
-  \ ground allspice\rsalt and black pepper\r2 tbsp olive oil\r1 medium celery root,\
-  \ peeled, quartered, then each quarter\rcut crosswise into 1/2-inch /1 cm slices\
-  \ (4 cups/400g)\n3 garlic cloves, minced\r1/2 tsp ground turmeric\r1 1/2 tsp fennel\
-  \ seeds, lightly crushed\rI tsp sweet smoked paprika\r2 cups/500 ml chicken\rstock\r\
-  3 1/2 tbsp lemon juice"
+  1 cup/20g parsley, chopped, plus extra to garnish\r1 large egg, beaten\r3/4 tsp\
+  \ ground allspice\rsalt and black pepper\r2 Tbsp olive oil\r1 medium celery root\
+  \ (Peeled, quartered, then each quarter cut crosswise into 1/2-inch /1 cm slices.\
+  \ Yields 4 cups/400g)\n3 garlic cloves, minced\r1/2 tsp ground turmeric\r1 1/2 tsp\
+  \ fennel seeds, lightly crushed\r1 tsp sweet smoked paprika\r2 cups/500 ml chicken\
+  \ stock\r3 1/2 tbsp lemon juice"
 intrash: 0
 meal_dates:
 - '2020-05-10'
@@ -52,21 +52,19 @@ uid: 63C6D918-6027-4F87-95BD-6A4D2845F30C-4647-0000B41A34AB568A
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>14 oz/400g ground beef
-I medium onion, finely chopped (scant 1 cup/ 140g)
+1 medium onion, finely chopped (scant 1 cup/ 140g)
 3 cups/ 120g fresh white breadcrumbs (from about 4 slices, crusts removed)
 1 cup/20g parsley, chopped, plus extra to garnish
-I large egg, beaten
+1 large egg, beaten
 3/4 tsp ground allspice
 salt and black pepper
-2 tbsp olive oil
-1 medium celery root, peeled, quartered, then each quarter
-cut crosswise into 1/2-inch /1 cm slices (4 cups/400g)</li>
+2 Tbsp olive oil
+1 medium celery root (Peeled, quartered, then each quarter cut crosswise into 1/2-inch /1 cm slices. Yields 4 cups/400g)</li>
 <li>3 garlic cloves, minced
 1/2 tsp ground turmeric
 1 1/2 tsp fennel seeds, lightly crushed
-I tsp sweet smoked paprika
-2 cups/500 ml chicken
-stock
+1 tsp sweet smoked paprika
+2 cups/500 ml chicken stock
 3 1/2 tbsp lemon juice</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

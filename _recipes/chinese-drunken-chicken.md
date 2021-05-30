@@ -8,11 +8,11 @@ description: null
 difficulty: null
 favorite: 0
 image_url: https://thewoksoflife.com/wp-content/uploads/2015/03/drunken-chicken-1-201x300.jpg
-ingredients: "For Stage 1: Preparing the Chicken & Stock\n2 chicken leg quarters\n\
-  2 \xBD cups water\n2 large slices ginger\n1/2 teaspoon salt\nFor Stage 2: The Brine\n\
-  1 \xBD cups of your homemade Chicken broth (at room temperature)\n1 1/2 cups shaoxing\
-  \ huadiao wine (\u7ECD\u5174\u82B1\u96D5\u9152)\n1 1/2 teaspoons sugar\n2 1/2 teaspoons\
-  \ sea salt\n1 tablespoon dried goji berries/wolfberries"
+ingredients: "**For Stage 1: Preparing the Chicken & Stock**\n2 chicken leg quarters\n\
+  2 \xBD cups water\n2 large slices ginger\n1/2 teaspoon salt\n**For Stage 2: The\
+  \ Brine**\n1 \xBD cups of your homemade Chicken broth (at room temperature)\n1 1/2\
+  \ cups shaoxing huadiao wine (\u7ECD\u5174\u82B1\u96D5\u9152)\n1 1/2 teaspoons sugar\n\
+  2 1/2 teaspoons sea salt\n1 tablespoon dried goji berries/wolfberries"
 intrash: 0
 meal_dates:
 - '2020-10-01'
@@ -41,12 +41,12 @@ uid: B76B7DAF-A787-4560-9648-F78FE157368C-11990-0000076B958BFF4B
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>For Stage 1: Preparing the Chicken &amp; Stock</li>
+<li><strong>For Stage 1: Preparing the Chicken &amp; Stock</strong></li>
 <li>2 chicken leg quarters</li>
 <li>2 ½ cups water</li>
 <li>2 large slices ginger</li>
 <li>1/2 teaspoon salt</li>
-<li>For Stage 2: The Brine</li>
+<li><strong>For Stage 2: The Brine</strong></li>
 <li>1 ½ cups of your homemade Chicken broth (at room temperature)</li>
 <li>1 1/2 cups shaoxing huadiao wine (绍兴花雕酒)</li>
 <li>1 1/2 teaspoons sugar</li>

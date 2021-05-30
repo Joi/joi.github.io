@@ -33,6 +33,12 @@ recipes:
   rating: 5
   title: Slow Cooker Chinese Pulled Pork
 - mine: null
+  p_recipe_id: 531
+  permalink: /recipes/slow-cooker-chinese-pulled-pork
+  photo_thumb: slow-cooker-chinese-pulled-pork-thumb.jpg
+  rating: 0
+  title: Slow Cooker Chinese Pulled Pork
+- mine: null
   p_recipe_id: 393
   permalink: /recipes/slow-cooker-pulled-pork
   photo_thumb: slow-cooker-pulled-pork-thumb.jpg
@@ -50,6 +56,9 @@ recipes:
   photo_thumb: steamed-pork-buns-char-siu-bao-thumb.jpg
   rating: 0
   title: Steamed Pork Buns (Char Siu Bao)
-rel_tags_count: {}
+rel_tags_count:
+  chinese:
+  - 1
+  - Chinese
 
 ---

@@ -8,10 +8,10 @@ description: null
 difficulty: Easy
 favorite: 0
 image_url: https://somethingnewfordinner.com/wp-content/uploads/2012/11/BasketSteamedBlackCod-800x800.jpg
-ingredients: "Cloves from 1/2 head garlic, peeled and trimmed\n1 lower stalk lemon\
+ingredients: "Cloves from 1/2 head of garlic, peeled and trimmed\n1 lower stalk lemon\
   \ grass, outer leaf removed and cut into 1/2\" slices.\n1 cup cilantro, including\
   \ stems\n1/2-1 thai green chili or jalape\xF1o, sliced in half and seeded\n1/4 cup\
-  \ fresh lime juice\n1/4 cup Thai fish sauce\n2 T sugar\nSalt and pepper to taste\n\
+  \ fresh lime juice\n1/4 cup Thai fish sauce\n2 Tbsp sugar\nSalt and pepper to taste\n\
   1 3-pound whole fish or 2 pounds black cod fillets\nSalt and pepper and/or your\
   \ favorite fish rub or seasoning\n8 whole cabbage leaves\n2-3\" piece of ginger,\
   \ peeled and julienned into 2-3\" matchsticks\n1/2 red bell pepper, julienned into\
@@ -43,13 +43,13 @@ uid: 14BC06EE-D1A3-4FED-9AEA-DFC8D9E946CA-32901-000016CE07BC2947
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>Cloves from 1/2 head garlic, peeled and trimmed</li>
+<li>Cloves from 1/2 head of garlic, peeled and trimmed</li>
 <li>1 lower stalk lemon grass, outer leaf removed and cut into 1/2&quot; slices.</li>
 <li>1 cup cilantro, including stems</li>
 <li>1/2-1 thai green chili or jalapeño, sliced in half and seeded</li>
 <li>1/4 cup fresh lime juice</li>
 <li>1/4 cup Thai fish sauce</li>
-<li>2 T sugar</li>
+<li>2 Tbsp sugar</li>
 <li>Salt and pepper to taste</li>
 <li>1 3-pound whole fish or 2 pounds black cod fillets</li>
 <li>Salt and pepper and/or your favorite fish rub or seasoning</li>

@@ -264,6 +264,7 @@
   "mapo-tofu": "Mapo Tofu",
   "mapotofu": "Mapotofu",
   "shrimp-with-mayonnaise-ebimayo": "Shrimp with Mayonnaise - ebimayo",
+  "slow-cooker-chinese-pulled-pork": "Slow Cooker Chinese Pulled Pork",
   "steamed-abalone-with-garlic": "Steamed Abalone with Garlic"
  },
  "chuck roast": {
@@ -779,6 +780,7 @@
   "stir-fried-shrimp-and-broccoli": "Stir-Fried Shrimp and Broccoli",
   "thai-coconut-shrimp-curry": "Thai Coconut Shrimp Curry",
   "thai-shrimp-curry": "Thai Shrimp Curry",
+  "tom-yum-soup-thai-soup": "Tom Yum Soup (Thai Soup)",
   "vietnamese-caramelized-shrimp-tom-rim": "Vietnamese Caramelized Shrimp (Tom Rim)"
  },
  "sirloin": {
@@ -826,7 +828,8 @@
   "samin-nosrat-chicken-stock": "Samin Nosrat Chicken Stock",
   "shrimp-bisque": "Shrimp Bisque",
   "sicilian-style-fish-stew": "Sicilian-Style Fish Stew",
-  "the-best-chili-ever": "The Best Chili Ever"
+  "the-best-chili-ever": "The Best Chili Ever",
+  "tom-yum-soup-thai-soup": "Tom Yum Soup (Thai Soup)"
  },
  "spread": {
   "fry-sauce": "Fry Sauce",
@@ -890,7 +893,8 @@
  },
  "thai": {
   "authentic-thai-green-curry-recipe": "Authentic Thai Green Curry Recipe",
-  "thai-green-curry": "Thai Green Curry"
+  "thai-green-curry": "Thai Green Curry",
+  "tom-yum-soup-thai-soup": "Tom Yum Soup (Thai Soup)"
  },
  "tofu": {
   "general-tsos-tofu": "General Tso’s Tofu",

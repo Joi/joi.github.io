@@ -20,7 +20,7 @@ ingredients: '1-1/2 teaspoons paprika
 
   1/2 teaspoon cayenne (Optional)
 
-  1/2 teaspoon salt Adjust to taste. This is on the low side.'
+  1/2 teaspoon salt (Adjust to taste. This is on the low side.)'
 intrash: 0
 meal_dates: null
 meal_types: null
@@ -56,6 +56,6 @@ uid: 5BB8299C-2E77-4DA1-90F1-797668204F22-1273-000025E537D4FF62
 <li>1/2 teaspoon dried thyme</li>
 <li>1/2 teaspoon black pepper</li>
 <li>1/2 teaspoon cayenne (Optional)</li>
-<li>1/2 teaspoon salt Adjust to taste. This is on the low side.</li>
+<li>1/2 teaspoon salt (Adjust to taste. This is on the low side.)</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

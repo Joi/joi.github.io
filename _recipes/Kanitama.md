@@ -13,7 +13,7 @@ ingredients: "5 eggs\n\xBD pound of crab - shredded\n1 cup of shiitake mushrooms
   \ sliced thin\n\xBD pound of boiled bamboo shoots - cut into thin sticks\n1 knob\
   \ of ginger - cut into thin sticks\n2 scallions - sliced thin at an angle\nSalt,\
   \ pepper, sugar\n2 Tbsp Shaoxing wine\n1 Tbsp light oil\n1 tsp sesame oil\n\n**Sweet\
-  \ and sour sauce**\n_In addition to the above_\n1 cup of Chinese chicken stock\n\
+  \ and sour sauce**\n*In addition to the above*\n1 cup of Chinese chicken stock\n\
   1 Tbsp Shaoxing wine\n1 Tbsp sugar\n1 Tbsp rice vinegar\n\u2153 tsp salt\n1 tsp\
   \ soy sauce\n1 Tbsp potato starch dissolved in 1 Tbsp of water"
 intrash: 0
