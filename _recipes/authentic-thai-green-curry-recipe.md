@@ -9,24 +9,23 @@ difficulty: ''
 favorite: 0
 image_url: https://www.eatingthaifood.com/wp-content/uploads/2017/02/authentic-thai-green-curry-recipe.jpg
 ingredients: "Green curry\n1 whole chicken (\u0E44\u0E01\u0E48\u0E1A\u0E49\u0E32\u0E19\
-  ) - I used a free range chicken that was 1.4 kg.\n2 cups of water\ngreen curry paste\
-  \ - all of the paste below\n2 - 3 cups coconut cream (\u0E2B\u0E31\u0E27\u0E01\u0E30\
-  \u0E17\u0E34)\n6 - 10 Thai eggplant (\u0E21\u0E30\u0E40\u0E02\u0E37\u0E2D\u0E40\u0E1B\
-  \u0E23\u0E32\u0E30)\n6 - 10 stems of Thai sweet basil (\u0E42\u0E2B\u0E23\u0E30\u0E1E\
-  \u0E32)\n2 red spur chilies (\u0E1E\u0E23\u0E34\u0E01\u0E0A\u0E35\u0E49\u0E1F\u0E49\
-  \u0E32\u0E41\u0E14\u0E07)\n20 kaffir lime leaves (\u0E43\u0E1A\u0E21\u0E30\u0E01\
-  \u0E23\u0E39\u0E14)\n\xBD tsp. salt, or to taste\nGreen curry paste\n150 grams Thai\
-  \ chilies, green color (\u0E1E\u0E23\u0E34\u0E01\u0E02\u0E35\u0E49\u0E2B\u0E19\u0E39\
-  \u0E40\u0E02\u0E35\u0E22\u0E27)\n1 head garlic (\u0E01\u0E23\u0E30\u0E40\u0E17\u0E35\
-  \u0E22\u0E21)\n3 shallots (\u0E2B\u0E2D\u0E21\u0E41\u0E14\u0E07) - small Thai shallots\n\
-  1 piece of galangal (\u0E02\u0E48\u0E32) - about a thumb sized piece\n5 cilantro\
-  \ roots (\u0E23\u0E32\u0E01\u0E1C\u0E31\u0E01\u0E0A\u0E35)\n1 kaffir lime peel (\u0E1C\
-  \u0E34\u0E27\u0E21\u0E30\u0E01\u0E23\u0E39\u0E14)\n2 stalks lemongrass (\u0E15\u0E30\
-  \u0E44\u0E04\u0E23\u0E49)\n1 tbsp. white peppercorns (\u0E1E\u0E23\u0E34\u0E01\u0E44\
-  \u0E17\u0E22\u0E02\u0E32\u0E27)\n1 tsp. coriander seed (\u0E25\u0E39\u0E01\u0E1C\
-  \u0E31\u0E01\u0E0A\u0E35)\n1 tsp. cumin seed (\u0E22\u0E35\u0E48\u0E2B\u0E23\u0E48\
-  \u0E32)\n1 tsp. salt (\u0E40\u0E01\u0E25\u0E37\u0E2D)\n1 tbsp. shrimp paste (\u0E01\
-  \u0E30\u0E1B\u0E34)"
+  )\n2 cups of water\ngreen curry paste - all of the paste below\n2 - 3 cups coconut\
+  \ cream (\u0E2B\u0E31\u0E27\u0E01\u0E30\u0E17\u0E34)\n6 - 10 Thai eggplant (\u0E21\
+  \u0E30\u0E40\u0E02\u0E37\u0E2D\u0E40\u0E1B\u0E23\u0E32\u0E30)\n6 - 10 stems of Thai\
+  \ sweet basil (\u0E42\u0E2B\u0E23\u0E30\u0E1E\u0E32)\n2 red spur chilies (\u0E1E\
+  \u0E23\u0E34\u0E01\u0E0A\u0E35\u0E49\u0E1F\u0E49\u0E32\u0E41\u0E14\u0E07)\n20 kaffir\
+  \ lime leaves (\u0E43\u0E1A\u0E21\u0E30\u0E01\u0E23\u0E39\u0E14)\n\xBD tsp. salt,\
+  \ or to taste\nGreen curry paste\n150 grams Thai chilies, green color (\u0E1E\u0E23\
+  \u0E34\u0E01\u0E02\u0E35\u0E49\u0E2B\u0E19\u0E39\u0E40\u0E02\u0E35\u0E22\u0E27)\n\
+  1 head garlic (\u0E01\u0E23\u0E30\u0E40\u0E17\u0E35\u0E22\u0E21)\n3 shallots (\u0E2B\
+  \u0E2D\u0E21\u0E41\u0E14\u0E07) - small Thai shallots\n1 piece of galangal (\u0E02\
+  \u0E48\u0E32) - about a thumb sized piece\n5 cilantro roots (\u0E23\u0E32\u0E01\u0E1C\
+  \u0E31\u0E01\u0E0A\u0E35)\n1 kaffir lime peel (\u0E1C\u0E34\u0E27\u0E21\u0E30\u0E01\
+  \u0E23\u0E39\u0E14)\n2 stalks lemongrass (\u0E15\u0E30\u0E44\u0E04\u0E23\u0E49)\n\
+  1 tbsp. white peppercorns (\u0E1E\u0E23\u0E34\u0E01\u0E44\u0E17\u0E22\u0E02\u0E32\
+  \u0E27)\n1 tsp. coriander seed (\u0E25\u0E39\u0E01\u0E1C\u0E31\u0E01\u0E0A\u0E35\
+  )\n1 tsp. cumin seed (\u0E22\u0E35\u0E48\u0E2B\u0E23\u0E48\u0E32)\n1 tsp. salt (\u0E40\
+  \u0E01\u0E25\u0E37\u0E2D)\n1 tbsp. shrimp paste (\u0E01\u0E30\u0E1B\u0E34)"
 intrash: 0
 meal_dates:
 - '2021-05-13'
@@ -53,11 +52,15 @@ total_time: ''
 type: null
 uid: 2F6E2C50-A28F-48AF-9CC7-5CB692D5FEAC-22216-00016D65A693753F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="box box-notes"><ul>
+<li>I used a free range chicken that was 1.4 kg.</li>
+</ul>
+</div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Green curry</li>
-<li>1 whole chicken (ไก่บ้าน) - I used a free range chicken that was 1.4 kg.</li>
+<li>1 whole chicken (ไก่บ้าน)</li>
 <li>2 cups of water</li>
 <li>green curry paste - all of the paste below</li>
 <li>2 - 3 cups coconut cream (หัวกะทิ)</li>

@@ -24,7 +24,7 @@ ingredients: '2 small lemons
 
   1 bay leaf, preferably fresh
 
-  4 6-oz. fluke, flounder, or other white fish fillets
+  4 6 oz. fluke, flounder, or other white fish fillets
 
   Freshly ground black pepper
 
@@ -66,7 +66,7 @@ uid: 25E7695C-45CC-443A-9E8B-0956C890816B-38601-0000AC1F428C81E0
 <li>3-1/2 to 4 cups homemade or store-bought fish stock</li>
 <li>2 sprigs fresh thyme</li>
 <li>1 bay leaf, preferably fresh</li>
-<li>4 6-oz. fluke, flounder, or other white fish fillets</li>
+<li>4 6 oz. fluke, flounder, or other white fish fillets</li>
 <li>Freshly ground black pepper</li>
 <li>2 Tbs. thinly sliced chives</li>
 </ul>

@@ -10,9 +10,9 @@ favorite: 0
 image_url: https://www.cookingclassy.com/wp-content/uploads/2017/04/steak-kebabs-17-427x640.jpg
 ingredients: 'Marinade
 
-  1/4 c olive oil
+  1/4 cup olive oil
 
-  1/4 c soy sauce
+  1/4 cup soy sauce
 
   1 1/2 tbsp fresh lemon juice
 
@@ -34,7 +34,7 @@ ingredients: 'Marinade
 
   8 oz button or cremini mushrooms, halved (unless small, keep whole)
 
-  3 bell peppers (1 red, 1 green, 1 yellow) cut into 1 1/4-inch pieces
+  3 bell peppers (1 red, 1 green, 1 yellow) cut into pieces
 
   1 large red onion diced into chunks (about 1 1/4-inch)
 
@@ -44,7 +44,7 @@ ingredients: 'Marinade
 
   1/2 tsp garlic powder
 
-  10 wooden skewer sticks soaked in water for at least 30 minutes'
+  10 wooden skewer sticks'
 intrash: 0
 meal_dates: null
 meal_types: null
@@ -75,8 +75,8 @@ uid: 5DBE772B-969E-4E3B-A941-D1A67C2DD712-37140-0000172C5FF86FD8
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Marinade</li>
-<li>1/4 c olive oil</li>
-<li>1/4 c soy sauce</li>
+<li>1/4 cup olive oil</li>
+<li>1/4 cup soy sauce</li>
 <li>1 1/2 tbsp fresh lemon juice</li>
 <li>1 1/2 tbsp red wine vinegar</li>
 <li>2 1/2 tbsp Worcestershire sauce</li>
@@ -87,11 +87,11 @@ uid: 5DBE772B-969E-4E3B-A941-D1A67C2DD712-37140-0000172C5FF86FD8
 <li>Kebabs</li>
 <li>1 3/4 lbs sirloin steak (look for thicker steaks), cut into 1 1/4 inch pieces</li>
 <li>8 oz button or cremini mushrooms, halved (unless small, keep whole)</li>
-<li>3 bell peppers (1 red, 1 green, 1 yellow) cut into 1 1/4-inch pieces</li>
+<li>3 bell peppers (1 red, 1 green, 1 yellow) cut into pieces</li>
 <li>1 large red onion diced into chunks (about 1 1/4-inch)</li>
 <li>1 Tbsp olive oil, plus more for brushing grill grates</li>
 <li>Salt and freshly ground black pepper</li>
 <li>1/2 tsp garlic powder</li>
-<li>10 wooden skewer sticks soaked in water for at least 30 minutes</li>
+<li>10 wooden skewer sticks</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

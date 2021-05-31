@@ -8,9 +8,9 @@ description: null
 difficulty: ''
 favorite: 0
 image_url: null
-ingredients: '8 oz. shrimp (21 size, or about 10 shrimp)
+ingredients: '8 oz. shrimp (21 size, or about 10 shrimp; 225g)
 
-  4 oz. ground pork
+  4 oz. ground pork (110g)
 
   2 tablespoons vegetable oil
 
@@ -69,8 +69,8 @@ uid: B606531D-7F81-4AD9-B14E-BA7E920951F3-5646-000003098E73CAE3
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>8 oz. shrimp (21 size, or about 10 shrimp)</li>
-<li>4 oz. ground pork</li>
+<li>8 oz. shrimp (21 size, or about 10 shrimp; 225g)</li>
+<li>4 oz. ground pork (110g)</li>
 <li>2 tablespoons vegetable oil</li>
 <li>1 clove garlic, minced</li>
 <li>1 tablespoon Shaoxing wine or cooking sherry</li>

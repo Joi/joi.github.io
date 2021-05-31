@@ -8,8 +8,8 @@ description: null
 difficulty: null
 favorite: 0
 image_url: https://joyfoodsunshine.com/wp-content/uploads/2019/04/balsamic-roasted-beets-recipe-6.jpg
-ingredients: "3 beets peeled & diced (about 3 cups)*\n1 TBS olive oil\n\xBD tsp sea\
-  \ salt\n1 TBS balsamic vinegar\n1 TBS honey (pure maple syrup for a vegan version)"
+ingredients: "3 beets peeled & diced (about 3 cups)*\n1 Tbsp olive oil\n\xBD tsp sea\
+  \ salt\n1 Tbsp balsamic vinegar\n1 Tbsp honey (pure maple syrup for a vegan version)"
 intrash: 0
 meal_dates: null
 meal_types: null
@@ -40,9 +40,9 @@ uid: 623A72CD-785C-460C-ABA2-E0D130B7FAFC
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 beets peeled &amp; diced (about 3 cups)*</li>
-<li>1 TBS olive oil</li>
+<li>1 Tbsp olive oil</li>
 <li>½ tsp sea salt</li>
-<li>1 TBS balsamic vinegar</li>
-<li>1 TBS honey (pure maple syrup for a vegan version)</li>
+<li>1 Tbsp balsamic vinegar</li>
+<li>1 Tbsp honey (pure maple syrup for a vegan version)</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

@@ -17,7 +17,8 @@ meal_dates:
 - '2020-05-21'
 - '2021-03-11'
 - '2021-03-25'
-meal_types: 3|3|3
+- '2021-05-27'
+meal_types: 3|3|3|3
 mine: 1
 name: Japanese fried chicken - karaage
 p_recipe_id: 30

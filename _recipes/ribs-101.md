@@ -13,7 +13,8 @@ ingredients: "1 rack Pork ribs\n\xBD cup Brown sugar (100g)\n1 Tbsp Kosher salt 
 intrash: 0
 meal_dates:
 - '2021-05-16'
-meal_types: '3'
+- '2021-05-30'
+meal_types: 3|3
 mine: null
 name: Ribs 101
 p_recipe_id: 530

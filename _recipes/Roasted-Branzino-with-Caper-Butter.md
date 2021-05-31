@@ -32,7 +32,8 @@ meal_dates:
 - '2021-01-13'
 - '2021-02-13'
 - '2021-05-02'
-meal_types: 3|3|3|3|2
+- '2021-05-29'
+meal_types: 3|3|3|3|2|3
 mine: null
 name: Roasted Branzino with Caper Butter
 p_recipe_id: 417

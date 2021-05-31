@@ -30,7 +30,7 @@ ingredients: '6 cups chicken stock
 
   1/2 head romaine lettuce, coarsely shredded
 
-  Worcestershire sause'
+  Worcestershire sauce'
 intrash: 0
 meal_dates: null
 meal_types: null
@@ -69,6 +69,6 @@ uid: FF152B59-4FDC-41E6-9C93-6A95ED09083E-25037-0000A041D3575177
 <li>3/4 cup homage mayonnaise</li>
 <li>12 thin slices homemade-style unsweetened white bread, largest available slices</li>
 <li>1/2 head romaine lettuce, coarsely shredded</li>
-<li>Worcestershire sause</li>
+<li>Worcestershire sauce</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

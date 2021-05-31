@@ -28,7 +28,7 @@ ingredients: '7 lb chicken parts
 
   4 thyme sprigs
 
-  5 parsley sprigs or 10 stems
+  5 parsley sprigs
 
   1 tsp white wine vinegar '
 intrash: 0
@@ -82,7 +82,7 @@ uid: F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C
 <li>1 tsp black peppercorns</li>
 <li>2 bay leaves</li>
 <li>4 thyme sprigs</li>
-<li>5 parsley sprigs or 10 stems</li>
+<li>5 parsley sprigs</li>
 <li>1 tsp white wine vinegar</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Put chicken parts, veggies and spices in big stock pot - I use a lobster pot. Some people put half or all vegetables in 1 hour before you finish to get a fresher taste from the vegetables. Remember - <strong>NO SALT</strong>. Save the salt for whatever cooking you will use the stock in.</p>

@@ -15,8 +15,8 @@ difficulty: null
 favorite: 0
 image_url: null
 ingredients: "1 teaspoon freshly ground black pepper\r\xBC teaspoon ground nutmeg\r\
-  \xBC teaspoon ground cinnamon\r1 medium clove garlic, minced or grated on a microplane\r\
-  (about 1 teaspoon)\r1 scallion, roughly chopped\r\xBD teaspoon minced fresh ginger\r\
+  \xBC teaspoon ground cinnamon\r1 medium clove garlic, minced or grated on a microplane\
+  \ (about 1 teaspoon)\r1 scallion, roughly chopped\r\xBD teaspoon minced fresh ginger\r\
   \xBD Scotch Bonnet or habanero pepper (see Note above)\r1 teaspoon cider vinegar\r\
   1 teaspoon soy sauce\r2 teaspoon kosher salt\r1 tablespoon vegetable or canola oil\r\
   1 whole chicken, 3\xBD to 4 pounds, butterflied according to\rthe directions here\r\
@@ -53,8 +53,7 @@ uid: ED2ACF1D-B1A7-475B-A1AC-4DF75FB23618-4181-0003ADA39FDF111B
 <li>1 teaspoon freshly ground black pepper
 ¼ teaspoon ground nutmeg
 ¼ teaspoon ground cinnamon
-1 medium clove garlic, minced or grated on a microplane
-(about 1 teaspoon)
+1 medium clove garlic, minced or grated on a microplane (about 1 teaspoon)
 1 scallion, roughly chopped
 ½ teaspoon minced fresh ginger
 ½ Scotch Bonnet or habanero pepper (see Note above)

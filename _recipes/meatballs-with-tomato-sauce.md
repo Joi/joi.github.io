@@ -15,8 +15,9 @@ ingredients: "Meatballs\n2 oz bread, fresh or stale, cubed\n3 oz whole milk\n6 -
   \ extra virgin olive oil\n30 oz canned crushed tomatoes\n1 tsp salt\n1 pinch ground\
   \ black pepper"
 intrash: 0
-meal_dates: null
-meal_types: null
+meal_dates:
+- '2021-05-28'
+meal_types: '3'
 mine: null
 name: Meatballs with Tomato Sauce
 p_recipe_id: 17

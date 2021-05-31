@@ -18,12 +18,11 @@ description: "I clearly remember the first time I battered and fried fish; the w
 difficulty: ''
 favorite: 0
 image_url: null
-ingredients: "2 \xBD cups all-purpose flour\n1 teaspoon baking powder\n\xBD teaspoon\
-  \ ground cayenne pepper\nSalt\n1 \xBD pounds flaky white fish, such as halibut,\
-  \ sole, or rock cod, boned and trimmed 6 cups grapeseed, peanut, or canola oil for\
-  \ frying\n1 \xBC cups vodka, ice-cold\nAbout 1 \xBD cups lager beer, ice-cold\n\
-  Optional: For extra crispness, substitute rice flour for half of the all-purpose\
-  \ flour"
+ingredients: "2 \xBD cups all-purpose flour (Optional: For extra crispness, substitute\
+  \ rice flour for half of the all-purpose flour)\n1 teaspoon baking powder\n\xBD\
+  \ teaspoon ground cayenne pepper\nSalt\n1 \xBD pounds flaky white fish, such as\
+  \ halibut, sole, or rock cod, boned and trimmed 6 cups grapeseed, peanut, or canola\
+  \ oil for frying\n1 \xBC cups vodka, ice-cold\nAbout 1 \xBD cups lager beer, ice-cold"
 intrash: 0
 meal_dates:
 - '2021-04-02'
@@ -53,13 +52,12 @@ uid: DB94AE8A-FA95-4677-8D0C-8AFA94F2D790-52325-0002D2402562F413
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>2 ½ cups all-purpose flour</li>
+<li>2 ½ cups all-purpose flour (Optional: For extra crispness, substitute rice flour for half of the all-purpose flour)</li>
 <li>1 teaspoon baking powder</li>
 <li>½ teaspoon ground cayenne pepper</li>
 <li>Salt</li>
 <li>1 ½ pounds flaky white fish, such as halibut, sole, or rock cod, boned and trimmed 6 cups grapeseed, peanut, or canola oil for frying</li>
 <li>1 ¼ cups vodka, ice-cold</li>
 <li>About 1 ½ cups lager beer, ice-cold</li>
-<li>Optional: For extra crispness, substitute rice flour for half of the all-purpose flour</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

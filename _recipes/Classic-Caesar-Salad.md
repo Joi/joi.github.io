@@ -18,7 +18,8 @@ intrash: 0
 meal_dates:
 - '2020-08-11'
 - '2021-01-02'
-meal_types: 3|3
+- '2021-05-27'
+meal_types: 3|3|3
 mine: null
 name: Classic Caesar Salad
 p_recipe_id: 302

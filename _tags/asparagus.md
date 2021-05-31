@@ -21,6 +21,12 @@ recipes:
   rating: 0
   title: Oven-Roasted Asparagus
 - mine: null
+  p_recipe_id: 533
+  permalink: /recipes/oven-roasted-asparagus
+  photo_thumb: oven-roasted-asparagus-thumb.jpg
+  rating: 0
+  title: Oven-Roasted Asparagus
+- mine: null
   p_recipe_id: 273
   permalink: /recipes/risotto-primavera
   photo_thumb: null
