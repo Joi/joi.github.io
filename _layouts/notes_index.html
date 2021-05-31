@@ -23,7 +23,7 @@ layout: default
     {% comment %}
     Create Context for Meal Notes Feed Include
     {% endcomment %}
-    {% assign notes = site.notes | where_exp:"item", "item.feature" | reverse %}
+    {% assign notes = site.notes | where_exp: "item", "item.feature" | reverse %}
     {% include meal_notes_feed.html notes=notes limit=nil excerpt=false %}
 
 	</div>
@@ -33,7 +33,7 @@ layout: default
     {% comment %}
     Create Context for Meal Notes Sidebar Include
     {% endcomment %}
-    {% assign notes = site.notes | where: 'feature', nil %}
+    {% assign notes = site.notes | where: 'feature', nil | reverse %}
     {% include meal_notes_sidebar.html notes=notes limit=nil %}
 
 	</div>
