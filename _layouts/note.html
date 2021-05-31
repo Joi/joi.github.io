@@ -53,7 +53,9 @@ which happen to correspond/define the page.title and page.note vars
     <h4 class="marker">Recipes prepared</h4>
     <!--{{key_meal_note}}-->
     {% assign recipes = site.recipes | where_exp: "item", "item.meal_notes contains key_meal_note" %}
-    {% include recipes_cartouches.html recipes=recipes include_css=true %}
+    {% if include.recipes[0] %}
+      {% include recipes_cartouches.html recipes=recipes include_css=true %}
+    {% endif %}
 
 	</div>
 </div>

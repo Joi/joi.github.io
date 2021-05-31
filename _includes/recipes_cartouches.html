@@ -45,26 +45,25 @@ USED IN:
 {% endif %}
 
 
-{% if include.recipes[0] %}
-  {% for recipe in include.recipes %}
-    <a class="recip-figure" href="{{recipe.url}}">
-      {% if recipe.photo_thumb %}
-        {% capture background %}no-repeat center url('/images/recipes/{{recipe.photo_thumb}}'){% endcapture%}
-      {% else %}
-        {% assign background = "#f1f1f1" %}
+
+{% for recipe in include.recipes %}
+  <a class="recip-figure" href="{{recipe.url}}">
+    {% if recipe.photo_thumb %}
+      {% capture background %}no-repeat center url('/images/recipes/{{recipe.photo_thumb}}'){% endcapture%}
+    {% else %}
+      {% assign background = "#f1f1f1" %}
+    {% endif %}
+    <div
+      class="recip-thumb"
+      style="background:{{ background }};"
+      >
+      &nbsp
+      {% comment %}
+      {% if recipe.rating >= 4 %}
+        <i class="stars">{% for i in (1..recipe.rating) %}★{% endfor %}</i>
       {% endif %}
-      <div
-        class="recip-thumb"
-        style="background:{{ background }};"
-        >
-        &nbsp
-        {% comment %}
-        {% if recipe.rating >= 4 %}
-          <i class="stars">{% for i in (1..recipe.rating) %}★{% endfor %}</i>
-        {% endif %}
-        {% endcomment %}
-        </div>
-      <div class="recip-caption">{{recipe.title}}</div>
-    </a>
-  {% endfor %}
-{% endif %}
+      {% endcomment %}
+      </div>
+    <div class="recip-caption">{{recipe.title}}</div>
+  </a>
+{% endfor %}
