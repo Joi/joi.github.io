@@ -23,13 +23,12 @@ ingredients: "6 - 10 pieces (1116g) bone-in short ribs (1.5 - 2 inches thick)\n6
   \ (45ml) cold water\nMashed Potatoes (Optional):\n3 - 4 russet potatoes , halved\n\
   100 ml whole milk\n1 - 2 tablespoons (14g - 28g) unsalted butter"
 intrash: 0
-meal_dates:
-- '2020-04-05'
-- '2020-04-24'
-- '2020-07-08'
-- '2020-08-26'
-- '2020-12-13'
-meal_types: 3|3|3|3|3
+meal_notes:
+- 2020-04-05-dinner
+- 2020-04-24-dinner
+- 2020-07-08-dinner
+- 2020-08-26-dinner
+- 2020-12-13-dinner
 mine: null
 name: Instant Pot Short Ribs
 p_recipe_id: 90

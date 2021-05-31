@@ -26,8 +26,6 @@ ingredients: 'Extra Virgin Olive Oil (I used Private Reserve Greek olive oil)
 
   3 tbsp chopped fresh dill'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Easy Calamari Recipe with Garlic-Lime Sauce
 p_recipe_id: 218

@@ -16,8 +16,6 @@ ingredients: "3 tablespoons extra-virgin olive oil\n1 large onion, halved and th
   \ black pepper, plus more as needed\n5 ounces feta, crumbled (about 1 1/4 cups)\n\
   6 large eggs\nChopped cilantro, for serving\nHot sauce, for serving"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Shakshuka with Feta
 p_recipe_id: 303

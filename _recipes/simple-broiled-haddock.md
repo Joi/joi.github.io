@@ -28,9 +28,8 @@ ingredients: 'cooking spray
 
   1 lemon, cut into wedges'
 intrash: 0
-meal_dates:
-- '2020-04-23'
-meal_types: '3'
+meal_notes:
+- 2020-04-23-dinner
 mine: null
 name: Simple Broiled Haddock
 p_recipe_id: 124

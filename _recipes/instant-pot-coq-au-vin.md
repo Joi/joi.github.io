@@ -32,8 +32,6 @@ ingredients: '6 strips bacon chopped into small pieces
 
   Salt & pepper to taste'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Instant Pot Coq Au Vin
 p_recipe_id: 363

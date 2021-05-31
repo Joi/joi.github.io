@@ -27,8 +27,6 @@ ingredients: '4 salt-packed anchovies (or 8 filets), soaked and fileted 3 /4 cup
 
   Salt'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Caesar Dressing
 p_recipe_id: 225

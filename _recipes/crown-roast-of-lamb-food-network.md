@@ -28,8 +28,6 @@ ingredients: '2 racks lamb, 6 to 8 ribs each, approximately 1 1/2 to 2-pounds ea
 
   1/2 to 1 teaspoon chopped fresh rosemary leaves'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Crown Roast of Lamb - Food Network
 p_recipe_id: 237

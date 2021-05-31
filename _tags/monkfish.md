@@ -12,7 +12,7 @@ recipes:
 - mine: null
   p_recipe_id: 328
   permalink: /recipes/monkfish-braised-with-white-beans-fennel-tomato
-  photo_thumb: monkfish-braised-with-white-beans-fennel-tomato-thumb.jpg
+  photo_thumb: B8A6D2EE-191D-46C3-AEB1-FCB5A89E8461-13002-000592A4D027D972.jpg
   rating: 5
   title: Monkfish Braised with White Beans, Fennel, & Tomato
 - mine: null

@@ -22,8 +22,6 @@ ingredients: '4 (6-ounce) striped bass fillets
 
   1/4 teaspoon freshly ground black pepper'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Herb and Lemon Roasted Striped Bass
 p_recipe_id: 266

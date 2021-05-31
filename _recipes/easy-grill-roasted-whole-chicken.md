@@ -12,8 +12,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 tablespoon kosher salt\n\xBD teaspoon p
   1 (3\xBD- to 4\xBD-pound) whole chicken, giblets discarded\n1 tablespoon vegetable\
   \ oil\n\xBD - \xBC cup wood chips"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Easy Grill-Roasted Whole Chicken
 p_recipe_id: 12

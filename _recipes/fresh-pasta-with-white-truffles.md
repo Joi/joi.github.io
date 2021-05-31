@@ -22,8 +22,6 @@ ingredients: '1 Large Garlic Clove, Halved
 
   2 to 3 Ounces Fresh White Truffles'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Fresh Pasta with White Truffles
 p_recipe_id: 409

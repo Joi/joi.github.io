@@ -10,9 +10,8 @@ favorite: 0
 image_url: null
 ingredients: Wagyu
 intrash: 0
-meal_dates:
-- '2021-03-27'
-meal_types: '3'
+meal_notes:
+- 2021-03-27-dinner
 mine: 1
 name: Seared Wagyu
 p_recipe_id: 495

@@ -14,10 +14,9 @@ ingredients: "1 lb beef sliced thin\n1 large onion thinly sliced\n1 package of m
   \ sauce\n\xBD cup demi-glace sauce\n1 Tbsp Dijon mustard\n1 Tbsp flour (separately\
   \ for thickening)\n\n**Garnish**\nCream cheese\nChopped arsley\ndemi-glace sauce"
 intrash: 0
-meal_dates:
-- '2021-03-18'
-- '2020-10-29'
-meal_types: 3|3
+meal_notes:
+- 2021-03-18-dinner
+- 2020-10-29-dinner
 mine: 1
 name: Beef Stroganoff
 p_recipe_id: 397

@@ -26,8 +26,6 @@ ingredients: '1/4 cup quick oats, I prefer organic
 
   1 tbsp chopped pecans, or any nut'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Overnight Oats
 p_recipe_id: 63

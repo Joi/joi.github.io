@@ -22,8 +22,6 @@ ingredients: '4 tablespoons butter, olive oil or neutral-tasting oil
 
   About 8 cups water or chicken stock, preferably homemade (see notes)'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Whatever You Want Soup
 p_recipe_id: 69

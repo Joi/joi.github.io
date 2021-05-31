@@ -10,8 +10,6 @@ favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/28334_sfs-pan-seared-steaks-22
 ingredients: null
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Pan-Seared Steaks
 p_recipe_id: 50

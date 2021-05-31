@@ -11,10 +11,9 @@ image_url: null
 ingredients: "3 cups/385 grams all-purpose or bread flour, more for dusting\n\xBC\
   \ teaspoon instant yeast\n1 \xBC teaspoons salt\nCornmeal or wheat bran, as needed"
 intrash: 0
-meal_dates:
-- '2020-05-18'
-- '2020-05-30'
-meal_types: 4|4
+meal_notes:
+- 2020-05-18-snacks
+- 2020-05-30-snacks
 mine: null
 name: NY Times No-Knead Bread
 p_recipe_id: 118

@@ -13,9 +13,8 @@ ingredients: "\xBD cup butter (softened)\n\xBC cup chopped fresh thyme\n\xBC cup
   2 large yellow onions (quartered)\n2 large lemons (quartered)\n1 \xBD cups white\
   \ wine\nEquipment\nRoasting Pan"
 intrash: 0
-meal_dates:
-- '2020-11-25'
-meal_types: '3'
+meal_notes:
+- 2020-11-25-dinner
 mine: null
 name: Slow-Roasted Turkey
 p_recipe_id: 415

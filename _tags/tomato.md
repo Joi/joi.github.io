@@ -5,7 +5,7 @@ recipes:
 - mine: null
   p_recipe_id: 432
   permalink: /recipes/homemade-marinara-sauce
-  photo_thumb: homemade-marinara-sauce-thumb.jpg
+  photo_thumb: 0EEEEA41-7AF6-448A-93D5-8C0FAF4C1DEC-92634-0000CE2C6C134343.jpg
   rating: 0
   title: Homemade Marinara Sauce
 - mine: null

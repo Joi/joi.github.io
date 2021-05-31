@@ -17,9 +17,8 @@ ingredients: "For the Aioli:\n1 egg yolk\n2 tablespoons Dijon mustard (we love E
   \ cut in 2-inch pieces\n3 tablespoons olive oil\n2 garlic cloves, minced\n\xBC teaspoon\
   \ red pepper flakes\n2 tablespoons lemon juice\nSalt and pepper, to taste"
 intrash: 0
-meal_dates:
-- '2020-12-05'
-meal_types: '3'
+meal_notes:
+- 2020-12-05-dinner
 mine: null
 name: Pan-Seared Sablefish (Black Cod) with Lemon Pepper Aioli
 p_recipe_id: 425

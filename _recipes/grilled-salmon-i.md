@@ -12,8 +12,6 @@ ingredients: "1\u2009\xBD pounds salmon fillets\n\xBD teaspoon lemon pepper to t
   \xBC teaspoon garlic powder to taste\n\xBD teaspoon salt to taste\n\u2153 cup soy\
   \ sauce\n\u2153 cup brown sugar\n\u2153 cup water\n\xBC cup vegetable oil"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Grilled Salmon I
 p_recipe_id: 193

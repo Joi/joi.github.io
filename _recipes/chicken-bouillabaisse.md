@@ -45,9 +45,8 @@ ingredients: '4 chicken legs (about 8 ounces each) or one 3-pound chicken, back 
 
   About 1/2 cup [recipe:Aioli Sauce] or 1 garlic clove, peeled'
 intrash: 0
-meal_dates:
-- '2020-10-15'
-meal_types: '3'
+meal_notes:
+- 2020-10-15-dinner
 mine: null
 name: Chicken Bouillabaisse
 p_recipe_id: 386

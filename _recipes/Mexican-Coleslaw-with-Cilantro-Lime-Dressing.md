@@ -15,11 +15,10 @@ ingredients: "4 cups shredded cabbage mix, I like a mix with red and green cabba
   \ for oil free\n2 Tbsp lime juice  about one lime\n1 tablespoon cumin\n1/2 teaspoon\
   \ sea salt\nExtra veggie broth to thin out dressing if needed , I used 1/4 cup"
 intrash: 0
-meal_dates:
-- '2020-07-16'
-- '2021-02-06'
-- '2021-03-30'
-meal_types: 3|2|3
+meal_notes:
+- 2020-07-16-dinner
+- 2021-02-06-lunch
+- 2021-03-30-dinner
 mine: null
 name: Mexican Coleslaw with Cilantro Lime Dressing
 p_recipe_id: 258

@@ -19,7 +19,7 @@ recipes:
 - mine: null
   p_recipe_id: 520
   permalink: /recipes/monterey-bay-abalone-meuniere-style
-  photo_thumb: monterey-bay-abalone-meuniere-style-thumb.jpg
+  photo_thumb: 386BFD0A-FDA8-4281-8B8B-A06B6931036E-14317-0002B4BD21C58E40.jpg
   rating: 5
   title: Monterey Bay Abalone, Meuniere-Style
 rel_tags_count:

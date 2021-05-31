@@ -49,9 +49,8 @@ ingredients: '1 carrot, peeled
 
   Cheesecloth for bouquet garni'
 intrash: 0
-meal_dates:
-- '2020-06-06'
-meal_types: '3'
+meal_notes:
+- 2020-06-06-dinner
 mine: null
 name: "Rag\xFA Bolognese"
 p_recipe_id: 8

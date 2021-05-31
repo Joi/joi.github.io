@@ -34,8 +34,6 @@ ingredients: '10 abalone you also can buy it in local market
 
   proper amount chives'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Steamed Abalone with Garlic
 p_recipe_id: 522

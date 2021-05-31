@@ -22,8 +22,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n3 onions, chopped fine\n3 tablespoons veg
   \ lamb shoulder roast, pulled apart at seams, trimmed, and cut into 1\xBD-inch pieces\n\
   Salt and pepper\n\xBC cup minced fresh cilantro"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Slow-Cooker Lamb Vindaloo
 p_recipe_id: 151

@@ -32,9 +32,8 @@ ingredients: '4 duck legs
 
   1 bay leaf (optional)'
 intrash: 0
-meal_dates:
-- '2021-03-29'
-meal_types: '3'
+meal_notes:
+- 2021-03-29-dinner
 mine: null
 name: Chinese Braised Duck Legs
 p_recipe_id: 498

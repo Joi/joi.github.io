@@ -13,8 +13,6 @@ ingredients: "7 oz soybeans\nwarm water, to soak\nMantou Buns\n1 \xBD tsp active
   \ to dust\n2 tsp vegetable oil, plus extra to grease\n1 tsp salt\nSoya Milk\n41\
   \ oz cold water\n2 - 3 oz sugar, to taste"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Mantou Buns with Soya Milk
 p_recipe_id: 18

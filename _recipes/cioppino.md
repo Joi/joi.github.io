@@ -20,8 +20,6 @@ ingredients: "32 oz shellfish, e.g. littleneck clams, black mussels\n16 oz fresh
   \ paste\n1 dried bay leaf\n10 oz firm white fish, e.g. cod, halibut, cut into pieces\
   \ (approx. 1 in.)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Cioppino
 p_recipe_id: 34

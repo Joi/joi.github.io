@@ -19,8 +19,6 @@ ingredients: "FOR THE OSSO BUCO:\nAll-purpose flour, for dredging\n4 sprigs fres
   FOR THE GREMOLATA:\n\xBC cup finely chopped fresh parsley\nFinely grated zest of\
   \ 1/2 lemon\n2 garlic cloves, minced\nPinch of kosher salt, plus more as needed"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Pressure Cooker Osso Buco
 p_recipe_id: 113

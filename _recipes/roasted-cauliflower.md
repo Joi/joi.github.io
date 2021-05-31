@@ -17,9 +17,8 @@ ingredients: '1 pound cauliflower, about 1 medium-large head, trimmed and cut in
 
   Coarsely ground black pepper'
 intrash: 0
-meal_dates:
-- '2021-02-13'
-meal_types: '3'
+meal_notes:
+- 2021-02-13-dinner
 mine: null
 name: Roasted Cauliflower
 p_recipe_id: 477

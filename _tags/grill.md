@@ -12,25 +12,25 @@ recipes:
 - mine: null
   p_recipe_id: 341
   permalink: /recipes/bbq-chicken
-  photo_thumb: bbq-chicken-thumb.jpg
+  photo_thumb: 059A43AF-3036-44A8-AD5E-2AE481A57815-79604-00015CD14024E925.jpg
   rating: 5
   title: BBQ Chicken
 - mine: null
   p_recipe_id: 12
   permalink: /recipes/easy-grill-roasted-whole-chicken
-  photo_thumb: easy-grill-roasted-whole-chicken-thumb.jpg
+  photo_thumb: 31925CDD-2BDA-4FE9-99E3-05148F5F8AEE-408-00004C737E5DE6B4.jpg
   rating: 0
   title: Easy Grill-Roasted Whole Chicken
 - mine: null
   p_recipe_id: 31
   permalink: /recipes/grilled-frozen-steaks
-  photo_thumb: grilled-frozen-steaks-thumb.jpg
+  photo_thumb: 6AACFAB7-F900-4E46-AF36-77B94316A88B-408-00004E2DD84F5458.jpg
   rating: 4
   title: Grilled Frozen Steaks
 - mine: null
   p_recipe_id: 268
   permalink: /recipes/steak-kebabs
-  photo_thumb: steak-kebabs-thumb.jpg
+  photo_thumb: 1C031AE7-96A4-436D-A01E-6A428EDA47BE-37140-0000172C6AD7C0FB.jpg
   rating: 5
   title: Steak Kebabs
 rel_tags_count:

@@ -14,8 +14,6 @@ ingredients: "Unsalted butter, as needed\nKosher salt, as needed\n1 pound pasta,
   1 cup mascarpone\n3 ounces Parmigiano-Reggiano, grated ( 3/4 cup)\n\xBE teaspoon\
   \ black pepper\n\xBC teaspoon finely grated nutmeg"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Four-Cheese Macaroni and Cheese
 p_recipe_id: 135

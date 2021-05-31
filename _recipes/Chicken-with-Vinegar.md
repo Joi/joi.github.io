@@ -30,12 +30,11 @@ ingredients: "Whole chicken\nSalt\nBlack pepper\n\xBD cup all-purpose flour\nExt
   \ white wine\n6 Tbsp white wine vinegar\n2 Tbsp tarragon leaves, finely chopped\n\
   \xBD cup heavy cream"
 intrash: 0
-meal_dates:
-- '2020-12-24'
-- '2021-01-14'
-- '2021-02-24'
-- '2021-04-14'
-meal_types: 3|3|3|3
+meal_notes:
+- 2020-12-24-dinner
+- 2021-01-14-dinner
+- 2021-02-24-dinner
+- 2021-04-14-dinner
 mine: 1
 name: Chicken with Vinegar
 p_recipe_id: 436

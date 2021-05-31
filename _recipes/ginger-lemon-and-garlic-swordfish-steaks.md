@@ -22,9 +22,8 @@ ingredients: '1-inch section of ginger, peeled and finely chopped
 
   4 swordfish steaks'
 intrash: 0
-meal_dates:
-- '2020-07-18'
-meal_types: '3'
+meal_notes:
+- 2020-07-18-dinner
 mine: null
 name: Ginger, Lemon and Garlic Swordfish Steaks
 p_recipe_id: 261

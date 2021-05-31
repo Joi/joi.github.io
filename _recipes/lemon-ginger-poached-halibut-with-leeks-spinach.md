@@ -31,10 +31,9 @@ ingredients: '2 tsp. finely grated fresh ginger
 
   1/4 cup thinly sliced scallions'
 intrash: 0
-meal_dates:
-- '2020-08-07'
-- '2020-08-25'
-meal_types: 3|3
+meal_notes:
+- 2020-08-07-dinner
+- 2020-08-25-dinner
 mine: null
 name: Lemon-Ginger Poached Halibut with Leeks & Spinach
 p_recipe_id: 292

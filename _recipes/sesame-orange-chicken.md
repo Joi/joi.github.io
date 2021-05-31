@@ -15,8 +15,6 @@ ingredients: "Marinade\n3 oz orange juice\n2 oz sesame oil\n2 oz soy sauce\n2 tb
   \ flakes, to taste\nSaut\xE9\n35 oz water\n10 oz long-grain white rice\n6 oz sugar\
   \ snap peas, trimmed\n1 tbsp toasted sesame seeds\n3 green onions, sliced, to garnish"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Sesame Orange Chicken
 p_recipe_id: 11

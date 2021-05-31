@@ -23,8 +23,6 @@ ingredients: 'GATHER YOUR INGREDIENTS
 
   1 recipe Shallot and Parsley Butter'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Classic Roast Beef Tenderloin
 p_recipe_id: 210

@@ -40,8 +40,6 @@ ingredients: '1 pound ground beef
 
   3 tablespoons chopped fresh parsley leaves'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Hamburger Stroganoff Skillet
 p_recipe_id: 437

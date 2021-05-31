@@ -12,9 +12,8 @@ ingredients: "1 cup [mayonnaise](mayonnaise)\n1 cup dill pickles, chopped small\
   1 Tbsp fresh dill or parsley, chopped\n1 tsp lemon juice\n1 tsp sugar\n\xBC tsp\
   \ black pepper"
 intrash: 0
-meal_dates:
-- '2021-04-02'
-meal_types: '3'
+meal_notes:
+- 2021-04-02-dinner
 mine: 1
 name: Tartar Sauce
 p_recipe_id: 502

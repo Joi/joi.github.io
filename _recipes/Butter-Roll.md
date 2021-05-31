@@ -12,9 +12,8 @@ ingredients: "200 g Bread Flour\n50 g Cake Flour\n25 g Granulated Sugar\n5 g Gue
   \ Salt (fine particles) \n10 g dry milk\n4 g Instant dry yeast \n120 g Water\n60\
   \ g Whole Egg\n40 g Unsalted Butter"
 intrash: 0
-meal_dates:
-- '2020-05-16'
-meal_types: '4'
+meal_notes:
+- 2020-05-16-snacks
 mine: null
 name: Butter Roll
 p_recipe_id: 164

@@ -17,8 +17,6 @@ ingredients: "2 tablespoons egg white, lightly beaten\n2 tablespoons plus 1 teas
   \ white vinegar\n\xBE teaspoon white sugar\n1 tablespoon sliced scallions, white\
   \ part only\n1 tablespoon minced garlic\n1 tablespoon minced ginger"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Velvet Fish with Mushrooms
 p_recipe_id: 101

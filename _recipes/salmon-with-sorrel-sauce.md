@@ -36,10 +36,9 @@ ingredients: "1 \xBD pounds Salmon filets\nSalt and freshly ground pepper\n1 Tbs
   [^whitepepper]: White pepper will blend into the sauce better, and has a slightly\
   \ higher pitched flavor/aroma than black pepper, so it is called for here."
 intrash: 0
-meal_dates:
-- '2021-03-31'
-- '2020-04-18'
-meal_types: 3|3
+meal_notes:
+- 2021-03-31-dinner
+- 2020-04-18-dinner
 mine: 1
 name: Salmon with Sorrel Sauce
 p_recipe_id: 122

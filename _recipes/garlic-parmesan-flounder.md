@@ -24,8 +24,6 @@ ingredients: '1/4 c. extra-virgin olive oil
 
   Juice and zest of 1 lemon'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Garlic Parmesan Flounder
 p_recipe_id: 327

@@ -24,9 +24,8 @@ ingredients: '2 tablespoons butter room temperature
 
   12 ounces swordfish fillets should be 6-7 ounces each'
 intrash: 0
-meal_dates:
-- '2021-04-06'
-meal_types: '3'
+meal_notes:
+- 2021-04-06-dinner
 mine: null
 name: Ginger Garlic Pan Roasted Swordfish- A Restaurant Classic
 p_recipe_id: 509

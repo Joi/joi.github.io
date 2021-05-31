@@ -34,8 +34,6 @@ ingredients: '1 tablespoon olive oil
 
   Crusty whole grain bread, optional'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Tomato-Poached Halibut
 p_recipe_id: 297

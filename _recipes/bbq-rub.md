@@ -12,9 +12,8 @@ ingredients: "\xBC cup salt\n\xBC cup brown sugar\n\xBC cup sweet paprika (optio
   \ mix with smoked paprika)\n2-5 Tbsp black pepper\n1 Tbsp garlic powder\n\xBD tsp\
   \ cayenne pepper\n\xBD tsp crushed celery seeds\n1 Tbsp onion powder\n"
 intrash: 0
-meal_dates:
-- '2020-09-20'
-meal_types: '3'
+meal_notes:
+- 2020-09-20-dinner
 mine: 1
 name: BBQ Rub
 p_recipe_id: 505

@@ -12,9 +12,8 @@ ingredients: "2 bluefish fillets (skin on, about 1 lb. each)\n1\xBD pounds boili
   \ potatoes\n2/3 cup olive oil\n1 tablespoon chopped garlic\n\xBC cup chopped parsley\n\
   Salt and pepper"
 intrash: 0
-meal_dates:
-- '2021-05-14'
-meal_types: '3'
+meal_notes:
+- 2021-05-14-dinner
 mine: null
 name: Baked Bluefish with Potatoes
 p_recipe_id: 529

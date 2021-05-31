@@ -16,9 +16,8 @@ ingredients: '4 center-cut skin-on salmon fillets, about 6 to 8 ounces (170 to 2
 
   Freshly ground black pepper (optional; see note)'
 intrash: 0
-meal_dates:
-- '2020-08-11'
-meal_types: '3'
+meal_notes:
+- 2020-08-11-dinner
 mine: null
 name: Grilled Salmon Fillets
 p_recipe_id: 301

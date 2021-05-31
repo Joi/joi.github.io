@@ -26,9 +26,8 @@ ingredients: '8 ounces baby bella or cremini mushrooms thinly sliced
 
   1/4 teaspoon cracked black pepper or to taste'
 intrash: 0
-meal_dates:
-- '2021-02-15'
-meal_types: '3'
+meal_notes:
+- 2021-02-15-dinner
 mine: null
 name: Mushroom Sauce for Steak
 p_recipe_id: 476

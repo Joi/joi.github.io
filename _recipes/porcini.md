@@ -11,9 +11,8 @@ image_url: null
 ingredients: "frozen porcini mushrooms \nwhite wine\nsalt\npepper \nparsley \nolive\
   \ oil"
 intrash: 0
-meal_dates:
-- '2021-01-31'
-meal_types: '2'
+meal_notes:
+- 2021-01-31-lunch
 mine: null
 name: Porcini
 p_recipe_id: 464

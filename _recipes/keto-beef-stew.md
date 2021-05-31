@@ -15,8 +15,6 @@ ingredients: "Ingredients List\n1\xBD lbs beef chuck roast or chuck shoulder, cu
   1/2 lb green beans, trimmed and cut into 1-inch\n6 radishes, quartered\n1 tsp xanthan\
   \ gum\n1/4 cup chopped fresh parsley for garnish, optional"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Keto Beef Stew
 p_recipe_id: 65

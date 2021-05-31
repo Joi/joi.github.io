@@ -14,8 +14,6 @@ ingredients: '4 (6- to 8-ounce) skin-on salmon fillets
 
   Salt and pepper'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Salmon en Papillote (Salmon in Parchment)
 p_recipe_id: 54

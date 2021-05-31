@@ -18,8 +18,6 @@ ingredients: "1 1/2 teaspoons ground cumin\n1 1/2 teaspoons ground coriander\n1 
   1/4 cup roughly chopped fresh mint leaves\nGreek yogurt, for serving\nSriracha,\
   \ for serving"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Easy Steak Tacos with Charred Corn and Sriracha
 p_recipe_id: 395

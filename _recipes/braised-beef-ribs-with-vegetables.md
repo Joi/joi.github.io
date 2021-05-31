@@ -40,8 +40,6 @@ ingredients: '3 tablespoons olive oil
 
   4 cups water'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Braised Beef Ribs with Vegetables
 p_recipe_id: 332

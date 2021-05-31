@@ -27,10 +27,9 @@ ingredients: "Green curry\n1 whole chicken (\u0E44\u0E01\u0E48\u0E1A\u0E49\u0E32
   )\n1 tsp. cumin seed (\u0E22\u0E35\u0E48\u0E2B\u0E23\u0E48\u0E32)\n1 tsp. salt (\u0E40\
   \u0E01\u0E25\u0E37\u0E2D)\n1 tbsp. shrimp paste (\u0E01\u0E30\u0E1B\u0E34)"
 intrash: 0
-meal_dates:
-- '2021-05-13'
-- '2021-05-21'
-meal_types: 3|3
+meal_notes:
+- 2021-05-13-dinner
+- 2021-05-21-dinner
 mine: null
 name: Authentic Thai Green Curry Recipe
 p_recipe_id: 527

@@ -25,10 +25,9 @@ ingredients: 'One bluefish fillet (1/2 pound to 1 pound)
 
   2 Tbsp lemon juice'
 intrash: 0
-meal_dates:
-- '2020-06-05'
-- '2021-05-14'
-meal_types: 3|3
+meal_notes:
+- 2020-06-05-dinner
+- 2021-05-14-dinner
 mine: null
 name: Baked Bluefish
 p_recipe_id: 180

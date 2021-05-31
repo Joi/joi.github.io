@@ -17,9 +17,8 @@ ingredients: "1 Tbsp light oil\n2 Tbsp butter\n1 2 \xBD - to 3-pound chicken, cu
   \ onions, peeled and cut into \xBC-inch slices\n6 cups loosely packed sorrel, about\
   \ \xBD lb, trimmed and washed"
 intrash: 0
-meal_dates:
-- '2021-04-14'
-meal_types: '3'
+meal_notes:
+- 2021-04-14-dinner
 mine: 1
 name: Chicken with Sorrel
 p_recipe_id: 516

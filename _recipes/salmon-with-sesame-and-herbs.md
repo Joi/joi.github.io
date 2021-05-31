@@ -26,8 +26,6 @@ ingredients: '3 tablespoons low-sodium soy sauce
 
   1 tablespoon toasted sesame oil'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Salmon with Sesame and Herbs
 p_recipe_id: 96

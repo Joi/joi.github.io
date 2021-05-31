@@ -14,7 +14,7 @@ recipes:
 - mine: null
   p_recipe_id: 145
   permalink: /recipes/pressure-cooker-halibut-fillets-with-tomatoes-and-olives
-  photo_thumb: pressure-cooker-halibut-fillets-with-tomatoes-and-olives-thumb.jpg
+  photo_thumb: 080B7514-26CC-4B77-8C5D-EDC9ADB43130-29546-0000D71DCFD9169E.jpg
   rating: 4
   title: Pressure Cooker Halibut Fillets with Tomatoes and Olives
 rel_tags_count:

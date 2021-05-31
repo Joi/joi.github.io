@@ -12,8 +12,6 @@ ingredients: "4 (10oz.) bison NY strip steaks, thawed\n1 \xBD tbsp vegetable oil
   1 tsp sea salt\n1 \xBD tbsp black, green, and pink freshly ground peppercorns\n\
   1 tbsp butter\n4 large shallots, minced\n1 cup red wine"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Pan Seared Bison Ny Strip Steaks with Red Wine Sauce
 p_recipe_id: 60

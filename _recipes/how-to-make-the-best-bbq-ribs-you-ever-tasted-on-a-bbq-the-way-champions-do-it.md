@@ -12,8 +12,6 @@ ingredients: "1 slab baby back ribs or St. Louis cut ribs or spareribs\n4 tables
   \ of Meathead's Memphis Dust\n1 teaspoon Morton\u2019s kosher salt (1/4 teaspoon\
   \ per pound of meat)\n1 cup of barbecue sauce (optional)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: How to Make the Best BBQ Ribs You Ever Tasted - On a BBQ the Way Champions Do
   It

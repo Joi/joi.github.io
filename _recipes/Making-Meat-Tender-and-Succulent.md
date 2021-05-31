@@ -10,8 +10,6 @@ favorite: 0
 image_url: https://www.thespruceeats.com/thmb/pYAPUwQSzsDHlx3LNC8rL0zCUIg=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/braised-pork-2500-56a210935f9b58b7d0c62f5b.jpg
 ingredients: null
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Making Meat Tender and Succulent
 p_recipe_id: 129

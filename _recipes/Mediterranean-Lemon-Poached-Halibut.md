@@ -44,9 +44,8 @@ ingredients: 'For Spice Rub:
 
   1/4 cup grated carrots'
 intrash: 0
-meal_dates:
-- '2020-08-25'
-meal_types: '3'
+meal_notes:
+- 2020-08-25-dinner
 mine: null
 name: Mediterranean Lemon Poached Halibut
 p_recipe_id: 295

@@ -14,8 +14,6 @@ ingredients: "For the sauce:\n1 tablespoon ginger (minced)\n1 tablespoon scallio
   1 pound shrimp (450g)\n3 slices ginger\n2 scallions (whole)\n1\xBD tablespoons salt\n\
   2 tablespoons Shaoxing wine"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Chinese Boiled Shrimp with Ginger Scallion Dipping Sauce
 p_recipe_id: 399

@@ -42,8 +42,6 @@ ingredients: 'For the Meat:
 
   2 ounces baked corn tortilla chips (about 32 chips)'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Beef Taco Salad with Chunky Tomato Dressing
 p_recipe_id: 440

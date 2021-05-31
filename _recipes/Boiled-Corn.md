@@ -16,8 +16,6 @@ ingredients: 'Corn
 
   Pepper'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Boiled Corn
 p_recipe_id: 254

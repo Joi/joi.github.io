@@ -12,8 +12,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n3 large eggs\n\u215B teaspoon pepper\nPin
   \ salt\n\xBD tablespoon unsalted butter\n2 ounces ham steak, rind removed, cut into\
   \ \xBC-inch pieces\n1 slice deli American cheese, torn into 1-inch pieces"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Easy Ham and Cheese Omelet
 p_recipe_id: 27

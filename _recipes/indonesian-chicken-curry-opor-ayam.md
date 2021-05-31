@@ -18,8 +18,6 @@ ingredients: "\xBC cup coriander seeds\n3 tablespoons coconut oil\n10 small shal
   1 tomato, chopped (or 1 cup cherry tomatoes)\n1 8.5-ounce can coconut milk\n\xBE\
   \ cup chicken stock\n3 pounds bone-in chicken pieces"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Indonesian Chicken Curry (Opor Ayam)
 p_recipe_id: 64

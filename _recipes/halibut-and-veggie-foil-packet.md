@@ -14,9 +14,8 @@ ingredients: "heavy-duty aluminum foil\n4 -4 oz halibut fillets\nsalt and pepper
   \ tarragon or basil\n2 Tbsp fresh parsley, chopped\n1 lemon, thinly sliced\nolive\
   \ oil"
 intrash: 0
-meal_dates:
-- '2020-06-01'
-meal_types: '3'
+meal_notes:
+- 2020-06-01-dinner
 mine: null
 name: Halibut and Veggie Foil Packet
 p_recipe_id: 178

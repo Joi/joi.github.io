@@ -13,8 +13,6 @@ ingredients: "16 large asparagus spears (about 1 pound)\n1 tablespoon lemon juic
   \ cheese shavings (about 1.5 ounces)\n\xBD teaspoon kosher salt\nFreshly ground\
   \ black pepper\nRed pepper flakes"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Shaved Asparagus Salad
 p_recipe_id: 214

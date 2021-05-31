@@ -12,8 +12,6 @@ ingredients: '2 cups heavy cream
 
   3 tablespoons cultured buttermilk'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Chef John's Creme Fraiche
 p_recipe_id: 212

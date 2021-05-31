@@ -28,8 +28,6 @@ ingredients: 'OATS
 
   Granola'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Peanut Butter Overnight Oats (5 Ingredients!)
 p_recipe_id: 61

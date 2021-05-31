@@ -12,7 +12,7 @@ recipes:
 - mine: 1
   p_recipe_id: 495
   permalink: /recipes/seared-wagyu
-  photo_thumb: seared-wagyu-thumb.jpg
+  photo_thumb: EBA520B9-9A19-4BAA-A64A-AE573C378453-52325-00013A0CDB043B6F.jpg
   rating: 0
   title: Seared Wagyu
 rel_tags_count:

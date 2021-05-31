@@ -13,9 +13,8 @@ ingredients: "Beef Shanks\n1 Tbsp Flour or Cornstarch\nOnion (diced)\nCarrots (d
   1 cup Dry White Wine\nGarlic Cloves (minced)\nKosher Salt\nFresh Cracked Black Pepper\n\
   Kitchen Twine\nSprigs of Thyme"
 intrash: 0
-meal_dates:
-- '2021-04-18'
-meal_types: '3'
+meal_notes:
+- 2021-04-18-dinner
 mine: null
 name: Beef Osso Buco
 p_recipe_id: 518

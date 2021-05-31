@@ -16,9 +16,8 @@ ingredients: "\u307E\u3050\u308D\u306E\u89D2\u5207\u308A(\u523A\u8EAB\u7528) \uF
   \u500B\n\u767D\u3044\u308A\u3054\u307E \u5C11\u3005\n\u4E07\u80FD\u306D\u304E(\u5C0F\
   \u53E3\u5207\u308A) \u5C11\u3005\n\u4E00\u5473\u5510\u8F9B\u5B50 \u5C11\u3005"
 intrash: 0
-meal_dates:
-- '2021-04-10'
-meal_types: '3'
+meal_notes:
+- 2021-04-10-dinner
 mine: null
 name: Tuna Yukke
 p_recipe_id: 513

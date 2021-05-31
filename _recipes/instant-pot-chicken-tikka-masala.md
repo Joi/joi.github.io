@@ -59,8 +59,6 @@ ingredients: 'Chicken Tikka
 
   3 tbsp cilantro fresh, chopped for garnish3 tbsp cilantro fresh, chopped for garnish'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Instant Pot Chicken Tikka Masala
 p_recipe_id: 360

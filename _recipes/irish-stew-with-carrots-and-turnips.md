@@ -21,8 +21,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n4 \xBD pounds lamb shoulder chops, each 1
   \ carrots, peeled and sliced 1/4 inch thick\n\xBD pound turnips, peeled and cut\
   \ into 1-inch cubes\n\xBC cup minced fresh parsley leaves"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Irish Stew with Carrots and Turnips
 p_recipe_id: 152

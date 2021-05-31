@@ -44,9 +44,8 @@ ingredients: '3 pounds boneless beef chuck (well-marbled), cut into 1-1/2-inch p
 
   Fresh chopped parsley, for serving (optional)'
 intrash: 0
-meal_dates:
-- '2020-10-17'
-meal_types: '3'
+meal_notes:
+- 2020-10-17-dinner
 mine: null
 name: Beef Stew with Carrots & Potatoes
 p_recipe_id: 381

@@ -14,8 +14,6 @@ ingredients: "2 garlic cloves\n2 tablespoons rosemary leaves, plus sprigs\n1 4-p
   \ prepared horseradish\n\xBD teaspoon finely grated lemon zest\n3 tablespoons unsalted\
   \ butter\nFlaky sea salt (for serving)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Roast Beef Tenderloin with Garlic and Rosemary
 p_recipe_id: 367

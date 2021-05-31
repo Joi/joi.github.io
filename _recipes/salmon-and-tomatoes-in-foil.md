@@ -12,14 +12,13 @@ ingredients: "4 tablespoons extra virgin olive oil\n1 \xBD to 2 pounds salmon fi
   \ cut crosswise (4 pieces)\n12 cherry tomatoes, sliced in half\nSalt and pepper\n\
   16 basil leaves"
 intrash: 0
-meal_dates:
-- '2020-04-04'
-- '2020-04-08'
-- '2020-05-12'
-- '2020-05-18'
-- '2020-06-01'
-- '2021-02-05'
-meal_types: 3|3|3|3|3|3
+meal_notes:
+- 2020-04-04-dinner
+- 2020-04-08-dinner
+- 2020-05-12-dinner
+- 2020-05-18-dinner
+- 2020-06-01-dinner
+- 2021-02-05-dinner
 mine: null
 name: Salmon and Tomatoes in Foil
 p_recipe_id: 48

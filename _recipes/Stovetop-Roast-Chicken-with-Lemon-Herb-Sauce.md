@@ -17,9 +17,8 @@ ingredients: "GATHER YOUR INGREDIENTS\nChicken\n3 \xBD pounds bone-in, skin-on c
   1 \xBD tablespoons minced fresh chives\n1 tablespoon cold unsalted butter\nSalt\
   \ and ground black pepper"
 intrash: 0
-meal_dates:
-- '2020-04-17'
-meal_types: '3'
+meal_notes:
+- 2020-04-17-dinner
 mine: null
 name: Stovetop Roast Chicken with Lemon-Herb Sauce
 p_recipe_id: 84

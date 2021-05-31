@@ -16,10 +16,9 @@ ingredients: "3 pound boneless beef chuck roast\nKosher salt and ground black pe
   \ off to expose cloves\n\xBE cup tomato paste\n2 bay leaves\n3 sprigs rosemary\n\
   1 \xBD cups red wine, preferably cabernet\n4 cups beef broth"
 intrash: 0
-meal_dates:
-- '2020-05-01'
-- '2020-05-31'
-meal_types: 3|3
+meal_notes:
+- 2020-05-01-dinner
+- 2020-05-31-dinner
 mine: null
 name: Pot Roast
 p_recipe_id: 77

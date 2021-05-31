@@ -11,8 +11,6 @@ image_url: null
 ingredients: "3 tbsp red wine vinegar\n\xBC tsp dry mustard\nsalt & pepper\n\xBE cup\
   \ light olive oil\n\xBC cup extra virgin olive oil "
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Vinaigarette
 p_recipe_id: 272

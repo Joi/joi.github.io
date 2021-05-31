@@ -26,9 +26,8 @@ ingredients: '1/4 c. mayonnaise
 
   Lemon wedges, for serving'
 intrash: 0
-meal_dates:
-- '2021-03-27'
-meal_types: '2'
+meal_notes:
+- 2021-03-27-lunch
 mine: null
 name: Lobster Salad
 p_recipe_id: 493

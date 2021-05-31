@@ -30,9 +30,8 @@ ingredients: '1 kg abalone
 
   1 L / 4 1/4 cup water (or to preference)'
 intrash: 0
-meal_dates:
-- '2021-04-23'
-meal_types: '3'
+meal_notes:
+- 2021-04-23-dinner
 mine: null
 name: Braised Abalone with Mushrooms
 p_recipe_id: 521

@@ -14,9 +14,8 @@ ingredients: "2 to 3 medium sized fresh tomatoes (1 to 1 1/2 pounds), stems remo
   \ to taste\nPinch dried oregano (crumble in your fingers before adding), more to\
   \ taste\nPinch ground cumin, more to taste"
 intrash: 0
-meal_dates:
-- '2020-08-19'
-meal_types: '3'
+meal_notes:
+- 2020-08-19-dinner
 mine: null
 name: Fresh Tomato Salsa (Pico De Gallo)
 p_recipe_id: 306

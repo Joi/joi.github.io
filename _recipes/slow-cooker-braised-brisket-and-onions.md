@@ -16,8 +16,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 tablespoon paprika\n2 teaspoons onion p
   \ 1 teaspoon red wine vinegar\n1 tablespoon packed brown sugar\n3 sprigs fresh thyme\n\
   3 bay leaves"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Slow-Cooker Braised Brisket and Onions
 p_recipe_id: 76

@@ -20,8 +20,6 @@ ingredients: '4 cloves garlic
 
   1.75 pounds hanger steak, membrane removed, loins butterflied, see notes above'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Simple Grilled Hanger Steak with Worcestershire, Garlic, and Thyme
 p_recipe_id: 192

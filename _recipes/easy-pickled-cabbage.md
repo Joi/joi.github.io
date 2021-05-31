@@ -26,9 +26,8 @@ ingredients: '1 medium green cabbage
 
   3 cloves garlic'
 intrash: 0
-meal_dates:
-- '2020-05-10'
-meal_types: '4'
+meal_notes:
+- 2020-05-10-snacks
 mine: null
 name: Easy Pickled Cabbage
 p_recipe_id: 126

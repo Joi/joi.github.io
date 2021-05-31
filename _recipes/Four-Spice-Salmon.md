@@ -13,10 +13,9 @@ ingredients: "4 6-ounce skinned salmon fillets\nSalt and black pepper\n1 tablesp
   \ teaspoons cumin seed or ground cumin\n1 teaspoon freshly grated nutmeg\n2 tablespoons\
   \ peanut oil, grape seed or other neutral oil, or clarified butter"
 intrash: 0
-meal_dates:
-- '2020-05-26'
-- '2020-07-17'
-meal_types: 3|3
+meal_notes:
+- 2020-05-26-dinner
+- 2020-07-17-dinner
 mine: null
 name: Four-Spice Salmon
 p_recipe_id: 57

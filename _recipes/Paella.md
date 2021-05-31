@@ -21,9 +21,8 @@ ingredients: "4 \xBD cups chicken stock\n\xBD tsp saffron threads, crumbled and 
   \ mussels, rinsed and scrubbed\n1 lb littleneck clams, rinsed and scrubbed\n\xBC\
   \ cup chopped parsley, for garnish"
 intrash: 0
-meal_dates:
-- '2020-09-12'
-meal_types: '3'
+meal_notes:
+- 2020-09-12-dinner
 mine: 1
 name: Paella
 p_recipe_id: 353

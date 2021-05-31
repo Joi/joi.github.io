@@ -19,9 +19,8 @@ ingredients: '4 salmon fillets (5 to 6 ounces; 140 to 170g each)
 
   2 teaspoons (10ml) vegetable oil, if serving seared'
 intrash: 0
-meal_dates:
-- '2020-06-19'
-meal_types: '3'
+meal_notes:
+- 2020-06-19-dinner
 mine: null
 name: Sous Vide Salmon
 p_recipe_id: 196

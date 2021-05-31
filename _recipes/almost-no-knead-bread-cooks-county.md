@@ -21,8 +21,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n3 cups (15 ounces) all-purpose flour\n1 \
   \ water, room temperature\n6 tablespoons mild-flavored lager\n1 tablespoon distilled\
   \ white vinegar\nVegetable oil spray"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Almost No-Knead Bread - Cook's County
 p_recipe_id: 184

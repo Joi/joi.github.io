@@ -13,8 +13,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n4 large eggs, separated\n1 tablespoon uns
   \ cream of tartar\n1 recipe Mushroom Filling\n1 ounce Parmesan cheese, grated (1/2\
   \ cup)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Fluffy Omelet
 p_recipe_id: 23

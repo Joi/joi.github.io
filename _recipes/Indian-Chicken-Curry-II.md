@@ -15,10 +15,9 @@ ingredients: "3 tablespoons olive oil\n1 small onion, chopped\n2 cloves garlic, 
   1 tablespoon tomato paste\n1 cup plain yogurt\n\xBE cup coconut milk\n\xBD lemon,\
   \ juiced\n\xBD teaspoon cayenne pepper"
 intrash: 0
-meal_dates:
-- '2020-04-19'
-- '2020-07-01'
-meal_types: 3|3
+meal_notes:
+- 2020-04-19-dinner
+- 2020-07-01-dinner
 mine: null
 name: Indian Chicken Curry II
 p_recipe_id: 117

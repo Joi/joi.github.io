@@ -20,8 +20,6 @@ ingredients: "3 to 4 ripe tomatoes, halved through their equators\n3 tablespoons
   \ coconut milk\nCooked basmati rice, for serving (optional)\nPlain yogurt, for serving\
   \ (optional)\n3 tablespoons finely chopped fresh cilantro, for garnish"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Pressure Cooker Coconut Curry Chicken
 p_recipe_id: 114

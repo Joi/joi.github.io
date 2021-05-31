@@ -21,8 +21,6 @@ ingredients: "6 pounds bone-in short ribs, trimmed of excess fat and silver skin
   \ pieces\n\xBC teaspoon granulated sugar\n\xBC teaspoon table salt\n6 tablespoons\
   \ chopped fresh parsley leaves"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Short Ribs Braised in Red Wine with Bacon, Parsnips, and Pearl Onions
 p_recipe_id: 91

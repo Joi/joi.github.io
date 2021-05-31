@@ -14,8 +14,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n3 tablespoons unsalted butter, very cold\
   \ flour\n\xBC cup (1 3/4 ounces) sugar\n2 teaspoons salt\n1 large egg\n1 teaspoon\
   \ cold water"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Croissants
 p_recipe_id: 32

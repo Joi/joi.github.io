@@ -56,9 +56,8 @@ ingredients: 'pork ribs
 
   3-INGREDIENT SAUSAGE ROLLS'
 intrash: 0
-meal_dates:
-- '2020-09-09'
-meal_types: '3'
+meal_notes:
+- 2020-09-09-dinner
 mine: null
 name: The Best Pork Ribs on a Gas Grill
 p_recipe_id: 345

@@ -25,8 +25,6 @@ ingredients: '4 (5-oz.) skin-on striped bass fillets (either hybrid striped bass
 
   2 tablespoons chopped fresh parsley'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: "Saut\xE9ed Striped Bass with Lemon and Herb Sauce Is the Perfect Summer Dinner"
 p_recipe_id: 265

@@ -56,10 +56,9 @@ ingredients: 'CURRY - USE ONE:
 
   Steamed jasmine rice'
 intrash: 0
-meal_dates:
-- '2021-05-13'
-- '2021-05-21'
-meal_types: 3|3
+meal_notes:
+- 2021-05-13-dinner
+- 2021-05-21-dinner
 mine: null
 name: Thai Green Curry
 p_recipe_id: 528

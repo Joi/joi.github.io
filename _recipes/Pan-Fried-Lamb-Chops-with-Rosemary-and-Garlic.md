@@ -20,11 +20,10 @@ ingredients: '2 tablespoons minced garlic
 
   Fresh rosemary sprigs (optional)'
 intrash: 0
-meal_dates:
-- '2020-04-29'
-- '2020-05-11'
-- '2020-05-28'
-meal_types: 3|3|3
+meal_notes:
+- 2020-04-29-dinner
+- 2020-05-11-dinner
+- 2020-05-28-dinner
 mine: null
 name: Pan-Fried Lamb Chops with Rosemary and Garlic
 p_recipe_id: 106

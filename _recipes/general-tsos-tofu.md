@@ -15,8 +15,6 @@ ingredients: "For the general Tso\u2019s tofu\n10 ounces firm tofu (275 g), cube
   \ vegetable stock or water\n3 tbsp cane, coconut or brown sugar\n1 tbsp cornstarch\n\
   1/8 tsp red pepper flakes, optional"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: "General Tso\u2019s Tofu"
 p_recipe_id: 525

@@ -19,8 +19,6 @@ ingredients: '3 cups all-purpose or bread flour, or more as needed, plus more fo
 
   Rosemary, optional.'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Mark Bittman's Basic Pizza Dough
 p_recipe_id: 467

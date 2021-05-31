@@ -32,9 +32,8 @@ ingredients: '1/4 cup Shaoxing wine or dry sherry
 
   12 yellow chives, cut into 2-inch pieces (optional)'
 intrash: 0
-meal_dates:
-- '2021-03-09'
-meal_types: '3'
+meal_notes:
+- 2021-03-09-dinner
 mine: null
 name: Cantonese-Style Lobster with Ginger and Scallions
 p_recipe_id: 486

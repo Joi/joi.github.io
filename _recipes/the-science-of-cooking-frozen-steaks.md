@@ -15,9 +15,8 @@ ingredients: 'Frozen Steaks
 
   Oil'
 intrash: 0
-meal_dates:
-- '2020-04-03'
-meal_types: '3'
+meal_notes:
+- 2020-04-03-dinner
 mine: null
 name: The Science of Cooking Frozen Steaks
 p_recipe_id: 45

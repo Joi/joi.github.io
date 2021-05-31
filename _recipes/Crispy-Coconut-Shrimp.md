@@ -14,9 +14,8 @@ ingredients: "Sriracha Dipping Sauce\n1 garlic clove\n4 oz mayonnaise, sugar-fre
   1 tsp garlic powder\n1 tsp onion powder\n2 large eggs, organic, pasture-raised\n\
   16 oz large raw shrimp, peeled, deveined, tail on\navocado oil, to fry"
 intrash: 0
-meal_dates:
-- '2020-04-13'
-meal_types: '3'
+meal_notes:
+- 2020-04-13-dinner
 mine: null
 name: Crispy Coconut Shrimp
 p_recipe_id: 43

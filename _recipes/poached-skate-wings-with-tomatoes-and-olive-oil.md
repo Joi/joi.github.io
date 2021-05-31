@@ -14,8 +14,6 @@ ingredients: "1 \xBD cups dry white wine\n1 small onion, sliced\n1 bay leaf\n3 t
   \ cup finely chopped scallions\n2 tablespoons minced fresh basil\n1 tablespoon drained\
   \ capers\n\xBD cup extra-virgin olive oil"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Poached Skate Wings with Tomatoes and Olive Oil
 p_recipe_id: 173

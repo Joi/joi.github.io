@@ -34,8 +34,6 @@ ingredients: '2 shallots, minced
 
   Freshly ground black pepper'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Our New Favorite Striped Bass
 p_recipe_id: 267

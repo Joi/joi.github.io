@@ -26,8 +26,6 @@ ingredients: '4 tablespoons unsalted butter
 
   2 cup beef broth'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Easiest Brisket with Caramelized Onions
 p_recipe_id: 340

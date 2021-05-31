@@ -14,9 +14,8 @@ ingredients: "1/2 small (2-pound) green cabbage, cored and very thinly sliced (a
   \ removed, minced (optional)\n3 tablespoons apple cider vinegar\n2 teaspoons sugar\n\
   1 teaspoon kosher salt"
 intrash: 0
-meal_dates:
-- '2020-07-16'
-meal_types: '3'
+meal_notes:
+- 2020-07-16-dinner
 mine: null
 name: Quick Curtido (Mexican Cabbage Slaw)
 p_recipe_id: 257

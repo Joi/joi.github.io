@@ -18,9 +18,8 @@ ingredients: "1 lb bok choy cleaned and chopped\n1 lb tofu cut into \xBD in x \x
   \ garlic crushed\n1 cup chicken broth\n\xBD cup cooking oil\n2 Tbsp fish sauce\n\
   Salt and pepper to taste"
 intrash: 0
-meal_dates:
-- '2021-02-23'
-meal_types: '3'
+meal_notes:
+- 2021-02-23-dinner
 mine: 1
 name: Ginisang Pechay with Tofu
 p_recipe_id: 480

@@ -14,10 +14,9 @@ ingredients: "GATHER YOUR INGREDIENTS\n4 (6- to 8-ounce) skinless haddock filets
   1 tablespoon lemon juice\n\u215B teaspoon cayenne pepper\n1 pound green beans, trimmed\n\
   2 garlic cloves, minced"
 intrash: 0
-meal_dates:
-- '2020-03-28'
-- '2020-05-03'
-meal_types: 3|2
+meal_notes:
+- 2020-03-28-dinner
+- 2020-05-03-lunch
 mine: null
 name: Baked Haddock with Garlic Green Beans
 p_recipe_id: 68

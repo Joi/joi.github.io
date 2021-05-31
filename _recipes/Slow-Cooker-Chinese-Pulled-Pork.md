@@ -31,9 +31,8 @@ ingredients: '3 to 3 1/2 pounds pork shoulder, cut into very large chunks (3 to 
 
   '
 intrash: 0
-meal_dates:
-- '2021-05-23'
-meal_types: '3'
+meal_notes:
+- 2021-05-23-dinner
 mine: null
 name: Slow Cooker Chinese Pulled Pork
 p_recipe_id: 531

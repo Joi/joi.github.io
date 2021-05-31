@@ -44,10 +44,9 @@ ingredients: "\xBD cup olive oil or more as needed (125 mL)\r2 veal shanks, cut 
   \ chopped flat-leaf parsley\n2 tablespoons chopped fresh basil\n1 teaspoon chopped\
   \ fresh rosemary"
 intrash: 0
-meal_dates:
-- '2020-06-21'
-- '2021-04-18'
-meal_types: 3|3
+meal_notes:
+- 2020-06-21-dinner
+- 2021-04-18-dinner
 mine: null
 name: Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani
 p_recipe_id: 199

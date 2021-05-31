@@ -15,8 +15,6 @@ ingredients: "1 boneless chuck roast or top or bottom round roast, 3 to 4 pounds
   \ mayonnaise\n2 teaspoons apple cider vinegar\n\xBD teaspoon dried dill\n\xBC teaspoon\
   \ sweet paprika\n1 teaspoon buttermilk, optional\nChopped parsley, for garnish"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Mississippi Roast
 p_recipe_id: 112

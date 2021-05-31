@@ -24,9 +24,8 @@ ingredients: '1 tablespoon extra-virgin olive oil
 
   Black pepper'
 intrash: 0
-meal_dates:
-- '2020-07-01'
-meal_types: '3'
+meal_notes:
+- 2020-07-01-dinner
 mine: null
 name: Roasted Yellow Squash with Mint, Walnuts and Pecorino
 p_recipe_id: 219

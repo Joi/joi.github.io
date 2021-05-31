@@ -34,8 +34,6 @@ ingredients: '3 thick-sliced bacon strips, chopped
 
   1/4 teaspoon pepper'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Pressure-Cooker Coq Au Vin
 p_recipe_id: 362

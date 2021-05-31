@@ -41,9 +41,8 @@ ingredients: '2 tablespoons extra-virgin olive oil divided
 
   Salt and pepper to season'
 intrash: 0
-meal_dates:
-- '2020-12-03'
-meal_types: '3'
+meal_notes:
+- 2020-12-03-dinner
 mine: null
 name: Braised Lamb Shanks
 p_recipe_id: 423

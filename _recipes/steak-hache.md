@@ -14,8 +14,6 @@ ingredients: "1 cup dried porcini mushrooms\n1 pound best ground sirloin or chuc
   \ red-wine vinegar\n\xBD teaspoon capers, finely chopped\n\xBD cup finely chopped\
   \ fresh parsley\nOlive oil"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: "Steak Hach\xE9"
 p_recipe_id: 132

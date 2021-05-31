@@ -19,8 +19,6 @@ ingredients: "Cloves from 1/2 head of garlic, peeled and trimmed\n1 lower stalk 
   Handful of cilantro sprigs\n2-3 limes, thinly sliced\nTrimmed and sliced vegetables,\
   \ such as baby bok choy, mushrooms, zucchini, paddy pan squash, etc..."
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Basket-Steamed Black Cod with Lime Sauce and Vegetables
 p_recipe_id: 408

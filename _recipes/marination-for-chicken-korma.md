@@ -29,8 +29,6 @@ ingredients: "Preparation for chicken korma\n1. To a mixing bowl, add\n\xBD kg c
   \ chili powder (optional, for color)\n3 tablespoons coriander leaves (cilantro)\
   \ chopped"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Marination for Chicken Korma
 p_recipe_id: 526

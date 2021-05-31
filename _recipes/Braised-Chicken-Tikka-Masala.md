@@ -23,10 +23,9 @@ ingredients: "**For the chicken marinade:**\nWhole chicken\n1 cup plain yogurt\n
   \ cups of heavy or thickened cream (use evaporated milk for lower calories)\n1 tsp\
   \ brown sugar\n\xBC cup water if needed\n4 Tbsp Fresh cilantro to garnish"
 intrash: 0
-meal_dates:
-- '2021-02-04'
-- '2021-04-22'
-meal_types: 3|3
+meal_notes:
+- 2021-02-04-dinner
+- 2021-04-22-dinner
 mine: 1
 name: Braised Chicken Tikka Masala
 p_recipe_id: 448

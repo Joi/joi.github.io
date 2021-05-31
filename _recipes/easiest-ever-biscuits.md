@@ -22,8 +22,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n3 cups (15 ounces) all-purpose flour\n4 t
   \ sugar\n1 tablespoon baking powder\n\xBC teaspoon baking soda\n1 \xBC teaspoons\
   \ table salt\n2 cups heavy cream\n2 tablespoons unsalted butter, melted (optional)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Easiest-Ever Biscuits
 p_recipe_id: 153

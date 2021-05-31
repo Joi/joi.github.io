@@ -17,8 +17,6 @@ ingredients: "\xBD pound shrimp, with shells on\n\xBD pound squid, cleaned\n\xBD
   1 teaspoon paprika\n1 teaspoon cayenne pepper\n\u2153 to \xBD cup olive oil\nCoarse\
   \ salt and freshly ground pepper to taste"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Fish Soup
 p_recipe_id: 99

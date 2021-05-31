@@ -20,10 +20,9 @@ ingredients: '1 pound (450g) sunchokes, rinsed and trimmed of any dark spots
 
   Flaky salt, such as Maldon, for serving'
 intrash: 0
-meal_dates:
-- '2021-04-15'
-- '2021-04-30'
-meal_types: 3|3
+meal_notes:
+- 2021-04-15-dinner
+- 2021-04-30-dinner
 mine: null
 name: Smashed Sunchokes with Thyme-Butter
 p_recipe_id: 517

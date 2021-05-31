@@ -42,9 +42,8 @@ ingredients: 'Chuck Eye Steak
 
   '
 intrash: 0
-meal_dates:
-- '2020-04-26'
-meal_types: '3'
+meal_notes:
+- 2020-04-26-dinner
 mine: null
 name: Instapot Chuck Eye Stew
 p_recipe_id: 130

@@ -16,19 +16,18 @@ ingredients: 'Whole Chicken
 
   Butter'
 intrash: 0
-meal_dates:
-- '2020-07-15'
-- '2020-07-23'
-- '2020-07-30'
-- '2020-08-06'
-- '2020-10-08'
-- '2021-03-19'
-- '2020-07-09'
-- '2021-04-01'
-- '2020-12-17'
-- '2020-11-12'
-- '2020-11-05'
-meal_types: 3|3|3|3|3|3|3|3|3|3|3
+meal_notes:
+- 2020-07-15-dinner
+- 2020-07-23-dinner
+- 2020-07-30-dinner
+- 2020-08-06-dinner
+- 2020-10-08-dinner
+- 2021-03-19-dinner
+- 2020-07-09-dinner
+- 2021-04-01-dinner
+- 2020-12-17-dinner
+- 2020-11-12-dinner
+- 2020-11-05-dinner
 mine: 1
 name: Oven Roasted Spatchcocked Chicken
 p_recipe_id: 240

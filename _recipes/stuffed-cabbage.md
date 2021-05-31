@@ -44,8 +44,6 @@ ingredients: '3 tablespoons good olive oil
 
   1/2 teaspoon freshly ground black pepper'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Stuffed Cabbage
 p_recipe_id: 438

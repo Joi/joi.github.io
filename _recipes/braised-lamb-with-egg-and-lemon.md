@@ -17,8 +17,6 @@ ingredients: "4 pounds boneless lamb shoulder, cut in 3-inch pieces\nSalt and pe
   3 tablespoons chopped celery heart leaves\n4 hard-cooked eggs (8 to 9 minutes) at\
   \ room temperature, for garnish"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Braised Lamb with Egg and Lemon
 p_recipe_id: 148

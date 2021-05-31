@@ -15,25 +15,24 @@ ingredients: "1 Tbsp olive oil\n1 \xBD cups diced yellow onion\n\xBD cup diced c
   parmesan cheese\npinch ground nutmeg\nbay leaves\nmirin\nfish sauce\nkosher salt\
   \ and freshly-ground black pepper\n"
 intrash: 0
-meal_dates:
-- '2020-09-11'
-- '2020-09-16'
-- '2020-12-21'
-- '2020-12-27'
-- '2021-01-18'
-- '2021-01-25'
-- '2021-02-07'
-- '2021-02-17'
-- '2021-02-25'
-- '2021-03-06'
-- '2021-03-17'
-- '2021-04-04'
-- '2021-04-15'
-- '2021-04-25'
-- '2021-05-07'
-- '2021-05-15'
-- '2021-05-26'
-meal_types: 3|3|3|3|3|3|3|3|3|3|3|5|2|3|3|3|3
+meal_notes:
+- 2020-09-11-dinner
+- 2020-09-16-dinner
+- 2020-12-21-dinner
+- 2020-12-27-dinner
+- 2021-01-18-dinner
+- 2021-01-25-dinner
+- 2021-02-07-dinner
+- 2021-02-17-dinner
+- 2021-02-25-dinner
+- 2021-03-06-dinner
+- 2021-03-17-dinner
+- 2021-04-04-pantry
+- 2021-04-15-lunch
+- 2021-04-25-dinner
+- 2021-05-07-dinner
+- 2021-05-15-dinner
+- 2021-05-26-dinner
 mine: 1
 name: Bolognese Sauce
 p_recipe_id: 350

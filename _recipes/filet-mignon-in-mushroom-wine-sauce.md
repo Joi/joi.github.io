@@ -30,9 +30,8 @@ ingredients: '4 Tbsp unsalted butter divided
 
   Salt and Pepper to taste'
 intrash: 0
-meal_dates:
-- '2021-02-07'
-meal_types: '3'
+meal_notes:
+- 2021-02-07-dinner
 mine: null
 name: Filet Mignon in Mushroom Wine Sauce
 p_recipe_id: 471

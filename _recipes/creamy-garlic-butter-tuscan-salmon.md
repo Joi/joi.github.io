@@ -36,10 +36,9 @@ ingredients: '4 salmon fillets, skin off (or Trout or any white fish)
 
   1 tablespoon fresh parsley chopped'
 intrash: 0
-meal_dates:
-- '2020-12-12'
-- '2021-02-27'
-meal_types: 3|3
+meal_notes:
+- 2020-12-12-dinner
+- 2021-02-27-dinner
 mine: null
 name: Creamy Garlic Butter Tuscan Salmon
 p_recipe_id: 429

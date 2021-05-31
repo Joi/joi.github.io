@@ -40,8 +40,6 @@ ingredients: 'For Simmering:
 
   2 cloves garlic'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Roasted Whole Duck
 p_recipe_id: 46

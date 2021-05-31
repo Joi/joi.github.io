@@ -11,8 +11,6 @@ image_url: https://joyfoodsunshine.com/wp-content/uploads/2019/04/balsamic-roast
 ingredients: "3 beets peeled & diced (about 3 cups)*\n1 Tbsp olive oil\n\xBD tsp sea\
   \ salt\n1 Tbsp balsamic vinegar\n1 Tbsp honey (pure maple syrup for a vegan version)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Balsamic Roasted Beets
 p_recipe_id: 489

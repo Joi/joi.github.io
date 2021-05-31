@@ -49,14 +49,13 @@ ingredients: '4 chunks monkfish fillet, about 6 ounces each, skin and translucen
 
   About 1/2 cup [recipe: Aioli Sauce]'
 intrash: 0
-meal_dates:
-- '2020-09-01'
-- '2020-08-22'
-- '2020-09-19'
-- '2020-10-13'
-- '2021-03-26'
-- '2021-04-30'
-meal_types: 3|3|3|3|3|3
+meal_notes:
+- 2020-09-01-dinner
+- 2020-08-22-dinner
+- 2020-09-19-dinner
+- 2020-10-13-dinner
+- 2021-03-26-dinner
+- 2021-04-30-dinner
 mine: null
 name: Monkfish Braised with White Beans, Fennel, & Tomato
 p_recipe_id: 328

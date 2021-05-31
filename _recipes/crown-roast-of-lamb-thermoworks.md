@@ -13,8 +13,6 @@ ingredients: "2 Tbsp chopped fresh rosemary\n6 garlic cloves, minced\n1 Tbsp cho
   1 tsp ground black pepper\n2 Frenched racks of lamb, each consisting of 7 ribs\n\
   Olive oil"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Crown Roast of Lamb - Thermoworks
 p_recipe_id: 249

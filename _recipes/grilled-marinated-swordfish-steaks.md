@@ -14,8 +14,6 @@ ingredients: "4 center-cut swordfish steaks, about 6 ounces each, one-inch thick
   1 tablespoon finely chopped garlic\n2 teaspoons ground coriander\n1 teaspoon ground\
   \ cumin\n2 teaspoons grated lemon rind\n\xBC teaspoon red pepper flakes"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Grilled Marinated Swordfish Steaks
 p_recipe_id: 232

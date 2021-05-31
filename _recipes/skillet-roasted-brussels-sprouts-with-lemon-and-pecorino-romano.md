@@ -12,8 +12,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 pound small (1 to 1 1/2 inches in diame
   \ Brussels sprouts, trimmed and halved\n5 tablespoons extra-virgin olive oil\n1\
   \ tablespoon lemon juice\nSalt and pepper\n\xBC cup shredded Pecorino Romano cheese"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Skillet-Roasted Brussels Sprouts with Lemon and Pecorino Romano
 p_recipe_id: 33

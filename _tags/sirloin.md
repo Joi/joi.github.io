@@ -5,7 +5,7 @@ recipes:
 - mine: null
   p_recipe_id: 268
   permalink: /recipes/steak-kebabs
-  photo_thumb: steak-kebabs-thumb.jpg
+  photo_thumb: 1C031AE7-96A4-436D-A01E-6A428EDA47BE-37140-0000172C6AD7C0FB.jpg
   rating: 5
   title: Steak Kebabs
 rel_tags_count:

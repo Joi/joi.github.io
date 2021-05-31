@@ -11,9 +11,8 @@ image_url: null
 ingredients: "1/2 cup [mayonnaise](/recipes/mayonnaise)\n2 Tbsp ketchup \n1 Tbsp yellow\
   \ mustard\n1 Tbsp kosher dill pickle juice \n1 tsp sugar\nPinch of cayenne powder "
 intrash: 0
-meal_dates:
-- '2020-10-17'
-meal_types: '3'
+meal_notes:
+- 2020-10-17-dinner
 mine: 1
 name: Fry Sauce
 p_recipe_id: 388

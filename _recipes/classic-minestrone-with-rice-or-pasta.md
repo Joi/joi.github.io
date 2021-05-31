@@ -22,8 +22,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n2 small leeks (or 1 large), white and lig
   \ fresh rosemary mixed with 1 teaspoon minced garlic and 1 tablespoon extra-virgin\
   \ olive oil)\nGround black pepper"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Classic Minestrone with Rice or Pasta
 p_recipe_id: 14

@@ -19,9 +19,8 @@ ingredients: "16 ounces boneless skinless chicken breasts 4 ounce each\n1 tables
   8 slices bacon cooked and drained\n4 slices tomato or 8 smaller slices\n4 seeded\
   \ hamburger buns or your favorite hamburger bun"
 intrash: 0
-meal_dates:
-- '2020-10-03'
-meal_types: '3'
+meal_notes:
+- 2020-10-03-dinner
 mine: null
 name: The Ultimate Grilled Chicken Sandwich
 p_recipe_id: 375

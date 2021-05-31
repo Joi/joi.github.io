@@ -18,9 +18,8 @@ ingredients: '1/2 pint heavy cream
 
   1/8 teaspoon black pepper'
 intrash: 0
-meal_dates:
-- '2020-12-20'
-meal_types: '3'
+meal_notes:
+- 2020-12-20-dinner
 mine: null
 name: Whipped Horseradish Cream Sauce
 p_recipe_id: 433

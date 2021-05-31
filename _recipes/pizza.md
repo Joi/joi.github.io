@@ -17,14 +17,13 @@ ingredients: "**Dough**\n\n350 g water\n17 g kosher salt\n1.5 g Instant dried ye
   \ pecorino or parmesan\n110 g of low-moisture mozzarella cheese\nChili flakes (optional)\n\
   Pepperoni (optional)\nDried oregano (optional)"
 intrash: 0
-meal_dates:
-- '2021-03-28'
-- '2021-02-11'
-- '2021-02-03'
-- '2021-01-31'
-- '2021-04-03'
-- '2021-05-11'
-meal_types: 2|2|2|2|2|2
+meal_notes:
+- 2021-03-28-lunch
+- 2021-02-11-lunch
+- 2021-02-03-lunch
+- 2021-01-31-lunch
+- 2021-04-03-lunch
+- 2021-05-11-lunch
 mine: 1
 name: Pizza
 p_recipe_id: 469

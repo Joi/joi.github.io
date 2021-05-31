@@ -30,8 +30,6 @@ ingredients: '1 to 2 pounds of skinless boneless fish or shrimp
 
   Black pepper'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Butter Poached Fish
 p_recipe_id: 298

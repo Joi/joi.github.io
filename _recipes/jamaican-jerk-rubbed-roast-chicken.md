@@ -22,10 +22,9 @@ ingredients: "1 teaspoon freshly ground black pepper\r\xBC teaspoon ground nutme
   1 whole chicken, 3\xBD to 4 pounds, butterflied according to\rthe directions here\r\
   1 bunch thyme\n6 bay leaves"
 intrash: 0
-meal_dates:
-- '2021-01-21'
-- '2021-04-01'
-meal_types: 3|3
+meal_notes:
+- 2021-01-21-dinner
+- 2021-04-01-dinner
 mine: null
 name: Jamaican-Jerk-Rubbed Roast Chicken
 p_recipe_id: 455

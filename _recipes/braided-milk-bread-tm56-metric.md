@@ -12,8 +12,6 @@ ingredients: "50 g unsalted butter, in pieces, plus extra to grease\n300 g milk\
   2 tsp dried instant yeast\n20 - 60 g sugar, to taste\n550 g bread flour\n1 \xBD\
   \ tsp salt\n1 large egg, lightly whisked, for glazing"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Braided Milk Bread (TM5/6 Metric)
 p_recipe_id: 26

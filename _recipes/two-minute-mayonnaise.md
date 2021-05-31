@@ -20,8 +20,6 @@ ingredients: '1 whole egg
 
   Kosher salt'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Two-Minute Mayonnaise
 p_recipe_id: 511

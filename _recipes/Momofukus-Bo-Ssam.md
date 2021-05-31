@@ -21,9 +21,8 @@ ingredients: "PORK BUTT:\n1 whole bone-in pork butt or picnic ham (8 to 10 pound
   1 dozen or more fresh oysters (optional)\nKimchi (available in many Asian markets,\
   \ and online)"
 intrash: 0
-meal_dates:
-- '2020-10-11'
-meal_types: '3'
+meal_notes:
+- 2020-10-11-dinner
 mine: null
 name: Momofuku's Bo Ssam
 p_recipe_id: 376

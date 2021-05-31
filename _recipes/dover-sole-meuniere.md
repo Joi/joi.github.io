@@ -24,8 +24,6 @@ ingredients: '1 to 2 cups quick-mixing flour, such as Wondra
 
   2 tablespoons fresh parsley leaves, finely minced'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Dover Sole Meuniere
 p_recipe_id: 283

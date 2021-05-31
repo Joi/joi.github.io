@@ -11,10 +11,9 @@ image_url: null
 ingredients: "\u2154 cup of fresh [recipe:Mayonnaise]\n1 Tbsp ketchup\n1 tsp Worcestershire\
   \ sauce\n1 tsp freshly grated horseradish or wasabi\nTabasco sauce\nPinch of paprika"
 intrash: 0
-meal_dates:
-- '2021-01-22'
-- '2021-03-27'
-meal_types: 3|5
+meal_notes:
+- 2021-01-22-dinner
+- 2021-03-27-pantry
 mine: 1
 name: Marie Rose Sauce
 p_recipe_id: 458

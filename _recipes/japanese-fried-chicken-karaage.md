@@ -13,12 +13,11 @@ ingredients: "3 Tbsp soy sauce\n2 Tbsp sake\n1 Tbsp grated fresh ginger\n2 garli
   \ dark meat\n1 cup cornstarch\nUp to 1 qt light oil for frying\nLemon wedges for\
   \ garnish"
 intrash: 0
-meal_dates:
-- '2020-05-21'
-- '2021-03-11'
-- '2021-03-25'
-- '2021-05-27'
-meal_types: 3|3|3|3
+meal_notes:
+- 2020-05-21-dinner
+- 2021-03-11-dinner
+- 2021-03-25-dinner
+- 2021-05-27-dinner
 mine: 1
 name: Japanese fried chicken - karaage
 p_recipe_id: 30

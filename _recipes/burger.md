@@ -12,10 +12,9 @@ ingredients: 'Ground beef
 
   Buns'
 intrash: 0
-meal_dates:
-- '2021-04-11'
-- '2021-05-04'
-meal_types: 3|3
+meal_notes:
+- 2021-04-11-dinner
+- 2021-05-04-dinner
 mine: 1
 name: Burger
 p_recipe_id: 514

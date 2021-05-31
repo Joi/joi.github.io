@@ -23,9 +23,8 @@ ingredients: "**For the Marinade**\n\n\xBD cup packed brown sugar\n\xBC cup wate
   \ cucumber, cut into \xBD-inch chunks\n1 to 2 cups mung bean sprouts, rinsed and\
   \ dried"
 intrash: 0
-meal_dates:
-- '2020-07-25'
-meal_types: '3'
+meal_notes:
+- 2020-07-25-dinner
 mine: null
 name: The Food Lab - Spicy Thai-Style Flank Steak Salad
 p_recipe_id: 275

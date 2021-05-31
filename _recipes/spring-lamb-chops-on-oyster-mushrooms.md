@@ -15,9 +15,8 @@ ingredients: "2 (8-ounce) lamb rib chops, trimmed (about 2 inches thick)\n\xBD t
   1 pound oyster mushrooms, trimmed and cut into 1/2-inch-wide strips\nCooking spray\n\
   \xBD cup fat-free, less-sodium chicken broth\n1\u2009\xBD cups hot cooked couscous"
 intrash: 0
-meal_dates:
-- '2021-03-07'
-meal_types: '3'
+meal_notes:
+- 2021-03-07-dinner
 mine: null
 name: Spring Lamb Chops on Oyster Mushrooms
 p_recipe_id: 484

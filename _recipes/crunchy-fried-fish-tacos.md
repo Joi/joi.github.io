@@ -38,8 +38,6 @@ ingredients: '1 1/2 cups cake flour
 
   2 limes, cut into wedges'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Crunchy Fried Fish Tacos
 p_recipe_id: 396

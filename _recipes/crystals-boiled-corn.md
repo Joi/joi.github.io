@@ -16,9 +16,8 @@ ingredients: 'Corn
 
   Black Pepper'
 intrash: 0
-meal_dates:
-- '2020-07-11'
-meal_types: '3'
+meal_notes:
+- 2020-07-11-dinner
 mine: null
 name: Crystal's Boiled Corn
 p_recipe_id: 244

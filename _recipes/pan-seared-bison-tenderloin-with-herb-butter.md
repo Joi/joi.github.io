@@ -34,8 +34,6 @@ ingredients: 'For the Herb Butter:
 
   2 tbsp. canola oil'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Pan-Seared Bison Tenderloin with Herb Butter
 p_recipe_id: 58

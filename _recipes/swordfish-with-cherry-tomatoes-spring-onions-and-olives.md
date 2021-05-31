@@ -30,8 +30,6 @@ ingredients: 'LIST OF INGREDIENTS
 
   Salt'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Swordfish with Cherry Tomatoes, Spring Onions and Olives
 p_recipe_id: 260

@@ -11,9 +11,8 @@ image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages
 ingredients: "2 (5 ounce) ahi tuna steaks\n1 teaspoon kosher salt\n\xBC teaspoon cayenne\
   \ pepper\n\xBD tablespoon butter\n2 tablespoons olive oil\n1 teaspoon whole peppercorns"
 intrash: 0
-meal_dates:
-- '2020-06-26'
-meal_types: '3'
+meal_notes:
+- 2020-06-26-dinner
 mine: null
 name: Seared Ahi Tuna Steaks
 p_recipe_id: 202

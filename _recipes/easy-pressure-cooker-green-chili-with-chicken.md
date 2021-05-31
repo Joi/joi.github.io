@@ -18,8 +18,6 @@ ingredients: "3 pounds bone-in skin-on chicken thighs and drumsticks\n3/4 pound 
   \ cilantro leaves and fine stems, plus more for garnish\n1 tablespoon Asian fish\
   \ sauce, such as Red Boat\nFresh corn tortillas and lime wedges, for serving"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Easy Pressure Cooker Green Chili with Chicken
 p_recipe_id: 461

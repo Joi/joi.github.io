@@ -13,12 +13,11 @@ ingredients: "2 tablespoons raisins\n2 tablespoons Balsamic vinegar\n1 \u2153 po
   Salt and freshly ground black pepper\n\xBD teaspoon fresh sage leaves (or 1/4 teaspoon\
   \ dried sage)\n1 tablespoon dry white wine"
 intrash: 0
-meal_dates:
-- '2020-09-28'
-- '2021-01-18'
-- '2021-03-28'
-- '2021-05-01'
-meal_types: 3|2|2|2
+meal_notes:
+- 2020-09-28-dinner
+- 2021-01-18-lunch
+- 2021-03-28-lunch
+- 2021-05-01-lunch
 mine: null
 name: Chicken Livers and Onions, Venetian Style
 p_recipe_id: 373

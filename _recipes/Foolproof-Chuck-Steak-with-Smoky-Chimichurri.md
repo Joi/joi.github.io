@@ -44,8 +44,6 @@ ingredients: 'STEAK
 
   1/2 teaspoon smoked paprika'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Foolproof Chuck Steak with Smoky Chimichurri
 p_recipe_id: 322

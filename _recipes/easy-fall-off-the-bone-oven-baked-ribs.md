@@ -34,8 +34,6 @@ ingredients: 'RIBS
 
   30 MINUTE ROASTED PORK TENDERLOIN'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Easy, Fall-Off-The-Bone Oven Baked Ribs
 p_recipe_id: 400

@@ -10,8 +10,6 @@ favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/30290_sfs-spur-of-the-moment-steak-21
 ingredients: null
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Grilled Frozen Steaks
 p_recipe_id: 31

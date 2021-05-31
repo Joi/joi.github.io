@@ -12,7 +12,7 @@ recipes:
 - mine: null
   p_recipe_id: 517
   permalink: /recipes/smashed-sunchokes-with-thyme-butter
-  photo_thumb: smashed-sunchokes-with-thyme-butter-thumb.jpg
+  photo_thumb: 4F000191-11F6-4B88-9886-E6DBE4EDB730.jpg
   rating: 5
   title: Smashed Sunchokes with Thyme-Butter
 rel_tags_count:

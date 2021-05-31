@@ -19,9 +19,8 @@ ingredients: 'Center-cut salmon fillets, preferably wild-caught Alaskan king or 
 
   Snipped fresh chives, for garnish (optional)'
 intrash: 0
-meal_dates:
-- '2021-02-05'
-meal_types: '3'
+meal_notes:
+- 2021-02-05-dinner
 mine: null
 name: Oven-Steamed Salmon
 p_recipe_id: 56

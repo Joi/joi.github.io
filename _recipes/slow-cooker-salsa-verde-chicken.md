@@ -17,8 +17,6 @@ ingredients: "1 \xBD pounds boneless, skinless chicken thighs\n1 \xBD cups jarre
   \ combination of rice, tortillas, pepitas, queso fresco, diced avocado and crushed\
   \ tortilla chips, for serving"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Slow Cooker Salsa Verde Chicken
 p_recipe_id: 110

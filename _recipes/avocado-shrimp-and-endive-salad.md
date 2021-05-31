@@ -24,8 +24,6 @@ ingredients: '1/4 cup extra-virgin olive oil
 
   1 tbsp coarsely chopped fresh tarragon'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Avocado, Shrimp, and Endive Salad
 p_recipe_id: 227

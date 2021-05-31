@@ -5,19 +5,19 @@ recipes:
 - mine: null
   p_recipe_id: 62
   permalink: /recipes/easy-overnight-oats
-  photo_thumb: easy-overnight-oats-thumb.jpg
+  photo_thumb: A5461A7E-E31E-4E05-BFF0-D5A27DEB828C-9067-000215D6325AD5E9.jpg
   rating: 0
   title: Easy Overnight Oats
 - mine: null
   p_recipe_id: 63
   permalink: /recipes/overnight-oats
-  photo_thumb: overnight-oats-thumb.jpg
+  photo_thumb: A2DFFBFC-8739-4E3E-82DF-4EF1CDCD508F-9067-000215F1BFA2B285.jpg
   rating: 0
   title: Overnight Oats
 - mine: null
   p_recipe_id: 61
   permalink: /recipes/peanut-butter-overnight-oats-5-ingredients!
-  photo_thumb: peanut-butter-overnight-oats-5-ingredients!-thumb.jpg
+  photo_thumb: F8FC0617-3645-49DA-9A1B-F9F030FE246D-9255-00001EFD637C8D7B.jpg
   rating: 0
   title: Peanut Butter Overnight Oats (5 Ingredients!)
 rel_tags_count: {}

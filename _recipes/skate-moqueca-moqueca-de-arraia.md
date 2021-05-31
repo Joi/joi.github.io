@@ -31,9 +31,8 @@ ingredients: "2 lbs (1 kg) skate wings\n1 clove garlic, finely chopped\njuice of
   \ cup coconut milk\n1/3 cup dend\xEA oil\n1/4 cup cilantro, finely chopped\nsalt\
   \ and pepper to taste"
 intrash: 0
-meal_dates:
-- '2020-06-23'
-meal_types: '3'
+meal_notes:
+- 2020-06-23-dinner
 mine: null
 name: Skate Moqueca (Moqueca De Arraia)
 p_recipe_id: 200

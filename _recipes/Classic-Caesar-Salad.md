@@ -15,11 +15,10 @@ ingredients: "The Dressing:\n6 anchovy fillets packed in oil, drained\n1 small g
   3 cups torn 1\" pieces country bread, with crusts\n3 tablespoons olive oil\nThe\
   \ Lettuce:\n3 romaine hearts, leaves separated\nThe Cheese:\nParmesan, for serving"
 intrash: 0
-meal_dates:
-- '2020-08-11'
-- '2021-01-02'
-- '2021-05-27'
-meal_types: 3|3|3
+meal_notes:
+- 2020-08-11-dinner
+- 2021-01-02-dinner
+- 2021-05-27-dinner
 mine: null
 name: Classic Caesar Salad
 p_recipe_id: 302

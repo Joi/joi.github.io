@@ -17,8 +17,6 @@ ingredients: "5 pounds bone-in short ribs, at least 1 1/2-inch thick, cut into s
   \ finely chopped\n\xBD bunch chives, finely chopped\nFlaky sea salt\n3 lemons, halved,\
   \ for juicing"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Tangy Braised Short Ribs
 p_recipe_id: 95

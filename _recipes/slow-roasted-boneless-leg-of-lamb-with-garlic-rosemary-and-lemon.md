@@ -29,9 +29,8 @@ ingredients: '2 tablespoons extra-virgin olive oil
   1 whole butterflied boneneless leg of lamb, carefully trimmed of internal fat and
   connective tissue, 10 to 12 pounds'
 intrash: 0
-meal_dates:
-- '2021-04-04'
-meal_types: '3'
+meal_notes:
+- 2021-04-04-dinner
 mine: null
 name: Slow-Roasted Boneless Leg of Lamb with Garlic, Rosemary, and Lemon
 p_recipe_id: 504

@@ -14,8 +14,6 @@ ingredients: "\u2154 cup olive oil\n8 chicken drumsticks\n8 chicken thighs\n4 ce
   \ ground pepper\ndash grated nutmeg\n40 cloves garlic, unpeeled\nFreshly sliced\
   \ French bread"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Chicken with 40 Cloves of Garlic
 p_recipe_id: 81

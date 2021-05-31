@@ -13,8 +13,6 @@ ingredients: "1 bunch thin asparagus spears, trimmed\n3 tablespoons olive oil\n1
   1 teaspoon sea salt\n\xBD teaspoon ground black pepper\n1 tablespoon lemon juice\
   \ (Optional)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Oven-Roasted Asparagus
 p_recipe_id: 533

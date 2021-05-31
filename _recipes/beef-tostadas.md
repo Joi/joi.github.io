@@ -32,8 +32,6 @@ ingredients: '2 tablespoons vegetable oil
 
   Shredded lettuce, hot sauce and/or cilantro, for topping'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Beef Tostadas
 p_recipe_id: 439

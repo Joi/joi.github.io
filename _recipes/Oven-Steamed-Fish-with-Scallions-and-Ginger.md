@@ -15,18 +15,17 @@ ingredients: "GATHER YOUR INGREDIENTS\n8 scallions, trimmed, divided\n1 (3-inch)
   \xBC teaspoon table salt\n\xBC teaspoon white pepper\n2 tablespoons vegetable oil\n\
   \u2153 cup fresh cilantro leaves and thin stems"
 intrash: 0
-meal_dates:
-- '2020-05-06'
-- '2020-06-29'
-- '2020-07-21'
-- '2020-07-29'
-- '2020-08-15'
-- '2020-11-20'
-- '2020-12-19'
-- '2021-02-02'
-- '2021-03-21'
-- '2021-05-18'
-meal_types: 3|3|3|3|3|3|3|3|3|3
+meal_notes:
+- 2020-05-06-dinner
+- 2020-06-29-dinner
+- 2020-07-21-dinner
+- 2020-07-29-dinner
+- 2020-08-15-dinner
+- 2020-11-20-dinner
+- 2020-12-19-dinner
+- 2021-02-02-dinner
+- 2021-03-21-dinner
+- 2021-05-18-dinner
 mine: null
 name: Oven-Steamed Fish with Scallions and Ginger
 p_recipe_id: 22

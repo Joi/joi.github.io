@@ -23,8 +23,6 @@ ingredients: '1 pound elbows, shells, cavatappi, farfalle, fusilli or other shor
 
   Freshly ground pepper'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Creamy Weeknight Macaroni and Cheese
 p_recipe_id: 134

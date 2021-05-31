@@ -14,8 +14,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n1\xBD teaspoons paprika\n\xBD teaspoon ca
   \ butter\n2 teaspoons molasses\n\xBC teaspoon cornstarch\n2 tablespoons crumbled\
   \ blue cheese"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Air-Fryer Buffalo Chicken Drumsticks
 p_recipe_id: 83

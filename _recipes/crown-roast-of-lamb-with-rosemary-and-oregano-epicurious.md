@@ -23,8 +23,6 @@ ingredients: '1/4 cup chopped fresh rosemary
 
   Olive oil'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Crown Roast of Lamb with Rosemary and Oregano - Epicurious
 p_recipe_id: 250

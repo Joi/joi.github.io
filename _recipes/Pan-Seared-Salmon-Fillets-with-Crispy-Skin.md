@@ -10,10 +10,9 @@ favorite: 0
 image_url: https://www.seriouseats.com/images/2017/01/20170109-pan-seared-salmon-01-200x150.jpg
 ingredients: More Breadcrumbs
 intrash: 0
-meal_dates:
-- '2020-08-21'
-- '2021-02-27'
-meal_types: 3|3
+meal_notes:
+- 2020-08-21-dinner
+- 2021-02-27-dinner
 mine: null
 name: Pan-Seared Salmon Fillets with Crispy Skin
 p_recipe_id: 304

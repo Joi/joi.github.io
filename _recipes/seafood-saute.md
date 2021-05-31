@@ -26,8 +26,6 @@ ingredients: '2 lb. frozen mixed seafood*
 
   2 tablespoons chopped parsley'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Seafood Saute
 p_recipe_id: 351

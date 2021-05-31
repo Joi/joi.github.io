@@ -46,8 +46,6 @@ ingredients: 'SHORTBREAD
 
   Finely grated lemon zest, for garnish'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Asparagus Soup with Parmesan Shortbread Coins
 p_recipe_id: 217

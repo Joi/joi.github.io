@@ -12,8 +12,6 @@ ingredients: "2 racks of beef back ribs (7 bones each)\nYellow mustard\n2 racks 
   \ beef back ribs (7 bones each)\nYellow mustard\nJeff\u2019s original rub\nPlastic\
   \ wrap"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Smoked Beef Back Ribs
 p_recipe_id: 420

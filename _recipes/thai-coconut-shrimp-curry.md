@@ -15,8 +15,6 @@ ingredients: "1 pound raw shrimp, cleaned and prepped (thaw if frozen)\n1-2 TBSP
   \ chopped Thai basil for topping\nlime wedges for serving\ncrushed red pepper flakes\
   \ (optional extra for a spicier curry) season to taste"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Thai Coconut Shrimp Curry
 p_recipe_id: 384
