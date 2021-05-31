@@ -18,8 +18,6 @@ ingredients: "Base\n\xBD cup rolled old fashioned oats\n\xBD cup milk of choice\
   \ chips\nAlmond Joy\n\xBC cup shredded coconut\n1 tablespoon almonds chopped\n1\
   \ tablespoon chocolate chips\n2 teaspoons maple syrup"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Easy Overnight Oats
 p_recipe_id: 62

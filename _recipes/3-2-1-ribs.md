@@ -20,8 +20,6 @@ ingredients: '1 rack baby back ribs
 
   1/2 cup BBQ sauce'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: 3 2 1 Ribs
 p_recipe_id: 364

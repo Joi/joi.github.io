@@ -17,8 +17,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 fennel bulb, stalks discarded, bulb hal
   \ pounds bone-in chicken pieces (2 split breasts cut in half crosswise, 2 drumsticks,\
   \ and 2 thighs), trimmed"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: One-Pan Roast Chicken with Fennel and Parsnips
 p_recipe_id: 87

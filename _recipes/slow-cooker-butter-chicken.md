@@ -17,8 +17,6 @@ ingredients: "3 tablespoons vegetable oil\n1 medium yellow onion, diced\n3 clove
   \ garnish (optional)\nCooked basmati or jasmine rice, for serving\nNaan, for serving\
   \ (optional)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Slow-Cooker Butter Chicken
 p_recipe_id: 111

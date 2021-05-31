@@ -26,9 +26,8 @@ ingredients: '1 large bunch organic kale (curly or lacinato)
 
   1 Tbsp. olive oil (omit for oil-free)'
 intrash: 0
-meal_dates:
-- '2020-08-03'
-meal_types: '3'
+meal_notes:
+- 2020-08-03-dinner
 mine: null
 name: Marinated Kale Salad
 p_recipe_id: 288

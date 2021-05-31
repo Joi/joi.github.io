@@ -17,12 +17,11 @@ ingredients: "FOR THE AIOLI:\n1 to 2 garlic cloves, finely grated or mashed to a
   4 tablespoons unsalted butter\n1 \xBD pounds asparagus, woody ends trimmed, cut\
   \ into 1 1/4-inch pieces\n2 red or regular scallions, thinly sliced"
 intrash: 0
-meal_dates:
-- '2020-04-30'
-- '2020-05-22'
-- '2020-06-16'
-- '2020-10-02'
-meal_types: 3|3|3|3
+meal_notes:
+- 2020-04-30-dinner
+- 2020-05-22-dinner
+- 2020-06-16-dinner
+- 2020-10-02-dinner
 mine: null
 name: Pan-Seared Hake and Asparagus with Aioli
 p_recipe_id: 131

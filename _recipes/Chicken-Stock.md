@@ -32,16 +32,15 @@ ingredients: '7 lb chicken parts
 
   1 tsp white wine vinegar '
 intrash: 0
-meal_dates:
-- '2020-09-26'
-- '2020-09-26'
-- '2020-11-14'
-- '2020-12-13'
-- '2021-01-03'
-- '2021-01-31'
-- '2021-03-27'
-- '2021-05-15'
-meal_types: 3|4|4|4|4|5|5|5
+meal_notes:
+- 2020-09-26-dinner
+- 2020-09-26-snacks
+- 2020-11-14-snacks
+- 2020-12-13-snacks
+- 2021-01-03-snacks
+- 2021-01-31-pantry
+- 2021-03-27-pantry
+- 2021-05-15-pantry
 mine: 1
 name: Chicken Stock
 p_recipe_id: 330

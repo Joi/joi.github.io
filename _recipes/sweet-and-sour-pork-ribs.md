@@ -12,8 +12,6 @@ ingredients: "\xBD oz vegetable oil\n\xBD oz fresh ginger, thinly sliced\n18 oz 
   \ spare ribs, cut into pieces (2 in.)\n2 oz crumb rock sugar\n1 oz Chinese rice\
   \ wine (Shaoxing Hua Diao)\n2 oz rice vinegar\n1 oz soy sauce"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Sweet and Sour Pork Ribs
 p_recipe_id: 7

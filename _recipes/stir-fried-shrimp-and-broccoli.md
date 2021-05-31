@@ -16,8 +16,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 pound extra-large (21-25) shrimp, peele
   \ peeled and sliced 1/4 inch thick\n1 tablespoon grated fresh ginger\n2 garlic cloves,\
   \ minced"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Stir-Fried Shrimp and Broccoli
 p_recipe_id: 28

@@ -12,9 +12,8 @@ ingredients: "1 \xBD pounds fresh pasta (capellini or fettuccine)\n\xBD cup unsa
   \ butter\n1 \xBD cups freshly grated Parmesan cheese\n1 cup heavy cream\nCoarse\
   \ salt and freshly ground pepper to taste\nAbout 1 ounce white truffle"
 intrash: 0
-meal_dates:
-- '2020-11-25'
-meal_types: '3'
+meal_notes:
+- 2020-11-25-dinner
 mine: null
 name: Pasta with White Truffles
 p_recipe_id: 418

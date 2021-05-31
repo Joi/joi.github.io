@@ -12,8 +12,6 @@ ingredients: "1 Hamachi Kama (available in Japanese market)\n1 tsp neutral-flavo
   \ oil (vegetable, canola, etc)\nLemon (slice, optional)\n1 Tbsp soy sauce\n\xBD\
   \ tsp . yuzu juice/yuzu extract"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Hamachi Kama
 p_recipe_id: 305

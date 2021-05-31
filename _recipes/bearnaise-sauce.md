@@ -13,9 +13,8 @@ ingredients: "\xBC cup white-wine vinegar\n1 small shallot, peeled and minced\n\
   \ leaves\n2 egg yolks\n12 tablespoons unsalted butter, melted\nKosher salt, to taste\n\
   Splash of lemon juice, optional"
 intrash: 0
-meal_dates:
-- '2020-08-17'
-meal_types: '3'
+meal_notes:
+- 2020-08-17-dinner
 mine: null
 name: "B\xE9arnaise Sauce"
 p_recipe_id: 312

@@ -38,11 +38,10 @@ ingredients: '4 1/2 cups chicken stock
 
   1/4 cup chopped parsley, for garnish'
 intrash: 0
-meal_dates:
-- '2020-08-18'
-- '2020-11-10'
-- '2020-12-08'
-meal_types: 3|3|3
+meal_notes:
+- 2020-08-18-dinner
+- 2020-11-10-dinner
+- 2020-12-08-dinner
 mine: null
 name: Seafood Paella
 p_recipe_id: 313

@@ -19,8 +19,6 @@ ingredients: "FOR THE MEATBALLS:\n1 \xBD pounds ground lamb (or substitute groun
   \ tomatoes with their juices\n1 cup chicken or beef broth (or chickpea cooking liquid)\n\
   6 cups cooked chickpeas\n\xBD cup chopped parsley, cilantro or a combination"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Spicy Meatballs with Chickpeas
 p_recipe_id: 104

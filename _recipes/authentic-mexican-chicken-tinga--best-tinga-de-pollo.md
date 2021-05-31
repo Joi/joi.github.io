@@ -30,9 +30,8 @@ ingredients: '3-4 medium size chicken breast
 
   1/4 teaspoon black pepper'
 intrash: 0
-meal_dates:
-- '2020-11-05'
-meal_types: '3'
+meal_notes:
+- 2020-11-05-dinner
 mine: null
 name: Authentic Mexican Chicken Tinga- Best Tinga De Pollo
 p_recipe_id: 402

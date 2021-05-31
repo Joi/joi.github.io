@@ -15,8 +15,6 @@ ingredients: "4 guajillo peppers\n4 ancho peppers\n3 cups hot water or enough to
   \ Mexican oregano or use oregano\n\xBD teaspoon sugar optional, to taste \u2013\
   \ see my NOTES on Optional Spices\nSalt to taste"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Adobo Sauce
 p_recipe_id: 308

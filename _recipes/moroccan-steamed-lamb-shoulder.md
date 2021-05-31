@@ -18,8 +18,6 @@ ingredients: "FOR THE LAMB:\n1 tied boneless lamb shoulder roast, about 4 pounds
   \ paste\n\xBC teaspoon cayenne\n\xBD teaspoon ground cumin\n\xBD cup olive oil\n\
   Salt to taste"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Moroccan Steamed Lamb Shoulder
 p_recipe_id: 146

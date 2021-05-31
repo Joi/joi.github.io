@@ -13,8 +13,6 @@ ingredients: "5 tablespoons butter\n2 tablespoons chopped onion\n4 cups fresh sp
   \ parsley\nSalt and freshly ground pepper\n2 pounds pollock or haddock fillets\n\
   \xBD cup heavy cream\n2 tablespoons freshly grated Parmesan cheese"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Pollock or Haddock with Spinach
 p_recipe_id: 66

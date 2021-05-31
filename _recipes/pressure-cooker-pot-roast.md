@@ -20,8 +20,6 @@ ingredients: "FOR THE POT ROAST:\n4 pounds beef chuck roast, cut in half\nKosher
   \ frozen pearl onions (or 1 yellow or red onion, peeled and thinly sliced)\nKosher\
   \ salt"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Pressure Cooker Pot Roast
 p_recipe_id: 115

@@ -16,11 +16,10 @@ ingredients: "\xBD cup all-purpose flour\n4 fillets - I like sole, flounder, sal
   \ unsalted butter\n\xBC cup slivered almonds or other crushed nuts\n1 Tbsp chopped\
   \ fresh parsley\n1 \xBD Tbsp lemon juice\n1 lemon, cut in wedges for garnish"
 intrash: 0
-meal_dates:
-- '2021-01-15'
-- '2021-04-16'
-- '2021-04-27'
-meal_types: 3|3|3
+meal_notes:
+- 2021-01-15-dinner
+- 2021-04-16-dinner
+- 2021-04-27-dinner
 mine: 1
 name: Fish Meuniere
 p_recipe_id: 47

@@ -14,8 +14,6 @@ ingredients: 'Basic Salsa Verde
 
   3 cups neutral-tasting oil for frying'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Fried Sage Salsa Verde
 p_recipe_id: 252

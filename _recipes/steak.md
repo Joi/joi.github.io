@@ -10,12 +10,11 @@ favorite: 0
 image_url: null
 ingredients: null
 intrash: 0
-meal_dates:
-- '2021-03-27'
-- '2020-08-02'
-- '2020-08-12'
-- '2021-05-17'
-meal_types: 3|3|3|3
+meal_notes:
+- 2021-03-27-dinner
+- 2020-08-02-dinner
+- 2020-08-12-dinner
+- 2021-05-17-dinner
 mine: 1
 name: Steak
 p_recipe_id: 494

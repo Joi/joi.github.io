@@ -11,8 +11,6 @@ image_url: https://dontwastethecrumbs.com/wp-content/uploads/2019/12/Apple-Cider
 ingredients: "1 Tbsp Raw Apple Cider Vinegar\n1 Tbsp Fresh Lemon Juice\n\xBC tsp Ginger\n\
   1 Tbsp Raw Honey\nDash Cayenne Pepper\n1/4 tsp Turmeric\n1/8 tsp Cinnamon"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Apple Cider Vinegar Shot
 p_recipe_id: 136

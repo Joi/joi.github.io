@@ -33,8 +33,6 @@ ingredients: '1 tablespoon vegetable oil
 
   Lime wedges, for serving'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Thai Shrimp Curry
 p_recipe_id: 383

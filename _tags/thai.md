@@ -11,19 +11,19 @@ recipes:
 - mine: null
   p_recipe_id: 527
   permalink: /recipes/authentic-thai-green-curry-recipe
-  photo_thumb: authentic-thai-green-curry-recipe-thumb.jpg
+  photo_thumb: 04AE5F0A-2A00-4254-AA4A-87687335A099-22216-00016D8048A924BC.jpg
   rating: 0
   title: Authentic Thai Green Curry Recipe
 - mine: null
   p_recipe_id: 528
   permalink: /recipes/thai-green-curry
-  photo_thumb: thai-green-curry-thumb.jpg
+  photo_thumb: D72F9126-2CC7-451E-83C6-2248DEDFDB6C.jpg
   rating: 5
   title: Thai Green Curry
 - mine: null
   p_recipe_id: 532
   permalink: /recipes/tom-yum-soup-thai-soup
-  photo_thumb: tom-yum-soup-thai-soup-thumb.jpg
+  photo_thumb: CCD84710-EEFF-486B-BBA1-C8956C17C22D-16044-0004D50F4AD55E6C.jpg
   rating: 0
   title: Tom Yum Soup (Thai Soup)
 rel_tags_count:

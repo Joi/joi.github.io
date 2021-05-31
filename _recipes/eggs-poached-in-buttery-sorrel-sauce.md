@@ -14,9 +14,8 @@ ingredients: "2 fat scallions, trimmed\n2 tablespoons unsalted butter\n1 large b
   \ Turkish or crushed red pepper\nFlaky salt, like Maldon, for serving\nButtered\
   \ toast, for serving"
 intrash: 0
-meal_dates:
-- '2021-04-11'
-meal_types: '2'
+meal_notes:
+- 2021-04-11-lunch
 mine: null
 name: Eggs Poached in Buttery Sorrel Sauce
 p_recipe_id: 508

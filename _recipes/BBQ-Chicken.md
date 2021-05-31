@@ -21,10 +21,9 @@ ingredients: 'Whole chicken
 
   Skewer'
 intrash: 0
-meal_dates:
-- '2020-09-06'
-- '2021-05-20'
-meal_types: 3|3
+meal_notes:
+- 2020-09-06-dinner
+- 2021-05-20-dinner
 mine: 1
 name: BBQ Chicken
 p_recipe_id: 341

@@ -26,9 +26,8 @@ ingredients: '1 6-ounce can of oil-packed tuna, drained
 
   2 slices of Swiss cheese'
 intrash: 0
-meal_dates:
-- '2021-04-11'
-meal_types: '2'
+meal_notes:
+- 2021-04-11-lunch
 mine: null
 name: 'Dinner Tonight: Tuna Melt'
 p_recipe_id: 512

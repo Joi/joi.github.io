@@ -13,8 +13,6 @@ ingredients: "2 racks beef ribs, 5 to 7 pounds total (see Note 1)\n3 tablespoons
   1 tablespoon paprika\nRed pepper flakes, to taste\n\xBC cup finely ground hickory\
   \ chips, preferably Cameron (see Note 2)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Indoor-Smoked Salt-And-Pepper Beef Ribs
 p_recipe_id: 79

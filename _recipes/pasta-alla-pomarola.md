@@ -22,8 +22,6 @@ ingredients: "Extra-virgin olive oil\r2 medium red or yellow onions, sliced thin
   \ or 1 tablespoon dried oregano\r3 /4 pound spaghetti, bucatini, penne, or rigatoni\r\
   Parmesan, pecorino Romano, or ricotta salata for serving"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Pasta alla Pomarola
 p_recipe_id: 226

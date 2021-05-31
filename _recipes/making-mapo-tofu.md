@@ -16,8 +16,6 @@ ingredients: "Mapo Tofu\n1 \xBD packages of firm tofu (firm silken if possible)\
   \xBC cup finely sliced scallions\nChili Oil\n1 cup dried red chilies\n1 \xBD cups\
   \ vegetable oil"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Making Mapo Tofu
 p_recipe_id: 482

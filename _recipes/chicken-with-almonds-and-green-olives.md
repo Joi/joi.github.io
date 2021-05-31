@@ -14,8 +14,6 @@ ingredients: "6 tablespoons olive oil\n\xBD cup blanched almonds (preferably Mar
   Sea salt\nFlour, for dusting\n1 dried red chili\n1 Spanish onion, sliced\n\xBD cup\
   \ white wine\n1 cup chicken broth\n\xBD cup pitted green olives"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Chicken with Almonds and Green Olives
 p_recipe_id: 82

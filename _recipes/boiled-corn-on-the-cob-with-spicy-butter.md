@@ -20,9 +20,8 @@ ingredients: '4 large fresh corn on the cob, shucked
 
   1 teaspoon ground cumin'
 intrash: 0
-meal_dates:
-- '2020-07-04'
-meal_types: '3'
+meal_notes:
+- 2020-07-04-dinner
 mine: null
 name: Boiled Corn on the Cob with Spicy Butter
 p_recipe_id: 228

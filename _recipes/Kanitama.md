@@ -17,11 +17,10 @@ ingredients: "5 eggs\n\xBD pound of crab - shredded\n1 cup of shiitake mushrooms
   1 Tbsp Shaoxing wine\n1 Tbsp sugar\n1 Tbsp rice vinegar\n\u2153 tsp salt\n1 tsp\
   \ soy sauce\n1 Tbsp potato starch dissolved in 1 Tbsp of water"
 intrash: 0
-meal_dates:
-- '2021-01-20'
-- '2021-02-16'
-- '2021-03-16'
-meal_types: 3|3|3
+meal_notes:
+- 2021-01-20-dinner
+- 2021-02-16-dinner
+- 2021-03-16-dinner
 mine: 1
 name: Kanitama
 p_recipe_id: 454

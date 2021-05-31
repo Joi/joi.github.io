@@ -31,12 +31,11 @@ ingredients: '1 Tbsp light oil
 
   Salt and pepper'
 intrash: 0
-meal_dates:
-- '2021-01-02'
-- '2020-12-06'
-- '2021-02-20'
-- '2020-12-07'
-meal_types: 3|3|5|3
+meal_notes:
+- 2021-01-02-dinner
+- 2020-12-06-dinner
+- 2021-02-20-pantry
+- 2020-12-07-dinner
 mine: 1
 name: Oxtail Jus
 p_recipe_id: 488

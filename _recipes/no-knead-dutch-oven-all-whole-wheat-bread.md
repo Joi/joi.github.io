@@ -16,8 +16,6 @@ ingredients: '4 cups whole wheat flour
 
   2 cups water room temperature'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: No Knead Dutch Oven All Whole Wheat Bread
 p_recipe_id: 120

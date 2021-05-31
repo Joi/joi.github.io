@@ -20,9 +20,8 @@ ingredients: "**Sauce**\n\n2 Tbsp heavy cream\n2 Tbsp condensed milk\n\u2153 tsp
   \ of salt\nPinch of pepper\nStarch\nSplash of sesame oil\n60g of raw egg\nFrying\
   \ oil\nNuts, cashew or similar\nCilantro, chopped\n"
 intrash: 0
-meal_dates:
-- '2021-03-28'
-meal_types: '3'
+meal_notes:
+- 2021-03-28-dinner
 mine: 1
 name: Shrimp with Mayonnaise - ebimayo
 p_recipe_id: 497

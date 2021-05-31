@@ -12,8 +12,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 teaspoon olive oil\n1 shallot, sliced t
   4 ounces white or cremini mushrooms, trimmed and chopped\n\u215B teaspoon table\
   \ salt\n1 teaspoon balsamic vinegar"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Mushroom Filling
 p_recipe_id: 35

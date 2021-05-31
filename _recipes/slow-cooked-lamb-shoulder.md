@@ -34,8 +34,6 @@ ingredients: '1.8kg / 3.5 lb lamb shoulder (bone in) (Note 1)
 
   Salt and pepper'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Slow Cooked Lamb Shoulder
 p_recipe_id: 165

@@ -14,9 +14,8 @@ ingredients: "2 tbsp. mirin rice wine (or white wine)\n1 cup water or veggie sto
   Sea salt\n1 lb. halibut, cut into 4 four ounce pieces\n2 tbsp. unsalted grass-fed\
   \ butter\n1 tbsp. lemon juice and zest\n1 garlic clove, peeled and sliced thin"
 intrash: 0
-meal_dates:
-- '2020-08-25'
-meal_types: '3'
+meal_notes:
+- 2020-08-25-dinner
 mine: null
 name: Poached Halibut with Aromatic Herbs and Mirin
 p_recipe_id: 296

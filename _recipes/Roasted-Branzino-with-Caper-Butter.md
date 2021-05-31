@@ -26,14 +26,13 @@ ingredients: '1 stick unsalted butter, softened
 
   3 tablespoons extra-virgin olive oil'
 intrash: 0
-meal_dates:
-- '2020-11-24'
-- '2020-12-23'
-- '2021-01-13'
-- '2021-02-13'
-- '2021-05-02'
-- '2021-05-29'
-meal_types: 3|3|3|3|2|3
+meal_notes:
+- 2020-11-24-dinner
+- 2020-12-23-dinner
+- 2021-01-13-dinner
+- 2021-02-13-dinner
+- 2021-05-02-lunch
+- 2021-05-29-dinner
 mine: null
 name: Roasted Branzino with Caper Butter
 p_recipe_id: 417

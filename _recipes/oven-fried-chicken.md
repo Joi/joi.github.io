@@ -13,9 +13,8 @@ ingredients: "7 cloves garlic, peeled\nchicken drumsticks and thighs, I used 6 d
   \ pepper, divided\n2 cups buttermilk\n2 cups panko breadcrumbs\n1 cup flour\n1 Tbsp\
   \ dried parsley\n1.5 tsp seasoned salt"
 intrash: 0
-meal_dates:
-- '2021-01-27'
-meal_types: '3'
+meal_notes:
+- 2021-01-27-dinner
 mine: null
 name: Oven Fried Chicken
 p_recipe_id: 463

@@ -30,9 +30,8 @@ ingredients: '2 lbs shrimp (size 51-60 headless with peel-on and tail-on)
 
   1 green onion (optional; slice into 1-inch segments)'
 intrash: 0
-meal_dates:
-- '2021-04-12'
-meal_types: '3'
+meal_notes:
+- 2021-04-12-dinner
 mine: null
 name: Vietnamese Caramelized Shrimp (Tom Rim)
 p_recipe_id: 515

@@ -22,8 +22,6 @@ ingredients: 'For the Pasta:
 
   4 tablespoons extra virgin olive oil'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Spaghetti with Bottarga
 p_recipe_id: 355

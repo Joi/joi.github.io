@@ -15,8 +15,6 @@ ingredients: "1 (7- to 8-pound) bone-in, skin-on pork shoulder roast, or a 6- to
   \ kosher salt\n1 teaspoon fennel seed\n\xBE teaspoon red pepper flakes\n\xBD teaspoon\
   \ black pepper\n\xBC cup extra-virgin olive oil"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Porchetta Pork Roast
 p_recipe_id: 188

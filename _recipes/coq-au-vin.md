@@ -22,8 +22,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n3 pounds chicken drumsticks (about 4 legs
   2 - 3 tablespoons unbleached all-purpose flour\n2 tablespoons minced fresh parsley\
   \ leaves"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Coq Au Vin
 p_recipe_id: 85

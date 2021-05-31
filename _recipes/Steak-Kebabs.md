@@ -46,8 +46,6 @@ ingredients: 'Marinade
 
   10 wooden skewer sticks'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Steak Kebabs
 p_recipe_id: 268

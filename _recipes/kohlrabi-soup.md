@@ -17,9 +17,8 @@ ingredients: "4 cups of peeled and cubed kohlrabi, turnip, white daikon, or caul
   \ chives or scallions\noptional\u20142 Tbsp brown butter for drizzling over the\
   \ top\noptional\u2014sumac for sprinkling over the top\n"
 intrash: 0
-meal_dates:
-- '2021-03-08'
-meal_types: '3'
+meal_notes:
+- 2021-03-08-dinner
 mine: 1
 name: Kohlrabi Soup
 p_recipe_id: 485

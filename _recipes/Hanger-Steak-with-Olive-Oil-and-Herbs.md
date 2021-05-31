@@ -14,10 +14,9 @@ ingredients: "2 tablespoons Worcestershire sauce\n2 tablespoons soy sauce\n2 tab
   \ quartered\n5 tablespoons herbaceous extra virgin olive oil\n6 ounces greens, preferably\
   \ baby spinach\n\xBD cup coarsely chopped herbs\n1 teaspoon grated lemon zest"
 intrash: 0
-meal_dates:
-- '2020-05-05'
-- '2020-09-26'
-meal_types: 3|3
+meal_notes:
+- 2020-05-05-dinner
+- 2020-09-26-dinner
 mine: null
 name: Hanger Steak with Olive Oil and Herbs
 p_recipe_id: 137

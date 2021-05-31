@@ -13,16 +13,15 @@ ingredients: "Lots of chopped cilantro\n\xBD jalapeno, sliced\n1 tsp grated fres
   2 Tbsp extra-virgin olive oil\n2 Tbsp extra-light olive old or other cooking oil\n\
   Sushi-grade tuna\n1 avocado sliced\nSalt and pepper"
 intrash: 0
-meal_dates:
-- '2020-09-15'
-- '2020-10-16'
-- '2020-11-17'
-- '2020-12-11'
-- '2021-01-08'
-- '2021-01-22'
-- '2021-03-02'
-- '2021-04-09'
-meal_types: 3|3|3|3|3|3|3|3
+meal_notes:
+- 2020-09-15-dinner
+- 2020-10-16-dinner
+- 2020-11-17-dinner
+- 2020-12-11-dinner
+- 2021-01-08-dinner
+- 2021-01-22-dinner
+- 2021-03-02-dinner
+- 2021-04-09-dinner
 mine: 1
 name: "Tuna Tataki with Lime, Ginger and Jalape\xF1o"
 p_recipe_id: 354

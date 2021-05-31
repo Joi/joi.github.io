@@ -13,8 +13,6 @@ ingredients: "\xBE teaspoon dried rosemary\n\xBC teaspoon dried basil\n\xBD teas
   \ olive oil\n\xBC cup minced shallots\n\u2153 cup aged balsamic vinegar\n\xBE cup\
   \ chicken broth\n1 tablespoon butter"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Lamb Chops with Balsamic Reduction
 p_recipe_id: 435

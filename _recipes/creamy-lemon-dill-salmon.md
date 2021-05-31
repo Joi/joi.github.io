@@ -32,10 +32,9 @@ ingredients: '4 center cut filets of salmon about 1/3 lb each
 
   more fresh chopped dill'
 intrash: 0
-meal_dates:
-- '2020-12-01'
-- '2020-12-12'
-meal_types: 3|3
+meal_notes:
+- 2020-12-01-dinner
+- 2020-12-12-dinner
 mine: null
 name: Creamy Lemon Dill Salmon
 p_recipe_id: 422

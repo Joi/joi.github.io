@@ -17,8 +17,6 @@ ingredients: "Ayran Drink\n9 oz plain Greek yogurt, whole fat\n9 oz cold water, 
   \ divided\n8 oz ground lamb\n6 oz pear tomatoes, halved\n12 large eggs, organic,\
   \ pasture-raised"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Sausage and Veggie Frittata and Ayran Drink
 p_recipe_id: 2

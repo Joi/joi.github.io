@@ -15,9 +15,8 @@ ingredients: "8 chicken thighs, skin-on and bone-in, about 3 1/2 pounds\nSalt an
   \ of black and green, about 1 pound\n1 cup chicken broth\n3 tablespoons chopped\
   \ parsley"
 intrash: 0
-meal_dates:
-- '2020-03-29'
-meal_types: '3'
+meal_notes:
+- 2020-03-29-dinner
 mine: null
 name: Braised Chicken with Lemon and Olives
 p_recipe_id: 72

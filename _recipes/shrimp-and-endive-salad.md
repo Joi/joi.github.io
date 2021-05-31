@@ -25,9 +25,8 @@ ingredients: 'Endive
 
   Pepper'
 intrash: 0
-meal_dates:
-- '2020-07-05'
-meal_types: '3'
+meal_notes:
+- 2020-07-05-dinner
 mine: 1
 name: Shrimp and Endive Salad
 p_recipe_id: 490

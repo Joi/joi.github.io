@@ -19,8 +19,6 @@ ingredients: "Meat Sauce:\n0.5 tablespoon olive oil\n0.5 onion, finely chopped\n
   \ parmesan\nLasagna:\n6.5 ounces (375 grams) fresh lasagna sheets*\n8.5 ounces (500\
   \ grams) fresh mozzarella cheese, shredded\n1 tablespoons finely chopped fresh parsley"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Best Lasagna
 p_recipe_id: 336

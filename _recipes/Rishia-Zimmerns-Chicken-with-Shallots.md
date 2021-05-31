@@ -28,11 +28,10 @@ ingredients: '8 bone-in chicken thighs
 
   2 cups cherry tomatoes, cut in half.'
 intrash: 0
-meal_dates:
-- '2020-04-02'
-- '2020-06-11'
-- '2021-03-11'
-meal_types: 3|3|3
+meal_notes:
+- 2020-04-02-dinner
+- 2020-06-11-dinner
+- 2021-03-11-dinner
 mine: null
 name: "Rishia Zimmern\u2019s Chicken with Shallots"
 p_recipe_id: 15

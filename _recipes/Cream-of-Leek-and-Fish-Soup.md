@@ -26,9 +26,8 @@ ingredients: '8 cups (2 litres) chicken broth
 
   Salt and pepper'
 intrash: 0
-meal_dates:
-- '2020-09-23'
-meal_types: '3'
+meal_notes:
+- 2020-09-23-dinner
 mine: null
 name: Cream of Leek and Fish Soup
 p_recipe_id: 368

@@ -14,9 +14,8 @@ ingredients: "1 (8 bone) rack or lamb\n4 medium cloves of garlic, skinned, stemm
   \ pepper\nCoarse salt to taste\nOptional. Add 1 tablespoon finely chopped fresh\
   \ mint leaves."
 intrash: 0
-meal_dates:
-- '2020-08-08'
-meal_types: '3'
+meal_notes:
+- 2020-08-08-dinner
 mine: null
 name: 'Rack of Lamb Three Ways: Grilled Lamb Lollipops, Lamb Ribeyes, and Whole Rack
   of Lamb'

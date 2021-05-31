@@ -18,9 +18,8 @@ ingredients: '153 grams 00 flour (1 cup plus 1 tablespoon)
 
   4 grams extra-virgin olive oil (1 teaspoon)'
 intrash: 0
-meal_dates:
-- '2021-02-03'
-meal_types: '2'
+meal_notes:
+- 2021-02-03-lunch
 mine: null
 name: "Roberta\u2019s Pizza Dough"
 p_recipe_id: 466

@@ -30,9 +30,8 @@ ingredients: '1 cup all-purpose flour
 
   Lemon wedges'
 intrash: 0
-meal_dates:
-- '2020-05-30'
-meal_types: '2'
+meal_notes:
+- 2020-05-30-lunch
 mine: null
 name: Flounder with Brown Butter, Lemon and Tarragon
 p_recipe_id: 175

@@ -10,8 +10,6 @@ favorite: 0
 image_url: https://www.seriouseats.com/images/2016/05/20160512-octopus-vicky-wasik-1-1500x1125.jpg
 ingredients: More Breadcrumbs
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: The Best Ways to Cook Octopus
 p_recipe_id: 380

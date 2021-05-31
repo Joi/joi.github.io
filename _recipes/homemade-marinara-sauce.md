@@ -24,9 +24,8 @@ ingredients: '2 (28 oz) cans San Marzano Tomatoes
 
   Shredded Parmesan or Romano cheese and chopped basil, for serving'
 intrash: 0
-meal_dates:
-- '2020-12-16'
-meal_types: '3'
+meal_notes:
+- 2020-12-16-dinner
 mine: null
 name: Homemade Marinara Sauce
 p_recipe_id: 432

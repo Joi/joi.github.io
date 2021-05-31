@@ -17,17 +17,16 @@ ingredients: 'Prime Rib
 
   Pepper'
 intrash: 0
-meal_dates:
-- '2020-10-04'
-- '2020-12-06'
-- '2021-01-02'
-- '2021-02-20'
-- '2020-12-20'
-- '2020-08-17'
-- '2020-12-07'
-- '2021-04-04'
-- '2020-12-26'
-meal_types: 3|3|3|3|3|3|3|3|3
+meal_notes:
+- 2020-10-04-dinner
+- 2020-12-06-dinner
+- 2021-01-02-dinner
+- 2021-02-20-dinner
+- 2020-12-20-dinner
+- 2020-08-17-dinner
+- 2020-12-07-dinner
+- 2021-04-04-dinner
+- 2020-12-26-dinner
 mine: 1
 name: Prime Rib
 p_recipe_id: 317

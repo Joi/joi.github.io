@@ -21,10 +21,9 @@ ingredients: '1 tablespoon ground Chinese cassia cinnamon (1 part)
   1 tablespoon sand ginger powder (1 part; equivalent to about 4 grams dried sand
   ginger slices, optional)'
 intrash: 0
-meal_dates:
-- '2020-11-08'
-- '2021-04-07'
-meal_types: 3|5
+meal_notes:
+- 2020-11-08-dinner
+- 2021-04-07-pantry
 mine: null
 name: Our Five Spice Powder
 p_recipe_id: 405

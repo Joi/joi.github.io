@@ -11,10 +11,9 @@ image_url: null
 ingredients: "1 rack Pork ribs\n\xBD cup Brown sugar (100g)\n1 Tbsp Kosher salt (18g)\n\
   2 tsp Garlic powder (8g)\n2 tsp Onion powder (8g)\n2 tsp Paprika (6g)"
 intrash: 0
-meal_dates:
-- '2021-05-16'
-- '2021-05-30'
-meal_types: 3|3
+meal_notes:
+- 2021-05-16-dinner
+- 2021-05-30-dinner
 mine: null
 name: Ribs 101
 p_recipe_id: 530

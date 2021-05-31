@@ -15,9 +15,8 @@ ingredients: "1 \xBD pounds Pacific sole or flounder fillets\nSalt and freshly g
   \ capers, rinsed and coarsely chopped\n\xBC cup fresh lemon juice\n3 tablespoons\
   \ extra-virgin olive oil\n2 to 4 tablespoons finely chopped parsley"
 intrash: 0
-meal_dates:
-- '2020-04-16'
-meal_types: '3'
+meal_notes:
+- 2020-04-16-dinner
 mine: null
 name: Oven-Poached Pacific Sole with Lemon Caper Sauce
 p_recipe_id: 51

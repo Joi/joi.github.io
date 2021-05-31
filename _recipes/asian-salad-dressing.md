@@ -38,9 +38,8 @@ ingredients: '2 tablespoons canola oil (see note 1)
 
   1/8 teaspoon garlic powder'
 intrash: 0
-meal_dates:
-- '2020-10-22'
-meal_types: '3'
+meal_notes:
+- 2020-10-22-dinner
 mine: null
 name: Asian Salad Dressing
 p_recipe_id: 392

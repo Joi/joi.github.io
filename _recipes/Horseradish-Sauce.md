@@ -22,10 +22,9 @@ ingredients: '1/2 cup sour cream
 
   1 Tbsp chives finely chopped'
 intrash: 0
-meal_dates:
-- '2020-08-17'
-- '2020-09-21'
-meal_types: 3|3
+meal_notes:
+- 2020-08-17-dinner
+- 2020-09-21-dinner
 mine: null
 name: Horseradish Sauce
 p_recipe_id: 264

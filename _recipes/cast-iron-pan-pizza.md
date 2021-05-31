@@ -29,8 +29,6 @@ ingredients: "GATHER YOUR INGREDIENTS\nDough\n2 cups (11 ounces) bread flour\n1 
   \ flakes\nPizza\n3 tablespoons extra-virgin olive oil\n4 ounces Monterey Jack cheese,\
   \ shredded (1 cup) 7 ounces whole-milk mozzarella cheese, shredded (1\xBE cups)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Cast Iron Pan Pizza
 p_recipe_id: 156

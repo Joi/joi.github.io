@@ -21,9 +21,8 @@ ingredients: "Brisket, 5 lb\n\n1. 4 Onions, sliced\n1. 4 tbsp unsalted butter\n1
   \ \xBD tsp Kosher salt\n1. 2 tbsp of Olive oil\n1. 2 tbsp Worcestershire sauce\n\
   1. 2 cup broth\nSalt and pepper"
 intrash: 0
-meal_dates:
-- '2020-09-07'
-meal_types: '3'
+meal_notes:
+- 2020-09-07-dinner
 mine: null
 name: Braised Brisket with Onions
 p_recipe_id: 342

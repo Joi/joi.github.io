@@ -18,8 +18,6 @@ ingredients: "Cheesy Stuffed Meatloaf\n2 oz Parmesan cheese\n3 garlic cloves\n1 
   \ virgin olive oil\n8 oz eggplant, cubed (1 in.)\n16 oz broccolini, cut into pieces\
   \ (2 in.)\nkosher salt, to taste\nground black pepper, to taste"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Cheesy Stuffed Meatloaf with Broccolini and Eggplant
 p_recipe_id: 105

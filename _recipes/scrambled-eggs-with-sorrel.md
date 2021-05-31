@@ -22,9 +22,8 @@ ingredients: '4 eggs
 
   '
 intrash: 0
-meal_dates:
-- '2021-04-25'
-meal_types: '2'
+meal_notes:
+- 2021-04-25-lunch
 mine: 1
 name: Scrambled Eggs with Sorrel
 p_recipe_id: 524

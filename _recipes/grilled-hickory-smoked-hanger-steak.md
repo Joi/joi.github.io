@@ -14,8 +14,6 @@ ingredients: '2 cups hickory chips
 
   Salt and freshly ground black pepper Roasted Fall-Vegetable Hash, for serving'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Grilled Hickory-Smoked Hanger Steak
 p_recipe_id: 370

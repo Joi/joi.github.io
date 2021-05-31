@@ -15,8 +15,6 @@ ingredients: "Salad\n18 oz water\n4 large eggs\n7 oz bread, cubed (\xBD in.)\n3 
   1 tbsp Worcestershire sauce\n\xBC tsp freshly ground pepper\n\xBC tsp salt\n2 \xBD\
   \ oz water"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Caesar Salad
 p_recipe_id: 5

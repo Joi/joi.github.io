@@ -15,8 +15,6 @@ ingredients: "3 lbs meaty beef ribs (grass-fed)\nLiquid smoke optional\n2-4 tabl
   \ kinda like our ribs a tad salty)\n1 teaspoon paprika\n2 teaspoons oregano\nFavorite\
   \ BBQ Sauce I only used a few tablespoons of Sweet Baby Ray's"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Oven Baked BBQ Beef Ribs
 p_recipe_id: 331

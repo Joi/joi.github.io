@@ -10,9 +10,8 @@ favorite: 0
 image_url: null
 ingredients: "\xBE cup orange juice\n\xBE cup sugar\nzest from one orange\n12 oz cranberries"
 intrash: 0
-meal_dates:
-- '2020-12-25'
-meal_types: '3'
+meal_notes:
+- 2020-12-25-dinner
 mine: null
 name: Make Cranberry Sauce
 p_recipe_id: 419

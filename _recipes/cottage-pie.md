@@ -16,8 +16,6 @@ ingredients: "3 garlic cloves\n8 oz yellow onions, cut into pieces\n6 oz carrots
   \ (1 in.)\n8 oz whole milk\n1 tsp salt\n\xBC tsp ground black pepper\n4 oz unsalted\
   \ butter"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Cottage Pie
 p_recipe_id: 38

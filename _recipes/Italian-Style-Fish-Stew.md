@@ -17,10 +17,9 @@ ingredients: "2 pounds white-fleshed fish fillets, such as hake, snapper or sea 
   \ canned\n3 cups fish stock, light chicken broth or water\n12 large clams\n4 thick\
   \ slices country bread\n\xBC cup chopped parsley"
 intrash: 0
-meal_dates:
-- '2020-04-11'
-- '2020-06-25'
-meal_types: 3|3
+meal_notes:
+- 2020-04-11-dinner
+- 2020-06-25-dinner
 mine: null
 name: Italian-Style Fish Stew
 p_recipe_id: 100

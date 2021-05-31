@@ -16,9 +16,8 @@ ingredients: "1 tablespoon olive oil\n1-1/2 cups diced yellow onion\n\xBD cup di
   \ nutmeg (to taste, optional)\nkosher salt and freshly-ground black pepper\ncooked\
   \ tagliatelle, pappardelle, or your favorite pasta , for serving"
 intrash: 0
-meal_dates:
-- '2020-09-02'
-meal_types: '3'
+meal_notes:
+- 2020-09-02-dinner
 mine: null
 name: Bolognese Sauce Recipe (Instant Pot)
 p_recipe_id: 334

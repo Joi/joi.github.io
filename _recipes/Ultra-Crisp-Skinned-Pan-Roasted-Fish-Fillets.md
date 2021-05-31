@@ -11,9 +11,8 @@ image_url: null
 ingredients: "4 skin-on fish fillets (about 6 ounces each)\rKosher salt and freshly\
   \ ground black pepper\r2 tablespoons vegetable or canola oil"
 intrash: 0
-meal_dates:
-- '2020-07-07'
-meal_types: '3'
+meal_notes:
+- 2020-07-07-dinner
 mine: null
 name: Ultra-Crisp-Skinned Pan-Roasted Fish Fillets
 p_recipe_id: 236

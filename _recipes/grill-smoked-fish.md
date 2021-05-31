@@ -10,11 +10,10 @@ favorite: 0
 image_url: null
 ingredients: null
 intrash: 0
-meal_dates:
-- '2020-10-21'
-- '2020-11-22'
-- '2021-05-11'
-meal_types: 3|3|3
+meal_notes:
+- 2020-10-21-dinner
+- 2020-11-22-dinner
+- 2021-05-11-dinner
 mine: 1
 name: Grill Smoked Fish
 p_recipe_id: 499

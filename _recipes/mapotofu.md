@@ -20,8 +20,6 @@ ingredients: "\u6728\u7DBF\u8C46\u8150  1\u4E01\uFF08400g\uFF09\n\u306D\u304E  1
   \u6CB9  None\n\u9152  \u5927\u3055\u30581\n\u3057\u3087\u3046\u3086  \u5927\u3055\
   \u30581\n\u3053\u3057\u3087\u3046  \u5C11\u3005"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Mapotofu
 p_recipe_id: 491

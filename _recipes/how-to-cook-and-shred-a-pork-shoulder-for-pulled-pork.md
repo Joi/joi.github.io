@@ -31,8 +31,6 @@ ingredients: '4 to 6 pounds boneless pork shoulder or butt (or 5 to 7 pounds bon
 
   1/4 to 1/2 cup barbecue sauce (optional)'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: How to Cook (And Shred) a Pork Shoulder for Pulled Pork
 p_recipe_id: 189

@@ -24,8 +24,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n4 (5- to 7-ounce) bone-in chicken thighs,
   \ garlic powder\n\xBD teaspoon dried thyme\n\xBC teaspoon cayenne pepper\n\xBD cup\
   \ buttermilk\n1 \xBD cups peanut or vegetable oil"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Fried Chicken for Two
 p_recipe_id: 157

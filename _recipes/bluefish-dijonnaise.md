@@ -12,9 +12,8 @@ ingredients: "\xBC cup mayonnaise\n3 tablespoons Dijon mustard\n\xBD teaspoon dr
   \ thyme\n4 6-ounce bluefish fillets, skin and bones removed\nKosher salt\nfreshly\
   \ ground black pepper"
 intrash: 0
-meal_dates:
-- '2020-06-05'
-meal_types: '3'
+meal_notes:
+- 2020-06-05-dinner
 mine: null
 name: Bluefish Dijonnaise
 p_recipe_id: 181

@@ -16,8 +16,6 @@ ingredients: '1-2 tablespoons coarse salt
 
   '
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: How to Cook the Perfect, Tender, Grass Fed Steak
 p_recipe_id: 89

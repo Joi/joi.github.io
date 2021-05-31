@@ -15,8 +15,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n2 tablespoons plus 1/2 teaspoon minced ga
   \ Parmesan, grated (3/4 cup), plus extra for serving\n2 tablespoons chopped fresh\
   \ parsley"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Garlicky Spaghetti with Clams
 p_recipe_id: 36

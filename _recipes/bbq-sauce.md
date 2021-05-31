@@ -14,11 +14,10 @@ ingredients: "6 Tbsp brown sugar\n\xBD cup cider vinegar\n\xBC cup molasses\n\xB
   1 tsp found allspice\n\xBC tsp ground cloves\n1\u2009\xBD tsp black pepper\n4 cups\
   \ ketchup"
 intrash: 0
-meal_dates:
-- '2020-09-03'
-- '2020-09-20'
-- '2021-05-16'
-meal_types: 3|3|5
+meal_notes:
+- 2020-09-03-dinner
+- 2020-09-20-dinner
+- 2021-05-16-pantry
 mine: 1
 name: BBQ Sauce
 p_recipe_id: 246

@@ -36,8 +36,6 @@ ingredients: '1 tablespoon (15ml) vegetable oil
 
   4 tablespoons (58g) unsalted butter'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Perfect Prime Rib with Red Wine Jus
 p_recipe_id: 426

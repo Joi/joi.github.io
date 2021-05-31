@@ -22,8 +22,6 @@ ingredients: '8 corn cobs (Full Length)
 
   1 tablespoon pimento sauce (or 2 pimento peppers sliced) (optional)'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Trinidad Boiled Corn
 p_recipe_id: 222

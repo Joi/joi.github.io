@@ -12,10 +12,9 @@ ingredients: "Pork Spare Ribs\n**Homemade Pork Seasoning Rub**\n \xBD cup brown 
   2 tsp smoked paprika\n1 Tbsp coarse ground black pepper\n1 tbsp kosher salt\n1 dash\
   \ cayenne powder\n2 Tbsp garlic powder\n2 Tbsp onion powder\n[BBQ Sauce](/recipes/bbq-sauce)"
 intrash: 0
-meal_dates:
-- '2021-01-17'
-- '2021-05-16'
-meal_types: 3|3
+meal_notes:
+- 2021-01-17-dinner
+- 2021-05-16-dinner
 mine: null
 name: BBQ Spare Ribs
 p_recipe_id: 349

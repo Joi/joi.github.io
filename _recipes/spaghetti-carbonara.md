@@ -15,8 +15,6 @@ ingredients: "Salt\n2 large eggs and 2 large yolks, room temperature\n1 ounce (a
   \ pieces about 1/4 inch thick by 1/3 inch square\n12 ounces spaghetti (about 3/4\
   \ box)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Spaghetti Carbonara
 p_recipe_id: 357

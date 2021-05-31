@@ -24,8 +24,6 @@ ingredients: '15 oz. chickpeas drained and rinsed
 
   1 tbsp maple syrup'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: "Flourless Chickpea Pancakes \u2013 Made with Actual Chickpeas"
 p_recipe_id: 446

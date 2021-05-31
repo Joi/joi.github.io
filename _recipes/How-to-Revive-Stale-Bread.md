@@ -24,8 +24,6 @@ favorite: 0
 image_url: null
 ingredients: ''
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: How to Revive Stale Bread
 p_recipe_id: 183

@@ -13,8 +13,6 @@ ingredients: "5 ounces creamy blue cheese, such as Roquefort, Bleu d\u2019Auverg
   \ or heavy cream\r1 /4 cup extra-virgin olive oil\r1 tablespoon red wine vinegar\r\
   1 small garlic clove, finely grated or pounded with a pinch of salt\rSalt"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Blue Cheese Dressing
 p_recipe_id: 286

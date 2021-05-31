@@ -14,8 +14,6 @@ ingredients: "8-12 small fresh or canned abalone (about 7-10 oz/200-300 g)\n\xBD
   \ teaspoon Japanese soy sauce\n1 teaspoon grated young ginger\n1 tablespoon tamari\
   \ or dark soy sauce"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Abalone Simmered in Sake and Ginger
 p_recipe_id: 523

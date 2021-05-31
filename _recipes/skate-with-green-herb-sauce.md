@@ -30,8 +30,6 @@ ingredients: '2 tablespoons basil leaves, finely chopped
 
   Salt and pepper'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Skate with Green Herb Sauce
 p_recipe_id: 198

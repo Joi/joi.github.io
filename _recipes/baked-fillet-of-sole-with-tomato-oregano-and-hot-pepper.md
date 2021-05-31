@@ -15,8 +15,6 @@ ingredients: "\u2154 cup onion, very thinly sliced\n3 tablespoons extra-virgin o
   \ dried\nFresh black pepper or chopped hot red chilies, to taste\n2 pounds gray\
   \ sole fillet"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Baked Fillet of Sole with Tomato, Oregano and Hot Pepper
 p_recipe_id: 53

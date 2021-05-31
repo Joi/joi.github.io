@@ -26,8 +26,6 @@ ingredients: "For the marinade:\n2 tsp mild red chilli powder\n1 tsp ground turm
   To garnish:\nhandful samphire, saut\xE9ed\nfinely chopped pickled silverskin onions\n\
   edible flowers"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Monkfish Curry
 p_recipe_id: 403

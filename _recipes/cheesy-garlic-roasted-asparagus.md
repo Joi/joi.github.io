@@ -20,8 +20,6 @@ ingredients: '1 pound (500 g) asparagus spears, woody ends removed
 
   1 1/4 cup shredded mozzarella cheese'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Cheesy Garlic Roasted Asparagus
 p_recipe_id: 216

@@ -32,8 +32,6 @@ ingredients: '6 cups chicken stock
 
   Worcestershire sauce'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Chicken Sandwich
 p_recipe_id: 42

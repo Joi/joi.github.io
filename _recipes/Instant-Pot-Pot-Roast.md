@@ -18,8 +18,6 @@ ingredients: "1 - 3 pounds (1176g) USDA choice grade chuck roast or Canada AAA g
   \ , chopped\n2 - 4 potatoes , quartered\n1 \xBD tablespoon (12g) cornstarch\n2 tablespoons\
   \ (30ml) water"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Instant Pot Pot Roast
 p_recipe_id: 125

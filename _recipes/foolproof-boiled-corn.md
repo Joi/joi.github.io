@@ -27,9 +27,8 @@ ingredients: 'GATHER YOUR INGREDIENTS
 
   Salt and pepper'
 intrash: 0
-meal_dates:
-- '2020-07-04'
-meal_types: '3'
+meal_notes:
+- 2020-07-04-dinner
 mine: null
 name: Foolproof Boiled Corn
 p_recipe_id: 224

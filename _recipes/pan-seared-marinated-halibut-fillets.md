@@ -26,9 +26,8 @@ ingredients: '6 tablespoons olive oil
 
   Chopped parsley, for garnish, optional'
 intrash: 0
-meal_dates:
-- '2020-04-06'
-meal_types: '3'
+meal_notes:
+- 2020-04-06-dinner
 mine: null
 name: Pan-Seared Marinated Halibut Fillets
 p_recipe_id: 92

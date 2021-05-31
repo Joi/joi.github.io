@@ -22,8 +22,6 @@ ingredients: '1-1/2 teaspoons paprika
 
   1/2 teaspoon salt (Adjust to taste. This is on the low side.)'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Chicken Seasoning (For Roasted or Rotisserie Chicken)
 p_recipe_id: 407

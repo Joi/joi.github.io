@@ -36,8 +36,6 @@ ingredients: '2-3 slices thick cut bacon, chopped
 
   mashed potatoes, for serving'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Healthier Instant Pot Coq Au Vin
 p_recipe_id: 361

@@ -14,9 +14,8 @@ ingredients: "6 tablespoons mixed finely chopped robust herbs (like thyme, rosem
   \ pork shoulder, skin on, boned\n5 bay leaves\n1 lemon zest\n1 tsp fennel seeds\n\
   Fennel fronds\nRosemary applesauce\nCrusty bread rolls, for serving"
 intrash: 0
-meal_dates:
-- '2020-06-18'
-meal_types: '2'
+meal_notes:
+- 2020-06-18-lunch
 mine: null
 name: Slow Roast Pork Shoulder with Herb Rub
 p_recipe_id: 187

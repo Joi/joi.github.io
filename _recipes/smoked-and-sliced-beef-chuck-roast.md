@@ -15,8 +15,6 @@ ingredients: '1 beef chuck roast with or without bone (approximately 3 pounds)
 
   Coarsely ground black pepper'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Smoked and Sliced Beef Chuck Roast
 p_recipe_id: 387

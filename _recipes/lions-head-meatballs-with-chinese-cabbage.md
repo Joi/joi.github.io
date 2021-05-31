@@ -36,8 +36,6 @@ ingredients: '1 pound bok choy, Peking cabbage ( Napa cabbage or spinach leaves)
 
   1 1/2 cups chicken broth'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Lion's Head Meatballs with Chinese Cabbage
 p_recipe_id: 278

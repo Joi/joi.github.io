@@ -15,8 +15,6 @@ ingredients: "3 to 4 Persian cucumbers (about 3/4 pound)\n\xBD red onion, diced 
   \ as needed\n3 tablespoons extra-virgin olive oil\nFine sea salt and freshly ground\
   \ black pepper"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Salad-E Shirazi (Persian Cucumber, Tomato and Onion Salad)
 p_recipe_id: 190

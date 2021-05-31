@@ -13,8 +13,6 @@ ingredients: "8 chicken thighs, or a mixture of thighs and drumsticks\nSalt and 
   \ or scallion\n\xBC teaspoon ground cayenne pepper or Tabasco sauce, or to taste\n\
   Minced parsley for garnish, optional"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Deviled Chicken Thighs
 p_recipe_id: 49

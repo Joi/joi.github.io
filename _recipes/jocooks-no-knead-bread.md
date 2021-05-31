@@ -16,8 +16,6 @@ ingredients: '3 cups all-purpose flour
 
   1 1/2 cups water room temperature'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Jocooks No Knead Bread
 p_recipe_id: 142

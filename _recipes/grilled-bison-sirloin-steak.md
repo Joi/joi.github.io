@@ -16,8 +16,6 @@ ingredients: '2 bison sirloin steaks
 
   Butter'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Grilled Bison Sirloin Steak
 p_recipe_id: 59

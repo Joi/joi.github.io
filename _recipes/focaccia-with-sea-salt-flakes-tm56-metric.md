@@ -13,8 +13,6 @@ ingredients: "Dough\n385 g water\n625 g bread flour\n5 tsp dried instant yeast\n
   \ olive oil\n85 g water\n1 \xBD tsp sea salt flakes\n2 sprigs fresh rosemary, leaves\
   \ only, to sprinkle"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Focaccia with Sea Salt Flakes (TM5/6 Metric)
 p_recipe_id: 10

@@ -20,9 +20,8 @@ ingredients: "\xBD cup soy sauce\r\xBD cup lime juice (from 6 to 8 limes)\r\xBD 
   \ or corn tortillas, hot\r1 recipe Pico de Gallo\nGuacamole, sour cream, shredded\
   \ cheese, and salsa, for serving, if desired"
 intrash: 0
-meal_dates:
-- '2020-08-19'
-meal_types: '3'
+meal_notes:
+- 2020-08-19-dinner
 mine: null
 name: Fajitas
 p_recipe_id: 314

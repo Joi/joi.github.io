@@ -33,9 +33,8 @@ ingredients: "GATHER YOUR INGREDIENTS\n5 medium garlic cloves, minced or pressed
   \ and halved\n2 tablespoons chopped fresh cilantro leaves\n3 tablespoons juice from\
   \ 1 to 2 lemons"
 intrash: 0
-meal_dates:
-- '2020-04-27'
-meal_types: '3'
+meal_notes:
+- 2020-04-27-dinner
 mine: null
 name: Moroccan Chicken Tagine with Olives and Lemon (Djej Emshmel)
 p_recipe_id: 88

@@ -21,8 +21,6 @@ ingredients: "1 garlic clove\n1 piece fresh ginger (approx. 1 in. x \xBE in.)\n2
   \ \xBD lime)\n27 oz iceberg lettuce, cored, wash and separate leaves, to serve\n\
   2 tbsp white sesame seeds, toasted"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Shredded Chicken and Vegetable Lettuce Cups
 p_recipe_id: 19

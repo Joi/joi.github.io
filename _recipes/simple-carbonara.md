@@ -24,8 +24,6 @@ ingredients: '3 Tbsp. kosher salt, plus more
 
   1 lb. spaghetti, bucatini, or rigatoni'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Simple Carbonara
 p_recipe_id: 358

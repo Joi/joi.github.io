@@ -34,8 +34,6 @@ ingredients: '1 lb. pollock fillets or other white fish
 
   1 cup brown rice, cooked'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Parmesan Crusted Pollock
 p_recipe_id: 158

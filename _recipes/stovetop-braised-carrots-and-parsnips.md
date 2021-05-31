@@ -20,8 +20,6 @@ ingredients: '2 pounds carrots, peeled, trimmed and halved if more than 1/2-inch
 
   Chopped fresh parsley, dill, mint, basil or chervil leaves for garnish (optional)'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Stovetop-Braised Carrots and Parsnips
 p_recipe_id: 75

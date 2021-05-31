@@ -26,9 +26,8 @@ ingredients: '1/2 cup finely minced fresh cilantro leaves
 
   Freshly ground black pepper, to taste'
 intrash: 0
-meal_dates:
-- '2020-07-16'
-meal_types: '3'
+meal_notes:
+- 2020-07-16-dinner
 mine: null
 name: Cilantro Lime Dressing {Mexican Salad Dressing}
 p_recipe_id: 255

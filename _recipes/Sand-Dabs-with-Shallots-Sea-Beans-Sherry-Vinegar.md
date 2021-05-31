@@ -41,8 +41,6 @@ ingredients: '8 small or 4 large pan-ready sand dabs, about 3 or 7 ounces, respe
 
   2 tablespoons sherry vinegar'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar
 p_recipe_id: 329

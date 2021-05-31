@@ -15,10 +15,9 @@ ingredients: "3 lb Boneless Leg Of Lamb\n1 Yellow Onion Chopped\n1 Tbsp Fresh Gr
   \ tsp Ground Nutmeg\nFresh Cracked Pepper\nKosher Salt\nMint or Cilantro for Garnish\n\
   2 tsp Cornstarch- Optional See Cooking Tip"
 intrash: 0
-meal_dates:
-- '2021-04-05'
-- '2021-05-03'
-meal_types: 3|3
+meal_notes:
+- 2021-04-05-dinner
+- 2021-05-03-dinner
 mine: null
 name: Lamb Tagine
 p_recipe_id: 507

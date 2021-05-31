@@ -32,10 +32,9 @@ ingredients: '1 chicken (around 1 kg )
 
   1/2 tsp. five spice powder'
 intrash: 0
-meal_dates:
-- '2021-01-01'
-- '2021-04-29'
-meal_types: 3|3
+meal_notes:
+- 2021-01-01-dinner
+- 2021-04-29-dinner
 mine: null
 name: Chinese Roasted Chicken
 p_recipe_id: 441

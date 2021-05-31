@@ -24,9 +24,8 @@ ingredients: "2 \xBD cups all-purpose flour (Optional: For extra crispness, subs
   \ halibut, sole, or rock cod, boned and trimmed 6 cups grapeseed, peanut, or canola\
   \ oil for frying\n1 \xBC cups vodka, ice-cold\nAbout 1 \xBD cups lager beer, ice-cold"
 intrash: 0
-meal_dates:
-- '2021-04-02'
-meal_types: '3'
+meal_notes:
+- 2021-04-02-dinner
 mine: null
 name: Beer-Battered Fish
 p_recipe_id: 503

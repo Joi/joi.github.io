@@ -24,10 +24,9 @@ ingredients: '1/4 cup soy sauce (60 ml)
 
   2 tablespoons vegetable oil'
 intrash: 0
-meal_dates:
-- '2021-04-07'
-- '2021-04-28'
-meal_types: 3|3
+meal_notes:
+- 2021-04-07-dinner
+- 2021-04-28-dinner
 mine: null
 name: Asian Pork Chops
 p_recipe_id: 510

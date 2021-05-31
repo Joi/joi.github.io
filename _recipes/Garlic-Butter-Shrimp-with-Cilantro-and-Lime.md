@@ -26,8 +26,6 @@ ingredients: 'YOU WILL NEED
 
   1/2 cup fresh cilantro leaves and tender stems, chopped'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Garlic Butter Shrimp with Cilantro and Lime
 p_recipe_id: 321

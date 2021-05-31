@@ -14,8 +14,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n4 lamb shoulder chops, about 3/4 inch thi
   1 cup canned tomatoes packed in puree, chopped\n2 tablespoons minced fresh parsley\
   \ leaves"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Braised Lamb Shoulder Chops with Tomatoes and Red Wine
 p_recipe_id: 150

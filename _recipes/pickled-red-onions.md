@@ -18,9 +18,8 @@ ingredients: '1 red onion
 
   1/2 tsp kosher salt'
 intrash: 0
-meal_dates:
-- '2021-01-23'
-meal_types: '5'
+meal_notes:
+- 2021-01-23-pantry
 mine: null
 name: Pickled Red Onions
 p_recipe_id: 459

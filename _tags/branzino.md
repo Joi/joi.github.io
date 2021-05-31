@@ -12,7 +12,7 @@ recipes:
 - mine: null
   p_recipe_id: 417
   permalink: /recipes/roasted-branzino-with-caper-butter
-  photo_thumb: roasted-branzino-with-caper-butter-thumb.jpg
+  photo_thumb: 6D9BF66C-7EFC-4AEE-9A81-942B783D6F50-11471-00000947882FD918.jpg
   rating: 5
   title: Roasted Branzino with Caper Butter
 rel_tags_count:

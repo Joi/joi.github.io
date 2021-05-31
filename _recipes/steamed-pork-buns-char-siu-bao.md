@@ -17,8 +17,6 @@ ingredients: "Filling:\n\xBD teaspoon five-spice powder\n1 pound pork tenderloin
   \ flour (about 14 2/3 ounces)\n3 tablespoons canola oil\n\xBC teaspoon salt\n1\u2009\
   \xBD teaspoons baking powder"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Steamed Pork Buns (Char Siu Bao)
 p_recipe_id: 404

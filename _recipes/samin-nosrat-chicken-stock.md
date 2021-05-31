@@ -33,9 +33,8 @@ ingredients: '7 pounds chicken bones (at least half should be raw) 7 quarts wate
 
   5 parsley sprigs or 10 stems 1 teaspoon white wine vinegar '
 intrash: 0
-meal_dates:
-- '2020-07-22'
-meal_types: '4'
+meal_notes:
+- 2020-07-22-snacks
 mine: null
 name: Samin Nosrat Chicken Stock
 p_recipe_id: 269

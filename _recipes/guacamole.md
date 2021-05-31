@@ -12,11 +12,10 @@ ingredients: "2 avocados, ripe\n\xBD small onion, finely diced\n1 tomatoes, dice
   3 Tbsp finely chopped fresh cilantro\n\xBD jalape\xF1o pepper, seeds removed and\
   \ finely diced\n1 garlic cloves, minced\n\xBD lime, juiced\n\xBD teaspoon sea salt"
 intrash: 0
-meal_dates:
-- '2021-01-23'
-- '2021-04-18'
-- '2021-05-03'
-meal_types: 4|3|3
+meal_notes:
+- 2021-01-23-snacks
+- 2021-04-18-dinner
+- 2021-05-03-dinner
 mine: 1
 name: Guacamole
 p_recipe_id: 460

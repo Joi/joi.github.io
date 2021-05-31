@@ -34,9 +34,8 @@ ingredients: '2 cups (5.2 oz) fresh bread crumbs*
 
   3/4 cup olive oil, only if using the fried method'
 intrash: 0
-meal_dates:
-- '2020-12-16'
-meal_types: '3'
+meal_notes:
+- 2020-12-16-dinner
 mine: null
 name: Meatball
 p_recipe_id: 431

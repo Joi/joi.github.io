@@ -13,8 +13,6 @@ ingredients: "Mushroom-Onion Filling\n4 oz yellow onions, in half moons (\xBC in
   \ bellas, button), sliced\n\xBC tsp salt\nOmelet\n6 large eggs\n\xBC tsp salt, to\
   \ taste\n\u215B tsp ground black pepper\nfresh parsley, chopped, to garnish"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Fluffy Baked Omelet
 p_recipe_id: 9

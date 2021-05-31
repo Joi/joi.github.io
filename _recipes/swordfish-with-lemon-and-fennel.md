@@ -14,8 +14,6 @@ ingredients: "1 \xBD pounds swordfish steaks, about 1-inch thick\nKosher salt an
   \xBC teaspoon crushed red chile flakes, more to taste\n1 tablespoon fresh lemon\
   \ juice\n2 teaspoons chopped fresh fennel fronds\nLemon wedges, for serving"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Swordfish with Lemon and Fennel
 p_recipe_id: 233

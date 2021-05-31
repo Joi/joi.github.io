@@ -25,8 +25,6 @@ ingredients: '1 tablespoon kosher salt
 
   Your favorite barbecue sauce (optional)'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Roast Pork Butt
 p_recipe_id: 369

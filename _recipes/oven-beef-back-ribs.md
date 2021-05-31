@@ -26,8 +26,6 @@ ingredients: '1/2 cup apple cider vinegar
 
   1 teaspoon garlic powder'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Oven Beef Back Ribs
 p_recipe_id: 247

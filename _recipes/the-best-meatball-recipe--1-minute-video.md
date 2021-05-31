@@ -36,8 +36,6 @@ ingredients: '1 cup Panko breadcrumbs
 
   1/4 teaspoon crushed red pepper flakes'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: The Best Meatball Recipe | 1-Minute Video
 p_recipe_id: 398

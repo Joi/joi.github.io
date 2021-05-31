@@ -15,10 +15,9 @@ ingredients: "Kosher salt, as needed\nFreshly ground black pepper, as needed\n1 
   \ beef or chicken stock, preferably homemade\n1 tablespoon chopped chives\nWatercress,\
   \ for serving"
 intrash: 0
-meal_dates:
-- '2020-03-30'
-- '2020-04-21'
-meal_types: 3|3
+meal_notes:
+- 2020-03-30-dinner
+- 2020-04-21-dinner
 mine: null
 name: Pan-Seared Steak with Red Wine Sauce
 p_recipe_id: 74

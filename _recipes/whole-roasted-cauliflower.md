@@ -16,10 +16,9 @@ ingredients: '1 whole Cauliflower
 
   1 cup Plain yogurt (optional)'
 intrash: 0
-meal_dates:
-- '2021-02-13'
-- '2021-03-21'
-meal_types: 3|3
+meal_notes:
+- 2021-02-13-dinner
+- 2021-03-21-dinner
 mine: null
 name: Whole Roasted Cauliflower
 p_recipe_id: 474

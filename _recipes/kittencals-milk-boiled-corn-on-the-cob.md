@@ -20,8 +20,6 @@ ingredients: '6 -8 ears corn, husks and silk removed
 
   1/4 cup butter (optional, add to the water)'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Kittencal's Milk Boiled Corn on the Cob
 p_recipe_id: 223

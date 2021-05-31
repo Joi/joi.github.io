@@ -57,12 +57,11 @@ ingredients: "1. 3 pounds russet (baking) potatoes, scrubbed and cut into 1- to 
   \ ground black pepper\n1. Chopped fresh herbs, such as thyme, rosemary, parsley,\
   \ and/or chives"
 intrash: 0
-meal_dates:
-- '2020-09-13'
-- '2020-09-28'
-- '2020-10-14'
-- '2021-03-01'
-meal_types: 3|3|3|3
+meal_notes:
+- 2020-09-13-dinner
+- 2020-09-28-dinner
+- 2020-10-14-dinner
+- 2021-03-01-dinner
 mine: null
 name: Super-Crisp Roasted Potatoes
 p_recipe_id: 352

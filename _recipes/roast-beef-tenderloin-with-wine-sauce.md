@@ -40,8 +40,6 @@ ingredients: 'FOR THE SAUCE:
 
   1/4 cup beef broth'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Roast Beef Tenderloin with Wine Sauce
 p_recipe_id: 470

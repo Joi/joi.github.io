@@ -26,9 +26,8 @@ ingredients: '1 lb. fresh sushi-grade tuna fillet
 
   Thai-Style Dipping Sauce'
 intrash: 0
-meal_dates:
-- '2020-08-08'
-meal_types: '3'
+meal_notes:
+- 2020-08-08-dinner
 mine: null
 name: Fresh Tuna Burgers with Ginger & Cilantro
 p_recipe_id: 291

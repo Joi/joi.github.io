@@ -12,8 +12,6 @@ ingredients: "1 tablespoon cardamom\n1 tablespoon ground coriander\n2 teaspoons 
   1 teaspoon dry mustard\n1 teaspoon turmeric\n\xBD teaspoon ground ginger\n\xBD teaspoon\
   \ ground black pepper\n1 star anise\n1 clove\nChili / red pepper"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Curry Powder
 p_recipe_id: 449

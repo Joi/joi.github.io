@@ -28,10 +28,9 @@ ingredients: '2 tbsp unsalted butter
 
   2 tsp fresh thyme leaves (or 1/4 - 1/2 tsp dried)'
 intrash: 0
-meal_dates:
-- '2021-02-15'
-- '2021-02-27'
-meal_types: 3|3
+meal_notes:
+- 2021-02-15-dinner
+- 2021-02-27-dinner
 mine: null
 name: Mushroom Sauce
 p_recipe_id: 475

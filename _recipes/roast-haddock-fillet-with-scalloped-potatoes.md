@@ -30,8 +30,6 @@ ingredients: '4 haddock fillets, weighing about 7 ounces each, skin on
 
   2 tablespoons flat-leaf parsley, minced'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Roast Haddock Fillet with Scalloped Potatoes
 p_recipe_id: 67

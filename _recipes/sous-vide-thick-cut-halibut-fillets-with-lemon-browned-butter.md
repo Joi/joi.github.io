@@ -14,8 +14,6 @@ ingredients: "GATHER YOUR INGREDIENTS\nFish\n2 teaspoons salt\n2 teaspoons sugar
   \ 4 pieces\n1 small shallot, minced\n2 tablespoons capers, rinsed\n2 tablespoons\
   \ chopped fresh parsley\nSalt and pepper"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Sous Vide Thick-Cut Halibut Fillets with Lemon Browned Butter
 p_recipe_id: 93

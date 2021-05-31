@@ -44,8 +44,6 @@ ingredients: '2 tablespoons of olive oil
 
   Freshly grated Parmesan cheese'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Minestrone
 p_recipe_id: 37

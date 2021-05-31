@@ -18,10 +18,9 @@ ingredients: '1 whole Chicken
 
   2 Tbsp High smoke point oil, like grapeseed'
 intrash: 0
-meal_dates:
-- '2021-01-01'
-- '2021-03-04'
-meal_types: 3|3
+meal_notes:
+- 2021-01-01-dinner
+- 2021-03-04-dinner
 mine: null
 name: Roast Chicken 101
 p_recipe_id: 444

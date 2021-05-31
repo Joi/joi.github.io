@@ -26,8 +26,6 @@ ingredients: '2 bunches cherry tomatoes on the vine (about 225g)
 
   4 hake fillets'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Confit Hake, Cherry Tomatoes and Garlic
 p_recipe_id: 238

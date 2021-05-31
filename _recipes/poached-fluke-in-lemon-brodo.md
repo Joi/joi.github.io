@@ -30,9 +30,8 @@ ingredients: '2 small lemons
 
   2 Tbs. thinly sliced chives'
 intrash: 0
-meal_dates:
-- '2020-06-09'
-meal_types: '3'
+meal_notes:
+- 2020-06-09-dinner
 mine: null
 name: Poached Fluke in Lemon Brodo
 p_recipe_id: 182

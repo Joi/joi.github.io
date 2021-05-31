@@ -11,8 +11,6 @@ image_url: https://static01.nyt.com/images/2017/04/25/dining/25COOKING-FISHWITHS
 ingredients: "\xBD cup sugar\n1 cup miso, preferably dark\n\xBD cup mirin, sake or\
   \ white wine\n1 \xBD to 2 pounds black cod fillets (skin may be on or off)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Black Cod Broiled with Miso
 p_recipe_id: 411

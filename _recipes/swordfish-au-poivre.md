@@ -13,8 +13,6 @@ ingredients: "24 ounces swordfish about 1-inch thick, skin removed, in 4 portion
   \ olive oil\n1 tablespoon unsalted butter\n1 large shallot, minced\n\xBD cup Cognac\
   \ or brandy\n\u2154 cup heavy cream\n1 tablespoon minced flat-leaf parsley leaves"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Swordfish Au Poivre
 p_recipe_id: 234

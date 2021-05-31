@@ -20,8 +20,6 @@ ingredients: '12 pound turkey giblets and neck removed
 
   cooking spray'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Spatchcock Turkey
 p_recipe_id: 324

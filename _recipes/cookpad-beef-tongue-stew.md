@@ -20,8 +20,6 @@ ingredients: '1 Beef tongue
 
   400 ml Red wine'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Cookpad Beef Tongue Stew
 p_recipe_id: 447

@@ -13,8 +13,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n2 pounds asparagus\n1 teaspoon grated lem
   2 tablespoons water\n1 garlic clove, minced\n\xBD teaspoon table salt\n\xBC cup\
   \ shredded Parmesan cheese"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Pan-Steamed Asparagus with Lemon and Parmesan
 p_recipe_id: 40

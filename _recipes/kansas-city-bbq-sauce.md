@@ -13,8 +13,6 @@ ingredients: "14 oz can crushed tomatoes\n1 cup ketchup\n\xBE cup brown sugar\n\
   2 tsp ground black pepper\n1 tsp chili powder\n1 tsp garlic powder\n1 tsp onion\
   \ powder\n\xBD tsp red pepper flakes\n\xBD tsp ground mustard"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Kansas City BBQ Sauce
 p_recipe_id: 365

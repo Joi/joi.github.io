@@ -33,14 +33,13 @@ ingredients: '1 lb bok choy cleaned and chopped
 
   Ground black pepper to taste'
 intrash: 0
-meal_dates:
-- '2021-02-26'
-- '2021-02-23'
-- '2021-03-20'
-- '2021-01-28'
-- '2021-04-17'
-- '2021-05-10'
-meal_types: 3|3|3|3|3|3
+meal_notes:
+- 2021-02-26-dinner
+- 2021-02-23-dinner
+- 2021-03-20-dinner
+- 2021-01-28-dinner
+- 2021-04-17-dinner
+- 2021-05-10-dinner
 mine: 1
 name: Ginisang Pechay with Ground Pork and Shrimp
 p_recipe_id: 479

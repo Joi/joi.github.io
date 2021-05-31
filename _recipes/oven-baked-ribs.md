@@ -15,8 +15,6 @@ ingredients: "1 Tbsp brown sugar (optional)\n2 tsp salt\n1 tsp garlic powder\n1/
   \ in the name. Here is my favorite classic recipe, and my smoky and spicy recipe,\
   \ if you want homemade.)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Oven-Baked Ribs
 p_recipe_id: 346

@@ -14,8 +14,6 @@ ingredients: "GATHER YOUR INGREDIENTS\n2 (15-ounce) cans chickpeas, rinsed\n\xBD
   \ for garnish\n\xBD cup tahini, stirred well\n2 tablespoons extra-virgin olive oil,\
   \ plus extra for drizzling\n1 tablespoon minced fresh parsley"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Ultracreamy Hummus
 p_recipe_id: 3

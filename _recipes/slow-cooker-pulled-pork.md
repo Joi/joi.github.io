@@ -32,8 +32,6 @@ ingredients: '3-4 lbs boneless pork shoulder roast (pork butt) or pork loin
 
   1 8 ounce can tomato sauce'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Slow Cooker Pulled Pork
 p_recipe_id: 393

@@ -19,8 +19,6 @@ ingredients: '3 large eggs
 
   1 tablespoon unsalted butter'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Omelet
 p_recipe_id: 70

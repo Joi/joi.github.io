@@ -15,14 +15,13 @@ ingredients: "1 lb tofu\n2 scallions, chopped\n\xBD lb ground pork\n\n*Sauce*\n\
   \ dissolved in 2 Tbsp water\nSichuan peppercorns, crushed\nSalt and pepper\n4 Tbsp\
   \ light oil\n1 Tbsp Chinese wine\n1 Tbsp soy sauce\n"
 intrash: 0
-meal_dates:
-- '2021-03-24'
-- '2021-03-03'
-- '2021-04-03'
-- '2021-04-10'
-- '2021-04-26'
-- '2021-05-19'
-meal_types: 3|3|3|3|3|3
+meal_notes:
+- 2021-03-24-dinner
+- 2021-03-03-dinner
+- 2021-04-03-dinner
+- 2021-04-10-dinner
+- 2021-04-26-dinner
+- 2021-05-19-dinner
 mine: 1
 name: Mapo Dofu
 p_recipe_id: 492

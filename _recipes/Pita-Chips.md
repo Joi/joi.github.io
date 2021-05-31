@@ -11,9 +11,8 @@ image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages
 ingredients: "12 pita bread pockets\n\xBD cup olive oil\n\xBD teaspoon ground black\
   \ pepper\n1 teaspoon garlic salt\n\xBD teaspoon dried basil\n1 teaspoon dried chervil"
 intrash: 0
-meal_dates:
-- '2020-06-25'
-meal_types: '4'
+meal_notes:
+- 2020-06-25-snacks
 mine: null
 name: Pita Chips
 p_recipe_id: 203

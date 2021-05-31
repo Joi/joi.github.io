@@ -18,8 +18,6 @@ ingredients: "2 cinnamon sticks\n1 black cardamom pod\n\xBD tablespoon Sichuan p
   \ (or optionally, chicken, beef, or pork stock, enough to cover the beef)\nSalt\
   \ (to taste, we used about 1 teaspoon)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Chinese Spiced Braised Beef Shank
 p_recipe_id: 506

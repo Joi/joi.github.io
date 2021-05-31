@@ -20,8 +20,6 @@ ingredients: '1 loaf of bread (about 12 ounces), cut into 3/4-inch cubes
 
   1/2 teaspoon black pepper'
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: How to Make Homemade Croutons
 p_recipe_id: 318

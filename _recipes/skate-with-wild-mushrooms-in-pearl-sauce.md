@@ -21,8 +21,6 @@ ingredients: "For mushroom sauce:\n1 small leek (white and pale green parts only
   \ if large\n1/2 teaspoon salt\n1/8 teaspoon black pepper\n1 1/2 tablespoons unsalted\
   \ butter"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Skate with Wild Mushrooms in Pearl Sauce
 p_recipe_id: 197

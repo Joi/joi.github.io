@@ -12,8 +12,6 @@ ingredients: "1 lb skin-on chicken thigh, cubed\n1 tablespoon sake\n1 teaspoon s
   2 tablespoons soy sauce\n1 tablespoon ginger, grated\n1 clove garlic, minced\n\xBD\
   \ egg, beaten\n\u2153 cup potato starch\ncooking oil, for frying"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Karaage Fried Chicken
 p_recipe_id: 167

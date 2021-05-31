@@ -36,12 +36,11 @@ ingredients: '2 cloves of garlic or 1 tablespoon of green garlic
 
   1 tablespoon of fresh tarragon or chives'
 intrash: 0
-meal_dates:
-- '2020-07-10'
-- '2020-09-19'
-- '2020-10-13'
-- '2020-12-05'
-meal_types: 3|3|3|3
+meal_notes:
+- 2020-07-10-dinner
+- 2020-09-19-dinner
+- 2020-10-13-dinner
+- 2020-12-05-dinner
 mine: null
 name: Aioli Sauce
 p_recipe_id: 242

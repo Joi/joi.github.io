@@ -12,8 +12,6 @@ ingredients: "2 (or more) racks of spare ribs\nYellow mustard\nJeff's original r
   \ recipe (Purchase formula here | Purchase bottled rub)\n2 (or more) racks of spare\
   \ ribs\nYellow mustard\nJeff\u2019s original rub recipe\nHeavy duty foil"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Smoked 3-2-1 St. Louis Style Spare Ribs
 p_recipe_id: 366

@@ -14,14 +14,13 @@ ingredients: "2 large egg yolks or 1 large egg and 1 large egg yolk, at room tem
   \ or 2 Tbsp of lemon juice if not using vinegar\n[Chicken broth](chicken-stock)\
   \ or water as needed to thin sauce"
 intrash: 0
-meal_dates:
-- '2020-06-11'
-- '2020-08-17'
-- '2021-01-22'
-- '2021-03-27'
-- '2021-04-11'
-- '2021-05-27'
-meal_types: 2|3|3|5|5|3
+meal_notes:
+- 2020-06-11-lunch
+- 2020-08-17-dinner
+- 2021-01-22-dinner
+- 2021-03-27-pantry
+- 2021-04-11-pantry
+- 2021-05-27-dinner
 mine: 1
 name: Mayonnaise
 p_recipe_id: 39

@@ -48,9 +48,8 @@ ingredients: '300g / 10oz whole prawns / shrimp with heads and shells on (Note 7
 
   1/3 cup (75 ml) evaporated milk'
 intrash: 0
-meal_dates:
-- '2021-05-24'
-meal_types: '3'
+meal_notes:
+- 2021-05-24-dinner
 mine: null
 name: Tom Yum Soup (Thai Soup)
 p_recipe_id: 532

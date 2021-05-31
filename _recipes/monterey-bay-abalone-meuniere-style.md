@@ -12,10 +12,9 @@ ingredients: "4 small abalones, 4 to 5 ounces each in shell weight (see note)\n\
   \ cup flour\n6 tablespoons butter\n1 tablespoon packed, finely chopped flat-leaf\
   \ parsley\n1 tablespoon Meyer lemon or lemon juice\nFleur de sel"
 intrash: 0
-meal_dates:
-- '2021-04-27'
-- '2021-05-09'
-meal_types: 3|3
+meal_notes:
+- 2021-04-27-dinner
+- 2021-05-09-dinner
 mine: null
 name: Monterey Bay Abalone, Meuniere-Style
 p_recipe_id: 520

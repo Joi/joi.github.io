@@ -17,8 +17,6 @@ ingredients: "Dough\n7 oz masa harina\n1 oz all-purpose flour\n1 tsp baking powd
   \ pieces (approx. 1 sm.)\n1 oz mayonnaise\n1 pinch salt, to taste\n1 pinch freshly\
   \ ground black pepper, to taste\n8 tbsp cotija cheese"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Chicken Avocado Pupusas
 p_recipe_id: 16

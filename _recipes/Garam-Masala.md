@@ -13,8 +13,6 @@ ingredients: "1 tablespoon ground cumin\n2 teaspoons ground coriander\n2 teaspoo
   \ teaspoon ground nutmeg\n\xBD teaspoon ground cloves\n1/4\u2013 \xBD teaspoon cayenne\
   \ (optional)"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Garam Masala
 p_recipe_id: 468

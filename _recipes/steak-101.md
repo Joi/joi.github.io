@@ -18,10 +18,9 @@ ingredients: '2 NY Strip Steaks, about 1" thick
 
   3 sprigs Thyme or rosemary (optional)'
 intrash: 0
-meal_dates:
-- '2021-01-31'
-- '2021-02-07'
-meal_types: 3|3
+meal_notes:
+- 2021-01-31-dinner
+- 2021-02-07-dinner
 mine: null
 name: Steak 101
 p_recipe_id: 465

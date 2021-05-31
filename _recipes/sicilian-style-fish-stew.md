@@ -17,9 +17,8 @@ ingredients: "Private Reserve extra virgin olive oil\n1 large yellow onion, chop
   \ parsley leaves, stems removed\n3 tbsp toasted pine nuts, optional\nCrusty Italian\
   \ bread for serving"
 intrash: 0
-meal_dates:
-- '2021-03-14'
-meal_types: '3'
+meal_notes:
+- 2021-03-14-dinner
 mine: null
 name: Sicilian-Style Fish Stew
 p_recipe_id: 487

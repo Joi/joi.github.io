@@ -13,8 +13,6 @@ ingredients: "1 tablespoon vegetable oil\n1 4-pound salmon, cleaned and scaled, 
   6 tablespoons melted butter\n1 tablespoon sea salt\n\u2153 cup sliced almonds\n\
   Juice of half a lemon"
 intrash: 0
-meal_dates: null
-meal_types: null
 mine: null
 name: Salmon with Thyme, Lemon Butter and Almonds
 p_recipe_id: 98

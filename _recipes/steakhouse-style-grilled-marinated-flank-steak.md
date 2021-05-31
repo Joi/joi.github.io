@@ -30,9 +30,8 @@ ingredients: '1/2 cup Worcestershire sauce
 
   1 whole flank steak, about 2 pounds (see note)'
 intrash: 0
-meal_dates:
-- '2021-03-04'
-meal_types: '3'
+meal_notes:
+- 2021-03-04-dinner
 mine: null
 name: Steakhouse-Style Grilled Marinated Flank Steak
 p_recipe_id: 496

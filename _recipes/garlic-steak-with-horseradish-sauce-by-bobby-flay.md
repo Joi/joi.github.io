@@ -24,9 +24,8 @@ ingredients: '4 (4 ounce) sirloin steaks
 
   1/2 teaspoon fresh ground black pepper, divided'
 intrash: 0
-meal_dates:
-- '2020-07-18'
-meal_types: '3'
+meal_notes:
+- 2020-07-18-dinner
 mine: null
 name: Garlic Steak with Horseradish Sauce by Bobby Flay
 p_recipe_id: 263
