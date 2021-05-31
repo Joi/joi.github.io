@@ -46,6 +46,7 @@ import time
 start_time = time.time()
 
 import os
+import copy
 import re
 import shutil
 import datetime
@@ -67,6 +68,7 @@ from pathlib import Path
 from shutil import copyfile
 from collections import defaultdict
 from titlecase import titlecase
+from parse_ingredients import parse_ingredient
 import config # This imports our local config file, "config.py". Access vars like so: config.var
 
 
@@ -658,7 +660,7 @@ print ("✅ DATABASE Queried For Recipes\n") # +++++++++++++++++++++++++++++++++
 # Create some Default Dictionaries to hold …
 cats    = defaultdict(dict) # … the cats -> recipes dictionary
 tags    = defaultdict(dict) # … the tags -> docs dictionary
-
+ings    = {}
 
 # -----------------------------------------------------------------------------
 # Loop through Results
@@ -674,6 +676,114 @@ for result in recipes_results:
     result['slug'] = recipe_filename
     result['permalink'] = '/recipes/'+recipe_filename
 
+
+
+    # ---------------------------------------------------
+    # Categories
+    # Split concatened categories into a list
+    if result['categories']:
+      try:
+        result['categories'] = result['categories'].lower().split('|') # Forcing Cats to lowercase
+        for cl in result['categories']:
+          
+          # Using the categories as a toggle hack ("recipe by Joi or not", etc…)
+          if cl == "_mine":
+            result['mine'] = 1
+          if cl == "_stub":
+            result['type'] = 'stub'
+
+          if cl not in cats.keys():
+            cats[cl] = {}
+          
+          # Here we create the Tags array and insert the Recipe data.
+          # This will only contain tags that are used as Categories in Paprika Recipes.
+          # We still need to go and iterate over all the Markdown files and extract the tags from them.
+          # Any tags that are not already created by recipes will need to be then, and etc…
+          if cl not in tags.keys():
+            #tags[cl] = {'recipes':[],'notes':{'feature':[],'rough':[]},'pages':[]}
+            tags[cl] = {'recipes':[],'rel_tags':[]}
+          append_to_recipes = {'title':result['name'],'permalink':result['permalink'],'photo_thumb':result['photo_thumb'], 'mine':result['mine'], 'rating':result['rating'], 'p_recipe_id':result['p_recipe_id']}
+          tags[cl]['recipes'].append(append_to_recipes)
+          # hawt lambda sorting magik https://www.geeksforgeeks.org/ways-sort-list-dictionaries-values-python-using-lambda-function/
+          #tags[cl]['recipes'] = sorted(tags[cl]['recipes'], key = lambda i: i['title'])
+          # Same, using itemgetter (more efficient) https://www.geeksforgeeks.org/ways-sort-list-dictionaries-values-python-using-itemgetter/
+          # requires `from operator import itemgetter` though
+          tags[cl]['recipes'] = sorted(tags[cl]['recipes'], key=itemgetter('title'))
+
+          if recipe_filename not in cats[cl].keys():
+            cats[cl][recipe_filename] = str(result['name'])
+
+          # Add the "categories", modulo the current one and the hacks, to the relative_tags list
+          remove_for_rel = cats_hack['remove'] + [cl]
+          tags[cl]['rel_tags'] += [i for i in result['categories'] if i not in remove_for_rel]
+
+
+      except Exception as e:
+        print( "🛑 Something fubar in categories for " + recipe_filename + "\n")
+        print(e)
+        print("-------\n")
+      result['categories'] = [i for i in result['categories'] if i not in cats_hack['remove']]
+      result['tags'] = result['categories']
+    result.pop('categories')
+
+
+
+    # ---------------------------------------------------
+    # Ingredients
+
+    def prep_ingredients(ing_str):
+      ing_list_return = []
+      # basic wash
+      ing_str = ing_str.replace('\n\n','\n').replace('\r','\n')
+      ing_str = ing_str.replace('of ','')
+      ing_str = ing_str.replace('½',' 1/2').replace('⅓',' 1/3').replace('¼',' 1/4').replace('¾',' 3/4').replace('⅔',' 2/3').replace('⅛','1/8')
+
+      ing_list = ing_str.split('\n')
+      ing_list_test = copy.deepcopy(ing_list)
+      for e, ing_1 in enumerate(ing_list_test):
+
+        # if str is UPPER, remove it
+        ing_test_upper = ing_1.replace(" ","")
+        if ing_test_upper.isupper():
+          ing_list.remove(ing_1)
+          #print ('Removed: UPPER: ' + ing_1)
+          continue
+
+        # if string begins with **/*/(/[), remove it
+        if ing_1.startswith("**") or ing_1.startswith("*") or ing_1.startswith("(") or ing_1.startswith("[^"):
+          ing_list.remove(ing_1)
+          #print ('Removed: Starts with "*": ' + ing_1)
+          continue
+
+        # if string begins with **, remove it
+        if ing_1.endswith(":"):
+          ing_list.remove(ing_1)
+          #print ('Removed: Ends with ":": ' + ing_1)
+          continue
+
+        # if string is empty (includes whitespace)
+        ing_strip = ing_1.strip()
+        if not ing_strip:
+          ing_list.remove(ing_1)
+          #print ('Removed: String Empty: ' + ing_1)
+          continue
+
+      for e, ing_2 in enumerate(ing_list):
+        ing_2 = ing_2.split('*')[0]             # removes everything after any *
+        ing_2 = ing_2.strip()                   # removes left & right whitespace
+        ing_2 = re.sub('\[\^(\w+)\]','',ing_2)  # removes markdown footnotes
+        ing_2 = re.sub(r'_(\w+)_',r'\1',ing_2)  # removes markodown _italic_
+        # ing_list_return.append(parse_ingredient(ing_2).__dict__['name'].lower())
+        ing_list_return.append(parse_ingredient(ing_2).__dict__)
+      return ing_list_return
+
+    if result['rating'] >= recipe_display_rating_limit_num or result['mine']:
+      if type(result['ingredients']) == str:
+        try:
+          prep_ing = prep_ingredients(result['ingredients'])
+          ings.update( { result['name'].upper(): prep_ing } )
+        except Exception as exc:
+          print(exc)
 
     # --------------------------------------------------------------------------------------
     # Start of RESULT Items FOR loop {
@@ -838,53 +948,6 @@ for result in recipes_results:
       'meal_dates' : rmeal_dates
       }
 
-    # ---------------------------------------------------
-    # Categories
-    # Split concatened categories into a list
-    if result['categories']:
-      try:
-        result['categories'] = result['categories'].lower().split('|') # Forcing Cats to lowercase
-        for cl in result['categories']:
-          
-          # Using the categories as a toggle hack ("recipe by Joi or not", etc…)
-          if cl == "_mine":
-            result['mine'] = 1
-          if cl == "_stub":
-            result['type'] = 'stub'
-
-          if cl not in cats.keys():
-            cats[cl] = {}
-          
-          # Here we create the Tags array and insert the Recipe data.
-          # This will only contain tags that are used as Categories in Paprika Recipes.
-          # We still need to go and iterate over all the Markdown files and extract the tags from them.
-          # Any tags that are not already created by recipes will need to be then, and etc…
-          if cl not in tags.keys():
-            #tags[cl] = {'recipes':[],'notes':{'feature':[],'rough':[]},'pages':[]}
-            tags[cl] = {'recipes':[],'rel_tags':[]}
-          append_to_recipes = {'title':result['name'],'permalink':result['permalink'],'photo_thumb':result['photo_thumb'], 'mine':result['mine'], 'rating':result['rating'], 'p_recipe_id':result['p_recipe_id']}
-          tags[cl]['recipes'].append(append_to_recipes)
-          # hawt lambda sorting magik https://www.geeksforgeeks.org/ways-sort-list-dictionaries-values-python-using-lambda-function/
-          #tags[cl]['recipes'] = sorted(tags[cl]['recipes'], key = lambda i: i['title'])
-          # Same, using itemgetter (more efficient) https://www.geeksforgeeks.org/ways-sort-list-dictionaries-values-python-using-itemgetter/
-          # requires `from operator import itemgetter` though
-          tags[cl]['recipes'] = sorted(tags[cl]['recipes'], key=itemgetter('title'))
-
-          if recipe_filename not in cats[cl].keys():
-            cats[cl][recipe_filename] = str(result['name'])
-
-          # Add the "categories", modulo the current one and the hacks, to the relative_tags list
-          remove_for_rel = cats_hack['remove'] + [cl]
-          tags[cl]['rel_tags'] += [i for i in result['categories'] if i not in remove_for_rel]
-
-
-      except Exception as e:
-        print( "🛑 Something fubar in categories for " + recipe_filename + "\n")
-        print(e)
-        print("-------\n")
-      result['categories'] = [i for i in result['categories'] if i not in cats_hack['remove']]
-      result['tags'] = result['categories']
-    result.pop('categories')
 
     # ---------------------------------------------------
     # Sources
@@ -1318,6 +1381,8 @@ for tag, tagd in tags.items():
   write_file(path_tags_mkdn_files + tag_filename + ".md",tag_content)
 
 
+#write_file(path_json_data + "ings.txt",ings)
+write_json_file(ings,path_json_data + "ings.json")
 
 # Convert the data to JSON and dump to individual files -----------------------
 
