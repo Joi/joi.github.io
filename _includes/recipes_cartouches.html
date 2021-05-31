@@ -1,0 +1,52 @@
+{% comment %} 
+MODULE:
+  Recipes Cartouches
+CONTEXT:
+  "recipes" - Jeyll collection of pages
+PARAMETERS
+  "recipe_stamps_grid_title" - Text or HTML - STRING
+  "limit" - limit of entries to show - INT
+  "include_css" - wheteher or not to display - BOOL
+
+USED IN:
+  - 2x Featured Recipes ( recipes_featured.html )
+{% endcomment %}
+
+{% if include.include_css %}
+<style>
+  a.recip-figure {
+    display: block;
+    width: 100%;
+    margin: 1em 0 2em;
+  }
+  .recip-thumb {
+    display: block;
+    height: 100px;
+    width: 100%;
+    margin-bottom: 4px;
+
+  }
+  .recip-caption {
+    font-weight: 400;
+    line-height: 140%;
+  }
+</style>
+{% endif %}
+
+
+{% if include.recipes[0] %}
+  {% for recipe in include.recipes %}
+    <a class="recip-figure" href="{{recipe.url}}">
+      {% if recipe.photo_thumb %}
+        {% capture background %}no-repeat center url('/images/recipes/{{recipe.photo_thumb}}'){% endcapture%}
+      {% else %}
+        {% assign background = "#f1f1f1" %}
+      {% endif %}
+      <div
+        class="recip-thumb"
+        style="background:{{ background }};"
+        >&nbsp</div>
+      <div class="recip-caption">{{recipe.title}} {{recipe.rating}}</div>
+    </a>
+  {% endfor %}
+{% endif %}

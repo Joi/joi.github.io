@@ -8,7 +8,7 @@ which happen to correspond/define the page.title and page.note vars
 
 {% assign key_date = page.date | date: "%Y-%m-%d" %}
 {% assign key_meal = page.title %}
-
+{% assign key_meal_note = key_date | append: "-" | append: key_meal | downcase %}
 <!-- template: note.html -->
 <div class="row" id="title">
 	<div class="small-12 columns">
@@ -28,11 +28,6 @@ which happen to correspond/define the page.title and page.note vars
 </div>
 
 <div class="row" id="">
-	{%- comment -%}
-	<div class="medium-2 columns" id="left-margin">
-		&nbsp;
-	</div>
-	{%- endcomment -%}
 	<div class="medium-9 columns" id="main">
 
 		<div class="content">
@@ -42,35 +37,30 @@ which happen to correspond/define the page.title and page.note vars
 	</div>
 	<div class="medium-3 columns" id="right-margin">
 
-		{%- include backlinks.html -%}
-    
+		{% comment %} 
+    {% include backlinks.html %}
     {% assign rbdm_dict = site.data.meals_indices.recipe_by_date_and_meal[key_date][key_meal] %}
     {% if rbdm_dict %}
       <h4 class="marker">Recipes prepared</h4>
       {% for recipe_id in rbdm_dict %}
         <!--{{ recipe_id }}-->
-        {% assign result = site.recipes | where: "p_recipe_id", recipe_id %}
-        {% if result[0] %}
-          {% for recip in result %}
-            <a class="recip-figure" href="{{recip.url}}">
-              {% if recip.photo_thumb %}
-              {% capture background %}no-repeat center url('/images/recipes/{{recip.photo_thumb}}'){% endcapture%}
-              {% else %}
-              {% assign background = "#f1f1f1" %}
-              {% endif %}
-              <div
-                class="recip-thumb"
-                style="background:{{ background }};"
-                >&nbsp</div>
-              <div class="recip-caption">{{recip.title}}</div>
-            </a>
-          {% endfor %}
-        {% endif %}
+        {% assign recipes = site.recipes | where: "p_recipe_id", recipe_id %}
+        {% include recipes_cartouches.html recipes=recipes include_css=true %}
       {% endfor %}
     {% endif %}
+    {% endcomment %}
+
+    <h4 class="marker">Recipes prepared</h4>
+    <!--{{key_meal_note}}-->
+    {% assign recipes = site.recipes | where_exp: "item", "item.meal_notes contains key_meal_note" %}
+    {% include recipes_cartouches.html recipes=recipes include_css=true %}
 
 	</div>
 </div>
+
+
+
+
 
 {% if jekyll.environment == 'development' %}
 <hr>
