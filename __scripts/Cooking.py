@@ -613,19 +613,36 @@ recipes_sql = f"""
         ) as photos_names,
         (
           SELECT
-            GROUP_CONCAT(date(M.ZDATE + {ts_offset},'unixepoch'),"|") as dates
+            GROUP_CONCAT(DATE(M.ZDATE, 'unixepoch', '+31 year', 'localtime'),"|")
+            /*
+            Meal date offset is slightly different it seems?
+            GROUP_CONCAT(date(M.ZDATE + {ts_offset},'unixepoch'),"|")*/
           FROM
             ZMEAL AS M
           WHERE
             M.ZRECIPE = R.Z_PK
         ) as meal_dates,
+        /*
+                                                              (
+                                                              SELECT
+                                                                GROUP_CONCAT(M.ZTYPE,"|")
+                                                              FROM
+                                                                ZMEAL AS M
+                                                              WHERE
+                                                                M.ZRECIPE = R.Z_PK
+                                                            ) as meal_codes,
+        */
         (
           SELECT
-            GROUP_CONCAT(M.ZTYPE,"|") as types
+            GROUP_CONCAT(lower(MT.ZNAME),"|")
           FROM
-            ZMEAL AS M
+            ZMEALTYPE AS MT
+  		  LEFT JOIN ZMEAL as M
+ 	        ON R.Z_PK = M.ZRECIPE
+   		  LEFT JOIN ZMEALTYPE
+      	    ON ZMEALTYPE.Z_PK = M.ZTYPE
           WHERE
-            M.ZRECIPE = R.Z_PK
+            MT.Z_PK = M.ZTYPE
         ) as meal_types
 
       FROM
@@ -888,22 +905,23 @@ for result in recipes_results:
     # ---------------------------------------------------
     # Meal Dates
     # Split concatened mealdates into a list
-    rmeal_dates = ""
     if result['meal_dates']:
-      try:
-        result['meal_dates'] = result['meal_dates'].split('|')
-        for meal_date in result['meal_dates']:
-          rmeal_dates += "- [[" + meal_date + "|recipenote]]\n"
-        rmeal_dates  = mdit.render(rmeal_dates)
-        #if debug:
-            #print("\t- MD'ed Meal Dates: " + rmeal_dates + "")
-        
-      except Exception as e:
-          print( "🛑 Something fubar in rmeal_dates: " + rmeal_dates + "\n")
-          print(e)
-          print("-------\n")
+      result['meal_dates'] = result['meal_dates'].split('|')
+    # ---------------------------------------------------
+    # Meal Codes
+    # Split concatened meal codes into a list
+    # if result['meal_codes']:
+    #   result['meal_codes'] = result['meal_codes'].split('|')
+    # ---------------------------------------------------
+    # Meal Types
+    # Split concatened meal types into a list
+    if result['meal_types']:
+      result['meal_types'] = result['meal_types'].split('|')
 
-
+    if result['meal_dates'] and result['meal_types']:
+      result['meal_notes'] = [x+'-'+y for x,y in zip(result['meal_dates'],result['meal_types'])]
+    # We can drop the dates and types here sine we now have the full note names.
+    del(result['meal_dates'],result['meal_types'])
 
     # ---------------------------------------------------
     # Directions, Descriptions, Ingredients, Nutritional Info
@@ -945,7 +963,7 @@ for result in recipes_results:
       'ingredients' : ringredients,
       'nutrition'   : rnutrition,
       'notes'       : rnotes,
-      'meal_dates' : rmeal_dates
+      # 'meal_dates'  : rmeal_dates
       }
 
 
@@ -968,9 +986,9 @@ for result in recipes_results:
     
     # Going to split the "result" array into bits we want in the YAML and stuff we will put
     # in the content body
-    result2 = result
+    result2 = copy.deepcopy(result)
     content = {}
-    content["html"] = result2['html']
+    content["html"] = copy.deepcopy(result2['html'])
     del(result2['html'], result2['directions'], result2['notes'], result2['nutritional_info'])
     # We keep "result2['ingredients']" because content.html needs it for link previews.
 
