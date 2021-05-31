@@ -40,6 +40,7 @@ layout: default
         {% assign recipe_prefix = "Joi's " %}
       {% endif %}
 
+      {% if page.feature %}{% endif %}
       <div class="title marker">{{recipe_prefix}}{{ page.title }}</div>
       {% if page.source %}
         <p class="source"> 
@@ -120,21 +121,23 @@ Hacky, but it works.
                 {% assign day = meal.date | split: "-" %}
                 {% comment %}{% capture note_path %}/{{ day[0] }}/{{ day[1] }}/{{ day[2] }}/notes/{{ meal['type'] | downcase }}{% endcapture %}{% endcomment %}
                 {% capture note_path %}/notes/{{ day[0] }}-{{ day[1] }}-{{ day[2] }}-{{ meal['type'] | downcase }}{% endcapture %}
+                {% case note_sit[0] %}
+                  {% when 'featured' %}
+                    {% assign a_title = meal.feature | append: ' - ' | append: meal.type | append: ' - ' | append: date_us_ordinal %}
+                    {% assign a_text =  meal.feature %}
+                    </a>
+                  {% when 'regular' %}
+                    {% assign a_title = meal.type | append: ' - ' | append: date_us_ordinal %}
+                    {% assign a_text =  meal.type %}
+                {% endcase %}
+
                 <li>
-                  {% case note_sit[0] %}
-                    {% when 'featured' %}
-                      <a href="{{ note_path }}" title="{{ meal.feature }} - {{ meal.type }} - {{ date_us_ordinal }}">
-                        <!--em>{{ meal.type }}</em-->
-                        <strong>{{ meal.feature }}</strong>
-                        <em>{{ date_us_ordinal }}</em>
-                      </a>
-                    {% when 'regular' %}
-                      <a href="{{ note_path }}" title="{{ meal.type }} - {{ date_us_ordinal }}">
-                      <strong>{{ meal.type }}</strong>
-                      <em>{{ date_us_ordinal }}</em>
-                      </a>
-                  {% endcase %}
+                  <a href="{{ note_path }}" title="{{ a_title }}">
+                    {{ date_us_ordinal }}<br>
+                    <strong>{{ a_text }}</strong>
+                  </a>
                 </li>
+
               {% endfor %}
             </ul>
           </div>
@@ -156,8 +159,8 @@ Hacky, but it works.
                   <li>
                     <a class="no-endpoint-link" title=""
                       href="obsidian://new?vault=joi.github.io&file={{ obs_path }}">
-                      <em>{{ meal['type'] }}</em>
-                      <strong>{{ meal['date'] | date_to_string: 'ordinal', 'US' }}</strong>
+                      {{ meal['date'] | date_to_string: 'ordinal', 'US' }}<br>
+                      <strong>{{ meal['type'] }}</strong>
                     </a>
                   </li>
                 {% endfor %}
