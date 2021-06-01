@@ -9,6 +9,8 @@ vendor
 
 #
 __project_files
+__storage
+test/
 
 # __scripts stuff
 __pycache__
