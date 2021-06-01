@@ -24,7 +24,7 @@ USED IN:
       {% assign rbdm_dict = site.data.meals_indices.recipe_by_date_and_meal[key_date][key_meal] %}
       <li>
         <a href="{{note.url}}" title="{{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}">
-        {{note.title}}, {{note.date | date_to_string: "ordinal", "US" }} HELLO
+        {{note.title}}, {{note.date | date_to_string: "ordinal", "US" }}
         {% if rbdm_dict %}
           <br><strong>
           {% for recipe_id in rbdm_dict %}
