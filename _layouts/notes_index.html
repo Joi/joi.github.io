@@ -23,8 +23,8 @@ layout: default
     {% comment %}
     Create Context for Meal Notes Feed Include
     {% endcomment %}
-    {% comment %} {% assign notes = site.notes | where_exp: "item", "item.feature" | reverse %}
-    {% include meal_notes_feed.html notes=notes limit=nil excerpt=false %} {% endcomment %}
+    {% assign notes = site.notes | where_exp: "item", "item.feature" | reverse %}
+    {% include meal_notes_feed.html notes=notes limit=nil excerpt=false %}
 
 	</div>
 
@@ -33,8 +33,8 @@ layout: default
     {% comment %}
     Create Context for Meal Notes Sidebar Include
     {% endcomment %}
-    {% assign rought_notes = site.notes | where_exp: 'item', 'item.feature == nil' | reverse %}
-    {% include meal_notes_sidebar.html rought_notes=rought_notes limit=nil %}
+    {% assign notes = site.notes | where_exp: 'item', 'item.feature == nil' | reverse %}
+    {% include meal_notes_sidebar.html notes=notes limit=nil %}
 
 	</div>
 </div>

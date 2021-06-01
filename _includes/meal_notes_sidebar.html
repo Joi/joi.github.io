@@ -18,7 +18,7 @@ USED IN:
   {% endif %}
 
   <ul>
-    {% for note in include.rought_notes limit: {{include.limit}} %}
+    {% for note in include.notes limit: {{include.limit}} %}
       {% assign key_date = note.date | date: "%Y-%m-%d" %}
       {% assign key_meal = note.title %}
       {% assign rbdm_dict = site.data.meals_indices.recipe_by_date_and_meal[key_date][key_meal] %}
