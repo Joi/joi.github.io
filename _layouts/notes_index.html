@@ -33,8 +33,8 @@ layout: default
     {% comment %}
     Create Context for Meal Notes Sidebar Include
     {% endcomment %}
-    {% assign notes2 = site.notes | where: 'feature', nil | reverse %}
-    {% include meal_notes_sidebar.html notes=notes2 limit=nil %}
+    {% assign rought_notes = site.notes | where: 'feature', nil | reverse %}
+    {% include meal_notes_sidebar.html rought_notes=rought_notes limit=nil %}
 
 	</div>
 </div>
