@@ -9,7 +9,8 @@ PARAMETERS
   "include_css" - wheteher or not to display - BOOL
 
 USED IN:
-  - 2x Featured Recipes ( recipes_featured.html )
+  - Home          ( home.html )
+  - Recipe Notes  ( note.html)
 {% endcomment %}
 
 {% if include.include_css %}
@@ -17,11 +18,11 @@ USED IN:
   a.recip-figure {
     display: block;
     width: 100%;
-    margin: 1em 0 2em;
+    margin: 0 0 2em;
   }
   .recip-thumb {
     display: block;
-    height: 100px;
+    height: 120px;
     width: 100%;
     margin-bottom: 4px;
     position: relative;
@@ -29,6 +30,11 @@ USED IN:
   .recip-caption {
     font-weight: 400;
     line-height: 140%;
+  }
+  .recip-caption em {
+    font-size: 12px;
+    font-style: normal;
+    display:block;
   }
   .stars {
     position: absolute;
@@ -46,16 +52,16 @@ USED IN:
 
 
 
-{% for recipe in include.recipes %}
+{% for recipe in include.recipes limit: {{include.limit}} %}
   <a class="recip-figure" href="{{recipe.url}}">
     {% if recipe.photo_thumb %}
-      {% capture background %}no-repeat center url('/images/recipes/{{recipe.photo_thumb}}'){% endcapture%}
+      {% capture background %}no-repeat center center url('/images/recipes/{{recipe.photo_thumb}}'){% endcapture%}
     {% else %}
       {% assign background = "#f1f1f1" %}
     {% endif %}
     <div
       class="recip-thumb"
-      style="background:{{ background }};"
+      style="background:{{ background }};background-size: cover;"
       >
       &nbsp
       {% comment %}
@@ -64,6 +70,11 @@ USED IN:
       {% endif %}
       {% endcomment %}
       </div>
-    <div class="recip-caption">{{recipe.title}}</div>
+    <div class="recip-caption">
+      {{recipe.title}}
+      {% if include.show_date %}
+        <em>{{ recipe.created_ts | date_to_string: "ordinal", "US"  }}</em>
+      {% endif %}
+    </div>
   </a>
 {% endfor %}

@@ -1,0 +1,34 @@
+- am_i : 'home'
+  path: '/'
+  title: 'Home'
+  label: 'Home'
+
+- am_i: 'recipe'
+  path: '/recipes'
+  title: 'Recipes'
+  label: 'Recipes'
+
+- am_i : 'recipe_index'
+  path: '/recipes/index'
+  title: 'Recipes Index'
+  label: 'Index'
+
+- am_i: 'note'
+  path: '/notes'
+  title: 'Meal Notes'
+  label: 'Meal Notes'
+
+- am_i: 'page'
+  path: '/pages'
+  title: 'Pages'
+  label: 'Pages'
+
+- am_i: 'tag'
+  path: '/tags'
+  title: 'Tags'
+  label: 'Tags'
+
+- am_i: 'about'
+  path: '/about'
+  title: 'About'
+  label: 'About'

@@ -1,6 +1,7 @@
 ---
 layout: notes_index
 type: index
+i_am: note
 permalink: /notes/index.html
 ---
 

@@ -1,0 +1,39 @@
+{% comment %} 
+MODULE:
+  Cooking.Ito Site Navbar
+CONTEXT:
+  Chrome: Navigation
+PARAMETERS
+  "i_am" - Text - STRING
+
+USED IN:
+  - 2x Featured Recipes ( recipes_featured.html )
+{% endcomment %}
+
+<div id="site-menu">
+  {% comment %} <ul class="menu">
+    <li><a href="/" title="Home">Home</a></li>
+    <li><a href="/recipes" title="Recipes">Recipes</a></li>
+    <li><a href="/recipes/index" title="Recipe Index">Index</a></li>
+    <li><a href="/notes" title="Meal Notes">Meal Notes</a></li>
+    <li><a href="/pages" title="Tags">Pages</a></li>
+    <li><a href="/tags" title="Tags">Tags</a></li>
+    <li><a href="/about" title="About">About</a></li>
+  </ul> {% endcomment %}
+{% comment %} <h1>page.i_am: {{ page.i_am }}</h1> {% endcomment %}
+  <ul class="menu">
+  {% for nav in site.data.navigation %}
+    {% if page.i_am == nav.am_i %}
+      {% assign class_active = "active" %}
+    {% else %}
+      {% assign class_active = "" %}
+    {% endif %}
+    <li class="{{class_active}}">
+      <a href="{{nav.path}}" title="{{nav.title}}">{{nav.label}}</a>
+      {% comment %} ({{nav.am_i}}) {% endcomment %}
+    </li>
+  {% endfor %}
+  </ul>
+
+</div>
+

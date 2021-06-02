@@ -417,6 +417,13 @@ hr {
 	text-decoration: underline dotted currentColor 1px;
 }
 
+.menu li.active a {
+  background: none;
+  color: #000;
+  font-weight:600;
+}
+
+
 /*
 .mine > div { background-color: #e7f3fe; }
 .notmine > div { background-color: #fee7e7; }

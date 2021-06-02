@@ -18,6 +18,7 @@ layout: default
     {% endcomment %}
     <div class="content">
       {%- include content.html -%}
+      
     </div>
 
   </div>
@@ -33,20 +34,31 @@ layout: default
     {% endcomment %}
     {% assign notes = site.notes | where_exp:"item", "item.promote contains 'home'" | sort: 'date' | reverse %}
     {% capture notes_title_block %}
-      <h4><a href="/notes/" title="Meal Notes">Meal Notes <em>»</em></a></h4>
+      <h4><a href="/notes/" title="Meal Notes">Recent Meal Notes <em>»</em></a></h4>
     {% endcapture %}
     {% include meal_notes_feed.html notes=notes limit=3 notes_title=notes_title_block excerpt=true %}
 
   </div>
 
-  <div class="large-4 columns" id="posts">
+  <div class="large-3 columns" id="posts">
     <div>
-      <h4>Posts</h4>
+
+      <h4 class="marker">Recent recipes</h4>
+
+      {% assign recipes = site.recipes | where_exp: "item", "item.mine" | sort: "created_ts" | reverse %}
+      {% if recipes[0] %}
+        {% include recipes_cartouches.html recipes=recipes include_css=true limit=5 show_date=true %}
+      {% endif %}
+
+      {% comment %} <h4>Posts</h4>
       {% for post in site.posts %}
       <p><strong><a href="{{ post.url }}"
                     aria-label="{{post.content | markdownify | strip_html | normalize_whitespace | truncate: 250 | newline_to_br}}"
                     alt="{{ post.title }}">{{ post.title }}</a></strong><br>{{post.date | date: '%B %d, %Y' }}</p>
-      {% endfor %}
+      {% endfor %} {% endcomment %}
+
+
+
     </div>
   </div>
 
