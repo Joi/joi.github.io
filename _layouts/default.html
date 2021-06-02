@@ -65,26 +65,21 @@
         <div class="top-bar-left">
         </div>
         <div class="top-bar-right">
-          <div id="header-menu">
+          {% comment %} <div id="header-menu">
             <ul class="menu">
               <li><a href="https://joi.ito.com/" title="Joi Ito - Weblog">Blog</a></li>
               <li><a href="https://joi.ito.com/jp/" title="Joi Ito - 日本語 / Japanese Weblog">日本語</a></li>
               <li><a href="https://joi.ito.com/bio.html" title="Joi Ito's Bio">Bio</a></li>
               <li><a href="http://diving.ito.com/" title="Joi Ito - Diving Blog">Diving</a></li>
             </ul>
-          </div>
+          </div> {% endcomment %}
 
-          <div id="site-menu">
-            <ul class="menu">
-              <li><a href="/" title="Home">Home</a></li>
-              <li><a href="/recipes" title="Recipes">Recipes</a></li>
-              <li><a href="/recipes/index" title="Recipe Index">Index</a></li>
-              <li><a href="/notes" title="Meal Notes">Meal Notes</a></li>
-              <li><a href="/pages" title="Tags">Pages</a></li>
-              <li><a href="/tags" title="Tags">Tags</a></li>
-              <li><a href="/about" title="About">About</a></li>
-            </ul>
-          </div>
+          {% include cooking_navbar.html %}
+
+          {% comment %} <div>
+            <script async src="https://cse.google.com/cse.js?cx=5e215292a065ee152"></script>
+            <div class="gcse-searchbox-only"></div>
+          </div> {% endcomment %}
 
         </div>
       </div>
@@ -112,5 +107,6 @@
     </div>
   </div>
 </footer>
+
 </body>
 </html>
