@@ -3,7 +3,7 @@ layout: page
 title: About
 type: webpage
 i_am: about
-permalink: /about
+permalink: /about/
 old_title: Joi's Cooking and Related Tangents
 ---
 

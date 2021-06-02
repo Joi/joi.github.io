@@ -4,31 +4,31 @@
   label: 'Home'
 
 - am_i: 'recipe'
-  path: '/recipes'
+  path: '/recipes/'
   title: 'Recipes'
   label: 'Recipes'
 
 - am_i : 'recipe_index'
-  path: '/recipes/index'
+  path: '/recipes/index/'
   title: 'Recipes Index'
   label: 'Index'
 
 - am_i: 'note'
-  path: '/notes'
+  path: '/notes/'
   title: 'Meal Notes'
   label: 'Meal Notes'
 
 - am_i: 'page'
-  path: '/pages'
+  path: '/pages/'
   title: 'Pages'
   label: 'Pages'
 
 - am_i: 'tag'
-  path: '/tags'
+  path: '/tags/'
   title: 'Tags'
   label: 'Tags'
 
 - am_i: 'about'
-  path: '/about'
+  path: '/about/'
   title: 'About'
   label: 'About'
