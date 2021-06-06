@@ -11,6 +11,10 @@ notes:
     feature: Spatchcocked Chicken in Anova
     type: dinner
     uri_path: /notes/2020-12-17-dinner.html
+  - date: '2021-04-14'
+    feature: Sorrels and Chicken
+    type: dinner
+    uri_path: /notes/2021-04-14-dinner.html
   - date: '2021-04-29'
     feature: Chinese Roasted Chicken
     type: dinner
@@ -28,9 +32,6 @@ notes:
   - date: '2020-10-15'
     type: dinner
     uri_path: /notes/2020-10-15-dinner.html
-  - date: '2021-04-14'
-    type: dinner
-    uri_path: /notes/2021-04-14-dinner.html
 pages:
 - Spatchcocking
 recipes:

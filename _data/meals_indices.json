@@ -4663,6 +4663,13 @@
    ]
   },
   "436": {
+   "featured": [
+    {
+     "date": "2021-04-14",
+     "feature": "Sorrels and Chicken",
+     "type": "Dinner"
+    }
+   ],
    "nofile": [
     {
      "date": "2021-01-14",
@@ -4676,10 +4683,6 @@
    "regular": [
     {
      "date": "2020-12-24",
-     "type": "Dinner"
-    },
-    {
-     "date": "2021-04-14",
      "type": "Dinner"
     }
    ]
@@ -5333,9 +5336,10 @@
    ]
   },
   "516": {
-   "regular": [
+   "featured": [
     {
      "date": "2021-04-14",
+     "feature": "Sorrels and Chicken",
      "type": "Dinner"
     }
    ]
@@ -5688,6 +5692,18 @@
      {
       "feature": "Lamb Tagine with Left-Over Roast Lamb Leg",
       "recipe": 507
+     }
+    ]
+   },
+   "2021-04-14": {
+    "Dinner": [
+     {
+      "feature": "Sorrels and Chicken",
+      "recipe": 436
+     },
+     {
+      "feature": "Sorrels and Chicken",
+      "recipe": 516
      }
     ]
    },
@@ -8412,16 +8428,6 @@
      },
      {
       "recipe": 495
-     }
-    ]
-   },
-   "2021-04-14": {
-    "Dinner": [
-     {
-      "recipe": 436
-     },
-     {
-      "recipe": 516
      }
     ]
    }
