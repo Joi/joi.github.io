@@ -21,6 +21,12 @@ recipes:
   rating: 5
   title: BBQ Sauce
 - mine: 1
+  p_recipe_id: 534
+  permalink: /recipes/banbanji-chicken
+  photo_thumb: C01F691C-6612-4DB9-A614-D5ECA92B3C35-513-0001CE38A2678433.jpg
+  rating: 5
+  title: Banbanji Chicken
+- mine: 1
   p_recipe_id: 397
   permalink: /recipes/beef-stroganoff
   photo_thumb: 2A0147CA-FF67-465D-A87A-8F6295156937-641-00004F911F26D62E.jpg
@@ -253,10 +259,10 @@ rel_tags_count:
   - 1
   - burger
   chicken:
-  - 7
+  - 8
   - chicken
   chinese:
-  - 3
+  - 4
   - Chinese
   crab:
   - 2
@@ -285,6 +291,9 @@ rel_tags_count:
   italian:
   - 2
   - Italian
+  japanese:
+  - 1
+  - Japanese
   lobster:
   - 1
   - lobster

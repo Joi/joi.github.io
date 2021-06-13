@@ -33,6 +33,12 @@ recipes:
   photo_thumb: BC229771-E812-4CC5-A798-B9B2713FD769.jpg
   rating: 0
   title: Asian Pork Chops
+- mine: 1
+  p_recipe_id: 534
+  permalink: /recipes/banbanji-chicken
+  photo_thumb: C01F691C-6612-4DB9-A614-D5ECA92B3C35-513-0001CE38A2678433.jpg
+  rating: 5
+  title: Banbanji Chicken
 - mine: null
   p_recipe_id: 521
   permalink: /recipes/braised-abalone-with-mushrooms
@@ -125,7 +131,7 @@ rel_tags_count:
   - 1
   - beef shank
   chicken:
-  - 1
+  - 2
   - chicken
   crab:
   - 2
@@ -139,6 +145,9 @@ rel_tags_count:
   ground-pork:
   - 3
   - ground pork
+  japanese:
+  - 1
+  - Japanese
   lobster:
   - 2
   - lobster

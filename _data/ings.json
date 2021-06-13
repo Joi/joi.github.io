@@ -340,6 +340,78 @@
    "unit": ""
   }
  ],
+ "BANBANJI CHICKEN": [
+  {
+   "comment": "(toast then grind in pestle)",
+   "name": "Tbsp sesame paste",
+   "original_string": "2 Tbsp sesame paste (toast then grind in pestle)",
+   "quantity": 2.0,
+   "unit": ""
+  },
+  {
+   "comment": "",
+   "name": "Tbsp rice wine vinegar",
+   "original_string": "2 Tbsp rice wine vinegar",
+   "quantity": 2.0,
+   "unit": ""
+  },
+  {
+   "comment": "",
+   "name": "Tbps sugar",
+   "original_string": "2 Tbps sugar",
+   "quantity": 2.0,
+   "unit": ""
+  },
+  {
+   "comment": "",
+   "name": "Tbps soy sauce",
+   "original_string": "3 Tbps soy sauce",
+   "quantity": 3.0,
+   "unit": ""
+  },
+  {
+   "comment": "",
+   "name": "Tbps sesame oil",
+   "original_string": "1 Tbps sesame oil",
+   "quantity": 1.0,
+   "unit": ""
+  },
+  {
+   "comment": "(spicy sesame oil)",
+   "name": "Tbsp rayu",
+   "original_string": "1 Tbsp rayu (spicy sesame oil)",
+   "quantity": 1.0,
+   "unit": ""
+  },
+  {
+   "comment": "",
+   "name": "Scallions",
+   "original_string": "Scallions",
+   "quantity": 0,
+   "unit": ""
+  },
+  {
+   "comment": "",
+   "name": "Tomatos",
+   "original_string": "Tomatos",
+   "quantity": 0,
+   "unit": ""
+  },
+  {
+   "comment": "",
+   "name": "Cucumber",
+   "original_string": "Cucumber",
+   "quantity": 0,
+   "unit": ""
+  },
+  {
+   "comment": "",
+   "name": "Chicken",
+   "original_string": "Chicken",
+   "quantity": 0,
+   "unit": ""
+  }
+ ],
  "BASIC SALSA VERDE": [
   {
    "comment": "(about 1 medium shallot)",
@@ -3507,31 +3579,10 @@
  ],
  "CHINESE ROASTED CHICKEN": [
   {
-   "comment": "(around 1 kg )",
-   "name": "chicken",
-   "original_string": "1 chicken (around 1 kg )",
-   "quantity": 1.0,
-   "unit": ""
-  },
-  {
-   "comment": "",
-   "name": "Marinade",
-   "original_string": "Marinade",
-   "quantity": 0,
-   "unit": ""
-  },
-  {
    "comment": "around 1 kg",
    "name": "chicken",
    "original_string": "1 chicken , around 1 kg",
    "quantity": 1.0,
-   "unit": ""
-  },
-  {
-   "comment": "",
-   "name": "Marinade",
-   "original_string": "Marinade",
-   "quantity": 0,
    "unit": ""
   },
   {

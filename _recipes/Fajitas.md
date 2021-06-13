@@ -2,22 +2,22 @@
 title: "Fajitas"
 filename: "fajitas"
 cook_time: null
-created: '2020-08-19 13:14:12'
-created_ts: 1597842852
+created: '2020-08-19 06:14:12'
+created_ts: 1597817652
 description: null
 difficulty: null
 favorite: 0
 image_url: null
-ingredients: "\xBD cup soy sauce\r\xBD cup lime juice (from 6 to 8 limes)\r\xBD cup\
-  \ canola oil\r\xBC cup packed brown sugar\r2 teaspoons ground cumin seed\r2 teaspoons\
-  \ freshly ground black pepper\r1 tablespoon chili powder (see the headnote)\r3 medium\
-  \ cloves garlic, finely minced (about 1 tablespoon)\r2 pounds trimmed skirt steak\
-  \ (about 1 whole steak), cut\rcrosswise into 5- to 6-inch pieces (see here for trimming\
-  \ instructions)\r1 large red bell pepper, stemmed, seeded, and cut into \xBD-inch-wide\
-  \ strips\r1 large yellow bell pepper, stemmed, seeded, and cut into \xBD-inch-wide\
-  \ strips\r1 large green bell pepper, stemmed, seeded, and cut into \xBD-inch-wide\
-  \ strips\r1 white or yellow onion, cut into \xBD-inch slices\r12 to 16 fresh flour\
-  \ or corn tortillas, hot\r1 recipe Pico de Gallo\nGuacamole, sour cream, shredded\
+ingredients: "\xBD cup soy sauce\n\xBD cup lime juice (from 6 to 8 limes)\n\xBD cup\
+  \ canola oil\n\xBC cup packed brown sugar\n2 teaspoons ground cumin seed\n2 teaspoons\
+  \ freshly ground black pepper\n1 tablespoon chili powder (see the headnote)\n3 medium\
+  \ cloves garlic, finely minced (about 1 tablespoon)\n2 pounds trimmed skirt steak\
+  \ (about 1 whole steak), cut\ncrosswise into 5- to 6-inch pieces (see here for trimming\
+  \ instructions)\n1 large red bell pepper, stemmed, seeded, and cut into \xBD-inch-wide\
+  \ strips\n1 large yellow bell pepper, stemmed, seeded, and cut into \xBD-inch-wide\
+  \ strips\n1 large green bell pepper, stemmed, seeded, and cut into \xBD-inch-wide\
+  \ strips\n1 white or yellow onion, cut into \xBD-inch slices\n12 to 16 fresh flour\
+  \ or corn tortillas, hot\n1 recipe Pico de Gallo\nGuacamole, sour cream, shredded\
   \ cheese, and salsa, for serving, if desired"
 intrash: 0
 meal_notes:
@@ -58,22 +58,22 @@ Kosher salt
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>½ cup soy sauce
-½ cup lime juice (from 6 to 8 limes)
-½ cup canola oil
-¼ cup packed brown sugar
-2 teaspoons ground cumin seed
-2 teaspoons freshly ground black pepper
-1 tablespoon chili powder (see the headnote)
-3 medium cloves garlic, finely minced (about 1 tablespoon)
-2 pounds trimmed skirt steak (about 1 whole steak), cut
-crosswise into 5- to 6-inch pieces (see here for trimming instructions)
-1 large red bell pepper, stemmed, seeded, and cut into ½-inch-wide strips
-1 large yellow bell pepper, stemmed, seeded, and cut into ½-inch-wide strips
-1 large green bell pepper, stemmed, seeded, and cut into ½-inch-wide strips
-1 white or yellow onion, cut into ½-inch slices
-12 to 16 fresh flour or corn tortillas, hot
-1 recipe Pico de Gallo</li>
+<li>½ cup soy sauce</li>
+<li>½ cup lime juice (from 6 to 8 limes)</li>
+<li>½ cup canola oil</li>
+<li>¼ cup packed brown sugar</li>
+<li>2 teaspoons ground cumin seed</li>
+<li>2 teaspoons freshly ground black pepper</li>
+<li>1 tablespoon chili powder (see the headnote)</li>
+<li>3 medium cloves garlic, finely minced (about 1 tablespoon)</li>
+<li>2 pounds trimmed skirt steak (about 1 whole steak), cut</li>
+<li>crosswise into 5- to 6-inch pieces (see here for trimming instructions)</li>
+<li>1 large red bell pepper, stemmed, seeded, and cut into ½-inch-wide strips</li>
+<li>1 large yellow bell pepper, stemmed, seeded, and cut into ½-inch-wide strips</li>
+<li>1 large green bell pepper, stemmed, seeded, and cut into ½-inch-wide strips</li>
+<li>1 white or yellow onion, cut into ½-inch slices</li>
+<li>12 to 16 fresh flour or corn tortillas, hot</li>
+<li>1 recipe Pico de Gallo</li>
 <li>Guacamole, sour cream, shredded cheese, and salsa, for serving, if desired</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

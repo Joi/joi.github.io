@@ -60,6 +60,12 @@ recipes:
   rating: 5
   title: BBQ Chicken
 - mine: null
+  p_recipe_id: 534
+  permalink: /recipes/banbanji-chicken
+  photo_thumb: C01F691C-6612-4DB9-A614-D5ECA92B3C35-513-0001CE38A2678433.jpg
+  rating: 5
+  title: Banbanji Chicken
+- mine: null
   p_recipe_id: 163
   permalink: /recipes/beer-brined-roast-chicken
   photo_thumb: 6884EEBB-8FC1-4F3C-9B7A-5FC7AD5EDE0D-29546-0000D6FF8044C095.jpg
@@ -403,7 +409,7 @@ rel_tags_count:
   - 1
   - braising
   chinese:
-  - 1
+  - 2
   - Chinese
   curry:
   - 4
@@ -423,6 +429,9 @@ rel_tags_count:
   italian:
   - 1
   - Italian
+  japanese:
+  - 1
+  - Japanese
   meat:
   - 3
   - meat

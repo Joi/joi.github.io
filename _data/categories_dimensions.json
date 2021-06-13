@@ -136,15 +136,15 @@
   "cat_id": 14,
   "cat_label": "Chicken",
   "cat_parent_id": 18,
-  "recipes": "13|15|30|42|71|72|82|84|86|88|108|117|163|171|240|277|330|341|373|436|441|444|448|516|528",
-  "recipes_names": "harr|rish|japa|chic|chic|brai|chic|stov|brai|moro|calp|indi|beer|fren|oven|chic|chic|bbqc|chic|chic|chin|roas|brai|chic|thai"
+  "recipes": "13|15|30|42|71|72|82|84|86|88|108|117|163|171|240|277|330|341|373|436|441|444|448|516|528|534",
+  "recipes_names": "harr|rish|japa|chic|chic|brai|chic|stov|brai|moro|calp|indi|beer|fren|oven|chic|chic|bbqc|chic|chic|chin|roas|brai|chic|thai|banb"
  },
  {
   "cat_id": 99,
   "cat_label": "Chinese",
   "cat_parent_id": 127,
-  "recipes": "453|454|486|492|497|498|521",
-  "recipes_names": "chin|kani|cant|mapo|shri|chin|brai"
+  "recipes": "453|454|486|492|497|498|521|534",
+  "recipes_names": "chin|kani|cant|mapo|shri|chin|brai|banb"
  },
  {
   "cat_id": 37,
@@ -285,6 +285,13 @@
   "cat_parent_id": 127,
   "recipes": "2|8|17|37|42|199|350|469|529",
   "recipes_names": "saus|ragú|meat|mine|chic|osso|bolo|pizz|bake"
+ },
+ {
+  "cat_id": 122,
+  "cat_label": "Japanese",
+  "cat_parent_id": 127,
+  "recipes": "534",
+  "recipes_names": "banb"
  },
  {
   "cat_id": 12,

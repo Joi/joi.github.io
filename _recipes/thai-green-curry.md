@@ -59,6 +59,7 @@ intrash: 0
 meal_notes:
 - 2021-05-13-dinner
 - 2021-05-21-dinner
+- 2021-06-09-dinner
 mine: null
 name: Thai Green Curry
 p_recipe_id: 528

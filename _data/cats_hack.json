@@ -232,9 +232,11 @@
       "492": "mapo",
       "497": "shri",
       "498": "chin",
-      "521": "brai"
+      "521": "brai",
+      "534": "banb"
      },
      "recipes_nam": {
+      "banb": "534",
       "brai": "521",
       "cant": "486",
       "chin": "498",
@@ -279,6 +281,17 @@
       "pizz": "469",
       "ragú": "8",
       "saus": "2"
+     }
+    },
+    {
+     "cat_id": 122,
+     "cat_label": "Japanese",
+     "children": [],
+     "recipes_ids": {
+      "534": "banb"
+     },
+     "recipes_nam": {
+      "banb": "534"
      }
     },
     {
@@ -639,6 +652,7 @@
         "448": "brai",
         "516": "chic",
         "528": "thai",
+        "534": "banb",
         "71": "chic",
         "72": "brai",
         "82": "chic",
@@ -647,6 +661,7 @@
         "88": "moro"
        },
        "recipes_nam": {
+        "banb": "534",
         "bbqc": "341",
         "beer": "163",
         "brai": "86",
