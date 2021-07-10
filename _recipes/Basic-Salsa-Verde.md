@@ -15,6 +15,7 @@ intrash: 0
 meal_notes:
 - 2020-07-15-dinner
 - 2020-10-08-dinner
+- 2021-07-07-dinner
 mine: null
 name: Basic Salsa Verde
 p_recipe_id: 251

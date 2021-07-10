@@ -21,6 +21,7 @@ meal_notes:
 - 2020-09-10-dinner
 - 2020-12-09-dinner
 - 2021-05-06-dinner
+- 2021-06-23-dinner
 mine: null
 name: Braised Chicken with Basil and Tomato
 p_recipe_id: 86

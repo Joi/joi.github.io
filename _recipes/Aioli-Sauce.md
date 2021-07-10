@@ -41,6 +41,7 @@ meal_notes:
 - 2020-09-19-dinner
 - 2020-10-13-dinner
 - 2020-12-05-dinner
+- 2021-07-04-dinner
 mine: null
 name: Aioli Sauce
 p_recipe_id: 242

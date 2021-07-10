@@ -35,6 +35,9 @@ meal_notes:
 - 2021-05-26-dinner
 - 2021-06-06-dinner
 - 2021-06-12-dinner
+- 2021-06-27-dinner
+- 2021-06-30-dinner
+- 2021-07-08-dinner
 mine: 1
 name: Bolognese Sauce
 p_recipe_id: 350

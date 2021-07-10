@@ -3,6 +3,12 @@ title: Oxtail
 tag_key: oxtail
 recipes:
 - mine: null
+  p_recipe_id: 538
+  permalink: /recipes/jamaican-oxtails
+  photo_thumb: 84322ACC-F165-40DC-92A6-2DCC53DAE4DB.jpg
+  rating: 0
+  title: Jamaican Oxtails
+- mine: null
   p_recipe_id: 478
   permalink: /recipes/oxtail-au-jus
   photo_thumb: 84BF3CD6-6325-44F0-9E48-7906E8A6A3E6-26383-000126417DBE7CB5.jpg

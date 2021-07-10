@@ -35,6 +35,7 @@ intrash: 0
 meal_notes:
 - 2020-12-01-dinner
 - 2020-12-12-dinner
+- 2021-06-24-dinner
 mine: null
 name: Creamy Lemon Dill Salmon
 p_recipe_id: 422

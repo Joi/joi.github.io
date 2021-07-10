@@ -27,11 +27,20 @@ recipes:
   rating: 0
   title: Pan-Seared Sablefish (Black Cod) with Lemon Pepper Aioli
 - mine: null
+  p_recipe_id: 535
+  permalink: /recipes/sea-bass-with-fennel-sauce
+  photo_thumb: 4D5BAC84-11A0-4159-84D3-9CF2ACE6FC6E-63805-0002E3F53EFEDE7C.jpg
+  rating: 0
+  title: Sea Bass with Fennel Sauce.
+- mine: null
   p_recipe_id: 410
   permalink: /recipes/spicy-coconut-braised-black-cod-with-colorful-vegetables
   photo_thumb: 12994A4D-812D-4BE3-B7E6-C4C27AD20053-32901-000016CE71033E9C.jpg
   rating: 5
   title: Spicy Coconut Braised Black Cod with Colorful Vegetables
-rel_tags_count: {}
+rel_tags_count:
+  italian:
+  - 1
+  - Italian
 
 ---

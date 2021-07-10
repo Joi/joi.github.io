@@ -30,6 +30,7 @@ ingredients: '2 Tbsp sesame paste (toast then grind in pestle)
 intrash: 0
 meal_notes:
 - 2021-06-10-dinner
+- 2021-07-02-dinner
 mine: 1
 name: Banbanji Chicken
 p_recipe_id: 534
@@ -38,6 +39,7 @@ photo_large: banbanji-chicken-large.jpg
 photo_thumb: banbanji-chicken-thumb.jpg
 photos_dict:
   '1': banbanji-chicken-1.jpg
+  '2': banbanji-chicken-2.jpg
 prep_time: ''
 rating: 5
 servings: ''

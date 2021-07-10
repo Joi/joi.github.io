@@ -26,6 +26,7 @@ intrash: 0
 meal_notes:
 - 2021-02-04-dinner
 - 2021-04-22-dinner
+- 2021-07-01-dinner
 mine: 1
 name: Braised Chicken Tikka Masala
 p_recipe_id: 448

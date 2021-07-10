@@ -61,6 +61,12 @@ recipes:
   rating: 0
   title: Grilled Salmon I
 - mine: null
+  p_recipe_id: 536
+  permalink: /recipes/mediterranean-baked-salmon-with-tomatoes-capers-olives
+  photo_thumb: 91C7A115-814A-49D5-810D-B5246DA93BC9.jpg
+  rating: 0
+  title: Mediterranean Baked Salmon with Tomatoes, Capers, & Olives
+- mine: null
   p_recipe_id: 56
   permalink: /recipes/oven-steamed-salmon
   photo_thumb: 7265F740-9B8A-44F5-9851-4ADFEF9591D3-9067-000186092A6B476D.jpg
@@ -154,6 +160,9 @@ rel_tags_count:
   halibut:
   - 1
   - halibut
+  italian:
+  - 1
+  - Italian
   seafood:
   - 1
   - seafood

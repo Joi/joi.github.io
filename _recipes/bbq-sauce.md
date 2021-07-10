@@ -18,6 +18,7 @@ meal_notes:
 - 2020-09-03-dinner
 - 2020-09-20-dinner
 - 2021-05-16-pantry
+- 2021-07-03-pantry
 mine: 1
 name: BBQ Sauce
 p_recipe_id: 246
