@@ -26,3 +26,5 @@ _data/meal_by_recipe_and_date.json
 .obsidian/config
 .obsidian/workspace
 __scripts/DelLocalFiles.py
+
+venv
