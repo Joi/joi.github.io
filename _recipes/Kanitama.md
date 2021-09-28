@@ -1,12 +1,12 @@
 ---
 title: "Kanitama"
 filename: "kanitama"
-cook_time: ''
-created: '2021-01-21 12:18:08'
-created_ts: 1611231488
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: "Based on the [\u304B\u306B\u305F\u307E recipe from NHK's \u307F\u3093\
   \u306A\u306E\u304D\u3087\u3046\u306E\u6599\u7406](https://www.kyounoryouri.jp/recipe/3406_%E3%81%8B%E3%81%AB%E3%81%9F%E3%81%BE.html)"
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "5 eggs\n\xBD pound of crab - shredded\n1 cup of shiitake mushrooms -\
@@ -18,12 +18,11 @@ ingredients: "5 eggs\n\xBD pound of crab - shredded\n1 cup of shiitake mushrooms
   \ soy sauce\n1 Tbsp potato starch dissolved in 1 Tbsp of water"
 intrash: 0
 meal_notes:
-- 2021-01-20-dinner
-- 2021-02-16-dinner
 - 2021-03-16-dinner
+- 2021-02-16-dinner
 mine: 1
 name: Kanitama
-p_recipe_id: 454
+p_recipe_id: 2
 permalink: /recipes/kanitama
 photo_large: kanitama-large.jpg
 photo_thumb: kanitama-thumb.jpg
@@ -33,7 +32,7 @@ photos_dict:
   '3': kanitama-3.jpg
   '6': kanitama-6.jpg
   '7': kanitama-7.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: '4'
 slug: kanitama
@@ -43,7 +42,7 @@ tags:
 - egg
 - crab
 - chinese
-total_time: ''
+total_time: null
 type: null
 uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681
 ---

@@ -1,37 +1,33 @@
 ---
 title: "Steamed Lobster"
 filename: "steamed-lobster"
-cook_time: ''
-created: '2020-06-29 10:59:10'
-created_ts: 1593428350
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: Live lobster
 intrash: 0
-meal_notes:
-- 2020-07-04-dinner
-- 2020-07-11-dinner
-- 2020-12-30-dinner
 mine: 1
 name: Steamed Lobster
-p_recipe_id: 213
+p_recipe_id: 136
 permalink: /recipes/steamed-lobster
 photo_large: steamed-lobster-large.jpg
 photo_thumb: steamed-lobster-thumb.jpg
 photos_dict:
   '1': steamed-lobster-1.jpg
   '2': steamed-lobster-2.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: steamed-lobster
 source: null
 source_url: https://lobsteranywhere.com/cooking-lobster/
 tags:
 - lobster
-total_time: ''
+total_time: null
 type: null
 uid: 44A1BA78-B7C0-4AB8-B9A9-D3E3C584B5EE-47978-000609DDB4D1CC3B
 ---

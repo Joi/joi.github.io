@@ -2,8 +2,8 @@
 title: "Halibut Cheek Fish Tacos"
 filename: "halibut-cheek-fish-tacos"
 cook_time: null
-created: '2020-08-16 15:30:50'
-created_ts: 1597591850
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -13,11 +13,9 @@ ingredients: "1 teaspoon garlic powder\n1 teaspoon ground cumin\n1 teaspoon chil
   \ pepper to taste\n2 tablespoons vegetable oil\n\nVeggies\n \n1 Lime\nCilantro for\
   \ garnish \nSalsa and Guacamole for topping"
 intrash: 0
-meal_notes:
-- 2020-08-19-dinner
 mine: null
 name: Halibut Cheek Fish Tacos
-p_recipe_id: 307
+p_recipe_id: 437
 permalink: /recipes/halibut-cheek-fish-tacos
 photo_large: null
 photo_thumb: halibut-cheek-fish-tacos-thumb.jpg

@@ -2,8 +2,8 @@
 title: "Roberta’s Pizza Dough"
 filename: "robertas-pizza-dough"
 cook_time: 20 minutes
-created: '2021-02-02 00:05:18'
-created_ts: 1612224318
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -22,7 +22,7 @@ meal_notes:
 - 2021-02-03-lunch
 mine: null
 name: "Roberta\u2019s Pizza Dough"
-p_recipe_id: 466
+p_recipe_id: 175
 permalink: /recipes/robertas-pizza-dough
 photo_large: null
 photo_thumb: robertas-pizza-dough-thumb.jpg
@@ -34,8 +34,8 @@ slug: robertas-pizza-dough
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1016230-robertas-pizza-dough?smid=ck-recipe-iOS-share
 tags:
-- italian
 - pizza
+- italian
 total_time: null
 type: null
 uid: 571C019F-B7B2-4CF9-AD16-2CC3BE6EE9E4-55272-0000273A4BC61E71

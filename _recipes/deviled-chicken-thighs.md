@@ -2,10 +2,10 @@
 title: "Deviled Chicken Thighs"
 filename: "deviled-chicken-thighs"
 cook_time: 20 minutes
-created: '2020-03-16 19:06:22'
-created_ts: 1584385582
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2016/02/09/dining/09COOKING_BAKEDCHICKEN2/09COOKING_BAKEDCHICKEN2-articleLarge-v2.jpg
 ingredients: "8 chicken thighs, or a mixture of thighs and drumsticks\nSalt and freshly\
@@ -15,12 +15,12 @@ ingredients: "8 chicken thighs, or a mixture of thighs and drumsticks\nSalt and 
 intrash: 0
 mine: null
 name: Deviled Chicken Thighs
-p_recipe_id: 49
+p_recipe_id: 129
 permalink: /recipes/deviled-chicken-thighs
 photo_large: null
 photo_thumb: deviled-chicken-thighs-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 3
 servings: Yield 4 servings
 slug: deviled-chicken-thighs
@@ -28,7 +28,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/7237-deviled-chicken-thighs?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
 tags:
 - chicken
-total_time: ''
+total_time: null
 type: null
 uid: 3D759CDC-26D2-4052-B997-70FA0B74A0FC-3480-00000293D31F2FFE
 ---

@@ -1,15 +1,15 @@
 ---
 title: "Paella"
 filename: "paella"
-cook_time: ''
-created: '2020-09-12 14:56:58'
-created_ts: 1599922618
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: 'Based on [this Simply Recipes recipe](https://www.simplyrecipes.com/recipes/seafood_paella_on_the_grill/).
 
 
   Original recipe calls for doing this on a grill, but can easily be done in an oven.
   Also, proteins can be replaced but should be one layer on the rice.'
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "4 \xBD cups chicken stock\n\xBD tsp saffron threads, crumbled and then\
@@ -21,26 +21,24 @@ ingredients: "4 \xBD cups chicken stock\n\xBD tsp saffron threads, crumbled and 
   \ mussels, rinsed and scrubbed\n1 lb littleneck clams, rinsed and scrubbed\n\xBC\
   \ cup chopped parsley, for garnish"
 intrash: 0
-meal_notes:
-- 2020-09-12-dinner
 mine: 1
 name: Paella
-p_recipe_id: 353
+p_recipe_id: 405
 permalink: /recipes/paella
 photo_large: paella-large.jpg
 photo_thumb: paella-thumb.jpg
 photos_dict:
   '1': paella-1.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: paella
 source: null
 source_url: null
 tags:
 - seafood
 - rice
-total_time: ''
+total_time: null
 type: null
 uid: D012AD02-2C8B-45D6-B54B-B7C3339CDF60-1119-00000022984CEC03
 ---

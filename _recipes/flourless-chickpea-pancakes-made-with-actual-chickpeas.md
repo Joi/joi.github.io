@@ -2,8 +2,8 @@
 title: "Flourless Chickpea Pancakes – Made with Actual Chickpeas"
 filename: "flourless-chickpea-pancakes-made-with-actual-chickpeas"
 cook_time: 15 minutes
-created: '2021-01-03 16:49:08'
-created_ts: 1609692548
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -26,7 +26,7 @@ ingredients: '15 oz. chickpeas drained and rinsed
 intrash: 0
 mine: null
 name: "Flourless Chickpea Pancakes \u2013 Made with Actual Chickpeas"
-p_recipe_id: 446
+p_recipe_id: 428
 permalink: /recipes/flourless-chickpea-pancakes-made-with-actual-chickpeas
 photo_large: null
 photo_thumb: flourless-chickpea-pancakes-made-with-actual-chickpeas-thumb.jpg

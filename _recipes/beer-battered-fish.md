@@ -1,9 +1,9 @@
 ---
 title: "Beer-Battered Fish"
 filename: "beer-battered-fish"
-cook_time: ''
-created: '2021-04-02 18:27:50'
-created_ts: 1617388070
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: "I clearly remember the first time I battered and fried fish; the way\
   \ the batter puffed up when it hit the hot oil seemed like a miracle. Considering\
   \ how frying had always intimidated me, the way the fish turned out\u2014crisp and\
@@ -15,7 +15,7 @@ description: "I clearly remember the first time I battered and fried fish; the w
   \ beer and baking powder to the batter, and keeping everything ice-cold, he tipped\
   \ the scales even further in favor of lightness. As a result, the crust is even\
   \ more unbelievably tender. Some might call it, you know, a miracle."
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "2 \xBD cups all-purpose flour (Optional: For extra crispness, substitute\
@@ -28,7 +28,7 @@ meal_notes:
 - 2021-04-02-dinner
 mine: null
 name: Beer-Battered Fish
-p_recipe_id: 503
+p_recipe_id: 430
 permalink: /recipes/beer-battered-fish
 photo_large: beer-battered-fish-large.jpg
 photo_thumb: beer-battered-fish-thumb.jpg
@@ -36,15 +36,15 @@ photos_dict:
   '1': beer-battered-fish-1.jpg
   '2': beer-battered-fish-2.jpg
   '3': beer-battered-fish-3.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: beer-battered-fish
 source: Salt, Fat, Acid, Heat
 source_url: null
 tags:
 - fish
-total_time: ''
+total_time: null
 type: null
 uid: DB94AE8A-FA95-4677-8D0C-8AFA94F2D790-52325-0002D2402562F413
 ---

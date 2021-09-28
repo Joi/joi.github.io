@@ -1,13 +1,13 @@
 ---
 title: "Shrimp Bisque"
 filename: "shrimp-bisque"
-cook_time: ''
-created: '2020-07-28 19:16:06'
-created_ts: 1595963766
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
-image_url: null
+image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/6408_dj08-sfs-4c-shrimpbisque-1-279840
 ingredients: 'GATHER YOUR INGREDIENTS
 
   4 tablespoons unsalted butter
@@ -36,18 +36,15 @@ ingredients: 'GATHER YOUR INGREDIENTS
 
   Salt and pepper'
 intrash: 0
-meal_notes:
-- 2020-07-28-dinner
 mine: null
 name: Shrimp Bisque
-p_recipe_id: 279
+p_recipe_id: 283
 permalink: /recipes/shrimp-bisque
-photo_large: shrimp-bisque-large.jpg
+photo_large: null
 photo_thumb: shrimp-bisque-thumb.jpg
-photos_dict:
-  '1': shrimp-bisque-1.jpg
-prep_time: ''
-rating: 5
+photos_dict: null
+prep_time: null
+rating: 0
 servings: Serves 8 to 10
 slug: shrimp-bisque
 source: cookscountry.com
@@ -55,9 +52,9 @@ source_url: https://www.cookscountry.com/recipes/4006-shrimp-bisque?extcode=MCSK
 tags:
 - shrimp
 - soup
-total_time: ''
+total_time: null
 type: null
-uid: 07B00EC3-D72D-4F99-9495-7378F03075FA-2209-0002342328EFFF9D
+uid: 904DB531-634C-4ECE-ACAC-060133621002-2209-0001DB94099A13FB
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->

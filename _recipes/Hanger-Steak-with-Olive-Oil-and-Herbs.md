@@ -2,10 +2,10 @@
 title: "Hanger Steak with Olive Oil and Herbs"
 filename: "hanger-steak-with-olive-oil-and-herbs"
 cook_time: 20 minutes
-created: '2020-05-05 00:48:28'
-created_ts: 1588639708
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "2 tablespoons Worcestershire sauce\n2 tablespoons soy sauce\n2 tablespoons\
@@ -14,18 +14,15 @@ ingredients: "2 tablespoons Worcestershire sauce\n2 tablespoons soy sauce\n2 tab
   \ quartered\n5 tablespoons herbaceous extra virgin olive oil\n6 ounces greens, preferably\
   \ baby spinach\n\xBD cup coarsely chopped herbs\n1 teaspoon grated lemon zest"
 intrash: 0
-meal_notes:
-- 2020-05-05-dinner
-- 2020-09-26-dinner
 mine: null
 name: Hanger Steak with Olive Oil and Herbs
-p_recipe_id: 137
+p_recipe_id: 423
 permalink: /recipes/hanger-steak-with-olive-oil-and-herbs
 photo_large: hanger-steak-with-olive-oil-and-herbs-large.jpg
 photo_thumb: hanger-steak-with-olive-oil-and-herbs-thumb.jpg
 photos_dict:
   '1': hanger-steak-with-olive-oil-and-herbs-1.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Yield 2 servings
 slug: hanger-steak-with-olive-oil-and-herbs
@@ -33,7 +30,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/8451-hanger-steak-with-olive-oil-and-herbs
 tags:
 - steaks
-total_time: ''
+total_time: null
 type: null
 uid: D786F450-7037-453C-9DD7-EECBAE202032-39436-00015D8932851873
 ---

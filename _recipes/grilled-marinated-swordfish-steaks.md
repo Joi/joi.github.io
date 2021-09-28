@@ -2,10 +2,10 @@
 title: "Grilled Marinated Swordfish Steaks"
 filename: "grilled-marinated-swordfish-steaks"
 cook_time: 30 minutes
-created: '2020-07-05 23:27:15'
-created_ts: 1593991635
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2017/06/05/dining/05COOKING-SWORDFISH-STEAKS2/05COOKING-SWORDFISH-STEAKS2-articleLarge.jpg
 ingredients: "4 center-cut swordfish steaks, about 6 ounces each, one-inch thick\n\
@@ -16,12 +16,12 @@ ingredients: "4 center-cut swordfish steaks, about 6 ounces each, one-inch thick
 intrash: 0
 mine: null
 name: Grilled Marinated Swordfish Steaks
-p_recipe_id: 232
+p_recipe_id: 216
 permalink: /recipes/grilled-marinated-swordfish-steaks
 photo_large: null
 photo_thumb: grilled-marinated-swordfish-steaks-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 servings
 slug: grilled-marinated-swordfish-steaks
@@ -29,7 +29,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/10046-grilled-marinated-swordfish-steaks?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
 tags:
 - swordfish
-total_time: ''
+total_time: null
 type: null
 uid: 6CE85452-0552-432B-9997-0D4BF98E4B75-631-0001AC40FCBE07A8
 ---

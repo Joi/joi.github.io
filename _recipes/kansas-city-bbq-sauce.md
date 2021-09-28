@@ -2,10 +2,10 @@
 title: "Kansas City BBQ Sauce"
 filename: "kansas-city-bbq-sauce"
 cook_time: 25 mins
-created: '2020-09-18 21:19:19'
-created_ts: 1600463959
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://heygrillheycdn.sfo2.cdn.digitaloceanspaces.com/2018/01/smoked-5.jpg
 ingredients: "14 oz can crushed tomatoes\n1 cup ketchup\n\xBE cup brown sugar\n\xBD\
@@ -15,7 +15,7 @@ ingredients: "14 oz can crushed tomatoes\n1 cup ketchup\n\xBE cup brown sugar\n\
 intrash: 0
 mine: null
 name: Kansas City BBQ Sauce
-p_recipe_id: 365
+p_recipe_id: 445
 permalink: /recipes/kansas-city-bbq-sauce
 photo_large: null
 photo_thumb: kansas-city-bbq-sauce-thumb.jpg
@@ -29,7 +29,7 @@ source_url: https://heygrillhey.com/kansas-city-style-bbq-sauce/
 tags:
 - sauce
 - bbq
-total_time: ''
+total_time: null
 type: null
 uid: E3483D3E-62EE-4AE0-BB6C-FA55C3187DFB-1710-00000127511567EB
 ---

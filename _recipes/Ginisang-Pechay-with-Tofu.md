@@ -1,16 +1,16 @@
 ---
 title: "Ginisang Pechay with Tofu"
 filename: "ginisang-pechay-with-tofu"
-cook_time: ''
-created: '2021-02-24 12:37:05'
-created_ts: 1614170225
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: 'Instead of bok choy, you can use other strong leafy greens such as Chinese
   cabbage.
 
 
   If you want to go full vegan, replace fish sauce with a tbsp of tomato paste or
   vegan fish sauce alternative. Replace chicken broth with vegetable broth.'
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "1 lb bok choy cleaned and chopped\n1 lb tofu cut into \xBD in x \xBD\
@@ -22,7 +22,7 @@ meal_notes:
 - 2021-02-23-dinner
 mine: 1
 name: Ginisang Pechay with Tofu
-p_recipe_id: 480
+p_recipe_id: 161
 permalink: /recipes/ginisang-pechay-with-tofu
 photo_large: ginisang-pechay-with-tofu-large.jpg
 photo_thumb: ginisang-pechay-with-tofu-thumb.jpg
@@ -38,15 +38,15 @@ photos_dict:
   '7': ginisang-pechay-with-tofu-7.jpg
   '8': ginisang-pechay-with-tofu-8.jpg
   '9': ginisang-pechay-with-tofu-9.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: ginisang-pechay-with-tofu
 source: null
 source_url: null
 tags:
 - tofu
-total_time: ''
+total_time: null
 type: null
 uid: 4F3E45E3-005E-45BB-B979-C01932CE279A-15291-00020AB486C3609F
 ---

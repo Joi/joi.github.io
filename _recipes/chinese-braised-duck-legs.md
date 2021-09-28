@@ -2,10 +2,10 @@
 title: "Chinese Braised Duck Legs"
 filename: "chinese-braised-duck-legs"
 cook_time: 1 hour 45 minutes
-created: '2021-03-29 12:14:29'
-created_ts: 1617020069
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '4 duck legs
@@ -36,7 +36,7 @@ meal_notes:
 - 2021-03-29-dinner
 mine: null
 name: Chinese Braised Duck Legs
-p_recipe_id: 498
+p_recipe_id: 342
 permalink: /recipes/chinese-braised-duck-legs
 photo_large: chinese-braised-duck-legs-large.jpg
 photo_thumb: chinese-braised-duck-legs-thumb.jpg
@@ -59,7 +59,7 @@ source_url: https://thewoksoflife.com/chinese-braised-duck-legs/#wprm-recipe-con
 tags:
 - duck
 - chinese
-total_time: ''
+total_time: null
 type: null
 uid: B0762B4A-27AB-4C9D-928A-2200778DB039
 ---

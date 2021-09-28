@@ -1,11 +1,11 @@
 ---
 title: "Easy Overnight Oats"
 filename: "easy-overnight-oats"
-cook_time: ''
-created: '2020-03-22 14:21:04'
-created_ts: 1584886864
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://feelgoodfoodie.net/wp-content/uploads/2018/12/Easy-Overnight-Oats-12-360x540.jpg
 ingredients: "Base\n\xBD cup rolled old fashioned oats\n\xBD cup milk of choice\n\xBC\
@@ -20,7 +20,7 @@ ingredients: "Base\n\xBD cup rolled old fashioned oats\n\xBD cup milk of choice\
 intrash: 0
 mine: null
 name: Easy Overnight Oats
-p_recipe_id: 62
+p_recipe_id: 471
 permalink: /recipes/easy-overnight-oats
 photo_large: null
 photo_thumb: easy-overnight-oats-thumb.jpg
@@ -33,7 +33,7 @@ source: feelgoodfoodie.net
 source_url: https://feelgoodfoodie.net/recipe/overnight-oats/
 tags:
 - oats
-total_time: ''
+total_time: null
 type: null
 uid: F6337E97-25EE-4F1A-87DD-D5F7AE9AA2F2-9067-000215CFEFC65460
 ---

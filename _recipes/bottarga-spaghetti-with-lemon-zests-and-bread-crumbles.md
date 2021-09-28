@@ -2,8 +2,8 @@
 title: "Bottarga Spaghetti with Lemon Zests and Bread Crumbles"
 filename: "bottarga-spaghetti-with-lemon-zests-and-bread-crumbles"
 cook_time: 10 minutes
-created: '2020-09-16 11:24:14'
-created_ts: 1600255454
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -42,11 +42,9 @@ ingredients: 'click on the links and find out my favorites!
 
   5 tbsp cooking salt'
 intrash: 0
-meal_notes:
-- 2020-09-16-dinner
 mine: null
 name: Bottarga Spaghetti with Lemon Zests and Bread Crumbles
-p_recipe_id: 356
+p_recipe_id: 334
 permalink: /recipes/bottarga-spaghetti-with-lemon-zests-and-bread-crumbles
 photo_large: null
 photo_thumb: bottarga-spaghetti-with-lemon-zests-and-bread-crumbles-thumb.jpg

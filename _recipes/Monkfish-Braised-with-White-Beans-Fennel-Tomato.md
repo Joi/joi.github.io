@@ -1,9 +1,9 @@
 ---
 title: "Monkfish Braised with White Beans, Fennel, & Tomato"
 filename: "monkfish-braised-with-white-beans-fennel-tomato"
-cook_time: ''
-created: '2020-09-01 17:52:04'
-created_ts: 1598982724
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: 'THIS DISH REAPPEARS IN A NUMBER OF FORMS AT ZUNI, SOMETIMES WITH THICKLY
   sliced boiled potatoes instead of beans, or with house-salted cod in lieu of monkfish,
   or with big chunks of blanched leeks in place of the fennel. In summer, we shove
@@ -16,7 +16,7 @@ description: 'THIS DISH REAPPEARS IN A NUMBER OF FORMS AT ZUNI, SOMETIMES WITH T
   If you plan to make the fumet, ask for monkfish bones when you buy the fillets.
   (The fumet will take less than an hour to make.) You can cook the beans a day or
   two in advance.'
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '4 chunks monkfish fillet, about 6 ounces each, skin and translucent
@@ -50,15 +50,12 @@ ingredients: '4 chunks monkfish fillet, about 6 ounces each, skin and translucen
   About 1/2 cup [recipe: Aioli Sauce]'
 intrash: 0
 meal_notes:
-- 2020-09-01-dinner
-- 2020-08-22-dinner
-- 2020-09-19-dinner
-- 2020-10-13-dinner
-- 2021-03-26-dinner
+- 2021-07-20-dinner
 - 2021-04-30-dinner
+- 2021-03-26-dinner
 mine: null
 name: Monkfish Braised with White Beans, Fennel, & Tomato
-p_recipe_id: 328
+p_recipe_id: 149
 permalink: /recipes/monkfish-braised-with-white-beans-fennel-tomato
 photo_large: monkfish-braised-with-white-beans-fennel-tomato-large.jpg
 photo_thumb: monkfish-braised-with-white-beans-fennel-tomato-thumb.jpg
@@ -77,7 +74,7 @@ photos_dict:
   '7': monkfish-braised-with-white-beans-fennel-tomato-7.jpg
   '8': monkfish-braised-with-white-beans-fennel-tomato-8.jpg
   '9': monkfish-braised-with-white-beans-fennel-tomato-9.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: '4'
 slug: monkfish-braised-with-white-beans-fennel-tomato
@@ -85,7 +82,7 @@ source: The Zuni Cafe Cookbook
 source_url: null
 tags:
 - monkfish
-total_time: ''
+total_time: null
 type: null
 uid: 4BEE23AC-2D81-4286-95B1-C03143055FB4-13002-00059228C79F4EF4
 ---

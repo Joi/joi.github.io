@@ -2,8 +2,8 @@
 title: "Abalone Simmered in Sake and Ginger"
 filename: "abalone-simmered-in-sake-and-ginger"
 cook_time: 10 mins
-created: '2021-04-23 11:19:16'
-created_ts: 1619176756
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -16,7 +16,7 @@ ingredients: "8-12 small fresh or canned abalone (about 7-10 oz/200-300 g)\n\xBD
 intrash: 0
 mine: null
 name: Abalone Simmered in Sake and Ginger
-p_recipe_id: 523
+p_recipe_id: 100
 permalink: /recipes/abalone-simmered-in-sake-and-ginger
 photo_large: null
 photo_thumb: null

@@ -2,8 +2,8 @@
 title: "How to Cook the Perfect, Tender, Grass Fed Steak"
 filename: "how-to-cook-the-perfect-tender-grass-fed-steak"
 cook_time: null
-created: '2020-04-04 17:04:32'
-created_ts: 1586019872
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -18,7 +18,7 @@ ingredients: '1-2 tablespoons coarse salt
 intrash: 0
 mine: null
 name: How to Cook the Perfect, Tender, Grass Fed Steak
-p_recipe_id: 89
+p_recipe_id: 263
 permalink: /recipes/how-to-cook-the-perfect-tender-grass-fed-steak
 photo_large: null
 photo_thumb: how-to-cook-the-perfect-tender-grass-fed-steak-thumb.jpg
@@ -30,9 +30,9 @@ slug: how-to-cook-the-perfect-tender-grass-fed-steak
 source: chelseagreen.com
 source_url: https://www.chelseagreen.com/2018/how-to-cook-the-perfect-tender-grassfed-steak/
 tags:
-- beef
-- bison
 - steaks
+- bison
+- beef
 total_time: null
 type: null
 uid: 84A294DD-8DCE-4C44-9FAD-DDFE22A5A76B-14543-00000A0A40C84C6A

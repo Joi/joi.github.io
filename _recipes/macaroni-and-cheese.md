@@ -1,11 +1,11 @@
 ---
 title: "Macaroni and Cheese"
 filename: "macaroni-and-cheese"
-cook_time: ''
-created: '2020-05-11 16:51:10'
-created_ts: 1589215870
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "1 pound elbows, shells, cavatappi, farfalle, fusilli or other short,\
@@ -14,27 +14,24 @@ ingredients: "1 pound elbows, shells, cavatappi, farfalle, fusilli or other shor
   \ Cheddar, grated and 4 ounces Brie or other smelly cheese\n2 large eggs, lightly\
   \ beaten\n3 tablespoons unsalted butter\nFreshly ground pepper"
 intrash: 0
-meal_notes:
-- 2020-05-11-dinner
-- 2020-08-10-dinner
 mine: null
 name: Macaroni and Cheese
-p_recipe_id: 144
+p_recipe_id: 302
 permalink: /recipes/macaroni-and-cheese
 photo_large: macaroni-and-cheese-large.jpg
 photo_thumb: macaroni-and-cheese-thumb.jpg
 photos_dict:
   '1': macaroni-and-cheese-1.jpg
-prep_time: ''
+prep_time: null
 rating: 4
-servings: ''
+servings: null
 slug: macaroni-and-cheese
 source: Mashup
 source_url: null
 tags:
 - pasta
 - kio
-total_time: ''
+total_time: null
 type: null
 uid: 9B1AB1E8-BE10-4F36-B0F0-9E37B79BF387-4647-00010AE1B323C85C
 ---

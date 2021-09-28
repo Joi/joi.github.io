@@ -2,10 +2,10 @@
 title: "Steamed Mussels with Garlic and Parsley"
 filename: "steamed-mussels-with-garlic-and-parsley"
 cook_time: 30 minutes
-created: '2020-05-25 20:42:34'
-created_ts: 1590439354
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2015/09/23/dining/23KITCH1/23KITCH1-articleLarge.jpg
 ingredients: "2 tablespoons extra-virgin olive oil, plus more for toasts\n2 garlic\
@@ -13,19 +13,14 @@ ingredients: "2 tablespoons extra-virgin olive oil, plus more for toasts\n2 garl
   \ red pepper\n4 pounds mussels, cleaned\n\xBC cup white wine or water\n1 baguette,\
   \ split lengthwise, then cut crosswise in half\n1 cup roughly chopped parsley"
 intrash: 0
-meal_notes:
-- 2020-05-26-dinner
-- 2020-05-30-dinner
-- 2020-06-23-dinner
-- 2020-12-11-dinner
 mine: null
 name: Steamed Mussels with Garlic and Parsley
-p_recipe_id: 170
+p_recipe_id: 98
 permalink: /recipes/steamed-mussels-with-garlic-and-parsley
 photo_large: null
 photo_thumb: steamed-mussels-with-garlic-and-parsley-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Yield 4 servings
 slug: steamed-mussels-with-garlic-and-parsley
@@ -33,7 +28,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017709-steamed-mussels-with-garlic-and-parsley?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=16
 tags:
 - mussels
-total_time: ''
+total_time: null
 type: null
 uid: 2FCD1B65-0D67-4B15-B081-C691590DEBE3-29546-0002C343712D52F3
 ---

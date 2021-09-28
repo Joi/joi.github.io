@@ -2,11 +2,11 @@
 title: "Crisp-Braised Duck Legs with Aromatic Vegetables"
 filename: "crisp-braised-duck-legs-with-aromatic-vegetables"
 cook_time: about 2 hours
-created: '2020-04-07 12:31:28'
-created_ts: 1586262688
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
-favorite: 1
+favorite: 0
 image_url: null
 ingredients: '2 duck legs, trimmed of excess fat
 
@@ -20,11 +20,9 @@ ingredients: '2 duck legs, trimmed of excess fat
 
   2 cups chicken stock, preferably homemade'
 intrash: 0
-meal_notes:
-- 2020-04-07-dinner
 mine: null
 name: Crisp-Braised Duck Legs with Aromatic Vegetables
-p_recipe_id: 94
+p_recipe_id: 179
 permalink: /recipes/crisp-braised-duck-legs-with-aromatic-vegetables
 photo_large: null
 photo_thumb: null

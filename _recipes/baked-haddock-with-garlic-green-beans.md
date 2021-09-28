@@ -2,8 +2,8 @@
 title: "Baked Haddock with Garlic Green Beans"
 filename: "baked-haddock-with-garlic-green-beans"
 cook_time: null
-created: '2020-03-28 14:23:44'
-created_ts: 1585405424
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -14,12 +14,9 @@ ingredients: "GATHER YOUR INGREDIENTS\n4 (6- to 8-ounce) skinless haddock filets
   1 tablespoon lemon juice\n\u215B teaspoon cayenne pepper\n1 pound green beans, trimmed\n\
   2 garlic cloves, minced"
 intrash: 0
-meal_notes:
-- 2020-03-28-dinner
-- 2020-05-03-lunch
 mine: null
 name: Baked Haddock with Garlic Green Beans
-p_recipe_id: 68
+p_recipe_id: 42
 permalink: /recipes/baked-haddock-with-garlic-green-beans
 photo_large: null
 photo_thumb: baked-haddock-with-garlic-green-beans-thumb.jpg
@@ -31,8 +28,8 @@ slug: baked-haddock-with-garlic-green-beans
 source: cookscountry.com
 source_url: https://www.cookscountry.com/recipes/7201-baked-haddock-with-garlic-green-beans?extcode=MCSKM10L0&ref=new_search_experience_2
 tags:
-- fish
 - white fish
+- fish
 total_time: null
 type: null
 uid: 13192CCB-2867-4B1E-B410-8C395AD675BB-11348-0000079E3EE15275

@@ -2,8 +2,8 @@
 title: "Vinaigarette"
 filename: "vinaigarette"
 cook_time: null
-created: '2020-07-23 13:02:18'
-created_ts: 1595509338
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -13,7 +13,7 @@ ingredients: "3 tbsp red wine vinegar\n\xBC tsp dry mustard\nsalt & pepper\n\xBE
 intrash: 0
 mine: null
 name: Vinaigarette
-p_recipe_id: 272
+p_recipe_id: 59
 permalink: /recipes/vinaigarette
 photo_large: null
 photo_thumb: null

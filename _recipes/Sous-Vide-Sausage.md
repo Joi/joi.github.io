@@ -1,11 +1,11 @@
 ---
 title: "Sous Vide Sausage"
 filename: "sous-vide-sausage"
-cook_time: ''
-created: '2020-07-04 18:43:55'
-created_ts: 1593888235
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://images.anovaculinary.com/sous-vide-sausage/header/sous-vide-sausage-header-og.jpg
 ingredients: '3 lb / 1.36 kg Raw natural casing sausages such as Bratwurst or Italian
@@ -18,11 +18,9 @@ ingredients: '3 lb / 1.36 kg Raw natural casing sausages such as Bratwurst or It
 
   Buns and condiments for serving'
 intrash: 0
-meal_notes:
-- 2020-07-04-dinner
 mine: null
 name: Sous Vide Sausage
-p_recipe_id: 229
+p_recipe_id: 392
 permalink: /recipes/sous-vide-sausage
 photo_large: null
 photo_thumb: sous-vide-sausage-thumb.jpg

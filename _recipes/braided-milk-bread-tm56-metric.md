@@ -2,8 +2,8 @@
 title: "Braided Milk Bread (TM5/6 Metric)"
 filename: "braided-milk-bread-tm56-metric"
 cook_time: 2h 20min
-created: '2020-02-03 15:59:19'
-created_ts: 1580745559
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: Medium
 favorite: 0
@@ -14,7 +14,7 @@ ingredients: "50 g unsalted butter, in pieces, plus extra to grease\n300 g milk\
 intrash: 0
 mine: null
 name: Braided Milk Bread (TM5/6 Metric)
-p_recipe_id: 26
+p_recipe_id: 284
 permalink: /recipes/braided-milk-bread-tm56-metric
 photo_large: null
 photo_thumb: braided-milk-bread-tm56-metric-thumb.jpg

@@ -2,8 +2,8 @@
 title: "Easy Grill-Roasted Whole Chicken"
 filename: "easy-grill-roasted-whole-chicken"
 cook_time: 2 hours
-created: '2020-02-03 15:01:29'
-created_ts: 1580742089
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -14,7 +14,7 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 tablespoon kosher salt\n\xBD teaspoon p
 intrash: 0
 mine: null
 name: Easy Grill-Roasted Whole Chicken
-p_recipe_id: 12
+p_recipe_id: 137
 permalink: /recipes/easy-grill-roasted-whole-chicken
 photo_large: null
 photo_thumb: easy-grill-roasted-whole-chicken-thumb.jpg

@@ -2,10 +2,10 @@
 title: "Sicilian-Style Fish Stew"
 filename: "sicilian-style-fish-stew"
 cook_time: 35 mins
-created: '2021-03-13 12:43:42'
-created_ts: 1615639422
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "Private Reserve extra virgin olive oil\n1 large yellow onion, chopped\n\
@@ -21,7 +21,7 @@ meal_notes:
 - 2021-03-14-dinner
 mine: null
 name: Sicilian-Style Fish Stew
-p_recipe_id: 487
+p_recipe_id: 426
 permalink: /recipes/sicilian-style-fish-stew
 photo_large: sicilian-style-fish-stew-large.jpg
 photo_thumb: sicilian-style-fish-stew-thumb.jpg
@@ -38,7 +38,7 @@ source_url: https://www.themediterraneandish.com/sicilian-fish-stew/
 tags:
 - fish
 - soup
-total_time: ''
+total_time: null
 type: null
 uid: D8EAF2E2-E2B9-44D2-9428-9A591181D829-68280-000013BC5D40734E
 ---

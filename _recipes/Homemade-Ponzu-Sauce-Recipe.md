@@ -1,11 +1,11 @@
 ---
 title: "Homemade Ponzu Sauce Recipe"
 filename: "homemade-ponzu-sauce-recipe"
-cook_time: ''
-created: '2020-06-26 11:11:46'
-created_ts: 1593169906
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://nitrocdn.com/KQYMGOLIdXGmoAcyJsPOrQDKktgCbwtG/assets/static/optimized/rev-48c1fb9/wp-content/uploads/2017/10/Ponzu-Sauce-II-366x550.jpg
 ingredients: "\xBD cup soy sauce\n\xBD cup citrus juice (See Notes: I love the mixture\
@@ -13,11 +13,9 @@ ingredients: "\xBD cup soy sauce\n\xBD cup citrus juice (See Notes: I love the m
   \ mirin (2 Tbsp sake or water + 2 tsp sugar)\n\xBD cup katsuobushi (dried bonito\
   \ flakes) (packed; 6 g)\n1 piece kombu (dried kelp) (2\" x 3\" strip; 6 g)"
 intrash: 0
-meal_notes:
-- 2020-06-26-snacks
 mine: null
 name: Homemade Ponzu Sauce Recipe
-p_recipe_id: 205
+p_recipe_id: 5
 permalink: /recipes/homemade-ponzu-sauce-recipe
 photo_large: null
 photo_thumb: homemade-ponzu-sauce-recipe-thumb.jpg
@@ -30,7 +28,7 @@ source: justonecookbook.com
 source_url: https://www.justonecookbook.com/ponzu-sauce/
 tags:
 - sauce
-total_time: ''
+total_time: null
 type: null
 uid: 01709B11-ED19-453F-851F-0DB48598E545-533-0000001E0CEE2435
 ---

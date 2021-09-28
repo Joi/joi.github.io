@@ -1,9 +1,9 @@
 ---
 title: "Skate Moqueca (Moqueca De Arraia)"
 filename: "skate-moqueca-moqueca-de-arraia"
-cook_time: ''
-created: '2020-06-23 01:13:53'
-created_ts: 1592874833
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: "One of the most popular ways to serve arraia (ray or skate in English)\
   \ in Brazil comes from the northeastern state of Bahia, specifically from the Afro-Brazilian\
   \ culinary traditions of Salvador, the state's capital city and Brazil's original\
@@ -23,7 +23,7 @@ description: "One of the most popular ways to serve arraia (ray or skate in Engl
   \ that have a Brazilian immigrant community, markets that cater to Brazilians will\
   \ likely have dend\xEA in stock, and in cities with an African immigrant population\
   \ you can often find dend\xEA in African markets, labeled simply palm oil."
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://lh5.ggpht.com/HlvYDn0uSzOoSXJmWfEzjM5ze68FapjKdzBu-yzCncp_iE02r2zyEXOi2dJRhMBCWYSFTMU3R5e98--eEeJE=s640-c-rj-v1-e365
 ingredients: "2 lbs (1 kg) skate wings\n1 clove garlic, finely chopped\njuice of one\
@@ -31,16 +31,14 @@ ingredients: "2 lbs (1 kg) skate wings\n1 clove garlic, finely chopped\njuice of
   \ cup coconut milk\n1/3 cup dend\xEA oil\n1/4 cup cilantro, finely chopped\nsalt\
   \ and pepper to taste"
 intrash: 0
-meal_notes:
-- 2020-06-23-dinner
 mine: null
 name: Skate Moqueca (Moqueca De Arraia)
-p_recipe_id: 200
+p_recipe_id: 425
 permalink: /recipes/skate-moqueca-moqueca-de-arraia
 photo_large: null
 photo_thumb: skate-moqueca-moqueca-de-arraia-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Servings:4
 slug: skate-moqueca-moqueca-de-arraia

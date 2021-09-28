@@ -1,16 +1,16 @@
 ---
 title: "Ginisang Pechay with Ground Pork and Shrimp"
 filename: "ginisang-pechay-with-ground-pork-and-shrimp"
-cook_time: ''
-created: '2021-02-22 13:59:40'
-created_ts: 1614002380
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: "Traditional home cooking from the Philippines. Easy to make and very\
   \ tasty - a kind of umami bomb of amino acid flavors. \n\nYou can make this without\
   \ the pork or the shrimp. You can also add tofu. I would suggest harder tofu, chopping\
   \ the tofu into squares or rectangles and frying before adding to stir fry.\n\n\
   Instead of bok choy, you can use other strong leafy greens such as Chinese cabbage.\n\
   \n[Inspired by this recipe.](https://panlasangpinoy.com/ginisang-pechay-with-ground-pork-and-shrimp-bok-choy/)"
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '1 lb bok choy cleaned and chopped
@@ -34,16 +34,16 @@ ingredients: '1 lb bok choy cleaned and chopped
   Ground black pepper to taste'
 intrash: 0
 meal_notes:
+- 2021-07-10-dinner
+- 2021-05-10-dinner
+- 2021-04-17-dinner
+- 2021-03-20-dinner
 - 2021-02-26-dinner
 - 2021-02-23-dinner
-- 2021-03-20-dinner
-- 2021-01-28-dinner
-- 2021-04-17-dinner
-- 2021-05-10-dinner
-- 2021-07-10-dinner
+- 2021-02-19-dinner
 mine: 1
 name: Ginisang Pechay with Ground Pork and Shrimp
-p_recipe_id: 479
+p_recipe_id: 409
 permalink: /recipes/ginisang-pechay-with-ground-pork-and-shrimp
 photo_large: ginisang-pechay-with-ground-pork-and-shrimp-large.jpg
 photo_thumb: ginisang-pechay-with-ground-pork-and-shrimp-thumb.jpg
@@ -54,16 +54,16 @@ photos_dict:
   '4': ginisang-pechay-with-ground-pork-and-shrimp-4.jpg
   '5': ginisang-pechay-with-ground-pork-and-shrimp-5.jpg
   '6': ginisang-pechay-with-ground-pork-and-shrimp-6.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: ginisang-pechay-with-ground-pork-and-shrimp
 source: null
 source_url: null
 tags:
-- shrimp
 - ground pork
-total_time: ''
+- shrimp
+total_time: null
 type: null
 uid: D1802362-2744-4AED-A6DC-2AB29EC1D022-26383-0001720E4DC5724D
 ---

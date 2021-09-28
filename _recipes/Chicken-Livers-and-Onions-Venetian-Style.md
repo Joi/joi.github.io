@@ -2,10 +2,10 @@
 title: "Chicken Livers and Onions, Venetian Style"
 filename: "chicken-livers-and-onions-venetian-style"
 cook_time: 45 minutes
-created: '2020-09-28 17:56:49'
-created_ts: 1601315809
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "2 tablespoons raisins\n2 tablespoons Balsamic vinegar\n1 \u2153 pounds\
@@ -14,13 +14,11 @@ ingredients: "2 tablespoons raisins\n2 tablespoons Balsamic vinegar\n1 \u2153 po
   \ dried sage)\n1 tablespoon dry white wine"
 intrash: 0
 meal_notes:
-- 2020-09-28-dinner
-- 2021-01-18-lunch
-- 2021-03-28-lunch
 - 2021-05-01-lunch
+- 2021-03-28-lunch
 mine: null
 name: Chicken Livers and Onions, Venetian Style
-p_recipe_id: 373
+p_recipe_id: 174
 permalink: /recipes/chicken-livers-and-onions-venetian-style
 photo_large: chicken-livers-and-onions-venetian-style-large.jpg
 photo_thumb: chicken-livers-and-onions-venetian-style-thumb.jpg
@@ -30,7 +28,7 @@ photos_dict:
   '3': chicken-livers-and-onions-venetian-style-3.jpg
   '4': chicken-livers-and-onions-venetian-style-4.jpg
   '5': chicken-livers-and-onions-venetian-style-5.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Yield 4 to 6 servings
 slug: chicken-livers-and-onions-venetian-style
@@ -38,7 +36,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/3702-chicken-livers-and-onions-venetian-style
 tags:
 - chicken
-total_time: ''
+total_time: null
 type: null
 uid: 571A421D-07BA-47AD-ABD9-24C2D0BE237F-50715-000DDC013E0851CF
 ---

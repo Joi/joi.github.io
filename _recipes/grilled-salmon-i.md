@@ -2,10 +2,10 @@
 title: "Grilled Salmon I"
 filename: "grilled-salmon-i"
 cook_time: 16 mins
-created: '2020-06-16 15:14:26'
-created_ts: 1592320466
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F800839.jpg&w=568&h=380&c=sc&poi=face&q=85
 ingredients: "1\u2009\xBD pounds salmon fillets\n\xBD teaspoon lemon pepper to taste\n\
@@ -14,7 +14,7 @@ ingredients: "1\u2009\xBD pounds salmon fillets\n\xBD teaspoon lemon pepper to t
 intrash: 0
 mine: null
 name: Grilled Salmon I
-p_recipe_id: 193
+p_recipe_id: 451
 permalink: /recipes/grilled-salmon-i
 photo_large: null
 photo_thumb: grilled-salmon-i-thumb.jpg
@@ -27,7 +27,7 @@ source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/12720/grilled-salmon-i/
 tags:
 - salmon
-total_time: ''
+total_time: null
 type: null
 uid: E83D1501-A3B9-45C3-B20E-443300F6087A-1358-00021A4603DDCF39
 ---

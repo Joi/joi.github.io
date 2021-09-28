@@ -2,10 +2,10 @@
 title: "Homemade Spicy Chili Crisp"
 filename: "homemade-spicy-chili-crisp"
 cook_time: 1 1/2 hours
-created: '2020-08-03 13:50:34'
-created_ts: 1596462634
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.seriouseats.com/2018/03/20180322-chili-crisp-vicky-wasik-23.jpg
 ingredients: "27g (1 cup) dried \xE1rbol chilies, stems removed (see note)\n20g (3/4\
@@ -21,11 +21,9 @@ ingredients: "27g (1 cup) dried \xE1rbol chilies, stems removed (see note)\n20g 
   2 cups (200g) thinly sliced shallots (about 1mm thick)\n3/4 cup (65g) thinly sliced\
   \ garlic (about 1mm thick)"
 intrash: 0
-meal_notes:
-- 2020-08-15-snacks
 mine: null
 name: Homemade Spicy Chili Crisp
-p_recipe_id: 287
+p_recipe_id: 321
 permalink: /recipes/homemade-spicy-chili-crisp
 photo_large: null
 photo_thumb: homemade-spicy-chili-crisp-thumb.jpg
@@ -38,7 +36,7 @@ source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2018/04/homemade-spicy-chili-crisp.html
 tags:
 - sauce
-total_time: ''
+total_time: null
 type: null
 uid: A5C7986F-8D32-4873-9DD1-8C35C00E925A-1060-00002C840901C185
 ---

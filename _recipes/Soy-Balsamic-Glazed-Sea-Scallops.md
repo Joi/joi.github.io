@@ -2,8 +2,8 @@
 title: "Soy-Balsamic Glazed Sea Scallops"
 filename: "soy-balsamic-glazed-sea-scallops"
 cook_time: 12 min
-created: '2020-07-18 11:43:17'
-created_ts: 1595072597
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -30,11 +30,9 @@ ingredients: '2 Tbsp balsamic vinegar
 
   Fresh chopped cilantro, for garnish'
 intrash: 0
-meal_notes:
-- 2020-07-18-lunch
 mine: null
 name: Soy-Balsamic Glazed Sea Scallops
-p_recipe_id: 262
+p_recipe_id: 271
 permalink: /recipes/soy-balsamic-glazed-sea-scallops
 photo_large: null
 photo_thumb: soy-balsamic-glazed-sea-scallops-thumb.jpg

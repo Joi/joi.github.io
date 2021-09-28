@@ -1,11 +1,11 @@
 ---
 title: "Sous Vide Shrimp"
 filename: "sous-vide-shrimp"
-cook_time: ''
-created: '2020-07-05 11:38:20'
-created_ts: 1593949100
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://images.anovaculinary.com/sous-vide-shrimp/header/sous-vide-shrimp-header-og.jpg
 ingredients: '1 1/2 pounds large peeled shrimp (about 700g)
@@ -18,11 +18,9 @@ ingredients: '1 1/2 pounds large peeled shrimp (about 700g)
 
   Aromatics such as garlic, shallots, tarragon, or parsley (optional)'
 intrash: 0
-meal_notes:
-- 2020-07-05-dinner
 mine: null
 name: Sous Vide Shrimp
-p_recipe_id: 230
+p_recipe_id: 158
 permalink: /recipes/sous-vide-shrimp
 photo_large: null
 photo_thumb: sous-vide-shrimp-thumb.jpg

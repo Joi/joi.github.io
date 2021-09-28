@@ -2,8 +2,8 @@
 title: "Mediterranean Lemon Poached Halibut"
 filename: "mediterranean-lemon-poached-halibut"
 cook_time: 15 mins
-created: '2020-08-07 11:17:34'
-created_ts: 1596799054
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -44,11 +44,9 @@ ingredients: 'For Spice Rub:
 
   1/4 cup grated carrots'
 intrash: 0
-meal_notes:
-- 2020-08-25-dinner
 mine: null
 name: Mediterranean Lemon Poached Halibut
-p_recipe_id: 295
+p_recipe_id: 251
 permalink: /recipes/mediterranean-lemon-poached-halibut
 photo_large: mediterranean-lemon-poached-halibut-large.jpg
 photo_thumb: mediterranean-lemon-poached-halibut-thumb.jpg

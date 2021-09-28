@@ -1,11 +1,11 @@
 ---
 title: "Kohlrabi Soup"
 filename: "kohlrabi-soup"
-cook_time: ''
-created: '2021-03-08 21:28:58'
-created_ts: 1615238938
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: Based on a recipe by Ana Sortun via Siena Farms.
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "4 cups of peeled and cubed kohlrabi, turnip, white daikon, or cauliflower\
@@ -21,22 +21,22 @@ meal_notes:
 - 2021-03-08-dinner
 mine: 1
 name: Kohlrabi Soup
-p_recipe_id: 485
+p_recipe_id: 10
 permalink: /recipes/kohlrabi-soup
 photo_large: kohlrabi-soup-large.jpg
 photo_thumb: kohlrabi-soup-thumb.jpg
 photos_dict:
   '1': kohlrabi-soup-1.jpg
   '2': kohlrabi-soup-2.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: kohlrabi-soup
 source: null
 source_url: null
 tags:
 - soup
-total_time: ''
+total_time: null
 type: null
 uid: 02CCE5A9-6684-4E28-8B94-84459DE31F12
 ---

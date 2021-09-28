@@ -2,8 +2,8 @@
 title: "Short Ribs Braised in Red Wine with Bacon, Parsnips, and Pearl Onions"
 filename: "short-ribs-braised-in-red-wine-with-bacon-parsnips-and-pearl-onions"
 cook_time: null
-created: '2020-04-05 13:05:50'
-created_ts: 1586091950
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -23,7 +23,7 @@ ingredients: "6 pounds bone-in short ribs, trimmed of excess fat and silver skin
 intrash: 0
 mine: null
 name: Short Ribs Braised in Red Wine with Bacon, Parsnips, and Pearl Onions
-p_recipe_id: 91
+p_recipe_id: 307
 permalink: /recipes/short-ribs-braised-in-red-wine-with-bacon-parsnips-and-pearl-onions
 photo_large: null
 photo_thumb: short-ribs-braised-in-red-wine-with-bacon-parsnips-and-pearl-onions-thumb.jpg
@@ -35,8 +35,8 @@ slug: short-ribs-braised-in-red-wine-with-bacon-parsnips-and-pearl-onions
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/460-short-ribs-braised-in-red-wine-with-bacon-parsnips-and-pearl-onions?incode=MCSCD00L0&ref=new_search_experience_1&t=1586091052&t=1586091860
 tags:
-- beef
 - short ribs
+- beef
 total_time: null
 type: null
 uid: 9D0B7376-A2C6-4879-BD38-B086A806939A-64741-0002E42784BCA1E1

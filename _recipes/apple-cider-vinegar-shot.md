@@ -2,10 +2,10 @@
 title: "Apple Cider Vinegar Shot"
 filename: "apple-cider-vinegar-shot"
 cook_time: 5 mins
-created: '2020-05-04 22:44:06'
-created_ts: 1588632246
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://dontwastethecrumbs.com/wp-content/uploads/2019/12/Apple-Cider-Vinegar-Detox-Cover-100x133.jpg
 ingredients: "1 Tbsp Raw Apple Cider Vinegar\n1 Tbsp Fresh Lemon Juice\n\xBC tsp Ginger\n\
@@ -13,7 +13,7 @@ ingredients: "1 Tbsp Raw Apple Cider Vinegar\n1 Tbsp Fresh Lemon Juice\n\xBC tsp
 intrash: 0
 mine: null
 name: Apple Cider Vinegar Shot
-p_recipe_id: 136
+p_recipe_id: 4
 permalink: /recipes/apple-cider-vinegar-shot
 photo_large: null
 photo_thumb: apple-cider-vinegar-shot-thumb.jpg
@@ -26,7 +26,7 @@ source: null
 source_url: null
 tags:
 - healthy
-total_time: ''
+total_time: null
 type: null
 uid: 00962179-B6B1-4D15-9816-D9BCCE4D47EE-1406-000076913CBB212F
 ---

@@ -2,10 +2,10 @@
 title: "Mark Bittman’s Bouillabaisse"
 filename: "mark-bittmans-bouillabaisse"
 cook_time: 1 hour
-created: '2020-10-09 00:44:04'
-created_ts: 1602204244
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-articleLarge.jpg
 ingredients: "Good olive oil, as needed\n4 to 8 thick slices good bread\n1 onion,\
@@ -18,27 +18,25 @@ ingredients: "Good olive oil, as needed\n4 to 8 thick slices good bread\n1 onion
   \ optional\nChopped fennel fronds, for garnish\nChopped basil or parsley, for garnish\n\
   Rouille, optional"
 intrash: 0
-meal_notes:
-- 2020-10-09-dinner
 mine: null
 name: "Mark Bittman\u2019s Bouillabaisse"
-p_recipe_id: 377
+p_recipe_id: 350
 permalink: /recipes/mark-bittmans-bouillabaisse
 photo_large: null
 photo_thumb: mark-bittmans-bouillabaisse-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Yield 4 to 6 servings
 slug: mark-bittmans-bouillabaisse
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12637-mark-bittmans-bouillabaisse
 tags:
+- seafood
 - clams
 - fish
-- seafood
 - soup
-total_time: ''
+total_time: null
 type: null
 uid: B4FA8284-2C9F-449C-9A2B-02F2C012D3E3-79931-00015237983D5DDF
 ---

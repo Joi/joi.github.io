@@ -1,11 +1,11 @@
 ---
 title: "Sesame Ginger Grilled Salmon + Broccoli"
 filename: "sesame-ginger-grilled-salmon-+-broccoli"
-cook_time: ''
-created: '2020-08-28 20:37:57'
-created_ts: 1598647077
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://lh3.googleusercontent.com/l1wPhS4iMJkKiG6Qakd_ZjqPgrE_3kqlle89FFMMOeARl_OsMwdXlqVHVygnrtG299Uzu40LJZ97ORAVsKWiQrU=s640-c-rj-v1-e365
 ingredients: "1 pound salmon fillet\n1 pound broccoli (cut lengthwise into \xBD-inch\
@@ -14,16 +14,14 @@ ingredients: "1 pound salmon fillet\n1 pound broccoli (cut lengthwise into \xBD-
   1 teaspoon fresh ginger (grated)\n2 teaspoons soy sauce\n2 teaspoons sesame oil\n\
   1 lemon\n1/4 teaspoon sea salt\n1/4 teaspoon fresh ground black pepper"
 intrash: 0
-meal_notes:
-- 2020-08-28-dinner
 mine: null
 name: Sesame Ginger Grilled Salmon + Broccoli
-p_recipe_id: 326
+p_recipe_id: 190
 permalink: /recipes/sesame-ginger-grilled-salmon-+-broccoli
 photo_large: null
 photo_thumb: sesame-ginger-grilled-salmon-+-broccoli-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Servings:4
 slug: sesame-ginger-grilled-salmon-+-broccoli

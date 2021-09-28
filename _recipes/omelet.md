@@ -2,10 +2,10 @@
 title: "Omelet"
 filename: "omelet"
 cook_time: 5 minutes
-created: '2020-03-29 01:33:34'
-created_ts: 1585445614
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2017/01/15/dining/DINING-CLASSICOMELET-2/DINING-CLASSICOMELET-2-videoHpMedium-v2.jpg
 ingredients: '3 large eggs
@@ -21,12 +21,12 @@ ingredients: '3 large eggs
 intrash: 0
 mine: null
 name: Omelet
-p_recipe_id: 70
+p_recipe_id: 141
 permalink: /recipes/omelet
 photo_large: null
 photo_thumb: omelet-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 1 serving
 slug: omelet
@@ -34,7 +34,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018367-omelet
 tags:
 - egg
-total_time: ''
+total_time: null
 type: null
 uid: 47310356-938C-466A-B754-5B0DC3B082F9-13364-00000855130C737E
 ---

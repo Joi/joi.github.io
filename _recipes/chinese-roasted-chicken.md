@@ -2,15 +2,19 @@
 title: "Chinese Roasted Chicken"
 filename: "chinese-roasted-chicken"
 cook_time: 1 hr
-created: '2020-12-28 20:09:05'
-created_ts: 1609186145
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
-ingredients: '1 chicken , around 1 kg
+ingredients: '1 chicken (around 1 kg )
 
-  **Marinade**
+  Marinade
+
+  1 chicken , around 1 kg
+
+  Marinade
 
   4 cloves garlic , sliced
 
@@ -29,19 +33,17 @@ ingredients: '1 chicken , around 1 kg
   1/2 tsp. five spice powder'
 intrash: 0
 meal_notes:
-- 2021-01-01-dinner
-- 2021-04-29-dinner
 - 2021-06-11-dinner
+- 2021-04-29-dinner
 mine: null
 name: Chinese Roasted Chicken
-p_recipe_id: 441
+p_recipe_id: 378
 permalink: /recipes/chinese-roasted-chicken
 photo_large: chinese-roasted-chicken-large.jpg
 photo_thumb: chinese-roasted-chicken-thumb.jpg
 photos_dict:
   '1': chinese-roasted-chicken-1.jpg
   '2': chinese-roasted-chicken-2.jpg
-  '3': chinese-roasted-chicken-3.jpg
 prep_time: 2 d
 rating: 5
 servings: 'Servings: 3'
@@ -50,15 +52,17 @@ source: chinasichuanfood.com
 source_url: https://www.chinasichuanfood.com/chinese-roasted-chicken/
 tags:
 - chicken
-total_time: ''
+total_time: null
 type: null
 uid: C35DC53C-4546-403C-A6E8-E7DA8F8ADBD0-1607-00007D8057C690B4
 ---
 <div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<li>1 chicken (around 1 kg )</li>
+<li>Marinade</li>
 <li>1 chicken , around 1 kg</li>
-<li><strong>Marinade</strong></li>
+<li>Marinade</li>
 <li>4 cloves garlic , sliced</li>
 <li>1 thumb ginger , sliced</li>
 <li>2 green onion , cut into smaller sections</li>

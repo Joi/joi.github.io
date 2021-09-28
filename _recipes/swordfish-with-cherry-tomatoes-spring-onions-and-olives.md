@@ -2,8 +2,8 @@
 title: "Swordfish with Cherry Tomatoes, Spring Onions and Olives"
 filename: "swordfish-with-cherry-tomatoes-spring-onions-and-olives"
 cook_time: null
-created: '2020-07-18 11:31:49'
-created_ts: 1595071909
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -32,7 +32,7 @@ ingredients: 'LIST OF INGREDIENTS
 intrash: 0
 mine: null
 name: Swordfish with Cherry Tomatoes, Spring Onions and Olives
-p_recipe_id: 260
+p_recipe_id: 298
 permalink: /recipes/swordfish-with-cherry-tomatoes-spring-onions-and-olives
 photo_large: null
 photo_thumb: swordfish-with-cherry-tomatoes-spring-onions-and-olives-thumb.jpg

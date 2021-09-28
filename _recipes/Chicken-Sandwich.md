@@ -2,8 +2,8 @@
 title: "Chicken Sandwich"
 filename: "chicken-sandwich"
 cook_time: null
-created: '2020-02-02 20:49:33'
-created_ts: 1580676573
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: "To make a really good chicken sandwich you must use freshly cooked chicken.\
   \ If you want to use leftover chicken, you will need about 3 cups (750 ml) for 6\
   \ sandwiches.\rMAKES 6 SANDWICHES"
@@ -34,7 +34,7 @@ ingredients: '6 cups chicken stock
 intrash: 0
 mine: null
 name: Chicken Sandwich
-p_recipe_id: 42
+p_recipe_id: 486
 permalink: /recipes/chicken-sandwich
 photo_large: null
 photo_thumb: null
@@ -47,9 +47,9 @@ source: Harry's Bar Cookbook
 source_url: null
 tags:
 - sandwich
-- chicken
-- italian
 - meat
+- italian
+- chicken
 total_time: null
 type: null
 uid: FF152B59-4FDC-41E6-9C93-6A95ED09083E-25037-0000A041D3575177

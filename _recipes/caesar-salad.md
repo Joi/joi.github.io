@@ -2,8 +2,8 @@
 title: "Caesar Salad"
 filename: "caesar-salad"
 cook_time: 30min
-created: '2020-02-03 16:02:47'
-created_ts: 1580745767
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: Medium
 favorite: 0
@@ -17,7 +17,7 @@ ingredients: "Salad\n18 oz water\n4 large eggs\n7 oz bread, cubed (\xBD in.)\n3 
 intrash: 0
 mine: null
 name: Caesar Salad
-p_recipe_id: 5
+p_recipe_id: 46
 permalink: /recipes/caesar-salad
 photo_large: null
 photo_thumb: caesar-salad-thumb.jpg

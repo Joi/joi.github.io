@@ -2,8 +2,8 @@
 title: "Curry Powder"
 filename: "curry-powder"
 cook_time: null
-created: '2021-01-15 18:56:25'
-created_ts: 1610736985
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -14,7 +14,7 @@ ingredients: "1 tablespoon cardamom\n1 tablespoon ground coriander\n2 teaspoons 
 intrash: 0
 mine: null
 name: Curry Powder
-p_recipe_id: 449
+p_recipe_id: 157
 permalink: /recipes/curry-powder
 photo_large: curry-powder-large.jpg
 photo_thumb: curry-powder-thumb.jpg
@@ -27,8 +27,8 @@ slug: curry-powder
 source: null
 source_url: null
 tags:
-- curry
 - seasoning
+- curry
 total_time: null
 type: null
 uid: 4EA3C540-EED9-45D2-BA95-6B4C6A931A26-4181-0001E2348E51AA07

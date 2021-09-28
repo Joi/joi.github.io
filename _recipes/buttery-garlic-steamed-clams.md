@@ -2,8 +2,8 @@
 title: "Buttery Garlic Steamed Clams"
 filename: "buttery-garlic-steamed-clams"
 cook_time: 12 mins
-created: '2020-12-30 20:59:00'
-created_ts: 1609361940
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -22,11 +22,9 @@ ingredients: '5 tablespoons Finlandia Unsalted Butter, divided
 
   Wedges from 1 lemon for garnish, if desired'
 intrash: 0
-meal_notes:
-- 2020-12-30-dinner
 mine: null
 name: Buttery Garlic Steamed Clams
-p_recipe_id: 443
+p_recipe_id: 300
 permalink: /recipes/buttery-garlic-steamed-clams
 photo_large: null
 photo_thumb: buttery-garlic-steamed-clams-thumb.jpg

@@ -2,8 +2,8 @@
 title: "Butter Croissants"
 filename: "butter-croissants"
 cook_time: null
-created: '2020-05-21 00:04:12'
-created_ts: 1590019452
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -22,11 +22,9 @@ ingredients: '30 g fresh yeast
 
   1 egg, beaten'
 intrash: 0
-meal_notes:
-- 2020-05-23-snacks
 mine: null
 name: Butter Croissants
-p_recipe_id: 166
+p_recipe_id: 182
 permalink: /recipes/butter-croissants
 photo_large: null
 photo_thumb: butter-croissants-thumb.jpg

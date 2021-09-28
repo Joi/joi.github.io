@@ -2,8 +2,8 @@
 title: "Creamy Garlic Butter Tuscan Salmon"
 filename: "creamy-garlic-butter-tuscan-salmon"
 cook_time: 20 mins
-created: '2020-12-12 14:47:25'
-created_ts: 1607784445
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -37,11 +37,10 @@ ingredients: '4 salmon fillets, skin off (or Trout or any white fish)
   1 tablespoon fresh parsley chopped'
 intrash: 0
 meal_notes:
-- 2020-12-12-dinner
 - 2021-02-27-dinner
 mine: null
 name: Creamy Garlic Butter Tuscan Salmon
-p_recipe_id: 429
+p_recipe_id: 419
 permalink: /recipes/creamy-garlic-butter-tuscan-salmon
 photo_large: null
 photo_thumb: creamy-garlic-butter-tuscan-salmon-thumb.jpg

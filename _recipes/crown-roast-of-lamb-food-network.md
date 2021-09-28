@@ -2,8 +2,8 @@
 title: "Crown Roast of Lamb - Food Network"
 filename: "crown-roast-of-lamb-food-network"
 cook_time: 30 min
-created: '2020-07-08 17:30:53'
-created_ts: 1594229453
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -30,7 +30,7 @@ ingredients: '2 racks lamb, 6 to 8 ribs each, approximately 1 1/2 to 2-pounds ea
 intrash: 0
 mine: null
 name: Crown Roast of Lamb - Food Network
-p_recipe_id: 237
+p_recipe_id: 128
 permalink: /recipes/crown-roast-of-lamb-food-network
 photo_large: null
 photo_thumb: crown-roast-of-lamb-food-network-thumb.jpg

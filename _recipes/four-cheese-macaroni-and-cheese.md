@@ -2,10 +2,10 @@
 title: "Four-Cheese Macaroni and Cheese"
 filename: "four-cheese-macaroni-and-cheese"
 cook_time: 1 hour
-created: '2020-05-04 18:48:51'
-created_ts: 1588618131
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2013/03/27/dining/27APPE/27APPE-articleLarge.jpg
 ingredients: "Unsalted butter, as needed\nKosher salt, as needed\n1 pound pasta, such\
@@ -16,12 +16,12 @@ ingredients: "Unsalted butter, as needed\nKosher salt, as needed\n1 pound pasta,
 intrash: 0
 mine: null
 name: Four-Cheese Macaroni and Cheese
-p_recipe_id: 135
+p_recipe_id: 279
 permalink: /recipes/four-cheese-macaroni-and-cheese
 photo_large: null
 photo_thumb: four-cheese-macaroni-and-cheese-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 6 to 8 servings
 slug: four-cheese-macaroni-and-cheese
@@ -29,7 +29,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1014635-four-cheese-macaroni-and-cheese?action=click&module=Collection%20Page%20Recipe%20Card&region=Amazing%20Ways%20to%20Do%20Macaroni%20and%20Cheese&pgType=collection&rank=12
 tags:
 - kio
-total_time: ''
+total_time: null
 type: null
 uid: 8D936D6B-C75D-4807-8767-3A5464726736-39436-00014015E3513A27
 ---

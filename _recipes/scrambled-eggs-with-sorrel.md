@@ -1,11 +1,11 @@
 ---
 title: "Scrambled Eggs with Sorrel"
 filename: "scrambled-eggs-with-sorrel"
-cook_time: ''
-created: '2021-05-04 23:45:44'
-created_ts: 1620171944
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '4 eggs
@@ -26,23 +26,23 @@ meal_notes:
 - 2021-04-25-lunch
 mine: 1
 name: Scrambled Eggs with Sorrel
-p_recipe_id: 524
+p_recipe_id: 70
 permalink: /recipes/scrambled-eggs-with-sorrel
 photo_large: scrambled-eggs-with-sorrel-large.jpg
 photo_thumb: scrambled-eggs-with-sorrel-thumb.jpg
 photos_dict:
   '1': scrambled-eggs-with-sorrel-1.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: scrambled-eggs-with-sorrel
 source: null
 source_url: null
 tags:
-- breakfast
 - egg
+- breakfast
 - sorrel
-total_time: ''
+total_time: null
 type: null
 uid: 233DFBC8-9982-48C2-953A-A703AB6BDB54-3611-00024EA5DDC2FC02
 ---

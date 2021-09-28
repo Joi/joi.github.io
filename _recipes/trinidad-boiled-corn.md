@@ -2,10 +2,10 @@
 title: "Trinidad Boiled Corn"
 filename: "trinidad-boiled-corn"
 cook_time: 20 m
-created: '2020-07-04 13:29:45'
-created_ts: 1593869385
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://3.bp.blogspot.com/-xtMk0Bo0d7M/VHY2TvrdFjI/AAAAAAAABzg/ODN5VSOyfIw/s1600/Boiled_Corn4.jpg
 ingredients: '8 corn cobs (Full Length)
@@ -24,7 +24,7 @@ ingredients: '8 corn cobs (Full Length)
 intrash: 0
 mine: null
 name: Trinidad Boiled Corn
-p_recipe_id: 222
+p_recipe_id: 172
 permalink: /recipes/trinidad-boiled-corn
 photo_large: null
 photo_thumb: trinidad-boiled-corn-thumb.jpg
@@ -37,7 +37,7 @@ source: homemadezagat.com
 source_url: https://www.homemadezagat.com/2014/11/trinidad-boiled-corn.html
 tags:
 - corn
-total_time: ''
+total_time: null
 type: null
 uid: 56D5B5C6-09D5-4522-A797-2CCB234E6FB5-631-00013CFF7518B2AD
 ---

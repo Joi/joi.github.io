@@ -2,10 +2,10 @@
 title: "Slow-Cooker Butter Chicken"
 filename: "slow-cooker-butter-chicken"
 cook_time: about 5 hours
-created: '2020-04-19 15:25:30'
-created_ts: 1587309930
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2017/07/12/multimedia/12crowdrex-copy/12crowdrex-articleLarge.jpg
 ingredients: "3 tablespoons vegetable oil\n1 medium yellow onion, diced\n3 cloves\
@@ -19,12 +19,12 @@ ingredients: "3 tablespoons vegetable oil\n1 medium yellow onion, diced\n3 clove
 intrash: 0
 mine: null
 name: Slow-Cooker Butter Chicken
-p_recipe_id: 111
+p_recipe_id: 333
 permalink: /recipes/slow-cooker-butter-chicken
 photo_large: null
 photo_thumb: slow-cooker-butter-chicken-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 to 6 servings
 slug: slow-cooker-butter-chicken
@@ -32,7 +32,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018803-slow-cooker-butter-chicken?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
 tags:
 - chicken
-total_time: ''
+total_time: null
 type: null
 uid: AD9AE9FD-055E-4CB3-9F75-C9A884CA619A-407-00004B4D6A521E4B
 ---

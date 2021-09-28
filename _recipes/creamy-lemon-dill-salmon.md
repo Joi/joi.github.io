@@ -2,8 +2,8 @@
 title: "Creamy Lemon Dill Salmon"
 filename: "creamy-lemon-dill-salmon"
 cook_time: 30 minutes
-created: '2020-12-01 18:26:08'
-created_ts: 1606847168
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -33,12 +33,10 @@ ingredients: '4 center cut filets of salmon about 1/3 lb each
   more fresh chopped dill'
 intrash: 0
 meal_notes:
-- 2020-12-01-dinner
-- 2020-12-12-dinner
 - 2021-06-24-dinner
 mine: null
 name: Creamy Lemon Dill Salmon
-p_recipe_id: 422
+p_recipe_id: 167
 permalink: /recipes/creamy-lemon-dill-salmon
 photo_large: null
 photo_thumb: creamy-lemon-dill-salmon-thumb.jpg

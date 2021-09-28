@@ -2,8 +2,8 @@
 title: "Easy Thai Shrimp Curry"
 filename: "easy-thai-shrimp-curry"
 cook_time: 15 minutes
-created: '2020-10-14 11:42:57'
-created_ts: 1602675777
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -36,11 +36,9 @@ ingredients: '1 pound medium shrimp thawed, peeled, can remove tails if desired
 
   Scallions chopped, to taste'
 intrash: 0
-meal_notes:
-- 2020-10-14-dinner
 mine: null
 name: Easy Thai Shrimp Curry
-p_recipe_id: 385
+p_recipe_id: 438
 permalink: /recipes/easy-thai-shrimp-curry
 photo_large: null
 photo_thumb: easy-thai-shrimp-curry-thumb.jpg

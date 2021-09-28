@@ -2,8 +2,8 @@
 title: "Mushroom Sauce"
 filename: "mushroom-sauce"
 cook_time: null
-created: '2021-02-15 12:54:08'
-created_ts: 1613393648
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -29,11 +29,11 @@ ingredients: '2 tbsp unsalted butter
   2 tsp fresh thyme leaves (or 1/4 - 1/2 tsp dried)'
 intrash: 0
 meal_notes:
-- 2021-02-15-dinner
 - 2021-02-27-dinner
+- 2021-02-15-dinner
 mine: null
 name: Mushroom Sauce
-p_recipe_id: 475
+p_recipe_id: 209
 permalink: /recipes/mushroom-sauce
 photo_large: null
 photo_thumb: mushroom-sauce-thumb.jpg
@@ -45,9 +45,9 @@ slug: mushroom-sauce
 source: recipetineats.com
 source_url: https://www.recipetineats.com/mushroom-sauce/
 tags:
+- mushroom
 - steaks
 - sauce
-- mushroom
 total_time: null
 type: null
 uid: 68E902BC-8596-47D9-9CCE-401E57641CB4-26466-000013C4A9633685

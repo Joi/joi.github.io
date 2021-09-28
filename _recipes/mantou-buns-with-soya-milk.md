@@ -2,8 +2,8 @@
 title: "Mantou Buns with Soya Milk"
 filename: "mantou-buns-with-soya-milk"
 cook_time: 1h 35min
-created: '2020-02-02 12:33:50'
-created_ts: 1580646830
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: Easy
 favorite: 0
@@ -15,7 +15,7 @@ ingredients: "7 oz soybeans\nwarm water, to soak\nMantou Buns\n1 \xBD tsp active
 intrash: 0
 mine: null
 name: Mantou Buns with Soya Milk
-p_recipe_id: 18
+p_recipe_id: 189
 permalink: /recipes/mantou-buns-with-soya-milk
 photo_large: null
 photo_thumb: mantou-buns-with-soya-milk-thumb.jpg

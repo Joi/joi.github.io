@@ -1,11 +1,11 @@
 ---
 title: "Oven Roasted Spatchcocked Chicken"
 filename: "oven-roasted-spatchcocked-chicken"
-cook_time: ''
-created: '2020-07-09 14:31:38'
-created_ts: 1594305098
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: 'Whole Chicken
@@ -17,21 +17,12 @@ ingredients: 'Whole Chicken
   Butter'
 intrash: 0
 meal_notes:
-- 2020-07-15-dinner
-- 2020-07-23-dinner
-- 2020-07-30-dinner
-- 2020-08-06-dinner
-- 2020-10-08-dinner
-- 2021-03-19-dinner
-- 2020-07-09-dinner
-- 2021-04-01-dinner
-- 2020-12-17-dinner
-- 2020-11-12-dinner
-- 2020-11-05-dinner
 - 2021-07-07-dinner
+- 2021-04-01-dinner
+- 2021-03-19-dinner
 mine: 1
 name: Oven Roasted Spatchcocked Chicken
-p_recipe_id: 240
+p_recipe_id: 112
 permalink: /recipes/oven-roasted-spatchcocked-chicken
 photo_large: oven-roasted-spatchcocked-chicken-large.jpg
 photo_thumb: oven-roasted-spatchcocked-chicken-thumb.jpg
@@ -45,15 +36,15 @@ photos_dict:
   '5': oven-roasted-spatchcocked-chicken-5.jpg
   '6': oven-roasted-spatchcocked-chicken-6.jpg
   '7': oven-roasted-spatchcocked-chicken-7.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: oven-roasted-spatchcocked-chicken
 source: Joi
 source_url: null
 tags:
 - chicken
-total_time: ''
+total_time: null
 type: null
 uid: 36A76453-1BC6-44FF-A21C-1BC30580CED0-631-0002C95B214A28BC
 ---

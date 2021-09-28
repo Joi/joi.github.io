@@ -1,11 +1,11 @@
 ---
 title: "Sauteed Celery Root with Swiss Chard"
 filename: "sauteed-celery-root-with-swiss-chard"
-cook_time: ''
-created: '2020-08-10 18:27:30'
-created_ts: 1597084050
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: http://nashsorganicproduce.com/recipes/wp-content/uploads/2017/07/chard-rainbow-sq.jpg
 ingredients: '3 tablespoons olive oil
@@ -20,25 +20,23 @@ ingredients: '3 tablespoons olive oil
 
   2 teaspoons fresh lemon juice'
 intrash: 0
-meal_notes:
-- 2020-08-10-dinner
 mine: null
 name: Sauteed Celery Root with Swiss Chard
-p_recipe_id: 300
+p_recipe_id: 351
 permalink: /recipes/sauteed-celery-root-with-swiss-chard
 photo_large: null
 photo_thumb: sauteed-celery-root-with-swiss-chard-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 4
-servings: ''
+servings: null
 slug: sauteed-celery-root-with-swiss-chard
 source: nashsorganicproduce.com
 source_url: http://nashsorganicproduce.com/recipes/sauteed-celery-root-with-swiss-chard/
 tags:
 - swiss chard
 - celery root
-total_time: ''
+total_time: null
 type: null
 uid: B502C26C-369B-4679-9CDA-699DA5AB2BA8-1060-000261A7AA093FFB
 ---

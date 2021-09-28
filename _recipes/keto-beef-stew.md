@@ -1,11 +1,11 @@
 ---
 title: "Keto Beef Stew"
 filename: "keto-beef-stew"
-cook_time: ''
-created: '2020-03-27 18:07:00'
-created_ts: 1585332420
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://cdn.keto-mojo.com/wp-content/uploads/2019/12/Keto-Beef-Stew-1024x613.jpg
 ingredients: "Ingredients List\n1\xBD lbs beef chuck roast or chuck shoulder, cut\
@@ -17,21 +17,21 @@ ingredients: "Ingredients List\n1\xBD lbs beef chuck roast or chuck shoulder, cu
 intrash: 0
 mine: null
 name: Keto Beef Stew
-p_recipe_id: 65
+p_recipe_id: 223
 permalink: /recipes/keto-beef-stew
 photo_large: null
 photo_thumb: keto-beef-stew-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: 'Serving: 1 cup'
 slug: keto-beef-stew
 source: keto-mojo.com
 source_url: https://keto-mojo.com/recipes/keto-beef-stew/?utm_campaign=My%20Mojo%20Morsels%20-%203.27.20%20%28KNZ7xk%29&utm_medium=email&utm_source=%5BMyMojoMorsels%5D%20Engaged%20With%20Food%2FRecipes&_ke=eyJrbF9lbWFpbCI6ICJqb2lAaXRvLmNvbSIsICJrbF9jb21wYW55X2lkIjogIkxwSjhTZSJ9
 tags:
-- beef
 - short ribs
-total_time: ''
+- beef
+total_time: null
 type: null
 uid: 70775420-6676-49E8-9A5C-0059FF5F103D-16595-000012FEE9E67A5A
 ---

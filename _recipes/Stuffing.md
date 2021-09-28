@@ -1,11 +1,11 @@
 ---
 title: "Stuffing"
 filename: "stuffing"
-cook_time: ''
-created: '2020-08-19 16:36:35'
-created_ts: 1597854995
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "2\xBD pounds (about 2 loaves) high-quality sandwich bread or soft Italian\
@@ -17,12 +17,9 @@ ingredients: "2\xBD pounds (about 2 loaves) high-quality sandwich bread or soft 
   \ canned chicken or turkey stock\r3 large eggs\r\xBC cup minced fresh parsley\r\
   Kosher salt and freshly ground black pepper"
 intrash: 0
-meal_notes:
-- 2020-08-20-dinner
-- 2020-11-25-dinner
 mine: null
 name: Stuffing
-p_recipe_id: 316
+p_recipe_id: 111
 permalink: /recipes/stuffing
 photo_large: stuffing-large.jpg
 photo_thumb: stuffing-thumb.jpg
@@ -31,7 +28,7 @@ photos_dict:
   '2': stuffing-2.jpg
   '3': stuffing-3.jpg
   '4': stuffing-4.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: 10-12
 slug: stuffing
@@ -39,7 +36,7 @@ source: Food Lab
 source_url: null
 tags:
 - turkey
-total_time: ''
+total_time: null
 type: null
 uid: 361C126A-71BA-4EF3-89A9-AEC190712B26-2241-0001908744F256EF
 ---

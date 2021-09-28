@@ -2,8 +2,8 @@
 title: "Classic Roast Beef Tenderloin"
 filename: "classic-roast-beef-tenderloin"
 cook_time: null
-created: '2020-06-29 00:34:29'
-created_ts: 1593390869
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -25,7 +25,7 @@ ingredients: 'GATHER YOUR INGREDIENTS
 intrash: 0
 mine: null
 name: Classic Roast Beef Tenderloin
-p_recipe_id: 210
+p_recipe_id: 224
 permalink: /recipes/classic-roast-beef-tenderloin
 photo_large: null
 photo_thumb: classic-roast-beef-tenderloin-thumb.jpg
@@ -37,8 +37,8 @@ slug: classic-roast-beef-tenderloin
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/4652-classic-roast-beef-tenderloin?incode=MCSCM00L0&ref=new_search_experience_3&t=1593390847
 tags:
-- beef
 - tenderloin
+- beef
 total_time: null
 type: null
 uid: 7149EACF-2ADE-48AD-A7AE-29EDDEC9C42F-8626-0000038D5FDC7D03

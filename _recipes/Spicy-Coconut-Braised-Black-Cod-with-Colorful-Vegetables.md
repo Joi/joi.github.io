@@ -2,8 +2,8 @@
 title: "Spicy Coconut Braised Black Cod with Colorful Vegetables"
 filename: "spicy-coconut-braised-black-cod-with-colorful-vegetables"
 cook_time: 20 min
-created: '2020-11-13 13:14:49'
-created_ts: 1605273289
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -47,12 +47,9 @@ ingredients: '2 tablespoons chopped fresh mint
 
   Lime wedges'
 intrash: 0
-meal_notes:
-- 2020-11-13-dinner
-- 2020-12-04-dinner
 mine: null
 name: Spicy Coconut Braised Black Cod with Colorful Vegetables
-p_recipe_id: 410
+p_recipe_id: 116
 permalink: /recipes/spicy-coconut-braised-black-cod-with-colorful-vegetables
 photo_large: null
 photo_thumb: spicy-coconut-braised-black-cod-with-colorful-vegetables-thumb.jpg

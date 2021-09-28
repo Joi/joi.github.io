@@ -2,10 +2,10 @@
 title: "Mexican Coleslaw with Cilantro Lime Dressing"
 filename: "mexican-coleslaw-with-cilantro-lime-dressing"
 cook_time: 10 mins
-created: '2020-07-16 18:56:55'
-created_ts: 1594925815
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "4 cups shredded cabbage mix, I like a mix with red and green cabbage\
@@ -16,12 +16,11 @@ ingredients: "4 cups shredded cabbage mix, I like a mix with red and green cabba
   \ sea salt\nExtra veggie broth to thin out dressing if needed , I used 1/4 cup"
 intrash: 0
 meal_notes:
-- 2020-07-16-dinner
-- 2021-02-06-lunch
 - 2021-03-30-dinner
+- 2021-02-06-lunch
 mine: null
 name: Mexican Coleslaw with Cilantro Lime Dressing
-p_recipe_id: 258
+p_recipe_id: 231
 permalink: /recipes/mexican-coleslaw-with-cilantro-lime-dressing
 photo_large: mexican-coleslaw-with-cilantro-lime-dressing-large.jpg
 photo_thumb: mexican-coleslaw-with-cilantro-lime-dressing-thumb.jpg
@@ -35,9 +34,9 @@ slug: mexican-coleslaw-with-cilantro-lime-dressing
 source: veggiesdontbite.com
 source_url: https://www.veggiesdontbite.com/mexican-cabbage-slaw-with-cumin-lime-dressing/
 tags:
-- salad
 - mexican
-total_time: ''
+- salad
+total_time: null
 type: null
 uid: 77134287-CBD0-4325-84C7-4CF8666CCC2D-29053-0004FDD9DFD38753
 ---

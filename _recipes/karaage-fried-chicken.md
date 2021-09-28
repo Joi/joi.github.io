@@ -2,8 +2,8 @@
 title: "Karaage Fried Chicken"
 filename: "karaage-fried-chicken"
 cook_time: null
-created: '2020-05-21 11:53:32'
-created_ts: 1590062012
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -14,7 +14,7 @@ ingredients: "1 lb skin-on chicken thigh, cubed\n1 tablespoon sake\n1 teaspoon s
 intrash: 0
 mine: null
 name: Karaage Fried Chicken
-p_recipe_id: 167
+p_recipe_id: 354
 permalink: /recipes/karaage-fried-chicken
 photo_large: null
 photo_thumb: karaage-fried-chicken-thumb.jpg

@@ -2,10 +2,10 @@
 title: "Tuna Tataki Recipe"
 filename: "tuna-tataki-recipe"
 cook_time: 5 mins
-created: '2020-06-26 10:42:57'
-created_ts: 1593168177
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "\xBD lb sashimi grade yellowfin/ahi tuna\n2 Tbsp neutral-flavored oil\
@@ -15,11 +15,9 @@ ingredients: "\xBD lb sashimi grade yellowfin/ahi tuna\n2 Tbsp neutral-flavored 
   \ soy sauce\n1 tsp toasted white sesame seeds\nGarnish:\n\xBD lemon\nKorean Chili\
   \ Thread"
 intrash: 0
-meal_notes:
-- 2020-06-26-dinner
 mine: null
 name: Tuna Tataki Recipe
-p_recipe_id: 204
+p_recipe_id: 122
 permalink: /recipes/tuna-tataki-recipe
 photo_large: tuna-tataki-recipe-large.jpg
 photo_thumb: tuna-tataki-recipe-thumb.jpg
@@ -33,7 +31,7 @@ source: justonecookbook.com
 source_url: https://www.justonecookbook.com/tuna-tataki/#wprm-recipe-container-58590
 tags:
 - tuna
-total_time: ''
+total_time: null
 type: null
 uid: 39091A3A-A890-436A-A9C2-58FA599B57F5-533-00000014701D437B
 ---

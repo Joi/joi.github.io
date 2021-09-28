@@ -2,8 +2,8 @@
 title: "The Best Ways to Cook Octopus"
 filename: "the-best-ways-to-cook-octopus"
 cook_time: null
-created: '2020-10-13 11:46:40'
-created_ts: 1602589600
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -12,7 +12,7 @@ ingredients: More Breadcrumbs
 intrash: 0
 mine: null
 name: The Best Ways to Cook Octopus
-p_recipe_id: 380
+p_recipe_id: 427
 permalink: /recipes/the-best-ways-to-cook-octopus
 photo_large: null
 photo_thumb: the-best-ways-to-cook-octopus-thumb.jpg

@@ -2,10 +2,10 @@
 title: "Two-Minute Mayonnaise"
 filename: "two-minute-mayonnaise"
 cook_time: 2 minutes
-created: '2021-04-10 19:15:50'
-created_ts: 1618082150
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '1 whole egg
@@ -22,7 +22,7 @@ ingredients: '1 whole egg
 intrash: 0
 mine: null
 name: Two-Minute Mayonnaise
-p_recipe_id: 511
+p_recipe_id: 171
 permalink: /recipes/two-minute-mayonnaise
 photo_large: two-minute-mayonnaise-large.jpg
 photo_thumb: two-minute-mayonnaise-thumb.jpg
@@ -37,7 +37,7 @@ source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2011/10/two-minute-mayonnaise.html
 tags:
 - sauce
-total_time: ''
+total_time: null
 type: null
 uid: 566E43B9-166A-4496-AD7E-9F2F2E518310-88379-0005497C421BDFBE
 ---

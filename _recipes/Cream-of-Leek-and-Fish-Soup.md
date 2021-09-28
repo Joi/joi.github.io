@@ -2,10 +2,10 @@
 title: "Cream of Leek and Fish Soup"
 filename: "cream-of-leek-and-fish-soup"
 cook_time: 30 min
-created: '2020-09-23 20:27:06'
-created_ts: 1600892826
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://images.ricardocuisine.com/services/videos/636x360_fish-654.jpg
 ingredients: '8 cups (2 litres) chicken broth
@@ -26,11 +26,9 @@ ingredients: '8 cups (2 litres) chicken broth
 
   Salt and pepper'
 intrash: 0
-meal_notes:
-- 2020-09-23-dinner
 mine: null
 name: Cream of Leek and Fish Soup
-p_recipe_id: 368
+p_recipe_id: 243
 permalink: /recipes/cream-of-leek-and-fish-soup
 photo_large: null
 photo_thumb: cream-of-leek-and-fish-soup-thumb.jpg
@@ -43,10 +41,10 @@ source: ricardocuisine.com
 source_url: https://www.ricardocuisine.com/en/recipes/6993-cream-of-leek-and-fish-soup
 tags:
 - seafood
-- soup
-- flounder
 - fluke
-total_time: ''
+- flounder
+- soup
+total_time: null
 type: null
 uid: 7C0675AB-90B1-4664-8D5D-4CCFD60BE942-17729-00000957E00C53DF
 ---

@@ -2,8 +2,8 @@
 title: "Smoked and Sliced Beef Chuck Roast"
 filename: "smoked-and-sliced-beef-chuck-roast"
 cook_time: 5 minutes of prep. approximately 6 hours to smoke
-created: '2020-10-16 23:48:44'
-created_ts: 1602892124
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -17,7 +17,7 @@ ingredients: '1 beef chuck roast with or without bone (approximately 3 pounds)
 intrash: 0
 mine: null
 name: Smoked and Sliced Beef Chuck Roast
-p_recipe_id: 387
+p_recipe_id: 475
 permalink: /recipes/smoked-and-sliced-beef-chuck-roast
 photo_large: null
 photo_thumb: smoked-and-sliced-beef-chuck-roast-thumb.jpg

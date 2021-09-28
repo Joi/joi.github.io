@@ -2,8 +2,8 @@
 title: "Garlic Parmesan Flounder"
 filename: "garlic-parmesan-flounder"
 cook_time: 0 hours
-created: '2020-08-31 22:32:46'
-created_ts: 1598913166
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -26,7 +26,7 @@ ingredients: '1/4 c. extra-virgin olive oil
 intrash: 0
 mine: null
 name: Garlic Parmesan Flounder
-p_recipe_id: 327
+p_recipe_id: 215
 permalink: /recipes/garlic-parmesan-flounder
 photo_large: null
 photo_thumb: garlic-parmesan-flounder-thumb.jpg
@@ -38,8 +38,8 @@ slug: garlic-parmesan-flounder
 source: delish.com
 source_url: https://www.delish.com/cooking/recipe-ideas/a26595710/garlic-parmesan-baked-flounder-recipe/
 tags:
-- flounder
 - fluke
+- flounder
 total_time: null
 type: null
 uid: 6CCAFA5B-B3BE-4D32-B4C9-F7B99B21A037-24828-00000E1DB79758D1

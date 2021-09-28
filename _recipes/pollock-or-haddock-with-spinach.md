@@ -2,8 +2,8 @@
 title: "Pollock or Haddock with Spinach"
 filename: "pollock-or-haddock-with-spinach"
 cook_time: about 1 hour
-created: '2020-03-28 14:16:39'
-created_ts: 1585404999
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -15,7 +15,7 @@ ingredients: "5 tablespoons butter\n2 tablespoons chopped onion\n4 cups fresh sp
 intrash: 0
 mine: null
 name: Pollock or Haddock with Spinach
-p_recipe_id: 66
+p_recipe_id: 281
 permalink: /recipes/pollock-or-haddock-with-spinach
 photo_large: null
 photo_thumb: pollock-or-haddock-with-spinach-thumb.jpg
@@ -27,8 +27,8 @@ slug: pollock-or-haddock-with-spinach
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/10202-pollock-or-haddock-with-spinach?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
 tags:
-- fish
 - white fish
+- fish
 total_time: null
 type: null
 uid: 8E9EC973-FDF5-4F63-9533-6897DA47F569-38252-00015A06CE46E4D5

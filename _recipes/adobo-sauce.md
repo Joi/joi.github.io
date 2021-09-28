@@ -2,8 +2,8 @@
 title: "Adobo Sauce"
 filename: "adobo-sauce"
 cook_time: 15 mins
-created: '2020-08-16 15:40:29'
-created_ts: 1597592429
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -17,7 +17,7 @@ ingredients: "4 guajillo peppers\n4 ancho peppers\n3 cups hot water or enough to
 intrash: 0
 mine: null
 name: Adobo Sauce
-p_recipe_id: 308
+p_recipe_id: 286
 permalink: /recipes/adobo-sauce
 photo_large: null
 photo_thumb: adobo-sauce-thumb.jpg

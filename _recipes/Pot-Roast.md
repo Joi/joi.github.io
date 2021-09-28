@@ -2,10 +2,10 @@
 title: "Pot Roast"
 filename: "pot-roast"
 cook_time: 3 hours
-created: '2020-03-31 17:17:45'
-created_ts: 1585675065
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "3 pound boneless beef chuck roast\nKosher salt and ground black pepper\n\
@@ -16,12 +16,9 @@ ingredients: "3 pound boneless beef chuck roast\nKosher salt and ground black pe
   \ off to expose cloves\n\xBE cup tomato paste\n2 bay leaves\n3 sprigs rosemary\n\
   1 \xBD cups red wine, preferably cabernet\n4 cups beef broth"
 intrash: 0
-meal_notes:
-- 2020-05-01-dinner
-- 2020-05-31-dinner
 mine: null
 name: Pot Roast
-p_recipe_id: 77
+p_recipe_id: 311
 permalink: /recipes/pot-roast
 photo_large: pot-roast-large.jpg
 photo_thumb: pot-roast-thumb.jpg
@@ -32,17 +29,17 @@ photos_dict:
   '5': pot-roast-5.jpg
   '6': pot-roast-6.jpg
   '7': pot-roast-7.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Yield 6 to 8 servings
 slug: pot-roast
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018016-pot-roast?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
 tags:
-- beef
-- short ribs
 - chuck roast
-total_time: ''
+- short ribs
+- beef
+total_time: null
 type: null
 uid: 9E51E154-F0B2-46FC-BF16-AF76BFEC11E9-16595-00014AA0B768B050
 ---

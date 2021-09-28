@@ -2,8 +2,8 @@
 title: "Easiest Brisket with Caramelized Onions"
 filename: "easiest-brisket-with-caramelized-onions"
 cook_time: 3 hours
-created: '2020-09-07 00:30:29'
-created_ts: 1599438629
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -28,7 +28,7 @@ ingredients: '4 tablespoons unsalted butter
 intrash: 0
 mine: null
 name: Easiest Brisket with Caramelized Onions
-p_recipe_id: 340
+p_recipe_id: 200
 permalink: /recipes/easiest-brisket-with-caramelized-onions
 photo_large: null
 photo_thumb: easiest-brisket-with-caramelized-onions-thumb.jpg

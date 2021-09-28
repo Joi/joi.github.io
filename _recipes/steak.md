@@ -1,23 +1,21 @@
 ---
 title: "Steak"
 filename: "steak"
-cook_time: ''
-created: '2021-03-27 15:12:55'
-created_ts: 1616857975
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: null
 intrash: 0
 meal_notes:
-- 2021-03-27-dinner
-- 2020-08-02-dinner
-- 2020-08-12-dinner
 - 2021-05-17-dinner
+- 2021-03-27-dinner
 mine: 1
 name: Steak
-p_recipe_id: 494
+p_recipe_id: 165
 permalink: /recipes/steak
 photo_large: steak-large.jpg
 photo_thumb: steak-thumb.jpg
@@ -25,19 +23,19 @@ photos_dict:
   '1': steak-1.jpg
   '2': steak-2.jpg
   '3': steak-3.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: steak
 source: null
 source_url: null
 tags:
-- beef
-- meat
-- steaks
 - prime rib
 - tenderloin
-total_time: ''
+- steaks
+- meat
+- beef
+total_time: null
 type: stub
 uid: 509801DC-97A9-44B1-BD50-C6C34EF65520-52325-0000F025C76A4D12
 ---

@@ -2,10 +2,10 @@
 title: "Fast Vietnamese Caramel Bluefish"
 filename: "fast-vietnamese-caramel-bluefish"
 cook_time: 20 minutes
-created: '2020-05-31 23:58:19'
-created_ts: 1590969499
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "4 (6-ounce) skin-on bluefish fillets (or substitute mackerel, trout\
@@ -16,17 +16,16 @@ ingredients: "4 (6-ounce) skin-on bluefish fillets (or substitute mackerel, trou
   \ jalape\xF1o, as needed\nFresh cilantro, as needed\nCooked rice, for serving (optional)"
 intrash: 0
 meal_notes:
-- 2020-06-02-dinner
 - 2021-07-09-dinner
 mine: null
 name: Fast Vietnamese Caramel Bluefish
-p_recipe_id: 176
+p_recipe_id: 447
 permalink: /recipes/fast-vietnamese-caramel-bluefish
 photo_large: fast-vietnamese-caramel-bluefish-large.jpg
 photo_thumb: fast-vietnamese-caramel-bluefish-thumb.jpg
 photos_dict:
   '1': fast-vietnamese-caramel-bluefish-1.jpg
-prep_time: ''
+prep_time: null
 rating: 4
 servings: Yield 4 servings
 slug: fast-vietnamese-caramel-bluefish
@@ -34,7 +33,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017451-fast-vietnamese-caramel-bluefish
 tags:
 - blue fish
-total_time: ''
+total_time: null
 type: null
 uid: E557AA97-6162-49E3-A7E6-7D32CC383B53-11450-00014F58E1107A53
 ---

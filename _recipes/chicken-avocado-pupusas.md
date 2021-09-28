@@ -2,8 +2,8 @@
 title: "Chicken Avocado Pupusas"
 filename: "chicken-avocado-pupusas"
 cook_time: 1h
-created: '2020-02-03 16:01:52'
-created_ts: 1580745712
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: Medium
 favorite: 0
@@ -19,7 +19,7 @@ ingredients: "Dough\n7 oz masa harina\n1 oz all-purpose flour\n1 tsp baking powd
 intrash: 0
 mine: null
 name: Chicken Avocado Pupusas
-p_recipe_id: 16
+p_recipe_id: 181
 permalink: /recipes/chicken-avocado-pupusas
 photo_large: null
 photo_thumb: chicken-avocado-pupusas-thumb.jpg

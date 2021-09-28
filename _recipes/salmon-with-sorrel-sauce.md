@@ -2,8 +2,8 @@
 title: "Salmon with Sorrel Sauce"
 filename: "salmon-with-sorrel-sauce"
 cook_time: 20 min
-created: '2020-04-21 18:43:20'
-created_ts: 1587494600
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: "There aren't that many recipes for the spring-only sorrel on the Internet,\
   \ but one that I see a lot is for Salmon with Sorrel sauce[^first]. They seem to\
   \ be based on the L\xE1 Troigros Sorrel recipe. I pulled a few of them together\
@@ -38,10 +38,9 @@ ingredients: "1 \xBD pounds Salmon filets\nSalt and freshly ground pepper\n1 Tbs
 intrash: 0
 meal_notes:
 - 2021-03-31-dinner
-- 2020-04-18-dinner
 mine: 1
 name: Salmon with Sorrel Sauce
-p_recipe_id: 122
+p_recipe_id: 241
 permalink: /recipes/salmon-with-sorrel-sauce
 photo_large: salmon-with-sorrel-sauce-large.jpg
 photo_thumb: salmon-with-sorrel-sauce-thumb.jpg
@@ -63,10 +62,10 @@ slug: salmon-with-sorrel-sauce
 source: null
 source_url: null
 tags:
-- fish
 - salmon
-- sole
 - white fish
+- fish
+- sole
 total_time: 45 min
 type: null
 uid: 7A82E399-1C0A-4A54-B4A6-539CFD569953-89150-0000F342AD89AD55

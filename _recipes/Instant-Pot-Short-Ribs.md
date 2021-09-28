@@ -2,15 +2,15 @@
 title: "Instant Pot Short Ribs"
 filename: "instant-pot-short-ribs"
 cook_time: 1 hour
-created: '2020-04-05 12:43:35'
-created_ts: 1586090615
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: "These Red Wine Braised Instant Pot Short Ribs are the perfect choice\
   \ to impress your guests and convert them to Instant Pot-ism. \U0001F609\n\nNo need\
   \ to turn on your oven or slow cook the short ribs for hours to achieve this rich\
   \ beefy melt-in-your-mouth heaven-on-earth.\n\nPlus, you can save time by cooking\
   \ potatoes at the same time right in the same pot. How awesome is that?!"
-difficulty: ''
-favorite: 1
+difficulty: null
+favorite: 0
 image_url: https://www.pressurecookrecipes.com/wp-content/uploads/2018/08/instant-pot-short-ribs-645x437.jpg
 ingredients: "6 - 10 pieces (1116g) bone-in short ribs (1.5 - 2 inches thick)\n6 cloves\
   \ garlic , crushed and chopped\n2 (300g) small onions , sliced\n2 (170g) medium\
@@ -24,29 +24,24 @@ ingredients: "6 - 10 pieces (1116g) bone-in short ribs (1.5 - 2 inches thick)\n6
   100 ml whole milk\n1 - 2 tablespoons (14g - 28g) unsalted butter"
 intrash: 0
 meal_notes:
-- 2020-04-05-dinner
-- 2020-04-24-dinner
-- 2020-07-08-dinner
-- 2020-08-26-dinner
-- 2020-12-13-dinner
 - 2021-06-26-lunch
 mine: null
 name: Instant Pot Short Ribs
-p_recipe_id: 90
+p_recipe_id: 375
 permalink: /recipes/instant-pot-short-ribs
 photo_large: null
 photo_thumb: instant-pot-short-ribs-thumb.jpg
 photos_dict: null
 prep_time: 10 minutes
 rating: 5
-servings: ''
+servings: null
 slug: instant-pot-short-ribs
 source: pressurecookrecipes.com
 source_url: https://www.pressurecookrecipes.com/instant-pot-short-ribs/
 tags:
-- beef
 - short ribs
-total_time: ''
+- beef
+total_time: null
 type: null
 uid: C2186635-4946-49D4-AB8C-D7D88DE283A3-64741-0002E2EF431210DA
 ---

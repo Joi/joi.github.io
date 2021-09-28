@@ -2,10 +2,10 @@
 title: "Lobster Salad"
 filename: "lobster-salad"
 cook_time: '0'
-created: '2021-03-27 15:12:04'
-created_ts: 1616857924
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '1/4 c. mayonnaise
@@ -30,7 +30,7 @@ meal_notes:
 - 2021-03-27-lunch
 mine: null
 name: Lobster Salad
-p_recipe_id: 493
+p_recipe_id: 325
 permalink: /recipes/lobster-salad
 photo_large: lobster-salad-large.jpg
 photo_thumb: lobster-salad-thumb.jpg
@@ -43,9 +43,9 @@ slug: lobster-salad
 source: delish.com
 source_url: https://www.delish.com/cooking/recipe-ideas/a27792396/easy-lobster-salad-recipe/
 tags:
-- lobster
 - avocado
-total_time: ''
+- lobster
+total_time: null
 type: null
 uid: A8AF9557-0826-4A6A-81FA-1B4D81824C58-52325-0000F014DDA1DE26
 ---

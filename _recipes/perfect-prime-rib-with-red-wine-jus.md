@@ -2,8 +2,8 @@
 title: "Perfect Prime Rib with Red Wine Jus"
 filename: "perfect-prime-rib-with-red-wine-jus"
 cook_time: 5 1/2 to 6 1/2 hours
-created: '2020-12-06 00:49:20'
-created_ts: 1607215760
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -38,7 +38,7 @@ ingredients: '1 tablespoon (15ml) vegetable oil
 intrash: 0
 mine: null
 name: Perfect Prime Rib with Red Wine Jus
-p_recipe_id: 426
+p_recipe_id: 449
 permalink: /recipes/perfect-prime-rib-with-red-wine-jus
 photo_large: null
 photo_thumb: perfect-prime-rib-with-red-wine-jus-thumb.jpg

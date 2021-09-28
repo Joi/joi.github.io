@@ -2,8 +2,8 @@
 title: "Turkey Meatloaf with Ketchup-Brown Sugar Glaze"
 filename: "turkey-meatloaf-with-ketchup-brown-sugar-glaze"
 cook_time: 2 hours
-created: '2020-05-14 15:57:26'
-created_ts: 1589471846
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: "WHY THIS RECIPE WORKS\nStore-bought ground turkey is fine and pasty,\
   \ and it produced a dense, mushy meatloaf when we simply swapped it into a traditional\
   \ meatloaf recipe. We dropped the usual panade from our recipe since we found that\
@@ -19,7 +19,7 @@ description: "WHY THIS RECIPE WORKS\nStore-bought ground turkey is fine and past
   \ second coat of glaze, which stuck to this base coat in an even layer. To help\
   \ the loaf cook evenly, we baked it on an aluminum foil\u2013lined wire rack set\
   \ in a rimmed baking sheet."
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "GATHER YOUR INGREDIENTS\nMeatloaf\n3 tablespoons unsalted butter\nPinch\
@@ -30,18 +30,16 @@ ingredients: "GATHER YOUR INGREDIENTS\nMeatloaf\n3 tablespoons unsalted butter\n
   \ cup)\n\u2153 cup chopped fresh parsley\nGlaze\n1 cup ketchup\n\xBC cup packed\
   \ brown sugar\n2 \xBD teaspoons cider vinegar\n\xBD teaspoon hot sauce"
 intrash: 0
-meal_notes:
-- 2020-05-23-dinner
 mine: null
 name: Turkey Meatloaf with Ketchup-Brown Sugar Glaze
-p_recipe_id: 155
+p_recipe_id: 60
 permalink: /recipes/turkey-meatloaf-with-ketchup-brown-sugar-glaze
 photo_large: turkey-meatloaf-with-ketchup-brown-sugar-glaze-large.jpg
 photo_thumb: turkey-meatloaf-with-ketchup-brown-sugar-glaze-thumb.jpg
 photos_dict:
   '1': turkey-meatloaf-with-ketchup-brown-sugar-glaze-1.jpg
   '2': turkey-meatloaf-with-ketchup-brown-sugar-glaze-2.jpg
-prep_time: ''
+prep_time: null
 rating: 4
 servings: Serves 4 to 6
 slug: turkey-meatloaf-with-ketchup-brown-sugar-glaze
@@ -49,7 +47,7 @@ source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/9712-turkey-meatloaf-with-ketchup-brown-sugar-glaze
 tags:
 - turkey
-total_time: ''
+total_time: null
 type: null
 uid: 1BC1B184-7B69-45A5-B9D9-C93CB14781CC-13891-0000ABD2789F5290
 ---

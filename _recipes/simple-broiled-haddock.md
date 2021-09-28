@@ -2,10 +2,10 @@
 title: "Simple Broiled Haddock"
 filename: "simple-broiled-haddock"
 cook_time: 10 m
-created: '2020-04-23 18:59:42'
-created_ts: 1587668382
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://images.media-allrecipes.com/userphotos/560x315/4535513.jpg
 ingredients: 'cooking spray
@@ -28,11 +28,9 @@ ingredients: 'cooking spray
 
   1 lemon, cut into wedges'
 intrash: 0
-meal_notes:
-- 2020-04-23-dinner
 mine: null
 name: Simple Broiled Haddock
-p_recipe_id: 124
+p_recipe_id: 383
 permalink: /recipes/simple-broiled-haddock
 photo_large: null
 photo_thumb: simple-broiled-haddock-thumb.jpg
@@ -45,7 +43,7 @@ source: allrecipes.com
 source_url: https://www.allrecipes.com/recipe/232906/simple-broiled-haddock/
 tags:
 - white fish
-total_time: ''
+total_time: null
 type: null
 uid: C56A2832-A5D3-4F23-BF55-81FE17B00B7E-89150-0001914BEAF20AFE
 ---

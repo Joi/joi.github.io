@@ -2,8 +2,8 @@
 title: "Easy Pickled Cabbage"
 filename: "easy-pickled-cabbage"
 cook_time: 10 mins
-created: '2020-04-25 20:37:24'
-created_ts: 1587847044
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -26,11 +26,9 @@ ingredients: '1 medium green cabbage
 
   3 cloves garlic'
 intrash: 0
-meal_notes:
-- 2020-05-10-snacks
 mine: null
 name: Easy Pickled Cabbage
-p_recipe_id: 126
+p_recipe_id: 380
 permalink: /recipes/easy-pickled-cabbage
 photo_large: null
 photo_thumb: easy-pickled-cabbage-thumb.jpg
@@ -42,8 +40,8 @@ slug: easy-pickled-cabbage
 source: arbuz.com
 source_url: https://arbuz.com/recipes/easy-pickled-cabbage-recipe/
 tags:
-- vegetables
 - pickles
+- vegetables
 total_time: null
 type: null
 uid: C4408D8E-DF96-4243-987A-C2B6CCBFEB43-15978-00022DB4A8BED335

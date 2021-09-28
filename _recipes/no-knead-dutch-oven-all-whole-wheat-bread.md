@@ -2,10 +2,10 @@
 title: "No Knead Dutch Oven All Whole Wheat Bread"
 filename: "no-knead-dutch-oven-all-whole-wheat-bread"
 cook_time: 45 mins
-created: '2020-04-21 18:23:04'
-created_ts: 1587493384
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.jocooks.com/wp-content/uploads/2013/12/whole-wheat-cast-iron-bread-1-3-125x125.jpg
 ingredients: '4 cups whole wheat flour
@@ -18,20 +18,20 @@ ingredients: '4 cups whole wheat flour
 intrash: 0
 mine: null
 name: No Knead Dutch Oven All Whole Wheat Bread
-p_recipe_id: 120
+p_recipe_id: 73
 permalink: /recipes/no-knead-dutch-oven-all-whole-wheat-bread
 photo_large: null
 photo_thumb: no-knead-dutch-oven-all-whole-wheat-bread-thumb.jpg
 photos_dict: null
 prep_time: 5 mins
 rating: 0
-servings: ''
+servings: null
 slug: no-knead-dutch-oven-all-whole-wheat-bread
 source: jocooks.com
 source_url: https://www.jocooks.com/recipes/no-knead-cast-iron-whole-wheat-bread/
 tags:
 - bread and biscuits
-total_time: ''
+total_time: null
 type: null
 uid: 24F546B1-42B7-4D60-ABE4-CC08689C9C56-89150-0000F22507B4A841
 ---

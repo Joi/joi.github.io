@@ -2,8 +2,8 @@
 title: "Shakshuka with Feta"
 filename: "shakshuka-with-feta"
 cook_time: 50 minutes
-created: '2020-08-13 22:37:31'
-created_ts: 1597358251
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -18,7 +18,7 @@ ingredients: "3 tablespoons extra-virgin olive oil\n1 large onion, halved and th
 intrash: 0
 mine: null
 name: Shakshuka with Feta
-p_recipe_id: 303
+p_recipe_id: 218
 permalink: /recipes/shakshuka-with-feta
 photo_large: null
 photo_thumb: shakshuka-with-feta-thumb.jpg

@@ -2,10 +2,10 @@
 title: "Easy Grilled Salmon"
 filename: "easy-grilled-salmon"
 cook_time: 10 minutes
-created: '2020-06-16 17:22:06'
-created_ts: 1592328126
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.simplyrecipes.com/wp-content/uploads/2015/05/easy-grilled-salmon-vertical-b-1600-600x837.jpg
 ingredients: '1 1/2 to 3 pounds salmon fillets, skin-on (about 1/3 to 1/2 pound per
@@ -71,25 +71,22 @@ ingredients: '1 1/2 to 3 pounds salmon fillets, skin-on (about 1/3 to 1/2 pound 
 
   1/4 cup white sugar'
 intrash: 0
-meal_notes:
-- 2020-06-19-dinner
-- 2020-08-11-dinner
 mine: null
 name: Easy Grilled Salmon
-p_recipe_id: 194
+p_recipe_id: 208
 permalink: /recipes/easy-grilled-salmon
 photo_large: null
 photo_thumb: easy-grilled-salmon-thumb.jpg
 photos_dict: null
 prep_time: 15 minutes
 rating: 5
-servings: ''
+servings: null
 slug: easy-grilled-salmon
 source: simplyrecipes.com
 source_url: https://www.simplyrecipes.com/recipes/easy_grilled_salmon/
 tags:
 - salmon
-total_time: ''
+total_time: null
 type: null
 uid: 68D76D1C-AD59-4F01-8CF7-EC68A1493E03-1358-000221322E5129BD
 ---

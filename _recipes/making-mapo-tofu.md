@@ -2,8 +2,8 @@
 title: "Making Mapo Tofu"
 filename: "making-mapo-tofu"
 cook_time: null
-created: '2021-03-03 15:04:49'
-created_ts: 1614783889
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -18,7 +18,7 @@ ingredients: "Mapo Tofu\n1 \xBD packages of firm tofu (firm silken if possible)\
 intrash: 0
 mine: null
 name: Making Mapo Tofu
-p_recipe_id: 482
+p_recipe_id: 133
 permalink: /recipes/making-mapo-tofu
 photo_large: null
 photo_thumb: making-mapo-tofu-thumb.jpg
@@ -30,8 +30,8 @@ slug: making-mapo-tofu
 source: magicmorels.com
 source_url: https://magicmorels.com/recipes/2018/3/31/making-mapo-tofu
 tags:
-- chinese
 - tofu
+- chinese
 total_time: null
 type: null
 uid: 41709C97-3F05-4953-ABDF-D8044E83AD3A-7877-000001585E79C187

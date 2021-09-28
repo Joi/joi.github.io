@@ -1,9 +1,9 @@
 ---
 title: "Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar"
 filename: "sand-dabs-with-shallots-sea-beans-sherry-vinegar"
-cook_time: ''
-created: '2020-09-01 17:56:00'
-created_ts: 1598982960
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: "A RICHLY FLAVORED PANFRY THAT HAS A PUNGENT, DELICIOUS AROMA. \u201C\
   Sea beans\u201D are glasswort, a crunchy, briny marsh succulent. We use fresh sea\
   \ beans in the late spring when they are briefly in season, and pickled ones the\
@@ -22,7 +22,7 @@ description: "A RICHLY FLAVORED PANFRY THAT HAS A PUNGENT, DELICIOUS AROMA. \u20
   \ which makes food stick, from the butter.\n\nIf you are new to panfrying fragile\
   \ things, you should opt for the larger fish~it will be easier to manage 4 sizzling,\
   \ slippery objects than 8. Serve with new potatoes, boiled or steamed in their skins."
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '8 small or 4 large pan-ready sand dabs, about 3 or 7 ounces, respectively,
@@ -43,7 +43,7 @@ ingredients: '8 small or 4 large pan-ready sand dabs, about 3 or 7 ounces, respe
 intrash: 0
 mine: null
 name: Sand Dabs with Shallots, Sea Beans, & Sherry Vinegar
-p_recipe_id: 329
+p_recipe_id: 259
 permalink: /recipes/sand-dabs-with-shallots-sea-beans-sherry-vinegar
 photo_large: sand-dabs-with-shallots-sea-beans-sherry-vinegar-large.jpg
 photo_thumb: sand-dabs-with-shallots-sea-beans-sherry-vinegar-thumb.jpg
@@ -53,17 +53,17 @@ photos_dict:
   '3': sand-dabs-with-shallots-sea-beans-sherry-vinegar-3.jpg
   '4': sand-dabs-with-shallots-sea-beans-sherry-vinegar-4.jpg
   '5': sand-dabs-with-shallots-sea-beans-sherry-vinegar-5.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: '4'
 slug: sand-dabs-with-shallots-sea-beans-sherry-vinegar
 source: The Zuni Cafe Cookbook
 source_url: null
 tags:
-- sole
-- flounder
 - fluke
-total_time: ''
+- flounder
+- sole
+total_time: null
 type: null
 uid: 82E24D0C-460D-4289-95EE-8D5AF55D365A-13002-0005925FAFB78D5B
 ---

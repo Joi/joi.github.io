@@ -2,10 +2,10 @@
 title: "Pan-Seared Steak with Red Wine Sauce"
 filename: "pan-seared-steak-with-red-wine-sauce"
 cook_time: 35 minutes
-created: '2020-03-30 16:04:41'
-created_ts: 1585584281
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2017/01/13/dining/13STEAK-1/13STEAK-1-articleLarge.jpg
 ingredients: "Kosher salt, as needed\nFreshly ground black pepper, as needed\n1 \xBD\
@@ -15,26 +15,23 @@ ingredients: "Kosher salt, as needed\nFreshly ground black pepper, as needed\n1 
   \ beef or chicken stock, preferably homemade\n1 tablespoon chopped chives\nWatercress,\
   \ for serving"
 intrash: 0
-meal_notes:
-- 2020-03-30-dinner
-- 2020-04-21-dinner
 mine: null
 name: Pan-Seared Steak with Red Wine Sauce
-p_recipe_id: 74
+p_recipe_id: 441
 permalink: /recipes/pan-seared-steak-with-red-wine-sauce
 photo_large: null
 photo_thumb: pan-seared-steak-with-red-wine-sauce-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 4
 servings: Yield 4 servings
 slug: pan-seared-steak-with-red-wine-sauce
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018530-pan-seared-steak-with-red-wine-sauce?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=8
 tags:
-- beef
 - steaks
-total_time: ''
+- beef
+total_time: null
 type: null
 uid: E04CA9F8-FA0C-4488-8180-75643AF3F07C-16595-0000F81038E507B6
 ---

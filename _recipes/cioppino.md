@@ -2,8 +2,8 @@
 title: "Cioppino"
 filename: "cioppino"
 cook_time: 55min
-created: '2020-02-03 16:00:55'
-created_ts: 1580745655
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: Medium
 favorite: 0
@@ -22,7 +22,7 @@ ingredients: "32 oz shellfish, e.g. littleneck clams, black mussels\n16 oz fresh
 intrash: 0
 mine: null
 name: Cioppino
-p_recipe_id: 34
+p_recipe_id: 399
 permalink: /recipes/cioppino
 photo_large: null
 photo_thumb: cioppino-thumb.jpg

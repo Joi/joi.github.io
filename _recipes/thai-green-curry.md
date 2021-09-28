@@ -1,11 +1,11 @@
 ---
 title: "Thai Green Curry"
 filename: "thai-green-curry"
-cook_time: ''
-created: '2021-05-13 13:59:41'
-created_ts: 1620914381
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: 'CURRY - USE ONE:
@@ -57,32 +57,27 @@ ingredients: 'CURRY - USE ONE:
   Steamed jasmine rice'
 intrash: 0
 meal_notes:
-- 2021-05-13-dinner
-- 2021-05-21-dinner
 - 2021-06-09-dinner
+- 2021-05-21-dinner
+- 2021-05-13-dinner
 mine: null
 name: Thai Green Curry
-p_recipe_id: 528
+p_recipe_id: 80
 permalink: /recipes/thai-green-curry
-photo_large: thai-green-curry-large.jpg
-photo_thumb: thai-green-curry-thumb.jpg
-photos_dict:
-  '1': thai-green-curry-1.jpg
-  '2': thai-green-curry-2.jpg
-  '3': thai-green-curry-3.jpg
-  '4': thai-green-curry-4.jpg
-  '5': thai-green-curry-5.jpg
-prep_time: ''
+photo_large: null
+photo_thumb: null
+photos_dict: null
+prep_time: null
 rating: 5
 servings: Servings 4
 slug: thai-green-curry
 source: recipetineats.com
 source_url: https://www.recipetineats.com/thai-green-curry/
 tags:
-- chicken
 - curry
 - thai
-total_time: ''
+- chicken
+total_time: null
 type: null
 uid: 26BDEFE4-BCF0-4D3F-94CF-BEA0CD6258FB-22216-00016D86FF0F7C21
 ---

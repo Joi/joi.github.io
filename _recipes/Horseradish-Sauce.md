@@ -2,8 +2,8 @@
 title: "Horseradish Sauce"
 filename: "horseradish-sauce"
 cook_time: 2 minutes
-created: '2020-07-18 17:32:40'
-created_ts: 1595093560
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: Easy
 favorite: 0
@@ -22,12 +22,9 @@ ingredients: '1/2 cup sour cream
 
   1 Tbsp chives finely chopped'
 intrash: 0
-meal_notes:
-- 2020-08-17-dinner
-- 2020-09-21-dinner
 mine: null
 name: Horseradish Sauce
-p_recipe_id: 264
+p_recipe_id: 456
 permalink: /recipes/horseradish-sauce
 photo_large: null
 photo_thumb: horseradish-sauce-thumb.jpg

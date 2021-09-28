@@ -1,9 +1,9 @@
 ---
 title: "Shrimp with Mayonnaise - ebimayo"
 filename: "shrimp-with-mayonnaise-ebimayo"
-cook_time: ''
-created: '2021-03-28 14:20:29'
-created_ts: 1616941229
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: 'Based on [this recipe](https://dancyu.jp/recipe/2019_00001803.html)
   in a Japanese cooking magazine. They say it is based on the recipe from [Akasaka
   Rikyu](https://rikyu.jp/). Rikyu was one of my favorite restaurants which was in
@@ -12,7 +12,7 @@ description: 'Based on [this recipe](https://dancyu.jp/recipe/2019_00001803.html
 
 
   I swapped out the parsley for cilantro.'
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "**Sauce**\n\n2 Tbsp heavy cream\n2 Tbsp condensed milk\n\u2153 tsp gin\n\
@@ -24,7 +24,7 @@ meal_notes:
 - 2021-03-28-dinner
 mine: 1
 name: Shrimp with Mayonnaise - ebimayo
-p_recipe_id: 497
+p_recipe_id: 121
 permalink: /recipes/shrimp-with-mayonnaise-ebimayo
 photo_large: shrimp-with-mayonnaise-ebimayo-large.jpg
 photo_thumb: shrimp-with-mayonnaise-ebimayo-thumb.jpg
@@ -43,16 +43,16 @@ photos_dict:
   '7': shrimp-with-mayonnaise-ebimayo-7.jpg
   '8': shrimp-with-mayonnaise-ebimayo-8.jpg
   '9': shrimp-with-mayonnaise-ebimayo-9.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: shrimp-with-mayonnaise-ebimayo
 source: null
 source_url: null
 tags:
 - shrimp
 - chinese
-total_time: ''
+total_time: null
 type: null
 uid: 38FA8814-B207-4409-8F03-B8C191D89FA4-52325-00013BDD53836253
 ---

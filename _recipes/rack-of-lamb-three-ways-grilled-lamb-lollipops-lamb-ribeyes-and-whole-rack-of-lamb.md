@@ -2,10 +2,10 @@
 title: "Rack of Lamb Three Ways: Grilled Lamb Lollipops, Lamb Ribeyes, and Whole Rack of Lamb"
 filename: "rack-of-lamb-three-ways-grilled-lamb-lollipops-lamb-ribeyes-and-whole-rack-of-lamb"
 cook_time: 30 minutes to cook
-created: '2020-08-07 15:17:34'
-created_ts: 1596813454
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://amazingribs.com/files/styles/content_body_600px/public/articles/hero/lamb-recipes/lamb-lollipops.jpg?itok=L6u2KGKu
 ingredients: "1 (8 bone) rack or lamb\n4 medium cloves of garlic, skinned, stemmed,\
@@ -14,12 +14,10 @@ ingredients: "1 (8 bone) rack or lamb\n4 medium cloves of garlic, skinned, stemm
   \ pepper\nCoarse salt to taste\nOptional. Add 1 tablespoon finely chopped fresh\
   \ mint leaves."
 intrash: 0
-meal_notes:
-- 2020-08-08-dinner
 mine: null
 name: 'Rack of Lamb Three Ways: Grilled Lamb Lollipops, Lamb Ribeyes, and Whole Rack
   of Lamb'
-p_recipe_id: 299
+p_recipe_id: 261
 permalink: /recipes/rack-of-lamb-three-ways-grilled-lamb-lollipops-lamb-ribeyes-and-whole-rack-of-lamb
 photo_large: null
 photo_thumb: rack-of-lamb-three-ways-grilled-lamb-lollipops-lamb-ribeyes-and-whole-rack-of-lamb-thumb.jpg
@@ -33,7 +31,7 @@ source: amazingribs.com
 source_url: https://amazingribs.com/tested-recipes/lamb-recipes/herbed-rack-lamb-lollipops-recipe
 tags:
 - lamb
-total_time: ''
+total_time: null
 type: null
 uid: 84255C51-8942-404E-9413-E21B40E8EB85-1060-00016B930CE05A83
 ---

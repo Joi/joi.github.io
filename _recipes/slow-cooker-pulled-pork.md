@@ -1,11 +1,11 @@
 ---
 title: "Slow Cooker Pulled Pork"
 filename: "slow-cooker-pulled-pork"
-cook_time: ''
-created: '2020-10-24 01:24:31'
-created_ts: 1603502671
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://amindfullmom.com/wp-content/uploads/2017/05/Slow-Cooker-Pulled-Pork-400x600.jpg
 ingredients: '3-4 lbs boneless pork shoulder roast (pork butt) or pork loin
@@ -34,20 +34,20 @@ ingredients: '3-4 lbs boneless pork shoulder roast (pork butt) or pork loin
 intrash: 0
 mine: null
 name: Slow Cooker Pulled Pork
-p_recipe_id: 393
+p_recipe_id: 454
 permalink: /recipes/slow-cooker-pulled-pork
 photo_large: null
 photo_thumb: slow-cooker-pulled-pork-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
-servings: ''
+servings: null
 slug: slow-cooker-pulled-pork
 source: amindfullmom.com
 source_url: https://amindfullmom.com/pulled-pork-and-homemade-coleslaw/
 tags:
 - pork shoulder
-total_time: ''
+total_time: null
 type: null
 uid: EA6FEA54-3211-4BD6-ACBA-885733EB3D60-7512-0002E383427C3CE3
 ---

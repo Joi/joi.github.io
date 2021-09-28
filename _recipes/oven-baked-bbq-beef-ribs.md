@@ -2,10 +2,10 @@
 title: "Oven Baked BBQ Beef Ribs"
 filename: "oven-baked-bbq-beef-ribs"
 cook_time: 4 hours
-created: '2020-09-02 02:44:30'
-created_ts: 1599014670
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://divascancook.com/wp-content/uploads/2014/09/IMG_8279-185x104.jpg
 ingredients: "3 lbs meaty beef ribs (grass-fed)\nLiquid smoke optional\n2-4 tablespoons\
@@ -17,7 +17,7 @@ ingredients: "3 lbs meaty beef ribs (grass-fed)\nLiquid smoke optional\n2-4 tabl
 intrash: 0
 mine: null
 name: Oven Baked BBQ Beef Ribs
-p_recipe_id: 331
+p_recipe_id: 322
 permalink: /recipes/oven-baked-bbq-beef-ribs
 photo_large: null
 photo_thumb: oven-baked-bbq-beef-ribs-thumb.jpg
@@ -30,7 +30,7 @@ source: divascancook.com
 source_url: https://divascancook.com/easy-oven-baked-beef-ribs-recipe-bbq/
 tags:
 - beef back ribs
-total_time: ''
+total_time: null
 type: null
 uid: A6075926-ED93-40D1-A486-38577B7E54DB-13002-0005AF322D952984
 ---

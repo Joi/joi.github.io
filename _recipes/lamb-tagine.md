@@ -2,10 +2,10 @@
 title: "Lamb Tagine"
 filename: "lamb-tagine"
 cook_time: 04:30
-created: '2021-04-05 11:33:14'
-created_ts: 1617622394
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "3 lb Boneless Leg Of Lamb\n1 Yellow Onion Chopped\n1 Tbsp Fresh Grated\
@@ -16,11 +16,11 @@ ingredients: "3 lb Boneless Leg Of Lamb\n1 Yellow Onion Chopped\n1 Tbsp Fresh Gr
   2 tsp Cornstarch- Optional See Cooking Tip"
 intrash: 0
 meal_notes:
-- 2021-04-05-dinner
 - 2021-05-03-dinner
+- 2021-04-05-dinner
 mine: null
 name: Lamb Tagine
-p_recipe_id: 507
+p_recipe_id: 473
 permalink: /recipes/lamb-tagine
 photo_large: lamb-tagine-large.jpg
 photo_thumb: lamb-tagine-thumb.jpg
@@ -39,7 +39,7 @@ tags:
 - lamb
 - middle east
 - soup
-total_time: ''
+total_time: null
 type: null
 uid: F6C96573-D5B3-4520-A0E0-669290DBDB7C
 ---

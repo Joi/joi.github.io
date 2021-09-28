@@ -2,8 +2,8 @@
 title: "Seafood Paella"
 filename: "seafood-paella"
 cook_time: 35 minutes
-created: '2020-08-18 01:41:16'
-created_ts: 1597714876
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -38,13 +38,9 @@ ingredients: '4 1/2 cups chicken stock
 
   1/4 cup chopped parsley, for garnish'
 intrash: 0
-meal_notes:
-- 2020-08-18-dinner
-- 2020-11-10-dinner
-- 2020-12-08-dinner
 mine: null
 name: Seafood Paella
-p_recipe_id: 313
+p_recipe_id: 45
 permalink: /recipes/seafood-paella
 photo_large: seafood-paella-large.jpg
 photo_thumb: seafood-paella-thumb.jpg

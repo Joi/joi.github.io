@@ -1,11 +1,11 @@
 ---
 title: "Caesar Dressing"
 filename: "caesar-dressing"
-cook_time: ''
-created: '2020-07-04 18:23:30'
-created_ts: 1593887010
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '4 salt-packed anchovies (or 8 filets), soaked and fileted 3 /4 cup stiff
@@ -29,20 +29,20 @@ ingredients: '4 salt-packed anchovies (or 8 filets), soaked and fileted 3 /4 cup
 intrash: 0
 mine: null
 name: Caesar Dressing
-p_recipe_id: 225
+p_recipe_id: 374
 permalink: /recipes/caesar-dressing
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
-servings: ''
+servings: null
 slug: caesar-dressing
 source: Salt, Fat, Acid Heat
 source_url: null
 tags:
 - salad
-total_time: ''
+total_time: null
 type: null
 uid: C1A56159-8227-4071-8D23-0B7E8B0C9DD8-631-00014D1E9E54D0EF
 ---

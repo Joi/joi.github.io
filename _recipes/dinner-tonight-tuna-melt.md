@@ -1,11 +1,11 @@
 ---
 title: "Dinner Tonight: Tuna Melt"
 filename: "dinner-tonight-tuna-melt"
-cook_time: ''
-created: '2021-04-10 19:16:39'
-created_ts: 1618082199
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '1 6-ounce can of oil-packed tuna, drained
@@ -26,18 +26,16 @@ ingredients: '1 6-ounce can of oil-packed tuna, drained
 
   2 slices of Swiss cheese'
 intrash: 0
-meal_notes:
-- 2021-04-11-lunch
 mine: null
 name: 'Dinner Tonight: Tuna Melt'
-p_recipe_id: 512
+p_recipe_id: 237
 permalink: /recipes/dinner-tonight-tuna-melt
 photo_large: dinner-tonight-tuna-melt-large.jpg
 photo_thumb: dinner-tonight-tuna-melt-thumb.jpg
 photos_dict:
   '1': dinner-tonight-tuna-melt-1.jpg
   '2': dinner-tonight-tuna-melt-2.jpg
-prep_time: ''
+prep_time: null
 rating: 0
 servings: '2'
 slug: dinner-tonight-tuna-melt
@@ -45,7 +43,7 @@ source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2009/07/dinner-tonight-tuna-melt-recipe.html
 tags:
 - tuna
-total_time: ''
+total_time: null
 type: null
 uid: 79FB1554-05DD-4616-8CCD-565BF99F61FC-88379-00054987806B3388
 ---

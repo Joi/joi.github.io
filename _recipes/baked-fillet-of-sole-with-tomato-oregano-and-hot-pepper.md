@@ -2,10 +2,10 @@
 title: "Baked Fillet of Sole with Tomato, Oregano and Hot Pepper"
 filename: "baked-fillet-of-sole-with-tomato-oregano-and-hot-pepper"
 cook_time: 45 minutes
-created: '2020-03-19 15:42:52'
-created_ts: 1584632572
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/94fb326/assets/NYTCookingLogo.png
 ingredients: "\u2154 cup onion, very thinly sliced\n3 tablespoons extra-virgin olive\
@@ -17,12 +17,12 @@ ingredients: "\u2154 cup onion, very thinly sliced\n3 tablespoons extra-virgin o
 intrash: 0
 mine: null
 name: Baked Fillet of Sole with Tomato, Oregano and Hot Pepper
-p_recipe_id: 53
+p_recipe_id: 370
 permalink: /recipes/baked-fillet-of-sole-with-tomato-oregano-and-hot-pepper
 photo_large: null
 photo_thumb: baked-fillet-of-sole-with-tomato-oregano-and-hot-pepper-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 6 servings
 slug: baked-fillet-of-sole-with-tomato-oregano-and-hot-pepper
@@ -31,7 +31,7 @@ source_url: https://cooking.nytimes.com/recipes/4170-baked-fillet-of-sole-with-t
 tags:
 - fish
 - sole
-total_time: ''
+total_time: null
 type: null
 uid: BFE78D55-A480-488D-A2B5-0BF0A9EE79C2-9067-00012E904010BAA3
 ---

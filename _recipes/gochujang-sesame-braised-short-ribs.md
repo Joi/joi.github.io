@@ -2,10 +2,10 @@
 title: "Gochujang Sesame Braised Short Ribs"
 filename: "gochujang-sesame-braised-short-ribs"
 cook_time: 02:30
-created: '2020-11-14 11:53:10'
-created_ts: 1605354790
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "1.5 lb Beef Short Ribs on Bone\n3 Tbsp Gochujang\n2 Tbsp Minced Garlic\n\
@@ -15,11 +15,9 @@ ingredients: "1.5 lb Beef Short Ribs on Bone\n3 Tbsp Gochujang\n2 Tbsp Minced Ga
   4 cups White Rice (optional side)\n2 cups Kimchi (optional side)\n\xBC cup Chili\
   \ Threads (optional garnish)"
 intrash: 0
-meal_notes:
-- 2020-11-15-dinner
 mine: null
 name: Gochujang Sesame Braised Short Ribs
-p_recipe_id: 414
+p_recipe_id: 411
 permalink: /recipes/gochujang-sesame-braised-short-ribs
 photo_large: gochujang-sesame-braised-short-ribs-large.jpg
 photo_thumb: gochujang-sesame-braised-short-ribs-thumb.jpg
@@ -34,7 +32,7 @@ source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/QpghbP0JGJ4iT0diQhAc
 tags:
 - short ribs
-total_time: ''
+total_time: null
 type: null
 uid: D2FCDD32-8FA8-46DF-8A8B-7B3CAB1E8747-38973-00001853CA3C44A8
 ---

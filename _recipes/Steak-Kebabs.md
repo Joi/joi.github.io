@@ -2,8 +2,8 @@
 title: "Steak Kebabs"
 filename: "steak-kebabs"
 cook_time: 10 minutes
-created: '2020-07-22 17:36:47'
-created_ts: 1595439407
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -48,7 +48,7 @@ ingredients: 'Marinade
 intrash: 0
 mine: null
 name: Steak Kebabs
-p_recipe_id: 268
+p_recipe_id: 192
 permalink: /recipes/steak-kebabs
 photo_large: null
 photo_thumb: steak-kebabs-thumb.jpg
@@ -60,11 +60,11 @@ slug: steak-kebabs
 source: cookingclassy.com
 source_url: https://www.cookingclassy.com/steak-kebabs/
 tags:
-- grill
-- beef
-- meat
-- steaks
 - sirloin
+- steaks
+- meat
+- beef
+- grill
 total_time: null
 type: null
 uid: 5DBE772B-969E-4E3B-A941-D1A67C2DD712-37140-0000172C5FF86FD8

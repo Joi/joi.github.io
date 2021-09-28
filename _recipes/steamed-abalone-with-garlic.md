@@ -2,8 +2,8 @@
 title: "Steamed Abalone with Garlic"
 filename: "steamed-abalone-with-garlic"
 cook_time: 10 mins
-created: '2021-04-23 11:18:10'
-created_ts: 1619176690
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -36,7 +36,7 @@ ingredients: '10 abalone you also can buy it in local market
 intrash: 0
 mine: null
 name: Steamed Abalone with Garlic
-p_recipe_id: 522
+p_recipe_id: 270
 permalink: /recipes/steamed-abalone-with-garlic
 photo_large: null
 photo_thumb: steamed-abalone-with-garlic-thumb.jpg

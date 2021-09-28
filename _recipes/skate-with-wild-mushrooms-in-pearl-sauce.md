@@ -2,8 +2,8 @@
 title: "Skate with Wild Mushrooms in Pearl Sauce"
 filename: "skate-with-wild-mushrooms-in-pearl-sauce"
 cook_time: 1 1/4 hr
-created: '2020-06-21 15:19:42'
-created_ts: 1592752782
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -23,7 +23,7 @@ ingredients: "For mushroom sauce:\n1 small leek (white and pale green parts only
 intrash: 0
 mine: null
 name: Skate with Wild Mushrooms in Pearl Sauce
-p_recipe_id: 197
+p_recipe_id: 308
 permalink: /recipes/skate-with-wild-mushrooms-in-pearl-sauce
 photo_large: null
 photo_thumb: skate-with-wild-mushrooms-in-pearl-sauce-thumb.jpg

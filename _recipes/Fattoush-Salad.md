@@ -2,10 +2,10 @@
 title: "Fattoush Salad"
 filename: "fattoush-salad"
 cook_time: 20 mins
-created: '2020-08-07 11:19:42'
-created_ts: 1596799182
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '2 loaves pita bread
@@ -44,12 +44,9 @@ ingredients: '2 loaves pita bread
 
   scant 1/4 tsp ground allspice'
 intrash: 0
-meal_notes:
-- 2020-08-24-dinner
-- 2020-09-18-dinner
 mine: null
 name: Fattoush Salad
-p_recipe_id: 294
+p_recipe_id: 164
 permalink: /recipes/fattoush-salad
 photo_large: fattoush-salad-large.jpg
 photo_thumb: fattoush-salad-thumb.jpg
@@ -63,7 +60,7 @@ source: themediterraneandish.com
 source_url: https://www.themediterraneandish.com/fattoush-salad/
 tags:
 - salad
-total_time: ''
+total_time: null
 type: null
 uid: 4FEBFB5B-BED2-46AA-AAB2-6695964DDD04-2643-000000E5CE888C1F
 ---

@@ -2,8 +2,8 @@
 title: "Cottage Pie"
 filename: "cottage-pie"
 cook_time: 2h 15min
-created: '2020-02-03 16:00:21'
-created_ts: 1580745621
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: Easy
 favorite: 0
@@ -18,7 +18,7 @@ ingredients: "3 garlic cloves\n8 oz yellow onions, cut into pieces\n6 oz carrots
 intrash: 0
 mine: null
 name: Cottage Pie
-p_recipe_id: 38
+p_recipe_id: 417
 permalink: /recipes/cottage-pie
 photo_large: null
 photo_thumb: cottage-pie-thumb.jpg
@@ -30,8 +30,8 @@ slug: cottage-pie
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r312949
 tags:
-- beef
 - egg
+- beef
 - ground beef
 total_time: null
 type: null

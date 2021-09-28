@@ -2,8 +2,8 @@
 title: "General Tso’s Tofu"
 filename: "general-tsos-tofu"
 cook_time: 30 mins
-created: '2021-05-12 11:37:04'
-created_ts: 1620819424
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -17,7 +17,7 @@ ingredients: "For the general Tso\u2019s tofu\n10 ounces firm tofu (275 g), cube
 intrash: 0
 mine: null
 name: "General Tso\u2019s Tofu"
-p_recipe_id: 525
+p_recipe_id: 3
 permalink: /recipes/general-tsos-tofu
 photo_large: null
 photo_thumb: general-tsos-tofu-thumb.jpg
@@ -29,8 +29,8 @@ slug: general-tsos-tofu
 source: simpleveganblog.com
 source_url: https://simpleveganblog.com/general-tsos-tofu/
 tags:
-- chinese
 - tofu
+- chinese
 total_time: null
 type: null
 uid: 006A2547-F31F-4591-9B46-2352D21FB05A

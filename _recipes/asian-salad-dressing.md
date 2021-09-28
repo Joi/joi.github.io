@@ -2,8 +2,8 @@
 title: "Asian Salad Dressing"
 filename: "asian-salad-dressing"
 cook_time: null
-created: '2020-10-22 21:27:55'
-created_ts: 1603402075
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -38,11 +38,9 @@ ingredients: '2 tablespoons canola oil (see note 1)
 
   1/8 teaspoon garlic powder'
 intrash: 0
-meal_notes:
-- 2020-10-22-dinner
 mine: null
 name: Asian Salad Dressing
-p_recipe_id: 392
+p_recipe_id: 225
 permalink: /recipes/asian-salad-dressing
 photo_large: null
 photo_thumb: asian-salad-dressing-thumb.jpg

@@ -2,8 +2,8 @@
 title: "Indonesian Chicken Curry (Opor Ayam)"
 filename: "indonesian-chicken-curry-opor-ayam"
 cook_time: 70 minutes
-created: '2020-03-26 15:44:51'
-created_ts: 1585237491
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -20,7 +20,7 @@ ingredients: "\xBC cup coriander seeds\n3 tablespoons coconut oil\n10 small shal
 intrash: 0
 mine: null
 name: Indonesian Chicken Curry (Opor Ayam)
-p_recipe_id: 64
+p_recipe_id: 155
 permalink: /recipes/indonesian-chicken-curry-opor-ayam
 photo_large: null
 photo_thumb: indonesian-chicken-curry-opor-ayam-thumb.jpg

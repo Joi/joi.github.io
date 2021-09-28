@@ -2,8 +2,8 @@
 title: "Smoked 3-2-1 St. Louis Style Spare Ribs"
 filename: "smoked-3-2-1-st-louis-style-spare-ribs"
 cook_time: 6 hours
-created: '2020-09-18 21:47:06'
-created_ts: 1600465626
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -14,7 +14,7 @@ ingredients: "2 (or more) racks of spare ribs\nYellow mustard\nJeff's original r
 intrash: 0
 mine: null
 name: Smoked 3-2-1 St. Louis Style Spare Ribs
-p_recipe_id: 366
+p_recipe_id: 102
 permalink: /recipes/smoked-3-2-1-st-louis-style-spare-ribs
 photo_large: null
 photo_thumb: null

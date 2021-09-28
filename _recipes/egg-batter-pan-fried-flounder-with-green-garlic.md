@@ -2,8 +2,8 @@
 title: "Egg Batter Pan-Fried Flounder with Green Garlic"
 filename: "egg-batter-pan-fried-flounder-with-green-garlic"
 cook_time: about 20 minutes
-created: '2021-04-01 23:11:43'
-created_ts: 1617318703
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -16,7 +16,7 @@ ingredients: "1 \xBD pounds boneless flounder or sole fillets, preferably 4 6-ou
 intrash: 0
 mine: null
 name: Egg Batter Pan-Fried Flounder with Green Garlic
-p_recipe_id: 500
+p_recipe_id: 391
 permalink: /recipes/egg-batter-pan-fried-flounder-with-green-garlic
 photo_large: null
 photo_thumb: egg-batter-pan-fried-flounder-with-green-garlic-thumb.jpg
@@ -28,8 +28,8 @@ slug: egg-batter-pan-fried-flounder-with-green-garlic
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12458-egg-batter-pan-fried-flounder-with-green-garlic?smid=ck-recipe-iOS-share
 tags:
-- flounder
 - fluke
+- flounder
 total_time: null
 type: null
 uid: C8E7E3CF-36B6-45D1-93CD-069705353F6C

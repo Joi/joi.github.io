@@ -1,9 +1,9 @@
 ---
 title: "Fried Chicken for Two"
 filename: "fried-chicken-for-two"
-cook_time: ''
-created: '2020-05-14 16:25:40'
-created_ts: 1589473540
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: "WHY THIS RECIPE WORKS\nWhen you\u2019re frying chicken for a crowd,\
   \ it\u2019s easy to overlook the copious amounts of oil necessary to achieve juicy,\
   \ tender meat and a supercrispy coating. Not so when you\u2019re cooking for two.\
@@ -15,7 +15,7 @@ description: "WHY THIS RECIPE WORKS\nWhen you\u2019re frying chicken for a crowd
   \ with this shallow-fry method, we opt instead for a seasoned flour blend and a\
   \ brief buttermilk soak. Mixing some buttermilk into the flour blend creates shaggy\
   \ shards of coating that fry into an extra-crunchy crust."
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/21989_sfs-cookingfortwo-fried-chicken-31
 ingredients: "GATHER YOUR INGREDIENTS\n4 (5- to 7-ounce) bone-in chicken thighs, trimmed,\
@@ -26,12 +26,12 @@ ingredients: "GATHER YOUR INGREDIENTS\n4 (5- to 7-ounce) bone-in chicken thighs,
 intrash: 0
 mine: null
 name: Fried Chicken for Two
-p_recipe_id: 157
+p_recipe_id: 62
 permalink: /recipes/fried-chicken-for-two
 photo_large: null
 photo_thumb: fried-chicken-for-two-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Serves 2
 slug: fried-chicken-for-two
@@ -39,7 +39,7 @@ source: cookscountry.com
 source_url: https://www.cookscountry.com/recipes/8084-fried-chicken-for-two?t=1589473512
 tags:
 - chicken
-total_time: ''
+total_time: null
 type: null
 uid: 1F8D6A3D-6C64-456C-A878-D10BCCF9DCE2-13891-0000AD5B56F3F782
 ---

@@ -2,8 +2,8 @@
 title: "Grilled Hickory-Smoked Hanger Steak"
 filename: "grilled-hickory-smoked-hanger-steak"
 cook_time: 1 hr 40 min
-created: '2020-09-25 22:55:47'
-created_ts: 1601074547
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -16,7 +16,7 @@ ingredients: '2 cups hickory chips
 intrash: 0
 mine: null
 name: Grilled Hickory-Smoked Hanger Steak
-p_recipe_id: 370
+p_recipe_id: 232
 permalink: /recipes/grilled-hickory-smoked-hanger-steak
 photo_large: null
 photo_thumb: grilled-hickory-smoked-hanger-steak-thumb.jpg

@@ -2,8 +2,8 @@
 title: "Spaghetti Carbonara"
 filename: "spaghetti-carbonara"
 cook_time: 25 minutes
-created: '2020-09-16 11:34:50'
-created_ts: 1600256090
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -17,7 +17,7 @@ ingredients: "Salt\n2 large eggs and 2 large yolks, room temperature\n1 ounce (a
 intrash: 0
 mine: null
 name: Spaghetti Carbonara
-p_recipe_id: 357
+p_recipe_id: 33
 permalink: /recipes/spaghetti-carbonara
 photo_large: null
 photo_thumb: null

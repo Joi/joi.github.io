@@ -2,8 +2,8 @@
 title: "Sausage and Veggie Frittata and Ayran Drink"
 filename: "sausage-and-veggie-frittata-and-ayran-drink"
 cook_time: 40min
-created: '2020-02-02 12:33:10'
-created_ts: 1580646790
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: Easy
 favorite: 0
@@ -19,7 +19,7 @@ ingredients: "Ayran Drink\n9 oz plain Greek yogurt, whole fat\n9 oz cold water, 
 intrash: 0
 mine: null
 name: Sausage and Veggie Frittata and Ayran Drink
-p_recipe_id: 2
+p_recipe_id: 24
 permalink: /recipes/sausage-and-veggie-frittata-and-ayran-drink
 photo_large: null
 photo_thumb: sausage-and-veggie-frittata-and-ayran-drink-thumb.jpg

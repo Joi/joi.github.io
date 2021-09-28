@@ -1,11 +1,11 @@
 ---
 title: "Mapotofu"
 filename: "mapotofu"
-cook_time: ''
-created: '2021-03-24 15:18:40'
-created_ts: 1616599120
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.kyounoryouri.jp/upfile/r/l_1179995078_438.jpg?bustcache=1356573811
 ingredients: "\u6728\u7DBF\u8C46\u8150  1\u4E01\uFF08400g\uFF09\n\u306D\u304E  1/3\u672C\
@@ -22,21 +22,21 @@ ingredients: "\u6728\u7DBF\u8C46\u8150  1\u4E01\uFF08400g\uFF09\n\u306D\u304E  1
 intrash: 0
 mine: null
 name: Mapotofu
-p_recipe_id: 491
+p_recipe_id: 267
 permalink: /recipes/mapotofu
 photo_large: null
 photo_thumb: mapotofu-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
-servings: ''
+servings: null
 slug: mapotofu
 source: kyounoryouri.jp
 source_url: https://www.kyounoryouri.jp/recipe/3771_%E3%83%9E%E3%83%BC%E3%83%9C%E3%83%BC%E8%B1%86%E8%85%90.html
 tags:
-- chinese
 - ground pork
 - tofu
+- chinese
 total_time: 20 min
 type: null
 uid: 85A8D61A-8BBC-4544-AC35-B1A2ACB9F45C-651-000004AC8C2DBD66

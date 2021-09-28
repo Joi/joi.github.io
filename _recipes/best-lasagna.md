@@ -2,8 +2,8 @@
 title: "Best Lasagna"
 filename: "best-lasagna"
 cook_time: 1 hr 45 mins
-created: '2020-09-03 23:19:14'
-created_ts: 1599175154
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -21,7 +21,7 @@ ingredients: "Meat Sauce:\n0.5 tablespoon olive oil\n0.5 onion, finely chopped\n
 intrash: 0
 mine: null
 name: Best Lasagna
-p_recipe_id: 336
+p_recipe_id: 390
 permalink: /recipes/best-lasagna
 photo_large: null
 photo_thumb: best-lasagna-thumb.jpg

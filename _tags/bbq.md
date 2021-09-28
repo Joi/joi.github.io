@@ -38,49 +38,49 @@ pages:
 - Spatchcocking
 recipes:
 - mine: null
-  p_recipe_id: 364
+  p_recipe_id: 262
   permalink: /recipes/3-2-1-ribs
   photo_thumb: C0F4BBE7-45D1-4D71-AFCD-F3DF77DAF73D-1710-000001280E3A70CA.jpg
   rating: 0
   title: 3 2 1 Ribs
-- mine: null
-  p_recipe_id: 341
+- mine: 1
+  p_recipe_id: 13
   permalink: /recipes/bbq-chicken
   photo_thumb: 059A43AF-3036-44A8-AD5E-2AE481A57815-79604-00015CD14024E925.jpg
   rating: 5
   title: BBQ Chicken
-- mine: null
-  p_recipe_id: 505
+- mine: 1
+  p_recipe_id: 420
   permalink: /recipes/bbq-rub
   photo_thumb: F339B819-345D-4AA6-B2FE-F5822DFE4501-52325-00036331361F4767.jpg
   rating: 5
   title: BBQ Rub
-- mine: null
-  p_recipe_id: 246
+- mine: 1
+  p_recipe_id: 217
   permalink: /recipes/bbq-sauce
   photo_thumb: 69573879-A908-443A-8475-9472BFD565CE-52325-000366CEABB2849D.jpg
   rating: 5
   title: BBQ Sauce
 - mine: null
-  p_recipe_id: 365
+  p_recipe_id: 445
   permalink: /recipes/kansas-city-bbq-sauce
   photo_thumb: 01E620FF-77DA-4E1A-A953-E5B7ABB0DF61-1710-000001276DE6C83E.jpg
   rating: 0
   title: Kansas City BBQ Sauce
 - mine: null
-  p_recipe_id: 530
+  p_recipe_id: 432
   permalink: /recipes/ribs-101
   photo_thumb: 2DA6381F-3082-42FE-BE06-C2697E1FB542-14317-0002B45D313881AC.jpg
   rating: 5
   title: Ribs 101
 - mine: null
-  p_recipe_id: 366
+  p_recipe_id: 102
   permalink: /recipes/smoked-3-2-1-st-louis-style-spare-ribs
   photo_thumb: null
   rating: 0
   title: Smoked 3-2-1 St. Louis Style Spare Ribs
 - mine: null
-  p_recipe_id: 387
+  p_recipe_id: 475
   permalink: /recipes/smoked-and-sliced-beef-chuck-roast
   photo_thumb: 94640A87-037E-4CA7-A384-7EE7F9BA89FB-60850-000021BB0D97FF21.jpg
   rating: 0

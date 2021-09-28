@@ -2,8 +2,8 @@
 title: "The Ultimate Grilled Chicken Sandwich"
 filename: "the-ultimate-grilled-chicken-sandwich"
 cook_time: 20 mins
-created: '2020-10-03 11:25:36'
-created_ts: 1601724336
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -19,11 +19,9 @@ ingredients: "16 ounces boneless skinless chicken breasts 4 ounce each\n1 tables
   8 slices bacon cooked and drained\n4 slices tomato or 8 smaller slices\n4 seeded\
   \ hamburger buns or your favorite hamburger bun"
 intrash: 0
-meal_notes:
-- 2020-10-03-dinner
 mine: null
 name: The Ultimate Grilled Chicken Sandwich
-p_recipe_id: 375
+p_recipe_id: 186
 permalink: /recipes/the-ultimate-grilled-chicken-sandwich
 photo_large: null
 photo_thumb: the-ultimate-grilled-chicken-sandwich-thumb.jpg

@@ -2,8 +2,8 @@
 title: "Cookpad Beef Tongue Stew"
 filename: "cookpad-beef-tongue-stew"
 cook_time: null
-created: '2021-01-09 12:09:58'
-created_ts: 1610194198
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -22,7 +22,7 @@ ingredients: '1 Beef tongue
 intrash: 0
 mine: null
 name: Cookpad Beef Tongue Stew
-p_recipe_id: 447
+p_recipe_id: 317
 permalink: /recipes/cookpad-beef-tongue-stew
 photo_large: null
 photo_thumb: cookpad-beef-tongue-stew-thumb.jpg

@@ -1,11 +1,11 @@
 ---
 title: "Stovetop Roast Chicken with Lemon-Herb Sauce"
 filename: "stovetop-roast-chicken-with-lemon-herb-sauce"
-cook_time: ''
-created: '2020-04-02 17:15:00'
-created_ts: 1585847700
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/1651_1000547-cvr-eas-sear-chk-lmn-0011-article
 ingredients: "GATHER YOUR INGREDIENTS\nChicken\n3 \xBD pounds bone-in, skin-on chicken\
@@ -17,16 +17,14 @@ ingredients: "GATHER YOUR INGREDIENTS\nChicken\n3 \xBD pounds bone-in, skin-on c
   1 \xBD tablespoons minced fresh chives\n1 tablespoon cold unsalted butter\nSalt\
   \ and ground black pepper"
 intrash: 0
-meal_notes:
-- 2020-04-17-dinner
 mine: null
 name: Stovetop Roast Chicken with Lemon-Herb Sauce
-p_recipe_id: 84
+p_recipe_id: 61
 permalink: /recipes/stovetop-roast-chicken-with-lemon-herb-sauce
 photo_large: null
 photo_thumb: stovetop-roast-chicken-with-lemon-herb-sauce-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Serves 4
 slug: stovetop-roast-chicken-with-lemon-herb-sauce
@@ -34,7 +32,7 @@ source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/4508-stovetop-roast-chicken-with-lemon-herb-sauce?incode=MCSCM00L0&ref=new_search_experience_14
 tags:
 - chicken
-total_time: ''
+total_time: null
 type: null
 uid: 1CC279D0-B28C-4D56-89AD-5F9651D51E75-9482-0000064D90F7DDA4
 ---

@@ -2,10 +2,10 @@
 title: "Garlic Butter Fish"
 filename: "garlic-butter-fish"
 cook_time: 10 minutes
-created: '2020-05-15 18:23:40'
-created_ts: 1589567020
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://rasamalaysia.com/wp-content/uploads/2019/02/garlic-butter-fish5-364x546.jpg
 ingredients: '12 oz. firm white fish fillet (halibut, cod or pollock fillet)
@@ -32,11 +32,9 @@ ingredients: '12 oz. firm white fish fillet (halibut, cod or pollock fillet)
 
   1 tablespoon chopped parsley'
 intrash: 0
-meal_notes:
-- 2020-05-15-dinner
 mine: null
 name: Garlic Butter Fish
-p_recipe_id: 161
+p_recipe_id: 343
 permalink: /recipes/garlic-butter-fish
 photo_large: null
 photo_thumb: garlic-butter-fish-thumb.jpg
@@ -48,9 +46,9 @@ slug: garlic-butter-fish
 source: rasamalaysia.com
 source_url: https://rasamalaysia.com/garlic-butter-fish/?utm_campaign=yummly&utm_medium=yummly&utm_source=yummly
 tags:
-- fish
 - white fish
-total_time: ''
+- fish
+total_time: null
 type: null
 uid: B07937CB-BFC1-4141-AB33-9EA274BA7FA5-13891-0001025AF4838E50
 ---

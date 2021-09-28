@@ -1,11 +1,11 @@
 ---
 title: "Bolognese Sauce"
 filename: "bolognese-sauce"
-cook_time: ''
-created: '2020-09-11 21:58:08'
-created_ts: 1599861488
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "1 Tbsp olive oil\n1 \xBD cups diced yellow onion\n\xBD cup diced carrots\n\
@@ -16,31 +16,27 @@ ingredients: "1 Tbsp olive oil\n1 \xBD cups diced yellow onion\n\xBD cup diced c
   \ and freshly-ground black pepper\n"
 intrash: 0
 meal_notes:
-- 2020-09-11-dinner
-- 2020-09-16-dinner
-- 2020-12-21-dinner
-- 2020-12-27-dinner
-- 2021-01-18-dinner
-- 2021-01-25-dinner
-- 2021-02-07-dinner
-- 2021-02-17-dinner
-- 2021-02-25-dinner
-- 2021-03-06-dinner
-- 2021-03-17-dinner
-- 2021-04-04-pantry
-- 2021-04-15-lunch
-- 2021-04-25-dinner
-- 2021-05-07-dinner
-- 2021-05-15-dinner
-- 2021-05-26-dinner
-- 2021-06-06-dinner
-- 2021-06-12-dinner
-- 2021-06-27-dinner
-- 2021-06-30-dinner
+- 2021-04-04-lunch
+- 2021-07-17-dinner
+- 2021-07-31-dinner
+- 2021-07-24-dinner
 - 2021-07-08-dinner
+- 2021-06-30-dinner
+- 2021-06-27-dinner
+- 2021-06-12-dinner
+- 2021-05-26-dinner
+- 2021-05-15-dinner
+- 2021-05-07-dinner
+- 2021-04-25-dinner
+- 2021-04-15-lunch
+- 2021-03-17-dinner
+- 2021-03-06-dinner
+- 2021-02-25-dinner
+- 2021-02-17-dinner
+- 2021-02-07-dinner
 mine: 1
 name: Bolognese Sauce
-p_recipe_id: 350
+p_recipe_id: 254
 permalink: /recipes/bolognese-sauce
 photo_large: bolognese-sauce-large.jpg
 photo_thumb: bolognese-sauce-thumb.jpg
@@ -61,9 +57,9 @@ photos_dict:
   '7': bolognese-sauce-7.jpg
   '8': bolognese-sauce-8.jpg
   '9': bolognese-sauce-9.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: bolognese-sauce
 source: null
 source_url: null
@@ -72,7 +68,7 @@ tags:
 - beef
 - italian
 - sauce
-total_time: ''
+total_time: null
 type: null
 uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1
 ---

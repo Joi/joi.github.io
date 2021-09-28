@@ -2,8 +2,8 @@
 title: "Crispy Parmesan Baked Chicken with Veggies (Milanese)"
 filename: "crispy-parmesan-baked-chicken-with-veggies-milanese"
 cook_time: 25 mins
-created: '2020-11-16 21:09:56'
-created_ts: 1605560996
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -38,11 +38,9 @@ ingredients: 'For The Chicken:
 
   1 pound | 500 g green beans , cut into thirds'
 intrash: 0
-meal_notes:
-- 2020-11-16-dinner
 mine: null
 name: Crispy Parmesan Baked Chicken with Veggies (Milanese)
-p_recipe_id: 412
+p_recipe_id: 296
 permalink: /recipes/crispy-parmesan-baked-chicken-with-veggies-milanese
 photo_large: null
 photo_thumb: crispy-parmesan-baked-chicken-with-veggies-milanese-thumb.jpg

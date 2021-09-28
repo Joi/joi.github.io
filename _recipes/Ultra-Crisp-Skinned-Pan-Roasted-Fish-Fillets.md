@@ -1,35 +1,33 @@
 ---
 title: "Ultra-Crisp-Skinned Pan-Roasted Fish Fillets"
 filename: "ultra-crisp-skinned-pan-roasted-fish-fillets"
-cook_time: ''
-created: '2020-07-07 23:54:06'
-created_ts: 1594166046
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "4 skin-on fish fillets (about 6 ounces each)\rKosher salt and freshly\
   \ ground black pepper\r2 tablespoons vegetable or canola oil"
 intrash: 0
-meal_notes:
-- 2020-07-07-dinner
 mine: null
 name: Ultra-Crisp-Skinned Pan-Roasted Fish Fillets
-p_recipe_id: 236
+p_recipe_id: 202
 permalink: /recipes/ultra-crisp-skinned-pan-roasted-fish-fillets
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
 servings: '4'
 slug: ultra-crisp-skinned-pan-roasted-fish-fillets
 source: Food Lab
 source_url: null
 tags:
-- salmon
 - halibut
-total_time: ''
+- salmon
+total_time: null
 type: null
 uid: 64FEAA52-EFFC-4743-9B48-B166957247B3-631-00024AE4C1521CED
 ---

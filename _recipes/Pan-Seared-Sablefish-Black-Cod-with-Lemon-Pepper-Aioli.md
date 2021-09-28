@@ -2,8 +2,8 @@
 title: "Pan-Seared Sablefish (Black Cod) with Lemon Pepper Aioli"
 filename: "pan-seared-sablefish-black-cod-with-lemon-pepper-aioli"
 cook_time: 10 min
-created: '2020-12-05 17:10:53'
-created_ts: 1607188253
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -17,11 +17,9 @@ ingredients: "For the Aioli:\n1 egg yolk\n2 tablespoons Dijon mustard (we love E
   \ cut in 2-inch pieces\n3 tablespoons olive oil\n2 garlic cloves, minced\n\xBC teaspoon\
   \ red pepper flakes\n2 tablespoons lemon juice\nSalt and pepper, to taste"
 intrash: 0
-meal_notes:
-- 2020-12-05-dinner
 mine: null
 name: Pan-Seared Sablefish (Black Cod) with Lemon Pepper Aioli
-p_recipe_id: 425
+p_recipe_id: 226
 permalink: /recipes/pan-seared-sablefish-black-cod-with-lemon-pepper-aioli
 photo_large: null
 photo_thumb: pan-seared-sablefish-black-cod-with-lemon-pepper-aioli-thumb.jpg

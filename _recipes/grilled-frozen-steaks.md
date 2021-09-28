@@ -2,8 +2,8 @@
 title: "Grilled Frozen Steaks"
 filename: "grilled-frozen-steaks"
 cook_time: null
-created: '2020-02-03 15:33:09'
-created_ts: 1580743989
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -12,7 +12,7 @@ ingredients: null
 intrash: 0
 mine: null
 name: Grilled Frozen Steaks
-p_recipe_id: 31
+p_recipe_id: 365
 permalink: /recipes/grilled-frozen-steaks
 photo_large: null
 photo_thumb: grilled-frozen-steaks-thumb.jpg
@@ -24,9 +24,9 @@ slug: grilled-frozen-steaks
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/8872-grilled-frozen-steaks
 tags:
-- grill
-- beef
 - steaks
+- beef
+- grill
 total_time: null
 type: null
 uid: B9D39425-8C39-45F0-856B-99C3DC05E181-408-00004E2AFBF58157

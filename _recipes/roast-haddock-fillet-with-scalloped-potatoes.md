@@ -2,8 +2,8 @@
 title: "Roast Haddock Fillet with Scalloped Potatoes"
 filename: "roast-haddock-fillet-with-scalloped-potatoes"
 cook_time: 45 minutes
-created: '2020-03-28 14:17:05'
-created_ts: 1585405025
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -32,7 +32,7 @@ ingredients: '4 haddock fillets, weighing about 7 ounces each, skin on
 intrash: 0
 mine: null
 name: Roast Haddock Fillet with Scalloped Potatoes
-p_recipe_id: 67
+p_recipe_id: 396
 permalink: /recipes/roast-haddock-fillet-with-scalloped-potatoes
 photo_large: null
 photo_thumb: roast-haddock-fillet-with-scalloped-potatoes-thumb.jpg
@@ -44,8 +44,8 @@ slug: roast-haddock-fillet-with-scalloped-potatoes
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/7083-roast-haddock-fillet-with-scalloped-potatoes?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
 tags:
-- fish
 - white fish
+- fish
 total_time: null
 type: null
 uid: CDA05BA7-DD41-4943-AEE6-111555D36C4D-38252-00015A0DAE34F709

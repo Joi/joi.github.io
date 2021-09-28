@@ -1,11 +1,11 @@
 ---
 title: "Shiozake (Grilled Salted Salmon)"
 filename: "shiozake-grilled-salted-salmon"
-cook_time: ''
-created: '2020-06-13 13:33:22'
-created_ts: 1592055202
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: 'salmon, cut into 1" thick fillets
@@ -14,24 +14,22 @@ ingredients: 'salmon, cut into 1" thick fillets
 
   oil'
 intrash: 0
-meal_notes:
-- 2020-06-12-dinner
 mine: null
 name: Shiozake (Grilled Salted Salmon)
-p_recipe_id: 186
+p_recipe_id: 297
 permalink: /recipes/shiozake-grilled-salted-salmon
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: shiozake-grilled-salted-salmon
 source: based on japanesecooking101.com
 source_url: https://www.japanesecooking101.com/shiozake-recipe/
 tags:
 - salmon
-total_time: ''
+total_time: null
 type: null
 uid: 9974D32C-0BB9-41D2-B812-E24E231B5E43-1358-000128EEF8ACC2CA
 ---

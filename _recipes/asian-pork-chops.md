@@ -2,8 +2,8 @@
 title: "Asian Pork Chops"
 filename: "asian-pork-chops"
 cook_time: 45 minutes
-created: '2021-04-07 11:24:49'
-created_ts: 1617794689
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -25,11 +25,11 @@ ingredients: '1/4 cup soy sauce (60 ml)
   2 tablespoons vegetable oil'
 intrash: 0
 meal_notes:
-- 2021-04-07-dinner
 - 2021-04-28-dinner
+- 2021-04-07-dinner
 mine: null
 name: Asian Pork Chops
-p_recipe_id: 510
+p_recipe_id: 99
 permalink: /recipes/asian-pork-chops
 photo_large: asian-pork-chops-large.jpg
 photo_thumb: asian-pork-chops-thumb.jpg
@@ -42,8 +42,8 @@ slug: asian-pork-chops
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/asian-seared-pork-chops/
 tags:
-- chinese
 - pork chops
+- chinese
 total_time: null
 type: null
 uid: 3149D158-4144-4EF6-B48D-984CAEFE7810

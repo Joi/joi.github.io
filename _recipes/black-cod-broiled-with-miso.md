@@ -2,8 +2,8 @@
 title: "Black Cod Broiled with Miso"
 filename: "black-cod-broiled-with-miso"
 cook_time: 20 minutes
-created: '2020-11-13 01:54:31'
-created_ts: 1605232471
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -13,7 +13,7 @@ ingredients: "\xBD cup sugar\n1 cup miso, preferably dark\n\xBD cup mirin, sake 
 intrash: 0
 mine: null
 name: Black Cod Broiled with Miso
-p_recipe_id: 411
+p_recipe_id: 178
 permalink: /recipes/black-cod-broiled-with-miso
 photo_large: null
 photo_thumb: black-cod-broiled-with-miso-thumb.jpg

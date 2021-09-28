@@ -2,10 +2,10 @@
 title: "Poached Skate Wings with Tomatoes and Olive Oil"
 filename: "poached-skate-wings-with-tomatoes-and-olive-oil"
 cook_time: 20 minutes
-created: '2020-05-27 12:45:51'
-created_ts: 1590583551
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/4dd3952/assets/NYTCookingLogo.png
 ingredients: "1 \xBD cups dry white wine\n1 small onion, sliced\n1 bay leaf\n3 tablespoons\
@@ -16,12 +16,12 @@ ingredients: "1 \xBD cups dry white wine\n1 small onion, sliced\n1 bay leaf\n3 t
 intrash: 0
 mine: null
 name: Poached Skate Wings with Tomatoes and Olive Oil
-p_recipe_id: 173
+p_recipe_id: 120
 permalink: /recipes/poached-skate-wings-with-tomatoes-and-olive-oil
 photo_large: null
 photo_thumb: poached-skate-wings-with-tomatoes-and-olive-oil-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 servings
 slug: poached-skate-wings-with-tomatoes-and-olive-oil
@@ -29,7 +29,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/3125-poached-skate-wings-with-tomatoes-and-olive-oil?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=9
 tags:
 - skate wings
-total_time: ''
+total_time: null
 type: null
 uid: 38972EB7-50F9-4D4B-81BF-19BF6F992A24-29546-00034666A2ACDE37
 ---

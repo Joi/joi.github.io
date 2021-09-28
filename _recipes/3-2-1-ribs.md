@@ -2,8 +2,8 @@
 title: "3 2 1 Ribs"
 filename: "3-2-1-ribs"
 cook_time: 6 hrs
-created: '2020-09-18 21:21:11'
-created_ts: 1600464071
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -22,7 +22,7 @@ ingredients: '1 rack baby back ribs
 intrash: 0
 mine: null
 name: 3 2 1 Ribs
-p_recipe_id: 364
+p_recipe_id: 262
 permalink: /recipes/3-2-1-ribs
 photo_large: null
 photo_thumb: 3-2-1-ribs-thumb.jpg

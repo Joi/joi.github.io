@@ -2,10 +2,10 @@
 title: "Slow Roast Pork Shoulder with Herb Rub"
 filename: "slow-roast-pork-shoulder-with-herb-rub"
 cook_time: 12 hours
-created: '2020-06-13 15:18:19'
-created_ts: 1592061499
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2014/04/03/dining/Slow-Roast-Pork-Shoulder/Slow-Roast-Pork-Shoulder-articleLarge.jpg
 ingredients: "6 tablespoons mixed finely chopped robust herbs (like thyme, rosemary,\
@@ -14,16 +14,14 @@ ingredients: "6 tablespoons mixed finely chopped robust herbs (like thyme, rosem
   \ pork shoulder, skin on, boned\n5 bay leaves\n1 lemon zest\n1 tsp fennel seeds\n\
   Fennel fronds\nRosemary applesauce\nCrusty bread rolls, for serving"
 intrash: 0
-meal_notes:
-- 2020-06-18-lunch
 mine: null
 name: Slow Roast Pork Shoulder with Herb Rub
-p_recipe_id: 187
+p_recipe_id: 440
 permalink: /recipes/slow-roast-pork-shoulder-with-herb-rub
 photo_large: null
 photo_thumb: slow-roast-pork-shoulder-with-herb-rub-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Yield 10 servings
 slug: slow-roast-pork-shoulder-with-herb-rub
@@ -31,7 +29,7 @@ source: Based on NYT
 source_url: null
 tags:
 - pork shoulder
-total_time: ''
+total_time: null
 type: null
 uid: E02D444F-C24D-47F0-B290-52D1C0EB21F6-1358-00012EBF4535147A
 ---

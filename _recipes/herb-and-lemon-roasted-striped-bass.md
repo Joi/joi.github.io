@@ -2,8 +2,8 @@
 title: "Herb and Lemon Roasted Striped Bass"
 filename: "herb-and-lemon-roasted-striped-bass"
 cook_time: 25 mins
-created: '2020-07-20 23:30:58'
-created_ts: 1595287858
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -24,7 +24,7 @@ ingredients: '4 (6-ounce) striped bass fillets
 intrash: 0
 mine: null
 name: Herb and Lemon Roasted Striped Bass
-p_recipe_id: 266
+p_recipe_id: 180
 permalink: /recipes/herb-and-lemon-roasted-striped-bass
 photo_large: null
 photo_thumb: herb-and-lemon-roasted-striped-bass-thumb.jpg

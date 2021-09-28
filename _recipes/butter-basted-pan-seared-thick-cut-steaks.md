@@ -2,10 +2,10 @@
 title: "Butter-Basted, Pan-Seared Thick-Cut Steaks"
 filename: "butter-basted-pan-seared-thick-cut-steaks"
 cook_time: 25 minutes (or 1 hour 10 minutes to 3 days, if resting)
-created: '2020-04-21 18:36:16'
-created_ts: 1587494176
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.seriouseats.com/2018/09/20180822-butter-basting-steak-fish-liz-clayman-9.jpg
 ingredients: '1 large bone-in T-bone or ribeye steak (see note)
@@ -20,12 +20,9 @@ ingredients: '1 large bone-in T-bone or ribeye steak (see note)
 
   1/2 cup finely sliced shallots (about 1 large; optional)'
 intrash: 0
-meal_notes:
-- 2020-04-21-dinner
-- 2020-05-20-dinner
 mine: null
 name: Butter-Basted, Pan-Seared Thick-Cut Steaks
-p_recipe_id: 121
+p_recipe_id: 41
 permalink: /recipes/butter-basted-pan-seared-thick-cut-steaks
 photo_large: null
 photo_thumb: butter-basted-pan-seared-thick-cut-steaks-thumb.jpg
@@ -37,10 +34,10 @@ slug: butter-basted-pan-seared-thick-cut-steaks
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2012/12/butter-basted-pan-seared-steaks-recipe.html
 tags:
-- beef
-- bison
 - steaks
-total_time: ''
+- bison
+- beef
+total_time: null
 type: null
 uid: 1274CF3F-4DDF-41CF-8CA0-B90D39F94A99-89150-0000F2DC0488DFB5
 ---

@@ -2,8 +2,8 @@
 title: "Pasta with White Truffles"
 filename: "pasta-with-white-truffles"
 cook_time: 20 minutes
-created: '2020-11-25 21:09:52'
-created_ts: 1606338592
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -12,11 +12,9 @@ ingredients: "1 \xBD pounds fresh pasta (capellini or fettuccine)\n\xBD cup unsa
   \ butter\n1 \xBD cups freshly grated Parmesan cheese\n1 cup heavy cream\nCoarse\
   \ salt and freshly ground pepper to taste\nAbout 1 ounce white truffle"
 intrash: 0
-meal_notes:
-- 2020-11-25-dinner
 mine: null
 name: Pasta with White Truffles
-p_recipe_id: 418
+p_recipe_id: 379
 permalink: /recipes/pasta-with-white-truffles
 photo_large: pasta-with-white-truffles-large.jpg
 photo_thumb: pasta-with-white-truffles-thumb.jpg

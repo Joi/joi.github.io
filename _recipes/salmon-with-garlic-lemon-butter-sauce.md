@@ -2,10 +2,10 @@
 title: "Salmon with Garlic Lemon Butter Sauce"
 filename: "salmon-with-garlic-lemon-butter-sauce"
 cook_time: 10 minutes
-created: '2020-08-21 20:55:05'
-created_ts: 1598043305
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '4 (6 oz) skinless salmon fillets (about 1-inch thick)
@@ -28,12 +28,9 @@ ingredients: '4 (6 oz) skinless salmon fillets (about 1-inch thick)
 
   Lemon slices for garnish (optional)'
 intrash: 0
-meal_notes:
-- 2020-08-21-dinner
-- 2021-01-26-dinner
 mine: null
 name: Salmon with Garlic Lemon Butter Sauce
-p_recipe_id: 319
+p_recipe_id: 150
 permalink: /recipes/salmon-with-garlic-lemon-butter-sauce
 photo_large: salmon-with-garlic-lemon-butter-sauce-large.jpg
 photo_thumb: salmon-with-garlic-lemon-butter-sauce-thumb.jpg
@@ -47,7 +44,7 @@ source: cookingclassy.com
 source_url: https://www.cookingclassy.com/skillet-seared-salmon-with-garlic-lemon-butter-sauce/
 tags:
 - salmon
-total_time: ''
+total_time: null
 type: null
 uid: 4C57E632-D300-4A3D-9314-48D2B086C607-2236-0000011E793EE7EE
 ---

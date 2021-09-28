@@ -2,10 +2,10 @@
 title: "Pressure Cooker Halibut Fillets with Tomatoes and Olives"
 filename: "pressure-cooker-halibut-fillets-with-tomatoes-and-olives"
 cook_time: 7m
-created: '2020-05-14 13:32:41'
-created_ts: 1589463161
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '2 tablespoons olive oil
@@ -28,11 +28,9 @@ ingredients: '2 tablespoons olive oil
 
   cashew nuts'
 intrash: 0
-meal_notes:
-- 2020-05-14-dinner
 mine: null
 name: Pressure Cooker Halibut Fillets with Tomatoes and Olives
-p_recipe_id: 145
+p_recipe_id: 434
 permalink: /recipes/pressure-cooker-halibut-fillets-with-tomatoes-and-olives
 photo_large: pressure-cooker-halibut-fillets-with-tomatoes-and-olives-large.jpg
 photo_thumb: pressure-cooker-halibut-fillets-with-tomatoes-and-olives-thumb.jpg
@@ -45,10 +43,10 @@ slug: pressure-cooker-halibut-fillets-with-tomatoes-and-olives
 source: magicskillet.com
 source_url: https://magicskillet.com/recipe/pressure-cooker-halibut-fillets-tomatoes-olives/
 tags:
-- white fish
 - halibut
 - pressure cooker
-total_time: ''
+- white fish
+total_time: null
 type: null
 uid: DD90592C-D8D9-4491-B2DF-FDF7CD761B7E-13891-0000A3E8ACE2155D
 ---

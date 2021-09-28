@@ -1,11 +1,11 @@
 ---
 title: "Guacamole"
 filename: "guacamole"
-cook_time: ''
-created: '2021-01-23 17:26:15'
-created_ts: 1611422775
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "2 avocados, ripe\n\xBD small onion, finely diced\n1 tomatoes, diced\n\
@@ -13,30 +13,29 @@ ingredients: "2 avocados, ripe\n\xBD small onion, finely diced\n1 tomatoes, dice
   \ finely diced\n1 garlic cloves, minced\n\xBD lime, juiced\n\xBD teaspoon sea salt"
 intrash: 0
 meal_notes:
-- 2021-01-23-snacks
-- 2021-04-18-dinner
 - 2021-05-03-dinner
+- 2021-04-18-dinner
 mine: 1
 name: Guacamole
-p_recipe_id: 460
+p_recipe_id: 339
 permalink: /recipes/guacamole
 photo_large: guacamole-large.jpg
 photo_thumb: guacamole-thumb.jpg
 photos_dict:
   '1': guacamole-1.jpg
   '2': guacamole-2.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: guacamole
 source: null
 source_url: null
 tags:
-- spread
-- sauce
 - mexican
 - avocado
-total_time: ''
+- spread
+- sauce
+total_time: null
 type: null
 uid: AFD51E5D-4082-4BC2-9342-614387032D80-60918-00006082836BD06F
 ---

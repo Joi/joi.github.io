@@ -2,8 +2,8 @@
 title: "Instant Pot Coq Au Vin"
 filename: "instant-pot-coq-au-vin"
 cook_time: 45 minutes
-created: '2020-09-17 15:26:27'
-created_ts: 1600356387
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -34,7 +34,7 @@ ingredients: '6 strips bacon chopped into small pieces
 intrash: 0
 mine: null
 name: Instant Pot Coq Au Vin
-p_recipe_id: 363
+p_recipe_id: 453
 permalink: /recipes/instant-pot-coq-au-vin
 photo_large: null
 photo_thumb: instant-pot-coq-au-vin-thumb.jpg

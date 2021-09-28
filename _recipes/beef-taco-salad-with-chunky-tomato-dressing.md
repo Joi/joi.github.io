@@ -2,8 +2,8 @@
 title: "Beef Taco Salad with Chunky Tomato Dressing"
 filename: "beef-taco-salad-with-chunky-tomato-dressing"
 cook_time: 12 min
-created: '2020-12-26 15:00:36'
-created_ts: 1608994836
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: Easy
 favorite: 0
@@ -44,7 +44,7 @@ ingredients: 'For the Meat:
 intrash: 0
 mine: null
 name: Beef Taco Salad with Chunky Tomato Dressing
-p_recipe_id: 440
+p_recipe_id: 292
 permalink: /recipes/beef-taco-salad-with-chunky-tomato-dressing
 photo_large: null
 photo_thumb: beef-taco-salad-with-chunky-tomato-dressing-thumb.jpg
@@ -56,9 +56,9 @@ slug: beef-taco-salad-with-chunky-tomato-dressing
 source: foodnetwork.com
 source_url: https://www.foodnetwork.com/recipes/ellie-krieger/beef-taco-salad-with-chunky-tomato-dressing-recipe-1957255
 tags:
-- salad
-- ground beef
 - mexican
+- ground beef
+- salad
 total_time: null
 type: null
 uid: 98A94A41-774B-4C50-A74A-B4CDBBABCF3F-1607-0000008481622952

@@ -2,10 +2,10 @@
 title: "Sole Meunière"
 filename: "sole-meuniere"
 cook_time: 20 minutes
-created: '2020-07-31 11:14:42'
-created_ts: 1596194082
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2017/01/13/dining/13COOKING-SOLE-MEUNIERE2/13COOKING-SOLE-MEUNIERE2-videoHpMedium.jpg
 ingredients: "\xBD cup all-purpose flour\n6 4-ounce skinless, boneless sole or other\
@@ -14,17 +14,14 @@ ingredients: "\xBD cup all-purpose flour\n6 4-ounce skinless, boneless sole or o
   \ butter, diced, at room temperature\n3 tablespoons minced parsley\n1 lemon, cut\
   \ into wedges, for serving"
 intrash: 0
-meal_notes:
-- 2020-07-31-dinner
-- 2021-01-15-dinner
 mine: null
 name: "Sole Meuni\xE8re"
-p_recipe_id: 282
+p_recipe_id: 275
 permalink: /recipes/sole-meuniere
 photo_large: null
 photo_thumb: sole-meuniere-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 6 servings
 slug: sole-meuniere
@@ -32,7 +29,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018509-sole-meuniere
 tags:
 - sole
-total_time: ''
+total_time: null
 type: null
 uid: 8BD3439A-B5C7-4F08-AB16-6B7FAC37FF17-22830-00001001DED2BBE9
 ---

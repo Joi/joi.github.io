@@ -2,8 +2,8 @@
 title: "Coq Au Vin"
 filename: "coq-au-vin"
 cook_time: null
-created: '2020-04-02 17:18:10'
-created_ts: 1585847890
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -24,7 +24,7 @@ ingredients: "GATHER YOUR INGREDIENTS\n3 pounds chicken drumsticks (about 4 legs
 intrash: 0
 mine: null
 name: Coq Au Vin
-p_recipe_id: 85
+p_recipe_id: 234
 permalink: /recipes/coq-au-vin
 photo_large: null
 photo_thumb: coq-au-vin-thumb.jpg

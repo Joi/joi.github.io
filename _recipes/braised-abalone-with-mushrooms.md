@@ -2,10 +2,10 @@
 title: "Braised Abalone with Mushrooms"
 filename: "braised-abalone-with-mushrooms"
 cook_time: 5 hours 10 minutes
-created: '2021-04-23 11:10:13'
-created_ts: 1619176213
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://i0.wp.com/www.wokandkin.com/wp-content/uploads/2020/10/Braised-Abalone-with-Mushrooms-saved-for-web.png?resize=200%2C300&ssl=1
 ingredients: '1 kg abalone
@@ -28,13 +28,13 @@ ingredients: '1 kg abalone
 
   1 tbsp chicken bouillon powder
 
-  1 L / 4 1/4 cup water (or to preference)'
+  1 L / 4 1/4 US cup water (or to preference)'
 intrash: 0
 meal_notes:
 - 2021-04-23-dinner
 mine: null
 name: Braised Abalone with Mushrooms
-p_recipe_id: 521
+p_recipe_id: 87
 permalink: /recipes/braised-abalone-with-mushrooms
 photo_large: null
 photo_thumb: braised-abalone-with-mushrooms-thumb.jpg
@@ -48,7 +48,7 @@ source_url: https://www.wokandkin.com/braised-abalone-with-mushrooms/
 tags:
 - chinese
 - abalone
-total_time: ''
+total_time: null
 type: null
 uid: 2C7D1A95-70E2-4E76-A31B-F3C9352589CC
 ---
@@ -71,6 +71,6 @@ uid: 2C7D1A95-70E2-4E76-A31B-F3C9352589CC
 <li>2 tsp salt (or to taste)</li>
 <li>1 1/2 tbsp sugar (or to taste)</li>
 <li>1 tbsp chicken bouillon powder</li>
-<li>1 L / 4 1/4 cup water (or to preference)</li>
+<li>1 L / 4 1/4 US cup water (or to preference)</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>

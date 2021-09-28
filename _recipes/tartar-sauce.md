@@ -1,10 +1,10 @@
 ---
 title: "Tartar Sauce"
 filename: "tartar-sauce"
-cook_time: ''
-created: '2021-04-02 15:02:24'
-created_ts: 1617375744
-description: ''
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
 difficulty: Easy
 favorite: 0
 image_url: null
@@ -16,7 +16,7 @@ meal_notes:
 - 2021-04-02-dinner
 mine: 1
 name: Tartar Sauce
-p_recipe_id: 502
+p_recipe_id: 147
 permalink: /recipes/tartar-sauce
 photo_large: tartar-sauce-large.jpg
 photo_thumb: tartar-sauce-thumb.jpg
@@ -24,15 +24,15 @@ photos_dict:
   '1': tartar-sauce-1.jpg
   '2': tartar-sauce-2.jpg
   '3': tartar-sauce-3.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: tartar-sauce
 source: null
 source_url: null
 tags:
 - sauce
-total_time: ''
+total_time: null
 type: null
 uid: 4A1F6CE8-57F3-4270-ADEE-96C2FB5BA09E-52325-0002C7030227B47C
 ---

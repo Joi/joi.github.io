@@ -2,10 +2,10 @@
 title: "Red Wine-Braised Lamb Shanks"
 filename: "red-wine-braised-lamb-shanks"
 cook_time: 2 hrs 40 mins
-created: '2020-12-02 19:18:45'
-created_ts: 1606936725
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2015%2F01%2FACF36.jpg&q=85
 ingredients: '2 tablespoons extra-virgin olive oil
@@ -32,11 +32,9 @@ ingredients: '2 tablespoons extra-virgin olive oil
 
   Maple-Glazed Root Vegetables and Braised Red Cabbage, for serving'
 intrash: 0
-meal_notes:
-- 2020-12-03-dinner
 mine: null
 name: Red Wine-Braised Lamb Shanks
-p_recipe_id: 424
+p_recipe_id: 484
 permalink: /recipes/red-wine-braised-lamb-shanks
 photo_large: null
 photo_thumb: red-wine-braised-lamb-shanks-thumb.jpg
@@ -49,7 +47,7 @@ source: foodandwine.com
 source_url: https://www.foodandwine.com/recipes/red-wine-braised-lamb-shanks
 tags:
 - lamb
-total_time: ''
+total_time: null
 type: null
 uid: FCB0B0B7-1135-4CC2-B159-BF0FAE529699-12026-0000D92938D29AC8
 ---

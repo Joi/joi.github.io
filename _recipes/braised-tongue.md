@@ -2,8 +2,8 @@
 title: "Braised Tongue"
 filename: "braised-tongue"
 cook_time: 5 hours
-created: '2021-01-03 16:21:40'
-created_ts: 1609690900
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -14,11 +14,9 @@ ingredients: "3 tablespoons neutral oil, like grapeseed or vegetable\n2 Spanish 
   \ leaves\n\xBD tablespoon black peppercorns\n4 tablespoons red-wine vinegar\n1 tablespoon\
   \ kosher salt\nSauce gribiche (see recipe)\nFresh parsley\nExtra-virgin olive oil"
 intrash: 0
-meal_notes:
-- 2021-01-09-dinner
 mine: null
 name: Braised Tongue
-p_recipe_id: 445
+p_recipe_id: 191
 permalink: /recipes/braised-tongue
 photo_large: null
 photo_thumb: braised-tongue-thumb.jpg

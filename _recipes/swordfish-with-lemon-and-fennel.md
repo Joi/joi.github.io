@@ -2,10 +2,10 @@
 title: "Swordfish with Lemon and Fennel"
 filename: "swordfish-with-lemon-and-fennel"
 cook_time: 15 minutes
-created: '2020-07-05 23:28:22'
-created_ts: 1593991702
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2014/04/03/dining/Swordfish-With-Lemon-and-Fennel/Swordfish-With-Lemon-and-Fennel-articleLarge.jpg
 ingredients: "1 \xBD pounds swordfish steaks, about 1-inch thick\nKosher salt and\
@@ -16,12 +16,12 @@ ingredients: "1 \xBD pounds swordfish steaks, about 1-inch thick\nKosher salt an
 intrash: 0
 mine: null
 name: Swordfish with Lemon and Fennel
-p_recipe_id: 233
+p_recipe_id: 349
 permalink: /recipes/swordfish-with-lemon-and-fennel
 photo_large: null
 photo_thumb: swordfish-with-lemon-and-fennel-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 servings
 slug: swordfish-with-lemon-and-fennel
@@ -29,7 +29,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1015721-swordfish-with-lemon-and-fennel?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=8
 tags:
 - swordfish
-total_time: ''
+total_time: null
 type: null
 uid: B4B02125-97BD-4F86-84B8-94CB4F5FC435-631-0001AC5341C84507
 ---

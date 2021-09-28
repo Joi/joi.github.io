@@ -2,8 +2,8 @@
 title: "How to Make the Best BBQ Ribs You Ever Tasted - On a BBQ the Way Champions Do It"
 filename: "how-to-make-the-best-bbq-ribs-you-ever-tasted-on-a-bbq-the-way-champions-do-it"
 cook_time: 4 to 7 hours depending on the cut you choose
-created: '2020-10-10 19:46:51'
-created_ts: 1602359211
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -15,7 +15,7 @@ intrash: 0
 mine: null
 name: How to Make the Best BBQ Ribs You Ever Tasted - On a BBQ the Way Champions Do
   It
-p_recipe_id: 379
+p_recipe_id: 135
 permalink: /recipes/how-to-make-the-best-bbq-ribs-you-ever-tasted-on-a-bbq-the-way-champions-do-it
 photo_large: null
 photo_thumb: how-to-make-the-best-bbq-ribs-you-ever-tasted-on-a-bbq-the-way-champions-do-it-thumb.jpg

@@ -1,35 +1,32 @@
 ---
 title: "Rouille"
 filename: "rouille"
-cook_time: ''
-created: '2020-10-09 00:47:47'
-created_ts: 1602204467
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "1 pinch saffron threads\n2 Tbsp fsh stock\n4 cloves garlic, peeled and\
   \ minced\n1 cup mayonnaise\n\xBD tsp. sweet paprika\n1 pinch cayenne\nSalt"
 intrash: 0
-meal_notes:
-- 2020-10-08-dinner
-- 2020-10-09-dinner
 mine: 1
 name: Rouille
-p_recipe_id: 378
+p_recipe_id: 373
 permalink: /recipes/rouille
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: rouille
 source: null
 source_url: null
 tags:
 - sauce
-total_time: ''
+total_time: null
 type: null
 uid: C17F174D-81B0-4847-9396-DE2E5E92EF57-79931-0001526F038511AC
 ---

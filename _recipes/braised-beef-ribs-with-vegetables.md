@@ -2,10 +2,10 @@
 title: "Braised Beef Ribs with Vegetables"
 filename: "braised-beef-ribs-with-vegetables"
 cook_time: 3 hours
-created: '2020-09-02 02:49:27'
-created_ts: 1599014967
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/36e6500/assets/13.png?1
 ingredients: '3 tablespoons olive oil
@@ -42,12 +42,12 @@ ingredients: '3 tablespoons olive oil
 intrash: 0
 mine: null
 name: Braised Beef Ribs with Vegetables
-p_recipe_id: 332
+p_recipe_id: 8
 permalink: /recipes/braised-beef-ribs-with-vegetables
 photo_large: null
 photo_thumb: braised-beef-ribs-with-vegetables-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 servings
 slug: braised-beef-ribs-with-vegetables
@@ -55,7 +55,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1015512-braised-beef-ribs-with-vegetables
 tags:
 - beef back ribs
-total_time: ''
+total_time: null
 type: null
 uid: 023D2ECA-4B68-4A32-A321-5DDF7A97A8AD-13002-0005AF7A394A6362
 ---

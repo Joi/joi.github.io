@@ -2,10 +2,10 @@
 title: "Chicken with Almonds and Green Olives"
 filename: "chicken-with-almonds-and-green-olives"
 cook_time: 1 hour 20 minutes
-created: '2020-04-02 17:11:21'
-created_ts: 1585847481
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/b21c196/assets/NYTCookingLogo.png
 ingredients: "6 tablespoons olive oil\n\xBD cup blanched almonds (preferably Marcona)\n\
@@ -16,12 +16,12 @@ ingredients: "6 tablespoons olive oil\n\xBD cup blanched almonds (preferably Mar
 intrash: 0
 mine: null
 name: Chicken with Almonds and Green Olives
-p_recipe_id: 82
+p_recipe_id: 288
 permalink: /recipes/chicken-with-almonds-and-green-olives
 photo_large: null
 photo_thumb: chicken-with-almonds-and-green-olives-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 4
 servings: Serves 4
 slug: chicken-with-almonds-and-green-olives
@@ -29,7 +29,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/8113-chicken-with-almonds-and-green-olives?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=26
 tags:
 - chicken
-total_time: ''
+total_time: null
 type: null
 uid: 946A1415-F2AA-4840-B4C2-BF0974488278-9482-0000064C5993610E
 ---

@@ -1,11 +1,11 @@
 ---
 title: "Crispy Scallion Ginger Salmon"
 filename: "crispy-scallion-ginger-salmon"
-cook_time: ''
-created: '2020-10-20 18:43:43'
-created_ts: 1603219423
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://thewoksoflife.com/wp-content/uploads/2017/03/scallion-ginger-salmon-7-340x511.jpg
 ingredients: "4 tablespoons oil\n2 eight oz. salmon fillets (450g total, sprinkled\
@@ -14,11 +14,9 @@ ingredients: "4 tablespoons oil\n2 eight oz. salmon fillets (450g total, sprinkl
   \ julienned)\n3 scallions (very thinly julienned into 2-inch pieces)\n1/2 cup cilantro\
   \ (chopped)"
 intrash: 0
-meal_notes:
-- 2020-10-20-dinner
 mine: null
 name: Crispy Scallion Ginger Salmon
-p_recipe_id: 390
+p_recipe_id: 481
 permalink: /recipes/crispy-scallion-ginger-salmon
 photo_large: null
 photo_thumb: crispy-scallion-ginger-salmon-thumb.jpg
@@ -31,7 +29,7 @@ source: thewoksoflife.com
 source_url: https://thewoksoflife.com/scallion-ginger-salmon/
 tags:
 - salmon
-total_time: ''
+total_time: null
 type: null
 uid: FB351175-E30A-46F7-828B-2061D4F07D63-7512-0001E1E6CCA51ED2
 ---

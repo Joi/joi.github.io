@@ -2,8 +2,8 @@
 title: "Chicken with 40 Cloves of Garlic"
 filename: "chicken-with-40-cloves-of-garlic"
 cook_time: 1 hour 40 minutes
-created: '2020-04-02 17:07:19'
-created_ts: 1585847239
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -16,7 +16,7 @@ ingredients: "\u2154 cup olive oil\n8 chicken drumsticks\n8 chicken thighs\n4 ce
 intrash: 0
 mine: null
 name: Chicken with 40 Cloves of Garlic
-p_recipe_id: 81
+p_recipe_id: 469
 permalink: /recipes/chicken-with-40-cloves-of-garlic
 photo_large: null
 photo_thumb: chicken-with-40-cloves-of-garlic-thumb.jpg

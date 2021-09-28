@@ -2,8 +2,8 @@
 title: "Smoked Beef Back Ribs"
 filename: "smoked-beef-back-ribs"
 cook_time: 5 hours
-created: '2020-11-28 13:04:40'
-created_ts: 1606568680
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -14,7 +14,7 @@ ingredients: "2 racks of beef back ribs (7 bones each)\nYellow mustard\n2 racks 
 intrash: 0
 mine: null
 name: Smoked Beef Back Ribs
-p_recipe_id: 420
+p_recipe_id: 301
 permalink: /recipes/smoked-beef-back-ribs
 photo_large: null
 photo_thumb: null

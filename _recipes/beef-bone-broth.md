@@ -2,10 +2,10 @@
 title: "Beef Bone Broth"
 filename: "beef-bone-broth"
 cook_time: 9 to 24 hours
-created: '2020-10-13 20:10:16'
-created_ts: 1602619816
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
+description: null
+difficulty: null
 favorite: 0
 image_url: https://assets.epicurious.com/photos/56be3121af205081531c883f/2:1/w_1260%2Ch_630/EP_02112016_bone_broth_hero.jpg
 ingredients: '4 pounds beef bones, preferably a mix of marrow bones and bones with
@@ -28,11 +28,9 @@ ingredients: '4 pounds beef bones, preferably a mix of marrow bones and bones wi
 
   1 tablespoon cider vinegar'
 intrash: 0
-meal_notes:
-- 2020-10-14-snacks
 mine: null
 name: Beef Bone Broth
-p_recipe_id: 382
+p_recipe_id: 55
 permalink: /recipes/beef-bone-broth
 photo_large: null
 photo_thumb: beef-bone-broth-thumb.jpg
@@ -44,9 +42,9 @@ slug: beef-bone-broth
 source: epicurious.com
 source_url: https://www.epicurious.com/recipes/food/views/beef-bone-broth-51260700
 tags:
-- soup
 - bone
-total_time: ''
+- soup
+total_time: null
 type: null
 uid: 193BCEC7-317B-4381-8CA9-223F4306AD0D-38082-0000B63FB3D98158
 ---

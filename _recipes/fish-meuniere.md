@@ -1,14 +1,14 @@
 ---
 title: "Fish Meuniere"
 filename: "fish-meuniere"
-cook_time: ''
-created: '2020-03-07 15:44:48'
-created_ts: 1583595888
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: "Meuni\xE8re is an old time favorite of mine. Salmon meuni\xE8re was\
   \ my favorite when I was a kid. This recipe is based on [a nice Cook's Illustrated\
   \ recipe.](https://www.cooksillustrated.com/recipes/1399-fish-meuniere-with-toasted-slivered-almonds?incode=MCSCM00L0&ref=new_search_experience_7)"
-difficulty: ''
-favorite: 1
+difficulty: null
+favorite: 0
 image_url: null
 ingredients: "\xBD cup all-purpose flour\n4 fillets - I like sole, flounder, salmon.\
   \ You can use anything that fillets well and doesn't fall apart when fried\n2 Tbsp\
@@ -17,32 +17,31 @@ ingredients: "\xBD cup all-purpose flour\n4 fillets - I like sole, flounder, sal
   \ fresh parsley\n1 \xBD Tbsp lemon juice\n1 lemon, cut in wedges for garnish"
 intrash: 0
 meal_notes:
-- 2021-01-15-dinner
-- 2021-04-16-dinner
 - 2021-04-27-dinner
+- 2021-04-16-dinner
 mine: 1
 name: Fish Meuniere
-p_recipe_id: 47
+p_recipe_id: 188
 permalink: /recipes/fish-meuniere
 photo_large: fish-meuniere-large.jpg
 photo_thumb: fish-meuniere-thumb.jpg
 photos_dict:
   '1': fish-meuniere-1.jpg
   '2': fish-meuniere-2.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: fish-meuniere
 source: null
 source_url: null
 tags:
-- fish
 - seafood
 - salmon
-- sole
 - white fish
 - flounder
-total_time: ''
+- fish
+- sole
+total_time: null
 type: null
 uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4
 ---

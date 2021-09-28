@@ -2,8 +2,8 @@
 title: "Garam Masala"
 filename: "garam-masala"
 cook_time: '10'
-created: '2021-02-04 14:58:46'
-created_ts: 1612450726
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -15,7 +15,7 @@ ingredients: "1 tablespoon ground cumin\n2 teaspoons ground coriander\n2 teaspoo
 intrash: 0
 mine: null
 name: Garam Masala
-p_recipe_id: 468
+p_recipe_id: 28
 permalink: /recipes/garam-masala
 photo_large: null
 photo_thumb: garam-masala-thumb.jpg

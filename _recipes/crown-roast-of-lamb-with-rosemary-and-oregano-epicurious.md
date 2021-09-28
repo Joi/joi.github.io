@@ -1,11 +1,11 @@
 ---
 title: "Crown Roast of Lamb with Rosemary and Oregano - Epicurious"
 filename: "crown-roast-of-lamb-with-rosemary-and-oregano-epicurious"
-cook_time: ''
-created: '2020-07-14 14:31:46'
-created_ts: 1594737106
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.epicurious.com/static/img/misc/epicurious-social-logo.png
 ingredients: '1/4 cup chopped fresh rosemary
@@ -25,12 +25,12 @@ ingredients: '1/4 cup chopped fresh rosemary
 intrash: 0
 mine: null
 name: Crown Roast of Lamb with Rosemary and Oregano - Epicurious
-p_recipe_id: 250
+p_recipe_id: 84
 permalink: /recipes/crown-roast-of-lamb-with-rosemary-and-oregano-epicurious
 photo_large: null
 photo_thumb: crown-roast-of-lamb-with-rosemary-and-oregano-epicurious-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: 10 servings
 slug: crown-roast-of-lamb-with-rosemary-and-oregano-epicurious
@@ -38,7 +38,7 @@ source: epicurious.com
 source_url: https://www.epicurious.com/recipes/food/views/crown-roast-of-lamb-with-rosemary-and-oregano-104492
 tags:
 - lamb
-total_time: ''
+total_time: null
 type: null
 uid: 2A34EB6B-91B8-4534-8C2D-CCF073043FAC-29053-0004523EBECF0506
 ---

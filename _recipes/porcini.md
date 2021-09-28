@@ -2,8 +2,8 @@
 title: "Porcini"
 filename: "porcini"
 cook_time: null
-created: '2021-01-31 12:33:52'
-created_ts: 1612096432
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -15,7 +15,7 @@ meal_notes:
 - 2021-01-31-lunch
 mine: null
 name: Porcini
-p_recipe_id: 464
+p_recipe_id: 44
 permalink: /recipes/porcini
 photo_large: null
 photo_thumb: null

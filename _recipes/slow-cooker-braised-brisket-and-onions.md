@@ -2,10 +2,10 @@
 title: "Slow-Cooker Braised Brisket and Onions"
 filename: "slow-cooker-braised-brisket-and-onions"
 cook_time: 9 to 10 hours on low or 6 to 7 hours on high
-created: '2020-03-31 16:54:32'
-created_ts: 1585673672
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/SFS_Brisket_lg_tla4lk
 ingredients: "GATHER YOUR INGREDIENTS\n1 tablespoon paprika\n2 teaspoons onion powder\n\
@@ -18,21 +18,21 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 tablespoon paprika\n2 teaspoons onion p
 intrash: 0
 mine: null
 name: Slow-Cooker Braised Brisket and Onions
-p_recipe_id: 76
+p_recipe_id: 96
 permalink: /recipes/slow-cooker-braised-brisket-and-onions
 photo_large: null
 photo_thumb: slow-cooker-braised-brisket-and-onions-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Serves 10 to 12
 slug: slow-cooker-braised-brisket-and-onions
 source: americastestkitchen.com
 source_url: https://www.americastestkitchen.com/recipes/10382-slow-cooker-braised-brisket-and-onions
 tags:
-- beef
 - brisket
-total_time: ''
+- beef
+total_time: null
 type: null
 uid: 2F4E16BA-24E1-47A4-8CC5-ECD1BB1AF489-16595-0001495B5A4DECEC
 ---

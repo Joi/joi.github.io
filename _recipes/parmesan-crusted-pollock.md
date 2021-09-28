@@ -2,10 +2,10 @@
 title: "Parmesan Crusted Pollock"
 filename: "parmesan-crusted-pollock"
 cook_time: 20 mins
-created: '2020-05-15 18:19:32'
-created_ts: 1589566772
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.seafoodnutrition.org/wp-content/uploads/2018/03/Parmesan-Crusted-Pollock-810x540.jpg
 ingredients: '1 lb. pollock fillets or other white fish
@@ -36,7 +36,7 @@ ingredients: '1 lb. pollock fillets or other white fish
 intrash: 0
 mine: null
 name: Parmesan Crusted Pollock
-p_recipe_id: 158
+p_recipe_id: 64
 permalink: /recipes/parmesan-crusted-pollock
 photo_large: null
 photo_thumb: parmesan-crusted-pollock-thumb.jpg
@@ -48,10 +48,10 @@ slug: parmesan-crusted-pollock
 source: seafoodnutrition.org
 source_url: https://www.seafoodnutrition.org/project/parmesan-crusted-pollock/
 tags:
-- fish
-- white fish
 - pollack
-total_time: ''
+- white fish
+- fish
+total_time: null
 type: null
 uid: 207580F0-344A-4CB4-9B63-C99743340EEE-13891-000102267CE7FBD9
 ---

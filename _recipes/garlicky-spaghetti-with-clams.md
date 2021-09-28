@@ -2,8 +2,8 @@
 title: "Garlicky Spaghetti with Clams"
 filename: "garlicky-spaghetti-with-clams"
 cook_time: null
-created: '2020-02-03 15:37:19'
-created_ts: 1580744239
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -17,7 +17,7 @@ ingredients: "GATHER YOUR INGREDIENTS\n2 tablespoons plus 1/2 teaspoon minced ga
 intrash: 0
 mine: null
 name: Garlicky Spaghetti with Clams
-p_recipe_id: 36
+p_recipe_id: 407
 permalink: /recipes/garlicky-spaghetti-with-clams
 photo_large: null
 photo_thumb: garlicky-spaghetti-with-clams-thumb.jpg
@@ -29,8 +29,8 @@ slug: garlicky-spaghetti-with-clams
 source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/8742-garlicky-spaghetti-with-clams
 tags:
-- clams
 - pasta
+- clams
 total_time: null
 type: null
 uid: D07C7EDA-66CF-40A3-9EB4-C415CCB6AC12-408-00004E63C6179E14

@@ -2,8 +2,8 @@
 title: "The Best Simple Roast Turkey with Gravy"
 filename: "the-best-simple-roast-turkey-with-gravy"
 cook_time: 5 hours
-created: '2020-11-24 10:52:57'
-created_ts: 1606215177
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -31,11 +31,9 @@ ingredients: '1 whole turkey, neck and giblets reserved, about 10 to 12 pounds (
 
   1/4 cup (1 1/2 ounces) flour'
 intrash: 0
-meal_notes:
-- 2020-11-25-dinner
 mine: null
 name: The Best Simple Roast Turkey with Gravy
-p_recipe_id: 416
+p_recipe_id: 294
 permalink: /recipes/the-best-simple-roast-turkey-with-gravy
 photo_large: null
 photo_thumb: the-best-simple-roast-turkey-with-gravy-thumb.jpg

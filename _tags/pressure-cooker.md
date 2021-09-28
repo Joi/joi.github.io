@@ -12,7 +12,7 @@ notes:
     uri_path: /notes/2020-09-17-dinner.html
 recipes:
 - mine: null
-  p_recipe_id: 145
+  p_recipe_id: 434
   permalink: /recipes/pressure-cooker-halibut-fillets-with-tomatoes-and-olives
   photo_thumb: 080B7514-26CC-4B77-8C5D-EDC9ADB43130-29546-0000D71DCFD9169E.jpg
   rating: 4

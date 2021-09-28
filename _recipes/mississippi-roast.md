@@ -2,10 +2,10 @@
 title: "Mississippi Roast"
 filename: "mississippi-roast"
 cook_time: 6 1/2 to 8 1/2 hours
-created: '2020-04-19 15:27:14'
-created_ts: 1587310034
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2016/01/27/dining/27ROAST1/27ROAST1-articleLarge.jpg
 ingredients: "1 boneless chuck roast or top or bottom round roast, 3 to 4 pounds\n\
@@ -17,12 +17,12 @@ ingredients: "1 boneless chuck roast or top or bottom round roast, 3 to 4 pounds
 intrash: 0
 mine: null
 name: Mississippi Roast
-p_recipe_id: 112
+p_recipe_id: 18
 permalink: /recipes/mississippi-roast
 photo_large: null
 photo_thumb: mississippi-roast-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 6 to 8 servings
 slug: mississippi-roast
@@ -30,7 +30,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017937-mississippi-roast?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
 tags:
 - beef
-total_time: ''
+total_time: null
 type: null
 uid: 04FD9C12-9EED-4A32-9565-080092D3FF63-407-00004B651BB969DF
 ---

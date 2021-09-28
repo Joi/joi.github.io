@@ -2,8 +2,8 @@
 title: "Spaghetti with Bottarga"
 filename: "spaghetti-with-bottarga"
 cook_time: null
-created: '2020-09-16 11:25:25'
-created_ts: 1600255525
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -24,7 +24,7 @@ ingredients: 'For the Pasta:
 intrash: 0
 mine: null
 name: Spaghetti with Bottarga
-p_recipe_id: 355
+p_recipe_id: 107
 permalink: /recipes/spaghetti-with-bottarga
 photo_large: null
 photo_thumb: spaghetti-with-bottarga-thumb.jpg

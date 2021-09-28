@@ -2,8 +2,8 @@
 title: "Steakhouse-Style Grilled Marinated Flank Steak"
 filename: "steakhouse-style-grilled-marinated-flank-steak"
 cook_time: at least 1 1/2 hours
-created: '2021-03-27 17:19:28'
-created_ts: 1616865568
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -34,7 +34,7 @@ meal_notes:
 - 2021-03-04-dinner
 mine: null
 name: Steakhouse-Style Grilled Marinated Flank Steak
-p_recipe_id: 496
+p_recipe_id: 414
 permalink: /recipes/steakhouse-style-grilled-marinated-flank-steak
 photo_large: null
 photo_thumb: steakhouse-style-grilled-marinated-flank-steak-thumb.jpg

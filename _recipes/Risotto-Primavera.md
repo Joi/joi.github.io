@@ -2,13 +2,13 @@
 title: "Risotto Primavera"
 filename: "risotto-primavera"
 cook_time: 45 - 50 min
-created: '2020-07-23 14:28:03'
-created_ts: 1595514483
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: 'Based on Harry''s Bar Recipe and :
 
 
   https://www.cookscountry.com/recipes/5819-pork-roast-with-mushroom-gravy?extcode=MCSKD10L0&ref=new_search_experience_14'
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "For the rice:\n5 to 6 cups chicken broth\n1 tbsp olive oil\n1 small\
@@ -21,27 +21,24 @@ ingredients: "For the rice:\n5 to 6 cups chicken broth\n1 tbsp olive oil\n1 smal
   \ part only, cleaned and diced.\n\xBD tsp. basil\n\xBC tsp. oregano\nSalt and pepper\
   \ to taste."
 intrash: 0
-meal_notes:
-- 2020-08-31-dinner
-- 2021-01-04-dinner
 mine: null
 name: Risotto Primavera
-p_recipe_id: 273
+p_recipe_id: 51
 permalink: /recipes/risotto-primavera
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
 servings: 4 people
 slug: risotto-primavera
 source: null
 source_url: https://www.epicurious.com/recipes/member/views/risotto-alla-primavera-harrys-bar-52374811
 tags:
+- tomato
 - rice
 - asparagus
-- tomato
-total_time: ''
+total_time: null
 type: null
 uid: 16DAD724-0640-45B2-A7EB-66B408332186-2209-00009B8A4B171F2C
 ---

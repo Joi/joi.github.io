@@ -2,10 +2,10 @@
 title: "Salmon Meuniere"
 filename: "salmon-meuniere"
 cook_time: 10 mins
-created: '2020-07-23 11:15:23'
-created_ts: 1595502923
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: 'Based on: https://www.wellplated.com/salmon-meuniere/'
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "\xBC cup all-purpose flour\n1 \xBC teaspoons kosher salt - divided\n\
@@ -14,12 +14,9 @@ ingredients: "\xBC cup all-purpose flour\n1 \xBC teaspoons kosher salt - divided
   \ freshly squeezed lemon juice - about 1 small lemon\n1 tablespoon finely chopped\
   \ fresh parsley\n1 tablespoon drained capers"
 intrash: 0
-meal_notes:
-- 2020-09-29-dinner
-- 2020-11-14-dinner
 mine: null
 name: Salmon Meuniere
-p_recipe_id: 270
+p_recipe_id: 81
 permalink: /recipes/salmon-meuniere
 photo_large: salmon-meuniere-large.jpg
 photo_thumb: salmon-meuniere-thumb.jpg
@@ -33,7 +30,7 @@ source: wellplated.com
 source_url: https://www.wellplated.com/salmon-meuniere/
 tags:
 - salmon
-total_time: ''
+total_time: null
 type: null
 uid: 281C0C73-405E-432E-A50B-7BF799868111-1118-00000110C5CB2AD2
 ---

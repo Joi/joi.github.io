@@ -2,8 +2,8 @@
 title: "Roast Beef Tenderloin with Garlic and Rosemary"
 filename: "roast-beef-tenderloin-with-garlic-and-rosemary"
 cook_time: null
-created: '2020-09-20 19:57:31'
-created_ts: 1600631851
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -16,7 +16,7 @@ ingredients: "2 garlic cloves\n2 tablespoons rosemary leaves, plus sprigs\n1 4-p
 intrash: 0
 mine: null
 name: Roast Beef Tenderloin with Garlic and Rosemary
-p_recipe_id: 367
+p_recipe_id: 219
 permalink: /recipes/roast-beef-tenderloin-with-garlic-and-rosemary
 photo_large: null
 photo_thumb: roast-beef-tenderloin-with-garlic-and-rosemary-thumb.jpg

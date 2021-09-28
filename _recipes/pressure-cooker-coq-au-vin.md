@@ -2,8 +2,8 @@
 title: "Pressure-Cooker Coq Au Vin"
 filename: "pressure-cooker-coq-au-vin"
 cook_time: 'prep: 25 min. cook: 15 min. + releasing'
-created: '2020-09-17 15:30:25'
-created_ts: 1600356625
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -36,7 +36,7 @@ ingredients: '3 thick-sliced bacon strips, chopped
 intrash: 0
 mine: null
 name: Pressure-Cooker Coq Au Vin
-p_recipe_id: 362
+p_recipe_id: 228
 permalink: /recipes/pressure-cooker-coq-au-vin
 photo_large: null
 photo_thumb: pressure-cooker-coq-au-vin-thumb.jpg

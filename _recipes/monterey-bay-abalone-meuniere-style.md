@@ -2,10 +2,10 @@
 title: "Monterey Bay Abalone, Meuniere-Style"
 filename: "monterey-bay-abalone-meuniere-style"
 cook_time: 20 minutes
-created: '2021-04-23 11:05:02'
-created_ts: 1619175902
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "4 small abalones, 4 to 5 ounces each in shell weight (see note)\n\xBD\
@@ -13,11 +13,11 @@ ingredients: "4 small abalones, 4 to 5 ounces each in shell weight (see note)\n\
   \ parsley\n1 tablespoon Meyer lemon or lemon juice\nFleur de sel"
 intrash: 0
 meal_notes:
-- 2021-04-27-dinner
 - 2021-05-09-dinner
+- 2021-04-27-dinner
 mine: null
 name: Monterey Bay Abalone, Meuniere-Style
-p_recipe_id: 520
+p_recipe_id: 39
 permalink: /recipes/monterey-bay-abalone-meuniere-style
 photo_large: monterey-bay-abalone-meuniere-style-large.jpg
 photo_thumb: monterey-bay-abalone-meuniere-style-thumb.jpg
@@ -29,16 +29,16 @@ photos_dict:
   '5': monterey-bay-abalone-meuniere-style-5.jpg
   '6': monterey-bay-abalone-meuniere-style-6.jpg
   '7': monterey-bay-abalone-meuniere-style-7.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Serves 4 as an appetizer
 slug: monterey-bay-abalone-meuniere-style
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1012700-monterey-bay-abalone-meuniere-style?smid=ck-recipe-iOS-share
 tags:
-- abalone
 - french
-total_time: ''
+- abalone
+total_time: null
 type: null
 uid: 11DB03F4-CF92-4B19-B8D7-C6A8825CC25C
 ---

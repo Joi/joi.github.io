@@ -2,8 +2,8 @@
 title: "Shredded Chicken and Vegetable Lettuce Cups"
 filename: "shredded-chicken-and-vegetable-lettuce-cups"
 cook_time: 1h 15min
-created: '2020-02-03 16:07:31'
-created_ts: 1580746051
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: Easy
 favorite: 0
@@ -23,7 +23,7 @@ ingredients: "1 garlic clove\n1 piece fresh ginger (approx. 1 in. x \xBE in.)\n2
 intrash: 0
 mine: null
 name: Shredded Chicken and Vegetable Lettuce Cups
-p_recipe_id: 19
+p_recipe_id: 213
 permalink: /recipes/shredded-chicken-and-vegetable-lettuce-cups
 photo_large: null
 photo_thumb: shredded-chicken-and-vegetable-lettuce-cups-thumb.jpg

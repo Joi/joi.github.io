@@ -1,11 +1,11 @@
 ---
 title: "Chinese Spiced Braised Beef Shank"
 filename: "chinese-spiced-braised-beef-shank"
-cook_time: ''
-created: '2021-04-04 15:46:20'
-created_ts: 1617551180
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
+description: null
+difficulty: null
 favorite: 0
 image_url: https://thewoksoflife.com/wp-content/uploads/2017/02/chinese-braised-beef-8.jpg
 ingredients: "2 cinnamon sticks\n1 black cardamom pod\n\xBD tablespoon Sichuan peppercorns\n\
@@ -20,7 +20,7 @@ ingredients: "2 cinnamon sticks\n1 black cardamom pod\n\xBD tablespoon Sichuan p
 intrash: 0
 mine: null
 name: Chinese Spiced Braised Beef Shank
-p_recipe_id: 506
+p_recipe_id: 130
 permalink: /recipes/chinese-spiced-braised-beef-shank
 photo_large: null
 photo_thumb: chinese-spiced-braised-beef-shank-thumb.jpg
@@ -32,9 +32,9 @@ slug: chinese-spiced-braised-beef-shank
 source: thewoksoflife.com
 source_url: https://thewoksoflife.com/braised-beef-shank/
 tags:
-- chinese
 - beef shank
-total_time: ''
+- chinese
+total_time: null
 type: null
 uid: 3E48A1BE-2272-4971-9336-887DEB71E5E6-52325-00036692448DDACC
 ---

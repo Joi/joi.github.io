@@ -1,11 +1,11 @@
 ---
 title: "Blue Cheese Dressing"
 filename: "blue-cheese-dressing"
-cook_time: ''
-created: '2020-08-02 20:25:29'
-created_ts: 1596399929
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "5 ounces creamy blue cheese, such as Roquefort, Bleu d\u2019Auvergne,\
@@ -15,20 +15,20 @@ ingredients: "5 ounces creamy blue cheese, such as Roquefort, Bleu d\u2019Auverg
 intrash: 0
 mine: null
 name: Blue Cheese Dressing
-p_recipe_id: 286
+p_recipe_id: 397
 permalink: /recipes/blue-cheese-dressing
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
-servings: ''
+servings: null
 slug: blue-cheese-dressing
 source: Salt, Fat, Acid, Heat
 source_url: null
 tags:
 - sauce
-total_time: ''
+total_time: null
 type: null
 uid: CDF030C6-1C2A-4BF6-95CA-72A7FEBC9DFA-96025-0003C0D2A47CF20F
 ---

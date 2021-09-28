@@ -2,8 +2,8 @@
 title: "Indian Chicken Curry II"
 filename: "indian-chicken-curry-ii"
 cook_time: 25 mins
-created: '2020-04-19 20:14:26'
-created_ts: 1587327266
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -15,12 +15,9 @@ ingredients: "3 tablespoons olive oil\n1 small onion, chopped\n2 cloves garlic, 
   1 tablespoon tomato paste\n1 cup plain yogurt\n\xBE cup coconut milk\n\xBD lemon,\
   \ juiced\n\xBD teaspoon cayenne pepper"
 intrash: 0
-meal_notes:
-- 2020-04-19-dinner
-- 2020-07-01-dinner
 mine: null
 name: Indian Chicken Curry II
-p_recipe_id: 117
+p_recipe_id: 328
 permalink: /recipes/indian-chicken-curry-ii
 photo_large: null
 photo_thumb: indian-chicken-curry-ii-thumb.jpg

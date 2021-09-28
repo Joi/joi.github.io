@@ -2,8 +2,8 @@
 title: "Mediterranean Baked Salmon with Tomatoes, Capers, & Olives"
 filename: "mediterranean-baked-salmon-with-tomatoes-capers-olives"
 cook_time: 10 minutes
-created: '2021-07-06 16:27:24'
-created_ts: 1625588844
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -30,7 +30,7 @@ meal_notes:
 - 2021-07-06-dinner
 mine: null
 name: Mediterranean Baked Salmon with Tomatoes, Capers, & Olives
-p_recipe_id: 536
+p_recipe_id: 435
 permalink: /recipes/mediterranean-baked-salmon-with-tomatoes-capers-olives
 photo_large: null
 photo_thumb: mediterranean-baked-salmon-with-tomatoes-capers-olives-thumb.jpg
@@ -42,8 +42,8 @@ slug: mediterranean-baked-salmon-with-tomatoes-capers-olives
 source: camillestyles.com
 source_url: https://camillestyles.com/food/mediterranean-baked-salmon-with-tomatoes-olives-capers/
 tags:
-- italian
 - salmon
+- italian
 total_time: null
 type: null
 uid: DE9FB26D-ED99-42A9-8B3A-92015C88223B

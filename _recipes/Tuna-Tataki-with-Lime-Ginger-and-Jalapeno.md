@@ -1,9 +1,9 @@
 ---
 title: "Tuna Tataki with Lime, Ginger and Jalapeño"
 filename: "tuna-tataki-with-lime-ginger-and-jalapeno"
-cook_time: ''
-created: '2020-09-15 11:10:10'
-created_ts: 1600168210
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: Based on [this recipe from Food Network](https://www.foodnetwork.com/recipes/tyler-florence/pan-seared-tuna-with-avocado-soy-ginger-and-lime-recipe-1914316)
 difficulty: Easy
 favorite: 0
@@ -14,17 +14,11 @@ ingredients: "Lots of chopped cilantro\n\xBD jalapeno, sliced\n1 tsp grated fres
   Sushi-grade tuna\n1 avocado sliced\nSalt and pepper"
 intrash: 0
 meal_notes:
-- 2020-09-15-dinner
-- 2020-10-16-dinner
-- 2020-11-17-dinner
-- 2020-12-11-dinner
-- 2021-01-08-dinner
-- 2021-01-22-dinner
-- 2021-03-02-dinner
 - 2021-04-09-dinner
+- 2021-03-02-dinner
 mine: 1
 name: "Tuna Tataki with Lime, Ginger and Jalape\xF1o"
-p_recipe_id: 354
+p_recipe_id: 9
 permalink: /recipes/tuna-tataki-with-lime-ginger-and-jalapeno
 photo_large: tuna-tataki-with-lime-ginger-and-jalapeno-large.jpg
 photo_thumb: tuna-tataki-with-lime-ginger-and-jalapeno-thumb.jpg
@@ -33,7 +27,7 @@ photos_dict:
   '2': tuna-tataki-with-lime-ginger-and-jalapeno-2.jpg
   '3': tuna-tataki-with-lime-ginger-and-jalapeno-3.jpg
   '4': tuna-tataki-with-lime-ginger-and-jalapeno-4.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: 'Yield: 1 serving'
 slug: tuna-tataki-with-lime-ginger-and-jalapeno
@@ -41,7 +35,7 @@ source: null
 source_url: null
 tags:
 - tuna
-total_time: ''
+total_time: null
 type: null
 uid: 0299C616-3BC7-414C-8AD7-24EA7B7FCB03-9638-000005EE30E369B7
 ---

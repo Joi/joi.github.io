@@ -2,10 +2,10 @@
 title: "Meatball"
 filename: "meatball"
 cook_time: 20 minutes
-created: '2020-12-16 17:56:06'
-created_ts: 1608141366
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '2 cups (5.2 oz) fresh bread crumbs*
@@ -34,11 +34,9 @@ ingredients: '2 cups (5.2 oz) fresh bread crumbs*
 
   3/4 cup olive oil, only if using the fried method'
 intrash: 0
-meal_notes:
-- 2020-12-16-dinner
 mine: null
 name: Meatball
-p_recipe_id: 431
+p_recipe_id: 48
 permalink: /recipes/meatball
 photo_large: meatball-large.jpg
 photo_thumb: meatball-thumb.jpg
@@ -52,10 +50,10 @@ source: cookingclassy.com
 source_url: https://www.cookingclassy.com/meatball-recipe/
 tags:
 - pasta
-- italian
 - ground beef
+- italian
 - sauce
-total_time: ''
+total_time: null
 type: null
 uid: 160D4E1B-F5A0-4CD8-A2B4-BF08E77F5534-903-00005D489A62BD11
 ---

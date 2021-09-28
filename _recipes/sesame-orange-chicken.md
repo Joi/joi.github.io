@@ -2,8 +2,8 @@
 title: "Sesame Orange Chicken"
 filename: "sesame-orange-chicken"
 cook_time: 1h 20min
-created: '2020-02-03 16:08:59'
-created_ts: 1580746139
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: Easy
 favorite: 0
@@ -17,7 +17,7 @@ ingredients: "Marinade\n3 oz orange juice\n2 oz sesame oil\n2 oz soy sauce\n2 tb
 intrash: 0
 mine: null
 name: Sesame Orange Chicken
-p_recipe_id: 11
+p_recipe_id: 126
 permalink: /recipes/sesame-orange-chicken
 photo_large: null
 photo_thumb: sesame-orange-chicken-thumb.jpg

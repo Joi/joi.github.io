@@ -2,8 +2,8 @@
 title: "Lamb Chops with Balsamic Reduction"
 filename: "lamb-chops-with-balsamic-reduction"
 cook_time: 15 mins
-created: '2020-12-25 13:02:18'
-created_ts: 1608901338
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -15,7 +15,7 @@ ingredients: "\xBE teaspoon dried rosemary\n\xBC teaspoon dried basil\n\xBD teas
 intrash: 0
 mine: null
 name: Lamb Chops with Balsamic Reduction
-p_recipe_id: 435
+p_recipe_id: 401
 permalink: /recipes/lamb-chops-with-balsamic-reduction
 photo_large: null
 photo_thumb: lamb-chops-with-balsamic-reduction-thumb.jpg

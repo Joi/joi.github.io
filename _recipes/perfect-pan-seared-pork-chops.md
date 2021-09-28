@@ -2,10 +2,10 @@
 title: "Perfect Pan-Seared Pork Chops"
 filename: "perfect-pan-seared-pork-chops"
 cook_time: 1 day
-created: '2020-12-09 01:08:15'
-created_ts: 1607476095
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.seriouseats.com/recipes/images/2014/03/20140130-pork-chop-food-lab-28-200x150.jpg
 ingredients: '2 bone-in pork rib chops, preferably blade-end, 1 1/2 inches thick (12
@@ -25,11 +25,9 @@ ingredients: '2 bone-in pork rib chops, preferably blade-end, 1 1/2 inches thick
 
   8 sprigs fresh thyme'
 intrash: 0
-meal_notes:
-- 2020-12-10-dinner
 mine: null
 name: Perfect Pan-Seared Pork Chops
-p_recipe_id: 427
+p_recipe_id: 410
 permalink: /recipes/perfect-pan-seared-pork-chops
 photo_large: null
 photo_thumb: perfect-pan-seared-pork-chops-thumb.jpg
@@ -42,7 +40,7 @@ source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2014/03/perfect-pan-seared-pork-chop-recipe.html
 tags:
 - pork
-total_time: ''
+total_time: null
 type: null
 uid: D21590BB-EC09-472F-BD99-DA395EE0C0C1-83053-00018930316CBE48
 ---

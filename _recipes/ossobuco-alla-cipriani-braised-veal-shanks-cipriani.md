@@ -1,9 +1,9 @@
 ---
 title: "Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani"
 filename: "ossobuco-alla-cipriani-braised-veal-shanks-cipriani"
-cook_time: ''
-created: '2020-06-21 17:28:12'
-created_ts: 1592760492
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: "_Ossobuco_  - one of Italy's most delicious dishes is made with shanks\
   \ of milk-fed veal that are sliced and braised in a well-flavored broth until they\
   \ are tender enough to eat with a fork. The name means \"bone with a hole.\" Each\
@@ -31,7 +31,7 @@ description: "_Ossobuco_  - one of Italy's most delicious dishes is made with sh
   \ the veal shanks after they are cooked. Melt this with the butter before adding\
   \ the rice. Guests can then enjoy the marrow at the center of their veal shanks\
   \ and also its subtle flavor in the risotto."
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "\xBD cup olive oil or more as needed (125 mL)\r2 veal shanks, cut into\
@@ -45,11 +45,11 @@ ingredients: "\xBD cup olive oil or more as needed (125 mL)\r2 veal shanks, cut 
   \ fresh rosemary"
 intrash: 0
 meal_notes:
-- 2020-06-21-dinner
+- 2021-07-15-dinner
 - 2021-04-18-dinner
 mine: null
 name: Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani
-p_recipe_id: 199
+p_recipe_id: 442
 permalink: /recipes/ossobuco-alla-cipriani-braised-veal-shanks-cipriani
 photo_large: ossobuco-alla-cipriani-braised-veal-shanks-cipriani-large.jpg
 photo_thumb: ossobuco-alla-cipriani-braised-veal-shanks-cipriani-thumb.jpg
@@ -63,17 +63,17 @@ photos_dict:
   '7': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-7.jpg
   '8': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-8.jpg
   '9': ossobuco-alla-cipriani-braised-veal-shanks-cipriani-9.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: '6'
 slug: ossobuco-alla-cipriani-braised-veal-shanks-cipriani
 source: Harry's Bar Cookbook
 source_url: null
 tags:
+- beef shank
 - veal
 - italian
-- beef shank
-total_time: ''
+total_time: null
 type: null
 uid: E180BD94-AC3C-451E-9238-78D97C67B764-22544-0003AA78C45EC856
 ---

@@ -2,10 +2,10 @@
 title: "Cal Peternell’s Braised Chicken Legs"
 filename: "cal-peternells-braised-chicken-legs"
 cook_time: 1 hour 30 minutes
-created: '2020-04-17 20:23:54'
-created_ts: 1587155034
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2015/01/07/dining/07COOKBOOKTWELVERECIPES2/07COOKBOOKTWELVERECIPES2-articleLarge.jpg
 ingredients: "6 chicken legs, thigh and drumstick together\nKosher salt and black\
@@ -16,16 +16,14 @@ ingredients: "6 chicken legs, thigh and drumstick together\nKosher salt and blac
   \ or sage, leaves removed and roughly chopped\n1 bay leaf\n3 cups chicken stock,\
   \ or water\n2 tablespoons roughly chopped parsley leaves"
 intrash: 0
-meal_notes:
-- 2020-05-07-dinner
 mine: null
 name: "Cal Peternell\u2019s Braised Chicken Legs"
-p_recipe_id: 108
+p_recipe_id: 173
 permalink: /recipes/cal-peternells-braised-chicken-legs
 photo_large: null
 photo_thumb: cal-peternells-braised-chicken-legs-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 4
 servings: Yield 6 servings
 slug: cal-peternells-braised-chicken-legs
@@ -33,7 +31,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017108-cal-peternells-braised-chicken-legs
 tags:
 - chicken
-total_time: ''
+total_time: null
 type: null
 uid: 570E9D2D-CE28-4E47-8EE7-3C314B75EB4A-2334-0002361B59397453
 ---

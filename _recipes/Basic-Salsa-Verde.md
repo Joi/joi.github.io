@@ -1,11 +1,11 @@
 ---
 title: "Basic Salsa Verde"
 filename: "basic-salsa-verde"
-cook_time: ''
-created: '2020-07-15 16:39:15'
-created_ts: 1594831155
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "3 Tbsp finely diced shallot (about 1 medium shallot)\n3 Tbsp red wine\
@@ -13,12 +13,10 @@ ingredients: "3 Tbsp finely diced shallot (about 1 medium shallot)\n3 Tbsp red w
   \ oil \nsalt"
 intrash: 0
 meal_notes:
-- 2020-07-15-dinner
-- 2020-10-08-dinner
 - 2021-07-07-dinner
 mine: null
 name: Basic Salsa Verde
-p_recipe_id: 251
+p_recipe_id: 362
 permalink: /recipes/basic-salsa-verde
 photo_large: basic-salsa-verde-large.jpg
 photo_thumb: basic-salsa-verde-thumb.jpg
@@ -26,15 +24,15 @@ photos_dict:
   '1': basic-salsa-verde-1.jpg
   '2': basic-salsa-verde-2.jpg
   '3': basic-salsa-verde-3.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: basic-salsa-verde
 source: null
 source_url: null
 tags:
 - sauce
-total_time: ''
+total_time: null
 type: null
 uid: B8A1AF50-039E-416A-967A-19D14C8A70A2-14775-000009F2FBE6BC44
 ---

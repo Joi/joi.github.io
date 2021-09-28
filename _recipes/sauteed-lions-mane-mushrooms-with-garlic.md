@@ -2,8 +2,8 @@
 title: "Sautéed Lion's Mane Mushrooms with Garlic"
 filename: "sauteed-lions-mane-mushrooms-with-garlic"
 cook_time: 15 minutes
-created: '2021-01-21 15:54:25'
-created_ts: 1611244465
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -11,11 +11,9 @@ image_url: https://www.emmafrisch.com/wp-content/uploads/2020/10/5.jpg
 ingredients: "olive oil or butter\nminced garlic\nlion\u2019s mane mushrooms, sliced\
   \ \xBD-inch thick"
 intrash: 0
-meal_notes:
-- 2021-01-21-dinner
 mine: null
 name: "Saut\xE9ed Lion's Mane Mushrooms with Garlic"
-p_recipe_id: 456
+p_recipe_id: 352
 permalink: /recipes/sauteed-lions-mane-mushrooms-with-garlic
 photo_large: null
 photo_thumb: sauteed-lions-mane-mushrooms-with-garlic-thumb.jpg

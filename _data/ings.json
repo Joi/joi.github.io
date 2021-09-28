@@ -554,8 +554,8 @@
  "BBQ SAUCE": [
   {
    "comment": "",
-   "name": "Tbsp brown sugar",
-   "original_string": "6 Tbsp brown sugar",
+   "name": "Tbsp cups brown sugar",
+   "original_string": "6 Tbsp cups brown sugar",
    "quantity": 6.0,
    "unit": ""
   },
@@ -1801,10 +1801,10 @@
   },
   {
    "comment": "(or to preference)",
-   "name": "water",
-   "original_string": "1 L / 4 1/4 cup water (or to preference)",
+   "name": "US cup water",
+   "original_string": "1 L / 4 1/4 US cup water (or to preference)",
    "quantity": 2.625,
-   "unit": "cup"
+   "unit": ""
   }
  ],
  "BRAISED BRISKET WITH ONIONS": [
@@ -3125,9 +3125,9 @@
   },
   {
    "comment": "",
-   "name": "parsley sprigs",
-   "original_string": "5 parsley sprigs",
-   "quantity": 5.0,
+   "name": "stems",
+   "original_string": "5 parsley sprigs or 10 stems",
+   "quantity": 7.5,
    "unit": ""
   },
   {
@@ -3579,10 +3579,31 @@
  ],
  "CHINESE ROASTED CHICKEN": [
   {
+   "comment": "(around 1 kg )",
+   "name": "chicken",
+   "original_string": "1 chicken (around 1 kg )",
+   "quantity": 1.0,
+   "unit": ""
+  },
+  {
+   "comment": "",
+   "name": "Marinade",
+   "original_string": "Marinade",
+   "quantity": 0,
+   "unit": ""
+  },
+  {
    "comment": "around 1 kg",
    "name": "chicken",
    "original_string": "1 chicken , around 1 kg",
    "quantity": 1.0,
+   "unit": ""
+  },
+  {
+   "comment": "",
+   "name": "Marinade",
+   "original_string": "Marinade",
+   "quantity": 0,
    "unit": ""
   },
   {
@@ -6662,7 +6683,6 @@
    "unit": ""
   }
  ],
- "HOW TO REVIVE STALE BREAD": [],
  "HUMMUS (ILAN HALL)": [
   {
    "comment": "",
@@ -13607,10 +13627,10 @@
   },
   {
    "comment": "",
-   "name": "Chinese Five Spice powder",
-   "original_string": "2 1/2 teaspoons Chinese Five Spice powder",
-   "quantity": 2.5,
-   "unit": "tsp"
+   "name": "-spice powder",
+   "original_string": "2 1/2 teaspoons Chinese 5-spice powder",
+   "quantity": 3.75,
+   "unit": ""
   },
   {
    "comment": "",

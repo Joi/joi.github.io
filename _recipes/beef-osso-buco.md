@@ -2,10 +2,10 @@
 title: "Beef Osso Buco"
 filename: "beef-osso-buco"
 cook_time: 03:00
-created: '2021-04-17 13:57:00'
-created_ts: 1618667820
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
+description: null
+difficulty: null
 favorite: 0
 image_url: https://res.cloudinary.com/anova-applied-electronics/image/upload/w_517,h_327,c_fit,f_auto,q_auto,dpr_2.0,/v1610818400/mobileProduction/bog1wbcnl4jklqpcfvmp.jpg
 ingredients: "Beef Shanks\n1 Tbsp Flour or Cornstarch\nOnion (diced)\nCarrots (diced)\n\
@@ -14,10 +14,11 @@ ingredients: "Beef Shanks\n1 Tbsp Flour or Cornstarch\nOnion (diced)\nCarrots (d
   Kitchen Twine\nSprigs of Thyme"
 intrash: 0
 meal_notes:
+- 2021-07-15-dinner
 - 2021-04-18-dinner
 mine: null
 name: Beef Osso Buco
-p_recipe_id: 518
+p_recipe_id: 320
 permalink: /recipes/beef-osso-buco
 photo_large: null
 photo_thumb: beef-osso-buco-thumb.jpg
@@ -30,7 +31,7 @@ source: oven.anovaculinary.com
 source_url: https://oven.anovaculinary.com/recipe/TAUhPl8yYWTrZPPMQ6fh
 tags:
 - beef shank
-total_time: ''
+total_time: null
 type: null
 uid: A510DD45-44E6-46DA-8B79-9BCA60A623D3-654-000191CA7F8D71ED
 ---

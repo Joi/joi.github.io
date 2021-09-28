@@ -2,8 +2,8 @@
 title: "Lemon Butter Sauce"
 filename: "lemon-butter-sauce"
 cook_time: 15 mins
-created: '2020-11-03 13:07:17'
-created_ts: 1604408837
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -20,11 +20,9 @@ ingredients: '12 tablespoons cold unsalted butter, sliced into 1/2 inch pieces, 
 
   Kosher salt and ground white pepper'
 intrash: 0
-meal_notes:
-- 2021-01-26-dinner
 mine: null
 name: Lemon Butter Sauce
-p_recipe_id: 401
+p_recipe_id: 444
 permalink: /recipes/lemon-butter-sauce
 photo_large: null
 photo_thumb: lemon-butter-sauce-thumb.jpg

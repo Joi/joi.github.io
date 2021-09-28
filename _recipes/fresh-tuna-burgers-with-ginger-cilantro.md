@@ -2,8 +2,8 @@
 title: "Fresh Tuna Burgers with Ginger & Cilantro"
 filename: "fresh-tuna-burgers-with-ginger-cilantro"
 cook_time: null
-created: '2020-08-06 00:16:15'
-created_ts: 1596672975
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -26,11 +26,9 @@ ingredients: '1 lb. fresh sushi-grade tuna fillet
 
   Thai-Style Dipping Sauce'
 intrash: 0
-meal_notes:
-- 2020-08-08-dinner
 mine: null
 name: Fresh Tuna Burgers with Ginger & Cilantro
-p_recipe_id: 291
+p_recipe_id: 462
 permalink: /recipes/fresh-tuna-burgers-with-ginger-cilantro
 photo_large: null
 photo_thumb: fresh-tuna-burgers-with-ginger-cilantro-thumb.jpg

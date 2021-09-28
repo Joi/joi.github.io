@@ -2,8 +2,8 @@
 title: "Jamaican Oxtails"
 filename: "jamaican-oxtails"
 cook_time: 45 minutes
-created: '2021-07-10 13:37:36'
-created_ts: 1625924256
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -15,9 +15,11 @@ ingredients: "2.5 lbs oxtails\n\xBC cup brown sugar\n1 Tbsp soy sauce\n1 Tbsp Wo
   \ seeds and membrane removed and chopped\n1 cup beef broth\n1 Tbsp ketchup\n1 tsp\
   \ dried thyme\n2 Tbsp water\n1 Tbsp cornstarch\n1 16 oz can Butter Beans drained"
 intrash: 0
+meal_notes:
+- 2021-07-13-dinner
 mine: null
 name: Jamaican Oxtails
-p_recipe_id: 538
+p_recipe_id: 176
 permalink: /recipes/jamaican-oxtails
 photo_large: null
 photo_thumb: jamaican-oxtails-thumb.jpg

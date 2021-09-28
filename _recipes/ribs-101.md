@@ -2,22 +2,22 @@
 title: "Ribs 101"
 filename: "ribs-101"
 cook_time: 08:15
-created: '2021-05-16 11:49:36'
-created_ts: 1621165776
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "1 rack Pork ribs\n\xBD cup Brown sugar (100g)\n1 Tbsp Kosher salt (18g)\n\
   2 tsp Garlic powder (8g)\n2 tsp Onion powder (8g)\n2 tsp Paprika (6g)"
 intrash: 0
 meal_notes:
-- 2021-05-16-dinner
-- 2021-05-30-dinner
 - 2021-07-04-dinner
+- 2021-05-30-dinner
+- 2021-05-16-dinner
 mine: null
 name: Ribs 101
-p_recipe_id: 530
+p_recipe_id: 432
 permalink: /recipes/ribs-101
 photo_large: ribs-101-large.jpg
 photo_thumb: ribs-101-thumb.jpg
@@ -34,7 +34,7 @@ source_url: https://oven.anovaculinary.com/recipe/gtdeykBbplEkYfWU36x1
 tags:
 - pork spare ribs
 - bbq
-total_time: ''
+total_time: null
 type: null
 uid: DC307AB4-84E8-4F1E-8ADA-F984DF0059B1
 ---

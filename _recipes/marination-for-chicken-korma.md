@@ -2,8 +2,8 @@
 title: "Marination for Chicken Korma"
 filename: "marination-for-chicken-korma"
 cook_time: 35 minutes
-created: '2021-05-13 11:28:52'
-created_ts: 1620905332
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -31,7 +31,7 @@ ingredients: "Preparation for chicken korma\n1. To a mixing bowl, add\n\xBD kg c
 intrash: 0
 mine: null
 name: Marination for Chicken Korma
-p_recipe_id: 526
+p_recipe_id: 125
 permalink: /recipes/marination-for-chicken-korma
 photo_large: null
 photo_thumb: marination-for-chicken-korma-thumb.jpg
@@ -43,8 +43,8 @@ slug: marination-for-chicken-korma
 source: indianhealthyrecipes.com
 source_url: https://www.indianhealthyrecipes.com/chicken-korma-recipe/
 tags:
-- chicken
 - curry
+- chicken
 total_time: null
 type: null
 uid: 3C7746C0-A932-4C54-9E0B-7306F0D06E9C-12850-00028F54981CD2F6

@@ -2,10 +2,10 @@
 title: "Moroccan Steamed Lamb Shoulder"
 filename: "moroccan-steamed-lamb-shoulder"
 cook_time: 4 hours
-created: '2020-05-14 14:30:03'
-created_ts: 1589466603
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2015/09/30/dining/30KITCHEN/30KITCHEN-articleLarge.jpg
 ingredients: "FOR THE LAMB:\n1 tied boneless lamb shoulder roast, about 4 pounds\n\
@@ -20,12 +20,12 @@ ingredients: "FOR THE LAMB:\n1 tied boneless lamb shoulder roast, about 4 pounds
 intrash: 0
 mine: null
 name: Moroccan Steamed Lamb Shoulder
-p_recipe_id: 146
+p_recipe_id: 23
 permalink: /recipes/moroccan-steamed-lamb-shoulder
 photo_large: null
 photo_thumb: moroccan-steamed-lamb-shoulder-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 to 6 servings
 slug: moroccan-steamed-lamb-shoulder
@@ -34,7 +34,7 @@ source_url: https://cooking.nytimes.com/recipes/1017718-moroccan-steamed-lamb-sh
 tags:
 - lamb
 - meat
-total_time: ''
+total_time: null
 type: null
 uid: 07360EAC-7A31-4378-8FE7-9338446ECA6F-13891-0000A70DEA85C9EB
 ---

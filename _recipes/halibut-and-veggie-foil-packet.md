@@ -2,10 +2,10 @@
 title: "Halibut and Veggie Foil Packet"
 filename: "halibut-and-veggie-foil-packet"
 cook_time: 14 minutes
-created: '2020-06-01 12:51:11'
-created_ts: 1591015871
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "heavy-duty aluminum foil\n4 -4 oz halibut fillets\nsalt and pepper\n\
@@ -14,11 +14,9 @@ ingredients: "heavy-duty aluminum foil\n4 -4 oz halibut fillets\nsalt and pepper
   \ tarragon or basil\n2 Tbsp fresh parsley, chopped\n1 lemon, thinly sliced\nolive\
   \ oil"
 intrash: 0
-meal_notes:
-- 2020-06-01-dinner
 mine: null
 name: Halibut and Veggie Foil Packet
-p_recipe_id: 178
+p_recipe_id: 199
 permalink: /recipes/halibut-and-veggie-foil-packet
 photo_large: null
 photo_thumb: null
@@ -30,10 +28,10 @@ slug: halibut-and-veggie-foil-packet
 source: everydaydishes.com
 source_url: https://everydaydishes.com/simple-food-recipes/halibut-and-veggie-foil-packet-recipe/
 tags:
-- fish
-- white fish
 - halibut
-total_time: ''
+- white fish
+- fish
+total_time: null
 type: null
 uid: 6263EFB6-0713-4AF0-A003-C6E5DF839147-29546-0004CF93A912ECE7
 ---

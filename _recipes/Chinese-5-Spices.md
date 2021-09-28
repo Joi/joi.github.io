@@ -2,8 +2,8 @@
 title: "Chinese 5 Spices"
 filename: "chinese-5-spices"
 cook_time: null
-created: '2021-01-15 19:01:31'
-created_ts: 1610737291
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -14,7 +14,7 @@ ingredients: "6  star anise pods\n1 \xBD teaspoons whole cloves (or 1 1/4 teaspo
 intrash: 0
 mine: null
 name: Chinese 5 Spices
-p_recipe_id: 450
+p_recipe_id: 443
 permalink: /recipes/chinese-5-spices
 photo_large: chinese-5-spices-large.jpg
 photo_thumb: chinese-5-spices-thumb.jpg

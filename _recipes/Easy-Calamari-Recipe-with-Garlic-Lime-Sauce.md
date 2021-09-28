@@ -2,10 +2,10 @@
 title: "Easy Calamari Recipe with Garlic-Lime Sauce"
 filename: "easy-calamari-recipe-with-garlic-lime-sauce"
 cook_time: 6 mins
-created: '2020-07-01 18:18:44'
-created_ts: 1593627524
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.themediterraneandish.com/wp-content/uploads/2015/03/Calamari-Recipe-3-683x1024.jpg
 ingredients: 'Extra Virgin Olive Oil (I used Private Reserve Greek olive oil)
@@ -28,7 +28,7 @@ ingredients: 'Extra Virgin Olive Oil (I used Private Reserve Greek olive oil)
 intrash: 0
 mine: null
 name: Easy Calamari Recipe with Garlic-Lime Sauce
-p_recipe_id: 218
+p_recipe_id: 82
 permalink: /recipes/easy-calamari-recipe-with-garlic-lime-sauce
 photo_large: null
 photo_thumb: easy-calamari-recipe-with-garlic-lime-sauce-thumb.jpg
@@ -41,7 +41,7 @@ source: themediterraneandish.com
 source_url: https://www.themediterraneandish.com/15-minute-calamari-recipe/
 tags:
 - squid
-total_time: ''
+total_time: null
 type: null
 uid: 2831FFFC-E6FD-4540-8340-DABBF6E34558-631-0000611A318FD25C
 ---

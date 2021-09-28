@@ -17,7 +17,7 @@ notes:
     uri_path: /notes/2020-09-17-dinner.html
 recipes:
 - mine: null
-  p_recipe_id: 520
+  p_recipe_id: 39
   permalink: /recipes/monterey-bay-abalone-meuniere-style
   photo_thumb: 386BFD0A-FDA8-4281-8B8B-A06B6931036E-14317-0002B4BD21C58E40.jpg
   rating: 5

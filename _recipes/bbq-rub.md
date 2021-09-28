@@ -1,11 +1,11 @@
 ---
 title: "BBQ Rub"
 filename: "bbq-rub"
-cook_time: ''
-created: '2021-04-04 14:34:22'
-created_ts: 1617546862
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: This BBQ Sauce is based on the basic BBQ rub [from Raichlen.](https://www.stevenraichlen.com/programs/project-smoke/)
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "\xBC cup salt\n\xBC cup brown sugar\n\xBC cup sweet paprika (optionally\
@@ -13,26 +13,25 @@ ingredients: "\xBC cup salt\n\xBC cup brown sugar\n\xBC cup sweet paprika (optio
   \ cayenne pepper\n\xBD tsp crushed celery seeds\n1 Tbsp onion powder\n"
 intrash: 0
 meal_notes:
-- 2020-09-20-dinner
-- 2021-07-03-pantry
+- 2021-07-03-dinner
 mine: 1
 name: BBQ Rub
-p_recipe_id: 505
+p_recipe_id: 420
 permalink: /recipes/bbq-rub
 photo_large: bbq-rub-large.jpg
 photo_thumb: bbq-rub-thumb.jpg
 photos_dict:
   '1': bbq-rub-1.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: bbq-rub
 source: null
 source_url: null
 tags:
 - sauce
 - bbq
-total_time: ''
+total_time: null
 type: null
 uid: D5AD42AF-0CB6-4163-8819-953982E230A2-52325-000362AA97E0FBF1
 ---

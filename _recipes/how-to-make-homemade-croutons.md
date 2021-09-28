@@ -2,8 +2,8 @@
 title: "How to Make Homemade Croutons"
 filename: "how-to-make-homemade-croutons"
 cook_time: 20 minutes
-created: '2020-08-20 19:19:42'
-created_ts: 1597951182
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -22,7 +22,7 @@ ingredients: '1 loaf of bread (about 12 ounces), cut into 3/4-inch cubes
 intrash: 0
 mine: null
 name: How to Make Homemade Croutons
-p_recipe_id: 318
+p_recipe_id: 464
 permalink: /recipes/how-to-make-homemade-croutons
 photo_large: null
 photo_thumb: how-to-make-homemade-croutons-thumb.jpg

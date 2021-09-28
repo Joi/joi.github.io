@@ -2,8 +2,8 @@
 title: "Garlic Braised Short Ribs with Red Wine"
 filename: "garlic-braised-short-ribs-with-red-wine"
 cook_time: null
-created: '2020-07-06 23:46:08'
-created_ts: 1594079168
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -17,12 +17,9 @@ ingredients: "2 tablespoons vegetable oil\n5 pounds bone-in short ribs, at least
   \ in a pinch), plus more as needed\n4 sprigs thyme\n1 cup parsley, coarsely chopped\n\
   \xBD cup finely chopped chives\n1 tablespoon finely grated lemon zest"
 intrash: 0
-meal_notes:
-- 2020-07-08-dinner
-- 2021-01-24-dinner
 mine: null
 name: Garlic Braised Short Ribs with Red Wine
-p_recipe_id: 235
+p_recipe_id: 193
 permalink: /recipes/garlic-braised-short-ribs-with-red-wine
 photo_large: garlic-braised-short-ribs-with-red-wine-large.jpg
 photo_thumb: garlic-braised-short-ribs-with-red-wine-thumb.jpg

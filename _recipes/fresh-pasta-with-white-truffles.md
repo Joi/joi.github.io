@@ -2,8 +2,8 @@
 title: "Fresh Pasta with White Truffles"
 filename: "fresh-pasta-with-white-truffles"
 cook_time: 10 minutes
-created: '2020-11-18 12:53:31'
-created_ts: 1605704011
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -24,7 +24,7 @@ ingredients: '1 Large Garlic Clove, Halved
 intrash: 0
 mine: null
 name: Fresh Pasta with White Truffles
-p_recipe_id: 409
+p_recipe_id: 95
 permalink: /recipes/fresh-pasta-with-white-truffles
 photo_large: null
 photo_thumb: fresh-pasta-with-white-truffles-thumb.jpg

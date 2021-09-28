@@ -1,11 +1,11 @@
 ---
 title: "Aioli Sauce"
 filename: "aioli-sauce"
-cook_time: ''
-created: '2020-07-10 21:07:05'
-created_ts: 1594415225
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '2 cloves of garlic or 1 tablespoon of green garlic
@@ -37,28 +37,25 @@ ingredients: '2 cloves of garlic or 1 tablespoon of green garlic
   1 tablespoon of fresh tarragon or chives'
 intrash: 0
 meal_notes:
-- 2020-07-10-dinner
 - 2020-09-19-dinner
-- 2020-10-13-dinner
-- 2020-12-05-dinner
 - 2021-07-04-dinner
 mine: null
 name: Aioli Sauce
-p_recipe_id: 242
+p_recipe_id: 118
 permalink: /recipes/aioli-sauce
 photo_large: aioli-sauce-large.jpg
 photo_thumb: aioli-sauce-thumb.jpg
 photos_dict:
   '1': aioli-sauce-1.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: aioli-sauce
 source: null
 source_url: null
 tags:
 - sauce
-total_time: ''
+total_time: null
 type: null
 uid: 383352B7-6E3A-4CB7-A36E-EA826E3E00AB-631-0003169816AA6155
 ---

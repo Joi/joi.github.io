@@ -2,8 +2,8 @@
 title: "Seared Ahi Tuna Steaks"
 filename: "seared-ahi-tuna-steaks"
 cook_time: 12 mins
-created: '2020-06-25 00:09:37'
-created_ts: 1593043777
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -11,11 +11,9 @@ image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages
 ingredients: "2 (5 ounce) ahi tuna steaks\n1 teaspoon kosher salt\n\xBC teaspoon cayenne\
   \ pepper\n\xBD tablespoon butter\n2 tablespoons olive oil\n1 teaspoon whole peppercorns"
 intrash: 0
-meal_notes:
-- 2020-06-26-dinner
 mine: null
 name: Seared Ahi Tuna Steaks
-p_recipe_id: 202
+p_recipe_id: 156
 permalink: /recipes/seared-ahi-tuna-steaks
 photo_large: null
 photo_thumb: seared-ahi-tuna-steaks-thumb.jpg

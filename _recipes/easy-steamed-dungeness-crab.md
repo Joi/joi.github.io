@@ -2,9 +2,9 @@
 title: "Easy Steamed Dungeness Crab"
 filename: "easy-steamed-dungeness-crab"
 cook_time: 30 mins
-created: '2020-03-31 19:52:28'
-created_ts: 1585684348
-description: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
 difficulty: Easy
 favorite: 0
 image_url: https://chowhound1.cbsistatic.com/thumbnail/1200/0/chowhound1.cbsistatic.com/assets/recipe_photos/30258_RecipeImage_dungeness_crab2.jpg
@@ -22,11 +22,9 @@ ingredients: 'For the crab:
 
   Cucumber Mignonette (recipe link in intro)'
 intrash: 0
-meal_notes:
-- 2020-03-31-dinner
 mine: null
 name: Easy Steamed Dungeness Crab
-p_recipe_id: 80
+p_recipe_id: 326
 permalink: /recipes/easy-steamed-dungeness-crab
 photo_large: null
 photo_thumb: easy-steamed-dungeness-crab-thumb.jpg
@@ -39,7 +37,7 @@ source: chowhound.com
 source_url: https://www.chowhound.com/recipes/basic-steamed-dungeness-crab-30258
 tags:
 - crab
-total_time: ''
+total_time: null
 type: null
 uid: A947450F-684C-4077-A669-1F1F4B3E244A-16595-000152F449C1E9CB
 ---

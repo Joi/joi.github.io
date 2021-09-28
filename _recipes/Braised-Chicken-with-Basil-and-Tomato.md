@@ -1,11 +1,11 @@
 ---
 title: "Braised Chicken with Basil and Tomato"
 filename: "braised-chicken-with-basil-and-tomato"
-cook_time: ''
-created: '2020-04-02 17:19:17'
-created_ts: 1585847957
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "\xBD cup table salt, for brining\n1 \xBD - 2 lb bone-in split chicken\
@@ -16,22 +16,18 @@ ingredients: "\xBD cup table salt, for brining\n1 \xBD - 2 lb bone-in split chic
   \ cup dry white wine\n\xBC cup chopped fresh basil, divided\n2 tsp red wine vinegar"
 intrash: 0
 meal_notes:
-- 2020-05-13-dinner
-- 2020-06-03-dinner
-- 2020-09-10-dinner
-- 2020-12-09-dinner
-- 2021-05-06-dinner
 - 2021-06-23-dinner
+- 2021-05-06-dinner
 mine: null
 name: Braised Chicken with Basil and Tomato
-p_recipe_id: 86
+p_recipe_id: 487
 permalink: /recipes/braised-chicken-with-basil-and-tomato
 photo_large: braised-chicken-with-basil-and-tomato-large.jpg
 photo_thumb: braised-chicken-with-basil-and-tomato-thumb.jpg
 photos_dict:
   '1': braised-chicken-with-basil-and-tomato-1.jpg
   '2': braised-chicken-with-basil-and-tomato-2.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Serves 4 to 6
 slug: braised-chicken-with-basil-and-tomato
@@ -39,7 +35,7 @@ source: cooksillustrated.com
 source_url: https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato?incode=MCSCM00L0&ref=new_search_experience_19
 tags:
 - chicken
-total_time: ''
+total_time: null
 type: null
 uid: FF6B358D-8D29-4986-84E0-27C7EBD83014-9482-0000064F04336AC0
 ---

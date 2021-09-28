@@ -2,10 +2,10 @@
 title: "Instant Pot Pot Roast"
 filename: "instant-pot-pot-roast"
 cook_time: 2 hours
-created: '2020-04-24 19:01:08'
-created_ts: 1587754868
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.pressurecookrecipes.com/wp-content/uploads/2016/06/instant-pot-pot-roast-2-293x195.jpg
 ingredients: "1 - 3 pounds (1176g) USDA choice grade chuck roast or Canada AAA grade\
@@ -20,12 +20,12 @@ ingredients: "1 - 3 pounds (1176g) USDA choice grade chuck roast or Canada AAA g
 intrash: 0
 mine: null
 name: Instant Pot Pot Roast
-p_recipe_id: 125
+p_recipe_id: 272
 permalink: /recipes/instant-pot-pot-roast
 photo_large: null
 photo_thumb: instant-pot-pot-roast-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
 servings: 'Servings: 4'
 slug: instant-pot-pot-roast
@@ -33,7 +33,7 @@ source: pressurecookrecipes.com
 source_url: https://www.pressurecookrecipes.com/instant-pot-pot-roast/
 tags:
 - beef
-total_time: ''
+total_time: null
 type: null
 uid: 898D38DA-42A6-439A-827B-3937E5B5F7F8-89150-0001DFF5064B7E67
 ---

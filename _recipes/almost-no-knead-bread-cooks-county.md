@@ -1,9 +1,9 @@
 ---
 title: "Almost No-Knead Bread - Cook's County"
 filename: "almost-no-knead-bread-cooks-county"
-cook_time: ''
-created: '2020-06-11 16:32:19'
-created_ts: 1591893139
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: "A no-fuss recipe that is revolutionizing home baking trades flavor and\
   \ reliability for ease. Could we improve the bread's bland taste and make it rise\
   \ high every time?\n\nTo avoid lengthy and tiresome kneading, we let our bread dough\
@@ -13,7 +13,7 @@ description: "A no-fuss recipe that is revolutionizing home baking trades flavor
   \ standard no-knead recipes, we add vinegar for acidic tang and lager beer for extra\
   \ yeastiness. We bake the bread in a covered pot to create steam, producing a springy\
   \ interior, and then finish baking it uncovered for a beautifully browned crust."
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://res.cloudinary.com/hksqkdlah/image/upload/ar_1:1,c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_344/22085_sfs-easy-rustic-bread-7-1
 ingredients: "GATHER YOUR INGREDIENTS\n3 cups (15 ounces) all-purpose flour\n1 \xBD\
@@ -23,12 +23,12 @@ ingredients: "GATHER YOUR INGREDIENTS\n3 cups (15 ounces) all-purpose flour\n1 \
 intrash: 0
 mine: null
 name: Almost No-Knead Bread - Cook's County
-p_recipe_id: 184
+p_recipe_id: 306
 permalink: /recipes/almost-no-knead-bread-cooks-county
 photo_large: null
 photo_thumb: almost-no-knead-bread-cooks-county-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: 1 large round loaf
 slug: almost-no-knead-bread-cooks-county
@@ -36,7 +36,7 @@ source: cookscountry.com
 source_url: https://www.cookscountry.com/recipes/8101-almost-no-knead-bread?extcode=MCSKD10L0&ref=new_search_experience_1
 tags:
 - bread and biscuits
-total_time: ''
+total_time: null
 type: null
 uid: 9CE3F443-91C4-4058-AC65-C00221720A95-1358-000095A17DE99D5E
 ---

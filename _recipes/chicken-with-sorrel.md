@@ -1,15 +1,15 @@
 ---
 title: "Chicken with Sorrel"
 filename: "chicken-with-sorrel"
-cook_time: ''
-created: '2021-04-14 11:10:53'
-created_ts: 1618398653
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: 'Based on [a NYT recipe](https://cooking.nytimes.com/recipes/6815-chicken-with-sorrel?smid=ck-recipe-iOS-share)
   and mashed with staged cooking of chicken parts inspired by [Cook''s Illustrated''s
   Braised Chicken with Basil and Tomato recipe](https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato).
 
   '
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "1 Tbsp light oil\n2 Tbsp butter\n1 2 \xBD - to 3-pound chicken, cut\
@@ -21,7 +21,7 @@ meal_notes:
 - 2021-04-14-dinner
 mine: 1
 name: Chicken with Sorrel
-p_recipe_id: 516
+p_recipe_id: 310
 permalink: /recipes/chicken-with-sorrel
 photo_large: chicken-with-sorrel-large.jpg
 photo_thumb: chicken-with-sorrel-thumb.jpg
@@ -29,16 +29,16 @@ photos_dict:
   '1': chicken-with-sorrel-1.jpg
   '2': chicken-with-sorrel-2.jpg
   '3': chicken-with-sorrel-3.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: chicken-with-sorrel
 source: null
 source_url: null
 tags:
-- chicken
 - sorrel
-total_time: ''
+- chicken
+total_time: null
 type: null
 uid: 9E0A43DB-249C-4E4F-A5AC-328C0E31AC22
 ---

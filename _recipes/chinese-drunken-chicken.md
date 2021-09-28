@@ -2,8 +2,8 @@
 title: "Chinese Drunken Chicken"
 filename: "chinese-drunken-chicken"
 cook_time: 1 hr 25 mins
-created: '2020-09-30 11:31:29'
-created_ts: 1601465489
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -14,11 +14,9 @@ ingredients: "**For Stage 1: Preparing the Chicken & Stock**\n2 chicken leg quar
   \ cups shaoxing huadiao wine (\u7ECD\u5174\u82B1\u96D5\u9152)\n1 1/2 teaspoons sugar\n\
   2 1/2 teaspoons sea salt\n1 tablespoon dried goji berries/wolfberries"
 intrash: 0
-meal_notes:
-- 2020-10-01-dinner
 mine: null
 name: Chinese Drunken Chicken
-p_recipe_id: 374
+p_recipe_id: 360
 permalink: /recipes/chinese-drunken-chicken
 photo_large: null
 photo_thumb: chinese-drunken-chicken-thumb.jpg

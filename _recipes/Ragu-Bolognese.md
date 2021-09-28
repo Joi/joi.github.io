@@ -2,8 +2,8 @@
 title: "Ragú Bolognese"
 filename: "ragu-bolognese"
 cook_time: null
-created: '2020-02-03 03:22:10'
-created_ts: 1580700130
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: "A rag\xFA is a meat sauce that is usually made with beef or veal, but\
   \ can also be made from chicken, duckling, turkey, rabbit or lamb. Traditionally\
   \ argue was made only at home and every self-respecting Italian housewife would\
@@ -15,7 +15,7 @@ description: "A rag\xFA is a meat sauce that is usually made with beef or veal, 
   \ make the sauce the day we serve it.\n\nRag\xFA - sometimes called Bolognese sauce\
   \ - is good with any pasta, but I think fusilli are best."
 difficulty: Medium
-favorite: 1
+favorite: 0
 image_url: null
 ingredients: '1 carrot, peeled
 
@@ -50,10 +50,10 @@ ingredients: '1 carrot, peeled
   Cheesecloth for bouquet garni'
 intrash: 0
 meal_notes:
-- 2020-06-06-dinner
+- 2021-07-31-dinner
 mine: null
 name: "Rag\xFA Bolognese"
-p_recipe_id: 8
+p_recipe_id: 78
 permalink: /recipes/ragu-bolognese
 photo_large: null
 photo_thumb: null
@@ -67,8 +67,8 @@ source_url: null
 tags:
 - pasta
 - veal
-- italian
 - meat
+- italian
 total_time: null
 type: null
 uid: 262E123B-CE5F-49F4-A4BF-6EB433B9D6DA-408-0000264A91039DA4

@@ -2,8 +2,8 @@
 title: "Slow Cooked Lamb Shoulder"
 filename: "slow-cooked-lamb-shoulder"
 cook_time: null
-created: '2020-05-16 13:58:42'
-created_ts: 1589637522
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -36,7 +36,7 @@ ingredients: '1.8kg / 3.5 lb lamb shoulder (bone in) (Note 1)
 intrash: 0
 mine: null
 name: Slow Cooked Lamb Shoulder
-p_recipe_id: 165
+p_recipe_id: 489
 permalink: /recipes/slow-cooked-lamb-shoulder
 photo_large: null
 photo_thumb: slow-cooked-lamb-shoulder-thumb.jpg

@@ -2,8 +2,8 @@
 title: "Basket-Steamed Black Cod with Lime Sauce and Vegetables"
 filename: "basket-steamed-black-cod-with-lime-sauce-and-vegetables"
 cook_time: 10 mins
-created: '2020-11-13 13:13:52'
-created_ts: 1605273232
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: Easy
 favorite: 0
@@ -21,7 +21,7 @@ ingredients: "Cloves from 1/2 head of garlic, peeled and trimmed\n1 lower stalk 
 intrash: 0
 mine: null
 name: Basket-Steamed Black Cod with Lime Sauce and Vegetables
-p_recipe_id: 408
+p_recipe_id: 47
 permalink: /recipes/basket-steamed-black-cod-with-lime-sauce-and-vegetables
 photo_large: null
 photo_thumb: basket-steamed-black-cod-with-lime-sauce-and-vegetables-thumb.jpg

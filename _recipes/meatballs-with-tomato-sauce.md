@@ -2,8 +2,8 @@
 title: "Meatballs with Tomato Sauce"
 filename: "meatballs-with-tomato-sauce"
 cook_time: 45min
-created: '2020-02-02 12:32:26'
-created_ts: 1580646746
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: Easy
 favorite: 0
@@ -19,7 +19,7 @@ meal_notes:
 - 2021-05-28-dinner
 mine: null
 name: Meatballs with Tomato Sauce
-p_recipe_id: 17
+p_recipe_id: 185
 permalink: /recipes/meatballs-with-tomato-sauce
 photo_large: null
 photo_thumb: meatballs-with-tomato-sauce-thumb.jpg
@@ -31,10 +31,10 @@ slug: meatballs-with-tomato-sauce
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r91198
 tags:
-- beef
-- italian
 - meat
+- beef
 - ground beef
+- italian
 total_time: null
 type: null
 uid: 5B4116BF-6F4A-4E56-B458-15BC1D12942F-25037-00009F51FB96AA6B

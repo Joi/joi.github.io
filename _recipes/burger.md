@@ -1,11 +1,11 @@
 ---
 title: "Burger"
 filename: "burger"
-cook_time: ''
-created: '2021-04-10 19:21:49'
-created_ts: 1618082509
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: 'Ground beef
@@ -13,11 +13,11 @@ ingredients: 'Ground beef
   Buns'
 intrash: 0
 meal_notes:
-- 2021-04-11-dinner
 - 2021-05-04-dinner
+- 2021-04-11-dinner
 mine: 1
 name: Burger
-p_recipe_id: 514
+p_recipe_id: 79
 permalink: /recipes/burger
 photo_large: burger-large.jpg
 photo_thumb: burger-thumb.jpg
@@ -31,17 +31,17 @@ photos_dict:
   '7': burger-7.jpg
   '8': burger-8.jpg
   '9': burger-9.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: burger
 source: null
 source_url: null
 tags:
+- burger
 - short ribs
 - ground beef
-- burger
-total_time: ''
+total_time: null
 type: null
 uid: 269BFC46-98A2-4B80-B595-F728CCC2D8E0-88379-000549D16BA59A30
 ---

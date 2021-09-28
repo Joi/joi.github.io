@@ -1,11 +1,11 @@
 ---
 title: "Mayonnaise"
 filename: "mayonnaise"
-cook_time: ''
-created: '2020-02-02 13:00:49'
-created_ts: 1580648449
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "2 large egg yolks or 1 large egg and 1 large egg yolk, at room temperature\n\
@@ -15,15 +15,12 @@ ingredients: "2 large egg yolks or 1 large egg and 1 large egg yolk, at room tem
   \ or water as needed to thin sauce"
 intrash: 0
 meal_notes:
-- 2020-06-11-lunch
-- 2020-08-17-dinner
-- 2021-01-22-dinner
-- 2021-03-27-pantry
-- 2021-04-11-pantry
+- 2021-04-11-lunch
+- 2021-03-27-snacks
 - 2021-05-27-dinner
 mine: 1
 name: Mayonnaise
-p_recipe_id: 39
+p_recipe_id: 421
 permalink: /recipes/mayonnaise
 photo_large: mayonnaise-large.jpg
 photo_thumb: mayonnaise-thumb.jpg
@@ -31,15 +28,15 @@ photos_dict:
   '1': mayonnaise-1.jpg
   '2': mayonnaise-2.jpg
   '3': mayonnaise-3.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: mayonnaise
 source: null
 source_url: null
 tags:
 - spread
-total_time: ''
+total_time: null
 type: null
 uid: D5E799CA-BA36-4A30-B385-9CD111E6F9A5-25037-0000A0DF30640117
 ---

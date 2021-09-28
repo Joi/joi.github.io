@@ -2,10 +2,10 @@
 title: "Slow Cooker Salsa Verde Chicken"
 filename: "slow-cooker-salsa-verde-chicken"
 cook_time: 5 to 6 hours
-created: '2020-04-19 15:21:48'
-created_ts: 1587309708
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2019/11/25/dining/sd-slow-cooker-salsa-verde-chicken/sd-slow-cooker-salsa-verde-chicken-articleLarge.jpg
 ingredients: "1 \xBD pounds boneless, skinless chicken thighs\n1 \xBD cups jarred\
@@ -19,12 +19,12 @@ ingredients: "1 \xBD pounds boneless, skinless chicken thighs\n1 \xBD cups jarre
 intrash: 0
 mine: null
 name: Slow Cooker Salsa Verde Chicken
-p_recipe_id: 110
+p_recipe_id: 69
 permalink: /recipes/slow-cooker-salsa-verde-chicken
 photo_large: null
 photo_thumb: slow-cooker-salsa-verde-chicken-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 servings
 slug: slow-cooker-salsa-verde-chicken
@@ -32,7 +32,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1020669-slow-cooker-salsa-verde-chicken?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
 tags:
 - chicken
-total_time: ''
+total_time: null
 type: null
 uid: 22A573CB-290E-48B6-95B4-8902C6D0388E-407-00004B19D7C22E2D
 ---

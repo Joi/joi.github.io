@@ -2,8 +2,8 @@
 title: "Butter Poached Fish"
 filename: "butter-poached-fish"
 cook_time: 20 mins
-created: '2020-08-07 11:32:21'
-created_ts: 1596799941
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -32,7 +32,7 @@ ingredients: '1 to 2 pounds of skinless boneless fish or shrimp
 intrash: 0
 mine: null
 name: Butter Poached Fish
-p_recipe_id: 298
+p_recipe_id: 312
 permalink: /recipes/butter-poached-fish
 photo_large: null
 photo_thumb: butter-poached-fish-thumb.jpg

@@ -2,8 +2,8 @@
 title: "Jim Lahey's No-Knead Whole-Wheat Bread"
 filename: "jim-laheys-no-knead-whole-wheat-bread"
 cook_time: 1 h
-created: '2020-04-21 17:20:15'
-created_ts: 1587489615
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -13,11 +13,9 @@ ingredients: "2 1/4 cups bread flour, plus more for the work surface\n3/4 cup wh
   1 1/3 cups cool (55 to 65\xB0F | 13\xB0 to 18\xB0C) water\nWheat bran, cornmeal,\
   \ or additional flour, for dusting"
 intrash: 0
-meal_notes:
-- 2020-04-26-snacks
 mine: null
 name: Jim Lahey's No-Knead Whole-Wheat Bread
-p_recipe_id: 119
+p_recipe_id: 195
 permalink: /recipes/jim-laheys-no-knead-whole-wheat-bread
 photo_large: null
 photo_thumb: jim-laheys-no-knead-whole-wheat-bread-thumb.jpg

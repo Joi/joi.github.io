@@ -2,10 +2,10 @@
 title: "Authentic Thai Green Curry Recipe"
 filename: "authentic-thai-green-curry-recipe"
 cook_time: "2 \u2013 3 hours"
-created: '2021-05-13 13:58:55'
-created_ts: 1620914335
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.eatingthaifood.com/wp-content/uploads/2017/02/authentic-thai-green-curry-recipe.jpg
 ingredients: "Green curry\n1 whole chicken (\u0E44\u0E01\u0E48\u0E1A\u0E49\u0E32\u0E19\
@@ -28,11 +28,11 @@ ingredients: "Green curry\n1 whole chicken (\u0E44\u0E01\u0E48\u0E1A\u0E49\u0E32
   \u0E01\u0E25\u0E37\u0E2D)\n1 tbsp. shrimp paste (\u0E01\u0E30\u0E1B\u0E34)"
 intrash: 0
 meal_notes:
-- 2021-05-13-dinner
 - 2021-05-21-dinner
+- 2021-05-13-dinner
 mine: null
 name: Authentic Thai Green Curry Recipe
-p_recipe_id: 527
+p_recipe_id: 97
 permalink: /recipes/authentic-thai-green-curry-recipe
 photo_large: null
 photo_thumb: authentic-thai-green-curry-recipe-thumb.jpg
@@ -44,10 +44,10 @@ slug: authentic-thai-green-curry-recipe
 source: eatingthaifood.com
 source_url: https://www.eatingthaifood.com/thai-green-curry-recipe/
 tags:
-- chicken
 - curry
 - thai
-total_time: ''
+- chicken
+total_time: null
 type: null
 uid: 2F6E2C50-A28F-48AF-9CC7-5CB692D5FEAC-22216-00016D65A693753F
 ---

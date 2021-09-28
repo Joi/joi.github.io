@@ -2,10 +2,10 @@
 title: "Salmon with Sesame and Herbs"
 filename: "salmon-with-sesame-and-herbs"
 cook_time: 20 minutes
-created: '2020-04-08 13:16:19'
-created_ts: 1586351779
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2018/08/02/dining/salmon-sesame-herbs/salmon-sesame-herbs-articleLarge.jpg
 ingredients: '3 tablespoons low-sodium soy sauce
@@ -28,21 +28,21 @@ ingredients: '3 tablespoons low-sodium soy sauce
 intrash: 0
 mine: null
 name: Salmon with Sesame and Herbs
-p_recipe_id: 96
+p_recipe_id: 382
 permalink: /recipes/salmon-with-sesame-and-herbs
 photo_large: null
 photo_thumb: salmon-with-sesame-and-herbs-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 servings
 slug: salmon-with-sesame-and-herbs
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018897-salmon-with-sesame-and-herbs?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
 tags:
-- fish
 - salmon
-total_time: ''
+- fish
+total_time: null
 type: null
 uid: C52B3054-5188-4546-8100-1DD155BB9B83-16595-0003B21240219FAE
 ---

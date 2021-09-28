@@ -2,8 +2,8 @@
 title: "Beef Tostadas"
 filename: "beef-tostadas"
 cook_time: 10 min
-created: '2020-12-26 15:02:31'
-created_ts: 1608994951
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: Easy
 favorite: 0
@@ -34,7 +34,7 @@ ingredients: '2 tablespoons vegetable oil
 intrash: 0
 mine: null
 name: Beef Tostadas
-p_recipe_id: 439
+p_recipe_id: 139
 permalink: /recipes/beef-tostadas
 photo_large: null
 photo_thumb: beef-tostadas-thumb.jpg
@@ -46,8 +46,8 @@ slug: beef-tostadas
 source: foodnetwork.com
 source_url: https://www.foodnetwork.com/recipes/food-network-kitchen/beef-tostadas-recipe-1973149
 tags:
-- ground beef
 - mexican
+- ground beef
 total_time: null
 type: null
 uid: 46AC7BCC-2345-4357-B05D-563A3C357E12-1607-000000A1272FF1ED

@@ -2,8 +2,8 @@
 title: "Stuffed Cabbage"
 filename: "stuffed-cabbage"
 cook_time: 1 hr
-created: '2020-12-26 14:59:17'
-created_ts: 1608994757
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: Easy
 favorite: 0
@@ -46,7 +46,7 @@ ingredients: '3 tablespoons good olive oil
 intrash: 0
 mine: null
 name: Stuffed Cabbage
-p_recipe_id: 438
+p_recipe_id: 53
 permalink: /recipes/stuffed-cabbage
 photo_large: null
 photo_thumb: stuffed-cabbage-thumb.jpg

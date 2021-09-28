@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/2021-04-27-dinner.md",
+            "file": "_notes/2021-09-25-dinner.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-04-27-dinner.md",
+                "file": "_notes/2021-09-25-dinner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,15 +95,15 @@
   },
   "active": "3719bcb9f4d045af",
   "lastOpenFiles": [
+    "_notes/2021-09-25-dinner.md",
+    "images/recipes/prime-rib-19.jpg",
+    "_tags/prime-rib.md",
+    "_notes/2021-05-17-dinner 1.md",
+    "_notes/2021-05-17-dinner.md",
     "_notes/2021-04-27-dinner.md",
     "_notes/2021-04-29-dinner.md",
     "_notes/2021-04-30-dinner.md",
     "_notes/2021-05-02-lunch.md",
-    "_notes/2021-05-03-dinner.md",
-    "_notes/2021-05-04-dinner.md",
-    "images/recipes/bbq-spare-ribs-2.jpg",
-    "_notes/2021-05-16-dinner.md",
-    "_notes/2021-05-17-dinner.md",
-    "images/recipes/steak-3.jpg"
+    "_notes/2021-05-03-dinner.md"
   ]
 }

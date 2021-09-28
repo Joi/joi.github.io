@@ -2,10 +2,10 @@
 title: "Mexican Salad"
 filename: "mexican-salad"
 cook_time: 20 mins
-created: '2020-07-16 01:51:33'
-created_ts: 1594864293
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.wellplated.com/wp-content/uploads/2019/09/Delicious-Mexican-Salad-Recipe.jpg
 ingredients: "For the Salad:\n1/4 cup raw pepitas\n2 medium/large sweet potatoes -\
@@ -23,11 +23,9 @@ ingredients: "For the Salad:\n1/4 cup raw pepitas\n2 medium/large sweet potatoes
   \ lime zest, plus 2 tablespoons fresh juice\n1 clove minced garlic\n\xBD teaspoon\
   \ kosher salt\n1/2 teaspoon ground cumin"
 intrash: 0
-meal_notes:
-- 2020-07-16-dinner
 mine: null
 name: Mexican Salad
-p_recipe_id: 256
+p_recipe_id: 50
 permalink: /recipes/mexican-salad
 photo_large: null
 photo_thumb: mexican-salad-thumb.jpg
@@ -40,7 +38,7 @@ source: wellplated.com
 source_url: https://www.wellplated.com/mexican-salad/
 tags:
 - salad
-total_time: ''
+total_time: null
 type: null
 uid: 16B66633-422E-491A-8A4B-E5CC9024B61F-29053-0004C5EAEB5520A2
 ---

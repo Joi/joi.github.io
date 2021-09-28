@@ -2,8 +2,8 @@
 title: "Easy Pressure Cooker Green Chili with Chicken"
 filename: "easy-pressure-cooker-green-chili-with-chicken"
 cook_time: 30 minutes
-created: '2021-01-24 12:53:02'
-created_ts: 1611492782
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -20,7 +20,7 @@ ingredients: "3 pounds bone-in skin-on chicken thighs and drumsticks\n3/4 pound 
 intrash: 0
 mine: null
 name: Easy Pressure Cooker Green Chili with Chicken
-p_recipe_id: 461
+p_recipe_id: 162
 permalink: /recipes/easy-pressure-cooker-green-chili-with-chicken
 photo_large: null
 photo_thumb: easy-pressure-cooker-green-chili-with-chicken-thumb.jpg
@@ -32,8 +32,8 @@ slug: easy-pressure-cooker-green-chili-with-chicken
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2015/04/pressure-cooker-fast-and-easy-chicken-chile-verde-recipe.html
 tags:
-- chicken
 - mexican
+- chicken
 total_time: null
 type: null
 uid: 4FA42CC1-075F-47CB-B3C2-393C64D599ED-35869-00001A079663128A

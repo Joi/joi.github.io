@@ -2,8 +2,8 @@
 title: "Confit Hake, Cherry Tomatoes and Garlic"
 filename: "confit-hake-cherry-tomatoes-and-garlic"
 cook_time: 1 hour 30 minutes
-created: '2020-07-08 17:36:58'
-created_ts: 1594229818
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -28,7 +28,7 @@ ingredients: '2 bunches cherry tomatoes on the vine (about 225g)
 intrash: 0
 mine: null
 name: Confit Hake, Cherry Tomatoes and Garlic
-p_recipe_id: 238
+p_recipe_id: 309
 permalink: /recipes/confit-hake-cherry-tomatoes-and-garlic
 photo_large: null
 photo_thumb: confit-hake-cherry-tomatoes-and-garlic-thumb.jpg

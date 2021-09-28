@@ -9,8 +9,8 @@ notes:
     uri_path: /notes/2021-05-04-dinner.html
   rough: []
 recipes:
-- mine: 1
-  p_recipe_id: 514
+- mine: null
+  p_recipe_id: 79
   permalink: /recipes/burger
   photo_thumb: 14F5BB16-795D-4F06-8BBB-F6BD07B678B7-654-000002978BE7113F.jpg
   rating: 5

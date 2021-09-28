@@ -2,8 +2,8 @@
 title: "The Best Meatball Recipe | 1-Minute Video"
 filename: "the-best-meatball-recipe--1-minute-video"
 cook_time: 10 mins
-created: '2020-10-28 11:35:55'
-created_ts: 1603884955
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -38,7 +38,7 @@ ingredients: '1 cup Panko breadcrumbs
 intrash: 0
 mine: null
 name: The Best Meatball Recipe | 1-Minute Video
-p_recipe_id: 398
+p_recipe_id: 256
 permalink: /recipes/the-best-meatball-recipe--1-minute-video
 photo_large: null
 photo_thumb: the-best-meatball-recipe--1-minute-video-thumb.jpg
@@ -50,8 +50,8 @@ slug: the-best-meatball-recipe--1-minute-video
 source: gimmesomeoven.com
 source_url: https://www.gimmesomeoven.com/meatball-recipe/
 tags:
-- italian
 - ground beef
+- italian
 total_time: null
 type: null
 uid: 81BAACED-D790-4CD6-8E8B-B7A976D4B615-91238-0000339D03421337

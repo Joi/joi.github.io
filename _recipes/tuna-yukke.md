@@ -2,10 +2,10 @@
 title: "Tuna Yukke"
 filename: "tuna-yukke"
 cook_time: 10 min
-created: '2021-04-10 19:18:58'
-created_ts: 1618082338
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "\u307E\u3050\u308D\u306E\u89D2\u5207\u308A(\u523A\u8EAB\u7528) \uFF11\
@@ -20,13 +20,13 @@ meal_notes:
 - 2021-04-10-dinner
 mine: null
 name: Tuna Yukke
-p_recipe_id: 513
+p_recipe_id: 117
 permalink: /recipes/tuna-yukke
 photo_large: tuna-yukke-large.jpg
 photo_thumb: tuna-yukke-thumb.jpg
 photos_dict:
   '1': tuna-yukke-1.jpg
-prep_time: ''
+prep_time: null
 rating: 0
 servings: "3\u4EBA\u5206"
 slug: tuna-yukke

@@ -2,8 +2,8 @@
 title: "Mushroom Filling"
 filename: "mushroom-filling"
 cook_time: null
-created: '2020-02-03 14:51:13'
-created_ts: 1580741473
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -14,7 +14,7 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 teaspoon olive oil\n1 shallot, sliced t
 intrash: 0
 mine: null
 name: Mushroom Filling
-p_recipe_id: 35
+p_recipe_id: 404
 permalink: /recipes/mushroom-filling
 photo_large: null
 photo_thumb: mushroom-filling-thumb.jpg

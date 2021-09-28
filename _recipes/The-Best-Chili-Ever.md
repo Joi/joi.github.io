@@ -2,10 +2,10 @@
 title: "The Best Chili Ever"
 filename: "the-best-chili-ever"
 cook_time: 6 hours, plus overnight to soak beans
-created: '2021-02-14 14:56:21'
-created_ts: 1613314581
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "1 pound (450g) dried dark red kidney beans\nKosher salt\n4 quarts (3.8L)\
@@ -34,7 +34,7 @@ meal_notes:
 - 2021-02-21-dinner
 mine: null
 name: The Best Chili Ever
-p_recipe_id: 473
+p_recipe_id: 35
 permalink: /recipes/the-best-chili-ever
 photo_large: the-best-chili-ever-large.jpg
 photo_thumb: the-best-chili-ever-thumb.jpg
@@ -54,10 +54,10 @@ slug: the-best-chili-ever
 source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2010/01/the-best-chili-recipe.html
 tags:
-- soup
-- short ribs
 - mexican
-total_time: ''
+- short ribs
+- soup
+total_time: null
 type: null
 uid: 10BBAF95-58C8-433E-B2F4-1BA5DB1741F3-23012-0000124E0AE6CF20
 ---

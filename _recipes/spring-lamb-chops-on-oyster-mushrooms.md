@@ -1,11 +1,11 @@
 ---
 title: "Spring Lamb Chops on Oyster Mushrooms"
 filename: "spring-lamb-chops-on-oyster-mushrooms"
-cook_time: ''
-created: '2021-03-07 12:22:58'
-created_ts: 1615119778
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "2 (8-ounce) lamb rib chops, trimmed (about 2 inches thick)\n\xBD teaspoon\
@@ -16,10 +16,11 @@ ingredients: "2 (8-ounce) lamb rib chops, trimmed (about 2 inches thick)\n\xBD t
   \xBD cup fat-free, less-sodium chicken broth\n1\u2009\xBD cups hot cooked couscous"
 intrash: 0
 meal_notes:
+- 2021-07-25-dinner
 - 2021-03-07-dinner
 mine: null
 name: Spring Lamb Chops on Oyster Mushrooms
-p_recipe_id: 484
+p_recipe_id: 313
 permalink: /recipes/spring-lamb-chops-on-oyster-mushrooms
 photo_large: spring-lamb-chops-on-oyster-mushrooms-large.jpg
 photo_thumb: spring-lamb-chops-on-oyster-mushrooms-thumb.jpg
@@ -32,16 +33,16 @@ photos_dict:
   '6': spring-lamb-chops-on-oyster-mushrooms-6.jpg
   '7': spring-lamb-chops-on-oyster-mushrooms-7.jpg
   '8': spring-lamb-chops-on-oyster-mushrooms-8.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: 2 servings
 slug: spring-lamb-chops-on-oyster-mushrooms
 source: myrecipes.com
 source_url: https://www.myrecipes.com/recipe/spring-lamb-chops-on-oyster-mushrooms
 tags:
-- lamb
 - mushroom
-total_time: ''
+- lamb
+total_time: null
 type: null
 uid: 9F594289-F2B5-4895-9E02-10B0154A5BDA
 ---

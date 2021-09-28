@@ -2,10 +2,10 @@
 title: "Fish Soup"
 filename: "fish-soup"
 cook_time: 1 hour
-created: '2020-04-11 13:29:31'
-created_ts: 1586611771
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2015/04/29/dining/fish-soup/fish-soup-articleLarge.jpg
 ingredients: "\xBD pound shrimp, with shells on\n\xBD pound squid, cleaned\n\xBD pound\
@@ -19,21 +19,21 @@ ingredients: "\xBD pound shrimp, with shells on\n\xBD pound squid, cleaned\n\xBD
 intrash: 0
 mine: null
 name: Fish Soup
-p_recipe_id: 99
+p_recipe_id: 113
 permalink: /recipes/fish-soup
 photo_large: null
 photo_thumb: fish-soup-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 servings
 slug: fish-soup
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/9045-fish-soup?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
 tags:
-- fish
 - white fish
-total_time: ''
+- fish
+total_time: null
 type: null
 uid: 36CDB17B-2DC4-42F1-9525-1DA86A3D90D8-53878-00004806E578D2B2
 ---

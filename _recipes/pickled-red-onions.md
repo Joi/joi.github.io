@@ -2,10 +2,10 @@
 title: "Pickled Red Onions"
 filename: "pickled-red-onions"
 cook_time: 5 minutes
-created: '2021-01-23 17:18:33'
-created_ts: 1611422313
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.foodfidelity.com/wpcom-128392210/wp-content/uploads/2020/06/pickled-onions-tight-1.jpg
 ingredients: '1 red onion
@@ -19,24 +19,24 @@ ingredients: '1 red onion
   1/2 tsp kosher salt'
 intrash: 0
 meal_notes:
-- 2021-01-23-pantry
+- 2021-01-23-snacks
 mine: null
 name: Pickled Red Onions
-p_recipe_id: 459
+p_recipe_id: 287
 permalink: /recipes/pickled-red-onions
 photo_large: null
 photo_thumb: pickled-red-onions-thumb.jpg
 photos_dict: null
 prep_time: 5 minutes
 rating: 0
-servings: ''
+servings: null
 slug: pickled-red-onions
 source: foodfidelity.com
 source_url: https://www.foodfidelity.com/pickled-red-onions/
 tags:
-- pickles
 - red onions
-total_time: ''
+- pickles
+total_time: null
 type: null
 uid: 93B60554-B31A-43A5-8C10-2459B825CD13-60918-00006011EB1DCCDB
 ---

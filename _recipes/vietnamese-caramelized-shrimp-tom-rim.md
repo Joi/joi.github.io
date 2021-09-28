@@ -1,11 +1,11 @@
 ---
 title: "Vietnamese Caramelized Shrimp (Tom Rim)"
 filename: "vietnamese-caramelized-shrimp-tom-rim"
-cook_time: ''
-created: '2021-04-12 18:30:31'
-created_ts: 1618252231
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '2 lbs shrimp (size 51-60 headless with peel-on and tail-on)
@@ -34,14 +34,14 @@ meal_notes:
 - 2021-04-12-dinner
 mine: null
 name: Vietnamese Caramelized Shrimp (Tom Rim)
-p_recipe_id: 515
+p_recipe_id: 468
 permalink: /recipes/vietnamese-caramelized-shrimp-tom-rim
 photo_large: vietnamese-caramelized-shrimp-tom-rim-large.jpg
 photo_thumb: vietnamese-caramelized-shrimp-tom-rim-thumb.jpg
 photos_dict:
   '1': vietnamese-caramelized-shrimp-tom-rim-1.jpg
   '2': vietnamese-caramelized-shrimp-tom-rim-2.jpg
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Serves 4-6
 slug: vietnamese-caramelized-shrimp-tom-rim
@@ -49,7 +49,7 @@ source: vickypham.com
 source_url: https://www.vickypham.com/blog/vietnamese-caramelized-shrimp-tom-rim
 tags:
 - shrimp
-total_time: ''
+total_time: null
 type: null
 uid: F2EDF068-F593-4D62-954D-2D9C68AA856D-654-000017927117125D
 ---

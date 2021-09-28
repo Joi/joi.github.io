@@ -1,9 +1,9 @@
 ---
 title: "Mapo Dofu"
 filename: "mapo-dofu"
-cook_time: ''
-created: '2021-03-24 15:26:16'
-created_ts: 1616599576
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: Easy
 favorite: 0
@@ -16,15 +16,15 @@ ingredients: "1 lb tofu\n2 scallions, chopped\n\xBD lb ground pork\n\n*Sauce*\n\
   \ light oil\n1 Tbsp Chinese wine\n1 Tbsp soy sauce\n"
 intrash: 0
 meal_notes:
+- 2021-05-19-dinner
+- 2021-04-26-dinner
+- 2021-04-10-dinner
+- 2021-04-03-dinner
 - 2021-03-24-dinner
 - 2021-03-03-dinner
-- 2021-04-03-dinner
-- 2021-04-10-dinner
-- 2021-04-26-dinner
-- 2021-05-19-dinner
 mine: 1
 name: Mapo Dofu
-p_recipe_id: 492
+p_recipe_id: 466
 permalink: /recipes/mapo-dofu
 photo_large: mapo-dofu-large.jpg
 photo_thumb: mapo-dofu-thumb.jpg
@@ -40,17 +40,17 @@ photos_dict:
   '7': mapo-dofu-7.jpg
   '8': mapo-dofu-8.jpg
   '9': mapo-dofu-9.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: '2'
 slug: mapo-dofu
 source: null
 source_url: null
 tags:
-- chinese
 - ground pork
 - tofu
-total_time: ''
+- chinese
+total_time: null
 type: null
 uid: F189F7A3-07AA-47B9-80AC-0E6B2879D4C5-651-00000524A207DA6A
 ---

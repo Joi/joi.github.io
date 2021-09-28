@@ -1,11 +1,11 @@
 ---
 title: "Tom Yum Soup (Thai Soup)"
 filename: "tom-yum-soup-thai-soup"
-cook_time: ''
-created: '2021-05-24 16:10:56'
-created_ts: 1621872656
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.recipetineats.com/wp-content/uploads/2019/09/Tom-Yum-soup_2.jpg?resize=650,813
 ingredients: '300g / 10oz whole prawns / shrimp with heads and shells on (Note 7)
@@ -52,12 +52,12 @@ meal_notes:
 - 2021-05-24-dinner
 mine: null
 name: Tom Yum Soup (Thai Soup)
-p_recipe_id: 532
+p_recipe_id: 450
 permalink: /recipes/tom-yum-soup-thai-soup
 photo_large: null
 photo_thumb: tom-yum-soup-thai-soup-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Servings 2
 slug: tom-yum-soup-thai-soup
@@ -65,9 +65,9 @@ source: recipetineats.com
 source_url: https://www.recipetineats.com/tom-yum-soup-thai/
 tags:
 - shrimp
-- soup
 - thai
-total_time: ''
+- soup
+total_time: null
 type: null
 uid: E8295B90-08BF-47B0-8A78-D4EE0321AB0A-16044-0004D5090ADE87C7
 ---

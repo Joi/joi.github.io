@@ -1,9 +1,9 @@
 ---
 title: "Chicken Bouillabaisse"
 filename: "chicken-bouillabaisse"
-cook_time: ''
-created: '2020-10-15 18:13:56'
-created_ts: 1602785636
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: "this is an easy, crowd-pleasing dish I owe to Madeleine Serraille, sister\
   \ of the famous fr\xE8res Troisgros. It is one of the distracting dishes her brother\
   \ Jean would sniff and sample when he happened by her house on his way back to the\
@@ -12,7 +12,7 @@ description: "this is an easy, crowd-pleasing dish I owe to Madeleine Serraille,
   \ treasury of French cooking that she insisted I buy and study the summer before\
   \ I went to college.\n\nA\xEFoli gives this dish richness along with a jolt of garlic;\
   \ a lighter alternative is to rub the hot toasted bread with raw garlic.\n"
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '4 chicken legs (about 8 ounces each) or one 3-pound chicken, back removed
@@ -45,25 +45,23 @@ ingredients: '4 chicken legs (about 8 ounces each) or one 3-pound chicken, back 
 
   About 1/2 cup [recipe:Aioli Sauce] or 1 garlic clove, peeled'
 intrash: 0
-meal_notes:
-- 2020-10-15-dinner
 mine: null
 name: Chicken Bouillabaisse
-p_recipe_id: 386
+p_recipe_id: 467
 permalink: /recipes/chicken-bouillabaisse
 photo_large: null
 photo_thumb: null
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
-servings: ''
+servings: null
 slug: chicken-bouillabaisse
 source: Zuni Cafe Cookbook
 source_url: null
 tags:
-- chicken
 - soup
-total_time: ''
+- chicken
+total_time: null
 type: null
 uid: F1D1640A-A8A7-4AF0-9119-997EA0B459EC-7512-00005767367B53FF
 ---

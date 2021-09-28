@@ -2,8 +2,8 @@
 title: "Fluffy Omelet"
 filename: "fluffy-omelet"
 cook_time: null
-created: '2020-02-03 14:50:35'
-created_ts: 1580741435
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -15,7 +15,7 @@ ingredients: "GATHER YOUR INGREDIENTS\n4 large eggs, separated\n1 tablespoon uns
 intrash: 0
 mine: null
 name: Fluffy Omelet
-p_recipe_id: 23
+p_recipe_id: 248
 permalink: /recipes/fluffy-omelet
 photo_large: null
 photo_thumb: fluffy-omelet-thumb.jpg
@@ -27,8 +27,8 @@ slug: fluffy-omelet
 source: americastestkitchen.com
 source_url: https://www.americastestkitchen.com/recipes/7327-fluffy-omelet
 tags:
-- breakfast
 - egg
+- breakfast
 total_time: null
 type: null
 uid: 7F1689F8-3BD8-40D9-AB99-1204CE2115DC-408-00004BD68AFD291D

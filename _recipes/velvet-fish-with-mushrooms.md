@@ -2,10 +2,10 @@
 title: "Velvet Fish with Mushrooms"
 filename: "velvet-fish-with-mushrooms"
 cook_time: 1 1/2 hours
-created: '2020-04-11 13:31:52'
-created_ts: 1586611912
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-articleLarge.jpg
 ingredients: "2 tablespoons egg white, lightly beaten\n2 tablespoons plus 1 teaspoon\
@@ -19,21 +19,21 @@ ingredients: "2 tablespoons egg white, lightly beaten\n2 tablespoons plus 1 teas
 intrash: 0
 mine: null
 name: Velvet Fish with Mushrooms
-p_recipe_id: 101
+p_recipe_id: 439
 permalink: /recipes/velvet-fish-with-mushrooms
 photo_large: null
 photo_thumb: velvet-fish-with-mushrooms-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 4 servings
 slug: velvet-fish-with-mushrooms
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019542-velvet-fish-with-mushrooms?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=10
 tags:
-- fish
 - white fish
-total_time: ''
+- fish
+total_time: null
 type: null
 uid: DFE23758-66D7-4E75-97F2-33521EB84FDE-53878-0000482877DB5AEA
 ---

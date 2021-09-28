@@ -1,15 +1,15 @@
 ---
 title: "Chicken Stock"
 filename: "chicken-stock"
-cook_time: ''
-created: '2020-09-01 18:05:51'
-created_ts: 1598983551
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: "Keep chicken parts and veggies like leeks, celery greens and parsley\
   \ stems in freezer until out of frozen chicken stock or freezer is full of frozen\
   \ chicken parts. Make the stock and freeze in quart bags and make \xBC cup cubes\
   \ with big ice maker mold. Use stock for everything.\n\nInspired by Nosrat's recipe\
   \ in _Salt, Fat, Acid, Heat_."
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '7 lb chicken parts
@@ -28,22 +28,17 @@ ingredients: '7 lb chicken parts
 
   4 thyme sprigs
 
-  5 parsley sprigs
+  5 parsley sprigs or 10 stems
 
   1 tsp white wine vinegar '
 intrash: 0
 meal_notes:
-- 2020-09-26-dinner
-- 2020-09-26-snacks
-- 2020-11-14-snacks
-- 2020-12-13-snacks
-- 2021-01-03-snacks
-- 2021-01-31-pantry
-- 2021-03-27-pantry
-- 2021-05-15-pantry
+- 2021-01-31-dinner
+- 2021-03-27-snacks
+- 2021-05-15-dinner
 mine: 1
 name: Chicken Stock
-p_recipe_id: 330
+p_recipe_id: 465
 permalink: /recipes/chicken-stock
 photo_large: chicken-stock-large.jpg
 photo_thumb: chicken-stock-thumb.jpg
@@ -52,16 +47,16 @@ photos_dict:
   '2': chicken-stock-2.jpg
   '3': chicken-stock-3.jpg
   '4': chicken-stock-4.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: chicken-stock
 source: null
 source_url: null
 tags:
-- chicken
 - soup
-total_time: ''
+- chicken
+total_time: null
 type: null
 uid: F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C
 ---
@@ -81,7 +76,7 @@ uid: F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C
 <li>1 tsp black peppercorns</li>
 <li>2 bay leaves</li>
 <li>4 thyme sprigs</li>
-<li>5 parsley sprigs</li>
+<li>5 parsley sprigs or 10 stems</li>
 <li>1 tsp white wine vinegar</li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Put chicken parts, veggies and spices in big stock pot - I use a lobster pot. Some people put half or all vegetables in 1 hour before you finish to get a fresher taste from the vegetables. Remember - <strong>NO SALT</strong>. Save the salt for whatever cooking you will use the stock in.</p>

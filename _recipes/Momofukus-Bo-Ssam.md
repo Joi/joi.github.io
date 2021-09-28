@@ -2,10 +2,10 @@
 title: "Momofuku's Bo Ssam"
 filename: "momofukus-bo-ssam"
 cook_time: 7 hours
-created: '2020-10-08 14:41:56'
-created_ts: 1602168116
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2012/01/15/magazine/15eat1_span/15eat1_span-articleLarge-v4.jpg
 ingredients: "PORK BUTT:\n1 whole bone-in pork butt or picnic ham (8 to 10 pounds)\n\
@@ -21,16 +21,14 @@ ingredients: "PORK BUTT:\n1 whole bone-in pork butt or picnic ham (8 to 10 pound
   1 dozen or more fresh oysters (optional)\nKimchi (available in many Asian markets,\
   \ and online)"
 intrash: 0
-meal_notes:
-- 2020-10-11-dinner
 mine: null
 name: Momofuku's Bo Ssam
-p_recipe_id: 376
+p_recipe_id: 210
 permalink: /recipes/momofukus-bo-ssam
 photo_large: null
 photo_thumb: momofukus-bo-ssam-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 5
 servings: Yield 6 to 10 servings
 slug: momofukus-bo-ssam
@@ -38,7 +36,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/12197-momofukus-bo-ssam?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=42
 tags:
 - pork shoulder
-total_time: ''
+total_time: null
 type: null
 uid: 6A292E01-87EF-4723-8710-E64BEAF241CA-79931-0001315D0EBC60D3
 ---

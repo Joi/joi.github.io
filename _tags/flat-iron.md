@@ -3,9 +3,9 @@ title: Flat Iron
 tag_key: flat iron
 recipes:
 - mine: null
-  p_recipe_id: 314
+  p_recipe_id: 7
   permalink: /recipes/fajitas
-  photo_thumb: 37D38DE5-F4F1-45EC-BBB9-153837F068AC-1866-00001E7CD30C6259.jpg
+  photo_thumb: 1B5CCAED-4803-4967-95FD-D242A1504CC5.jpg
   rating: 5
   title: Fajitas
 rel_tags_count: {}

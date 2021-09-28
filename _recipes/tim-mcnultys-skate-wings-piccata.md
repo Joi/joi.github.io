@@ -2,10 +2,10 @@
 title: "Tim McNulty's Skate Wings Piccata"
 filename: "tim-mcnultys-skate-wings-piccata"
 cook_time: 30 minutes
-created: '2020-05-27 12:44:39'
-created_ts: 1590583479
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/applications/cooking/4dd3952/assets/NYTCookingLogo.png
 ingredients: "3 tablespoons olive oil\n3 tablespoons unsalted butter, melted\n6 skate\
@@ -14,16 +14,14 @@ ingredients: "3 tablespoons olive oil\n3 tablespoons unsalted butter, melted\n6 
   \ pound white mushrooms, thinly sliced\n4 tablespoons lemon juice\n1 tablespoon\
   \ capers\nFresh Italian parsley, chopped, for garnish"
 intrash: 0
-meal_notes:
-- 2020-05-30-dinner
 mine: null
 name: Tim McNulty's Skate Wings Piccata
-p_recipe_id: 172
+p_recipe_id: 431
 permalink: /recipes/tim-mcnultys-skate-wings-piccata
 photo_large: null
 photo_thumb: tim-mcnultys-skate-wings-piccata-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 4
 servings: Yield 6 servings
 slug: tim-mcnultys-skate-wings-piccata
@@ -31,7 +29,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/8583-tim-mcnultys-skate-wings-piccata?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=3
 tags:
 - skate wings
-total_time: ''
+total_time: null
 type: null
 uid: DBFAB744-4396-4E8D-92AE-115C6E16D77A-29546-00034653B911D352
 ---

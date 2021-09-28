@@ -2,8 +2,8 @@
 title: "Hamburger Stroganoff Skillet"
 filename: "hamburger-stroganoff-skillet"
 cook_time: 1 hr
-created: '2020-12-26 14:58:34'
-created_ts: 1608994714
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -42,7 +42,7 @@ ingredients: '1 pound ground beef
 intrash: 0
 mine: null
 name: Hamburger Stroganoff Skillet
-p_recipe_id: 437
+p_recipe_id: 31
 permalink: /recipes/hamburger-stroganoff-skillet
 photo_large: null
 photo_thumb: hamburger-stroganoff-skillet-thumb.jpg

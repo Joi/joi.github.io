@@ -2,10 +2,10 @@
 title: "Kittencal's Milk Boiled Corn on the Cob"
 filename: "kittencals-milk-boiled-corn-on-the-cob"
 cook_time: 15mins
-created: '2020-07-04 13:30:06'
-created_ts: 1593869406
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://img.sndimg.com:443/food/image/upload/c_thumb,q_80,w_616,h_347/v1/img/recipes/12/18/97/picQm6KFZ.jpg
 ingredients: '6 -8 ears corn, husks and silk removed
@@ -22,7 +22,7 @@ ingredients: '6 -8 ears corn, husks and silk removed
 intrash: 0
 mine: null
 name: Kittencal's Milk Boiled Corn on the Cob
-p_recipe_id: 223
+p_recipe_id: 153
 permalink: /recipes/kittencals-milk-boiled-corn-on-the-cob
 photo_large: null
 photo_thumb: kittencals-milk-boiled-corn-on-the-cob-thumb.jpg
@@ -35,7 +35,7 @@ source: food.com
 source_url: https://www.food.com/recipe/kittencals-milk-boiled-corn-on-the-cob-121897
 tags:
 - corn
-total_time: ''
+total_time: null
 type: null
 uid: 4D1DAA35-A990-4F80-A9E1-05BBBEB30304-631-00013D19ED1A58B7
 ---

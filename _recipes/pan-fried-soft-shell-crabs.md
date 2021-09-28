@@ -1,11 +1,11 @@
 ---
 title: "Pan-Fried Soft-Shell Crabs"
 filename: "pan-fried-soft-shell-crabs"
-cook_time: ''
-created: '2020-07-13 18:59:08'
-created_ts: 1594666748
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '1 1/2 cups all-purpose flour
@@ -24,17 +24,15 @@ ingredients: '1 1/2 cups all-purpose flour
 
   3 lemons, cut in half'
 intrash: 0
-meal_notes:
-- 2020-07-13-dinner
 mine: null
 name: Pan-Fried Soft-Shell Crabs
-p_recipe_id: 248
+p_recipe_id: 341
 permalink: /recipes/pan-fried-soft-shell-crabs
 photo_large: pan-fried-soft-shell-crabs-large.jpg
 photo_thumb: pan-fried-soft-shell-crabs-thumb.jpg
 photos_dict:
   '1': pan-fried-soft-shell-crabs-1.jpg
-prep_time: ''
+prep_time: null
 rating: 4
 servings: 'Servings: 6'
 slug: pan-fried-soft-shell-crabs
@@ -42,7 +40,7 @@ source: marthastewart.com
 source_url: https://www.marthastewart.com/1158406/pan-fried-soft-shell-crabs
 tags:
 - soft-shell crabs
-total_time: ''
+total_time: null
 type: null
 uid: AFF11F1F-5F06-4C85-9632-540CE2204830-29053-0004123BC220E7DC
 ---

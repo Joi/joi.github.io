@@ -2,8 +2,8 @@
 title: "Sautéed Striped Bass with Lemon and Herb Sauce Is the Perfect Summer Dinner"
 filename: "sauteed-striped-bass-with-lemon-and-herb-sauce-is-the-perfect-summer-dinner"
 cook_time: 30 mins
-created: '2020-07-20 23:29:04'
-created_ts: 1595287744
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -27,7 +27,7 @@ ingredients: '4 (5-oz.) skin-on striped bass fillets (either hybrid striped bass
 intrash: 0
 mine: null
 name: "Saut\xE9ed Striped Bass with Lemon and Herb Sauce Is the Perfect Summer Dinner"
-p_recipe_id: 265
+p_recipe_id: 324
 permalink: /recipes/sauteed-striped-bass-with-lemon-and-herb-sauce-is-the-perfect-summer-dinner
 photo_large: null
 photo_thumb: sauteed-striped-bass-with-lemon-and-herb-sauce-is-the-perfect-summer-dinner-thumb.jpg

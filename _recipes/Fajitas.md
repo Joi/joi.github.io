@@ -2,8 +2,8 @@
 title: "Fajitas"
 filename: "fajitas"
 cook_time: null
-created: '2020-08-19 06:14:12'
-created_ts: 1597817652
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -20,11 +20,9 @@ ingredients: "\xBD cup soy sauce\n\xBD cup lime juice (from 6 to 8 limes)\n\xBD 
   \ or corn tortillas, hot\n1 recipe Pico de Gallo\nGuacamole, sour cream, shredded\
   \ cheese, and salsa, for serving, if desired"
 intrash: 0
-meal_notes:
-- 2020-08-19-dinner
 mine: null
 name: Fajitas
-p_recipe_id: 314
+p_recipe_id: 7
 permalink: /recipes/fajitas
 photo_large: fajitas-large.jpg
 photo_thumb: fajitas-thumb.jpg

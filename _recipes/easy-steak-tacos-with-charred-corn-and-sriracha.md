@@ -2,8 +2,8 @@
 title: "Easy Steak Tacos with Charred Corn and Sriracha"
 filename: "easy-steak-tacos-with-charred-corn-and-sriracha"
 cook_time: 25 minutes
-created: '2020-10-25 11:22:30'
-created_ts: 1603624950
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -20,7 +20,7 @@ ingredients: "1 1/2 teaspoons ground cumin\n1 1/2 teaspoons ground coriander\n1 
 intrash: 0
 mine: null
 name: Easy Steak Tacos with Charred Corn and Sriracha
-p_recipe_id: 395
+p_recipe_id: 344
 permalink: /recipes/easy-steak-tacos-with-charred-corn-and-sriracha
 photo_large: null
 photo_thumb: easy-steak-tacos-with-charred-corn-and-sriracha-thumb.jpg

@@ -2,8 +2,8 @@
 title: "Sweet and Sour Pork Ribs"
 filename: "sweet-and-sour-pork-ribs"
 cook_time: 30min
-created: '2020-02-03 15:58:54'
-created_ts: 1580745534
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: Easy
 favorite: 0
@@ -14,7 +14,7 @@ ingredients: "\xBD oz vegetable oil\n\xBD oz fresh ginger, thinly sliced\n18 oz 
 intrash: 0
 mine: null
 name: Sweet and Sour Pork Ribs
-p_recipe_id: 7
+p_recipe_id: 65
 permalink: /recipes/sweet-and-sour-pork-ribs
 photo_large: null
 photo_thumb: sweet-and-sour-pork-ribs-thumb.jpg

@@ -2,10 +2,10 @@
 title: "Pan Seared Garlic Butter Steak & Mushroom Cream Sauce"
 filename: "pan-seared-garlic-butter-steak-mushroom-cream-sauce"
 cook_time: 20 mins
-created: '2020-05-25 13:37:07'
-created_ts: 1590413827
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: https://cafedelites.com/wp-content/uploads/2017/11/Garlic-Steak-Creamy-Mushroom-Sauce-IMAGE-200x200.jpg
 ingredients: 'For Steaks:
@@ -35,12 +35,9 @@ ingredients: 'For Steaks:
 
   1/2 cup light cream or reduced fat cream (or heavy cream)'
 intrash: 0
-meal_notes:
-- 2020-05-25-dinner
-- 2020-06-08-dinner
 mine: null
 name: Pan Seared Garlic Butter Steak & Mushroom Cream Sauce
-p_recipe_id: 168
+p_recipe_id: 17
 permalink: /recipes/pan-seared-garlic-butter-steak-mushroom-cream-sauce
 photo_large: null
 photo_thumb: pan-seared-garlic-butter-steak-mushroom-cream-sauce-thumb.jpg
@@ -48,13 +45,13 @@ photos_dict:
   '1': pan-seared-garlic-butter-steak-mushroom-cream-sauce-1.jpg
 prep_time: 10 mins
 rating: 5
-servings: ''
+servings: null
 slug: pan-seared-garlic-butter-steak-mushroom-cream-sauce
 source: cafedelites.com
 source_url: https://cafedelites.com/wprm_print/52605
 tags:
 - steaks
-total_time: ''
+total_time: null
 type: null
 uid: 04CBAF39-7861-485D-B195-D741D37810E8-14842-0000068686800663
 ---

@@ -2,8 +2,8 @@
 title: "Oven-Roasted Asparagus"
 filename: "oven-roasted-asparagus"
 cook_time: null
-created: '2021-05-29 21:11:02'
-created_ts: 1622322662
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -15,7 +15,7 @@ ingredients: "1 bunch thin asparagus spears, trimmed\n3 tablespoons olive oil\n1
 intrash: 0
 mine: null
 name: Oven-Roasted Asparagus
-p_recipe_id: 533
+p_recipe_id: 260
 permalink: /recipes/oven-roasted-asparagus
 photo_large: null
 photo_thumb: oven-roasted-asparagus-thumb.jpg

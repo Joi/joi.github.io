@@ -2,10 +2,10 @@
 title: "Traditional Toum (Lebanese Garlic Sauce)"
 filename: "traditional-toum-lebanese-garlic-sauce"
 cook_time: 20 minutes
-created: '2020-08-27 14:43:07'
-created_ts: 1598539387
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
+description: null
+difficulty: null
 favorite: 0
 image_url: https://www.seriouseats.com/recipes/images/2017/10/20170919-toum-garlic-sauce-vicky-wasik-6.jpg
 ingredients: '1 cup cloves garlic (4 1/2 ounces; 130g)
@@ -18,11 +18,9 @@ ingredients: '1 cup cloves garlic (4 1/2 ounces; 130g)
 
   3 cups (600g) neutral oil, such as grapeseed or canola, divided'
 intrash: 0
-meal_notes:
-- 2020-08-27-dinner
 mine: null
 name: Traditional Toum (Lebanese Garlic Sauce)
-p_recipe_id: 325
+p_recipe_id: 293
 permalink: /recipes/traditional-toum-lebanese-garlic-sauce
 photo_large: null
 photo_thumb: traditional-toum-lebanese-garlic-sauce-thumb.jpg
@@ -35,7 +33,7 @@ source: seriouseats.com
 source_url: https://www.seriouseats.com/recipes/2018/01/toum.html
 tags:
 - sauce
-total_time: ''
+total_time: null
 type: null
 uid: 99182DEB-C6F1-48F2-8054-F9D8404C55D8-2241-0003FEF1ED6DF81A
 ---

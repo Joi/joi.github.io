@@ -2,8 +2,8 @@
 title: "Classic Minestrone with Rice or Pasta"
 filename: "classic-minestrone-with-rice-or-pasta"
 cook_time: null
-created: '2020-02-02 15:13:01'
-created_ts: 1580656381
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -24,7 +24,7 @@ ingredients: "GATHER YOUR INGREDIENTS\n2 small leeks (or 1 large), white and lig
 intrash: 0
 mine: null
 name: Classic Minestrone with Rice or Pasta
-p_recipe_id: 14
+p_recipe_id: 145
 permalink: /recipes/classic-minestrone-with-rice-or-pasta
 photo_large: null
 photo_thumb: classic-minestrone-with-rice-or-pasta-thumb.jpg

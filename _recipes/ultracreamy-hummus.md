@@ -2,8 +2,8 @@
 title: "Ultracreamy Hummus"
 filename: "ultracreamy-hummus"
 cook_time: null
-created: '2020-02-03 15:19:07'
-created_ts: 1580743147
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -16,7 +16,7 @@ ingredients: "GATHER YOUR INGREDIENTS\n2 (15-ounce) cans chickpeas, rinsed\n\xBD
 intrash: 0
 mine: null
 name: Ultracreamy Hummus
-p_recipe_id: 3
+p_recipe_id: 30
 permalink: /recipes/ultracreamy-hummus
 photo_large: null
 photo_thumb: ultracreamy-hummus-thumb.jpg

@@ -1,11 +1,11 @@
 ---
 title: "Poached Fluke in Lemon Brodo"
 filename: "poached-fluke-in-lemon-brodo"
-cook_time: ''
-created: '2020-06-07 15:03:27'
-created_ts: 1591542207
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '2 small lemons
@@ -30,17 +30,15 @@ ingredients: '2 small lemons
 
   2 Tbs. thinly sliced chives'
 intrash: 0
-meal_notes:
-- 2020-06-09-dinner
 mine: null
 name: Poached Fluke in Lemon Brodo
-p_recipe_id: 182
+p_recipe_id: 76
 permalink: /recipes/poached-fluke-in-lemon-brodo
 photo_large: poached-fluke-in-lemon-brodo-large.jpg
 photo_thumb: poached-fluke-in-lemon-brodo-thumb.jpg
 photos_dict:
   '1': poached-fluke-in-lemon-brodo-1.jpg
-prep_time: ''
+prep_time: null
 rating: 4
 servings: 'Servings: 4'
 slug: poached-fluke-in-lemon-brodo
@@ -48,7 +46,7 @@ source: finecooking.com
 source_url: https://www.finecooking.com/recipe/poached-fluke-lemon-brodo
 tags:
 - fluke
-total_time: ''
+total_time: null
 type: null
 uid: 25E7695C-45CC-443A-9E8B-0956C890816B-38601-0000AC1F428C81E0
 ---

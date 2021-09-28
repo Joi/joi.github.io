@@ -2,8 +2,8 @@
 title: "Fluffy Baked Omelet"
 filename: "fluffy-baked-omelet"
 cook_time: 35min
-created: '2020-02-03 15:59:52'
-created_ts: 1580745592
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: Easy
 favorite: 0
@@ -15,7 +15,7 @@ ingredients: "Mushroom-Onion Filling\n4 oz yellow onions, in half moons (\xBC in
 intrash: 0
 mine: null
 name: Fluffy Baked Omelet
-p_recipe_id: 9
+p_recipe_id: 104
 permalink: /recipes/fluffy-baked-omelet
 photo_large: null
 photo_thumb: fluffy-baked-omelet-thumb.jpg
@@ -27,8 +27,8 @@ slug: fluffy-baked-omelet
 source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r492473
 tags:
-- breakfast
 - egg
+- breakfast
 total_time: null
 type: null
 uid: 31DFD892-9DBB-4E66-B5CB-C86E0BD8CCBC-408-00004FA1359979E2

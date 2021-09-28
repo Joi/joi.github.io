@@ -1,11 +1,11 @@
 ---
 title: "Lemon-Ginger Poached Halibut with Leeks & Spinach"
 filename: "lemon-ginger-poached-halibut-with-leeks-spinach"
-cook_time: ''
-created: '2020-08-06 00:26:39'
-created_ts: 1596673599
-description: ''
-difficulty: ''
+cook_time: null
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
+description: null
+difficulty: null
 favorite: 0
 image_url: https://s3.amazonaws.com/finecooking.s3.tauntonclud.com/app/uploads/2017/04/18204806/051095094-05-poached-halibut-leeks-spinach-main.jpg
 ingredients: '2 tsp. finely grated fresh ginger
@@ -31,17 +31,14 @@ ingredients: '2 tsp. finely grated fresh ginger
 
   1/4 cup thinly sliced scallions'
 intrash: 0
-meal_notes:
-- 2020-08-07-dinner
-- 2020-08-25-dinner
 mine: null
 name: Lemon-Ginger Poached Halibut with Leeks & Spinach
-p_recipe_id: 292
+p_recipe_id: 364
 permalink: /recipes/lemon-ginger-poached-halibut-with-leeks-spinach
 photo_large: null
 photo_thumb: lemon-ginger-poached-halibut-with-leeks-spinach-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: 'Servings: four'
 slug: lemon-ginger-poached-halibut-with-leeks-spinach
@@ -49,7 +46,7 @@ source: finecooking.com
 source_url: https://www.finecooking.com/recipe/lemon-ginger-poached-halibut-with-leeks-spinach
 tags:
 - halibut
-total_time: ''
+total_time: null
 type: null
 uid: B9BBFB62-1035-4EE4-B6FA-6C262F8E5467-1060-0000EC60B50364C6
 ---

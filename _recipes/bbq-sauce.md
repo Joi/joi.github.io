@@ -1,27 +1,25 @@
 ---
 title: "BBQ Sauce"
 filename: "bbq-sauce"
-cook_time: ''
-created: '2020-07-13 13:45:22'
-created_ts: 1594647922
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: Based on recipe from American Barbecue Sauces by Steven Raichlen.
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
-ingredients: "6 Tbsp brown sugar\n\xBD cup cider vinegar\n\xBC cup molasses\n\xBC\
-  \ honey\n\xBC cup Worcestershire sauce\n2 Tbsp dark rum\n2 Tbsp yellow mustard\n\
+ingredients: "6 Tbsp cups brown sugar\n\xBD cup cider vinegar\n\xBC cup molasses\n\
+  \xBC honey\n\xBC cup Worcestershire sauce\n2 Tbsp dark rum\n2 Tbsp yellow mustard\n\
   1 Tbsp liquid smoke\n2 dashes cayenne pepper\n2 tsp black pepper\n2 tsp garlic powder\n\
   1 tsp found allspice\n\xBC tsp ground cloves\n1\u2009\xBD tsp black pepper\n4 cups\
   \ ketchup"
 intrash: 0
 meal_notes:
-- 2020-09-03-dinner
-- 2020-09-20-dinner
-- 2021-05-16-pantry
-- 2021-07-03-pantry
+- 2021-07-03-dinner
+- 2021-05-16-dinner
 mine: 1
 name: BBQ Sauce
-p_recipe_id: 246
+p_recipe_id: 217
 permalink: /recipes/bbq-sauce
 photo_large: bbq-sauce-large.jpg
 photo_thumb: bbq-sauce-thumb.jpg
@@ -29,16 +27,16 @@ photos_dict:
   '1': bbq-sauce-1.jpg
   '2': bbq-sauce-2.jpg
   '3': bbq-sauce-3.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: bbq-sauce
 source: null
 source_url: null
 tags:
 - sauce
 - bbq
-total_time: ''
+total_time: null
 type: null
 uid: 6CF0D8FC-A8FE-4D31-A163-38D715503D3D-29053-000401226697C402
 ---
@@ -47,7 +45,7 @@ uid: 6CF0D8FC-A8FE-4D31-A163-38D715503D3D-29053-000401226697C402
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
 <div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
-<li>6 Tbsp brown sugar</li>
+<li>6 Tbsp cups brown sugar</li>
 <li>½ cup cider vinegar</li>
 <li>¼ cup molasses</li>
 <li>¼ honey</li>

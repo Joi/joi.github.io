@@ -1,11 +1,11 @@
 ---
 title: "Baked Bluefish with Potatoes"
 filename: "baked-bluefish-with-potatoes"
-cook_time: ''
-created: '2021-05-14 11:42:29'
-created_ts: 1620992549
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "2 bluefish fillets (skin on, about 1 lb. each)\n1\xBD pounds boiling\
@@ -16,7 +16,7 @@ meal_notes:
 - 2021-05-14-dinner
 mine: null
 name: Baked Bluefish with Potatoes
-p_recipe_id: 529
+p_recipe_id: 160
 permalink: /recipes/baked-bluefish-with-potatoes
 photo_large: baked-bluefish-with-potatoes-large.jpg
 photo_thumb: baked-bluefish-with-potatoes-thumb.jpg
@@ -24,16 +24,16 @@ photos_dict:
   '1': baked-bluefish-with-potatoes-1.jpg
   '2': baked-bluefish-with-potatoes-2.jpg
   '3': baked-bluefish-with-potatoes-3.jpg
-prep_time: ''
+prep_time: null
 rating: 4
-servings: ''
+servings: null
 slug: baked-bluefish-with-potatoes
 source: On The Water
 source_url: https://www.onthewater.com/worlds-best-bluefish-recipe
 tags:
 - italian
 - blue fish
-total_time: ''
+total_time: null
 type: null
 uid: 4F01CB9E-97D3-4B77-918F-D71023A86988-22216-0001B4A241ADD665
 ---

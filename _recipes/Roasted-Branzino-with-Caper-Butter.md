@@ -2,8 +2,8 @@
 title: "Roasted Branzino with Caper Butter"
 filename: "roasted-branzino-with-caper-butter"
 cook_time: 40 mins
-created: '2020-11-24 10:55:11'
-created_ts: 1606215311
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
 difficulty: null
 favorite: 0
@@ -27,16 +27,14 @@ ingredients: '1 stick unsalted butter, softened
   3 tablespoons extra-virgin olive oil'
 intrash: 0
 meal_notes:
-- 2020-11-24-dinner
-- 2020-12-23-dinner
-- 2021-01-13-dinner
-- 2021-02-13-dinner
-- 2021-05-02-lunch
-- 2021-05-29-dinner
+- 2021-07-19-dinner
 - 2021-06-29-dinner
+- 2021-05-29-dinner
+- 2021-05-02-lunch
+- 2021-02-13-dinner
 mine: null
 name: Roasted Branzino with Caper Butter
-p_recipe_id: 417
+p_recipe_id: 347
 permalink: /recipes/roasted-branzino-with-caper-butter
 photo_large: roasted-branzino-with-caper-butter-large.jpg
 photo_thumb: roasted-branzino-with-caper-butter-thumb.jpg

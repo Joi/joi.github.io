@@ -2,8 +2,8 @@
 title: "Crispy Coconut Shrimp"
 filename: "crispy-coconut-shrimp"
 cook_time: 20min
-created: '2020-02-03 15:53:00'
-created_ts: 1580745180
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: Easy
 favorite: 0
@@ -14,11 +14,9 @@ ingredients: "Sriracha Dipping Sauce\n1 garlic clove\n4 oz mayonnaise, sugar-fre
   1 tsp garlic powder\n1 tsp onion powder\n2 large eggs, organic, pasture-raised\n\
   16 oz large raw shrimp, peeled, deveined, tail on\navocado oil, to fry"
 intrash: 0
-meal_notes:
-- 2020-04-13-dinner
 mine: null
 name: Crispy Coconut Shrimp
-p_recipe_id: 43
+p_recipe_id: 488
 permalink: /recipes/crispy-coconut-shrimp
 photo_large: null
 photo_thumb: crispy-coconut-shrimp-thumb.jpg
@@ -31,7 +29,7 @@ source: cookidoo.thermomix.com
 source_url: https://cookidoo.thermomix.com/recipes/recipe/en-US/r574872
 tags:
 - shrimp
-total_time: ''
+total_time: null
 type: null
 uid: FF85292E-75D5-4D26-8037-CF4463A11520-408-00004F40BFE23A06
 ---

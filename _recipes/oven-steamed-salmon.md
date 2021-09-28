@@ -2,10 +2,10 @@
 title: "Oven-Steamed Salmon"
 filename: "oven-steamed-salmon"
 cook_time: about 30 minutes
-created: '2020-03-20 18:25:48'
-created_ts: 1584728748
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://static01.nyt.com/images/2018/11/15/dining/oven-steamed-salmon/merlin_145792986_3ea4c3b9-784d-4bdf-9c0e-40d5ddf6ce0a-articleLarge.jpg
 ingredients: 'Center-cut salmon fillets, preferably wild-caught Alaskan king or sockeye,
@@ -23,21 +23,21 @@ meal_notes:
 - 2021-02-05-dinner
 mine: null
 name: Oven-Steamed Salmon
-p_recipe_id: 56
+p_recipe_id: 336
 permalink: /recipes/oven-steamed-salmon
 photo_large: null
 photo_thumb: oven-steamed-salmon-thumb.jpg
 photos_dict: null
-prep_time: ''
+prep_time: null
 rating: 0
 servings: Yield 1 to 8 servings
 slug: oven-steamed-salmon
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1018664-oven-steamed-salmon?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=12
 tags:
-- fish
 - salmon
-total_time: ''
+- fish
+total_time: null
 type: null
 uid: AF00C80B-4ED5-4079-A849-202274602FCD-9067-00018608E13E92CB
 ---

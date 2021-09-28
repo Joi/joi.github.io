@@ -2,10 +2,10 @@
 title: "Oven-Baked Ribs"
 filename: "oven-baked-ribs"
 cook_time: 2 hours 30 minutes
-created: '2020-09-09 00:40:14'
-created_ts: 1599612014
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: https://cookthestory.com/wp-content/uploads/2020/01/Oven-Baked-Ribs-Pinterest.jpg
 ingredients: "1 Tbsp brown sugar (optional)\n2 tsp salt\n1 tsp garlic powder\n1/2\
@@ -17,7 +17,7 @@ ingredients: "1 Tbsp brown sugar (optional)\n2 tsp salt\n1 tsp garlic powder\n1/
 intrash: 0
 mine: null
 name: Oven-Baked Ribs
-p_recipe_id: 346
+p_recipe_id: 280
 permalink: /recipes/oven-baked-ribs
 photo_large: null
 photo_thumb: oven-baked-ribs-thumb.jpg
@@ -28,7 +28,7 @@ servings: 'Yield: 6 servings'
 slug: oven-baked-ribs
 source: cookthestory.com
 source_url: https://cookthestory.com/oven-baked-ribs/
-total_time: ''
+total_time: null
 type: null
 uid: 8E79BD58-2BBB-4914-8031-A80750F45C41-50715-0007CE78285CA52B
 ---

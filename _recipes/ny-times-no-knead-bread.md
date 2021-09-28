@@ -2,28 +2,25 @@
 title: "NY Times No-Knead Bread"
 filename: "ny-times-no-knead-bread"
 cook_time: 1 hour 30 minutes
-created: '2020-04-20 07:01:04'
-created_ts: 1587366064
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: null
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "3 cups/385 grams all-purpose or bread flour, more for dusting\n\xBC\
   \ teaspoon instant yeast\n1 \xBC teaspoons salt\nCornmeal or wheat bran, as needed"
 intrash: 0
-meal_notes:
-- 2020-05-18-snacks
-- 2020-05-30-snacks
 mine: null
 name: NY Times No-Knead Bread
-p_recipe_id: 118
+p_recipe_id: 159
 permalink: /recipes/ny-times-no-knead-bread
 photo_large: ny-times-no-knead-bread-large.jpg
 photo_thumb: ny-times-no-knead-bread-thumb.jpg
 photos_dict:
   '1': ny-times-no-knead-bread-1.jpg
   '2': ny-times-no-knead-bread-2.jpg
-prep_time: ''
+prep_time: null
 rating: 4
 servings: Yield one 1 1/2-pound loaf
 slug: ny-times-no-knead-bread
@@ -31,7 +28,7 @@ source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/11376-no-knead-bread?smid=ck-recipe-iOS-share
 tags:
 - bread and biscuits
-total_time: ''
+total_time: null
 type: null
 uid: 4EDCD740-CD7A-46A6-9754-B21A1869F5CA-32311-0000117B166F0546
 ---

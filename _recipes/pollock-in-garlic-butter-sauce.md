@@ -2,10 +2,10 @@
 title: "Pollock in Garlic-Butter Sauce"
 filename: "pollock-in-garlic-butter-sauce"
 cook_time: '15'
-created: '2020-05-15 18:20:51'
-created_ts: 1589566851
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
+description: null
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: '4 (6oz) Pollock or Cod fillets, 1/2" thick
@@ -20,11 +20,9 @@ ingredients: '4 (6oz) Pollock or Cod fillets, 1/2" thick
 
   2 tbsp finely chopped parsley'
 intrash: 0
-meal_notes:
-- 2020-05-29-dinner
 mine: null
 name: Pollock in Garlic-Butter Sauce
-p_recipe_id: 159
+p_recipe_id: 348
 permalink: /recipes/pollock-in-garlic-butter-sauce
 photo_large: pollock-in-garlic-butter-sauce-large.jpg
 photo_thumb: pollock-in-garlic-butter-sauce-thumb.jpg
@@ -37,10 +35,10 @@ slug: pollock-in-garlic-butter-sauce
 source: epicurious.com
 source_url: https://www.epicurious.com/recipes/member/views/pollock-in-garlic-butter-sauce-51938241
 tags:
-- fish
-- white fish
 - pollack
-total_time: ''
+- white fish
+- fish
+total_time: null
 type: null
 uid: B45C4CDB-0EB2-4099-9B31-DCF1D9982EF6-13891-00010239B8BA03CE
 ---

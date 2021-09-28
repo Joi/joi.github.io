@@ -2,8 +2,8 @@
 title: "Hongeojjim (Steamed Skate Fish)"
 filename: "hongeojjim-steamed-skate-fish"
 cook_time: null
-created: '2021-01-19 12:47:22'
-created_ts: 1611060442
+created: '2021-09-01 09:33:53'
+created_ts: 1630488833
 description: null
 difficulty: null
 favorite: 0
@@ -17,11 +17,9 @@ ingredients: "1 skate wing hongeo \uD64D\uC5B4 (about 3/4 to 1-1/4 pounds)\nsalt
   \ sesame seeds\nPinch pepper\nOptional Garnish\n1 scallion cut into about 4 inches\
   \ and thinly sliced (pachae, \uD30C\uCC44)\nor a handful of spring mix or arugula"
 intrash: 0
-meal_notes:
-- 2021-01-19-dinner
 mine: null
 name: Hongeojjim (Steamed Skate Fish)
-p_recipe_id: 451
+p_recipe_id: 478
 permalink: /recipes/hongeojjim-steamed-skate-fish
 photo_large: null
 photo_thumb: hongeojjim-steamed-skate-fish-thumb.jpg

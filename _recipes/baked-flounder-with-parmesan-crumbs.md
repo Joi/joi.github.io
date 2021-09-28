@@ -2,10 +2,10 @@
 title: "Baked Flounder with Parmesan Crumbs"
 filename: "baked-flounder-with-parmesan-crumbs"
 cook_time: 30 min
-created: '2020-05-08 02:17:52'
-created_ts: 1588904272
-description: ''
-difficulty: ''
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
+description: null
+difficulty: null
 favorite: 0
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2F200209-xl-baked-flounder-with-parmesan-crumbs.jpg%3Fitok%3DjZKF7Jc0
 ingredients: '4 flounder fillets (2 pounds total)
@@ -20,11 +20,9 @@ ingredients: '4 flounder fillets (2 pounds total)
 
   2 tablespoons extra-virgin olive oil'
 intrash: 0
-meal_notes:
-- 2020-05-08-dinner
 mine: null
 name: Baked Flounder with Parmesan Crumbs
-p_recipe_id: 138
+p_recipe_id: 446
 permalink: /recipes/baked-flounder-with-parmesan-crumbs
 photo_large: null
 photo_thumb: baked-flounder-with-parmesan-crumbs-thumb.jpg
@@ -36,10 +34,10 @@ slug: baked-flounder-with-parmesan-crumbs
 source: foodandwine.com
 source_url: https://www.foodandwine.com/recipes/baked-flounder-parmesan-crumbs
 tags:
-- fish
 - white fish
 - flounder
-total_time: ''
+- fish
+total_time: null
 type: null
 uid: E5306C77-DC0B-42C9-9123-E0A5AA64D245-14694-0000789EC2F2A2E0
 ---

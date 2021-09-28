@@ -2,8 +2,8 @@
 title: "Smashed Sunchokes with Thyme-Butter"
 filename: "smashed-sunchokes-with-thyme-butter"
 cook_time: 25 minutes
-created: '2021-04-15 11:36:41'
-created_ts: 1618486601
+created: '2021-09-01 09:33:55'
+created_ts: 1630488835
 description: null
 difficulty: null
 favorite: 0
@@ -21,11 +21,12 @@ ingredients: '1 pound (450g) sunchokes, rinsed and trimmed of any dark spots
   Flaky salt, such as Maldon, for serving'
 intrash: 0
 meal_notes:
-- 2021-04-15-dinner
+- 2021-07-15-dinner
 - 2021-04-30-dinner
+- 2021-04-15-dinner
 mine: null
 name: Smashed Sunchokes with Thyme-Butter
-p_recipe_id: 517
+p_recipe_id: 124
 permalink: /recipes/smashed-sunchokes-with-thyme-butter
 photo_large: smashed-sunchokes-with-thyme-butter-large.jpg
 photo_thumb: smashed-sunchokes-with-thyme-butter-thumb.jpg

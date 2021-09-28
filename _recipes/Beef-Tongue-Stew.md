@@ -1,12 +1,12 @@
 ---
 title: "Beef Tongue Stew"
 filename: "beef-tongue-stew"
-cook_time: ''
-created: '2021-01-21 20:05:32'
-created_ts: 1611259532
+cook_time: null
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: Recipe is work in progress. I went very slow and low, but I think that
   going a little hotter might be better.
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: 'Beef tongue
@@ -61,11 +61,9 @@ ingredients: 'Beef tongue
 
   '
 intrash: 0
-meal_notes:
-- 2021-01-10-dinner
 mine: 1
 name: Beef Tongue Stew
-p_recipe_id: 457
+p_recipe_id: 119
 permalink: /recipes/beef-tongue-stew
 photo_large: beef-tongue-stew-large.jpg
 photo_thumb: beef-tongue-stew-thumb.jpg
@@ -85,15 +83,15 @@ photos_dict:
   '7': beef-tongue-stew-7.jpg
   '8': beef-tongue-stew-8.jpg
   '9': beef-tongue-stew-9.jpg
-prep_time: ''
+prep_time: null
 rating: 5
-servings: ''
+servings: null
 slug: beef-tongue-stew
 source: null
 source_url: null
 tags:
 - tongue
-total_time: ''
+total_time: null
 type: null
 uid: 38671B20-78DF-4FD9-AFFB-C105A172BBDB-2310-0000EC521E0EC0EE
 ---

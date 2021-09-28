@@ -2,8 +2,8 @@
 title: "Chicken Seasoning (For Roasted or Rotisserie Chicken)"
 filename: "chicken-seasoning-for-roasted-or-rotisserie-chicken"
 cook_time: 5 minutes
-created: '2020-11-12 12:00:22'
-created_ts: 1605182422
+created: '2021-09-01 09:33:52'
+created_ts: 1630488832
 description: null
 difficulty: null
 favorite: 0
@@ -24,7 +24,7 @@ ingredients: '1-1/2 teaspoons paprika
 intrash: 0
 mine: null
 name: Chicken Seasoning (For Roasted or Rotisserie Chicken)
-p_recipe_id: 407
+p_recipe_id: 187
 permalink: /recipes/chicken-seasoning-for-roasted-or-rotisserie-chicken
 photo_large: null
 photo_thumb: chicken-seasoning-for-roasted-or-rotisserie-chicken-thumb.jpg

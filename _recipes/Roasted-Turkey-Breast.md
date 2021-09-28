@@ -1,9 +1,9 @@
 ---
 title: "Roasted Turkey Breast"
 filename: "roasted-turkey-breast"
-cook_time: ''
-created: '2020-08-19 16:31:11'
-created_ts: 1597854671
+cook_time: null
+created: '2021-09-01 09:33:54'
+created_ts: 1630488834
 description: "Perhaps your family is small. Perhaps your friends all bailed on you\
   \ the week before Thanksgiving. Perhaps only half your family eats meat. Perhaps\
   \ you simply don\u2019t enjoy leftovers. (Weirdo.) Or perhaps you just had a craving\
@@ -25,7 +25,7 @@ description: "Perhaps your family is small. Perhaps your friends all bailed on y
   \ from fridge to table in under two hours. This is the kind of stuff Sunday supper\
   \ dreams are made of.\n\nNOTE: For the juiciest results and crispest skin, dry-brine\
   \ the bird and air-dry it overnight as described here."
-difficulty: ''
+difficulty: null
 favorite: 0
 image_url: null
 ingredients: "1 whole bone-in, skin-on turkey breast, 4 to 5 pounds,\rpatted dry\r\
@@ -33,11 +33,9 @@ ingredients: "1 whole bone-in, skin-on turkey breast, 4 to 5 pounds,\rpatted dry
   \ at room temperature\r5 tablespoons minced fresh parsley\r2 tablespoons minced\
   \ fresh oregano\r1 tablespoon kosher salt\r\xBD teaspoon freshly ground black pepper"
 intrash: 0
-meal_notes:
-- 2020-08-20-dinner
 mine: null
 name: Roasted Turkey Breast
-p_recipe_id: 315
+p_recipe_id: 88
 permalink: /recipes/roasted-turkey-breast
 photo_large: roasted-turkey-breast-large.jpg
 photo_thumb: roasted-turkey-breast-thumb.jpg
@@ -49,7 +47,7 @@ photos_dict:
   '5': roasted-turkey-breast-5.jpg
   '6': roasted-turkey-breast-6.jpg
   '7': roasted-turkey-breast-7.jpg
-prep_time: ''
+prep_time: null
 rating: 5
 servings: 6-8
 slug: roasted-turkey-breast
@@ -57,7 +55,7 @@ source: Food Lab
 source_url: null
 tags:
 - turkey
-total_time: ''
+total_time: null
 type: null
 uid: 2C9AD955-920A-42CE-BF3C-E764CC456104-2241-0001903C0249FBF5
 ---
