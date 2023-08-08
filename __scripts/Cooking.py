@@ -8,11 +8,11 @@
 # (which should be the path to the direcotry one level up from where this file here is.)
 
 # pip3 install mistletoe
-# pip install Unidecode | https://pypi.org/project/Unidecode/
-# pip install pathvalidate | https://pypi.org/project/pathvalidate/
-# pip install pyyaml
-# pip install python-frontmatter
-# pip install titlecase - 2021-04-11
+# pip3 install Unidecode | https://pypi.org/project/Unidecode/
+# pip3 install pathvalidate | https://pypi.org/project/pathvalidate/
+# pip3 install pyyaml
+# pip3 install python-frontmatter
+# pip3 install titlecase - 2021-04-11
 
 # REGARDING MARKDOWN
 # We ran with Commonmakr for a while but ran into an issue: it doesn't do tables.
