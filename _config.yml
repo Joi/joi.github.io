@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -22,23 +22,29 @@ name: Joi Ito
 title: Joi's Cooking
 email: joi@ito.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Joi's Cooking and Related Tangents
+  Joi's Cooking and Related Tangents
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cooking.ito.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joi
-github_username:  joi
+github_username: joi
 plugins:
   - jekyll-sitemap
   - jekyll-feed
 
 #markdown: kramdown
 markdown: CommonMarkGhPages
-commonmark: #"SMART", 
-  options: ["FOOTNOTES", "HARDBREAKS","STRIKETHROUGH_DOUBLE_TILDE","TABLE_PREFER_STYLE_ATTRIBUTES"]
+commonmark: #"SMART",
+  options:
+    [
+      "FOOTNOTES",
+      "HARDBREAKS",
+      "STRIKETHROUGH_DOUBLE_TILDE",
+      "TABLE_PREFER_STYLE_ATTRIBUTES",
+      "UNSAFE",
+    ]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
   #extensions: ["strikethrough", "autolink", "table", "tagfilter", "tasklist"]
 #permalink: /posts/:year-:month-:day-:title:output_ext
-
 
 collections:
   webpages:
@@ -66,41 +72,41 @@ defaults:
       path: "_webpages" # Homepage, various indexes, eventual "About" etc…
       type: "webpages"
     values:
-      layout: 
+      layout:
   - scope:
       path: "_posts" # Source path!
       type: "posts"
     values:
       layout: "post"
-      i_am  : "post" # see post.html layout
+      i_am: "post" # see post.html layout
 
   - scope:
       path: "_pages" # Source path!
       type: "pages"
     values:
       layout: "page"
-      i_am  : "page" # see post.html layout
+      i_am: "page" # see post.html layout
 
   - scope:
       path: "_recipes" # Source path!
       type: "recipes"
     values:
       layout: "recipe"
-      i_am  : "recipe" # see post.html layout
+      i_am: "recipe" # see post.html layout
 
   - scope:
       path: "_notes" # Source path!
       type: "notes"
     values:
       layout: "note"
-      i_am  : "note" # see note.html layout
+      i_am: "note" # see note.html layout
 
   - scope:
       path: "_tags" # Source path!
       type: "tags"
     values:
       layout: "tag"
-      i_am  : "tag" # see note.html layout
+      i_am: "tag" # see note.html layout
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -111,16 +117,16 @@ defaults:
 # their entries' file path in the `include:` list.
 #
 exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  #   - .sass-cache/
+  #   - .jekyll-cache/
+  #   - gemfiles/
+  #   - Gemfile
+  #   - Gemfile.lock
+  #   - node_modules/
+  #   - vendor/bundle/
+  #   - vendor/cache/
+  #   - vendor/gems/
+  #   - vendor/ruby/
   - __project_files
   - __scripts
   - .git
