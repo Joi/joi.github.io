@@ -3,9 +3,8 @@
 .jekyll-cache
 .jekyll-metadata
 #.obsidian
-.DS_Store
-vendor
-.htaccess
+.obsidian/config
+.obsidian/workspace
 
 #
 __project_files
@@ -13,18 +12,20 @@ __storage
 test/
 
 # __scripts stuff
+venv
 __pycache__
 .ipynb_checkpoints/
 __scripts/.ipynb_checkpoints/ParsePaprika-checkpoint.ipynb
 __scripts/data/
 __scripts/backups/
-
-_site/
 __scripts/config.py
-.obsidian/workspace
-_data/meal_by_recipe_and_date.json
-.obsidian/config
-.obsidian/workspace
 __scripts/DelLocalFiles.py
 
-venv
+# Site Stuff
+_site/
+_data/meal_by_recipe_and_date.json
+
+# Misc
+.DS_Store
+.htaccess
+vendor

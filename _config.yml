@@ -36,11 +36,12 @@ markdown: CommonMarkGhPages
 commonmark: #"SMART",
   options:
     [
+      # "UNSAFE",
+      "SMART",
       "FOOTNOTES",
       "HARDBREAKS",
       "STRIKETHROUGH_DOUBLE_TILDE",
-      "TABLE_PREFER_STYLE_ATTRIBUTES",
-      "UNSAFE",
+      "TABLE_PREFER_STYLE_ATTRIBUTES"
     ]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
   #extensions: ["strikethrough", "autolink", "table", "tagfilter", "tasklist"]
