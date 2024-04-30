@@ -6,7 +6,7 @@ i_am: about
 permalink: /about/
 old_title: Joi's Cooking and Related Tangents
 ---
-_Since starting this site in Cambridge, MA, I've moved back to Japan, COVID is over, and I'm much busier. I'll try to keep posting stuff here though._
+_Since starting this site in Cambridge, MA, I've moved back to Japan, COVID is over, and I'm much busier. I'll try to keep posting stuff here, but I'm not cooking every night anymore._
 
 During the COVID-19 lockdown, I have started cooking a lot more - almost every dinner. While planning my cooking, I decided to organize my recipes. I noticed that the app that I was using, [Paprika](https://www.paprikaapp.com/), could export to html so I set up [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/) and had GitHub serve the site. I thought that this would be a good GitHub project to become more familiar with GitHub as well.
 
