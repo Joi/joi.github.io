@@ -11,6 +11,7 @@ layout: default
   }
   </style>
 
+{% if content != "" %}
 <div class="row" id="">
   <div class="large-12 columns" id="">
     {% comment %}
@@ -18,16 +19,14 @@ layout: default
     {% endcomment %}
     <div class="content">
       {%- include content.html -%}
-      
     </div>
-
   </div>
 </div>
-
 <hr>
+{% endif %}
 
 <div class="row">
-  <div class="large-8 columns" id="">
+  <div class="columns small-12 large-8" id="">
 
     {% comment %}
     Create Context for Meal Notes Feed Include
@@ -40,7 +39,7 @@ layout: default
 
   </div>
 
-  <div class="large-3 columns" id="posts">
+  <div class="columns small-12 large-3" id="posts">
     <div>
 
       <h4 class="marker">Recent recipes</h4>

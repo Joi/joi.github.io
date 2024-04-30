@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="no-js" lang="en" dir="ltr">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <link rel="icon" type="image/png" href="https://joi.ito.com/favicon.png">
@@ -49,43 +49,42 @@
   <!-- End MathJax -->
 </head>
 <body class="{{ page.i_am }}">
-<nav>
-  <div class="top-bar">
-    <div class="row columns">
-      <div class="top-bar-title">
-        <a id="joilogo" href="/" title="Joi Ito's Cooking" accesskey="1"><img src="/images/joi-ito-cooking-300x135.png" alt="Joi Ito [logo]" width="140" height="63" /></a> 
-        <h1 id="header-name">
-          <a href="/" accesskey="1">Joi Ito's Cooking</a>
-        </h1>
-        <h2 id="header-description">
-          Joi Ito's cookin' on the living web.
-        </h2>
-      </div>
-      <div>
-        <div class="top-bar-left">
-        </div>
-        <div class="top-bar-right">
-          {% comment %} <div id="header-menu">
-            <ul class="menu">
-              <li><a href="https://joi.ito.com/" title="Joi Ito - Weblog">Blog</a></li>
-              <li><a href="https://joi.ito.com/jp/" title="Joi Ito - 日本語 / Japanese Weblog">日本語</a></li>
-              <li><a href="https://joi.ito.com/bio.html" title="Joi Ito's Bio">Bio</a></li>
-              <li><a href="http://diving.ito.com/" title="Joi Ito - Diving Blog">Diving</a></li>
-            </ul>
-          </div> {% endcomment %}
 
-          {% include cooking_navbar.html %}
+<div class="top-bar">
+  <div class="row medium-uncollapse small-collapse">
+    <div class="columns small-9 medium-3">
+      <a id="joilogo" href="/" title="Joi Ito's Cooking" accesskey="1"><img src="/images/joi-ito-cooking-300x135.png" alt="Joi Ito [logo]" width="140" height="63" /></a> 
+      <h1 id="header-name">
+        <a href="/" accesskey="1">Joi Ito's Cooking</a>
+      </h1>
+      <h2 id="header-description">
+        Joi Ito's cookin' on the living web.
+      </h2>
+    </div>
+    <div class="columns small-3 medium-9">
+      {% comment %}<div class="top-bar-left"></div>{% endcomment %}
+      <div class="top-bar-right">
+        {% comment %} <div id="header-menu">
+          <ul class="menu">
+            <li><a href="https://joi.ito.com/" title="Joi Ito - Weblog">Blog</a></li>
+            <li><a href="https://joi.ito.com/jp/" title="Joi Ito - 日本語 / Japanese Weblog">日本語</a></li>
+            <li><a href="https://joi.ito.com/bio.html" title="Joi Ito's Bio">Bio</a></li>
+            <li><a href="http://diving.ito.com/" title="Joi Ito - Diving Blog">Diving</a></li>
+          </ul>
+        </div> {% endcomment %}
 
-          {% comment %} <div>
-            <script async src="https://cse.google.com/cse.js?cx=5e215292a065ee152"></script>
-            <div class="gcse-searchbox-only"></div>
-          </div> {% endcomment %}
+        {% include cooking_navbar.html %}
 
-        </div>
+        {% comment %} <div>
+          <script async src="https://cse.google.com/cse.js?cx=5e215292a065ee152"></script>
+          <div class="gcse-searchbox-only"></div>
+        </div> {% endcomment %}
+
       </div>
     </div>
   </div>
-</nav>
+</div>
+
 
 {{ content }} 
 
