@@ -19,6 +19,8 @@ ingredients: "FOR THE BRINE:\n1 cup kosher salt\n\u2154 cup packed light brown s
   \ pepper\n3 to 4 sprigs sage\n3 tablespoons butter, softened\n1 (12-ounce) bottle\
   \ lager-style beer"
 intrash: 0
+meal_notes:
+- 2020-05-17-dinner
 mine: null
 name: Beer-Brined Roast Chicken
 p_recipe_id: 257

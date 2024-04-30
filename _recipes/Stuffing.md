@@ -17,6 +17,9 @@ ingredients: "2\xBD pounds (about 2 loaves) high-quality sandwich bread or soft 
   \ canned chicken or turkey stock\r3 large eggs\r\xBC cup minced fresh parsley\r\
   Kosher salt and freshly ground black pepper"
 intrash: 0
+meal_notes:
+- 2020-11-25-dinner
+- 2020-08-20-dinner
 mine: null
 name: Stuffing
 p_recipe_id: 111

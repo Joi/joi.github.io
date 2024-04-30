@@ -12,6 +12,8 @@ ingredients: "2 pounds lamb shoulder\n1 cup pitted prunes\n1 tablespoon minced g
   Salt and pepper\n1 chopped onion\n2 teaspoons minced ginger\n\xBC teaspoon cinnamon\n\
   1 \xBD cup red wine\n\xBD cup stock or water"
 intrash: 0
+meal_notes:
+- 2020-05-16-dinner
 mine: null
 name: Braised Lamb with Red Wine and Prunes
 p_recipe_id: 203

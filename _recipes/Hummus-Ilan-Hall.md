@@ -14,6 +14,8 @@ ingredients: "**Hummus**\n8 oz dried garbanzo beans\n23 oz water, divided, plus 
   \ smashed\n1 oz extra virgin olive oil\nground smoked paprika, to garnish\n\xBD\
   \ oz pistachios, toasted and chopped\nsliced raw vegetables, to serve"
 intrash: 0
+meal_notes:
+- 2020-06-25-snacks
 mine: null
 name: Hummus (Ilan Hall)
 p_recipe_id: 32

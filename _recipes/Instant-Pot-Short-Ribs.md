@@ -25,6 +25,11 @@ ingredients: "6 - 10 pieces (1116g) bone-in short ribs (1.5 - 2 inches thick)\n6
 intrash: 0
 meal_notes:
 - 2021-06-26-lunch
+- 2020-12-13-dinner
+- 2020-08-26-dinner
+- 2020-07-08-dinner
+- 2020-04-24-dinner
+- 2020-04-05-dinner
 mine: null
 name: Instant Pot Short Ribs
 p_recipe_id: 375

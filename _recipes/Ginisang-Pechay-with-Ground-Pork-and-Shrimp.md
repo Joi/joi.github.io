@@ -41,6 +41,7 @@ meal_notes:
 - 2021-02-26-dinner
 - 2021-02-23-dinner
 - 2021-02-19-dinner
+- 2021-01-28-dinner
 mine: 1
 name: Ginisang Pechay with Ground Pork and Shrimp
 p_recipe_id: 409

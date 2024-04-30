@@ -12,6 +12,7 @@ ingredients: More Breadcrumbs
 intrash: 0
 meal_notes:
 - 2021-02-27-dinner
+- 2020-08-21-dinner
 mine: null
 name: Pan-Seared Salmon Fillets with Crispy Skin
 p_recipe_id: 246

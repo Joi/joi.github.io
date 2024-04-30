@@ -10,6 +10,8 @@ favorite: 0
 image_url: null
 ingredients: Octopus
 intrash: 0
+meal_notes:
+- 2020-11-19-dinner
 mine: 1
 name: Grilled Octopus
 p_recipe_id: 20

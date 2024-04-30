@@ -24,6 +24,9 @@ ingredients: '1/3 cup pecans, chopped
 
   Four 6- to 7-ounce salmon fillets, with skin'
 intrash: 0
+meal_notes:
+- 2020-09-04-dinner
+- 2020-08-11-dinner
 mine: null
 name: Grilled Salmon with Cilantro-Pecan Pesto
 p_recipe_id: 429

@@ -14,6 +14,8 @@ ingredients: 'salmon, cut into 1" thick fillets
 
   oil'
 intrash: 0
+meal_notes:
+- 2020-06-12-dinner
 mine: null
 name: Shiozake (Grilled Salted Salmon)
 p_recipe_id: 297

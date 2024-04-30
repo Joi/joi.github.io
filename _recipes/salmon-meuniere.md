@@ -14,6 +14,9 @@ ingredients: "\xBC cup all-purpose flour\n1 \xBC teaspoons kosher salt - divided
   \ freshly squeezed lemon juice - about 1 small lemon\n1 tablespoon finely chopped\
   \ fresh parsley\n1 tablespoon drained capers"
 intrash: 0
+meal_notes:
+- 2020-11-14-dinner
+- 2020-09-29-dinner
 mine: null
 name: Salmon Meuniere
 p_recipe_id: 81

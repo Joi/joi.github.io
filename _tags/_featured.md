@@ -1,5 +1,5 @@
 ---
-title: _featured
+title: _Featured
 tag_key: _featured
 recipes:
 - mine: null

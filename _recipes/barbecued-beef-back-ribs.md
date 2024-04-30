@@ -16,6 +16,9 @@ ingredients: "3/4 cup raw or turbinado sugar, such as Sugar In The Raw\n1/4 cup 
   \ ribs:\n5 pounds beef back ribs* (see *What Are Beef Back Ribs\u201D above)\n2\
   \ cups your favorite barbecue sauce"
 intrash: 0
+meal_notes:
+- 2020-11-28-dinner
+- 2020-09-26-dinner
 mine: null
 name: Barbecued Beef Back Ribs
 p_recipe_id: 1

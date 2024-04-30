@@ -30,6 +30,8 @@ ingredients: '3 eggs
 
   1 tbsp sour cream'
 intrash: 0
+meal_notes:
+- 2020-12-29-lunch
 mine: null
 name: Crab Omelet with Avocado and Herbs
 p_recipe_id: 22

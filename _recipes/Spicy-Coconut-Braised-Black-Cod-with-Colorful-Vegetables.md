@@ -47,6 +47,9 @@ ingredients: '2 tablespoons chopped fresh mint
 
   Lime wedges'
 intrash: 0
+meal_notes:
+- 2020-12-04-dinner
+- 2020-11-13-dinner
 mine: null
 name: Spicy Coconut Braised Black Cod with Colorful Vegetables
 p_recipe_id: 116

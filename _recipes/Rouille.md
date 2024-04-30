@@ -11,6 +11,9 @@ image_url: null
 ingredients: "1 pinch saffron threads\n2 Tbsp fsh stock\n4 cloves garlic, peeled and\
   \ minced\n1 cup mayonnaise\n\xBD tsp. sweet paprika\n1 pinch cayenne\nSalt"
 intrash: 0
+meal_notes:
+- 2020-10-09-dinner
+- 2020-10-08-dinner
 mine: 1
 name: Rouille
 p_recipe_id: 373

@@ -16,6 +16,8 @@ intrash: 0
 meal_notes:
 - 2021-05-01-lunch
 - 2021-03-28-lunch
+- 2021-01-18-lunch
+- 2020-09-28-dinner
 mine: null
 name: Chicken Livers and Onions, Venetian Style
 p_recipe_id: 174

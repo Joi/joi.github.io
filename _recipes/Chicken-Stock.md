@@ -36,6 +36,12 @@ meal_notes:
 - 2021-01-31-dinner
 - 2021-03-27-snacks
 - 2021-05-15-dinner
+- 2021-01-03-snacks
+- 2020-12-13-snacks
+- 2020-11-14-snacks
+- 2020-09-26-snacks
+- 2020-09-26-dinner
+- 2023-08-26-snacks
 mine: 1
 name: Chicken Stock
 p_recipe_id: 465

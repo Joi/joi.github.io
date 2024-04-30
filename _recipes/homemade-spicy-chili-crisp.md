@@ -21,6 +21,8 @@ ingredients: "27g (1 cup) dried \xE1rbol chilies, stems removed (see note)\n20g 
   2 cups (200g) thinly sliced shallots (about 1mm thick)\n3/4 cup (65g) thinly sliced\
   \ garlic (about 1mm thick)"
 intrash: 0
+meal_notes:
+- 2020-08-15-snacks
 mine: null
 name: Homemade Spicy Chili Crisp
 p_recipe_id: 321

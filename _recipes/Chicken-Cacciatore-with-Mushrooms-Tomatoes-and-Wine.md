@@ -16,6 +16,8 @@ ingredients: "\xBD ounce dried mushrooms, like porcini (1/2 cup)\n2 tablespoons 
   \ rosemary\n\xBC teaspoon red pepper flakes\n\xBD pound mushrooms, trimmed and sliced\n\
   \xBD cup red wine\n1 28-ounce can chopped tomatoes in juice, pulsed in a food processor"
 intrash: 0
+meal_notes:
+- 2020-04-10-dinner
 mine: null
 name: Chicken Cacciatore with Mushrooms, Tomatoes and Wine
 p_recipe_id: 253

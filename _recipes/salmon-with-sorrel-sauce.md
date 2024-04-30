@@ -38,6 +38,7 @@ ingredients: "1 \xBD pounds Salmon filets\nSalt and freshly ground pepper\n1 Tbs
 intrash: 0
 meal_notes:
 - 2021-03-31-dinner
+- 2020-04-18-dinner
 mine: 1
 name: Salmon with Sorrel Sauce
 p_recipe_id: 241

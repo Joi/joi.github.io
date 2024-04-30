@@ -20,6 +20,9 @@ ingredients: '1 large bone-in T-bone or ribeye steak (see note)
 
   1/2 cup finely sliced shallots (about 1 large; optional)'
 intrash: 0
+meal_notes:
+- 2020-04-21-dinner
+- 2020-05-20-dinner
 mine: null
 name: Butter-Basted, Pan-Seared Thick-Cut Steaks
 p_recipe_id: 41

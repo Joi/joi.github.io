@@ -13,6 +13,8 @@ ingredients: "14 pounds turkey\n4 ounces (1 stick) softened butter (preferably s
   \ rosemary\n4 sprigs thyme\n4 sprigs sage\n1 pinch Kosher salt and freshly ground\
   \ black pepper, for seasoning\n1 cup white wine"
 intrash: 0
+meal_notes:
+- 2020-11-25-dinner
 mine: null
 name: Slow-Roasted Turkey
 p_recipe_id: 361

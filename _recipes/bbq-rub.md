@@ -14,6 +14,8 @@ ingredients: "\xBC cup salt\n\xBC cup brown sugar\n\xBC cup sweet paprika (optio
 intrash: 0
 meal_notes:
 - 2021-07-03-dinner
+- 2020-09-20-dinner
+- 2023-08-06-dinner
 mine: 1
 name: BBQ Rub
 p_recipe_id: 420

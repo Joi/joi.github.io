@@ -22,6 +22,8 @@ ingredients: '30 g fresh yeast
 
   1 egg, beaten'
 intrash: 0
+meal_notes:
+- 2020-05-23-breakfast
 mine: null
 name: Butter Croissants
 p_recipe_id: 182

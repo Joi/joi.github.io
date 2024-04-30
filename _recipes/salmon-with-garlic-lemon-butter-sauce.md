@@ -28,6 +28,9 @@ ingredients: '4 (6 oz) skinless salmon fillets (about 1-inch thick)
 
   Lemon slices for garnish (optional)'
 intrash: 0
+meal_notes:
+- 2021-01-26-dinner
+- 2020-08-21-dinner
 mine: null
 name: Salmon with Garlic Lemon Butter Sauce
 p_recipe_id: 150

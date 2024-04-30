@@ -20,6 +20,8 @@ ingredients: '1 large fresh crab, or 2 small fresh crabs
 
   '
 intrash: 0
+meal_notes:
+- 2021-01-20-dinner
 mine: null
 name: Chinese Stir Fry Eggs with Flaked Crab Meat Recipe
 p_recipe_id: 238

@@ -16,6 +16,8 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 whole roasting chicken (4 1/2 to 5 poun
   \ bay leaf\n1 medium sprig fresh rosemary (optional)\n\xBD - 1 teaspoon juice from\
   \ 1 lemon"
 intrash: 0
+meal_notes:
+- 2020-05-27-dinner
 mine: null
 name: French Chicken in a Pot
 p_recipe_id: 132

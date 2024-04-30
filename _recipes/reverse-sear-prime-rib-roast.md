@@ -12,6 +12,8 @@ ingredients: "1 (10 pound) bone-in standing rib roast\n2 tablespoons kosher salt
   \xBD cup butter, softened\n3 tablespoons chopped fresh rosemary\n2 tablespoons chopped\
   \ fresh thyme\n1 pinch ground black pepper to taste"
 intrash: 0
+meal_notes:
+- 2020-08-17-dinner
 mine: null
 name: Reverse-Sear Prime Rib Roast
 p_recipe_id: 194

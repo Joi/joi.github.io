@@ -18,6 +18,8 @@ ingredients: '1 cup cloves garlic (4 1/2 ounces; 130g)
 
   3 cups (600g) neutral oil, such as grapeseed or canola, divided'
 intrash: 0
+meal_notes:
+- 2020-08-27-dinner
 mine: null
 name: Traditional Toum (Lebanese Garlic Sauce)
 p_recipe_id: 293

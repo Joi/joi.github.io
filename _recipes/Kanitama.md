@@ -20,6 +20,7 @@ intrash: 0
 meal_notes:
 - 2021-03-16-dinner
 - 2021-02-16-dinner
+- 2021-01-20-dinner
 mine: 1
 name: Kanitama
 p_recipe_id: 2

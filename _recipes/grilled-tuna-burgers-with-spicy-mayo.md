@@ -54,6 +54,8 @@ ingredients: '1 tablespoon toasted sesame oil
 
   Kosher salt and freshly ground black pepper'
 intrash: 0
+meal_notes:
+- 2020-08-08-dinner
 mine: null
 name: Grilled Tuna Burgers with Spicy Mayo
 p_recipe_id: 101

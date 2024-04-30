@@ -35,6 +35,7 @@ intrash: 0
 meal_notes:
 - 2021-06-11-dinner
 - 2021-04-29-dinner
+- 2021-01-01-dinner
 mine: null
 name: Chinese Roasted Chicken
 p_recipe_id: 378

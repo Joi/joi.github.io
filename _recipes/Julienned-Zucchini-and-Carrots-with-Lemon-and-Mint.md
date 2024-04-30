@@ -12,6 +12,8 @@ ingredients: "1 Tbs. olive oil\n2 cups julienned carrot\n4 cups julienned green 
   4 scallions, thinly sliced on the diagonal\nFreshly ground black pepper\n2 Tbs.\
   \ fresh lemon juice\n\xBD cup minced fresh mint\nSalt"
 intrash: 0
+meal_notes:
+- 2020-07-30-dinner
 mine: null
 name: Julienned Zucchini and Carrots with Lemon and Mint
 p_recipe_id: 67

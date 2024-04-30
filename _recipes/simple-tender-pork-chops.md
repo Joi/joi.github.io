@@ -11,6 +11,9 @@ image_url: https://res.cloudinary.com/anova-applied-electronics/image/upload/w_5
 ingredients: "2 Thick pork chops (bone in or boneless is fine)\n\xBD Tbsp Kosher salt\n\
   Black pepper\n1 Tbsp Butter\n1 tsp Olive oil\nOptional aromatic herbs"
 intrash: 0
+meal_notes:
+- 2020-12-10-dinner
+- 2023-08-14-dinner
 mine: null
 name: Simple Tender Pork Chops
 p_recipe_id: 163

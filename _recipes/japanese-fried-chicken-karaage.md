@@ -17,6 +17,7 @@ meal_notes:
 - 2021-05-27-dinner
 - 2021-03-25-dinner
 - 2021-03-11-dinner
+- 2020-05-21-dinner
 mine: 1
 name: Japanese fried chicken - karaage
 p_recipe_id: 338

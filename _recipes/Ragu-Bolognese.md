@@ -51,6 +51,7 @@ ingredients: '1 carrot, peeled
 intrash: 0
 meal_notes:
 - 2021-07-31-dinner
+- 2020-06-06-dinner
 mine: null
 name: "Rag\xFA Bolognese"
 p_recipe_id: 78

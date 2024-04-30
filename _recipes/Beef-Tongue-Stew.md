@@ -61,6 +61,8 @@ ingredients: 'Beef tongue
 
   '
 intrash: 0
+meal_notes:
+- 2021-01-10-dinner
 mine: 1
 name: Beef Tongue Stew
 p_recipe_id: 119

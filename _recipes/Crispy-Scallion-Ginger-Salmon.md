@@ -14,6 +14,8 @@ ingredients: "4 tablespoons oil\n2 eight oz. salmon fillets (450g total, sprinkl
   \ julienned)\n3 scallions (very thinly julienned into 2-inch pieces)\n1/2 cup cilantro\
   \ (chopped)"
 intrash: 0
+meal_notes:
+- 2020-10-20-dinner
 mine: null
 name: Crispy Scallion Ginger Salmon
 p_recipe_id: 481

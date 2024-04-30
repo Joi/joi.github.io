@@ -14,6 +14,8 @@ ingredients: "3 tablespoons olive oil\n3 tablespoons unsalted butter, melted\n6 
   \ pound white mushrooms, thinly sliced\n4 tablespoons lemon juice\n1 tablespoon\
   \ capers\nFresh Italian parsley, chopped, for garnish"
 intrash: 0
+meal_notes:
+- 2020-05-30-dinner
 mine: null
 name: Tim McNulty's Skate Wings Piccata
 p_recipe_id: 431

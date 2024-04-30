@@ -20,6 +20,8 @@ ingredients: '12 tablespoons cold unsalted butter, sliced into 1/2 inch pieces, 
 
   Kosher salt and ground white pepper'
 intrash: 0
+meal_notes:
+- 2021-01-26-dinner
 mine: null
 name: Lemon Butter Sauce
 p_recipe_id: 444

@@ -16,6 +16,7 @@ ingredients: "1 lb beef sliced thin\n1 large onion thinly sliced\n1 package of m
 intrash: 0
 meal_notes:
 - 2021-03-18-dinner
+- 2020-10-29-dinner
 mine: 1
 name: Beef Stroganoff
 p_recipe_id: 85

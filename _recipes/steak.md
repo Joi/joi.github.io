@@ -13,6 +13,9 @@ intrash: 0
 meal_notes:
 - 2021-05-17-dinner
 - 2021-03-27-dinner
+- 2020-09-13-dinner
+- 2020-08-12-dinner
+- 2020-08-02-dinner
 mine: 1
 name: Steak
 p_recipe_id: 165

@@ -14,6 +14,8 @@ ingredients: "3 large garlic cloves, finely chopped\n\xBD teaspoon salt\n\xBD te
   \ cup wine\n6 tablespoons butter\n1 tablespoon lemon juice\n2 tablespoons chopped\
   \ Italian parsley\n\xBD teaspoon red pepper flakes"
 intrash: 0
+meal_notes:
+- 2020-06-18-dinner
 mine: null
 name: Southern Shrimp Scampi
 p_recipe_id: 52

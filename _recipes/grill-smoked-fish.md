@@ -12,6 +12,8 @@ ingredients: null
 intrash: 0
 meal_notes:
 - 2021-05-11-dinner
+- 2020-11-22-dinner
+- 2020-10-21-dinner
 mine: 1
 name: Grill Smoked Fish
 p_recipe_id: 345

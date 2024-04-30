@@ -22,6 +22,8 @@ ingredients: '4 (4 ounce) flounder fillets
 
   1 pinch dried thyme'
 intrash: 0
+meal_notes:
+- 2020-05-08-dinner
 mine: null
 name: Baked Flounder with Panko and Parmesan
 p_recipe_id: 49

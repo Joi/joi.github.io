@@ -36,6 +36,8 @@ ingredients: '1 pound medium shrimp thawed, peeled, can remove tails if desired
 
   Scallions chopped, to taste'
 intrash: 0
+meal_notes:
+- 2020-10-14-dinner
 mine: null
 name: Easy Thai Shrimp Curry
 p_recipe_id: 438

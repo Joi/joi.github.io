@@ -14,6 +14,8 @@ ingredients: "**For Stage 1: Preparing the Chicken & Stock**\n2 chicken leg quar
   \ cups shaoxing huadiao wine (\u7ECD\u5174\u82B1\u96D5\u9152)\n1 1/2 teaspoons sugar\n\
   2 1/2 teaspoons sea salt\n1 tablespoon dried goji berries/wolfberries"
 intrash: 0
+meal_notes:
+- 2020-10-01-dinner
 mine: null
 name: Chinese Drunken Chicken
 p_recipe_id: 360

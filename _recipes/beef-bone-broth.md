@@ -28,6 +28,8 @@ ingredients: '4 pounds beef bones, preferably a mix of marrow bones and bones wi
 
   1 tablespoon cider vinegar'
 intrash: 0
+meal_notes:
+- 2020-10-14-snacks
 mine: null
 name: Beef Bone Broth
 p_recipe_id: 55

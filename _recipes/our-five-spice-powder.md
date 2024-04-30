@@ -23,6 +23,7 @@ ingredients: '1 tablespoon ground Chinese cassia cinnamon (1 part)
 intrash: 0
 meal_notes:
 - 2021-04-07-dinner
+- 2020-11-08-dinner
 mine: null
 name: Our Five Spice Powder
 p_recipe_id: 340

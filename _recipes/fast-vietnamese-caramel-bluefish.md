@@ -17,6 +17,7 @@ ingredients: "4 (6-ounce) skin-on bluefish fillets (or substitute mackerel, trou
 intrash: 0
 meal_notes:
 - 2021-07-09-dinner
+- 2020-06-02-dinner
 mine: null
 name: Fast Vietnamese Caramel Bluefish
 p_recipe_id: 447

@@ -17,6 +17,8 @@ ingredients: "1 skate wing hongeo \uD64D\uC5B4 (about 3/4 to 1-1/4 pounds)\nsalt
   \ sesame seeds\nPinch pepper\nOptional Garnish\n1 scallion cut into about 4 inches\
   \ and thinly sliced (pachae, \uD30C\uCC44)\nor a handful of spring mix or arugula"
 intrash: 0
+meal_notes:
+- 2021-01-19-dinner
 mine: null
 name: Hongeojjim (Steamed Skate Fish)
 p_recipe_id: 478

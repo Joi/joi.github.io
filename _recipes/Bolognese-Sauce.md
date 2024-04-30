@@ -10,10 +10,10 @@ favorite: 0
 image_url: null
 ingredients: "1 Tbsp olive oil\n1 \xBD cups diced yellow onion\n\xBD cup diced carrots\n\
   \xBD cup diced celery\n1 lb ground beef chuck\n\xBD lb ground pork\n4 oz diced bacon\n\
-  4 cloves garlic, minced\n2 Tbsp tomato paste\n\xBD cup dry red wine\n28 oz of tomatoes\n\
-  \xBD cup Italian parsley\n\xBD cup basil\nFresh oregano\n\xBC cup heavy cream\n\
-  parmesan cheese\npinch ground nutmeg\nbay leaves\nmirin\nfish sauce\nkosher salt\
-  \ and freshly-ground black pepper\n"
+  Chicken liver\n4 cloves garlic, minced\n2 Tbsp tomato paste\n\xBD cup dry red wine\n\
+  28 oz of tomatoes\n\xBD cup Italian parsley\n\xBD cup basil\nFresh oregano\n\xBC\
+  \ cup heavy cream\nparmesan cheese\npinch ground nutmeg\nbay leaves\nmirin\nfish\
+  \ sauce\nkosher salt and freshly-ground black pepper"
 intrash: 0
 meal_notes:
 - 2021-04-04-lunch
@@ -34,6 +34,13 @@ meal_notes:
 - 2021-02-25-dinner
 - 2021-02-17-dinner
 - 2021-02-07-dinner
+- 2021-01-25-dinner
+- 2021-01-18-dinner
+- 2020-12-27-dinner
+- 2020-12-21-dinner
+- 2020-09-16-dinner
+- 2020-09-11-dinner
+- 2021-10-09-dinner
 mine: 1
 name: Bolognese Sauce
 p_recipe_id: 254
@@ -82,6 +89,7 @@ uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1
 <li>1 lb ground beef chuck</li>
 <li>½ lb ground pork</li>
 <li>4 oz diced bacon</li>
+<li>Chicken liver</li>
 <li>4 cloves garlic, minced</li>
 <li>2 Tbsp tomato paste</li>
 <li>½ cup dry red wine</li>
@@ -96,7 +104,6 @@ uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1
 <li>mirin</li>
 <li>fish sauce</li>
 <li>kosher salt and freshly-ground black pepper</li>
-<li></li>
 </ul>
 </div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/bolognese-sauce-7.jpg" alt="7" /></p>
 <p>Mix tomatoes, tomato paste, basil, oregano, parsley and garlic in a bowl with immersion blender.</p>

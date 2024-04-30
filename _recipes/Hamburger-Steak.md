@@ -36,6 +36,8 @@ ingredients: '3/4 cup Panko bread crumb
 
   1-2 Tbsp sake (or wine)'
 intrash: 0
+meal_notes:
+- 2020-06-28-dinner
 mine: null
 name: Hamburger Steak
 p_recipe_id: 110

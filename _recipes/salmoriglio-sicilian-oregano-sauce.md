@@ -13,6 +13,8 @@ ingredients: "\xBC cup very finely chopped parsley\r2 tablespoons very finely ch
   \ grated or pounded with a pinch of salt\r\xBC cup extra-virgin olive oil\r2 tablespoons\
   \ lemon juice\rSalt"
 intrash: 0
+meal_notes:
+- 2020-07-30-dinner
 mine: null
 name: Salmoriglio Sicilian Oregano Sauce
 p_recipe_id: 277

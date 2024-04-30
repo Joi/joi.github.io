@@ -20,6 +20,8 @@ ingredients: '4 (6oz) Pollock or Cod fillets, 1/2" thick
 
   2 tbsp finely chopped parsley'
 intrash: 0
+meal_notes:
+- 2020-05-29-dinner
 mine: null
 name: Pollock in Garlic-Butter Sauce
 p_recipe_id: 348

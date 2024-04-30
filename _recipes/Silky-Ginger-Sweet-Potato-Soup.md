@@ -32,6 +32,8 @@ ingredients: '2 tablespoons coconut oil
 
   extra coconut milk or cream for drizzling'
 intrash: 0
+meal_notes:
+- 2020-07-02-dinner
 mine: null
 name: Silky Ginger Sweet Potato Soup
 p_recipe_id: 457

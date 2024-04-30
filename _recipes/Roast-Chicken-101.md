@@ -20,6 +20,9 @@ ingredients: '1 whole Chicken
 intrash: 0
 meal_notes:
 - 2021-03-04-dinner
+- 2021-01-01-dinner
+- 2023-08-16-dinner
+- 2023-08-05-dinner
 mine: null
 name: Roast Chicken 101
 p_recipe_id: 305

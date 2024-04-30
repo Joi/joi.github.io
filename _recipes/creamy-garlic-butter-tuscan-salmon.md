@@ -38,6 +38,7 @@ ingredients: '4 salmon fillets, skin off (or Trout or any white fish)
 intrash: 0
 meal_notes:
 - 2021-02-27-dinner
+- 2020-12-12-dinner
 mine: null
 name: Creamy Garlic Butter Tuscan Salmon
 p_recipe_id: 419

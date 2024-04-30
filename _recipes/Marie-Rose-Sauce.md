@@ -13,6 +13,7 @@ ingredients: "\u2154 cup of fresh [recipe:Mayonnaise]\n1 Tbsp ketchup\n1 tsp Wor
 intrash: 0
 meal_notes:
 - 2021-03-27-snacks
+- 2021-01-22-dinner
 mine: 1
 name: Marie Rose Sauce
 p_recipe_id: 357

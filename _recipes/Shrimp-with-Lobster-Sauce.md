@@ -38,6 +38,7 @@ ingredients: '8 oz. shrimp (21 size, or about 10 shrimp; 225g)
 intrash: 0
 meal_notes:
 - 2021-04-20-dinner
+- 2020-08-29-dinner
 mine: null
 name: Shrimp with Lobster Sauce
 p_recipe_id: 355

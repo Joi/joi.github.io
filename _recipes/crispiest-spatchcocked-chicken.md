@@ -24,6 +24,8 @@ favorite: 0
 image_url: null
 ingredients: "4-pound whole chicken\rSalt\rExtra-virgin olive oil"
 intrash: 0
+meal_notes:
+- 2020-07-09-dinner
 mine: null
 name: Crispiest Spatchcocked Chicken
 p_recipe_id: 6

@@ -18,6 +18,8 @@ ingredients: '3 lb / 1.36 kg Raw natural casing sausages such as Bratwurst or It
 
   Buns and condiments for serving'
 intrash: 0
+meal_notes:
+- 2020-07-04-dinner
 mine: null
 name: Sous Vide Sausage
 p_recipe_id: 392

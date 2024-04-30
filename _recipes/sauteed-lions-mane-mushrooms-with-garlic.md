@@ -11,6 +11,8 @@ image_url: https://www.emmafrisch.com/wp-content/uploads/2020/10/5.jpg
 ingredients: "olive oil or butter\nminced garlic\nlion\u2019s mane mushrooms, sliced\
   \ \xBD-inch thick"
 intrash: 0
+meal_notes:
+- 2021-01-21-dinner
 mine: null
 name: "Saut\xE9ed Lion's Mane Mushrooms with Garlic"
 p_recipe_id: 352

@@ -18,6 +18,8 @@ ingredients: "## Meat Sauce\n\u200B\n- 1 tbsp olive oil\n- \xBD onion, finely ch
   - 8 oz fresh lasagna sheets\n- 12 oz fresh mozzarella cheese, shredded\n\u200B\n\
   - 1 tbsp finely chopped fresh parsley"
 intrash: 0
+meal_notes:
+- 2020-09-05-dinner
 mine: null
 name: Lasagna
 p_recipe_id: 221

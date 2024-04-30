@@ -24,6 +24,8 @@ ingredients: '1 1/2 cups all-purpose flour
 
   3 lemons, cut in half'
 intrash: 0
+meal_notes:
+- 2020-07-13-dinner
 mine: null
 name: Pan-Fried Soft-Shell Crabs
 p_recipe_id: 341

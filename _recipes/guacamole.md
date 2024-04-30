@@ -15,6 +15,7 @@ intrash: 0
 meal_notes:
 - 2021-05-03-dinner
 - 2021-04-18-dinner
+- 2021-01-23-snacks
 mine: 1
 name: Guacamole
 p_recipe_id: 339

@@ -23,6 +23,8 @@ ingredients: "For the Salad:\n1/4 cup raw pepitas\n2 medium/large sweet potatoes
   \ lime zest, plus 2 tablespoons fresh juice\n1 clove minced garlic\n\xBD teaspoon\
   \ kosher salt\n1/2 teaspoon ground cumin"
 intrash: 0
+meal_notes:
+- 2020-07-16-dinner
 mine: null
 name: Mexican Salad
 p_recipe_id: 50

@@ -33,6 +33,8 @@ ingredients: "1 whole bone-in, skin-on turkey breast, 4 to 5 pounds,\rpatted dry
   \ at room temperature\r5 tablespoons minced fresh parsley\r2 tablespoons minced\
   \ fresh oregano\r1 tablespoon kosher salt\r\xBD teaspoon freshly ground black pepper"
 intrash: 0
+meal_notes:
+- 2020-08-20-dinner
 mine: null
 name: Roasted Turkey Breast
 p_recipe_id: 88

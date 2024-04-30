@@ -18,6 +18,9 @@ meal_notes:
 - 2021-04-11-lunch
 - 2021-03-27-snacks
 - 2021-05-27-dinner
+- 2021-01-22-dinner
+- 2020-08-17-dinner
+- 2020-06-11-lunch
 mine: 1
 name: Mayonnaise
 p_recipe_id: 421

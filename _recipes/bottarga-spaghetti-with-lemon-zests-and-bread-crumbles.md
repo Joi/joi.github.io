@@ -42,6 +42,8 @@ ingredients: 'click on the links and find out my favorites!
 
   5 tbsp cooking salt'
 intrash: 0
+meal_notes:
+- 2020-09-16-dinner
 mine: null
 name: Bottarga Spaghetti with Lemon Zests and Bread Crumbles
 p_recipe_id: 334

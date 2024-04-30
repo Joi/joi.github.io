@@ -22,6 +22,8 @@ ingredients: 'For the crab:
 
   Cucumber Mignonette (recipe link in intro)'
 intrash: 0
+meal_notes:
+- 2020-03-31-dinner
 mine: null
 name: Easy Steamed Dungeness Crab
 p_recipe_id: 326

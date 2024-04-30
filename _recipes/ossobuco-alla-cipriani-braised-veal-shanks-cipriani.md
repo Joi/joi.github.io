@@ -47,6 +47,7 @@ intrash: 0
 meal_notes:
 - 2021-07-15-dinner
 - 2021-04-18-dinner
+- 2020-06-21-dinner
 mine: null
 name: Ossobuco Alla Cipriani - Braised Veal Shanks Cipriani
 p_recipe_id: 442

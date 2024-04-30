@@ -28,6 +28,8 @@ ingredients: '2 tablespoons olive oil
 
   cashew nuts'
 intrash: 0
+meal_notes:
+- 2020-05-14-dinner
 mine: null
 name: Pressure Cooker Halibut Fillets with Tomatoes and Olives
 p_recipe_id: 434

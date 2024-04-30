@@ -19,6 +19,8 @@ ingredients: "1 tablespoon vegetable oil\n3 pounds oxtails\n1 large carrot, peel
   4 cups homemade or low-sodium canned chicken stock Kosher salt and freshly ground\
   \ black pepper"
 intrash: 0
+meal_notes:
+- 2023-08-08-dinner
 mine: null
 name: Oxtail Au Jus
 p_recipe_id: 388

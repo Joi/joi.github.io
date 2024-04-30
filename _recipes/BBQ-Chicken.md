@@ -24,6 +24,8 @@ intrash: 0
 meal_notes:
 - 2021-07-14-dinner
 - 2021-05-20-dinner
+- 2020-09-17-dinner
+- 2020-09-06-dinner
 mine: 1
 name: BBQ Chicken
 p_recipe_id: 13

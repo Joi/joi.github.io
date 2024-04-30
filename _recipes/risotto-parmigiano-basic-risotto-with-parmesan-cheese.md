@@ -19,6 +19,11 @@ ingredients: "5 to 6 cups of chicken stock, preferably homemade (1,250 to 1,500 
   \ at room temperature (45 g)\n2/3 cup freshly grated _Parmesan_ cheese (80 g) plus\
   \ extra to pass at table\nSalt\nFreshly ground ground pepper"
 intrash: 0
+meal_notes:
+- 2021-01-04-dinner
+- 2020-07-24-dinner
+- 2020-07-23-dinner
+- 2020-06-27-dinner
 mine: null
 name: Risotto Parmigiano - Basic Risotto with Parmesan Cheese
 p_recipe_id: 285

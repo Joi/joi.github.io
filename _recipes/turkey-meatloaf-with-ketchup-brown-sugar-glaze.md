@@ -30,6 +30,8 @@ ingredients: "GATHER YOUR INGREDIENTS\nMeatloaf\n3 tablespoons unsalted butter\n
   \ cup)\n\u2153 cup chopped fresh parsley\nGlaze\n1 cup ketchup\n\xBC cup packed\
   \ brown sugar\n2 \xBD teaspoons cider vinegar\n\xBD teaspoon hot sauce"
 intrash: 0
+meal_notes:
+- 2020-05-23-dinner
 mine: null
 name: Turkey Meatloaf with Ketchup-Brown Sugar Glaze
 p_recipe_id: 60

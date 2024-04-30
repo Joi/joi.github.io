@@ -20,6 +20,8 @@ ingredients: '3 tablespoons olive oil
 
   2 teaspoons fresh lemon juice'
 intrash: 0
+meal_notes:
+- 2020-08-10-dinner
 mine: null
 name: Sauteed Celery Root with Swiss Chard
 p_recipe_id: 351

@@ -31,6 +31,8 @@ ingredients: '1 whole turkey, neck and giblets reserved, about 10 to 12 pounds (
 
   1/4 cup (1 1/2 ounces) flour'
 intrash: 0
+meal_notes:
+- 2020-11-25-dinner
 mine: null
 name: The Best Simple Roast Turkey with Gravy
 p_recipe_id: 294

@@ -43,6 +43,9 @@ ingredients: '1 3-4 pound chicken (1.350 to 1.800 g)
 
   3 quarts cold water'
 intrash: 0
+meal_notes:
+- 2020-06-24-snacks
+- 2020-06-11-lunch
 mine: null
 name: Harry's Bar Chicken Stock
 p_recipe_id: 142

@@ -33,6 +33,8 @@ intrash: 0
 meal_notes:
 - 2021-04-14-dinner
 - 2021-02-24-dinner
+- 2021-01-14-dinner
+- 2020-12-24-dinner
 mine: 1
 name: Chicken with Vinegar
 p_recipe_id: 330

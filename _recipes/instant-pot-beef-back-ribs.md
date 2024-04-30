@@ -30,6 +30,8 @@ ingredients: '1 beef rib rack, membrane removed
 
   BBQ Sauce, of choice'
 intrash: 0
+meal_notes:
+- 2020-09-03-dinner
 mine: null
 name: Instant Pot Beef Back Ribs
 p_recipe_id: 57

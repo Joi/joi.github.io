@@ -18,6 +18,11 @@ ingredients: '1/4 cup sake
 
   4 black cod fillets, about 1/2 pound each'
 intrash: 0
+meal_notes:
+- 2021-01-29-dinner
+- 2020-06-22-dinner
+- 2020-04-20-dinner
+- 2020-04-22-lunch
 mine: null
 name: Nobu's Miso-Marinated Black Cod
 p_recipe_id: 269

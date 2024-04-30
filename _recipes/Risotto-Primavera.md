@@ -21,6 +21,9 @@ ingredients: "For the rice:\n5 to 6 cups chicken broth\n1 tbsp olive oil\n1 smal
   \ part only, cleaned and diced.\n\xBD tsp. basil\n\xBC tsp. oregano\nSalt and pepper\
   \ to taste."
 intrash: 0
+meal_notes:
+- 2021-01-04-dinner
+- 2020-08-31-dinner
 mine: null
 name: Risotto Primavera
 p_recipe_id: 51

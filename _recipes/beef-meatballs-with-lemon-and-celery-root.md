@@ -23,6 +23,8 @@ ingredients: "14 oz/400g ground beef\r1 medium onion, finely chopped (scant 1 cu
   \ fennel seeds, lightly crushed\r1 tsp sweet smoked paprika\r2 cups/500 ml chicken\
   \ stock\r3 1/2 tbsp lemon juice"
 intrash: 0
+meal_notes:
+- 2020-05-10-dinner
 mine: null
 name: Beef meatballs with lemon and celery root
 p_recipe_id: 201

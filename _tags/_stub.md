@@ -1,5 +1,5 @@
 ---
-title: _stub
+title: _Stub
 tag_key: _stub
 recipes:
 - mine: null

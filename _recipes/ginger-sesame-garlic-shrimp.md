@@ -34,6 +34,8 @@ ingredients: 'Marinade:
 
   1 Tbsp sesame seeds, toasted'
 intrash: 0
+meal_notes:
+- 2020-08-01-dinner
 mine: null
 name: Ginger Sesame Garlic Shrimp
 p_recipe_id: 398

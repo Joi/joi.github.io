@@ -17,6 +17,8 @@ ingredients: "4 (6-ounce) cod fillets or other flaky white fish\nKosher salt\n2 
   \ and tender stems\n2 tablespoons thinly sliced scallion greens\nLime wedges (from\
   \ 1 lime), for serving\nFlaky salt (optional)"
 intrash: 0
+meal_notes:
+- 2020-10-23-dinner
 mine: null
 name: Coconut-Poached Fish with Bok Choy
 p_recipe_id: 146

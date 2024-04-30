@@ -14,6 +14,8 @@ ingredients: "3 Tbsp finely diced shallot (about 1 medium shallot)\n3 Tbsp red w
 intrash: 0
 meal_notes:
 - 2021-07-07-dinner
+- 2020-10-08-dinner
+- 2020-07-15-dinner
 mine: null
 name: Basic Salsa Verde
 p_recipe_id: 362

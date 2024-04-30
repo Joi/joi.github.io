@@ -14,6 +14,8 @@ ingredients: "GATHER YOUR INGREDIENTS\n1 (4- to 5-pound) boneless pork shoulder 
   \ halved\n20 ounces cremini or white mushrooms, quartered\n1 cup low-sodium chicken\
   \ broth\nWater\n1 bay leaf\n2 tablespoons all-purpose flour"
 intrash: 0
+meal_notes:
+- 2020-07-26-dinner
 mine: null
 name: Pork Roast with Mushroom Gravy
 p_recipe_id: 266

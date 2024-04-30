@@ -22,6 +22,9 @@ ingredients: '1 lb. chicken hearts
 
   1/2 teaspoon ground cumin'
 intrash: 0
+meal_notes:
+- 2020-12-27-dinner
+- 2020-07-27-dinner
 mine: null
 name: Chicken Hearts
 p_recipe_id: 329

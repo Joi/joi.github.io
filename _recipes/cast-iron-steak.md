@@ -13,6 +13,9 @@ ingredients: "Coarse salt, such as kosher salt or Maldon sea salt\n1 or 2 bonele
   \ iron, chuck-eye, hanger or skirt (preferably \u201Coutside\u201D skirt)\nBlack\
   \ pepper (optional)"
 intrash: 0
+meal_notes:
+- 2020-03-30-dinner
+- 2020-04-09-dinner
 mine: null
 name: Cast-Iron Steak
 p_recipe_id: 385

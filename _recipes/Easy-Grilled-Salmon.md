@@ -71,6 +71,9 @@ ingredients: '1 1/2 to 3 pounds salmon fillets, skin-on (about 1/3 to 1/2 pound 
 
   1/4 cup white sugar'
 intrash: 0
+meal_notes:
+- 2020-08-11-dinner
+- 2020-06-19-dinner
 mine: null
 name: Easy Grilled Salmon
 p_recipe_id: 208

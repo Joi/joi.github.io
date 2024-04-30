@@ -14,6 +14,8 @@ ingredients: "1 tablespoon olive oil\n1 tablespoon butter\n\xBC cup clamshell mu
   1\u2009\xBD tablespoons butter, room temperature but not soft\n1 tablespoon chopped\
   \ flat-leaf Italian parsley"
 intrash: 0
+meal_notes:
+- 2020-06-14-dinner
 mine: null
 name: Pan-Roasted Halibut with Clamshell Mushrooms and Lemon Butter Sauce
 p_recipe_id: 395

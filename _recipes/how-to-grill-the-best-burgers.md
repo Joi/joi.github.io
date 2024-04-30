@@ -24,6 +24,9 @@ ingredients: '2 pounds 80/20 ground beef, cold
 
   Butter for buns'
 intrash: 0
+meal_notes:
+- 2020-07-12-dinner
+- 2020-06-13-dinner
 mine: null
 name: How to Grill the Best Burgers
 p_recipe_id: 387

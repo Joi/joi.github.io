@@ -18,6 +18,8 @@ ingredients: '1 1/2 pounds large peeled shrimp (about 700g)
 
   Aromatics such as garlic, shallots, tarragon, or parsley (optional)'
 intrash: 0
+meal_notes:
+- 2020-07-05-dinner
 mine: null
 name: Sous Vide Shrimp
 p_recipe_id: 158

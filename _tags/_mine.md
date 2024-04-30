@@ -1,5 +1,5 @@
 ---
-title: _mine
+title: _Mine
 tag_key: _mine
 recipes:
 - mine: 1

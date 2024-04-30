@@ -32,6 +32,8 @@ ingredients: '12 oz. firm white fish fillet (halibut, cod or pollock fillet)
 
   1 tablespoon chopped parsley'
 intrash: 0
+meal_notes:
+- 2020-05-15-dinner
 mine: null
 name: Garlic Butter Fish
 p_recipe_id: 343

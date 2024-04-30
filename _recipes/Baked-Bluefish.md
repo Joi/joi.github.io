@@ -28,6 +28,7 @@ intrash: 0
 meal_notes:
 - 2021-07-09-dinner
 - 2021-05-14-dinner
+- 2020-06-05-dinner
 mine: null
 name: Baked Bluefish
 p_recipe_id: 394

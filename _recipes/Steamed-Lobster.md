@@ -10,6 +10,10 @@ favorite: 0
 image_url: null
 ingredients: Live lobster
 intrash: 0
+meal_notes:
+- 2020-12-30-dinner
+- 2020-07-11-dinner
+- 2020-07-04-dinner
 mine: 1
 name: Steamed Lobster
 p_recipe_id: 136

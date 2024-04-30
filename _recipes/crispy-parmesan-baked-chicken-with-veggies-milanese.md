@@ -38,6 +38,8 @@ ingredients: 'For The Chicken:
 
   1 pound | 500 g green beans , cut into thirds'
 intrash: 0
+meal_notes:
+- 2020-11-16-dinner
 mine: null
 name: Crispy Parmesan Baked Chicken with Veggies (Milanese)
 p_recipe_id: 296

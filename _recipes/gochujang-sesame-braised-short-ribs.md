@@ -15,6 +15,9 @@ ingredients: "1.5 lb Beef Short Ribs on Bone\n3 Tbsp Gochujang\n2 Tbsp Minced Ga
   4 cups White Rice (optional side)\n2 cups Kimchi (optional side)\n\xBC cup Chili\
   \ Threads (optional garnish)"
 intrash: 0
+meal_notes:
+- 2020-11-15-dinner
+- 2023-08-10-dinner
 mine: null
 name: Gochujang Sesame Braised Short Ribs
 p_recipe_id: 411

@@ -20,6 +20,8 @@ ingredients: '4 flounder fillets (2 pounds total)
 
   2 tablespoons extra-virgin olive oil'
 intrash: 0
+meal_notes:
+- 2020-05-08-dinner
 mine: null
 name: Baked Flounder with Parmesan Crumbs
 p_recipe_id: 446

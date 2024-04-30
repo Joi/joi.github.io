@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3719bcb9f4d045af",
+        "id": "4ec3c884e3678ff4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/2021-09-25-dinner.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -55,6 +52,14 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "10e6ffa2580377de",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -76,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2021-09-25-dinner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +97,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3719bcb9f4d045af",
+  "active": "4ec3c884e3678ff4",
   "lastOpenFiles": [
     "_notes/2021-09-25-dinner.md",
     "images/recipes/prime-rib-19.jpg",

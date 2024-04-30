@@ -30,6 +30,8 @@ ingredients: '8 bone-in chicken thighs
 intrash: 0
 meal_notes:
 - 2021-03-11-dinner
+- 2020-06-11-dinner
+- 2020-04-02-dinner
 mine: null
 name: "Rishia Zimmern\u2019s Chicken with Shallots"
 p_recipe_id: 177

@@ -26,6 +26,8 @@ ingredients: "4 chicken legs, with thighs attached\rSalt\rFreshly ground black p
   4 sprigs fresh thyme\r4 cloves\r2 bay leaves\r3 garlic cloves, halved\rAbout 4 cups\
   \ duck or chicken fat or olive oil"
 intrash: 0
+meal_notes:
+- 2020-08-02-dinner
 mine: null
 name: Chicken Confit
 p_recipe_id: 19

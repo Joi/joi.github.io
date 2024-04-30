@@ -26,6 +26,8 @@ ingredients: '4 pieces of frozen squid
 
   4 slices of baguette'
 intrash: 0
+meal_notes:
+- 2020-06-03-lunch
 mine: null
 name: Pan-Fried Squid in Butter Soy Sauce
 p_recipe_id: 166

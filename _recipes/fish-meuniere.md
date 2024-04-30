@@ -19,6 +19,7 @@ intrash: 0
 meal_notes:
 - 2021-04-27-dinner
 - 2021-04-16-dinner
+- 2021-01-15-dinner
 mine: 1
 name: Fish Meuniere
 p_recipe_id: 188

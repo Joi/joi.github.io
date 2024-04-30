@@ -14,6 +14,9 @@ ingredients: "1 pound elbows, shells, cavatappi, farfalle, fusilli or other shor
   \ Cheddar, grated and 4 ounces Brie or other smelly cheese\n2 large eggs, lightly\
   \ beaten\n3 tablespoons unsalted butter\nFreshly ground pepper"
 intrash: 0
+meal_notes:
+- 2020-08-10-dinner
+- 2020-05-11-dinner
 mine: null
 name: Macaroni and Cheese
 p_recipe_id: 302

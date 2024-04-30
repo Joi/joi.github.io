@@ -27,6 +27,8 @@ ingredients: '1 pound large shrimp peeled and deveined (you can either leave tai
 
   lemon wedges for serving'
 intrash: 0
+meal_notes:
+- 2020-07-12-dinner
 mine: null
 name: Grilled Shrimp Skewers
 p_recipe_id: 106

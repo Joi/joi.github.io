@@ -15,6 +15,9 @@ ingredients: "2 tbsp cooking oil\n6 king oyster mushrooms, about 400g/14oz\n1 tb
   1 tbsp light soy sauce\n1 tsp dark soy sauce\n\xBD tbsp sugar\n\xBD tbsp cornstarch\n\
   1 tbsp water"
 intrash: 0
+meal_notes:
+- 2021-01-24-lunch
+- 2020-10-22-dinner
 mine: null
 name: King Oyster Mushroom with Garlic Sauce
 p_recipe_id: 304

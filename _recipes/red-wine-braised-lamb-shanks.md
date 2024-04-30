@@ -32,6 +32,8 @@ ingredients: '2 tablespoons extra-virgin olive oil
 
   Maple-Glazed Root Vegetables and Braised Red Cabbage, for serving'
 intrash: 0
+meal_notes:
+- 2020-12-03-dinner
 mine: null
 name: Red Wine-Braised Lamb Shanks
 p_recipe_id: 484

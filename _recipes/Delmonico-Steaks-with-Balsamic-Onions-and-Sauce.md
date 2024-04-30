@@ -42,6 +42,8 @@ ingredients: 'STEAKS:
 
   Add Ingredients to Grocery List'
 intrash: 0
+meal_notes:
+- 2020-11-11-dinner
 mine: null
 name: Delmonico Steaks with Balsamic Onions and Sauce
 p_recipe_id: 416

@@ -1,7 +1,7 @@
 ---
 title: "Braised Chicken Tikka Masala"
 filename: "braised-chicken-tikka-masala"
-cook_time: 30 mins
+cook_time: 90 mins
 created: '2021-09-01 09:33:52'
 created_ts: 1630488832
 description: Based on [this recipe from Cafe Delites](https://cafedelites.com/chicken-tikka-masala/)
@@ -27,6 +27,7 @@ meal_notes:
 - 2021-07-01-dinner
 - 2021-04-22-dinner
 - 2021-02-04-dinner
+- 2023-08-25-dinner
 mine: 1
 name: Braised Chicken Tikka Masala
 p_recipe_id: 127

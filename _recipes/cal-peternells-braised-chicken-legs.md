@@ -16,6 +16,8 @@ ingredients: "6 chicken legs, thigh and drumstick together\nKosher salt and blac
   \ or sage, leaves removed and roughly chopped\n1 bay leaf\n3 cups chicken stock,\
   \ or water\n2 tablespoons roughly chopped parsley leaves"
 intrash: 0
+meal_notes:
+- 2020-05-07-dinner
 mine: null
 name: "Cal Peternell\u2019s Braised Chicken Legs"
 p_recipe_id: 173

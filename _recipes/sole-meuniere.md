@@ -14,6 +14,9 @@ ingredients: "\xBD cup all-purpose flour\n6 4-ounce skinless, boneless sole or o
   \ butter, diced, at room temperature\n3 tablespoons minced parsley\n1 lemon, cut\
   \ into wedges, for serving"
 intrash: 0
+meal_notes:
+- 2021-01-15-dinner
+- 2020-07-31-dinner
 mine: null
 name: "Sole Meuni\xE8re"
 p_recipe_id: 275

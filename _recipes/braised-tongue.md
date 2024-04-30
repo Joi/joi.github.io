@@ -14,6 +14,8 @@ ingredients: "3 tablespoons neutral oil, like grapeseed or vegetable\n2 Spanish 
   \ leaves\n\xBD tablespoon black peppercorns\n4 tablespoons red-wine vinegar\n1 tablespoon\
   \ kosher salt\nSauce gribiche (see recipe)\nFresh parsley\nExtra-virgin olive oil"
 intrash: 0
+meal_notes:
+- 2021-01-09-dinner
 mine: null
 name: Braised Tongue
 p_recipe_id: 191

@@ -25,6 +25,8 @@ ingredients: '2 bone-in pork rib chops, preferably blade-end, 1 1/2 inches thick
 
   8 sprigs fresh thyme'
 intrash: 0
+meal_notes:
+- 2020-12-10-dinner
 mine: null
 name: Perfect Pan-Seared Pork Chops
 p_recipe_id: 410

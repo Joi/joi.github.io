@@ -18,6 +18,8 @@ ingredients: "Good olive oil, as needed\n4 to 8 thick slices good bread\n1 onion
   \ optional\nChopped fennel fronds, for garnish\nChopped basil or parsley, for garnish\n\
   Rouille, optional"
 intrash: 0
+meal_notes:
+- 2020-10-09-dinner
 mine: null
 name: "Mark Bittman\u2019s Bouillabaisse"
 p_recipe_id: 350

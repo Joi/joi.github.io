@@ -30,6 +30,8 @@ ingredients: '3 lbs beef short ribs
 
   optional crusty French bread'
 intrash: 0
+meal_notes:
+- 2020-12-14-dinner
 mine: null
 name: Slow Cooker Beef Short Ribs
 p_recipe_id: 34

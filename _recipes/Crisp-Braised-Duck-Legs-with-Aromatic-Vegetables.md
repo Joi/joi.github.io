@@ -20,6 +20,8 @@ ingredients: '2 duck legs, trimmed of excess fat
 
   2 cups chicken stock, preferably homemade'
 intrash: 0
+meal_notes:
+- 2020-04-07-dinner
 mine: null
 name: Crisp-Braised Duck Legs with Aromatic Vegetables
 p_recipe_id: 179

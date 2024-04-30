@@ -21,6 +21,7 @@ intrash: 0
 meal_notes:
 - 2021-02-07-dinner
 - 2021-01-31-dinner
+- 2023-08-04-dinner
 mine: null
 name: Steak 101
 p_recipe_id: 366

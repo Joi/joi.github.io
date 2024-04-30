@@ -22,6 +22,8 @@ ingredients: '5 tablespoons Finlandia Unsalted Butter, divided
 
   Wedges from 1 lemon for garnish, if desired'
 intrash: 0
+meal_notes:
+- 2020-12-30-dinner
 mine: null
 name: Buttery Garlic Steamed Clams
 p_recipe_id: 300

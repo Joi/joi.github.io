@@ -14,6 +14,11 @@ ingredients: "4 tablespoons extra virgin olive oil\n1 \xBD to 2 pounds salmon fi
 intrash: 0
 meal_notes:
 - 2021-02-05-dinner
+- 2020-06-01-dinner
+- 2020-05-12-dinner
+- 2020-05-18-dinner
+- 2020-04-04-dinner
+- 2020-04-08-dinner
 mine: null
 name: Salmon and Tomatoes in Foil
 p_recipe_id: 143

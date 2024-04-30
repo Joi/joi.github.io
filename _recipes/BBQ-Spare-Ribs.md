@@ -14,6 +14,7 @@ ingredients: "Pork Spare Ribs\n**Homemade Pork Seasoning Rub**\n \xBD cup brown 
 intrash: 0
 meal_notes:
 - 2021-05-16-dinner
+- 2021-01-17-dinner
 mine: null
 name: BBQ Spare Ribs
 p_recipe_id: 474

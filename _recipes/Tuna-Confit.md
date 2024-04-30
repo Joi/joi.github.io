@@ -41,6 +41,7 @@ ingredients: '1. 2 lb. top-quality fresh tuna (yellowfin or ahi), cut into 1-inc
 intrash: 0
 meal_notes:
 - 2021-04-10-dinner
+- 2020-08-05-dinner
 mine: null
 name: Tuna Confit
 p_recipe_id: 94

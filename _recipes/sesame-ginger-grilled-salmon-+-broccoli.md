@@ -14,6 +14,8 @@ ingredients: "1 pound salmon fillet\n1 pound broccoli (cut lengthwise into \xBD-
   1 teaspoon fresh ginger (grated)\n2 teaspoons soy sauce\n2 teaspoons sesame oil\n\
   1 lemon\n1/4 teaspoon sea salt\n1/4 teaspoon fresh ground black pepper"
 intrash: 0
+meal_notes:
+- 2020-08-28-dinner
 mine: null
 name: Sesame Ginger Grilled Salmon + Broccoli
 p_recipe_id: 190
