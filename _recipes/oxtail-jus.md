@@ -38,6 +38,7 @@ meal_notes:
 - 2021-01-02-dinner
 - 2020-12-07-dinner
 - 2020-12-06-dinner
+- 2024-04-27-dinner
 mine: 1
 name: Oxtail Jus
 p_recipe_id: 470
