@@ -1,12 +1,12 @@
 ---
 title: "Oxtail Jus"
 filename: "oxtail-jus"
-cook_time: null
+cook_time: ''
 created: '2021-09-01 09:33:54'
 created_ts: 1630488834
 description: Inspired by Oxtail Jus for Prime Rib from The Food Lab. Make a bunch
   of this for Prime Rib and keep it frozen for other things.
-difficulty: null
+difficulty: ''
 favorite: 0
 image_url: null
 ingredients: '1 Tbsp light oil
@@ -53,7 +53,17 @@ photos_dict:
   '14': oxtail-jus-14.jpg
   '15': oxtail-jus-15.jpg
   '16': oxtail-jus-16.jpg
+  '17': oxtail-jus-17.jpg
+  '18': oxtail-jus-18.jpg
+  '19': oxtail-jus-19.jpg
   '2': oxtail-jus-2.jpg
+  '20': oxtail-jus-20.jpg
+  '21': oxtail-jus-21.jpg
+  '22': oxtail-jus-22.jpg
+  '23': oxtail-jus-23.jpg
+  '24': oxtail-jus-24.jpg
+  '25': oxtail-jus-25.jpg
+  '26': oxtail-jus-26.jpg
   '3': oxtail-jus-3.jpg
   '4': oxtail-jus-4.jpg
   '5': oxtail-jus-5.jpg
@@ -61,16 +71,16 @@ photos_dict:
   '7': oxtail-jus-7.jpg
   '8': oxtail-jus-8.jpg
   '9': oxtail-jus-9.jpg
-prep_time: null
+prep_time: ''
 rating: 5
-servings: null
+servings: ''
 slug: oxtail-jus
 source: null
 source_url: null
 tags:
 - oxtail
 - sauce
-total_time: null
+total_time: ''
 type: null
 uid: F604EADB-25AC-44AC-9DC1-75246C0FB483-641-0000509B20DEF473
 ---

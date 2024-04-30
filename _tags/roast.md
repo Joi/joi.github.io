@@ -32,11 +32,11 @@ notes:
     type: dinner
     uri_path: /notes/2021-04-04-dinner.html
   - date: '2021-09-25'
-    feature: Second Prime Rib in Japan
+    feature: First Prime Rib in Japan
     type: dinner
     uri_path: /notes/2021-09-25-dinner.html
   - date: '2024-04-27'
-    feature: First Prime Rib in Japan
+    feature: Second Prime Rib in Japan
     type: dinner
     uri_path: /notes/2024-04-27-dinner.html
   rough:

@@ -1301,6 +1301,10 @@
   },
   "2023-08-26": {
    "465": "Snacks"
+  },
+  "2024-04-27": {
+   "63": "Dinner",
+   "388": "Dinner"
   }
  },
  "meal_by_recipe_and_date": {
@@ -1445,7 +1449,8 @@
    "2021-04-04": "Dinner",
    "2021-06-05": "Dinner",
    "2021-09-25": "Dinner",
-   "2023-08-08": "Dinner"
+   "2023-08-08": "Dinner",
+   "2024-04-27": "Dinner"
   },
   "66": {
    "2021-02-07": "Dinner"
@@ -2188,7 +2193,8 @@
    "2020-07-12": "Dinner"
   },
   "388": {
-   "2023-08-08": "Dinner"
+   "2023-08-08": "Dinner",
+   "2024-04-27": "Dinner"
   },
   "392": {
    "2020-07-04": "Dinner"
@@ -2835,6 +2841,11 @@
     },
     {
      "date": "2021-09-25",
+     "feature": "First Prime Rib in Japan",
+     "type": "Dinner"
+    },
+    {
+     "date": "2024-04-27",
      "feature": "Second Prime Rib in Japan",
      "type": "Dinner"
     }
@@ -5183,6 +5194,13 @@
    ]
   },
   "388": {
+   "featured": [
+    {
+     "date": "2024-04-27",
+     "feature": "Second Prime Rib in Japan",
+     "type": "Dinner"
+    }
+   ],
    "nofile": [
     {
      "date": "2023-08-08",
@@ -5761,7 +5779,7 @@
     },
     {
      "date": "2021-09-25",
-     "feature": "Second Prime Rib in Japan",
+     "feature": "First Prime Rib in Japan",
      "type": "Dinner"
     }
    ],
@@ -6285,12 +6303,24 @@
    "2021-09-25": {
     "Dinner": [
      {
-      "feature": "Second Prime Rib in Japan",
+      "feature": "First Prime Rib in Japan",
       "recipe": 470
      },
      {
+      "feature": "First Prime Rib in Japan",
+      "recipe": 63
+     }
+    ]
+   },
+   "2024-04-27": {
+    "Dinner": [
+     {
       "feature": "Second Prime Rib in Japan",
       "recipe": 63
+     },
+     {
+      "feature": "Second Prime Rib in Japan",
+      "recipe": 388
      }
     ]
    }
@@ -11332,6 +11362,12 @@
   "2023-08-26": {
    "Snacks": [
     465
+   ]
+  },
+  "2024-04-27": {
+   "Dinner": [
+    63,
+    388
    ]
   }
  }

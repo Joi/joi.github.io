@@ -30,6 +30,7 @@ meal_notes:
 - 2020-10-04-dinner
 - 2020-08-17-dinner
 - 2023-08-08-dinner
+- 2024-04-27-dinner
 mine: 1
 name: Prime Rib
 p_recipe_id: 63
