@@ -8,7 +8,7 @@ description: 'Inspired by Food Lab.
 
 
   Serve with [recipe:Oxtail Jus].'
-difficulty: null
+difficulty: ''
 favorite: 0
 image_url: null
 ingredients: 'Prime Rib
@@ -49,6 +49,12 @@ photos_dict:
   '18': prime-rib-18.jpg
   '19': prime-rib-19.jpg
   '2': prime-rib-2.jpg
+  '20': prime-rib-20.jpg
+  '21': prime-rib-21.jpg
+  '22': prime-rib-22.jpg
+  '23': prime-rib-23.jpg
+  '24': prime-rib-24.jpg
+  '25': prime-rib-25.jpg
   '3': prime-rib-3.jpg
   '4': prime-rib-4.jpg
   '5': prime-rib-5.jpg
@@ -58,13 +64,13 @@ photos_dict:
   '9': prime-rib-9.jpg
 prep_time: 15 min
 rating: 5
-servings: null
+servings: ''
 slug: prime-rib
 source: null
 source_url: null
 tags:
 - prime rib
-total_time: null
+total_time: ''
 type: null
 uid: 1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259
 ---

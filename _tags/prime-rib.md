@@ -20,9 +20,13 @@ notes:
     type: dinner
     uri_path: /notes/2020-12-20-dinner.html
   - date: '2021-09-25'
-    feature: First Prime Rib in Japan
+    feature: Second Prime Rib in Japan
     type: dinner
     uri_path: /notes/2021-09-25-dinner.html
+  - date: '2024-04-27'
+    feature: First Prime Rib in Japan
+    type: dinner
+    uri_path: /notes/2024-04-27-dinner.html
   rough:
   - date: '2021-02-20'
     type: dinner
@@ -72,7 +76,7 @@ rel_tags_count:
   - 1
   - reverse sear
   roast:
-  - 5
+  - 6
   - roast
   steaks:
   - 1
