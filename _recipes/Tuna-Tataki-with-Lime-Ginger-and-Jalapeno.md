@@ -45,11 +45,11 @@ total_time: null
 type: null
 uid: 0299C616-3BC7-414C-8AD7-24EA7B7FCB03-9638-000005EE30E369B7
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Based on <a href="https://www.foodnetwork.com/recipes/tyler-florence/pan-seared-tuna-with-avocado-soy-ginger-and-lime-recipe-1914316">this recipe from Food Network</a></p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Lots of chopped cilantro</li>
 <li>½ jalapeno, sliced</li>
 <li>1 tsp grated fresh ginger</li>
@@ -63,7 +63,7 @@ uid: 0299C616-3BC7-414C-8AD7-24EA7B7FCB03-9638-000005EE30E369B7
 <li>1 avocado sliced</li>
 <li>Salt and pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Combine cilantro, jalapeño, ginger, garlic, lime juice, soy sauce, sugar, salt, pepper, and 2 Tbsp of olive oil in bowl and mix well.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Combine cilantro, jalapeño, ginger, garlic, lime juice, soy sauce, sugar, salt, pepper, and 2 Tbsp of olive oil in bowl and mix well.</p>
 <p>Heat a heavy skillet slowly and once the skillet is fully heated, turn up heat to high.</p>
 <p>Add 2 Tbsp of extra-light olive oil and coat for searing.</p>
 <p>Season tuna with salt and pepper and grilled quickly - about one minute per side. You can hold the tuna on its edge with tongs to get the sides.</p>

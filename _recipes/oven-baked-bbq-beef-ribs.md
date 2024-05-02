@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: A6075926-ED93-40D1-A486-38577B7E54DB-13002-0005AF322D952984
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 lbs meaty beef ribs (grass-fed)</li>
 <li>Liquid smoke optional</li>
 <li>2-4 tablespoons olive oil</li>
@@ -50,4 +50,4 @@ uid: A6075926-ED93-40D1-A486-38577B7E54DB-13002-0005AF322D952984
 <li>2 teaspoons oregano</li>
 <li>Favorite BBQ Sauce I only used a few tablespoons of Sweet Baby Ray's</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

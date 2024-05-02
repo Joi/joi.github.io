@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: C8E7E3CF-36B6-45D1-93CD-069705353F6C
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 ½ pounds boneless flounder or sole fillets, preferably 4 6-ounce pieces</li>
 <li>Salt and pepper</li>
 <li>2 large eggs</li>
@@ -49,4 +49,4 @@ uid: C8E7E3CF-36B6-45D1-93CD-069705353F6C
 <li>3 tablespoons chopped flat-leaf parsley</li>
 <li>Lemon wedges</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

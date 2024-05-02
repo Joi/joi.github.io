@@ -52,9 +52,9 @@ total_time: null
 type: null
 uid: 68E902BC-8596-47D9-9CCE-401E57641CB4-26466-000013C4A9633685
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tbsp unsalted butter</li>
 <li>1/2 tbsp olive oil</li>
 <li>300g / 10 oz mushrooms , sliced (Note 1)</li>
@@ -66,4 +66,4 @@ uid: 68E902BC-8596-47D9-9CCE-401E57641CB4-26466-000013C4A9633685
 <li>1/2 cup parmesan ,finely grated (30g / 1 oz) (Note 4)</li>
 <li>2 tsp fresh thyme leaves (or 1/4 - 1/2 tsp dried)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

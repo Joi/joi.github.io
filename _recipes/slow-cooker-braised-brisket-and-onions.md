@@ -36,9 +36,9 @@ total_time: null
 type: null
 uid: 2F4E16BA-24E1-47A4-8CC5-ECD1BB1AF489-16595-0001495B5A4DECEC
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>1 tablespoon paprika</li>
 <li>2 teaspoons onion powder</li>
@@ -57,4 +57,4 @@ uid: 2F4E16BA-24E1-47A4-8CC5-ECD1BB1AF489-16595-0001495B5A4DECEC
 <li>3 sprigs fresh thyme</li>
 <li>3 bay leaves</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

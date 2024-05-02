@@ -35,9 +35,9 @@ total_time: 6 min
 type: null
 uid: 7FEA67B8-DD5F-4E6A-AB99-C8035D5143B0-13578-00000484D2AC46BA
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 to 3 medium sized fresh tomatoes (1 to 1 1/2 pounds), stems removed</li>
 <li>1/2 red onion</li>
 <li>2 serrano chiles or 1 jalapeño chile (stems, ribs, seeds removed), less or more to taste</li>
@@ -47,4 +47,4 @@ uid: 7FEA67B8-DD5F-4E6A-AB99-C8035D5143B0-13578-00000484D2AC46BA
 <li>Pinch dried oregano (crumble in your fingers before adding), more to taste</li>
 <li>Pinch ground cumin, more to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -32,9 +32,9 @@ total_time: null
 type: null
 uid: 5C3A9F74-732C-4468-995F-003309E05D82-25037-00009F65C5379494
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>7 oz soybeans</li>
 <li>warm water, to soak</li>
 <li>Mantou Buns</li>
@@ -48,4 +48,4 @@ uid: 5C3A9F74-732C-4468-995F-003309E05D82-25037-00009F65C5379494
 <li>41 oz cold water</li>
 <li>2 - 3 oz sugar, to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

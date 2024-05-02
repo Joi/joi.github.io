@@ -41,9 +41,9 @@ total_time: null
 type: null
 uid: 431ADBED-028D-478F-AB6F-B244FF9F2F7C-13891-0000AB4BD8289C52
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>3 cups (15 ounces) all-purpose flour</li>
 <li>4 teaspoons sugar</li>
@@ -53,4 +53,4 @@ uid: 431ADBED-028D-478F-AB6F-B244FF9F2F7C-13891-0000AB4BD8289C52
 <li>2 cups heavy cream</li>
 <li>2 tablespoons unsalted butter, melted (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

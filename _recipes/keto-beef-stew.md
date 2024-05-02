@@ -35,12 +35,12 @@ total_time: null
 type: null
 uid: 70775420-6676-49E8-9A5C-0059FF5F103D-16595-000012FEE9E67A5A
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>For easy, microwavable lunches or dinners, freeze single servings of stew in microwavable containers. Then you can grab a meal anytime you need one!</p>
 <p>Want to bulk this stew up a bit? Toss some cauliflower rice into your soup bowl before adding the soup, and remember to update your macros!</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Ingredients List</li>
 <li>1½ lbs beef chuck roast or chuck shoulder, cut into 1-inch pieces</li>
 <li>~ sea salt and freshly ground pepper</li>
@@ -57,4 +57,4 @@ uid: 70775420-6676-49E8-9A5C-0059FF5F103D-16595-000012FEE9E67A5A
 <li>1 tsp xanthan gum</li>
 <li>1/4 cup chopped fresh parsley for garnish, optional</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

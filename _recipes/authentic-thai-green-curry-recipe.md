@@ -51,13 +51,13 @@ total_time: null
 type: null
 uid: 2F6E2C50-A28F-48AF-9CC7-5CB692D5FEAC-22216-00016D65A693753F
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><ul>
 <li>I used a free range chicken that was 1.4 kg.</li>
 </ul>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Green curry</li>
 <li>1 whole chicken (ไก่บ้าน)</li>
 <li>2 cups of water</li>
@@ -82,4 +82,4 @@ uid: 2F6E2C50-A28F-48AF-9CC7-5CB692D5FEAC-22216-00016D65A693753F
 <li>1 tsp. salt (เกลือ)</li>
 <li>1 tbsp. shrimp paste (กะปิ)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

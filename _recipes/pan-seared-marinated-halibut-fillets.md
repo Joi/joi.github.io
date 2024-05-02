@@ -48,9 +48,9 @@ total_time: null
 type: null
 uid: BCB6652B-7F95-40E9-AE45-43960309E20A-18848-00000C88B08616D9
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6 tablespoons olive oil</li>
 <li>3 small garlic cloves, peeled and minced</li>
 <li>1 teaspoon dried basil</li>
@@ -61,4 +61,4 @@ uid: BCB6652B-7F95-40E9-AE45-43960309E20A-18848-00000C88B08616D9
 <li>1 tablespoon light olive oil or vegetable oil</li>
 <li>Chopped parsley, for garnish, optional</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

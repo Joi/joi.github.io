@@ -40,9 +40,9 @@ total_time: null
 type: null
 uid: CECA8C5F-9273-42B0-B35C-F8FBCFBA66B6-408-00004FAF3D009AB0
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>32 oz shellfish, e.g. littleneck clams, black mussels</li>
 <li>16 oz fresh raw small shrimp, peeled and deveined, (thawed if frozen)</li>
 <li>2 oz squid tubes (calamari), cut into ¼ in. rings</li>
@@ -65,4 +65,4 @@ uid: CECA8C5F-9273-42B0-B35C-F8FBCFBA66B6-408-00004FAF3D009AB0
 <li>1 dried bay leaf</li>
 <li>10 oz firm white fish, e.g. cod, halibut, cut into pieces (approx. 1 in.)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

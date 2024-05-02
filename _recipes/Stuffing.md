@@ -43,9 +43,9 @@ total_time: null
 type: null
 uid: 361C126A-71BA-4EF3-89A9-AEC190712B26-2241-0001908744F256EF
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2½ pounds (about 2 loaves) high-quality sandwich bread or soft Italian or French bread, cut into ¾-inch dice (about 5 quarts)
 8 tablespoons (1 stick) unsalted butter
 1½ pounds sage sausage, removed from casings
@@ -58,4 +58,4 @@ uid: 361C126A-71BA-4EF3-89A9-AEC190712B26-2241-0001908744F256EF
 ¼ cup minced fresh parsley
 Kosher salt and freshly ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

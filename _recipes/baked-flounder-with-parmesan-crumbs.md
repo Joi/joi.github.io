@@ -43,13 +43,13 @@ total_time: null
 type: null
 uid: E5306C77-DC0B-42C9-9123-E0A5AA64D245-14694-0000789EC2F2A2E0
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Watch this video to learn how to fillet a fish quickly and easily.</p>
 <p>Serve With</p>
 <p>For a green vegetable, browse our best broccoli recipes, favorite spinach recipes and expert ways to cook asparagus. Buttery baked flounder is also delicious with simple steamed vegetables.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 flounder fillets (2 pounds total)</li>
 <li>Salt and freshly ground pepper</li>
 <li>3/4 cup freshly grated Parmesan cheese</li>
@@ -57,4 +57,4 @@ uid: E5306C77-DC0B-42C9-9123-E0A5AA64D245-14694-0000789EC2F2A2E0
 <li>4 tablespoons unsalted butter, melted</li>
 <li>2 tablespoons extra-virgin olive oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

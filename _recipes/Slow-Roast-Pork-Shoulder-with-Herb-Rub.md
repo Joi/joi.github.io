@@ -35,7 +35,7 @@ total_time: null
 type: null
 uid: E02D444F-C24D-47F0-B290-52D1C0EB21F6-1358-00012EBF4535147A
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>6/18/20:</p>
 <p>Brined, added fennel seeds, fronds and lemon zest to rub. 200 ºF until 180 ºF internal temp then let rest for 15 min - heat oven to to 500 ºF and roast for 5 min and let cool for another 15 min.</p>
 <p>Pan sauce:</p>
@@ -47,7 +47,7 @@ uid: E02D444F-C24D-47F0-B290-52D1C0EB21F6-1358-00012EBF4535147A
 <p>160F sufficient... 180F target when remove from oven and let rest until 190F.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6 tablespoons mixed finely chopped robust herbs (like thyme, rosemary, sage and parsley)</li>
 <li>3 garlic cloves, finely chopped</li>
 <li>¾ cup brown sugar</li>
@@ -61,4 +61,4 @@ uid: E02D444F-C24D-47F0-B290-52D1C0EB21F6-1358-00012EBF4535147A
 <li>Rosemary applesauce</li>
 <li>Crusty bread rolls, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

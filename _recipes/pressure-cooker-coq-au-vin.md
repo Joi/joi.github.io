@@ -53,9 +53,9 @@ total_time: null
 type: null
 uid: 73E5BCE3-92E4-4ECB-B5FF-825894F9C231-15576-00000959F8EA5EE2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 thick-sliced bacon strips, chopped</li>
 <li>1-1/2 pounds boneless skinless chicken thighs</li>
 <li>1 medium onion, chopped</li>
@@ -70,4 +70,4 @@ uid: 73E5BCE3-92E4-4ECB-B5FF-825894F9C231-15576-00000959F8EA5EE2
 <li>1/2 teaspoon kosher salt</li>
 <li>1/4 teaspoon pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

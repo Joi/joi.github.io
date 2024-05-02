@@ -43,9 +43,9 @@ total_time: null
 type: null
 uid: 7149EACF-2ADE-48AD-A7AE-29EDDEC9C42F-8626-0000038D5FDC7D03
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>2 pound beef tenderloin center-cut Chateaubriand, trimmed of fat and silver skin (see note)</li>
 <li>2 teaspoons kosher salt (see note)</li>
@@ -54,4 +54,4 @@ uid: 7149EACF-2ADE-48AD-A7AE-29EDDEC9C42F-8626-0000038D5FDC7D03
 <li>1 tablespoon vegetable oil</li>
 <li>1 recipe Shallot and Parsley Butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

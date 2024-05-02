@@ -32,9 +32,9 @@ total_time: null
 type: null
 uid: 466F7A66-B9C7-46E6-B50D-D6FADF202548-631-0001AC5C5F20F7E0
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>24 ounces swordfish about 1-inch thick, skin removed, in 4 portions</li>
 <li>Fine sea salt</li>
 <li>1 ½ tablespoons crushed black peppercorns</li>
@@ -45,4 +45,4 @@ uid: 466F7A66-B9C7-46E6-B50D-D6FADF202548-631-0001AC5C5F20F7E0
 <li>⅔ cup heavy cream</li>
 <li>1 tablespoon minced flat-leaf parsley leaves</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

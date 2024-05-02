@@ -58,11 +58,11 @@ total_time: null
 type: null
 uid: 359750A3-4957-4735-9DAC-935A18605F94-5025-000001ECAB5B5782
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Could add mushrooms and other things. Is very well done even on the low end of this cooking range.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3/4 cup Panko bread crumb</li>
 <li>1/4 cup milk</li>
 <li>1 lb ground beef</li>
@@ -78,4 +78,4 @@ uid: 359750A3-4957-4735-9DAC-935A18605F94-5025-000001ECAB5B5782
 <li>1/2 cup worcester sauce</li>
 <li>1-2 Tbsp sake (or wine)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

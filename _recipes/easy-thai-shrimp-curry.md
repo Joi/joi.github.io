@@ -58,12 +58,12 @@ total_time: null
 type: null
 uid: DFBF3C0D-A1D9-468E-8D95-E196BF35CDDD-31316-00001E008C87A2B5
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>I used Thai Kitchen brand red curry paste.</p>
 <p>Anything from 3/4 pound to 1 pound of shrimp will work.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 pound medium shrimp thawed, peeled, can remove tails if desired</li>
 <li>1/2 tablespoon olive oil</li>
 <li>1/2 medium onion chopped</li>
@@ -79,4 +79,4 @@ uid: DFBF3C0D-A1D9-468E-8D95-E196BF35CDDD-31316-00001E008C87A2B5
 <li>1 small handful fresh basil chopped</li>
 <li>Scallions chopped, to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

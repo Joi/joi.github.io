@@ -42,9 +42,9 @@ total_time: null
 type: null
 uid: 2A34EB6B-91B8-4534-8C2D-CCF073043FAC-29053-0004523EBECF0506
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/4 cup chopped fresh rosemary</li>
 <li>12 garlic cloves, minced</li>
 <li>2 tablespoons chopped fresh oregano</li>
@@ -53,4 +53,4 @@ uid: 2A34EB6B-91B8-4534-8C2D-CCF073043FAC-29053-0004523EBECF0506
 <li>2 crown roasts of lamb, each consisting of 14 chops (which are two 7-rib racks of lamb tied together)</li>
 <li>Olive oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

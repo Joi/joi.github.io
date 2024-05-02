@@ -79,9 +79,9 @@ total_time: null
 type: null
 uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 Tbsp olive oil</li>
 <li>1 ½ cups diced yellow onion</li>
 <li>½ cup diced carrots</li>
@@ -105,7 +105,7 @@ uid: 8152F5CC-9737-471A-A6AE-A7121CC4A425-50715-0008B15D50425BF1
 <li>fish sauce</li>
 <li>kosher salt and freshly-ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/bolognese-sauce-7.jpg" alt="7" /></p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/bolognese-sauce-7.jpg" alt="7" /></p>
 <p>Mix tomatoes, tomato paste, basil, oregano, parsley and garlic in a bowl with immersion blender.</p>
 <p><img src="/images/recipes/bolognese-sauce-11.jpg" alt="11" /></p>
 <p>Heat olive oil and sauté bacon.</p>

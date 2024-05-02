@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: 11556843-B6B2-45BA-88A6-04F783705E70-9482-0000064CD8D6239D
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>1½ teaspoons paprika</li>
 <li>½ teaspoon cayenne pepper</li>
@@ -49,4 +49,4 @@ uid: 11556843-B6B2-45BA-88A6-04F783705E70-9482-0000064CD8D6239D
 <li>¼ teaspoon cornstarch</li>
 <li>2 tablespoons crumbled blue cheese</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -35,7 +35,7 @@ total_time: null
 type: null
 uid: 006A2547-F31F-4591-9B46-2352D21FB05A
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Depending on your taste buds and the type or brand or vinegar you’re using, you may want to add less vinegar to the sauce. Some readers love the recipe just like this, but others prefer the sauce with less vinegar. Add only 1 tbsp of vinegar at first and add more vinegar if needed.</p>
 <p>I never press my tofu because I prefer to save some time and also think it’s not necessary, but it’s up to you. I just drain the tofu and discard the liquid.</p>
 <p>Firm or extra firm tofu works great. I’ve never tried to use soft or silken tofu myself, but I don’t think it’s going to work.</p>
@@ -46,7 +46,7 @@ uid: 006A2547-F31F-4591-9B46-2352D21FB05A
 <p>The amount of sodium is not accurate, as you’re going to discard part of the tamari or soy sauce of the marinade.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For the general Tso’s tofu</li>
 <li>10 ounces firm tofu (275 g), cubed</li>
 <li>2 tbsp tamari or soy sauce</li>
@@ -62,4 +62,4 @@ uid: 006A2547-F31F-4591-9B46-2352D21FB05A
 <li>1 tbsp cornstarch</li>
 <li>1/8 tsp red pepper flakes, optional</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -35,7 +35,7 @@ total_time: null
 type: null
 uid: ECFCF252-A706-4E3A-907B-AF70061A4931-4647-0000675F57194F11
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>I used a small 3.5 qt Dutch oven. A small Dutch oven is better here so that the bread rises upwards, whereas if you were to use a big Dutch oven the bread would spread out over the entire surface of the pot.</p>
 <p>If the dough mixture is too dry, add a bit more water, the dough should be sticky, as seen in the video.</p>
 <p>To add other ingredients to the bread such as dried fruit, seeds, herbs or cheeses, add them in step 1 when mixing everything together.</p>
@@ -45,10 +45,10 @@ uid: ECFCF252-A706-4E3A-907B-AF70061A4931-4647-0000675F57194F11
 <p>How do I know when my bread is done baking: Tap the bottom! Take the bread out of the Dutch oven, turn it upside down and give the bottom a firm thump with your thumb, or a knock and if it sounds hollow it’s done. If using an instant thermometer, the internal temperature should be around 200 F degrees.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 cups all-purpose flour</li>
 <li>1 3/4 tsp salt</li>
 <li>1/2 tsp active dry yeast</li>
 <li>1 1/2 cups water room temperature</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -43,9 +43,9 @@ total_time: null
 type: null
 uid: F6C96573-D5B3-4520-A0E0-669290DBDB7C
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 lb Boneless Leg Of Lamb</li>
 <li>1 Yellow Onion Chopped</li>
 <li>1 Tbsp Fresh Grated Ginger</li>
@@ -65,4 +65,4 @@ uid: F6C96573-D5B3-4520-A0E0-669290DBDB7C
 <li>Mint or Cilantro for Garnish</li>
 <li>2 tsp Cornstarch- Optional See Cooking Tip</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

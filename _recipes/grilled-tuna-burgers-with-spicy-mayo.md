@@ -75,11 +75,11 @@ total_time: null
 type: null
 uid: 31732CBF-17D5-42F2-8585-C5A7EDB68051-12333-0000078E0FCB4187
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>When grilling the bread, you can grill 3 to 4 scallions at the same time for use in the Spicy Sriracha Mayo.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon toasted sesame oil</li>
 <li>1 tablespoon low-sodium soy sauce</li>
 <li>1/4 teaspoon crushed red pepper flakes</li>
@@ -104,4 +104,4 @@ uid: 31732CBF-17D5-42F2-8585-C5A7EDB68051-12333-0000078E0FCB4187
 <li>4 grilled scallions, chopped</li>
 <li>Kosher salt and freshly ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

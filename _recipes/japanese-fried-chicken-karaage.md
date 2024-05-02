@@ -43,11 +43,11 @@ total_time: null
 type: null
 uid: AF9FDAAB-9F87-45DF-AC3C-6D85FFF3DF26-408-00004F23542EA29A
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Based on <a href="https://www.cooksillustrated.com/recipes/11892-japanese-fried-chicken-thighs-karaage">this Cook's Illustrated Recipe</a>.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 Tbsp soy sauce</li>
 <li>2 Tbsp sake</li>
 <li>1 Tbsp grated fresh ginger</li>
@@ -59,7 +59,7 @@ uid: AF9FDAAB-9F87-45DF-AC3C-6D85FFF3DF26-408-00004F23542EA29A
 <li>Up to 1 qt light oil for frying</li>
 <li>Lemon wedges for garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Cut chicken into 1 ½ inch cubes. I like to leave the skin on where it's stuck tight to the meat although some people remove the skin. I almost always buy whole chickens and break them down, but you can also buy deboned thighs. There are many ways to debone dark meat. <a href="https://youtu.be/3xYzS8NsZ-Y">Here's a video of the way I've been doing it.</a></p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Cut chicken into 1 ½ inch cubes. I like to leave the skin on where it's stuck tight to the meat although some people remove the skin. I almost always buy whole chickens and break them down, but you can also buy deboned thighs. There are many ways to debone dark meat. <a href="https://youtu.be/3xYzS8NsZ-Y">Here's a video of the way I've been doing it.</a></p>
 <p>Combine soy sauce, sake, ginger, garlic, sugar and salt in a bowl and marinate chicken for 30 min to one hour.</p>
 <p>Prepare wire rack for finished chicken and a baking sheet or vat for powdered raw chicken.</p>
 <p>Prepare bowl for putting chicken in cornstarch. I usually scoop bits of the starch into the bowl after each batch of chicken because I find it wasteful to use a whole cup.</p>

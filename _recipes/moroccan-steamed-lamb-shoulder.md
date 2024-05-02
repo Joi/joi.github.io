@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: 07360EAC-7A31-4378-8FE7-9338446ECA6F-13891-0000A70DEA85C9EB
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>FOR THE LAMB:</li>
 <li>1 tied boneless lamb shoulder roast, about 4 pounds</li>
 <li>1 tablespoon kosher salt</li>
@@ -63,4 +63,4 @@ uid: 07360EAC-7A31-4378-8FE7-9338446ECA6F-13891-0000A70DEA85C9EB
 <li>½ cup olive oil</li>
 <li>Salt to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

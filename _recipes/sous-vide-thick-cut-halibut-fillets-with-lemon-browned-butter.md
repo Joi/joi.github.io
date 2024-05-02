@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: C487A63D-8138-4DE3-AE63-A2D157475FF4-18848-00000C89DBA080CF
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>Fish</li>
 <li>2 teaspoons salt</li>
@@ -51,4 +51,4 @@ uid: C487A63D-8138-4DE3-AE63-A2D157475FF4-18848-00000C89DBA080CF
 <li>2 tablespoons chopped fresh parsley</li>
 <li>Salt and pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

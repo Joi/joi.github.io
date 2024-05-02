@@ -39,13 +39,13 @@ total_time: null
 type: null
 uid: 09BA992D-E3EF-4F25-AE69-7DC75FBF3ABC-1700-00003E7028F06EF5
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 cups all-purpose or bread flour, or more as needed, plus more for kneading</li>
 <li>2 teaspoons instant yeast</li>
 <li>2 teaspoons salt, plus more for sprinkling</li>
 <li>2 tablespoons olive oil, plus more as necessary</li>
 <li>Rosemary, optional.</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

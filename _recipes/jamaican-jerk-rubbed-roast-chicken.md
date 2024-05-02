@@ -44,11 +44,11 @@ total_time: null
 type: null
 uid: ED2ACF1D-B1A7-475B-A1AC-4DF75FB23618-4181-0003ADA39FDF111B
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>NOTES: For the juiciest results and best skin, dry-brine the bird and air-dry it overnight as described here. Be extremely careful working with Scotch bonnets or habaneros: they are very hot and their oil can cause skin and eye irritations. Use a separate cutting board, wear latex gloves if you have them, and wash all surfaces and knives immediately after slicing them.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 teaspoon freshly ground black pepper
 ¼ teaspoon ground nutmeg
 ¼ teaspoon ground cinnamon
@@ -65,4 +65,4 @@ the directions here
 1 bunch thyme</li>
 <li>6 bay leaves</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

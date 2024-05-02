@@ -35,9 +35,9 @@ total_time: null
 type: null
 uid: 5B35D45F-9FF9-4147-BAE7-5FA3B09E4004-31316-00001DFFE246B2B2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 pound raw shrimp, cleaned and prepped (thaw if frozen)</li>
 <li>1-2 TBSP avocado oil or olive oil</li>
 <li>1 white onion</li>
@@ -52,4 +52,4 @@ uid: 5B35D45F-9FF9-4147-BAE7-5FA3B09E4004-31316-00001DFFE246B2B2
 <li>lime wedges for serving</li>
 <li>crushed red pepper flakes (optional extra for a spicier curry) season to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

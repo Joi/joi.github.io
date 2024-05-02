@@ -38,13 +38,13 @@ total_time: null
 type: null
 uid: 47310356-938C-466A-B754-5B0DC3B082F9-13364-00000855130C737E
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 large eggs</li>
 <li>Large pinch fine sea salt, to taste</li>
 <li>Freshly ground black pepper, to taste</li>
 <li>1 to 2 teaspoons minced fresh herbs, such as parsley, tarragon, chives or a combination (optional)</li>
 <li>1 tablespoon unsalted butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

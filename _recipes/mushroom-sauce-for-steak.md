@@ -50,11 +50,11 @@ total_time: null
 type: null
 uid: 818DF6C2-699D-41CE-AA3D-D93EDF22C1BC-26466-000013C57F68168A
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Cheese it up: to take this sauce to the next level, stir in a couple tablespoons of freshly grated parmesan cheese OR sprinkle some parmesan cheese on top after spooning over steak!</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>8 ounces baby bella or cremini mushrooms thinly sliced</li>
 <li>3 tablespoons butter</li>
 <li>1 1/2 teaspoons minced garlic</li>
@@ -65,4 +65,4 @@ uid: 818DF6C2-699D-41CE-AA3D-D93EDF22C1BC-26466-000013C57F68168A
 <li>1/2 teaspoon salt or to taste</li>
 <li>1/4 teaspoon cracked black pepper or to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

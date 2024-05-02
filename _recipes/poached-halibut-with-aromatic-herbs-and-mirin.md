@@ -35,9 +35,9 @@ total_time: null
 type: null
 uid: 2511DA17-AF5B-4D67-88AC-46A05FE82562-2643-000000EB19A79759
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tbsp. mirin rice wine (or white wine)</li>
 <li>1 cup water or veggie stock</li>
 <li>1 shallot, peeled and sliced thin</li>
@@ -51,4 +51,4 @@ uid: 2511DA17-AF5B-4D67-88AC-46A05FE82562-2643-000000EB19A79759
 <li>1 tbsp. lemon juice and zest</li>
 <li>1 garlic clove, peeled and sliced thin</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

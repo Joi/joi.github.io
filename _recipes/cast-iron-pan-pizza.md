@@ -48,9 +48,9 @@ total_time: null
 type: null
 uid: C78B9AC6-396B-4457-A6DD-DB04C91C1E6D-13891-0000ABF1F7B23642
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>Dough</li>
 <li>2 cups (11 ounces) bread flour</li>
@@ -70,4 +70,4 @@ uid: C78B9AC6-396B-4457-A6DD-DB04C91C1E6D-13891-0000ABF1F7B23642
 <li>3 tablespoons extra-virgin olive oil</li>
 <li>4 ounces Monterey Jack cheese, shredded (1 cup) 7 ounces whole-milk mozzarella cheese, shredded (1¾ cups)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

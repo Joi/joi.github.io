@@ -51,11 +51,11 @@ total_time: null
 type: null
 uid: 4C57E632-D300-4A3D-9314-48D2B086C607-2236-0000011E793EE7EE
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>If you want an even richer sauce, you can add an extra tablespoon or two of butter here but I like to keep it on the healthier side so I kept it at a minimal 3 tablespoons (plus the teaspoon to sauté the garlic) and it's just enough.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 (6 oz) skinless salmon fillets (about 1-inch thick)</li>
 <li>Salt and freshly ground black pepper</li>
 <li>2 tsp olive oil</li>
@@ -67,4 +67,4 @@ uid: 4C57E632-D300-4A3D-9314-48D2B086C607-2236-0000011E793EE7EE
 <li>2 Tbsp minced fresh parsley</li>
 <li>Lemon slices for garnish (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

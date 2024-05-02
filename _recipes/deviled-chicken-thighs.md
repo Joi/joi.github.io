@@ -32,9 +32,9 @@ total_time: null
 type: null
 uid: 3D759CDC-26D2-4052-B997-70FA0B74A0FC-3480-00000293D31F2FFE
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>8 chicken thighs, or a mixture of thighs and drumsticks</li>
 <li>Salt and freshly ground black pepper</li>
 <li>⅓ cup Dijon mustard</li>
@@ -42,4 +42,4 @@ uid: 3D759CDC-26D2-4052-B997-70FA0B74A0FC-3480-00000293D31F2FFE
 <li>¼ teaspoon ground cayenne pepper or Tabasco sauce, or to taste</li>
 <li>Minced parsley for garnish, optional</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

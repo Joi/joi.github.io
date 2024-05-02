@@ -31,9 +31,9 @@ total_time: null
 type: null
 uid: 84DD0A04-931D-4796-AFCB-37212304F853-9255-00001EC1562E163E
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 (10oz.) bison NY strip steaks, thawed</li>
 <li>1 ½ tbsp vegetable oil</li>
 <li>1 tsp sea salt</li>
@@ -42,4 +42,4 @@ uid: 84DD0A04-931D-4796-AFCB-37212304F853-9255-00001EC1562E163E
 <li>4 large shallots, minced</li>
 <li>1 cup red wine</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

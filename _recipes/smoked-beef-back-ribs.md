@@ -31,12 +31,12 @@ total_time: null
 type: null
 uid: 9A862598-2E40-4F71-B1DC-0F6166DF70C0-12345-00000A847F496E14
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Note: I recommend placing the wrapped ribs into a cookie sheet or pan to prevent any runaway leaks.</p>
 <p>The next morning, remove the ribs from the fridge, unwrap them from the plastic and lay them in a Bradley rack or cookie sheet in preparation for transporting them out to the smoker.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 racks of beef back ribs (7 bones each)</li>
 <li>Yellow mustard</li>
 <li>2 racks of beef back ribs (7 bones each)</li>
@@ -44,4 +44,4 @@ uid: 9A862598-2E40-4F71-B1DC-0F6166DF70C0-12345-00000A847F496E14
 <li>Jeff’s original rub</li>
 <li>Plastic wrap</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

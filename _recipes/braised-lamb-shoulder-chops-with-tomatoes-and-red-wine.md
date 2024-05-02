@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: D13408BA-0577-4A97-88CE-71405F9D9E67-13891-0000A77B222915D4
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>4 lamb shoulder chops, about 3/4 inch thick, trimmed of external fat</li>
 <li>Salt and ground black pepper</li>
@@ -47,4 +47,4 @@ uid: D13408BA-0577-4A97-88CE-71405F9D9E67-13891-0000A77B222915D4
 <li>1 cup canned tomatoes packed in puree, chopped</li>
 <li>2 tablespoons minced fresh parsley leaves</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

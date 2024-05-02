@@ -32,9 +32,9 @@ total_time: null
 type: null
 uid: 36EEF368-2999-4FC2-B88B-4AD61AF24856-408-00004F8001BD0EF3
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Dough</li>
 <li>385 g water</li>
 <li>625 g bread flour</li>
@@ -48,4 +48,4 @@ uid: 36EEF368-2999-4FC2-B88B-4AD61AF24856-408-00004F8001BD0EF3
 <li>1 ½ tsp sea salt flakes</li>
 <li>2 sprigs fresh rosemary, leaves only, to sprinkle</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

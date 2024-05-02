@@ -37,11 +37,11 @@ total_time: null
 type: null
 uid: 6263EFB6-0713-4AF0-A003-C6E5DF839147-29546-0004CF93A912ECE7
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Need to figure out better way to test if it's done. Was overcooked a bit.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>heavy-duty aluminum foil</li>
 <li>4 -4 oz halibut fillets</li>
 <li>salt and pepper</li>
@@ -53,4 +53,4 @@ uid: 6263EFB6-0713-4AF0-A003-C6E5DF839147-29546-0004CF93A912ECE7
 <li>1 lemon, thinly sliced</li>
 <li>olive oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

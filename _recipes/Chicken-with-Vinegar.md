@@ -56,7 +56,7 @@ total_time: null
 type: null
 uid: AB5344FC-BAB3-4231-B60A-1D06DACA40E4-51240-0001496E91E6A8C5
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Based on recipe from Salt, Fat, Acid, Heat. Staged cooking of chicken parts inspired by <a href="https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato">Cook's Illustrated's Braised Chicken with Basil and Tomato recipe</a>.</p>
 <p>It is easier to make the chicken tender if you do it in the oven because the heat will be slower and more even. So this starts on the stove and ends in the oven.</p>
 <p>The key to the order of the chicken pieces going into the pot is to try to get them to finish around the same time.</p>
@@ -64,7 +64,7 @@ uid: AB5344FC-BAB3-4231-B60A-1D06DACA40E4-51240-0001496E91E6A8C5
 <p>Also, the skin slows down the temperature transmission when the skin is down and the pot is on the stove.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Whole chicken</li>
 <li>Salt</li>
 <li>Black pepper</li>
@@ -77,7 +77,7 @@ uid: AB5344FC-BAB3-4231-B60A-1D06DACA40E4-51240-0001496E91E6A8C5
 <li>2 Tbsp tarragon leaves, finely chopped</li>
 <li>½ cup heavy cream</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Break down chicken into 10 parts - drum stick, thighs, breast into 4 parts, wings. Save the back and wing tips for stock.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Break down chicken into 10 parts - drum stick, thighs, breast into 4 parts, wings. Save the back and wing tips for stock.</p>
 <p>Dry brine chicken with salt and pepper overnight.</p>
 <p>Preheat oven to 300 if using.</p>
 <p>Before cooking, dredge chicken pieces in flour. I add a bit of extra salt and pepper, but not too much since it's dry brined.</p>

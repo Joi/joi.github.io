@@ -42,9 +42,9 @@ total_time: null
 type: null
 uid: D8EAF2E2-E2B9-44D2-9428-9A591181D829-68280-000013BC5D40734E
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Private Reserve extra virgin olive oil</li>
 <li>1 large yellow onion, chopped</li>
 <li>2 celery ribs, chopped</li>
@@ -62,4 +62,4 @@ uid: D8EAF2E2-E2B9-44D2-9428-9A591181D829-68280-000013BC5D40734E
 <li>3 tbsp toasted pine nuts, optional</li>
 <li>Crusty Italian bread for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

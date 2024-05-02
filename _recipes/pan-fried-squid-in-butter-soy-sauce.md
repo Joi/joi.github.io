@@ -47,9 +47,9 @@ total_time: 30 min
 type: null
 uid: 50C14B08-33CC-4A90-920B-BCF796391832-68036-00015F6C620CA6EC
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 pieces of frozen squid</li>
 <li>1 red, 1 green and 1 yellow pepper</li>
 <li>80 g snap peas</li>
@@ -60,4 +60,4 @@ uid: 50C14B08-33CC-4A90-920B-BCF796391832-68036-00015F6C620CA6EC
 <li>40 g unsalted butter</li>
 <li>4 slices of baguette</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

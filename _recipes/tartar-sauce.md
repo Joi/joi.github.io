@@ -36,9 +36,9 @@ total_time: null
 type: null
 uid: 4A1F6CE8-57F3-4270-ADEE-96C2FB5BA09E-52325-0002C7030227B47C
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 cup <a href="mayonnaise">mayonnaise</a></li>
 <li>1 cup dill pickles, chopped small</li>
 <li>1 Tbsp fresh dill or parsley, chopped</li>
@@ -46,6 +46,6 @@ uid: 4A1F6CE8-57F3-4270-ADEE-96C2FB5BA09E-52325-0002C7030227B47C
 <li>1 tsp sugar</li>
 <li>¼ tsp black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Combine all ingredients in a bowl and stir to combine.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Combine all ingredients in a bowl and stir to combine.</p>
 <p>Add more lemon juice or pickles if desired.</p>
 </div>	</div>

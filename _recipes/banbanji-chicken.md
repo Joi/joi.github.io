@@ -54,9 +54,9 @@ total_time: null
 type: null
 uid: 2CD65B1A-0010-4CF8-85A7-88D7811562AE-44095-000153992C10C093
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 Tbsp sesame paste (toast then grind in pestle)</li>
 <li>2 Tbsp rice wine vinegar</li>
 <li>2 Tbps sugar</li>
@@ -68,7 +68,7 @@ uid: 2CD65B1A-0010-4CF8-85A7-88D7811562AE-44095-000153992C10C093
 <li>Cucumber</li>
 <li>Chicken</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Combine ingredients to make sauce.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Combine ingredients to make sauce.</p>
 <p>Poach or slow roast chicken breasts and shred
 Slice or smash cucumbers
 Slice tomatoes

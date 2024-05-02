@@ -34,11 +34,11 @@ total_time: null
 type: null
 uid: CF3E0B06-2885-4DD7-9889-80C731343EAF-61297-00002282C976AC1A
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Great sauce for fries and burgers. From The Food Lab.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/2 cup <a href="/recipes/mayonnaise">mayonnaise</a></li>
 <li>2 Tbsp ketchup</li>
 <li>1 Tbsp yellow mustard</li>
@@ -46,4 +46,4 @@ uid: CF3E0B06-2885-4DD7-9889-80C731343EAF-61297-00002282C976AC1A
 <li>1 tsp sugar</li>
 <li>Pinch of cayenne powder</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -44,9 +44,9 @@ total_time: null
 type: null
 uid: 6CCAFA5B-B3BE-4D32-B4C9-F7B99B21A037-24828-00000E1DB79758D1
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/4 c. extra-virgin olive oil</li>
 <li>4 fillets flounder</li>
 <li>Kosher salt</li>
@@ -56,4 +56,4 @@ uid: 6CCAFA5B-B3BE-4D32-B4C9-F7B99B21A037-24828-00000E1DB79758D1
 <li>4 cloves garlic, minced</li>
 <li>Juice and zest of 1 lemon</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

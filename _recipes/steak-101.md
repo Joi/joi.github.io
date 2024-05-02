@@ -42,13 +42,13 @@ total_time: null
 type: null
 uid: BB22AB08-E282-431F-9042-079DA45887B3-49934-0000250A04C5668A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 NY Strip Steaks, about 1&quot; thick</li>
 <li>1.5 tsp Salt</li>
 <li>2 Tbsp Canola oil</li>
 <li>1 clove Garlic (optional)</li>
 <li>3 sprigs Thyme or rosemary (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

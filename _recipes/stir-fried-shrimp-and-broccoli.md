@@ -35,9 +35,9 @@ total_time: null
 type: null
 uid: A98C94BE-66CB-4A40-A6C7-E0C5E061A6BF-408-00004D3327E46671
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>1 pound extra-large (21-25) shrimp, peeled, deveined, and tails removed</li>
 <li>1 teaspoon sugar</li>
@@ -53,4 +53,4 @@ uid: A98C94BE-66CB-4A40-A6C7-E0C5E061A6BF-408-00004D3327E46671
 <li>1 tablespoon grated fresh ginger</li>
 <li>2 garlic cloves, minced</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

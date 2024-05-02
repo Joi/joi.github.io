@@ -42,9 +42,9 @@ total_time: null
 type: null
 uid: B502C26C-369B-4679-9CDA-699DA5AB2BA8-1060-000261A7AA093FFB
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 tablespoons olive oil</li>
 <li>1 medium onion, coarsely chopped</li>
 <li>2 cloves garlic, finely chopped</li>
@@ -52,4 +52,4 @@ uid: B502C26C-369B-4679-9CDA-699DA5AB2BA8-1060-000261A7AA093FFB
 <li>1 pound Swiss chard, stems trimmed, leaves cut into 1/2-inch-wide strips</li>
 <li>2 teaspoons fresh lemon juice</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

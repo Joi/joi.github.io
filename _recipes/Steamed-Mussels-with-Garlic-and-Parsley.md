@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: 2FCD1B65-0D67-4B15-B081-C691590DEBE3-29546-0002C343712D52F3
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons extra-virgin olive oil, plus more for toasts</li>
 <li>2 garlic cloves, minced, plus 1 or 2 whole garlic cloves for rubbing toasts</li>
 <li>Pinch of crushed red pepper</li>
@@ -49,4 +49,4 @@ uid: 2FCD1B65-0D67-4B15-B081-C691590DEBE3-29546-0002C343712D52F3
 <li>1 baguette, split lengthwise, then cut crosswise in half</li>
 <li>1 cup roughly chopped parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

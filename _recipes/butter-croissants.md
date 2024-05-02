@@ -43,11 +43,11 @@ total_time: null
 type: null
 uid: 5B1024F0-41A9-4354-9863-C540ADC2E917-11450-0000705FA22AA2AD
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>This recipe is from Thermomix Food Lovers Calendar 2012.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>30 g fresh yeast</li>
 <li>370 g whole milk</li>
 <li>60 g sugar</li>
@@ -56,4 +56,4 @@ uid: 5B1024F0-41A9-4354-9863-C540ADC2E917-11450-0000705FA22AA2AD
 <li>270 g Butter</li>
 <li>1 egg, beaten</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

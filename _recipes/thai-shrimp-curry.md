@@ -53,11 +53,11 @@ total_time: null
 type: null
 uid: DF37DDA7-9C19-4602-9C05-299FDCA7A79F-31316-00001DFF1CD6377B
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Note: For the shrimp, I recommend buying frozen shrimp labeled “shell split and deveined.” Most shrimp are cleaned and flash frozen shortly after being caught, so the “fresh” shrimp you see in the seafood case at the supermarket is typically thawed frozen shrimp. Who knows how long it’s been sitting there, so you’re better off buying frozen and defrosting it yourself. Come dinnertime, all you have to do is run it under warm water to defrost, then peel.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon vegetable oil</li>
 <li>1 cup thinly sliced onions, from one small onion</li>
 <li>1/3 cup chopped scallions, white and green parts, from 4-5 scallions</li>
@@ -71,4 +71,4 @@ uid: DF37DDA7-9C19-4602-9C05-299FDCA7A79F-31316-00001DFF1CD6377B
 <li>1/4 cup chopped fresh cilantro, Thai basil or Italian basil (or a combination)</li>
 <li>Lime wedges, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -35,9 +35,9 @@ total_time: null
 type: null
 uid: 6D155906-FBC9-49FC-AB13-3D66039BF1D9-10322-000007EADA7D05FE
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 tablespoons extra-virgin olive oil</li>
 <li>1 large onion, halved and thinly sliced</li>
 <li>1 large red bell pepper, seeded and thinly sliced</li>
@@ -53,4 +53,4 @@ uid: 6D155906-FBC9-49FC-AB13-3D66039BF1D9-10322-000007EADA7D05FE
 <li>Chopped cilantro, for serving</li>
 <li>Hot sauce, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

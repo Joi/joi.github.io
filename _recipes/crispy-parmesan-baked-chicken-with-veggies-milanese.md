@@ -59,9 +59,9 @@ total_time: null
 type: null
 uid: 996F2C5E-96F3-49F0-8BA7-FA11B61A8D71-42657-00001C297F8BDF66
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For The Chicken:</li>
 <li>1 large egg</li>
 <li>2 tablespoons lemon juice (or juice of 1/2 a lemon)</li>
@@ -78,4 +78,4 @@ uid: 996F2C5E-96F3-49F0-8BA7-FA11B61A8D71-42657-00001C297F8BDF66
 <li>salt to taste</li>
 <li>1 pound | 500 g green beans , cut into thirds</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

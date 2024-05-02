@@ -39,9 +39,9 @@ total_time: null
 type: null
 uid: 120A4367-40B6-438F-A0A8-C1F1F18303E4-5239-000000D574A55B5A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 cloves garlic</li>
 <li>A few sprigs thymes, leaves removed</li>
 <li>Kosher salt and pepper to taste</li>
@@ -49,4 +49,4 @@ uid: 120A4367-40B6-438F-A0A8-C1F1F18303E4-5239-000000D574A55B5A
 <li>2 tablespoons Worcestershire sauce</li>
 <li>1.75 pounds hanger steak, membrane removed, loins butterflied, see notes above</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

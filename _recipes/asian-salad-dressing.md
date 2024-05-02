@@ -59,12 +59,12 @@ total_time: 5 min
 type: null
 uid: 71585C7D-6E80-4F86-9DF8-55F643F5B4B7-64845-00002AF38EA0302B
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Canola oil. Or any neutral oil, like grapeseed oil.</p>
 <p>Rice vinegar. Rice vinegar and rice wine vinegar are the same thing.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons canola oil (see note 1)</li>
 <li>1/3 cup rice vinegar (see note 2)</li>
 <li>1/4 cup hoisin sauce (see note 3)</li>
@@ -81,4 +81,4 @@ uid: 71585C7D-6E80-4F86-9DF8-55F643F5B4B7-64845-00002AF38EA0302B
 <li>1/8 teaspoon black pepper</li>
 <li>1/8 teaspoon garlic powder</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

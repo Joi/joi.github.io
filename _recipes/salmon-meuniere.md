@@ -37,9 +37,9 @@ total_time: null
 type: null
 uid: 281C0C73-405E-432E-A50B-7BF799868111-1118-00000110C5CB2AD2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>¼ cup all-purpose flour</li>
 <li>1 ¼ teaspoons kosher salt - divided</li>
 <li>½ teaspoon black pepper</li>
@@ -50,4 +50,4 @@ uid: 281C0C73-405E-432E-A50B-7BF799868111-1118-00000110C5CB2AD2
 <li>1 tablespoon finely chopped fresh parsley</li>
 <li>1 tablespoon drained capers</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -35,11 +35,11 @@ total_time: null
 type: null
 uid: DBFAB744-4396-4E8D-92AE-115C6E16D77A-29546-00034653B911D352
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Breadcrumbs were whole wheat... but for some reason the crumbs absorbed all of the butter/oil and were rather dry and cooling slowly on the pan. Had to cook longer and stuck thicker pieces in oven to finish cooking.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 tablespoons olive oil</li>
 <li>3 tablespoons unsalted butter, melted</li>
 <li>6 skate wings, each 6 to 8 inches across</li>
@@ -52,4 +52,4 @@ uid: DBFAB744-4396-4E8D-92AE-115C6E16D77A-29546-00034653B911D352
 <li>1 tablespoon capers</li>
 <li>Fresh Italian parsley, chopped, for garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

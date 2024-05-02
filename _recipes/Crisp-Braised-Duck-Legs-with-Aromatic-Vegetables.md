@@ -41,9 +41,9 @@ total_time: null
 type: null
 uid: 59C94A12-982E-4BD9-8826-A29B0DA9019C-24114-00000F463DF5064E
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 duck legs, trimmed of excess fat</li>
 <li>Salt and pepper to taste</li>
 <li>2 large onion</li>
@@ -51,4 +51,4 @@ uid: 59C94A12-982E-4BD9-8826-A29B0DA9019C-24114-00000F463DF5064E
 <li>6 celery stalks</li>
 <li>2 cups chicken stock, preferably homemade</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -48,9 +48,9 @@ total_time: null
 type: null
 uid: 3149D158-4144-4EF6-B48D-984CAEFE7810
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/4 cup soy sauce (60 ml)</li>
 <li>1/4 teaspoon white pepper</li>
 <li>1 teaspoon sesame oil</li>
@@ -60,4 +60,4 @@ uid: 3149D158-4144-4EF6-B48D-984CAEFE7810
 <li>2 center cut pork chops (about 1 inch thick)</li>
 <li>2 tablespoons vegetable oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

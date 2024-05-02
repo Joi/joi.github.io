@@ -64,7 +64,7 @@ total_time: null
 type: null
 uid: 76F7FCAF-D84A-4322-AEA6-F49B58D52339-4647-000066C3AA0F4991
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>STOVE TOP:</p>
 <p>Wash and pat dry lamb shanks with paper towel.</p>
 <p>Heat 1 tablespoon of oil in a heavy based pot.</p>
@@ -78,7 +78,7 @@ uid: 76F7FCAF-D84A-4322-AEA6-F49B58D52339-4647-000066C3AA0F4991
 <p>Garnish with parsley and serve with mashed potatoes or rice.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons extra-virgin olive oil divided</li>
 <li>4 - 6 lamb shanks trimmed of excess fat</li>
 <li>1 large white onion diced</li>
@@ -96,4 +96,4 @@ uid: 76F7FCAF-D84A-4322-AEA6-F49B58D52339-4647-000066C3AA0F4991
 <li>2 bay leaves</li>
 <li>Salt and pepper to season</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

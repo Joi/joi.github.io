@@ -47,9 +47,9 @@ total_time: null
 type: null
 uid: 3D6B646D-2D38-47EC-B4DF-43CFA5D61F95-16878-000008A10405BA0C
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 racks lamb, 6 to 8 ribs each, approximately 1 1/2 to 2-pounds each</li>
 <li>1 tablespoon olive oil</li>
 <li>1 teaspoon kosher salt</li>
@@ -61,4 +61,4 @@ uid: 3D6B646D-2D38-47EC-B4DF-43CFA5D61F95-16878-000008A10405BA0C
 <li>1/2 to 1 teaspoon Dijon mustard</li>
 <li>1/2 to 1 teaspoon chopped fresh rosemary leaves</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

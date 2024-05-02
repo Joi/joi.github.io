@@ -55,9 +55,9 @@ total_time: null
 type: null
 uid: C7AD59DF-7961-4287-8189-C483C746C56E-26383-000125FF55081DA0
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon vegetable oil</li>
 <li>3 pounds oxtails</li>
 <li>1 large carrot, peeled and roughly chopped (about 1½</li>
@@ -70,4 +70,4 @@ uid: C7AD59DF-7961-4287-8189-C483C746C56E-26383-000125FF55081DA0
 <li>4 stems fresh parsley</li>
 <li>4 cups homemade or low-sodium canned chicken stock Kosher salt and freshly ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

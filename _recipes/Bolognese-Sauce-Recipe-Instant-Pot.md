@@ -41,12 +41,12 @@ total_time: null
 type: null
 uid: 8202E24E-9C63-4DBB-A008-AFBA9C08982B-499-0000017FA2C55DFC
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>For the best flavor and texture of this sauce, crushed San Marzano tomatoes are key. Other crushed tomato varieties, or those packed in a more watery juice instead of purée, will yield a thinner, less flavorful sauce.</p>
 <p>Make ahead: Bolognese sauce can be stored in airtight containers for 3-4 days in the refrigerator, or 3-4 months in the freezer.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon olive oil</li>
 <li>1-1/2 cups diced yellow onion</li>
 <li>½ cup diced carrots</li>
@@ -65,4 +65,4 @@ uid: 8202E24E-9C63-4DBB-A008-AFBA9C08982B-499-0000017FA2C55DFC
 <li>kosher salt and freshly-ground black pepper</li>
 <li>cooked tagliatelle, pappardelle, or your favorite pasta , for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

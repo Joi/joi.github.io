@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: 8EF38009-BB8A-474B-832A-573AA5F4DC59-11450-000003056F5299A6
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>200 g Bread Flour</li>
 <li>50 g Cake Flour</li>
 <li>25 g Granulated Sugar</li>
@@ -47,4 +47,4 @@ uid: 8EF38009-BB8A-474B-832A-573AA5F4DC59-11450-000003056F5299A6
 <li>60 g Whole Egg</li>
 <li>40 g Unsalted Butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -52,7 +52,7 @@ total_time: null
 type: null
 uid: 2C7D1A95-70E2-4E76-A31B-F3C9352589CC
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Use chicken stock as the liquid base. Not only will this complement the seafood flavor, but it will add a gentle sweetness to the dish.</p>
 <p>Simmer for longer. The longer it cooks on low heat, the softer the abalone will become. If you're using fresh abalone, 1 hour will be enough.</p>
 <p>Make sure all the ingredients are submerged in liquid the entire braising time. This will prevent drying out and keep everything moist and juicy. Add more water if needed.</p>
@@ -60,7 +60,7 @@ uid: 2C7D1A95-70E2-4E76-A31B-F3C9352589CC
 <p>For this recipe, we used frozen abalone from the fish market.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 kg abalone</li>
 <li>100 g / 0.22 lb shiitake mushrooms (rehydrated)</li>
 <li>4 cloves garlic (finely chopped)</li>
@@ -73,4 +73,4 @@ uid: 2C7D1A95-70E2-4E76-A31B-F3C9352589CC
 <li>1 tbsp chicken bouillon powder</li>
 <li>1 L / 4 1/4 US cup water (or to preference)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

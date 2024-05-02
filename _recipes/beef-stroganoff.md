@@ -40,11 +40,11 @@ total_time: null
 type: null
 uid: 2BFBB0EB-1535-434A-99C6-682B1593F3D1-45654-0003D9CE6707F661
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>This is still a recipe work-in-progress that hasn't been &quot;perfected.&quot;</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 lb beef sliced thin</li>
 <li>1 large onion thinly sliced</li>
 <li>1 package of mushrooms</li>
@@ -65,7 +65,7 @@ uid: 2BFBB0EB-1535-434A-99C6-682B1593F3D1-45654-0003D9CE6707F661
 <li>Chopped arsley</li>
 <li>demi-glace sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Mix tomato puree, tomato paste, Worcestershire sauce and demi-glace sauce in bowl.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Mix tomato puree, tomato paste, Worcestershire sauce and demi-glace sauce in bowl.</p>
 <p>Mix 1 Tbsp flour with 1 Tbsp water in small bowl.</p>
 <p>Sauté onions, mushrooms and garlic.</p>
 <p>Add meat.</p>

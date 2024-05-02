@@ -53,9 +53,9 @@ total_time: null
 type: null
 uid: FCB0B0B7-1135-4CC2-B159-BF0FAE529699-12026-0000D92938D29AC8
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons extra-virgin olive oil</li>
 <li>Four 1-pound lamb shanks</li>
 <li>Salt and freshly ground pepper</li>
@@ -69,4 +69,4 @@ uid: FCB0B0B7-1135-4CC2-B159-BF0FAE529699-12026-0000D92938D29AC8
 <li>12 peppercorns</li>
 <li>Maple-Glazed Root Vegetables and Braised Red Cabbage, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

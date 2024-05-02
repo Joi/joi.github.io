@@ -37,9 +37,9 @@ total_time: null
 type: null
 uid: 36CDB17B-2DC4-42F1-9525-1DA86A3D90D8-53878-00004806E578D2B2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ pound shrimp, with shells on</li>
 <li>½ pound squid, cleaned</li>
 <li>½ pound halibut</li>
@@ -62,4 +62,4 @@ uid: 36CDB17B-2DC4-42F1-9525-1DA86A3D90D8-53878-00004806E578D2B2
 <li>⅓ to ½ cup olive oil</li>
 <li>Coarse salt and freshly ground pepper to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

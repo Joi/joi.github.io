@@ -61,9 +61,9 @@ total_time: null
 type: null
 uid: 2C9AD955-920A-42CE-BF3C-E764CC456104-2241-0001903C0249FBF5
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 whole bone-in, skin-on turkey breast, 4 to 5 pounds,
 patted dry
 1 recipe Classic Sage and Sausage Stuffing (here)
@@ -73,4 +73,4 @@ patted dry
 1 tablespoon kosher salt
 ½ teaspoon freshly ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

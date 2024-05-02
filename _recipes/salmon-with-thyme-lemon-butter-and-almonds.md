@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: F83ADFD7-F747-496E-9F78-8014F6D9B01C-16595-0003B2685E3340A3
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon vegetable oil</li>
 <li>1 4-pound salmon, cleaned and scaled, head and tail removed</li>
 <li>2 scallions, trimmed</li>
@@ -45,4 +45,4 @@ uid: F83ADFD7-F747-496E-9F78-8014F6D9B01C-16595-0003B2685E3340A3
 <li>⅓ cup sliced almonds</li>
 <li>Juice of half a lemon</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

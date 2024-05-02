@@ -37,9 +37,9 @@ total_time: null
 type: null
 uid: B96AD161-7872-4FBB-ABD2-2C51CF408E15-9067-0000E0F8F7176475
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 ½ pounds Pacific sole or flounder fillets</li>
 <li>Salt and freshly ground pepper</li>
 <li>1 tablespoon extra-virgin olive oil</li>
@@ -52,4 +52,4 @@ uid: B96AD161-7872-4FBB-ABD2-2C51CF408E15-9067-0000E0F8F7176475
 <li>3 tablespoons extra-virgin olive oil</li>
 <li>2 to 4 tablespoons finely chopped parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

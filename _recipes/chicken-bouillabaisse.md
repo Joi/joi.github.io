@@ -67,9 +67,9 @@ total_time: null
 type: null
 uid: F1D1640A-A8A7-4AF0-9119-997EA0B459EC-7512-00005767367B53FF
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 chicken legs (about 8 ounces each) or one 3-pound chicken, back removed and quartered</li>
 <li>8 ounces sliced yellow onion (2 cups, about 1 medium onion)</li>
 <li>1/4 cup extra-virgin olive oil</li>
@@ -85,4 +85,4 @@ uid: F1D1640A-A8A7-4AF0-9119-997EA0B459EC-7512-00005767367B53FF
 <li>4 small slices chewy peasant-style bread, about 1/2 inch thick</li>
 <li>About 1/2 cup [[aioli-sauce|Aioli Sauce]] or 1 garlic clove, peeled</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

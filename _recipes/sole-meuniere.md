@@ -36,9 +36,9 @@ total_time: null
 type: null
 uid: 8BD3439A-B5C7-4F08-AB16-6B7FAC37FF17-22830-00001001DED2BBE9
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ cup all-purpose flour</li>
 <li>6 4-ounce skinless, boneless sole or other thin fish fillets, patted dry</li>
 <li>Kosher salt, to taste</li>
@@ -48,4 +48,4 @@ uid: 8BD3439A-B5C7-4F08-AB16-6B7FAC37FF17-22830-00001001DED2BBE9
 <li>3 tablespoons minced parsley</li>
 <li>1 lemon, cut into wedges, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

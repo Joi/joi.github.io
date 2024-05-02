@@ -42,9 +42,9 @@ total_time: null
 type: null
 uid: 4838DF55-3CCF-4F7C-A10A-E8AC57455ABB-53878-00004D78F774CAD8
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>FOR THE MEATBALLS:</li>
 <li>1 ½ pounds ground lamb (or substitute ground beef, pork or turkey)</li>
 <li>½ cup raw arborio rice or any white rice, rinsed and drained</li>
@@ -67,4 +67,4 @@ uid: 4838DF55-3CCF-4F7C-A10A-E8AC57455ABB-53878-00004D78F774CAD8
 <li>6 cups cooked chickpeas</li>
 <li>½ cup chopped parsley, cilantro or a combination</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

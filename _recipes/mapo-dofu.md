@@ -54,11 +54,11 @@ total_time: null
 type: null
 uid: F189F7A3-07AA-47B9-80AC-0E6B2879D4C5-651-00000524A207DA6A
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Try ¼ tsp rice spices</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 lb tofu</li>
 <li>2 scallions, chopped</li>
 <li>½ lb ground pork</li>
@@ -77,7 +77,7 @@ uid: F189F7A3-07AA-47B9-80AC-0E6B2879D4C5-651-00000524A207DA6A
 <li>1 Tbsp soy sauce</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Cut tofu in 1 inch cubes (You can also crumble the tofu with your hands if it's harder tofu.) and if using soft tofu, soak in boiling hot salted water and strain and dry to remove excess water from tofu before frying.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Cut tofu in 1 inch cubes (You can also crumble the tofu with your hands if it's harder tofu.) and if using soft tofu, soak in boiling hot salted water and strain and dry to remove excess water from tofu before frying.</p>
 <p>Combine garlic, red pepper, bean pastes and douchi in a bowl.</p>
 <p>Mix starch and water in small bowl.</p>
 <p>Stir-fry pork until brown with oil. Turn off heat and add sauce.</p>

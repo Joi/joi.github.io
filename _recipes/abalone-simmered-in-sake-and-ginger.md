@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: 314A1D47-12DD-4587-AC8A-158FACA1B44A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>8-12 small fresh or canned abalone (about 7-10 oz/200-300 g)</li>
 <li>½ cup (125 ml) Basic Dashi Stock or ¼ teaspoon dashi stock granules dissolved in ½ cup (125 ml) hot water</li>
 <li>1½ tablespoons sake</li>
@@ -45,4 +45,4 @@ uid: 314A1D47-12DD-4587-AC8A-158FACA1B44A
 <li>1 teaspoon grated young ginger</li>
 <li>1 tablespoon tamari or dark soy sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

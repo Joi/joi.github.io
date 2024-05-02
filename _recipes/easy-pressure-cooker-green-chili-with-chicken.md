@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: 4FA42CC1-075F-47CB-B3C2-393C64D599ED-35869-00001A079663128A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 pounds bone-in skin-on chicken thighs and drumsticks</li>
 <li>3/4 pound tomatillos, quartered, husks discarded (about 4 tomatillos)</li>
 <li>1 pound poblano peppers, roughly chopped, seeds and stems discarded (about 3 peppers)</li>
@@ -54,4 +54,4 @@ uid: 4FA42CC1-075F-47CB-B3C2-393C64D599ED-35869-00001A079663128A
 <li>1 tablespoon Asian fish sauce, such as Red Boat</li>
 <li>Fresh corn tortillas and lime wedges, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

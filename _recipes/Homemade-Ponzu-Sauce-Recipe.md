@@ -34,11 +34,11 @@ total_time: null
 type: null
 uid: 01709B11-ED19-453F-851F-0DB48598E545-533-0000001E0CEE2435
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Citrus Juice: You can use lemon, or mixture of juice from lemon, orange, or grapefruit.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ cup soy sauce</li>
 <li>½ cup citrus juice (See Notes: I love the mixture of 6 Tbsp lemon juice + 2 Tbsp orange juice)</li>
 <li>lemon zest from one lemon</li>
@@ -46,4 +46,4 @@ uid: 01709B11-ED19-453F-851F-0DB48598E545-533-0000001E0CEE2435
 <li>½ cup katsuobushi (dried bonito flakes) (packed; 6 g)</li>
 <li>1 piece kombu (dried kelp) (2&quot; x 3&quot; strip; 6 g)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

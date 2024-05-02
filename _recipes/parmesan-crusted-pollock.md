@@ -55,9 +55,9 @@ total_time: null
 type: null
 uid: 207580F0-344A-4CB4-9B63-C99743340EEE-13891-000102267CE7FBD9
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 lb. pollock fillets or other white fish</li>
 <li>1/2 cup vegetable broth</li>
 <li>Salt and pepper, to taste</li>
@@ -72,4 +72,4 @@ uid: 207580F0-344A-4CB4-9B63-C99743340EEE-13891-000102267CE7FBD9
 <li>4 Tbsp. butter, cubed</li>
 <li>1 cup brown rice, cooked</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

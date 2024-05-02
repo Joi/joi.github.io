@@ -45,11 +45,11 @@ total_time: null
 type: null
 uid: 2545CB6B-7EEA-46C3-97F4-485CEBBFBB71-50715-0008F838B37D34F1
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>*My seafood mix has shrimp, calamari rings, and bay scallops.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 lb. frozen mixed seafood*</li>
 <li>4 tablespoons unsalted butter, melted</li>
 <li>1 teaspoon Diamond Crystal kosher salt</li>
@@ -60,4 +60,4 @@ uid: 2545CB6B-7EEA-46C3-97F4-485CEBBFBB71-50715-0008F838B37D34F1
 <li>1/2 small lemon</li>
 <li>2 tablespoons chopped parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

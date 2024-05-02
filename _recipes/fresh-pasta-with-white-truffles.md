@@ -41,9 +41,9 @@ total_time: null
 type: null
 uid: 2EFF33F1-A57C-45F1-A682-E5243CE4F1D0-42657-00001ECE2A68D4C0
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 Large Garlic Clove, Halved</li>
 <li>8 Tablespoons Unsalted Butter</li>
 <li>3 Large Fresh Sage Leaves</li>
@@ -52,4 +52,4 @@ uid: 2EFF33F1-A57C-45F1-A682-E5243CE4F1D0-42657-00001ECE2A68D4C0
 <li>Sea Salt</li>
 <li>2 to 3 Ounces Fresh White Truffles</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

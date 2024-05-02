@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: 31DFD892-9DBB-4E66-B5CB-C86E0BD8CCBC-408-00004FA1359979E2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Mushroom-Onion Filling</li>
 <li>4 oz yellow onions, in half moons (¼ in.)</li>
 <li>1 oz extra virgin olive oil, plus extra to grease</li>
@@ -47,4 +47,4 @@ uid: 31DFD892-9DBB-4E66-B5CB-C86E0BD8CCBC-408-00004FA1359979E2
 <li>⅛ tsp ground black pepper</li>
 <li>fresh parsley, chopped, to garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: AF68B12A-0B8D-4B25-8CF9-B95BA29D1D13-16595-00015255043617C2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 racks beef ribs, 5 to 7 pounds total (see Note 1)</li>
 <li>3 tablespoons kosher salt</li>
 <li>2 tablespoons freshly cracked black pepper</li>
@@ -44,4 +44,4 @@ uid: AF68B12A-0B8D-4B25-8CF9-B95BA29D1D13-16595-00015255043617C2
 <li>Red pepper flakes, to taste</li>
 <li>¼ cup finely ground hickory chips, preferably Cameron (see Note 2)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

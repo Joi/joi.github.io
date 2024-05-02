@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: C3AD4197-9530-4692-AD10-00AAAB5AD132-68048-0001193223818FE6
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 ½ pounds fresh pasta (capellini or fettuccine)</li>
 <li>½ cup unsalted butter</li>
 <li>1 ½ cups freshly grated Parmesan cheese</li>
@@ -44,4 +44,4 @@ uid: C3AD4197-9530-4692-AD10-00AAAB5AD132-68048-0001193223818FE6
 <li>Coarse salt and freshly ground pepper to taste</li>
 <li>About 1 ounce white truffle</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -43,9 +43,9 @@ total_time: null
 type: null
 uid: A14C420C-9137-424C-A2EA-412E33AF030D-2334-0001CE2B6F219C82
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons minced garlic</li>
 <li>1 1/2 tablespoons chopped fresh rosemary or 2 teaspoons dried</li>
 <li>1 teaspoon dried crushed red pepper</li>
@@ -53,4 +53,4 @@ uid: A14C420C-9137-424C-A2EA-412E33AF030D-2334-0001CE2B6F219C82
 <li>3 tablespoons olive oil</li>
 <li>Fresh rosemary sprigs (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

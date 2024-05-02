@@ -41,9 +41,9 @@ total_time: null
 type: null
 uid: 48DB1B13-A0D8-41BE-B52A-E6DBB235B608-39996-000020288761ACAE
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>2 small leeks (or 1 large), white and light green parts sliced thin crosswise (about 3/4 cup) and washed thoroughly</li>
 <li>2 medium carrots, peeled and cut into small dice (about 3/4 cup)</li>
@@ -61,4 +61,4 @@ uid: 48DB1B13-A0D8-41BE-B52A-E6DBB235B608-39996-000020288761ACAE
 <li>¼ cup basil pesto (or 1 tablespoon minced fresh rosemary mixed with 1 teaspoon minced garlic and 1 tablespoon extra-virgin olive oil)</li>
 <li>Ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

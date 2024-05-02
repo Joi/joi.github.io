@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: 875B7AB2-9EF9-42D1-8F64-32A20488CB8F-407-00004B9D9A9E2EC5
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>FOR THE OSSO BUCO:</li>
 <li>All-purpose flour, for dredging</li>
 <li>4 sprigs fresh thyme</li>
@@ -65,4 +65,4 @@ uid: 875B7AB2-9EF9-42D1-8F64-32A20488CB8F-407-00004B9D9A9E2EC5
 <li>2 garlic cloves, minced</li>
 <li>Pinch of kosher salt, plus more as needed</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -53,9 +53,9 @@ total_time: null
 type: null
 uid: 8C1178D3-6F30-4CD3-9582-2561088FC722-7115-00000356970D7E05
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>RIBS</li>
 <li>2 to 2 1/2 pounds baby back pork ribs</li>
 <li>Salt and black pepper</li>
@@ -70,4 +70,4 @@ uid: 8C1178D3-6F30-4CD3-9582-2561088FC722-7115-00000356970D7E05
 <li>Salt and ground pepper, to taste</li>
 <li>30 MINUTE ROASTED PORK TENDERLOIN</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

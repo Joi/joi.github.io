@@ -41,9 +41,9 @@ total_time: null
 type: null
 uid: 56D5B5C6-09D5-4522-A797-2CCB234E6FB5-631-00013CFF7518B2AD
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>8 corn cobs (Full Length)</li>
 <li>1 tin (13.5 oz) Coconut Milk or make your own 1 1/2 cups</li>
 <li>1 hot pepper</li>
@@ -52,4 +52,4 @@ uid: 56D5B5C6-09D5-4522-A797-2CCB234E6FB5-631-00013CFF7518B2AD
 <li>1 tablespoon brown sugar</li>
 <li>1 tablespoon pimento sauce (or 2 pimento peppers sliced) (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

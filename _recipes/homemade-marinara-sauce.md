@@ -49,11 +49,11 @@ total_time: null
 type: null
 uid: EE565425-59C5-4F36-8476-7616358D2823-903-00005D3FB1B03E44
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Homemade marinara sauce freezes incredibly well. I prefer freezing it in smaller jars so I can thaw exactly what I need in the future. To thaw marinara sauce, simply place it in your fridge overnight.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 (28 oz) cans San Marzano Tomatoes</li>
 <li>3 Tbsp butter</li>
 <li>1 1/2 cups finely chopped yellow onions</li>
@@ -63,4 +63,4 @@ uid: EE565425-59C5-4F36-8476-7616358D2823-903-00005D3FB1B03E44
 <li>4 sprigs (20g) fresh basil</li>
 <li>Shredded Parmesan or Romano cheese and chopped basil, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

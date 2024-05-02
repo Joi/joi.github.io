@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: 8CBA434A-8D16-4B6E-BEC2-2364ECF2E5C3-96025-0002CF722DAFF147
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>¼ cup very finely chopped parsley
 2 tablespoons very finely chopped fresh oregano or marjoram or 1 tablespoon dried oregano
 1 garlic clove, finely grated or pounded with a pinch of salt
@@ -44,4 +44,4 @@ uid: 8CBA434A-8D16-4B6E-BEC2-2364ECF2E5C3-96025-0002CF722DAFF147
 2 tablespoons lemon juice
 Salt</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

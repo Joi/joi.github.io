@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: 4FE598EB-8913-4028-80AA-CAA948B201B4-37023-00001CD758D8EA79
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 Thick pork chops (bone in or boneless is fine)</li>
 <li>½ Tbsp Kosher salt</li>
 <li>Black pepper</li>
@@ -43,4 +43,4 @@ uid: 4FE598EB-8913-4028-80AA-CAA948B201B4-37023-00001CD758D8EA79
 <li>1 tsp Olive oil</li>
 <li>Optional aromatic herbs</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

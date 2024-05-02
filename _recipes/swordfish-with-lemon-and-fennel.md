@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: B4B02125-97BD-4F86-84B8-94CB4F5FC435-631-0001AC5341C84507
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 ½ pounds swordfish steaks, about 1-inch thick</li>
 <li>Kosher salt and freshly ground black pepper</li>
 <li>½ teaspoon fennel seeds</li>
@@ -48,4 +48,4 @@ uid: B4B02125-97BD-4F86-84B8-94CB4F5FC435-631-0001AC5341C84507
 <li>2 teaspoons chopped fresh fennel fronds</li>
 <li>Lemon wedges, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

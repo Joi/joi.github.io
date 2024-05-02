@@ -56,9 +56,9 @@ total_time: null
 type: null
 uid: 7A341D31-7135-4A04-AAAA-95CA531D0BC6-2209-0001E6123B198A97
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 pound bok choy, Peking cabbage ( Napa cabbage or spinach leaves)</li>
 <li>1 to 2 green onions (spring onions, scallions, minced)</li>
 <li>1 teaspoon ginger (minced)</li>
@@ -74,4 +74,4 @@ uid: 7A341D31-7135-4A04-AAAA-95CA531D0BC6-2209-0001E6123B198A97
 <li>2 tablespoons vegetable oil</li>
 <li>1 1/2 cups chicken broth</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

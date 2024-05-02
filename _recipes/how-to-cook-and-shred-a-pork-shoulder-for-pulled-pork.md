@@ -50,12 +50,12 @@ total_time: null
 type: null
 uid: D3A1E51B-84E9-44A4-BB85-2CF4A9B93A86-1358-000130109CDA0573
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Slow-cooker variation: In a 5-quart or larger slow cooker, combine the meat, any vegetables, and liquid. Cover and cook on HIGH for 5 to 6 hours or LOW for 8 to 10 hours.</p>
 <p>Storage: Pulled pork will keep for 1 week in the refrigerator or for up to 3 months in the freezer.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 to 6 pounds boneless pork shoulder or butt (or 5 to 7 pounds bone-in)</li>
 <li>1 tablespoon kosher salt</li>
 <li>1 1/2 tablespoons freshly ground black pepper</li>
@@ -68,4 +68,4 @@ uid: D3A1E51B-84E9-44A4-BB85-2CF4A9B93A86-1358-000130109CDA0573
 <li>2 to 4 tablespoons liquid smoke (optional)</li>
 <li>1/4 to 1/2 cup barbecue sauce (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -49,9 +49,9 @@ total_time: null
 type: null
 uid: C56A2832-A5D3-4F23-BF55-81FE17B00B7E-89150-0001914BEAF20AFE
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>cooking spray</li>
 <li>2 pounds haddock fillets</li>
 <li>1/2 teaspoon onion powder</li>
@@ -63,4 +63,4 @@ uid: C56A2832-A5D3-4F23-BF55-81FE17B00B7E-89150-0001914BEAF20AFE
 <li>1 tablespoon butter, cut in small pieces</li>
 <li>1 lemon, cut into wedges</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

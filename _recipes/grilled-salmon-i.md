@@ -31,9 +31,9 @@ total_time: null
 type: null
 uid: E83D1501-A3B9-45C3-B20E-443300F6087A-1358-00021A4603DDCF39
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 ½ pounds salmon fillets</li>
 <li>½ teaspoon lemon pepper to taste</li>
 <li>¼ teaspoon garlic powder to taste</li>
@@ -43,4 +43,4 @@ uid: E83D1501-A3B9-45C3-B20E-443300F6087A-1358-00021A4603DDCF39
 <li>⅓ cup water</li>
 <li>¼ cup vegetable oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

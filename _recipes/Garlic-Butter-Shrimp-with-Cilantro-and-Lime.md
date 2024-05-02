@@ -46,9 +46,9 @@ total_time: null
 type: null
 uid: 9966B4CF-829A-4D19-860F-F7AC1BFB2ED8-5646-0000030C2287F7BC
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>YOU WILL NEED</li>
 <li>1 pound extra large shrimp, peeled with tails left on and deveined</li>
 <li>1 lime plus a few extra wedges for serving</li>
@@ -59,4 +59,4 @@ uid: 9966B4CF-829A-4D19-860F-F7AC1BFB2ED8-5646-0000030C2287F7BC
 <li>2 scallions, chopped</li>
 <li>1/2 cup fresh cilantro leaves and tender stems, chopped</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

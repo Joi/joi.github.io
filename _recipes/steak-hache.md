@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: 79CCAC1E-63F0-413E-A6F7-E881BD4AF595-39436-00013F116E966879
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 cup dried porcini mushrooms</li>
 <li>1 pound best ground sirloin or chuck</li>
 <li>5 tablespoons butter, at room temperature</li>
@@ -48,4 +48,4 @@ uid: 79CCAC1E-63F0-413E-A6F7-E881BD4AF595-39436-00013F116E966879
 <li>½ cup finely chopped fresh parsley</li>
 <li>Olive oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

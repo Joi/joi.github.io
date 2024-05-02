@@ -41,9 +41,9 @@ total_time: null
 type: null
 uid: 78B55C34-0876-4E1D-81B2-F04FF1D99E99-9482-0000064E9E95FCEA
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>3 pounds chicken drumsticks (about 4 legs), carefully trimmed of all fat, cleaned, dried, and thighs and drumsticks separated</li>
 <li>Salt and ground black pepper</li>
@@ -64,4 +64,4 @@ uid: 78B55C34-0876-4E1D-81B2-F04FF1D99E99-9482-0000064E9E95FCEA
 <li>2 - 3 tablespoons unbleached all-purpose flour</li>
 <li>2 tablespoons minced fresh parsley leaves</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

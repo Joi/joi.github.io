@@ -46,11 +46,11 @@ total_time: null
 type: null
 uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Meunière is an old time favorite of mine. Salmon meunière was my favorite when I was a kid. This recipe is based on <a href="https://www.cooksillustrated.com/recipes/1399-fish-meuniere-with-toasted-slivered-almonds?incode=MCSCM00L0&amp;ref=new_search_experience_7">a nice Cook's Illustrated recipe.</a></p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ cup all-purpose flour</li>
 <li>4 fillets - I like sole, flounder, salmon. You can use anything that fillets well and doesn't fall apart when fried</li>
 <li>2 Tbsp frying oil</li>
@@ -63,7 +63,7 @@ uid: 5C12A904-C88D-452D-8448-24892EC64A4D-7996-000005DA7520FCD4
 <li>1 ½ Tbsp lemon juice</li>
 <li>1 lemon, cut in wedges for garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Heat plates in microwave or in oven at 200ºF.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Heat plates in microwave or in oven at 200ºF.</p>
 <p>Season fish with salt and pepper. Let sit for 5 min or so.</p>
 <p>Dredge fish in flour and place on baking sheet.</p>
 <p>Heat frying oil in skillet (non-stick helps) over high heat. (I shoot for about 350ºF but you might fry smaller fish a bit higher. People tend to suggest 350ºF - 375ºF)</p>

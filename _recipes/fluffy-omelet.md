@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: 7F1689F8-3BD8-40D9-AB99-1204CE2115DC-408-00004BD68AFD291D
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>4 large eggs, separated</li>
 <li>1 tablespoon unsalted butter, melted, plus 1 tablespoon unsalted butter</li>
@@ -44,4 +44,4 @@ uid: 7F1689F8-3BD8-40D9-AB99-1204CE2115DC-408-00004BD68AFD291D
 <li>1 recipe Mushroom Filling</li>
 <li>1 ounce Parmesan cheese, grated (1/2 cup)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

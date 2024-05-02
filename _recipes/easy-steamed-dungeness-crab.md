@@ -43,9 +43,9 @@ total_time: null
 type: null
 uid: A947450F-684C-4077-A669-1F1F4B3E244A-16595-000152F449C1E9CB
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For the crab:</li>
 <li>1 tablespoon kosher salt</li>
 <li>1 (2-pound) whole live Dungeness crab</li>
@@ -54,4 +54,4 @@ uid: A947450F-684C-4077-A669-1F1F4B3E244A-16595-000152F449C1E9CB
 <li>Warm melted butter</li>
 <li>Cucumber Mignonette (recipe link in intro)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

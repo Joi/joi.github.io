@@ -35,9 +35,9 @@ total_time: null
 type: null
 uid: D07C7EDA-66CF-40A3-9EB4-C415CCB6AC12-408-00004E63C6179E14
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>2 tablespoons plus 1/2 teaspoon minced garlic</li>
 <li>¼ cup extra-virgin olive oil</li>
@@ -50,4 +50,4 @@ uid: D07C7EDA-66CF-40A3-9EB4-C415CCB6AC12-408-00004E63C6179E14
 <li>1 ½ ounces Parmesan, grated (3/4 cup), plus extra for serving</li>
 <li>2 tablespoons chopped fresh parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

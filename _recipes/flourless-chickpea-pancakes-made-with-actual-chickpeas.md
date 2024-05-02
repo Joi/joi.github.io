@@ -43,11 +43,11 @@ total_time: null
 type: null
 uid: DB727662-16F9-410B-A09F-13AD4713E4A6-84831-000044293FF03435
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>1 ½ Flour / 1 ¼ milk 602g of cpf</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>15 oz. chickpeas drained and rinsed</li>
 <li>1/2 cup peanut butter</li>
 <li>2 tsp baking soda</li>
@@ -57,4 +57,4 @@ uid: DB727662-16F9-410B-A09F-13AD4713E4A6-84831-000044293FF03435
 <li>1/2 tsp vanilla</li>
 <li>1 tbsp maple syrup</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

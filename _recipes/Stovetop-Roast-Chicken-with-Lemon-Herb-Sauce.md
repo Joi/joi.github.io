@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: 1CC279D0-B28C-4D56-89AD-5F9651D51E75-9482-0000064D90F7DDA4
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>Chicken</li>
 <li>3 ½ pounds bone-in, skin-on chicken parts (breasts, thighs, and drumsticks, or a mix, with breasts cut in half), trimmed of excess fat (see note)</li>
@@ -57,4 +57,4 @@ uid: 1CC279D0-B28C-4D56-89AD-5F9651D51E75-9482-0000064D90F7DDA4
 <li>1 tablespoon cold unsalted butter</li>
 <li>Salt and ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

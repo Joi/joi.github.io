@@ -52,9 +52,9 @@ total_time: null
 type: null
 uid: 992A0DBD-C253-4DDF-A5E6-496C7A0646F5-68048-0000AAB8A8898B2F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 whole turkey, neck and giblets reserved, about 10 to 12 pounds (4.5 to 5kg) (see note)</li>
 <li>Kosher salt and freshly ground black pepper</li>
 <li>1 tablespoon (15ml) vegetable oil</li>
@@ -67,4 +67,4 @@ uid: 992A0DBD-C253-4DDF-A5E6-496C7A0646F5-68048-0000AAB8A8898B2F
 <li>3 tablespoons (45g) butter</li>
 <li>1/4 cup (1 1/2 ounces) flour</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

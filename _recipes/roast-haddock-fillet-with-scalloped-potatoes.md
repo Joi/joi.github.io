@@ -50,9 +50,9 @@ total_time: null
 type: null
 uid: CDA05BA7-DD41-4943-AEE6-111555D36C4D-38252-00015A0DAE34F709
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 haddock fillets, weighing about 7 ounces each, skin on</li>
 <li>16 scallions, sliced</li>
 <li>8 whole cloves garlic, unpeeled</li>
@@ -65,4 +65,4 @@ uid: CDA05BA7-DD41-4943-AEE6-111555D36C4D-38252-00015A0DAE34F709
 <li>Coarse salt and freshly ground pepper to taste</li>
 <li>2 tablespoons flat-leaf parsley, minced</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

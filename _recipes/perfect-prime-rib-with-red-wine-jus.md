@@ -55,9 +55,9 @@ total_time: null
 type: null
 uid: E763742A-CCA6-430C-A854-E7AA059BD18B-25227-00001658B3908BF6
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon (15ml) vegetable oil</li>
 <li>2 pounds (900g) beef shins or oxtail</li>
 <li>1 pound (450g) beef or veal soup bones</li>
@@ -73,4 +73,4 @@ uid: E763742A-CCA6-430C-A854-E7AA059BD18B-25227-00001658B3908BF6
 <li>Kosher salt and freshly ground black pepper</li>
 <li>4 tablespoons (58g) unsalted butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -40,11 +40,11 @@ total_time: null
 type: null
 uid: 02CCE5A9-6684-4E28-8B94-84459DE31F12
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Based on a recipe by Ana Sortun via Siena Farms.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 cups of peeled and cubed kohlrabi, turnip, white daikon, or cauliflower</li>
 <li>1 small bulb fennel, outer leaves and core removed, and roughly chopped</li>
 <li>1 small leek, white part only roughly chopped and cleaned</li>
@@ -61,7 +61,7 @@ uid: 02CCE5A9-6684-4E28-8B94-84459DE31F12
 <li>optional—sumac for sprinkling over the top</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>In a soup pot, lightly sauté vegetables in olive oil with salt and pepper.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>In a soup pot, lightly sauté vegetables in olive oil with salt and pepper.</p>
 <p>Do not let the vegetables brown.</p>
 <p>Add hazelnuts and broth and simmer until the vegetables are tender - about 20 min.</p>
 <p>Add honey and milk and puree the soup with an immersion blender or an upright blender.</p>

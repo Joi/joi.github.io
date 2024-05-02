@@ -37,9 +37,9 @@ total_time: null
 type: null
 uid: D456D7F1-F235-49BA-8D43-4688CA578FEA-408-00004FA89F09169C
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 garlic cloves</li>
 <li>8 oz yellow onions, cut into pieces</li>
 <li>6 oz carrots, peeled, cut into pieces</li>
@@ -57,4 +57,4 @@ uid: D456D7F1-F235-49BA-8D43-4688CA578FEA-408-00004FA89F09169C
 <li>¼ tsp ground black pepper</li>
 <li>4 oz unsalted butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

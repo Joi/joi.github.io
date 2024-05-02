@@ -58,9 +58,9 @@ total_time: null
 type: null
 uid: D37884E5-D3CB-4E1C-9D20-497B367D520B-84235-00002F4091736C20
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 1/2 cups cake flour</li>
 <li>2 tablespoons paprika</li>
 <li>2 teaspoons black pepper</li>
@@ -77,4 +77,4 @@ uid: D37884E5-D3CB-4E1C-9D20-497B367D520B-84235-00002F4091736C20
 <li>1/2 cup finely chopped fresh cilantro</li>
 <li>2 limes, cut into wedges</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

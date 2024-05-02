@@ -43,9 +43,9 @@ total_time: null
 type: null
 uid: 2C518E96-85B6-4C10-8991-75E0472E2FFA-50715-000A1E5ECEDB8277
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 Tbsp. kosher salt, plus more</li>
 <li>4 oz. guanciale (salt-cured pork jowl), pancetta (Italian bacon), or bacon</li>
 <li>2 oz. Parmesan</li>
@@ -55,4 +55,4 @@ uid: 2C518E96-85B6-4C10-8991-75E0472E2FFA-50715-000A1E5ECEDB8277
 <li>2 Tbsp. extra-virgin olive oil</li>
 <li>1 lb. spaghetti, bucatini, or rigatoni</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

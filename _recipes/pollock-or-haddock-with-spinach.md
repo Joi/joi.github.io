@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: 8E9EC973-FDF5-4F63-9533-6897DA47F569-38252-00015A06CE46E4D5
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>5 tablespoons butter</li>
 <li>2 tablespoons chopped onion</li>
 <li>4 cups fresh spinach, washed and well-drained</li>
@@ -47,4 +47,4 @@ uid: 8E9EC973-FDF5-4F63-9533-6897DA47F569-38252-00015A06CE46E4D5
 <li>½ cup heavy cream</li>
 <li>2 tablespoons freshly grated Parmesan cheese</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -41,9 +41,9 @@ total_time: null
 type: null
 uid: E2E90BC0-9E53-4ABE-9A74-07AC0D2B286F-10626-0000074C49E472D7
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>12 tablespoons cold unsalted butter, sliced into 1/2 inch pieces, divided</li>
 <li>2 tablespoons finely chopped yellow onion</li>
 <li>2 garlic cloves, minced</li>
@@ -51,4 +51,4 @@ uid: E2E90BC0-9E53-4ABE-9A74-07AC0D2B286F-10626-0000074C49E472D7
 <li>3 tablespoons fresh lemon juice</li>
 <li>Kosher salt and ground white pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

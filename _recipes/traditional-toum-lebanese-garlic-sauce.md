@@ -39,13 +39,13 @@ total_time: null
 type: null
 uid: 99182DEB-C6F1-48F2-8054-F9D8404C55D8-2241-0003FEF1ED6DF81A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 cup cloves garlic (4 1/2 ounces; 130g)</li>
 <li>2 teaspoons Diamond Crystal kosher salt (for table salt, use 1 teaspoon)</li>
 <li>1/4 cup (60g) fresh juice from about 2 lemons, divided</li>
 <li>1/4 cup (60g) ice water, divided</li>
 <li>3 cups (600g) neutral oil, such as grapeseed or canola, divided</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

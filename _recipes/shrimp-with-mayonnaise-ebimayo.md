@@ -56,12 +56,12 @@ total_time: null
 type: null
 uid: 38FA8814-B207-4409-8F03-B8C191D89FA4-52325-00013BDD53836253
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Based on <a href="https://dancyu.jp/recipe/2019_00001803.html">this recipe</a> in a Japanese cooking magazine. They say it is based on the recipe from <a href="https://rikyu.jp/">Akasaka Rikyu</a>. Rikyu was one of my favorite restaurants which was in the basement of the office building that I worked in in Tokyo in the early 2000s, Plaza Mikado.</p>
 <p>I swapped out the parsley for cilantro.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li><strong>Sauce</strong></li>
 <li>2 Tbsp heavy cream</li>
 <li>2 Tbsp condensed milk</li>
@@ -79,7 +79,7 @@ uid: 38FA8814-B207-4409-8F03-B8C191D89FA4-52325-00013BDD53836253
 <li>Cilantro, chopped</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-9.jpg" alt="mayonnaise mix" /></p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/shrimp-with-mayonnaise-ebimayo-9.jpg" alt="mayonnaise mix" /></p>
 <ol>
 <li>Mix cream, condensed milk, gin and ketchup in a bowl and add mayonnaise at the end.</li>
 </ol>

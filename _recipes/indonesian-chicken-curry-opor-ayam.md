@@ -37,9 +37,9 @@ total_time: null
 type: null
 uid: 4DD0191F-C05E-4C84-86AF-DAD91B101A5F-67145-001153F3C917B389
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>¼ cup coriander seeds</li>
 <li>3 tablespoons coconut oil</li>
 <li>10 small shallots, sliced</li>
@@ -58,4 +58,4 @@ uid: 4DD0191F-C05E-4C84-86AF-DAD91B101A5F-67145-001153F3C917B389
 <li>¾ cup chicken stock</li>
 <li>3 pounds bone-in chicken pieces</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

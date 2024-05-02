@@ -54,9 +54,9 @@ total_time: null
 type: null
 uid: 6A43E36F-3E33-4EA1-AC64-18B3BB15B24A-9067-0001DB950AEE30A7
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For the Herb Butter:</li>
 <li>6 tbsp. softened butter</li>
 <li>1 small clove garlic, peeled and minced</li>
@@ -71,4 +71,4 @@ uid: 6A43E36F-3E33-4EA1-AC64-18B3BB15B24A-9067-0001DB950AEE30A7
 <li>4 (8-oz.) bison filets, each about 1 1/2&quot; thick</li>
 <li>2 tbsp. canola oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

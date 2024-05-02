@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: 3E48A1BE-2272-4971-9336-887DEB71E5E6-52325-00036692448DDACC
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 cinnamon sticks</li>
 <li>1 black cardamom pod</li>
 <li>½ tablespoon Sichuan peppercorns</li>
@@ -63,4 +63,4 @@ uid: 3E48A1BE-2272-4971-9336-887DEB71E5E6-52325-00036692448DDACC
 <li>About 4 cups water (or optionally, chicken, beef, or pork stock, enough to cover the beef)</li>
 <li>Salt (to taste, we used about 1 teaspoon)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

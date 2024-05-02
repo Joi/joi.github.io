@@ -44,9 +44,9 @@ total_time: null
 type: null
 uid: A80D7DA1-65C1-4E54-9E37-61D898075857-31407-000013DDF69CA4EB
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 (5-oz.) skin-on striped bass fillets (either hybrid striped bass or wild), patted dry</li>
 <li>1/4 teaspoon black pepper</li>
 <li>1 teaspoon kosher salt, divided</li>
@@ -56,4 +56,4 @@ uid: A80D7DA1-65C1-4E54-9E37-61D898075857-31407-000013DDF69CA4EB
 <li>2 tablespoons cold unsalted butter</li>
 <li>2 tablespoons chopped fresh parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

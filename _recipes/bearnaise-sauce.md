@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: 372FCAD3-4EE2-443B-92A8-59D831B0086F-2241-0000F0DBFFBC4020
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>¼ cup white-wine vinegar</li>
 <li>1 small shallot, peeled and minced</li>
 <li>½ teaspoon freshly cracked black pepper</li>
@@ -46,4 +46,4 @@ uid: 372FCAD3-4EE2-443B-92A8-59D831B0086F-2241-0000F0DBFFBC4020
 <li>Kosher salt, to taste</li>
 <li>Splash of lemon juice, optional</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

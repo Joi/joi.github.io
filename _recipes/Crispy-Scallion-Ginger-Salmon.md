@@ -35,9 +35,9 @@ total_time: null
 type: null
 uid: FB351175-E30A-46F7-828B-2061D4F07D63-7512-0001E1E6CCA51ED2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 tablespoons oil</li>
 <li>2 eight oz. salmon fillets (450g total, sprinkled lightly and evenly with salt)</li>
 <li>½ cup water</li>
@@ -49,4 +49,4 @@ uid: FB351175-E30A-46F7-828B-2061D4F07D63-7512-0001E1E6CCA51ED2
 <li>3 scallions (very thinly julienned into 2-inch pieces)</li>
 <li>1/2 cup cilantro (chopped)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

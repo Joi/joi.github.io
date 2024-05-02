@@ -59,11 +59,11 @@ total_time: null
 type: null
 uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Based on <a href="https://cafedelites.com/chicken-tikka-masala/">this recipe from Cafe Delites</a> but changed to use whole chicken, bigger pieces and cooking timing based on the Cook's Illustrated <a href="https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato">Braised Chicken with Basil and Tomato</a> which I find braises chicken and gets it done just right.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li><strong>For the chicken marinade:</strong></li>
 <li>Whole chicken</li>
 <li>1 cup plain yogurt</li>
@@ -93,7 +93,7 @@ uid: 3D3EAA75-374F-4CFD-AFEE-2FC78623B29B-4181-0001E225FC0E08D5
 <li>¼ cup water if needed</li>
 <li>4 Tbsp Fresh cilantro to garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Break down chicken into 10 parts - drum stick, thighs, breast into 4 parts, wings. Save the back and wing tips for stock.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Break down chicken into 10 parts - drum stick, thighs, breast into 4 parts, wings. Save the back and wing tips for stock.</p>
 <p><img src="/images/recipes/braised-chicken-tikka-masala-2.jpg" alt="2" /></p>
 <p>In a bowl, combine chicken with all of the ingredients for the chicken marinade; let marinate overnight.</p>
 <p>Preheat oven to 300ºF.</p>

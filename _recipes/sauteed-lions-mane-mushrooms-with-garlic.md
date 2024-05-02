@@ -32,7 +32,7 @@ total_time: null
 type: null
 uid: B53EB02F-AB1A-4565-B876-F153978C6816-4181-0003AFB8BFA58266
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>optional add-ins</p>
 <p>chopped cilantro or parsley</p>
 <p>toss with a batch of nutty, gorgonzola</p>
@@ -40,9 +40,9 @@ uid: B53EB02F-AB1A-4565-B876-F153978C6816-4181-0003AFB8BFA58266
 <p>toss in a salad of: shredded beets, carrots, and celery with toasted sunflower seeds and Umeboshi Plum Sauce thinned with olive oil</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>olive oil or butter</li>
 <li>minced garlic</li>
 <li>lion’s mane mushrooms, sliced ½-inch thick</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

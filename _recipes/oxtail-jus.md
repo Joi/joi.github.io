@@ -85,11 +85,11 @@ total_time: ''
 type: null
 uid: F604EADB-25AC-44AC-9DC1-75246C0FB483-641-0000509B20DEF473
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Inspired by Oxtail Jus for Prime Rib from The Food Lab. Make a bunch of this for Prime Rib and keep it frozen for other things.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 Tbsp light oil</li>
 <li>3 lb or so of oxtail (cut into segments)</li>
 <li>1 carrot, chopped</li>
@@ -102,7 +102,7 @@ uid: F604EADB-25AC-44AC-9DC1-75246C0FB483-641-0000509B20DEF473
 <li>4 cups of [[chicken-stock|Chicken Stock]]</li>
 <li>Salt and pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/oxtail-jus-11.jpg" alt="ingredients" /></p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p><img src="/images/recipes/oxtail-jus-11.jpg" alt="ingredients" /></p>
 <p><img src="/images/recipes/oxtail-jus-6.jpg" alt="whole oxtail" /></p>
 <p><img src="/images/recipes/oxtail-jus-4.jpg" alt="chopping" /></p>
 <p><img src="/images/recipes/oxtail-jus-10.jpg" alt="sear" /></p>

@@ -31,9 +31,9 @@ total_time: null
 type: null
 uid: 91CD9162-7835-4CC9-B522-DB0E44D8E2FA-408-00004F9A26F3CDCD
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>50 g unsalted butter, in pieces, plus extra to grease</li>
 <li>300 g milk</li>
 <li>2 tsp dried instant yeast</li>
@@ -42,4 +42,4 @@ uid: 91CD9162-7835-4CC9-B522-DB0E44D8E2FA-408-00004F9A26F3CDCD
 <li>1 ½ tsp salt</li>
 <li>1 large egg, lightly whisked, for glazing</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

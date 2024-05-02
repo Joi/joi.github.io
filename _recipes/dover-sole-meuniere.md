@@ -43,13 +43,13 @@ total_time: null
 type: null
 uid: 7270F200-1ACF-436B-B042-C40410A9A6A0-96025-000324221A61F300
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Ask your butcher to clean the fish for you. It is important to not season the sauce too much before adding the capers because of their high salt content.</p>
 <p>My Private Notes</p>
 <p>Add a Note</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 to 2 cups quick-mixing flour, such as Wondra</li>
 <li>Kosher salt and freshly ground black pepper</li>
 <li>One 1- to 2-pound Dover sole, peeled and skirts trimmed</li>
@@ -59,4 +59,4 @@ uid: 7270F200-1ACF-436B-B042-C40410A9A6A0-96025-000324221A61F300
 <li>2 tablespoons capers</li>
 <li>2 tablespoons fresh parsley leaves, finely minced</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

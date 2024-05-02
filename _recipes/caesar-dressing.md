@@ -46,9 +46,9 @@ total_time: null
 type: null
 uid: C1A56159-8227-4071-8D23-0B7E8B0C9DD8-631-00014D1E9E54D0EF
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 salt-packed anchovies (or 8 filets), soaked and fileted 3 /4 cup stiff Basic Mayonnaise</li>
 <li>1 garlic clove, finely grated or pounded with a pinch of salt 3 to 4 tablespoons lemon juice</li>
 <li>1 teaspoon white wine vinegar</li>
@@ -56,4 +56,4 @@ uid: C1A56159-8227-4071-8D23-0B7E8B0C9DD8-631-00014D1E9E54D0EF
 <li>Freshly ground black pepper</li>
 <li>Salt</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

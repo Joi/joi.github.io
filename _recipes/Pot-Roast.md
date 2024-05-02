@@ -46,9 +46,9 @@ total_time: null
 type: null
 uid: 9E51E154-F0B2-46FC-BF16-AF76BFEC11E9-16595-00014AA0B768B050
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 pound boneless beef chuck roast</li>
 <li>Kosher salt and ground black pepper</li>
 <li>3 tablespoons canola oil</li>
@@ -66,4 +66,4 @@ uid: 9E51E154-F0B2-46FC-BF16-AF76BFEC11E9-16595-00014AA0B768B050
 <li>1 ½ cups red wine, preferably cabernet</li>
 <li>4 cups beef broth</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

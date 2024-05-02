@@ -37,9 +37,9 @@ total_time: null
 type: null
 uid: 13192CCB-2867-4B1E-B410-8C395AD675BB-11348-0000079E3EE15275
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>4 (6- to 8-ounce) skinless haddock filets, 1 inch thick</li>
 <li>Salt and pepper</li>
@@ -52,4 +52,4 @@ uid: 13192CCB-2867-4B1E-B410-8C395AD675BB-11348-0000079E3EE15275
 <li>1 pound green beans, trimmed</li>
 <li>2 garlic cloves, minced</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

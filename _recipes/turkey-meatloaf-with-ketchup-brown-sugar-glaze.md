@@ -53,9 +53,9 @@ total_time: null
 type: null
 uid: 1BC1B184-7B69-45A5-B9D9-C93CB14781CC-13891-0000ABD2789F5290
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>Meatloaf</li>
 <li>3 tablespoons unsalted butter</li>
@@ -78,4 +78,4 @@ uid: 1BC1B184-7B69-45A5-B9D9-C93CB14781CC-13891-0000ABD2789F5290
 <li>2 ½ teaspoons cider vinegar</li>
 <li>½ teaspoon hot sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

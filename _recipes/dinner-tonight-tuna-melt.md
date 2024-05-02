@@ -47,9 +47,9 @@ total_time: null
 type: null
 uid: 79FB1554-05DD-4616-8CCD-565BF99F61FC-88379-00054987806B3388
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 6-ounce can of oil-packed tuna, drained</li>
 <li>3 tablespoons mayonnaise</li>
 <li>1/2 teaspoon fresh lemon juice</li>
@@ -60,4 +60,4 @@ uid: 79FB1554-05DD-4616-8CCD-565BF99F61FC-88379-00054987806B3388
 <li>4 slices multigrain or sourdough bread (2 if you are doing an open-faced sandwich)</li>
 <li>2 slices of Swiss cheese</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>
