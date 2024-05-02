@@ -38,7 +38,14 @@ which happen to correspond/define the page.title and page.note vars
 	<div class="medium-3 columns" id="right-margin">
 
 		{% comment %} 
-    {% include backlinks.html %}
+    {% include backlinks_compute.html %}
+    {{ backlinks }}
+    {% if has_backlinks == true %}
+    <div class="columns large-5 small-12" id="backlinks">
+      <div class="bgc-lorange">{% include backlinks_render.html %}</div>
+      &nbsp;
+    </div>
+    {% endif %}
     {% assign rbdm_dict = site.data.meals_indices.recipe_by_date_and_meal[key_date][key_meal] %}
     {% if rbdm_dict %}
       <h4 class="marker">Recipes prepared</h4>

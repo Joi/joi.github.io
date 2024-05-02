@@ -19,6 +19,7 @@
   <link rel="stylesheet" href="https://joi.ito.com/_site/css/foundation.css" type="text/css">
   <link rel="stylesheet" href="https://joi.ito.com/_site/css/joi.css" type="text/css">
   <link rel="stylesheet" href="/css/simply.css?ud=2021-05-29" type="text/css">
+  <link rel="stylesheet" href="/css/cooking.css?ud=2024-05-02" type="text/css">
   <link rel="stylesheet" href="https://joi.ito.com/_site/css/print.css" type="text/css">
   <style>
     .recipes {
@@ -37,7 +38,7 @@
   Commenting this bit out as it may trigger $ … $ parsing
   <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
-      tex2jax: {
+      tex2jax: {a
         inlineMath: [ ['$','$'], ["\\(","\\)"] ],
         processEscapes: true
       }
@@ -52,7 +53,7 @@
 
 <div class="top-bar">
   <div class="row medium-uncollapse small-collapse">
-    <div class="columns small-9 medium-3">
+    <div class="columns small-6 medium-3">
       <a id="joilogo" href="/" title="Joi Ito's Cooking" accesskey="1"><img src="/images/joi-ito-cooking-300x135.png" alt="Joi Ito [logo]" width="140" height="63" /></a> 
       <h1 id="header-name">
         <a href="/" accesskey="1">Joi Ito's Cooking</a>
@@ -61,17 +62,9 @@
         Joi Ito's cookin' on the living web.
       </h2>
     </div>
-    <div class="columns small-3 medium-9">
+    <div class="columns small-5 medium-9">
       {% comment %}<div class="top-bar-left"></div>{% endcomment %}
       <div class="top-bar-right">
-        {% comment %} <div id="header-menu">
-          <ul class="menu">
-            <li><a href="https://joi.ito.com/" title="Joi Ito - Weblog">Blog</a></li>
-            <li><a href="https://joi.ito.com/jp/" title="Joi Ito - 日本語 / Japanese Weblog">日本語</a></li>
-            <li><a href="https://joi.ito.com/bio.html" title="Joi Ito's Bio">Bio</a></li>
-            <li><a href="http://diving.ito.com/" title="Joi Ito - Diving Blog">Diving</a></li>
-          </ul>
-        </div> {% endcomment %}
 
         {% include cooking_navbar.html %}
 
@@ -89,21 +82,24 @@
 {{ content }} 
 
 <footer>
-  <div class="row columns">
-    <div class="float-right" id="badges">
+  <div class="row">
+
+    <div class="column small-6" id="contact">
+      <a id="joi-ito-portrait" href="https://en.wikipedia.org/wiki/Joi_Ito" title="Joi Ito">
+        <img src="https://joi.ito.com/_site/img/Joi-Ito-Portrait-256px.jpg" width="64" height="64" alt="Joi Ito" border="0" />
+      </a> 
+      <a id="joi-contact" href="mailto:joi@ito.com?Subject=Note%20from%20Cooking" target="_top">
+        Joi Ito
+      </a>
+    </div>
+    
+    <div class="column small-6 text-right" id="license">
       <a id="cc" rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="Creative Commons Attribution 4.0 (BY) - more information"><img alt="Creative Commons License" src="https://joi.ito.com/_site/img/CC-BY-4.0-Badge-360x120.png" /></a> 
       <div class="is-hidden">
         <span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/Text" property="dc:title" rel="dc:type">Joi Ito's Weblog</span> by <a xmlns:cc="https://creativecommons.org/ns#" href="https://joi.ito.com/" property="cc:attributionName" rel="cc:attributionURL">Joi Ito</a> is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
       </div>
     </div>
-    <div class="float-left" id="techpro">
-      <a href="https://en.wikipedia.org/wiki/Joi_Ito" title="Joi Ito"><img id="joi-ito-portrait" src="https://joi.ito.com/_site/img/Joi-Ito-Portrait-256px.jpg" width="64" height="64" alt="Joi Ito" border="0" /></a> 
-    </div>
-    <div class="float-left" id="credits">
-      <a id="joi-contact" href="mailto:joi@ito.com?Subject=Note%20from%20Cooking" target="_top">Joi Ito</a><br>
-      <a id="orcid-link" href="https://orcid.org/0000-0002-5136-8978" title="Joichi Ito on ORCiD"><img src="https://joi.ito.com/_site/img/flourish/ORCiD.png" alt="ORCiD"> ORCiD: 0000-0002-5136-8978</a><br>
-      <a id="linkedin-link" href="https://www.linkedin.com/in/joiito"><img width="80" height="15" border="0" alt="View Joichi Ito's profile on LinkedIn" src="https://joi.ito.com/_site/img/services/Linked-in.png" /></a><br>
-    </div>
+
   </div>
 </footer>
 

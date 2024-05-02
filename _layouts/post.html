@@ -3,11 +3,7 @@ layout: default
 ---
 <!-- template: post.html -->
 <div class="row" id="">
-	{%- comment -%}
-	<div class="medium-2 columns" id="left-margin">
-		&nbsp;
-	</div>
-	{%- endcomment -%}
+
 	<div class="medium-9 columns" id="main">
 
 		<h3>{{ page.title }}</h3>
@@ -19,7 +15,14 @@ layout: default
 
 	</div>
 	<div class="medium-3 columns" id="right-margin">
-		{%- comment -%}{%- include backlinks.html -%}{%- endcomment -%}
+		{%- comment -%}
+			{% include backlinks_compute.html %}
+			{% if has_backlinks == true %}
+			<div class="columns large-5 small-12" id="backlinks">
+				<div class="bgc-lorange">{% include backlinks_render.html %}</div>
+			</div>
+			{% endif %}
+		{%- endcomment -%}
 		{% for tag in page.tags %}
       {% if tag %}
       {% assign tag_lc = tag | downcase %}

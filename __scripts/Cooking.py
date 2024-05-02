@@ -1017,7 +1017,7 @@ for result in recipes_results:
     output2 += "---\n"
 
     # We open Row One and include  _includes/backlinks.html in the _layouts/recipe.html tempplate.
-    output2 += '<div class="large-8 medium-7 columns" id="writeup">'
+    output2 += '<div class="columns large-7 small-12" id="writeup">'
     if result2['mine']:
         if content['html']['description']:
             output2 += '\t\t<div id="description"><h4>Description</h4>\n<div class="box box-description content">' + \
@@ -1029,12 +1029,12 @@ for result in recipes_results:
     output2 += '</div><!-- #row-one -->\n'
 
     output2 += '<div class="row" id="row-two">'
-    output2 += '\t<div class="medium-4 small-5 columns" id="ingredients">'
+    output2 += '\t<div class="columns large-4 small-12" id="ingredients">'
     if content['html']['ingredients']:
         output2 += '<h4>Ingredients</h4><div class="box box-ingredients content">' + \
             content['html']['ingredients'] + '</div>'
     output2 += '\t</div>'
-    output2 += '\t<div class="medium-6 small-7 columns" id="directions">'
+    output2 += '\t<div class="columns large-6 small-12" id="directions">'
     if result2['mine']:
         if content['html']['directions']:
             output2 += '<h4>Directions</h4><div class="box box-directions content">' + \

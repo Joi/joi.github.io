@@ -4,7 +4,7 @@ layout: default
 <!-- template: page.html -->
 
 <div class="row" id="title">
-	<div class="small-12 columns">
+	<div class="columns small-12">
     <div class="page-header">
       <div class="sup-head"><a href="/pages/" title="Pages Directory">Pages</a></div>
       <div class="title">{{ page.title }}</div>
@@ -19,16 +19,19 @@ layout: default
 
 <div class="row" id="">
 
-	<div class="medium-9 columns" id="main">
+	<div class="columns medium-9" id="main">
 
-		<h3></h3>
     <div class="content">
       {%- include content.html -%}
     </div>
 	</div>
-	<div class="medium-3 columns" id="right-margin">
-    {%- comment -%}{%- endcomment -%}
-    {%- include backlinks.html -%}
-	</div>
+
+  {% include backlinks_compute.html %}
+  {% if has_backlinks == true %}
+    <div class="columns medium-3" id="right-margin">
+      <div class="bgc-lorange">{% include backlinks_render.html %}</div>
+    </div>
+  {% endif %}
+
 </div>
 <!-- /template: page.html -->

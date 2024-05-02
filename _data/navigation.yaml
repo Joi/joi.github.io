@@ -1,7 +1,7 @@
-- am_i : 'home'
-  path: '/'
-  title: 'Home'
-  label: 'Home'
+# - am_i : 'home'
+#   path: '/'
+#   title: 'Home'
+#   label: 'Home'
 
 - am_i: 'recipe'
   path: '/recipes/'

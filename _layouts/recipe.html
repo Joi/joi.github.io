@@ -66,7 +66,7 @@ layout: default
 {% if photo_hero %}
 <!-- Hero Banner Photo -->
 <div class="row" id="big-photo">
-	<div class="small-12 columns">
+	<div class="columns small-12">
 		<img src="/images/recipes/{{photo_hero}}">
 	</div>
 </div>
@@ -85,14 +85,17 @@ Hacky, but it works.
 - B. 2021-03-05
 {% endcomment %}
 <div class="row" id="row-one">
-  <div class="large-4 medium-5 columns" id="backlinks">
-    <div class="bgc-lorange">{% include backlinks.html %}</div>
-    &nbsp;
+
+  {% include backlinks_compute.html %}
+  {% if has_backlinks == true %}
+  <div class="columns large-5 small-12" id="backlinks">
+    <div class="bgc-lorange">{% include backlinks_render.html %}</div>
   </div>
+  {% endif %}
 
   {% include content.html %}
 
-  <div class="medium-2 columns" id="meal-notes">
+  <div class="columns large-2 small-12" id="meal-notes">
   
     {% comment %}
       Here we take the current Recipe's Paprika ID and use it as a key

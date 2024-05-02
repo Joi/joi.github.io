@@ -1,0 +1,22 @@
+{%- assign wiki_link_title = '[' | append: page_title_slug | append: '' -%}
+<!-- Begin Backlinks -->
+<h4 class="marker fgc-orange">I refer to this {{ page.i_am }} in</h4>
+<div class="box box-backlinks">
+
+  {%- for link_origin in site.documents -%}
+    {%- if link_origin.url != page.url -%}
+      {%- if link_origin.i_am != 'note' -%}
+        {%- if link_origin.content contains wiki_link_title -%}
+
+          <div class="related-group"><a href="{{link_origin.url}}">
+            <p class="related-title"><!--{{link_origin.date | date: "%F"}} - -->{{ link_origin.title }}</p>
+            <p class="related-excerpt">{{ link_origin.content | markdownify | strip_html | truncate: 140 }}</p>
+          </a></div>
+
+        {%- endif -%}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+</div>
+<!-- / End Backlinks -->
