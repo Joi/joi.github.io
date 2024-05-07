@@ -19,12 +19,16 @@ USED IN:
   padding: 10px 4em 0 0;
 }
 .has_photo {
-  height:300px;
-  position:relative;
+  /* height:300px; */
+  position: relative;
+  aspect-ratio: 16 / 9;
+}
+a.title.has_photo {
+  border-image: linear-gradient(45deg, #fafafa 30%, #fafafacc 49%, #fff0 90%) 0 0 50% 0 / 0 0 5rem 0;
 }
 .has_photo .meal_title_block {
-  background: rgba(255,255,255,1);
-  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 55%, rgba(255,255,255,0.1) 100%);
+  /* background: rgba(255,255,255,1);
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 55%, rgba(255,255,255,0.1) 100%); */
   border-radius: 0 0 0 0;
   bottom: 0;
   position:absolute;
