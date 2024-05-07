@@ -42,9 +42,9 @@ total_time: null
 type: null
 uid: 132BA0AE-E5F0-422C-9C17-8D9C0AB0E59D-50715-000C69A572891ED3
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon kosher salt</li>
 <li>1 tablespoon light brown sugar</li>
 <li>1 tablespoon paprika</li>
@@ -54,4 +54,4 @@ uid: 132BA0AE-E5F0-422C-9C17-8D9C0AB0E59D-50715-000C69A572891ED3
 <li>One (6 1/2- to 8-pound) bone-in pork butt (aka pork shoulder) or two 3 1/2- to 4-pound pork butts</li>
 <li>Your favorite barbecue sauce (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

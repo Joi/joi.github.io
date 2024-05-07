@@ -63,9 +63,9 @@ total_time: null
 type: null
 uid: B0762B4A-27AB-4C9D-928A-2200778DB039
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 duck legs</li>
 <li>1/4 cup Shaoxing wine (can substitute clear rice wine or cooking sherry)</li>
 <li>2 cups low sodium chicken stock</li>
@@ -79,4 +79,4 @@ uid: B0762B4A-27AB-4C9D-928A-2200778DB039
 <li>1 star anise (optional)</li>
 <li>1 bay leaf (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

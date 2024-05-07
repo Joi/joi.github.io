@@ -55,9 +55,9 @@ total_time: null
 type: null
 uid: 1A74E878-5E32-4516-990D-B8BCF4897175-13002-0005AFC76486770F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 beef rib rack, membrane removed</li>
 <li>2 tsp salt</li>
 <li>1/4 tsp pepper</li>
@@ -70,4 +70,4 @@ uid: 1A74E878-5E32-4516-990D-B8BCF4897175-13002-0005AFC76486770F
 <li>1 cup apple cider vinegar</li>
 <li>BBQ Sauce, of choice</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

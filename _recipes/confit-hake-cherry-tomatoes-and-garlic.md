@@ -45,12 +45,12 @@ total_time: null
 type: null
 uid: 9DF14314-10CE-4B72-B3F1-C9D3C903EF6F-16960-000008A2BD817715
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>green salad dressed with sherry vinegar, to serve
 crusty bread to serve</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 bunches cherry tomatoes on the vine (about 225g)</li>
 <li>fennel a small bulb, thinly sliced</li>
 <li>2 red peppers, cut into quarters</li>
@@ -61,4 +61,4 @@ crusty bread to serve</p>
 <li>about 1.5 litres olive oil</li>
 <li>4 hake fillets</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

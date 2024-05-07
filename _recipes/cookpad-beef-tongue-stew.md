@@ -39,9 +39,9 @@ total_time: null
 type: null
 uid: A2496B0D-E569-4BC8-9573-D707E226C9E0-2569-000001B683E8DBD3
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 Beef tongue</li>
 <li>Aromatic vegetables</li>
 <li>1 can Canned tomatoes</li>
@@ -49,4 +49,4 @@ uid: A2496B0D-E569-4BC8-9573-D707E226C9E0-2569-000001B683E8DBD3
 <li><em>Flour and butter to make a roux</em></li>
 <li>400 ml Red wine</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

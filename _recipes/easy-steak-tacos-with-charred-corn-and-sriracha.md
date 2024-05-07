@@ -37,9 +37,9 @@ total_time: null
 type: null
 uid: B17B95E2-3E64-4E2C-95B4-9758F73B3B79-83078-00002EF0CCE24076
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 1/2 teaspoons ground cumin</li>
 <li>1 1/2 teaspoons ground coriander</li>
 <li>1 tablespoon chili powder</li>
@@ -57,4 +57,4 @@ uid: B17B95E2-3E64-4E2C-95B4-9758F73B3B79-83078-00002EF0CCE24076
 <li>Greek yogurt, for serving</li>
 <li>Sriracha, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

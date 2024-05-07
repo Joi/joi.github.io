@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: 946A1415-F2AA-4840-B4C2-BF0974488278-9482-0000064C5993610E
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6 tablespoons olive oil</li>
 <li>½ cup blanched almonds (preferably Marcona)</li>
 <li>½ cup country bread, torn into small pieces</li>
@@ -52,4 +52,4 @@ uid: 946A1415-F2AA-4840-B4C2-BF0974488278-9482-0000064C5993610E
 <li>1 cup chicken broth</li>
 <li>½ cup pitted green olives</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

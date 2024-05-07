@@ -35,9 +35,9 @@ total_time: null
 type: null
 uid: 67FA455B-BC4A-4ED4-A76B-E4B0B6C9691F-29053-0004FDC50F2E56F7
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/2 small (2-pound) green cabbage, cored and very thinly sliced (about 4 cups)</li>
 <li>1/2 medium white onion, peeled and very thinly sliced (about 1/2 cup)</li>
 <li>2 carrots, peeled and shredded (about 1/2 cup)</li>
@@ -46,4 +46,4 @@ uid: 67FA455B-BC4A-4ED4-A76B-E4B0B6C9691F-29053-0004FDC50F2E56F7
 <li>2 teaspoons sugar</li>
 <li>1 teaspoon kosher salt</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

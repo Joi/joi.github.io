@@ -97,11 +97,11 @@ total_time: null
 type: null
 uid: 38671B20-78DF-4FD9-AFFB-C105A172BBDB-2310-0000EC521E0EC0EE
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Recipe is work in progress. I went very slow and low, but I think that going a little hotter might be better.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Beef tongue</li>
 <li>Onions</li>
 <li>Carrots</li>
@@ -126,7 +126,7 @@ uid: 38671B20-78DF-4FD9-AFFB-C105A172BBDB-2310-0000EC521E0EC0EE
 <li>Parsley</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Preheat oven to 225ºF.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Preheat oven to 225ºF.</p>
 <p>Soak beef tongue in hot water with salt for awhile to remove some of the smell and blood.</p>
 <p>Put tongue and aromatics in stock in a Dutch oven and bring to boil.</p>
 <p>Put Dutch oven covered in oven.</p>

@@ -47,9 +47,9 @@ total_time: null
 type: null
 uid: 63C6D918-6027-4F87-95BD-6A4D2845F30C-4647-0000B41A34AB568A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>14 oz/400g ground beef
 1 medium onion, finely chopped (scant 1 cup/ 140g)
 3 cups/ 120g fresh white breadcrumbs (from about 4 slices, crusts removed)
@@ -66,4 +66,4 @@ salt and black pepper
 2 cups/500 ml chicken stock
 3 1/2 tbsp lemon juice</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

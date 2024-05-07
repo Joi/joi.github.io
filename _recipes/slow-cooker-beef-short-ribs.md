@@ -52,9 +52,9 @@ total_time: null
 type: null
 uid: 0F6BB6C3-A267-4D8A-80C0-103F1CE9DF36-42209-0000227129F0FA3A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 lbs beef short ribs</li>
 <li>1 teaspoon salt</li>
 <li>1 teaspoon pepper</li>
@@ -67,4 +67,4 @@ uid: 0F6BB6C3-A267-4D8A-80C0-103F1CE9DF36-42209-0000227129F0FA3A
 <li>1 tablespoon cornstarch</li>
 <li>optional crusty French bread</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

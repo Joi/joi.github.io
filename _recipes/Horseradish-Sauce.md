@@ -45,7 +45,7 @@ total_time: null
 type: null
 uid: EC595FE1-4031-41AB-8691-CD7CA7131526-24647-00000FABE7C420F3
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>If you enjoy a stronger horseradish sauce, add more prepared horseradish to taste.</p>
 <p>Another recipe:</p>
 <p>2 cups crème fraîche
@@ -53,7 +53,7 @@ uid: EC595FE1-4031-41AB-8691-CD7CA7131526-24647-00000FABE7C420F3
 Grated zest of half an orange</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/2 cup sour cream</li>
 <li>2 Tbsp prepared horseradish drained</li>
 <li>2 Tbsp mayo</li>
@@ -62,4 +62,4 @@ Grated zest of half an orange</p>
 <li>1/8 tsp black pepper</li>
 <li>1 Tbsp chives finely chopped</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

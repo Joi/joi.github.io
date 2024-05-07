@@ -49,14 +49,14 @@ total_time: null
 type: null
 uid: 3C7746C0-A932-4C54-9E0B-7306F0D06E9C-12850-00028F54981CD2F6
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>You may skip the whole spices but they release a nice aroma when added to the hot oil.</p>
 <p>The amount of water to use may vary as it depends on the age of the chicken used. Older chicken requires more water. So pour water just as needed.</p>
 <p>If you do not have a powerful blender, you may blend the onions and onions with half cup water called in the recipe.</p>
 <p>Alternative quantities provided in the recipe card are for 1x only, original recipe.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Preparation for chicken korma</li>
 <li>
 <ol>
@@ -103,4 +103,4 @@ uid: 3C7746C0-A932-4C54-9E0B-7306F0D06E9C-12850-00028F54981CD2F6
 <li>¼ teaspoon red chili powder (optional, for color)</li>
 <li>3 tablespoons coriander leaves (cilantro) chopped</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

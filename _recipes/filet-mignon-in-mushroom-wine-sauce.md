@@ -61,11 +61,11 @@ total_time: null
 type: null
 uid: 2178D961-6FD7-4D18-86D5-D96953BACD23-1700-00008335CC63C5B9
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Thinner steaks will cook faster and thicker steaks can take longer.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 Tbsp unsalted butter divided</li>
 <li>2 Tbsp olive oil divided</li>
 <li>16 oz baby bella mushrooms thickly sliced</li>
@@ -78,4 +78,4 @@ uid: 2178D961-6FD7-4D18-86D5-D96953BACD23-1700-00008335CC63C5B9
 <li>1/2 cup heavy whipping cream</li>
 <li>Salt and Pepper to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

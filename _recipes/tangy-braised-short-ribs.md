@@ -37,9 +37,9 @@ total_time: null
 type: null
 uid: 4723D73D-E07E-4FBB-9693-89BBA7D4E7B4-16595-0003B18702CFF3EE
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>5 pounds bone-in short ribs, at least 1 1/2-inch thick, cut into single bone portions (or 3 1/2 to 4 pounds boneless, at least 1 1/2-inch thick)</li>
 <li>Kosher salt and freshly ground black pepper</li>
 <li>3 tablespoon vegetable or canola oil</li>
@@ -55,4 +55,4 @@ uid: 4723D73D-E07E-4FBB-9693-89BBA7D4E7B4-16595-0003B18702CFF3EE
 <li>Flaky sea salt</li>
 <li>3 lemons, halved, for juicing</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

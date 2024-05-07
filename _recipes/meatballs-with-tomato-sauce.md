@@ -39,9 +39,9 @@ total_time: null
 type: null
 uid: 5B4116BF-6F4A-4E56-B458-15BC1D12942F-25037-00009F51FB96AA6B
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Meatballs</li>
 <li>2 oz bread, fresh or stale, cubed</li>
 <li>3 oz whole milk</li>
@@ -60,4 +60,4 @@ uid: 5B4116BF-6F4A-4E56-B458-15BC1D12942F-25037-00009F51FB96AA6B
 <li>1 tsp salt</li>
 <li>1 pinch ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

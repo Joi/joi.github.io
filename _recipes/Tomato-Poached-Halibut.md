@@ -53,9 +53,9 @@ total_time: null
 type: null
 uid: 8CD26E14-3D18-4D2C-8D22-0C790E629F2B-2643-000000EA7A75D928
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tablespoon olive oil</li>
 <li>2 poblano peppers, finely chopped</li>
 <li>1 small onion, finely chopped</li>
@@ -70,4 +70,4 @@ uid: 8CD26E14-3D18-4D2C-8D22-0C790E629F2B-2643-000000EA7A75D928
 <li>4 lemon wedges</li>
 <li>Crusty whole grain bread, optional</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

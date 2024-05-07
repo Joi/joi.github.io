@@ -66,14 +66,14 @@ total_time: null
 type: null
 uid: F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Keep chicken parts and veggies like leeks, celery greens and parsley stems in freezer until out of frozen chicken stock or freezer is full of frozen chicken parts. Make the stock and freeze in quart bags and make ¼ cup cubes with big ice maker mold. Use stock for everything.</p>
 <p>Inspired by Nosrat's recipe in <em>Salt, Fat, Acid, Heat</em>.</p>
 </div></div>		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Chef Robert Harris suggested that the aromatics shouldn't be added until about 1 ½ hours before you're done since they don't improve with super-long heating.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>7 lb chicken parts</li>
 <li>7 qt water</li>
 <li>2 onions, unpeeled, quartered</li>
@@ -85,7 +85,7 @@ uid: F0F29EE3-22FD-469C-A417-B0529703B7C5-13002-000592E9511DDB5C
 <li>5 parsley sprigs or 10 stems</li>
 <li>1 tsp white wine vinegar</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Put chicken parts, veggies and spices in big stock pot - I use a lobster pot. Some people put half or all vegetables in 1 hour before you finish to get a fresher taste from the vegetables. Remember - <strong>NO SALT</strong>. Save the salt for whatever cooking you will use the stock in.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Put chicken parts, veggies and spices in big stock pot - I use a lobster pot. Some people put half or all vegetables in 1 hour before you finish to get a fresher taste from the vegetables. Remember - <strong>NO SALT</strong>. Save the salt for whatever cooking you will use the stock in.</p>
 <p>Put spices in a bouquet garni bag to if you want to keep things tidy.</p>
 <p>Add water and bring to a boil over high heat and then turn down to a simmer. Skim the foam and add the vinegar.</p>
 <p>Simmer uncovered for 6 to 8 hours. Never boil or allow to &quot;roll&quot; if you want to stock to stay clear.</p>

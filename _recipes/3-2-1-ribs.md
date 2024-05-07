@@ -40,9 +40,9 @@ total_time: null
 type: null
 uid: 8465AC45-FF66-40FB-B9DF-708043BDB498-1710-00000127FE86DE3D
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 rack baby back ribs</li>
 <li>2 tbsp Signature Sweet Rub</li>
 <li>1 cup apple cider (apple juice also works)</li>
@@ -50,4 +50,4 @@ uid: 8465AC45-FF66-40FB-B9DF-708043BDB498-1710-00000127FE86DE3D
 <li>2-3 tbsp salted butter</li>
 <li>1/2 cup BBQ sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

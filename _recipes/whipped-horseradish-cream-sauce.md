@@ -39,13 +39,13 @@ total_time: null
 type: null
 uid: 7B5FB550-94DE-49BD-B637-98DDFDE388AF-27386-00004BB5714C9581
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/2 pint heavy cream</li>
 <li>1 tablespoon lemon zest</li>
 <li>1-2 tablespoons horseradish drained (more if you want it to clear your sinuses)</li>
 <li>1/4 teaspoon fine sea salt</li>
 <li>1/8 teaspoon black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

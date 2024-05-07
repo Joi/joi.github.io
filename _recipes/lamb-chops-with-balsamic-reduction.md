@@ -32,9 +32,9 @@ total_time: null
 type: null
 uid: CF13A615-D8DB-4892-8DB0-899A104CEC15-66769-00003583266CAEEC
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>¾ teaspoon dried rosemary</li>
 <li>¼ teaspoon dried basil</li>
 <li>½ teaspoon dried thyme</li>
@@ -46,4 +46,4 @@ uid: CF13A615-D8DB-4892-8DB0-899A104CEC15-66769-00003583266CAEEC
 <li>¾ cup chicken broth</li>
 <li>1 tablespoon butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

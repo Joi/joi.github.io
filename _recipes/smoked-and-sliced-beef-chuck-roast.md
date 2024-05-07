@@ -35,11 +35,11 @@ total_time: null
 type: null
 uid: F72115CA-0E79-4216-98A1-70D07F6B394A-60850-000021BAF7931CC1
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 beef chuck roast with or without bone (approximately 3 pounds)</li>
 <li>1/2 teaspoon Morton's coarse kosher salt per pound of meat (read more about the science of salt here)</li>
 <li>Coarsely ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

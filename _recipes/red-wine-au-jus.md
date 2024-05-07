@@ -35,13 +35,13 @@ total_time: null
 type: null
 uid: 4C8258D7-7836-4989-A668-7787727C055C
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Note 1: You can use 100% beef dripping from the prime rib, 100% butter, or a combo of the two. Using beef drippings will provide a beefier final flavor, however prime rib doesn't give off a ton of drippings, unlike other large beef roasts.</p>
 <p>Note 2: The salt level in beef consommé and stock vary greatly by brand. DO NOT add salt to the au jus until the very end after you've tasted it to gauge the saltiness. It's also important to keep in mind the salt level of the prime rib crust when salting.</p>
 <p>Note 3: We love using Pinot Noir when making the red wine au jus. Any bold dry red wine will work, however.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Classic Prime Rib Au Jus:</li>
 <li>2 tbsp Beef Drippings or Unsalted Butter (*Note 1)</li>
 <li>2 tbsp All-purpose Flour</li>
@@ -60,4 +60,4 @@ uid: 4C8258D7-7836-4989-A668-7787727C055C
 <li>Sea Salt, To Taste (*Note 2)</li>
 <li>Black Pepper, To Taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

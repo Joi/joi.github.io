@@ -50,9 +50,9 @@ total_time: null
 type: null
 uid: CB6C7A4A-2F73-44D5-AC51-E12EB842AD85-29546-00061091B920E83D
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>One bluefish fillet (1/2 pound to 1 pound)</li>
 <li>Kosher salt</li>
 <li>Freshly ground black pepper</li>
@@ -62,4 +62,4 @@ uid: CB6C7A4A-2F73-44D5-AC51-E12EB842AD85-29546-00061091B920E83D
 <li>3 Tbsp dry white wine</li>
 <li>2 Tbsp lemon juice</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

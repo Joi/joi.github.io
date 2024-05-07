@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: C8932AE3-0033-4475-BFF5-62B3DA9732F9-5486-000003B89CA6636D
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Meat Sauce:</li>
 <li>0.5 tablespoon olive oil</li>
 <li>0.5 onion, finely chopped</li>
@@ -65,4 +65,4 @@ uid: C8932AE3-0033-4475-BFF5-62B3DA9732F9-5486-000003B89CA6636D
 <li>8.5 ounces (500 grams) fresh mozzarella cheese, shredded</li>
 <li>1 tablespoons finely chopped fresh parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

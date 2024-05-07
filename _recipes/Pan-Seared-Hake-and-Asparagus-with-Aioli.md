@@ -44,9 +44,9 @@ total_time: null
 type: null
 uid: 7F78231B-E31F-48EE-BE37-E7A5A9A2A08C-39436-000013D1319F8269
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>FOR THE AIOLI:</li>
 <li>1 to 2 garlic cloves, finely grated or mashed to a paste, or use 1 tablespoon minced green garlic</li>
 <li>½ teaspoon lemon juice, more to taste</li>
@@ -64,4 +64,4 @@ uid: 7F78231B-E31F-48EE-BE37-E7A5A9A2A08C-39436-000013D1319F8269
 <li>1 ½ pounds asparagus, woody ends trimmed, cut into 1 1/4-inch pieces</li>
 <li>2 red or regular scallions, thinly sliced</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -37,9 +37,9 @@ total_time: null
 type: null
 uid: 6CC84790-1010-48A2-8720-1766D78708EE-13891-0000A740E9DE8711
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 pounds boneless lamb shoulder, cut in 3-inch pieces</li>
 <li>Salt and pepper</li>
 <li>Extra-virgin olive oil</li>
@@ -60,4 +60,4 @@ uid: 6CC84790-1010-48A2-8720-1766D78708EE-13891-0000A740E9DE8711
 <li>3 tablespoons chopped celery heart leaves</li>
 <li>4 hard-cooked eggs (8 to 9 minutes) at room temperature, for garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

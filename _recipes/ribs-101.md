@@ -39,9 +39,9 @@ total_time: null
 type: null
 uid: DC307AB4-84E8-4F1E-8ADA-F984DF0059B1
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 rack Pork ribs</li>
 <li>½ cup Brown sugar (100g)</li>
 <li>1 Tbsp Kosher salt (18g)</li>
@@ -49,4 +49,4 @@ uid: DC307AB4-84E8-4F1E-8ADA-F984DF0059B1
 <li>2 tsp Onion powder (8g)</li>
 <li>2 tsp Paprika (6g)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

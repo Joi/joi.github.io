@@ -44,7 +44,7 @@ total_time: null
 type: null
 uid: 0219F138-40D0-4824-A931-1EFA48339B46-1866-00001C3CB0B4767A
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p><strong>Pico de Gallo</strong></p>
 <p>1½ pounds ripe tomatoes, cut into ¼- to ½-inch dice (about
 3 cups, see Note above)
@@ -57,7 +57,7 @@ Kosher salt
 <p>Combine with onion, chiles, cilantro, and lime juice.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ cup soy sauce</li>
 <li>½ cup lime juice (from 6 to 8 limes)</li>
 <li>½ cup canola oil</li>
@@ -76,4 +76,4 @@ Kosher salt
 <li>1 recipe Pico de Gallo</li>
 <li>Guacamole, sour cream, shredded cheese, and salsa, for serving, if desired</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

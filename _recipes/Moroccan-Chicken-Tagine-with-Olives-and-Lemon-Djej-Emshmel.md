@@ -54,9 +54,9 @@ total_time: null
 type: null
 uid: 224BC50D-D2EB-48F1-A2DE-9CA4A061D04C-9482-000006543D2F7DDD
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>5 medium garlic cloves, minced or pressed through a garlic press (about 5 teaspoons)</li>
 <li>1 ¼ teaspoons sweet paprika</li>
@@ -77,4 +77,4 @@ uid: 224BC50D-D2EB-48F1-A2DE-9CA4A061D04C-9482-000006543D2F7DDD
 <li>2 tablespoons chopped fresh cilantro leaves</li>
 <li>3 tablespoons juice from 1 to 2 lemons</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

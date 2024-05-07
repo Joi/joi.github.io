@@ -32,9 +32,9 @@ total_time: null
 type: null
 uid: FA7BFE3F-3E44-40CF-A9D7-A308631AADE9-631-00005366EFA82EDF
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>16 large asparagus spears (about 1 pound)</li>
 <li>1 tablespoon lemon juice, plus lemon zest to serve</li>
 <li>3 tablespoons extra virgin olive oil</li>
@@ -43,4 +43,4 @@ uid: FA7BFE3F-3E44-40CF-A9D7-A308631AADE9-631-00005366EFA82EDF
 <li>Freshly ground black pepper</li>
 <li>Red pepper flakes</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

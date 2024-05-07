@@ -51,9 +51,9 @@ total_time: null
 type: null
 uid: 8882747A-DD2F-4B5F-9AD9-984367393EB2-23547-00000F35FF5BA070
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 Tbsp balsamic vinegar</li>
 <li>1/4 cup soy sauce</li>
 <li>2 tsp rice vinegar</li>
@@ -66,4 +66,4 @@ uid: 8882747A-DD2F-4B5F-9AD9-984367393EB2-23547-00000F35FF5BA070
 <li>1/4 tsp Black pepper</li>
 <li>Fresh chopped cilantro, for garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

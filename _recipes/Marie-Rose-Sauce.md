@@ -37,11 +37,11 @@ total_time: null
 type: null
 uid: B6713303-47E6-4EC6-B28A-A94F33DE95C9-31488-00001728BCEAC9EC
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Same as Thousand Island sauce</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>⅔ cup of fresh [[mayonnaise|Mayonnaise]]</li>
 <li>1 Tbsp ketchup</li>
 <li>1 tsp Worcestershire sauce</li>
@@ -49,7 +49,7 @@ uid: B6713303-47E6-4EC6-B28A-A94F33DE95C9-31488-00001728BCEAC9EC
 <li>Tabasco sauce</li>
 <li>Pinch of paprika</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Combine everything except paprika</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Combine everything except paprika</p>
 <p>Either toss shrimp or lobster or serve on the side as a dipping sauce</p>
 <p>Sprinkle with paprika for flavor and color</p>
 </div>	</div>

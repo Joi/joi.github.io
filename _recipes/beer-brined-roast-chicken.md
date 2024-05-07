@@ -47,14 +47,14 @@ total_time: null
 type: null
 uid: 81F199C6-8CF4-4867-962F-F6F6C266A0C6-11450-000000E96D4441C2
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Preheat oven to 350 degrees F (175 degrees C).
 Roast whole (thawed) chickens for 20 minutes per pound, plus an additional 15 minutes.
 It was salty - maybe I left some brine inside of the bird.
 Also, the vegetables burned when I put it on the bottom of the oven as suggested so should be on the lower rack, not bottom of oven.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>FOR THE BRINE:</li>
 <li>1 cup kosher salt</li>
 <li>⅔ cup packed light brown sugar</li>
@@ -77,4 +77,4 @@ Also, the vegetables burned when I put it on the bottom of the oven as suggested
 <li>3 tablespoons butter, softened</li>
 <li>1 (12-ounce) bottle lager-style beer</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

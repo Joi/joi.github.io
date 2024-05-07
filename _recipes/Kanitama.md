@@ -47,11 +47,11 @@ total_time: null
 type: null
 uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Based on the <a href="https://www.kyounoryouri.jp/recipe/3406_%E3%81%8B%E3%81%AB%E3%81%9F%E3%81%BE.html">かにたま recipe from NHK's みんなのきょうの料理</a></p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>5 eggs</li>
 <li>½ pound of crab - shredded</li>
 <li>1 cup of shiitake mushrooms - sliced thin</li>
@@ -72,7 +72,7 @@ uid: 0048F96B-1E6E-4057-B4F0-DCE6DEF0E974-2310-0000D2D0C0AAF681
 <li>1 tsp soy sauce</li>
 <li>1 Tbsp potato starch dissolved in 1 Tbsp of water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Cut shiitake, bamboo shoots, ginger and green onions. Prepare shredded crab.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Cut shiitake, bamboo shoots, ginger and green onions. Prepare shredded crab.</p>
 <p>Break eggs in bowl and mix with a dash of salt, pepper, sugar and 2 tbsp of Shaoxing wine and mix gently without frothing.</p>
 <p>Combine all ingredients except potato starch for sweet and sour sauce in a bowl.</p>
 <p>Heat wok slowly to make sure that the entire wok is hot, then turn to high heat. Check for the [[leidenfrost-effect|Leidenfrost effect]], which is key to getting everything cooked properly and not stick to the pan.</p>

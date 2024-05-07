@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: 11AE3DD1-969F-4478-BA41-B82B258E171A-52325-0003BF96FFF134EE
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 fat scallions, trimmed</li>
 <li>2 tablespoons unsalted butter</li>
 <li>1 large bunch sorrel (about 4 ounces), stems trimmed</li>
@@ -52,4 +52,4 @@ uid: 11AE3DD1-969F-4478-BA41-B82B258E171A-52325-0003BF96FFF134EE
 <li>Flaky salt, like Maldon, for serving</li>
 <li>Buttered toast, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

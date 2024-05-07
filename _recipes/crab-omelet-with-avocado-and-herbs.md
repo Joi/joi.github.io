@@ -52,9 +52,9 @@ total_time: null
 type: null
 uid: 071AD901-0BB2-4E66-9D84-A9E1D6D9BAE4-51240-00028529DDC784F7
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 eggs</li>
 <li>1 tsp minced parsley, plus extra for garnish</li>
 <li>1 tsp minced chives, plus extra for garnish</li>
@@ -67,4 +67,4 @@ uid: 071AD901-0BB2-4E66-9D84-A9E1D6D9BAE4-51240-00028529DDC784F7
 <li>1/2 avocado, sliced</li>
 <li>1 tbsp sour cream</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

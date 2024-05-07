@@ -50,12 +50,12 @@ total_time: null
 type: null
 uid: 4F3E45E3-005E-45BB-B979-C01932CE279A-15291-00020AB486C3609F
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Instead of bok choy, you can use other strong leafy greens such as Chinese cabbage.</p>
 <p>If you want to go full vegan, replace fish sauce with a tbsp of tomato paste or vegan fish sauce alternative. Replace chicken broth with vegetable broth.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 lb bok choy cleaned and chopped</li>
 <li>1 lb tofu cut into ½ in x ½ in x 1 in rectangles</li>
 <li>1 medium tomato diced</li>
@@ -66,7 +66,7 @@ uid: 4F3E45E3-005E-45BB-B979-C01932CE279A-15291-00020AB486C3609F
 <li>2 Tbsp fish sauce</li>
 <li>Salt and pepper to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Works well in a wok but you can use any sauté pan.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Works well in a wok but you can use any sauté pan.</p>
 <p>Fry tofu and set aside. Remove all but 2 tbsp of oil from wok.</p>
 <p><img src="/images/recipes/ginisang-pechay-with-tofu-5.jpg" alt="5" /></p>
 <p>Chop the onion, garlic and tomato and put in a bowl or vat. Chop the bok choy and shrimp and put in another bowl or vat.</p>

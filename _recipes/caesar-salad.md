@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: 13D6B2E0-FA3D-4E38-9F9A-833F6FE34BD5-408-00004FC8C97124C6
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Salad</li>
 <li>18 oz water</li>
 <li>4 large eggs</li>
@@ -55,4 +55,4 @@ uid: 13D6B2E0-FA3D-4E38-9F9A-833F6FE34BD5-408-00004FC8C97124C6
 <li>¼ tsp salt</li>
 <li>2 ½ oz water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

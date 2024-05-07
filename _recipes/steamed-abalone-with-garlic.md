@@ -54,9 +54,9 @@ total_time: null
 type: null
 uid: 8876E073-DABC-4206-8986-9E5BC4DCF344
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>10 abalone you also can buy it in local market</li>
 <li>1 garlic</li>
 <li>2 dried chili if you can't find the millet pepper, use dried chili to replace</li>
@@ -71,4 +71,4 @@ uid: 8876E073-DABC-4206-8986-9E5BC4DCF344
 <li>20 ml cooking oil</li>
 <li>proper amount chives</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -41,9 +41,9 @@ total_time: null
 type: null
 uid: 353F48D7-7451-4710-AEE2-1A2387D021C8-631-00014E218D327D98
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 large fresh corn on the cob, shucked</li>
 <li>6 tablespoons butter, softened</li>
 <li>1 tablespoon minced fresh parsley</li>
@@ -51,4 +51,4 @@ uid: 353F48D7-7451-4710-AEE2-1A2387D021C8-631-00014E218D327D98
 <li>1 teaspoon garlic salt</li>
 <li>1 teaspoon ground cumin</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

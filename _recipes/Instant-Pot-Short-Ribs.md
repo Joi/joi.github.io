@@ -50,9 +50,9 @@ total_time: null
 type: null
 uid: C2186635-4946-49D4-AB8C-D7D88DE283A3-64741-0002E2EF431210DA
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6 - 10 pieces (1116g) bone-in short ribs (1.5 - 2 inches thick)</li>
 <li>6 cloves garlic , crushed and chopped</li>
 <li>2 (300g) small onions , sliced</li>
@@ -76,4 +76,4 @@ uid: C2186635-4946-49D4-AB8C-D7D88DE283A3-64741-0002E2EF431210DA
 <li>100 ml whole milk</li>
 <li>1 - 2 tablespoons (14g - 28g) unsalted butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -53,9 +53,9 @@ total_time: null
 type: null
 uid: FFBB7F40-1388-4BCD-B2C2-57CE9F8128EC-11450-000001594EE35341
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1.8kg / 3.5 lb lamb shoulder (bone in) (Note 1)</li>
 <li>2 tbsp olive oil</li>
 <li>2 tsp salt</li>
@@ -70,4 +70,4 @@ uid: FFBB7F40-1388-4BCD-B2C2-57CE9F8128EC-11450-000001594EE35341
 <li>2 cups (500ml) beef broth (or 1 cup red wine + 1 cup water)</li>
 <li>Salt and pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

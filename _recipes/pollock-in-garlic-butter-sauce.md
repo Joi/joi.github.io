@@ -44,9 +44,9 @@ total_time: null
 type: null
 uid: B45C4CDB-0EB2-4099-9B31-DCF1D9982EF6-13891-00010239B8BA03CE
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 (6oz) Pollock or Cod fillets, 1/2&quot; thick</li>
 <li>3 tbsp fresh lemon juice</li>
 <li>1 tbsp olive oil</li>
@@ -54,4 +54,4 @@ uid: B45C4CDB-0EB2-4099-9B31-DCF1D9982EF6-13891-00010239B8BA03CE
 <li>4 garlic cloves, minced</li>
 <li>2 tbsp finely chopped parsley</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

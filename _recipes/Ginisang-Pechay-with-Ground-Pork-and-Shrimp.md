@@ -68,7 +68,7 @@ total_time: null
 type: null
 uid: D1802362-2744-4AED-A6DC-2AB29EC1D022-26383-0001720E4DC5724D
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Traditional home cooking from the Philippines. Easy to make and very tasty - a kind of umami bomb of amino acid flavors.</p>
 <p>You can make this without the pork or the shrimp. You can also add tofu. I would suggest harder tofu, chopping the tofu into squares or rectangles and frying before adding to stir fry.</p>
 <p>Instead of bok choy, you can use other strong leafy greens such as Chinese cabbage.</p>
@@ -78,7 +78,7 @@ uid: D1802362-2744-4AED-A6DC-2AB29EC1D022-26383-0001720E4DC5724D
 <p>Works well with asparagus too. <img src="/images/recipes/ginisang-pechay-with-ground-pork-and-shrimp-6.jpg" alt="6" /></p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 lb bok choy cleaned and chopped</li>
 <li>8 oz ground pork</li>
 <li>1 lb chopped or small shrimp</li>
@@ -90,7 +90,7 @@ uid: D1802362-2744-4AED-A6DC-2AB29EC1D022-26383-0001720E4DC5724D
 <li>2 Tbsp fish sauce</li>
 <li>Ground black pepper to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Works well in a wok but you can use any sauté pan.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Works well in a wok but you can use any sauté pan.</p>
 <p><img src="/images/recipes/ginisang-pechay-with-ground-pork-and-shrimp-2.jpg" alt="2" /></p>
 <p>Chop the onion, garlic and tomato and put in a bowl or vat. Chop the bok choy and shrimp and put in another bowl or vat.</p>
 <p>Heat wok and target the [[Leidenfrost effect]].</p>

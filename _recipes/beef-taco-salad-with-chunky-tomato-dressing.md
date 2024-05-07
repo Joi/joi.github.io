@@ -63,9 +63,9 @@ total_time: null
 type: null
 uid: 98A94A41-774B-4C50-A74A-B4CDBBABCF3F-1607-0000008481622952
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For the Meat:</li>
 <li>3/4 pound lean ground beef (90 percent lean or higher)</li>
 <li>2 cloves garlic, minced</li>
@@ -84,4 +84,4 @@ uid: 98A94A41-774B-4C50-A74A-B4CDBBABCF3F-1607-0000008481622952
 <li>1/2 cup grated Cheddar</li>
 <li>2 ounces baked corn tortilla chips (about 32 chips)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

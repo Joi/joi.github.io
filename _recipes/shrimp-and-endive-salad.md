@@ -48,11 +48,11 @@ total_time: null
 type: null
 uid: 2E32CCAE-E32E-464E-8933-8BD80801B7C1-641-0001405C698FD612
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Inspired by a salad that I used to eat at <a href="https://www.ilfornaio.com/"><em>Il Fornaio</em></a>.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Endive</li>
 <li>Shrimp</li>
 <li>Lemon</li>
@@ -62,7 +62,7 @@ uid: 2E32CCAE-E32E-464E-8933-8BD80801B7C1-641-0001405C698FD612
 <li>Salt</li>
 <li>Pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Make a lemon vinegarette.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Make a lemon vinegarette.</p>
 <p>Slice endives into ¼ inch strips.</p>
 <p>[[sous-vide-shrimp|Sous Vide Shrimp]].</p>
 <p>Toss together and top with croutons and parsley.</p>

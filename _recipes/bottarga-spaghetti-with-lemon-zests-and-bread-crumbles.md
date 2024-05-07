@@ -63,9 +63,9 @@ total_time: null
 type: null
 uid: AEACE517-01B0-4020-8BAB-F60093B8D285-13501-0000079F022C4668
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>click on the links and find out my favorites!</li>
 <li>10 oz (280 g) spaghetti</li>
 <li>5 oz (100 g) fresh mullet bottarga</li>
@@ -84,4 +84,4 @@ uid: AEACE517-01B0-4020-8BAB-F60093B8D285-13501-0000079F022C4668
 <li>8 tbsp extra-virgin olive oil</li>
 <li>5 tbsp cooking salt</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

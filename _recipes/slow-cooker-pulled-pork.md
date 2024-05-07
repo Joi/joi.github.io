@@ -51,7 +51,7 @@ total_time: null
 type: null
 uid: EA6FEA54-3211-4BD6-ACBA-885733EB3D60-7512-0002E383427C3CE3
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Pork Roast: You can use a pork butt, sometimes referred to as pork shoulder roast, or a pork loin. For really tender, flavorful pulled pork, pork butt is best, as it is super marbled with fat and will get really tender. A pork loin won't be as tender, but much less fatty and still delicious.</p>
 <p>Apple Juice--beer or stock can be substituted, but the apple juice adds just the right sweetness.</p>
 <p>Apple Cider Vinegar--red wine vinegar can be used if you do not have apple cider vinegar.</p>
@@ -59,7 +59,7 @@ uid: EA6FEA54-3211-4BD6-ACBA-885733EB3D60-7512-0002E383427C3CE3
 <p>Storing Leftovers: Leftover pulled pork can be refrigerated for up to 4 days in the refrigerator or frozen for up to 3 months.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3-4 lbs boneless pork shoulder roast (pork butt) or pork loin</li>
 <li>1 onion diced</li>
 <li>2 tsp salt</li>
@@ -73,4 +73,4 @@ uid: EA6FEA54-3211-4BD6-ACBA-885733EB3D60-7512-0002E383427C3CE3
 <li>1/4 cup honey or brown sugar</li>
 <li>1 8 ounce can tomato sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -55,9 +55,9 @@ total_time: null
 type: null
 uid: 038766EB-B7EA-4DB3-99DC-545B72024A81
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons extra-virgin olive oil</li>
 <li>3 medium cloves garlic, minced (about 1 tablespoon)</li>
 <li>1 medium shallot, minced (about 1/2 cup)</li>
@@ -69,4 +69,4 @@ uid: 038766EB-B7EA-4DB3-99DC-545B72024A81
 <li>1/2 teaspoon freshly ground black pepper</li>
 <li>1 whole butterflied boneneless leg of lamb, carefully trimmed of internal fat and connective tissue, 10 to 12 pounds</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

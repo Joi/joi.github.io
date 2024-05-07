@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: 6CE85452-0552-432B-9997-0D4BF98E4B75-631-0001AC40FCBE07A8
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 center-cut swordfish steaks, about 6 ounces each, one-inch thick</li>
 <li>Salt and freshly ground pepper to taste</li>
 <li>3 tablespoons olive oil</li>
@@ -48,4 +48,4 @@ uid: 6CE85452-0552-432B-9997-0D4BF98E4B75-631-0001AC40FCBE07A8
 <li>2 teaspoons grated lemon rind</li>
 <li>¼ teaspoon red pepper flakes</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

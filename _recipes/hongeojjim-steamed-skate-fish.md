@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: F9B9AC8D-9A56-4FCF-B8AD-DBC5883FEECD-23424-0000117A9AA52104
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 skate wing hongeo 홍어 (about 3/4 to 1-1/4 pounds)</li>
 <li>salt</li>
 <li>Sauce</li>
@@ -59,4 +59,4 @@ uid: F9B9AC8D-9A56-4FCF-B8AD-DBC5883FEECD-23424-0000117A9AA52104
 <li>1 scallion cut into about 4 inches and thinly sliced (pachae, 파채)</li>
 <li>or a handful of spring mix or arugula</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

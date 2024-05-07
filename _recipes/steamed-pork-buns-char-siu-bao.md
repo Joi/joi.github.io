@@ -36,11 +36,11 @@ total_time: null
 type: null
 uid: 2E941E51-A6DE-4FCF-AC16-1474BD78911B-26972-00000F54FB799798
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Kick up the spice level with some red chili peppers, cilantro, or jalapeños. Tiny cubed cucumbers make a fresh, crunchy addition to this Asian favorite. Hint: The beauty of this recipe is that you don't have to stick with pork. Make it a veggie, bean or even seafood bun.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Filling:</li>
 <li>½ teaspoon five-spice powder</li>
 <li>1 pound pork tenderloin, trimmed</li>
@@ -62,4 +62,4 @@ uid: 2E941E51-A6DE-4FCF-AC16-1474BD78911B-26972-00000F54FB799798
 <li>¼ teaspoon salt</li>
 <li>1 ½ teaspoons baking powder</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

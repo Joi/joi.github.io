@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: 2E1ADC94-5666-4B67-A11B-D71BC42DEA96-1358-00013185CA128127
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 to 4 Persian cucumbers (about 3/4 pound)</li>
 <li>½ red onion, diced into 1/4-inch pieces</li>
 <li>2 tablespoons any combination of finely chopped fresh parsley, cilantro, basil or dill</li>
@@ -46,4 +46,4 @@ uid: 2E1ADC94-5666-4B67-A11B-D71BC42DEA96-1358-00013185CA128127
 <li>3 tablespoons extra-virgin olive oil</li>
 <li>Fine sea salt and freshly ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -43,11 +43,11 @@ total_time: null
 type: null
 uid: 6CF0D8FC-A8FE-4D31-A163-38D715503D3D-29053-000401226697C402
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Based on recipe from American Barbecue Sauces by Steven Raichlen.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6 Tbsp cups brown sugar</li>
 <li>½ cup cider vinegar</li>
 <li>¼ cup molasses</li>
@@ -64,7 +64,7 @@ uid: 6CF0D8FC-A8FE-4D31-A163-38D715503D3D-29053-000401226697C402
 <li>1 ½ tsp black pepper</li>
 <li>4 cups ketchup</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Heat all except ketchup in a sauce pan and stir until everything is dissolved. Then add the ketchup and bring to boil and then simmer for 15 to 20 min.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Heat all except ketchup in a sauce pan and stir until everything is dissolved. Then add the ketchup and bring to boil and then simmer for 15 to 20 min.</p>
 <p>Season to taste with salt and pepper and then cool to room temperature.</p>
 <p>This makes a fair amount of sauce so refrigerate and freeze to keep.</p>
 </div>	</div>

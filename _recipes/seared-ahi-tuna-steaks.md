@@ -32,9 +32,9 @@ total_time: null
 type: null
 uid: 4E9D59E9-1176-440A-9C7F-CB0D07C33749-10806-000004EADD4BF7AF
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 (5 ounce) ahi tuna steaks</li>
 <li>1 teaspoon kosher salt</li>
 <li>¼ teaspoon cayenne pepper</li>
@@ -42,4 +42,4 @@ uid: 4E9D59E9-1176-440A-9C7F-CB0D07C33749-10806-000004EADD4BF7AF
 <li>2 tablespoons olive oil</li>
 <li>1 teaspoon whole peppercorns</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

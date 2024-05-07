@@ -32,9 +32,9 @@ total_time: null
 type: null
 uid: CDF030C6-1C2A-4BF6-95CA-72A7FEBC9DFA-96025-0003C0D2A47CF20F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>5 ounces creamy blue cheese, such as Roquefort, Bleu d’Auvergne, or Maytag Blue, crumbled
 1 /2 cup crème fraîche (page 113 ), sour cream, or heavy cream
 1 /4 cup extra-virgin olive oil
@@ -42,4 +42,4 @@ uid: CDF030C6-1C2A-4BF6-95CA-72A7FEBC9DFA-96025-0003C0D2A47CF20F
 1 small garlic clove, finely grated or pounded with a pinch of salt
 Salt</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

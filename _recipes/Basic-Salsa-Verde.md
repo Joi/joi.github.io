@@ -38,13 +38,13 @@ total_time: null
 type: null
 uid: B8A1AF50-039E-416A-967A-19D14C8A70A2-14775-000009F2FBE6BC44
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 Tbsp finely diced shallot (about 1 medium shallot)</li>
 <li>3 Tbsp red wine vinegar</li>
 <li>¼ cup very finely chopped parsley leaves</li>
 <li>¼ cup extra virgin olive oil</li>
 <li>salt</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

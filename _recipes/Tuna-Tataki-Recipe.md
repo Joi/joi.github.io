@@ -37,11 +37,11 @@ total_time: null
 type: null
 uid: 39091A3A-A890-436A-A9C2-58FA599B57F5-533-00000014701D437B
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Ponzu: Homemade recipe, click here.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ lb sashimi grade yellowfin/ahi tuna</li>
 <li>2 Tbsp neutral-flavored oil (vegetable, canola, etc)</li>
 <li>Tataki Sauce:</li>
@@ -55,4 +55,4 @@ uid: 39091A3A-A890-436A-A9C2-58FA599B57F5-533-00000014701D437B
 <li>½ lemon</li>
 <li>Korean Chili Thread</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

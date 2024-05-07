@@ -44,9 +44,9 @@ total_time: 4 hr 30 min
 type: null
 uid: 5E4F61E2-22CC-4E47-A550-BD0266EF9E1C-11634-00000628B8D8587F
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons vegetable oil</li>
 <li>5 pounds bone-in short ribs, at least 1 1/2 inches thick</li>
 <li>Kosher salt and freshly ground pepper</li>
@@ -62,4 +62,4 @@ uid: 5E4F61E2-22CC-4E47-A550-BD0266EF9E1C-11634-00000628B8D8587F
 <li>½ cup finely chopped chives</li>
 <li>1 tablespoon finely grated lemon zest</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -51,9 +51,9 @@ total_time: null
 type: null
 uid: 56396C69-7752-4252-A866-F5C6F25FA4A7-29546-0003F60F7C9EC8AF
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 cup all-purpose flour</li>
 <li>Salt and pepper</li>
 <li>Pinch of cayenne</li>
@@ -66,4 +66,4 @@ uid: 56396C69-7752-4252-A866-F5C6F25FA4A7-29546-0003F60F7C9EC8AF
 <li>A few tarragon leaves, for garnish</li>
 <li>Lemon wedges</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

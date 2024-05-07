@@ -42,9 +42,9 @@ total_time: null
 type: null
 uid: 11DB03F4-CF92-4B19-B8D7-C6A8825CC25C
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 small abalones, 4 to 5 ounces each in shell weight (see note)</li>
 <li>½ cup flour</li>
 <li>6 tablespoons butter</li>
@@ -52,4 +52,4 @@ uid: 11DB03F4-CF92-4B19-B8D7-C6A8825CC25C
 <li>1 tablespoon Meyer lemon or lemon juice</li>
 <li>Fleur de sel</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

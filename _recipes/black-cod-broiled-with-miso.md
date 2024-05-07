@@ -30,12 +30,12 @@ total_time: null
 type: null
 uid: 588E65A2-A0F4-4AE2-8CDC-A33BCC59F986-3872-00007AC0F41AE332
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ cup sugar</li>
 <li>1 cup miso, preferably dark</li>
 <li>½ cup mirin, sake or white wine</li>
 <li>1 ½ to 2 pounds black cod fillets (skin may be on or off)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

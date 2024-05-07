@@ -71,7 +71,7 @@ total_time: 45 min
 type: null
 uid: 7A82E399-1C0A-4A54-B4A6-539CFD569953-89150-0000F342AD89AD55
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>There aren't that many recipes for the spring-only sorrel on the Internet, but one that I see a lot is for Salmon with Sorrel sauce<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>. They seem to be based on the Lá Troigros Sorrel recipe. I pulled a few of them together in this recipe.</p>
 <hr class="footnotes-sep" />
 <section class="footnotes">
@@ -82,7 +82,7 @@ uid: 7A82E399-1C0A-4A54-B4A6-539CFD569953-89150-0000F342AD89AD55
 </section>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 ½ pounds Salmon filets</li>
 <li>Salt and freshly ground pepper</li>
 <li>1 Tbsp extra-virgin olive oil</li>
@@ -113,7 +113,7 @@ uid: 7A82E399-1C0A-4A54-B4A6-539CFD569953-89150-0000F342AD89AD55
 </li>
 </ol>
 </section>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Cook fish, salmon is a good fish to use, your favorite way. I like to reverse sear it by using my Anova Precision oven to get the inner temperature to about 115ºF and then sear them on a cast iron skillet.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Cook fish, salmon is a good fish to use, your favorite way. I like to reverse sear it by using my Anova Precision oven to get the inner temperature to about 115ºF and then sear them on a cast iron skillet.</p>
 <p>While you are cooking the fish:</p>
 <p>Heat a good-sized heavy bottomed saucepan over medium-high heat, adding the shallots, wine, vermouth, dashi-kombu, and stock to the pot all at once. Bring to a boil and adjust heat so it comes to a gently simmer. Cook down until the liquid is getting thick, almost syrupy. Prepare for it to take awhile if your stock is thin.</p>
 <p>Pull the pan from the heat and remove the dashi-kombu, discarding or saving for another use.</p>

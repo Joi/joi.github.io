@@ -75,17 +75,17 @@ total_time: ''
 type: null
 uid: 1FA70E5D-F935-4CF0-A888-E3BA23727406-2241-0001DD41E9775259
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Inspired by Food Lab.</p>
 <p>Serve with [[oxtail-jus|Oxtail Jus]].</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Prime Rib</li>
 <li>Salt</li>
 <li>Pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Dry brine prime rib the day before.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Dry brine prime rib the day before.</p>
 <p>Set oven to lowest temperature. (170ºF on Wolf or 135ºF Sous Vide Mode 100% humidity on Anova Precision Oven)</p>
 <p>Roast prime rib on rack until internal temperature hits 130ºF (medium rare) and remove from oven. (5 hours for 3 pound prime rib in my oven which hovered around 160ºF on &quot;roast&quot; setting.)</p>
 <p>Tent with foil and rest for 30 min - 1 ½ hours.</p>

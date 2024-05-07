@@ -46,9 +46,9 @@ total_time: null
 type: null
 uid: 9F594289-F2B5-4895-9E02-10B0154A5BDA
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 (8-ounce) lamb rib chops, trimmed (about 2 inches thick)</li>
 <li>½ teaspoon kosher salt, divided</li>
 <li>½ teaspoon freshly ground black pepper, divided</li>
@@ -62,4 +62,4 @@ uid: 9F594289-F2B5-4895-9E02-10B0154A5BDA
 <li>½ cup fat-free, less-sodium chicken broth</li>
 <li>1 ½ cups hot cooked couscous</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

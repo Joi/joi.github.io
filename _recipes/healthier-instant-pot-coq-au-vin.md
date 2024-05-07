@@ -55,9 +55,9 @@ total_time: null
 type: null
 uid: FC2E6004-A0DF-4072-942F-2CD0ABC8870F-15576-00000957B542A641
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2-3 slices thick cut bacon, chopped</li>
 <li>1 yellow onion, chopped</li>
 <li>4 cloves garlic, minced or grated</li>
@@ -73,4 +73,4 @@ uid: FC2E6004-A0DF-4072-942F-2CD0ABC8870F-15576-00000957B542A641
 <li>1/2 cup fresh parsley, chopped</li>
 <li>mashed potatoes, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

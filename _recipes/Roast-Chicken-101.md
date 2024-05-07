@@ -42,13 +42,13 @@ total_time: null
 type: null
 uid: 9CA8E908-CB87-4646-B9E4-EA9617ADEFFF-79834-000040B32B39656B
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 whole Chicken</li>
 <li>2 tsp Kosher salt</li>
 <li>2 tsp Granulated garlic or garlic powder</li>
 <li>2 tsp Smoked paprika</li>
 <li>2 Tbsp High smoke point oil, like grapeseed</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

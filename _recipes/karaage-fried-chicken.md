@@ -31,9 +31,9 @@ total_time: null
 type: null
 uid: B5CB3D85-5F56-4DEA-8B0E-16F818C57CF9-11450-0000734FA8EB7460
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 lb skin-on chicken thigh, cubed</li>
 <li>1 tablespoon sake</li>
 <li>1 teaspoon sugar</li>
@@ -44,4 +44,4 @@ uid: B5CB3D85-5F56-4DEA-8B0E-16F818C57CF9-11450-0000734FA8EB7460
 <li>⅓ cup potato starch</li>
 <li>cooking oil, for frying</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

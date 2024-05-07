@@ -65,9 +65,9 @@ total_time: null
 type: null
 uid: F9C94DDA-D67E-44EA-97A1-FAC3FBD30001-38082-0000B5D45C73F184
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 pounds boneless beef chuck (well-marbled), cut into 1-1/2-inch pieces</li>
 <li>2 teaspoons salt</li>
 <li>1 teaspoon freshly ground black pepper</li>
@@ -87,4 +87,4 @@ uid: F9C94DDA-D67E-44EA-97A1-FAC3FBD30001-38082-0000B5D45C73F184
 <li>1 pound small white boiling potatoes (baby yukons), cut in half</li>
 <li>Fresh chopped parsley, for serving (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

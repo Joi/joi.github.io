@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: 4973017F-D72F-41C6-BC8B-31212FA8878D-7512-00015A6C9A2FD409
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 (6-ounce) cod fillets or other flaky white fish</li>
 <li>Kosher salt</li>
 <li>2 tablespoons canola or vegetable oil</li>
@@ -57,4 +57,4 @@ uid: 4973017F-D72F-41C6-BC8B-31212FA8878D-7512-00015A6C9A2FD409
 <li>Lime wedges (from 1 lime), for serving</li>
 <li>Flaky salt (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

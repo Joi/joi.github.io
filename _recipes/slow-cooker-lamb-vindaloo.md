@@ -42,9 +42,9 @@ total_time: null
 type: null
 uid: 09066227-5003-411C-8E32-5498E85CACB5-13891-0000A7D9BF188E66
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>3 onions, chopped fine</li>
 <li>3 tablespoons vegetable oil</li>
@@ -64,4 +64,4 @@ uid: 09066227-5003-411C-8E32-5498E85CACB5-13891-0000A7D9BF188E66
 <li>Salt and pepper</li>
 <li>¼ cup minced fresh cilantro</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

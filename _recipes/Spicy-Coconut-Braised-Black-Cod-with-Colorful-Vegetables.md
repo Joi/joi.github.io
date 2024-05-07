@@ -69,9 +69,9 @@ total_time: null
 type: null
 uid: 37776CF7-F041-4781-8709-86CD56695119-32901-000016CE5DB55070
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons chopped fresh mint</li>
 <li>2 tablespoons chopped fresh cilantro</li>
 <li>1 cup bean sprouts</li>
@@ -92,4 +92,4 @@ uid: 37776CF7-F041-4781-8709-86CD56695119-32901-000016CE5DB55070
 <li>2 tablespoons lime juice</li>
 <li>Lime wedges</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

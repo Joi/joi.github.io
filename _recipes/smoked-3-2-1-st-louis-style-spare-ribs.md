@@ -32,9 +32,9 @@ total_time: null
 type: null
 uid: 3179CA05-3048-4C58-A798-B62AF92FA3A9-1710-0000012FA261F246
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 (or more) racks of spare ribs</li>
 <li>Yellow mustard</li>
 <li>Jeff's original rub recipe (Purchase formula here | Purchase bottled rub)</li>
@@ -43,4 +43,4 @@ uid: 3179CA05-3048-4C58-A798-B62AF92FA3A9-1710-0000012FA261F246
 <li>Jeff’s original rub recipe</li>
 <li>Heavy duty foil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -45,9 +45,9 @@ total_time: null
 type: null
 uid: 9B74B7CA-62C2-4033-9E59-1F75127E33F9-631-00014DB89A1ACAAB
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/4 cup extra-virgin olive oil</li>
 <li>3 tbsp fresh lemon juice</li>
 <li>20 large shrimp</li>
@@ -57,4 +57,4 @@ uid: 9B74B7CA-62C2-4033-9E59-1F75127E33F9-631-00014DB89A1ACAAB
 <li>1 1/2 ripe Hass avocados</li>
 <li>1 tbsp coarsely chopped fresh tarragon</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: E557AA97-6162-49E3-A7E6-7D32CC383B53-11450-00014F58E1107A53
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 (6-ounce) skin-on bluefish fillets (or substitute mackerel, trout or thin salmon fillets)</li>
 <li>1 tablespoon peanut, grapeseed or safflower oil</li>
 <li>1 stalk lemongrass, or use lemon or lime zest (see note)</li>
@@ -54,4 +54,4 @@ uid: E557AA97-6162-49E3-A7E6-7D32CC383B53-11450-00014F58E1107A53
 <li>Fresh cilantro, as needed</li>
 <li>Cooked rice, for serving (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

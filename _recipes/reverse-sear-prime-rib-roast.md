@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: 5EE80B5F-AD7C-45F8-82FB-6BAB98ABE0C6-17635-00000CA22423AE75
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 (10 pound) bone-in standing rib roast</li>
 <li>2 tablespoons kosher salt</li>
 <li>½ cup butter, softened</li>
@@ -43,4 +43,4 @@ uid: 5EE80B5F-AD7C-45F8-82FB-6BAB98ABE0C6-17635-00000CA22423AE75
 <li>2 tablespoons chopped fresh thyme</li>
 <li>1 pinch ground black pepper to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

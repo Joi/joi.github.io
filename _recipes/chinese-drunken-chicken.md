@@ -35,11 +35,11 @@ total_time: null
 type: null
 uid: B76B7DAF-A787-4560-9648-F78FE157368C-11990-0000076B958BFF4B
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Note: We did this dish with equal parts wine and broth. You can change the ratio according to your own tastes, whether you like a stronger or lighter wine taste. But beware…upping the ratio of wine can make the chicken bitter, so proceed with caution.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li><strong>For Stage 1: Preparing the Chicken &amp; Stock</strong></li>
 <li>2 chicken leg quarters</li>
 <li>2 ½ cups water</li>
@@ -52,4 +52,4 @@ uid: B76B7DAF-A787-4560-9648-F78FE157368C-11990-0000076B958BFF4B
 <li>2 1/2 teaspoons sea salt</li>
 <li>1 tablespoon dried goji berries/wolfberries</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

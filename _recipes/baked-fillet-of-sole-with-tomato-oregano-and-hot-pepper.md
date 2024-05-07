@@ -35,9 +35,9 @@ total_time: null
 type: null
 uid: BFE78D55-A480-488D-A2B5-0BF0A9EE79C2-9067-00012E904010BAA3
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>⅔ cup onion, very thinly sliced</li>
 <li>3 tablespoons extra-virgin olive oil</li>
 <li>½ teaspoon finely chopped garlic</li>
@@ -48,4 +48,4 @@ uid: BFE78D55-A480-488D-A2B5-0BF0A9EE79C2-9067-00012E904010BAA3
 <li>Fresh black pepper or chopped hot red chilies, to taste</li>
 <li>2 pounds gray sole fillet</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

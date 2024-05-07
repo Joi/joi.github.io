@@ -57,18 +57,18 @@ total_time: null
 type: null
 uid: 36A76453-1BC6-44FF-A21C-1BC30580CED0-631-0002C95B214A28BC
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Some recipes add tarragon, paprika or thyme and sliced lemon or oregano, thyme, garlic and rosemary.</p>
 <p>With a 5.5 lb chicken, at 45 min it was 10 degrees too hot.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Whole Chicken</li>
 <li>Salt &amp; Pepper</li>
 <li>Light Olive Oil</li>
 <li>Butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Prepare the day before:</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Prepare the day before:</p>
 <p>Spatchcock whole chicken and dry brine the day before with salt and pepper. Use approximately ½ tsp of salt per pound of chicken. Lift skin on breast and separate and season under the skin as well.</p>
 <p>Cooking:</p>
 <p>Pre-heat oven to 450ºF. (Recipes range between 400 and 450ºF).</p>

@@ -43,9 +43,9 @@ total_time: null
 type: null
 uid: B613650A-FD95-4CC8-9FA7-5D471391D9A2-23547-00000F3378FBE633
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1-inch section of ginger, peeled and finely chopped</li>
 <li>2 garlic cloves, crushed</li>
 <li>Juice of one lemon</li>
@@ -54,4 +54,4 @@ uid: B613650A-FD95-4CC8-9FA7-5D471391D9A2-23547-00000F3378FBE633
 <li>2 tablespoons olive oil</li>
 <li>4 swordfish steaks</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

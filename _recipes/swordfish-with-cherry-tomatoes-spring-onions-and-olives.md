@@ -47,9 +47,9 @@ total_time: 20 min
 type: null
 uid: 9A326EFB-785C-4A08-AB48-730DD76C683B-23547-00000F32F55738AA
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>LIST OF INGREDIENTS</li>
 <li>21 OZ. of swordfish, 1 1/2 to 2 inches thick</li>
 <li>12 OZ. of spring onions</li>
@@ -62,4 +62,4 @@ uid: 9A326EFB-785C-4A08-AB48-730DD76C683B-23547-00000F32F55738AA
 <li>Extravirgin olive oil</li>
 <li>Salt</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -32,9 +32,9 @@ total_time: null
 type: null
 uid: 13476F9D-7A43-4D7A-AADA-B1E987D20773-49934-00002509433332EE
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>frozen porcini mushrooms</li>
 <li>white wine</li>
 <li>salt</li>
@@ -42,4 +42,4 @@ uid: 13476F9D-7A43-4D7A-AADA-B1E987D20773-49934-00002509433332EE
 <li>parsley</li>
 <li>olive oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

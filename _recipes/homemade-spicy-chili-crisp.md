@@ -42,9 +42,9 @@ total_time: null
 type: null
 uid: A5C7986F-8D32-4873-9DD1-8C35C00E925A-1060-00002C840901C185
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>27g (1 cup) dried árbol chilies, stems removed (see note)</li>
 <li>20g (3/4 cup) dried chiles japones, stems removed (see note)</li>
 <li>25g (3/4 cup) dried Kashmiri red chilies, stems removed (see note)</li>
@@ -63,4 +63,4 @@ uid: A5C7986F-8D32-4873-9DD1-8C35C00E925A-1060-00002C840901C185
 <li>2 cups (200g) thinly sliced shallots (about 1mm thick)</li>
 <li>3/4 cup (65g) thinly sliced garlic (about 1mm thick)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

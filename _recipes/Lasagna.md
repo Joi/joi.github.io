@@ -41,9 +41,9 @@ total_time: null
 type: null
 uid: 6F6C35A4-9968-4D48-BB77-EB7ACB3DB08B-50715-0006C481622BC914
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>
 <h2>Meat Sauce</h2>
 </li>
@@ -160,4 +160,4 @@ uid: 6F6C35A4-9968-4D48-BB77-EB7ACB3DB08B-50715-0006C481622BC914
 </ul>
 </li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -54,9 +54,9 @@ total_time: null
 type: null
 uid: FF152B59-4FDC-41E6-9C93-6A95ED09083E-25037-0000A041D3575177
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6 cups chicken stock</li>
 <li>1 celery rib, cut in chunks</li>
 <li>1 small onion, halved</li>
@@ -69,4 +69,4 @@ uid: FF152B59-4FDC-41E6-9C93-6A95ED09083E-25037-0000A041D3575177
 <li>1/2 head romaine lettuce, coarsely shredded</li>
 <li>Worcestershire sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -44,9 +44,9 @@ total_time: null
 type: null
 uid: 1274CF3F-4DDF-41CF-8CA0-B90D39F94A99-89150-0000F2DC0488DFB5
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 large bone-in T-bone or ribeye steak (see note)</li>
 <li>Kosher salt and freshly ground black pepper</li>
 <li>1/4 cup (60ml) vegetable or canola oil</li>
@@ -54,4 +54,4 @@ uid: 1274CF3F-4DDF-41CF-8CA0-B90D39F94A99-89150-0000F2DC0488DFB5
 <li>6 sprigs thyme or rosemary (optional)</li>
 <li>1/2 cup finely sliced shallots (about 1 large; optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -40,9 +40,9 @@ total_time: null
 type: null
 uid: 5B6917F2-640D-4C88-9C8A-6191234AF3DF-21766-00000C52AD8F7FBA
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>16 ounces boneless skinless chicken breasts 4 ounce each</li>
 <li>1 tablespoon olive oil</li>
 <li>1/2 teaspoon sea salt</li>
@@ -62,4 +62,4 @@ uid: 5B6917F2-640D-4C88-9C8A-6191234AF3DF-21766-00000C52AD8F7FBA
 <li>4 slices tomato or 8 smaller slices</li>
 <li>4 seeded hamburger buns or your favorite hamburger bun</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

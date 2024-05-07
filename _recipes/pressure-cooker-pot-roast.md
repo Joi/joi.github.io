@@ -40,9 +40,9 @@ total_time: null
 type: null
 uid: FB77B4E0-C583-4E0D-B54F-B9A9609CE833-407-00004C642237C3D7
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>FOR THE POT ROAST:</li>
 <li>4 pounds beef chuck roast, cut in half</li>
 <li>Kosher salt and black pepper</li>
@@ -61,4 +61,4 @@ uid: FB77B4E0-C583-4E0D-B54F-B9A9609CE833-407-00004C642237C3D7
 <li>7 ounces frozen pearl onions (or 1 yellow or red onion, peeled and thinly sliced)</li>
 <li>Kosher salt</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -63,12 +63,12 @@ total_time: null
 type: null
 uid: CB5616BE-378B-4E49-BD72-A9B439D968A7-89150-000287A752BD566F
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>The chuck eye steak was a bit dry - try 30 min instead of 45 next time.</p>
 <p>Was a mashup between the Instant Pot Pot Roast and Making Meat Tender and Succulent recipes.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Chuck Eye Steak</li>
 <li>4 cloves garlic, smashed and sliced vertically</li>
 <li>2 medium onions</li>
@@ -87,4 +87,4 @@ uid: CB5616BE-378B-4E49-BD72-A9B439D968A7-89150-000287A752BD566F
 <li>Pepper</li>
 <li></li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

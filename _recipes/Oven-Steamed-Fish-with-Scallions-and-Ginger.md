@@ -53,11 +53,11 @@ total_time: null
 type: null
 uid: 77B98054-DBCB-470E-83E9-62B8E4A68906-408-00004DC1BC68E0B3
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Used Dutch oven instead of baking pan. Also used a remote thermometer. Worked well.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>8 scallions, trimmed, divided</li>
 <li>1 (3-inch) piece ginger, peeled, divided</li>
@@ -72,4 +72,4 @@ uid: 77B98054-DBCB-470E-83E9-62B8E4A68906-408-00004DC1BC68E0B3
 <li>2 tablespoons vegetable oil</li>
 <li>⅓ cup fresh cilantro leaves and thin stems</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

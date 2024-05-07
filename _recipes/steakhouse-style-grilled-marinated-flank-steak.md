@@ -51,9 +51,9 @@ total_time: null
 type: null
 uid: D3C390CB-B1AA-48D6-B5C4-76888EF3EE6D
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/2 cup Worcestershire sauce</li>
 <li>1/4 cup soy sauce</li>
 <li>3 tablespoons brown sugar</li>
@@ -66,4 +66,4 @@ uid: D3C390CB-B1AA-48D6-B5C4-76888EF3EE6D
 <li>1 medium shallot, minced (about 2 tablespoons)</li>
 <li>1 whole flank steak, about 2 pounds (see note)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

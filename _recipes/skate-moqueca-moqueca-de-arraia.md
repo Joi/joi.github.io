@@ -52,9 +52,9 @@ total_time: 1 hr 10 min
 type: null
 uid: D81F7CB5-3C38-48A6-A04A-57D9DB0997BD-22544-000412688449837C
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 lbs (1 kg) skate wings</li>
 <li>1 clove garlic, finely chopped</li>
 <li>juice of one lime</li>
@@ -65,4 +65,4 @@ uid: D81F7CB5-3C38-48A6-A04A-57D9DB0997BD-22544-000412688449837C
 <li>1/4 cup cilantro, finely chopped</li>
 <li>salt and pepper to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -51,11 +51,11 @@ total_time: null
 type: null
 uid: EA3F9380-CD76-4171-85AF-AAD6C1D07C2D-15576-00000958A7284C6F
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>I used about a pound of chicken thighs in this recipe. Anything around that mark (or even up to 1.5 lbs. or so) would work. I discuss more on why I chose this cut of chicken within the blog post.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6 strips bacon chopped into small pieces</li>
 <li>6 boneless, skinless chicken thighs</li>
 <li>2 large carrots chopped</li>
@@ -69,4 +69,4 @@ uid: EA3F9380-CD76-4171-85AF-AAD6C1D07C2D-15576-00000958A7284C6F
 <li>1 tablespoon cornstarch + 2 tablespoons cold water</li>
 <li>Salt &amp; pepper to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

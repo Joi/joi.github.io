@@ -37,9 +37,9 @@ total_time: null
 type: null
 uid: 84255C51-8942-404E-9413-E21B40E8EB85-1060-00016B930CE05A83
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 (8 bone) rack or lamb</li>
 <li>4 medium cloves of garlic, skinned, stemmed, pressed, crushed, or minced</li>
 <li>3 tablespoons finely chopped fresh rosemary or 2 teaspoons dried</li>
@@ -48,4 +48,4 @@ uid: 84255C51-8942-404E-9413-E21B40E8EB85-1060-00016B930CE05A83
 <li>Coarse salt to taste</li>
 <li>Optional. Add 1 tablespoon finely chopped fresh mint leaves.</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

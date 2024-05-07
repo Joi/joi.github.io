@@ -40,11 +40,11 @@ total_time: null
 type: null
 uid: 9D39BED7-AD2F-4037-8244-914EAAAD5587-19099-00000BD49E4ACC48
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Broth (without tapioca) can be made 2 days ahead and cooled completely, uncovered, then chilled, covered.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For mushroom sauce:</li>
 <li>1 small leek (white and pale green parts only), chopped</li>
 <li>1 tablespoon olive oil</li>
@@ -74,4 +74,4 @@ uid: 9D39BED7-AD2F-4037-8244-914EAAAD5587-19099-00000BD49E4ACC48
 <li>1/8 teaspoon black pepper</li>
 <li>1 1/2 tablespoons unsalted butter</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

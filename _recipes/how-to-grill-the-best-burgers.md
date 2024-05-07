@@ -46,9 +46,9 @@ total_time: null
 type: null
 uid: C790DDE4-4C85-4870-80E6-D2507EC38892-1358-000121CF217FC385
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 pounds 80/20 ground beef, cold</li>
 <li>4 cloves minced garlic</li>
 <li>2 tablespoons minced onion</li>
@@ -58,4 +58,4 @@ uid: C790DDE4-4C85-4870-80E6-D2507EC38892-1358-000121CF217FC385
 <li>6 hamburger buns</li>
 <li>Butter for buns</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

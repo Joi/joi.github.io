@@ -52,11 +52,11 @@ total_time: null
 type: null
 uid: 25E7695C-45CC-443A-9E8B-0956C890816B-38601-0000AC1F428C81E0
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Lemon was too strong. Will try with less next time.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 small lemons</li>
 <li>1 Tbs. unsalted butter</li>
 <li>2 tsp. extra-virgin olive oil; more as needed</li>
@@ -69,4 +69,4 @@ uid: 25E7695C-45CC-443A-9E8B-0956C890816B-38601-0000AC1F428C81E0
 <li>Freshly ground black pepper</li>
 <li>2 Tbs. thinly sliced chives</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

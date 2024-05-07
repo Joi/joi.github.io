@@ -81,9 +81,9 @@ total_time: null
 type: null
 uid: 26BDEFE4-BCF0-4D3F-94CF-BEA0CD6258FB-22216-00016D86FF0F7C21
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>CURRY - USE ONE:</li>
 <li>4 - 6 tbsp Thai Green Curry Paste (Maesri best) OR (Note 1)</li>
 <li>1 quantity homemade green curry paste (Note 1)</li>
@@ -109,4 +109,4 @@ uid: 26BDEFE4-BCF0-4D3F-94CF-BEA0CD6258FB-22216-00016D86FF0F7C21
 <li>Green or red chillies slices , optional</li>
 <li>Steamed jasmine rice</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -48,11 +48,11 @@ total_time: null
 type: null
 uid: 33351D7B-15D1-410E-B962-EB6233737326-3951-0000025E910495AA
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>2020-07-12 Salty at this level. Should probably have been half.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 pound large shrimp peeled and deveined (you can either leave tails on or remove them)</li>
 <li>1/4 cup olive oil</li>
 <li>2 tablespoons lemon juice</li>
@@ -63,4 +63,4 @@ uid: 33351D7B-15D1-410E-B962-EB6233737326-3951-0000025E910495AA
 <li>1 tablespoon chopped parsley</li>
 <li>lemon wedges for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

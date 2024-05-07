@@ -46,9 +46,9 @@ total_time: null
 type: null
 uid: D21590BB-EC09-472F-BD99-DA395EE0C0C1-83053-00018930316CBE48
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 bone-in pork rib chops, preferably blade-end, 1 1/2 inches thick (12 to 16 ounces each)</li>
 <li>2 tablespoons kosher salt</li>
 <li>1 1/2 teaspoons sugar</li>
@@ -58,4 +58,4 @@ uid: D21590BB-EC09-472F-BD99-DA395EE0C0C1-83053-00018930316CBE48
 <li>1 medium shallot, thinly sliced</li>
 <li>8 sprigs fresh thyme</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

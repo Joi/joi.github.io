@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: BE5EEE4D-1ABA-4AA5-8C91-EC260B903F88-408-00004C55FF1A633E
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>3 tablespoons unsalted butter, very cold</li>
 <li>24 tablespoons European-style butter, very cold (3 sticks)</li>
@@ -52,4 +52,4 @@ uid: BE5EEE4D-1ABA-4AA5-8C91-EC260B903F88-408-00004C55FF1A633E
 <li>1 large egg</li>
 <li>1 teaspoon cold water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -39,13 +39,13 @@ total_time: 45 min
 type: null
 uid: CA1FD559-CB27-4BD2-8710-02EF9E0DDB1C-631-00014E37CD374A8D
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 lb / 1.36 kg Raw natural casing sausages such as Bratwurst or Italian</li>
 <li>6 oz / 180 ml Beer for cooking (optional)</li>
 <li>2 tsp / 10 ml Kosher Salt (optional)</li>
 <li>1 tbsp / 15 ml Butter or Vegetable Oil</li>
 <li>Buns and condiments for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -35,7 +35,7 @@ total_time: null
 type: null
 uid: 24F546B1-42B7-4D60-ABE4-CC08689C9C56-89150-0000F22507B4A841
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Prep time does not include time to let the dough rise.</p>
 <p>Always check the expiration date on your yeast and make sure it hasn't expired. All your yeast products whether it’s in a jar or a package should be stamped with a “Best if Used by” date. Always make sure you check this date, even when you purchase the yeast, who knows it could have been on the shelf past its expiry date.</p>
 <p>To keep your yeast fresh and longer lasting, unopened yeast packages or jars should be stored in a cool or dry place such as your cupboard. However, you can also store your yeast in the fridge or freezer. If you do store it in the freezer and need to use yeast for your baking, make sure you take out the amount you need and let it sit at room temperature for at least half hour before using.</p>
@@ -47,10 +47,10 @@ uid: 24F546B1-42B7-4D60-ABE4-CC08689C9C56-89150-0000F22507B4A841
 <p>How do I know when my bread is done baking: Tap the bottom! Take the bread out of the Dutch oven, turn it upside down and give the bottom a firm thump with your thumb, or a knock and if it sounds hollow it's done.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 cups whole wheat flour</li>
 <li>2 tsp salt</li>
 <li>3/4 tsp active dry yeast</li>
 <li>2 cups water room temperature</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

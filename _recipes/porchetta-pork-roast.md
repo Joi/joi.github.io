@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: 6F983221-8568-4D59-A9B6-B07AE5C641D7-1358-00012EF59374CF81
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 (7- to 8-pound) bone-in, skin-on pork shoulder roast, or a 6- to 7-pound boneless roast, fat trimmed to 1/4-inch thickness</li>
 <li>¼ cup chopped fennel fronds</li>
 <li>¼ cup chopped fresh rosemary</li>
@@ -49,4 +49,4 @@ uid: 6F983221-8568-4D59-A9B6-B07AE5C641D7-1358-00012EF59374CF81
 <li>½ teaspoon black pepper</li>
 <li>¼ cup extra-virgin olive oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

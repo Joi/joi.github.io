@@ -61,9 +61,9 @@ total_time: null
 type: null
 uid: 0AB6A58A-FAA7-4F82-B415-BF9E7A5336A3-1607-00000068D3208916
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 pound ground beef</li>
 <li>Kosher salt and freshly ground black pepper</li>
 <li>One 10-ounce package white mushrooms, halved or quartered if large</li>
@@ -81,4 +81,4 @@ uid: 0AB6A58A-FAA7-4F82-B415-BF9E7A5336A3-1607-00000068D3208916
 <li>3 tablespoons chopped fresh chives</li>
 <li>3 tablespoons chopped fresh parsley leaves</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

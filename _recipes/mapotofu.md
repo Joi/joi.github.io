@@ -41,9 +41,9 @@ total_time: 20 min
 type: null
 uid: 85A8D61A-8BBC-4544-AC35-B1A2ACB9F45C-651-000004AC8C2DBD66
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>木綿豆腐  1丁（400g）</li>
 <li>ねぎ  1/3本</li>
 <li>豚ひき肉  100g</li>
@@ -61,4 +61,4 @@ uid: 85A8D61A-8BBC-4544-AC35-B1A2ACB9F45C-651-000004AC8C2DBD66
 <li>しょうゆ  大さじ1</li>
 <li>こしょう  少々</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -90,9 +90,9 @@ total_time: null
 type: null
 uid: 4BEE23AC-2D81-4286-95B1-C03143055FB4-13002-00059228C79F4EF4
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 chunks monkfish fillet, about 6 ounces each, skin and translucent membrane removed</li>
 <li>Salt</li>
 <li>1/2 cup mild-tasting olive oil</li>
@@ -108,4 +108,4 @@ uid: 4BEE23AC-2D81-4286-95B1-C03143055FB4-13002-00059228C79F4EF4
 <li>About 1-1/2 cups cooked white beans, drained, cooking liquid reserved</li>
 <li>About 1/2 cup [[-aioli-sauce| Aioli Sauce]]</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

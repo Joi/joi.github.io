@@ -43,9 +43,9 @@ total_time: null
 type: null
 uid: 9A6EAC2A-6CB6-46B7-864F-AFC4286C7F67-1607-00011D64756ECA14
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>5 tablespoons Finlandia Unsalted Butter, divided</li>
 <li>1 tablespoon fresh minced garlic</li>
 <li>1 cup white wine</li>
@@ -54,4 +54,4 @@ uid: 9A6EAC2A-6CB6-46B7-864F-AFC4286C7F67-1607-00011D64756ECA14
 <li>1/3 cup chopped fresh Italian parsley</li>
 <li>Wedges from 1 lemon for garnish, if desired</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

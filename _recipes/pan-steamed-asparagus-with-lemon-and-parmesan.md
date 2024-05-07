@@ -32,9 +32,9 @@ total_time: null
 type: null
 uid: DCDDDC95-30FB-46A9-9C77-EF71A5F39C6F-408-00004DDD21AABD57
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>2 pounds asparagus</li>
 <li>1 teaspoon grated lemon zest plus 1 tablespoon juice</li>
@@ -45,4 +45,4 @@ uid: DCDDDC95-30FB-46A9-9C77-EF71A5F39C6F-408-00004DDD21AABD57
 <li>½ teaspoon table salt</li>
 <li>¼ cup shredded Parmesan cheese</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

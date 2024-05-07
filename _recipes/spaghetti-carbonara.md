@@ -34,9 +34,9 @@ total_time: null
 type: null
 uid: 0EA15B08-8D2B-4915-9BD6-2B9715A46DA3-13501-000007A282FB44B2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Salt</li>
 <li>2 large eggs and 2 large yolks, room temperature</li>
 <li>1 ounce (about 1/3 packed cup) grated pecorino Romano, plus additional for serving</li>
@@ -46,4 +46,4 @@ uid: 0EA15B08-8D2B-4915-9BD6-2B9715A46DA3-13501-000007A282FB44B2
 <li>3 ½ ounces of slab guanciale (see recipe), pancetta or bacon, sliced into pieces about 1/4 inch thick by 1/3 inch square</li>
 <li>12 ounces spaghetti (about 3/4 box)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

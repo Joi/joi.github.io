@@ -30,11 +30,11 @@ total_time: null
 type: null
 uid: 00962179-B6B1-4D15-9816-D9BCCE4D47EE-1406-000076913CBB212F
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Based on Don't Waste The Crumbs Recipe</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 Tbsp Raw Apple Cider Vinegar</li>
 <li>1 Tbsp Fresh Lemon Juice</li>
 <li>¼ tsp Ginger</li>
@@ -43,4 +43,4 @@ uid: 00962179-B6B1-4D15-9816-D9BCCE4D47EE-1406-000076913CBB212F
 <li>1/4 tsp Turmeric</li>
 <li>1/8 tsp Cinnamon</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

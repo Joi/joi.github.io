@@ -71,7 +71,7 @@ total_time: null
 type: null
 uid: E8295B90-08BF-47B0-8A78-D4EE0321AB0A-16044-0004D5090ADE87C7
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><ol>
 <li>
 <p>Lemongrass - To prepare, cut in half, peel the reedy green shell to reveal the softer white part on the bottom half of the lemongrass. If lemongrass is hard to come by, you can use PASTE: stir in 1 tbsp.</p>
@@ -82,7 +82,7 @@ uid: E8295B90-08BF-47B0-8A78-D4EE0321AB0A-16044-0004D5090ADE87C7
 </ol>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>300g / 10oz whole prawns / shrimp with heads and shells on (Note 7)</li>
 <li>BROTH:</li>
 <li>3 cup (750 ml) water</li>
@@ -104,4 +104,4 @@ uid: E8295B90-08BF-47B0-8A78-D4EE0321AB0A-16044-0004D5090ADE87C7
 <li>1 1/2 tbsp Thai roasted chili sauce (Nam Prik Pa, Note 6)</li>
 <li>1/3 cup (75 ml) evaporated milk</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -45,11 +45,11 @@ total_time: null
 type: null
 uid: E8F3081A-B668-4CA7-B29A-87BDB467CD7F-29053-00040F43EB49D4B4
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>If your beef back ribs come already separated into individual ribs, bake them just four hours.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1/2 cup apple cider vinegar</li>
 <li>2 tablespoons hot pepper sauce</li>
 <li>2 racks beef back ribs, 2 lb. each</li>
@@ -60,4 +60,4 @@ uid: E8F3081A-B668-4CA7-B29A-87BDB467CD7F-29053-00040F43EB49D4B4
 <li>1 teaspoon onion powder</li>
 <li>1 teaspoon garlic powder</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

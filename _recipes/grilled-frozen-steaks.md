@@ -31,8 +31,8 @@ total_time: null
 type: null
 uid: B9D39425-8C39-45F0-856B-99C3DC05E181-408-00004E2AFBF58157
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Seems like a lot of work considering how much longer you have to cook...</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients">	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients">	</div>	<div class="columns large-6 small-12" id="directions">	</div>

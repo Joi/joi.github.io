@@ -38,11 +38,11 @@ total_time: null
 type: null
 uid: 9B1AB1E8-BE10-4F36-B0F0-9E37B79BF387-4647-00010AE1B323C85C
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Edited recipe after first try. Reduced milk from 2 cups -&gt; 1 cup. Reduced Cream Cheese from 4 ounces to 2 ounces. Increase other cheese from zero to 4 ounces. Added 2 large eggs.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 pound elbows, shells, cavatappi, farfalle, fusilli or other short, tube-shaped pasta</li>
 <li>Kosher salt</li>
 <li>1 cups whole milk</li>
@@ -53,4 +53,4 @@ uid: 9B1AB1E8-BE10-4F36-B0F0-9E37B79BF387-4647-00010AE1B323C85C
 <li>3 tablespoons unsalted butter</li>
 <li>Freshly ground pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

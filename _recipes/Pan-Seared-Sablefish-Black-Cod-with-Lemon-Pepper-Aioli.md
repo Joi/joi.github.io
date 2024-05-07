@@ -36,9 +36,9 @@ total_time: null
 type: null
 uid: 717583BD-BDAB-495B-B7E0-35E49908A3DF-70156-0000F2CE1CE3A25E
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For the Aioli:</li>
 <li>1 egg yolk</li>
 <li>2 tablespoons Dijon mustard (we love Edmond Fallot)</li>
@@ -61,4 +61,4 @@ uid: 717583BD-BDAB-495B-B7E0-35E49908A3DF-70156-0000F2CE1CE3A25E
 <li>2 tablespoons lemon juice</li>
 <li>Salt and pepper, to taste</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

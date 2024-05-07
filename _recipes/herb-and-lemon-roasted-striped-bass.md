@@ -41,9 +41,9 @@ total_time: null
 type: null
 uid: 59E1E9FF-24C4-4DE7-B748-2883DC367149-31407-000013DEAD39F4E1
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 (6-ounce) striped bass fillets</li>
 <li>1 lemon</li>
 <li>1 tablespoon extra-virgin olive oil</li>
@@ -52,4 +52,4 @@ uid: 59E1E9FF-24C4-4DE7-B748-2883DC367149-31407-000013DEAD39F4E1
 <li>1/4 teaspoon salt</li>
 <li>1/4 teaspoon freshly ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

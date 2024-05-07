@@ -36,9 +36,9 @@ total_time: null
 type: null
 uid: 22A573CB-290E-48B6-95B4-8902C6D0388E-407-00004B19D7C22E2D
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 ½ pounds boneless, skinless chicken thighs</li>
 <li>1 ½ cups jarred salsa verde</li>
 <li>1 (4-ounce) can chopped mild green chiles</li>
@@ -53,4 +53,4 @@ uid: 22A573CB-290E-48B6-95B4-8902C6D0388E-407-00004B19D7C22E2D
 <li>Fresh lime juice, to taste</li>
 <li>Any combination of rice, tortillas, pepitas, queso fresco, diced avocado and crushed tortilla chips, for serving</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

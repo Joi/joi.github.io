@@ -46,9 +46,9 @@ total_time: null
 type: null
 uid: C888788B-88DB-4A36-90E2-6DC9A5F6FC2A-13288-000008518665F880
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 tablespoons butter, olive oil or neutral-tasting oil</li>
 <li>2 medium onions, diced</li>
 <li>3 cloves garlic, sliced</li>
@@ -57,4 +57,4 @@ uid: C888788B-88DB-4A36-90E2-6DC9A5F6FC2A-13288-000008518665F880
 <li>About 1 1/2 pounds raw, boneless chicken (optional)</li>
 <li>About 8 cups water or chicken stock, preferably homemade (see notes)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

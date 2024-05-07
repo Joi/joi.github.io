@@ -48,9 +48,9 @@ total_time: null
 type: null
 uid: DB94AE8A-FA95-4677-8D0C-8AFA94F2D790-52325-0002D2402562F413
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 ½ cups all-purpose flour (Optional: For extra crispness, substitute rice flour for half of the all-purpose flour)</li>
 <li>1 teaspoon baking powder</li>
 <li>½ teaspoon ground cayenne pepper</li>
@@ -59,4 +59,4 @@ uid: DB94AE8A-FA95-4677-8D0C-8AFA94F2D790-52325-0002D2402562F413
 <li>1 ¼ cups vodka, ice-cold</li>
 <li>About 1 ½ cups lager beer, ice-cold</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

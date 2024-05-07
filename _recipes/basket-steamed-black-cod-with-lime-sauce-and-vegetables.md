@@ -38,9 +38,9 @@ total_time: null
 type: null
 uid: 14BC06EE-D1A3-4FED-9AEA-DFC8D9E946CA-32901-000016CE07BC2947
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Cloves from 1/2 head of garlic, peeled and trimmed</li>
 <li>1 lower stalk lemon grass, outer leaf removed and cut into 1/2&quot; slices.</li>
 <li>1 cup cilantro, including stems</li>
@@ -59,4 +59,4 @@ uid: 14BC06EE-D1A3-4FED-9AEA-DFC8D9E946CA-32901-000016CE07BC2947
 <li>2-3 limes, thinly sliced</li>
 <li>Trimmed and sliced vegetables, such as baby bok choy, mushrooms, zucchini, paddy pan squash, etc...</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

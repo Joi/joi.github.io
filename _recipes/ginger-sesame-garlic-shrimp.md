@@ -55,9 +55,9 @@ total_time: null
 type: null
 uid: CE5FA6A7-C9CA-4754-A273-4A972D908B91-96025-000361F98DBB2F68
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Marinade:</li>
 <li>1/4 cup soy sauce (use gluten-free soy sauce for gluten-free version)</li>
 <li>2 tablespoons seasoned rice vinegar</li>
@@ -72,4 +72,4 @@ uid: CE5FA6A7-C9CA-4754-A273-4A972D908B91-96025-000361F98DBB2F68
 <li>3 green onions, including onion greens, sliced on the diagonal</li>
 <li>1 Tbsp sesame seeds, toasted</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

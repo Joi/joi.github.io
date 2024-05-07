@@ -78,7 +78,7 @@ total_time: null
 type: null
 uid: 8B5C2EF0-0083-44A2-8EF0-481AB89C4B2C-15576-00000956C4D5C2D1
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>What is an Instant Pot: An Instant Pot is a multi-cooker, it’s like seven different appliances all in one! It does the job of a slow cooker, pressure cooker, rice cooker, steamer, yogurt maker, etc. I strongly recommend reading the manufacturer’s guide for instructions on how to use your Instant Pot before attempting this recipe.</p>
 <p>Note: The Instant Pot will default to 30 minutes when set on Poultry, use the down arrow to change to 5 minutes.</p>
 <p>Half and half can be found near the milk and cream in the dairy section of your local grocery store. Half and half is a blend of equal parts whole milk and light cream. It averages 10 to 12% of fat.</p>
@@ -86,7 +86,7 @@ uid: 8B5C2EF0-0083-44A2-8EF0-481AB89C4B2C-15576-00000956C4D5C2D1
 <p>Storage: You can store this chicken tikka masala recipe in the fridge for up to 4 days in an airtight container. It freezes well as well, for up to 3 months. Be sure to thaw it completely before reheating on the stove.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>Chicken Tikka</li>
 <li>2 lb chicken skinless and boneless, I used both chicken breast and thighs, cut into cubes2 lb chicken skinless and boneless, I used both chicken breast and thighs, cut into cubes</li>
 <li>1 1/2 cups plain yogurt I used Greek1 1/2 cups plain yogurt I used Greek</li>
@@ -112,4 +112,4 @@ uid: 8B5C2EF0-0083-44A2-8EF0-481AB89C4B2C-15576-00000956C4D5C2D1
 <li>2 tbsp butter unsalted2 tbsp butter unsalted</li>
 <li>3 tbsp cilantro fresh, chopped for garnish3 tbsp cilantro fresh, chopped for garnish</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

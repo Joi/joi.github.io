@@ -70,9 +70,9 @@ total_time: null
 type: null
 uid: 47365C63-5584-4742-8622-94EF89CC996B-25037-0000A09454C82C98
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 3-4 pound chicken (1.350 to 1.800 g)</li>
 <li>1 medium onion, chopped</li>
 <li>2 leeks, white parts only, thoroughly washed and sliced</li>
@@ -89,4 +89,4 @@ uid: 47365C63-5584-4742-8622-94EF89CC996B-25037-0000A09454C82C98
 <li>2 teaspoons salt</li>
 <li>3 quarts cold water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -36,14 +36,14 @@ total_time: null
 type: null
 uid: 575F63FF-B0FB-46BE-88D0-28D47028307A
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Notes on Pressure Cooker Oxtails</p>
 <p>It’s best if all your oxtails are medium sized oxtails that are similar in size. If you can’t get them the same size, no worries. It’ll still work.</p>
 <p>Oxtail that is too fatty will lead to fatty gravy. You want some fat, just not too much fat. If you’re oxtail is extremely fatty, use a paring knife to remove some of the excess fat.</p>
 <p>Scotch Bonnet is typically used for this recipe. If you can’t find a scotch bonnet, a habanero can be substituted. You could also use about 1-2 tsp of this scotch bonnet pepper sauce.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2.5 lbs oxtails</li>
 <li>¼ cup brown sugar</li>
 <li>1 Tbsp soy sauce</li>
@@ -66,4 +66,4 @@ uid: 575F63FF-B0FB-46BE-88D0-28D47028307A
 <li>1 Tbsp cornstarch</li>
 <li>1 16 oz can Butter Beans drained</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -53,9 +53,9 @@ total_time: null
 type: null
 uid: B6C8D6E6-0AC3-4C10-80EA-EBE1130CBD0C-31637-000013E2E2498393
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 shallots, minced</li>
 <li>1 red bell pepper, diced small</li>
 <li>12 ounces mixed cherry tomatoes, halved (quarter any obnoxiously large ones)</li>
@@ -70,4 +70,4 @@ uid: B6C8D6E6-0AC3-4C10-80EA-EBE1130CBD0C-31637-000013E2E2498393
 <li>1/4 cup julienned basil leaves</li>
 <li>Freshly ground black pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -60,11 +60,11 @@ total_time: null
 type: null
 uid: 60AB7A1E-18FD-4C49-953F-55FD0C9A8CFE-40248-00027200CB6AB66D
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Instead of gravy, sauce your duck with cranberry coulis. The tartness of the berries cuts through the rich, fatty meat of the duck.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>For Simmering:</li>
 <li>1 5- to 6-pound duck</li>
 <li>1 large yellow onion (peeled, trimmed, and quartered)</li>
@@ -82,4 +82,4 @@ uid: 60AB7A1E-18FD-4C49-953F-55FD0C9A8CFE-40248-00027200CB6AB66D
 <li>1 small onion (peeled, trimmed and quartered)</li>
 <li>2 cloves garlic</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

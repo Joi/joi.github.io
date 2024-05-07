@@ -32,13 +32,13 @@ total_time: null
 type: null
 uid: E2D3A29F-1034-4BD7-9633-0EF992A95660-4181-0001E27BEC161880
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6  star anise pods</li>
 <li>1 ½ teaspoons whole cloves (or 1 1/4 teaspoon ground)</li>
 <li>1 cinnamon stick (3 inches long ) or two tablespoons ground</li>
 <li>2 tablespoons fennel seeds</li>
 <li>2 teaspoons Szechuan peppercorns</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

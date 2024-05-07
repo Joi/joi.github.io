@@ -61,13 +61,13 @@ total_time: null
 type: null
 uid: A1E99D4A-2290-4DB8-A6FE-7D304CBE7E39-1700-00007F835E4D8814
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Dough is based on <em>24- to 48-Hour Pizza Dough</em> from p. 119 of <em>The Elements of Pizza</em> by Ken Forkish. Sauce is based on the <em>FWSY Sauce</em> from the same book on p. 146.</p>
 </div></div>		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Ken Forkish and my sister recommend Caputo 00 Pizza Flour. It will come out crispy and light. If you add all-purpose flour, it will make the dough chewier.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li><strong>Dough</strong></li>
 <li>350 g water</li>
 <li>17 g kosher salt</li>
@@ -89,7 +89,7 @@ uid: A1E99D4A-2290-4DB8-A6FE-7D304CBE7E39-1700-00007F835E4D8814
 <li>Pepperoni (optional)</li>
 <li>Dried oregano (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><h3>Dough</h3>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><h3>Dough</h3>
 <ol>
 <li>Put 350 grams of 90ºF - 95ºF water into a plastic dough tub.</li>
 <li>Add 17 grams of kosher salt (or 13 grams of sea salt) into the tub and stir until dissolved.</li>

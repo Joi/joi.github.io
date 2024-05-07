@@ -50,9 +50,9 @@ total_time: null
 type: null
 uid: 7C0675AB-90B1-4664-8D5D-4CCFD60BE942-17729-00000957E00C53DF
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>8 cups (2 litres) chicken broth</li>
 <li>1 lb (454 g) skinless, boneless white-fleshed fish fillets</li>
 <li>2 large leeks, sliced (white and green parts separate)</li>
@@ -63,4 +63,4 @@ uid: 7C0675AB-90B1-4664-8D5D-4CCFD60BE942-17729-00000957E00C53DF
 <li>2 tbsp (30 ml) olive oil</li>
 <li>Salt and pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

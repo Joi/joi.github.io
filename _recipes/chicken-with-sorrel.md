@@ -42,11 +42,11 @@ total_time: null
 type: null
 uid: 9E0A43DB-249C-4E4F-A5AC-328C0E31AC22
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="description"><h4>Description</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="description"><h4>Description</h4>
 <div class="box box-description content"><p>Based on <a href="https://cooking.nytimes.com/recipes/6815-chicken-with-sorrel?smid=ck-recipe-iOS-share">a NYT recipe</a> and mashed with staged cooking of chicken parts inspired by <a href="https://www.cooksillustrated.com/recipes/11400-braised-chicken-with-basil-and-tomato">Cook's Illustrated's Braised Chicken with Basil and Tomato recipe</a>.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 Tbsp light oil</li>
 <li>2 Tbsp butter</li>
 <li>1 2 ½ - to 3-pound chicken, cut into serving pieces</li>
@@ -54,7 +54,7 @@ uid: 9E0A43DB-249C-4E4F-A5AC-328C0E31AC22
 <li>1 large or 2 medium onions, peeled and cut into ¼-inch slices</li>
 <li>6 cups loosely packed sorrel, about ½ lb, trimmed and washed</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Break down chicken into 10 parts - drum stick, thighs, breast into 4 parts, wings. Save the back and wing tips for stock.</p>
+</div>	</div>	<div class="columns large-6 small-12" id="directions"><h4>Directions</h4><div class="box box-directions content"><p>Break down chicken into 10 parts - drum stick, thighs, breast into 4 parts, wings. Save the back and wing tips for stock.</p>
 <p>Dry brine chicken with salt and pepper overnight.</p>
 <p>Preheat oven to 300 if using.</p>
 <p>Before cooking, dredge chicken pieces in flour (or not). I add a bit of extra salt and pepper, but not too much since it's dry brined.</p>

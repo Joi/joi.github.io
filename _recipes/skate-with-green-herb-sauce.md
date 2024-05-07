@@ -49,9 +49,9 @@ total_time: null
 type: null
 uid: D70BB223-B592-4380-9825-6647483A4115-19099-00000BF685ACFEA9
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons basil leaves, finely chopped</li>
 <li>2 tablespoons chives, finely chopped</li>
 <li>2 tablespoons capers, finely chopped</li>
@@ -64,4 +64,4 @@ uid: D70BB223-B592-4380-9825-6647483A4115-19099-00000BF685ACFEA9
 <li>all-purpose flour, for dusting</li>
 <li>Salt and pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

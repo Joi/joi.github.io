@@ -37,7 +37,7 @@ total_time: null
 type: null
 uid: 40C2E60A-8F0B-4AF9-9A1E-07E1334645D9-20587-0000089478BD8670
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Was easy and nice, but was overcooked at 80 min.</p>
 <p>Brining:</p>
 <p>The basic brine is water and salt. For a 4- to 5-pound chicken, make a brine with about 1 gallon of water and 1 cup kosher salt. Sometimes, I change it up and use 1/2 cup kosher salt and 1/2 cup sugar. You also can substitute cider, juices and even beer or wine for some of the water.</p>
@@ -49,7 +49,7 @@ uid: 40C2E60A-8F0B-4AF9-9A1E-07E1334645D9-20587-0000089478BD8670
 <p>3 teaspoons Diamond Crystal kosher salt = 2¼ teaspoons Morton kosher salt = 1½ teaspoons table salt</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>GATHER YOUR INGREDIENTS</li>
 <li>1 whole roasting chicken (4 1/2 to 5 pounds), giblets removed and discarded, wings tucked under back (see note)</li>
 <li>2 teaspoons kosher salt or 1 teaspoon table salt</li>
@@ -62,4 +62,4 @@ uid: 40C2E60A-8F0B-4AF9-9A1E-07E1334645D9-20587-0000089478BD8670
 <li>1 medium sprig fresh rosemary (optional)</li>
 <li>½ - 1 teaspoon juice from 1 lemon</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

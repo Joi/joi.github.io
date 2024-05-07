@@ -58,9 +58,9 @@ total_time: null
 type: null
 uid: D50B1680-9217-4AFB-8ADE-AE2DB0AA2B5C-39194-00002108E5B96BEC
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>4 salmon fillets, skin off (or Trout or any white fish)</li>
 <li>Salt and pepper, to season</li>
 <li>2 teaspoons olive oil</li>
@@ -76,4 +76,4 @@ uid: D50B1680-9217-4AFB-8ADE-AE2DB0AA2B5C-39194-00002108E5B96BEC
 <li>1 teaspoon cornstarch (cornflour) mixed with 1 tablespoons of water (optional)**</li>
 <li>1 tablespoon fresh parsley chopped</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

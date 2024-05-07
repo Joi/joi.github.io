@@ -31,9 +31,9 @@ total_time: null
 type: null
 uid: 20B902DA-FBD0-4411-8520-D0C31A1B2EB3-408-00004F927B86A8EA
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ oz vegetable oil</li>
 <li>½ oz fresh ginger, thinly sliced</li>
 <li>18 oz pork spare ribs, cut into pieces (2 in.)</li>
@@ -42,4 +42,4 @@ uid: 20B902DA-FBD0-4411-8520-D0C31A1B2EB3-408-00004F927B86A8EA
 <li>2 oz rice vinegar</li>
 <li>1 oz soy sauce</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -32,7 +32,7 @@ total_time: null
 type: null
 uid: 6841B537-E74F-4F36-AAA5-1F702A69BCB7-29053-0004183AC71EA44D
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>LAMB ROAST DONENESS TEMPERATURE CHART
 Preferred Doneness	Degrees F	Degrees C
 Rare				120-129°F	(49-54°C)
@@ -42,7 +42,7 @@ Medium Well			145-154°F	(63-67°C)
 Well Done			155-164°F	(68-73°C)</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 Tbsp chopped fresh rosemary</li>
 <li>6 garlic cloves, minced</li>
 <li>1 Tbsp chopped fresh oregano</li>
@@ -53,4 +53,4 @@ Well Done			155-164°F	(68-73°C)</p>
 <li>2 Frenched racks of lamb, each consisting of 7 ribs</li>
 <li>Olive oil</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

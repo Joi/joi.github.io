@@ -47,9 +47,9 @@ total_time: null
 type: null
 uid: 119E1982-6FAB-46AD-8A8B-D8945845E767-9255-00001EFB8739A000
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>OATS</li>
 <li>1/2 cup unsweetened plain almond milk (or sub other dairy-free milks, such as coconut, soy, or hemp!)</li>
 <li>3/4 Tbsp chia seeds</li>
@@ -60,4 +60,4 @@ uid: 119E1982-6FAB-46AD-8A8B-D8945845E767-9255-00001EFB8739A000
 <li>Flaxseed meal or additional chia seed</li>
 <li>Granola</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

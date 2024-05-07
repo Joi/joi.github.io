@@ -44,9 +44,9 @@ total_time: null
 type: null
 uid: 925BC2D4-5E40-4CE6-B62B-49042E1643E5-22544-000439DB3B695B3A
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>5 to 6 cups of chicken stock, preferably homemade (1,250 to 1,500 ml)</li>
 <li>1 tablespoon olive oil</li>
 <li>1 small onion, minced</li>
@@ -56,4 +56,4 @@ uid: 925BC2D4-5E40-4CE6-B62B-49042E1643E5-22544-000439DB3B695B3A
 <li>Salt</li>
 <li>Freshly ground ground pepper</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

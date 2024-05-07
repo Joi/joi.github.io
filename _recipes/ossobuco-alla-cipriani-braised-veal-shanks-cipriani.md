@@ -78,14 +78,14 @@ total_time: null
 type: null
 uid: E180BD94-AC3C-451E-9238-78D97C67B764-22544-0003AA78C45EC856
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Unfortunately, this recipe is not online, but only in <a href="https://www.amazon.com/Harrys-Bar-Cookbook-Reminiscences-World-Famous/dp/0553070304/">the book</a>. The rough directions are to sear the shanks in oil and remove them from the Dutch oven and drain the oil. Then sauté the vegetables. Add wine and deglaze. Then add the tomato and stock. Make sure the meat is mostly covered with the braising liquid.Then put the Dutch oven in the oven at 300ºF for 3 hours. (In an Anova oven, set to 50% steam and leave the lid off.)</p>
 <p>Once the meat is fork tender, plate onto heated plates and put the Dutch oven on the stove. Boil down if too thick. Add the gremolada and stir for about a minute and spoon sauce over meat.</p>
 <p><img src="/images/recipes/ossobuco-alla-cipriani-braised-veal-shanks-cipriani-3.jpg" alt="beef oso buco" /></p>
 <p>I tried it with beef osso buco and it came out great.</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>½ cup olive oil or more as needed (125 mL)
 2 veal shanks, cut into 1 1/2 to 2-inch ( 4 to 5 cm) slices</li>
 <li>Salt</li>
@@ -105,4 +105,4 @@ uid: E180BD94-AC3C-451E-9238-78D97C67B764-22544-0003AA78C45EC856
 <li>2 tablespoons chopped fresh basil</li>
 <li>1 teaspoon chopped fresh rosemary</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

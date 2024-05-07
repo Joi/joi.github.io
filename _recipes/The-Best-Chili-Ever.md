@@ -61,7 +61,7 @@ total_time: null
 type: null
 uid: 10BBAF95-58C8-433E-B2F4-1BA5DB1741F3-23012-0000124E0AE6CF20
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>This is my first chili recipe, but we like it so much I've stuck to this recipe each time I've made chili since. I make it with short ribs. It's a fair amount of work but it produces quite a bit of chili which I freeze in 1 qt bags. It freezes well and tastes good when slowly warmed back up.</p>
 <p>The <a href="https://www.seriouseats.com/recipes/2010/01/the-best-chili-recipe.html">full recipe is on the Serious Eats site.</a></p>
 <p><img src="/images/recipes/the-best-chili-ever-2.jpg" alt="short ribs" /></p>
@@ -71,7 +71,7 @@ uid: 10BBAF95-58C8-433E-B2F4-1BA5DB1741F3-23012-0000124E0AE6CF20
 <p><em>Before it goes in for the slow cook in the oven.</em></p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 pound (450g) dried dark red kidney beans</li>
 <li>Kosher salt</li>
 <li>4 quarts (3.8L) water</li>
@@ -112,4 +112,4 @@ uid: 10BBAF95-58C8-433E-B2F4-1BA5DB1741F3-23012-0000124E0AE6CF20
 <li>Saltines</li>
 <li>Fritos</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

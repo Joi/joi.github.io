@@ -37,9 +37,9 @@ total_time: null
 type: null
 uid: 898D38DA-42A6-439A-827B-3937E5B5F7F8-89150-0001DFF5064B7E67
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 - 3 pounds (1176g) USDA choice grade chuck roast or Canada AAA grade blade roast (two inches or five cm thick)</li>
 <li>4 cloves garlic , minced</li>
 <li>2 small onions , sliced</li>
@@ -58,4 +58,4 @@ uid: 898D38DA-42A6-439A-827B-3937E5B5F7F8-89150-0001DFF5064B7E67
 <li>1 ½ tablespoon (12g) cornstarch</li>
 <li>2 tablespoons (30ml) water</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -38,9 +38,9 @@ total_time: 10 min
 type: null
 uid: 37886CE3-E80A-4074-BEC1-A7FEB25A418F-88379-000549A6F5DF0BBD
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>まぐろの角切り(刺身用) １８０ｇ</li>
 <li>しょうゆ、コチュジャン 各小さじ２</li>
 <li>にんにくチューブ ２ｃｍ</li>
@@ -51,4 +51,4 @@ uid: 37886CE3-E80A-4074-BEC1-A7FEB25A418F-88379-000549A6F5DF0BBD
 <li>万能ねぎ(小口切り) 少々</li>
 <li>一味唐辛子 少々</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

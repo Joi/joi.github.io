@@ -29,6 +29,6 @@ total_time: null
 type: null
 uid: EC1575F2-8530-4E54-8D3D-AB1FD496EF7E-6466-000004766464E1E1
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients">	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients">	</div>	<div class="columns large-6 small-12" id="directions">	</div>

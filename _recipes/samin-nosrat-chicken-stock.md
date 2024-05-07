@@ -55,14 +55,14 @@ total_time: null
 type: null
 uid: C601E9C0-C4D5-46AE-A477-AA39294FDA0D-2209-00006094A0ADA430
 ---
-<div class="large-8 medium-7 columns" id="writeup">		<div id="notes"><h4>Notes</h4>
+<div class="columns large-7 small-12" id="writeup">		<div id="notes"><h4>Notes</h4>
 <div class="box box-notes"><p>Kenji in The Food Lab says that simmering maxes out at 4 hrs...</p>
 </div></div>	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>7 pounds chicken bones (at least half should be raw) 7 quarts water</li>
 <li>2 onions, unpeeled, quartered 2 carrots, peeled and halved crosswise 2 celery stalks, halved crosswise 1 teaspoon black peppercorns 2 bay leaves</li>
 <li>4 thyme sprigs</li>
 <li>5 parsley sprigs or 10 stems 1 teaspoon white wine vinegar</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -56,9 +56,9 @@ total_time: null
 type: null
 uid: 81BAACED-D790-4CD6-8E8B-B7A976D4B615-91238-0000339D03421337
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 cup Panko breadcrumbs</li>
 <li>1/3 cup milk</li>
 <li>1 pound ground beef</li>
@@ -74,4 +74,4 @@ uid: 81BAACED-D790-4CD6-8E8B-B7A976D4B615-91238-0000339D03421337
 <li>1/2 teaspoon black pepper</li>
 <li>1/4 teaspoon crushed red pepper flakes</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

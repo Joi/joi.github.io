@@ -39,9 +39,9 @@ total_time: null
 type: null
 uid: 3FDF0EF7-4FDE-4B9B-9C89-4D2772A34338-16595-00010556CF740A82
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 pounds carrots, peeled, trimmed and halved if more than 1/2-inch thick</li>
 <li>2 pounds parsnips, peeled, trimmed and halved if more than 1/2-inch thick</li>
 <li>4 tablespoons butter or extra virgin olive oil</li>
@@ -49,4 +49,4 @@ uid: 3FDF0EF7-4FDE-4B9B-9C89-4D2772A34338-16595-00010556CF740A82
 <li>Freshly squeezed lemon juice</li>
 <li>Chopped fresh parsley, dill, mint, basil or chervil leaves for garnish (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

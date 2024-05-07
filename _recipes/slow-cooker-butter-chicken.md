@@ -36,9 +36,9 @@ total_time: null
 type: null
 uid: AD9AE9FD-055E-4CB3-9F75-C9A884CA619A-407-00004B4D6A521E4B
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>3 tablespoons vegetable oil</li>
 <li>1 medium yellow onion, diced</li>
 <li>3 cloves garlic, finely chopped</li>
@@ -55,4 +55,4 @@ uid: AD9AE9FD-055E-4CB3-9F75-C9A884CA619A-407-00004B4D6A521E4B
 <li>Cooked basmati or jasmine rice, for serving</li>
 <li>Naan, for serving (optional)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

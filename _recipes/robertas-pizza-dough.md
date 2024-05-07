@@ -40,13 +40,13 @@ total_time: null
 type: null
 uid: 571C019F-B7B2-4CF9-AD16-2CC3BE6EE9E4-55272-0000273A4BC61E71
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>153 grams 00 flour (1 cup plus 1 tablespoon)</li>
 <li>153 grams all-purpose flour (1 cup plus 1 tablespoon and 2 teaspoons)</li>
 <li>8 grams fine sea salt (1 teaspoon)</li>
 <li>2 grams active dry yeast (3/4 teaspoon)</li>
 <li>4 grams extra-virgin olive oil (1 teaspoon)</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

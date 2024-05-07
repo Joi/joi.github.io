@@ -64,9 +64,9 @@ total_time: null
 type: null
 uid: D3E70F76-8A68-4AD8-8725-A359CA2D231A-408-0000001C0E3F872C
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>2 tablespoons of olive oil</li>
 <li>2 tablespoons unsalted butter</li>
 <li>1 medium onion, diced</li>
@@ -84,4 +84,4 @@ uid: D3E70F76-8A68-4AD8-8725-A359CA2D231A-408-0000001C0E3F872C
 <li>1/3 cup tomato sauce</li>
 <li>Freshly grated Parmesan cheese</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

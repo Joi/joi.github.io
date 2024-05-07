@@ -37,9 +37,9 @@ total_time: null
 type: null
 uid: 570E9D2D-CE28-4E47-8EE7-3C314B75EB4A-2334-0002361B59397453
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>6 chicken legs, thigh and drumstick together</li>
 <li>Kosher salt and black pepper to taste</li>
 <li>All-purpose flour, for dredging</li>
@@ -54,4 +54,4 @@ uid: 570E9D2D-CE28-4E47-8EE7-3C314B75EB4A-2334-0002361B59397453
 <li>3 cups chicken stock, or water</li>
 <li>2 tablespoons roughly chopped parsley leaves</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>

@@ -33,9 +33,9 @@ total_time: null
 type: null
 uid: A2C1D3A5-6BAB-47AE-B15E-D7E4F4B559F1-53878-00004CEED8E59BC2
 ---
-<div class="large-8 medium-7 columns" id="writeup">	</div><!-- #writeup -->
+<div class="columns large-7 small-12" id="writeup">	</div><!-- #writeup -->
 </div><!-- #row-one -->
-<div class="row" id="row-two">	<div class="medium-4 small-5 columns" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
+<div class="row" id="row-two">	<div class="columns large-4 small-12" id="ingredients"><h4>Ingredients</h4><div class="box box-ingredients content"><ul>
 <li>1 tsp dried instant yeast</li>
 <li>or ½ oz fresh yeast</li>
 <li>10 oz water</li>
@@ -44,4 +44,4 @@ uid: A2C1D3A5-6BAB-47AE-B15E-D7E4F4B559F1-53878-00004CEED8E59BC2
 <li>18 oz bread flour</li>
 <li>1 tsp salt</li>
 </ul>
-</div>	</div>	<div class="medium-6 small-7 columns" id="directions">	</div>
+</div>	</div>	<div class="columns large-6 small-12" id="directions">	</div>
