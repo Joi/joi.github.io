@@ -553,7 +553,8 @@ for id, child in children.items():
 
 # Add to cats_hack ------------------------------------------------------------
 cats_hack['dimensions_tree'] = children[root_id]['children']
-
+# pretty print json to console:
+# print(json.dumps(children, indent=4))
 
 # @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 #
